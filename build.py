@@ -289,7 +289,7 @@ control and the scrape never saw it. The text is not lost from the archive
 translated mechanically:</p>
 <pre class="rewrite">groups.google.com/g/{GROUP}/c/<b>KWekwiRSa2I</b>
         &darr;
-    <i>this site</i>/t/<b>KWekwiRSa2I</b>/</pre>
+  usenet.krcg.org/t/<b>KWekwiRSa2I</b>/</pre>
 <p>Within a thread, <code>#m0</code> is the first message, <code>#m1</code> the
 second, and so on. The <span class="permalink">#</span> beside each author name
 is that message's own link.</p>
@@ -414,6 +414,11 @@ def main() -> int:
     shutil.copyfile(here / "static" / "site.css", out / "site.css")
     write(out / ".nojekyll", "")
     write(out / "robots.txt", "User-agent: *\nAllow: /\n")
+    # The custom domain lives in git, not only in the repository settings, so
+    # that it survives a Pages reconfiguration and is obvious to a reader.
+    cname = here / "CNAME"
+    if cname.exists():
+        shutil.copyfile(cname, out / "CNAME")
 
     if args.base_url:
         base = args.base_url.rstrip("/")

@@ -5,7 +5,7 @@ published as a static website so that the
 [VTES rulings database](https://github.com/vtes-biased/vtes-rulings) can cite it
 instead of Google Groups.
 
-**[Browse the archive →](https://vtes-biased.github.io/newsgroup-archive/)**
+**[Browse the archive →](https://usenet.krcg.org/)**
 
 ## What is in here
 
@@ -43,7 +43,7 @@ into the old archive translates mechanically:
 
 ```
 groups.google.com/g/rec.games.trading-cards.jyhad/c/KWekwiRSa2I
-    → vtes-biased.github.io/newsgroup-archive/t/KWekwiRSa2I/
+    → usenet.krcg.org/t/KWekwiRSa2I/
 ```
 
 Within a thread, `#m0` is the first message, `#m1` the second, and so on. These
