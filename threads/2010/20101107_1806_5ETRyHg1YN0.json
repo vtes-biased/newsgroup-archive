@@ -1,0 +1,28 @@
+{
+  "ThreadId": "5ETRyHg1YN0",
+  "Group": "rec.games.trading-cards.jyhad",
+  "Url": "https://archive.org/details/usenet-rec",
+  "Title": "(LSJ) Third Nocturn",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Nov 7, 2010, 6:06:59\u202FPM",
+      "Body": "Hi,\n\n- Suppose a vampire plays sup' Nocturn, sup' Nocturn and untaps.\nThe second sup' Nocturn cost him 1 (base cost) +1 (increased cost from\n1rst Nocturn).\n\nNow, he wants to play a third Nocturn. Is this Nocturn's cost 1 (base\ncost) +1 (increased cost from 1rst Nocturn) +1 (increased cost from\n2nd Nocturn), or is it just 1 (base cost) +1 (increased cost from\nredundant 1rst and 2nd Nocturns) ?\n\n- Suppose he plays sup' Nocturn, inf' Nocturn and untaps.\nCan he play a third Nocturn?\n\nThanks,\nPascal\n\n\n~~\n\nNocturn\nCardtype: \tAlly\nCost: \t1 blood\nDiscipline: \tObtenebration\nDemon with 1 life. 1 strength, 1 bleed.\n[obt] Move Nocturn to the ready region when recruited. If this is this\nvampire's first successful recruit action this turn, he or she untaps.\nNocturn can play non-ally cards that require basic Obtenebration as a\nvampire. Burn Nocturn during your untap phase.\n[OBT] As above, and this vampire may perform this action again this\nturn, with the cost increased by 1 blood."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Nov 7, 2010, 6:22:18\u202FPM",
+      "Body": "floppyzedolfin <floppyzedolfin@gmail.com> wrote:\n> Hi,\n\n> - Suppose a vampire plays sup' Nocturn, sup' Nocturn and untaps.\n> The second sup' Nocturn cost him 1 (base cost) +1 (increased cost from\n> 1rst Nocturn).\n\n> Now, he wants to play a third Nocturn. Is this Nocturn's cost 1 (base\n> cost) +1 (increased cost from 1rst Nocturn) +1 (increased cost from\n> 2nd Nocturn), or is it just 1 (base cost) +1 (increased cost from\n> redundant 1rst and 2nd Nocturns) ?\n\nVTES English, and actually regular English, here.\nThe word \"additional\" stacks by default.\nSo the 1st Nocturn costs 1. The second Nocturn costs 2.\nThe third Nocturn costs 3. The fourth Nocturn costs 4.\nThe n'th Nocturn costs n blood.\n\n> - Suppose he plays sup' Nocturn, inf' Nocturn and untaps.\n> Can he play a third Nocturn?\n\nNo. Card text only provides the repeat-action at superior.\n\n\n> ~~\n\n> Nocturn\n> Cardtype:       Ally\n> Cost:   1 blood\n> Discipline:     Obtenebration\n> Demon with 1 life. 1 strength, 1 bleed.\n> [obt] Move Nocturn to the ready region when recruited. If this is this\n> vampire's first successful recruit action this turn, he or she untaps.\n> Nocturn can play non-ally cards that require basic Obtenebration as a\n> vampire. Burn Nocturn during your untap phase.\n> [OBT] As above, and this vampire may perform this action again this\n> turn, with the cost increased by 1 blood."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Nov 7, 2010, 6:47:20\u202FPM",
+      "Body": "On 7 nov, 18:22, Jozxyqk <jfeue...@eecs.tufts.edu> wrote:\n> floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> > - Suppose he plays sup' Nocturn, inf' Nocturn and untaps.\n> > Can he play a third Nocturn?\n>\n> No. Card text only provides the repeat-action at superior.\n\nThe first one was played a sup' - does this mean the \"repeatable\" part\nonly lasts till it gets used once?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 7, 2010, 8:14:39\u202FPM",
+      "Body": "On Nov 7, 12:47\u00A0pm, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> On 7 nov, 18:22, Jozxyqk <jfeue...@eecs.tufts.edu> wrote:\n>\n> > floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> > > - Suppose he plays sup' Nocturn, inf' Nocturn and untaps.\n> > > Can he play a third Nocturn?\n>\n> > No. Card text only provides the repeat-action at superior.\n>\n> The first one was played a sup' - does this mean the \"repeatable\" part\n> only lasts till it gets used once?\n\nYeah. Card text."
+    }
+  ]
+}

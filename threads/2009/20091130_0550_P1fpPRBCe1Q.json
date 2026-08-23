@@ -1,0 +1,38 @@
+{
+  "ThreadId": "P1fpPRBCe1Q",
+  "Group": "rec.games.trading-cards.jyhad",
+  "Url": "https://archive.org/details/usenet-rec",
+  "Title": "Venenation & Mirror Walk",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 30, 2009, 5:50:26\u202FAM",
+      "Body": "LSJ,\nI have read this other thread\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/7bc91b7ca3f96bb5/80d94549fa7e6fa2?lnk=gst&q=mirror+walk+venenation#80d94549fa7e6fa2\n\nAnd I wanted to clarify.\n\nIs Venenation to just add a corruption counter playable after a Mirror\nWalk @ [THA]?  There honestly does seem to be a window between \"yes\nyou have blocked me\" and \"the action ends\" or at least that the acting\nvampire could sequence and trigger the Venenation before the MW \"No\nCombat\" clause.\n\n----------------------------------\nName: Mirror Walk\n[Third:C, KoT:C]\nCardtype: Action Modifier\nDiscipline: Thaumaturgy\nDo not replace until your discard phase.\n[tha] +1 stealth.\n[THA] As [tha] above, and if this action is blocked, the action ends\n(with no combat).\nArtist: Brian LeBlanc\n\nName: Venenation\n[FN:C2/PS2]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Serpentis\nOnly usable when this acting minion is blocked, before combat begins.\n[ser] Place a corruption counter on the blocking minion. If the number\nof your corruption counters on the minion equals or exceeds the blood\ncapacity of that vampire or the cost of that ally, you may burn all of\nyour corruption counters on that minion to gain control of him or her\n(combat is canceled). Otherwise, combat occurs as normal.\n[SER] As above, but the cost of this card is reduced by 1 blood.\nArtist: Brian LeBlanc"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Nov 30, 2009, 6:16:21\u202FAM",
+      "Body": "On Nov 29, 8:50\u00A0pm, Juggernaut1981 <brasscompo...@gmail.com> wrote:\n\n> And I wanted to clarify.\n>\n> Is Venenation to just add a corruption counter playable after a Mirror\n> Walk @ [THA]? \u00A0There honestly does seem to be a window between \"yes\n> you have blocked me\" and \"the action ends\" or at least that the acting\n> vampire could sequence and trigger the Venenation before the MW \"No\n> Combat\" clause.\n\n\nThis answer seems pretty straightforward:\n\n\"Mirror Walk ends the action when it is blocked. You cannot play\nChange\nof Target after the action ends. Likewise Venenation, Revelation of\nDespair, etc.\"\n\n-LSJ"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 30, 2009, 12:58:46\u202FPM",
+      "Body": "Robert Scythe wrote:\n> On Nov 29, 8:50 pm, Juggernaut1981 <brasscompo...@gmail.com> wrote:\n> \n>> And I wanted to clarify.\n>>\n>> Is Venenation to just add a corruption counter playable after a Mirror\n>> Walk @ [THA]?  There honestly does seem to be a window between \"yes\n>> you have blocked me\" and \"the action ends\" or at least that the acting\n>> vampire could sequence and trigger the Venenation before the MW \"No\n>> Combat\" clause.\n> \n> \n> This answer seems pretty straightforward:\n> \n> \"Mirror Walk ends the action when it is blocked. You cannot play\n> Change\n> of Target after the action ends. Likewise Venenation, Revelation of\n> Despair, etc.\"\n> \n> -LSJ\n\nCorrect."
+    },
+    {
+      "Author": "cthulukitty",
+      "Date": "Dec 1, 2009, 4:30:00\u202FPM",
+      "Body": "Juggernaut wrote:\n> It seems like an illogical moment to have one card cut off combat\n> before you have the chance to action-mod or reaction against the\n> \"successful block\". \u00A0I can understand that you couldn't not have both\n> Venenation AND Mirror Walk ending combat (because of stealing a minion\n> with venenation) but it does seem that there should be a window.\n> \"has this minion been blocked\" = yes\n> Window opens\n> [cards playable when a block occurs go here]\n> [effects of all cards playable when the block occurs]\n> Window Closes\n> Action Ends (from Mirror Walk)\n\nThe rules and card text could have been written that way, but they\nweren't. Mirror Walk states pretty clearly that the action ends once\nit is blocked, so that's what happens. What's illogical about that?\n\nJesse"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 2, 2009, 1:06:00\u202FAM",
+      "Body": "On Dec 2, 2:30\u00A0am, cthulukitty <jcrossnicker...@gmail.com> wrote:\n> Juggernaut wrote:\n> > It seems like an illogical moment to have one card cut off combat\n> > before you have the chance to action-mod or reaction against the\n> > \"successful block\". \u00A0I can understand that you couldn't not have both\n> > Venenation AND Mirror Walk ending combat (because of stealing a minion\n> > with venenation) but it does seem that there should be a window.\n> > \"has this minion been blocked\" = yes\n> > Window opens\n> > [cards playable when a block occurs go here]\n> > [effects of all cards playable when the block occurs]\n> > Window Closes\n> > Action Ends (from Mirror Walk)\n>\n> The rules and card text could have been written that way, but they\n> weren't. Mirror Walk states pretty clearly that the action ends once\n> it is blocked, so that's what happens. What's illogical about that?\n>\n> Jesse\n\nJesse,\nSequencing Rules.\n\nAs the acting Methuselah, I get to order what events happen \"at the\nBlock Succeeds\" moment.  While I can't stop the \"action ends\" from\nMirror Walk, there seems to be no reason why I couldn't add in other\n\"Block Succeeds\" triggered action modifiers, or conversely from the\nblocker (e.g. Obedience, etc) in response to anything from my end.\n\nThere doesn't seem to be a reason why I can order sections of my untap\nphase (Untap Cards, Order \"At the beginning of your Untap Phase do X\"\neffects, then Order \"During your untap phase do X\" effects and then\norder \"Before your Master Phase do X\" effects) and not also be able to\ninsert other effects triggering from \"Block Succeeds\" so that Mirror\nWalk's \"End Action\" happens later."
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Dec 2, 2009, 6:05:52\u202FAM",
+      "Body": "On Dec 1, 4:06\u00A0pm, Juggernaut1981 <brasscompo...@gmail.com> wrote:\n\n> Sequencing Rules.\n\n> As the acting Methuselah, I get to order what events happen \"at the\n> Block Succeeds\" moment. \u00A0While I can't stop the \"action ends\" from\n> Mirror Walk, there seems to be no reason why I couldn't add in other\n> \"Block Succeeds\" triggered action modifiers, or conversely from the\n> blocker (e.g. Obedience, etc) in response to anything from my end.\n\n> There doesn't seem to be a reason why I can order sections of my untap\n> phase (Untap Cards, Order \"At the beginning of your Untap Phase do X\"\n> effects, then Order \"During your untap phase do X\" effects and then\n> order \"Before your Master Phase do X\" effects) and not also be able to\n> insert other effects triggering from \"Block Succeeds\" so that Mirror\n> Walk's \"End Action\" happens later.\n\nObedience (Kiss of Ra, et al) has all ready set a precedent for what\nyou are inquiring. Once Obedience has been played its effects happen,\naction ends and no further modifiers or reactions can be played. Once\nMirror Walk has been played and its requirement has been met (being\nblocked) its effect sets off and no other mods or reactions can be\nplayed. Because of its delayed effect you can, however, play mods and\nreactions before its requirement is met. It seems consistent."
+    }
+  ]
+}

@@ -319,8 +319,10 @@ second, and so on. The <span class="permalink">#</span> beside each author name
 is that message's own link.</p>
 
 <h2>Provenance</h2>
-<p>The threads were scraped from Google Groups' copy of the newsgroup. The JSON
-they were rendered from is committed alongside the site generator in the
+<p>The threads come from Google Groups' copy of the newsgroups, filled out from
+the <a href="https://archive.org/details/usenet-rec">Internet Archive</a>'s copy
+where Google's had gaps. The JSON the pages were rendered
+from is committed alongside the site generator in the
 <a href="https://github.com/vtes-biased/newsgroup-archive">newsgroup-archive</a>
 repository, so they can be rebuilt, re-styled, or re-purposed without going back
 to any third party.</p>

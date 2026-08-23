@@ -136,7 +136,7 @@
     {
       "Author": "Archibald Zimonyi",
       "Date": "May 12, 2008, 6:38:28\u202FPM",
-      "Body": "\uE5D3\n> Archon of the Swamp- Dölj citerad text -\n>\n> - Visa citerad text -\n\nCool, I only chose a random vamp that ended up being Alan Sovereign,\nand he didn't have it.\n\nArchie\nwww.vekn.se"
+      "Body": "\uE5D3\n> Archon of the Swamp- D\u00F6lj citerad text -\n>\n> - Visa citerad text -\n\nCool, I only chose a random vamp that ended up being Alan Sovereign,\nand he didn't have it.\n\nArchie\nwww.vekn.se"
     },
     {
       "Author": "LSJ",
@@ -172,6 +172,12 @@
       "Author": "Archibald Zimonyi",
       "Date": "May 13, 2008, 9:52:26\u202FPM",
       "Body": "\uE5D3\n\nNopes. I never had any use for it myself so I never bothered\nimplementing it. The result list is extremely simple compared to the\nsearch page. It has a pre-defined grouping of cardtypes (same as in\nthe Search page) and then lists in alphabetical order within each\ngrouping.\n\nI have for a very long time tried to update the result list but it's\nslow work with all the other things I've got going. Lately I've gone\nback to updating the VEKN.SE site so such functionality will appear. I\nwant users to be able to choose what info is listed on the result list\npage, so that you can select to see for example Name, Disciplines and\nCapacity for all results without having to click on each card for that\ninfo.\n\nArchie\nwww.vekn.se"
+    },
+    {
+      "Author": "andrea.la.malfa@infinito.it",
+      "Date": "May 14, 2008, 11:46:45\u202FPM",
+      "Body": "On 12 Mag, 12:52, LSJ <vtes...@white-wolf.com> wrote:\n> Graham Smith wrote:\n> > On May 12, 7:10 am, andrea.la.ma...@infinito.it wrote:\n> >> i think it should be one OR the other... no double info.\n>\n> > I agree with Andrea. \u00A0One or the other.\n> > I'm not a big fan of duplicating information.\n>\n> Then use the text file.\n>\n> The csv already \"duplicates\" the info in the text file, so those who find\n> duplication onerous would be avoiding it (and it's nicely separated/duplicated\n> Disciplines, titles, costs, and requirements) in the first place.",
+      "Recovered": true
     },
     {
       "Author": "andrea....@infinito.it",
