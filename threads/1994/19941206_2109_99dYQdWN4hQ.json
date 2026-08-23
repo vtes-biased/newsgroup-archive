@@ -1,0 +1,27 @@
+{
+  "ThreadId": "99dYQdWN4hQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/99dYQdWN4hQ",
+  "Title": "undead persistence",
+  "Messages": [
+    {
+      "Author": "Josh Hsu",
+      "Date": "Dec 6, 1994, 9:09:02\u202FPM",
+      "Body": "Anyone understand how undead persistence works? (the normal version only)\nBasically, I'm asking for an official translation b/c the way its worded now\nis kinda dubious."
+    },
+    {
+      "Author": "Tom Wylie",
+      "Date": "Dec 7, 1994, 5:46:45\u202FAM",
+      "Body": "Undead Persistence (normal) is only usable when the vampire would\nbe sent to torpor during combat and...\n\n-> Prevents the vampire from going to torpor\n-> For the rest of the combat, prevents the vampire from going to torpor\nat all if no card has been played within the 3 rounds prior to\nit being sent to torpor\n-> Gives one optional press\n\nThe \"or within 3 rounds\" part is mainly useful if Trap was played at\nthe beginning of the combat. Otherwise, you have to keep playing presses\nto keep continuing the combat.\n\nTom Wylie rec.games.trading-cards.* Network Representative for\naa...@hal.com Wizards of the Coast, Inc."
+    },
+    {
+      "Author": "Josh Hsu",
+      "Date": "Dec 7, 1994, 7:43:30\u202FAM",
+      "Body": "In article <3c3enl$g...@perv.hal.COM>, Tom Wylie <aa...@hal.COM> wrote:\n>-> Prevents the vampire from going to torpor\n>-> For the rest of the combat, prevents the vampire from going to torpor\n> at all if no card has been played within the 3 rounds prior to\n> it being sent to torpor\n\nCould you explain this more clearly? I'm still confused as to what this\nmeans...\n\n>-> Gives one optional press\n\nAlso, what happens if the said minion does aggravated damage(ie basilia).\nif the vampire has 0 blood counters on it, and basilia hits it, it will goto\ntorpor. If that vampire then uses undead persistence, will basilia's next hit\nburn it or will it have basically no effect?\n\nthanks in advance\n-josh"
+    },
+    {
+      "Author": "Tom Wylie",
+      "Date": "Dec 7, 1994, 8:28:59\u202FPM",
+      "Body": "Josh Hsu <jo...@merle.acns.nwu.edu> wrote:\n>>-> For the rest of the combat, prevents the vampire from going to torpor\n>> at all if no card has been played within the 3 rounds prior to\n>> it being sent to torpor\n>Could you explain this more clearly? I'm still confused as to what this\n>means...\n\nIt means that if the vampire is sent to torpor again, it looks to see if\nany cards (including Undead Persistence) have been used in the last\nthree rounds, and if so, the vampire does not go to torpor. This is just\nlike Trap checking to see if cards have been played.\n\n>>-> Gives one optional press\n>Also, what happens if the said minion does aggravated damage(ie basilia).\n>if the vampire has 0 blood counters on it, and basilia hits it, it will goto\n>torpor. If that vampire then uses undead persistence, will basilia's next hit\n>burn it or will it have basically no effect?\n\nAggravated damage will only burn a vampire outright if it does more than\none damage in a single shot. The Persisting vampire will ignore 1-point\naggravated strikes just as it would ignore 1-point normal strikes. I believe\na multidamage aggravated strike would still burn the vampire outright\nin spite of Undead Persistence, but will double check that.\n\n\uE5D3"
+    }
+  ]
+}

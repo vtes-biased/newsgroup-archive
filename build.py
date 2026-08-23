@@ -238,8 +238,8 @@ def render_index(by_year: dict[str, list[Thread]], total: int) -> str:
     body = f"""<h1>rec.games.trading-cards.jyhad</h1>
 <p class="lede">The Usenet group where Vampire: The Eternal Struggle was played
 out in public from 1994 to 2010, and where its rules directors answered
-questions one post at a time. This is a preserved copy of the threads
-L.&nbsp;Scott Johnson took part in &mdash;
+questions one post at a time. This is a preserved copy of every thread one of
+those directors took part in &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
@@ -257,10 +257,15 @@ def render_about(total_threads: int, total_messages: int) -> str:
 <h1>About this archive</h1>
 <p>This is a static copy of {total_threads:,} threads
 ({total_messages:,} messages) from the Usenet newsgroup
-<code>{GROUP}</code>, spanning 1994 to 2010. It is the subset of the group in
-which <strong>L.&nbsp;Scott Johnson</strong> &mdash; VTES rules director from
-June 1998 &mdash; posted, plus a handful of older threads cited by the rulings
-database for rulings by Thomas&nbsp;R.&nbsp;Wylie and Shawn&nbsp;F.&nbsp;Carnes.</p>
+<code>{GROUP}</code>, spanning 1994 to 2010. It is every thread in which one of
+the game's rules directors posted &mdash;
+<strong>Thomas&nbsp;R.&nbsp;Wylie</strong> (from December 1994),
+<strong>Shawn&nbsp;F.&nbsp;Carnes</strong> (July 1996),
+<strong>Jon&nbsp;Wilkie</strong> (October 1996) and
+<strong>L.&nbsp;Scott&nbsp;Johnson</strong> (June 1998 onward) &mdash; which is
+where the rulings of the newsgroup era were handed down. The threads they
+answered in are here whole, questions and argument included, not just the
+answers.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
