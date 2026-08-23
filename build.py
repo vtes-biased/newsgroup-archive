@@ -160,6 +160,8 @@ class Thread:
         self.id: str = data["ThreadId"]
         self.title: str = data["Title"].strip() or "(no subject)"
         self.source_url: str = data["Url"]
+        #: Threads imported from another group say which one they came from.
+        self.group: str = data.get("Group", GROUP)
         self.messages: list[dict] = data["Messages"]
         self.dates = [parse_date(m["Date"]) for m in self.messages]
         self.start = self.dates[0]
@@ -183,9 +185,19 @@ class Thread:
             f"<h1>{html.escape(self.title)}</h1>",
             '<p class="meta">'
             f"{count} message{'s' if count > 1 else ''} from {people} "
-            f"participant{'s' if people > 1 else ''} &middot; {span}<br>"
-            f'<a class="source" href="{html.escape(self.source_url)}">'
-            "original thread on Google Groups</a></p>",
+            f"participant{'s' if people > 1 else ''} &middot; {span}"
+            + (
+                f" &middot; <code>{html.escape(self.group)}</code>"
+                if self.group != GROUP
+                else ""
+            )
+            + f'<br><a class="source" href="{html.escape(self.source_url)}">'
+            + (
+                "original thread on Google Groups"
+                if "/c/" in self.source_url
+                else "source archive"
+            )
+            + "</a></p>",
         ]
         for index, message in enumerate(self.messages):
             stamp = self.dates[index]
@@ -267,6 +279,13 @@ where the rulings of the newsgroup era were handed down. The threads they
 answered in are here whole, questions and argument included, not just the
 answers.</p>
 
+<p>A few hundred of them are not from that group at all. Jyhad was released in
+1994, before <code>{GROUP}</code> existed, and its first rules discussions
+&mdash; including the rules team's earliest rulings lists &mdash; happened in
+<code>rec.games.deckmaster</code>, the Magic newsgroup. Those threads are here
+too, marked with the group they came from, so that the rulings citing them have
+somewhere to point.</p>
+
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
 database</a> is a curated list of rulings, each one sourced. Several hundred of
@@ -303,8 +322,8 @@ is that message's own link.</p>
 <p>The threads were scraped from Google Groups' copy of the newsgroup. The JSON
 they were rendered from is committed alongside the site generator in the
 <a href="https://github.com/vtes-biased/newsgroup-archive">newsgroup-archive</a>
-repository, so the pages can be rebuilt, re-styled, or re-purposed without
-going back to any third party.</p>
+repository, so they can be rebuilt, re-styled, or re-purposed without going back
+to any third party.</p>
 <p>The posts are the property of their authors and are reproduced here for
 reference and preservation.</p>"""
     return page("About — jyhad newsgroup archive", body, depth=1)

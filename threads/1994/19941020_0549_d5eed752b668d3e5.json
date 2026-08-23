@@ -1,0 +1,23 @@
+{
+  "ThreadId": "d5eed752b668d3e5",
+  "Group": "rec.games.deckmaster",
+  "Url": "https://archive.org/details/usenet-rec",
+  "Title": "Jyhad Q",
+  "Messages": [
+    {
+      "Author": "Panther",
+      "Date": "Oct 20, 1994, 5:49:58\u202FAM",
+      "Body": "This seems really simple, but it's not in the FAQ, and I need to be\nsure...\n\nWhen a combat round is played, and a minion does a press to continue,\ndo the range setting reset themselves, or, if the previous rounds'\ncombat was at long range, does the next round of combat also occur\nat long range? In other words, if the first round of combat was\nmoved to long range via a manuever, would the second round stay\nat long range?\n\nthanks,\n-P.\n\nAlso, has a complete list of cards been compiled yet?"
+    },
+    {
+      "Author": "Tor Iver Wilhelmsen",
+      "Date": "Oct 20, 1994, 7:31:11\u202FPM",
+      "Body": "Panther <U52368@uicvm.uic.edu> writes:\n>This seems really simple, but it's not in the FAQ, and I need to be\n>sure...\n>\n>When a combat round is played, and a minion does a press to continue,\n>do the range setting reset themselves, or, if the previous rounds'\n>combat was at long range, does the next round of combat also occur\n>at long range? In other words, if the first round of combat was\n>moved to long range via a manuever, would the second round stay\n>at long range?\n\nWell, you do start a new round of combat, and determining range is the\nfirst phase of that. So I would say you begin from assuming close range,\nthen play maneuvers to change it.\n\n- Tor Iver\n-- \nTor Iver Wilhelmsen <toriver@pvv.unit.no>   CS student at NTH, Trondheim, NO\nInfo: http://www.pvv.unit.no/~toriver/  Member of The Software Workshop, UNIT\nStem JA den 28. november! \"Memory is like an orgasm. It's much better if\nyou don't have to fake it.\" -- Seymour Cray on virtual memory     ***********"
+    },
+    {
+      "Author": "Tom Wylie",
+      "Date": "Oct 22, 1994, 12:16:17\u202FAM",
+      "Body": "Each round of combat starts at close range.  Maneuvers must be used if\nthe round is to be done at long range.\n\n\nTom Wylie\t\trec.games.deckmaster Network Representative for\naahz@hal.com\t\t\tWizards of the Coast, Inc."
+    }
+  ]
+}
