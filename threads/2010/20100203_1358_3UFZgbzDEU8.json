@@ -1,0 +1,37 @@
+{
+  "ThreadId": "3UFZgbzDEU8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3UFZgbzDEU8",
+  "Title": "LSJ - Trochomancy target",
+  "Messages": [
+    {
+      "Author": "xcver",
+      "Date": "Feb 3, 2010, 1:58:55\u202FPM",
+      "Body": "Hi,\n\nwe have a question regarding Trochomancy:\n\nTrochomancy\nAction Modifier\nRequires nec or nec/aus\n\nnec: Remove 13 cards in the target Methuselah's ash heap from the game\nto get +1 bleed. Not usable if there aren't enough cards in that ash\nheap. You cannot play another action modifier to increase this bleed.\n\nnec aus: as above, but remove only 7 cards.\n\nNEC AUS: as above, but for +2 bleed.\n\nDo the cards need to be removed from the ashheap of the methuselah\ncurrently being bled when playing Trochomancy or can you use it on any\nmethuselah's ashheap? And is it correct to assume that the cards are\nremoved as soon as you play Trochomancy?\n\nThanks,\n\nBernd"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 3, 2010, 2:15:21\u202FPM",
+      "Body": "On Feb 3, 7:58 am, xcver <bernd.schw...@firstdata.de> wrote:\n> Hi,\n>\n> we have a question regarding Trochomancy:\n>\n> Trochomancy\n> Action Modifier\n> Requires nec or nec/aus\n>\n> nec: Remove 13 cards in the target Methuselah's ash heap from the game\n> to get +1 bleed. Not usable if there aren't enough cards in that ash\n> heap. You cannot play another action modifier to increase this bleed.\n>\n> nec aus: as above, but remove only 7 cards.\n>\n> NEC AUS: as above, but for +2 bleed.\n>\n> Do the cards need to be removed from the ashheap of the methuselah\n> currently being bled when playing Trochomancy or can you use it on any\n> methuselah's ashheap?\n\nCard text: \"target Methuselah's ash heap\".\n\n> And is it correct to assume that the cards are\n> removed as soon as you play Trochomancy?\n\nYes. (Assuming it isn't canceled as played)"
+    },
+    {
+      "Author": "xcver",
+      "Date": "Feb 3, 2010, 2:18:18\u202FPM",
+      "Body": "On Feb 3, 2:15 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n> Card text: \"target Methuselah's ash heap\".\n>\n\nSo target means the target of the bleed in this instance?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 3, 2010, 2:58:48\u202FPM",
+      "Body": "\uE5D3\n\nYeah. That's the only option for its meaning in this instance."
+    },
+    {
+      "Author": "Asnek",
+      "Date": "Feb 3, 2010, 8:42:21\u202FPM",
+      "Body": "\uE5D3\n\nJust one more to be sure:\n\ncards are removed at the moment of playing the card or at the moment\nof resolving the bleed? in case of some bounces for example..."
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Feb 3, 2010, 8:46:20\u202FPM",
+      "Body": "On Feb 3, 2:42 pm, Asnek wrote:\n\n> > > > Card text: \"target Methuselah's ash heap\".\n> > > So target means the target of the bleed in this instance?\n> > Yeah. That's the only option for its meaning in this instance.\n\n> Just one more to be sure:\n> cards are removed at the moment of playing the card or at the moment\n> of resolving the bleed? in case of some bounces for example...\n\nAction modifiers resolve when played.\nThe bleed target at the moment you play the card loses the cards from\ntheir ash heap."
+    }
+  ]
+}

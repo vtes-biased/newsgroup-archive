@@ -1,0 +1,117 @@
+{
+  "ThreadId": "bEvYg3Za-fc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bEvYg3Za-fc",
+  "Title": "Question: Flash grenade",
+  "Messages": [
+    {
+      "Author": "matkov",
+      "Date": "Jun 1, 2004, 9:39:04\u202FAM",
+      "Body": "Flash grenade:\nWeapon. Strike: Combat Ends. If the opposing minion is a vampire, he\nor she is tapped and does not untap as normal on his or her untap\nphase. If the bearer is a vampire and the grenade is used at close\nrange, the bearer is also tapped and does not untap as normal on his\nor her next untap phase. Burn this weapon after use.\n\nIf vampire A playes Flash grenade and vampire B playes Earth meld with\nuntap(majesty, ...), is it tapped after combat?\n\nDoes it matter which one is acting minion?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 1, 2004, 12:58:35\u202FPM",
+      "Body": "matkov wrote:\n\n\uE5D3\n\nYes. Earth Meld, etc. untap the vampire before ending combat. Then the\nFlash Grenade taps him. (Note that, as usual, if a minion strikes with\nFlash Grenade and the opposing vampire plays Psyche! or Telepathic\nTracking, the rest of the effect (tapping the vampire and causing him\nnot to untap) is lost.\n\n> Does it matter which one is acting minion?\n\nNo.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Eric Simon",
+      "Date": "Jun 1, 2004, 9:11:12\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote in message news:<40BC615A...@white-wolf.com>...\n\n> matkov wrote:\n>\n> > Flash grenade:\n> > Weapon. Strike: Combat Ends. If the opposing minion is a vampire, he\n> > or she is tapped and does not untap as normal on his or her untap\n> > phase. If the bearer is a vampire and the grenade is used at close\n> > range, the bearer is also tapped and does not untap as normal on his\n> > or her next untap phase. Burn this weapon after use.\n> >\n> > If vampire A playes Flash grenade and vampire B playes Earth meld with\n> > untap(majesty, ...), is it tapped after combat?\n>\n> Yes. Earth Meld, etc. untap the vampire before ending combat. Then the\n> Flash Grenade taps him. (Note that, as usual, if a minion strikes with\n> Flash Grenade and the opposing vampire plays Psyche! or Telepathic\n> Tracking, the rest of the effect (tapping the vampire and causing him\n> not to untap) is lost.\n\nIs this a clarification of the wording of Flash Grenade (per designer\nintent, I assume)? FG, unlike other S:CE cards with effects, does not\nhave any wording to indicate WHEN its effect takes place. Majesty and\nEarth Meld say \"before combat ends,\" while Catatonic Fear says \"once\ncombat ends\" and Oubliette says \"after combat.\" FG has none of these\nphrases, so it seems to require clarification, since without any of\nthese phrases it should either happen during declaration or\nresolution. Can it be errata'd to \"once combat ends\"? Or are you\nconsidering the \"is tapped\" phrasing to be equivalent to that, to\ntrump all other effects? (Actually I'd prefer it to go the other\ndirection, because having it beat the Majesty/Earth Meld untap is\nmassively powerful, and the Chicago playgroup is busily breaking this\ncard as much as possible.) If there were a hypothetical S:CE card\nthat stated that the striking minion \"is untapped,\" would that trump\nthe FG effect? Meld With the Land also does not have a timing phrase.\nDoes MWtL (inferior) untap the minion who played FG even at close?\nWhat about Mummify, which also has no timing phrase?\n\nEric Simon\nPrince of Chicago\nAnarch Newsletter Writer"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 2, 2004, 2:11:54\u202FAM",
+      "Body": "Eric Simon wrote:\n> LSJ <vte...@white-wolf.com> wrote in message news:<40BC615A...@white-wolf.com>...\n>>matkov wrote:\n>>>Flash grenade:\n>>>Weapon. Strike: Combat Ends. If the opposing minion is a vampire, he\n>>>or she is tapped and does not untap as normal on his or her untap\n>>>phase. If the bearer is a vampire and the grenade is used at close\n>>>range, the bearer is also tapped and does not untap as normal on his\n>>>or her next untap phase. Burn this weapon after use.\n>>>\n>>>If vampire A playes Flash grenade and vampire B playes Earth meld with\n>>>untap(majesty, ...), is it tapped after combat?\n>>\n>>Yes. Earth Meld, etc. untap the vampire before ending combat. Then the\n>>Flash Grenade taps him. (Note that, as usual, if a minion strikes with\n>>Flash Grenade and the opposing vampire plays Psyche! or Telepathic\n>>Tracking, the rest of the effect (tapping the vampire and causing him\n>>not to untap) is lost.\n>\n> Is this a clarification of the wording of Flash Grenade (per designer\n> intent, I assume)? FG, unlike other S:CE cards with effects, does not\n\nIt is a clarification of the application of [RTR 01-MAY-2002], quoted here:\n\n> Effects that end combat and then do something else after combat (all in the\n> single resolution of the effect) will fizzle if combat doesn't end or if a\n> new combat is started.\n\ntogether with card text on Flash Grenade, of course, with some dependence\non the \"after-combat\" default timing of such S:CE+stuff effects, per\n[RTR 30-JUN-1997].\n\n> If there were a hypothetical S:CE card\n> that stated that the striking minion \"is untapped,\" would that trump\n> the FG effect? Meld With the Land also does not have a timing phrase.\n\n[RTR 20-JUN-1997] specifies the \"after combat ends\" timing window for\nthat hypothetical effects. Meld With the Land's untap timing was\ncovered in the same RTR that effected Majesty's timing [RTR 01-MAY-2002].\nThe untap effect happens before combat ends.\n\n> Does MWtL (inferior) untap the minion who played FG even at close?\n\nHmm. I guess not, since it doesn't say \"ranged\".\n\n> What about Mummify, which also has no timing phrase?\n\nMummify never has any effect, since it is never played. :-)\nIf it were played, however, the \"untap and go to torpor\" would\noccur after combat ends. (And would be interrupted if someone\nplayed Psyche!)\n\n\uE5D3"
+    },
+    {
+      "Author": "Chris Arthur",
+      "Date": "Jun 2, 2004, 8:07:03\u202FAM",
+      "Body": ">\n> > What about Mummify, which also has no timing phrase?\n>\n> Mummify never has any effect, since it is never played. :-)\n\nSounds like a candidate for a reprint. :)\n\nChris.\n\nAvid Setite player who has promised his playgroup for years to find a\nuse for Mummify"
+    },
+    {
+      "Author": "salem",
+      "Date": "Jun 2, 2004, 12:30:29\u202FPM",
+      "Body": "hang on.\n\nare you saying if, say, my vampire, with merely inferior vic,\nmaneuvers to long with chiropteran marauder, and then plays an\ninferior meld with the land, the opposing minion will not be untapped\nbecause meld with the land doesn't say 'ranged'?\n\ndoes this apply to the self-untapping of earth meld and majesty? (ie:\nnot untap you if you're at range?)\n\nthanks,\n\nsalem\ndomain:canberra http://www.geocities.com/salem_christ.geo/vtes.htm\n(replace \"hotmail\" with \"yahoo\" to email)\n\"I like to play the field\"-LSJ"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "Jun 2, 2004, 2:30:19\u202FPM",
+      "Body": "In message <eX8vc.111395$hH.19...@bgtnsc04-news.ops.worldnet.att.net>,\nLSJ <vte...@white-wolf.com> mumbled something about:\n\n>Mummify never has any effect, since it is never played. :-)\n>If it were played, however, the \"untap and go to torpor\" would\n>occur after combat ends. (And would be interrupted if someone\n>played Psyche!)\n\nSo theoretically, I can give the Baron (or any other THN minion) the\nDrum of Zippy Totec, play Ashes to Ashes in any combat where I'm losing\nhorribly to prevent all damage, gain 2 blood, and go to torpor... and\nthen play Psyche! to restart combat and interrupt my own effect,\navoiding torpor entirely?\n\nNeat. =)\n\n-- Derek\n\na host is a host from coast to coast\nand no one will talk to a host that's close\nunless the host that isn't close\nis busy, hung, or dead"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 2, 2004, 6:00:54\u202FPM",
+      "Body": "salem <salem_ch...@hotmail.com> wrote:\n> hang on.\n>\n> are you saying if, say, my vampire, with merely inferior vic,\n> maneuvers to long with chiropteran marauder, and then plays an\n> inferior meld with the land, the opposing minion will not be untapped\n> because meld with the land doesn't say 'ranged'?\n\nYes.\n\n> does this apply to the self-untapping of earth meld and majesty? (ie:\n> not untap you if you're at range?)\n\nNo. You're never at long range from yourself.\n\n\uE5D3"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "Jun 2, 2004, 7:40:29\u202FPM",
+      "Body": "Derek Ray <lor...@yahoo.com> wrote in message news:<01irb0li48b6gvj5r...@4ax.com>...\n\n> So theoretically, I can give the Baron (or any other THN minion) the\n> Drum of Zippy Totec, play Ashes to Ashes in any combat where I'm losing\n> horribly to prevent all damage, gain 2 blood, and go to torpor... and\n> then play Psyche! to restart combat and interrupt my own effect,\n> avoiding torpor entirely?\n\nDon't I wish. When you use Ashes to Ashes, you go to torpor and combat\nends as a result. It's not combat ends, then go to torpor."
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jun 3, 2004, 8:22:33\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:eX8vc.111395$hH.19...@bgtnsc04-news.ops.worldnet.att.net...\n> Eric Simon wrote:\n\n> > Does [Meld with the Land] (inferior) untap the minion who played\n\n> > FG even at close?\n>\n> Hmm. I guess not, since it doesn't say \"ranged\".\n\nPresumably (I don't see it addressed directly in this thread) that also\napplies to the Flash Grenade \"don't untap\" effect on the opposing\nminion? That is, it only works at short range?\n\nIt seems to me that these \"side effect of S:CE strikes\" were probably\nintended to work at either range (since S:CE isn't a range-dependent\nstrike). Perhaps errata for designer intent would be in order? (The\nsame argument could also apply to Catatonic Fear, except that CF has\nalready been reprinted with \"only at close\" explicit text.)\n\nIn support of this argument, for Flash Grenade specifically, examine the\ncard text:\n\n\"Weapon. Strike: Combat Ends. If the opposing minion is a vampire, he\nor she is tapped and does not untap as normal on his or her untap phase.\nIf the bearer is a vampire and the grenade is used at close range, the\nbearer is also tapped and does not untap as normal on his or her next\nuntap phase. Burn this weapon after use.\"\n\nObserve that the clause \"the grenade is used at close range\" appears in\nthe \"side effect on the bearer\" sentence, rather than immediately after\n\"Strike: Combat Ends\". This implies to me that the \"effect on the\nopposing vampire\" piece of the effect was not intended to be limited to\nclose range, since if the \"close range\" qualifier text is going to go on\nthe card at all, it would logically be placed to cover everything that\nwould only happen at close range.\n\nJosh\n\nwhite light, white heat"
+    },
+    {
+      "Author": "d. hathorn",
+      "Date": "Jun 3, 2004, 11:26:28\u202FPM",
+      "Body": "On Wed, 2 Jun 2004, at 9:00am, LSJ wrote:\n\n> salem <salem_ch...@hotmail.com> wrote:\n> > hang on.\n> >\n> > are you saying if, say, my vampire, with merely inferior vic,\n> > maneuvers to long with chiropteran marauder, and then plays an\n> > inferior meld with the land, the opposing minion will not be untapped\n> > because meld with the land doesn't say 'ranged'?\n>\n> Yes.\n\nSuch a ruling would not appear to be substantiated by the rulebook:\n\n6.4.3 ... Resolve Strike ... Unless the strike is identified as ranged\nor does \"R\" damage (or is a defensive strike such as dodge or combat\nends), it is only effective at close range.\n\nInferior Meld with the Land fits the above description for a defensive\nstrike:\n\nMeld with the Land\n[vic] Strike: combat ends and untap the opposing minion.\n\n> > does this apply to the self-untapping of earth meld and majesty? (ie:\n> > not untap you if you're at range?)\n>\n> No. You're never at long range from yourself.\n\n??? That's a very \"realistic\" interpretation, but again, it would appear\nnot to be substantiated by the rules:\n\n6.4.2 Dtermine Range. Each round of combat is fought at either close\nrange or long range. Close range is the default for each round.\n\nBased on this wording, \"range\" is not a characteristic of a minion, it is\na characteristic of a combat round. Range itself, whether long or close,\ndoes not imply any relation between minions, and the concept of range\ncertainly does not imply any relation between a minion and himself."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 4, 2004, 12:53:12\u202FPM",
+      "Body": "Joshua Duffin wrote:\n> \"LSJ\" <vte...@white-wolf.com> wrote in message\n\n>>Eric Simon wrote:\n>\n>>>Does [Meld with the Land] (inferior) untap the minion who played\n>>>FG even at close?\n>>\n>>Hmm. I guess not, since it doesn't say \"ranged\".\n>\n> Presumably (I don't see it addressed directly in this thread) that also\n> applies to the Flash Grenade \"don't untap\" effect on the opposing\n> minion? That is, it only works at short range?\n\n[...]\n\nGood catch. Clearly (as you noted in the snipped part), the grenade\nstrike should be ranged. Errata to Flash Grenade.\nPerhaps Meld with the Land should have such errata, but since its\ncard text doesn't assume ranged, it probably doesn't rise to the\nerrata level. I'll put the latter on the RT list for review.\n\n\uE5D3"
+    },
+    {
+      "Author": "Charles Lechasseur",
+      "Date": "Jun 4, 2004, 1:53:26\u202FPM",
+      "Body": "In article <40C054A4...@white-wolf.com>, LSJ <vte...@white-wolf.com>\nwrote:\n\n>Joshua Duffin wrote:\n>> Presumably (I don't see it addressed directly in this thread) that also\n>> applies to the Flash Grenade \"don't untap\" effect on the opposing\n>> minion? That is, it only works at short range?\n>\n>[...]\n>\n>Good catch. Clearly (as you noted in the snipped part), the grenade\n>strike should be ranged. Errata to Flash Grenade.\n>Perhaps Meld with the Land should have such errata, but since its\n>card text doesn't assume ranged, it probably doesn't rise to the\n>errata level. I'll put the latter on the RT list for review.\n\nI thought all Dodge and Strike: Combat Ends strike were ranged by default.\nThis is from the rulebook, section 6.4.3 (emphasis mine):\n\n\"Unless the strike is identified as ranged or does ³R² damage ***(or is a\ndefensive strike such as dodge or combat ends)***, it is only effective at\nclose range.\"\n\nSo a S:CE strike is effective at any range. I always thought it meant that\nthe other effects provided by such a strike are also be considered\n\"ranged\".\n\n--\ncharles lechasseur - da...@novideospamtron.ca"
+    },
+    {
+      "Author": "Timlagor",
+      "Date": "Jun 4, 2004, 4:05:40\u202FPM",
+      "Body": "Chris Arthur expounded:\n\n> Avid Setite player who has promised his playgroup for years to find a\n> use for Mummify\n\nFaithful Servant (*X)\nCarver's Meat Packing\nMummify\nBlood Doll (*X)\n\nNO DRAGONBOUND :D\n\nYou get a use for Faithfull Servant for free :))"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jun 4, 2004, 5:02:11\u202FPM",
+      "Body": "\"Charles Lechasseur\" <da...@novideospamtron.ca> wrote in message\nnews:danov-04060...@192.168.1.4...\n\uE5D3\n\nI think the historical interpretation (by the current authorities) has\nbeen that only the S:CE or Dodge strike itself is effective at long\nrange. Side effects of such strikes *on the opposing minion* are only\neffective at close range unless card text says otherwise. Side effects\non the *striking* minion are effective at either range. I'm not sure\nthis is totally derivable from rules and card text, but it is at least\nsomewhat reasonable-sounding, to me.\n\nD.Hathorn's argument that the \"striking minion is not at long range from\nhimself/herself\" claim isn't backed up by the definition of \"range\" in\ncombat also makes sense to me, though. I do think that \"side effects of\nS:CE strikes\" have typically been written assuming that they work at\neither range - and it's true that the distinction between \"side effects\non the striking minion\" and \"side effects on the opposing minion\" aren't\nexplicitly laid out in the card texts or the rules, normally.\n\nJosh\n\nsee: catatonic fear and riposte originally dealing damage even at long,\nbut getting cardtext migrations to explicitly remove that possibility"
+    },
+    {
+      "Author": "Curevei",
+      "Date": "Jun 4, 2004, 7:53:21\u202FPM",
+      "Body": ">see: catatonic fear and riposte originally dealing damage even at long,\n>but getting cardtext migrations to explicitly remove that possibility\n\nI don't think Oubliette has gotten text yet that states only at close. It may\nbe the model for side effects only being at close unless specified otherwise."
+    },
+    {
+      "Author": "Curevei",
+      "Date": "Jun 4, 2004, 7:55:03\u202FPM",
+      "Body": ">Mummify never has any effect, since it is never played. :-)\n\nI always find it odd when people ask me what Phobia does and I say nothing \"it\nhas no text\" and they keep asking about it."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 4, 2004, 8:17:48\u202FPM",
+      "Body": "da...@novideospamtron.ca (Charles Lechasseur) wrote:\n> In article <40C054A4...@white-wolf.com>, LSJ <vte...@white-wolf.com>\n> wrote:\n> >Good catch. Clearly (as you noted in the snipped part), the grenade\n> >strike should be ranged. Errata to Flash Grenade.\n> >Perhaps Meld with the Land should have such errata, but since its\n> >card text doesn't assume ranged, it probably doesn't rise to the\n> >errata level. I'll put the latter on the RT list for review.\n>\n> I thought all Dodge and Strike: Combat Ends strike were ranged by default.\n\nYes. Those \"defensive\" effects don't need to be specified as \"ranged\"\nin order to be effective.\n\n> So a S:CE strike is effective at any range. I always thought it meant that\n> the other effects provided by such a strike are also be considered\n> \"ranged\".\n\nWhile I wouldn't've ruled that way if the topic were brought up new\ntoday, I have ruled that way before (on Oubliette). And, since all the\nS:CE cards seem to be safe under that ruling currently, it's probably\na fair idea to stick with it.\n\nI'll just try to be more careful with card text for any future cases\nthat ought to be close ranged.\n\nFalling back on this ruling, the errata proposed above for Flash\nGrenade is superfluous and the ruling given previously for Meld with\nthe Land is now reversed: both strikes are fully effective at long\nrange (following the precedent set for Oubliette).\n\nThanks for bearing with me.\n\n\uE5D3"
+    },
+    {
+      "Author": "David Cherryholmes",
+      "Date": "Jun 4, 2004, 8:36:04\u202FPM",
+      "Body": "LSJ wrote:\n\n> Thanks for bearing with me.\n\nNo problem. Just wanted to add that this was a very satisfying insight\ninto the how's and why's of card rulings. I appreciate your need for\nbrevity, but I really like hearing the reasoning behind yes/no/correct.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 5, 2004, 1:18:13\u202FAM",
+      "Body": "David Cherryholmes wrote:\n> No problem. Just wanted to add that this was a very satisfying insight\n> into the how's and why's of card rulings. I appreciate your need for\n> brevity, but I really like hearing the reasoning behind yes/no/correct.\n\nWe agree twice in one week - surely the end times are upon us. :-)\n\nBrevity is the usual choice when covering old ground.\nExposition is the usual choice when covering new ground.\n\n\uE5D3"
+    },
+    {
+      "Author": "Timlagor",
+      "Date": "Jun 6, 2004, 5:31:52\u202FPM",
+      "Body": "Curevei expounded:\n\uE5D3\n\nCatatonic Fear.\nRiposte.\n\nClearly the default is that they happen at any range unless stated\notherwise."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 7, 2004, 5:08:16\u202FAM",
+      "Body": "Timlagor wrote:\n\n\uE5D3\n\nThose two received MRP text \"corrections\" to effect the rulings/errata\nlevied against them in their original (range-free) forms.\n\nWere I to rule from a clean slate today on Oubliette, it would be in the\nsame boat. But the opposite ruling on Oubliette already exists, and there\nis insufficient reason to overturn it at this time.\n\nSo Oubliette's effect on the opposing minion is effective at long range.\n\n\uE5D3"
+    }
+  ]
+}

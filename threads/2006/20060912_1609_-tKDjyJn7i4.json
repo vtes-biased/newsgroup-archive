@@ -1,0 +1,52 @@
+{
+  "ThreadId": "-tKDjyJn7i4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-tKDjyJn7i4",
+  "Title": "Smallpox ability clarification",
+  "Messages": [
+    {
+      "Author": "Cry Wolf",
+      "Date": "Sep 12, 2006, 4:09:38\u202FPM",
+      "Body": "Greetings, all.\n\nIn making an effective Smallpox deck, I pondered on the best strategy\nfor her. I want to go the route Matt Morgan did in\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/85699ed1455aa7f/d795d1fff8ba838f\nwith the Vampiric Disease and pox counters all around, with a Fame on a\nprey's vamp.\n\nI hit a dead end when I looked again at Smallpox's card text:\n\nSmallpox Griet\nANI CEL OBF POT thn\nAbility: If Smallpox successfully inflicts hand damage in consecutive\nrounds of a combat, the opponent gets a pox counter. A minion with any\npox counters takes 1 damage during his or her untap phase. Burn all pox\ncounters when Smallpox leaves the ready region.\n\nI just want to clarify:\n1) Does \"successfully inflicts hand damage in consecutive rounds of a\ncombat\" mean that all I need to do is inflict one point of damage on\nany round other than the 1st? For example, Smallpox plays an Aid from\nBats at ANI, presses then Stutter-Step or Shadow Feint?\n\n2) How many pox counters will be placed on a minion? I understand it as\nmeaning a pox counter will be placed _every_combat_ (as opposed to\nevery round/point of damage) where the conditions (2nd round or onward,\nunprevented damage from handstrike) are fulfilled.\n\nThanks in advance.\n\nCry Wolf\n-the poster formerly known as Odrich Wendergass"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Sep 12, 2006, 4:31:30\u202FPM",
+      "Body": "Cry Wolf wrote:\n> Smallpox Griet\n> ANI CEL OBF POT thn\n> Ability: If Smallpox successfully inflicts hand damage in consecutive\n> rounds of a combat, the opponent gets a pox counter. A minion with any\n> pox counters takes 1 damage during his or her untap phase. Burn all pox\n> counters when Smallpox leaves the ready region.\n>\n> I just want to clarify:\n> 1) Does \"successfully inflicts hand damage in consecutive rounds of a\n> combat\" mean that all I need to do is inflict one point of damage on\n> any round other than the 1st? For example, Smallpox plays an Aid from\n> Bats at ANI, presses then Stutter-Step or Shadow Feint?\n>\n\nWith \"consecutive rounds\" I think the meaning is at least two rounds in\na row, or as many rounds until there is now damage dealt. So\nconsecutive is at least two and as many rounds until he fails to do\ndamage.\n\nAid from Bats does not do hand damage, which is a requirement for\nSmallpox's ability. But if he strikes with hand damage for at least 1\ndamage in round one, and then presses and does the same in round two,\nhis ability kicks in.\n\n> 2) How many pox counters will be placed on a minion? I understand it as\n> meaning a pox counter will be placed _every_combat_ (as opposed to\n> every round/point of damage) where the conditions (2nd round or onward,\n> unprevented damage from handstrike) are fulfilled.\n>\n\nI would say it only kicks in once each combat since the requirement is\nalready fullfilled after the \"first consecutive round\".\n\nArchie"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 12, 2006, 4:34:36\u202FPM",
+      "Body": "Cry Wolf wrote:\n> Smallpox Griet\n> ANI CEL OBF POT thn\n> Ability: If Smallpox successfully inflicts hand damage in consecutive\n> rounds of a combat, the opponent gets a pox counter. A minion with any\n> pox counters takes 1 damage during his or her untap phase. Burn all pox\n> counters when Smallpox leaves the ready region.\n>\n> I just want to clarify:\n> 1) Does \"successfully inflicts hand damage in consecutive rounds of a\n> combat\" mean that all I need to do is inflict one point of damage on\n> any round other than the 1st? For example, Smallpox plays an Aid from\n> Bats at ANI, presses then Stutter-Step or Shadow Feint?\n\nNo. You have to inflict one or more points of hand damage in each of\ntwo consecutive rounds.\n\n> 2) How many pox counters will be placed on a minion? I understand it as\n> meaning a pox counter will be placed _every_combat_ (as opposed to\n> every round/point of damage) where the conditions (2nd round or onward,\n> unprevented damage from handstrike) are fulfilled.\n\nDoesn't matter, but one pox counter is placed per round.\nIf you inflict hand damage in rounds 1, 2, 3, 5, and 6, you'll place a\ntotal of three pox counters, one in each of rounds 2, 3, and 6.\nBut note that a minion with three pox counters suffers exactly the same\nfate as he would with only one: he receives one damage at each untap."
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Sep 12, 2006, 4:38:54\u202FPM",
+      "Body": "\uE5D3\nSince I answered once for the combat, does that mean unless specified\nyou always check for special effects each round of a combat to see if\nthey are fulfilled??\n\nArchie"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 12, 2006, 4:49:27\u202FPM",
+      "Body": "Archibald Zimonyi wrote:\n> Since I answered once for the combat, does that mean unless specified\n> you always check for special effects each round of a combat to see if\n> they are fulfilled??\n\nSpecial effects are checked as often as card text allows/specifies,\nyes.\nSmallpox's pox counters don't care, however, so no great care need be\nspent determining just how often to check.\n\nI don't believe the fact that you gave a \"once for the combat\" answer\nhas any causal relationship to it, however. :-)"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Sep 12, 2006, 5:42:39\u202FPM",
+      "Body": "LSJ wrote:\n> Archibald Zimonyi wrote:\n> > Since I answered once for the combat, does that mean unless specified\n> > you always check for special effects each round of a combat to see if\n> > they are fulfilled??\n>\n> Special effects are checked as often as card text allows/specifies,\n> yes.\n\nexcept for Orun...\n\n--\n- Gregory Stuart Pettigrew"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Sep 12, 2006, 5:49:20\u202FPM",
+      "Body": "\uE5D3\nHeh no the actual result is the same but it irks me that I had already\nwritten the correct answer and then changed it due to feeling \"Hmmm LSJ\nis prolly gonna say only check it once\".\n\nArchie"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 12, 2006, 5:51:22\u202FPM",
+      "Body": "\uE5D3\n\nEven Orun. Orun is checked as often as card text indicates."
+    },
+    {
+      "Author": "Cry Wolf",
+      "Date": "Sep 13, 2006, 4:44:48\u202FAM",
+      "Body": "LSJ wrote:\n> Doesn't matter, but one pox counter is placed per round.\n> If you inflict hand damage in rounds 1, 2, 3, 5, and 6, you'll place a\n> total of three pox counters, one in each of rounds 2, 3, and 6.\n> But note that a minion with three pox counters suffers exactly the same\n> fate as he would with only one: he receives one damage at each untap.\n\nThank you! Just what I needed. Now to pack in those Grapples and Flak\nJackets. :)\n\nCry Wolf"
+    }
+  ]
+}

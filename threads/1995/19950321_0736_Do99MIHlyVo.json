@@ -1,0 +1,32 @@
+{
+  "ThreadId": "Do99MIHlyVo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Do99MIHlyVo",
+  "Title": "Trap Question - Tom Wylie??",
+  "Messages": [
+    {
+      "Author": "Jack Lo",
+      "Date": "Mar 21, 1995, 7:36:34\u202FAM",
+      "Body": "I'm still somewhat new at this game and this question may have\nalready been asked before but how long exactly does trap last.\nI thought it was 3 rounds but then it seems logical that it might\nlast 4 cuz the first round, the card played was the trap. On the\nother hand, my friend says that it lasts 5. Who's right?\nThanks to anybody who can answer this."
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Mar 21, 1995, 2:22:51\u202FPM",
+      "Body": "Jack Lo <pi...@leland.stanford.edu> writes:\n\n\uE5D3\n\nThe trap card counts as a card played. The official minimum is 4 rounds\n(barring a Press to End combat and strike: combat ends, of course).\n\nA computer programmed implementation of the tex on Trap would cause\na minimum of five rounds, however."
+    },
+    {
+      "Author": "Martin Filion",
+      "Date": "Mar 21, 1995, 5:57:49\u202FPM",
+      "Body": "\uE5D3\n\nOk. This is the answer. You play Trap at the beginning of the combat.\nAt the end of each round, Trap plays a Press to Continue until 3 rounds\nof combat occurs.\n\nSo for example you're at the end of the first round, Trap plays a press\nto continue. Your opponent plays a Press End. Trap plays another press to\ncontinue because he has to do this until 3 rounds of combat occurs. Get the\npicture? You can't escape from the 3 rounds (unless a combat ends occurs\nhas a strike during the trap).\n\nThe important thing to remember is not how many presses to continue\noccurs but to be sure to play 3 rounds of combat.\n\nMartin Filion\nMontreal, Qb (Canada)\nmord...@gmgate.gamemaster.qc.ca."
+    },
+    {
+      "Author": "James R. McClure Jr.",
+      "Date": "Mar 21, 1995, 7:09:09\u202FPM",
+      "Body": "mord...@vircom.com (Martin Filion) wrote:\n\nPeace Martin,\n\n> Ok. This is the answer. You play Trap at the beginning of the combat.\n> At the end of each round, Trap plays a Press to Continue until 3 rounds\n> of combat occurs.\n\nThis is correct.\n\n> So for example you're at the end of the first round, Trap plays a press\n> to continue. Your opponent plays a Press End. Trap plays another press to\n> continue because he has to do this until 3 rounds of combat occurs. Get the\n> picture? You can't escape from the 3 rounds (unless a combat ends occurs\n> has a strike during the trap).\n\nTrap does not press twice in the same round. Trap provides A press to continue\ncombat. If the other player presses to end, the combat ends.\n\nNil carborundum illigitimi,\n\nJames R. McClure Jr.\nThe OS/2 Apostle\n\n<insert disclaimer here>"
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Mar 21, 1995, 7:35:24\u202FPM",
+      "Body": "mord...@vircom.com (Martin Filion) writes:\n\n> Ok. This is the answer. You play Trap at the beginning of the combat.\n>At the end of each round, Trap plays a Press to Continue until 3 rounds\n>of combat occurs.\n\n> So for example you're at the end of the first round, Trap plays a press\n>to continue. Your opponent plays a Press End. Trap plays another press to\n>continue because he has to do this until 3 rounds of combat occurs. Get the\n>picture? You can't escape from the 3 rounds (unless a combat ends occurs\n>has a strike during the trap).\n\nSorry, but the Trap only supplies ONE press per round of combat (and none\nat the point where three rounds will have passed with no Meth playing\nany cards.\n\n(All this is a summary of the answers provided by Tom Wylie on the subject).\n\nIf a minion cancels the press supplied by the trap (with a press which would\nbe used to end combat), the combat ends unless the opposing Minion plays\nyet another press (or uses a Hawg or Mob Connections to generate another\nPress).\n\n> The important thing to remember is not how many presses to continue\n>occurs but to be sure to play 3 rounds of combat.\n\nThe important thing is to remember when the last round occurred in which a\nMethuselah played a card. The third round after that, the Trap does not\ngenerate the (otherwise) automatic Press to Continue.\n\n0: Trap!\nLoop:\n1. Maneuver\n2. Strike\n3. Is this the third round that has occurred after the last card\nplayed by a Methuselah?\nN: A Press (to Continue Combat) is supplied by the Trap\nY: A Press is NOT supplied by the Trap.\n4. Press.\n5. If there is an unmatched Press (to Continue Combat), goto Loop:\n6. Combat Ends."
+    }
+  ]
+}

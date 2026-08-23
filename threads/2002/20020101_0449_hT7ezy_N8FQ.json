@@ -1,0 +1,27 @@
+{
+  "ThreadId": "hT7ezy_N8FQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hT7ezy_N8FQ",
+  "Title": "Faceless Night Question (bit of a corner case)",
+  "Messages": [
+    {
+      "Author": "Kerr",
+      "Date": "Jan 1, 2002, 4:49:49\u202FAM",
+      "Body": "Minion A Bleeds minion B has a sports bike and attempts to block. Minion A\nplays Elder Impersonation at superior. Now minion C attempts to block.\nMinion A now plays Faceless Night at superior do both minion B and C tap?"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Jan 1, 2002, 7:36:46\u202FAM",
+      "Body": ">Minion A Bleeds minion B has a sports bike and attempts to block. Minion A\n>plays Elder Impersonation at superior. Now minion C attempts to block.\n>Minion A now plays Faceless Night at superior do both minion B and C tap?\n\nYes, both minions will eventually be tapped.\n\nFrom: LSJ (vte...@white-wolf.com)\nSubject: Re: [Q] Elder Impersonation + Faceless Night\nNewsgroups: rec.games.trading-cards.jyhad\nView this article only\nDate: 2001-12-02 17:52:31 PST\n\nbingotclown wrote:\n>\n> I'm not sure about the timing of these cards\n>\n> If a minion is blocked and plays Faceless Night (sup) and the blocking\n> minion increases his/her intercept, can I then play Elder Impersonation\n> (sup). If that is the case then is the blocking minion tapped or untapped.\n\nIf by \"is blocked\" you mean \"is acting and another minion attempts to block\",\nthen: Yes. Tapped.\n\nHalcyan 2"
+    },
+    {
+      "Author": "The Fanboy",
+      "Date": "Jan 1, 2002, 1:19:00\u202FPM",
+      "Body": "> >Minion A Bleeds minion B has a sports bike and attempts to block. Minion A\n> >plays Elder Impersonation at superior. Now minion C attempts to block.\n> >Minion A now plays Faceless Night at superior do both minion B and C tap?\n>\n> Yes, both minions will eventually be tapped.\n\nThe text you quote doesn't cover the same situation.\n\nSituation 1:\n\nMinion A: Declares Action\nMinion B: Attempts Block\nMinion A: Plays Faceless Night at OBF\nMinion B: Plays Spirit's Touch at aus\nMinion A: Plays Elder Impersonation at OBF, block fails per card text.\n\nFaceless night is, at the moment the block fails, modifying the\naction, so the blocker is tapped. This situation is pretty cut and\ndried, and is the order of play in the text you quote.\n\nThis question changes order of play:\nMinion A: Declares Action\nMinion B: Attempts Block\nMinion A: Plays Elder Impersonation at OBF, block fails per card text\nMinion C: Attempts block\nMinion A: Plays Faceless Night at OBF. Minion C cannot generate\nintercept - block fails.\n\nMinion C is tapped, that's a no-brainer. What about minion B? The\nblock had already failed before Faceless Night was played -- he was no\nlonger part of the blocking process. Is he affected by future action\nmodifiers? Do action modifiers that affect blocking minions have a\nretroactive effect? The situation is not nearly as cut and dried.\n\nMy instinct tells me no, Minion B is not tapped - he's out of the\nequation by the time the card is played. Of course, my instinct is\noften wrong, but still, the fact that he opted out BEFORE the card was\nplayed indicates that he shouldn't be tapped.\n\nFanboy"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 1, 2002, 2:55:47\u202FPM",
+      "Body": "\uE5D3\n\nCorrect. The minion currently attempting to block when Faceless Night\nis played and all minions attempting to block after it has been played\nare tapped by it (if played at superior, of course). The minions\nwho had attempted to block before (and whose attempts are not \"active\"\nwhen) FN is played are not affected.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

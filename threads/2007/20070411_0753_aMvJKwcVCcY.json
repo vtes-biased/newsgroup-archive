@@ -1,0 +1,107 @@
+{
+  "ThreadId": "aMvJKwcVCcY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/aMvJKwcVCcY",
+  "Title": "I suck at Maths",
+  "Messages": [
+    {
+      "Author": "J",
+      "Date": "Apr 11, 2007, 7:53:52\u202FAM",
+      "Body": "For those that don't - what's the probability of this happening.\nI have a crypt of 13 minions, 9x Imbued and 4x a Vampire.\n\nI don't get the Vampire in my opening crypt, I pay 1 to see 1 until I\nget the Vampire, but find that the Vampire is the final 4 cards of the\ncrypt.\n\nYes, this happened to me the other night. I would like to know how\nunlucky I was.\n\nIt was a bad night for me. I also played a Parity Shift deck packing\n8 Shifts in 75 cards. I went through close to 30 cards and still\ndidn't find a single Shift, and effectively died to my own First Trad.\n\n--> J\ngrail_pbem \"at\" hotmail.com"
+    },
+    {
+      "Author": "Alf",
+      "Date": "Apr 11, 2007, 8:33:51\u202FAM",
+      "Body": "\uE5D3\n\nI suck too, but I have this cool link here for you and me and all\nthe other \"suckers\" ;-))\n\nhttp://irafay.com/combo.php\n\"A combo card drawing simulation\"\n\nCheers,\nAlf\n- can't do nothing about your luck though"
+    },
+    {
+      "Author": "CthuluKitty",
+      "Date": "Apr 11, 2007, 8:54:32\u202FAM",
+      "Body": "> I have a crypt of 13 minions, 9x Imbued and 4x a Vampire.\n>\n> I don't get the Vampire in my opening crypt, I pay 1 to see 1 until I\n> get the Vampire, but find that the Vampire is the final 4 cards of the\n> crypt.\n\nThe math for this one is pretty simple. The number of possible draws\n(including multiple permutations where different copies of the same\ncard show up in different places) is 13!, or 13x12x11...x2x1.\n\nWith 4 copies of the vampire in question, there are 4! ways to arrange\nthe different copies, and there are 9! ways to arrange the cards above\nthem in the crypt.\n\nSo the probability comes out to p = 9! x 4! / 13! = 1 / 715 or .0014\n\n> Yes, this happened to me the other night. I would like to know how\n> unlucky I was.\n\nVery.\n\n> It was a bad night for me. I also played a Parity Shift deck packing\n> 8 Shifts in 75 cards. I went through close to 30 cards and still\n> didn't find a single Shift, and effectively died to my own First Trad.\n\nThe math on this one is harder, since you have to account for all the\ndifferent ways you could draw 30 cards without seeing a Parity Shift.\nI'm not inclined to do it right now. I am however inclined to say\nthat given both of these unlikely circumstances, there is probably a\ncommon variable involved other than pure randomness. In other words,\nyou should probably shuffle your decks better."
+    },
+    {
+      "Author": "Appolonius",
+      "Date": "Apr 11, 2007, 9:44:28\u202FAM",
+      "Body": "CthuluKitty wrote:\n>\n>> It was a bad night for me. I also played a Parity Shift deck packing\n>> 8 Shifts in 75 cards. I went through close to 30 cards and still\n>> didn't find a single Shift, and effectively died to my own First Trad.\n>\n> The math on this one is harder, since you have to account for all the\n> different ways you could draw 30 cards without seeing a Parity Shift.\n\nI make the probability of drawing 30 cards without seeing any of 8\nParity Shifts in a 75 card deck (67! 45!) / (75! 37!) or roughly a 1.3%\nchance.\n\nAppolonius."
+    },
+    {
+      "Author": "J",
+      "Date": "Apr 11, 2007, 9:57:21\u202FAM",
+      "Body": "> I'm not inclined to do it right now. I am however inclined to say\n> that given both of these unlikely circumstances, there is probably a\n> common variable involved other than pure randomness. In other words,\n> you should probably shuffle your decks better.\n\nOh, they were shuffled properly.... i shuffled the Parity Shift deck\nfor about 15 minutes before the start of the game.\n\n\uE5D3"
+    },
+    {
+      "Author": "coincoi...@hotmail.com",
+      "Date": "Apr 11, 2007, 10:55:55\u202FAM",
+      "Body": ">\n> Oh, they were shuffled properly.... i shuffled the Parity Shift deck\n> for about 15 minutes before the start of the game.\n>\n> --> J\n> grail_pbem \"at\" hotmail.com\n\nassuming they were, you had:\n67/75 chances to have a card different than a Parity shift as the\nfirst card you draw\n66/74 chances to have a card different than a Parity shift as the\nsecond card you draw\n65/73 chances to have a card different than a Parity shift as the\nthird card you draw\n...\nso if you didn't geta Parity shift in your top 30 cards, that means:\n67! 46! / 38! 75! = 46*45*44*43*42*41*40*39 / 75*74*73*72*71*70*69*68\n= 1,55%\n\ngood luck, Jim ^^"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Apr 11, 2007, 5:48:22\u202FPM",
+      "Body": "> I don't get the Vampire in my opening crypt, I pay 1 to see 1 until I\n> get the Vampire, but find that the Vampire is the final 4 cards of the\n> crypt.\n>\n> Yes, this happened to me the other night. I would like to know how\n> unlucky I was.\n\nNumber of combinations possible with 13 crypt cards: 13! = 6,227,020,800\nNumber of combinations that have the 4 vampire cards as bottom four cards:\n4!*9! = 8,709,120\n\nOdds of this happening: 8,709,120 / 6,227,020,800 = 0,001389, or about\n0,14%.\n\nAnother way to look at it:\n\nNumber of ways to put 4 vampire cards in a stack of 13: 13nCr4\nNumbers of ways to have them as the four bottom ones: 1\n\nOdds of it happening: 1 / 13nCr4 = 1 / 715 which also is 0,001389 or 0,14%.\n\nIn short: you were \"rather unlucky\" :-)"
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Apr 12, 2007, 4:13:41\u202FAM",
+      "Body": "J <gra...@hotmail.com> wrote:\n> For those that don't - what's the probability of this happening.\n> I have a crypt of 13 minions, 9x Imbued and 4x a Vampire.\n>\n> I don't get the Vampire in my opening crypt, I pay 1 to see 1 until I\n> get the Vampire, but find that the Vampire is the final 4 cards of the\n> crypt.\n>\n> Yes, this happened to me the other night. I would like to know how\n> unlucky I was.\n\nYou weren't unlucky, and your problem has nothing to do with luck. You\njust have bad shuffling skill. :)\n\nKevin M., Prince of Las Vegas\n\"Know your enemy, and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment... Complacency... Catastrophe!\" -- Joseph Chevalier"
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Apr 12, 2007, 4:16:26\u202FAM",
+      "Body": "J <gra...@hotmail.com> wrote:\n> i shuffled the Parity Shift deck for about 15 minutes\n> before the start of the game.\n\nYou are shuffling too much. Pile shuffle in any way you like, then\nriffle-shuffle a few times. Then STOP. :)\n\n\uE5D3"
+    },
+    {
+      "Author": "J",
+      "Date": "Apr 12, 2007, 7:02:16\u202FAM",
+      "Body": "> You are shuffling too much. Pile shuffle in any way you like, then\n> riffle-shuffle a few times. Then STOP. :)\n\nI might have to do that...\nI shuffled for so long because I was waiting for the next game to\nstart after getting ousted in the game prior. And there's only so\nmuch death match Red Faction you can play whilst waiting.\n\n\uE5D3"
+    },
+    {
+      "Author": "Oortje",
+      "Date": "Apr 12, 2007, 3:50:35\u202FPM",
+      "Body": "I agree with Kevin. You are a bad shuffler. Dont you ever tough my\ndecks!!!\n\n:)\n\ngreetz,\nOortje"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Apr 12, 2007, 8:58:02\u202FPM",
+      "Body": "\uE5D3\n\nIs toughing a deck like thugging it? :)\n\nSeriously though, the optimum randomization of a deck occurs at 3\nshuffles, ie riflle shuffle, mix shuffle, repeat 2 more times, STOP!"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Apr 20, 2007, 4:51:19\u202FAM",
+      "Body": "Two more math questions.\n\n1) If my crypt is 4x copies each of three different guys, what is the\nchance that all three of them will show up in my opening crypt draw?\n\n2a) If my crypt is 3x copies each of four different guys, what is the\nchance that all four of them will show up in my opening crypt draw?\nb) What is the chance that at least three of them will show up in my\nopening crypt draw?\n\nThanks!\n\nJohn Eno"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Apr 20, 2007, 2:24:19\u202FPM",
+      "Body": "\uE5D3\n\n1) 58,1%\n\n2)\na) 16,36%\nb) 28.181%"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 20, 2007, 2:41:37\u202FPM",
+      "Body": "Kushiel wrote:\n> Two more math questions.\n>\n> 1) If my crypt is 4x copies each of three different guys, what is the\n> chance that all three of them will show up in my opening crypt draw?\n\nChoose 1 to double-up on, then draw two of those:\nC(3,1) * C(4,2)\nDraw 1 of each of the others:\n* C(4,1) * C(4,1)\nDivide by number of possible hands:\n/ (12*11*10*9 / 4!)\n\n3 * 6 * 4 * 4 * 24 / 12*11*10*9 = 58.1%\n\n> 2a) If my crypt is 3x copies each of four different guys, what is the\n> chance that all four of them will show up in my opening crypt draw?\n\n3/12 * 3/11 * 3/10 * 3/9 * 4! = 16.4%\n\n> b) What is the chance that at least three of them will show up in my\n> opening crypt draw?\n\nFirst compute the chance of getting exactly 3:\n(= choose 1 to double-up on, choose 2 to get singles, then draw them)\n\n4 * 3 * 3 * 3 * 3 * 4! / 12*11*10*9 = 65.5%\n\nSo the odds of getting at least three = 65.5% + 16.4% = 81.9%\n\n(or compute the odds of seeing only two: C(4,2) * C(6,4) * 4! / 12*11*10*9 =\n18.1 and subtract from 100%)"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Apr 20, 2007, 3:04:29\u202FPM",
+      "Body": "On Apr 20, 2:41 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Kushiel wrote:\n> > Two more math questions.\n>\n> > 1) If my crypt is 4x copies each of three different guys, what is the\n> > chance that all three of them will show up in my opening crypt draw?\n\n<snip>\n\n> First compute the chance of getting exactly 3:\n> (= choose 1 to double-up on, choose 2 to get singles, then draw them)\n>\n> 4 * 3 * 3 * 3 * 3 * 4! / 12*11*10*9 = 65.5%\n>\n> So the odds of getting at least three = 65.5% + 16.4% = 81.9%\n>\n> (or compute the odds of seeing only two: C(4,2) * C(6,4) * 4! / 12*11*10*9 =\n> 18.1 and subtract from 100%)\n\n-on 2b)\n\nI've forgot to multiply by 4 and LSJ added extra 3.\nThis is exact:\n\n4 * 3 * 3 * 3 * 4! / 12*11*10*9 = 28.181%\n\n28.181% + 16.4% = 44,581%"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 20, 2007, 3:14:01\u202FPM",
+      "Body": "\uE5D3\n\nUm, there was no extra three in my formula (as you can verify by the computation\nof seeing only two, as shown above, and comparing the answers).\n\nChoose 1 to double and take 2 of those:\nC(4,1) * C(3,2) = 4 * 3\n\nThen choose two to get singles of, and choose 1 of each:\nC(3,2) * C(3,1) * C(3,1) = 3 * 3 * 3\n\nThat makes (4 * 3) * (3 * 3 * 3)\n\nThen divide by the number of different draws of 4 (12*11*10*9 / 4!)\n\nThat makes\n\n4 * 3 * 3 * 3 * 3 * 24 / 12*11*10*9 = 0.6545454... = 65 and 5/11 percent."
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Apr 20, 2007, 3:52:41\u202FPM",
+      "Body": "\uE5D3\n\nYou have just chosen three instead of two.\nIt should be:\nC(3,1) * C(3,1) * C(3,0) = 3 * 3 * 1\n\nC(3,0) means that you have chosen none of the ramaining 3 copies of\n4th vamp.\n\n>\n> That makes (4 * 3) * (3 * 3 * 3)\n>\n> Then divide by the number of different draws of 4 (12*11*10*9 / 4!)\n>\n> That makes\n>\n\n> 4 * 3 * 3 * 3 * 3 * 24 / 12*11*10*9 = 0.6545454... = 65 and 5/11 percent.- Hide quoted text -\n>\n> - Show quoted text -\n\nThis is how i did ti:\n\nEg. we have vamps 3xA, 3XB, 3xC, 3xD in crypt\nUncontroled region posibilities for EXACTLY tree diferent vamps (order\ninside row is irelevant):\n1. AABC\n2. ABBC\n3. ABCC\n4. BCDD\n\n4 * C(3,2) * C(3,1) * (3,1) * C(3,0) / C(12,4) = 4 * 3 * 3 * 3 * 1\n*4! * 8! / 12! = 0,21818182\n\nC(3, 2) - chose 2 of 3 copies of vamp (eg. AA)\nC(3,1) - cohose 1of 3 copies of vamp (eg. BC)\nC(3, 0) - cohse none of 3 copies of vamp (eg. no D)\nC(12, 4) - chose 4 of 12 copies of crypt cards\n4 - four ways to chose vamp which will show up in 2 copies (we can\nchose eather A,B,C or D to be in 2 copies)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 20, 2007, 4:19:42\u202FPM",
+      "Body": "ResurrectioN wrote:\n>> Um, there was no extra three in my formula (as you can verify by the computation\n>> of seeing only two, as shown above, and comparing the answers).\n>>\n>> Choose 1 to double and take 2 of those:\n>> C(4,1) * C(3,2) = 4 * 3\n>>\n>> Then choose two to get singles of, and choose 1 of each:\n>> C(3,2) * C(3,1) * C(3,1) = 3 * 3 * 3\n>\n> You have just chosen three instead of two.\n\nNo.\n\nChoose two to get singled. You have three to choose from, since you cannot\nchoose the one you've already chosen to double. So that makes: C(3,2)\n\nSay you choose Bob and Rob.\n\nThen choose 1 of the Bobs. C(3,1)\nThen choose 1 of the Robs. C(3,1)\n\n> It should be:\n> C(3,1) * C(3,1) * C(3,0) = 3 * 3 * 1\n>\n> C(3,0) means that you have chosen none of the ramaining 3 copies of\n> 4th vamp.\n\nBut you've neglected to choose which of the vampires is the fourth.\n\nIf you like, choose 1 to get doubled and choose 1 to omit.\n\nA. C(4,1) <- choose who gets doubled\nB. C(3,2) <- choose two copies of that vampire\nC. C(3,1) <- choose who gets omitted\nD. C(3,1) <- choose 1 of the other vampires (neither omitted nor doubled)\nE. C(3,1) <- choose 1 of the remaining vampires (not chosen in A,C, or D above).\n\nAnd, again, this can be verified by computing the probability of seeing exactly\n2 vampires.\n\n>> That makes (4 * 3) * (3 * 3 * 3)\n>>\n>> Then divide by the number of different draws of 4 (12*11*10*9 / 4!)\n>>\n>> That makes\n>>\n>> 4 * 3 * 3 * 3 * 3 * 24 / 12*11*10*9 = 0.6545454... = 65 and 5/11 percent.- Hide quoted text -\n>>\n>> - Show quoted text -\n>\n>\n> This is how i did ti:\n>\n> Eg. we have vamps 3xA, 3XB, 3xC, 3xD in crypt\n> Uncontroled region posibilities for EXACTLY tree diferent vamps (order\n> inside row is irelevant):\n> 1. AABC\n> 2. ABBC\n> 3. ABCC\n> 4. BCDD\n>\n\nWhat about\nAABD\nAACD\nABBD\nBBCD\nACCD\nBCCD\nABDD\nACDD\n\n> 4 * C(3,2) * C(3,1) * (3,1) * C(3,0) / C(12,4) = 4 * 3 * 3 * 3 * 1\n> *4! * 8! / 12! = 0,21818182\n>\n> C(3, 2) - chose 2 of 3 copies of vamp (eg. AA)\n> C(3,1) - cohose 1of 3 copies of vamp (eg. BC)\n> C(3, 0) - cohse none of 3 copies of vamp (eg. no D)\n> C(12, 4) - chose 4 of 12 copies of crypt cards\n> 4 - four ways to chose vamp which will show up in 2 copies (we can\n> chose eather A,B,C or D to be in 2 copies)\n\nand still needed: 3 -- three ways to choose vamp which will not show up at all\n(we can choose any of the three not already chosen to be the double-up vampire)."
+    },
+    {
+      "Author": "J",
+      "Date": "Apr 21, 2007, 10:42:45\u202FAM",
+      "Body": "Freaks the lot of you...\n:P\n\uE5D3"
+    }
+  ]
+}

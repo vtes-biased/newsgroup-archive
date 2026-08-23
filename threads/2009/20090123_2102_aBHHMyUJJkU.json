@@ -1,0 +1,57 @@
+{
+  "ThreadId": "aBHHMyUJJkU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/aBHHMyUJJkU",
+  "Title": "LSJ- Enkil Cog/Madness Network Etiquette",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Jan 23, 2009, 9:02:23\u202FPM",
+      "Body": "Now that Madness Network has be given new language, what is the proper\netiquette for taking a Enkil Cog/Madness Network actions. Do does the\nplayer whose minion phase it is have to ask the player controllling\nEnkil Cog/Madness Network if he wants to take an action after each of\nhis actions or does the Enkil Cog/Madness Network player have to\nannouce that he wants to take an action after the current action?\n\nMadness Network\nType: Master\nRequires: Malkavian\nUnique master.\nPut this card in play. Untapped Malkavians can take actions in any\nMethuselah's minion phase (follow normal sequencing rules). Any minion\ncan burn this card as an action that any untapped Malkavian (in\naddition to the normally eligible blockers) can attempt to block.\n\nEnkil Cog\nType: Action Modifier\nRequires: capacity 10\nRequires a vampire of capacity 10 or more. Unique.\nOnly usable when this vampire successfully bleeds your prey (play\nafter resolution). Put this card on this vampire. During any\nMethuselah's minion phase, this vampire may tap this card to attempt\nan action. This vampire has +1 bleed."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 23, 2009, 9:07:15\u202FPM",
+      "Body": "On Jan 23, 2:02 pm, XZealot <xzea...@cox.net> wrote:\n> Now that Madness Network has be given new language, what is the proper\n> etiquette for taking a Enkil Cog/Madness Network actions.  Do does the\n> player whose minion phase it is have to ask the player controllling\n> Enkil Cog/Madness Network if he wants to take an action after each of\n> his actions or does the Enkil Cog/Madness Network player have to\n> annouce that he wants to take an action after the current action?\n>\n\nCovered too many times to count. Do a search for Enkil Cog author:lsj"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 23, 2009, 9:20:26\u202FPM",
+      "Body": "\uE5D3\n\nOh, I'm sure I could count that high.\n\nAnyway, the sequencing rules given in the rulebook provide the framework to\nhandle this sequencing issue:\n\nPlayer whose minion phase it is: A.\nPlayer controlling The Madness Cog: B.\nThe opportunity to play an effect or pass: impulse.\n\nA's turn.\nMinion phase.\nTime to declare an action.\nA has the impulse.\nA has minion W take an action.\n...\nAction resolves.\n\nBetween-action (Heidelberg)\nA has the impulse.\nA passes. All pass.\n\nTime to declare an action.\nA has the impulse.\n(repeat until A passes the opportunity to declare the next action).\n\n...\nTime to declare an action.\nA has the impulse.\nA passes.\nB has the impulse.\nB has minion X take an action.\n...\nAction resolves.\nBetween-action (Heidelberg)\nA has the impulse.\nA passes. All pass.\n\nTime to declare an action.\nA has the impulse.\n(repeat until A passes the opportunity to declare the next action).\n\nAnd so on until \"all pass\", ending A's minion phase."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jan 23, 2009, 9:46:10\u202FPM",
+      "Body": "On Jan 23, 2:02 pm, XZealot <xzea...@cox.net> wrote:\n\n> Now that Madness Network has be given new language, what is the proper\n> etiquette for taking a Enkil Cog/Madness Network actions.  Do does the\n> player whose minion phase it is have to ask the player controllling\n> Enkil Cog/Madness Network if he wants to take an action after each of\n> his actions or does the Enkil Cog/Madness Network player have to\n> annouce that he wants to take an action after the current action?\n\nNeither; the player whose minion phase it is doesn't have to ask that\nquestion until he is done taking as many actions as he wants.\n\nIt doesn't matter if the EC/MMN wants to take an action after the\nacting player's first action; they're not allowed to take it until the\nacting player is done taking however many actions they want before\npassing the opportunity along.\n\n(Think of it like playing before-range cards in a combat - the acting\nplayer plays as many as he wants, and then everybody else gets an\nopportunity, and if anybody makes a single play the acting minion gets\nto play as many more as he likes, etc.)\n\n-John Flournoy"
+    },
+    {
+      "Author": "malcol...@gmail.com",
+      "Date": "Feb 3, 2009, 9:08:52\u202FPM",
+      "Body": "On Jan 23, 3:46 pm, John Flournoy <carne...@gmail.com> wrote:\n> On Jan 23, 2:02 pm, XZealot <xzea...@cox.net> wrote:\n>\n> > Now that Madness Network has be given new language, what is the proper\n\n> > etiquette for taking aEnkilCog/Madness Network actions.  Do does the\n\n> > player whose minion phase it is have to ask the player controllling\n\n> >EnkilCog/Madness Network if he wants to take an action after each of\n> > his actions or does theEnkilCog/Madness Network player have to\n\n> > annouce that he wants to take an action after the current action?\n>\n> Neither; the player whose minion phase it is doesn't have to ask that\n> question until he is done taking as many actions as he wants.\n>\n> It doesn't matter if the EC/MMN wants to take an action after the\n> acting player's first action; they're not allowed to take it until the\n> acting player is done taking however many actions they want before\n> passing the opportunity along.\n>\n> (Think of it like playing before-range cards in a combat - the acting\n> player plays as many as he wants, and then everybody else gets an\n> opportunity, and if anybody makes a single play the acting minion gets\n> to play as many more as he likes, etc.)\n>\n> -John Flournoy\n\nThat sounds like a contradiction of what LSJ just said:\n--------------------------------------------------------\n\nThe opportunity to play an effect or pass: impulse.\n\nBetween-action (Heidelberg)\nA has the impulse.\nA passes. All pass.<-----------------\n\nTime to declare an action.\nA has the impulse.\n(repeat until A passes the opportunity to declare the next action).\n\n---------------------------------\nIt seems like everyone gets a chance between every action to play\neffects(starting with A who has impulse, and going around). So It\nwould seem that after A's first action, and after any effects A wants\nto lay after that action, that B could tap his cog, or activate his\nnetwork."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 3, 2009, 9:17:23\u202FPM",
+      "Body": "malcol...@gmail.com wrote:\n> That sounds like a contradiction of what LSJ just said:\n> --------------------------------------------------------\n> The opportunity to play an effect or pass: impulse.\n>\n> Between-action (Heidelberg)\n> A has the impulse.\n> A passes. All pass.<-----------------\n>\n> Time to declare an action.\n> A has the impulse.\n> (repeat until A passes the opportunity to declare the next action).\n>\n> ---------------------------------\n> It seems like everyone gets a chance between every action to play\n> effects(starting with A who has impulse, and going around). So It\n> would seem that after A's first action, and after any effects A wants\n> to lay after that action, that B could tap his cog, or activate his\n> network.\n\nNo, John has it right.\n\nYou're overlooking the fact that declaring an action is, by definition, not a\nbetween-actions effect.\n\nSo A can't declare an action in the \"between-actions\" phase (in an attempt to\nkeep B from using Heidelberg Castle, for example).\n\nAnd B can't tap the Cog to declare an action in the \"between-actions\" phase.\n\nTapping the Cog can only be done when it's time to declare an action.\nSimilarly declaring an action via the Madness Network can only be done when it's\ntime to declare an action."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 9, 2009, 12:23:58\u202FPM",
+      "Body": "\uE5D3\n\nSo, supposing the situation to be : C is afraid of B's action, and\ndoesn't want to use his Heidelberg until he gets the impulse to\ndeclare an action.\n\nTime to declare an action.\nA has the impulse.\nA passes.\nB has the impulse.\n\nB passes.\n\nCan C use his Heidelberg right there? I think not, but I'm really not\nsure.\n\nIf he can, who has the impulse to declare an action afterwards? Is it\nA or C?\nIf he can, I suppose the answer to this one must be A - this is why :\nOtherwise, supposing all but E pass, A could tap his Heidelberg to\nmoove all blood from an untapped vampire to any other, and then if E\nstill has the impulse, and passes, A would've ended his minion phase\nwith an untapped ready vampire with no blood."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 9, 2009, 2:14:37\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> So, supposing the situation to be : C is afraid of B's action, and\n> doesn't want to use his Heidelberg until he gets the impulse to\n> declare an action.\n>\n> Time to declare an action.\n> A has the impulse.\n> A passes.\n> B has the impulse.\n> B passes.\n>\n> Can C use his Heidelberg right there? I think not, but I'm really not\n> sure.\n\n\"No\" is correct."
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Feb 9, 2009, 4:04:57\u202FPM",
+      "Body": "\uE5D3\n\nCould I ask for reasoning please? Heidelberg may not be used during an\naction, does this mean there is no space after the passing of the\nimpulse, before the taking of an Enkil/MN action to tap it in?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 9, 2009, 4:09:50\u202FPM",
+      "Body": "\uE5D3\n\nC passed during the \"use Heidelberg\" window (as did everyone else).\n\nNow we're up to \"declare an action\". Using HC is not an action."
+    }
+  ]
+}

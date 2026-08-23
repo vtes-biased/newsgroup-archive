@@ -1,0 +1,117 @@
+{
+  "ThreadId": "Hx_PpwXomTc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Hx_PpwXomTc",
+  "Title": "Archon (the computer one) Questions",
+  "Messages": [
+    {
+      "Author": "Peter D Bakija",
+      "Date": "May 31, 2009, 9:21:07\u202FPM",
+      "Body": "Right. So through clever downloading of OpenOffice (and installing X11?\nWhat the heck is X11?), I got the Archon to work on my mac. A few\nquestions/comments:\n\n-Apparently, the machine will only automatically make up seating for you\nif you have a 3R+F tournament. Why not for a 2R+F tournament?\n\n-With the auto seating, my suspicions were confirmed--the first round\nseems to be just all the players in order (i.e. seating for R1 is player\n1, 2, 3, 4, 5 and then 6, 7, 8, 9, 10 and so on). So when you go to a\ntournament and sign in with the organizer, and he puts you and the 3\nother guys you drove down with into the Archon in order that you signed\nup, you will spend your first game sitting with the 3 other guys you\ndrove in with (unless you are over a table break, in which case, you\nwill be with a couple guys you drove in with, and the other couple will\nbe sitting next to each other at the next table...). In the order in\nwhich you registered for the tournament. Can this be fixed? Or can\npeople who are using Archon make a larger effort to actually randomize\npeople? Or something? That whole \"your first game is the guys you play\nwith every week, in order\" aspect of tournaments tends to blow.\n\n-When messing around with the Archon, it seems like the \"Standings\" page\ndoesn't auto fill in, and you need to manually add players. Is this\ncorrect?\n\n-I couldn't get the \"methuselah\" page to show game wins. I ran a fake\ntournament with 15 fake players, and went through each round and put in\nVPs, but there wasn't anywhere to put in GWs (well, there was, but it\nwas a locked cell), and the program didn't seem to update these\nanywhere. What am I doing wrong?\n\n-I couldn't get the final game to indicate standings--the cells for\n\"standing\" would always just say \"pending\". What was I doing wrong?\n\nThanks,\n\nPeter D Bakija\npd...@lightlink.com\nhttp://www.lightlink.com/pdb6/vtes.html\n\n\"It's too bad she won't live! But then again, who does?\"\n-Gaff"
+    },
+    {
+      "Author": "Hodgestar",
+      "Date": "May 31, 2009, 9:51:49\u202FPM",
+      "Body": "On May 31, 9:21 pm, Peter D Bakija <p...@lightlink.com> wrote:\n> -With the auto seating, my suspicions were confirmed--the first round\n> seems to be just all the players in order (i.e. seating for R1 is player\n> 1, 2, 3, 4, 5 and then 6, 7, 8, 9, 10 and so on). So when you go to a\n> tournament and sign in with the organizer, and he puts you and the 3\n> other guys you drove down with into the Archon in order that you signed\n> up, you will spend your first game sitting with the 3 other guys you\n> drove in with (unless you are over a table break, in which case, you\n> will be with a couple guys you drove in with, and the other couple will\n> be sitting next to each other at the next table...). In the order in\n> which you registered for the tournament. Can this be fixed? Or can\n> people who are using Archon make a larger effort to actually randomize\n> people? Or something? That whole \"your first game is the guys you play\n> with every week, in order\" aspect of tournaments tends to blow.\n\nThe organizers should randomly assign each entrant an initial seat and\nthen number players according to how they are seated. If they're not\ndoing this then they're not running the tournament correctly. :)\n\n> -When messing around with the Archon, it seems like the \"Standings\" page\n> doesn't auto fill in, and you need to manually add players. Is this\n> correct?\n\nMy standings page sets auto-filled in, but I have experienced some\ngeneral weirdness using The Archon v1.2 in OO on Linux. The 1.3\nversion that I found at http://www.tenerdo.org/TheArchon1.3.zip works\nmuch better.\n\n> -I couldn't get the \"methuselah\" page to show game wins. I ran a fake\n> tournament with 15 fake players, and went through each round and put in\n> VPs, but there wasn't anywhere to put in GWs (well, there was, but it\n> was a locked cell), and the program didn't seem to update these\n> anywhere. What am I doing wrong?\n\nThis is one of the problems I had in OO that was fixed in v1.3.\n\n> -I couldn't get the final game to indicate standings--the cells for\n> \"standing\" would always just say \"pending\". What was I doing wrong?\n\nNot one of the weirdnesses I saw.\n\nP.S. X11 is the Unix / Linux windowing environment.\n\nSchiavo\nSimon"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "May 31, 2009, 9:56:38\u202FPM",
+      "Body": "In article\n<1d848317-1397-4cd8...@r16g2000vbn.googlegroups.com>,\n\nHodgestar <hodg...@gmail.com> wrote:\n> The organizers should randomly assign each entrant an initial seat and\n> then number players according to how they are seated. If they're not\n> doing this then they're not running the tournament correctly. :)\n\nAh, see, yeah, I think people keep not doing this. But it is also non\nintuitive based on the program--it seems like it *should* work such that\npeople come up to the organizer, give them information, organizer inputs\nit, and then machine does the rest. But I guess not.\n\nCan you put in player information *except* their number, and then put\nthe numbers in later, out of order? I gotta try that out.\n\n> My standings page sets auto-filled in, but I have experienced some\n> general weirdness using The Archon v1.2 in OO on Linux. The 1.3\n> version that I found at http://www.tenerdo.org/TheArchon1.3.zip works\n> much better.\n\nOh, ok. So there is a newer version. Lemme get that one.\n\n> P.S. X11 is the Unix / Linux windowing environment.\n\nCool. Thanks for the tips!\n\n\uE5D3"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "May 31, 2009, 9:57:34\u202FPM",
+      "Body": "On Sun, 31 May 2009 15:21:07 -0400, Peter D Bakija wrote:\n\n>Right. So through clever downloading of OpenOffice (and installing X11?\n>What the heck is X11?), I got the Archon to work on my mac. A few\n>questions/comments:\n\n>-Apparently, the machine will only automatically make up seating for you\n>if you have a 3R+F tournament. Why not for a 2R+F tournament?\n\nIt will do 2R + F, too. Just use rounds 2-3 and skip round 1.\n\n>-With the auto seating, my suspicions were confirmed--the first round\n>seems to be just all the players in order (i.e. seating for R1 is player\n>1, 2, 3, 4, 5 and then 6, 7, 8, 9, 10 and so on). So when you go to a\n>tournament and sign in with the organizer, and he puts you and the 3\n>other guys you drove down with into the Archon in order that you signed\n>up, you will spend your first game sitting with the 3 other guys you\n>drove in with (unless you are over a table break, in which case, you\n>will be with a couple guys you drove in with, and the other couple will\n>be sitting next to each other at the next table...). In the order in\n>which you registered for the tournament. Can this be fixed? Or can\n>people who are using Archon make a larger effort to actually randomize\n>people? Or something? That whole \"your first game is the guys you play\n>with every week, in order\" aspect of tournaments tends to blow.\n\nUsually I will use the V:EKN cards to randomly assign seating in the\nfirst round, then pick up the cards and start entering them in the\nArchon. This way the actual seating of round one is random but is\nalso entered as the Archon expects.\n\n>-When messing around with the Archon, it seems like the \"Standings\" page\n>doesn't auto fill in, and you need to manually add players. Is this\n>correct?\n\nNo. (Not in the MS Office version, anyway.)\nIn the MS version, the Standings page fills in as soon as the\nMethuselahs all have player numbers.\n\n(Hint: add all of the player names, and then number them at the very\nend.)\n\n>-I couldn't get the \"methuselah\" page to show game wins. I ran a fake\n>tournament with 15 fake players, and went through each round and put in\n>VPs, but there wasn't anywhere to put in GWs (well, there was, but it\n>was a locked cell), and the program didn't seem to update these\n>anywhere. What am I doing wrong?\n\n(MS Office version)\nOn the individual rounds, when you enter the VPs, it will\nautomatically assign the GW when you have entered valid numbers.\nThere is no entry of GW manually anywhere.\n\n>-I couldn't get the final game to indicate standings--the cells for\n>\"standing\" would always just say \"pending\". What was I doing wrong?\n\nYou probably had tied players going into the finals.\n\n>Thanks,\n\nDe nada.\n\nCarpe noctem.\n\nThe Lasombra\n\nhttp://www.TheLasombra.com\n\nYour best source of V:TES information.\nNow also selling boxes and individual cards."
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "May 31, 2009, 10:09:44\u202FPM",
+      "Body": "On May 31, 3:51 pm, Hodgestar <hodges...@gmail.com> wrote:\n> My standings page sets auto-filled in, but I have experienced some\n> general weirdness using The Archon v1.2 in OO on Linux.  The 1.3\n> version that I found athttp://www.tenerdo.org/TheArchon1.3.zipworks\n> much better.\n\nHeh--this one seems like it works better, but the version I downloaded\ncomes with already input information (looks like demo/test info). So\ndo I have to open one up, empty it out, and save one that is empty? Or\ndid something strange happen?\n\nThanks,\n-Peter"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "May 31, 2009, 10:20:15\u202FPM",
+      "Body": "In article <epn525hehpcroq9bq...@4ax.com>,\n\nThe Lasombra <TheLa...@hotmail.com> wrote:\n> It will do 2R + F, too. Just use rounds 2-3 and skip round 1.\n\nClever. I probably should have thought of that :-)\n\n> Usually I will use the V:EKN cards to randomly assign seating in the\n> first round, then pick up the cards and start entering them in the\n> Archon. This way the actual seating of round one is random but is\n> also entered as the Archon expects.\n\nOh, ok. So the way to go about things is to input all relevant player\ninfo into the Methuselah page, and then set up the first round randomly\nthe old fashion way, and then arbitrarily indicate players as 1, 2, 3\nbased on their seating in the first round. And then put those numbers\ninto Archon. Or something like that.\n\n> (MS Office version)\n> On the individual rounds, when you enter the VPs, it will\n> automatically assign the GW when you have entered valid numbers.\n> There is no entry of GW manually anywhere.\n\nOk, cool.\n\n> De nada.\n\nThanks again!\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 1, 2009, 12:12:54\u202FAM",
+      "Body": "Peter D Bakija wrote:\n> In article\n> <1d848317-1397-4cd8...@r16g2000vbn.googlegroups.com>,\n> Hodgestar <hodg...@gmail.com> wrote:\n>> The organizers should randomly assign each entrant an initial seat and\n>> then number players according to how they are seated. If they're not\n>> doing this then they're not running the tournament correctly. :)\n>\n> Ah, see, yeah, I think people keep not doing this. But it is also non\n> intuitive based on the program--it seems like it *should* work such that\n> people come up to the organizer, give them information, organizer inputs\n> it, and then machine does the rest. But I guess not.\n\nWell, people could also read the instructions. Crazy, I know.\n\n> Can you put in player information *except* their number, and then put\n> the numbers in later, out of order? I gotta try that out.\n\nYes.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 1, 2009, 12:15:18\u202FAM",
+      "Body": "The Lasombra wrote:\n> On Sun, 31 May 2009 15:21:07 -0400, Peter D Bakija wrote:\n>\n>> Right. So through clever downloading of OpenOffice (and installing X11?\n>> What the heck is X11?), I got the Archon to work on my mac. A few\n>> questions/comments:\n>\n>> -Apparently, the machine will only automatically make up seating for you\n>> if you have a 3R+F tournament. Why not for a 2R+F tournament?\n>\n> It will do 2R + F, too. Just use rounds 2-3 and skip round 1.\n\nUm. No.\n\nThat's like saying it will do 4+F, just use round1 twice.\n\nFor most cases, using two of three rounds that have been optimized for three\nrounds means very poor results for two rounds, given the trade-offs that had to\nbe made in those two rounds to get the three round set to work well.\n\nTwo rounds are simple enough to do by hand (and doing by hand will yield much\nbetter results)."
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 1, 2009, 12:21:10\u202FAM",
+      "Body": "On May 31, 6:12 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Well, people could also read the instructions. Crazy, I know.\n\nWell, sure. And yet they don't. And we regularly end up with the first\nround of \"these 4 guys I just drove 4 hours in a car with and some\nother guy...\".\n\nI have virtually never used excel before in my life, so I don't know\nthe ins and outs, but is it possible to set it up such that it\nrandomizes people for you? I mean, yeah, people could just follow the\ndirections. But if it isn't difficult to do, it strikes me as a good\nidea. But then, I'm not the one doing the programing :-)\n\n-Peter"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 1, 2009, 12:40:09\u202FAM",
+      "Body": "\uE5D3\n\nIt would involve macros, which the Archon doesn't use.\nAnd it's simple enough to do without."
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 1, 2009, 12:57:23\u202FAM",
+      "Body": "On May 31, 6:40 pm, LSJ <vtes...@white-wolf.com> wrote:\n> It would involve macros, which the Archon doesn't use.\n> And it's simple enough to do without.\n\nAh. Fair enough. Thanks!\n\n-Peter"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Jun 1, 2009, 1:29:52\u202FAM",
+      "Body": "On Sun, 31 May 2009 18:15:18 -0400, LSJ wrote:\n\n>>> Right. So through clever downloading of OpenOffice (and installing X11?\n>>> What the heck is X11?), I got the Archon to work on my mac. A few\n>>> questions/comments:\n\n>>> -Apparently, the machine will only automatically make up seating for you\n>>> if you have a 3R+F tournament. Why not for a 2R+F tournament?\n\n>> It will do 2R + F, too. Just use rounds 2-3 and skip round 1.\n\n>Um. No.\n\nUnquestionably, verifiably, yes.\n\nIt will preseat all three rounds.\n\n>That's like saying it will do 4+F, just use round1 twice.\n\nNo, it isn't anything like that.\n\n>For most cases, using two of three rounds that have been optimized for three\n>rounds means very poor results for two rounds, given the trade-offs that had to\n>be made in those two rounds to get the three round set to work well.\n\nWhatever.\nUsing rounds 1+2 or 1+3 or 2+3 are all the same. Predator prey\nrelationships will not be repeated. Which is all that is truly\nrequired for a 2 round event.\n\n>Two rounds are simple enough to do by hand (and doing by hand will yield much\n>better results).\n\nThen the program needs to be improved. 1+2 should be identical to\nthis \"by hand\" you speak of. If it isn't, and your opinion is that it\nis without value, then I'll certainly have to stop linking to the\nuseless thing.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 1, 2009, 2:12:17\u202FAM",
+      "Body": "The Lasombra wrote:\n> On Sun, 31 May 2009 18:15:18 -0400, LSJ wrote:\n>> Two rounds are simple enough to do by hand (and doing by hand will yield much\n>> better results).\n>\n> Then the program needs to be improved. 1+2 should be identical to\n> this \"by hand\" you speak of.\n\nIt is obvious that that is not the case.\n\nThe program is first an foremost a tracking mechanism, not a seating mechanism.\nThe seating mechanism was added for 3+F because 3+F is a popular format and\ndoing 3+F seating well is time consuming to do by hand.\n\n2+F, while popular, is easy to do by hand.\n\n> If it isn't, and your opinion is that it\n> is without value, then I'll certainly have to stop linking to the\n> useless thing.\n\nThere are many things which do not provide optimal 2+F VTES seating.\n\nFortunately, that is not the sole criteria for utility.\n\nLink as you see fit."
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Jun 1, 2009, 5:13:51\u202FAM",
+      "Body": "The Lasombra wrote:\n\n> LSJ wrote:\n>> For most cases, using two of three rounds that have been optimized\n>> for three rounds means very poor results for two rounds, given the\n>> trade-offs that had to be made in those two rounds to get the three\n>> round set to work well.\n>\n> Whatever.\n> Using rounds 1+2 or 1+3 or 2+3 are all the same. Predator prey\n> relationships will not be repeated. Which is all that is truly\n> required for a 2 round event.\n\nWhile I agree with your statement, I have found that rounds 1 and 3\nare more similar than rounds 1 and 2 (or rounds 2 and 3), so when\nI do a 2R+F then I use rounds 1 and 2.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! http://vtesville.myminicity.com/"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Jun 1, 2009, 5:25:05\u202FAM",
+      "Body": "On May 31, 8:12 pm, LSJ wrote:\n> > Then the program needs to be improved.  1+2 should be identical to\n> > this \"by hand\" you speak of.\n\n> It is obvious that that is not the case.\n\nNo, it isn't obvious.\n\n> The program is first an foremost a tracking mechanism, not a seating mechanism.\n\nIn theory perhaps. In actual practice, in hundreds of tournaments, it\nis primarily a seating mechanism and secondarily, poorly, a tracking\nmechanism."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 1, 2009, 6:44:51\u202FAM",
+      "Body": "Are there a large number of tournaments that do require the 100+\nseating that is included? Or is this in The Archon primarily for the\nNorth American Champs?"
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Jun 1, 2009, 5:53:44\u202FAM",
+      "Body": "LSJ wrote:\n> Two rounds are simple enough to do by hand\n> (and doing by hand will yield much better results).\n\nScott,\nAre you saying that a seating chart for a 2R+F tournament\ncould be created that would better satisfy these conditions?\n\n-~-~-~-~-~-~-~-~-~-\n1. No pair of players repeat their predator-prey relationship.\n2. No pair of players share a table through all three rounds[WP].\n3. Available VPs are equitably distributed.\n4. No pair of players share a table more often than necessary.\n5. A player doesn't sit in the fifth seat more than once.\n6. No pair of players repeat the same relative position[WP][*].\n7. A player doesn't play in the same seat position[WP].\n8. Starting transfers are equitably distributed.\n9. No pair of players repeat the same relative position group[^].\n\n[WP]:When Possible\n\n[*]:\"Relative position\" relationship values:\nA) prey\nB) predator\nC) cross-table at a 4-player\nD) grand-prey at a 5\nE) grand-predator at a 5\n\nNote that repeating A and repeating B is already\nhandled (prohibited) by criterion #1.\n\n[^] \"Relative position group\" values:\ni) Adjacent (prey or predator)\nii) Not adjacent\n-~-~-~-~-~-~-~-~-~-\n\nIf that's what you're saying, could you create another OPTIMAL SEATING\nsheet, which I can copy+paste into the current sheet when I run a 2R+F?\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 1, 2009, 12:30:41\u202FPM",
+      "Body": "\uE5D3\n\nOptimal seatings exist and could be found for 2+F, naturally.\n\n> If that's what you're saying, could you create another OPTIMAL SEATING\n> sheet, which I can copy+paste into the current sheet when I run a 2R+F?\n\nAnyone could, yeah."
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Jun 1, 2009, 3:25:28\u202FPM",
+      "Body": "On Jun 1, 12:44 am, Juggernaut1981 <brasscompo...@gmail.com> wrote:\n> Are there a large number of tournaments that do require the 100+\n> seating that is included?  \n\nNo.\n\n>Or is this in The Archon primarily for the North American Champs?\n\nTo the best of my recollection, there have never been more than 90\nplayers at an NAC event.\nThe 100 plus seating has been used multiple times at the European\nChampionship events."
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Jun 1, 2009, 10:31:04\u202FPM",
+      "Body": "\uE5D3\n\nSory, I misspoke.\n\nWOULD you...? =)\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\n\nyou shall never be in peril.\" -- Sun Tzu, The Art of War\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 2, 2009, 12:31:46\u202FAM",
+      "Body": "Kevin M. wrote:\n> LSJ wrote:\n>>> If that's what you're saying, could you create another OPTIMAL\n>>> SEATING sheet, which I can copy+paste into the current sheet when\n>>> I run a 2R+F?\n>> Anyone could, yeah.\n>\n> Sory, I misspoke.\n>\n> WOULD you...? =)\n\nAs I've said, it's easy enough to do on demand.\n\nMoreover, learning how to do seating by hand is a very good skill for organizers\nto have, so that they can better handle drops and adds."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 2, 2009, 4:09:09\u202FAM",
+      "Body": "\uE5D3\n\nI don't know how many of you are Macro-Proficient... but for us PCers\nout there (who aren't the ones shown in those Mac ads) I am\nconsidering sitting down and doing a personal version of The Archon\nthat uses Macros. Depending on how easy it is for me to do this, it\nmay or may not have the ability to perform Player Add/Drops...\n\nIf there are those of you out there who are excellent with ExcelVBA,\nI'm more than happy to take advice or receive other versions\npreviously created.\n\nFor those who are interested... it would start by using the \"VEKN\nOptimised Seating\" Tables, but I will potentially also sit down and\nfigure out how to do the 9-criteria above (including some kind of\n\"Where Possible\"... if VBA can even create a \"Where Possible\" scenario\nwithout me suddenly becoming a VBA guru)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ThreadId": "4BT3ZXxbh2U",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/4BT3ZXxbh2U",
+  "Title": "Fast Reaction corner-case question for LSJ",
+  "Messages": [
+    {
+      "Author": "Solange Erci",
+      "Date": "Jan 11, 2003, 11:33:13\u202FPM",
+      "Body": "Player P1 has a Tremere T and a Gargoyle G who is a Tremere slave.\nPlayer P2 has an untapped vampire B and an untapped vampire with\nAuspex A.\n\nOn P1's turn, T takes an action with B successfully blocks. G untaps T\nto engage in combat with B in T's stead.\n\nAt this point, it is my understanding that T is STILL the \"acting\nminion\". Is this correct?\n\nG & B finish their combat. A plays Fast Reaction.\n\nIs Fast Reaction playable? If so, does A enter the Fast Reaction's\ncombat with G or with T?\n\nIt seems to me that the only printed card that changes the acting\nminion is Mask, and that the special Gargoyle slave ability never\nalters who the actor is. Furthermore, that Fast Reaction is intended\nas a card to punish a blocked actor (rather than whatever combat\ndelegate the actor can manage to hide behind). Hence Fast Reaction\nshould enable A to enter combat with T.\n\nThe table disagreed :-/\n\nAn analagous situation is an acting Gargoyle hiding behind a superior\nConscripted Statue (I would contend that Fast Reactions invokes a\ncombat with the Gargoyle).\n\nI was unable to turn up any official or unofficial commentary along\nthis line searching deja.\n\nLSJ?"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Jan 12, 2003, 3:24:53\u202FAM",
+      "Body": "Just read the card.\n(look for the last online text at www.white-wolf.com/vtes when you are not\nsure )\n\nFast Reaction [Jyhad, V:TES, CE]\nCardtype: Reaction\nDiscipline: Auspex\n\nOnly usable after a combat **between a blocking minion you control other\nthan this vampire and the acting minion.**\n[aus] Tap this vampire. This vampire enters combat with the acting minion.\nThe first round of this new combat, the acting minion cannot strike.\n[AUS] As above, with an optional press.\n\nThis should answer your question.\nWhen you use the gargoyle \"bodyguard ability\", your acting minion does not\nenter combat. You cannot play Fast reaction at all after the \"bodyguard\"\ncombat .\n\nreyda"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 12, 2003, 10:55:04\u202FPM",
+      "Body": "Solange Erci wrote:\n>\n> Player P1 has a Tremere T and a Gargoyle G who is a Tremere slave.\n> Player P2 has an untapped vampire B and an untapped vampire with\n> Auspex A.\n>\n> On P1's turn, T takes an action with B successfully blocks. G untaps T\n> to engage in combat with B in T's stead.\n>\n> At this point, it is my understanding that T is STILL the \"acting\n> minion\". Is this correct?\n\nYes.\n\n> G & B finish their combat. A plays Fast Reaction.\n>\n> Is Fast Reaction playable? If so, does A enter the Fast Reaction's\n> combat with G or with T?\n\nNot playable, since G is not the acting minion.\n\n> It seems to me that the only printed card that changes the acting\n> minion is Mask, and that the special Gargoyle slave ability never\n> alters who the actor is. Furthermore, that Fast Reaction is intended\n> as a card to punish a blocked actor (rather than whatever combat\n> delegate the actor can manage to hide behind). Hence Fast Reaction\n> should enable A to enter combat with T.\n>\n> The table disagreed :-/\n\nThe table is correct. Fast Reaction is only playable after a combat\nbetween your blocking minion and someone else's acting minion.\n\n> An analagous situation is an acting Gargoyle hiding behind a superior\n> Conscripted Statue (I would contend that Fast Reactions invokes a\n> combat with the Gargoyle).\n\nFast Reaction is not playable in that case, either, since the combat\ninvolved the blocking vampire and a non-acting minion (the statue).\nThe acting minion never entered combat.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Jan 12, 2003, 11:41:07\u202FPM",
+      "Body": "LSJ wrote:\n\n> Fast Reaction is not playable in that case, either, since the combat\n> involved the blocking vampire and a non-acting minion (the statue).\n> The acting minion never entered combat.\n\nhum, what happened to my post stating similar things ?? =(\ncan any of you see it ?"
+    },
+    {
+      "Author": "Sten During",
+      "Date": "Jan 13, 2003, 12:04:45\u202FAM",
+      "Body": "\uE5D3\n\nI got it :)\n\nSten During"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 13, 2003, 2:20:54\u202FPM",
+      "Body": "\uE5D3\n\nYes. If google sees it, we can see it. (Better to check with google first\nbefore hitting the newsgroup with superfluous posts.)\n\nBut the questioner asked for my response, and your response didn't quote\nany of his examples, and only answered the Gargoyle question, so I couldn't\njust follow-up to yours with \"correct\".\n\n\uE5D3"
+    }
+  ]
+}

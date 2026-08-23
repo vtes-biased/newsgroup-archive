@@ -1,0 +1,47 @@
+{
+  "ThreadId": "MfdrzG-9kBs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/MfdrzG-9kBs",
+  "Title": "WW VTES Site?",
+  "Messages": [
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Dec 31, 2008, 3:53:36\u202FPM",
+      "Body": "I keep going to the WW VTES discussion board, and whenever I click on a\ndiscussion, I get forwarded to some foreign language PDF site, which\ninevitably crashes my browser (after I run away). Is anyone else running\ninto this? Have they been hacked? Or something?\n\nPeter D Bakija\npd...@lightlink.com\nhttp://www.lightlink.com/pdb6/vtes.html\n\n\"It's too bad she won't live! But then again, who does?\"\n-Gaff"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 31, 2008, 4:00:26\u202FPM",
+      "Body": "Peter D Bakija wrote:\n> I keep going to the WW VTES discussion board, and whenever I click on a\n> discussion, I get forwarded to some foreign language PDF site, which\n> inevitably crashes my browser (after I run away). Is anyone else running\n> into this? Have they been hacked? Or something?\n>\n\nIt worked fine for me right now.\n\nSaw topic list, clicked on several topics, each of which led to the list of\nmessages in that topic."
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Dec 31, 2008, 4:28:24\u202FPM",
+      "Body": "\uE5D3\n\nI end up getting redirected here, my antiviral goes apeshit. Open this\nlink at your own risk\n\nDo not open this link\nDo not open this link\nDo not open this link\n\nhttp://masturr.cn/kz4i1/fi24/pdf.php?id=938&vis=1\n\nDo not open this link\nDo not open this link\nDo not open this link"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 31, 2008, 4:42:53\u202FPM",
+      "Body": "\uE5D3\n\nHmm. It appears, indeed, that it has been hacked.\n\nI practice safe surfing, so my browser ignored the malicious code (thank you,\nNoScript and Firefox).\n\nAnyway, there's an invisible iframe embedded after the \"Post 'em if you got 'em\"\ntext at the top. It's got some obfuscated script embedded in a <b> element that\nit runs to do its work.\n\nI'll let WW know.\n\nThanks.\n\nIn the meantime, get Firefox and install the NoScript extension (or use the\nequivalent settings for whatever browser you choose).\n\nJust on general principle."
+    },
+    {
+      "Author": "zora...@gmail.com",
+      "Date": "Dec 31, 2008, 5:28:35\u202FPM",
+      "Body": "On 31 dec, 16:42, LSJ <vtes...@white-wolf.com> wrote:\n> In the meantime, get Firefox and install the NoScript extension (or use the\n> equivalent settings for whatever browser you choose).\n>\n\n> Just on general principle.-\n\nUhm, can anyone tell me what the equivalent settings of NoScript are\nin IE7? I'm a tech-dummy.\nThanks.\n\nWow, that's the second time the site got hacked. Last time some\nbastards tried to sell us a 'share' in the list of usernames and\npasswords, remember?\n\n- Teeka"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 31, 2008, 5:34:11\u202FPM",
+      "Body": "zora...@gmail.com wrote:\n> On 31 dec, 16:42, LSJ <vtes...@white-wolf.com> wrote:\n>> In the meantime, get Firefox and install the NoScript extension (or use the\n>> equivalent settings for whatever browser you choose).\n>>\n>> Just on general principle.-\n>\n> Uhm, can anyone tell me what the equivalent settings of NoScript are\n> in IE7? I'm a tech-dummy.\n\nWhatever prevents the browser from running scripts (and other executables)\nunless the script/executable comes from a whitelist (a list of trusted sites or\nspecific scripts/executables)."
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Dec 31, 2008, 6:25:01\u202FPM",
+      "Body": "On Dec 31, 10:28 am, Blooded Sand <sandm...@gmail.com> wrote:\n> I end up getting redirected here, my antiviral goes apeshit. Open this\n> link at your own risk\n>\n> Do not open this link\n> Do not open this link\n> Do not open this link\n>\n\n> http://masturrrrrrrrrrr.cn/kz4i1/fi24/pdf.php?id=9\n\nYeah, that's what I was getting too. I apparently need a better web\nbrowser security...\n\n-Peter"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jan 1, 2009, 1:16:23\u202FPM",
+      "Body": "\uE5D3\n\nFunny thing is I am running FF3 with NoScript newest version. Could\nnot see the .pdf but still ended up there"
+    }
+  ]
+}

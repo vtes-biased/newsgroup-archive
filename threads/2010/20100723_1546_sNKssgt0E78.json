@@ -1,0 +1,32 @@
+{
+  "ThreadId": "sNKssgt0E78",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/sNKssgt0E78",
+  "Title": "(LSJ) Weather Control and impulse",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jul 23, 2010, 3:46:54\u202FPM",
+      "Body": "Hi again,\n\nSay A (acting) and B are in combat.\nBefore range, A plays Weather Control.\n\nCan A pass?\nApparently not ( http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/22c2c88bcb680694\n)\nThe damage has to be handled right away.\n\nHowever, it's been said in other threads (\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/ae9d72e5dd7b879e\nfor example) that \"before range cards\" could be played right there,\nbefore the damage gets applied and after WC is played.\n\nSo the question is: Who gets the(*) impulse to play cards ?\n\nMy guess is that a new impulse is created (the usual \"prevention\"\nimpulse), which is A's as long as A continues playing \"prevention\"\ncards (such as Skin of Night, Flesh of Marble, Torn Signpost or Terror\nFrenzy).\nWhen E passes on playing cards / using effects in this impulse, the\ndamage is resolved (going back to A's \"before range impulse\").\nIs this correct?\n\n(*) I suppose it's not the \"before range\" impulse (which is A's at\nthis point), since A can't pass until WC's damage is applied - if it\nwere, it would mean B couldn't play any card at all.\n\nThanks.\n\n~ ~\n\nWeather Control\nCardtype: Combat\nDiscipline: Thaumaturgy\nOnly usable before range is determined on the first round.\n[tha] Both combatants and each of their retainers take 1 unpreventable\ndamage before range is determined each round. A vampire may play only\none Weather Control each combat.\n[THA] As above, but the amount of damage inflicted increases by 1 in\neach subsequent round."
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Jul 23, 2010, 4:29:07\u202FPM",
+      "Body": "Please note that Weather Control isn't Outside the Hourglass:\n\nWeather Control : \"...take 1 unpreventable damage before range is\ndetermined each round\". The acting player chooses when the damage is\ndealt (he may play other effects before deciding to apply the damage\nfrom WC. Source: PM between Stone and LSJ). In other words, WC creates\na pending effect.\n\nOutside the Hourglass: \"Inflict 2 damage on the opposing minion\". The\ndamage is inflicted when the card resolves."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jul 23, 2010, 4:40:13\u202FPM",
+      "Body": "\uE5D3\n\nSure. What matters here is that the acting can't pass.\nIt would be the same with Outside the Hourglass: the acting can't pass\n- damage has to be resolved before the opposing (or anyone else) gets\nan opportunity to \"classically\" play \"before range\" cards."
+    },
+    {
+      "Author": "Meej",
+      "Date": "Jul 23, 2010, 5:22:49\u202FPM",
+      "Body": "On Jul 23, 9:46 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n\n> (*) I suppose it's not the \"before range\" impulse (which is A's at\n> this point), since A can't pass until WC's damage is applied - if it\n> were, it would mean B couldn't play any card at all.\n\nExcept for the RTR from 2-Dec-2004 (\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/7b4a0293b1e288be\n):\n\"The damage resolution phase does not preclude other effects (like\ntapping a\nBarrens, for example). You may tap the Barrens to attempt to draw into\nmore\ndamage prevention, or play Aura Reading when Weather Control damage is\napplied (to attempt to draw Skin of Night if a Dawn Operation is in\nplay,\nfor example)...\"\n\nSo B can't play any cards till A announces \"We're now handling the\ndamage from WC. Here are my damage-resolution effects. Now I pass.\nWhat effects do you want to play during damage resolution?\" At which\npoint, by the RTR, it looks like B can play any before-range effect xe\nlikes. Then, once they're done and the damage is all handled and\nresolved, if the combat's still going, it's A's pre-range impulse to\ndo something or pass again.\n\n- D.J."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 23, 2010, 7:47:41\u202FPM",
+      "Body": "On Jul 23, 11:22 am, Meej <djchag...@gmail.com> wrote:\n> On Jul 23, 9:46 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n>\n> > (*) I suppose it's not the \"before range\" impulse (which is A's at\n> > this point), since A can't pass until WC's damage is applied - if it\n> > were, it would mean B couldn't play any card at all.\n>\n\n> Except for the RTR from 2-Dec-2004 (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/7b4a...\n\n> ):\n> \"The damage resolution phase does not preclude other effects (like\n> tapping a\n> Barrens, for example). You may tap the Barrens to attempt to draw into\n> more\n> damage prevention, or play Aura Reading when Weather Control damage is\n> applied (to attempt to draw Skin of Night if a Dawn Operation is in\n> play,\n> for example)...\"\n>\n> So B can't play any cards till A announces \"We're now handling the\n> damage from WC.  Here are my damage-resolution effects.  Now I pass.\n> What effects do you want to play during damage resolution?\"  At which\n> point, by the RTR, it looks like B can play any before-range effect xe\n> likes.  Then, once they're done and the damage is all handled and\n> resolved, if the combat's still going, it's A's pre-range impulse to\n> do something or pass again.\n\nCorrect."
+    }
+  ]
+}

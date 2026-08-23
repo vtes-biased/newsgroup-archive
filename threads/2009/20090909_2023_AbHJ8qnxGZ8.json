@@ -1,0 +1,17 @@
+{
+  "ThreadId": "AbHJ8qnxGZ8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/AbHJ8qnxGZ8",
+  "Title": "[LSJ] Q: Faceless Family",
+  "Messages": [
+    {
+      "Author": "wumpus",
+      "Date": "Sep 9, 2009, 8:23:53\u202FPM",
+      "Body": "Howdy,\n\nThis came up in one of last night's games. I grepped about a bit and\nfound nothing relevant:\n\nAmavi untaps with Guard Dogs and attempts to block a bleed from my\npredator's Evan Klein. Evan plays Faceless Night at superior. Amavi\nplays Familial Bond. Evan adds more stealth, so that the block is\nfailing. If my predator doesn't choose to make the action fail, will\nAmavi tap (due to Faceless Night) before she can tap to enter combat\n(due to Familial Bond)?\n\nThe card text would appear to say 'no', but I don't really understand\neither Faceless Night's 'when the action is resolved (before resolving\nthe action)' timing or Familial Bond's combat 'after resolution' of\nthe action timing.\n\nI really want Familial Bond to work, but I'm afraid that this is\nanother case in which it just doesn't measure up. (The main one being\nthe limitations on the intercept.)\n\nThanks,\nAlex\n\n-----\n\nFaceless Night\n[OBF] +1 stealth, and any minion who attempts to block this action and\nfails becomes tapped when the action is resolved (before resolving the\naction).\n\nFamilial Bond\nOnly usable on an action directed at another Laibon you control or on\na bleed against you. +1 intercept. If this block fails, the acting\nminion may choose to make the action fail. If the action succeeds,\nthis Laibon may tap (after resolution) to enter combat with the acting\nminion."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 9, 2009, 8:56:01\u202FPM",
+      "Body": "wumpus wrote:\n> Howdy,\n>\n> This came up in one of last night's games. I grepped about a bit and\n> found nothing relevant:\n>\n> Amavi untaps with Guard Dogs and attempts to block a bleed from my\n> predator's Evan Klein. Evan plays Faceless Night at superior. Amavi\n> plays Familial Bond. Evan adds more stealth, so that the block is\n> failing. If my predator doesn't choose to make the action fail, will\n> Amavi tap (due to Faceless Night) before she can tap to enter combat\n> (due to Familial Bond)?\n>\n> The card text would appear to say 'no', but I don't really understand\n> either Faceless Night's 'when the action is resolved (before resolving\n> the action)' timing or Familial Bond's combat 'after resolution' of\n> the action timing.\n\nCorrect: no.\n\nall blocks declined -> action reaches resolution step\n\nBefore resolving: tap Amavi (Faceless Night).\n\nResolve the effects of the successful action (target Methuselah burns pool for\nthe bleed).\n\nAfter resolving: Amavi may tap to enter combat (Familial Bond), but she can't\nsince she's tapped already.\n\n\uE5D3"
+    }
+  ]
+}

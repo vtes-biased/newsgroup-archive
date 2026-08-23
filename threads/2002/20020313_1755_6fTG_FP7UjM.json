@@ -1,0 +1,32 @@
+{
+  "ThreadId": "6fTG_FP7UjM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6fTG_FP7UjM",
+  "Title": "Trap",
+  "Messages": [
+    {
+      "Author": "DarkAvenger",
+      "Date": "Mar 13, 2002, 5:55:58\u202FPM",
+      "Body": "How does Trap works?\nWhen can i use press to end the combat? Only after 3 rounds?"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Mar 13, 2002, 6:05:15\u202FPM",
+      "Body": "In message <3c8f84a5$1...@213.30.5.12>, DarkAvenger <d...@mail.pt> writes:\n>How does Trap works?\n\nMost recent text:\n\nOnly usable before range is determined on the first round of combat.\nDuring the press step, if any Methuselah has played a card earlier in\nthe current round or during the two previous rounds, the Trap\nautomatically provides a press to continue (either combatant can press\nto end).\n\n>When can i use press to end the combat? Only after 3 rounds?\n\nYou can use a press to end (from whatever source) whichever round you\nwant (during the press phase). The Trap provides presses to continue,\nwhich either player can cancel.\n\n--\nJames Coupe Oh, the poor folks hate the rich folks,\nPGP 0x5D623D5D And the rich folks hate the poor folks.\nEBD690ECD7A1FB457CA2 All of my folks hate all of your folks,\n13D7E668C3695D623D5D It's American as apple pie."
+    },
+    {
+      "Author": "GymNat1",
+      "Date": "Mar 14, 2002, 9:36:50\u202FAM",
+      "Body": ">Most recent text:\n>\n>Only usable before range is determined on the first round of combat.\n>During the press step, if any Methuselah has played a card earlier in\n>the current round or during the two previous rounds, the Trap\n>automatically provides a press to continue (either combatant can press\n>to end).\n\nthis doesn't make any sense, this card is playable only in the first round, but\nit refers to \"the two previous rounds\". this seems very contradictory. there\nhas got to be a better way to word this than the above official new text!\n\nif Trap is the only card played in a round, does the press happen? according\nto card text, i am not sure.\n\nPlease adjust this text, it is quite unintelligible as written."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Mar 14, 2002, 10:27:53\u202FAM",
+      "Body": "In message <20020314033650...@mb-fc.aol.com>, GymNat1\n\n<gym...@aol.com> writes:\n>>Only usable before range is determined on the first round of combat.\n>>During the press step, if any Methuselah has played a card earlier in\n>>the current round or during the two previous rounds, the Trap\n>>automatically provides a press to continue (either combatant can press\n>>to end).\n>\n>this doesn't make any sense, this card is playable only in the first round, but\n>it refers to \"the two previous rounds\".\n\nThis is for later rounds.\n\n>this seems very contradictory.\n\n(Assuming only Trap.)\n\nFirst round: Has a card been played in the current round? Yes.\nSecond round: Has a card been played in the current round? No.\nHas it been played in the previous two rounds? It was\nplayed last round, so Yes.\nThird round: Has a card been played in the current round? No.\nHas a card been played in the previous two rounds? It was\nplayed two rounds ago, so Yes.\n\nSince first round will always have a card played (thus fulfilling the\nfirst option) and the third round will always have two preceding rounds,\nit is only in the second round that there can b slight confusion,\nreally.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 14, 2002, 12:07:59\u202FPM",
+      "Body": "GymNat1 wrote:\n>\n> >Most recent text:\n> >\n> >Only usable before range is determined on the first round of combat.\n> >During the press step, if any Methuselah has played a card earlier in\n> >the current round or during the two previous rounds, the Trap\n> >automatically provides a press to continue (either combatant can press\n> >to end).\n>\n> this doesn't make any sense, this card is playable only in the first round, but\n> it refers to \"the two previous rounds\". this seems very contradictory. there\n> has got to be a better way to word this than the above official new text!\n\nIt is not contradictory. It merely doesn't apply, since there are no previous\nrounds at the first round.\n\n> if Trap is the only card played in a round, does the press happen? according\n> to card text, i am not sure.\n\nYes. See \"current round\" in card text.\n\n> Please adjust this text, it is quite unintelligible as written.\n\nAs always, constructive suggestions are welcome.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

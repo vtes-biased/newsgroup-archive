@@ -1,0 +1,37 @@
+{
+  "ThreadId": "wVytUBbvYIE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wVytUBbvYIE",
+  "Title": "[OT] Webmasters help!",
+  "Messages": [
+    {
+      "Author": "The Lasombra",
+      "Date": "Sep 11, 2000, 8:20:05\u202FAM",
+      "Body": "All those who have VTES websites,\n\nI have a website up,\n\nhttp://legbiter.tripod.com\n\nand I keep getting complaints that the\nlinks are broken.\n\nI clear my IE history, reboot (so that the site is not\ncached locally), go to the site, and all of the links\nwork perfectly.\n\nOthers tell me the links don't work.\n\nWhat else can I do to check these pages?\n\nHelp!!\n\nThanks.\n\nCarpe Noctem.\n\nLasombra\n\nhttp://members.tripod.com/~Lasombra\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    },
+    {
+      "Author": "Christoph",
+      "Date": "Sep 11, 2000, 3:48:38\u202FPM",
+      "Body": "> All those who have VTES websites,\n> I have a website up,\n> http://legbiter.tripod.com\n> and I keep getting complaints that the\n> links are broken.\n\nI went through every link on the site and everything came\nup perfectly for me...\n\n> I clear my IE history, reboot (so that the site is not\n> cached locally), go to the site, and all of the links\n> work perfectly.\n> Others tell me the links don't work.\n> What else can I do to check these pages?\n\nI don't think that there *is* anything else that you can do\nto check the links. If they don't work for someone else,\nit could be their browser, it could be the hops they have\nto take to get to the site, it could be UUNET or another\nbackbone, it could be anything.\nBut one thing it is not is the site. All the links are fine.\n\nSorrow\n---\n\"Are they dead?\" - Pugsly\n\"Does it matter?\" - Wednesday"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 11, 2000, 4:14:39\u202FPM",
+      "Body": "Christoph wrote:\n> > I clear my IE history, reboot (so that the site is not\n> > cached locally), go to the site, and all of the links\n> > work perfectly.\n> > Others tell me the links don't work.\n> > What else can I do to check these pages?\n\n> But one thing it is not is the site. All the links are fine.\n\nFine for IE, maybe.\n\nMost of the links I see include backslashes \"\\\" instead of\nslashes \"/\". This is probably the problem.\n\nWhile some browsers cover certain HTML errors (by substituting a\nslash for the backslash in this case), some do not.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Sylvain Gogel",
+      "Date": "Sep 11, 2000, 4:46:26\u202FPM",
+      "Body": "URL validate only /\nthis is not a portabiliy problem\n\nLSJ <vte...@white-wolf.com> a écrit dans le message :\n39BCE8CF...@white-wolf.com...\n\n\uE5D3"
+    },
+    {
+      "Author": "Passenger Pigeon",
+      "Date": "Sep 11, 2000, 5:14:54\u202FPM",
+      "Body": "In article <39BCE8CF...@white-wolf.com>, LSJ\n<vte...@white-wolf.com> wrote:\n\n> Christoph wrote:\n> > > I clear my IE history, reboot (so that the site is not\n> > > cached locally), go to the site, and all of the links\n> > > work perfectly.\n> > > Others tell me the links don't work.\n> > > What else can I do to check these pages?\n>\n> > But one thing it is not is the site. All the links are fine.\n>\n> Fine for IE, maybe.\n>\n> Most of the links I see include backslashes \"\\\" instead of\n> slashes \"/\". This is probably the problem.\n>\n> While some browsers cover certain HTML errors (by substituting a\n> slash for the backslash in this case), some do not.\n\nJust been to look at the site. The backslashes are definitely the\nproblem. I heard a rather disturbing story to the effect that IE will\nnot only fix backslashes in links, but make them appear as slashes not\nonly in the links but in the page source itself when viewed, so that the\nproblem becomes completely invisible and unrepairable to anybody using\nIE. I don't know if this is actually true, but it's worth a try -- you\nmight want to get some small freeware browser and check your page out\n(assuming you don't want to get Netscape).\n\n--\nWilliam Burke, passenge...@hotmail.com\nHTH. HAND. * <--- Perth\nVisit my web page! Current essay: Happiness. http://come.to/passenger-pigeon/"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Sep 11, 2000, 5:17:57\u202FPM",
+      "Body": "In article <39BCE8CF...@white-wolf.com>,\nLSJ <vte...@white-wolf.com> wrote:\n\n> Christoph wrote:\n> > > I clear my IE history, reboot (so that the site is not\n> > > cached locally), go to the site, and all of the links\n> > > work perfectly.\n> > > Others tell me the links don't work.\n> > > What else can I do to check these pages?\n>\n> > But one thing it is not is the site. All the links are fine.\n>\n> Fine for IE, maybe.\n>\n> Most of the links I see include backslashes \"\\\" instead of\n> slashes \"/\". This is probably the problem.\n\nThanks all.\nI have updated the site to use forward slashes instead\nof backslashes, and they still work for me. Hopefully\nthis will take care of the other peoples problems.\n\nThanks again.\n\nCarpe Noctem.\n\nLasombra\n\nhttp://legbiter.tripod.com\nhttp://lasombra.tripod.com\n\n\uE5D3"
+    }
+  ]
+}

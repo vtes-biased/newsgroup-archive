@@ -1,0 +1,32 @@
+{
+  "ThreadId": "lF6-YiKoVjM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/lF6-YiKoVjM",
+  "Title": "[LSJ] Obedience, etc.",
+  "Messages": [
+    {
+      "Author": "wumpus",
+      "Date": "Mar 27, 2008, 10:26:18\u202FPM",
+      "Body": "Howdy,\n\nI've asked about this once before; I wonder if I could get an official\nruling?\n\nAt some point the text of Obedience changed. I don't have the old\ntext in front of me, but I believe it used to say that it 'cancelled'\nthe combat or ended the action without combat (like Voice of Madness,\nHard Case, and Mental Maze). I thus had it in my one (silly) deck\nthat was designed to attempt to withdraw, as entering combat will\nprevent withdrawal.\n\nHere's the current text (from the online card lists):\n\nObedience [Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U]\nCardtype: Reaction\nDiscipline: Dominate\n\nOnly usable when this reacting vampire is about to enter combat with\nan acting younger vampire.\n[dom] Untap the acting vampire, do not tap this reacting vampire, and\nend the current action (and combat). The acting vampire cannot attempt\nthe same action this turn.\n[DOM] As above, but do not untap the acting vampire.\n\nThe text seems to imply that combat actually occurs, though Obedience\nends it. Which would void withdrawal. It also makes for strange\ntiming, as Obedience is then a reaction that is played in combat.\n(Sort of, as combat was about to begin before play, and ends after\nplay.) Can you Psyche! a play of Obedience? (Presumably not, as\nObedience explicitly ends the action - it isn't ending as a\nconsequence of combat ending, which is the usual circumstance for\nPsyche!)\n\nAnyway, here's text for the other combat ending reactions I can think\nof:\n\nVoice of Madness [SW:U, CE:U, Third:PM]\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Dementation\n\nOnly usable when this vampire successfully blocks an ally or younger\nvampire.\n[dem] Tap this reacting vampire. Combat does not occur.\n[DEM] As above, and the acting minion burns 1 blood or life.\n\nHard Case [LotN:R]\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Fortitude\n\nOnly usable when this vampire successfully blocks an ally or younger\nvampire.\n[for] Cancel the resulting combat.\n[FOR] As above, and destroy a weapon or vehicle on the acting minion.\n\nMental Maze [LotN:C/PS2]\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Obfuscate\n\nOnly usable when this vampire successfully blocks an ally or a younger\nvampire (play before combat, if any).\n[obf] End the action (with no combat). If this blocking minion is a\nFollower of Set, this card costs 1 less blood.\n[OBF] As above, and do not tap this blocking vampire.\n\nDoes Obedience have functionally the same timing and effect as these\nother cards?\n\nThanks,\nAlex"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 28, 2008, 1:39:52\u202FAM",
+      "Body": "wumpus wrote:\n> Howdy,\n>\n> I've asked about this once before; I wonder if I could get an official\n> ruling?\n>\n> At some point the text of Obedience changed. I don't have the old\n> text in front of me, but I believe it used to say that it 'cancelled'\n> the combat or ended the action without combat (like Voice of Madness,\n> Hard Case, and Mental Maze). I thus had it in my one (silly) deck\n> that was designed to attempt to withdraw, as entering combat will\n> prevent withdrawal.\n\nHistory of Obedience:\n\n1994 Jyhad printing: Untaps the reacting vampire.\n19960708 Doesn't tap the reacting vampire, rather than actively untapping him.\n19961001 Sabbat printing: Doesn't cancel combat. Leaves the reacting vampire\ntapped if he successfully blocked.\n19991206 Cancels combat. Says that the reacting vampire is not tapped.\n20001031 SW: Cancels combat. Says that the reacting vampire is not tapped.\n\n> Here's the current text (from the online card lists):\n>\n> Obedience [Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U]\n> Cardtype: Reaction\n> Discipline: Dominate\n>\n> Only usable when this reacting vampire is about to enter combat with\n> an acting younger vampire.\n> [dom] Untap the acting vampire, do not tap this reacting vampire, and\n> end the current action (and combat). The acting vampire cannot attempt\n> the same action this turn.\n> [DOM] As above, but do not untap the acting vampire.\n>\n> The text seems to imply that combat actually occurs, though Obedience\n> ends it.\n\nPerhaps, but combat does not occur. Obedience is played before combat (it is not\na combat card), and ends the combat before it starts (another way of saying: the\ncombat is canceled).\n\n\uE5D3\n\nIf played by a blocking vampire, yes.\n\nObedience can also be played without a block (say, when a Bum's Rush is\nsuccessful), unlike the other examples you give."
+    },
+    {
+      "Author": "wumpus",
+      "Date": "Mar 28, 2008, 7:04:54\u202FPM",
+      "Body": "Howdy,\n\n> > Does Obedience have functionally the same timing and effect as these\n> > other cards?\n>\n> If played by a blocking vampire, yes.\n>\n> Obedience can also be played without a block (say, when a Bum's Rush is\n> successful), unlike the other examples you give.\n\nAh, subtle.\n\nThanks!,\nAlex"
+    },
+    {
+      "Author": "Matthew T. Morgan",
+      "Date": "Mar 28, 2008, 10:25:36\u202FPM",
+      "Body": "On Fri, 28 Mar 2008, LSJ wrote:\n\n> History of Obedience:\n\n>\n> 19961001 Sabbat printing: Doesn't cancel combat. Leaves the reacting vampire\n> tapped if he successfully blocked.\n\nEr...so it didn't do anything at all?\n\nMatt Morgan"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Mar 28, 2008, 10:50:25\u202FPM",
+      "Body": "In message <2008032816...@eris.io.com>, Matthew T. Morgan\n\uE5D3\n\nFrom the Wizards card text file I have to hand:\n\nCard Title: Obedience\nBlood/Pool: n/a\nClan/Discip.: Dominate\nCard Type: Reaction\nCard Text: Only usable when this reacting vampire is about to\nenter combat with an acting younger vampire. Untap\nthe acting vampire. The acting vampire is blocked, and\nhe or she cannot attempt the same action again this\nturn.\n(S) As above, but do not untap the acting vampire.\nArtist: L. A. Williams\nRarity: Uncommon\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    }
+  ]
+}

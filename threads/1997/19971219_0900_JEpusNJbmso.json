@@ -1,0 +1,32 @@
+{
+  "ThreadId": "JEpusNJbmso",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/JEpusNJbmso",
+  "Title": "[LSJ] Bonecraft Question",
+  "Messages": [
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Dec 19, 1997, 9:00:00\u202FAM",
+      "Body": "I'm pretty sure I asked this before, but I've forgotten what the answer\nwas. This time, I'm actually making a deck with the card, so I promise\nnot to forget. ;-)\n\nBonecraft has what looks like reminder text saying that its side effect\n(the minion hit by it has -1/-2 hand damage) doesn't affect the Strike\nResolution step this round. Is it meant to be for the entire round,\nor only for the current pair of strikes that the effect isn't working\nyet? Thanks,\n\nJosh\n\nreally bad at remembering the answers to my own questions"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 19, 1997, 9:00:00\u202FAM",
+      "Body": "Joshua Duffin wrote:\n> I'm pretty sure I asked this before, but I've forgotten what the answer\n> was. This time, I'm actually making a deck with the card, so I promise\n> not to forget. ;-)\n>\n> Bonecraft has what looks like reminder text saying that its side effect\n> (the minion hit by it has -1/-2 hand damage) doesn't affect the Strike\n> Resolution step this round. Is it meant to be for the entire round,\n> or only for the current pair of strikes that the effect isn't working\n> yet? Thanks,\n\nBonecraft [SAB] - combat (vis) (1)\n\n* The \"(This does not affect the Strike Resolution step\nthis round.)\" reminder text on Bonecraft is properly\nread as \"(This does not affect the current pair of\nStrike Resolution steps.)\". That is, any additional\nstrikes after the strike that was annnounced with the\nBonecraft strike will be affected. [LSJ 970224]\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "John M. Baker",
+      "Date": "Dec 20, 1997, 9:00:00\u202FAM",
+      "Body": "LSJ wrote:\n> Bonecraft [SAB] - combat (vis) (1)\n>\n> * The \"(This does not affect the Strike Resolution step\n> this round.)\" reminder text on Bonecraft is properly\n> read as \"(This does not affect the current pair of\n> Strike Resolution steps.)\". That is, any additional\n> strikes after the strike that was annnounced with the\n> Bonecraft strike will be affected. [LSJ 970224]\n\nOkay, how about if Bonecraft is performed with First Strike?\nWould the opponent's first hand strike be affected by a FS\nBonecraft?\n\nJohn Baker"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Dec 21, 1997, 9:00:00\u202FAM",
+      "Body": "In article <01bd0d67$1da09e20$268c...@PennState.cac.psu.edu>, \"John M.\nBaker\" <jm...@psu.edu> writes\n\uE5D3\n\nI would have said that the opponent's hand strike (assuming that it was\nnot also dealt with First Strike) would have been affected since it will\noccur in a later pair of steps.\n\n--\n\nJames Coupe (remove some crap to reply)\n\nPah!! I hope it shits in your jogging suit!"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 22, 1997, 9:00:00\u202FAM",
+      "Body": "John M. Baker wrote:\n>\n> LSJ wrote:\n> > Bonecraft [SAB] - combat (vis) (1)\n> >\n> > * The \"(This does not affect the Strike Resolution step\n> > this round.)\" reminder text on Bonecraft is properly\n> > read as \"(This does not affect the current pair of\n> > Strike Resolution steps.)\". That is, any additional\n> > strikes after the strike that was annnounced with the\n> > Bonecraft strike will be affected. [LSJ 970224]\n>\n> Okay, how about if Bonecraft is performed with First Strike?\n> Would the opponent's first hand strike be affected by a FS\n> Bonecraft?\n\nYes. The \"pair\" are assumed to be resolving simultaneously.\nIf they are not (one is done at First Strike, for example),\nthen they resolve in turn, as usual.\n\nBottom Line: it's just reminder text.\n\n\uE5D3"
+    }
+  ]
+}

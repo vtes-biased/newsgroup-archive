@@ -1,0 +1,137 @@
+{
+  "ThreadId": "j98aqFIFjnE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/j98aqFIFjnE",
+  "Title": "LSJ Outside the Hourglass vs Pulled Fangs",
+  "Messages": [
+    {
+      "Author": "Vincent",
+      "Date": "Jun 30, 2010, 3:12:20\u202FPM",
+      "Body": "Before range, minion A plays Outside the Hourglass at TEM and sends\nthe opposing vampire B to torpor.\nCan A play Pulled Fangs? (No effect has been used to set the range to\nlong)\n\nThanks\n\nOutside the Hourglass\nType: Combat\nRequires: Temporis / Obfuscate\n[obf] Strike: dodge.\n[tem] Maneuver, or strike: dodge, with an optional maneuver.\n[TEM] Only usable before range is determined. Inflict 2 damage on the\nopposing minion. A vampire can play only one Outside the Hourglass at\nsuperior each round.\n\nPulled Fangs\nType: Combat\nOnly usable at the end of a round of combat in which this minion\ninflicted more damage at close range than the opposing vampire. Not\nusable by a minion being burned or going into torpor.\nPut this card on the opposing vampire, and this minion inflicts 1\npoint of damage. The victim cannot hunt until this card is removed.\nAny vampire(s) may burn this card with two +1 stealth actions. If the\nvictim must hunt and cannot, he or she goes into torpor. A vampire can\nhave only 1 Pulled Fangs."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 30, 2010, 3:44:57\u202FPM",
+      "Body": "On Jun 30, 9:12 am, Vincent <v.rip...@gmail.com> wrote:\n> Before range, minion A plays Outside the Hourglass at TEM and sends\n> the opposing vampire B to torpor.\n> Can A play Pulled Fangs?  (No effect has been used to set the range to\n> long)\n\nYes, each round begins at close range.\n\n\uE5D3"
+    },
+    {
+      "Author": "Darby Keeney",
+      "Date": "Jun 30, 2010, 3:46:13\u202FPM",
+      "Body": "On Jun 30, 7:12 am, Vincent <v.rip...@gmail.com> wrote:\n> Before range, minion A plays Outside the Hourglass at TEM and sends\n> the opposing vampire B to torpor.\n> Can A play Pulled Fangs?  (No effect has been used to set the range to\n> long)\n\nI believe the answer is no.\n\nOutside the Hourglass should create environmental damage in the\nprerange step, like Weather Control (though the wording is\ndifferent).\n\nPulled Fangs requires the minion to inflict damage, and environment\ndamage is not counted."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 30, 2010, 3:58:37\u202FPM",
+      "Body": "\uE5D3\n\nTrue, but Outside the Hourglass has the minion inflicting the damage.\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/b483fd7d57089f13"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jun 30, 2010, 3:59:36\u202FPM",
+      "Body": "\uE5D3\n\nDamage from Outside the Hourglass is inflicted by the Vampire with\nTEM.\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/b483fd7d57089f13"
+    },
+    {
+      "Author": "echia...@yahoo.com",
+      "Date": "Jun 30, 2010, 6:20:37\u202FPM",
+      "Body": "On Jun 30, 8:44 am, LSJ <vtes...@white-wolf.com> wrote:\n> On Jun 30, 9:12 am, Vincent <v.rip...@gmail.com> wrote:\n>\n> > Before range, minion A plays Outside the Hourglass at TEM and sends\n> > the opposing vampire B to torpor.\n> > Can A play Pulled Fangs?  (No effect has been used to set the range to\n> > long)\n>\n> Yes, each round begins at close range.\n\nI understand the part about the damage from Outside the Hourglass\nbeing inflicted by the minion (which the other posts discuss).\n\nBut I have trouble reconciling the idea that this combo satisfies the\nclose range requirement. Since this is the phase before range is\ndetermined, it's kind of odd that range is already at close (before\nrange is determined). If such is the case, would this close range be\nsufficient to spread a Vampiric Disease? And that cards like Blood to\nAcid and Blood to Water could get slipped in before range?\n\nTo me, it seems more intuitive that range is not determined (not\nclose, not long) at the \"before range\" step, unless something has\nalready set the range. (i.e. you could Selective Silence / Shadow Step\nthe range to close and then use Outside the Hourglass and Pulled\nFangs, but without setting the range, you aren't at close range for\nOutside the Hourglass)."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 30, 2010, 7:02:26\u202FPM",
+      "Body": "On Jun 30, 12:20 pm, \"echiang...@yahoo.com\" <echiang...@yahoo.com>\nwrote:\n\n> On Jun 30, 8:44 am, LSJ <vtes...@white-wolf.com> wrote:\n>\n> > On Jun 30, 9:12 am, Vincent <v.rip...@gmail.com> wrote:\n>\n> > > Before range, minion A plays Outside the Hourglass at TEM and sends\n> > > the opposing vampire B to torpor.\n> > > Can A play Pulled Fangs?  (No effect has been used to set the range to\n> > > long)\n>\n> > Yes, each round begins at close range.\n>\n> I understand the part about the damage from Outside the Hourglass\n> being inflicted by the minion (which the other posts discuss).\n>\n> But I have trouble reconciling the idea that this combo satisfies the\n> close range requirement. Since this is the phase before range is\n> determined, it's kind of odd that range is already at close (before\n> range is determined).\n\n\"Each round of combat is fought at either close range or long range.\nClose range is the default for each round.\" [6.4.2]\n\nIf one minion maneuvers, the range *is* then long.\nThe other can manuever to make the range close again.\nAnd so on until no one wishes to change the range again.\n\n[6.4.2] again.\n\n> If such is the case, would this close range be\n> sufficient to spread a Vampiric Disease?\n\nClearly not.\n\n>And that cards like Blood to\n> Acid and Blood to Water could get slipped in before range?\n\nNo:\nBlood of Acid: \"before strikes\".\nBlood to Water: \"before strikes\"."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jun 30, 2010, 8:29:47\u202FPM",
+      "Body": "On Jun 30, 12:02 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n> \"Each round of combat is fought at either close range or long range.\n> Close range is the default for each round.\" [6.4.2]\n>\n> If one minion maneuvers, the range *is* then long.\n> The other can manuever to make the range close again.\n> And so on until no one wishes to change the range again.\n>\n> [6.4.2] again.\n>\n> > If such is the case, would this close range be\n> > sufficient to spread a Vampiric Disease?\n>\n> Clearly not.\n>\n\nSo... that's a wording problem with Vampiric Disease?\n\n> >And that cards like Blood to\n> > Acid and Blood to Water could get slipped in before range?\n>\n> No:\n> Blood of Acid: \"before strikes\".\n> Blood to Water: \"before strikes\".\n\nI wasn't aware that \"before range\" happened after strikes."
+    },
+    {
+      "Author": "Henri K",
+      "Date": "Jun 30, 2010, 10:04:04\u202FPM",
+      "Body": "\uE5D3\n\nBlood of Acid and Blood to Water are played at close range before\nstrikes are chosen. There is no before range step but cards that say\nthey are played before range is determined obviously override rules\nbecause of their card text. If a card is only playable at close range,\nyou can't play it until the range is determined to be close.\n\nPulled Fangs can be played in this situation because nothing has yet\naltered the default range, and nothing will, but the combat is already\nat an end."
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Jul 1, 2010, 6:49:34\u202FAM",
+      "Body": "On Jun 30, 1:04 pm, Henri K <stealthw...@gmail.com> wrote:\n\n> Pulled Fangs can be played in this situation because nothing has yet\n> altered the default range, and nothing will, but the combat is already\n> at an end.\n\nBy this reasoning a Vampiric Disease counter should be passed as well."
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Jul 1, 2010, 10:33:08\u202FAM",
+      "Body": "\uE5D3\n\nYou get things mixed up.\nEric was pointing out that the VD counter should be passed before\nrange is determine (and that we could play Blood to Water etc.) The\nanswer is no, since range hasn't been determined yet.\n\nAs Henri points out, when the combat ends because of Outside the\nHourglass sending the opposing minion to torpor, we can check the\nrange since the \"determine range\" step is over. And since range is by\ndefault close and hasn't changed, it remains close until the end of\ncombat.\n\nBut maybe you're asking what happens to a vampire with a VD counter\nthat is send to torpor by OtHG?\nI think the Temporis minion should get the VD counter, since we're\nstill in combat and it's still close range.\n\nName: Vampiric Disease\nCardtype: Master\nMaster.\nPut a disease counter on any vampire. Each time a vampire with a\ndisease counter is in combat at close range with another vampire, the\nsecond vampire gets a counter as well. An afflicted vampire cannot\ngain blood by hunting. When an afflicted vampire untaps, he or she\nburns a blood or, if unable, burns the disease counter. A vampire can\nhave only one disease counter."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 1, 2010, 12:47:34\u202FPM",
+      "Body": "\uE5D3\n\nExcept that card text on VD is clearly using the \"after range is\ndetermined\" window."
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Jul 1, 2010, 10:58:23\u202FPM",
+      "Body": "\uE5D3\n\nWhat if the opposing minion B is not sent to torpor and someone sets\nthe round to long afterward?\nCan A play Pulled Fangs since A dealt more damage at close range\n(before range was determined)?\nOr are the damage from Outside the Hourglass considered to be dealt at\nlong range?\n\nAt a undetermined (?!?) range ?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 2, 2010, 1:28:12\u202FAM",
+      "Body": "\uE5D3\n\nNo.\n\n> Or are the damage from Outside the Hourglass considered to be dealt at\n> long range?\n\nSure.\n\n\uE5D3"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Jul 2, 2010, 11:10:31\u202FPM",
+      "Body": "On Jul 2, 1:28 am, LSJ <vtes...@white-wolf.com> wrote:\n\n> > What if the opposing minion B is not sent to torpor and someone sets\n> > the round to long afterward?\n> > Can A play Pulled Fangs since A dealt more damage at close range\n> > (before range was determined)?\n>\n> No.\n>\n> > Or are the damage from Outside the Hourglass considered to be dealt at\n> > long range?\n>\n> Sure.\n\nIf minion B would've had an Improvised Flamethrower equipped, would xe\ntake 2 aggravated damage as soon as the range was set to long in the\nabove case?\n\nImprovised Flamethrower\nType: Equipment\nCost: 2 pool\nWeapon.\nStrike: 2R aggravated damage, only usable once per combat. If the\nopposing minion inflicts any damage on this minion at long range (even\nif it is prevented), this weapon is burned and the bearer takes 2\naggravated (non-strike) damage."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 3, 2010, 12:29:29\u202FAM",
+      "Body": "On Jul 2, 5:10 pm, henrik <www.hen...@gmail.com> wrote:\n> On Jul 2, 1:28 am, LSJ <vtes...@white-wolf.com> wrote:\n>\n> > > What if the opposing minion B is not sent to torpor and someone sets\n> > > the round to long afterward?\n> > > Can A play Pulled Fangs since A dealt more damage at close range\n> > > (before range was determined)?\n>\n> > No.\n>\n> > > Or are the damage from Outside the Hourglass considered to be dealt at\n> > > long range?\n>\n> > Sure.\n>\n> If minion B would've had an Improvised Flamethrower equipped, would xe\n> take 2 aggravated damage as soon as the range was set to long in the\n> above case?\n>\n\nNo.\n\n(Making the \"sure\" above an \"I guess not -- but the point is that the\nrange is long\")\n\n\uE5D3"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Jul 3, 2010, 12:44:15\u202FAM",
+      "Body": "On Jul 3, 12:29 am, LSJ <vtes...@white-wolf.com> wrote:\n\n> > > > What if the opposing minion B is not sent to torpor and someone sets\n> > > > the round to long afterward?\n> > > > Can A play Pulled Fangs since A dealt more damage at close range\n> > > > (before range was determined)?\n>\n> > > No.\n>\n> > > > Or are the damage from Outside the Hourglass considered to be dealt at\n> > > > long range?\n>\n> > > Sure.\n>\n> > If minion B would've had an Improvised Flamethrower equipped, would xe\n> > take 2 aggravated damage as soon as the range was set to long in the\n> > above case?\n>\n> No.\n>\n> (Making the \"sure\" above an \"I guess not -- but the point is that the\n> range is long\")\n\nIf Fear of the Void Below (dai/DAI) would've been played earlier,\nwould Outside the Hourglass then trigger the Improvised Flamethrower?\n\nFear of the Void Below\nType: Combat\nRequires: Daimoinon/Obfuscate\nCost: 1 blood\nA vampire may play only one Fear of the Void Below each combat.\n[obf] Maneuver.\n[dai] Only usable before range is determined. Each round of this\ncombat defaults to long range, and this vampire gets an optional press\neach round, only usable to end combat.\n[DAI] As [dai] above, and the opposing minion's controller discards\none card at random from his or her hand during the initial strike\nresolution phase of each round.\n\n\uE5D3"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Jul 4, 2010, 4:14:30\u202FAM",
+      "Body": "On Jul 2, 3:29 pm, LSJ <vtes...@white-wolf.com> wrote:\n> On Jul 2, 5:10 pm, henrik <www.hen...@gmail.com> wrote:\n>\n>\n>\n>\n>\n> > On Jul 2, 1:28 am, LSJ <vtes...@white-wolf.com> wrote:\n>\n> > > > What if the opposing minion B is not sent to torpor and someone sets\n> > > > the round to long afterward?\n> > > > Can A play Pulled Fangs since A dealt more damage at close range\n> > > > (before range was determined)?\n>\n> > > No.\n>\n> > > > Or are the damage from Outside the Hourglass considered to be dealt at\n> > > > long range?\n>\n> > > Sure.\n>\n> > If minion B would've had an Improvised Flamethrower equipped, would xe\n> > take 2 aggravated damage as soon as the range was set to long in the\n> > above case?\n>\n> No.\n>\n> (Making the \"sure\" above an \"I guess not -- but the point is that the\n> range is long\")\n\nSo, conclusions garnered from this thread:\n\nIf range has not been determined in a combat and combat ends, the\ndefault range is used for card effects whose wording does not require\nrange to have been determined.\n\nHence, Pulled Fangs can be played after Outside the Hourglass\ntorporizes the opposing minion.\n\nSimilarly, a minion may play Outside the Hourglass (assume at least\none damage hits), superior Alpha Glint and then Disarm.\n\nImprovised Flamethrower does not have 'after range is determined' text\na la Vampiric Disease, Blood to Water, et al, and is more parallel to\nPulled Fangs/Disarm. Thus, if the default range is long and Outside\nthe Hourglass is played and combat ends before range is determined\nthen Improvised Flamethrower's negative effect should be applied.\n\nIf these conclusions are correct then only one discrepancy seems\napparent:\n\nPulled fangs cannot be played if Outside the Hourglass hits and then\nrange is determined to be long.\n\ncoupled with\n\nImprovised Flamethrower's effect is not applied if Outside the\nHourglass hits and range is determined to be long."
+    },
+    {
+      "Author": "Just Deal",
+      "Date": "Jul 6, 2010, 12:24:38\u202FAM",
+      "Body": "\uE5D3\n> Hourglass hits and range is determined to be long.- Hide quoted text -\n>\n> - Show quoted text -\n\nI know this is a bit cornercase but it does effect the game in\ninteresting ways, is there a conflict here or is something somehow\nmisinterpreted. I'm alittle confused about what's going on anyway. Is\nthe default range (whether determined or not) significant or should\npuled fang-disarm not be usable at all?"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Jul 8, 2010, 8:05:17\u202FPM",
+      "Body": "On Jul 3, 7:14 pm, Robert Scythe <tbel...@gmail.com> wrote:\n\n\uE5D3\n\nI am curious what the answers are to these points. LSJ?\n\nIn addition the thread regarding Outside the Hourglass and Flesh of\nMarble raises other questions for me.\n\nDamage resolution doesn't preclude other effects\n\nDoes this errata create a damage resolution phase at the end of pre-\nrange\n\nIf the vampire targeted by OtH plays Alpha Glint before resolving\ndamage does he still have to. Is not combat over?"
+    },
+    {
+      "Author": "John McGlynn",
+      "Date": "Jul 8, 2010, 9:09:01\u202FPM",
+      "Body": "\uE5D3\n\nIANALSJ, but it seems to me that damage must be resolved (one way or\nanother) for combat to end.\n\n--\nJohn McGlynn\nTremeres do it with Weather Control"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 9, 2010, 2:02:56\u202FPM",
+      "Body": "\uE5D3\n\nPulled Fangs cannot be played at long range, correct.\n\n> > > coupled with\n>\n> > > Improvised Flamethrower's effect is not applied if Outside the\n> > > Hourglass hits and range is determined to be long.\n\nImpF doesn't go back and check all previously-inflicted damage,\ncorrect.\nIt looks at damage as it occurs.\n\n> > I am curious what the answers are to these points. LSJ?\n\nI thought they followed directly from the previous post and cited\npost.\n\n> > In addition the thread regarding Outside the Hourglass and Flesh of\n> > Marble raises other questions  for me.\n>\n> > Damage resolution doesn't preclude other effects\n>\n> > Does this errata create a damage resolution phase at the end of pre-\n> > range\n\nNo. (And this isn't errata)\n\n> > If the vampire targeted by OtH plays Alpha Glint before resolving\n> > damage does he still have to. Is not combat over?\n>\n> IANALSJ, but it seems to me that damage must be resolved (one way or\n> another) for combat to end.\n\nCorrect.\n\nRulings:\nWeather Control:\n# Weather Control's damage will occur even if combat is subsequently\nended before range (by Mariel or Elysium: Arboretum, e.g.) [LSJ\n19971110]"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Jul 9, 2010, 9:43:24\u202FPM",
+      "Body": "A minion may play Outside the Hourglass (assume at least\none damage hits), superior Alpha Glint and then Disarm.\n\nDisarm\npot] Only usable at the end of a round of combat in which this vampire\nsuccessfully inflicted more damage at close range than the opposing\nvampire. Not usable by a vampire being burned or going into torpor.\nPut this card on the opposing vampire and send that vampire into\ntorpor. The vampire with this card has -1 strength. He or she may burn\nthis card by burning 3 blood. A vampire can have only one Disarm.\n[POT] As above, but the vampire with this card has -2 strength.\n\nIf Fear of the Void Below (dai/DAI) would've been played earlier,\nwould Outside the Hourglass then trigger the Improvised Flamethrower?\n\nFear of the Void Below\nType: Combat\nRequires: Daimoinon/Obfuscate\nCost: 1 blood\nA vampire may play only one Fear of the Void Below each combat.\n[obf] Maneuver.\n[dai] Only usable before range is determined. Each round of this\ncombat defaults to long range, and this vampire gets an optional press\neach round, only usable to end combat.\n[DAI] As [dai] above, and the opposing minion's controller discards\none card at random from his or her hand during the initial strike\nresolution phase of each round.\n\nI assume he meant the vampire with Improvised Flamethrower is sent to\ntorpor as a result of OtH.\nIt seems that Improvised Flamethrower will do this damage outside of\ncombat and be unpreventable as a result burning the vampire.\n\nand some more from me\n\n6.4.1. Combat Sequence\n\nCombat occurs in a series of one or more rounds. Each round of combat\nhas three steps:\n\n* Determine Range. Use maneuvers to set the range to close or\nlong.\n* Strike. Announce and resolve strikes.\n* Press. Use presses to continue into another round or to end\ncombat.\n\nAs usual, the acting minion always gets first opportunity to use a\ncard or effect before the opposing minion at every stage of combat.\n\nIf range is set as a pre. Is it fair to say, \"range has been\ndetermined\"?\nOr do you have to wait for the Determine Range Step to be passed,\nwhither skipped or not.\nIf range is set to long and range is not determined until after DRS.\nIf OtH sends the opposing vampire to torpor, you can play Pulled Fangs/\nDisarm\nIf range has been determined to be close as a result of a pre, can you\nplay Immortal Prapple(and the like) in the pre-range step?\n\nSome of these cards say, \"skip Determine Range\". Is this just reminder\ntext?\nOr does it always happen when range is set?\n\nMatt"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 9, 2010, 9:51:27\u202FPM",
+      "Body": "On Jul 9, 3:43 pm, Wedge <matt...@gmail.com> wrote:\n> A minion may play Outside the Hourglass (assume at least\n> one damage hits), superior Alpha Glint and then Disarm.\n>\n> Disarm\n> pot] Only usable at the end of a round of combat in which this vampire\n> successfully inflicted more damage at close range than the opposing\n> vampire. Not usable by a vampire being burned or going into torpor.\n> Put this card on the opposing vampire and send that vampire into\n> torpor. The vampire with this card has -1 strength. He or she may burn\n> this card by burning 3 blood. A vampire can have only one Disarm.\n> [POT] As above, but the vampire with this card has -2 strength.\n>\n> If Fear of the Void Below (dai/DAI) would've been played earlier,\n> would Outside the Hourglass then trigger the Improvised Flamethrower?\n\nYes. (And Disarm would not be playable, since the range is long)\n\n> Fear of the Void Below\n> Type: Combat\n> Requires: Daimoinon/Obfuscate\n> Cost: 1 blood\n> A vampire may play only one Fear of the Void Below each combat.\n> [obf] Maneuver.\n> [dai] Only usable before range is determined. Each round of this\n> combat defaults to long range, and this vampire gets an optional press\n> each round, only usable to end combat.\n> [DAI] As [dai] above, and the opposing minion's controller discards\n> one card at random from his or her hand during the initial strike\n> resolution phase of each round.\n>\n> I assume he meant the vampire with Improvised Flamethrower is sent to\n> torpor as a result of OtH.\n> It seems that Improvised Flamethrower will do this damage outside of\n> combat and be unpreventable as a result burning the vampire.\n\nImpF does its damage in combat, assuming it is triggered by in-combat\ndamage.\n\n> and some more from me\n>\n> 6.4.1. Combat Sequence\n>\n> Combat occurs in a series of one or more rounds. Each round of combat\n> has three steps:\n>\n>     * Determine Range. Use maneuvers to set the range to close or\n> long.\n>     * Strike. Announce and resolve strikes.\n>     * Press. Use presses to continue into another round or to end\n> combat.\n>\n> As usual, the acting minion always gets first opportunity to use a\n> card or effect before the opposing minion at every stage of combat.\n>\n> If range is set as a pre. Is it fair to say, \"range has been\n> determined\"?\n\nNo.\n\n> Or do you have to wait for the Determine Range Step to be passed,\n> whither skipped or not.\n\nYou finish \"before range stuff\" before moving on.\n\n> If range is set to long and range is not determined until after DRS.\n> If OtH sends the opposing vampire to torpor, you can play Pulled Fangs/\n> Disarm\n\nIf at close.\n\n> If range has been determined to be close as a result of a pre, can you\n> play Immortal Prapple(and the like) in the pre-range step?\n\nNo.\n\n\uE5D3"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Jul 9, 2010, 10:30:02\u202FPM",
+      "Body": "Thank you\n\n>\n> > If range is set as a pre. Is it fair to say, \"range has been\n> > determined\"?\n>\n> No.\n>\n> > Or do you have to wait for the Determine Range Step to be passed,\n> > whither skipped or not.\n>\n> You finish \"before range stuff\" before moving on.\n>\n\nJust so I am clear, you are saying, \"a pre-range card's effect that\nsets range is not applied,until pre-range is over\".\n\nCorrect?\n\nMatt"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 10, 2010, 2:36:44\u202FAM",
+      "Body": "\uE5D3\n\nNo. It sets range when played.\n\nAnd you still remain in the \"before range\" window until everyone\npasses.\n\nThen you skip the determine range window."
+    }
+  ]
+}

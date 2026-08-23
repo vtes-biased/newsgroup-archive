@@ -1,0 +1,27 @@
+{
+  "ThreadId": "2VOh8KwXoAw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/2VOh8KwXoAw",
+  "Title": "(LSJ) Parsing Loving Agony's cardtext",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Mar 2, 2010, 11:49:07\u202FAM",
+      "Body": "Hi LSJ,\n\nWe didn't agree on how to parse this cardtext:\nWhich one is it ?\n\na/ [this vampire may] [burn 1 blood to untap] [before combat ends]\n(which could be read as \"before combat ends, this vampire may burn 1\nblood to untap\")\n\nb/ [this vampire may burn 1 blood] to [untap before combat ends]\n\nIf it is a/, then the acting vampire plying Loving Agony at sup' can\nwait for the other vampire to declare his strike before he burns 1 to\nuntap. And he could maybe untap at any time in that round.\nIf it is b/, then the choice of burning 1 blood to untap is made (and\npaid) at strike declaration.\n\nThanks,\nPascal\n\n~~\nLoving Agony\nCardtype: Combat\nCost: 1 blood\nDiscipline: Valeren/Animalism\nOnly usable at close range.\n[ani] Strike: hand strike at +1 damage.\n[val] Strike: combat ends and the opposing minion takes 1 damage.\n[VAL] As [val] above, and this vampire may burn 1 blood to untap\nbefore combat ends."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 2, 2010, 2:10:22\u202FPM",
+      "Body": "On Mar 2, 5:49 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> Hi LSJ,\n>\n> We didn't agree on how to parse this cardtext:\n> Which one is it ?\n>\n> a/ [this vampire may] [burn 1 blood to untap] [before combat ends]\n> (which could be read as \"before combat ends, this vampire may burn 1\n> blood to untap\")\n>\n> b/ [this vampire may burn 1 blood] to [untap before combat ends]\n>\n> If it is a/, then the acting vampire plying Loving Agony at sup' can\n> wait for the other vampire to declare his strike before he burns 1 to\n> untap. And he could maybe untap at any time in that round.\n> If it is b/, then the choice of burning 1 blood to untap is made (and\n> paid) at strike declaration.\n\nIt is a strike, so in either case, the choice is made after the other\nminion's strike is declared.\nStrikes do not resolve when played.\n\n\uE5D3"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Mar 2, 2010, 2:32:10\u202FPM",
+      "Body": "On Mar 2, 2:10 pm, LSJ <vtes...@white-wolf.com> wrote:\n> It is a strike, so in either case, the choice is made after the other\n> minion's strike is declared.\n> Strikes do not resolve when played.\n\nI might not have asked precisely enough.\n\nDoes the resolution of this strike at VAL give you the possibility,\nuntil the end of the current roud, to burn 1 blood to untap (a/) ?\n\nOr is it that it forces you to chose to burn 1 blood (and has you burn\n1 blood if you chose so) at strike resolution (closer to what I meant\nwith b/, though b/ was incorrect) ?\n\nHere's an example where there would be a difference:\n\nDela Eden is in combat with another vampire.\nThey exchange initial strikes, Dela gains 1 additional strike and\nplays sup' Loving Agony as the additional stirke. Could Dela play\nTaste of Vitae (and gains 1 blood), and then use Loving Agony's\ncardtext to untap (in the \"end of round\" window) ?\n\n[Dela Eden has cel VAL]"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 2, 2010, 3:48:03\u202FPM",
+      "Body": "On Mar 2, 8:32 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> On Mar 2, 2:10 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n> > It is a strike, so in either case, the choice is made after the other\n> > minion's strike is declared.\n> > Strikes do not resolve when played.\n>\n> I might not have asked precisely enough.\n>\n> Does the resolution of this strike at VAL give you the possibility,\n> until the end of the current roud, to burn 1 blood to untap (a/) ?\n\nWell, since it also ends the round, it gives you the possibility,while\nthe round is ending, to burn one blood to untap, yes.\n\n> Or is it that it forces you to chose to burn 1 blood (and has you burn\n> 1 blood if you chose so) at strike resolution (closer to what I meant\n> with b/, though b/ was incorrect) ?\n>\n> Here's an example where there would be a difference:\n>\n> Dela Eden is in combat with another vampire.\n> They exchange initial strikes, Dela gains 1 additional strike and\n> plays sup' Loving Agony as the additional stirke. Could Dela play\n> Taste of Vitae (and gains 1 blood), and then use Loving Agony's\n> cardtext to untap (in the \"end of round\" window) ?\n\nYes."
+    }
+  ]
+}

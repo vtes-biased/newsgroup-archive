@@ -1,0 +1,17 @@
+{
+  "ThreadId": "3N0y_jEokRo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3N0y_jEokRo",
+  "Title": "(LSJ) Open Dossier question",
+  "Messages": [
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Jun 4, 2008, 9:59:22\u202FPM",
+      "Body": "Something I noticed was absent from the text on Open Dossier was the\nability to play further intercept cards. There is no \"may play\nreaction cards as if untapped\".\n\nI.e If I choose to play open dossier, the card text limits me to\nblocking, but it gives the +2 intercept and possible maneuver.\n\nSay I'm unlucky, and the opposing minion plays forgotten labyrinth.\nI'm attempting to block, but I'm currently failing. Card text doesn't\nmention \"can play reaction cards as if untapped during this block\nattempt\". Sure I can tap a master for another +1 or something, but the\nreacting minion can't play anything else.\n\nAm I right, or is it that the block attempt gives the right to\ncontinue to play reactions?"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jun 4, 2008, 10:08:28\u202FPM",
+      "Body": "\uE5D3\n\nYou're correct. The block attempt continues until it becomes\nunsuccessful - for instance, you could continue to try to block while\ngetting more intercept from locations, being Babbled, and so forth.\n\nHowever, you have no ability to play further reaction cards with that\nvampire 'as if untapped', so if that vampire wants to play reaction\ncards for more intercept, he'll need to find some other way to untap\n(or count as untapped for those cards.)\n\n-John Flournoy"
+    }
+  ]
+}

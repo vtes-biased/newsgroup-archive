@@ -1,0 +1,22 @@
+{
+  "ThreadId": "NSrCxjqMocw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NSrCxjqMocw",
+  "Title": "LSJ will make it quick",
+  "Messages": [
+    {
+      "Author": "Reyda",
+      "Date": "Feb 13, 2002, 1:14:29\u202FPM",
+      "Body": "Hi !\n\nI couldn't read all the thread about siren's Lure so i have three simple\nquestion.\n\nI attempt to call a referendum with Siren#1. Interceptor#1 attempts to\nblock. Siren #2 plays Siren's Lure. Interceptor #2 attempts to block.\n* At this point, can Siren#3 play another Siren's Lure ? If the answer is\nyes, wich siren will enter combat right after the referendum ?\n*Same situation as above, but Siren#1 is blocked and plays Change of target\nafter Siren#2 's Siren's Lure has been played. The action is cancelled, but\nwill Siren#2 enter combat with the previous wanna be blocker (Interceptor#1)\nanyway ??\n*Can Interceptor#1 play obedience to avoid combat with Siren#2 ?\n\nreyda"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Feb 13, 2002, 1:34:34\u202FPM",
+      "Body": "In message <a4dlfb$5o1$1...@hadron.noos.net>, Reyda <re...@noos.fr> writes:\n>I attempt to call a referendum with Siren#1. Interceptor#1 attempts to\n>block. Siren #2 plays Siren's Lure. Interceptor #2 attempts to block.\n>* At this point, can Siren#3 play another Siren's Lure ?\n\nNo, you can't stack pending combats like that.\n\n>If the answer is\n>yes, wich siren will enter combat right after the referendum ?\n\nMoot.\n\n>*Same situation as above, but Siren#1 is blocked and plays Change of target\n>after Siren#2 's Siren's Lure has been played. The action is cancelled, but\n>will Siren#2 enter combat with the previous wanna be blocker (Interceptor#1)\n>anyway ??\n\n[LSJ 20011204]\n\nhttp://groups.google.com/groups?selm=3C0D0D63.CBF487FC%40white-\nwolf.com&rnum=1\n\n****\n\n> The \"cancel the action\" phrasing makes me think that she's\n> not under NRA restrictions, but since the action goes as far\n> as being blocked, I'm not sure that that's correct.\n\nShe would be restricted by NRA.\n\"Canceled\" doesn't mean \"never happened\". It's more like \"irrevocably\nterminated\".\n\n****\n\nSo it seems clear - since NRA would kick in - that the action has\nresolved (rather than vanishing backwards), it's just completed in a\nnon-standard fashion. (NRA works on minions when the action resolves,\nyou see, per Mask of a Thousand Faces et al.)\n\nSo Siren's Lure would work.\n\n>*Can Interceptor#1 play obedience to avoid combat with Siren#2 ?\n\nNo. Siren #2 is not an /acting/, younger vampire. (Card text.)\n\n--\nJames Coupe but I lust after the raw pow0r of c.\nPGP 0x5D623D5D together with the humping great\nEBD690ECD7A1FB457CA2 elephant arse of gnome.\n13D7E668C3695D623D5D - Vashti"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 13, 2002, 2:07:18\u202FPM",
+      "Body": "James Coupe wrote:\n> So it seems clear - since NRA would kick in - that the action has\n> resolved (rather than vanishing backwards), it's just completed in a\n> non-standard fashion. (NRA works on minions when the action resolves,\n> you see, per Mask of a Thousand Faces et al.)\n\nJames's answers are all correct.\nTo elaborate/clarify the NRA rule: the NRA rule functions equivalently\nto the following rule:\n\nWhen an action resolves (is blocked or is successful), the acting minion\n(at that time) receives a \"Cannot preform <type>\" NRA counter, where\n<type> is the type of the action, as described in the V:EKN NRA rules. A\nminion with such a counter cannot perform actions of type <type>. All NRA\ncounters on all minions are burned at the end of each turn.\n\n(This handles ash-heap recycling, action canceling, etc. in the same\nmanner as the \"real\" NRA rule does)\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

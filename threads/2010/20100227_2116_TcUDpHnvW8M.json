@@ -1,0 +1,52 @@
+{
+  "ThreadId": "TcUDpHnvW8M",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TcUDpHnvW8M",
+  "Title": "Change of Target x Unleash Hell's Fury",
+  "Messages": [
+    {
+      "Author": "diablojf",
+      "Date": "Feb 27, 2010, 9:16:55\u202FPM",
+      "Body": "Hi there...\n\nIf the minion A is blocked by the Unleash Hell's Fury, and play Change\nof Target the aggravated damage is apply?\n\nThanks\n\nPedro Paulo de Sousa Mendes\nV:EKN Prince of Cataguases\nV:EKN Prince number 488"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Feb 27, 2010, 10:12:40\u202FPM",
+      "Body": "On Feb 27, 9:16 pm, diablojf <diabl...@hotmail.com> wrote:\n> Hi there...\n>\n> If the minion A is blocked by the Unleash Hell's Fury, and play Change\n> of Target the aggravated damage is apply?\n\nChange of target states the block is successful, so yes, hells fury\napplies.\n\nQuoting the relevant card texts, preferably from the csv or card text\npage, makes getting an answer a lot simpler and easier.\n\nUnleash Hell's Fury\nType: Action\nRequires: infernal Daimoinon\nCost: 2 pool\n+1 stealth action. Requires an infernal vampire. Unique.\n[dai] Put this card in play. This card may attempt to block a (D)\naction against you and is considered a 9-capacity infernal vampire\nwith +2 intercept during that attempt; if successful, the acting\nminion takes 1 unpreventable aggravated damage, and this card is\nburned.\n[DAI] As above, and untap this vampire. Burn option.\n\nChange of Target\nType: Action Modifier\nOnly usable when this acting minion is blocked (play before combat, if\nany). Untap the acting minion, do not tap the blocking minion, and end\nthe current action (it is not successful). This minion cannot perform\nthe same action again this turn."
+    },
+    {
+      "Author": "diablojf",
+      "Date": "Feb 27, 2010, 10:31:57\u202FPM",
+      "Body": "On Feb 27, 6:12 pm, Blooded Sand <sandm...@gmail.com> wrote:\n> On Feb 27, 9:16 pm, diablojf <diabl...@hotmail.com> wrote:\n>\n> > Hi there...\n>\n> > If the minion A is blocked by the Unleash Hell's Fury, and play Change\n> > of Target the aggravated damage is apply?\n>\n> Change of target states the block is successful, so yes, hells fury\n> applies.\n>\n> Quoting the relevant card texts, preferably from the csv or card text\n> page, makes getting an answer a lot simpler and easier.\n\nHi...\n\nI know the block is successful.\nMy doubt is becose the Chang of Target cancel the action.\nSo, the action is cancealed before or not the aggravated damage?\nAnd I?\n\nBest Regards\n\nPedro Paulo"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 27, 2010, 11:32:43\u202FPM",
+      "Body": "\uE5D3\n\nThe wording suggests that Unleash doesn't care if there is an action\ncurrently happening. If the action was blocked, it triggers and just\nwaits for other things to finish before pinging with the aggravated\ndamage."
+    },
+    {
+      "Author": "diablojf",
+      "Date": "Mar 1, 2010, 1:47:37\u202FAM",
+      "Body": "\uE5D3\n> exactly- Hide quoted text -\n>\n> - Show quoted text -\n\nBut the Unleash Hell's Fury says:\nthe acting minion takes 1 unpreventable aggravated damage.\n\nIf the action is cancelead, there is no action minion to take the\ndamage.\nRight?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2010, 3:08:25\u202FAM",
+      "Body": "\uE5D3\n\nThe acting minion takes 1 aggravated damage. Even if the action is\nended by CoT.\nThe damage is inflicted during the action, as the action is ending."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Mar 1, 2010, 6:04:14\u202FAM",
+      "Body": "\uE5D3\n\nSo to clearly delineate the steps:\n\nMinion A takes an Action\nUnleash Hell's Fury successfully blocks\nMinion A plays Change of Target\nMinion A takes 1 agg damage\nChange of Target cancels the action, etc, etc, etc."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2010, 2:05:47\u202FPM",
+      "Body": "\uE5D3\n\nChange of Target ends the action, it doesn't cancel the action.\n\nMinion A plays CoT.\nCoT resolves when played, so the action is ending.\nA takes 1 agg damage as the action is ending (mandatory)."
+    },
+    {
+      "Author": "diablojf",
+      "Date": "Mar 1, 2010, 4:27:38\u202FPM",
+      "Body": "\uE5D3\n> A takes 1 agg damage as the action is ending (mandatory).- Hide quoted text -\n\n>\n> - Show quoted text -\n\nThanks!\n\nPedro Paulo de Sousa Mendes\n\nPrince of Cataguases\n488"
+    }
+  ]
+}

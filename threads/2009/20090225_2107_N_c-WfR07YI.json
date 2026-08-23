@@ -1,0 +1,92 @@
+{
+  "ThreadId": "N_c-WfR07YI",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/N_c-WfR07YI",
+  "Title": "Formula for calculating how many people will meet each other twice in a tourney?",
+  "Messages": [
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 25, 2009, 9:07:09\u202FPM",
+      "Body": "Hi all,\n\nbeen working for quite some time on a Java version of the Archon. I\nwant to implement the optimal seating that spans across the whole\nplaying field and I have now finally gotten it to work for 16 and 25+\nplayers, so that if you choose the optimal seating randomization\nvariant it will make sure that two people do not meet each other twice\nin a tournament (this is for a tournament with up to three qualifying\nrounds).\n\nHoweber, for a tournament with say 12 players, or 17 players (and\nthree qualifying rounds), someone will always meet someone else twice,\nsimply due to the fact that you can only move so many players between\nthe rounds in order to avoid this. So I am trying to figure out some\nkind of formula that allows me to know when I need to allow for\nmeeting conflicts without continuing to try to do my optimization.\n\nDoes anyone have any idea on how I should proceed?\n\nThanks,\n\nArchie"
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Feb 25, 2009, 9:33:54\u202FPM",
+      "Body": "\uE5D3\n\nThis may not be helpful, but why not just use the seating chart given in the\nArchon? Why the need to \"further\" optimize the chart?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy, and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment... Complacency... Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! http://vtesville.myminicity.com/\nLas Vegas NAQ 2009! http://members.cox.net/vtesinlv/"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 25, 2009, 9:56:19\u202FPM",
+      "Body": "\uE5D3\n> Las Vegas NAQ 2009!http://members.cox.net/vtesinlv/- Dölj citerad text -\n>\n> - Visa citerad text -\nBecause the current chart only goes up to a certain amount of player\n(albeit a large amount). The optimal seating is (unless it has been\nchanged) also grouped to include batches of 50 people, and you won't\nmeet people outside your batch, my optimized seating seats players\nacross the whole playing field. I also include the option to have true\nrandomization (meaning only the prey/predator rule is in effect) which\nis supported by the tournament rules (not sure anyone ever plays with\nthat but it still supported).\n\nArchie"
+    },
+    {
+      "Author": "carn...@gmail.com",
+      "Date": "Feb 25, 2009, 9:59:23\u202FPM",
+      "Body": "\uE5D3\n\nAs far as \"won't be at the same table\":\n\nIt's impossible to do with a three-table tournament and three rounds,\nwhich rules out 15 or less players.\n\nIt's also impossible to do with four tables if any of the tables has\n>4 people, which rules out 17-20 - unless you force the 20 to be five\n4-man tables.\n\n> Archie\n\n-John Flournoy"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 25, 2009, 10:03:16\u202FPM",
+      "Body": "\uE5D3\n> -John Flournoy- Dölj citerad text -\n\n>\n> - Visa citerad text -\n\nYes, hence my first post. I am hoping someone will help me find a\nsimple formula for knowing this, so I can allow for conflicts.\n\nArchie"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 25, 2009, 10:05:29\u202FPM",
+      "Body": "\uE5D3\n\nI think the biggest benefit to an automated \"optimal\" seating chart comes from\nthe ability to quickly handle drops and adds.\n\nAnd to handle marathon tournaments (4+F or 5+F or more).\n\nThe rest is probably insufficient (on its own) to justify the effort.\n\nAnyway, to the original question: use a cost function. Then choose the seating\nwith the lowest cost (or: stop looking when improvements the cost level off).\nChoose costs for violations of the optimal criteria based on their relative\npriority."
+    },
+    {
+      "Author": "carn...@gmail.com",
+      "Date": "Feb 25, 2009, 10:06:43\u202FPM",
+      "Body": "On Feb 25, 2:59 pm, carne...@gmail.com wrote:\n> On Feb 25, 2:07 pm, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n>\n>\n>\n> > Hi all,\n>\n> > been working for quite some time on a Java version of the Archon. I\n> > want to implement the optimal seating that spans across the whole\n> > playing field and I have now finally gotten it to work for 16 and 25+\n> > players, so that if you choose the optimal seating randomization\n> > variant it will make sure that two people do not meet each other twice\n> > in a tournament (this is for a tournament with up to three qualifying\n> > rounds).\n\nAdditionally, since you it working for 25+ players, you by default\nhave it working for all cases 50 and above; you can group them into\noptimized batches of 25+ and swap between the batches as you so\ndesire .\n\nFor instance, in a 50-man tournament, you create two batches of 25.\nAfter the first round, swap roughly 1/3 of the people between batches\nwhile keeping their distribution order the same (i.e swapping the\n'first person table A' from one batch with 'first person table A' from\nthe second.) And then after round two swap a different third. And so\nforth for larger sizes and batches.\n\n25-49 should be doable as a single batch easily enough.\n\nSo:\n\n1-15: impossible.\n16: solved\n17-20: impossible (possible exception: 20 if you insist on 4-man\ntables)\n21-24: unsolved\n25+: solved (or at least easily solvable based on what you've already\ngot)\n\n> > Archie\n\n-John Flournoy"
+    },
+    {
+      "Author": "carn...@gmail.com",
+      "Date": "Feb 25, 2009, 10:12:30\u202FPM",
+      "Body": "\uE5D3\n\nThere's not really a need for a formula; unless you have <15 or 16-20,\nthere isn't a need for any conflicts.\n\nThe other trick is making sure that the distribution you use doesn't\nput people at a 4-person table instead of a 5-person more often than\nit has to.\n\n> Archie\n\n-John Flournoy"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 25, 2009, 10:13:23\u202FPM",
+      "Body": "\uE5D3\n> >> Las Vegas NAQ 2009!http://members.cox.net/vtesinlv/-Dölj citerad text -\n\n>\n> >> - Visa citerad text -\n> > Because the current chart only goes up to a certain amount of player\n> > (albeit a large amount). The optimal seating is (unless it has been\n> > changed) also grouped to include batches of 50 people, and you won't\n> > meet people outside your batch, my optimized seating seats players\n> > across the whole playing field. I also include the option to have true\n> > randomization (meaning only the prey/predator rule is in effect) which\n> > is supported by the tournament rules (not sure anyone ever plays with\n> > that but it still supported).\n>\n> I think the biggest benefit to an automated \"optimal\" seating chart comes from\n> the ability to quickly handle drops and adds.\n>\n> And to handle marathon tournaments (4+F or 5+F or more).\n>\n> The rest is probably insufficient (on its own) to justify the effort.\n>\n> Anyway, to the original question: use a cost function. Then choose the seating\n> with the lowest cost (or: stop looking when improvements the cost level off).\n> Choose costs for violations of the optimal criteria based on their relative\n\n> priority.- Dölj citerad text -\n\n>\n> - Visa citerad text -\n\nYes, adding removing players will be a function and a benefit for\nlarger tournaments.\n\nThe others are merely done for my own coding pleasure (which is also\nwhy I have been working on this for the last three-four years).\n\nThanks, will look into the cost function and how to implement that.\n\nArchie"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 25, 2009, 10:15:29\u202FPM",
+      "Body": "\uE5D3\n\nNo, 1-15 and 17-20 is not impossible. I know I have to allow conflicts\nhere since otherwise my tool would be useless, I want to know just how\nmany conflicts depending on number of players and rounds. The same\ngoes for 21-24.\n\nAlso, 20 players has to be four table tournament according to the\ntournament rules (as many 5-player tables as possible).\n\nArchie"
+    },
+    {
+      "Author": "carn...@gmail.com",
+      "Date": "Feb 25, 2009, 10:19:47\u202FPM",
+      "Body": "\uE5D3\n\nIn fact, in some ways that's the key issue - which is more important?\nKeeping the equity between 4-man and 5-man tables, or not seeing the\nsame opponent twice? The two may not be mutually achievable.\n\n> > Archie\n\n-John Flournoy"
+    },
+    {
+      "Author": "carn...@gmail.com",
+      "Date": "Feb 25, 2009, 10:24:09\u202FPM",
+      "Body": "\uE5D3\n\nI have no idea how to fashion formulas to automatically cover variable\nnumbers of rounds and players, honestly.\n\n21-24 players in a 3-round setting doesn't have to have any conflicts,\nbtw, unless you care about evening out appearances at 4 and 5-man\ntables (and might not even then). It's not hard to just manually\ndetermine a possible non-conflicting seating for each of those four\ncases and work from there.\n\n> Also, 20 players has to be four table tournament according to the\n> tournament rules (as many 5-player tables as possible).\n\nYep, just being completist by noting that 20 is doable with 5 tables.\nIt's obviously got to have conflicts with only 4.\n\n> Archie\n\n-John Flournoy"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 25, 2009, 10:25:36\u202FPM",
+      "Body": "\uE5D3\n\nI prefer to handle one problem at a time. Right now I just want a\ntournament with 17 players to actually end (instead of currently\ntrying to come up with a zero conflict solution forever).\n\nLSJ also mentioned players should not (in his opinion) have to be\nseated at position 1 more then once either, also something that I plan\non adding later on as an option.\n\nArchie"
+    },
+    {
+      "Author": "JH",
+      "Date": "Feb 26, 2009, 7:35:49\u202FAM",
+      "Body": "On Feb 25, 11:25 pm, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n> LSJ also mentioned players should not (in his opinion) have to be\n> seated at position 1 more then once either, also something that I plan\n> on adding later on as an option.\n>\n> Archie\n\nHere are the complete seating rules revisited. Unless Scott has\nchanged them within the last few years.\n\n1. No pair of players repeat their predator-prey relationship. This is\nmandatory, by the VEKN rules.\n\n2. No pair of players share a table through all three rounds, when\npossible.\n\n3. Available VPs are equitably distributed.\n\n4. No pair of players share a table more often than necessary.\n\n5. A player doesn't sit in the fifth seat more than once.\n\n6. No pair of players repeat the same relative position[*], when\npossible.\n\n7. A player doesn't play in the same seat position, if possible.\n\n8. Starting transfers are equitably distributed. [NOAL]\n\n9. No pair of players repeat the same relative position group[^], when\npossible.\n\n* relative position: prey, predator, cross-table (4-player table),\ngrand-prey, grand-predator (5-player table)\n\n^ relative position group: adjacent or non-adjacent"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 26, 2009, 10:18:21\u202FAM",
+      "Body": "\uE5D3\n\nNo those look like the ones Scott gave me. Need to throw out my\ncurrent formula and start from scratch again then. See you in four\nmore years :)\n\nArchie"
+    },
+    {
+      "Author": "Johannes Walch",
+      "Date": "Feb 27, 2009, 9:16:12\u202FAM",
+      "Body": "LSJ schrieb:\n\uE5D3\n\nAlso note that any Archon not implemented in Excel could offer a proper\nexport format (e.g XML) that could be automatically processed by a White\nWolf rating site. Importing Excel files with multiple tabs in anything\nnot Microsoft is a pain.\n\n--\nIf playing against Cock all you need to\nremember is: Don´t get caught by Cock."
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Feb 27, 2009, 11:04:30\u202FAM",
+      "Body": "\uE5D3\n> >>> Las Vegas NAQ 2009!http://members.cox.net/vtesinlv/-Dölj citerad text -\n\n>\n> >>> - Visa citerad text -\n> >> Because the current chart only goes up to a certain amount of player\n> >> (albeit a large amount). The optimal seating is (unless it has been\n> >> changed) also grouped to include batches of 50 people, and you won't\n> >> meet people outside your batch, my optimized seating seats players\n> >> across the whole playing field. I also include the option to have true\n> >> randomization (meaning only the prey/predator rule is in effect) which\n> >> is supported by the tournament rules (not sure anyone ever plays with\n> >> that but it still supported).\n>\n> > I think the biggest benefit to an automated \"optimal\" seating chart\n> > comes from the ability to quickly handle drops and adds.\n>\n> > And to handle marathon tournaments (4+F or 5+F or more).\n>\n> > The rest is probably insufficient (on its own) to justify the effort.\n>\n> Also note that any Archon not implemented in Excel could offer a proper\n> export format (e.g XML) that could be automatically processed by a White\n> Wolf rating site. Importing Excel files with multiple tabs in anything\n> not Microsoft is a pain.\n>\n> --\n> If playing against Cock all you need to\n> remember is: Don´t get caught by Cock.\n\nOf course. I am planning to include a lot of nice features (one for\nexample is my hope that organizers need only enter VEKN number and can\nthen fill in by searching player registry for name/city).\n\nAs LSJ pointed out, dropping/adding players between rounds is a huge\nplus.\n\nAs you point out, having a standardized format for exporting\ntournament results would be a huge help to organizers too (and\nprobably WW as well).\n\nArchie"
+    }
+  ]
+}

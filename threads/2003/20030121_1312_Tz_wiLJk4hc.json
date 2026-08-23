@@ -1,0 +1,32 @@
+{
+  "ThreadId": "Tz_wiLJk4hc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Tz_wiLJk4hc",
+  "Title": "Q: Helena's special",
+  "Messages": [
+    {
+      "Author": "Orestes",
+      "Date": "Jan 21, 2003, 1:12:36\u202FPM",
+      "Body": "Just a quick question about Helena's special ability:\n\n\"If Helena is tapped and ready, she can burn a blood to be able to\nattempt to block and/or play reaction cards that require Auspex as if\nuntapped for the remainder of the action.\"\n\nIf she is tapped, can she burn a blood to play Fast Reaction:\n\n\"Only usable after a combat between a blocking minion you control\nother than this vampire and the acting minion. Tap this vampire. This\nvampire now enters combat with the acting minion. The first round of\nthis new combat, the acting minion cannot strike.\"\n\nBasically, I'm not sure if the text on Helena, \"for the remainder of\nthe action\" allows you to play Fast Reaction."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 21, 2003, 1:53:20\u202FPM",
+      "Body": "Orestes wrote:\n>\n> Just a quick question about Helena's special ability:\n>\n> \"If Helena is tapped and ready, she can burn a blood to be able to\n> attempt to block and/or play reaction cards that require Auspex as if\n> untapped for the remainder of the action.\"\n>\n> If she is tapped, can she burn a blood to play Fast Reaction:\n\nIf she's also ready, yes.\nFast Reaction is a reaction card that requires Auspex.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Orestes",
+      "Date": "Jan 22, 2003, 12:03:23\u202FPM",
+      "Body": "> Fast Reaction is a reaction card that requires Auspex.\n\nWell, I did know that.\nSo, you are saying that after combat between the acting and blocking\nminions, the action has still not ended and therefore Helena can still\nuse her special to play Auspex cards?"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jan 22, 2003, 12:35:20\u202FPM",
+      "Body": "In message <c25ded38.03012...@posting.google.com>, Orestes\n\uE5D3\n\nReaction cards can only be played when there is an action to react to.\n\n\"Reaction cards: A ready untapped minion can play a reaction card in\nresponse to an action taken...\" [1.6.3.5]\n\nSince Fast Reaction is playable it is, by that point, necessarily during\nan action. Since no new action has started, it is clearly still the\nprevious (blocked) action when Fast Reaction is played.\n\nIf you're worried about when reaction cards can be played, check the\ntext for Rewind Time. It *specifically* gives itself an exception for\nwhen there isn't an action. Everything else has to go during an action\n- and even just before the very end of it, after combat, is still\nallowable. See also Cats' Guidance, which goes in a similar slot - just\nafter combat, but still during the action.\n\n--\nJames Coupe PGP Key: 0x5D623D5D\nEBD690ECD7A1FB457CA2\nHi! I'm Nancy Drew! You must be the Hardy Boys! 13D7E668C3695D623D5D"
+    },
+    {
+      "Author": "Orestes",
+      "Date": "Jan 22, 2003, 5:15:20\u202FPM",
+      "Body": "James, thanks for the helpful response!"
+    }
+  ]
+}

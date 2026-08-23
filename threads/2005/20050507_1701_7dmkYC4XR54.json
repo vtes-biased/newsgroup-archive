@@ -1,0 +1,107 @@
+{
+  "ThreadId": "7dmkYC4XR54",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/7dmkYC4XR54",
+  "Title": "Bleed Action, Attempt to Block, Modifier Played ... What Now?",
+  "Messages": [
+    {
+      "Author": "quetzalcoatl",
+      "Date": "May 7, 2005, 5:01:52\u202FPM",
+      "Body": "Greetings,\n\ndon't know if this is a corner case, interesting situation, or pretty\ncommon, however it came up during a social game and I ruled it one way\nat the time, however I would like clarification/correction if\navailable.\n\nVampire A is bleeding, current bleed is for 2.\nVampire B attempts to block and is successful because Vampire A has no\nstealth.\n\nVampire A plays a bleed modifier hoping to cycle into stealth, bleed\nmodified by 2 for a total of 2. Stealth is not top decked thus bleed is\nstill blocked.\n\nCan Vampire B's controller play Archon Investgation since Vampire A is\nattempting to bleed for more than 3 or must the block be acted upon?\n\nThanks In Advance,\nDavid"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "May 7, 2005, 5:49:57\u202FPM",
+      "Body": "quetzalcoatl wrote:\n\n> Can Vampire B's controller play Archon Investgation since Vampire A is\n> attempting to bleed for more than 3 or must the block be acted upon?\n\nI'd figure that the block is not successful till your opponent is done\nplaying action modifiers--i.e. he comes to bleed, you try and block, he\nmodifies hoping to top deck means that you haven't actually blocked yet (as\nafter he modifies up the bleed, you could still play a Deflection).\n\nGiven that him playing modifers means (moreor less) that the action isn't\nblocked yet, I'd figure you could still AI.\n\nPeter D Bakija\npd...@lightlink.com\nhttp://www.lightlink.com/pdb6\n\n\"So in conclusion, our business plan is to sell hot,\neasily spilled liquids to naked people.\"\n-Brittni Meil"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "May 7, 2005, 6:27:30\u202FPM",
+      "Body": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA1\n\nPeter D Bakija wrote:\n| quetzalcoatl wrote:\n|\n|>Can Vampire B's controller play Archon Investgation since Vampire A is\n|>attempting to bleed for more than 3 or must the block be acted upon?\n|\n| I'd figure that the block is not successful till your opponent is done\n| playing action modifiers--i.e. he comes to bleed, you try and block, he\n| modifies hoping to top deck means that you haven't actually blocked\nyet (as\n| after he modifies up the bleed, you could still play a Deflection).\n|\n| Given that him playing modifers means (moreor less) that the action isn't\n| blocked yet, I'd figure you could still AI.\n\nI suspect you could AI him no matter what. Card text:\n\n\"Only usable when a minion is attempting to bleed you for more than 3.\nThe action is not successful. Burn the acting minion.\"\n\nThe action hasn't ended just because a block happens and combat is\nbegun. The minion is still attempting the action -- it's only when the\naction is over that he's no longer attempting. (Otherwise Form of Mist\ndoesn't work.)\n\n- --\nDerek\n\ninsert clever quotation here\n\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.2.5 (MingW32)\n\niD8DBQFCfOxytQZlu3o7QpERAr1zAJ92esGH6q0+wTtT4u6/vZk3IwVRHQCcDA9I\nRgzsZERW0wOsk756mhMR+jk=\n=scL/\n-----END PGP SIGNATURE-----"
+    },
+    {
+      "Author": "jeff...@pacbell.net",
+      "Date": "May 7, 2005, 6:44:01\u202FPM",
+      "Body": "\uE5D3\n\n...and combat is begun.\n\nDoes this imply if you draw up an Archon Investigation during the\nensuing combat that you can play it then and still burn the acting\nminion? Or has the \"attempting to bleed you\" worn off once the block\nwas successful?\n\nJeff"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "May 7, 2005, 7:01:01\u202FPM",
+      "Body": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA1\n\njeff...@pacbell.net wrote:\n| Derek Ray wrote:\n|\n~ > Does this imply if you draw up an Archon Investigation during the\n\n| ensuing combat that you can play it then and still burn the acting\n| minion? Or has the \"attempting to bleed you\" worn off once the block\n| was successful?\n\nComplex questions, huh? :)\n\nActually, it all boils down to a simple question: Is a bleeding minion\nwho is in the middle of combat still attempting to bleed you, or is this\nnow an unsuccessful action that has simply not ended yet?\n\n- --\nDerek\n\ninsert clever quotation here\n\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.2.5 (MingW32)\n\niD8DBQFCfPRNtQZlu3o7QpERAhD1AJ0Qpfp5LdX97MpuYTFlsV+OliuMZwCeN+4q\nPdlY4jGbmjm0DbgA4V1XQ20=\n=Zn4a\n-----END PGP SIGNATURE-----"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "May 7, 2005, 8:25:52\u202FPM",
+      "Body": "Derek Ray wrote:\n\n> I suspect you could AI him no matter what. Card text:\n>\n> \"Only usable when a minion is attempting to bleed you for more than 3.\n> The action is not successful. Burn the acting minion.\"\n>\n> The action hasn't ended just because a block happens and combat is\n> begun. The minion is still attempting the action -- it's only when the\n> action is over that he's no longer attempting. (Otherwise Form of Mist\n> doesn't work.)\n\nOh, yeah--even better logic than mine. Solid.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 8, 2005, 1:45:06\u202FAM",
+      "Body": "quetzalcoatl wrote:\n\n> Greetings,\n>\n> don't know if this is a corner case, interesting situation, or pretty\n> common, however it came up during a social game and I ruled it one way\n> at the time, however I would like clarification/correction if\n> available.\n>\n> Vampire A is bleeding, current bleed is for 2.\n> Vampire B attempts to block and is successful because Vampire A has no\n> stealth.\n>\n> Vampire A plays a bleed modifier hoping to cycle into stealth, bleed\n> modified by 2 for a total of 2. Stealth is not top decked thus bleed is\n> still blocked.\n\n... is *now* blocked, by decree of the acting minion (who, by declining\nto play any more effects to avoid the block, causes the block to be\nconsidered successful and moves the action to resolution).\n\n> Can Vampire B's controller play Archon Investgation since Vampire A is\n> attempting to bleed for more than 3 or must the block be acted upon?\n\nNo. You can't play AI during resolution (see also Spying Mission vs. AI).\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "May 8, 2005, 2:36:28\u202FAM",
+      "Body": "LSJ wrote:\n> >\n> > Vampire A plays a bleed modifier hoping to cycle into stealth,\nbleed\n> > modified by 2 for a total of 2. Stealth is not top decked thus\nbleed is\n> > still blocked.\n>\n> ... is *now* blocked, by decree of the acting minion (who, by\ndeclining\n> to play any more effects to avoid the block, causes the block to be\n> considered successful and moves the action to resolution).\n>\n\nIf vampire A's controller has the opportunity to play effects before\nthe block resolves (and he'd have to, otherwise he can't stealth\nthrough), doesn't vampire B's controller also have that opportunity?\nAnd then once both have \"passed\" the action moves to resolution?"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "May 8, 2005, 2:07:33\u202FPM",
+      "Body": "\"Chris Berger\" <ark...@ugcs.caltech.edu> schreef in bericht\nnews:1115512588.8...@z14g2000cwz.googlegroups.com...\n\uE5D3\n\nNo. Player A declining to play more effects, causes the block to be\nsuccessful. Player cannot back out of blocking and play an effect\ninstead.\n\nSimilarly, you cannot attempt to block, succeed in doing, and play\ndeflection instead. Declaring the block attempt is, in effect, a\n'reaction card' that must be resolved before you can play other effects,\nlike AI. Otherwise, you would be able to play the AI during the\nresulting combat.\n\nAI is only playable when you're about to remove more than 3 pool from\nyour total."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 8, 2005, 2:28:51\u202FPM",
+      "Body": "Izaak wrote:\n> \"Chris Berger\" <ark...@ugcs.caltech.edu> schreef in bericht\n\n>>LSJ wrote:\n>>>... is *now* blocked, by decree of the acting minion (who, by\n>>\n>>declining\n>>\n>>>to play any more effects to avoid the block, causes the block to be\n>>>considered successful and moves the action to resolution).\n>>\n>>If vampire A's controller has the opportunity to play effects before\n>>the block resolves (and he'd have to, otherwise he can't stealth\n>>through), doesn't vampire B's controller also have that opportunity?\n>>And then once both have \"passed\" the action moves to resolution?\n>\n> No. Player A declining to play more effects, causes the block to be\n> successful. Player cannot back out of blocking and play an effect\n> instead.\n\nCorrect.\n\n> Similarly, you cannot attempt to block, succeed in doing, and play\n> deflection instead. Declaring the block attempt is, in effect, a\n> 'reaction card' that must be resolved before you can play other effects,\n> like AI. Otherwise, you would be able to play the AI during the\n> resulting combat.\n\nCorrect.\n\n> AI is only playable when you're about to remove more than 3 pool from\n> your total.\n\nNo. AI is only playable before resolution -- before you're about to\nremove the pool (or before the unsuccessful resolution (block combat)).\n\n\uE5D3"
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "May 8, 2005, 7:03:56\u202FPM",
+      "Body": "So just to make this clear ...\n\nIf someone declares to block, they must go through with that block no\nmatter what cards are played by the acting vampire as long as it is not\nstealth that bypasses the blocking minion's intercept.\n\nIs that correct?\n\nDavid"
+    },
+    {
+      "Author": "Colin McGuigan",
+      "Date": "May 8, 2005, 8:14:46\u202FPM",
+      "Body": "\uE5D3\n\nOr unless the card gives the blocker an ability to back out -- eg,\ninferior Dawn Operation.\n\nBut yes. This is how Aching Beauty / Mask of 1000 Faces decks work.\n\n--Colin McGuigan"
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "May 9, 2005, 6:17:22\u202FAM",
+      "Body": "Great .. so I ruled correctly ... that makes me feel better.\n\nActually the Aching Beauty/Mask deck doesn't work.\n\nLSJ has stated that one aching beauty does not equal another aching\nbeauty thus two Toreadors with Aching Beauty and Obfuscate cannot Mask\nfor each other thus causing 2 pool to be burnt on a block. This is\nbecause each vampire cannot use the Aching Beauty on the other vampire.\n\nDavid"
+    },
+    {
+      "Author": "Jeroen Rombouts",
+      "Date": "May 9, 2005, 10:27:08\u202FAM",
+      "Body": "\"quetzalcoatl\" <da...@vega.id.au> schreef in bericht\nnews:1115612242.2...@f14g2000cwb.googlegroups.com...\n\uE5D3\nbut one toreador with 2 (or more) Aching Beauty can mask after a tor without\nAching Beauty has been blocked. That way, the decks works better, IMO."
+    },
+    {
+      "Author": "Colin McGuigan",
+      "Date": "May 9, 2005, 4:58:56\u202FPM",
+      "Body": "\uE5D3\n\nNo no no... you have Francois with two (or more) ABs, who Masks over if\nany of the other minion's actions are blocked. The blockee cannot back\nout, and must take the 2 (or more) pool damage.\n\n--Colin McGuigan"
+    },
+    {
+      "Author": "Jeroen Rombouts",
+      "Date": "May 9, 2005, 6:04:34\u202FPM",
+      "Body": "\"Colin McGuigan\" <magu...@BGONEspeakeasy.net> schreef in bericht\nnews:IKudnd1IOaQ...@speakeasy.net...\n\uE5D3\nor:\npresence weenie bleeds, gets blocked\nJoaquin Murietta (with 2or more AB and an optional skill card qui): mask, AB\nkicks in and he can play Thin Blood + Crocodile's tongue to add insult to\ninjury. pity he doesn't have superior pres or he could use superior Majesty\n(as his inbuilt additional strike) to untap and be ready to play another\nmask. lotsa moving parts, of course :)"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "May 9, 2005, 6:27:50\u202FPM",
+      "Body": "Jeroen Rombouts wrote:\n> presence weenie bleeds, gets blocked\n> Joaquin Murietta (with 2or more AB and an optional skill card qui):\nmask, AB\n\n> kicks in and he can play Thin Blood + Crocodile's tongue...\n\nCrocodile's Tongue can only be played before a block is successful.\nAching Beauty only takes effect after a block is successful. The two do\nnot mix well: you're basically giving the blocker a chance to avoid\ntaking the pool damage of AB by declining to pay the blood cost of CT.\n\nAching Beauty + Change of Target works much better. Or Aching Beauty +\nMajesty, as you mentioned."
+    },
+    {
+      "Author": "Jeroen Rombouts",
+      "Date": "May 9, 2005, 7:22:12\u202FPM",
+      "Body": "\"Emmit Svenson\" <emmits...@hotmail.com> schreef in bericht\nnews:1115656070....@z14g2000cwz.googlegroups.com...\n\n>\n> Jeroen Rombouts wrote:\n>> presence weenie bleeds, gets blocked\n>> Joaquin Murietta (with 2or more AB and an optional skill card qui):\n> mask, AB\n>> kicks in and he can play Thin Blood + Crocodile's tongue...\n>\n> Crocodile's Tongue can only be played before a block is successful.\n> Aching Beauty only takes effect after a block is successful.\n\noops. brain flatulence..."
+    },
+    {
+      "Author": "Fabio \"Sooner\" Macedo",
+      "Date": "May 9, 2005, 10:11:30\u202FPM",
+      "Body": "On 9 May 2005 09:27:50 -0700, \"Emmit Svenson\"\n<emmits...@hotmail.com> wrote:\n\n\uE5D3\n\nOf course, if the combo has less cards and achives the same core\nresult (pool loss), its better.\nBut still, I found the idea of Murietta's Aching Beauty interesting.\nCombining pool loss with blood loss or even torpor (maybe using some\nguns) is nice. Minions losing blood means less pool for my prey to\nregain via Minion Tap or Dolls.\n\nMaybe I'll try to figure out something.\n\nbest,\n\nFabio \"Sooner\" Macedo\nV:TES National Coordinator for Brazil\nGiovanni Newsletter Editor\n-----------------------------------------------------\nV for Vendetta on the big screen!\nhttp://vforvendetta.warnerbros.com/"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "May 9, 2005, 10:16:45\u202FPM",
+      "Body": "Fabio Sooner Macedo wrote:\n> I found the idea of Murietta's Aching Beauty interesting.\n\nI prefer to put it on Francois because of his built-in steal blood\naction. He always has something worthwhile to do after he plays Change\nof Target or Majesty. He's also a Prince with +1 bleed. It's hard to\ngo wrong with Francois."
+    }
+  ]
+}

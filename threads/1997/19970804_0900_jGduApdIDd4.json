@@ -1,0 +1,42 @@
+{
+  "ThreadId": "jGduApdIDd4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/jGduApdIDd4",
+  "Title": "Freak Drive and PAs (LSJ)",
+  "Messages": [
+    {
+      "Author": "Quicksilver",
+      "Date": "Aug 4, 1997, 9:00:00\u202FAM",
+      "Body": "Can you play Freak Drive before the action and after blocks.\nIn particular, If a Political Action is successful, can the\nmethuselah play the Freak Drive and redraw before tallying\nthe votes and beginning the Political Action?"
+    },
+    {
+      "Author": "James B. Floate",
+      "Date": "Aug 9, 1997, 9:00:00\u202FAM",
+      "Body": "\uE5D3\n\nNo. Freak Drive is played after the action. At normal, only if the\naction was succesful, at super, even if the action was blocked, but\nalways after the action.\n\nJames B."
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Aug 13, 1997, 9:00:00\u202FAM",
+      "Body": "Quicksilver (michae...@lmco.com) wrote>\n\n> Can you play Freak Drive before the action and after blocks.\n> In particular, If a Political Action is successful, can the\n> methuselah play the Freak Drive and redraw before tallying\n> the votes and beginning the Political Action?\n\nNo. \"Before the action\", there is no action to modify.\n\"Before the action\" means before you tap and play the PA\ncard.\n\nFreak Drive is played after a successful action (inferior), which\nincludes the resolution of the action.\n\n--\nL. Scott Johnson (vte...@regency.wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "Justin Fang",
+      "Date": "Aug 14, 1997, 9:00:00\u202FAM",
+      "Body": "In article <5ssbb6$g...@news.wizards.com>,\n\nL. Scott Johnson <vte...@wizards.com> wrote:\n>Quicksilver (michae...@lmco.com) wrote>\n>> Can you play Freak Drive before the action and after blocks.\n\n>No. \"Before the action\", there is no action to modify.\n\n>Freak Drive is played after a successful action (inferior), which\n\n>includes the resolution of the action.\n\nSo, if I've got this correct, Freak Drive is played *before* the combat\nresulting from a successful Bum's Rush (since a successful rush action is\ncomplete before the combat begins) but (at superior) *after* the combat\nresulting from a block of an action (since the combat resulting from a block\nis part of the action resolution).\n\n--\nJustin Fang (jus...@ugcs.caltech.edu)\nThis space intentionally left blank."
+    },
+    {
+      "Author": "LSJ (VtES Rep)",
+      "Date": "Aug 14, 1997, 9:00:00\u202FAM",
+      "Body": "Justin Fang wrote:\n>\n> In article <5ssbb6$g...@news.wizards.com>,\n> L. Scott Johnson <vte...@wizards.com> wrote:\n> >Quicksilver (michae...@lmco.com) wrote>\n> >> Can you play Freak Drive before the action and after blocks.\n>\n> >No. \"Before the action\", there is no action to modify.\n>\n> >Freak Drive is played after a successful action (inferior), which\n> >includes the resolution of the action.\n>\n> So, if I've got this correct, Freak Drive is played *before* the combat\n> resulting from a successful Bum's Rush (since a successful rush action is\n> complete before the combat begins) but (at superior) *after* the combat\n> resulting from a block of an action (since the combat resulting from a block\n> is part of the action resolution).\n\nJust the opposite.\n\nIt is played after the successful resolution of the action (inferior),\nand can be played when the action is blocked, before the block-induced\ncombat, at superior.\n\nCombat is the resolution of a Bum's Rush. So Freak Drive would be\nplayed after that combat (i.e., after resolution).\nBut combat resulting from a block occurs after the block, not as\na part of it. And superior Freak Drive is played *immediately* after\nthe block.\n\n\uE5D3"
+    },
+    {
+      "Author": "Justin Fang",
+      "Date": "Aug 14, 1997, 9:00:00\u202FAM",
+      "Body": "In article <33F2EE...@regency.wizards.com>,\nLSJ (VtES Rep) <vte...@regency.wizards.com> wrote:\n[I get Freak Drive wrong.]\n\n>It is played after the successful resolution of the action (inferior),\n>and can be played when the action is blocked, before the block-induced\n>combat, at superior.\n\n>Combat is the resolution of a Bum's Rush. So Freak Drive would be\n>played after that combat (i.e., after resolution).\n\nEr, but I thought you couldn't Form of Mist a successful Bum's Rush because\nthe action was alreday complete. Did I misinterpret that?\n\n>But combat resulting from a block occurs after the block, not as\n>a part of it. And superior Freak Drive is played *immediately* after\n>the block.\n\nAh, okay.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ (VtES Rep)",
+      "Date": "Aug 15, 1997, 9:00:00\u202FAM",
+      "Body": "Justin Fang wrote:\n>\n> In article <33F2EE...@regency.wizards.com>,\n> LSJ (VtES Rep) <vte...@regency.wizards.com> wrote:\n> >It is played after the successful resolution of the action (inferior),\n> >and can be played when the action is blocked, before the block-induced\n> >combat, at superior.\n>\n> >Combat is the resolution of a Bum's Rush. So Freak Drive would be\n> >played after that combat (i.e., after resolution).\n>\n> Er, but I thought you couldn't Form of Mist a successful Bum's Rush because\n> the action was alreday complete. Did I misinterpret that?\n\nNo. Here's the breakdown of most actions:\n\n1. Announce action (tap acting minion, play card if any)\n2. Resolve all block attempts. After successful block: resolve combat\n3. If unblocked, resolve action.\n4. <End Action>\n\n\"Resolve Action\" in the case of Bum's Rush is the combat with\nthe target minion.\n\nIf Form of Mist is played during that time (which it cannot be,\nsince it gives the acting minion unneeded stealth), then the action\ncontinues. The next step is: End Action, so the action ends.\n\nForm of Mist on a block-combat simply moves on to the next\nblock attempt phase (and then to the \"Resolve Action\" if\nno more blocks are successful).\n\n\uE5D3"
+    }
+  ]
+}

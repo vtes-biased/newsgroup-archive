@@ -1,0 +1,22 @@
+{
+  "ThreadId": "BU4AYfSJ1Mg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/BU4AYfSJ1Mg",
+  "Title": "Q. re: Veil the Legions & Mask of 1k Faces?",
+  "Messages": [
+    {
+      "Author": "jwjbw...@gmail.com",
+      "Date": "Nov 9, 2008, 5:19:32\u202FAM",
+      "Body": "Mask of a Thousand Faces\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting\nminion who is capable of performing the action. Not usable if any\naction modifiers or other effects have been used that could not have\nbeen used if this vampire were the acting vampire. Untap the acting\nminion and tap this vampire instead. The action continues with this\nvampire as the acting minion.\n[OBF] As above, with +1 stealth.\n\nVeil the Legions\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting\nminion you control. The acting minion gets +1 stealth. Only one Veil\nthe Legions may be played each action.\n[OBF] As above, and this vampire may burn X additional blood to give\n+1 stealth to the next X actions your minions perform this turn. Only\none Veil the Legions can be played at superior each turn.\n\nSmudge is the acting minion, facing a block attempt. Agrippina plays\nVeil (at either level) to grant an additional stealth. Grendel then\nplays Mask (at either level, depending on whether stealth is needed)\nto take over the action.\n\nDoes the action lose the stealth that the Veil granted?\n\nAn argument for \"Yes\" is that Veil gives the other MINION +1 stealth,\nper card text on Veil (and in contrast to the text on Cloak the\nGathering) ... it does not grant the bonus to the action itself.\n\nBut a counterargument is: ... the text refers to the \"acting minion\"\nand Grendel becomes the \"acting minion\" after playing Mask. If\n\"acting minion\" were taken to mean \"the minion who is currently\nacting\", then the +1 stealth would last the rest of the game, since no\nstopping point is specified."
+    },
+    {
+      "Author": "dog$",
+      "Date": "Nov 9, 2008, 7:35:33\u202FAM",
+      "Body": "Any time I attempt to interpret rulings it's wrong, but I want to try\nanyway.\n\nI think the stealth from Veil still applies, as there's nothing which\nprevents the Maskor from getting modified by Veil.\n\nReversing the order of the two modifiers is pretty clear as working,\ntoo:\n\nAction declared.\nBlock announced.\nMask played.\nSecond block announced.\nVeil played.\n\nThat seems to all be logical to me. I don't think the order changes\nthings.\n\n>An argument for \"Yes\" is that Veil gives the other MINION +1 stealth,\n>per card text on Veil (and in contrast to the text on Cloak the\n>Gathering) ... it does not grant the bonus to the action itself.\n\nMask states the action continues with the Maskor \"as the acting\nminion\", and Veil modifies \"the acting minion\". That seems compatible\nto me.\n\n> the text refers to the \"acting minion\"\n> and Grendel becomes the \"acting minion\" after playing Mask. If\n> \"acting minion\" were taken to mean \"the minion who is currently\n> acting\", then the +1 stealth would last the rest of the game, since no\n> stopping point is specified.\n\nWhat? Isn't the stopping point is when the action is resolved?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 9, 2008, 1:45:31\u202FPM",
+      "Body": "dog$ wrote:\n> Any time I attempt to interpret rulings it's wrong, but I want to try\n> anyway.\n>\n> I think the stealth from Veil still applies, as there's nothing which\n> prevents the Maskor from getting modified by Veil.\n\nCorrect. The rulings page uses Backways as an example of such an effect (as says\nthat the effect carries over to the new actor).\n\n>> the text refers to the \"acting minion\"\n>> and Grendel becomes the \"acting minion\" after playing Mask. If\n>> \"acting minion\" were taken to mean \"the minion who is currently\n>> acting\", then the +1 stealth would last the rest of the game, since no\n>> stopping point is specified.\n>\n> What? Isn't the stopping point is when the action is resolved?\n\nCorrect, as well. [6.2]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ThreadId": "QpNcbxzmdNo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/QpNcbxzmdNo",
+  "Title": "[LSJ] Garotte, Baal's Bloody Talons, Fame",
+  "Messages": [
+    {
+      "Author": "invisibl...@gmail.com",
+      "Date": "Jul 26, 2006, 1:57:22\u202FAM",
+      "Body": "The following scenario came up in our game last night.\n\nMeth A has a vampire with Fame in his ready region. Meth B enters\ncombat with that minion, strikes with Garrote for three agg damage via\nBaal's Bloody Talons, and burns the Garotte to burn Meth A's vampire.\nDoes Fame trigger before Meth B's vampire burns?\n\nWe ruled that it does, due to card text on Garotte, which implies that\nthe vampire must enter torpor before the Garotte can be burned to burn\nthe vampire. However, I just found an explanation which contradicts\nthis:\n\nhttp://tinyurl.com/msc7g\n\nIs this still true? Garotte seems to be strangely worded, if so (\"going\nto torpor\" would make more sense than the current text).\n\nJohn Eno"
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "Jul 26, 2006, 3:29:51\u202FAM",
+      "Body": "\uE5D3\n\nAs far as I know, the garotte does not trigger the fame because the\ntext on fame really means \"if this vampire ends up in torpor\".\n\nThat is why all burning effects like decapitate halt the Fame\ntriggering - including a player who can somehow manage to burn their\nown vampire with a Fame on it.\n\nFor example a vampire with 0 blood gets hit for 1 hands (hoping to\ntorpor it) and he plays burst of sunlight ... he will take the normal\ndamage first (going to torpor) but burn due to the sunlight. Fame will\nnot trigger.\n\nHope that helps."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jul 26, 2006, 11:13:36\u202FAM",
+      "Body": "In message <1153877391.5...@m73g2000cwd.googlegroups.com>,\nquetzalcoatl <da...@vega.id.au> writes:\n\n>\n>invisibl...@gmail.com wrote:\n>> http://tinyurl.com/msc7g\n>>\n>> Is this still true? Garotte seems to be strangely worded, if so (\"going\n>> to torpor\" would make more sense than the current text).\n>>\n>> John Eno\n>\n>As far as I know, the garotte does not trigger the fame because the\n>text on fame really means \"if this vampire ends up in torpor\".\n>\n>That is why all burning effects like decapitate halt the Fame\n>triggering - including a player who can somehow manage to burn their\n>own vampire with a Fame on it.\n\nThere is no blanket ruling on burn effects such as you imply. A burn\neffect could be worded such that the vampire had to go to torpor first.\n\nHowever, LSJ has ruled (per the TinyURL above) that Garrote is played at\nthe same time as Decapitate or Amaranth, both of which are clear that\nyou step in before the vampire goes to torpor. \"Only usable when the\nopposing vampire should go to torpor. Diablerize the opposing vampire\ninstead.\" and \" Burn the opposing vampire instead of sending that\nvampire to torpor.\" The opposing vampire never goes to torpor for\nAmaranth or Decapitate, because their card text says so.\n\nGiven Garrote's wording seems to imply the vampire goes to torpor first,\nthis is a bit weird - but this is the ruling on it.\n\n>For example a vampire with 0 blood gets hit for 1 hands (hoping to\n>torpor it) and he plays burst of sunlight ... he will take the normal\n>damage first (going to torpor) but burn due to the sunlight. Fame will\n>not trigger.\n\nNo, this isn't how the damage rules work.\n\nhttp://www.white-wolf.com/vtes/index.php?line=rulebook\n\n6.4.6. Damage Resolution\n\nIf a vampire cannot heal all the damage (i.e., more damage is\ninflicted than he has blood with which to heal), he burns blood\nto heal what damage he can, and the unhealed damage leaves him\nwounded. A wounded vampire is moved to torpor after the\nremaining damage is handled (see Torpor, sec. 6.5).\n\nThe hand damage, in your example, wounds him. However, being wounded\ndoes NOT move you to torpor until after the remaining damage is handled,\nper the above section of rules. The remaining damage, in this case,\ncauses the vampire to burn - and being in the ash-heap trumps being\nmoved to torpor.\n\nThere is no \"going to torpor\" first, and zero confusion with Fame.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 26, 2006, 2:19:46\u202FPM",
+      "Body": "quetzalcoatl wrote:\n> invisibl...@gmail.com wrote:\n> > The following scenario came up in our game last night.\n> >\n> > Meth A has a vampire with Fame in his ready region. Meth B enters\n> > combat with that minion, strikes with Garrote for three agg damage via\n> > Baal's Bloody Talons, and burns the Garotte to burn Meth A's vampire.\n> > Does Fame trigger before Meth B's vampire burns?\n> >\n> > We ruled that it does, due to card text on Garotte, which implies that\n> > the vampire must enter torpor before the Garotte can be burned to burn\n> > the vampire. However, I just found an explanation which contradicts\n> > this:\n> >\n> > http://tinyurl.com/msc7g\n> >\n> > Is this still true? Garotte seems to be strangely worded, if so (\"going\n> > to torpor\" would make more sense than the current text).\n> >\n> > John Eno\n>\n> As far as I know, the garotte does not trigger the fame because the\n> text on fame really means \"if this vampire ends up in torpor\".\n\nCorrect.\n\nGarrote triggers if the vampire is sent (started on his way) to torpor\nin the strike resolution step."
+    },
+    {
+      "Author": "xcver",
+      "Date": "Aug 22, 2006, 8:56:49\u202FAM",
+      "Body": "In MtG this would be called a replacement effect. The Garrote effect\nreplaces the goes into torpor step and thus negating any effects that\nwould come from entering torpor...maybe that's a nice technical term\nthat could be used here too?\n\nLSJ schrieb:\n\n\uE5D3"
+    },
+    {
+      "Author": "PaulW...@gmail.com",
+      "Date": "Aug 22, 2006, 9:30:07\u202FAM",
+      "Body": "I thought that the controlling player could choose to let his vampire\nhit torpor first (and thus triggering the fame effect and maybe be able\nto play parity shift or something) and then let it burn, or to burn it\nstraight away without going to torpor."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Aug 22, 2006, 11:53:01\u202FPM",
+      "Body": "In message <1156231806.9...@h48g2000cwc.googlegroups.com>,\n\uE5D3\n\nIt would help if you included in your reply the text that prompted your\ntrain of thought.\n\nHowever, there is a long-standing ruling that is similar to what you\ndescribe:\n\n# If an event both burns and torporizes a vampire, the\ncontroller decides whether the vampire will go into torpor\nbefore being burned. [RTR 19960708]\n\nThe example given in the Rules Team Ruling is Return to Innocence with a\nDay Operation - the RtoI wanted to burn the vampire, the Day Operation\nwanted to torporize him. The Rules Team Ruling is essentially saying\n\"When two effects would occur at the same time, the vampire's controller\nchooses which goes first.\"\n\nThis is pretty similar, by the way, to two effects going off \"During\nyour untap phase\" or something like that. The acting Methuselah gets to\nchoose which he deals with first.\n\nWhy does that not apply to a card like Decapitate or Garrote? Because\nit's not two separate effects going off at the same time. Decapitate\neffectively says \"Okay, if you would go into torpor, burn instead of\ngoing to torpor.\" Garrote says something similar, about the strike it\napplies to.\n\nThe point here is that it's not \"Go to torpor AND get burned.\" It's\n\"Get burned INSTEAD of going to torpor.\" So the Rules Team Ruling isn't\nrelevant here because one of the effects is explicitly quashing the\nother, unlike the situation with Return to Innocence.\n\n\uE5D3"
+    }
+  ]
+}

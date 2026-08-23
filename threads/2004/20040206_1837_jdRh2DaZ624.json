@@ -1,0 +1,42 @@
+{
+  "ThreadId": "jdRh2DaZ624",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/jdRh2DaZ624",
+  "Title": "Another \"Set Range\" question",
+  "Messages": [
+    {
+      "Author": "Jozxyqk",
+      "Date": "Feb 6, 2004, 6:37:09\u202FPM",
+      "Body": "How do Fear of the Void Below and Immortal Grapple interact?\n\nSargon and Jimmy Dunn get in a fight.\nSargon plays Fear of the Void Below (range defaults to long each round).\nJimmy maneuvers to close with a Flash, and plays Immortal Grapple.\nHands for 1, each..\nJimmy presses off the grapple.\nWhat is the range during the second round?\nFear says it's long, Grapple says it's close.\n\nIs it determined by the acting minion?\nOr by the first effect played?\nOr by the last effect played?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 6, 2004, 8:03:52\u202FPM",
+      "Body": "Jozxyqk wrote:\n> How do Fear of the Void Below and Immortal Grapple interact?\n\nFear makes the default range for each round long instead of close.\nSuperior Grapple sets the range for the subsequent round to close,\nwithout regard for the default.\n\n> Sargon and Jimmy Dunn get in a fight.\n> Sargon plays Fear of the Void Below (range defaults to long each round).\n> Jimmy maneuvers to close with a Flash, and plays Immortal Grapple.\n> Hands for 1, each..\n> Jimmy presses off the grapple.\n> What is the range during the second round?\n> Fear says it's long, Grapple says it's close.\n\nFear says it would've defaulted to long.\n\nGrapple says it's close.\n\n> Is it determined by the acting minion?\n> Or by the first effect played?\n> Or by the last effect played?\n\nNo conflict, so it is determined by Grapple.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "salem",
+      "Date": "Feb 9, 2004, 8:54:28\u202FAM",
+      "Body": "On Fri, 06 Feb 2004 14:03:52 -0500, LSJ <vte...@white-wolf.com>\nscrawled:\n\n>Jozxyqk wrote:\n>> How do Fear of the Void Below and Immortal Grapple interact?\n>\n>Fear makes the default range for each round long instead of close.\n>Superior Grapple sets the range for the subsequent round to close,\n>without regard for the default.\n\nto clarify further:\n\nnormally, every round is close. this is the 'default'. you then\nmaneuver to long, etc, as cards are played.\n\nif the range for a round has been 'set', it cannot be reset, and is at\nthe set range.\n\nFear of the Void Below merely changes the default from close to long.\nso each round starts at long and can be maneuvered back to close, etc.\n\nsetting range still sets the range, thus it cannot be reset, the\ndefault has no impact on what it's set to.\n\nso sum up, changing the default range is different to setting range.\n\nsalem\ndomain:canberra http://www.geocities.com/salem_christ.geo/vtes.htm"
+    },
+    {
+      "Author": "Daneel",
+      "Date": "Feb 9, 2004, 11:49:11\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote in message news:<4023E518...@white-wolf.com>...\n\n> Jozxyqk wrote:\n> > How do Fear of the Void Below and Immortal Grapple interact?\n>\n> Fear makes the default range for each round long instead of close.\n> Superior Grapple sets the range for the subsequent round to close,\n> without regard for the default.\n>\n> > Sargon and Jimmy Dunn get in a fight.\n> > Sargon plays Fear of the Void Below (range defaults to long each round).\n> > Jimmy maneuvers to close with a Flash, and plays Immortal Grapple.\n> > Hands for 1, each..\n> > Jimmy presses off the grapple.\n> > What is the range during the second round?\n> > Fear says it's long, Grapple says it's close.\n>\n> Fear says it would've defaulted to long.\n> Grapple says it's close.\n>\n> > Is it determined by the acting minion?\n> > Or by the first effect played?\n> > Or by the last effect played?\n>\n> No conflict, so it is determined by Grapple.\n\nOn a similar notice... Can \"canceling maneuver\" from Rigor Mortis\ncancel a maneuver used to maneuver to close range?\n\nBye,\n\nDaneel"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 9, 2004, 2:02:59\u202FPM",
+      "Body": "Daneel wrote:\n> On a similar notice... Can \"canceling maneuver\" from Rigor Mortis\n> cancel a maneuver used to maneuver to close range?\n\nYes, since no restriction (i.e., \"used to maneuver to long\") is\nmade by card text.\n\nOther similar notes:\nDirect Intervention can cancel such a maneuver card.\nDI could also cancel a press card used to press to end.\n\n\uE5D3"
+    },
+    {
+      "Author": "Daneel",
+      "Date": "Feb 9, 2004, 10:18:44\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote in message news:<40278503...@white-wolf.com>...\n\n> Daneel wrote:\n> > On a similar notice... Can \"canceling maneuver\" from Rigor Mortis\n> > cancel a maneuver used to maneuver to close range?\n>\n> Yes, since no restriction (i.e., \"used to maneuver to long\") is\n> made by card text.\n>\n> Other similar notes:\n> Direct Intervention can cancel such a maneuver card.\n> DI could also cancel a press card used to press to end.\n\nIn older form there was a distinction between \"maneuver\" and \"cancel\nmaneuver\", also between \"press to continue\" and \"press to cancel\".\n\nI'm not sure the terminology persists even partially (Swoop uses the\n\"go to close range\" clause), but making sure never hurts.\n\nBye,\n\nDaneel"
+    },
+    {
+      "Author": "o r o s @umich.edu David Wilson",
+      "Date": "Feb 6, 2004, 7:04:54\u202FPM",
+      "Body": "\uE5D3\n\nThe effect do not conflict, if there were a press (without IG), then range\nwould be long. IG overrides Fear of the Void and sets Range to Short."
+    }
+  ]
+}

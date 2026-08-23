@@ -1,0 +1,22 @@
+{
+  "ThreadId": "TYMPBgjDhK8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/TYMPBgjDhK8",
+  "Title": "LSJ: Fast Reaction vs. Stone Travel",
+  "Messages": [
+    {
+      "Author": "Esteban",
+      "Date": "Apr 29, 2009, 10:13:23\u202FAM",
+      "Body": "Just need a quick answer on a problem/question that arose yesterday.\n\nIs it possible for player A to start a combat a with a blocked minion\ncontrolled by player B, that canceled the initial combat with Stone\nTravel, by using Fast Reaction?\n\nMy initial answer, and that of almost all of the other people was: No,\nsince there never was a combat.\n\nBut then there came the argument, that maybe there were phases to\nannouncing actions and blocking that always would be there. Similar to\nthe phases in combat. So no matter if the combat is cancelled, there\nstill is a combat-phase, it's just skipped...\n\nI know, quite confusing, but i had to check. Quite sure that Fast\nReaction can't be played...\n\nStone Travel\nType: Action Modifier\nRequires: Mytherceria/Obtenebration\n[obt] This vampire burns 1 blood to get +1 stealth.\n[myt] +1 stealth.\n[MYT] +1 stealth. If this action is blocked, this acting vampire may\nchoose to cancel the resulting combat.\n\nRarity: BL:C1 LoB:C\n\nFast Reaction\nType: Reaction\nRequires: Auspex\nOnly usable after a combat between a blocking minion you control other\nthan this vampire and the acting minion.\n[aus] Tap this vampire. This vampire enters combat with the acting\nminion. The first round of this new combat, the acting minion cannot\nstrike.\n[AUS] As above, with an optional press.\n\nRarity: Jyhad:C VTES:C CE:U BH:PTr2 LoB:PO"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Apr 30, 2009, 12:43:08\u202FAM",
+      "Body": "On Wed, 29 Apr 2009 01:13:23 -0700 (PDT), Esteban wrote:\n\n>Is it possible for player A to start a combat a with a blocked minion\n>controlled by player B, that canceled the initial combat with Stone\n>Travel, by using Fast Reaction?\n\nNo.\nThere is initial combat, so the conditions of Fast Reaction are not\nmet.\n\nSee also Obedience / Fast Reaction.\n\nLSJ 03/12/2002\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/93cfd1c2717472b2\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 30, 2009, 1:43:28\u202FAM",
+      "Body": "The Lasombra wrote:\n> On Wed, 29 Apr 2009 01:13:23 -0700 (PDT), Esteban wrote:\n>\n>> Is it possible for player A to start a combat a with a blocked minion\n>> controlled by player B, that canceled the initial combat with Stone\n>> Travel, by using Fast Reaction?\n>\n> No.\n\nCorrect.\n\n> There is initial combat, so the conditions of Fast Reaction are not\n> met.\n\n\"no initial combat\", right.\n\n\uE5D3"
+    }
+  ]
+}

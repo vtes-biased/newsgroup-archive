@@ -1,0 +1,37 @@
+{
+  "ThreadId": "3Wimf1fY3b8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3Wimf1fY3b8",
+  "Title": "Mask of a Thousand Faces + Pentex Loves You! / Club Illusion",
+  "Messages": [
+    {
+      "Author": "John Best",
+      "Date": "Oct 9, 2009, 9:25:31\u202FPM",
+      "Body": "Hi all,\n\nI had a cursory look for this, but no dice (I'm not sure if its not\nbeen asked before or if the terms I used were too specific).\n\n--------------------------------------------------------\nRelevant card texts:\n\nClub Illusion\n\nMaster: unique location. 1 pool.\nWhen any anarch vampire declares a bleed action, he or she can burn 1\nblood to get +1 bleed on that action (only usable once each action).\n\nPentex(TM) Loves You!\n\nMaster: unique location. 2 pool\nYou may tap this card and choose a Sabbat vampire. Once during the\ncurrent action, the chosen vampire may burn 1 blood to get +1 bleed.\n\nMask of a Thousand Faces\n\nAction Modifier\nobf:\nOnly usable by a ready, untapped vampire other than the acting minion\nwho is capable of performing the action. Not usable if any action\nmodifiers or other effects have been used that could not have been\nused if this vampire were the acting vampire. Untap the acting minion\nand tap this vampire instead. The action continues with this vampire\nas the acting minion.\nOBF:\nAs above, with +1 stealth.\n\n------------------------------------------------------\n\nScenario #1.\n\nClub Illusion is in play. Minion A declares a bleed for 1. They burn a\nblood as per Club Illusion to increase the bleed to 2. A block is\ndeclared. Minion B plays Mask of 1k Faces at superior to take over as\nthe acting minon at +1 steath. The block fails. The action resolves\nas:\n\n1. A bleed for 1, the window to burn a blood for Club illusion has\npassed, the original acting minion doesn't regain the blood they paid.\n2. A bleed for 1, the window to burn a blood for Club illusion has\npassed, the original acting minion regains the blood they paid.\n3. A bleed for 2, Minion A regains a blood, Minion B burns one since\nthey have become the acting minion, and in effect would have burned\none at the point of declaration\n4. A bleed for 2, Minion A has burned a blood to increase it, Minion B\ntakes over after the window for declaration has closed, but before\nresolution.\n\nOf all the outcomes, I suspect its actually 1. Despite increasing the\nbleed for minion A, its B that's really bleeding, and since its the\nsame action, and past the point of declaration, Club Illusion is no\nlonger relevant. Minion A has already burned the blood, they can't get\nit back now.\n\nSimilarly, Pentex Loves You!\n\nScenario #2\n\nPLY! is in play. Minion A declares a bleed for 1. PLY! is tapped\nduring the action and Minion A chosen to be allowed to burn a blood to\nincrease the bleed. Blood is burned to increase bleed to 2 . Block\ndeclared. Mask of 1k Faces is played by Minion B at superior. Block\nfails.\n\nNow we'll leave aside the fact that PLY! could have been tapped just\nbefore action resolution, and the blood burned then by minion 2. Given\nthe sequence above the action resolves as:\n\n1. A bleed for 1. Minion A was chosen for PLY! and it's irrelevant\nthat they're no longer bleeding. They don't get the blood they burned\nback.\n2. A bleed for 1. Minion A was chosen for PLY! and it's irrelevant\nthat they're no longer bleeding. They get the blood they burned back\nsince they are not bleeding.\n3. A bleed for 1, BUT if Minion A bleeds, they will be bleeding for 1\nadditionally native due to PLY!\n4. A bleed for 2, since the \"Minion A\" that was chosen for PLY! was\nreally Minion B in a silly hat, ergo it was that minion that was\nchosen. Minion A gains a blood, Minion B burns one.\n\nIn this case, I think 1 is the most likely. Initially I thought 3, but\nPLY specifies \"the current action\".\n\nHope its not too confused. Advice appreciated."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Oct 9, 2009, 11:07:28\u202FPM",
+      "Body": "> > 4. A bleed for 2, since the \"Minion A\" that was chosen for PLY! was\n> > really Minion B in a silly hat, ergo it was that minion that was\n> > chosen. Minion A gains a blood, Minion B burns one.\n>\n> > In this case, I think 1 is the most likely. Initially I thought 3, but\n> > PLY specifies \"the current action\".\n>\n> 4.\n\nWait, so the original acting minion retroactively gets a blood back,\nand the newly-acting minion has to spend one?\n\nDoes this mean that if Minion A had played Elder Intervention for\nstealth (paying a blood), and Minion B masks it, suddenly B has to pay\na blood that A gets back?\n\nI was under the impression that cards and effects already played (and\npayed for) by Minion A stayed paid for by Minion A, even if minion B\nlater Masks to be the acting minion.\n\n-John Flournoy"
+    },
+    {
+      "Author": "D.J.",
+      "Date": "Oct 9, 2009, 11:11:24\u202FPM",
+      "Body": "On Oct 9, 4:56 pm, LSJ <vtes...@white-wolf.com> wrote:\n> John Best wrote:\n> >  Scenario #1.\n(Club Illusion - snip)\n\n> > 4. A bleed for 2, Minion A has burned a blood to increase it, Minion B\n> > takes over after the window for declaration has closed, but before\n> > resolution.\n>\n> 4.\n\nThis one I get. But...\n\n(Scenario 2, Pentex Loves You!)\n\n> > 4. A bleed for 2, since the \"Minion A\" that was chosen for PLY! was\n> > really Minion B in a silly hat, ergo it was that minion that was\n> > chosen. Minion A gains a blood, Minion B burns one.\n>\n\n> 4.\n\nHuh? Minion A was specifically chosen. You don't have to choose an\nactively-bleeding minion. I don't get how this transfers to Minion\nB. Can you explain further?\n(I'd expected the response to the PLY situation to be \"You can't play\nMask; Minion A used an effect, granted by PLY!, that was unavailable\nto Minion B.\" Clearly not, but...)\n\n- D.J."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 10, 2009, 12:52:23\u202FAM",
+      "Body": "John Flournoy wrote:\n>>> 4. A bleed for 2, since the \"Minion A\" that was chosen for PLY! was\n>>> really Minion B in a silly hat, ergo it was that minion that was\n>>> chosen. Minion A gains a blood, Minion B burns one.\n>>> In this case, I think 1 is the most likely. Initially I thought 3, but\n>>> PLY specifies \"the current action\".\n>> 4.\n>\n> Wait, so the original acting minion retroactively gets a blood back,\n> and the newly-acting minion has to spend one?\n\nSorry, no. Didn't read the change there.\n\n5. A bleed for two.No further blood movement."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 10, 2009, 12:54:12\u202FAM",
+      "Body": "\uE5D3\n\nNo blood movement, but otherwise it has text like Club Illusion, and works\nsimilarly."
+    },
+    {
+      "Author": "wumpus",
+      "Date": "Oct 10, 2009, 1:11:03\u202FAM",
+      "Body": "\uE5D3\n\nThere appears to be a difference in the text: Club Illusion gives +1\nbleed to the action, while Pentex gives +1 bleed to the minion.\n\nI would've ruled that Minion B couldn't take over the Pentex bleed,\nbut I don't understand how Mask interacts with vampires with inherent\nbleed, strength, or other specials, and so don't play with it any\nmore...\n\nAlex"
+    }
+  ]
+}

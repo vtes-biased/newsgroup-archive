@@ -1,0 +1,32 @@
+{
+  "ThreadId": "nvuXBpEaKAA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nvuXBpEaKAA",
+  "Title": "LSJ: various questions",
+  "Messages": [
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Jun 29, 2008, 5:38:13\u202FPM",
+      "Body": "Hello, some clarifications needed with new and old cards:\n\n#1 - Nephandus vs Catatonic Fear\n\nDoes Nephandus damage reduction works against\nafter-combat catatonic fear damage ?\n\n#2 -Steely Tenacity vs Direct intervention\n\nIf Steely Tenacity is get D'Ied (or similar effect, say Louhi's special),\nis the ST \"replace\"effect (from the ash heap) still possible , or DI cancels\nthe \"When you would replace this card, you may take this card from your ash\nheap instead.\" as well ?\n\n#3 - Piper and ally performing action in the same turn\n\nIf an anarch recruits via Piper, can that ally act\nin the same turn ?\n\nthanks in advance\n\nEmiliano, NC Italy"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Jun 29, 2008, 11:20:38\u202FPM",
+      "Body": "On Sun, 29 Jun 2008 17:38:13 +0200, \"Tetragrammaton\" wrote:\n\n>#1 - Nephandus vs Catatonic Fear\n>Does Nephandus damage reduction works against\n>after-combat catatonic fear damage ?\n\nNo.\n\nPertinent card text on Nephandus: \"during combat\"\n\nhttp://www.white-wolf.com/vtes/index.php?line=cardlist\n\n>#2 -Steely Tenacity vs Direct intervention\n>If Steely Tenacity is get D'Ied (or similar effect, say Louhi's special),\n>is the ST \"replace\"effect (from the ash heap) still possible , or DI cancels\n>the \"When you would replace this card, you may take this card from your ash\n>heap instead.\" as well ?\n\nThe card is completely cancelled and none of its card text can be\nused.\n\n>#3 - Piper and ally performing action in the same turn\n>If an anarch recruits via Piper, can that ally act\n>in the same turn ?\n\nNo.\n\nAny \"recruit\" effect follows the standard rules, see Section 6.1.5.\n\nhttp://www.white-wolf.com/vtes/rulebook/\n\nThe ally is placed in your uncontrolled region, even though it is\ncontrolled, to indicate that it cannot act this turn (and the cost, if\nany, is paid).\n\nhttp://www.white-wolf.com/vtes/index.php?line=cardlist\n\nPiper [TR:R]\nCardtype: Master\nMaster. Requires a ready anarch.\nA ready untapped anarch you control employs a retainer or recruits an\nally from your hand (requirements and cost apply as normal). This is\nnot an action and cannot be blocked. Tap that anarch.\nArtist: Andrew Trabbold"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 30, 2008, 3:44:43\u202FAM",
+      "Body": "The Lasombra wrote:\n> On Sun, 29 Jun 2008 17:38:13 +0200, \"Tetragrammaton\" wrote:\n>\n>> #1 - Nephandus vs Catatonic Fear\n>> Does Nephandus damage reduction works against\n>> after-combat catatonic fear damage ?\n>\n> No.\n>\n> Pertinent card text on Nephandus: \"during combat\"\n>\n> http://www.white-wolf.com/vtes/index.php?line=cardlist\n\nYes. Pertinent card text: \"Each strike\". \"During combat\" modifies strike, not\ndamage, and the strike was indeed made in combat (as all strikes are).\n\n>> #2 -Steely Tenacity vs Direct intervention\n>> If Steely Tenacity is get D'Ied (or similar effect, say Louhi's special),\n>> is the ST \"replace\"effect (from the ash heap) still possible , or DI cancels\n>> the \"When you would replace this card, you may take this card from your ash\n>> heap instead.\" as well ?\n>\n> The card is completely cancelled and none of its card text can be\n> used.\n\nCorrect. Both the delayed replacement and the redirection of the replacement\nsupply source are canceled.\n\n>> #3 - Piper and ally performing action in the same turn\n>> If an anarch recruits via Piper, can that ally act\n>> in the same turn ?\n>\n> No.\n>\n> Any \"recruit\" effect follows the standard rules, see Section 6.1.5.\n\nCorrect."
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Jun 30, 2008, 10:37:14\u202FAM",
+      "Body": "\uE5D3\n\nThanks for the answers.\n\nAbout the last one (#3) on piper, by section 6.1.5 however, text indicates\nthat\n\n\"If the *action* is successful, the ally is placed in your uncontrolled\n\nregion, even though it is controlled, to indicate that it cannot act this\nturn\"\n\nthat seems to link the *action* thing (and not the \"recruit\") to the \"put in\nyour uncontrolled region\" thing\nBut piper specifies that isn't an *action* - maybe card text needs to be\nclearer\n\nEmiliano"
+    },
+    {
+      "Author": "suolir...@gmail.com",
+      "Date": "Jun 30, 2008, 2:20:54\u202FPM",
+      "Body": "\uE5D3\n\nThat part of the rule is the only part that mentions placing the ally\nanywhere at all. If \"recruit\" isn't linked to \"put in your\nuncontrolled\" then Piper will recruit your ally but you won't actually\nget to put it in play."
+    }
+  ]
+}

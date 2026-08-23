@@ -1,0 +1,32 @@
+{
+  "ThreadId": "IB75fYj46DE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/IB75fYj46DE",
+  "Title": "Damage Resolution Flowchart",
+  "Messages": [
+    {
+      "Author": "Robert Franklin Grau",
+      "Date": "Jul 14, 1998, 9:00:00\u202FAM",
+      "Body": "Well, we have the new rulings, might as well start making them easier to\nlive with.\n\nHope this helps, and keeps confusion to a minimum.\n\nStart Here <---------------.\n| |\nV |\nWill Damage |\nBe Prevented --> Yes --> Figure Out How Much\n| and Start Over\n|Nope\nV\nIs There Unresoved --> No ------------------.\nNormal Damage? <----------------. |\n| | |\n|Yes | |\nV | |\nDoes the Vamp Have--> Yes --> Burn 1 blood |\nAny Blood? to resolve 1 |\n| Normal Damage |\n|Nope V\n| Is There Unresolved\n| Agg Damage?\n| | |\n| |Yes Nope|\nV V |\nVampire has Unhealed <----- 1 point Agg |\nDamage. is resolved. |\n| |\n| |\nV |\nIs There Unresolved --> Nope ---------------. |\nAgg Damage? <-----------------. | |\n| | | |\n|Yes | | |\nV | | |\nDoes the Vamp Have--> Yes --> Burn 1 blood | |\nAny Blood? to avoid | |\n| destruction | |\n|No | |\n| .-----------------------/ |\n| | |\nV V V\nVampire is | Vampire goes | Vamp remains\nburned | to Torpor | in active\n| | Region\n\nI'm not attempting to explain why this is\nthe way it works, only that this should guide\neveryone through the Agg damage confusion\nand/or let the players who have been explaining\nit catch their breath. :)\n\nThanks,\n\nRobert F. Grau"
+    },
+    {
+      "Author": "Robert Franklin Grau",
+      "Date": "Jul 14, 1998, 9:00:00\u202FAM",
+      "Body": "Whoops, Netscape killed my column spacing.... :(\n\nSorry. I'll post a textual version tomorrow. (gotta go eat)\n\nRobert F. Grau"
+    },
+    {
+      "Author": "ber...@cco.caltech.edu",
+      "Date": "Jul 15, 1998, 9:00:00\u202FAM",
+      "Body": "In article <35ABD32E...@eos.ncsu.edu>,\n\nRobert Franklin Grau <rfg...@eos.ncsu.edu> wrote:\n> Well, we have the new rulings, might as well start making them easier to\n> live with.\n>\n> Hope this helps, and keeps confusion to a minimum.\n>\n\nUmm... there's an easier way. First, resolve normal damage. Burn one blood\nto heal each. If you can't, go to torpor.\n\nNext, resolve agg damage. If you are not in torpor, the first point is\ntreated as unhealed normal damage (i.e. you go to torpor and ignore that point\nof damage). If you are in torpor, burn 1 blood to heal each. If you can't,\nburn.\n\nAdmittedly, you won't actually go to torpor until all of the damage is\nresolved, but it basically works the same way. If you're in torpor, you can\nheal agg damage for 1 blood. If you're not, the first point sends you there.\nNormal damage works the way it always has.\n\n-Chris\n\n-----== Posted via Deja News, The Leader in Internet Discussion ==-----\nhttp://www.dejanews.com/rg_mkgrp.xp Create Your Own Free Member Forum"
+    },
+    {
+      "Author": "gen...@iname.com",
+      "Date": "Jul 15, 1998, 9:00:00\u202FAM",
+      "Body": "> Whoops, Netscape killed my column spacing.... :(\n\nMy version looks good. Should somebody wish to have it, just ask. :)\n\nFrederic."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 15, 1998, 9:00:00\u202FAM",
+      "Body": "ber...@cco.caltech.edu wrote:\n> Admittedly, you won't actually go to torpor until all of the damage is\n> resolved, but it basically works the same way. If you're in torpor, you can\n> heal agg damage for 1 blood. If you're not, the first point sends you there.\n\nYep. For a flowchart that works the \"actual\" way (and is slightly\nsimpler than Rob Grau's nice work-up), try this:\n\n(done in psudo-code rather than ascii-art for maximum portability :-)\n\nBegin:\nMore Damage?\nN: Goto End.\n\nAggravated AND You have unhealed damage already?\nN: Goto Heal.\n\nCan you prevent destruction?\nY: burn a blood to prevent destruction.\nN: Burn (end processing :-)\n\nGoto Begin.\n\nHeal:\nCan you heal the damage?\nY: burn a blood to heal\nN: the damage is unhealed\n\nGoto Begin.\n\nEnd:\nHave any unhealed damage?\nY: Torpor\n\n--\nL. Scott Johnson (vte...@wizards.com) VTES Net.Rep for Wizards of the Coast.\nSearchable database of official card text, errata, and rulings:\nhttp://deckserver.net/cgi-deckserver/rulemonger.cgi/powersearch"
+    }
+  ]
+}

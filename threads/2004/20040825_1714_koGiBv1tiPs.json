@@ -1,0 +1,87 @@
+{
+  "ThreadId": "koGiBv1tiPs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/koGiBv1tiPs",
+  "Title": "[LSJ] Gehenna cards do not replace and aura reading",
+  "Messages": [
+    {
+      "Author": "Jyhad_addict",
+      "Date": "Aug 25, 2004, 5:14:52\u202FPM",
+      "Body": "We have already found out that you can \"beat\" the \"do not replace this\ncard\" disadvantage of the Gehenna cards by having in play a visit from\nthe Capuchin when you play such a card. But can you play e.g. a\nDragonbound then in a given combat play aura reading supperior to\nreturn after combat to 7 hand size ?\ni would say no, because the do not replace counts against your\nhandsize.\nSo, when you play aura reading supperior you go to handsize 9 and\nafter combat you discard down to your maximum handsize which is 6 as\nmodified by Dragonbound, right ?\nI am quite certain that you can't overcome the do not replace with\naura reading, but a friend of mine who doesn't use internet is\ninsisting to ask."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 25, 2004, 5:25:35\u202FPM",
+      "Body": "\"Jyhad_addict\" <geo...@for.auth.gr> wrote in message\nnews:c6a50f81.04082...@posting.google.com...\n\n> We have already found out that you can \"beat\" the \"do not replace this\n> card\" disadvantage of the Gehenna cards by having in play a visit from\n> the Capuchin when you play such a card. But can you play e.g. a\n> Dragonbound then in a given combat play aura reading supperior to\n> return after combat to 7 hand size ?\n> i would say no, because the do not replace counts against your\n> handsize.\n\nYou are correct.\n\n> So, when you play aura reading supperior you go to handsize 9 and\n> after combat you discard down to your maximum handsize which is 6 as\n> modified by Dragonbound, right ?\n\nAura Reading superior gives +2 hand size.\nSo: 7 -1 for DNR Dragonbound +2 for Aura Reading = 8.\nWhen combat ends, it's just 7 -1 for DNR Dragonbound = 6.\n\n> I am quite certain that you can't overcome the do not replace with\n> aura reading, but a friend of mine who doesn't use internet is\n> insisting to ask.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nV:TES homepage: http://www.white-wolf.com/vtes/\nThough effective, appear to be ineffective -- Sun Tzu"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Aug 25, 2004, 6:07:51\u202FPM",
+      "Body": "LSJ wrote:\n\n> Aura Reading superior gives +2 hand size.\n> So: 7 -1 for DNR Dragonbound +2 for Aura Reading = 8.\n> When combat ends, it's just 7 -1 for DNR Dragonbound = 6.\n\nSo why does Visit work? I'm mean, I'm not saying it shouldn't, I just don't\nreally understand why Vist circumvents the Event hand size.\n\nRight. Hand size 7.\nYou play Dragonbound (-1). Hand size 6.\nYou play Visit (+4). Hand size 10.\nYou play 4 cards, burning 4 Visit counters. Visit is burned. Your hand size\nis back to 6.\n\nI'm confused.\n\nPeter D Bakija\npd...@lightlink.com\nhttp://www.lightlink.com/pdb6\n\n\"Mr. President, ask not what your rest home can do for you.\nAsk what you can do for your rest home.\"\n-Elvis"
+    },
+    {
+      "Author": "Matthew T. Morgan",
+      "Date": "Aug 25, 2004, 6:13:05\u202FPM",
+      "Body": "On Wed, 25 Aug 2004, Peter D Bakija wrote:\n\n> LSJ wrote:\n>\n> > Aura Reading superior gives +2 hand size.\n> > So: 7 -1 for DNR Dragonbound +2 for Aura Reading = 8.\n> > When combat ends, it's just 7 -1 for DNR Dragonbound = 6.\n>\n> So why does Visit work? I'm mean, I'm not saying it shouldn't, I just don't\n> really understand why Vist circumvents the Event hand size.\n>\n> Right. Hand size 7.\n> You play Dragonbound (-1). Hand size 6.\n> You play Visit (+4). Hand size 10.\n> You play 4 cards, burning 4 Visit counters. Visit is burned. Your hand size\n> is back to 6.\n\nNo, you play Visit first. It's like this:\n\nHand size 7.\nPlay Visit. Hand size 11.\nPlay Computer Hacking (for example). Hand size 10.\nPlay Dragonbound. Hand size 9.\n\nNeither the Hack nor the Dragonbound are ever replaced. This effect\noverrides any other \"do not replace\" effect.\n\nMatt Morgan"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Aug 25, 2004, 9:39:08\u202FPM",
+      "Body": "Matthew T. Morgan wrote:\n\n> No, you play Visit first. It's like this:\n>\n> Hand size 7.\n> Play Visit. Hand size 11.\n> Play Computer Hacking (for example). Hand size 10.\n> Play Dragonbound. Hand size 9.\n>\n> Neither the Hack nor the Dragonbound are ever replaced. This effect\n> overrides any other \"do not replace\" effect.\n\nOooh. That makes much more sense. So Visit gets out around the \"don't\nreplace\" action if you have Visit in play and *then* you put Dragonbound\ninto play. Not the other way around. That seems reasonable.\n\nCheck.\n\n\uE5D3"
+    },
+    {
+      "Author": "Matthew T. Morgan",
+      "Date": "Aug 25, 2004, 9:48:05\u202FPM",
+      "Body": "On Wed, 25 Aug 2004, Peter D Bakija wrote:\n\n> Matthew T. Morgan wrote:\n>\n> > No, you play Visit first. It's like this:\n> >\n> > Hand size 7.\n> > Play Visit. Hand size 11.\n> > Play Computer Hacking (for example). Hand size 10.\n> > Play Dragonbound. Hand size 9.\n> >\n> > Neither the Hack nor the Dragonbound are ever replaced. This effect\n> > overrides any other \"do not replace\" effect.\n>\n> Oooh. That makes much more sense. So Visit gets out around the \"don't\n> replace\" action if you have Visit in play and *then* you put Dragonbound\n> into play. Not the other way around. That seems reasonable.\n\nRight. My Count Germaine/Assault Rifle deck has two Visits and two\nDragonbound. The combo happens fairly regularly, but I do wonder if I\nwouldn't be better off making the Visits into Dreams and just living with\na hand size of six (eight while Dreaming). There's nothing worse\nthan playing Visit and drawing four cards I don't need. Now I need to\nsomehow play or ditch five cards in order to draw some more. Lame.\n\nI've also dropped Dragonbound to force an oust a couple of times even\nthough I was Visit-less. It's totally worth it. Hand size of six isn't\nthat crippling in an Assault Rifle deck. Either somebody has a trump or I\nown the table.\n\nMatt Morgan"
+    },
+    {
+      "Author": "Frederick Scott",
+      "Date": "Aug 26, 2004, 1:31:39\u202FAM",
+      "Body": "\"Peter D Bakija\" <pd...@lightlink.com> wrote in message\nnews:BD52631C.190F4%pd...@lightlink.com...\n\n> Oooh. That makes much more sense. So Visit gets out around the\n> \"don't replace\" action if you have Visit in play and *then* you\n> put Dragonbound into play. Not the other way around. That seems\n> reasonable.\n\n...and a lot harder to abuse, I might add. (As opposed to, \"I\nplayed Dragonbound 6 turns ago, now the VftC suddenly alleviates\nmy hand-size problem.\")\n\nFred"
+    },
+    {
+      "Author": "Jyhad_addict",
+      "Date": "Aug 26, 2004, 2:47:58\u202FAM",
+      "Body": "Peter D Bakija <pd...@lightlink.com> wrote in message news:<BD523197.190E0%pd...@lightlink.com>...\n\n> LSJ wrote:\n>\n> > Aura Reading superior gives +2 hand size.\n> > So: 7 -1 for DNR Dragonbound +2 for Aura Reading = 8.\n> > When combat ends, it's just 7 -1 for DNR Dragonbound = 6.\n>\n> So why does Visit work? I'm mean, I'm not saying it shouldn't, I just don't\n> really understand why Vist circumvents the Event hand size.\n>\n> Right. Hand size 7.\n> You play Dragonbound (-1). Hand size 6.\n> You play Visit (+4). Hand size 10.\n> You play 4 cards, burning 4 Visit counters. Visit is burned. Your hand size\n> is back to 6.\n>\n> I'm confused.\n>\n\nSuppose you have a hand size of 7, you play Visit, you place 4\ncounters on it and you have +4 hand size, so you have a hand size of\n11. You play a govern the unaligned, you don't replace it and you now\nhave 10 hand size, you play a dragonbound, you do not replace it as\nboth the visit and dragonbound say and you now have 9 hand size, after\nplaying the next 2 cards, your hand size is 7, the visit is burned and\nyou have a hand size of 7."
+    },
+    {
+      "Author": "Smiling Tom",
+      "Date": "Aug 26, 2004, 11:37:33\u202FAM",
+      "Body": "> Right. My Count Germaine/Assault Rifle deck has two Visits and two\n> Dragonbound. The combo happens fairly regularly, but I do wonder if I\n> wouldn't be better off making the Visits into Dreams and just living with\n> a hand size of six (eight while Dreaming). There's nothing worse\n> than playing Visit and drawing four cards I don't need. Now I need to\n> somehow play or ditch five cards in order to draw some more. Lame.\n>\n\nWouldn't it be better to play Elder Library? So you would play once it\nreaches your hand, instead of holding the dragonbound/visit (reducing\neffectively your HS by 1, while you wait for the right moment for the other\ncard to arrive). Even worst: The turn you play the visit you are unable to\nplay too many cards (3), because you need to reach your influence phase with\na counter on the visit at least. And the Elder Library will help you anyway\nuntil you field the dragonbound.\n\uE5D3"
+    },
+    {
+      "Author": "Matthew T. Morgan",
+      "Date": "Aug 26, 2004, 7:42:12\u202FPM",
+      "Body": "On Thu, 26 Aug 2004, Smiling Tom wrote:\n\n> > Right. My Count Germaine/Assault Rifle deck has two Visits and two\n> > Dragonbound. The combo happens fairly regularly, but I do wonder if I\n> > wouldn't be better off making the Visits into Dreams and just living with\n> > a hand size of six (eight while Dreaming). There's nothing worse\n> > than playing Visit and drawing four cards I don't need. Now I need to\n> > somehow play or ditch five cards in order to draw some more. Lame.\n> >\n> Wouldn't it be better to play Elder Library? So you would play once it\n> reaches your hand, instead of holding the dragonbound/visit (reducing\n> effectively your HS by 1, while you wait for the right moment for the other\n> card to arrive). Even worst: The turn you play the visit you are unable to\n> play too many cards (3), because you need to reach your influence phase with\n> a counter on the visit at least. And the Elder Library will help you anyway\n> until you field the dragonbound.\n\nYeah, that's certainly a solution. So is just playing with 6 cards in\nhand. I think Dreams might also work out okay. The worst part of Visit\nis having a turn in which I only want to play three cards, as you noted.\nI just wanted to try out the new tech. Maybe next time I play the deck\nI'll call my Visits proxies for Dreams or Elder Library.\n\nMatt Morgan"
+    },
+    {
+      "Author": "Jyhad_addict",
+      "Date": "Aug 27, 2004, 12:41:27\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message news:<2p3p79F...@uni-berlin.de>...\n\nSo, i guess the only thing that beats the do not replace is visit\nfrom the Capuchin.\n\nDreams of the Sphinx don't beat it, either right ?"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Sep 2, 2004, 11:20:41\u202FAM",
+      "Body": "Have to jump in here with a new twist.\n\nIf I have Gehhenna cards in play and I give them to another player via\nSuccubus club, does my hand size return to normal?\n\nDoes the new owner of the Gehhenna cards have their hand size reduced?\n\nIs this a means to avoid the hand size reduction along the lines if the\nVists?\n\nRaille"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 2, 2004, 3:40:34\u202FPM",
+      "Body": "Raille wrote:\n> Have to jump in here with a new twist.\n>\n> If I have Gehhenna cards in play and I give them to another player via\n> Succubus club, does my hand size return to normal?\n\nNo.\n\n> Does the new owner of the Gehhenna cards have their hand size reduced?\n\nNo.\n\n> Is this a means to avoid the hand size reduction along the lines if the\n> Vists?\n\nNo.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\n\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "salem",
+      "Date": "Sep 4, 2004, 5:31:27\u202FAM",
+      "Body": "On Thu, 02 Sep 2004 13:40:34 GMT, LSJ <vte...@white-wolf.com>\nscrawled:\n\n>Raille wrote:\n>> Have to jump in here with a new twist.\n>>\n>> If I have Gehhenna cards in play and I give them to another player via\n>> Succubus club, does my hand size return to normal?\n>\n>No.\n>\n>> Does the new owner of the Gehhenna cards have their hand size reduced?\n>\n>No.\n>\n>> Is this a means to avoid the hand size reduction along the lines if the\n>> Vists?\n>\n>No.\n\nif the player who i gave the gehenna cards to is ousted before the end\nclause (if any) of the DNR text is fulfilled, does my hand size return\nto normal?\n\nif no, does the end clause remain an effect that can be fulfilled even\nwith the gehenna card itself gone, to enable me to replace if it is\nmet?\n\nsalem\ndomain:canberra http://www.geocities.com/salem_christ.geo/vtes.htm\n(replace \"hotmail\" with \"yahoo\" to email)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 7, 2004, 2:36:31\u202FPM",
+      "Body": "\"salem\" <salem_ch...@hotmail.com> wrote in message\nnews:eldij05vrel74db1q...@4ax.com...\n\n> if the player who i gave the gehenna cards to is ousted before the end\n> clause (if any) of the DNR text is fulfilled, does my hand size return\n> to normal?\n\nNo.\n\n> if no, does the end clause remain an effect that can be fulfilled even\n> with the gehenna card itself gone, to enable me to replace if it is\n> met?\n\nYes.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\n\n\uE5D3"
+    },
+    {
+      "Author": "carl",
+      "Date": "Sep 9, 2004, 11:29:40\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote\n\n> > if no, does the end clause remain an effect that can be fulfilled even\n> > with the gehenna card itself gone, to enable me to replace if it is\n> > met?\n>\n> Yes.\n\nGee LSJ.\nWith rulings like that you make Gehenna sound like\nThe End of The World (at least for the meth and his empire...)\n\n...carl\nThe world is ending and all is darkness"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ThreadId": "7cepnoTh74M",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/7cepnoTh74M",
+  "Title": "Couple of Questions",
+  "Messages": [
+    {
+      "Author": "rob...@exploretalent.com",
+      "Date": "Dec 6, 2008, 8:12:43\u202FAM",
+      "Body": "Could not clarify from searching.\n\n1. If a minion has taken an action and then is removed from play and\nreturned in the same phase (not via burning) with the ability to take\nanother action is she still tainted from the previous action?\n\n2. How does Heaven's Gate interact with The Grandest Trick?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 7, 2008, 5:27:22\u202FPM",
+      "Body": "rob...@exploretalent.com wrote:\n> Could not clarify from searching.\n>\n> 1. If a minion has taken an action and then is removed from play and\n> returned in the same phase (not via burning) with the ability to take\n> another action is she still tainted from the previous action?\n\nIf the minion still has counters and cards from before leaving play, then it\nstill knows about other things (like actions taken). If not (e.g., a trip\nthrough the ash heap), then other times are forgotten as well (like actions taken).\n\n> 2. How does Heaven's Gate interact with The Grandest Trick?\n\nAccording to card text. Leaving the vampire controlled in the uncontrolled\nregion with no prospects of becoming ready."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Dec 8, 2008, 2:52:46\u202FAM",
+      "Body": "On Dec 7, 10:27 am, LSJ <vtes...@white-wolf.com> wrote:\n\n> robe...@exploretalent.com wrote:\n> > Could not clarify from searching.\n>\n> > 1. If a minion has taken an action and then is removed from play and\n> > returned in the same phase (not via burning) with the ability to take\n> > another action is she still tainted from the previous action?\n>\n> If the minion still has counters and cards from before leaving play, then it\n> still knows about other things (like actions taken). If not (e.g., a trip\n> through the ash heap), then other times are forgotten as well (like actions taken).\n>\n\nJust to be clear, this is tested for the general case, not for each\nspecific case, correct? I.e. if a minion that goes out of play in a\nparticular way would normally retain any cards and/or counters, then\nthat particular means of going out of play doesn't \"erase\" the\nminion's memory, even if a specific minion doesn't have any cards or\ncounters during a specific trip. So if I Banish one of my own\nvampires who has no blood and no cards on him or her, and then that\nvampire comes back into play via Undue Influence at [qui], the vamp\nstill has memory of what actions it has taken this turn, despite the\nfact that by strict interpretation of the statement above, since the\nminion does not have any counters or cards from before leaving play\nthen it wouldn't know about \"other things\". Right?"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Dec 8, 2008, 2:59:53\u202FAM",
+      "Body": "On Dec 7, 10:27 am, LSJ <vtes...@white-wolf.com> wrote:\n\n\uE5D3\n\nAccording to Section 7 - The Influence Phase, in the rulebook:\n\"At the end of your influence phase, any vampire in your uncontrolled\nregion with a number of blood counters on him equal to (or more than)\nhis capacity becomes controlled. The vampire is turned face up and\nmoved to the ready region, untapped. The counters are kept on him to\nrepresent his blood (counters in excess of his capacity drain off\nimmediately as usual). Other types of crypt cards are handled\nsimilarly\"\n\nIt doesn't say anything about the vampire needing to be \"face down\" or\neven uncontrolled, just that the vampire be *in* the uncontrolled\nregion (which is where Heaven's Gate puts them), with blood equal to\nor greater than capacity. So, shouldn't you be able to bring them\nback to controlled by transferring pool to them, which should also be\nlegal according to:\n\n\"During your influence phase you may spend transfers as follows:\n* Spend one transfer to move 1 blood counter from your pool to a\nminion in your uncontrolled region.\n* Spend two transfers to move 1 blood counter from a minion in\nyour uncontrolled region to your pool.\n* Spend four transfers and burn a pool to move a vampire from your\ncrypt to your uncontrolled region (drawing from the top, as always).\""
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Dec 8, 2008, 5:30:42\u202FAM",
+      "Body": "In message <16ccea89-08fa-4766...@t3g2000yqa.googlegroups\n\n.com>, Chris Berger <ark...@ugcs.caltech.edu> writes:\n>It doesn't say anything about the vampire needing to be \"face down\" or\n>even uncontrolled, just that the vampire be *in* the uncontrolled\n>region (which is where Heaven's Gate puts them), with blood equal to\n>or greater than capacity.\n\nhttp://www.white-wolf.com/vtes/index.php?line=outline\nis more specific about them being uncontrolled.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "Tbe...@gmail.com",
+      "Date": "Dec 9, 2008, 10:45:37\u202FAM",
+      "Body": "On Dec 7, 8:30 pm, James Coupe <ja...@zephyr.org.uk> wrote:\n> In message <16ccea89-08fa-4766-98ee-3cea3173a...@t3g2000yqa.googlegroups\n\n> .com>, Chris Berger <ark...@ugcs.caltech.edu> writes:\n>\n> >It doesn't say anything about the vampire needing to be \"face down\" or\n> >even uncontrolled, just that the vampire be *in* the uncontrolled\n> >region (which is where Heaven's Gate puts them), with blood equal to\n> >or greater than capacity.\n>\n> http://www.white-wolf.com/vtes/index.php?line=outline\n> is more specific about them being uncontrolled.\n\nI know that I am being too drunk and/or obtuse but the only relative\npart of your link seemed to be this: \"Any uncontrolled vampires\n(minions) with blood equal or greater than their blood capacity (cost)\nbecome controlled and move to the ready region untapped. Excess\ncounters drain off.\" So it would seem that transferring to an\nuncontrolled face up minion would not be problematical, and the result\nwould be a ready minion."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Dec 9, 2008, 11:21:39\u202FAM",
+      "Body": "In message <854af775-f153-4a23...@a12g2000pro.googlegroup\n\ns.com>, Tbe...@gmail.com writes:\n>I know that I am being too drunk and/or obtuse but the only relative\n>part of your link seemed to be this: \"Any uncontrolled vampires\n>(minions) with blood equal or greater than their blood capacity (cost)\n>become controlled and move to the ready region untapped. Excess\n>counters drain off.\" So it would seem that transferring to an\n>uncontrolled face up minion would not be problematical, and the result\n>would be a ready minion.\n\nThe face-up ally/vampire is in \"his or her controller's uncontrolled\nregion (controlled, but not ready)\" - card text of Heaven's Gate.\nThey're not an uncontrolled minion.\n\n\uE5D3"
+    },
+    {
+      "Author": "www.h...@gmail.com",
+      "Date": "Dec 9, 2008, 11:43:31\u202FAM",
+      "Body": "On Dec 9, 10:45 am, Tbel...@gmail.com wrote:\n> >http://www.white-wolf.com/vtes/index.php?line=outline\n> > is more specific about them being uncontrolled.\n>\n> I know that I am being too drunk and/or obtuse but the only relative\n> part of your link seemed to be this: \"Any uncontrolled vampires\n> (minions) with blood equal or greater than their blood capacity (cost)\n> become controlled and move to the ready region untapped. Excess\n> counters drain off.\"  So it would seem that transferring to an\n> uncontrolled face up minion would not be problematical, and the result\n> would be a ready minion.\n\nhttp://www.white-wolf.com/vtes/index.php?line=outline\n\nD. INFLUENCE PHASE [7]\n2. You may spend your transfers in any combination of the\nfollowing:\na. 1: move one of your pool to one of your uncontrolled\nminions.\na. 2: move one blood from one of your uncontrolled minions to\nyour pool."
+    },
+    {
+      "Author": "robert...@hotmail.com",
+      "Date": "Dec 10, 2008, 4:33:08\u202FAM",
+      "Body": "On Dec 7, 8:27 am, LSJ <vtes...@white-wolf.com> wrote:\n\n> > 2. How does Heaven's Gate interact with The Grandest Trick?\n>\n> According to card text. Leaving the vampire controlled in the uncontrolled\n> region with no prospects of becoming ready.\n\nCouldn't I then use Undue Influence at quietus to bring him back to\nready?\n\n+1 stealth action. Requires a ready anarch. Choose a vampire in your\nuncontrolled region. [qui] Put 1 blood counter on the chosen vampire.\nIf the number of counters equals or exceeds his or her capacity, move\nthat vampire to your ready region."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 10, 2008, 4:39:25\u202FAM",
+      "Body": "\uE5D3\n\nNah. Undue Influence and all the others who say \"vampire in your uncontrolled\nregion\" mean \"uncontrolled vampire in your uncontrolled region\" (otherwise, they\nwouldn't be useful, by the general restriction on targeting only controlled cards)."
+    },
+    {
+      "Author": "robert...@hotmail.com",
+      "Date": "Dec 10, 2008, 5:10:33\u202FAM",
+      "Body": "On Dec 9, 7:39 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n> Nah. Undue Influence and all the others who say \"vampire in your uncontrolled\n> region\" mean \"uncontrolled vampire in your uncontrolled region\" (otherwise, they\n> wouldn't be useful, by the general restriction on targeting only controlled cards).\n\nHmm. I suppose you could Shadow Twin it into torpor and rescue it."
+    }
+  ]
+}

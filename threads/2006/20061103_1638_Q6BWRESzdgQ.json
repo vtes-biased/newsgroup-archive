@@ -1,0 +1,27 @@
+{
+  "ThreadId": "Q6BWRESzdgQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Q6BWRESzdgQ",
+  "Title": "Is anyone else....",
+  "Messages": [
+    {
+      "Author": "Frederick Scott",
+      "Date": "Nov 3, 2006, 4:38:30\u202FPM",
+      "Body": "...having trouble bringing up certain White Wolf vtes web pages?\nFor instance, http://www.white-wolf.com/vtes/index.php?line=Cards\nlooks like junk when I bring it up on Internet Explorer.\n\nFred"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 3, 2006, 4:58:09\u202FPM",
+      "Body": "Frederick Scott wrote:\n> ....having trouble bringing up certain White Wolf vtes web pages?\n\n> For instance, http://www.white-wolf.com/vtes/index.php?line=Cards\n> looks like junk when I bring it up on Internet Explorer.\n\nOne of the include files under the vtes folder got incompletely modified for an\nimprovement to handling unknown pgaes. The missing bit meant that all of the\n\"line=\" pages had their main part untabled, dropping it to black-on-black text\noutside of the table area.\n\nFixed now."
+    },
+    {
+      "Author": "librarian",
+      "Date": "Nov 3, 2006, 5:49:28\u202FPM",
+      "Body": "\uE5D3\n\nIt looks good right now on Firefox.\n\nbest -\n\nchris"
+    },
+    {
+      "Author": "Frederick Scott",
+      "Date": "Nov 3, 2006, 7:44:21\u202FPM",
+      "Body": "\"librarian\" <ino...@ix.netcom.com> wrote in message\nnews:1162572568.5...@i42g2000cwa.googlegroups.com...\n\uE5D3\n\nYea, it's OK now. Scott fixed it.\n\nFred"
+    }
+  ]
+}

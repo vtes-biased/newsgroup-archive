@@ -1,0 +1,27 @@
+{
+  "ThreadId": "WTI7PDiWqy0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/WTI7PDiWqy0",
+  "Title": "Madness Network vs \"take action\" vs sequencing questions (LSJ)",
+  "Messages": [
+    {
+      "Author": "Stone",
+      "Date": "Feb 8, 2009, 3:06:11\u202FPM",
+      "Body": "ok, so after the KoT errata on Madness Network, there is no longer any \"end\nof minion phase actions\" thingy. We also know that \"take an action\" means\n\"go beyond the step of Direct Intervention\", i.e. a minion whose action card\nis DI'ed hasn't taken any action.\n\nIn the set-up : A -> B (has a Malk) -> C (has a Malk). Madness Network is in\nplay. It's A's turn. During his minion phase, A passes. B gets the first\nchance to act via MN, being the first player with a Malk, going clockwise\nfrom A.\n\n1/ B's Malk plays a Parity Shift. Someone plays Direct Intervention, so B's\nMalk didn't \"take\" any action.\nWho now has priority to attempt an action? I guess it's still B, since B\ndidn't take any action yet.\n\n2/ B's Malk plays an action card, is blocked and cancels it with Red\nHerring. The action reached resolution so is \"taken\" for sure, therefore A\ngets back the priority to take an action. Correct ?\n\nthanks\nStone\n\nName: Madness Network\n[Jyhad:R, VTES:R, CE:R, KoT:R]\nCardtype: Master\nClan: Malkavian\nUnique master.\nPut this card in play. Untapped Malkavians can take actions in any\nMethuselah's minion phase (follow normal sequencing rules). Any minion can\nburn this card as an action that any untapped Malkavian (in addition to the\nnormally eligible blockers) can attempt to block.\nArtist: Leif Jones; Anson Maddoc\n\nName: Red Herring\n[FN:C2/PR]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Chimerstry\n[chi] Only usable when this acting vampire is blocked. Untap the acting\nvampire, do not tap the blocking minion, and cancel the current action and\ncombat. Take the card played to perform the action (if any) back into your\nhand. Your vampires cannot attempt the same action again this turn. Discard\ndown to your hand size.\n[CHI] As above, but tap the blocking minion.\nArtist: Michael Gaydos"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 8, 2009, 3:14:22\u202FPM",
+      "Body": "Stone wrote:\n> ok, so after the KoT errata on Madness Network, there is no longer any \"end\n> of minion phase actions\" thingy. We also know that \"take an action\" means\n> \"go beyond the step of Direct Intervention\", i.e. a minion whose action card\n> is DI'ed hasn't taken any action.\n>\n> In the set-up : A -> B (has a Malk) -> C (has a Malk). Madness Network is in\n> play. It's A's turn. During his minion phase, A passes. B gets the first\n> chance to act via MN, being the first player with a Malk, going clockwise\n> from A.\n>\n> 1/ B's Malk plays a Parity Shift. Someone plays Direct Intervention, so B's\n> Malk didn't \"take\" any action.\n> Who now has priority to attempt an action? I guess it's still B, since B\n> didn't take any action yet.\n\nA.\nSequencing always starts with A.\n\n> 2/ B's Malk plays an action card, is blocked and cancels it with Red\n> Herring. The action reached resolution so is \"taken\" for sure, therefore A\n> gets back the priority to take an action. Correct ?\n\nYes.\n\n\uE5D3"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 8, 2009, 3:25:31\u202FPM",
+      "Body": "On Feb 8, 3:14 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n> > In the set-up : A -> B (has a Malk) -> C (has a Malk). Madness Network is in\n> > play. It's A's turn. During his minion phase, A passes. B gets the first\n> > chance to act via MN, being the first player with a Malk, going clockwise\n> > from A.\n>\n> > 1/ B's Malk plays a Parity Shift. Someone plays Direct Intervention, so B's\n> > Malk didn't \"take\" any action.\n> > Who now has priority to attempt an action? I guess it's still B, since B\n> > didn't take any action yet.\n>\n> A.\n> Sequencing always starts with A.\n\nWould the same apply for Enkil Cog? I assume so, but wanted to check\nsince it feels like it could get a bit weird when added to the earlier\nruling about Enkil Cog and Direct Intervention (Cog is still tapped\nand the vampire may still take an action). Leaving the Enkil Cog\ntapped and then wait for A to finish xer actions, and then B may\nattempt an action.\nIt's no gamebreaking problem, but a bit weird to have the Enkil Cog\neffect linger around like that imo.\n\nOld ruling: http://groups.google.com/group/rec.games.trading-cards.jyhad/browse_frm/thread/30d989bb5d8053c2/6a32d6d73f75893e"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 8, 2009, 6:12:41\u202FPM",
+      "Body": "\uE5D3\n\nI guess not. With the Cog tapped and pending, the Cog'ed minion still has the\nimpulse to declare an action (or let the Cog fizzle, at which point the impulse\nwould again go back to A)."
+    }
+  ]
+}

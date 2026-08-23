@@ -1,0 +1,32 @@
+{
+  "ThreadId": "hpFRDAmtSbA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hpFRDAmtSbA",
+  "Title": "(LSJ) Vidal Jarbeaux + Walk through Arcadia",
+  "Messages": [
+    {
+      "Author": "eRol",
+      "Date": "Oct 13, 2010, 11:41:12\u202FAM",
+      "Body": "Does Vidal (or Mata Hari) get the damage if the flipcoin comes up\ntail?\n\nMy thoughts were that he wouldnt get the damage because he only met\nthe requirements to play the card, but is no Malkavian Antitribu. But\nI could stand corrected.\n\nWalk through Arcadia\nType: Action Modifier\nRequires: Malkavian antitribu\nCost: 1 blood\nFlip a coin. If it comes up heads, this action is unblockable. If it\ncomes up tails, the Malkavian antitribu takes one damage. This damage\nis not preventable.\n\nVidal Jarbeaux\nClan: Toreador (group 5)\nCapacity: 8\nDisciplines: PRE aus cel obf pot\nCamarilla: Vidal can meet the clan, sect, or non-infernal vampire\ntrait (e.g., anarch) requirement to play any card. He can meet a given\nrequirement only once each game. +1 bleed."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Oct 13, 2010, 1:23:51\u202FPM",
+      "Body": "\uE5D3\n\nYes. They fake the requirement until the action modified is resolved.\nThere's a ruling about Raking Talons played by Mata Hari (she gets agg\nhand strikes for the whole combat) that I can't find that shows it\nworks this way."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Oct 13, 2010, 2:14:01\u202FPM",
+      "Body": "\uE5D3\n\nErr... \"until the action modifieR is resolved\", of course."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Oct 13, 2010, 2:11:42\u202FPM",
+      "Body": "floppyzedolfin <floppyz...@gmail.com> wrote:\n>On Oct 13, 11:41�am, eRol <der.e...@googlemail.com> wrote:\n>> Does Vidal (or Mata Hari) get the damage if the flipcoin comes up\n>> tail?\n>\n\n>Yes. They fake the requirement until the action modified is resolved.\n>There's a ruling about Raking Talons played by Mata Hari (she gets agg\n>hand strikes for the whole combat) that I can't find that shows it\n>works this way.\n\nNot quite that way.\n\nWhen you fake a requirement (\"play X as if...\"), that specific card sees\nyou as that requirement for:\n\n- playing the card\n- resolving the card\n- a lingering effect that does NOT depend on the card being in play.\n\nIt doesn't see you as being that requirement for effects that depend on\nthe card going in play. (\"The X with this card...\" and similar.)\n\nhttp://www.thelasombra.com/rules/RTR7-7-7.txt\n\nAnd note that you don't actually gain the faked requirement for the\npurpose of other cards. You don't actually have that discipline. You\nhaven't actually changed clans. Other effects/cards won't see you with\nthe faked requirement.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 13, 2010, 2:33:40\u202FPM",
+      "Body": "On Oct 13, 7:23 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> On Oct 13, 11:41 am, eRol <der.e...@googlemail.com> wrote:\n>\n>\n>\n> > Does Vidal (or Mata Hari) get the damage if the flipcoin comes up\n> > tail?\n>\n> > My thoughts were that he wouldnt get the damage because he only met\n> > the requirements to play the card, but is no Malkavian Antitribu. But\n> > I could stand corrected.\n\nHe takes the damage, precisely because he is playing the card as a\nMalk antitribu (and the damage is part of the effect of playing the\ncard).\n\n>\n> > Walk through Arcadia\n> > Type: Action Modifier\n> > Requires: Malkavian antitribu\n> > Cost: 1 blood\n> > Flip a coin. If it comes up heads, this action is unblockable. If it\n> > comes up tails, the Malkavian antitribu takes one damage. This damage\n> > is not preventable.\n>\n> > Vidal Jarbeaux\n> > Clan: Toreador (group 5)\n> > Capacity: 8\n> > Disciplines: PRE aus cel obf pot\n> > Camarilla: Vidal can meet the clan, sect, or non-infernal vampire\n> > trait (e.g., anarch) requirement to play any card. He can meet a given\n> > requirement only once each game. +1 bleed.\n>\n> Yes. They fake the requirement until the action modified is resolved.\n\nNot quite.\n\nHe fakes the requirement for the play of that card.\n\n> There's a ruling about Raking Talons played by Mata Hari (she gets agg\n> hand strikes for the whole combat) that I can't find that shows it\n> works this way.\n\nRaking's agg damage is a \"lingering\" effect, so not quite parallel to\nWalk.\n\nIt used to be that the lingering effects wouldn't apply to the faker.\n\nThat changed in RTR 7/7/7\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/f5ba0a7b96c43ff7\n\nThe RFD regarding that change is around here:\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/03936c6504510308\n\nesp. in\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/8ba90dfb7aefa979"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ThreadId": "xSPb9v_XVLA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xSPb9v_XVLA",
+  "Title": "+1 stealth vs. -1 intercept [LSJ?]",
+  "Messages": [
+    {
+      "Author": "Xian",
+      "Date": "Nov 29, 1998, 9:00:00\u202FAM",
+      "Body": "Okay, I'm not sure if the question is completely obvious from the title, so\nI'll pose the question.\n\nMiranda Sanova, for example, has her special which, IIRC, says \"Brujah\nattempting to block Miranda have -1 intercept.\" So, Miranda is taking an\naction, let's say bleeding her methuselah's prey. Lupo. controlled by the\nprey, attempts to block. Miranda has 0 stealth, and Lupo has -1 intercept.\n\nNow, if it works like regular math, Miranda should be able to slip by Lupo\nsince she technically has stealth higher than Lupo's intercept. However, I\ncan imagine a case where it could be argued that since Miranda actually has\nno stealth, so Lupo can still intercept her. In other words, why doesn't it\njust say \"Miranda gains +1 stealth when a Brujah attempts to block her,\" or\nsomething similar.\n\nI assume that the correct answer to the Miranda vs. Lupo question is that\nLupo cannot block her without additional intercept, but I'd like to know for\nsure.\n\nXian\n\n\"they look at you funny when you attack things like a hungry mountain\nlion on crack\" --greensea\n\n-----------== Posted via Deja News, The Discussion Network ==----------\nhttp://www.dejanews.com/ Search, Read, Discuss, or Start Your Own"
+    },
+    {
+      "Author": "Luis P. Duarte",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "Xian:\n\nInittially, Miranda has 0 stealth so Lupo can block it as normal.\nIF you play +1 stealth on Miranda, THEN Lupo _MUST_ play\n+2 Intercept to block her.\n\nStealth and Intercept are different things. If a vampire has -1 intercept\nwhen blocking, he hasn't to play +1 intercept to block an action if the\nopposing minion doesn't have any stealth.\nBut if the opposing minion plays +1 stealth, than he HAS to play +2\nintercept\nto block it.\n\nIs this correct, LSJ?\n\n.- Luis....@ip.pt\n\nXian wrote in message <73s8ch$jtu$1...@nnrp1.dejanews.com>...\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "Luis P. Duarte wrote:\n> Inittially, Miranda has 0 stealth so Lupo can block it as normal.\n\nIncorrect. To block, the blocking minion's intercept must equal\nor exceed the acting minion's stealth. [6.2.2.2]\n\n-1 is not \"equal to or greater than\" 0, so Lupo's block will\nfail (unless he adds intercept).\n\n> Xian wrote in message <73s8ch$jtu$1...@nnrp1.dejanews.com>...\n> >Okay, I'm not sure if the question is completely obvious from the title, so\n> >I'll pose the question.\n> >\n> >Miranda Sanova, for example, has her special which, IIRC, says \"Brujah\n> >attempting to block Miranda have -1 intercept.\" So, Miranda is taking an\n> >action, let's say bleeding her methuselah's prey. Lupo. controlled by the\n> >prey, attempts to block. Miranda has 0 stealth, and Lupo has -1 intercept.\n> >\n> >Now, if it works like regular math, Miranda should be able to slip by Lupo\n> >since she technically has stealth higher than Lupo's intercept. However, I\n> >can imagine a case where it could be argued that since Miranda actually has\n> >no stealth, so Lupo can still intercept her. In other words, why doesn't\n> it\n> >just say \"Miranda gains +1 stealth when a Brujah attempts to block her,\" or\n> >something similar.\n> >\n> >I assume that the correct answer to the Miranda vs. Lupo question is that\n> >Lupo cannot block her without additional intercept, but I'd like to know\n> for\n> >sure.\n> >\n> >Xian\n> >\n> >\"they look at you funny when you attack things like a hungry mountain\n> >lion on crack\" --greensea\n> >\n> >-----------== Posted via Deja News, The Discussion Network ==----------\n> >http://www.dejanews.com/ Search, Read, Discuss, or Start Your Own\n\n--\nL. Scott Johnson (vte...@wizards.com) VTES Net.Rep for Wizards of the Coast.\nLinks to revised rulebook, rulings, errata, and DCI (tournament) rules:\nhttp://www.wizards.com/VTES/VTES_Rules.html"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "Luis P. Duarte wrote:\n>\n> Xian:\n\n>\n> Inittially, Miranda has 0 stealth so Lupo can block it as normal.\n\n> IF you play +1 stealth on Miranda, THEN Lupo _MUST_ play\n> +2 Intercept to block her.\n>\n> Stealth and Intercept are different things. If a vampire has -1 intercept\n> when blocking, he hasn't to play +1 intercept to block an action if the\n> opposing minion doesn't have any stealth.\n> But if the opposing minion plays +1 stealth, than he HAS to play +2\n> intercept\n> to block it.\n>\n> Is this correct, LSJ?\n>\n\nIANALSJ, however...\n\nThat is most definitely *not* correct. This isn't a difficult concept.\nIf intercept < stealth, the block is unsuccessful. If intercept =>\nstealth, the block is successful. If you have -1 intercept, then you\ncannot block an action at 0 stealth.\n\n-Chris"
+    },
+    {
+      "Author": "Simidh",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "In article <3662B4E6...@cco.caltech.edu>,\n\uE5D3\n\nYes, i asked a similar question to this not long ago and LSJ confirmed that\nstealth or intercept can drop below 0, if stealth <= intercept then that\naction -may- be blocked... it isn't limited by the 0 barrier apparently...\n\nSo the answer would be that if intercept is -1 and steath is 0, actian can't\nbe blocked ;)\n\nSimidh\n\n(finally able to actually answer a question ;P )\n\n__ __ ,-\"_\", __\n,-.______.-.___.---------' '--\"\" \"\" (___\\`, (__ . _ _ . __/ )_\n',_.------._.---._________ __ )*___) ( / ) ) ( (_/ / )\n`--' \"\"--\"\",(\"_\"/,' -=-=-=-=-=-=-=-=-=-=-=-\n--===={) sim...@iweb.net.au (}====-- `---' Prince Of Adelaide >;-<="
+    },
+    {
+      "Author": "Luis P. Duarte",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "LSJ wrote in message <36629C...@wizards.com>...\n\n>> Inittially, Miranda has 0 stealth so Lupo can block it as normal.\n>\n\n>Incorrect. To block, the blocking minion's intercept must equal\n>or exceed the acting minion's stealth. [6.2.2.2]\n>\n>-1 is not \"equal to or greater than\" 0, so Lupo's block will\n>fail (unless he adds intercept).\n\nWrong?!! :)\nBut who said Miranda has as ability +1 stealth as Jost Werner?\nAnd by Xian's own words (see below):\n\"Miranda has 0 stealth...\"\n\nIf Miranda doesn't have stealth, Lupo *will* block her!\nIf Lupo has -1 intercept doesn't mean that Miranda has +1 stealth!\n\nBUT, if Miranda gets +1 stealth somehow, then Lupo must have\n+2 intercept to block her, to equalize Miranda's stealth level.\n\nWhere am i wrong, LSJ?\n\n.- Luis....@ip.pt\n\n\uE5D3"
+    },
+    {
+      "Author": "Luis P. Duarte",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "Ok!\n\nI've just read some posts below and apparently i'm wrong.\nI got that impression sometime ago in a discussion here.\n\nLupo can't block Miranda and there can be negative values of\nintercept (and stealth, i suppose).\n\nNegative values of intercept seem strange...\n\n.- Luis....@ip.pt"
+    },
+    {
+      "Author": "mboh...@shout.net",
+      "Date": "Nov 30, 1998, 9:00:00\u202FAM",
+      "Body": "In article <3662d...@news.esc.net.au>,\nsim...@iweb.net.au (Simidh) wrote:\n\n> Yes, i asked a similar question to this not long ago and LSJ confirmed that\n> stealth or intercept can drop below 0, if stealth <= intercept then that\n> action -may- be blocked... it isn't limited by the 0 barrier apparently...\n>\n> So the answer would be that if intercept is -1 and steath is 0, actian can't\n> be blocked ;)\n\nI think the problem comes from the results of other things that can go\nto -1. For instance, a bleed of -1 doesn't give you a pool. Or hand damage\nof -1 doesn't give the opposing vampire a blood. Basically, effects that\nare negative are ignored unless it's stealth vs. intercept.\n\nMike\n\n--\nMike Bohlmann, MAIP - Prince of Urbana-Champaign\n\n\uE5D3"
+    },
+    {
+      "Author": "Derek S. Ray",
+      "Date": "Dec 1, 1998, 9:00:00\u202FAM",
+      "Body": "\uE5D3\n\uE5D3\n\nThink of stealth as \"being sneaky\", and intercept as \"paying\nattention\". Zero stealth is just doing what you're trying to do\nwithout bothering to try to hide it. Zero intercept is just watching\nwhat you ought to be watching and not paying special attention to\nweird things. +1 intercept (ie inferior Enhanced Senses) is when you\nnotice that the dog didn't bark in the night (quick, reference game!\n:) and go to investigate that everything's OK. +1 stealth is when you\nblow up the trashcans to cause a diversion in the lobby so you can\nsneak upstairs while the security guards don't watch. Simple so\nfar...\n\n-1 stealth is when you blow YOURSELF up in the lobby and then try to\nsneak upstairs under the theory that everyone will be trying to put\nthe trashcan back together.\n\n-1 intercept is when you're so stoned you can't even identify who YOU\nare, much less who the guy walking past you to the stairs is, and was\nthat a loud boom somewhere near? Trippy.\n\nBetter? =) So Fleshcraft giving -2 stealth seems a lot more\nmeaningful now; everyone notices the guy with his ears tied in a knot\nand his lips hanging down to his chest. And Brujah having -1\nintercept against Miranda is reasonable too; perhaps she's just the\n\"trustworthy one\", or that one person everyone knows who you just KNOW\nwould never do anything bad and couldn't conceive of it. But people\nwho don't know her (ie not other Brujah) just see her as one more of\nthose Damn Troublemakers and so don't lose intercept.\n\n-- Derek\n(replying by email? remove the nospam from my domain :)"
+    }
+  ]
+}

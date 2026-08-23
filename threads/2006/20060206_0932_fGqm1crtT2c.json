@@ -1,0 +1,32 @@
+{
+  "ThreadId": "fGqm1crtT2c",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/fGqm1crtT2c",
+  "Title": "Rotschreck and Concealed Weapon/Pack Alpha",
+  "Messages": [
+    {
+      "Author": "Kevin Walsh",
+      "Date": "Feb 6, 2006, 9:32:13\u202FAM",
+      "Body": "Suppose Celeste Lamontagne is blocked by Basilia, and plays Pack Alpha\nat basic to bring out an Owl Companion. Can Basilia's player play a\nRotschreck to pre-empt the Owl Companion, having seen the Pack Alpha? I\nhave the same question for Concealed Weapon and, say, .44 Magnum.\n\nKevin Walsh"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Feb 6, 2006, 10:28:06\u202FAM",
+      "Body": "In message <1139214733.5...@g43g2000cwa.googlegroups.com>,\n\uE5D3\n\nThere are two separate points here.\n\nFirst of all, the general point of what happens when you play a card.\nWhen you play a card, it resolves. That's it. Play, resolve. Then the\nnext card, play, resolve. V:TES doesn't have the concept of an\ninterrupt stack or whatever that Magic had. The obvious exceptions to\nthis are action cards and strikes (which have clearly delayed\nresolution), and card cancellation (Sudden Reversal, DI etc.) But on a\nPuppy in your Pants (where you find an Owl shaped puppy), it's play,\nresolve, then the next card.\n\nDitto, Concealed Weapon.\n\nTo get in the way of play, resolve you need specific timing granted by\ncard text - such as the \"as it is played\" found on Sudden Reversal.\n\nHowever, the second point is that I think you've mistaken how Rotschreck\nworks.\n\n# Can only be played when a minion attempts to make a strike to\ninflict aggravated damage against the opposing vampire. [RTR\n20041202]\n\nBoth Puppy in your Pants and Concealed Weapon are played before range is\ndetermined.\n\n\"[ani] Employ an animal retainer from your hand before range is\ndetermined. Pay cost as normal.\"\n\n\"Equip this minion with a non-unique weapon card from your hand\nat the beginning of a round.\"\n\nAs a result, Rotschreck has nothing to be played on - Basilia has not\nattempted to strike since you're before range.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "rdco...@gmail.com",
+      "Date": "Feb 6, 2006, 10:40:17\u202FAM",
+      "Body": "Kevin Walsh wrote:\n> Suppose Celeste Lamontagne is blocked by Basilia, and plays Pack Alpha\n> at basic to bring out an Owl Companion.\n\n>Can Basilia's player play a Rotschreck to pre-empt the Owl Companion,\n> having seen the Pack Alpha?\n\nNope: Rotschreck is played in response to an attempted strike, Pack\nAlpha (basic) is played before range is determined; implying no strikes\ncan have been attempted yet. (not even maneuvers that set strikes for\nlater can have been used yet) So the Owl player will see the Rotschreck\ncoming, but if basillia can stay close there's not much they can do\nabout it.\n\n> I have the same question for Concealed Weapon and, say, .44 Magnum.\n\nConcealed weapon is played at the beginning of the round, and so should\nhave been played previous to the opportunity to play pack alpha. You\ndon't have to wait for the acting minion to state their first desired\neffect in this case: just (as soon as combat begins) state \"I have\nsomething to do at beginning of round, how about you?\" and then you get\nthe magnum before they get to pack alpha (and they may well not bother,\nconsidering you can gun the owl down now...) This is the same as if you\nblock someone who just wants to Majesty and you need to use Torn\nSignpost and Immortal Grapple; you just call out the earliest point at\nwhich you need to do something, and check if they need to, or need to\ngo earlier. At any point where either player does something, the acting\nplayer goes first.\n\n>\n> Kevin Walsh"
+    },
+    {
+      "Author": "el_serpiente",
+      "Date": "Feb 6, 2006, 1:06:44\u202FPM",
+      "Body": "rdco...@gmail.com skrev:\n\n\uE5D3\n\nI have a further question:\n\nWhat is the differens between 'beginning of the round' and 'before\nrange is determined'\nIs there more than one 'phase' before the range determine phase?\n\n\\Jacob"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 6, 2006, 2:08:19\u202FPM",
+      "Body": "el_serpiente wrote:\n> What is the differens between 'beginning of the round' and 'before\n> range is determined'\n\nNone.\n\n> Is there more than one 'phase' before the range determine phase?\n\nNo."
+    }
+  ]
+}

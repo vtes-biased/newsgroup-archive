@@ -1,0 +1,97 @@
+{
+  "ThreadId": "8pVaGxWYeyA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/8pVaGxWYeyA",
+  "Title": "LSJ: Protected resources/Spying mission",
+  "Messages": [
+    {
+      "Author": "wolflord",
+      "Date": "Jun 30, 2003, 9:54:05\u202FAM",
+      "Body": "Hi there,\nThere have been so many questions/posts about similar situations, but\nwe just couldn't find any that includes an answer to this one (and as\nit came up during a tournament last WE):\n\nYou have Protected resources in play.\nYou attempt to bleed.\nIt works (succesfull bleed)\nYou play Spying Mission (rendering your bleed unsuccesfull,not gaining\nthe edge etc).\n\nDoes Protected Resources constantly check for succesfull bleeding, or\nnot?\nIn other words, does it burn during the small time window in which\nyour succesfull bleeding allows you to play Spying Mission, or does it\nonly check at the resolution, ie bleed for 0= unsuccesfull, hence\nstaying in play?\n\nWe had so many decent reasons pro and contra both options, so I really\ncouldn't say which one seems most logical anymore..\n\nThanks in advance\nGreetz\nJo"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 30, 2003, 1:48:52\u202FPM",
+      "Body": "wolflord wrote:\n> Hi there,\n> There have been so many questions/posts about similar situations, but\n> we just couldn't find any that includes an answer to this one (and as\n> it came up during a tournament last WE):\n>\n> You have Protected resources in play.\n> You attempt to bleed.\n> It works (succesfull bleed)\n> You play Spying Mission (rendering your bleed unsuccesfull,not gaining\n> the edge etc).\n>\n>\n> Does Protected Resources constantly check for succesfull bleeding, or\n> not?\n\n> In other words, does it burn during the small time window in which\n> your succesfull bleeding allows you to play Spying Mission, or does it\n> only check at the resolution, ie bleed for 0= unsuccesfull, hence\n> staying in play?\n\nThe bleed was not successful => your minion did not successfully bleed =>\nthe Protected Resources doesn't burn itself.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "salem",
+      "Date": "Jun 30, 2003, 2:28:45\u202FPM",
+      "Body": "On Mon, 30 Jun 2003 07:48:52 -0400, LSJ <vte...@white-wolf.com>\nscrawled:\n\n>wolflord wrote:\n>> Hi there,\n>> There have been so many questions/posts about similar situations, but\n>> we just couldn't find any that includes an answer to this one (and as\n>> it came up during a tournament last WE):\n>>\n>> You have Protected resources in play.\n>> You attempt to bleed.\n>> It works (succesfull bleed)\n>> You play Spying Mission (rendering your bleed unsuccesfull,not gaining\n>> the edge etc).\n>>\n>> Does Protected Resources constantly check for succesfull bleeding, or\n>> not?\n>\n>> In other words, does it burn during the small time window in which\n>> your succesfull bleeding allows you to play Spying Mission, or does it\n>> only check at the resolution, ie bleed for 0= unsuccesfull, hence\n>> staying in play?\n>\n>The bleed was not successful => your minion did not successfully bleed =>\n>the Protected Resources doesn't burn itself.\n\nbut....the bleed was successful, otherwise you could not have played\nSpying Mission:\n\nSpying Mission [Jyhad:U, VTES:U, CE:PM5/PN3]\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] This acting vampire gets +1 stealth.\n[OBF] ****Only usable when a bleed is successful.**** Instead of\nremoving pool from the Methuselah you're bleeding, put this card on\nthe acting vampire. The next time this vampire successfully bleeds the\nsame Methuselah, burn this card for +2 bleed.\n\nemphasis added by me.\n\nthen, when you play SM, it sort of 'undoes' the success of the\nbleed...?\n\nsalem\ndomain:canberra http://www.geocities.com/salem_christ.geo/vtes.htm"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jun 30, 2003, 2:39:56\u202FPM",
+      "Body": "In message <83b0gvgb4taj56s9b...@4ax.com>, salem\n\n<salem_ch...@yahoo.com> writes:\n>then, when you play SM, it sort of 'undoes' the success of the\n>bleed...?\n\nThe current interpretation of SM is closer to:\n\n\"Play when a bleed would otherwise be successful.\"\n\nSo far as I can tell, anyway.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D\nLucky that my breasts are small and humble, EBD690ECD7A1FB457CA2\nSo you don't confuse them with mountains. 13D7E668C3695D623D5D"
+    },
+    {
+      "Author": "Oortje4ever",
+      "Date": "Jul 1, 2003, 2:56:43\u202FPM",
+      "Body": "Rule book:\nTo bleed a Methuselah, announce the action and tap the acting minion\n(the minion who is taking the bleed action). If the action is\nsuccessful, the target Methuselah burns an amount of pool equal to the\nbleed amount. By default, all minions have a bleed amount of one (most\nallies have card text that overrides the default). Additionally, if\nthe action succeeds and the bleed amount is one or more, then the\nbleed is successful and the controller of the acting minion gets the\nEdge, taking it from the Methuselah who has it.\n\nSpying Mission [Jyhad:U, VTES:U, CE:PM5/PN3]\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] This acting vampire gets +1 stealth.\n[OBF] ****Only usable when a bleed is successful.**** Instead of\nremoving pool from the Methuselah you're bleeding, put this card on\nthe acting vampire. The next time this vampire successfully bleeds the\nsame Methuselah, burn this card for +2 bleed.\n\nIt seems the spying mission is played at the end of the action. Doing\na replacement affect for the pool loss.\nSo in my interpetation the bleed is still succesfull (you even get the\nedge) but the is no pool lost. So I think you lose the protected\nrecourses.\n\nHave fun playing\nOortje"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 1, 2003, 3:03:01\u202FPM",
+      "Body": "Oortje4ever wrote:\n> Rule book:\n\n> if the action succeeds and the bleed amount is one or more, then the\n> bleed is successful and the controller of the acting minion gets the\n> Edge\n\n> It seems the spying mission is played at the end of the action. Doing\n\n> a replacement affect for the pool loss.\n> So in my interpetation the bleed is still succesfull (you even get the\n> edge) but the is no pool lost. So I think you lose the protected\n> recourses.\n\nThe bleed amount is not one or more. The bleed is not successful. You do\nnot get the Edge. You don't lose the Protected Resources.\n\n\uE5D3"
+    },
+    {
+      "Author": "Oortje4ever",
+      "Date": "Jul 1, 2003, 11:22:02\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote in message news:<3F018685...@white-wolf.com>...\n\n> Oortje4ever wrote:\n> > Rule book:\n> > if the action succeeds and the bleed amount is one or more, then the\n> > bleed is successful and the controller of the acting minion gets the\n> > Edge\n>\n> > It seems the spying mission is played at the end of the action. Doing\n> > a replacement affect for the pool loss.\n> > So in my interpetation the bleed is still succesfull (you even get the\n> > edge) but the is no pool lost. So I think you lose the protected\n> > recourses.\n>\n> The bleed amount is not one or more. The bleed is not successful. You do\n> not get the Edge. You don't lose the Protected Resources.\n\nso you play it when nobody attempts to block or when attempts to block fail?\nDo I have to give my opponent an opertunaty to redirect or reduce the bleed?\n\nOortje"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 1, 2003, 11:52:49\u202FPM",
+      "Body": "Oortje4ever wrote:\n> so you play it when nobody attempts to block or when attempts to block fail?\n\nYes. You play it when the bleed would be successful.\n\n> Do I have to give my opponent an opertunaty to redirect or reduce the bleed?\n\nYes. You play it when the bleed would be successful.\n\n\uE5D3"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jul 2, 2003, 12:16:40\u202FAM",
+      "Body": "In message <fd5a4c98.03070...@posting.google.com>,\n\nOortje4ever <oortj...@hotmail.com> writes:\n>so you play it when nobody attempts to block or when attempts to block fail?\n\nWhen attempts to block fail. (Assuming any were there. e.g. Horrific\nCountenance.)\n\n>Do I have to give my opponent an opertunaty to redirect or reduce the bleed?\n\nYes.\n\nIt's played when it would be successful, except you stop it being\nsuccessful.\n\n\uE5D3"
+    },
+    {
+      "Author": "Ulugh Beg",
+      "Date": "Jul 2, 2003, 2:19:31\u202FAM",
+      "Body": "Bleed bounces do require a succesfull bleed right?\n\nSo I can't use Deflect a bleed of 0?\n\nCorrect?"
+    },
+    {
+      "Author": "salem",
+      "Date": "Jul 2, 2003, 5:10:01\u202FAM",
+      "Body": "On Wed, 2 Jul 2003 02:19:31 +0200, \"Ulugh Beg\" <dontfe...@spam.me>\nscrawled:\n\n>Bleed bounces do require a succesfull bleed right?\n>\n>So I can't use Deflect a bleed of 0?\n>\n>Correct?\n\nyou don't know if it's successful or not until it's\nresolving/resolved.\n\nYou can deflect a bleed of 0, or less, if you want.\nYou can deflect before or after block attempts.\n\nHOWEVER, once it _is_ a successful bleed (resolving/resolved), it's\ntoo late to deflect.\n\n\uE5D3"
+    },
+    {
+      "Author": "Ulugh Beg",
+      "Date": "Jul 2, 2003, 1:36:43\u202FPM",
+      "Body": "> you don't know if it's successful or not until it's\n> resolving/resolved.\n>\n> You can deflect a bleed of 0, or less, if you want.\n> You can deflect before or after block attempts.\n>\n> HOWEVER, once it _is_ a successful bleed (resolving/resolved), it's\n> too late to deflect.\n\nPffft. The timing keeps on confusing me.\n\n\"I bleed for one\"\n\"k sure, fine with me, I don't block\"\n\"Oh, then I'll play Conditioning, not it's a bleed for 4\"\n\"Crap, I'll deflect\"\n\nThat's legal right?\n\nNow this:\n\n\"I bleed for one\"\n\"k sure, fine with me, I don't block\"\n\"Good, well, I play Spying Mission\"\n\"Hmm, I deflect in that case\"\n\nI suppose I can't do that? I don't lose the Protected resources after\nplaying Spying Mission and I don't get the edge, because the bleed is\nnot succesful. But I can only play Spying Mission on a successful\nbleed... euh?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 2, 2003, 1:51:54\u202FPM",
+      "Body": "Ulugh Beg wrote:\n>>you don't know if it's successful or not until it's\n>>resolving/resolved.\n>>\n>>You can deflect a bleed of 0, or less, if you want.\n>>You can deflect before or after block attempts.\n>>\n>>HOWEVER, once it _is_ a successful bleed (resolving/resolved), it's\n>>too late to deflect.\n>\n>\n> Pffft. The timing keeps on confusing me.\n>\n> \"I bleed for one\"\n> \"k sure, fine with me, I don't block\"\n> \"Oh, then I'll play Conditioning, not it's a bleed for 4\"\n> \"Crap, I'll deflect\"\n>\n> That's legal right?\n\nYes.\n\n> Now this:\n>\n> \"I bleed for one\"\n> \"k sure, fine with me, I don't block\"\n\n\"OK. I don't boost\".\n\"OK. I don't bounce or reduce.\"\n\n> \"Good, well, I play Spying Mission\"\n> \"Hmm, I deflect in that case\"\n>\n> I suppose I can't do that?\n\nCorrect.\n\n> I don't lose the Protected resources after\n> playing Spying Mission and I don't get the edge, because the bleed is\n> not succesful. But I can only play Spying Mission on a successful\n> bleed... euh?\n\n... on a bleed that would've been successful. SM keeps it from being\nsuccessful.\n\n\uE5D3"
+    },
+    {
+      "Author": "Ulugh Beg",
+      "Date": "Jul 2, 2003, 5:54:24\u202FPM",
+      "Body": "> \"OK. I don't boost\".\n> \"OK. I don't bounce or reduce.\"\n\nSo, if I declare I won't bounce or reduce, you can't increase a bleed\nanymore?\n\nHow about Walk of Caine, which specifies you can use it at ANY time\nduring the bleed.\n\nIs that meant as a way around this, or more another way of saying that\nit an action at san and an action modifier at SAN?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 2, 2003, 6:07:18\u202FPM",
+      "Body": "Ulugh Beg wrote:\n>>\"OK. I don't boost\".\n>>\"OK. I don't bounce or reduce.\"\n>\n> So, if I declare I won't bounce or reduce, you can't increase a bleed\n> anymore?\n\nYou only get the chance to declare \"no more effects\" after the acting\nplay has done so. See 1.6.1.6.\n\n> How about Walk of Caine, which specifies you can use it at ANY time\n> during the bleed.\n\nThe same. You can't get into a \"No, you go first\" infinite loop.\n\n> Is that meant as a way around this, or more another way of saying that\n> it an action at san and an action modifier at SAN?\n\nIt is no way around this, no.\n\n\uE5D3"
+    },
+    {
+      "Author": "Ulugh Beg",
+      "Date": "Jul 2, 2003, 7:47:56\u202FPM",
+      "Body": "> You only get the chance to declare \"no more effects\" after the acting\n> play has done so. See 1.6.1.6.\n\n\"I bleed for one.\"\n\"I'm not gonna block\"\n\"k. I'll play Command of the Beast at superior. it's now a bleed for 2\"\n\"Hmm, shit, I'm gonna have to take that. No more modifiers?\"\n\"Nope\"\n\"k, I can't redirect either, so I lose two pool\"\n\"Wait wait, I also want to play Conditoning, so it's 5 pool\"\n\nIs illegal because of the fifth line (declining any more mods).\n\nIs it also true that you can never increase a bleed without the target\nhaving the chance to deflect it after the last modifier?"
+    },
+    {
+      "Author": "Curevei",
+      "Date": "Jul 2, 2003, 8:36:19\u202FPM",
+      "Body": "\uE5D3\n\nI find the easiest way to explain Spying Mission is that it has it's own\nseparate timing window that happens after all normal action modifiers and\nreactions for the action. All the bleed pumps, reductions, redirections have\nto be done before Spying Mission is played or [existing ones are] burnt.\n\nThat it's used in a separate timing window causes the complication/confusion.\n\nAs for effects in the same timing window as Spying Mission, as I recall Major\nBoon which only changes who takes the loss and, off the top of my head, nothing\nelse comes to mind though I'm sure LSJ will note anything else."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 2, 2003, 9:25:50\u202FPM",
+      "Body": "Ulugh Beg wrote:\n>>You only get the chance to declare \"no more effects\" after the acting\n>>play has done so. See 1.6.1.6.\n>\n>\n>\n> \"I bleed for one.\"\n> \"I'm not gonna block\"\n> \"k. I'll play Command of the Beast at superior. it's now a bleed for 2\"\n> \"Hmm, shit, I'm gonna have to take that. No more modifiers?\"\n> \"Nope\"\n> \"k, I can't redirect either, so I lose two pool\"\n> \"Wait wait, I also want to play Conditoning, so it's 5 pool\"\n>\n> Is illegal because of the fifth line (declining any more mods).\n\nCorrect. No more mods is no more mods.\n\n> Is it also true that you can never increase a bleed without the target\n> having the chance to deflect it after the last modifier?\n\nYes, per 1.6.1.6.\n\n\uE5D3"
+    }
+  ]
+}

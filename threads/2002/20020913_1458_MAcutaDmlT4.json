@@ -1,0 +1,17 @@
+{
+  "ThreadId": "MAcutaDmlT4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/MAcutaDmlT4",
+  "Title": "Disease (LSJ)",
+  "Messages": [
+    {
+      "Author": "Daz",
+      "Date": "Sep 13, 2002, 2:58:15\u202FPM",
+      "Body": "I did a search for Disease on google and this was what I found:\n\n\"Disease reduces the minion's hand damage by 2.\n(Typically leaving a vampire with -1 hand damage).\n\nSuperior Buring Wrath adds two damage to the minion's hand damage,\nand this added damage is aggravated.\n\nSo, that's a total of 1 damage, of which the last 2 are aggravated.\n\nI see the problem now.\n\nBut, stated as above, it seems clear that this situation yields a\nstrike that does 1 aggravated damage.\n\nSo let it be so, until the RT says otherwise (*).\n\n(An inferior BW used by a vampire who is the victim of a superior\nDisease would result in zero damage.)\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team\"\n\nIs this correct? Does a minion with -1 strength have to strike for at\nleast strength+2 to do damage?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 13, 2002, 3:09:29\u202FPM",
+      "Body": "Daz wrote:\n> Does a minion with -1 strength have to strike for at\n> least strength+2 to do damage?\n\nIf he wishes to strike with a strike that does damage based on strength, yes.\nIf integer X is less than 2, then -1 + X <= 0\n\nHe is free to use a Saturday Night Special to do damage, for instance, though.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

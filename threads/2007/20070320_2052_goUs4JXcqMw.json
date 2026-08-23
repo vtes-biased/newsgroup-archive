@@ -1,0 +1,42 @@
+{
+  "ThreadId": "goUs4JXcqMw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/goUs4JXcqMw",
+  "Title": "Visit from Hagar Stone",
+  "Messages": [
+    {
+      "Author": "Jozxyqk",
+      "Date": "Mar 20, 2007, 8:52:41\u202FPM",
+      "Body": "\"While Hagar is untapped, do not replace cards you play on your turn until\nHagar taps or your turn ends.\"\n\nDoes Hagar's text override other \"Do Not Replace\" clauses on cards?\n(similarly to the pre-third-edition wording of Visit from the Capuchin)\n\nThat is, if I play Dragonbound while Hagar is untapped, can I replace it\nwhen my turn ends (effectively immediately)?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 20, 2007, 9:00:26\u202FPM",
+      "Body": "Jozxyqk wrote:\n> \"While Hagar is untapped, do not replace cards you play on your turn until\n> Hagar taps or your turn ends.\"\n>\n> Does Hagar's text override other \"Do Not Replace\" clauses on cards?\n\nNo. Multiple DNR clauses stack (so that the longest one wins out).\n\n> That is, if I play Dragonbound while Hagar is untapped, can I replace it\n> when my turn ends (effectively immediately)?\n\nNo."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Mar 20, 2007, 10:36:26\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n> Jozxyqk wrote:\n> > \"While Hagar is untapped, do not replace cards you play on your turn until\n> > Hagar taps or your turn ends.\"\n> >\n> > Does Hagar's text override other \"Do Not Replace\" clauses on cards?\n\n> No. Multiple DNR clauses stack (so that the longest one wins out).\n\nOK, but how is \"on your turn\" defined? Does it mean on *this* turn, or does it\nmean if a card was ever played on my turn?\n\nI play Blood Weakens. \"Do not replace until a vampire commits diablerie.\"\n\nNo vampire commits diablerie before my next turn, and Hagar is never tapped\nbefore my next turn.\nOn my next turn, one of my vampires commits diablerie, while Hagar is still\nuntapped.\nIt is my turn, and a card I played on my (previous) turn is about to be\nReplaced.\nDo I replace it now, or do I have to wait until Hagar's conditions are met?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 21, 2007, 3:07:30\u202FAM",
+      "Body": "Jozxyqk wrote:\n> LSJ <vte...@white-wolf.com> wrote:\n>> Jozxyqk wrote:\n>>> \"While Hagar is untapped, do not replace cards you play on your turn until\n>>> Hagar taps or your turn ends.\"\n>>>\n>>> Does Hagar's text override other \"Do Not Replace\" clauses on cards?\n>\n>> No. Multiple DNR clauses stack (so that the longest one wins out).\n>\n> OK, but how is \"on your turn\" defined?\n\nBy English definition of \"your\" and by the game definition of \"turn\" (which is\nvery similar to one of the English meanings of \"turn\").\n\n> Does it mean on *this* turn, or does it\n\nIf *this* turn is *your* turn, yes.\nIf *this* turn is not *your* turn, no.\n\nThat is, *your* turn means *your* turn.\n\n> mean if a card was ever played on my turn?\n\nI have not idea what this question is asking.\nBut is suspect the answer is: card text.\n\n> I play Blood Weakens. \"Do not replace until a vampire commits diablerie.\"\n\n... on *your* turn (in *your* discard phase to be exact).\n\nAt the end of *your* turn, Hagar's restriction (assuming it applied at all --\nthat is, assuming Hagar is untapped) expires, leaving only the Blood Weakens's\nown restriction.\n\n> No vampire commits diablerie before my next turn, and Hagar is never tapped\n> before my next turn.\n> On my next turn, one of my vampires commits diablerie, while Hagar is still\n> untapped.\n> It is my turn, and a card I played on my (previous) turn is about to be\n> Replaced.\n> Do I replace it now, or do I have to wait until Hagar's conditions are met?\n\nYou replace it. Card text."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Mar 21, 2007, 4:07:06\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n> > mean if a card was ever played on my turn?\n\n> I have not idea what this question is asking.\n> But is suspect the answer is: card text.\n\nThe question is asking:\nDoes Hagar care if the card was played:\n* during this turn, which happens to be your turn?\nor\n* during any of your turns, but hasn't been replaced yet due to some\nmulti-turn restriction (and it happens to be your turn again when the\nreplacement would occur)?\n\nObviously, from the rest of your answer, the answer is the first one."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Mar 21, 2007, 9:43:20\u202FAM",
+      "Body": "Since there's nothing concerning cards that would go out of your hand\nwithout being played, is it correct to assume that a weapon put in\nplay via Concealed Weapon / Disguised Weapon; or a card put on Storage\nAnnex are immediately replaced, independetly of wether Hagar is tapped\nor not ?"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Mar 21, 2007, 10:21:02\u202FAM",
+      "Body": "In message <1174466600....@n59g2000hsh.googlegroups.com>,\n\uE5D3\n\nThat's safe to assume.\n\n\"While Hagar is untapped, do not replace cards you play on your turn\nuntil Hagar taps or your turn ends.\"\n\n\"play\" means \"play in the normal fashion\", and cards like the equipment\nfor a Disguised Weapon aren't played in the normal fashion.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    }
+  ]
+}

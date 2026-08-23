@@ -1,0 +1,37 @@
+{
+  "ThreadId": "-NS3kx_te6A",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-NS3kx_te6A",
+  "Title": "Last stand and simultaneous ousting",
+  "Messages": [
+    {
+      "Author": "kamel...@yvelines.pref.gouv.fr",
+      "Date": "Aug 8, 2005, 4:40:48\u202FPM",
+      "Body": "I have made some research and find no answer to that question (perhaps,\nI have made a mistake..).\nWhat happens if two players are ousted in the same time, and last stand\nis in play, under the control of one of the remaining player.\nThe two ousted players are not prey-predator.\nWhat \"predator\" get the new turn ?\nThanx."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 8, 2005, 4:47:08\u202FPM",
+      "Body": "\uE5D3\n\nThe predator whose turn would have come first in the standard order\n(clockwise).\n\nCard text: if more than one was ousted, go clockwise from the left of\nthe Methuselah whose turn just ended."
+    },
+    {
+      "Author": "kamel...@yvelines.pref.gouv.fr",
+      "Date": "Aug 8, 2005, 5:10:51\u202FPM",
+      "Body": "Put this card in play. When any other Methuselah is ousted, the current\nturn ends, and this card is burned. The predator of the ousted\nMethuselah (if more than one was ousted, go clockwise from the left of\nthe Methuselah whose turn just ended) takes the next turn.\n\nThe \"go clockwise\" doesn't apply fo the \"research\" of the\n\"primary\"ousted methuselah ? But for searching for the predator of one\nof the ousted methuselah ?\nSorry to insist...\nThanx for your fast answers."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 8, 2005, 7:32:09\u202FPM",
+      "Body": "kamel...@yvelines.pref.gouv.fr wrote:\n> Put this card in play. When any other Methuselah is ousted, the current\n> turn ends, and this card is burned. The predator of the ousted\n> Methuselah (if more than one was ousted, go clockwise from the left of\n> the Methuselah whose turn just ended) takes the next turn.\n>\n> The \"go clockwise\" doesn't apply fo the \"research\" of the\n> \"primary\"ousted methuselah ?\n\nCorrect.\n\n> But for searching for the predator of one\n> of the ousted methuselah ?\n\nCorrect.\n\nThe predator whose turn would have come first in the standard order\n\n(clockwise) among the predators of the ousted Methuselahs takes the\nnext turn.\n\nA-B-C-D-E seated clockwise.\n\nA's turn. Last Stand in play (controlled by someone not ousted in each\nof the scenarios below)\n\nA,B ousted => E's turn\nA,C ousted => B's turn\nA,D ousted => C's turn\nA,E ousted => D's turn\nB,C ousted => A's turn\nB,D ousted => C's turn\nB,E ousted => D's turn\nC,D ousted => B's turn\nC,E ousted => B's turn\nD,E ousted => C's turn\nA,B,C ousted => E's turn\nA,B,D ousted => C's turn\nA,B,E ousted => D's turn\nA,C,D ousted => B's turn\nA,C,E ousted => B's turn\nA,D,E ousted => C's turn\nB,C,D ousted => A's turn\nB,C,E ousted => D's turn\nB,D,E ousted => C's turn\nC,D,E ousted => B's turn"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Aug 9, 2005, 9:45:13\u202FAM",
+      "Body": "LSJ wrote:\n> kamel...@yvelines.pref.gouv.fr wrote:\n> > Put this card in play. When any other Methuselah is ousted, the current\n> > turn ends, and this card is burned. The predator of the ousted\n> > Methuselah (if more than one was ousted, go clockwise from the left of\n> > the Methuselah whose turn just ended) takes the next turn.\n> >\n> > The \"go clockwise\" doesn't apply fo the \"research\" of the\n> > \"primary\"ousted methuselah ?\n>\n> Correct.\n>\n> > But for searching for the predator of one\n> > of the ousted methuselah ?\n>\n> Correct.\n>\n> The predator whose turn would have come first in the standard order\n> (clockwise) among the predators of the ousted Methuselahs takes the\n> next turn.\n>\n> A-B-C-D-E seated clockwise.\n>\n> A's turn. Last Stand in play (controlled by someone not ousted in each\n> of the scenarios below)\n\n(snip)\n\n> B,D ousted => C's turn\n\n(snip)\n\n??? i thought the phrasing was such as if i am A and i play last stand,\nif i manage to oust B i play again regardless of ousting other people\nat the same time (means i go seeing the first ousted clockwise find B\n--> i play)\nYour ruling makes it that not only I have to oust my prey (and possibly\nmy prey's prey) but be careful not to oust anyone crosstable. For 6\npool this card is even more cornercase i thought....\n\nAndrea"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Aug 9, 2005, 10:05:50\u202FAM",
+      "Body": "andrea.la.ma...@infinito.it wrote:\n\n>\n> ??? i thought the phrasing was such as if i am A and i play last stand,\n> if i manage to oust B i play again regardless of ousting other people\n> at the same time (means i go seeing the first ousted clockwise find B\n> --> i play)\n> Your ruling makes it that not only I have to oust my prey (and possibly\n> my prey's prey) but be careful not to oust anyone crosstable. For 6\n> pool this card is even more cornercase i thought....\n>\n> Andrea\n\nThen again....\nwhile pressing the post button i realized it makes perfect sense, we\ndon't want action (a krc for example) to mess too much with table\ndynamics....ousting someone not in your direct interest makes me end\nturn and pass....\n\nSorry for the bandthwidth\n\nAndrea"
+    }
+  ]
+}

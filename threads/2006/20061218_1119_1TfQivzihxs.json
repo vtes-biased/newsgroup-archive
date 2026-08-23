@@ -1,0 +1,42 @@
+{
+  "ThreadId": "1TfQivzihxs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1TfQivzihxs",
+  "Title": "LSJ: Forced Awakening and Deflection",
+  "Messages": [
+    {
+      "Author": "Alf",
+      "Date": "Dec 18, 2006, 11:19:04\u202FAM",
+      "Body": "A search using \"forced deflection author:lsj\"\nrevealed the following ruling:\n\n> In article <90r0c4$ld...@nnrp1.deja.com>,\n>\n> afterhour...@my-deja.com wrote:\n>> so, I have a vampire with 1 blood on it, my predator bleeds me...\n>> Can I play Forced Awakening and then Deflection. Since I didn't\n>> block I have to pay an additional blood (due to Forced A.) , but\n>> the deflection goes first, so since Forced says ...burn an\n>> additional blood... that the vampire doesn't have , is my\n>> combination still legal ?\n\n> Yes.\n>\n>--\n>LSJ (vtes...@white-wolf.com) VTES Net.Rep for White Wolf, Inc.\n>Links to revised rulebook, rulings, errata, and tournament rules:\n>http://www.white-wolf.com/vtes/\n\nMy question:\nIf the play of deflection implies a no-block-declaration,\nshouldn't I have to FIRST burn a blood for not successfuly blocking\nand THEN I can't afford to play the Deflection?\nAs I can't jump phases in VTES the no block should still\nbe resolved first, before the play of the next card. Shouldn't it?\n\nThanks in advance.\n\nAlf"
+    },
+    {
+      "Author": "Jeroen Rombouts",
+      "Date": "Dec 18, 2006, 11:47:40\u202FAM",
+      "Body": "\"Alf\" <tree.beard.D...@gmx.de> schreef in bericht\nnews:1166437144....@l12g2000cwl.googlegroups.com...\n\uE5D3\n\nYou only have to pay for the Forced awakening when the bleed resolves, IIRC.\nIn case the bleed is bounced back to you, the vamp who played the forced\nawakening can still block."
+    },
+    {
+      "Author": "jeff...@gmail.com",
+      "Date": "Dec 18, 2006, 8:35:56\u202FPM",
+      "Body": "\uE5D3\n\nThe first part of the question asked whether \"play of Deflection\nimplies a no-block-declaration\" and that wasn't really answered so\nmuch.\n\nThe way I see it is that you aren't actually \"passing on blocking\nattempts\" but rather *cannot* attempt to block any more *at this time*\ndue to lack of intercept or valid blockers. For example, if the bleed\ngets bounced back to you somehow, a kind-hearted, yet self-interested\nMeth might then lend you intercept from a location, to prevent you from\nbeing ousted by said bleed, *after* you showed your bounce.\n\nJeff"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 18, 2006, 8:51:27\u202FPM",
+      "Body": "jeff...@gmail.com wrote:\n> LSJ wrote:\n>> Jeroen Rombouts wrote:\n>>> \"Alf\" <tree.beard.D...@gmx.de> schreef in bericht\n\n>>>> My question:\n>>>> If the play of deflection implies a no-block-declaration,\n>>>> shouldn't I have to FIRST burn a blood for not successfuly blocking\n>>>> and THEN I can't afford to play the Deflection?\n>>>> As I can't jump phases in VTES the no block should still\n>>>> be resolved first, before the play of the next card. Shouldn't it?\n>>>>\n>>>> Thanks in advance.\n>>> You only have to pay for the Forced awakening when the bleed resolves, IIRC.\n>>> In case the bleed is bounced back to you, the vamp who played the forced\n>>> awakening can still block.\n>> Correct.\n>\n> The first part of the question asked whether \"play of Deflection\n> implies a no-block-declaration\" and that wasn't really answered so\n> much.\n\nMore precisely, the first part states the assumption that X is true, which is\nreasonable given the amount of typing \"X is true\" that has gone on lately\nregarding that exact ruling.\n\nAs the statement of the assumption is not a question in itself, it needs no answer.\n\n> The way I see it is that you aren't actually \"passing on blocking\n> attempts\" but rather *cannot* attempt to block any more *at this time*\n> due to lack of intercept or valid blockers.\n\nMore precisely, you are declining to block (\"passing on blocking attempts\")\nbefore you play Deflection.\n\n> For example, if the bleed\n> gets bounced back to you somehow, a kind-hearted, yet self-interested\n> Meth might then lend you intercept from a location, to prevent you from\n> being ousted by said bleed, *after* you showed your bounce.\n\nCorrect, since changing the target opens a new block window."
+    },
+    {
+      "Author": "Daneel",
+      "Date": "Dec 23, 2006, 4:47:32\u202FPM",
+      "Body": "On Mon, 18 Dec 2006 14:51:27 -0500, LSJ <vte...@white-wolf.com> wrote:\n\n>> The way I see it is that you aren't actually \"passing on blocking\n>> attempts\" but rather *cannot* attempt to block any more *at this time*\n>> due to lack of intercept or valid blockers.\n>\n> More precisely, you are declining to block (\"passing on blocking\n> attempts\") before you play Deflection.\n>\n>> For example, if the bleed\n>> gets bounced back to you somehow, a kind-hearted, yet self-interested\n>> Meth might then lend you intercept from a location, to prevent you from\n>> being ousted by said bleed, *after* you showed your bounce.\n>\n> Correct, since changing the target opens a new block window.\n\n1. Can an acting methuselah somehow pass the opportunity to play reaction\neffects before announcing the \"blocking window\"?\n\n2. If the Deflection is cancelled via cross-table DI, for example, then no\nnew block attempts are possible by the target of the bleed (target wasn't\nsuccessfully changed), right?\n\n--\nRegards,\n\nDaneel"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 23, 2006, 11:03:52\u202FPM",
+      "Body": "Daneel wrote:\n> 1. Can an acting methuselah somehow pass the opportunity to play reaction\n> effects before announcing the \"blocking window\"?\n\nThe acting Methuselah doesn't play reactions.\n\nThe blocking window comes as soon as the action is announced (after playing all\n\"as announced\" effects).\n\nThe defending Methuselah may play reactions that are playable before blocks\nbefore the blocking attempts, sure. See Car Bomb for example.\n\n> 2. If the Deflection is cancelled via cross-table DI, for example, then no\n> new block attempts are possible by the target of the bleed (target wasn't\n> successfully changed), right?\n\nCorrect. That's the only way this whole thing matters."
+    },
+    {
+      "Author": "Daneel",
+      "Date": "Dec 24, 2006, 3:13:45\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\nThanks for the clear answers!\n\n--\nRegards,\n\nDaneel"
+    }
+  ]
+}

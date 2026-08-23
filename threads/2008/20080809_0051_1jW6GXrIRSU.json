@@ -1,0 +1,177 @@
+{
+  "ThreadId": "1jW6GXrIRSU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1jW6GXrIRSU",
+  "Title": "Rules Team Rulings 08-AUG-08",
+  "Messages": [
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 12:51:30\u202FAM",
+      "Body": "As always, changes contained herein do not go into effect for santioned\ntournaments for 30 days. (So these become active on September 07, 2008.)\n\nErrata:\n-------\n\nLesser Boon is played when the block would succeed, and instead makes the action\nresolve as if unblocked. (And so effects that depend on the successful block\ndon't see the block as successful -- Forced Awakening, Change of Target,\nVenenation, &c.)\n\nErrata:\n-------\n\nIf a unique weapon is retrieved by Horrid Reality, it won't contest any other\ncopies of that equipment in play.\n\nReversal:\n---------\n\nBauble cannot be burned if the target equipment isn't in play, by the general\ntargeting rule [1.6.1.4].\n\nReversal:\n---------\n\nAn action that requires a Discipline (or clan or sect or capacity) will fizzle\nif the acting vampire no longer meets the requirements (just as it would fizzle\nif the acting minion ceased being ready, or if a required equipment was lost,\nlike a Bomb).\n\nRuling:\n-------\n\nInfluence phase has two parts: the main part and the end part.\n\nThe main part is the \"general\" influence part, in which a Methuselah spends her\ninfluence and plays most other influence-phase effects (effects that don't\nspecify the \"end of the influence phase\").\n\nThe end part is the \"gain control\" part, in which a Methuselah gains control of\nthe sufficiently-influenced minions in the uncontrolled region. Effects that are\napplied \"at the end of the influence phase\" are played in this second part.\n\nNote that some effects can bring a vampire out at other times. The timing given\nin card text, not \"does this effect bring a vampire out?\", determines the\ntiming. For example:\n-- Gather can bring out a vampire in the first part (the general part).\n-- Tomb of Rameses III can bring the vampire out in the second part (end part).\n-- Undue Influence can bring the vampire out in the minion phase.\n\nSome effects check to see if a minion entered play \"during\" an influence phase.\nThese effects will notice a vampire coming into play in either part (so they'll\nnotice a vampire coming out via the normal means, Tomb, or Gather, but not Undue\nInfluence). For example:\n-- Hermana Hambrienta Mayor/Menor.\n-- Legendary Vampire\n-- Paulo de Castille\n-- Proxy Kissed\n-- Sonja Blue\n-- Static Virtue\n\nRuling:\n-------\n\nSome actions target more than one thing, some without the ability to\nindividually control the selection, like Edged Illusion or Jaroslav Pascek's\nspecial ability. If one or more of the targets cannot be targeted (because of\nTrophy: Safe Passage, Sleep Unseen, or Reality, for example), the action can\nstill be taken, and it will simply have no effect on the things it cannot target\n(and have the normal effect on the allowable targets).\n\nEach of the actual targets is considered a target, which means that effects like\nHide's \"the action fails\" or Talley's \"+1 intercept\" can be used if any one (or\nmore) of the targets would be enough to enable the effect.\n\nIf one of the multiple targets becomes ineligible during the course of the\naction, then it's handled just as if it had always been ineligible. The action\nresolves on the remaining targets as above."
+    },
+    {
+      "Author": "Salem",
+      "Date": "Aug 9, 2008, 4:03:09\u202FAM",
+      "Body": "LSJ wrote:\n\n> Some actions target more than one thing, some without the ability to\n> individually control the selection, like Edged Illusion or Jaroslav\n> Pascek's special ability. If one or more of the targets cannot be\n> targeted (because of Trophy: Safe Passage, Sleep Unseen, or Reality, for\n> example), the action can still be taken, and it will simply have no\n> effect on the things it cannot target (and have the normal effect on the\n> allowable targets).\n\nDoes this extend to things where one of the targets doesn't exist?\n\nI'm specifically thinking of Mehemet. Can he burn a blood off a vampire\nthat doesn't have a discipline card?\n\n--\nsalem\n(replace 'hotmail' with 'gmail' to email)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 5:09:41\u202FAM",
+      "Body": "\uE5D3\n\nNo. Mehemet's targets are chosen, in contrast to the stated subject of the\nruling above."
+    },
+    {
+      "Author": "Salem",
+      "Date": "Aug 9, 2008, 5:55:00\u202FAM",
+      "Body": "\uE5D3\n\nFair enough. In that case, consider this a request for an updated\nreprint to Mehemet to make him good. :)\n\n\uE5D3"
+    },
+    {
+      "Author": "echia...@yahoo.com",
+      "Date": "Aug 9, 2008, 6:20:56\u202FAM",
+      "Body": "On Aug 8, 5:51 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Ruling:\n> -------\n>\n> Some actions target more than one thing, some without the ability to\n> individually control the selection, like Edged Illusion or Jaroslav Pascek's\n> special ability. If one or more of the targets cannot be targeted (because of\n> Trophy: Safe Passage, Sleep Unseen, or Reality, for example), the action can\n> still be taken, and it will simply have no effect on the things it cannot target\n> (and have the normal effect on the allowable targets).\n>\n> Each of the actual targets is considered a target, which means that effects like\n> Hide's \"the action fails\" or Talley's \"+1 intercept\" can be used if any one (or\n> more) of the targets would be enough to enable the effect.\n>\n> If one of the multiple targets becomes ineligible during the course of the\n> action, then it's handled just as if it had always been ineligible. The action\n> resolves on the remaining targets as above.\n\nSo for cards like Condemn the Sins of the Father, Poison the Well of\nLife, Wave of Insanity, Celestial Harmony, and Shepherd's Innocence:\n\nExample Setup: A --> B --> C --> D --> E --> A\nPlayer A plays Wave of Insanity (or similar card). Players B, C, and D\ncontrol allies. Player E does not.\n\n#1. From Player A's perspective, this is considered to be an\nundirected action (since it targets B, C, and D) for the purposes of\nCreepshow Casino, Mirror's Visage, and Soar. This also means that\nTupdog (with no master !Tremere) and Rabbat can take the action but\nPariah cannot. Right?\n\n#2. This is also an undirected action for determining blockers (only\nprey B and predator E have the opportunity). Sound good?\n\n#3. For Players B, C, and D, this is treated as a directed (D) action\n(based on the examples provided of Hide and Talley the Hound).\nCorrect?\n\n#4. But Player E sees this as an undirected action since he controls\nno allies, right?\n\n#5. So during the Wave of Insanity action, Player B cannot use a Wall\nStreet Night Newspaper to provide intercept (but if Player E controls\nWall Street Night he can use it). And if Player E controls Allonzo/\nBenedict/Phillipe that minion cannot block (since it is undirected)\nbut if Player B controls that minion instead, the minion can block\n(since it is directed). Is that the correct interpretation? So some\nplayers see this as a (D) action and others see it as an undirected\naction?\n\n#6. Also, if multiple targets each have a Lock or Chanjelin Ward, then\nthe cost of the action is increased by each of these effects?\n\nThanks!"
+    },
+    {
+      "Author": "librarian",
+      "Date": "Aug 9, 2008, 6:35:52\u202FAM",
+      "Body": "LSJ wrote:\n>\n> Note that some effects can bring a vampire out at other times. The\n> timing given in card text, not \"does this effect bring a vampire out?\",\n> determines the timing. For example:\n> -- Gather can bring out a vampire in the first part (the general part).\n> -- Tomb of Rameses III can bring the vampire out in the second part (end\n> part).\n> -- Undue Influence can bring the vampire out in the minion phase.\n>\n> Some effects check to see if a minion entered play \"during\" an influence\n> phase. These effects will notice a vampire coming into play in either\n> part (so they'll notice a vampire coming out via the normal means, Tomb,\n> or Gather, but not Undue Influence). For example:\n> -- Hermana Hambrienta Mayor/Menor.\n\nHooray! Time to make my Hermana Qui Anarch deck!\n\nbest -\n\nchris\n\n--\nSuper Fun Cards\nwww.superfuncards.com *NEW Website!*\nauct...@superfuncards.com"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 12:29:04\u202FPM",
+      "Body": "\uE5D3\n\nCorrect.\n\n> #2. This is also an undirected action for determining blockers (only\n> prey B and predator E have the opportunity). Sound good?\n\nCorrect.\n\n> #3. For Players B, C, and D, this is treated as a directed (D) action\n> (based on the examples provided of Hide and Talley the Hound).\n> Correct?\n\nNo. It isn't (D). The bit about Talley explains his \"one\".\n\n> #4. But Player E sees this as an undirected action since he controls\n> no allies, right?\n\nEvery played sees it as undirected. It is undirected.\n\n> #5. So during the Wave of Insanity action, Player B cannot use a Wall\n> Street Night Newspaper to provide intercept (but if Player E controls\n> Wall Street Night he can use it). And if Player E controls Allonzo/\n> Benedict/Phillipe that minion cannot block (since it is undirected)\n> but if Player B controls that minion instead, the minion can block\n> (since it is directed). Is that the correct interpretation? So some\n> players see this as a (D) action and others see it as an undirected\n> action?\n\nAny played can use a Wall Street Night she controls, since the action is undirected.\n\n> #6. Also, if multiple targets each have a Lock or Chanjelin Ward, then\n> the cost of the action is increased by each of these effects?\n\nNo. The action is not directed."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 1:49:49\u202FPM",
+      "Body": "\uE5D3\n\nWell, actually, it explains his use of \"directed at\".\n\n>> #4. But Player E sees this as an undirected action since he controls\n>> no allies, right?\n>\n> Every played sees it as undirected. It is undirected.\n>\n>> #5. So during the Wave of Insanity action, Player B cannot use a Wall\n>> Street Night Newspaper to provide intercept (but if Player E controls\n>> Wall Street Night he can use it). And if Player E controls Allonzo/\n>> Benedict/Phillipe that minion cannot block (since it is undirected)\n>> but if Player B controls that minion instead, the minion can block\n>> (since it is directed). Is that the correct interpretation? So some\n>> players see this as a (D) action and others see it as an undirected\n>> action?\n>\n> Any played can use a Wall Street Night she controls, since the action is\n> undirected.\n>\n>> #6. Also, if multiple targets each have a Lock or Chanjelin Ward, then\n>> the cost of the action is increased by each of these effects?\n>\n> No. The action is not directed.\n\nSorry -- still waking up I guess. Yes, Changelin Ward and Lock operate like\nTalley -- looking to see who is targeted. So they'd work on the Wave action,\njust like Talley's intercept would."
+    },
+    {
+      "Author": "sg3kmb6...@gmail.com",
+      "Date": "Aug 9, 2008, 2:29:57\u202FPM",
+      "Body": "On Aug 9, 1:49 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n> >> #6. Also, if multiple targets each have a Lock or Chanjelin Ward, then\n> >> the cost of the action is increased by each of these effects?\n>\n> > No. The action is not directed.\n>\n> Sorry -- still waking up I guess. Yes, Changelin Ward and Lock operate like\n> Talley -- looking to see who is targeted. So they'd work on the Wave action,\n> just like Talley's intercept would.\n\nI'm all in when it comes to Chanjelin Ward, but Talley and Lock\nspecifically uses the term \"(d) action\".\nDoes this mean that Wave of Insanity (and similar action) are\nconsidered to be (d) actions for certain effects/cards but not for\nothers?\nOr is the text on Talley/Lock/Chanjelin Ward just some sort of mishap\nand they should all be treated the same way?\n\nTalley, the Hound\nClan: Lasombra (group 2)\nCapacity: 6\nDisciplines: OBT POT aus dom\nSabbat: Talley gets +1 intercept when attempting to block any (D)\naction directed at one of your other minions.\n\nLock\nType: Action\nRequires: Defense\nThis action is at +1 stealth if it is undirected.\nPut this card on any minion. (D) actions directed at this minion cost\nmonsters an additional blood or life. If this minion is a monster, he\nor she burns a blood or life when he or she attempts an action or a\nblock. This minion may burn this card as an action. A minion can have\nonly one Lock.\n\nChanjelin Ward\nType: Master\nRequires: Kiasyd\nMaster.\nPut this card on a vampire you control. Actions directed at this\nvampire cost an additional blood. This vampire can burn this card to\ncause an action directed at him or her to fail. A vampire may have\nonly one Chanjelin Ward. Burn option."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 3:36:39\u202FPM",
+      "Body": "sg3kmb6...@gmail.com wrote:\n> On Aug 9, 1:49 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n>>>> #6. Also, if multiple targets each have a Lock or Chanjelin Ward, then\n>>>> the cost of the action is increased by each of these effects?\n>>> No. The action is not directed.\n>> Sorry -- still waking up I guess. Yes, Changelin Ward and Lock operate like\n>> Talley -- looking to see who is targeted. So they'd work on the Wave action,\n>> just like Talley's intercept would.\n>\n> I'm all in when it comes to Chanjelin Ward, but Talley and Lock\n> specifically uses the term \"(d) action\".\n> Does this mean that Wave of Insanity (and similar action) are\n> considered to be (d) actions for certain effects/cards but not for\n> others?\n> Or is the text on Talley/Lock/Chanjelin Ward just some sort of mishap\n> and they should all be treated the same way?\n\nThe latter."
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Aug 9, 2008, 3:40:38\u202FPM",
+      "Body": "> Hooray!  Time to make my Hermana Qui Anarch deck!\n\nToo Late! :P\n\nComments Welcome,\nNorman S. Brown, Jr\nXZealot\nArchon of the Swamp"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Aug 9, 2008, 4:58:43\u202FPM",
+      "Body": "LSJ a écrit :\n\n> As always, changes contained herein do not go into effect for santioned\n> tournaments for 30 days. (So these become active on September 07, 2008.)\n>\n\n> Ruling:\n> -------\n>\n> Some actions target more than one thing, some without the ability to\n> individually control the selection, like Edged Illusion or Jaroslav Pascek's\n> special ability. If one or more of the targets cannot be targeted (because of\n> Trophy: Safe Passage, Sleep Unseen, or Reality, for example), the action can\n> still be taken, and it will simply have no effect on the things it cannot target\n> (and have the normal effect on the allowable targets).\n>\n> Each of the actual targets is considered a target, which means that effects like\n> Hide's \"the action fails\" or Talley's \"+1 intercept\" can be used if any one (or\n> more) of the targets would be enough to enable the effect.\n>\n> If one of the multiple targets becomes ineligible during the course of the\n> action, then it's handled just as if it had always been ineligible. The action\n> resolves on the remaining targets as above.\n\nSome questions regarding this ruling arose :\n\n1 - As of 07/09/08, will it still be possible to play Taunt the Caged\nBeast sup' on a vampire with a Secure Haven / Safe Passage ?\n\n2 - If my Jaroslav attempts his special action when my prey controls\nAmbrosio Luis Moncada with a Safe Passage, will the action cost 1\nadditional pool ?\n\nThanks !\n\n(next time, I'll post the questions directly over here)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 5:08:35\u202FPM",
+      "Body": "floppyzedolfin wrote:\n>\n> LSJ a écrit :\n>> As always, changes contained herein do not go into effect for santioned\n>> tournaments for 30 days. (So these become active on September 07, 2008.)\n>>\n>> Ruling:\n>> -------\n>>\n>> Some actions target more than one thing, some without the ability to\n>> individually control the selection, like Edged Illusion or Jaroslav Pascek's\n>> special ability. If one or more of the targets cannot be targeted (because of\n>> Trophy: Safe Passage, Sleep Unseen, or Reality, for example), the action can\n>> still be taken, and it will simply have no effect on the things it cannot target\n>> (and have the normal effect on the allowable targets).\n>>\n>> Each of the actual targets is considered a target, which means that effects like\n>> Hide's \"the action fails\" or Talley's \"+1 intercept\" can be used if any one (or\n>> more) of the targets would be enough to enable the effect.\n>>\n>> If one of the multiple targets becomes ineligible during the course of the\n>> action, then it's handled just as if it had always been ineligible. The action\n>> resolves on the remaining targets as above.\n>\n> Some questions regarding this ruling arose :\n>\n> 1 - As of 07/09/08, will it still be possible to play Taunt the Caged\n> Beast sup' on a vampire with a Secure Haven / Safe Passage ?\n\nNo. The vampire is protected against being chosen as the target of the action.\n\n> 2 - If my Jaroslav attempts his special action when my prey controls\n> Ambrosio Luis Moncada with a Safe Passage, will the action cost 1\n> additional pool ?\n\nNo. Monçada won't be targeted, thanks to the Secure Haven, so his special won't\nincrease the cost."
+    },
+    {
+      "Author": "mat...@gmail.com",
+      "Date": "Aug 9, 2008, 5:26:07\u202FPM",
+      "Body": "An action that requires a Discipline (or clan or sect or capacity)\nwill fizzle\nif the acting vampire no longer meets the requirements (just as it\nwould fizzle\nif the acting minion ceased being ready, or if a required equipment\nwas lost,\nlike a Bomb).\n\nThe acting vampire must still meet the requirements to play the card.\nCorrect?"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Aug 9, 2008, 8:05:59\u202FPM",
+      "Body": "\uE5D3\n\nWhat happes if I attempt to play an Edged Illusion at superior and my\nprey controls all the following minions (after using Talley and\nMoncada to Graverob/Far Mastery all the other ones)?\n\nEtienne Fauberge\nAmbrosio Luis Moncada, Plenipotentiary\nFrancois \"Warden\" Loehr\nEdward Vignes\nHazimel\nTalley, the Hound\n\nDo each of their specials activate?\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 9, 2008, 8:40:04\u202FPM",
+      "Body": "XZealot wrote:\n> What happes if I attempt to play an Edged Illusion at superior and my\n> prey controls all the following minions (after using Talley and\n> Moncada to Graverob/Far Mastery all the other ones)?\n>\n> Etienne Fauberge\n> Ambrosio Luis Moncada, Plenipotentiary\n> Francois \"Warden\" Loehr\n> Edward Vignes\n> Hazimel\n> Talley, the Hound\n>\n> Do each of their specials activate?\n\nEdward's is usable, but isn't automatically \"activated\" by the attempt.\n\nI doubt Hazimel's ability would be activated, given the requirements of Edged\nIllusion, but it's possible.\n\nAnd Talley, as has stated in the RTR itself, can use his special (although it,\nlike Edward's, is not automatically activated, but will activate when and if\nTalley attempts to block)."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Aug 9, 2008, 10:48:59\u202FPM",
+      "Body": "In message <_pink.32940$co7....@nlpi066.nbdc.sbc.com>, LSJ\n<vte...@white-wolf.com> writes:\n\n>floppyzedolfin wrote:\n>> Some questions regarding this ruling arose :\n>> 1 - As of 07/09/08, will it still be possible to play Taunt the\n>>Caged\n>> Beast sup' on a vampire with a Secure Haven / Safe Passage ?\n>\n>No. The vampire is protected against being chosen as the target of the action.\n\nWhy?\n\nSuperior Taunt the Caged Beast isn't a directed action - it affects two\ndifferent Methuselahs. Both Secure Haven and Trophy: Safe Passage\nprevent the vampire being the target of (D) actions.\n\nSecure Haven\nThis minion cannot be affected by (D) actions.\n\nTrophy: Safe Passage\nWhile the vampire with this card is ready, he or she cannot be the\ntarget of (D) actions.\n\nTaunt the Caged Beast\n[ANI] Choose a {ready} vampire controlled by your predator and\nanother controlled by your prey (not usable when only one other\nMethuselah is in the game).\n\nWhat's granting protection?\n\nSimilarly, I would not expect Talley to get +1 intercept against a Taunt\nthe Caged Beast (superior) that selected one of his controller's other\nminions, and some other minion on the table. He may be able to see the\ntarget, but his ability only looks at (D) actions.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "sg3kmb6...@gmail.com",
+      "Date": "Aug 9, 2008, 11:25:30\u202FPM",
+      "Body": "On Aug 9, 10:48 pm, James Coupe <ja...@zephyr.org.uk> wrote:\n> In message <_pink.32940$co7.30...@nlpi066.nbdc.sbc.com>, LSJ\n\uE5D3\n\nIf I understood the answer to my question correctly the wording on\nTalley is just a bit flawed and should be read as \"any action\" rather\nthan \"any (d) action\".\nI'd also suppose that this would go for all cards with that particular\nwording."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 10, 2008, 1:22:39\u202FAM",
+      "Body": "sg3kmb6...@gmail.com wrote:\n> On Aug 9, 10:48 pm, James Coupe <ja...@zephyr.org.uk> wrote:\n>> In message <_pink.32940$co7.30...@nlpi066.nbdc.sbc.com>, LSJ\n\n>> What's granting protection?\n>>\n>> Similarly, I would not expect Talley to get +1 intercept against a Taunt\n>> the Caged Beast (superior) that selected one of his controller's other\n>> minions, and some other minion on the table. He may be able to see the\n>> target, but his ability only looks at (D) actions.\n>\n>\n> If I understood the answer to my question correctly the wording on\n> Talley is just a bit flawed and should be read as \"any action\" rather\n> than \"any (d) action\".\n> I'd also suppose that this would go for all cards with that particular\n> wording.\n\nYes. The ruling is that things which assume that an action targeting a minion is\n(D) are making that assumption unnecessarily, and work (or \"are usable\") for\nboth directed and undirected actions targeting the minion."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Aug 10, 2008, 1:44:18\u202FAM",
+      "Body": "\uE5D3\n\uE5D3\n\nInferior Sonar, for example, is still not usable against undirected\nactions that target your minions, correct?\n\nIs Crocodile Temple usable after an action that \"targets\" your minions but is\nnot a Directed Action?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 10, 2008, 2:19:09\u202FAM",
+      "Body": "Jozxyqk wrote:\n> Inferior Sonar, for example, is still not usable against undirected\n> actions that target your minions, correct?\n\nSure. It says nothing about targeting a minion.\n\n> Is Crocodile Temple usable after an action that \"targets\" your minions but is\n> not a Directed Action?\n\nIt says nothing about targeting a minion."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Aug 10, 2008, 4:48:01\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n> > Is Crocodile Temple usable after an action that \"targets\" your minions but is\n> > not a Directed Action?\n\n> It says nothing about targeting a minion.\n\nYou once stated that \"directed at you or something you control\" was identical to\njust \"directed at you\":\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/10a4ebe3206839f3\n\nUnder the 8/8/08 ruling, does this mean that Black Sunrise's (and similar) text\nis now *different* from Crocodile Temple's?\n\nCan I use Black Sunrise against one of those undirected actions that targets\none of my minions, just because it says \"or something you control\"?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 10, 2008, 2:00:44\u202FPM",
+      "Body": "\uE5D3\n\nOK. Good point. You can use Crocodile Temple at the end of a another\nMethuselah's successful action targeting you (or something you control).\n\nLikewise Black Sunrise."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Aug 10, 2008, 4:28:18\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\n> Likewise Black Sunrise.\n\nAnd after this answer, what about basic Sonar, and other effects \"only usable\nduring a D action\"?\n\nThe only difference between basic Sonar's text and the others is the phrase\n\"against you [(or something you control)]\".\n\nAnd, by extension, if Sonar is usable in this case, what about the general\ncase of blocking?\n\nFor example, Command the Legion.\nCurrently, this is an undirected action. If I pay 3 blood for the action,\nand choose one minion controlled by my prey and one minion controlled by\nmy grandprey, my grandprey can not block the action.\nDoes this ruling allow him to block it?\n\nThanks!"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Aug 10, 2008, 6:50:02\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\nSeparately posting from my other branch of questioning, because I realize that\nthe eventuality of my questions end up redefining what a Directed Action is, and\nleading to some very very messy scenarios (and don't worry, between me and\nfloppyzedolfin, we could come up with some pretty crazy ones).\n\nUltimately, my suggestion is to leave Talley out of the equation.\nIt would be \"smoother\" if only the targeted minions' particular quirks kicked in\n(and even allowing the Secure Haven-like effects to protect them), but not to\nextend this ruling to apply to a whole other class of cards (Talley, Black Sunrise,\nCrocodile Temple, Underbridge Stray, Sonar, Abbot, Ryder, etc, etc, etc)."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Aug 10, 2008, 6:56:08\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\uE5D3\n\uE5D3\n\nAddendum: Talley's ability, etc, should, of course still be usable if it is\nstill inherently a (D) action, even with multiple targets. That is: Talley's intercept\nshould be usable after Jaroslav's (D) action, because it is still directed at one\nMethuselah. But Talley's intercept should *not* be usable against a superior\nWave of Insanity, because it is still an Undirected action.\n(But Secure Haven _should_ still follow the ruling and protect against Wave of Insanity).\n\nJust my suggestions."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Aug 10, 2008, 9:51:21\u202FPM",
+      "Body": "In message <NOydnd3Qk9s1gALV...@comcast.com>, Jozxyqk\n<jfeu...@eecs.tufts.edu> writes:\n\n>Jozxyqk <jfeu...@eecs.tufts.edu> wrote:\n>> Ultimately, my suggestion is to leave Talley out of the equation.\n>> It would be \"smoother\" if only the targeted minions' particular\n>>quirks kicked in\n>> (and even allowing the Secure Haven-like effects to protect them),\n>>but not to\n>> extend this ruling to apply to a whole other class of cards (Talley,\n>>Black Sunrise,\n>> Crocodile Temple, Underbridge Stray, Sonar, Abbot, Ryder, etc, etc, etc).\n>\n>Addendum: Talley's ability, etc, should, of course still be usable if it is\n>still inherently a (D) action, even with multiple targets. That is:\n>Talley's intercept\n>should be usable after Jaroslav's (D) action, because it is still\n>directed at one\n>Methuselah. But Talley's intercept should *not* be usable against a superior\n>Wave of Insanity, because it is still an Undirected action.\n>(But Secure Haven _should_ still follow the ruling and protect against\n>Wave of Insanity).\n\nI concur.\n\nDisclaimer: I haven't checked the specifics of every card Josh has just\nmentioned, but I agree with the general principle. If a card targets\nabout being the target of a (D) action, it should apply when that card\nis a target during a (D) action, but not when it's a 'target' during a\nnon-(D) action, because that's the simplest application of card text.\n\nSeveral reasons:\n\n- A seeming lack of necessity. The ruling appears to be about targets\nbeing immune not causing an 'indiscriminate' action to fail. That\ndoesn't seem to require upgrading a bunch of a cards so that they make\nextra targets immune.\n- Card text / reprints. There seem to be quite a few cards that might\nneed an updated MRP, which sucks.\n- Extensibility. What if you want to create an ability that only\napplies in against (D) actions, but *not* against any action that\nhappens to select a target?\n\nAlso, there seems to be a potential grey area with political actions.\n\ne.g. Secure Haven. \"This minion cannot be affected by (D) actions.\"\nOkay, so we're now saying that this affects Taunt the Caged Beast, which\nis just an action (undirected).\n\n- Can a Secure Haven minion be \"affected by\" Auto-da-Fe?\n- Can it be affected by Consanguineous Condemnation?\n- Can it be affected by positive effects, such as being selected for\nBrujah Justicar (or any other title-granter)?\n\nNote that Secure Haven doesn't say \"targeted by\", if we're going to say\nthat Taunt the Caged Beast targets a vampire and Auto-da-Fe doesn't have\na target (just a vampire selected in the referendum - see Yoruba Shrine\nfor that sort of wording because political actions didn't have targets).\n\n(Note also that Trophy: Safe Passage does use \"target\", but to draw a\ndistinction between the two cards on that would seem slightly obscure.)\n\nIf we follow this line of ruling:\n\n- Secure Haven preventing the vampire being a selected minion for\nhostile votes seems a massive and unwarranted upgrade for it (and\nsimilar cards).\n- Secure Haven *not* preventing the vampire being a selected vampire for\nhostile votes seems to go against the seeming new card text that means\nthat the (D) restriction on Secure Haven has gone away.\n\nI'm only here talking about the hostile vote prevention, and not the\nbeneficial vote restriction, since you would simply work around the\nbeneficial vote issue (e.g. not include them in that deck, select other\nvampires intentionally and plan for that, and so on).\n\nSimilarly, if Secure Haven now effectively says \"cannot be affected by\nactions\" (regardless of (D)-ness), can my Secure minion benefit from\nsuperior Media Influence taken by another vampire?\n\nCan my Secure minion be \"affected by\" a Rescue from Torpor action by one\nof my own minions?\n\nCan it be \"affected by\" actions it takes itself? Even hunting!\n\n\uE5D3"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Aug 11, 2008, 5:58:30\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n> Ruling:\n> -------\n\n> Some actions target more than one thing, some without the ability to\n> individually control the selection, like Edged Illusion or Jaroslav Pascek's\n> special ability. If one or more of the targets cannot be targeted (because of\n> Trophy: Safe Passage, Sleep Unseen, or Reality, for example), the action can\n> still be taken, and it will simply have no effect on the things it cannot target\n> (and have the normal effect on the allowable targets).\n\n> Each of the actual targets is considered a target, which means that effects like\n> Hide's \"the action fails\" or Talley's \"+1 intercept\" can be used if any one (or\n> more) of the targets would be enough to enable the effect.\n\n> If one of the multiple targets becomes ineligible during the course of the\n> action, then it's handled just as if it had always been ineligible. The action\n> resolves on the remaining targets as above.\n\nDoes this carry over to actions you perform yourself?\nIf Julia Prima has a Secure Haven, is she unaffected by my own Song of Pan?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 11, 2008, 7:00:28\u202FPM",
+      "Body": "Jozxyqk wrote:\n> If Julia Prima has a Secure Haven, is she unaffected by my own Song of Pan?\n\nSong of Pan, the action, has no targets, other than the acting Kiasyd, who is\nuntapped by the action.\n\nSong of Pan, the card in play, affects Kiasyd. Even Kiasyd with Secured Havens."
+    },
+    {
+      "Author": "librarian",
+      "Date": "Aug 12, 2008, 12:35:03\u202FAM",
+      "Body": "LSJ wrote:\n> As always, changes contained herein do not go into effect for santioned\n> tournaments for 30 days. (So these become active on September 07, 2008.)\n>\n\nI'm sort of disappointed Scott that you didn't post this at 8:08...\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 12, 2008, 1:09:30\u202FAM",
+      "Body": "librarian wrote:\n> LSJ wrote:\n>> As always, changes contained herein do not go into effect for santioned\n>> tournaments for 30 days. (So these become active on September 07, 2008.)\n>>\n>\n>\n> I'm sort of disappointed Scott that you didn't post this at 8:08...\n\nLook on the bright side. At least I'm using the Gregorian calendar.\n\nWhich gives me an idea..."
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Aug 12, 2008, 1:45:47\u202FAM",
+      "Body": "\uE5D3\n\nDUN dun duuuuuuuuuuuuuuuun...\n;)"
+    },
+    {
+      "Author": "Cantila",
+      "Date": "Sep 24, 2008, 12:08:03\u202FAM",
+      "Body": "> Note that some effects can bring a vampire out at other times. The timing given\n> in card text, not \"does this effect bring a vampire out?\", determines the\n> timing. For example:\n> -- Gather can bring out a vampire in the first part (the general part).\n> -- Tomb of Rameses III can bring the vampire out in the second part (end part).\n> -- Undue Influence can bring the vampire out in the minion phase.\n\nSo does this mean that a Govern the Unaligned at superior can bring\nout a 3 cap vampire (or a 6 cap if a dual GtU) in the minion phase\n(who can then take an action)?\n\nGtU really didn't need that :/"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 24, 2008, 12:37:40\u202FAM",
+      "Body": "\uE5D3\n\nUndue Influence\nType: Action\nRequires: anarch Chimerstry/Presence/Quietus\n+1 stealth action. Requires a ready anarch. Choose a vampire in your\nuncontrolled region.\n[chi] (D) Move 1 blood from an uncontrolled minion in any uncontrolled\nregion to the chosen vampire.\n[pre] (D) Bleed. If the bleed is successful, put 1 blood counter on\nthe chosen vampire.\n[qui] Put 1 blood counter on the chosen vampire.* If the number of\ncounters equals or exceeds his or her capacity, move that vampire to\nyour ready region*.\n\nGovern the Unaligned\nType: Action\nRequires: Dominate\nCost: 1 blood\n[dom] (D) Bleed with +2 bleed.\n[DOM] +1 stealth action. Move 3 blood from the blood bank to a younger\nvampire in your uncontrolled region.\n\nThe bit in between asterisks for UI is the important bit you seem to\nbe missing. Undue specifically calls a check for amount of blood on\nvampire vs capacity, unlink GtU, which leaves the check for the normal\ntime for it, ie influence phase end"
+    }
+  ]
+}

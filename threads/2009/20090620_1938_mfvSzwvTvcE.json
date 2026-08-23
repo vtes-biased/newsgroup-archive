@@ -1,0 +1,42 @@
+{
+  "ThreadId": "mfvSzwvTvcE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/mfvSzwvTvcE",
+  "Title": "motzarella.org?",
+  "Messages": [
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 20, 2009, 7:38:27\u202FPM",
+      "Body": "Right, so last weekend, I got my news.motzarella.org news server\nworking. And now we are alerted that they are switching to\nnews.eternal-september.org (which sounds like a creepy fundamentalist\ncult...). So I reconfigured by newsreader to operate off that, and it\nisn't working. Anyone successfully connect to the new server yet?\n\n-Peter"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 20, 2009, 7:54:50\u202FPM",
+      "Body": "\uE5D3\n\nI haven't gotten a change of server notice."
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 20, 2009, 8:01:36\u202FPM",
+      "Body": "On Jun 20, 1:54 pm, LSJ <vtes...@white-wolf.com> wrote:\n> I haven't gotten a change of server notice.\n\nHuh. I got an e-mail from them earlier in the week, and when I clicked\non my link to www.motzarella.org, I ended up here:\n\nhttp://www.eternal-september.org/\n\n(which looks just like the motzarella.org site from last week, and has\nthe same info as the e-mail I was sent).\n\n-Peter"
+    },
+    {
+      "Author": "Janne Hägglund",
+      "Date": "Jun 20, 2009, 8:07:50\u202FPM",
+      "Body": "Peter D Bakija <pd...@lightlink.com> writes:\n\n> Right, so last weekend, I got my news.motzarella.org news server\n> working. And now we are alerted that they are switching to\n> news.eternal-september.org (which sounds like a creepy fundamentalist\n> cult...).\n\nhttp://catb.org/jargon/html/S/September-that-never-ended.html\n\n\"All time since September 1993. One of the seasonal rhythms of the Usenet\nused to be the annual September influx of clueless newbies who, lacking any\nsense of netiquette, made a general nuisance of themselves. This coincided\nwith people starting college, getting their first internet accounts, and\nplunging in without bothering to learn what was acceptable. These\nrelatively small drafts of newbies could be assimilated within a few\nmonths. But in September 1993, AOL users became able to post to Usenet,\nnearly overwhelming the old-timers' capacity to acculturate them; to those\nwho nostalgically recall the period before, this triggered an inexorable\ndecline in the quality of discussions on newsgroups. Syn. eternal\nSeptember. See also AOL!.\"\n\n> So I reconfigured by newsreader to operate off that, and it\n> isn't working. Anyone successfully connect to the new server yet?\n\nI tried switching just now, and found out that eternal-september.org has a\ndifferent numbering scheme for posts than motzarella.org.\n\nSo if your newsreader has a list of read and unread posts stored in\n.newsrc-file or whatever, it goes completely out of whack. You need to\ndestroy the file (or whatever) and let your newsreader generate a new one.\nUnfortunately, you'll lose your tally of read and unread posts, so do it\nafter you have read everything you want to read.\n\nMeanwhile, motzarella.org still functions.\n\nHG"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 20, 2009, 9:04:50\u202FPM",
+      "Body": "On Jun 20, 2:07 pm, h...@iki.fi (Janne Hägglund) wrote:\n> http://catb.org/jargon/html/S/September-that-never-ended.html\n\nOh, heh. That makes sense :-)\n\n> I tried switching just now, and found out that eternal-september.org has a\n> different numbering scheme for posts than motzarella.org.\n>\n> So if your newsreader has a list of read and unread posts stored in\n> .newsrc-file or whatever, it goes completely out of whack.  You need to\n> destroy the file (or whatever) and let your newsreader generate a new one.\n> Unfortunately, you'll lose your tally of read and unread posts, so do it\n> after you have read everything you want to read.  \n\nHmm. I currently can't even get that far--I get to the point where it\nis asking me for my username and password (which it doesn't do when it\nis working correctly), and then when I give it my username and\npassword, it just gives me an error message and fails.\n\nBut if you can log in, that means I probably have something configured\nwrong, as opposed to anything being wrong on their end.\n\nThanks!\n-Peter"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 20, 2009, 9:31:23\u202FPM",
+      "Body": "On Jun 20, 3:04 pm, Peter D Bakija <p...@lightlink.com> wrote:\n> But if you can log in, that means I probably have something configured\n> wrong, as opposed to anything being wrong on their end.\n\nMay have solved my problem (stupid passwords...). And hopefully, this\npost will show up.\n\n-Peter"
+    },
+    {
+      "Author": "Salem",
+      "Date": "Jun 21, 2009, 6:27:12\u202FAM",
+      "Body": "\uE5D3\n\nConfirmed sighting of above-mentioned post.\n\n--\nsalem\n(replace 'hotmail' with 'gmail' to email)"
+    }
+  ]
+}

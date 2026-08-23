@@ -1,0 +1,27 @@
+{
+  "ThreadId": "gjBI6LbWox0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gjBI6LbWox0",
+  "Title": "quick jab and prevent question",
+  "Messages": [
+    {
+      "Author": "chromeboy",
+      "Date": "Nov 17, 2007, 2:49:45\u202FAM",
+      "Body": "I have a vampire with +1 strength and play quick jab and modify my\nhand damage to be aggravated. the opposing minion plays glancing blow\nto prevent one damage.\ndoes this resolve in me doing no damage ( meaning the \"If more than 1\ndamage is inflicted with this strike, ignore the excess.\" is applied\nbefore strike resolution) or one damage since damage inflicted is\nchecked after all damage modifying effects such as glancing blow have\nbeen considered.\n\nQuick Jab\nDo not replace until after combat.Strike: hand strike (at strength\ndamage) with first strike. If more than 1 damage is inflicted with\nthis strike, ignore the excess.\n\nTHX"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 17, 2007, 5:08:56\u202FPM",
+      "Body": "chromeboy wrote:\n> I have a vampire with +1 strength and play quick jab and modify my\n> hand damage to be aggravated. the opposing minion plays glancing blow\n> to prevent one damage.\n> does this resolve in me doing no damage ( meaning the \"If more than 1\n> damage is inflicted with this strike, ignore the excess.\" is applied\n> before strike resolution) or one damage since damage inflicted is\n> checked after all damage modifying effects such as glancing blow have\n> been considered.\n\nZero. Glancing Blow doesn't modify the amount of damage done. It prevents damage.\n\nIn contrast, if your +1 strength vampire used Quick Jab against Nephandus, the\nstrike would do 1 (2 -1 = 1). Naphandus's effect really is a damage-modifying\neffect.\n\n\uE5D3"
+    },
+    {
+      "Author": "chromeboy",
+      "Date": "Nov 18, 2007, 10:05:15\u202FAM",
+      "Body": "\uE5D3\n> > THX- Zitierten Text ausblenden -\n>\n> - Zitierten Text anzeigen -\n\nWhen comparing this to disarm it seems to me that \"inflicting damage\"\nand \"successfully inflicting damage\" are two different things, the two\nbeing seperated by the preventing damage step. Am I correct?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 18, 2007, 2:26:00\u202FPM",
+      "Body": "chromeboy wrote:\n> When comparing this to disarm it seems to me that \"inflicting damage\"\n> and \"successfully inflicting damage\" are two different things, the two\n> being seperated by the preventing damage step. Am I correct?\n\nYes.\n\nAnd, in general, effects that occur after the damage prevention step tend to\nnaturally be interested in on the successfully-inflicted damage, as Disarm is.\n\nThat is, nothing usually cares to go back across the prevention step to see how\nmuch damage was initially allocated to the minion."
+    }
+  ]
+}

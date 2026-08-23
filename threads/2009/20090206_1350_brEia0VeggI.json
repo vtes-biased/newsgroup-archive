@@ -1,0 +1,22 @@
+{
+  "ThreadId": "brEia0VeggI",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/brEia0VeggI",
+  "Title": "(LSJ) Protected Resources & non-bleed pool loss",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 6, 2009, 1:50:47\u202FPM",
+      "Body": "Hello LSJ,\nHere's a question I had last night :\n\nHow exactly does Protected resources deal with non-bleed pool loss\nduring a bleed action ?\n\nHere's an example to make things a bit clearer :\n\nAnson has 2 Aching Beauty 's, and bleeds his prey. Prey blocks, burns\n2 pool. After combat, Anson uses his Ambulance to continue the\naction.\n\na/ if prey doesn't block, does she burn pool for the successful bleed\naction ? (she already burnt 2 pool during this bleed action)\nb/ if answer to a/ is no, is the bleed successful ?\n\nThe thing is that Protected Resources doesn't mention where the pool\nloss comes from (this is just about getting confirmation the pool loss\nis pool loss due to successful bleeding).\n\nThanks.\n\n--\ncardtext :\nName: Protected Resources\nCardtype: Master\nCost: 2 pool\nMaster.\nPut this card in play. You do not burn more than 2 pool when a minion\nbleeds you, regardless of the amount of the bleed. Burn this card if a\nminion you control successfully bleeds."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 6, 2009, 1:55:56\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> Hello LSJ,\n> Here's a question I had last night :\n>\n> How exactly does Protected resources deal with non-bleed pool loss\n> during a bleed action ?\n\nIt doesn't. At all. It has no effect on or awareness of non-bleed pool loss.\n\n> Here's an example to make things a bit clearer :\n>\n> Anson has 2 Aching Beauty 's, and bleeds his prey. Prey blocks, burns\n> 2 pool. After combat, Anson uses his Ambulance to continue the\n> action.\n>\n> a/ if prey doesn't block, does she burn pool for the successful bleed\n> action ? (she already burnt 2 pool during this bleed action)\n> b/ if answer to a/ is no, is the bleed successful ?\n>\n> The thing is that Protected Resources doesn't mention where the pool\n> loss comes from (this is just about getting confirmation the pool loss\n> is pool loss due to successful bleeding).\n\nConfirmed: \"when a minion bleeds you\".\n\n\uE5D3"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Feb 6, 2009, 2:01:03\u202FPM",
+      "Body": "\uE5D3\n\nThe pool burn from aching beauty iss before the bleed, as a cost for\nattempting to block. The bleed itself is only for 2.\n\nAnson has 2 Aching Beauties, bleeds for 2. If Smudge attempts to\nblock, you pay 2 pool. If Anson then plays Torrent, you would need to\npay another 2 pool to again attempt to block. IF he gets blocked\nagain, and plays Torrent again, you will again need to pay 2 pool. Ad\nabsurdium. Then when the action succeeds, you burn 2 pool for the\nbleed, no matter how large the bleed amount is. (assuming a bleed\nlarger than 1...)"
+    }
+  ]
+}

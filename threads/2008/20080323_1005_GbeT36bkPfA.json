@@ -1,0 +1,17 @@
+{
+  "ThreadId": "GbeT36bkPfA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/GbeT36bkPfA",
+  "Title": "Cobra Fangs + Trophies",
+  "Messages": [
+    {
+      "Author": "ira...@gmail.com",
+      "Date": "Mar 23, 2008, 10:05:02\u202FAM",
+      "Body": "Hello LSJ,\n\nIf I use Cobra Fangs to burn an Ally that is Red List, do Trophies\ntrigger if:\n\n1) It's someone else's turn, and I just blocked an action.\n2) It's my turn, I just took a D-action to enter combat with that Red\nListed ally.\n3) It's my turn, I just bled, and got blocked by that Red Listed ally.\n4) It's my turn, I just called a vote, and got blocked by that Red\nListed ally.\n\nI believe the answer is \"no\" in all cases, because the burning is\nneither \"in combat\" nor \"as a D action.\" Specifically:\n\na) \"at the end of the action\" is outside of combat (since Freak Drive\nis played after combat.)\nb) For #2 and #3, the burning isn't occuring as a D action, even\nthough it's at the end of a D action.\n\nSo maybe the answer is yes for #2 and #3, but I'm quite certain the\nanswer is no for #1 and #4.\n\nThanks,\nIra\n\nCobra Fangs:\nType(s): Combat\nBlood Cost: 1\nCard Text:\n[ser] Strike: hand strike (at strength damage). If any damage from\nthis strike is successfully inflicted on an opposing ally, burn that\nally at the end of the action.\n[SER] As above, and if any damage from this strike is successfully\ninflicted on an opposing vampire, that vampire goes to torpor during\nhis next untap phase.\n\nFrom the Rulebook, 1.6.2.3:\nTrophy: A trophy may be put into play using a master phase action (or\ncan be retrieved as listed under \"Red List\" in section 11). It has no\neffect until it is moved to a vampire. When any vampire burns a Red\nList minion in combat or as a (D) action (including diablerie), the\ncontroller of the trophy may choose to move the trophy to that\nvampire. Any number of trophies in play may be moved to the vampire in\nthis way (in addition to the single trophy that the vampire's\ncontroller may retrieve from her library, ash heap or hand). Once\nplaced on a vampire, a trophy cannot be moved again."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 23, 2008, 1:29:03\u202FPM",
+      "Body": "ira...@gmail.com wrote:\n> Hello LSJ,\n>\n> If I use Cobra Fangs to burn an Ally that is Red List, do Trophies\n> trigger if:\n\n... assuming the ally doesn't burn from handling the damage from the strike.\n\n> 1) It's someone else's turn, and I just blocked an action.\n> 2) It's my turn, I just took a D-action to enter combat with that Red\n> Listed ally.\n> 3) It's my turn, I just bled, and got blocked by that Red Listed ally.\n> 4) It's my turn, I just called a vote, and got blocked by that Red\n> Listed ally.\n>\n> I believe the answer is \"no\" in all cases, because the burning is\n> neither \"in combat\" nor \"as a D action.\"\n\nCorrect."
+    }
+  ]
+}

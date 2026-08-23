@@ -1,0 +1,102 @@
+{
+  "ThreadId": "vnRKLET8wpA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vnRKLET8wpA",
+  "Title": "[LSJ] Change in tapped-ness of target",
+  "Messages": [
+    {
+      "Author": "Xian",
+      "Date": "Jan 15, 2002, 6:46:40\u202FPM",
+      "Body": "I thought I saw a message from LSJ somewhere (the newsgroup? the WW\nforum? the VTES-L listserv?) about an action fizzling if it requires\nthat the target be in a certain state, and that state is not the\ncurrent state when the action is about to resolve.\n\nDid I misunderstand that, or is that correct as stated?\n\nExample:\n\nAnneke is tapped.\nWynn rushes Anneke with an Ambush (requires a tapped minion as the\ntarget).\nAnneke untaps and tries to block with 2nd Tradition. (Normally,\nWynn's player would give up at this point and take the combat, but he\nreally wants the maneuver.)\nWynn adds +3 stealth, Anneke fails to increase intercept.\nAt this point, the action is about to resolve.\n\nAm I to understand that the action would then fizzle, because Wynn is\nno longer Ambushing a tapped minion? Or did I completely misread that\nmessage (that I am unable to reference)?\n\nThanks,\n\nXian"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 15, 2002, 7:01:17\u202FPM",
+      "Body": "Xian wrote:\n> I thought I saw a message from LSJ somewhere (the newsgroup? the WW\n> forum? the VTES-L listserv?) about an action fizzling if it requires\n> that the target be in a certain state, and that state is not the\n> current state when the action is about to resolve.\n>\n> Did I misunderstand that, or is that correct as stated?\n\nYes.\n\n> Example:\n>\n> Anneke is tapped.\n> Wynn rushes Anneke with an Ambush (requires a tapped minion as the\n> target).\n> Anneke untaps and tries to block with 2nd Tradition. (Normally,\n> Wynn's player would give up at this point and take the combat, but he\n> really wants the maneuver.)\n> Wynn adds +3 stealth, Anneke fails to increase intercept.\n> At this point, the action is about to resolve.\n>\n> Am I to understand that the action would then fizzle, because Wynn is\n> no longer Ambushing a tapped minion? Or did I completely misread that\n> message (that I am unable to reference)?\n\nYou are correct.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Sorrow",
+      "Date": "Jan 15, 2002, 7:42:35\u202FPM",
+      "Body": "> > Anneke is tapped.\n> > Wynn rushes Anneke with an Ambush (requires a tapped minion as the\n> > target).\n> > Anneke untaps and tries to block with 2nd Tradition. (Normally,\n> > Wynn's player would give up at this point and take the combat, but he\n> > really wants the maneuver.)\n> > Wynn adds +3 stealth, Anneke fails to increase intercept.\n> > At this point, the action is about to resolve.\n> > Am I to understand that the action would then fizzle, because Wynn is\n> > no longer Ambushing a tapped minion? Or did I completely misread that\n> > message (that I am unable to reference)?\n> You are correct.\n\nOk, same situation but Wynn doesn't add stealth. Anneke taps because she\nsuccessfully blocks, but is that enough for the Ambush text.\nI realize that this is a really funky situation in where a block results in combat.\nHowever, if she wasn't tapped (due to the 2ndTrad) at the time of the block,\ndoes the action fizzle thus negating the combat that would have otherwise\nresulted in a successful block?\n\nSorrow\n-thinking in circles and it hurts\n---\n\"I am Jack's inflamed sense of rejection.\"\n- Narrator"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jan 15, 2002, 9:23:13\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:3C446E6D...@white-wolf.com...\n(snip)\n\n> > Am I to understand that the action would then fizzle, because Wynn is\n> > no longer Ambushing a tapped minion? Or did I completely misread that\n> > message (that I am unable to reference)?\n>\n> You are correct.\n\nshould i believe that a vampire with an Eternal Vigilance and -1 intercept\n(say, a Daughter to make it simple) is immune to ambushes ?? =°\nreyda"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 15, 2002, 11:14:37\u202FPM",
+      "Body": "Sorrow wrote:\n> Ok, same situation but Wynn doesn't add stealth. Anneke taps because she\n> successfully blocks, but is that enough for the Ambush text.\n\nDoesn't matter - the action is blocked.\nYou have to try to successfully resolve the action before it fizzles.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 15, 2002, 11:16:12\u202FPM",
+      "Body": "\uE5D3\n\nIf you call burning a blood being \"immune\", yes (assuming there aren't players\nout there who have minions with -1 stealth or players who would vindictively\ngive your EV an intercept when you \"attempt\" to block with KRCG or whatnot).\n\n\uE5D3"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 15, 2002, 11:33:55\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:3C44A9CD...@white-wolf.com...\n\n> Sorrow wrote:\n> > Ok, same situation but Wynn doesn't add stealth. Anneke taps because\nshe\n> > successfully blocks, but is that enough for the Ambush text.\n>\n> Doesn't matter - the action is blocked.\n> You have to try to successfully resolve the action before it fizzles.\n>\n\nJust to be sure I've got this right...\n\nWhen attempting an action, you check to make sure it is legal (i.e. legal\ntarget, legal actor, enough blood to pay for it) both when it is attempted\nand when it is about to successfully resolve. If it is illegal when it is\nattempted, you get to take it back into your hand with a sheepish grin on\nyour face and get your knuckles rapped with the yardstick (or \"meter\"-stick,\nfor you internationales ;) ). If it is illegal when resolved, then it goes\nto the ash heap, the action is unsuccessful, and you do not pay for it.\nThat correct (actually, I'm far from sure about one thing... *do* you check\nthat the acting vampire can use this action when it resolves, or just that\nthe target is legal and the actor has enough blood? not that I can think of\nany situation off the top of my head where the acting minion could become\nillegal in the middle of an action, but I'm sure it's possible)."
+    },
+    {
+      "Author": "vermillian",
+      "Date": "Jan 16, 2002, 1:04:25\u202FAM",
+      "Body": "\"Sorrow\" <jcb...@yahoo.com> wrote in message news:<vK_08.157$Rf1....@newshog.newsread.com>...\n\n> Ok, same situation but Wynn doesn't add stealth. Anneke taps because she\n> successfully blocks, but is that enough for the Ambush text.\n> I realize that this is a really funky situation in where a block results in combat.\n> However, if she wasn't tapped (due to the 2ndTrad) at the time of the block,\n> does the action fizzle thus negating the combat that would have otherwise\n> resulted in a successful block?\n\nIgnore the entire fact that is was the action Ambush. It was blocked.\nIts not succesful. Combat for succesfully blocking occurs. Note,\nhowever that if he now form of mists, the ambush would then be\nsuccesful (cause Anneke blocked, and is tapped). Note, anneke could\nwake and block, again, with second tradition (thanks to the \"even if\nintercept is not yet needed\" part of the card), but if she untapped\nwith a second 2nd, she'd have to block...\n\nCurious though... what if Anneke played Majesty at superior and\nuntapped and Wynn played Form of Mist... I suppose Anneke could just\nflat out block the thing once again... but it'd be smarter for her to\njust not block, and have the effect fizzle (cause she's untapped)...\nthis happens all the time, I'm sure.\n\n~SV\nPS have I got all of the above right?"
+    },
+    {
+      "Author": "Sorrow",
+      "Date": "Jan 16, 2002, 6:33:59\u202FPM",
+      "Body": "> > Ok, same situation but Wynn doesn't add stealth. Anneke taps because she\n> > successfully blocks, but is that enough for the Ambush text.\n> Doesn't matter - the action is blocked.\n\nWell, it would have mattered if it turned out that there was actually no action\nto block.\n\n> You have to try to successfully resolve the action before it fizzles.\n\nOk.\n\nSorrow\n---\n\"This is my costume.\nI'm a homicidal maniac. They look just like everyone else.\"\n-- Wednesday Addams"
+    },
+    {
+      "Author": "berni...@attbi.comnospam",
+      "Date": "Jan 16, 2002, 8:22:29\u202FPM",
+      "Body": "On Tue, 15 Jan 2002 13:01:17 -0500, LSJ <vte...@white-wolf.com>\nwrote:\n\n\uE5D3\n\nGuess I need to put up a webpage devoted to \"Stupid VTES Tricks and\nTrivia\".\n\nWhy would Ambush need to check twice during an action to decide if\nit's legal? The target minion is tapped, Ambush is played on a legal\ntarget. How the minion responds shouldn't alter the course of the\naction as it was legal when played.\n\nCan you please elaborate as to why this is?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 16, 2002, 8:50:41\u202FPM",
+      "Body": "Chris Berger wrote:\n> Just to be sure I've got this right...\n>\n> When attempting an action, you check to make sure it is legal (i.e. legal\n> target, legal actor, enough blood to pay for it) both when it is attempted\n> and when it is about to successfully resolve. If it is illegal when it is\n> attempted, you get to take it back into your hand with a sheepish grin on\n> your face and get your knuckles rapped with the yardstick (or \"meter\"-stick,\n> for you internationales ;) ).\n\nIf it is illegal when it is attempted, then it is not attempted, since it\nis illegal.\n\n> If it is illegal when resolved, then it goes\n> to the ash heap, the action is unsuccessful, and you do not pay for it.\n\nNo. The action has no effect (it is still a \"successful\" action, since\nit is unblocked - you still pay for it) - just like any other pre-existing\neffect that \"loses sight\" of its target (Aching Beauty on a Toreador who\nthen CIs to a Nosferatu, for example) - the effect no longer applies.\n\n> That correct (actually, I'm far from sure about one thing... *do* you check\n> that the acting vampire can use this action when it resolves, or just that\n> the target is legal and the actor has enough blood? not that I can think of\n> any situation off the top of my head where the acting minion could become\n> illegal in the middle of an action, but I'm sure it's possible).\n\nLosing an action-enabler in the middle of the action (e.g. a Bomb) will cause\nthe action to fizzle, as well.\n\n\uE5D3"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jan 16, 2002, 8:45:48\u202FPM",
+      "Body": "In message <3c45d06c...@netnews.attbi.com>,\n\nberni...@attbi.comNOSPAM writes:\n>Why would Ambush need to check twice during an action to decide if\n>it's legal? The target minion is tapped, Ambush is played on a legal\n>target. How the minion responds shouldn't alter the course of the\n>action as it was legal when played.\n>\n>Can you please elaborate as to why this is?\n\nBecause when an action is successful, you do what the card tells you.\n\nIn the case of Ambush, it tells you to enter combat with a tapped\nminion. In the circumstances given above, there is no tapped minion to\nenter combat with.\n\n--\nJames Coupe You remind me of the babe. What babe?\nPGP 0x5D623D5D The babe with the power. What power?\nEBD690ECD7A1FB457CA2 Power of voodoo. Who do?\n13D7E668C3695D623D5D You do. Do what? Remind me of the babe."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 16, 2002, 9:23:46\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:3C45D991...@white-wolf.com...\n\n> Chris Berger wrote:\n> > When attempting an action, you check to make sure it is legal (i.e.\nlegal\n> > target, legal actor, enough blood to pay for it) both when it is\nattempted\n> > and when it is about to successfully resolve. If it is illegal when it\nis\n> > attempted, you get to take it back into your hand with a sheepish grin\non\n> > your face and get your knuckles rapped with the yardstick (or\n\"meter\"-stick,\n> > for you internationales ;) ).\n>\n> If it is illegal when it is attempted, then it is not attempted, since it\n> is illegal.\n>\n\nUmm... that's what I said."
+    },
+    {
+      "Author": "berni...@attbi.comnospam",
+      "Date": "Jan 16, 2002, 9:52:31\u202FPM",
+      "Body": "On Wed, 16 Jan 2002 19:45:48 +0000, James Coupe <ja...@zephyr.org.uk>\nwrote:\n\n>In message <3c45d06c...@netnews.attbi.com>,\n>berni...@attbi.comNOSPAM writes:\n>>Why would Ambush need to check twice during an action to decide if\n>>it's legal? The target minion is tapped, Ambush is played on a legal\n>>target. How the minion responds shouldn't alter the course of the\n>>action as it was legal when played.\n>>\n>>Can you please elaborate as to why this is?\n>\n>Because when an action is successful, you do what the card tells you.\n>\n>In the case of Ambush, it tells you to enter combat with a tapped\n>minion. In the circumstances given above, there is no tapped minion to\n>enter combat with.\n>\n>--\n>James Coupe\n\nWhich isn't true when the action initially takes place. Ambush HAS\ntargeted a tapped vampire. Any change in status after the fact should\nbe irrelevant.\n\nWhat I'm asking for is why this lame loophole which occurs when\nsomebody plays a 2nd tradition?\n\nRegards,\n\nBernie Bresnahan"
+    },
+    {
+      "Author": "GreySeer",
+      "Date": "Jan 17, 2002, 12:09:11\u202FAM",
+      "Body": "> >In message <3c45d06c...@netnews.attbi.com>,\n> >berni...@attbi.comNOSPAM writes:\n> >>Why would Ambush need to check twice during an action to decide if\n> >>it's legal? The target minion is tapped, Ambush is played on a legal\n> >>target. How the minion responds shouldn't alter the course of the\n> >>action as it was legal when played.\n> >>\n> >>Can you please elaborate as to why this is?\n> >\n> >Because when an action is successful, you do what the card tells you.\n> >\n> >In the case of Ambush, it tells you to enter combat with a tapped\n> >minion. In the circumstances given above, there is no tapped minion to\n> >enter combat with.\n> >\n> >--\n> >James Coupe\n>\n> Which isn't true when the action initially takes place. Ambush HAS\n> targeted a tapped vampire. Any change in status after the fact should\n> be irrelevant.\n>\n> What I'm asking for is why this lame loophole which occurs when\n> somebody plays a 2nd tradition?\n\nIt is a loophole but it's not likely to get exploited that often since 2nd\nTrad requires you to attempt to block. I dbout many people will be rushing a\n2nd Trad-er with 3 stealth ( and especially not now )."
+    },
+    {
+      "Author": "Xian",
+      "Date": "Jan 17, 2002, 12:17:08\u202FAM",
+      "Body": "<berni...@attbi.comNOSPAM> wrote in message\nnews:3c45e707...@netnews.attbi.com...\n\n> What I'm asking for is why this lame loophole which occurs when\n> somebody plays a 2nd tradition?\n\nNot entirely sure. Though you should note that it's only when they play a\n2nd Tradition and then that +2 intercept gets stealthed past. Generally the\nblock will do just fine for the combat-entering-guy. :)\n\nXian"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jan 17, 2002, 1:13:47\u202FAM",
+      "Body": "In message <3c45e707...@netnews.attbi.com>,\n\nberni...@attbi.comNOSPAM writes:\n>What I'm asking for is why this lame loophole which occurs when\n>somebody plays a 2nd tradition?\n\nConsistency with other situations where various parts of the enabling\nsituation disappear.\n\n--\nJames Coupe \"Never give in to them,\" she whispered. \"No matter what\nPGP 0x5D623D5D EB they do or how important you feel it is to get their accep-\nD690ECD7A1FB457CA21 tance. Never kill part of yourself for them. Because other\n3D7E668C3695D623D5D people will notice that part is missing before you do.\""
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Jan 17, 2002, 10:51:13\u202FAM",
+      "Body": ">>What I'm asking for is why this lame loophole which occurs when\n>>somebody plays a 2nd tradition?\n>\n>Consistency with other situations where various parts of the enabling\n>situation disappear.\n\nYeah.\n\nWhen you announce an action, it checks to see if the target is valid (tapped\nminion for Ambush). And when the action resolves, it checks to see if the\ntarget is still valid.\n\nSimilarly, when you perform an action that has a blood cost, it checks to make\nsure you can pay for it when you announce it (an empty vampire can't Govern the\nUnaligned). And then when the action resolves, it checks the blood amount again\n(and fizzles if the cost can't be paid).\n\nAnd just like when the action fizzles because the cost can't be paid, it also\nfizzles if the Bomb is used in combat, or the target is no longer valid (you\ntry to steal a retainer who is killed in combat, and then the combat\ncontinues). In fact, I really don't think the Ambush-->2nd Tradition-->Form of\nMist--->Fizzle situation is really that different from Far Mastery-->Weather\nControl kills Mr. Winthrop-->Form of Mist-->Fizzle (cause Mr. Winthrop is no\nmore).\n\nHalcyan 2"
+    },
+    {
+      "Author": "berni...@attbi.comnospam",
+      "Date": "Jan 17, 2002, 5:10:29\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\nThanks for a good response with clear examples,\n\nBernie B."
+    }
+  ]
+}

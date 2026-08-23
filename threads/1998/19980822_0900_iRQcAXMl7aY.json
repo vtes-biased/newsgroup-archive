@@ -1,0 +1,47 @@
+{
+  "ThreadId": "iRQcAXMl7aY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/iRQcAXMl7aY",
+  "Title": "LSJ: Rules Questions",
+  "Messages": [
+    {
+      "Author": "davey! hathorn",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "Can I use superior Bonding to give a non-bleed action +1 stealth?\n\nIf I use an action modifier such as Lost in Crowds to give a vampire +1\nstealth on, say, an 'equip' action, and then untap that vampire using\nFreak Drive, and then perform a Bleed action, does the vampire still\nhave +1 stealth?\n\nSimilarly, if my opponent plays a reaction card for +1 intercept, such\nas Enhanced Senses, attempts to block my equip action, and fails, does\nthe vampire with enhanced senses still have +1 intercept for the rest of\nthe turn?\n\n-davey!"
+    },
+    {
+      "Author": "James Hamblin",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "davey! hathorn wrote:\n>\n> Can I use superior Bonding to give a non-bleed action +1 stealth?\n\nNo, since you can't give +1 bleed to a non-bleed action.\n\n> If I use an action modifier such as Lost in Crowds to give a vampire +1\n> stealth on, say, an 'equip' action, and then untap that vampire using\n> Freak Drive, and then perform a Bleed action, does the vampire still\n> have +1 stealth?\n\nNo. The first action ends before the second action starts, and all\naction modifiers played on one action discontinue their effects when\nthat action ends.\n\n> Similarly, if my opponent plays a reaction card for +1 intercept, such\n> as Enhanced Senses, attempts to block my equip action, and fails, does\n> the vampire with enhanced senses still have +1 intercept for the rest of\n> the turn?\n\nNo, for the same reason as above. Bonuses gained from reaction cards\nand action modifier cards only last for the current action.\n\nJames\n--\nJames Hamblin\nham...@math.wisc.edu\n\nV:EKN FAQ Maintainer\nhttp://www.math.wisc.edu/~hamblin/faq.html\n\n\"We _do_ kill people... that's sort of our\nraison d'etre\" -- Spike"
+    },
+    {
+      "Author": "Jasper Phillips",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "In article <35DEDB40...@math.wisc.edu>,\n\nJames Hamblin <ham...@math.wisc.edu> wrote:\n>davey! hathorn wrote:\n>>\n>> Can I use superior Bonding to give a non-bleed action +1 stealth?\n>\n>No, since you can't give +1 bleed to a non-bleed action.\n\nD'oh! Really? I thought it simply increased the base bleed of the given\nvampire, not the action itself...\n\nAnd anyway, is there somewhere in the rules it actually says you can't\ngive +1 bleed to a non-bleed action?\n\nCertainly changes the way we've been playing around here, although\nstrangely I've never made any decks with bonding.\n\n--\n/\\ Jasper Phillips\n/VVVVVVVVVVVVVV|~\"~\"~\"~\"~\"~\"----------........____ jaz\nj^^^^^^^^^^^^^\\/\"~\"~\"~\"~-----------........._____ ~\"~--.\n* http://www.engr.orst.edu/~philljas/ \"~\"~'--`"
+    },
+    {
+      "Author": "Lupus Australis",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "On Sat, 22 Aug 1998, davey! hathorn wrote:\n\n> Can I use superior Bonding to give a non-bleed action +1 stealth?\n\nNo.\n\n> If I use an action modifier such as Lost in Crowds to give a vampire +1\n> stealth on, say, an 'equip' action, and then untap that vampire using\n> Freak Drive, and then perform a Bleed action, does the vampire still\n> have +1 stealth?\n\nNo. Action modidifiers modify the current action, not the vampire. Even\nif the acting vampire changes, via Mask of 1000 Faces, the action modifier\nwill remain in effect.\n\n> Similarly, if my opponent plays a reaction card for +1 intercept, such\n> as Enhanced Senses, attempts to block my equip action, and fails, does\n> the vampire with enhanced senses still have +1 intercept for the rest of\n> the turn?\n\nNo. Reaction cards modify the current action of another minion.\n\nLupus Australis\n____ ____\n\\ \\----/ /\n|()__()|\n__\\ __ /__\n/ __\\()/__ \\\n|/ \\==/ \\|\n| || |"
+    },
+    {
+      "Author": "James Hamblin",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "Jasper Phillips wrote:\n>\n> In article <35DEDB40...@math.wisc.edu>,\n> James Hamblin <ham...@math.wisc.edu> wrote:\n\n> >davey! hathorn wrote:\n> >>\n> >> Can I use superior Bonding to give a non-bleed action +1 stealth?\n> >\n\n> >No, since you can't give +1 bleed to a non-bleed action.\n>\n> D'oh! Really? I thought it simply increased the base bleed of the given\n> vampire, not the action itself...\n>\n> And anyway, is there somewhere in the rules it actually says you can't\n> give +1 bleed to a non-bleed action?\n>\n> Certainly changes the way we've been playing around here, although\n> strangely I've never made any decks with bonding.\n\nWell, I am 100% certain that this is the correct rule, but poking around\nin LSJ's site, I couldn't find it. LSJ?\n\nIn any case, after confirmation from LSJ, I'll put this in the FAQ,\nsince this question seems to come up periodically.\n\n\uE5D3"
+    },
+    {
+      "Author": "Lupus Australis",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "On Sat, 22 Aug 1998, James Hamblin wrote:\n\n> Jasper Phillips wrote:\n> >\n> > And anyway, is there somewhere in the rules it actually says you can't\n> > give +1 bleed to a non-bleed action?\n>\n\n> Well, I am 100% certain that this is the correct rule, but poking around\n> in LSJ's site, I couldn't find it. LSJ?\n\nFind the Rules Outline (V:tES Complete Rules Reference (Version 2.12)).\n\nAt the end of Section III (How to Perform Actions):\n\n\"Only Action Modifiers appropriate to the Action may be played. eg., you\nmay not use Bonding on a non-Bleed Action. [RTR]\"\n\n\uE5D3"
+    },
+    {
+      "Author": "Jasper Phillips",
+      "Date": "Aug 22, 1998, 9:00:00\u202FAM",
+      "Body": "In article <Pine.SUN.3.96.980822152943.10820A-100000@amanda>,\n\nLupus Australis <jbwh...@dorsai.org> wrote:\n>On Sat, 22 Aug 1998, James Hamblin wrote:\n>\n>> Jasper Phillips wrote:\n>> >\n>> > And anyway, is there somewhere in the rules it actually says you can't\n>> > give +1 bleed to a non-bleed action?\n>>\n>> Well, I am 100% certain that this is the correct rule, but poking around\n>> in LSJ's site, I couldn't find it. LSJ?\n>\n>Find the Rules Outline (V:tES Complete Rules Reference (Version 2.12)).\n>\n>At the end of Section III (How to Perform Actions):\n>\n>\"Only Action Modifiers appropriate to the Action may be played. eg., you\n>may not use Bonding on a non-Bleed Action. [RTR]\"\n\nWell, if it's ruled upon specifically, that's rather hard to argue.\nStill, we'd just always assumed that it _was_ appropiate if you\nneed more stealth.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 24, 1998, 9:00:00\u202FAM",
+      "Body": "davey! hathorn wrote:\n>\n> Can I use superior Bonding to give a non-bleed action +1 stealth?\n\nNo. You cannot play bleed modifiers on non-bleed actions.\n\n> If I use an action modifier such as Lost in Crowds to give a vampire +1\n> stealth on, say, an 'equip' action, and then untap that vampire using\n> Freak Drive, and then perform a Bleed action, does the vampire still\n> have +1 stealth?\n\nNo. Action modifiers apply to the current action only.\n\n> Similarly, if my opponent plays a reaction card for +1 intercept, such\n> as Enhanced Senses, attempts to block my equip action, and fails, does\n> the vampire with enhanced senses still have +1 intercept for the rest of\n> the turn?\n\nNo. Reaction cards apply to the current action only.\n\n--\nL. Scott Johnson (vte...@wizards.com) VTES Net.Rep for Wizards of the Coast.\nSearchable database of official card text, errata, and rulings:\nhttp://deckserver.net/cgi-deckserver/rulemonger.cgi/powersearch"
+    }
+  ]
+}

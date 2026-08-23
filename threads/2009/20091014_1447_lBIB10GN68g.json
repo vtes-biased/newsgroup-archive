@@ -1,0 +1,57 @@
+{
+  "ThreadId": "lBIB10GN68g",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/lBIB10GN68g",
+  "Title": "Statistics Help",
+  "Messages": [
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Oct 14, 2009, 2:47:21\u202FPM",
+      "Body": "Hi\nIn the upcoming storyline I am considering playing with Menele and his\nadvancement. Now I don't think I will play Brujah, but some Liabon\nclan. Now my question is: Should I use 3 copies of menele (one of them\nadv.) and stay with a 12 card crypt size. Or should I increase my\nCrypt to 16 and use 4 copies of Menele. Which of the two gives me\nbiggest chance of drawing him on my first round?"
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Oct 14, 2009, 2:56:13\u202FPM",
+      "Body": "\uE5D3\n\nWhen you need a vamp badly, 13/4 seems nice to me."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 14, 2009, 3:05:17\u202FPM",
+      "Body": "\uE5D3\n\n3/12 = 75% chance of seeing him in the opening 4.\n4/16 = 73%"
+    },
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Oct 14, 2009, 5:14:11\u202FPM",
+      "Body": "\uE5D3\n\nThanks\nHum. Then a 3/12 crypt would prob be the best."
+    },
+    {
+      "Author": "John P.",
+      "Date": "Oct 14, 2009, 6:00:46\u202FPM",
+      "Body": "\uE5D3\n\n4 of 13 (as compared to 4 of 12) increases chance of seeing ONLY 1\ncopy (+1.7%)\nwhile increasing the chance of seeing none (+2.5%). Seems like a poor\ntrade off"
+    },
+    {
+      "Author": "librarian",
+      "Date": "Oct 14, 2009, 7:16:22\u202FPM",
+      "Body": "\uE5D3\n\nBut 4/13 would be an illegal crypt for the Storyline, wouldn't it? May\nneed to go back and read storyline rules again...\n\nbest -\n\nchris"
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Oct 14, 2009, 8:59:05\u202FPM",
+      "Body": "\uE5D3\n\n3 in 12 = 74.55%\n\n4 in 16 = 72.80%\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! http://vtesville.myminicity.com/\nPlease buy my cards! http://shop.ebay.com/kjmergen/m.html"
+    },
+    {
+      "Author": "bwross",
+      "Date": "Oct 14, 2009, 11:45:47\u202FPM",
+      "Body": "On Oct 14, 11:14 am, Baaliprimogen <vegardki...@gmail.com> wrote:\n> Thanks\n> Hum. Then a 3/12 crypt would prob be the best.\n\nYeah, the general rule is:\n\nIf you increase the size of the deck/crypt, you need a higher ratio of\nyour key card to maintain the same level of consistency.\n\nCorollary:\n\nTo maximize consistency, minimize the size of your deck/crypt where\npossible.\n\nBrent Ross"
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Oct 16, 2009, 1:50:58\u202FAM",
+      "Body": "\uE5D3\n\nI was comparing to 3 of 12. Seeing only one copy is fine for me and why I go\nto 13. I'd like to know how much my chances of seeing my guy are improved\ngoing from 3/12 to 4/13."
+    },
+    {
+      "Author": "Jakob Sievers",
+      "Date": "Oct 16, 2009, 7:39:03\u202FAM",
+      "Body": "\"Orpheus\" <orpheus.13@NOSPAM@free.fr> writes:\n\n\uE5D3\n\nHave some tables:\n\nj@salty:~$ deal -b 4 3 12\n4 in initial hand, 3 specials out of 12 total\n\nD/S | 0 1 2 3\n---------------------\n0 | 25 51 22 2\n1 | 16 48 32 5\n2 | 9 41 41 9\n3 | 5 32 48 16\n4 | 2 22 51 25\n5 | . 12 49 38\n6 | . 5 41 55\n7 | . . 25 75\n8 | . . . 100\n\nj@salty:~$ deal -b 4 -g 3 12\n4 in initial hand, 3 specials out of 12 total\n\nD/S | 0 1 2 3\n---------------------\n0 | 100 75 24 2\n1 | 100 84 36 5\n2 | 100 91 50 9\n3 | 100 95 64 16\n4 | 100 98 76 25\n5 | 100 100 87 38\n6 | 100 100 95 55\n7 | 100 100 100 75\n8 | 100 100 100 100\n\nj@salty:~$ deal -b 4 4 13\n4 in initial hand, 4 specials out of 13 total\n\nD/S | 0 1 2 3 4\n-------------------------\n0 | 18 47 30 5 .\n1 | 10 39 39 11 1\n2 | 5 29 44 20 2\n3 | 2 20 44 29 5\n4 | 1 11 39 39 10\n5 | . 5 30 47 18\n6 | . 1 19 50 29\n7 | . . 8 46 46\n8 | . . . 31 69\n9 | . . . . 100\n\nj@salty:~$ deal -b 4 -g 4 13\n4 in initial hand, 4 specials out of 13 total\n\nD/S | 0 1 2 3 4\n-------------------------\n0 | 100 82 35 5 .\n1 | 100 90 51 12 1\n2 | 100 95 66 22 2\n3 | 100 98 78 34 5\n4 | 100 99 88 49 10\n5 | 100 100 95 65 18\n6 | 100 100 99 80 29\n7 | 100 100 100 92 46\n8 | 100 100 100 100 69\n9 | 100 100 100 100 100\n\nYou're probably interested in the first row, which gives starting hand\nprobabilities.\n\nProbability of seeing exactly one with 3/12: 51%\nProbability of seeing at least one with 3/12: 75%\nProbability of seeing exactly one with 4/13: 47%\nProbability of seeing at least one with 4/13: 82%\n\ncheers,\n-jakob"
+    }
+  ]
+}

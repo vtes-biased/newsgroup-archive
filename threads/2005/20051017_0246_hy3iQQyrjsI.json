@@ -1,0 +1,47 @@
+{
+  "ThreadId": "hy3iQQyrjsI",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hy3iQQyrjsI",
+  "Title": "Torn Signpost and a Vampire's base Strength",
+  "Messages": [
+    {
+      "Author": "bernard....@gmail.com",
+      "Date": "Oct 17, 2005, 2:46:26\u202FAM",
+      "Body": "I'm sure I've seen this in a post before but I can't find it for the\nlife of me.\n\nWhen playing Torn Signpost on a vampire who's card text says strength +\nx Does Torn signpost cancel out the + x part of the text?\n\nI would say yes, since TS says \"[pot] This vampire has a strength of 2\nfor the remainder of the combat\" and \"[POT] this vampire has a strength\nof 3 for the remainder of the combat.\""
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 17, 2005, 3:27:02\u202FAM",
+      "Body": "bernard....@gmail.com wrote:\n> I'm sure I've seen this in a post before but I can't find it for the\n> life of me.\n>\n> When playing Torn Signpost on a vampire who's card text says strength +\n> x Does Torn signpost cancel out the + x part of the text?\n\nNo.\n\n> I would say yes, since TS says \"[pot] This vampire has a strength of 2\n> for the remainder of the combat\" and \"[POT] this vampire has a strength\n> of 3 for the remainder of the combat.\"\n\nThe +X is added to the minion's strength, whatever it is.\n\n--\nThat is my story, be it bitter or be it sweet.\nKeep a little and let a little come back to me.\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Odrich Wendergass",
+      "Date": "Oct 17, 2005, 4:34:14\u202FAM",
+      "Body": "LSJ wrote:\n> bernard....@gmail.com wrote:\n> > I'm sure I've seen this in a post before but I can't find it for the\n> > life of me.\n> >\n> > When playing Torn Signpost on a vampire who's card text says strength +\n> > x Does Torn signpost cancel out the + x part of the text?\n>\n> No.\n>\n> > I would say yes, since TS says \"[pot] This vampire has a strength of 2\n> > for the remainder of the combat\" and \"[POT] this vampire has a strength\n> > of 3 for the remainder of the combat.\"\n>\n> The +X is added to the minion's strength, whatever it is.\n>\n> --\n\nJust to illustrate:\nNigel, the Shunned (POT) gets into combat.\nHe plays Torn Signpost. (base Strength is set at 3)\nHe plays Increased Strength. (strength +2 for a POT strike)\nHe plays Immortal Grapple.\nHe strikes with Undead Strength. (strike at +2 damage)\n\nNigel therefore deals\n3 (base Str) + 2 (Undead Str) + 2 (Increased Str) = 7 damage.\n\nNeedless to say, it goes nicely with Disarm. :D\n\nOW"
+    },
+    {
+      "Author": "CthuluKitty",
+      "Date": "Oct 17, 2005, 8:32:02\u202FPM",
+      "Body": "> Nigel, the Shunned (POT) gets into combat.\n> He plays Torn Signpost. (base Strength is set at 3)\n> He plays Increased Strength. (strength +2 for a POT strike)\n> He plays Immortal Grapple.\n> He strikes with Undead Strength. (strike at +2 damage)\n>\n> Nigel therefore deals\n> 3 (base Str) + 2 (Undead Str) + 2 (Increased Str) = 7 damage.\n\nIncreased Strength does not actually increase strength (ironically).\nIt just adds to the damage of potence strikes."
+    },
+    {
+      "Author": "Omael",
+      "Date": "Oct 19, 2005, 4:32:48\u202FAM",
+      "Body": "\uE5D3\nBernard: the old version of the torn sign post said that the minion get\n3 of strength, but the new ones say that the minion get +2 of strength.\nI'd play a lazverinus deck with 10 posts :)"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Oct 19, 2005, 5:57:26\u202FAM",
+      "Body": "> Bernard: the old version of the torn sign post said that the minion get\n> 3 of strength, but the new ones say that the minion get +2 of strength.\n> I'd play a lazverinus deck with 10 posts :)\n>\n\nTorn Signpost still says 2/3. Otherwise, they'd have to change the text to\nonly have an effect once per combat."
+    },
+    {
+      "Author": "bernard....@gmail.com",
+      "Date": "Oct 20, 2005, 1:22:26\u202FAM",
+      "Body": "So just to confirm. Enkidu has strenth +2. He plays a Torn Signpost\nthat sets his strength to 3 but because he has strength +2 his strength\nis effectively 5 + any strike cards he may play assuming they do +x\nstrength damge?"
+    },
+    {
+      "Author": "Doug",
+      "Date": "Oct 20, 2005, 2:29:04\u202FAM",
+      "Body": "\uE5D3\n\nCorrect.\n\nA good way of remembering this is that all vampires, by default, have a\nbase strength of 1. Torn Signpost temporarily changes the vampire's\nbase strength to 2 at inferior, or 3 at superior. You then add any\nadditional bonuses, including the bonus given by a vampires special\nability text.\n\nDoug"
+    }
+  ]
+}

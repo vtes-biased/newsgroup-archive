@@ -1,0 +1,17 @@
+{
+  "ThreadId": "aUUs4VCR_Ec",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/aUUs4VCR_Ec",
+  "Title": "Correct use of Cryptic Rider",
+  "Messages": [
+    {
+      "Author": "Michael Beer",
+      "Date": "Jan 7, 1998, 9:00:00\u202FAM",
+      "Body": "Assume that you just successfully casted a vote and played Cryptic\nRider.\n\nA second vampire of yours is about to cast the famous second vote...\n\nDoes voting still occur during this second vote (although it passes\nautomatically anyway)?\n\nMay effects from modifiers like Bribes, Treachery, Voter Captivation...\nstill apply in this second vote?\n\nMichael Beer"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 7, 1998, 9:00:00\u202FAM",
+      "Body": "Michael Beer wrote:\n>\n> Assume that you just successfully casted a vote and played Cryptic\n> Rider.\n>\n> A second vampire of yours is about to cast the famous second vote...\n>\n> Does voting still occur during this second vote (although it passes\n> automatically anyway)?\n\nNo. As soon as the action resolves (remains unblocked) - the time\nthat voting would normally occur, then vote instantly passes.\n\n> May effects from modifiers like Bribes, Treachery, Voter Captivation...\n> still apply in this second vote?\n\nNo. The first two cannot be played, since there is no opportunity\nto play them. Voter Cap can be played after the votes succeeds, but\nX will just be zero (indeterminate, actually), since the vote didn't\npass by any specific amount.\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    }
+  ]
+}

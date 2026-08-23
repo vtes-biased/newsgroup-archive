@@ -1,0 +1,37 @@
+{
+  "ThreadId": "FOLkbrSh0Ns",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/FOLkbrSh0Ns",
+  "Title": "LSJ: Heaven's Gate and Escaped Mental Patient",
+  "Messages": [
+    {
+      "Author": "Temporis",
+      "Date": "May 7, 2007, 6:59:04\u202FPM",
+      "Body": "Just a quick query about the interaction of two cards that I can't\nfind a specific resolution to.\n\nIf an Escaped Mental Patient uses its special text to strike with\naggravated damage during combat can it be saved from burning by\nHeaven's Gate?\n\nMy problems arise from (a) the interaction between 'burn him at the\nend of combat if he does so' (EMP text) and 'when an ally is burned in\ncombat' (HG text) - is the end of combat still in combat? - and (b) if\nthe EMP strikes in combat with aggravated damage from its card text\nbut is burned 'in combat' by damage from the opposing minion how does\nHeaven's Gate interact with this? Does the HG save the EMP, as it is\nwould be burned in combat, and then does the EMP move to the\nuncontrolled region? How does burn at the end of combat interact with\nthis effect? Is the EMP saved by HG only to burn due its own card\ntext (this seems plausible)? But does this occur irrespective of\nwhether the EMP is burned 'in combat' by an opposing minion?\n\nThanks in advance, I've been playing this game since the very\nbeginning, but I seem to be having critical rules interpretation\nfailure on this one.\n\nTemporis\n\nEscaped Mental Patient\nType: Ally\nRequires: Malkavian antitribu\nCost: 2 pool\nMortal with 1 life. 1 strength, 0 bleed.\nEscaped Mental Patient can enter combat with any minion controlled by\nanother Methuselah as a (D) action. The Patient can make a hand strike\nat +1 damage, aggravated. Burn him at the end of combat if he does so.\n\nHeaven's Gate\nType: Combat\nRequires: Obeah/Necromancy\nCost: 1 blood\nOnly usable by a ready untapped vampire not involved in combat.\n[nec] Prevent 1 damage to an ally in combat.\n[obe] Only usable when an ally is burned in combat. Move that ally to\nhis or her controller's uncontrolled region (controlled, but not\nready) instead. Put 1 life on the ally from the blood bank if he or\nshe has no life.\n[OBE] As [obe] above, but add up to 2 life to the ally, not to exceed\nhis or her starting amount."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 7, 2007, 9:47:28\u202FPM",
+      "Body": "Temporis wrote:\n> Just a quick query about the interaction of two cards that I can't\n> find a specific resolution to.\n>\n> If an Escaped Mental Patient uses its special text to strike with\n> aggravated damage during combat can it be saved from burning by\n> Heaven's Gate?\n\nNo.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/a3fb69badc08dbdf"
+    },
+    {
+      "Author": "IC-O...@yandex.ru",
+      "Date": "May 8, 2007, 10:03:27\u202FAM",
+      "Body": "\uE5D3\n> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/a3fb...\n\nSorry, I don't get it.\n\nI can save EMP if opposing minion have dodged?\nI can't save EMP if it strike aggro and takes damage and is burned\nduring strike resolution , cause if i play Heaven Gate, combat ends\nand EMP is burned due to his card text? And I can't play second Heaven\nGate to prevent it?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 8, 2007, 12:52:32\u202FPM",
+      "Body": "IC-O...@yandex.ru wrote:\n> On 7 май, 22:47, LSJ <vtes...@white-wolf.com> wrote:\n>> Temporis wrote:\n>>> Just a quick query about the interaction of two cards that I can't\n>>> find a specific resolution to.\n>>> If an Escaped Mental Patient uses its special text to strike with\n>>> aggravated damage during combat can it be saved from burning by\n>>> Heaven's Gate?\n>> No.\n>>\n>> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/a3fb...\n>\n> Sorry, I don't get it.\n>\n> I can save EMP if opposing minion have dodged?\n\nNo. Dodge doesn't protect the EMP. Dodge only protects the dodger.\n\n> I can't save EMP if it strike aggro and takes damage and is burned\n> during strike resolution , cause if i play Heaven Gate, combat ends\n> and EMP is burned due to his card text? And I can't play second Heaven\n> Gate to prevent it?\n\nYou could play a second Heaven's Gate. But then the EMP would still burn when\ncombat ends. And a third and a fourth. Eventually when you stop playing Heaven's\nGates, the EMP burns."
+    },
+    {
+      "Author": "J",
+      "Date": "May 8, 2007, 2:13:00\u202FPM",
+      "Body": "> You could play a second Heaven's Gate. But then the EMP would still burn when\n> combat ends. And a third and a fourth. Eventually when you stop playing Heaven's\n> Gates, the EMP burns.\n\nEMP can still do Agg/Rotshcreck and not burn though right?\n\n--> J\ngrail_pbem \"at\" hotmail.com"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 8, 2007, 2:35:04\u202FPM",
+      "Body": "J wrote:\n>> You could play a second Heaven's Gate. But then the EMP would still burn when\n>> combat ends. And a third and a fourth. Eventually when you stop playing Heaven's\n>> Gates, the EMP burns.\n>\n> EMP can still do Agg/Rotshcreck and not burn though right?\n\nEMP can still attempt Agg and, if combat ends before he does the strike (like if\nhis controller, or any Methuselah for that matter, plays Rötshreck), then his\n\"if he does the strike\" penalty won't kick in, right."
+    }
+  ]
+}

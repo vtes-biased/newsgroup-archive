@@ -1,0 +1,62 @@
+{
+  "ThreadId": "dQcScJPcUoQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/dQcScJPcUoQ",
+  "Title": "LSJ - CSV spoiler problem?",
+  "Messages": [
+    {
+      "Author": "Joshua Duffin",
+      "Date": "May 10, 2006, 4:20:07\u202FPM",
+      "Body": "Hi Scott,\n\nIt looks like the current vtescsv.zip file at\nhttp://download.white-wolf.com/download/download.php?file_id=131 has some\ntruncated card texts in the vteslib.csv file. For example, Anima Gathering\nis cut off at the \"[AU\" in its superior line, and Aranthebes the Immortal is\ncut off at the \"A\" in his final sentence. There may be other examples too,\nI'm not sure.\n\nIt doesn't seem to have happened to any of the vampires in the vtescrypt.csv\nfile, though. At least, Sonja Blue seems to have the longest rules text of\nany current vampire, and she has all of her text. There don't seem to be\nany problems with the Cardlist.txt plain-text listing, either.\n\nJosh\n\nhadn't noticed till norm pointed it out"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 10, 2006, 5:45:05\u202FPM",
+      "Body": "Joshua Duffin wrote:\n> Hi Scott,\n>\n> It looks like the current vtescsv.zip file at\n> http://download.white-wolf.com/download/download.php?file_id=131 has some\n> truncated card texts in the vteslib.csv file. For example, Anima Gathering\n> is cut off at the \"[AU\" in its superior line, and Aranthebes the Immortal is\n> cut off at the \"A\" in his final sentence. There may be other examples too,\n> I'm not sure.\n\n?\n\nI just downloaded the file via that link and opened it in a text\neditor. The Anima Gathering line reads complete:\n\n\"Anima Gathering\",\"Action\",\"\",\"Auspex\",\"\",\"\",\"\",\"\",\"+1 stealth action.\n[aus] Put this card on this acting vampire and choose another minion\nyou control. Burn this card if this minion untaps. During your untap\nphase, you may choose not to untap this minion as normal. The chosen\nminion gets +2 intercept.\n[AUS] As above, and the chosen minion also gets +1\nbleed.\",\"\",\"KMW:C\",\"\",\"Jeff Holt\"\n\nAranthebes similarly:\n\n\"Aranthebes, The Immortal\",\"Action\",\"\",\"\",\"1\",\"\",\"\",\"\",\"+1 stealth\naction. Unique.\nPut this card into play. You may tap Aranthebes to give a minion\ncontrolled by your predator -1 stealth for the current action. While\nAranthebes is untapped, vampires with a capacity less than 5 get -1\nbleed when bleeding you. Any vampire with a capacity above 4 can move\nAranthebes to your library as a (D) action. Shuffle\nafterward.\",\"\",\"Anarchs:R\",\"\",\"Andrew Trabbold\"\n\nPerhaps its a problem with the app you're using to open the file.\nCheck yours with a text editor to verify."
+    },
+    {
+      "Author": "Shade",
+      "Date": "May 10, 2006, 6:09:09\u202FPM",
+      "Body": "Joshua Duffin wrote:\n> It looks like the current vtescsv.zip file at\n> http://download.white-wolf.com/download/download.php?file_id=131 has some\n> truncated card texts in the vteslib.csv file. For example, Anima Gathering\n> is cut off at the \"[AU\" in its superior line, and Aranthebes the Immortal is\n> cut off at the \"A\" in his final sentence. There may be other examples too,\n> I'm not sure.\n\nIn MS Excel 2003 I see the same thing, when I open in a normal text\neditor it looks fine. Certainly not the first time Excel and CSV files\nhave caused problems...\n\nSimon\n\nhas done way too many data cleans"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "May 10, 2006, 9:00:02\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:1147275905.7...@j33g2000cwa.googlegroups.com...\n\n> Joshua Duffin wrote:\n>> Hi Scott,\n>>\n>> It looks like the current vtescsv.zip file at\n>> http://download.white-wolf.com/download/download.php?file_id=131 has some\n>> truncated card texts in the vteslib.csv file. For example, Anima\n>> Gathering\n>> is cut off at the \"[AU\" in its superior line, and Aranthebes the Immortal\n>> is\n>> cut off at the \"A\" in his final sentence. There may be other examples\n>> too,\n>> I'm not sure.\n>\n> ?\n>\n> I just downloaded the file via that link and opened it in a text\n> editor. The Anima Gathering line reads complete:\n\n> Perhaps its a problem with the app you're using to open the file.\n\n> Check yours with a text editor to verify.\n\nDang! I even downloaded a fresh copy of the CSV to \"make sure\" it wasn't\nsomething I did, but it didn't occur to me that Excel (2002 SP3, here at\nwork) was messing up the (perfectly fine in text) file when I opened it.\nThat's so budget.\n\nI guess I'll try using OpenOffice sometime when I'm at home and see if that\nworks better... ah well. Thanks to you and Shade for help determining the\nsource of the problem...\n\nJosh\n\nthwarted by microsoft... again!"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "May 11, 2006, 4:01:32\u202FAM",
+      "Body": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA1\n\nJoshua Duffin wrote:\n> \"LSJ\" <vte...@white-wolf.com> wrote in message\n> news:1147275905.7...@j33g2000cwa.googlegroups.com...\n>>\n\n>> I just downloaded the file via that link and opened it in a text\n>> editor. The Anima Gathering line reads complete:\n>\n\n> Dang! I even downloaded a fresh copy of the CSV to \"make sure\" it wasn't\n> something I did, but it didn't occur to me that Excel (2002 SP3, here at\n> work) was messing up the (perfectly fine in text) file when I opened it.\n\nAt the 255-character mark, you mean?\n\n- --\nDerek\n\ninsert clever quotation here\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1.4.2.2 (GNU/Linux)\nComment: Using GnuPG with Mozilla - http://enigmail.mozdev.org\n\niD8DBQFEYpr8tQZlu3o7QpERArp0AJ0RvNokneUb6/FsZ68Jg3fQPIRShQCfflTn\njrxDsteW0uGsmrSHqBVJetI=\n=C+8h\n-----END PGP SIGNATURE-----"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "May 11, 2006, 3:58:06\u202FPM",
+      "Body": "\"Derek Ray\" <lor...@yahoo.com> wrote in message\nnews:19idnWeZFqfYBv_Z...@giganews.com...\n\n> -----BEGIN PGP SIGNED MESSAGE-----\n> Hash: SHA1\n>\n> Joshua Duffin wrote:\n\n>> Dang! I even downloaded a fresh copy of the CSV to \"make sure\" it wasn't\n>> something I did, but it didn't occur to me that Excel (2002 SP3, here at\n>> work) was messing up the (perfectly fine in text) file when I opened it.\n>\n> At the 255-character mark, you mean?\n\nThat seems to be where it's truncating long card-text fields, yeah. Excel\n(at least, the 2002 version) seems to be OK with lines that are longer than\n255 characters, but doesn't seem to be able to handle individual fields\nlonger than 255 characters in a .CSV file. Do you have a clever fix\nsuggestion? I haven't managed to try OpenOffice yet, maybe that'll be able\nto do it. I thought about trying to use a text editor to cut out the\nimbued-attribute fields, but despaired of figuring out how to delete an\nentire field in an editor that doesn't look at the .CSV as having separate\nfields...\n\nJosh\n\nnot so excellent"
+    },
+    {
+      "Author": "Salem",
+      "Date": "May 11, 2006, 4:57:54\u202FPM",
+      "Body": "\uE5D3\n\nread it into Access and export as .xls?\n\nI don't know if the first part will work without having the same prob as\nExcel, and I am not sure the second part is possible, but it should be.\nSo if you have excel, you probably have access, so it's not anything\nextra to install...might be worth a few minutes to try.\n\n--\nsalem\nhttp://users.tpg.com.au/adsltqna/vtes/\n(replace 'hotmail' with 'yahoo' to email)"
+    },
+    {
+      "Author": "Shade",
+      "Date": "May 11, 2006, 5:17:09\u202FPM",
+      "Body": "Salem wrote:\n> read it into Access and export as .xls?\n\nThat would be my approach as well. Excel doesn't handle CSV files as\nwell as you would expect it to..."
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "May 11, 2006, 5:34:28\u202FPM",
+      "Body": "\"Salem\" <salem_ch...@hotmail.com> wrote in message\nnews:446350ef$1...@dnews.tpgi.com.au...\n\uE5D3\n\nU R TEH GENIUS.\n\nI would never have thought of using Access. It took a little jiggling, but\nit worked! Now I can read the entire text of Anima Gathering in ARDB. How\nexciting. :-)\n\nJosh\n\nfull of commas and quote marks"
+    },
+    {
+      "Author": "Salem",
+      "Date": "May 11, 2006, 5:56:38\u202FPM",
+      "Body": "Joshua Duffin wrote:\n> \"Salem\" <salem_ch...@hotmail.com> wrote in message\n> news:446350ef$1...@dnews.tpgi.com.au...\n\n>> read it into Access and export as .xls?\n\n>>\n>> I don't know if the first part will work without having the same prob as\n>> Excel, and I am not sure the second part is possible, but it should be. So\n>> if you have excel, you probably have access, so it's not anything extra to\n>> install...might be worth a few minutes to try.\n>\n> U R TEH GENIUS.\n>\n> I would never have thought of using Access. It took a little jiggling, but\n> it worked! Now I can read the entire text of Anima Gathering in ARDB. How\n> exciting. :-)\n\n*takes a bow*\n\nsee, there _is_ some real-world application for the skills I aquire in\nthe workplace.\n\nAlthough I would have read it into a Teradata database instead, 'cause I\nhate Access. But I suspect they might not like me using their\nmulti-million dollar machine for VtES stuff.\n\n\uE5D3"
+    },
+    {
+      "Author": "Pat",
+      "Date": "May 12, 2006, 4:29:43\u202FAM",
+      "Body": "\"Shade\" <sha...@gmail.com> wrote in message\nnews:1147360629.7...@i40g2000cwc.googlegroups.com...\n\uE5D3\n\nYeah, that's definitely true. I always use tab-delimited when I can, and I\nrarely have trouble with that format.\n\n- Pat"
+    }
+  ]
+}

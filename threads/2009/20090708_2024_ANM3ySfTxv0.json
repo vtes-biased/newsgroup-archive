@@ -1,0 +1,47 @@
+{
+  "ThreadId": "ANM3ySfTxv0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ANM3ySfTxv0",
+  "Title": "(LSJ) Aim + ammo question",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jul 8, 2009, 8:24:16\u202FPM",
+      "Body": "Hello,\nToday's question is about the Aim cards (well, mainly Target Head and\nTarget Vitals).\nWe know they inflict the same kind of damage as the modified strike\ninflicts (aggravated, ranged, not preventable [by ...], ...).\nBut what if the strike inflicts multiple kinds of damage?\n\nExamples\n\nA, with a Saturday Night Special, is in combat with B. A's strike is\nto shoot for 1R damage.\n1/ A modifies the strike playing a Target Head (which is not\ncancelled). A replaces the Target Head, and plays a Dragon's Breath\nRounds.\nI suppose B has to deal with 3 regular and 2 agg damage. Is this\ncorrect ?\n\n2/ A modifies his strike with a Dragon's Breath Rounds. A also\nmodifies it with a Target Head, uncancelled.\nWhat exactly is inflicted on B ?\n\n3/ A modifies the strike playing a Target Vitals (which is not\ncancelled) and a Dragon's Breath Rounds (I think the order doesn't\nchange anything here).\nThis time, B has to deal with 1 regular and 2 agg damage.\na - If the regular damage is not prevented, B will suffer an extra 2\nregular damage. Is this correct ?\nb - if the regular damage is prevented, but at least 1 agg isn't, B\nwill suffer an extra 2 agg damage. Is this correct ?\n\nThanks\n\n~~\n\nDragon's Breath Rounds\nCardtype: Combat\nAmmo.\nOnly usable before resolution of a gun's strike. This gun inflicts +2\naggravated damage each strike for the remainder of this combat. Burn\nthe gun after strike resolution. No more than one ammo card can be\nused on a gun each combat.\n\nTarget Head\nCardtype: Combat\nAim. Play when choosing a strike.\nThe strike does +2 damage. The opposing minion may discard a combat\ncard [COMBAT] to cancel this card. If any damage from this strike is\nsuccessfully inflicted on the opposing minion, he or she cannot use\nany additional strikes or presses this round, and you may set the\nrange for the next round. A minion may play only one aim each strike.\n\nTarget Vitals\nCardtype: Combat\nAim. Play when choosing a strike.\nIf any damage from this strike is successfully inflicted on the\nopposing minion, he or she takes an additional 2 damage from this\nstrike, and he or she cannot press this round. The opposing minion may\ndiscard two combat cards [COMBAT] to cancel this card. A minion may\nplay only one aim each strike."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 8, 2009, 8:33:17\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> Hello,\n> Today's question is about the Aim cards (well, mainly Target Head and\n> Target Vitals).\n> We know they inflict the same kind of damage as the modified strike\n> inflicts (aggravated, ranged, not preventable [by ...], ...).\n> But what if the strike inflicts multiple kinds of damage?\n\nAdditional damage inherits all of the properties of the base damage.\n\n> Examples\n>\n> A, with a Saturday Night Special, is in combat with B. A's strike is\n> to shoot for 1R damage.\n> 1/ A modifies the strike playing a Target Head (which is not\n> cancelled). A replaces the Target Head, and plays a Dragon's Breath\n> Rounds.\n> I suppose B has to deal with 3 regular and 2 agg damage. Is this\n> correct ?\n\nYes.\n\n> 2/ A modifies his strike with a Dragon's Breath Rounds. A also\n> modifies it with a Target Head, uncancelled.\n> What exactly is inflicted on B ?\n\n3reg + 2agg\n\n> 3/ A modifies the strike playing a Target Vitals (which is not\n> cancelled) and a Dragon's Breath Rounds (I think the order doesn't\n> change anything here).\n> This time, B has to deal with 1 regular and 2 agg damage.\n> a - If the regular damage is not prevented, B will suffer an extra 2\n> regular damage. Is this correct ?\n\nYes.\n\n> b - if the regular damage is prevented, but at least 1 agg isn't, B\n> will suffer an extra 2 agg damage. Is this correct ?\n\nNo. The extra damage only inherits the properties of the base damage.\n\n\uE5D3"
+    },
+    {
+      "Author": "Stone",
+      "Date": "Jul 9, 2009, 10:33:07\u202FAM",
+      "Body": "> floppyzedolfin wrote:\n> > 3/ A modifies the strike playing a Target Vitals (which is not\n> > cancelled) and a Dragon's Breath Rounds (I think the order doesn't\n> > change anything here).\n\nThe order does matter. You can't announce the gun strike, then play DBR,\nthen play TV. TV must be played immediately after the gun strike\ndeclaration, DBR must be played just before strike resolution. \"just before\"\nmeans after both strikes are chosen. Correct ?\n\nAnother Target Vitals question :\nA (+1 strength) and B are in combat. A strikes for 2 with TV. For some\nreason, B prevents only 1 damage from the hand strike, triggering the TV's\neffect. Can B still play prevention cards to prevent the 2 damage from TV\n(don't ask me why, maybe B needs to lose exactly 1 blood for some reason) ?\nOr does the \"takes\" in the \"takes 2 additionnal damage\" means it's no longer\npreventable ?\nthanks\nStone"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jul 9, 2009, 10:39:37\u202FAM",
+      "Body": "On Jul 9, 10:33 am, \"Stone\" <mc_judge_st...@yahoo.fr> wrote:\n> > floppyzedolfin wrote:\n> > > 3/ A modifies the strike playing a Target Vitals (which is not\n> > > cancelled)  and a Dragon's Breath Rounds (I think the order doesn't\n> > > change anything here).\n>\n> The order does matter. You can't announce the gun strike, then play DBR,\n> then play TV. TV must be played immediately after the gun strike\n> declaration, DBR must be played just before strike resolution. \"just before\"\n> means after both strikes are chosen. Correct ?\n\nWell not technically, no. Before Resolution means ANYTIME before\nresolution, including as the strike is announced. So if you are\nplaying multiple effects as the strike is announced, surely you can\norder them however you wish?\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 9, 2009, 12:15:15\u202FPM",
+      "Body": "Stone wrote:\n>> floppyzedolfin wrote:\n>>> 3/ A modifies the strike playing a Target Vitals (which is not\n>>> cancelled) and a Dragon's Breath Rounds (I think the order doesn't\n>>> change anything here).\n>\n> The order does matter. You can't announce the gun strike, then play DBR,\n> then play TV. TV must be played immediately after the gun strike\n> declaration, DBR must be played just before strike resolution. \"just before\"\n> means after both strikes are chosen. Correct ?\n\nTarget Vitals is played when declaring a strike, yes. DBR is played after the\nstrike is announced by before resolution. It may be played any time after your\nstrike is announced, even before the blocking minion announces xer strike.\n\n> Another Target Vitals question :\n> A (+1 strength) and B are in combat. A strikes for 2 with TV. For some\n> reason, B prevents only 1 damage from the hand strike, triggering the TV's\n> effect. Can B still play prevention cards to prevent the 2 damage from TV\n> (don't ask me why, maybe B needs to lose exactly 1 blood for some reason) ?\n\nYes.\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/b0975224b003ec61"
+    },
+    {
+      "Author": "Stone",
+      "Date": "Jul 9, 2009, 1:09:02\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> a �crit dans le message de\nnews:h34g8u$t24$1...@news.eternal-september.org...\n\n> Target Vitals is played when declaring a strike, yes. DBR is played after\nthe\n> strike is announced by before resolution. It may be played any time after\nyour\n> strike is announced, even before the blocking minion announces xer strike.\n\ndoesn't it contradict the ruling on march 23rd ? I can't link from here, but\nyou did write about DBR \"It is only usable before resolution of a gun's\nstrike. As in \"immediately\nbefore\".\nThe \"immediately before\" does preclude using DBR between the strike\ndeclarations of both minions, doesn't it ?\nStone"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 9, 2009, 1:09:18\u202FPM",
+      "Body": "\uE5D3\n\nI don't know. It sounds like it might have."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 9, 2009, 2:02:37\u202FPM",
+      "Body": "\uE5D3\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/284ee55c30689b95\n\nYes, yes it does.\n\nThat ruling still stands. DBR is only usable after both strikes are announced.\nSorry about the confusion."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "ThreadId": "Cm1YK-JWKkU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Cm1YK-JWKkU",
+  "Title": "KMW is uber-legitimate!",
+  "Messages": [
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Feb 28, 2005, 10:30:06\u202FPM",
+      "Body": "So, I see that the spoiler texts for Kindred Most Wanted are up on the\nWhite Wolf site.\n(www.white-wolf.com/vtes/index.php?line=Checklist_KindredMostWanted if\nyou haven't seen it yet.)\n\nYay! The only problem I have is that the ARDB update doesn't seem to be\nable to read the new .csv complete spoiler files. Something about the\n.csv having one more field than ARDB is expecting? I can't tell if this\nis an ARDB problem or a .csv-file problem (I wouldn't have thought KMW\nadded any new fields to either type of card?). Help?\n\nOh, I suppose I should submit this ARDB \"bug\" to Francois the prescribed\nway as well. I will do that now. :-)\n\nJosh\n\nthe anarchs are revolting! but not as much as they used to be!"
+    },
+    {
+      "Author": "texasjusticar",
+      "Date": "Feb 28, 2005, 11:23:49\u202FPM",
+      "Body": "I'm currently writing a script to import the same CSV files into Monger\nto avoid having to manually do it each set...so I hope the CSV files\ndon't really change much.\n\n----------\nEthan Burrow - the pre/vic guy\nhttp://monger.vekn.org/"
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "Mar 1, 2005, 12:24:45\u202FAM",
+      "Body": "texasjusticar wrote:\n> I'm currently writing a script to import the same CSV files into\nMonger\n> to avoid having to manually do it each set...so I hope the CSV files\n> don't really change much.\n>\n\nAs an aside, which spolier text files are the \"official\" ones. Is it\nthe CSV which then generates the TXT and HTML? Or is it the TXT? Or is\nit the HTML?\n\nRegards,\nD"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Mar 1, 2005, 2:53:20\u202FAM",
+      "Body": "\"quetzalcoatl\" <da...@vega.id.au> wrote in message\nnews:1109633084.9...@z14g2000cwz.googlegroups.com...\n\uE5D3\n\nI believe they all ought to be equivalent. If they aren't, I expect the\nmaintainer ought to be notified (vte...@white-wolf.com). :-)\n\nI always quote from the .txt file myself, I don't know if Scott does the\nsame.\n\nJosh\n\nit's all in the text"
+    },
+    {
+      "Author": "Colin Goodman",
+      "Date": "Mar 1, 2005, 3:26:16\u202FAM",
+      "Body": "\"Joshua Duffin\" <jtdu...@yahoo.com> wrote in message\nnews:38hgr4F...@individual.net...\n\n>\n> Yay! The only problem I have is that the ARDB update doesn't seem to be\n> able to read the new .csv complete spoiler files. Something about the\n> .csv having one more field than ARDB is expecting? I can't tell if this\n> is an ARDB problem or a .csv-file problem (I wouldn't have thought KMW\n> added any new fields to either type of card?). Help?\n\nMight it be because we have a new clan? The ARDB isn't expecting the\nAbominations?\n\n--\nColin \"Eryx\" Goodman\nSamedi Primogen\nCambridge UK\nhttp://www.geocities.com/eryx_uk/Cambridge_by_night.html"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 1, 2005, 9:06:11\u202FAM",
+      "Body": "Joshua has written:\n\n>So, I see that the spoiler texts for Kindred Most Wanted are up on the\n\n>White Wolf site.\n>(www.white-wolf.com/vtes/index.php?line=Checklist_KindredMostWanted if\n\n>you haven't seen it yet.)\n\nwhere exactly did you get the csv file?\nthe file at the address\nhttp://www.white-wolf.com/downloads.php?category_id=38\nis still the old one\n\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 11:38:18\u202FAM",
+      "Body": "Joshua Duffin wrote:\n\n> So, I see that the spoiler texts for Kindred Most Wanted are up on the\n> White Wolf site.\n> (www.white-wolf.com/vtes/index.php?line=Checklist_KindredMostWanted if\n> you haven't seen it yet.)\n>\n> Yay! The only problem I have is that the ARDB update doesn't seem to be\n> able to read the new .csv complete spoiler files. Something about the\n\n> ..csv having one more field than ARDB is expecting? I can't tell if this\n\n> is an ARDB problem or a .csv-file problem (I wouldn't have thought KMW\n> added any new fields to either type of card?). Help?\n>\n> Oh, I suppose I should submit this ARDB \"bug\" to Francois the prescribed\n> way as well. I will do that now. :-)\n\nThere's an \"Artist\" column now.\n\nIf an application isn't looking at the header row, it may get\nconfused. Deleting the Artist column should restore the CSV\nfiles to the arrangement expected by an application that\nread the CSV files before.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 11:39:24\u202FAM",
+      "Body": "texasjusticar wrote:\n\n> I'm currently writing a script to import the same CSV files into Monger\n> to avoid having to manually do it each set...so I hope the CSV files\n> don't really change much.\n\nSo long as you're parsing the header row (and then keying off of\nthe position of known columns, like \"Clan\"), you'll be fine.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 11:41:47\u202FAM",
+      "Body": "Joshua Duffin wrote:\n>>As an aside, which spolier text files are the \"official\" ones. Is it\n>>the CSV which then generates the TXT and HTML? Or is it the TXT? Or is\n>>it the HTML?\n>\n> I believe they all ought to be equivalent. If they aren't, I expect the\n> maintainer ought to be notified (vte...@white-wolf.com). :-)\n>\n> I always quote from the .txt file myself, I don't know if Scott does the\n> same.\n\nThey are all equivalent -- derived from the \"true source\" data file\nI maintain. If they aren't equivalent, it is due to an error in the\nprogram that translates the true source and yes, I ought to be\nnotified (via email, preferably, or via this newsgroup).\n\nI usually quote from true source, actually.\n\n\uE5D3"
+    },
+    {
+      "Author": "Ankur Gupta",
+      "Date": "Mar 1, 2005, 2:42:39\u202FPM",
+      "Body": "> I usually quote from true source, actually.\n\nMuch like \"the one ring\" I presume?\n\nAnkur"
+    },
+    {
+      "Author": "Mochuda",
+      "Date": "Mar 1, 2005, 5:07:27\u202FPM",
+      "Body": "<snip>\n\nFrancois has actually solved this problem this afternoon :-)\nI guess he will soon post the location of the latest version.\n\nHowever although the automated database update is now working, the .csv\nfile downloaded from white wolf site seems to be incomplete\n\nat least 3 errors have been reported\n\n- Count Germaine Advanced is not noted as \"Advanced\" in the\nvtescrypt.csv file\n- Sebastian Goulet is not present at all (neither base nor advanced)\n- Rotschreck is missing too (maybe it will bring some happiness to some\nbut still :-) )\n\nhope this helps\nMochuda"
+    },
+    {
+      "Author": "Mochuda",
+      "Date": "Mar 1, 2005, 5:26:04\u202FPM",
+      "Body": "additional strikes : missing\n\nName: Ambrosio Luis Monçada, Plenipotentiary\nName: Béatrice L'Angou\nName: Célèste Lamontagne\nName: Céleste, The Voice of a Secret\nName: Corine Marcón\nName: Count Germaine (advanced noted as base)\nName: Día de los Muertos\nName: Dónal O'Connor\nName: Gaël Pilet\nName: The Ghouls of Plaza Morería\nName: Rötschreck\nName: San Nicolás de los Servitas\nName: Sébastian Goulet (base + adv)"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 1, 2005, 5:33:01\u202FPM",
+      "Body": "Are you sure that they aren't there just in a different position due to\naccent issues?\n\nBTW could you give me the full address of the new csv file?\n\nTHX\n\nAndrea"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Mar 1, 2005, 6:15:48\u202FPM",
+      "Body": "> Are you sure that they aren't there just in a different position due to\n> accent issues?\n>\n\nThat theory works for everyone but Count Germaine (Adv)."
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 1, 2005, 6:20:47\u202FPM",
+      "Body": "\"An experiment verifies a theory if, to obtain the results, you will\nnot discard more than 50% of the data\"\n(Murphy law applied to experimental physics)\n\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 6:37:19\u202FPM",
+      "Body": "\"Mochuda\" <mochuda@NO_arfe.net_SPAM> wrote in message news:4224965e$0$28383$79c1...@nan-newsreader-07.noos.net...\n\uE5D3\n\nEvery card with \"extraascii\" characters was omitted,\napparently.\n\nAll the advanced cards were convoluted with their\nbase counterparts.\n\nThe latter has been fixed.\n\nI'm working on the former.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\n\nV:TES homepage: http://www.white-wolf.com/vtes/\nThough effective, appear to be ineffective -- Sun Tzu"
+    },
+    {
+      "Author": "hawaii_...@hotmail.com",
+      "Date": "Mar 1, 2005, 6:45:19\u202FPM",
+      "Body": "> where exactly did you get the csv file?\n> the file at the address\n> http://www.white-wolf.com/downloads.php?category_id=38\n> is still the old one\n\nDid anyone get around to mentioning where this file was now?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 6:52:12\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message news:38jnd6F...@individual.net...\n\n> \"Mochuda\" <mochuda@NO_arfe.net_SPAM> wrote in message news:4224965e$0$28383$79c1...@nan-newsreader-07.noos.net...\n> > additional strikes : missing\n> >\n> > Name: Ambrosio Luis Monçada, Plenipotentiary\n> > Name: Béatrice L'Angou\n> > Name: Célèste Lamontagne\n> > Name: Céleste, The Voice of a Secret\n> > Name: Corine Marcón\n> > Name: Count Germaine (advanced noted as base)\n> > Name: Día de los Muertos\n> > Name: Dónal O'Connor\n> > Name: Gaël Pilet\n> > Name: The Ghouls of Plaza Morería\n> > Name: Rötschreck\n> > Name: San Nicolás de los Servitas\n> > Name: Sébastian Goulet (base + adv)\n>\n> Every card with \"extraascii\" characters was omitted,\n> apparently.\n>\n> All the advanced cards were convoluted with their\n> base counterparts.\n>\n> The latter has been fixed.\n>\n> I'm working on the former.\n\nOK. The extraasciily-named cards are in.\n\nLet me know if you find any other absentees (or merges\nor whatever).\n\n\uE5D3"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Mar 1, 2005, 7:05:35\u202FPM",
+      "Body": "<hawaii_...@hotmail.com> wrote in message\nnews:1109699119....@f14g2000cwb.googlegroups.com...\n\uE5D3\n\nSorry, I neglected to point out before that the really truly current\n.txt file and .csv file are not on the \"regular\" White Wolf VTES site\nyet, but are on the \"old\" VTES pages. (Because LSJ can update the old\nones himself, but not the new ones.)\n\nGo to http://www.white-wolf.com/vtes/Downloads.html to find both files\nfor download, or the direct link for the .csv zip-file is\nhttp://www.white-wolf.com/vtes/downloads/vtescsv.zip.\n\nJosh\n\nfinds the hidden track"
+    },
+    {
+      "Author": "Mochuda",
+      "Date": "Mar 1, 2005, 7:31:34\u202FPM",
+      "Body": "> OK. The extraasciily-named cards are in.\n>\n> Let me know if you find any other absentees (or merges\n> or whatever).\n\nreally thank you for your solicitude\n\nit seems ok to me except for Count Germaine adv who is still incomplete\n\nthe adv .csv line looks like\n\n\"Count Germaine \",\"Brujah\",\"\",\"4\",\"8\",\"obf CEL FOR POT PRE\",\"Advanced.\netc etc\n\nwhereas i guess it should be\n\n\"Count Germaine \",\"Brujah\",\"Advanced\",\"4\",\"8\",\"obf CEL FOR POT\nPRE\",\"Advanced. etc etc\n\nall others advanced look ok so maybe it's just a miss in the original\ndatabase you have\n\nMochuda"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 7:40:16\u202FPM",
+      "Body": "\"Mochuda\" <mochuda@NO_arfe.net_SPAM> wrote in message news:4224b3f1$0$28380$79c1...@nan-newsreader-07.noos.net...\n\uE5D3\n\nCount Germaine is now fixed, as well.\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 1, 2005, 9:32:36\u202FPM",
+      "Body": "sorry but again i do not find the file with the fixed list\nthe one under\nhttp://www.white-wolf.com/vtes/Downloads.html is still the unfixed one\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 9:44:25\u202FPM",
+      "Body": "<andrea....@infinito.it> wrote in message news:1109709156.7...@g14g2000cwa.googlegroups.com...\n\n> sorry but again i do not find the file with the fixed list\n> the one under\n> http://www.white-wolf.com/vtes/Downloads.html is still the unfixed one\n\nThat page links the most current CSV zip file.\nThat zip file contains a .csv with a 1:38 PM timestamp (and\ndated March 1) -- the most recent one.\n\nPerhaps you need to refresh or clear your cache?\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 1, 2005, 10:05:05\u202FPM",
+      "Body": "i did verify it before posting.\n\nthe one i took are dated march 1 at 1.38.12\non the crypt file i find\n790 vampires\nCatherine du Bois\nCeline Chevalier\nChandler Hungerford\non the library\nGestalt\nGhoul Escort\nGhoul Retainer\nGhouled Street Thug\nGhouled\nGiant's Blood\n\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 10:10:57\u202FPM",
+      "Body": "<andrea....@infinito.it> wrote in message news:1109711105.7...@g14g2000cwa.googlegroups.com...\n\uE5D3\n\n?\nI don't understand your sentence.\n\nSomeone noted that some (non-ascii-named) vampires were missing.\nThose have been added.\n\nErrors I don't know of are likely to be uncorrected.\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 1, 2005, 10:21:35\u202FPM",
+      "Body": "sorry about that\ni was trying to say that i still do not see the ghouls or celeste (as\nan example) if i download the csv zip that has, in fact, a timestamp\n1.38\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 1, 2005, 11:44:14\u202FPM",
+      "Body": "\uE5D3\n\nGrrr. Odd. I fixed a bug related to the characters. It fixed some,\nbut apparently not most.\n\nBack to the drawing board.\n\nThanks for the indulgence. :-)\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 2, 2005, 12:06:48\u202FAM",
+      "Body": "LSJ wrote:\n\n> andrea....@infinito.it wrote:\n>\n>> sorry about that\n>> i was trying to say that i still do not see the ghouls or celeste (as\n>> an example) if i download the csv zip that has, in fact, a timestamp\n>> 1.38\n>> Andrea\n>\n>\n> Grrr. Odd. I fixed a bug related to the characters. It fixed some,\n> but apparently not most.\n>\n> Back to the drawing board.\n>\n> Thanks for the indulgence. :-)\n\nFeh. Silly silent errors. :-)\n\nTry it now.\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 2, 2005, 12:50:29\u202FAM",
+      "Body": "sebastian goulet advanced seems missing\n\nminor glitches:\nanastasdi zagreb is written as anastaz(space)di\nbang knah have two --\n\nAndrea\ndid i say today \"thank you very much for all your constant work\"."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 2, 2005, 1:53:08\u202FAM",
+      "Body": "andrea....@infinito.it wrote:\n> sebastian goulet advanced seems missing\n\nGah! Fixed (again).\n\n> minor glitches:\n> anastasdi zagreb is written as anastaz(space)di\n> bang knah have two --\n\nThese are corrections. They are intended.\n\n> Andrea\n> did i say today \"thank you very much for all your constant work\".\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 2, 2005, 8:06:46\u202FAM",
+      "Body": "Thanks!\nseems perfect to me now\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 2, 2005, 11:55:50\u202FAM",
+      "Body": "andrea....@infinito.it wrote:\n\n\uE5D3\n\nHooray. I'll still be waiting for the other shoe to drop, though. :-)\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 3, 2005, 12:17:56\u202FAM",
+      "Body": "LSJ wrote:\n> andrea....@infinito.it wrote:\n>\n> > Thanks!\n> > seems perfect to me now\n> > Andrea\n>\n> Hooray. I'll still be waiting for the other shoe to drop, though. :-)\n>\n\nsorry to bother again.\non the library csv file i have the following 87 cards that are cut at\nchar 255 when opened in excel.\nOther cards that are longer are just fine.\nif i open the file the text is complete.\ni've no idea why is that. maybe some hidden character?\nanyone else having this issue?\nAndrea\n\nAnarch Secession\nAnima Gathering\nAntediluvian Awakening\nAranthebes, The Immortal\nArmor of Terra\nArt's Traumatic Essence\nBauble\nBlack Hand Ritual\nBlessing of Chaos\nBlessing of the Name\nBlood Clots\nBujo\nCall the Great Beast\nCardinal Benediction\nChain of Command\nCharming Lobby\nChill of Oblivion\nClio's Kiss\nClotho's Gift\nCompel the Spirit\nConcordance\nCondemnation: Betrayed\nCondemnation: Doomed\nCondemnation: Languid\nCondemnation: Mute\nContagion\nCorruption\nCreate Gargoyle\nDescent into Darkness\nDistant Friend\nDive into Madness\nDivine Sign\nDual Form\nEcstatic Agony\nEdge Vitiation\nEmergency Powers\nEngling Fury\nErosion\nEx Nihilo\nFatuus Mastery\nFrozen Object\nGather\nGear Up\nGrasp the Ghostly\nGuard Duty\nHaunt\nIsland of Yiaros\nKhabar: Glory\nKiss of Lachesis\nLifeless Tongues\nMasochism\nMind of a Killer\nMovement of the Slow Body\nMuricia's Call\nNose of the Hound\nNosferatu Bestial\nPetra Resonance\nPolitical Struggle\nPsychic Projection\nRapid Healing\nRastacourere\nRecure of the Homeland\nReformation\nRegeneration\nRenewed Vigor\nResilient Mind\nResurrection\nRutor's Hand\nSeeds of Corruption\nShadow Twin\nShepherd's Innocence\nSibyl's Tongue\nSiphon\nSongs of the Distant Vitae\nSoul Painting\nStatus Perfectus, The\nSummoning, The\nThanks for the Donation\nTrainer\nTriole's Revenge\nUndue Influence\nUnwholesome Bond\nVictim of Habit\nWaters of Duat\nWeb of Knives Recruit\nWildebeest, The\nZillah's Tears"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 3, 2005, 12:13:27\u202FPM",
+      "Body": "andrea....@infinito.it wrote:\n> on the library csv file i have the following 87 cards that are cut at\n> char 255 when opened in excel.\n> Other cards that are longer are just fine.\n> if i open the file the text is complete.\n> i've no idea why is that. maybe some hidden character?\n> anyone else having this issue?\n\nIt's an Excel issue most likely.\nEvery field is cut at 255 characters (or whatever number).\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 3, 2005, 3:58:22\u202FPM",
+      "Body": "LSJ wrote:\n> andrea....@infinito.it wrote:\n> > on the library csv file i have the following 87 cards that are cut\nat\n> > char 255 when opened in excel.\n> > Other cards that are longer are just fine.\n> > if i open the file the text is complete.\n> > i've no idea why is that. maybe some hidden character?\n> > anyone else having this issue?\n>\n> It's an Excel issue most likely.\n> Every field is cut at 255 characters (or whatever number).\n\ni found it\nexcel cuts at 255 every description starting with \"+\" (it is so 'smart'\nthat understand that those are formulas and not text...)\n\nthanks anyway\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 3, 2005, 4:26:21\u202FPM",
+      "Body": "<andrea....@infinito.it> wrote in message news:1109861902....@l41g2000cwc.googlegroups.com...\n\uE5D3\n\nAh. Thanks for the detective work.\n\nAs a fix, you could use a text editor and global search and replace \"+\nwith \" +\n\n(put a space between the quotes and the plusses).\n\nI tried the excel \"I'm not a formula\" trick of starting with a single\nquote (using \"'+ as the replacement string), but Excel imported that\nverbatim -- not the worst thing, but still not as clean as it should\nbe).\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (Remove spam trap to reply).\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 4, 2005, 12:37:00\u202FAM",
+      "Body": "tried already the latter and as i did not like it used the former ;-)\nAndrea"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "Mar 4, 2005, 12:45:18\u202FAM",
+      "Body": "but then again the best could be\nsubstitute in the text editor with \"'+\nimport in excel\nsubstitute '+ with +\nand excel accepts a line longer than 255 as if typed!!!!\nAndrea"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "mJzy9HKytEc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/mJzy9HKytEc",
+  "Title": "Dual Form and simultaneous torporing",
+  "Messages": [
+    {
+      "Author": "chr...@comcen.com.au",
+      "Date": "Aug 5, 2005, 5:24:43\u202FAM",
+      "Body": "What happens if a Dual Formed vampire and its creator go to torpor at\nthe same time (say by Edged Illusion). Does the controller get to\nchoose which one burns? Do they both burn? If you get to choose what if\nthey are controlled by different Methuselahs?\n\nChris."
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "Aug 5, 2005, 7:51:49\u202FAM",
+      "Body": "Chris,\n\n=====\n[PRO] This acting vampire`s capacity is reduced by 1. Put this card in\nplay, tapped. It becomes a non-unique vampire with the same clan,\ncapacity and Disciplines as the acting vampire. You may move up to 2\nblood from the acting vampire to this vampire. If either minion leaves\nthe ready region, the other is burned.\n=====\n\nNote that \"If either minion leaves ... \"\n\nIt doesn't matter if their leaving is simultaneous or not, if either of\nthem leaves, the other is burned.\n\nAlso note that it is a chain reaction event ... If Vamp A dual forms to\nmake A and A2, then A2 dual forms to make B1 and B2 and B2 is torpored,\nthat burns B2 and B1. Since either of B1 and B2 has been burnt (removed\nfrom ready region), A2 burns, and thus A burns.\n\nDavid"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 5, 2005, 12:08:16\u202FPM",
+      "Body": "chr...@comcen.com.au wrote:\n\n\uE5D3\n\nThe controller chooses which one is burned.\n\nThey are not both burned (no loop-back).\n\nIf they are controlled by different Methuselahs, then 1.6.1.5 means\nthat the controller who is first clockwise from the acting Methuselah\nchooses.\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "mrjay1000",
+      "Date": "Aug 5, 2005, 9:16:30\u202FPM",
+      "Body": "So, if there is no loop-back, does that mean that if eight dual forms\nhad been created from various dual forms from one vampire (say Enkidu),\nthat only the two that are directly linked are affected when one leaves\nthe ready region? So, in other words, if you manage to torpor/burn\none, the one that created that specific dual form burns and the others\nare safe?\n\nMinion A (Enkidu; 9 cap) ---> Minion B (7 cap clone of A) --->\nMinion C (5 cap clone of B) ---> Minion D (5 cap clone of C)\n\n#1 So, if D is sent to torpor, C burns. But, since C is not ready, B\nburns? Then since B is not ready, A (original Enkidu) burns?\n\n#2 If not, then if B is torpored, do both A and C burn?"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Aug 5, 2005, 9:46:06\u202FPM",
+      "Body": "In message <1123269390....@g43g2000cwa.googlegroups.com>,\n\nmrjay1000 <mrja...@yahoo.com> writes:\n>So, if there is no loop-back, does that mean that if eight dual forms\n>had been created from various dual forms from one vampire (say Enkidu),\n>that only the two that are directly linked are affected when one leaves\n>the ready region?\n\nNo, you're confusing loop-back with chain reactions.\n\nLoop-back is the situation where both vampires are around in the ready\nregion, say Enkidu and his lil buddy.\n\nEnkidu goes to torpor. The Lil Buddy notices Enkidu go to torpor. So\nLil Buddy burns. Then Enkidu notices Lil Buddy burns. So Enkidu burns.\nNote: this DOES NOT happen, but this is loop-back. One vampires becomes\nunready, their Dual Form's text notices this, the other burns - and\nthere you stop.\n\nChain reactions are where various vampires are interlinked by Dual\nForms. These works as normal. Each separate copy of Dual Form prevents\nloop-back, but you do get a domino effect.\n\n>Minion A (Enkidu; 9 cap) ---> Minion B (7 cap clone of A) --->\n>Minion C (5 cap clone of B) ---> Minion D (5 cap clone of C)\n>\n>#1 So, if D is sent to torpor, C burns. But, since C is not ready, B\n>burns? Then since B is not ready, A (original Enkidu) burns?\n\nRight.\n\n>#2 If not, then if B is torpored, do both A and C burn?\n\nThis happens too.\n\nFor example:\n\nhttp://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/98\n0a4fa54a331d22\n\n****\n>>- Vamp A creates A1. If either leaves the ready region, the other one\nburns.\n>>- A creates A2. Then, if A goes to torpor, A1 and A2 both go to\ntorpor.\n\nNo. If A goes to torpor, A1 and A2 burn.\n****\n\nAll the interlinked pairs are handled, but each Dual Form can only burn\none vampire.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    }
+  ]
+}

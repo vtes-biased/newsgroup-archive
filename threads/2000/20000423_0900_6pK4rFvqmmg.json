@@ -1,0 +1,17 @@
+{
+  "ThreadId": "6pK4rFvqmmg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6pK4rFvqmmg",
+  "Title": "Canceled Action question",
+  "Messages": [
+    {
+      "Author": "tetragr...@my-deja.com",
+      "Date": "Apr 23, 2000, 9:00:00\u202FAM",
+      "Body": "I would like to know if a \"canceled\" action\nis considered \"failed\" as well; and how a canceled action\ninteracts with the (cards) effects of others Methuselahs and blocking\nminions.\nSay:\n\n1. I'm gonna to block a minion with a vamp awakened\nvia Forced Awakening, but that minion cancels the action\nplaying a Change of target.\nDoes my blocking vamp burns the 1 blood (due to FA effect),\nor a \"canceled\" action cancels any other effect involved in it?\n\n2. A tapped vamps plays a Force of Will.\nThe card is then burned (canceled?) by a Direct Intervention.\nDoes that vamp still takes the (1 or 2) aggravated damage from the FoW?\n(the action is burned/canceled, yes,\nbut is it still a \"failed\" action for the purpose of FoW's text ?).\n\nThe matter seems a bit complicated to me, and i know that the examples\nabove are by no means exhaustives,\nso any other valid example about the matter is welcome.\nThanks.\nAemilianus, Prince of Rome.\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 24, 2000, 9:00:00\u202FAM",
+      "Body": "tetragr...@my-deja.com wrote:\n> I would like to know if a \"canceled\" action\n> is considered \"failed\" as well; and how a canceled action\n> interacts with the (cards) effects of others Methuselahs and blocking\n> minions.\n> Say:\n>\n> 1. I'm gonna to block a minion with a vamp awakened\n> via Forced Awakening, but that minion cancels the action\n> playing a Change of target.\n> Does my blocking vamp burns the 1 blood (due to FA effect),\n> or a \"canceled\" action cancels any other effect involved in it?\n\nChange of Target can only be played after a block (card text),\nwhich means that the Awakened vampire hasn't \"failed to block\",\nand so doesn't burn a blood.\n\n> 2. A tapped vamps plays a Force of Will.\n> The card is then burned (canceled?) by a Direct Intervention.\n\nDirect Intervention cancels the card altogether - before the action\nis even begun. None of the card text on the canceled card applies\n(although the card is still considered to have been played, if other\neffects care about such things - cf. Ancient Influence and Infernal\nFamiliar).\n\n> Does that vamp still takes the (1 or 2) aggravated damage from the\n> FoW? (the action is burned/canceled, yes,\n> but is it still a \"failed\" action for the purpose of FoW's text ?).\n\nNo. In this case, the action never happens.\n\n> The matter seems a bit complicated to me, and i know that the examples\n> above are by no means exhaustives,\n> so any other valid example about the matter is welcome.\n\nDelaying Tactics cancels a Political Action, but doesn't make it\nso that the action never happened. Since it can only be played\nduring the Referendum phase of the action, the action itself\nmust've reached the resolution phase, which means that the acting\nminion is restricted by the \"No Repeat Actions\" rule, if it is\nbeing used. [RTR 30-JUN-1997].\n\n--\nLSJ (vte...@white-wolf.com) VTES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and DCI (tournament) rules:\nhttp://www.geocities.com/vtesrep\n\n\uE5D3"
+    }
+  ]
+}

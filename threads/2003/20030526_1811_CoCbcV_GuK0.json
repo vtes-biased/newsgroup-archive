@@ -1,0 +1,27 @@
+{
+  "ThreadId": "CoCbcV_GuK0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/CoCbcV_GuK0",
+  "Title": "LSJ (and all): updated cardlists on WW's site",
+  "Messages": [
+    {
+      "Author": "Derek Ray",
+      "Date": "May 26, 2003, 6:11:27\u202FPM",
+      "Body": "So WW's site has been updated with the new card lists.\n\nAccordingly, beerbot has also been updated with the latest cardlist.txt,\nand now searches from him for Anarchs cards will work. (If you aren't\nsure what beerbot is, go to the #vtes IRC channel on sorcery.net. If\nyou're using a stock IRC client, try cookie.sorcery.net port 6667. If\nyou don't want to mess around with IRC clients, then you can use the\nJava applet found here: http://www.thelasombra.com/chat.htm) People\ndrift in and out all day (and many from Europe), so if nobody's talking\nwhen you join, stick around for awhile -- someone may be later.\n\nLSJ: I'm not sure who to contact about this, since I know you don't\nhandle the updates for WW's site, but the .CSVs that are posted up there\nhave had an HTML wrapper added to them that seems to have totally\nremoved all linefeeds and carriage returns, rendering them useless.\nRight-click/Save produces an .HTM file with HTML header garbage in, and\nclicking through to copy/paste still produces a file without linefeeds:\nno matter which way I choose, Access won't import them because they\ncontain lines longer than 65000 characters. I'm not sure why there's an\nHTML wrapper attached to those, because nobody ever needs to actually\n-view- those files. =/\n\nCan you convince the appropriate person (Conrad?) to put them up just as\nplain old files without messing with them any? Or am I asking in the\nwrong place? =)\n\n--\n\"There's no gray. There's just white that's got grubby.\" -- T.P."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 26, 2003, 7:50:26\u202FPM",
+      "Body": "Derek Ray wrote:\n> LSJ: I'm not sure who to contact about this, since I know you don't\n> handle the updates for WW's site, but the .CSVs that are posted up there\n> have had an HTML wrapper added to them that seems to have totally\n> removed all linefeeds and carriage returns, rendering them useless.\n> Right-click/Save produces an .HTM file with HTML header garbage in, and\n> clicking through to copy/paste still produces a file without linefeeds:\n> no matter which way I choose, Access won't import them because they\n> contain lines longer than 65000 characters. I'm not sure why there's an\n> HTML wrapper attached to those, because nobody ever needs to actually\n> -view- those files. =/\n\nIt's not HTML on the fileserver. It's either your web browser (Netscape seems\nto try to do the same thing on this end) or the WW webserver wraps it on\nthe fly. I've heard from others that have downloaded the files successfully,\nso it's probably just a web browser problem.\n\nAt any rate, I've put the files in a .zip on the server as well.\nThat should get you around the problem.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "May 26, 2003, 8:16:15\u202FPM",
+      "Body": "In message <3ED253E2...@white-wolf.com>,\nLSJ <vte...@white-wolf.com> mumbled something about:\n\n>It's not HTML on the fileserver. It's either your web browser (Netscape seems\n>to try to do the same thing on this end) or the WW webserver wraps it on\n>the fly. I've heard from others that have downloaded the files successfully,\n>so it's probably just a web browser problem.\n\nI'll bet on the webserver wrapping it on the fly. I'm using the latest\nIE as my browser though, and if it breaks both under IE and Netscape...\n\n>At any rate, I've put the files in a .zip on the server as well.\n>That should get you around the problem.\n\nSounds good. Many thanks. =)\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 26, 2003, 11:05:28\u202FPM",
+      "Body": "Derek Ray wrote:\n> LSJ <vte...@white-wolf.com> mumbled something about:\n>>It's not HTML on the fileserver. It's either your web browser (Netscape seems\n>>to try to do the same thing on this end) or the WW webserver wraps it on\n>>the fly. I've heard from others that have downloaded the files successfully,\n>>so it's probably just a web browser problem.\n>\n> I'll bet on the webserver wrapping it on the fly. I'm using the latest\n> IE as my browser though, and if it breaks both under IE and Netscape...\n\nActually, it seems to work OK on Netscape if I view the CSV text file\nin the browser window and then \"Save As...\" text. It's only clobbers it\nwhen I shift-click the link to the CSV.\n\nI have no explanation, however.\n\n>>At any rate, I've put the files in a .zip on the server as well.\n>>That should get you around the problem.\n>\n> Sounds good. Many thanks. =)\n\nEnjoy!\n\n\uE5D3"
+    }
+  ]
+}

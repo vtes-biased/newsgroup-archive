@@ -1,0 +1,47 @@
+{
+  "ThreadId": "A9vdHETWLT4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/A9vdHETWLT4",
+  "Title": "Questions for LSJ",
+  "Messages": [
+    {
+      "Author": "Alex Harmon",
+      "Date": "Aug 30, 2000, 9:00:00\u202FAM",
+      "Body": "A few questions came up in our playgroup:\n\n1. Can a vamp play a Cat's Guidance for +1 Int. and afterwards play\nanother Cat's Guidance to untap? (assuming the vamp is still ready after\ncombat)\n\n2. Along the same lines as the previous question: can a vamp play a\nGovern the Unaligned to bleed and later in the same turn play another\nGtU at superior?\n\n3. Are Fleshcraft/Bonecraft strike effects cumulative?\n\n4. A vamp gathers a certain amount of intercept (let's say +3) and\nblocks successfully. The acting vamp plays a Form of Mist and continues\nat +1 stealth. Can the blocking vamp use a Wake and keep the +3\nintercept they originally acquired leaving them with needing just +1\nintercept more to block again? Or was the +3 intercept lost and now the\nvamp has to gain +4 total intercept all over again to block?\n\nThanks in advance.\n\nAlex"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Aug 30, 2000, 9:00:00\u202FAM",
+      "Body": "In article <39AD6082...@home.com>,\n\nAlex Harmon <alexh...@home.com> wrote:\n> A few questions came up in our playgroup:\n>\n> 1. Can a vamp play a Cat's Guidance for +1 Int. and afterwards play\n> another Cat's Guidance to untap? (assuming the vamp is still ready\n> after combat)\n\nNo.\nNo minion may play more than one of each named reaction card per\naction. From 1.6.3.5 Minion Cards, we get the definition of Reaction\nCards:\n\n\"5. Reaction cards: A ready untapped minion can play a reaction card in\nresponse to an action taken by another Methuselah's minion (an action\ntaken by one of a Methuselah's minions cannot be reacted to by any of\nher own minions). A minion cannot play the same reaction card more than\nonce during a single action. A reaction card does not tap the minion\nusing it.\"\n\nSee the online rulebook here:\nhttp://www.white-wolf.com/VTES/rulebook.html\n\n> 2. Along the same lines as the previous question: can a vamp play a\n> Govern the Unaligned to bleed and later in the same turn play another\n> GtU at superior?\n\nDuring a normal VTES game? Yes.\nDuring a VEKN tournament? No.\n\nA normal VTES game does not have the \"No Repeat Actions\" rule.\nUnless you are playing by tournament rules, you may take the\nsame action as many times as your cards will allow you to.\n\nCheck the tournament rules, in particular 6.4.1. No Repeat Actions\nhere: http://www.white-wolf.com/VTES/veknRules.html\nfor further clarification.\n\nUnder the tournament rules, you may not take an action provided by a\ncard more than once per turn, regardless of the results of the action.\nTherefore, in a VEKN tournament, you may not Govern at basic, untap,\nand Govern at superior, on the same turn.\n\n> 3. Are Fleshcraft/Bonecraft strike effects cumulative?\n\nYes, all effects are cumulative unless card text or specific Errata\nstates otherwise.\n\n> 4. A vamp gathers a certain amount of intercept (let's say +3) and\n> blocks successfully. The acting vamp plays a Form of Mist and\n> continues at +1 stealth. Can the blocking vamp use a Wake and keep\n> the +3 intercept they originally acquired leaving them with needing\n> just +1 intercept more to block again?\n\nYes. See 6.2.2 of the online rulebook, quoted here:\n\n\"Note that all modifications made to a minion's stealth or intercept\nremain in effect for the duration of the action. Increased stealth and\nintercept return to normal after the action is resolved.\"\n\nSo until the action is unblocked, the reacting vampire's intercept will\nnot change. He will have +3 intercept until he cannot block any more,\nor until the action is complete.\n\n> Or was the +3 intercept lost and now the vamp has to gain +4 total\n> intercept all over again to block?\n\nNo. See above.\n\nCarpe Noctem.\n\nLasombra\n\nhttp://members.tripod.com/~Lasombra\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    },
+    {
+      "Author": "take...@my-deja.com",
+      "Date": "Aug 31, 2000, 4:07:44\u202FAM",
+      "Body": "---Govern the unaligned it's not a repeat action:\n\n6.4.1. No Repeat Actions\n\nA given minion may not repeat an action, by action type, in a single\nturn (whether the first action was successful or not). The\ndefined \"action types\" are the ones defined in the rulebook: bleed,\nhunt, equip, employ retainer, recruit ally, political action, leave\ntorpor, rescue a vampire from torpor, and diablerize a vampire in\ntorpor.\n\nIf an action card is used to perform one of these actions, that action\nis considered to be of that type. If it is not one of those actions\n(such as Bum's Rush), then it is a type of its own, by card name.\n\nIf a card in play is used to perform one of these actions, that action\nis considered to be of that type. If it is not one of these actions\n(such as \"enter combat via Haven Uncovered\"), then it is a type of its\nown, by specific instance of the card in play.\n\nExample: A vampire who bleeds his controller's prey via Computer\nHacking, then untaps via Freak Drive, cannot perform any bleeding\naction again, of any kind whatsoever, in that same turn.\n\n----Govern the unaligned in inferior is a bleed type action and in\nsuperior an own card type action.\n\n\uE5D3"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Aug 31, 2000, 4:59:35\u202FAM",
+      "Body": "In article <8okel3$cc$1...@nnrp1.deja.com>,\n\ntake...@my-deja.com wrote:\n> ---Govern the unaligned it's not a repeat action:\n\nThat would be wrong.\n\nSee:\n\n> LSJ <vte...@wizards.com> wrote:\n> Terminology\n> * \"Same Action\" means: 1) The same inherent (cardless) action taken\n> against the same target. 2) The action taken with the same card played\n> from hand, regardless of target. 3) The same action provided by the\n> same copy of a card in play. (Each action provided by a card in play\n> is a distinct action (and doesn't count as the \"same action\").\n> [RTR 05-SEP-1995]\n\n#2 covers the Govern situation. You may not play Govern (or any other\naction card) twice by the same minion on the same turn.\n\nhttp://www.deja.com/=dnc/[ST_rn=ps]/getdoc.xp?AN=586505243\n\nCarpe Noctem.\n\nLasombra\n\nhttp://members.tripod.com/~Lasombra\n\n\uE5D3"
+    },
+    {
+      "Author": "Alex Harmon",
+      "Date": "Aug 31, 2000, 6:43:07\u202FAM",
+      "Body": "Thanks for the answers.\n\nThe Lasombra wrote:\n\n\uE5D3\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 31, 2000, 2:13:45\u202FPM",
+      "Body": "The Lasombra wrote:\n\n> Alex Harmon <alexh...@home.com> wrote:\n> > 1. Can a vamp play a Cat's Guidance for +1 Int. and afterwards play\n> > another Cat's Guidance to untap?\n>\n\n> No.\n\nCorrect.\n\n> > 2. can a vamp play a Govern the Unaligned to bleed and later in the\n\n> > same turn play another GtU at superior?\n>\n> During a normal VTES game? Yes.\n> During a VEKN tournament? No.\n\nCorrect.\n\n> > 3. Are Fleshcraft/Bonecraft strike effects cumulative?\n>\n> Yes\n\nCorrect.\n\n> > 4. [After FoM,] Can the blocking vamp use a Wake and keep\n\n> > the +3 intercept they originally acquired\n>\n\n> Yes. See 6.2.2 of the online rulebook\n\nCorrect.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "elu...@my-deja.com",
+      "Date": "Aug 31, 2000, 6:18:21\u202FPM",
+      "Body": "Actually I have a different question. Does anyone know or understand\nwhy Heidleburg Castle is only usable by Vampires? Besides the obvious\ncard text\n\n\"Master: unique location. Tap to transfer equipment cards, move blood,\nand transfer retainers between any two ready vampires you control. (You\nmay choose the amount of blood you move and which cards you transfer.\")\n\nthere doesn't seem to be justification for that aspect of the card.\nBesides the move blood part, but that could be covered by the Allies\nlife vs blood rule.\n\n\uE5D3"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Sep 1, 2000, 6:27:29\u202FPM",
+      "Body": "In article <8om0fl$pr6$1...@nnrp1.deja.com>, elu...@my-deja.com writes\n\n>Actually I have a different question. Does anyone know or understand\n>why Heidleburg Castle is only usable by Vampires?\n\nThat's the only reason.\n\nThere are a number of cards that do the same. For example, you can't\nuse Elysium if it's an ally you control in combat, but you could use it\nif the opponent was using an ally against your vampire.\n\nIf you want to know why it was written that way, you'd have to ask the\ndesigners.\n\n--\nJames Coupe | PGP Key 0x5D623D5D | ja...@zephyr.org.uk (New e-mail)\n\"Who'd have ever predicted the moment would come when I find myself grateful\nthey've kept women dumb? She's an innocent maiden but then so am I, that's why\nit's possible I could get by.\""
+    }
+  ]
+}

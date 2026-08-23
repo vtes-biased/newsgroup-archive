@@ -1,0 +1,27 @@
+{
+  "ThreadId": "uiJ0B__ZemU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/uiJ0B__ZemU",
+  "Title": "LSJ: Dual form effect, combat or not?",
+  "Messages": [
+    {
+      "Author": "talonz",
+      "Date": "Mar 21, 2006, 1:48:15\u202FAM",
+      "Body": "Dual form triggers an effect (burn the other DF minion) when one of the\nDF minions is no longer ready. If the non-ready DF minion was\nburned/torporized in combat, is this effect treated and resolved as if\nduring that combat?\n\nI'm guessing no, because once a minion in combat is no longer ready\ncombat ends? But want to check on the exact sequence.\n\nG"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 21, 2006, 1:36:39\u202FPM",
+      "Body": "\uE5D3\n\nCorrect. If the first minion saves himself (with Undead Persistence,\nfor example), then the effect (burn buddy from Dual Form) is not\ntriggered (well, at least it is delayed in the Undead Persistence\ncase).\n\nThe buddy burn only occurs once the vampire is not ready (and combat\nhas therefore ended)."
+    },
+    {
+      "Author": "Wolflord",
+      "Date": "Mar 22, 2006, 4:56:11\u202FPM",
+      "Body": "Okay,\nSo, this like, becomes really cool when Dual Form Buddies start to\nReform Body?\nOr could you not do that if you controll the Dual Forms and are in your\nown turn, since they are not the one in combat, and it's a reaction\ncard?\n\n/jo"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 22, 2006, 5:02:35\u202FPM",
+      "Body": "\uE5D3\n\nThe combatant buddy can Reform Body as a combat card.\n\nThe non-combatant buddy can Reform Body as areaction card if he is\nuntapped and the acting minion is controlled by another Methuselah\n(typically meaning it is that other Methuselah's turn, but that isn't\nalways the case thanks to Madness Network -- so the key is \"who is\nacting\" not \"whose turn is it\")."
+    }
+  ]
+}

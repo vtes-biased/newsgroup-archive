@@ -1,0 +1,27 @@
+{
+  "ThreadId": "6cb69oa8vek",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6cb69oa8vek",
+  "Title": "[LSJ] Scorpion's touch and first strike",
+  "Messages": [
+    {
+      "Author": "Naram",
+      "Date": "Mar 25, 2002, 2:27:46\u202FAM",
+      "Body": "A few questions:\n\n1) Is scorpion's touch usable with silence of death?\n\n2) does the reduction of strength effect the first regular strike used\nby the opposing minin. ST states \"does not effect the >current< strike\nresolution, so this question comes down to is first strike and regular\nstrike part of the same resolution phase.\n\nThanks\nNaram"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 25, 2002, 3:03:05\u202FAM",
+      "Body": "Naram wrote:\n>\n> A few questions:\n>\n> 1) Is scorpion's touch usable with silence of death?\n\nSilence of Death doesn't restrict any strikes, so all strikes are \"usable\".\n\nIn addition, Scorpion's Touch is either a hand strike or a melee weapon\nstrike, depending on the striker's choice in the matter, so will benefit\nfrom the First Strike quality imparted by Silence of Death. (card text).\n\n> 2) does the reduction of strength [affect] the first regular strike used\n> by the opposing [minion]. ST states \"does not effect the >current< strike\n\n> resolution, so this question comes down to is first strike and regular\n> strike part of the same resolution phase.\n\nYes. All strikes that resolve after the Scorpion's Touch effect is applied\nto the minion are affected.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Petri Wessman",
+      "Date": "Mar 25, 2002, 10:06:32\u202FAM",
+      "Body": "On Mon, 25 Mar 2002 02:03:05 GMT, LSJ <vte...@white-wolf.com> said:\n\n>> 2) does the reduction of strength [affect] the first regular strike used\n>> by the opposing [minion]. ST states \"does not effect the >current< strike\n>> resolution, so this question comes down to is first strike and regular\n>> strike part of the same resolution phase.\n\nvtesrep> Yes. All strikes that resolve after the Scorpion's Touch\nvtesrep> effect is applied to the minion are affected.\n\n<delurk/>\n\nCould you please clarify? I found the question interesting, so is the\nfull answer \"yes, first strike and regular strike are part of the same\nresolution phase, so playing ST as first strike does not reduce the\nhand damage of the opposing minion's (non-first-strike) strike\"?\n\nOr is it the other way around?\n\n//Petri"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 25, 2002, 12:18:39\u202FPM",
+      "Body": "\uE5D3\n\nThe full answer is \"Yes. First Strike resolves before normal strikes, so\nnormal strikes resolve after First Strikes, and any strike that resolves\nafter the minion has received an adjustment to strength (like his normal\nstrike after your First Strike) is affected by the adjustement to strength\n(only interesting for strength-based strikes, of course).\"\n\nThere's no mention of \"phase\" in there.\n\n\uE5D3"
+    }
+  ]
+}

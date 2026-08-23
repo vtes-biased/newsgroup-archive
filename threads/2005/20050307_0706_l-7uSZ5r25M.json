@@ -1,0 +1,22 @@
+{
+  "ThreadId": "l-7uSZ5r25M",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/l-7uSZ5r25M",
+  "Title": "x cost, order of math (lsj)",
+  "Messages": [
+    {
+      "Author": "SPORE",
+      "Date": "Mar 7, 2005, 7:06:13\u202FAM",
+      "Body": "in this example, i have una, with the eye of hazimel, clan impersonated\nto tremere, and the ankara citadel.\nthe card i want to use is hidden strength, which has x as its cost.\nlet's say some big mf like the beast hits me for 10 (with his +1 str,\nand an undead strength after tossing 3 increased strengths.) can i use\nthe math to my best advantage? if i say x is 9 (to prevent all 10\ndamage,) and i figure it one way, the eye subtracts 1 from a combat\ncard's cost, una's special subtracts 1 from a fortitude card's cost,\ntaking us to x=7, and half that rounding down is 3, for the citadel.\nbut if i halve the cost first, x/2 rounded down is 4, then i subtract 1\ntwice for the other 2 reductions, and i only end up paying 2...\nthere doesn't seem to be any clarification i've found stating that the\nsubtractions would come before the halving, and regular math would vary\naccording to the parentheses.\nhoping for the cornercase math of the week award,\njohn spore\n\n(x-1-1)/2\n(x/2)-1-1"
+    },
+    {
+      "Author": "salem",
+      "Date": "Mar 7, 2005, 8:01:35\u202FAM",
+      "Body": "On 6 Mar 2005 22:06:13 -0800, \"SPORE\" <spore...@hotmail.com>\nscrawled:\n\n\uE5D3\n\nUna and eye both reduce the cost.\n\nankara does not effect the cost. it effects how much blood they have\nto spend for the given cost.\n\nwork out cost first (Una and Eye).\n9-2 = 7\n\nthen work out how much blood to pay for that cost (ankara).\n7/2 = 3.5, rounded down to 3.\n\nsalem\nhttp://www.users.tpg.com.au/adsltqna/VtES/index.htm\n(replace \"hotmail\" with \"yahoo\" to email)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 7, 2005, 12:09:04\u202FPM",
+      "Body": "\uE5D3\n\nCorrect.\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

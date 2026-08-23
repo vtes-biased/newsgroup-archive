@@ -1,0 +1,52 @@
+{
+  "ThreadId": "9Ui7pesvu5g",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/9Ui7pesvu5g",
+  "Title": "Post-Combat Sequencing Questions",
+  "Messages": [
+    {
+      "Author": "Halcyan 2",
+      "Date": "Nov 25, 2002, 10:23:22\u202FPM",
+      "Body": "Via e-mail, I recently asked a few questions to LSJ and in his response, he\nsuggested I post some of them on the newsgroup so that the answers would be\npreserved (and also for the enlightenment of fellow newsgroupies). So I\nactually already know the answers but...\n\n#1. Okay, acting minion always gets the chance to play something first. So\nHidden Lurker trumps Fast Reaction. And it's pretty clear that the acting\nminon's Psyche! beats the blocking minion's Psyche! I'm still a little hazy on\nsome Psyche! interactions though (searched Google, didn't help). So who wins?\n\nA. Hidden Lurker vs. blocking minion's Psyche!\n\nB. Acting minion's Psyche! vs. Fast Reaction.\n\n#2. In addition, how does Cardinal Sin: Insubordination interact with the above\n(Hidden Lurker, Fast Reaction, Psyche!). Does it have the same timing or does\nit happen before? For example, Vampire A (non-titled Sabbat) is blocked by\nVampire B (Cardinal). Combat ends with both vampires ready. Vamp A wants to\nPsyche! while Vamp B wants to play CS: Insubordination. Who gets to play their\ncard?\n\n#3. Does a Psyche! played in response to a Legacy of Power prevent both\nvampires from going to torpor?\n\nThanks!\n\nHalcyan 2"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 26, 2002, 1:44:29\u202FPM",
+      "Body": "Halcyan 2 wrote:\n> #1. Okay, acting minion always gets the chance to play something first. So\n> Hidden Lurker trumps Fast Reaction. And it's pretty clear that the acting\n> minon's Psyche! beats the blocking minion's Psyche! I'm still a little hazy on\n> some Psyche! interactions though (searched Google, didn't help). So who wins?\n>\n> A. Hidden Lurker vs. blocking minion's Psyche!\n>\n> B. Acting minion's Psyche! vs. Fast Reaction.\n\nPsyche! in both cases. Since it is a combat card, its timing window comes before\nthe timing window for Hidden Lurker and Fast Reaction (the latter two share the\nsame timing window, so then 1.6.1.6 decides which one gets to be played).\n\n> #2. In addition, how does Cardinal Sin: Insubordination interact with the above\n> (Hidden Lurker, Fast Reaction, Psyche!). Does it have the same timing or does\n> it happen before? For example, Vampire A (non-titled Sabbat) is blocked by\n> Vampire B (Cardinal). Combat ends with both vampires ready. Vamp A wants to\n> Psyche! while Vamp B wants to play CS: Insubordination. Who gets to play their\n> card?\n\nThe Psyche! is played first.\nThen, after the base combat but before the Psyche! combat starts, CS:I can be\nplayed (since it isn't trying to start a new combat, just like Obedience could\nbe played). Same thing if you swap HL or FR for Psyche! in the example, although\nthen you go to 1.6.1.6 to see which can be played first.\n\n> #3. Does a Psyche! played in response to a Legacy of Power prevent both\n> vampires from going to torpor?\n\nYes. It should probably not (LoP \"should\" just send the two to torpor and let\nthat event end the combat), but as it written, yeah. Not a problem, though,\nso I don't foresee any errata for this one any time soon.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Nov 26, 2002, 1:48:39\u202FPM",
+      "Body": "LSJ wrote:\n\n::: #3. Does a Psyche! played in response to a Legacy of Power\n\n::: prevent both vampires from going to torpor?\n::\n:: Yes. It should probably not (LoP \"should\" just send the two to\n:: torpor and let that event end the combat), but as it written,\n:: yeah. Not a problem, though, so I don't foresee any errata for\n:: this one any time soon.\n\nI doubt so : when Legacy of power is played, the combat is not entered. You\ncan't play a combat card when there is no combat at all."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 26, 2002, 2:02:36\u202FPM",
+      "Body": "\uE5D3\n\nCard text:\nOnly usable when a vampire you control enters combat. ... Combat ends.\n\n\uE5D3"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Nov 26, 2002, 3:44:33\u202FPM",
+      "Body": "LSJ wrote:\n\n:: reyda wrote:\n:::\n::: LSJ wrote:\n:::\n:::::: #3. Does a Psyche! played in response to a Legacy of Power\n:::::: prevent both vampires from going to torpor?\n:::::\n::::: Yes. It should probably not (LoP \"should\" just send the two to\n::::: torpor and let that event end the combat), but as it written,\n::::: yeah. Not a problem, though, so I don't foresee any errata for\n::::: this one any time soon.\n:::\n::: I doubt so : when Legacy of power is played, the combat is not\n::: entered. You can't play a combat card when there is no combat at\n::: all.\n::\n:: Card text:\n:: Only usable when a vampire you control enters combat. ... Combat\n:: ends.\n\ncard icon : Reaction card.\nthe wording \"combat does not occur\" would be better."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 26, 2002, 5:34:43\u202FPM",
+      "Body": "\uE5D3\n\nAgain, it is not a problem, so I don't foresee any errata for this one\nany time soon.\n\n--\n\n\uE5D3"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Nov 26, 2002, 5:37:53\u202FPM",
+      "Body": "LSJ wrote:\n:: reyda wrote:\n:::\n::: LSJ wrote:\n\n::::: reyda wrote:\n::::::\n:::::: LSJ wrote:\n::::::\n::::::::: #3. Does a Psyche! played in response to a Legacy of Power\n::::::::: prevent both vampires from going to torpor?\n::::::::\n:::::::: Yes. It should probably not (LoP \"should\" just send the two\n:::::::: to torpor and let that event end the combat), but as it\n:::::::: written, yeah. Not a problem, though, so I don't foresee any\n:::::::: errata for this one any time soon.\n::::::\n:::::: I doubt so : when Legacy of power is played, the combat is not\n:::::: entered. You can't play a combat card when there is no combat\n:::::: at all.\n:::::\n::::: Card text:\n::::: Only usable when a vampire you control enters combat. ... Combat\n::::: ends.\n:::\n::: card icon : Reaction card.\n::: the wording \"combat does not occur\" would be better.\n::\n:: Again, it is not a problem, so I don't foresee any errata for this\n:: one any time soon.\n\nUnderstood =)\n\nbut i always put 2 or 3 copies of this card in decks where i play princes,\nonly for the ability of stopping super combat machines. So i would be upset\nif someone plays Psyche and avoids getting torpored.\nPlease just tell us both vampires get torpored anyway."
+    },
+    {
+      "Author": "reyda",
+      "Date": "Nov 27, 2002, 1:42:04\u202FAM",
+      "Body": "LSJ wrote:\n:: reyda wrote:\n:::\n::: LSJ wrote:\n::::: reyda wrote:\n::::::\n:::::: LSJ wrote:\n\n\uE5D3\n\nLSJ wrote: Yes. It should probably not."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 27, 2002, 1:49:45\u202FPM",
+      "Body": "\uE5D3\n\nCorrect.\nIt does.\nIt probably should not.\nBut it doesn't merit errata to make it \"not\".\nSee several repetitions of this above.\n\n\uE5D3"
+    }
+  ]
+}

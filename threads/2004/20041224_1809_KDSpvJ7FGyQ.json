@@ -1,0 +1,222 @@
+{
+  "ThreadId": "KDSpvJ7FGyQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/KDSpvJ7FGyQ",
+  "Title": "LSJ Guard Duty Q",
+  "Messages": [
+    {
+      "Author": "Raille",
+      "Date": "Dec 24, 2004, 6:09:27\u202FPM",
+      "Body": "I was using guard duty and managed to have the location burned.\n\nMy question is the Guard duty seems to 'remember' the selected location.\n\nIf a minion with a Guard Duty and a location, has the location burned, does\nthe Guard duty kick back into play is a new copy of the same location\nreturns to play. Reguardless of whether or not you control it?\n\nSecond\nDo you have to have a location in play to play a guard duty? The Card text\nindicates only you name a location, not a location in play.\n\nSo is it possible to play guard duty in advance of playing the location and\nwill the guard duty be effective? Meaning will it acquire the location as a\nvalid target once the location enters play?\n\nRaille"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 24, 2004, 6:30:00\u202FPM",
+      "Body": "Raille wrote:\n> I was using guard duty and managed to have the location burned.\n>\n> My question is the Guard duty seems to 'remember' the selected location.\n>\n> If a minion with a Guard Duty and a location, has the location burned, does\n> the Guard duty kick back into play is a new copy of the same location\n> returns to play. Reguardless of whether or not you control it?\n\nNo. Effects key on card instance, not card name, by default. (And note that\nthe \"instance\" is generally lost if the card goes into the ash heap,\nlibrary, hand, or crypt; but not if it is contested or returned to the\nuncontrolled region).\n\n> Second\n> Do you have to have a location in play to play a guard duty? The Card text\n> indicates only you name a location, not a location in play.\n\nThe rules cover the \"in play\" part.\nhttp://www.white-wolf.com/vtes/rulebook/rulebook.html#sec1_6_1 (item #5)\n\n> So is it possible to play guard duty in advance of playing the location and\n> will the guard duty be effective? Meaning will it acquire the location as a\n> valid target once the location enters play?\n\nNo.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Screaming Vermillian",
+      "Date": "Dec 24, 2004, 7:34:00\u202FPM",
+      "Body": "What I want to know, Raiile, is why were you even playing with guard\nDuty?"
+    },
+    {
+      "Author": "salem",
+      "Date": "Dec 25, 2004, 1:34:00\u202FAM",
+      "Body": "On 24 Dec 2004 10:34:00 -0800, \"Screaming Vermillian\"\n<vermil...@yahoo.com> scrawled:\n\n>What I want to know, Raiile, is why were you even playing with guard\n>Duty?\n\nexactly. note that the action to burn the location must be at +1\nstealth _already_ before you can even use Guard Duty to attempt to\nblock due to the 'can't use an effect to gain intercept unless you\nneed the intercept rule'\n\n\"Put this card on the acting minion and choose a location. If the\nchosen location is the target of a (D) action (and you control the\nlocation), this minion can burn 1 blood or burn this card to untap and\nattempt to <block> with +1 intercept.\"\n\nLSJ, i don't suppose the rules team wants to insert a 'even if the\nintercept is not yet needed' errata line into guard duty? please?\n\nsalem\ndomain:canberra http://www.geocities.com/salem_christ.geo/vtes.htm\n(replace \"hotmail\" with \"yahoo\" to email)"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Dec 25, 2004, 3:02:43\u202FAM",
+      "Body": "salem <salem_ch...@hotmail.com> wrote:\n> On 24 Dec 2004 10:34:00 -0800, \"Screaming Vermillian\"\n> <vermil...@yahoo.com> scrawled:\n\n>>What I want to know, Raiile, is why were you even playing with guard\n>>Duty?\n\n> exactly. note that the action to burn the location must be at +1\n> stealth _already_ before you can even use Guard Duty to attempt to\n> block due to the 'can't use an effect to gain intercept unless you\n> need the intercept rule'\n\n> \"Put this card on the acting minion and choose a location. If the\n> chosen location is the target of a (D) action (and you control the\n> location), this minion can burn 1 blood or burn this card to untap and\n> attempt to <block> with +1 intercept.\"\n\n> LSJ, i don't suppose the rules team wants to insert a 'even if the\n> intercept is not yet needed' errata line into guard duty? please?\n\nPersonally, I think they should have just left it as \"may attempt to\nbock.\" :)"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 25, 2004, 6:10:20\u202FPM",
+      "Body": "\"salem\" <salem_ch...@hotmail.com> wrote in message\nnews:d8dps05l8pvksul5k...@4ax.com...\n\n> On 24 Dec 2004 10:34:00 -0800, \"Screaming Vermillian\"\n> <vermil...@yahoo.com> scrawled:\n>\n>>What I want to know, Raiile, is why were you even playing with guard\n>>Duty?\n>\n> exactly. note that the action to burn the location must be at +1\n> stealth _already_ before you can even use Guard Duty to attempt to\n> block due to the 'can't use an effect to gain intercept unless you\n> need the intercept rule'\n>\n> \"Put this card on the acting minion and choose a location. If the\n> chosen location is the target of a (D) action (and you control the\n> location), this minion can burn 1 blood or burn this card to untap and\n> attempt to <block> with +1 intercept.\"\n>\n> LSJ, i don't suppose the rules team wants to insert a 'even if the\n> intercept is not yet needed' errata line into guard duty? please?\n\nWell one loop whole for effective card use is always being tapped. With the\ncurernt ruling that you can always hunt even if at capacity, means your\nalways tapped, and can always burn a blood to untap and attempt to block\nwith your +1 intercept.\n\nI don't think the card needs the line even if intercept is not yet needed.\nThe Card text parallels certain vampire with +1 intecept.\n\nAnd I really, really think that an vampire with +1 intercept can attempt to\nblock a 0 stealth action, even if the +1 intercept is not yet needed. That\nvampire does not loose the ability to use the intercept at a later moment is\nadditional stealth is generated.\n\nRaille"
+    },
+    {
+      "Author": "salem",
+      "Date": "Dec 26, 2004, 3:36:43\u202FAM",
+      "Body": "On Sat, 25 Dec 2004 12:10:20 -0500, \"Raille\" <rai...@yahoo.com>\nscrawled:\n\n>\n>\"salem\" <salem_ch...@hotmail.com> wrote in message\n>news:d8dps05l8pvksul5k...@4ax.com...\n>> On 24 Dec 2004 10:34:00 -0800, \"Screaming Vermillian\"\n>> <vermil...@yahoo.com> scrawled:\n>>\n>>>What I want to know, Raiile, is why were you even playing with guard\n>>>Duty?\n>>\n>> exactly. note that the action to burn the location must be at +1\n>> stealth _already_ before you can even use Guard Duty to attempt to\n>> block due to the 'can't use an effect to gain intercept unless you\n>> need the intercept rule'\n>>\n>> \"Put this card on the acting minion and choose a location. If the\n>> chosen location is the target of a (D) action (and you control the\n>> location), this minion can burn 1 blood or burn this card to untap and\n>> attempt to <block> with +1 intercept.\"\n>>\n>> LSJ, i don't suppose the rules team wants to insert a 'even if the\n>> intercept is not yet needed' errata line into guard duty? please?\n>\n>\n>Well one loop whole for effective card use is always being tapped. With the\n>curernt ruling that you can always hunt even if at capacity, means your\n>always tapped, and can always burn a blood to untap and attempt to block\n>with your +1 intercept.\n\nor you could just stay untapped and burn a blood to untap and get +1\nintercept. nothing wrong with untapping an already untapped minion.\n\n>I don't think the card needs the line even if intercept is not yet needed.\n>The Card text parallels certain vampire with +1 intecept.\n\nnope, it's using an effect to gain intercept. there's nothing stopping\nthe vampire attempting to block, but they are not allowed to trigger\nthe effect unless they need the intercept.\n\n>And I really, really think that an vampire with +1 intercept can attempt to\n>block a 0 stealth action, even if the +1 intercept is not yet needed. That\n>vampire does not loose the ability to use the intercept at a later moment is\n>additional stealth is generated.\n\ncorrect. but that's something that's already in play and working all\nthe time. the vampire with +1 intercept can't, however, play an\nSpirit's Touch to get +1 intercept on an action that'sonly currently\nat +1 stealth, because they don't need the intercept.\n\na quick search of google groups:\n\nLSJ Jun 11 2001, 4:41 am show options\nNewsgroups: rec.games.trading-cards.jyhad\nFrom: LSJ <vtes...@white-wolf.com> - Find messages by this author\nDate: Mon, 11 Jun 2001 07:33:47 -0400\nLocal: Mon, Jun 11 2001 4:33 am\nSubject: Guard Duty (Re: Beginning the Final Nights cardlist (contains\nSpoiler))\nReply | Reply to Author | Forward | Print | Individual Message | Show\noriginal | Report Abuse\n\nGomi no Sensei wrote:\n\n> Question: Given that we can tap a tapped vampire, we can untap an\n> untapped vampire, yes?\n\nYes.\n\n> Given that, do multiple Guard Duties stack, so that one can be used to\n> untap/block at +1 intercept, then another blood can be burned to a second\n> copy of Guard Duty for a second intercept? Can I do this even if I don't\n> currently need the intercept? I think 'yes' to both, but I'm murky.\n\nYes. No - you can only burn Guard Duty if you need the intercept,\nsince it\ngives intercept.\n\n--\nLSJ (vtes...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/\n\n\uE5D3"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 26, 2004, 3:27:04\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:smYyd.1154779$Gx4.3...@bgtnsc04-news.ops.worldnet.att.net...\n\uE5D3\n\nSo if a copy is burned, removed to the ash heap and returned to play at a\nlater time the guard duty should kick back in. At least according to your\nclarification\n\nhttp://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/347c7d2b4a53ec54\n\nSo Guard duty is not that useless if you have means to draw locations back\nout of the ash heap.\n\nIts also, giving the restrictive rule of not being able to untap unless you\nneed the +1 intercept, still not that bad. You only need other blockers to\n'force' the acting minion to add stealth.\n\nAlthough I still feel its a ruling in error. Other cards allow you to untap\nand add intercept even if its not needed, so why such a draconian rule on\nsuch a little used card?\n\nRaille"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 26, 2004, 3:44:27\u202FPM",
+      "Body": "Raille wrote:\n> So if a copy is burned, removed to the ash heap and returned to play at a\n> later time the guard duty should kick back in. At least according to your\n> clarification\n>\n> http://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/347c7d2b4a53ec54\n\nNo. That clarification is outdated and no longer in effect.\n\nBurned cards forget everything (except the conditions under which they were\nburned, for the convenience of certain effects like Possession).\n\n> So Guard duty is not that useless if you have means to draw locations back\n> out of the ash heap.\n\nEven if you wanted to apply that outdated ruling, the effect would have\nto be one that pulled it directly out of the ash heap (not having the\ncard get \"lost\" on its trip through the hand or library).\n\n> Its also, giving the restrictive rule of not being able to untap unless you\n> need the +1 intercept, still not that bad. You only need other blockers to\n> 'force' the acting minion to add stealth.\n>\n> Although I still feel its a ruling in error. Other cards allow you to untap\n> and add intercept even if its not needed, so why such a draconian rule on\n> such a little used card?\n\nCard text. It isn't the subject of a ruling which would follow from some\nambiguity. It's just card text. Card text is not ambiguous.\n\n\uE5D3"
+    },
+    {
+      "Author": "Daneel",
+      "Date": "Dec 26, 2004, 9:07:24\u202FPM",
+      "Body": "On Sat, 25 Dec 2004 12:10:20 -0500, Raille <rai...@yahoo.com> wrote:\n\n> With the current ruling that you can always hunt even if at capacity\n> [...]\n\nIs this so?\n\n--\nBye,\n\nDaneel"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Dec 26, 2004, 9:07:25\u202FPM",
+      "Body": "On Sun, 26 Dec 2004 20:07:24 GMT, Daneel <dan...@eposta.hu> wrote:\n\n>> With the current ruling that you can always hunt even if at capacity\n\n>Is this so?\n\nYes.\n\nHunting is not restricted to vampires that are short of their\ncapacity.\n\nSee the online rulebook, section 6.1.2.\n\nhttp://www.white-wolf.com/vtes/rulebook/\n\nTo have a vampire hunt, announce the action and tap the acting\nvampire. If the action is successful, move a blood counter to the\nacting vampire from the blood bank. If this causes the vampire's blood\nto exceed his blood capacity, then (as always) the excess is\nimmediately returned to the blood bank.\n\nCarpe noctem.\n\nLasombra\n\nhttp://www.TheLasombra.com"
+    },
+    {
+      "Author": "Name",
+      "Date": "Dec 27, 2004, 1:43:19\u202FAM",
+      "Body": "Raille <rai...@yahoo.com> wrote in message\nnews:1103994633.07450ca8fb872e66411fc5f27f434356@teranews...\n\n>\n> \"salem\" <salem_ch...@hotmail.com> wrote in message\n> news:d8dps05l8pvksul5k...@4ax.com...\n> > On 24 Dec 2004 10:34:00 -0800, \"Screaming Vermillian\"\n> > <vermil...@yahoo.com> scrawled:\n> >\n> >>What I want to know, Raiile, is why were you even playing with guard\n> >>Duty?\n> >\n> > exactly. note that the action to burn the location must be at +1\n> > stealth _already_ before you can even use Guard Duty to attempt to\n> > block due to the 'can't use an effect to gain intercept unless you\n> > need the intercept rule'\n> >\n\nI know! Use the Paris Opera House to give the acting minion +1 stealth by\ntapping a Daughter of Cacophony, then you can untap that Daughter and block\nwith +1 intercept.\n\n:)\n\nNeil"
+    },
+    {
+      "Author": "salem",
+      "Date": "Dec 27, 2004, 2:49:56\u202FAM",
+      "Body": "On Mon, 27 Dec 2004 00:43:19 GMT, \"Name\" <na...@name.com> scrawled:\n\n>I know! Use the Paris Opera House to give the acting minion +1 stealth by\n>tapping a Daughter of Cacophony, then you can untap that Daughter and block\n>with +1 intercept.\n>\n>:)\n\nheh. but on a more serious note, that might be fun with Deflections to\ngive your predator stealth when they get their bleeds bounced to your\nprey....hmmm...\n\n\uE5D3"
+    },
+    {
+      "Author": "Name",
+      "Date": "Dec 27, 2004, 4:12:05\u202FAM",
+      "Body": "salem <salem_ch...@hotmail.com> wrote in message\n\nnews:7gqus0d9r5evjk2hj...@4ax.com...\n\n> On Mon, 27 Dec 2004 00:43:19 GMT, \"Name\" <na...@name.com> scrawled:\n>\n> >I know! Use the Paris Opera House to give the acting minion +1 stealth by\n> >tapping a Daughter of Cacophony, then you can untap that Daughter and\nblock\n> >with +1 intercept.\n> >\n> >:)\n>\n> heh. but on a more serious note, that might be fun with Deflections to\n> give your predator stealth when they get their bleeds bounced to your\n> prey....hmmm...\n>\n\nActually I've been meaning to do just that for awhile, I'm only lacking one\nor two Paris Opera Houses. That, and didn't like the logistics of adding\nbounce disciplines to the Daughters or having to have two minions untapped\nto perform the trick. Though Muse has inferior animalism so she could untap\nwhen being bled, the block could fail because of the Opera House and she'd\nbe tapped, then another minion could deflect. . . (begins mumbling\nincoherently) . . .\n\nNeil"
+    },
+    {
+      "Author": "CthuluKitty",
+      "Date": "Dec 27, 2004, 7:11:43\u202FAM",
+      "Body": "> exactly. note that the action to burn the location must be at +1\n> stealth _already_ before you can even use Guard Duty to attempt to\n> block due to the 'can't use an effect to gain intercept unless you\n> need the intercept rule'\n\nHuh. I hadn't noticed that Guard Duty worked that way, and you're\nright it's pretty much worthless. I just did a search through Monger\nand I can't find any other card in the game that has this problem.\nEvery other card that gives you intercept and an untap has been errated\nto say that you can use it even if you don't need the intercept (2nd\nTradition, Read the Winds), or the intercept is an optional additional\neffect (Speak With Spirits, Special Report). Guard Duty really should\nbe ammended to be parallel with 2nd Trad. and RtW, since right now it's\ntotal wallpaper...\n\nCthulukitty"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 27, 2004, 2:49:18\u202FPM",
+      "Body": "CthuluKitty wrote:\n\n>>exactly. note that the action to burn the location must be at +1\n>>stealth _already_ before you can even use Guard Duty to attempt to\n>>block due to the 'can't use an effect to gain intercept unless you\n>>need the intercept rule'\n>\n>\n> Huh. I hadn't noticed that Guard Duty worked that way, and you're\n> right it's pretty much worthless. I just did a search through Monger\n> and I can't find any other card in the game that has this problem.\n> Every other card that gives you intercept and an untap has been errated\n> to say that you can use it even if you don't need the intercept (2nd\n> Tradition, Read the Winds),\n\nNeither Second Tradition nor Read with the Winds is currently\nunder errata.\n\nSecond Tradition's text was migrated in Camarilla Edition to what\nyou find now.\n\nRead the Winds is as it always has been. It has only been printed\nonce. That one printing saw it printed in its current form.\n\nor the intercept is an optional additional\n> effect (Speak With Spirits, Special Report). Guard Duty really should\n> be ammended to be parallel with 2nd Trad. and RtW, since right now it's\n> total wallpaper...\n\nYes, well. Being wallpaper is not in and of itself a reason to\nissue errata.\n\n\uE5D3"
+    },
+    {
+      "Author": "rai...@yahoo.com",
+      "Date": "Dec 27, 2004, 4:13:48\u202FPM",
+      "Body": "Could I get a google link for the change to the above? I could not\nfind\nanything else.\n\nOf course I did not go through all 473 Posts related to contracts.\nRaille"
+    },
+    {
+      "Author": "rai...@yahoo.com",
+      "Date": "Dec 27, 2004, 4:16:36\u202FPM",
+      "Body": "> Neither Second Tradition nor Read with the Winds is currently\n> under errata.\n\nI did not mean to imply that they were.\n\nJust pointing out how card printed in after GD were either more\ncomplete or\nerrata'd to fit the new template.\n\nYes, well. Being wallpaper is not in and of itself a reason to\n> issue errata.\n\nThat was not my comment, I personally don't see it as wall paper, just\na\nlesser valued card by progression of game definitions.\n\nHowever card and play comsistancy IS a reason to errata cards and has\nbeen\nthe reason for card errata in the past. Why should you change tracks\nnow on\nhow you evaluate cards for errata?\n\nGuard duty had the misfortune of being printed prior to the more\nuniversal\ntext coverage of Blood lines and CE. Had the card been printed in a\nlater\nset, it most certainly have had the additional text of \"even if not yet\n\nneeded\"\n\nIn a related vein, did you ever notice the statement that\nstealth/intercept\ncan be added ONLY when needed, yet a host of cards automatically give\nyou\nstealth.\n\nBy that defination Guard Duty currently works just fine, however, the\nminions performing stealthly action cards Should be measured against\nthe\ncannot add stealth rule and forfeit the inherent +1 Stealth if its not\nneeded, such as in times when acting minions have a -1 stealth applied\nto\nthem.\n\nIn any case, Guard Duty simply a requires a small correction to bring\nit\ninto the current rules set which passed it by. 2nd Trad. and RtW are\nalready there, and perhaps others, since I've not looked for other\ncases.\n\nRaille"
+    },
+    {
+      "Author": "rai...@yahoo.com",
+      "Date": "Dec 27, 2004, 4:19:08\u202FPM",
+      "Body": "uhm, how about tapping a Daughter and untapping some one who can\nactually\nblock! Daughters seem to have a lot of problems blocking actions.\n\nand most of the animalism cards actually Untap you, so you could rats\nwarning, untap, then deflect. Next bleed to the same thing. Or to\nquote someone,\n\"Wash rinse and repeat.\"\n\nRaille"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 27, 2004, 4:25:08\u202FPM",
+      "Body": "rai...@yahoo.com wrote:\n>>Neither Second Tradition nor Read with the Winds is currently\n>>under errata.\n>\n> I did not mean to imply that they were.\n\nYou'll note that the above was a reply to CthuluKitty, as cited.\n\n> Just pointing out how card printed in after GD were either more\n> complete or\n> errata'd to fit the new template.\n>\n> Yes, well. Being wallpaper is not in and of itself a reason to\n>\n>>issue errata.\n>\n> That was not my comment, I personally don't see it as wall paper, just\n> a\n> lesser valued card by progression of game definitions.\n\nAgain, it was a reply to CthuluKitty, as cited.\n\n> However card and play comsistancy IS a reason to errata cards and has\n> been\n> the reason for card errata in the past. Why should you change tracks\n> now on\n> how you evaluate cards for errata?\n\nI didn't say I had changed tracks. I said that being wallpaper in\nand of itself is not a reason to issue errata.\n\n> Guard duty had the misfortune of being printed prior to the more\n> universal\n> text coverage of Blood lines and CE. Had the card been printed in a\n> later\n> set, it most certainly have had the additional text of \"even if not yet\n> needed\"\n\nActually, it was a simple mistake. It should have had that text\nregardless of CE or BL. The need for such text in such instances\nwas already known (see the 1998 RTRs).\n\n> In a related vein, did you ever notice the statement that\n> stealth/intercept\n> can be added ONLY when needed, yet a host of cards automatically give\n> you\n> stealth.\n\nUm. Either \"of course\" or \"they don't\" depending on what you mean.\n\n> By that defination Guard Duty currently works just fine, however, the\n\nWhat definition?\nGuard Duty doesn't match it or it isn't a functionally correct\n(official) one, one of the two.\n\n> minions performing stealthly action cards Should be measured against\n> the\n> cannot add stealth rule and forfeit the inherent +1 Stealth if its not\n> needed, such as in times when acting minions have a -1 stealth applied\n> to\n> them.\n\nSome actions have stealth.\nHaving is different than adding stealth.\n\n> In any case, Guard Duty simply a requires a small correction to bring\n> it\n> into the current rules set which passed it by. 2nd Trad. and RtW are\n> already there, and perhaps others, since I've not looked for other\n> cases.\n\n2nd Tradition and RtW do not suffer from the omission of text like\nGuard Duty does, correct.\n\nA \"small correction\" is errata barring another printing (which is\nnot out of the question).\n\nSee also Abandon the Flesh.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 27, 2004, 4:26:58\u202FPM",
+      "Body": "rai...@yahoo.com wrote:\n\n\uE5D3\n\nProbably. I think it is likely that Google has it archived, whatever \"it\"\nis. What did searching Google yield? What search patterns did you try?\n\n\uE5D3"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Dec 27, 2004, 9:37:52\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> a écrit dans le message de\nnews:f7Azd.1166319$Gx4.9...@bgtnsc04-news.ops.worldnet.att.net...\n\n> Card text. It isn't the subject of a ruling which would follow from some\n> ambiguity. It's just card text. Card text is not ambiguous.\n\nsince most \"burn location\" actions and cards are at 0 stealth, why print a\ncard with bad card text ? was it really designer's intent to have this card\nworded this way ?"
+    },
+    {
+      "Author": "Robert Goudie",
+      "Date": "Dec 27, 2004, 9:51:06\u202FPM",
+      "Body": "Reyda wrote:\n> \"LSJ\" <vte...@white-wolf.com> a écrit dans le message de\n> news:f7Azd.1166319$Gx4.9...@bgtnsc04-news.ops.worldnet.att.net...\n>\n> > Card text. It isn't the subject of a ruling which would follow from\nsome\n> > ambiguity. It's just card text. Card text is not ambiguous.\n>\n> since most \"burn location\" actions and cards are at 0 stealth, why\nprint a\n> card with bad card text ?\n\nYeah, he's right Scott. Print cards with good text only. No more bad\ntext, please.\n\nNow that I've done my good deed for the day, I'll go to lunch... ;)\n-Robert"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 28, 2004, 2:50:28\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:6RVzd.1172613$Gx4.1...@bgtnsc04-news.ops.worldnet.att.net...\n\n> rai...@yahoo.com wrote:\n>\n>> Could I get a google link for the change to the above? I could not\n>> find\n>> anything else.\n>>\n>> Of course I did not go through all 473 Posts related to contracts.\n>> Raille\n>\n> Probably. I think it is likely that Google has it archived, whatever \"it\"\n> is. What did searching Google yield? What search patterns did you try?\n>\n> --\n\nI was searching for references to 'Contract' looking for its targeting\nrestrictions.\n\nI probably could have defined that better in the search.\n\nRaille"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 28, 2004, 3:08:29\u202FAM",
+      "Body": "\"Robert Goudie\" <rob...@vtesinla.org> wrote in message\nnews:1104180666.0...@f14g2000cwb.googlegroups.com...\n\n\uE5D3\n\uE5D3\n\uE5D3\n\nYea. What he said.\n\nor\n\nDitto\n\nRaille"
+    },
+    {
+      "Author": "salem",
+      "Date": "Dec 28, 2004, 3:21:05\u202FAM",
+      "Body": "On Mon, 27 Dec 2004 15:25:08 GMT, LSJ <vte...@white-wolf.com>\nscrawled:\n\n[re: Guard Duty sucking]\n\n>A \"small correction\" is errata barring another printing (which is\n>not out of the question).\n\ndo it! i dare you!\n\n>See also Abandon the Flesh.\n\nNo such card. all i could find was Abandoning the Flesh, which does\nindeed suck ;) What 'small correction' might, if applied and/or made\ninto a new printing, would 'fix' it?\n\n\uE5D3"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 28, 2004, 3:07:24\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:oPVzd.1172606$Gx4.8...@bgtnsc04-news.ops.worldnet.att.net...\n\n> rai...@yahoo.com wrote:\n>> However card and play comsistancy IS a reason to errata cards and has\n>> been\n>> the reason for card errata in the past. Why should you change tracks\n>> now on\n>> how you evaluate cards for errata?\n>\n> I didn't say I had changed tracks. I said that being wallpaper in\n> and of itself is not a reason to issue errata.\n>\n>> Guard duty had the misfortune of being printed prior to the more\n>> universal\n>> text coverage of Blood lines and CE. Had the card been printed in a\n>> later\n>> set, it most certainly have had the additional text of \"even if not yet\n>> needed\"\n>\n> Actually, it was a simple mistake. It should have had that text\n> regardless of CE or BL. The need for such text in such instances\n> was already known (see the 1998 RTRs).\n\nWell there is the crux of the problem. You indicate it was a simple\nmistake.\n\nYet the card was not corrected shortly after printing like most sets do see\nfor card problems.\n\nAnd since you seem to be aware of the cards short coming, why has it taken\nso long for the\n\nproblem of the card text on Guard Duty taken so long to be addressed, and\neven now seems to be\n\nactively avoided by the primary mover and shaker of card errata and changes.\n\n>> In a related vein, did you ever notice the statement that\n>> stealth/intercept\n>> can be added ONLY when needed, yet a host of cards automatically give\n>> you\n>> stealth.\n>\n> Um. Either \"of course\" or \"they don't\" depending on what you mean.\n>\n>> By that defination Guard Duty currently works just fine, however, the\n>\n> What definition?\n> Guard Duty doesn't match it or it isn't a functionally correct\n> (official) one, one of the two.\n\nUhm thought train derailment. yea.\n\nWhat I mean, is the old card works by its card text definition. It would\nwork slightly better by\n\nUsing a new definition.\n\n>> minions performing stealthly action cards Should be measured against\n>> the\n>> cannot add stealth rule and forfeit the inherent +1 Stealth if its not\n>> needed, such as in times when acting minions have a -1 stealth applied\n>> to\n>> them.\n>\n> Some actions have stealth.\n> Having is different than adding stealth.\n\nReally. The act of playing a card with stealth by default adds stealth\nwithout checking to see if the action needs stealth.\nHowever thats now what I'm here to talk about. No reason to get completely\nsidetracked.\n\n>> In any case, Guard Duty simply a requires a small correction to bring\n>> it\n>> into the current rules set which passed it by. 2nd Trad. and RtW are\n>> already there, and perhaps others, since I've not looked for other\n>> cases.\n>\n> 2nd Tradition and RtW do not suffer from the omission of text like\n> Guard Duty does, correct.\n>\n> A \"small correction\" is errata barring another printing (which is\n> not out of the question).\n>\n\nSo does this mean we might get errata, or is it in the works to be reprinted\nwith KMW?\n\nRaille"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Dec 28, 2004, 7:45:11\u202FAM",
+      "Body": ">> Card text. It isn't the subject of a ruling which would follow from some\n>> ambiguity. It's just card text. Card text is not ambiguous.\n>\n>since most \"burn location\" actions and cards are at 0 stealth, why print a\n>card with bad card text ? was it really designer's intent to have this card\n>worded this way ?\n\nFear the power of Felix!\n\nOr big-cap Nosferatu in a Nosferatu Performance Art.\n\nOr titled vampires trying to burn down Powerbase: Barranquilla.\n\nAnd I suppose there's always that nasty Smash and Grab! And Reformation.\n\nAnd defending Wasserschloss Anif from eeeevil Malkavians!\n\nAnd there's Haunt.\n\nHalcyan 2\n\nFor the record I wouldn't mind seeing Guard Duty made more useful however."
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Dec 28, 2004, 7:50:37\u202FAM",
+      "Body": ">A \"small correction\" is errata barring another printing (which is\n>not out of the question).\n>\n>See also Abandon the Flesh.\n\nSince we're on the topic, was there any particular reason why Legacy of Power\nwasn't reprinted in 10th so that it isn't beaten by Psyche!?\n\nAs you said in the thread \"[LSJ] Legacy of Power malfunction ! :)\",\n\n\"Yes. It \"should\" have been written to be played before combat and preclude\ncombat from starting.\n\nBut it wasn't. It is played during combat and ends combat.\"\n\nHalcyan 2"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Dec 28, 2004, 8:01:40\u202FAM",
+      "Body": ">However card and play comsistancy IS a reason to errata cards and has\n>been\n>the reason for card errata in the past. Why should you change tracks\n>now on\n>how you evaluate cards for errata?\n\nI don't think consistency itself has generally been a reason to issue card\nerrata (aside from reprinting with new text). Take for example:\n\nVentrue Investment and Slave Auction which are not Investments (like Secret\nHorde, Protracted Investment, and Short Term Investment).\n\nChainsaw which still seems out of step compared to Gas-Powered Chainsaw.\n\nMachine Blitz still using the old weapon damage template as opposed to the\nnewer one used by Illegal Search and Seizure and Concealed Weapon. (Though I\nprefer having MB use the old one of course).\n\nHalcyan 2"
+    },
+    {
+      "Author": "Daneel",
+      "Date": "Dec 28, 2004, 9:35:47\u202FAM",
+      "Body": "On Tue, 28 Dec 2004 13:21:05 +1100, salem <salem_ch...@hotmail.com>\nwrote:\n\n>> See also Abandon the Flesh.\n>\n> No such card. all i could find was Abandoning the Flesh, which does\n> indeed suck ;) What 'small correction' might, if applied and/or made\n> into a new printing, would 'fix' it?\n\nUsable by a tapped vampire.\nUsable by a vampire in torpor.\n\n--\nBye,\n\nDaneel"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Dec 28, 2004, 10:49:17\u202FAM",
+      "Body": "\"Reyda\" <true_...@hotmail.com> writes:\n\n\uE5D3\n\nElsewhere in this thread, LSJ said:\n\n\"Actually, it was a simple mistake.\"\n\n<http://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/4cacf34738aecf25>\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D Who's ever heard of that, though!\nEBD690ECD7A1FB457CA2 Designing a deck that just calls votes.\n13D7E668C3695D623D5D That's crazy talk, there."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Dec 28, 2004, 10:56:08\u202FAM",
+      "Body": "\"Raille\" <rai...@yahoo.com> writes:\n\n> Well there is the crux of the problem. You indicate it was a simple\n> mistake.\n>\n> Yet the card was not corrected shortly after printing like most sets do see\n> for card problems.\n\nI'm not sure that LSJ has said *when* the mistake came to light. I\nmay be wrong.\n\n> And since you seem to be aware of the cards short coming, why has it\n> taken so long for the problem of the card text on Guard Duty taken\n> so long to be addressed, and even now seems to be actively avoided\n> by the primary mover and shaker of card errata and changes.\n\nI'm not sure LSJ is avoiding it.\n\nStandard LSJ behaviour on such matters is that errata is not issued to\nmake bad cards stronger. If an issue arises which requires action to\nbe taken about that card (contradictory wording, say), the action\ntaken may also make a bad card stronger in the process, but bad cards\ndon't have errata issued on them just because they're bad.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 28, 2004, 1:48:04\u202FPM",
+      "Body": "Halcyan 2 wrote:\n> Since we're on the topic, was there any particular reason why Legacy of Power\n> wasn't reprinted in 10th so that it isn't beaten by Psyche!?\n>\n> As you said in the thread \"[LSJ] Legacy of Power malfunction ! :)\",\n\nAnother oversight/mistake.\n\n\uE5D3"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 28, 2004, 10:20:12\u202FPM",
+      "Body": "\"James Coupe\" <ja...@zephyr.org.uk> wrote in message\nnews:3ymzvyd...@newred.gradwell.net...\n\n> \"Raille\" <rai...@yahoo.com> writes:\n>\n>> Well there is the crux of the problem. You indicate it was a simple\n>> mistake.\n>>\n>> Yet the card was not corrected shortly after printing like most sets do\n>> see\n>> for card problems.\n>\n> I'm not sure that LSJ has said *when* the mistake came to light. I\n> may be wrong.\n>\n>> And since you seem to be aware of the cards short coming, why has it\n>> taken so long for the problem of the card text on Guard Duty taken\n>> so long to be addressed, and even now seems to be actively avoided\n>> by the primary mover and shaker of card errata and changes.\n>\n> I'm not sure LSJ is avoiding it.\n>\n> Standard LSJ behaviour on such matters is that errata is not issued to\n> make bad cards stronger. If an issue arises which requires action to\n> be taken about that card (contradictory wording, say), the action\n> taken may also make a bad card stronger in the process, but bad cards\n> don't have errata issued on them just because they're bad.\n>\n>\n\nWell as far as it goes, the Guard Duty is mostly non functional due to the\nincorrect wording.\n\nIt can only be used as writen, by a tapped minion who is attempting to block\nanother minion that\nhas a built in +1 stealth, who is attempting to destroy a location you\ncontrol.\n\nOf course other situations might arise if another minion attempted to block,\npushing the acting\nminions stealth past zero.\n\nIts more of a case of a card that was over looked as more used cards got the\nattention.\n\nRaille"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Dec 30, 2004, 12:01:30\u202FAM",
+      "Body": "\"Raille\" <rai...@yahoo.com> a écrit dans le message de\nnews:1104333476.f556c6a0d767f65f23cff787851e4b1e@teranews...\n\n> Well as far as it goes, the Guard Duty is mostly non functional due to the\n> incorrect wording.\n\n(...)\n\n> Its more of a case of a card that was over looked as more used cards got\nthe\n> attention.\n>\n> Raille\n\nWell, Purity of the beast springs to mind, i guess =°"
+    },
+    {
+      "Author": "salem",
+      "Date": "Dec 30, 2004, 2:26:16\u202FAM",
+      "Body": "On Tue, 28 Dec 2004 16:20:12 -0500, \"Raille\" <rai...@yahoo.com>\nscrawled:\n\n>\n>Well as far as it goes, the Guard Duty is mostly non functional due to the\n>incorrect wording.\n>\n>It can only be used as writen, by a tapped minion who is attempting to block\n>another minion that\n>has a built in +1 stealth, who is attempting to destroy a location you\n>control.\n\nI don't recall seeing text requiring a tapped minion. untapped minions\nare allowed to untap. just like tapped minion are allowed to get\ntapped.\n\n>Of course other situations might arise if another minion attempted to block,\n>pushing the acting\n>minions stealth past zero.\n\nor the guarder themselves.\n\n>Its more of a case of a card that was over looked as more used cards got the\n>attention.\n\nyup. suX0rz.\n\n\uE5D3"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Dec 30, 2004, 3:03:04\u202FPM",
+      "Body": "\"salem\" <salem_ch...@hotmail.com> wrote in message\n\nnews:c7m6t0hnkfjmvnjf1...@4ax.com...\n\n> On Tue, 28 Dec 2004 16:20:12 -0500, \"Raille\" <rai...@yahoo.com>\n> scrawled:\n>\n>>\n>>Well as far as it goes, the Guard Duty is mostly non functional due to the\n>>incorrect wording.\n>>\n>>It can only be used as writen, by a tapped minion who is attempting to\n>>block\n>>another minion that\n>>has a built in +1 stealth, who is attempting to destroy a location you\n>>control.\n>\n> I don't recall seeing text requiring a tapped minion. untapped minions\n> are allowed to untap. just like tapped minion are allowed to get\n> tapped.\n\nCard Text:\n+2 stealth action. Put this card on the acting minion and choose a location.\nIf the chosen location is the target of a (D) action (and you control the\nlocation), this minion can burn\n1 blood or burn this card to untap and attempt to block with +1 intercept.\n\nSo pehaps it does not require you to be tapped, but if your not tapped, you\nfail to get any added benifit.\n\nRaille"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Dec 30, 2004, 11:26:15\u202FPM",
+      "Body": "In message <1104415405.2b8237eefdd494f8815bfd24c620d595@teranews>,\n\nRaille <rai...@yahoo.com> writes:\n>Card Text:\n>+2 stealth action. Put this card on the acting minion and choose a location.\n>If the chosen location is the target of a (D) action (and you control the\n>location), this minion can burn\n>1 blood or burn this card to untap and attempt to block with +1 intercept.\n>\n>\n>So pehaps it does not require you to be tapped, but if your not tapped, you\n>fail to get any added benifit.\n\nYou untap (redundantly) and attempt to block with +1 intercept.\n[LSJ 20020308]\n\n<http://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/8\n93020f5e6b87c70>\n\nSeems like a benefit to me.\n\n\uE5D3"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Jan 5, 2005, 11:48:27\u202FAM",
+      "Body": "\"James Coupe\" <ja...@zephyr.org.uk> wrote in message\n\nnews:fBHJGloH...@gratiano.zephyr.org.uk...\n\n> In message <1104415405.2b8237eefdd494f8815bfd24c620d595@teranews>,\n> Raille <rai...@yahoo.com> writes:\n>>Card Text:\n>>+2 stealth action. Put this card on the acting minion and choose a\n>>location.\n>>If the chosen location is the target of a (D) action (and you control the\n>>location), this minion can burn\n>>1 blood or burn this card to untap and attempt to block with +1 intercept.\n>>\n>>\n>>So pehaps it does not require you to be tapped, but if your not tapped,\n>>you\n>>fail to get any added benifit.\n>\n> You untap (redundantly) and attempt to block with +1 intercept.\n> [LSJ 20020308]\n>\n> <http://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/8\n> 93020f5e6b87c70>\n>\n> Seems like a benefit to me.\n>\n\nJames, you missed the ruling where in you cannot untap with +1 intercept if\nyou don't need it.\n\nThats what a lot of this thread was about.\n\nRaille"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jan 5, 2005, 10:17:30\u202FPM",
+      "Body": "In message <1104922118.0955d00d5013a7caf87434cc67dc8752@teranews>,\n\nRaille <rai...@yahoo.com> writes:\n>James, you missed the ruling where in you cannot untap with +1 intercept if\n>you don't need it.\n>\n>Thats what a lot of this thread was about.\n\nYou followed up Salem who said:\n> I don't recall seeing text requiring a tapped minion. untapped minions\n> are allowed to untap. just like tapped minion are allowed to get\n> tapped.\n\nYou then said:\n>So pehaps it does not require you to be tapped, but if your not tapped,\n>you fail to get any added benifit.\n\nWhen blocking with +1 intercept clearly is a benefit you can get, even\nwhen not tapped!\n\nAdditionally, if you're untapped, you can declare a block anyway. When\nthey add stealth, you attempt a new block, by burning the Guard Duty.\n(Since it has been long established that a single vampire who fails to\nblock at a given point can attempt this afresh.)\n\nI fear that you are confusing several different points. Untapping with\n+1 intercept is *not* what I was posting about, and I am *extremely*\nfamiliar with that ruling, having explained old 2nd Tradition many,\nmany, many times.\n\n\uE5D3"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Jan 6, 2005, 11:46:19\u202FAM",
+      "Body": "\"James Coupe\" <ja...@zephyr.org.uk> wrote in message\n\nnews:NXutTzHq...@gratiano.zephyr.org.uk...\n\n> In message <1104922118.0955d00d5013a7caf87434cc67dc8752@teranews>,\n> Raille <rai...@yahoo.com> writes:\n>>James, you missed the ruling where in you cannot untap with +1 intercept\n>>if\n>>you don't need it.\n>>\n>>Thats what a lot of this thread was about.\n>\n> You followed up Salem who said:\n>> I don't recall seeing text requiring a tapped minion. untapped minions\n>> are allowed to untap. just like tapped minion are allowed to get\n>> tapped.\n>\n> You then said:\n>>So pehaps it does not require you to be tapped, but if your not tapped,\n>>you fail to get any added benifit.\n>\n>\n> When blocking with +1 intercept clearly is a benefit you can get, even\n> when not tapped!\n>\n> Additionally, if you're untapped, you can declare a block anyway. When\n> they add stealth, you attempt a new block, by burning the Guard Duty.\n> (Since it has been long established that a single vampire who fails to\n> block at a given point can attempt this afresh.)\n>\n>\n> I fear that you are confusing several different points. Untapping with\n> +1 intercept is *not* what I was posting about, and I am *extremely*\n> familiar with that ruling, having explained old 2nd Tradition many,\n> many, many times.\n\nI confused where you were coming from within the thread.\n\nPoint taken GD does have its use if your not tapped.\n\nIt has more use if you are tapped. Since you won't need to burn the card.\n\nRaille"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jan 6, 2005, 8:59:40\u202FPM",
+      "Body": "\"Raille\" <rai...@yahoo.com> wrote in message\nnews:1105008380.76b23f7a1303dcf1dcf55c1606c31e96@teranews...\n\n> I confused where you were coming from within the thread.\n>\n> Point taken GD does have its use if your not tapped.\n>\n> It has more use if you are tapped. Since you won't need to burn the\ncard.\n\nHeh, I hesitate to post in this thread, since it seems like it's gone on\nfar too long already considering the utility of Guard Duty, but anyway -\nyou don't have to burn the card if you're untapped either. You can burn\na blood *or* burn the card to get both the +1 intercept and the untap.\nNeither activation method requires the Guard Duty minion to have been\ntapped.\n\nJosh\n\ndoesn't think it has terribly much use in any case"
+    }
+  ]
+}

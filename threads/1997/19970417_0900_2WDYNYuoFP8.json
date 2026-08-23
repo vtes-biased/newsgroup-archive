@@ -1,0 +1,32 @@
+{
+  "ThreadId": "2WDYNYuoFP8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/2WDYNYuoFP8",
+  "Title": "Question re: forced withdrawal",
+  "Messages": [
+    {
+      "Author": "Andy Kaiser",
+      "Date": "Apr 17, 1997, 9:00:00\u202FAM",
+      "Body": "This may have been covered already, but I've only started hanging out\naround this group recently. How does the forced withdrawal (from the\nSabbat rules) work, exactly? As I understand it, and as my friends\nand I play it, to withdraw (as outlined in the basic game), you\nhave to go one complete round (from your untap phase to your next\nuntap phase) without losing any pool and without your minions getting\ninto combat. If you succeed, you get a victory point for basically\nousting yourself, and your predator gets nothing as a result of your\nleaving the game. Now, if you're forced to withdraw as a result of\nrunning out of cards, does that mean you have to just sit there and\ntake whatever punishment your predator or anyone else feels like\ndishing out on you, all the time saying \"I've gotta withdrawal,\" not\nblocking anything, until your predator kills you off and gets his\nvictory point? (Since he's obviously not going to sit there and say\n\"Oh, you're out of cards. I guess I'll let you withdraw and take the\npoint that I should be getting, rather than attacking you.\") That\nseems rather stupid to me, if that is the case. If someone could\nclear this up, I'd appreciate it.\n\nAndy Kaiser\n--\n-------------------------------------------------\n#include <stdsig.h>\nstruct sig_info {\nchar* name = \"Andy Kaiser\";\nchar* title = \"Phoenix System Administrator\";\nchar* e_mail = \"gka...@phoenix.lhup.edu\";\nchar* address_1 = \"213B North Hall\";\nchar* address_2 = \"Lock Haven University\";\nchar* city_st_zip = \"Lock Haven, PA 17745\";\n};\n-------------------------------------------------"
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Apr 18, 1997, 9:00:00\u202FAM",
+      "Body": "Andy Kaiser wrote:\n>\n> This may have been covered already, but I've only started hanging out\n> around this group recently. How does the forced withdrawal (from the\n> Sabbat rules) work, exactly? As I understand it, and as my friends\n> and I play it, to withdraw (as outlined in the basic game), you\n> have to go one complete round (from your untap phase to your next\n> untap phase) without losing any pool and without your minions getting\n> into combat. If you succeed, you get a victory point for basically\n> ousting yourself, and your predator gets nothing as a result of your\n> leaving the game.\n\nCorrect.\n\n> Now, if you're forced to withdraw as a result of\n> running out of cards, does that mean you have to just sit there and\n> take whatever punishment your predator or anyone else feels like\n> dishing out on you, all the time saying \"I've gotta withdrawal,\" not\n> blocking anything, until your predator kills you off and gets his\n> victory point?\n\nNo. Under the Sabbat Withdrawal rule, you simply withdraw.\nImmediately.\nYou start your turn with fewer cards in your hand than your hand\ncapacity\ndue to have exhausted your library, and that's it - you successfully\nwithdraw. Pick up all your cards and sit back.\n\n--\nL. Scott Johnson (vte...@regency.wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Apr 18, 1997, 9:00:00\u202FAM",
+      "Body": "L. Scott Johnson (vte...@regency.wizards.com) wrote:\n\n: No. Under the Sabbat Withdrawal rule, you simply withdraw.\n\n: Immediately.\n: You start your turn with fewer cards in your hand than your hand\n: capacity\n: due to have exhausted your library, and that's it - you successfully\n: withdraw. Pick up all your cards and sit back.\n\nActually, according to the Sabbat rules sheet, you do not pick up all your\ncards and go home. This is (to my mind) another strike against the Sabbat\nwithdrawal rule - it breaks the rule that, whenever a Methuselah leaves the\ngame, all his/her cards go with them. According to the Sabbat withdrawal\nmethod, any cards the withdrawing Meth has that are still in play on other\npeople's sides remain in play until the game ends.\n\nJosh\n\n..bitter, bitter, bitter.."
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Apr 18, 1997, 9:00:00\u202FAM",
+      "Body": "\uE5D3\n\nOop. Right. Make that \"just pick up all the cards in front of\nyou (all the cards you currently control) and sit back.\"\n\n\uE5D3"
+    },
+    {
+      "Author": "Ryan Anderson",
+      "Date": "Apr 18, 1997, 9:00:00\u202FAM",
+      "Body": "On Fri, 18 Apr 1997, L. Scott Johnson wrote:\n\n> No. Under the Sabbat Withdrawal rule, you simply withdraw.\n> Immediately.\n> You start your turn with fewer cards in your hand than your hand\n> capacity\n> due to have exhausted your library, and that's it - you successfully\n> withdraw. Pick up all your cards and sit back.\n\nActually, doesn't the Sabbat rule say that your cards stay in play if\nthey're not currently controlled by you?\n\n-----------------------------------------------------------------------\nRyan Anderson - <Pug Majere> \"Who knows, even the horse might sing\"\nrand...@ece.eng.wayne.edu \"May you live in interesting times\"\nPGP Fingerprint - 7E 8E C6 54 96 AC D9 57 E4 F8 AE 9C 10 7E 78 C9\nfinger rand...@ece.eng.wayne.edu for my public key.\n-----------------------------------------------------------------------"
+    }
+  ]
+}

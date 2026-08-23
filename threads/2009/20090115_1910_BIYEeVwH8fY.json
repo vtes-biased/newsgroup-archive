@@ -1,0 +1,77 @@
+{
+  "ThreadId": "BIYEeVwH8fY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/BIYEeVwH8fY",
+  "Title": "Cry Wolf and Abomination (again)",
+  "Messages": [
+    {
+      "Author": "s.sch...@kabsi.at",
+      "Date": "Jan 15, 2009, 7:10:38\u202FPM",
+      "Body": "I know the question whether you can somehow make Cry Wolf into an\nAbomination has been brought up before, back then LSJ replied:\n\n\"Typical example involves the Cry Wolf getting blocked and playing\nChange of Target.\"\n\nThere is still something I don´t get however:\n\nCry Wolf text: This werewolf must enter combat with a minion\ncontrolled by another Methuselah as a (D) action.\n\nThe Embrace text: This vampire must hunt THIS TURN. (emphasis added)\n\nBecause of the different wording, I always interpreted Cry Wolfs card\ntext to mean that, like all allies, it stands around doing nothing for\n1 turn, isn´t burned during the next untap phase since it isn´t tapped\n(unless it blocked something), and has to (D) attack on that next\nturn.\n\nThis would allow a 1 turn window for Abomination (With Freak Drive, or\na second vampire, or whatever).\n\nWhat am I missing?"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jan 15, 2009, 7:16:46\u202FPM",
+      "Body": "s.sch...@kabsi.at wrote:\n> What am I missing?\n\nAbomination requires the Cry Wolf to be Ready and Untapped.\n\nSo:\nFirst: Anarch Convert recruits Cry Wolf (successfully).\nAt this time, the Cry Wolf is Untapped, but not Ready (by definition of\nrecruiting).\n\nThen you wait until your next turn. Cry Wolf hasn't been tapped in\nthe meantime, and it's your new minion phase.\n\nCry Wolf has a mandatory action (must enter combat as a (D) action), so\nit must happen first.\nIf he takes his action and survives, then he is Ready, but not Untapped.\nSo Abomination can't be played on him.\n\nBut if he takes his action, gets blocked, and plays Change of Target, then\nhe is Untapped and Ready. And since he has already taken his action, he\ncan not take it again (by the \"no repeat action\" rules).\n\nSo at that point, he is an eligible target for Abomination.\n\nIs that easier to understand?"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jan 15, 2009, 7:17:27\u202FPM",
+      "Body": "\uE5D3\n\nAbomination Cardtype: Action\nCost: 1 pool\nCapacity: 4\n+1 stealth action. Requires a ready non-sterile vampire.\nBurn a ready untapped werewolf ally you control to put this card in\nplay. It becomes a unique Independent Abomination with 4 capacity,\nsuperior Protean [PRO] and +1 strength. Move up to 4 blood from the\nacting vampire to this vampire. This vampire gets an additional strike\neach round and an optional maneuver each combat. He may enter combat\nwith a ready minion as a (D) action.\n\nNote \"ready, untapped werewolf ally.\"\n\nSo here's the sequence:\n\nCry wolf gets recruited. It's not ready until the end of your turn by\nthe rules for ally-recruitment, so it can't be immediately\nAbomination'ed on the same turn.\n\nOn your next untap, the Cry Wolf is untapped, so it doesn't burn. It\nhas a mandatory action, so that must be taken first. At the end of\nthat action the Cry Wolf is tapped (assuming it survived), so it is\nnot a valid target for a subsequent Abomination (and the rush must be\ntaken before you can take an action to Abomination the Wolf.)\n\nOn your next untap, the Cry Wolf is tapped and so burns.\n\nSo, unless you do something tricky like use Change of Target to leave\nthe Cry Wolf untapped after it takes its mandatory rush action, it's\nnever a legal target for your Abomination action at a point when you\ncan take the Abomination action.\n\n-John Flournoy"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 15, 2009, 7:39:08\u202FPM",
+      "Body": "On Jan 15, 12:17 pm, John Flournoy <carne...@gmail.com> wrote:\n>\n> So, unless you do something tricky like use Change of Target to leave\n> the Cry Wolf untapped after it takes its mandatory rush action, it's\n> never a legal target for your Abomination action at a point when you\n> can take the Abomination action.\n>\n\nOr do the Abomination action out-of-turn with Madness Network or Enkil\nCog."
+    },
+    {
+      "Author": "s.sch...@kabsi.at",
+      "Date": "Jan 15, 2009, 7:39:48\u202FPM",
+      "Body": "Addendum: Just read up the latest wording of the \"allies can´t act on\nthe turn they enter play\" rule: \"If the action is succesfull, the ally\nis placed in the uncontrolled region, even though it is controlled, to\nindicate that it cannot act this turn (and the cost, if any, is paid)\"\nSo, since there isn´t anything on Cry Wolf saying that it is put\ndirectly into the controlled region, I don´t see how it can act.\nUnless, of course, if this is a case of \"card text always overrides\ngame rules\". However, in that case, wouldn´t it also bypass the no-\nrepeat-actions rule, making the Change of Target trick also\nineffective?\n\nBy the way, isn´t the \"must hunt this turn\" clause on Embrace actually\nredundant? Since it doesn´t have the \"can´t act this turn\" clause of\ne.g. Third Tradition, there´s nothing to prevent the new vamp from\nacting, since there´s no rule preventing a vamp from acting on the\nsame turn they come into play (apart from the fact that they *usually*\nenter play in the Influence phase).\nAnd since it´s an empty Vamp capable of acting, it already must hunt\nwithout the card telling it to.\n\nOn the whole, I find the wording of cards that put minions into play\nconfusing, and, dare I say, inconsistent."
+    },
+    {
+      "Author": "s.sch...@kabsi.at",
+      "Date": "Jan 15, 2009, 7:42:44\u202FPM",
+      "Body": "Ah, so the key point is that the pups aren´t ready. Got it."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 15, 2009, 7:44:54\u202FPM",
+      "Body": "On Jan 15, 12:39 pm, s.schei...@kabsi.at wrote:\n>\n> By the way, isn´t the \"must hunt this turn\" clause on Embrace actually\n> redundant? Since it doesn´t have the \"can´t act this turn\" clause of\n> e.g. Third Tradition, there´s nothing to prevent the new vamp from\n> acting, since there´s no rule preventing a vamp from acting on the\n> same turn they come into play (apart from the fact that they *usually*\n> enter play in the Influence phase).\n> And since it´s an empty Vamp capable of acting, it already must hunt\n> without the card telling it to.\n>\n\nI suspect that it was originally just reminder text (and also a\nreminder that this vampire is able to act the turn it goes into play,\nin contrast to the other vampire creation cards that can't act the\nturn they come into play). But it also prevents the vampire from\nforegoing the hunt if you use something like Heidelburg or The Coven\nto give it blood."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 15, 2009, 7:45:12\u202FPM",
+      "Body": "s.sch...@kabsi.at wrote:\n> Addendum: Just read up the latest wording of the \"allies can´t act on\n> the turn they enter play\" rule: \"If the action is succesfull, the ally\n> is placed in the uncontrolled region, even though it is controlled, to\n> indicate that it cannot act this turn (and the cost, if any, is paid)\"\n> So, since there isn´t anything on Cry Wolf saying that it is put\n> directly into the controlled region, I don´t see how it can act.\n\nIt can't act from the uncontrolled region, true.\nIt will have to wait until it moves to the ready region (which happens at the\nend of the turn).\n\n> Unless, of course, if this is a case of \"card text always overrides\n> game rules\". However, in that case, wouldn´t it also bypass the no-\n> repeat-actions rule, making the Change of Target trick also\n> ineffective?\n\nAt the end of the turn, it becomes ready.\n\nIt still can't act, though, since it isn't the minion phase.\n\nSo it waits until it's controller's next turn.\n\nThen it can act (and must act), so it does.\n\nIf it gets blocked and plays Change of Target, it cannot take that action again,\nand it has no other mandatory actions, so it can wait, untapped and ready, for\nsome other vampire to play Abomination on it.\n\n> By the way, isn´t the \"must hunt this turn\" clause on Embrace actually\n> redundant? Since it doesn´t have the \"can´t act this turn\" clause of\n> e.g. Third Tradition, there´s nothing to prevent the new vamp from\n> acting, since there´s no rule preventing a vamp from acting on the\n> same turn they come into play (apart from the fact that they *usually*\n> enter play in the Influence phase).\n> And since it´s an empty Vamp capable of acting, it already must hunt\n> without the card telling it to.\n\nUnless the vampire gets some blood (e.g., from Heidelberg Castle).\nBut yes, the text is mostly reminder text.\n\n> On the whole, I find the wording of cards that put minions into play\n> confusing, and, dare I say, inconsistent.\n\nOne is a vampire, the other is an ally.\n\nText for putting vampires in play is consistent.\nText for putting allies in play is consistent.\n\nText for putting minions in play is consistent as far as it can be."
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jan 15, 2009, 11:15:03\u202FPM",
+      "Body": "On Jan 15, 7:45 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n> s.schei...@kabsi.at wrote:\n> > By the way, isn´t the \"must hunt this turn\" clause on Embrace actually\n> > redundant? Since it doesn´t have the \"can´t act this turn\" clause of\n> > e.g. Third Tradition, there´s nothing to prevent the new vamp from\n> > acting, since there´s no rule preventing a vamp from acting on the\n> > same turn they come into play (apart from the fact that they *usually*\n> > enter play in the Influence phase).\n> > And since it´s an empty Vamp capable of acting, it already must hunt\n> > without the card telling it to.\n>\n> Unless the vampire gets some blood (e.g., from Heidelberg Castle).\n> But yes, the text is mostly reminder text.\n\nClarification: Does this mean that an Embrace, that gains blood, after\nit is created, before it has to hunt, via the Coven, Heidelberg, or\nany other similar means is free to take a different, non-mandatory\naction that turn?"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jan 15, 2009, 11:16:18\u202FPM",
+      "Body": "\uE5D3\n\nTo clarify my query. Is the must hunt text on Embrace overriding card\ntext, or reminder text?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 15, 2009, 11:26:14\u202FPM",
+      "Body": "\uE5D3\n\nIt is overriding text. He must hunt."
+    },
+    {
+      "Author": "s.sch...@kabsi.at",
+      "Date": "Jan 16, 2009, 12:56:42\u202FAM",
+      "Body": "\uE5D3\n\nSince we´re on the subject: Is there even a window to activate Coven\netc. before the Embrace (or any Vamp that becomes empty and untapped\nduring the Minion phase) must hunt? I ask because \"hunt-prevention-\nmeasures\" are usually taken in the master phase, I don´t think I have\nhad this come up before."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 16, 2009, 12:58:24\u202FAM",
+      "Body": "s.sch...@kabsi.at wrote:\n> Since we´re on the subject: Is there even a window to activate Coven\n> etc. before the Embrace (or any Vamp that becomes empty and untapped\n> during the Minion phase) must hunt? I ask because \"hunt-prevention-\n> measures\" are usually taken in the master phase, I don´t think I have\n> had this come up before.\n\nYes. There is time between actions. This time is what allows Heidelberg Castle\nto be used between actions."
+    },
+    {
+      "Author": "brandons...@yahoo.com",
+      "Date": "Jan 17, 2009, 11:34:41\u202FAM",
+      "Body": "\uE5D3\n\nPentex(TM) Subversion\nType: Master\nCost: 2 pool\nUnique master.\nPut this card on any ready minion. The minion with this card cannot\ntake actions and cannot block actions. This card may be burned by any\nother minion as a (D) action.\n\nTurn 1: Anarch Convert Recruits Cry Wolf\nTurn 2: Pentex Subversion your own Cry Wolf (so that it may not act)\nand have Anarch Convert create the abomination!\n\nDidn't draw into Pentex Subersion the first time around? No problem!\nBurn your Underbridge Stray during an action directed at you and Cry\nWolf Untaps! It's such a good combo, how can you NOT play it?\n\nBrandon"
+    }
+  ]
+}

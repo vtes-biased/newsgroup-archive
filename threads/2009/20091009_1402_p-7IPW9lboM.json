@@ -1,0 +1,17 @@
+{
+  "ThreadId": "p-7IPW9lboM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/p-7IPW9lboM",
+  "Title": "(LSJ) Spying Mission's timing",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Oct 9, 2009, 2:02:38\u202FPM",
+      "Body": "Hello,\n\n- Suppose A (1 blood) bleeds with Govern the Unaligned, and the Slow\nWithering is in play (Cards that require any superior Disciplines cost\nan additional blood.). There is no block, the bleed amount is 3; must\nA pay the Govern the Unaligned before he gets the opportunity to play\nSpying Mission sup'?\n\n- Suppose A (1 blood) bleeds with Govern the Unaligned. In the process\nof the action, A plays an action modifier costing 1 blood (Elder\nImpersonation, Conditioning, ...). The action is not blocked, the\nbleed amount is strictly positive. Can A play Spying Mission sup'?\n\nThanks!\n\n~~\n\nAndre LeRoux\nCardtype: Vampire\nClan: Toreador\nGroup: 5\nCapacity: 3\nDiscipline: aus\nCamarilla: When a vampire you control successfully bleeds, you may\nreduce the bleed amount by 1 to give Andre +2 bleed this turn.\n\nSpying Mission\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] +1 stealth.\n[OBF] Only usable when a bleed would be successful. The bleed burns no\npool; it is unsuccessful. Instead, put this card on the acting\nvampire. The next time this vampire successfully bleeds the same\nMethuselah, burn this card for +2 bleed."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 9, 2009, 2:07:18\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> Hello,\n>\n> - Suppose A (1 blood) bleeds with Govern the Unaligned, and the Slow\n> Withering is in play (Cards that require any superior Disciplines cost\n> an additional blood.). There is no block, the bleed amount is 3; must\n> A pay the Govern the Unaligned before he gets the opportunity to play\n> Spying Mission sup'?\n\nYes.\n\n> - Suppose A (1 blood) bleeds with Govern the Unaligned. In the process\n> of the action, A plays an action modifier costing 1 blood (Elder\n> Impersonation, Conditioning, ...). The action is not blocked, the\n> bleed amount is strictly positive. Can A play Spying Mission sup'?\n\nNo. The bleed amount is immaterial, since the GtU fizzles (for cost being\nunpaid), so the requirement on Spying Mission (\"only usable when a bleed would\nbe successful\") isn't met.\n\n\uE5D3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ThreadId": "hL41mTtG4IQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hL41mTtG4IQ",
+  "Title": "Contradicting card text",
+  "Messages": [
+    {
+      "Author": "Potato",
+      "Date": "May 31, 2001, 1:30:32\u202FAM",
+      "Body": "Here's one for y'all\n\nThe scenario: I take an action, tapping my Storm Sewers as I do so.\nThe action gets blocked by Cailean.\nMy query: Does my Storm Sewers \"keep it close\" take precedence over\nCaileans choice of range?\n\nCARD TEXT\nStorm Sewers: Tap as you declare an action. If the action is blocked,\ndon't choose range during the combat; the combat is at close range.\nCailean: Each round of combat, before range is determined, Cailean can\nset the range for that round. If he does so, skip the Determine Range\nstep for that round.\n\nAny takers?"
+    },
+    {
+      "Author": "Skippy",
+      "Date": "May 31, 2001, 1:47:16\u202FAM",
+      "Body": "\"Potato\" <Potato...@hotmail.com> wrote in message\nnews:7abfcf51.0105...@posting.google.com...\n\uE5D3\n\nMy guess would be that since SS doesn't list a condition further than the\naction being blocked, it would seem that since there is no Determine Range\nstep SS takes precedence."
+    },
+    {
+      "Author": "Gomi no Sensei",
+      "Date": "May 31, 2001, 2:11:17\u202FAM",
+      "Body": "In article <7abfcf51.0105...@posting.google.com>,\nPotato <Potato...@hotmail.com> wrote:\n\n>The scenario: I take an action, tapping my Storm Sewers as I do so.\n>The action gets blocked by Cailean.\n>My query: Does my Storm Sewers \"keep it close\" take precedence over\n>Caileans choice of range?\n\nIt does. Storm Sewers' effect was activated first, so it wins -- see\nCailean v. Shadow Step for precedent (the first rangesetting effect\nprevents further rangesetting).\n\ngomi\nnosferatu newsletter tonight, already partially written.\n--\n\"I wanted to feel that tug of a body as it jerks and kicks while I hold\nthe handle and the life erupts from it like water from the cold springs\nof the Eastern Mountains. That's what I wanted, and what you want makes\nyou who you are.\" - Steven Brust, Teckla"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "May 31, 2001, 2:14:48\u202FAM",
+      "Body": "In message <7abfcf51.0105...@posting.google.com>, Potato\n<Potato...@hotmail.com> writes\n\n>My query: Does my Storm Sewers \"keep it close\" take precedence over\n>Caileans choice of range?\n\nSince Cailean establishes range in combat, and Storm Sewers prevents\nthat, Cailean's ability cannot function. i.e. SS takes precedence.\n\n--\nJames Coupe PGP Key: 0x5D623D5D\n\"You reinstall Dial-Up Networking. The Elf screams and becomes EBD690ECD7A1F\nan icon. *** CONGRATULATIONS! *** You completed the BT Internet B457CA213D7E6\nHelpdesk training course in 15 out of a possible 9000 moves.\" 68C3695D623D5D"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 31, 2001, 3:49:31\u202FAM",
+      "Body": "Skippy wrote:\n> \"Potato\" <Potato...@hotmail.com> wrote in message\n\n> > My query: Does my Storm Sewers \"keep it close\" take precedence over\n> > Caileans choice of range?\n\n> My guess would be that since SS doesn't list a condition further than the\n\n> action being blocked, it would seem that since there is no Determine Range\n> step SS takes precedence.\n\nCorrect. Once the range of the round has been set, it cannot be set again.\nThe first \"set range\" effect wins out.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Andrew S. Davidson",
+      "Date": "May 31, 2001, 10:37:10\u202FAM",
+      "Body": "It's easy. Cailean wants to choose range during the combat but Storm\nSewers says that he can't. It's a general metarule in CCG that card\neffects which prevent or cancel something take precedence over effects\nwhich cause that same thing. An early example cited by Garfield was\nConsecrate Land vs Stone Rain.\n\nAndrew\n\n\uE5D3"
+    }
+  ]
+}

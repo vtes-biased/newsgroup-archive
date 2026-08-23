@@ -1,0 +1,77 @@
+{
+  "ThreadId": "ded3qd1rHiE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ded3qd1rHiE",
+  "Title": "cancelled/repeat actions",
+  "Messages": [
+    {
+      "Author": "Eric Pettersen",
+      "Date": "Sep 6, 2000, 12:57:57\u202FAM",
+      "Body": "I looked at the DCI no-repeat-actions rule, and I cannot determine if a\n\"cancelled\" action (Delaying Tactics, Change of Target) is considered to\nhave been taken for the purposes of the DCI rule. Can a minion that called\nKine Resources Contested and had that vote cancelled by Delaying Tactics\nthen go ahead and call Disputed Territory instead?\n\nDepends on the definition of cancelled...\n---\nEric Pettersen\npett \"at\" cgl \"dot\" ucsf \"dot\" edu (NeXTmail capable)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 6, 2000, 1:57:33\u202FPM",
+      "Body": "Eric Pettersen wrote:\n>\n> I looked at the DCI no-repeat-actions rule, and I cannot determine if a\n> \"cancelled\" action (Delaying Tactics, Change of Target) is considered to\n> have been taken for the purposes of the DCI rule. Can a minion that called\n> Kine Resources Contested and had that vote cancelled by Delaying Tactics\n> then go ahead and call Disputed Territory instead?\n>\n> Depends on the definition of cancelled...\n\nNo. Canceling an action doesn't make it so that the action never happened.\n[RTR 30-JUN-1997]\n\nThe No Repeat Actions rule marks the acting vampire as unable to take the\nsame type of action again this turn. That mark is applied when the action\nresolves (blocked or not).\n\nCanceling the action *card* that would have been used to take an action (via\nDirect Intervention) won't prevent the would-be acting vampire from attempting\nthe same action again.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "hamd...@my-deja.com",
+      "Date": "Sep 6, 2000, 2:24:42\u202FPM",
+      "Body": "In article <8p3tpl$d83f$1...@cgl.ucsf.edu>,\n\npe...@address.is.in.sig (Eric Pettersen) wrote:\n> I looked at the DCI no-repeat-actions rule, and I cannot determine if\na\n> \"cancelled\" action (Delaying Tactics, Change of Target) is considered\nto\n> have been taken for the purposes of the DCI rule. Can a minion that\ncalled\n> Kine Resources Contested and had that vote cancelled by Delaying\nTactics\n> then go ahead and call Disputed Territory instead?\n>\n> Depends on the definition of cancelled...\n\nThis has come up before...\n\n\"Delaying Tactics\nType: Reaction\nCard Text:\n\nAny vampire. Only usable during a political action. The political\naction is cancelled. Untap the acting vampire. The controller of the\nacting minion takes the political card if any back into his or her\nhand, and his or her minions cannot take the same political action this\nturn.\"\n\nYou can call a different vote as per card text on Delaying Tactics, so\nyou can call a Domain Challenge if you tryed to call a Kine Resources\nContested. Furthermore, you could call a Praxis Seizure: Monaco if you\ntried to call a Praxis Seizure: Berlin, as long as it is not the same\n_type_ of vote - different Praxis Seizures and Crusades count as\ndifferent types of vote.\n\n\"Change of Target\nType: Action Modifier\nCard Text:\n\nOnly usable when this action minion is blocked. Untap the acting and\nblocking minions and cancel the current action and combat. If you do a\nsecond action with this minion this turn, it cannot be the same action.\"\n\nWith Change of Target, the card text prevents you doing the same action\nagain. However, the No Repeat Action tenet means that this is also\napplicable for any other second action - Freak Drives, Rutors Hand,\nanyone who has been untapped by (say for example) Alexandra (Toreador\nInner Circle member and her special), etc.\n\nBleeding - You cannot bleed again. This also applies to different bleed\ncards - e.g If you tried to Social Charm someone, you cannot attempt to\nbleed again, even with a Legal Manipulations because it is a bleeding\naction.\n\nVoting - Much the same as the rulings for Delaying Tactics when voting\n(not the same vote).\n\nAction cards - By the card. e.g. You can play Bums Rush, then Change of\nTarget / Freak Drive, and then play Ambush (if the vampire is tapped).\nHowever, you cannot play 2 consecutive Bums Rushes or 2 Ambushes.\n\nHunting - No repeat.\n\nRecruiting / Equipping - This I am not sure about. I suspect if you\ncannot attempt to call retainers or allies if you have done it once.\nAny ideas LSJ / Coupe / Others?\n\nBest regards\n\nDavid Hammond\n\nUGPOW\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    },
+    {
+      "Author": "hamd...@my-deja.com",
+      "Date": "Sep 6, 2000, 2:32:55\u202FPM",
+      "Body": "Oops! Looks like I'm well off target, and the person who told me this\nis too.\n\nDH\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 6, 2000, 2:41:49\u202FPM",
+      "Body": "hamd...@my-deja.com wrote:\n> Recruiting / Equipping - This I am not sure about. I suspect if you\n> cannot attempt to call retainers or allies if you have done it once.\n> Any ideas LSJ / Coupe / Others?\n\nThe defined \"action types\" are the ones defined in the rulebook:\nbleed, hunt, equip, employ retainer, recruit ally, political action,\nleave torpor, rescue a vampire from torpor, and diablerize a vampire\nin torpor.\n\n[VEKN 6.4.1]\n\nSo you cannot attempt to \"employ\" a retainer if you have taken the\n\"employ retainer\" action already.\nLikewise, you cannot attempt to \"recruit\" an ally if you have taken\nthe\"recruit ally\" action already.\n\n\uE5D3"
+    },
+    {
+      "Author": "Mike Ooi",
+      "Date": "Sep 7, 2000, 8:52:38\u202FPM",
+      "Body": "What effect does Change of Target have on Force of Will?\n\nI play Force of Will. I am blocked. I play Change of Target.\n\n?:\n1.) I untap as per Change of Target and untap the blocking minion. Since the\naction was cancelled, I do not take damage from Force of Will.\n\n2.) I do not untap but untap the blocking minion. Since the action was\ncancelled, I do not take damage from Force of Will.\n\n3.) I untap as per Change of Target and untap the blocking minion. Even\nthough the action was cancelled, I take damage from Force of Will because it\nhad to be blocked to allow me to play Change of Target.\n\n4.) I do not untap but untap the blocking minion. Even though the action was\ncancelled, I take damage from Force of Will because it had to be blocked to\nallow me to play Change of Target.\n\n5.) I set fire to the table as per the Voices."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 7, 2000, 6:51:40\u202FPM",
+      "Body": "Mike Ooi wrote:\n> What effect does Change of Target have on Force of Will?\n> I play Force of Will. I am blocked. I play Change of Target.\n>\n\n> 3.) I untap as per Change of Target and untap the blocking minion. Even\n> though the action was cancelled, I take damage from Force of Will because it\n> had to be blocked to allow me to play Change of Target.\n\nClose enough. You untap per Change of Target. You take damage from Force of\nWill because that damage is not a part of the action's resolution.\n\nLikewise for an action with Daring the Dawn that gets blocked by an ally\nand subsequently canceled by a Change of Target.\n\nOn a similar note, if you call a vote and use Daring the Dawn or Day Operation,\nbut the vote is hit with Delaying Tactics or inferior Telepathic Vote Counting:\nyou still suffer aggravated damage or get sent to torpor by the Dare/Day.\n\n\uE5D3"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "Sep 7, 2000, 7:26:06\u202FPM",
+      "Body": "On Thu, 7 Sep 2000 11:52:38 -0700, \"Mike Ooi\" <sh...@texas.net> wrote:\n\n>What effect does Change of Target have on Force of Will?\n>\n>I play Force of Will. I am blocked. I play Change of Target.\n>\n\n>5.) I set fire to the table as per the Voices.\n\nThis satisfies both card text on Change of Target (untap acting\nvampire), and on Force of Will (table takes one point of unpreventable\naggravated damage after this action is complete). I like it.\n\n-- Derek\nJack-Booted Thug of Atlanta"
+    },
+    {
+      "Author": "theve...@my-deja.com",
+      "Date": "Sep 8, 2000, 4:32:06\u202FAM",
+      "Body": "In article <39B7C79C...@white-wolf.com>,\n\nLSJ <vte...@white-wolf.com> wrote:\n> Mike Ooi wrote:\n> > What effect does Change of Target have on Force of Will?\n> > I play Force of Will. I am blocked. I play Change of Target.\n> >\n> > 3.) I untap as per Change of Target and untap the blocking minion.\nEven\n> > though the action was cancelled, I take damage from Force of Will\nbecause it\n> > had to be blocked to allow me to play Change of Target.\n>\n> Close enough. You untap per Change of Target. You take damage from\nForce of\n> Will because that damage is not a part of the action's resolution.\n>\n> Likewise for an action with Daring the Dawn that gets blocked by an\nally\n> and subsequently canceled by a Change of Target.\n>\n> On a similar note, if you call a vote and use Daring the Dawn or Day\nOperation,\n> but the vote is hit with Delaying Tactics or inferior Telepathic Vote\nCounting:\n> you still suffer aggravated damage or get sent to torpor by the\nDare/Day.\n>\n\nwhat happens if i day op a force of will? do i burn blood to prevent\ndestruction because the day op has already sent me to torpor?\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 8, 2000, 1:54:26\u202FPM",
+      "Body": "theve...@my-deja.com wrote:\n> what happens if i day op a force of will? do i burn blood to prevent\n> destruction because the day op has already sent me to torpor?\n\nBoth events (\"go to torpor\" and \"take 2/1 agg damage\") are to occur\nin the same time frame (\"after the action\"), so you can order them\nhowever you like. If you choose to resolve the \"go to torpor\" effect\nfirst, then you'll have to burn blood for each point of agg damage\ndone by the other effect in order to prevent destruction. If you\nchoose to resolve the agg damage first, then the \"go to torpor\"\neffect won't do anything - you'll already be in torpor.\n\n\uE5D3"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Sep 8, 2000, 11:08:06\u202FAM",
+      "Body": "In article <8p9j36$9dq$1...@nnrp1.deja.com>, theve...@my-deja.com writes\n\n>what happens if i day op a force of will? do i burn blood to prevent\n>destruction because the day op has already sent me to torpor?\n\nA vampire in torpor is considered wounded.\n\nSo, yes, since Day Op has put you in torpor, Force of Will will deal you\naggravated damage which must be dealt with by burning a blood to prevent\ndestruction.\n\n--\nJames Coupe | PGP Key 0x5D623D5D | ja...@zephyr.org.uk (New e-mail)\n\"Who'd have ever predicted the moment would come when I find myself grateful\nthey've kept women dumb? She's an innocent maiden but then so am I, that's why\nit's possible I could get by.\""
+    },
+    {
+      "Author": "reyda seddiki",
+      "Date": "Sep 10, 2000, 9:56:43\u202FPM",
+      "Body": "LSJ wrote:\n\" If you choose to resolve the agg damage first, then the \"go to torpor\"\n\neffect won't do anything - you'll already be in torpor.\"\n\nIt sounds a bit unfair !! so you can have an unblockable bleed for free\n!\nFortitude wasn't strong enough... Damn those gangrels !\n\nreyda"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "Sep 11, 2000, 1:11:02\u202FAM",
+      "Body": "\uE5D3\n\uE5D3\n\nOh no! The Gangrel are going to bleed me for 3 and make it\nunblockable! Whatever shall I do?\n\nDrat! I must play a Deflection and watch as my predator's vampire\ngoes to torpor while bleeding my prey. Or I must take the bleed for 3\nand intercept the Rapid Healing action to forestall any further stunts\nlike this.\n\nThen again, there's always plain old diablerie - especially if my\ngrand-predator has some votes, since I bet he'll support his prey's\nvamps getting eaten.\n\nDay Op: ONLY good when you're sure someone is going to try to block\nyou, and ONLY good if you're going to oust someone if it goes through.\n\n-- Derek\n\n\"Ignorance more frequently begets confidence than does knowledge.\"\n- C. Darwin, 1871"
+    },
+    {
+      "Author": "reyda seddiki",
+      "Date": "Sep 11, 2000, 3:34:45\u202FAM",
+      "Body": "Bleed bounce, deflection, redirection, i know all that...\nI was just joking, ya know =)\n\nI just looked at the cards and... Gangrel may be nice guys fighting for\nnature's sake, healing wounded birds or swimming amongst gentle wolves,\nsmelling red roses...\nMaybe i'll even try to build my own gangrel deck... That could happen\nsomeday...\n\nreyda\ngangrel ally (?)"
+    }
+  ]
+}

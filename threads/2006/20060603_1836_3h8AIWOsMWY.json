@@ -1,0 +1,32 @@
+{
+  "ThreadId": "3h8AIWOsMWY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3h8AIWOsMWY",
+  "Title": "[LSJ] Bastet Tapping Timing",
+  "Messages": [
+    {
+      "Author": "Pat",
+      "Date": "Jun 3, 2006, 6:36:48\u202FPM",
+      "Body": "Situation:\nSister Evelyn is hunting. The Siamese with a Raven Spy blocks and taps. The\nSiamese wants Bastet to smack around Evelyn, so Bastet taps for her special.\n\nEvelyn plays Change of Target.\n\n(This occurred in JOL, so the CoT was out of order due to players not being\nthere at the same time.)\n\nQuestion: Are Siamese, Bastet, and Evelyn all untapped? (I believe so, since\nthe timing window for Bastet to tap for her special never actually occurred,\nsince CoT ended the action prior to the \"about to enter combat\" phase.)\n\nTIA,\nPat"
+    },
+    {
+      "Author": "Pat",
+      "Date": "Jun 3, 2006, 7:38:12\u202FPM",
+      "Body": "\"Pat\" <patric...@NOSPAMcomcast.net> wrote in message\nnews:ELCdnfXKZLg7JxzZ...@comcast.com...\n\uE5D3\n\nOops, sorry for the reply to my own post, but I guess another question is\nactually raised by this situation:\n\nCan Change of Target be played in response to tapping Bastet? Or is it too\nlate to play CoT at that point?\n\nIf not too late, does Bastet untap?\n\nThx again,\nPat"
+    },
+    {
+      "Author": "Herve",
+      "Date": "Jun 3, 2006, 7:40:50\u202FPM",
+      "Body": "\uE5D3\n\nTo be more general : what is the exact meaning of \"about to enter\ncombat\" and \"before combat\". Is it the same time window ? Or\ndoes one include the other ? Or does one is after the other ?"
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "Jun 4, 2006, 12:36:28\u202FPM",
+      "Body": "\uE5D3\n\nI believe that about to enter combat exists first then before combat\nbegins comes next.\n\nSo in your case :\n\nEvelyn Hunts\nSiamese Attempts to Block\nEvelyn States Block Successful\nEvelyn Plays Change Of Target (She Was Blocked)\nBastet's Window hasn't occurred\n\nnow new option\n\nEvelyn Hunts\nSiamese Attempts to Block\nEvelyn States Block Successful\nEvelyn Forgets to Play CoT (thus Siamese has blocked and combat about\nto begin)\nBastet's Window has occurred and taps\nSince the block has occurred and has been cancelled there is no block\nfor CoT to be played since the Bastet's ability is a combat queuing not\na new block."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 5, 2006, 2:58:09\u202FPM",
+      "Body": "Pat wrote:\n> \"Pat\" <patric...@NOSPAMcomcast.net> wrote in message\n\n> > Situation:\n> > Sister Evelyn is hunting. The Siamese with a Raven Spy blocks and taps.\n\n> > Siamese wants Bastet to smack around Evelyn, so Bastet taps for her\n> > special.\n> >\n> > Evelyn plays Change of Target.\n> >\n> > (This occurred in JOL, so the CoT was out of order due to players not\n> > being\n> > there at the same time.)\n\nThen use 1.6.1.6 and rewinding as appropriate.\n\nAt the block-is-successful point, the acting minion plays CoT.\nThe action ends.\nBastet cannot be used.\n\n> > Question: Are Siamese, Bastet, and Evelyn all untapped? (I believe so,\n> > since\n> > the timing window for Bastet to tap for her special never actually\n> > occurred,\n> > since CoT ended the action prior to the \"about to enter combat\" phase.)\n\nCorrect. Bastet is completely unaffected -- she's not involved at all.\nSiamese and Evelyn are untapped by CoT's text.\n\n> Oops, sorry for the reply to my own post, but I guess another question is\n> actually raised by this situation:\n>\n> Can Change of Target be played in response to tapping Bastet? Or is it too\n> late to play CoT at that point?\n\nThe latter.\n\n> If not too late, does Bastet untap?\n\nMoot."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "S4QxCsL_zbQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/S4QxCsL_zbQ",
+  "Title": "(LSJ) Hell-for-Leather & Amaranth",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 6, 2009, 3:59:16\u202FPM",
+      "Body": "Hello,\n\nIn a combat, my vampire inflicts 1 agg damage to the opposing vampire,\nwho doesn't prevent it.\nI play Hell-for-Leather (obt), and the replaced card is an Amaranth.\nCan I play Amaranth here, after having played Hell-for-Leather?\n\nProblem is : Hell-for-Leather reads \"the opposing minion is not\n[ready]\", whereas Amaranth reads \"the opposing vampire should go to\ntorpor\".\n\n--\n\nCardtexts :\n\nName: Hell-for-Leather\nCardtype: Combat\nDiscipline: Animalism/Celerity/Obtenebration\nRequires an anarch. Only one Hell-for-Leather may be played at a given\nDiscipline each combat.\n[ani] Strike: dodge, with an additional strike.\n[cel] Additional strike (that doesn't count against the limit).\n[obt] Play if this anarch is ready and the opposing minion is not. The\nopposing minion's controller burns 2 pool.\n\nName: Amaranth\nCardtype: Combat\nOnly usable by a vampire who can commit diablerie. Only usable when\nthe opposing vampire should go to torpor. Diablerize the opposing\nvampire instead. Not usable by a vampire being burned or going to\ntorpor."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 6, 2009, 4:10:48\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> Hello,\n>\n> In a combat, my vampire inflicts 1 agg damage to the opposing vampire,\n> who doesn't prevent it.\n> I play Hell-for-Leather (obt), and the replaced card is an Amaranth.\n> Can I play Amaranth here, after having played Hell-for-Leather?\n\nYes.\n\n> Problem is : Hell-for-Leather reads \"the opposing minion is not\n> [ready]\", whereas Amaranth reads \"the opposing vampire should go to\n> torpor\".\n\nNo problem; both descriptions apply in this case.\n\n\uE5D3"
+    },
+    {
+      "Author": "Meej",
+      "Date": "Jan 6, 2009, 6:54:32\u202FPM",
+      "Body": "On Jan 6, 10:10 am, LSJ <vtes...@white-wolf.com> wrote:\n> floppyzedolfin wrote:\n\n> > Problem is : Hell-for-Leather reads \"the opposing minion is not\n> > [ready]\", whereas Amaranth reads \"the opposing vampire should go to\n> > torpor\".\n>\n> No problem; both descriptions apply in this case.\n\nHuh. Really? Despite the fact that HFL appears to only trigger once\nthe opposing minion is *in* torpor (ie, not ready), while Amaranth\ntriggers when the minion would be sent there (ie, they're ready until\nthey either go or are burned)? That seems to create a non-ready, non-\ntorpor limbo that they pass through in between...\n\n- D.J."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 6, 2009, 6:58:14\u202FPM",
+      "Body": "Meej wrote:\n> On Jan 6, 10:10 am, LSJ <vtes...@white-wolf.com> wrote:\n>> floppyzedolfin wrote:\n>\n>>> Problem is : Hell-for-Leather reads \"the opposing minion is not\n>>> [ready]\", whereas Amaranth reads \"the opposing vampire should go to\n>>> torpor\".\n>> No problem; both descriptions apply in this case.\n>\n> Huh. Really? Despite the fact that HFL appears to only trigger once\n> the opposing minion is *in* torpor (ie, not ready),\n\nWhen he's *in* torpor, combat has already ended, so combat cards, like KFL,\ncould not be played.\n\n> while Amaranth\n> triggers when the minion would be sent there (ie, they're ready until\n> they either go or are burned)?\n\nNo. The vampire stops being ready when he's wounded.\n\nThat seems to create a non-ready, non-\n> torpor limbo that they pass through in between...\n\nHe becomes wounded, yeah."
+    },
+    {
+      "Author": "Meej",
+      "Date": "Jan 6, 2009, 7:02:14\u202FPM",
+      "Body": "\uE5D3\n\nOK. Hadn't caught on that wounded was a game-state change from ready,\nas opposed to a condition on the vampire that had to be resolved.\nThanks! That clears it up well.\n- D.J."
+    }
+  ]
+}

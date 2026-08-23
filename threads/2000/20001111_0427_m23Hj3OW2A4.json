@@ -1,0 +1,32 @@
+{
+  "ThreadId": "m23Hj3OW2A4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/m23Hj3OW2A4",
+  "Title": "[LSJ] Vagabond Mystic Question",
+  "Messages": [
+    {
+      "Author": "Gomi no Sensei",
+      "Date": "Nov 11, 2000, 4:27:52\u202FAM",
+      "Body": "Vagabond Mystic can be tapped while another ally is in combat, since\nthere's no Heidelbergian text to prohibit it. The question, though, is\nthis:\n\nCan VM be tapped between the resolution of discrete points of damage?\n\nSay a Renegade Garou is about to take a faceful of Sewer Lid from an\nopposing minion. Can the damage resolution be interrupted as follows:\n\n1) Resolve 1 point of damage. Garou at 2 life, 2 damage left to resolve.\n2) Resolve 1 point of damage. Garou at 1 life, 1 damage left to resolve.\n3) Tap Vagabond Mystic to add 1 life to Garou.\n4) Resolve 1 point of damage. Garou at 1 life, 0 damage left to resolve.\n\nAnd the Garou limps away, still in play.\n\nDoes that work?\n\ngomi\n--\n\"I wanted to feel that tug of a body as it jerks and kicks while I hold\nthe handle and the life erupts from it like water from the cold springs\nof the Eastern Mountains. That's what I wanted, and what you want makes\nyou who you are.\" - Steven Brust, Teckla"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 11, 2000, 9:00:00\u202FAM",
+      "Body": "go...@best.com (Gomi no Sensei) wrote:\n> Vagabond Mystic can be tapped while another ally is in combat, since\n> there's no Heidelbergian text to prohibit it. The question, though, is\n> this:\n>\n> Can VM be tapped between the resolution of discrete points of damage?\n\nNot in the middle of a single damage resolution step, no.\nOnce you start healing damage (or preventing destruction),\nyou handle it all.\n\n> Say a Renegade Garou is about to take a faceful of Sewer Lid from an\n> opposing minion. Can the damage resolution be interrupted as follows:\n\n> [...]\n\nNo. A Sewer Lid will kill the Garou (unless he's able to prevent the\ndamage - with a Leather Jacket, for instance).\n\n--\nLSJ (vte...@white-wolf.com) VTES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    },
+    {
+      "Author": "Gomi no Sensei",
+      "Date": "Nov 11, 2000, 9:00:00\u202FAM",
+      "Body": "In article <8ujfgp$tia$1...@nnrp1.deja.com>, LSJ <vte...@white-wolf.com> wrote:\n>go...@best.com (Gomi no Sensei) wrote:\n\n>> Say a Renegade Garou is about to take a faceful of Sewer Lid from an\n>> opposing minion. Can the damage resolution be interrupted as follows:\n\n>> [...]\n\n>No. A Sewer Lid will kill the Garou (unless he's able to prevent the\n>damage - with a Leather Jacket, for instance).\n\nGotcha. So, in combat with a Celeritous minion blurring for 2 additional\nstrikes (each for 1 damage), I can tap the Mystic after the resolution\nof strike #2 but before strike #3 is announced, yes?\n\nNot that I disagree with the ruling about handling all the damage at once,\nbut the section seems to imply that each point is handled sequentially,\nwhich kind of seems to leave space between each point for loosely defined\nThings to happen -- can you help me out with a particular cite or dated\nruling, or should I just read 6.4.6 more narrowly?\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 11, 2000, 9:00:00\u202FAM",
+      "Body": "go...@best.com (Gomi no Sensei) wrote:\n> LSJ <vte...@white-wolf.com> wrote:\n> >go...@best.com (Gomi no Sensei) wrote:\n\n> >> Can the damage resolution be interrupted as follows:\n\n> >> [...]\n>\n> >No. A Sewer Lid will kill the Garou (unless he's able to prevent the\n> >damage - with a Leather Jacket, for instance).\n>\n> Gotcha. So, in combat with a Celeritous minion blurring for 2\n> additional strikes (each for 1 damage), I can tap the Mystic\n> after the resolution of strike #2 but before strike #3 is\n> announced, yes?\n\nYes. (Even after strike #3 is announced - so long as it is before\nthe damage from strike #3 is resolved).\n\n> Not that I disagree with the ruling about handling all the\n> damage at once, but the section seems to imply that each point\n> is handled sequentially, which kind of seems to leave space\n> between each point for loosely defined Things to happen -- can\n> you help me out with a particular cite or dated ruling, or\n> should I just read 6.4.6 more narrowly?\n\nUntil Deja gets deeper archives, just read 6.4.6 more narrowly.\nThe normal damage is handled before the aggravated damage, but\nit is all handled before moving on (otherwise a vampire would\ngo to torpor before handling the second point of aggravated\ndamage, by page 38, and would then handle the second point of\nagg from torpor. But, per the ruling on Fame and burning\nvampires, this is not the way things happen).\n\n\uE5D3"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Nov 11, 2000, 9:00:00\u202FAM",
+      "Body": "On 11 Nov 2000, Gomi no Sensei wrote:\n> Not that I disagree with the ruling about handling all the damage at once,\n> but the section seems to imply that each point is handled sequentially,\n\nIt's all one effect that resolves together, so in reality it can't be\nsplit up. It's just for ease, really, that you handle each point one at a\ntime when explaining it to people, I find.\n\nIn practise, you find most people end up resolving damage as \"Okay, 2 agg\ndamage... burn a blood and go to torpor.\"\n\n--\nJames Coupe | PGP Key 0x5D623D5D\n\"Steve: Yeah, well that's one of the advantages of being a sad, lonely\nfairy, I guess. You get to learn how to be a spy.\"\n- Stephen Fry, Making History"
+    }
+  ]
+}

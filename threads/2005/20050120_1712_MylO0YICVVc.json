@@ -1,0 +1,62 @@
+{
+  "ThreadId": "MylO0YICVVc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/MylO0YICVVc",
+  "Title": "Dual Form and Possession",
+  "Messages": [
+    {
+      "Author": "Rolf",
+      "Date": "Jan 20, 2005, 5:12:29\u202FPM",
+      "Body": "Iliana(1) plays an advanced Dual Form to create Iliana(2).\nLater in the game Iliana(1) goes to torpor and Iliana(2) is burned.\n\nIs it possible that Gillespi Giovanni (aus DOM NEC POT) picks up\nIliana(2) from the ashes with a Possession? (Or would this be\ncontesting?)\n\n[NEC] Move a vampire from your ash heap to your ready region and move\n1 blood from the blood bank to the vampire.\n\nAnd if so, can it be done while Iliana(1) is still in torpor?\n\nCan another methuselah take control of Iliana(2) by playing Daemonic\nPossession?\n\n[nec] Only usable when a minion controlled by another Methuselah has\nbeen burned since your last turn. Move that minion from his owner's\nash heap to your ready region, put 1 blood or life from the blood bank\non the minion and tap the minion. You now control the minion. [NEC] As\nabove, but the minion is untapped.\n\nRolf"
+    },
+    {
+      "Author": "David Zopf",
+      "Date": "Jan 20, 2005, 5:55:51\u202FPM",
+      "Body": "\"Rolf\" <rolf.ed...@sars.uib.no> wrote in message\nnews:491dde49.0501...@posting.google.com...\n\n> Iliana(1) plays an advanced Dual Form to create Iliana(2).\n> Later in the game Iliana(1) goes to torpor and Iliana(2) is burned.\n>\n\nI really hate this naming convention. It causes all sorts of trouble and\nmisunderstandings... Call the vampire created by Dual Form some new name,\nlike 'Jane'.\n\n> Is it possible that Gillespi Giovanni (aus DOM NEC POT) picks up\n> Iliana(2) from the ashes with a Possession? (Or would this be\n> contesting?)\n\nNo, you cannot. Cards in the ash heap don't \"remember\" what they were in\nthe active region. Since Jane is now just a copy of Dual Form in your ash\nheap (indistinguishable from a discarded Dual Form), it cannot be the target\nof Possession once burned.\n\nHypothetical: If there were a way to return Jane to the ready region, then\nit wouldn't contest anything, since Dual Form creates non-unique vamipres...\n\n>\n> [NEC] Move a vampire from your ash heap to your ready region and move\n> 1 blood from the blood bank to the vampire.\n>\n> And if so, can it be done while Iliana(1) is still in torpor?\n>\n\nMoot.\n\n> Can another methuselah take control of Iliana(2) by playing Daemonic\n> Possession?\n>\n\nNo.\n\nDaveZ\nAtom Weaver"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Jan 20, 2005, 8:35:02\u202FPM",
+      "Body": "> No, you cannot. Cards in the ash heap don't \"remember\" what they were in\n> the active region. Since Jane is now just a copy of Dual Form in your ash\n> heap (indistinguishable from a discarded Dual Form), it cannot be the target\n> of Possession once burned.\n>\n\nWhat about Ally cards? Do they remember if they were discarded or blocked\nor in the ready region?\n\nDo crypt cards remember if they were burned via Diablerie versus burned\nvia Yong-Sun, Harmonist?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 20, 2005, 8:41:02\u202FPM",
+      "Body": "\"Gregory Stuart Pettigrew\" <ethe...@sidehack.sat.gweep.net> wrote in\nmessage news:2005012014...@sidehack.sat.gweep.net...\n\uE5D3\n\nA card in the ash heap remembers when it got there and what it was before\n(in play controlled by X, a card in hand, whatever).\n\nBut even that will be washed by trip through the ash heap if it is\nextracted from the ash heap.\n\nA blocked recruit ally card was never an ally in play or controlled\nby anyone, and there aren't any effects that currently distinguish\nbetween that state and simply being discarded."
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Jan 20, 2005, 10:25:07\u202FPM",
+      "Body": "> > > No, you cannot. Cards in the ash heap don't \"remember\" what they\n> > > were in the active region. Since Jane is now just a copy of Dual\n> > > Form in your ash heap (indistinguishable from a discarded Dual\n> > > Form), it cannot be the target of Possession once burned.\n> > >\n> >\n> > What about Ally cards? Do they remember if they were discarded or blocked\n> > or in the ready region?\n> >\n> > Do crypt cards remember if they were burned via Diablerie versus burned\n> > via Yong-Sun, Harmonist?\n>\n> A card in the ash heap remembers when it got there and what it was before\n> (in play controlled by X, a card in hand, whatever).\n>\n\nBut what distinguishes an Ally card that remembers it was burned in combat\n(and is Daemonically Possessable) from a Third Tradition card that\nremembers that it was diablerized in combat (and is not Daemonically\nPossessable)? Or a Dual Form that was burned when its partner went to\nTorpor (and is not Daemonically Posessable)?"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jan 20, 2005, 10:43:38\u202FPM",
+      "Body": "Gregory Stuart Pettigrew wrote:\n> But what distinguishes an Ally card that remembers it was burned in\ncombat\n> (and is Daemonically Possessable) from a Third Tradition card that\n> remembers that it was diablerized in combat (and is not Daemonically\n> Possessable)? Or a Dual Form that was burned when its partner went to\n> Torpor (and is not Daemonically Posessable)?\n\nThe Ally card, when in your ash heap, is still an Ally card and thus\nstill findable by effects looking for minions in your ash heap.\n\nThird Tradition and Dual Forms in your ash heap are not Vampire cards,\nthey are action cards (i.e. they are Cardtype: Action). An effect like\nDaemonic Possession has no valid target with this two cards, because DP\nmoves 'a minion from your ash heap', which 3rd and Dual Form aren't.\n-John Flournoy"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Jan 21, 2005, 12:08:24\u202FAM",
+      "Body": "> The Ally card, when in your ash heap, is still an Ally card and thus\n> still findable by effects looking for minions in your ash heap.\n>\n\nBut it's not a minion, it's a card."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jan 21, 2005, 2:09:22\u202FAM",
+      "Body": "\uE5D3\n\nEvery card in the game is a card. Some cards are minions. Some are not.\n\nA similar analogy is Zip Gun, which is not a weapon card when not in\nplay; when it is in your hand, you cannot play it via Disguised Weapon\nfor instance, because it is a combat card - it doesn't become equipment\nwith the Weapon designation until it is in play. (Nor can you look for\nit with an Arms Dealer.)\n\nSimilarly, Dual Form and Third Tradition are Action cards that do not\nbecome vampire minions unless they are in play. When they are not in\nplay, they do not have any inherent quality that makes them a minion\n(either Ally or Vampire) card.\n\n-John Flournoy"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 21, 2005, 4:07:34\u202FAM",
+      "Body": "\uE5D3\n\nCorrect.\n\nThe \"Card Type\" of the Renegade Garou is \"Ally\".\n\nThis is another way of stating that Renegade Garou is an ally in\nyour ash heap.\n\nThe similar case cannot be made for \"Third Tradition\" and \"Vampire\".\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Rehlow",
+      "Date": "Jan 21, 2005, 9:44:41\u202FPM",
+      "Body": "But when Iliana(2) (aka Jane in a later post), leaves the ready region\nand then Iliana(1) (the vampire card) is burned, you can play\nPossession on Iliana(1) or another Methuselah's vampire can play\nDemonic Possession on her. So you just have to be careful about which\nvampire is going to the ash heap when you want to do Dual\nForm/Possession tricks.\n\nBTW I'm working on how to do Turbo Dual Form right now. Too bad The\nBaron doesn't have PRO. :P And Dual Form being a rare doesn't help\neither.\n\nLater,\n~Rehlow"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "Jan 21, 2005, 10:40:17\u202FPM",
+      "Body": "Rehlow wrote:\n> BTW I'm working on how to do Turbo Dual Form right now.\n\nGood luck. One point of information that might help: if the originating\nvamp has the Sargon Fragment, the Dual Form will have built-in NEC.\nEven if a The Combo-style turbo deck is out of the question, Possessing\nburned originals seems like a reasonable sideline for Dual Form\nvampires to get in to."
+    }
+  ]
+}

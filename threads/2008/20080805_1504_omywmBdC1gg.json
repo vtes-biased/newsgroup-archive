@@ -1,0 +1,42 @@
+{
+  "ThreadId": "omywmBdC1gg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/omywmBdC1gg",
+  "Title": "(LSJ) Major Boon vs Alamut",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Aug 5, 2008, 3:04:43\u202FPM",
+      "Body": "Hello !\n\nHere's today's not-that-stupid question :\nMy proud Assamite bleeds for 3 with Loss.\nThe action is not blocked nor deflected. My prey is about to burn 3\npool, when someone else plays Major Boon.\nHow many counters does my Alamut receive ? Is it 0 or 3 ?\n\nThanks.\n\n--\n\nRelevant cardtexts:\nName: Alamut\nCardtype: Master\nClan: Assamite\nCost: 1 pool\nMaster: unique location.\nIf an Assamite you control successfully bleeds another Methuselah, put\nthe pool lost by that Methuselah on this card. During {the referendum\nof} a political action, you may burn X blood from this card to give a\nvampire you control X votes for that referendum.\n\nName: Major Boon\nCardtype: Master\nMaster: out-of-turn. Boon.\nPut this card in play when another Methuselah is successfully bled.\nNot usable if you control the acting minion. Modifiers to the bleed\namount may be played after you play this card. You burn pool for the\nbleed instead of the target Methuselah (must be at least 1 pool or\nthis card is burned). You may burn this card to have that Methuselah\nburn pool instead of you when you are successfully bled.\n\n[Sorry Jozxyqk for not being able to mention Shroud of Absence in\nthis ... oh, well, here it is.]"
+    },
+    {
+      "Author": "Salem",
+      "Date": "Aug 5, 2008, 3:22:54\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> Hello !\n>\n> Here's today's not-that-stupid question :\n> My proud Assamite bleeds for 3 with Loss.\n> The action is not blocked nor deflected. My prey is about to burn 3\n> pool, when someone else plays Major Boon.\n> How many counters does my Alamut receive ? Is it 0 or 3 ?\n\n0. clear card text: \"pool lost by *that* methuselah\".\n\n--\nsalem\n(replace 'hotmail' with 'gmail' to email)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 5, 2008, 3:40:26\u202FPM",
+      "Body": "Salem wrote:\n> floppyzedolfin wrote:\n>> Hello !\n>>\n>> Here's today's not-that-stupid question :\n>> My proud Assamite bleeds for 3 with Loss.\n>> The action is not blocked nor deflected. My prey is about to burn 3\n>> pool, when someone else plays Major Boon.\n>> How many counters does my Alamut receive ? Is it 0 or 3 ?\n>\n> 0. clear card text: \"pool lost by *that* methuselah\".\n\nCorrect."
+    },
+    {
+      "Author": "cro...@gmail.com",
+      "Date": "Aug 5, 2008, 10:53:35\u202FPM",
+      "Body": "\uE5D3\n\nSo is this another case where it's a successful action but not a\nsuccessful bleed? Or is this a successful bleed for 0? I'm confused\nbecause Major Boon requires the bleed be successful, so is it that\nthere was a successful bleed in a temporary sense that Major Boon\neffectively cancels/changes the form of the damage to 'non-bleed' pool\nloss?\n\nThanks in advance for the clarification,\nCJay"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 5, 2008, 11:10:45\u202FPM",
+      "Body": "\uE5D3\n\nThe action is successul (resolved unblocked).\nThe bleed is successful (a bleed for 3).\nThe target loses no pool, though, by card text on Major Boon.\nMajor Boon doesn't reduce the bleed; it just changes who burns pool for the\nsuccessful bleed."
+    },
+    {
+      "Author": "witness1",
+      "Date": "Aug 5, 2008, 11:14:29\u202FPM",
+      "Body": "\uE5D3\n\nThere is a successful bleed for 3. The pool is lost by the booning\nmethuselah instead of the bled methuselah, however, and Alamut only\ngains counters equal to what the bled methuselah lost, which is zero.\n\n-witness1"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Aug 5, 2008, 11:18:43\u202FPM",
+      "Body": "In message <8bf00af5-685b-4ec0...@c58g2000hsc.googlegroup\n\ns.com>, \"cro...@gmail.com\" <cro...@gmail.com> writes:\n>So is this another case where it's a successful action but not a\n>successful bleed? Or is this a successful bleed for 0? I'm confused\n>because Major Boon requires the bleed be successful, so is it that\n>there was a successful bleed in a temporary sense that Major Boon\n>effectively cancels/changes the form of the damage to 'non-bleed' pool\n>loss?\n\nIt's a successful bleed, it's just that the pool is lost by another\nMethuselah.\n\nAlamut's text says:\n\nIf an Assamite you control successfully bleeds another\nMethuselah, put the pool lost by that Methuselah on this card.\n\nSo, when I bleed LSJ (another Methuselah) for 3, the 3 pool counters LSJ\nloses (that Methuselah) are put on this card.\n\nWhen I do the same 3 bleed again LSJ (another Methuselah) and you play\nMajor Boon, LSJ (that Methuselah) loses zero pool. You (an entirely\ndifferent Methuselah) lose 3.\n\nAlamut only cares about the amount of pool lost by the target of the\nbleed. LSJ was the target of the bleed, you weren't. LSJ lost 0 pool,\nyou lost 3, so I put all 0 of LSJ's pool-loss on my Alamut.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    }
+  ]
+}

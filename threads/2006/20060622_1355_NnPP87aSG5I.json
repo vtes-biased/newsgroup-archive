@@ -1,0 +1,32 @@
+{
+  "ThreadId": "NnPP87aSG5I",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NnPP87aSG5I",
+  "Title": "Marie Faucigny",
+  "Messages": [
+    {
+      "Author": "as...@hotmail.com",
+      "Date": "Jun 22, 2006, 1:55:53\u202FPM",
+      "Body": "What happens if Marie Faucigny plays an equipment with cost 0? Does she\ngain 1 blood/her methuselah gain 1 pool? (My guess is obviously NO, but\nanyway.) If not - why not? Thanks."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jun 22, 2006, 2:42:46\u202FPM",
+      "Body": "\uE5D3\n\nNo.\nThere's no such thing as a \"negative cost\"."
+    },
+    {
+      "Author": "firstco...@aol.com",
+      "Date": "Jun 23, 2006, 12:59:39\u202FAM",
+      "Body": "\uE5D3\n\nShe has to pay 0 blood/pool, and here's why:\n\nAll quantities in vampire can be negative:\nNegative strength\nNegative bleed\nNegative votes\nNegative pool\nNegative intercept\nNegative stealth\netc.\n\nHowever, when the number has to actually do something, if it's less\nthan 0, then its total effect is 0.\n\nLike, if you swing with -2 strength, you do 0 damage.\nIf you bleed for -1, they lose 0 pool.\nIf you have negative votes, you cast 0 votes.\n\nThe only times it matters that you're negative is if you want to:\n1) Count the total involved\n2) Increase your value above 0 (Disarm interacts with Undead Strength\nto hit for 1)\n\nYou can count total intercept or stealth when comparing one to the\nother, for example, so -1 intercept does matter. Or, you could give a\nvampire with -1 votes a -1 strength \"bonus\" from Island of Yiaros.\n\nSo your equipment really does cost -1 pool, and that means it functions\nas cost 0 when you equip it, unless something increases the cost.\n\nUnderstand?\n\n-- Brian\nP.S. There are some stated exceptions in the rules to everything going\nnegative, such as vampires are unable to have capacity <1, but that too\nmay be an endpoint limit. LSJ -- if a vampire has 1 capacity, and gets\n-2 capacity, he still needs 3 skill cards to be a 2 cap, right?"
+    },
+    {
+      "Author": "d",
+      "Date": "Jun 23, 2006, 1:41:48\u202FAM",
+      "Body": "I don't think so for Capacity, because most (all?) card effects that\nreduce Capacity specifically say it cannot be reduced below 1. So I\ndon't think any further capacity reduction effects 'linger' to be\ncounted against future Skill Cards.\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 23, 2006, 1:44:42\u202FPM",
+      "Body": "firstco...@aol.com wrote:\n> P.S. There are some stated exceptions in the rules to everything going\n> negative, such as vampires are unable to have capacity <1, but that too\n> may be an endpoint limit. LSJ -- if a vampire has 1 capacity, and gets\n> -2 capacity, he still needs 3 skill cards to be a 2 cap, right?\n\nCorrect."
+    }
+  ]
+}

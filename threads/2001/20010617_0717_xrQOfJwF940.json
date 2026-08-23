@@ -1,0 +1,32 @@
+{
+  "ThreadId": "xrQOfJwF940",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/xrQOfJwF940",
+  "Title": "More Kiss of Ra Questions",
+  "Messages": [
+    {
+      "Author": "Jason Bell",
+      "Date": "Jun 17, 2001, 7:17:42\u202FAM",
+      "Body": "So, we've learned from other threads that\nKiss of Ra cannot be combo'ed with Change\nof Target because there is no blocking minion,\ndespite the card saying the action is blocked.\n\nSince the would-be blocker is not the blocking\nminion, does that minion enter torpor tapped\nor untapped (or is that minion tapped if\nKiss of Ra is played at inferior)?\n\n- Jason Bell"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 17, 2001, 12:49:47\u202FPM",
+      "Body": "\uE5D3\n\nOnly 3 things tap a minion: acting, successfully blocking,\nand explicit card text. None of those are present in the\nKiss of Ra case for the would-be blocker, so his tapped\nstate is unchanged.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Jason Bell",
+      "Date": "Jun 18, 2001, 7:05:21\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote\n\n> Jason Bell wrote:\n> >\n> > So, we've learned from other threads that\n> > Kiss of Ra cannot be combo'ed with Change\n> > of Target because there is no blocking minion,\n> > despite the card saying the action is blocked.\n> >\n> > Since the would-be blocker is not the blocking\n> > minion, does that minion enter torpor tapped\n> > or untapped (or is that minion tapped if\n> > Kiss of Ra is played at inferior)?\n>\n> Only 3 things tap a minion: acting, successfully blocking,\n> and explicit card text. None of those are present in the\n> Kiss of Ra case for the would-be blocker, so his tapped\n> state is unchanged.\n\nThe Kiss of Ra\nI: Only usable when a vampire who does not have\nFortitude attempnts to block this acting minion.\nThe blocking vampire burns 2 blood, and the action\nis now blocked.\nS: As above, and the blocking vampire goes into torpor.\n\nThanks. You can see how this is confusing, though,\nsince the card mentions blocking, the blocking\nminion, and that the action is blocked.\n\nAfter further reading, does use of The Kiss of Ra\nat inferior lead to combat (can't see why not)?\nIf so, this is still confusing to me, since nothing\nabout the superior indicates that the block is\nunsuccessful where the inferior is successful.\n\nThe only thing I can figure is this:\n\n\"Combat occurs as part of the block - not after\nthe block. (So Cats' Guidance and Freak Drive are\nplayed after the combat, not before).\" [RTR 19980623]\n\nSo, if inferior taps the blocking minion and superior\ndoesn't, I'm not clear as to when in the progress of\nan action a blocking minion becomes tapped.\n\nThe ruling on Faceless Night suggests it happens after\nthe block, so I would have to guess tapping for the\nblock happens after combat (which seems really weird),\nand all those cards that that cancel combat after a\nblock (Obedience, Change of Target, Red Herring)\nonly mention the opposing minion's untapped status\nas reminder text.\n\n- Jason Bell"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 18, 2001, 12:15:18\u202FPM",
+      "Body": "\uE5D3\n\nNo. Only two thigs lead to combat: successfully blocking\nthe action of a ready minion and explicit card text.\n\nIn the case of Kiss of Ra, the blocker doesn't successfully\nblock the action. KoR is played during the attempt (before\nthe attempt succeeds) and nullifies the process (and also\nhappens to block the action itself).\n\n> If so, this is still confusing to me, since nothing\n> about the superior indicates that the block is\n> unsuccessful where the inferior is successful.\n>\n> The only thing I can figure is this:\n>\n> \"Combat occurs as part of the block - not after\n> the block. (So Cats' Guidance and Freak Drive are\n> played after the combat, not before).\" [RTR 19980623]\n>\n> So, if inferior taps the blocking minion and superior\n> doesn't, I'm not clear as to when in the progress of\n> an action a blocking minion becomes tapped.\n\nThe inferior doesn't tap the would-be blocker, as above.\n\n> The ruling on Faceless Night suggests it happens after\n> the block, so I would have to guess tapping for the\n> block happens after combat (which seems really weird),\n> and all those cards that that cancel combat after a\n> block (Obedience, Change of Target, Red Herring)\n> only mention the opposing minion's untapped status\n> as reminder text.\n\nTapping as part of a successful block occurs when the\nblock succeeds (the same time at which combat is entered).\n\n\uE5D3"
+    },
+    {
+      "Author": "Jason Bell",
+      "Date": "Jun 19, 2001, 12:29:12\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote\n> Jason Bell wrote:\n\n> > The Kiss of Ra\n> > I: Only usable when a vampire who does not have\n> > Fortitude attempnts to block this acting minion.\n> > The blocking vampire burns 2 blood, and the action\n> > is now blocked.\n> > S: As above, and the blocking vampire goes into torpor.\n> >\n\n> > After further reading, does use of The Kiss of Ra\n> > at inferior lead to combat (can't see why not)?\n>\n> No. Only two thigs lead to combat: successfully blocking\n> the action of a ready minion and explicit card text.\n>\n> In the case of Kiss of Ra, the blocker doesn't successfully\n> block the action. KoR is played during the attempt (before\n> the attempt succeeds) and nullifies the process (and also\n> happens to block the action itself).\n\nWow.\n\n- Jason Bell"
+    }
+  ]
+}

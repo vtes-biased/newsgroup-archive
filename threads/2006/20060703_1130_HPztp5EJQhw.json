@@ -1,0 +1,42 @@
+{
+  "ThreadId": "HPztp5EJQhw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HPztp5EJQhw",
+  "Title": "Memory`s Fading Glimpse and Imbued",
+  "Messages": [
+    {
+      "Author": "niko...@hotmail.com",
+      "Date": "Jul 3, 2006, 11:30:28\u202FAM",
+      "Body": "What happens when if I use this on a crypt card and it turns out to be\nan Imbued?\nI assume the actions fails and I dont pay (but still tap)?\n\nMemory`s Fading Glimpse, Action, 3 blood, Obfuscate, U5 , [AH:U5,\nBH:PM]\n[obf] (D) Move a vampire from your prey`s uncontrolled region to the\nbottom of his or her crypt. Move all of the blood on that vampire to\nyour prey`s blood pool. [OBF] As above, but move one blood from the\nuncontrolled vampire to the acting vampire."
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "Jul 3, 2006, 12:23:08\u202FPM",
+      "Body": "\uE5D3\nSince it says \"move a vampire\" which means it was written when crypt\ncards were of one type only it should probably be re-written to include\nall crypt cards i.e. \"Move a crypt card from your prey's.....\"\n\nAt least that's what I would suggest.\n\nAgain I cannot access any errata page from where I am but this might\nalready have been thought of and could already have a cardtext change.\n\nArchie"
+    },
+    {
+      "Author": "Johan Wester",
+      "Date": "Jul 3, 2006, 2:05:38\u202FPM",
+      "Body": "\"Archibald Zimonyi\" <ar...@aranzo.netg.se> skrev i meddelandet\nnews:1151922188.7...@p79g2000cwp.googlegroups.com...\n\uE5D3\n\nAlready fixed :)\n\nMemory's Fading Glimpse [AH:U5, BH:PM]\nCardtype: Action\n\nCost: 3 blood\n\nDiscipline: Obfuscate\n\n[obf] (D) Move a <card> from your prey's uncontrolled region to the\nbottom of his or her crypt. Move all of the blood on that <card> to your\nprey's blood pool.\n[OBF] As above, but move one blood from the uncontrolled <card> to the\nacting vampire.\n\nArtist: Harold Arthur McNeill\n\nTaken from the WW updated cardlist @\nhttp://www.white-wolf.com/vtes/index.php?line=cardlist"
+    },
+    {
+      "Author": "niko...@hotmail.com",
+      "Date": "Jul 3, 2006, 11:13:02\u202FPM",
+      "Body": "\uE5D3\n\nAhh yeah, there.. thanks"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jul 5, 2006, 5:03:54\u202FPM",
+      "Body": "Johan Wester wrote:\n\n> > Again I cannot access any errata page from where I am but this might\n> > already have been thought of and could already have a cardtext change.\n> >\n> > Archie\n> >\n>\n> Already fixed :)\n>\n> Memory's Fading Glimpse [AH:U5, BH:PM]\n> Cardtype: Action\n>\n> Cost: 3 blood\n>\n> Discipline: Obfuscate\n>\n> [obf] (D) Move a <card> from your prey's uncontrolled region to the\n> bottom of his or her crypt. Move all of the blood on that <card> to your\n> prey's blood pool.\n> [OBF] As above, but move one blood from the uncontrolled <card> to the\n> acting vampire.\n\nThat's _almost_ fixed.. it's already been pointed out to LSJ that this\nwording allows you to MFG (or use Gisela's special to burn) other,\nnon-minion cards in the uncontrolled region such as Gather or Tomb of\nRamses - and 'crypt card' doesn't work as a fix, because of things like\nBanished Waters of Duat/Embrace/etc.\n\n\"Minion\" or \"minion card\" were suggested to LSJ as fixes in the end of\nthe discussion, so this'll probably get adjusted on all the cards that\nhad the Legacies-timed 'vampire' -> 'card' fix in the near future.\n\n-John Flournoy"
+    },
+    {
+      "Author": "Salem",
+      "Date": "Jul 6, 2006, 9:05:24\u202FAM",
+      "Body": "John Flournoy wrote:\n\n> \"Minion\" or \"minion card\" were suggested to LSJ as fixes in the end of\n> the discussion, so this'll probably get adjusted on all the cards that\n> had the Legacies-timed 'vampire' -> 'card' fix in the near future.\n\nI thought 'minion card' meant non-master, non-event card. ie: any card\nplayed by a minion. (and possibly now also includes non-conviction...?)\n\nSo obviously you want something here that means 'card that is a minion'.\nUnfortunately i don't think 'minion card' is the right term for that.\n\nwhere was the discussion you refer to? WW forum? Path of Blood?\n\n--\nsalem\nhttp://users.tpg.com.au/adsltqna/vtes/\n(replace 'hotmail' with 'yahoo' to email)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 6, 2006, 2:04:46\u202FPM",
+      "Body": "Salem wrote:\n> John Flournoy wrote:\n>\n> > \"Minion\" or \"minion card\" were suggested to LSJ as fixes in the end of\n> > the discussion, so this'll probably get adjusted on all the cards that\n> > had the Legacies-timed 'vampire' -> 'card' fix in the near future.\n>\n> I thought 'minion card' meant non-master, non-event card. ie: any card\n> played by a minion. (and possibly now also includes non-conviction...?)\n>\n> So obviously you want something here that means 'card that is a minion'.\n> Unfortunately i don't think 'minion card' is the right term for that.\n>\n> where was the discussion you refer to? WW forum? Path of Blood?\n\nAnd thus the problem with attempting to have one conversation in two\nplaces.\n\nThe actual resolution was \"uncontrolled minion in your prey's\nuncontrolled region\" (in Gisela's case, similar for other cases).\n\nThis will be reflected in the next card list -- and note that the\nactual function of the card is not changed (the current use of \"card\"\nbeing just a clarification and not representing a functional change).\n\nThus: nothing to report. Sorry for the confusion.\n\nFor those of you still confused by this issue, just ignore the\ndiversion given in this thread and play the cards the way the NoR\npreview page says to."
+    }
+  ]
+}

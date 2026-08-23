@@ -1,0 +1,42 @@
+{
+  "ThreadId": "t-TxSf5ehmg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/t-TxSf5ehmg",
+  "Title": "Form of Mist (LSJ)",
+  "Messages": [
+    {
+      "Author": "Henrik",
+      "Date": "Jul 27, 2001, 12:58:13\u202FAM",
+      "Body": "Nothing to do... Why not pester LSJ with some more questions?\n\nI don't understand some of the rulings/clarifications on the white-wolf page\n\nForm of mist:\n\n>The superior form cannot be used by the acting vampire unless he needs the\nstealth. [RTR 19970630]\n\nWhen do you need the stealth? There is blocking minion when the strike\nresolves => you don't need the stealth => this card can never be played.\nWhere do my logic fail here? ;o)\n\n>Performing diablerie (via Amaranth) at the end of the combat that is ended\nby superior Form of Mist will nullify the \"continue action\" effect.\n>[LSJ 19980819]\n\nI can't really see this happening. What obscure corner-case am I missing\nhere?\n\n/Henrik"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jul 27, 2001, 1:12:01\u202FAM",
+      "Body": "In message <9jq78l$12nee$1...@ID-99227.news.dfncis.de>, Henrik\n<henri...@spray.se> writes\n\n>>The superior form cannot be used by the acting vampire unless he needs the\n>stealth. [RTR 19970630]\n>\n>When do you need the stealth?\n\nWhen you got blocked by intercept, basically. (Remember, an action\ncould be blocked by Brujah Frenzy, despite excess stealth and no\nblocking minion.)\n\nI bleed. You block. I play Earth Control, +2 stealth. You play\nEnhanced Senses, +2 intercept. During combat, I play Form of Mist at\nsuperior, because I need the stealth *when I go to the continue action\neffect*.\n--\nJames Coupe PGP Key: 0x5D623D5D\n\"Surely somewhere out there there's a woman who's EBD690ECD7A1F\nbeen sodomized by her father and is capable of B457CA213D7E6\ncomposing a few coherent sentences on the subject.\" 68C3695D623D5D"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 27, 2001, 3:40:11\u202FAM",
+      "Body": "Henrik wrote:\n>\n> Nothing to do... Why not pester LSJ with some more questions?\n>\n> I don't understand some of the rulings/clarifications on the white-wolf page\n>\n> Form of mist:\n>\n> >The superior form cannot be used by the acting vampire unless he needs the\n> stealth. [RTR 19970630]\n>\n> When do you need the stealth? There is blocking minion when the strike\n> resolves => you don't need the stealth => this card can never be played.\n> Where do my logic fail here? ;o)\n\nNeed stealth = a blocking minion exists with intercept equal to or\ngreater than the acting minion's stealth.\n\n> >Performing diablerie (via Amaranth) at the end of the combat that is ended\n> by superior Form of Mist will nullify the \"continue action\" effect.\n> >[LSJ 19980819]\n>\n> I can't really see this happening. What obscure corner-case am I missing\n> here?\n\nStrike: damage (with prevent as needed). Additional strike: FoM followed by\ndisarm and amaranth (obviously :-).\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Jul 27, 2001, 5:28:55\u202FPM",
+      "Body": ">> Nothing to do... Why not pester LSJ with some more questions?\n>>\n>> I don't understand some of the rulings/clarifications on the white-wolf\n>page\n>>\n>> Form of mist:\n>>\n>> >The superior form cannot be used by the acting vampire unless he needs the\n>> stealth. [RTR 19970630]\n>>\n>> When do you need the stealth? There is blocking minion when the strike\n>> resolves => you don't need the stealth => this card can never be played.\n>> Where do my logic fail here? ;o)\n>\n>Need stealth = a blocking minion exists with intercept equal to or\n>greater than the acting minion's stealth.\n\nSome more concrete examples include if you have a intercept retainer or\nequipment that gets destroyed during combat:\n\nMinion A hunts\nMinion B with Mr. Winthrop blocks\nSomeone plays a Weather Control killing Mr. Winthrop\nMinion A can't play superior FoM since 1 > 0, meaning he doesn't need stealth\n\nMinion A hunts\nMinion B with Sport Bike blocks\nMinion A plays Shattering Blow on Sport Bike and possibly Blur\nMinion A can't play superior FoM since 1 > 0, meaning he doesn't need stealth\n\nAlso, if someone with an intercept retainer blocks Stanislava, the intercept\nretainer doesn't provide the benefit during combat (due to Stanislava's card\ntext). Alternatively, Drawing out the Beast would temporarily nullify a Sport\nBike, etc etc etc.\n\nHope this explains some things. Most of this is all corner case of course, but\nit still happens from time to time.\n\nHalcyan 2"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Jul 28, 2001, 8:05:03\u202FPM",
+      "Body": "> Some more concrete examples include if you have a intercept retainer or\n> equipment that gets destroyed during combat:\n>\n> Minion A hunts\n> Minion B with Mr. Winthrop blocks\n> Someone plays a Weather Control killing Mr. Winthrop\n> Minion A can't play superior FoM since 1 > 0, meaning he doesn't need stealth\n>\n> Minion A hunts\n> Minion B with Sport Bike blocks\n> Minion A plays Shattering Blow on Sport Bike and possibly Blur\n> Minion A can't play superior FoM since 1 > 0, meaning he doesn't need stealth\n>\n> Also, if someone with an intercept retainer blocks Stanislava, the intercept\n> retainer doesn't provide the benefit during combat (due to Stanislava's card\n> text). Alternatively, Drawing out the Beast would temporarily nullify a Sport\n> Bike, etc etc etc.\n\nAre you sure about this? It sound's like combat-effects such as\nretainer and equipment destruction are affecting non-combat\ninteraction. Surely, you are not saying that if I have Igo with a\nsportbike and Anton in play and I block your hunt that you would be\nallowed to destroy the sportbike and play FOM because Anton is in play\nand therefore you would need the stealth. This is way, way to\nenvironmentally specific to actually be a ruling, LSJ?\n\nComments Welcome,\nNorman S. Brown, Jr.\nXZealot\nArchon of the Swamp"
+    },
+    {
+      "Author": "Henrik",
+      "Date": "Jul 28, 2001, 10:23:36\u202FPM",
+      "Body": "XZealot skrev i meddelandet\n<47b374ab.01072...@posting.google.com>...\n\uE5D3\n\nI agree on that one. I think it's enough to forbid sup form of mist if the\ncombat is a result of a successfull action. (i.e. bums and stuff). The rest\nis way to complicated for me at least.\n\n/Henrik"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 29, 2001, 1:18:37\u202FPM",
+      "Body": "XZealot wrote:\n> [Halcyon 2 wrote:]\n\nPlease cite your quotes.\n\n> > Some more concrete examples include if you have a intercept retainer or\n> > equipment that gets destroyed during combat:\n> >\n> > Minion A hunts\n> > Minion B with Mr. Winthrop blocks\n> > Someone plays a Weather Control killing Mr. Winthrop\n> > Minion A can't play superior FoM since 1 > 0, meaning he doesn't need stealth\n> >\n> > Minion A hunts\n> > Minion B with Sport Bike blocks\n> > Minion A plays Shattering Blow on Sport Bike and possibly Blur\n> > Minion A can't play superior FoM since 1 > 0, meaning he doesn't need stealth\n> >\n> > Also, if someone with an intercept retainer blocks Stanislava, the intercept\n> > retainer doesn't provide the benefit during combat (due to Stanislava's card\n> > text). Alternatively, Drawing out the Beast would temporarily nullify a Sport\n> > Bike, etc etc etc.\n>\n> Are you sure about this? It sound's like combat-effects such as\n> retainer and equipment destruction are affecting non-combat\n> interaction.\n\nIf the retainer/equipment is used for non-combat interaction, it cannot\nbe used if it is burned, yes.\n\n> Surely, you are not saying that if I have Igo with a\n> sportbike and Anton in play and I block your hunt that you would be\n> allowed to destroy the sportbike and play FOM because Anton is in play\n> and therefore you would need the stealth.\n\nNo, since Anton is not blocking.\n\n\uE5D3"
+    }
+  ]
+}

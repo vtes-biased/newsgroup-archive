@@ -1,0 +1,87 @@
+{
+  "ThreadId": "WuER8RUMzTE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/WuER8RUMzTE",
+  "Title": "[LSJ] Damage dealing phase(s)",
+  "Messages": [
+    {
+      "Author": "henrik isaksson",
+      "Date": "Aug 4, 2004, 11:38:37\u202FAM",
+      "Body": "In a combat does the removing of blood from the minions due to damage happen\nsimultaneous or is there a small pause between the acting minion's removal\nand the blocking minion's?\n\n/henrik isaksson"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 4, 2004, 2:03:15\u202FPM",
+      "Body": "\"henrik isaksson\" <PLEASEDONTSP...@spray.se> wrote in message news:2nbp52F...@uni-berlin.de...\n\n> In a combat does the removing of blood from the minions due to damage happen\n> simultaneous or is there a small pause between the acting minion's removal\n> and the blocking minion's?\n\nSimultaneous.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "The Doctor",
+      "Date": "Aug 4, 2004, 2:31:53\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n> \"henrik isaksson\" <PLEASEDONTSP...@spray.se> wrote in message news:2nbp52F...@uni-berlin.de...\n>> In a combat does the removing of blood from the minions due to damage happen\n>> simultaneous or is there a small pause between the acting minion's removal\n>> and the blocking minion's?\n>\n>\n> Simultaneous.\n\nAnd stealing blood vs. damage ?\n\n//Doc."
+    },
+    {
+      "Author": "Colin McGuigan",
+      "Date": "Aug 4, 2004, 3:09:22\u202FPM",
+      "Body": "The Doctor wrote:\n> And stealing blood vs. damage ?\n\nShort: Blood is stolen before damage.\n\nLong: There are three phases:\n\nStrike Declaration\nStrike Resolution\nDamage Handling\n\nBlood is stolen in the resolution phase, but blood isn't spent to heal\ndamage until the damage handling phase. So if you Theft someone for 2,\nyou can use those 2 to heal damage. Unless you were full, in which case\nthey drain off before you can do so.\n\n--Colin McGuigan"
+    },
+    {
+      "Author": "Miller Delmardigan",
+      "Date": "Aug 4, 2004, 3:16:46\u202FPM",
+      "Body": "\uE5D3\n\nlook:\n\nCombat at long range\nVamp A steals too blood from the Murder of Crows\nVamp B throws a sewer lid (or whatever)\nwhat happens? Do the Murder of Crows inflicts its damage?\n\nMD"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Aug 4, 2004, 3:22:26\u202FPM",
+      "Body": "\"The Doctor\" <D...@freemail.nl> schreef in bericht\nnews:4110d739$0$48933$e4fe...@news.xs4all.nl...\n\uE5D3\n\nStealing Blood is not dealing damage. It's a common misconception that\ndoing \"x\" damage also means losing \"x blood from a strike\". You do not\nremove blood from receiving the damage directly. You count how much\ndamage is done and then you proceed to the heal damage phase, which\nusually means you have to remove a blood for each point of damage, but\nexceptions exist (Sword of Nuln, Regenerative Blood).\n\nSo it's like this:\n\n1) Both minions choose strikes, for the sake of example Aisling\nSturbridge plays Theft and Lupo hits for 2 with UD Strength.\n2) Strikes take effect simultaneous, so you move two blood from Lupo to\nAisling (and remove excess) and Lupo hits her for two points of damage.\nAisling does not yet lose blood during the strike resolution.\n3) Any unhealed damage must be healed after the strike resolution, so\nAisling must burn two blood to heal the damage done to her, while Lupo,\nwho hasn't received any damage doesn't need to burn blood. This is also\nthe phase of combat where you play Taste of Vitae.\n4) Any additional strikes can now be generated and are handled the same\nway (repeat step 1-3)\n5) If both minions are still ready you move on to the \"end of round\"\nphase, where cards like Disarm and Pulled Fangs can be played and any\npresses are being handled.\n\nThe simple version more or less reads: \"blood stealing goes before\ndamage\", but is technically wrong."
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Aug 4, 2004, 3:25:23\u202FPM",
+      "Body": "> Combat at long range\n> Vamp A steals too blood from the Murder of Crows\n> Vamp B throws a sewer lid (or whatever)\n> what happens? Do the Murder of Crows inflicts its damage?\n\nThey do.\n\n* Vamp A steals the two blood during strike resolution.\n* Simultaneously, the Murder (whose effect triggers \"during strike\nresolution\") deals one damage to Vamp A.\n* During the damage healing phase, Vamp A must burn a total of 4 blood\nto heal all the damage done to him, or he or she must go to torpor."
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Aug 4, 2004, 3:36:20\u202FPM",
+      "Body": "> 1) Both minions choose strikes, for the sake of example Aisling\n> Sturbridge plays Theft and Lupo hits for 2 with UD Strength.\n> 2) Strikes take effect simultaneous, so you move two blood from Lupo to\n> Aisling (and remove excess) and Lupo hits her for two points of damage.\n> Aisling does not yet lose blood during the strike resolution.\n> 3) Any unhealed damage must be healed after the strike resolution, so\n> Aisling must burn two blood to heal the damage done to her, while Lupo,\n> who hasn't received any damage doesn't need to burn blood. This is also\n> the phase of combat where you play Taste of Vitae.\n\nIncorrect, Taste of Vitae is played during \"5)\"\n\n\uE5D3"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Aug 4, 2004, 3:40:21\u202FPM",
+      "Body": "> Combat at long range\n> Vamp A steals too blood from the Murder of Crows\n> Vamp B throws a sewer lid (or whatever)\n> what happens? Do the Murder of Crows inflicts its damage?\n>\n\nLet's place everyone's effects in the proper timeline.\n\n1. Strike Declaration\nA steals two blood.\nB throws a sewer lid.\nCrows inflicts 1R damage.\n\n2. Strike Resolution\nA takes four damage and gains 2 blood (remove excess blood).\nB takes zero damage.\nCrows lose two life and is burned.\n\n3. Damage Resolution\nA now loses blood due to damage and/or plays cards to prevent damage."
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Aug 4, 2004, 3:42:05\u202FPM",
+      "Body": "\"Gregory Stuart Pettigrew\" <ethe...@sidehack.sat.gweep.net> schreef in\nbericht news:200408040...@sidehack.sat.gweep.net...\n\n> > 1) Both minions choose strikes, for the sake of example Aisling\n> > Sturbridge plays Theft and Lupo hits for 2 with UD Strength.\n> > 2) Strikes take effect simultaneous, so you move two blood from Lupo\nto\n> > Aisling (and remove excess) and Lupo hits her for two points of\ndamage.\n> > Aisling does not yet lose blood during the strike resolution.\n> > 3) Any unhealed damage must be healed after the strike resolution,\nso\n> > Aisling must burn two blood to heal the damage done to her, while\nLupo,\n> > who hasn't received any damage doesn't need to burn blood. This is\nalso\n> > the phase of combat where you play Taste of Vitae.\n>\n> Incorrect, Taste of Vitae is played during \"5)\"\n\nI'm only just now noticing the ELDB card text is wrong.\n\nMy CE cardtext is indeed correct. I knew something was wrong when I\ntyped that. You know, I actually had Taste in step 5 initially, but\ndecided to look up card text to be certain.\n\nA quick request to Lasombra, could you please update the ELDB text of\nTaste to say \"only usable at end of round\" instead of \"after strike\nresolution\"?"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Aug 4, 2004, 4:06:07\u202FPM",
+      "Body": "\"Gregory Stuart Pettigrew\" <ethe...@sidehack.sat.gweep.net> wrote in\nmessage news:200408040...@sidehack.sat.gweep.net...\n\n> > Combat at long range\n> > Vamp A steals too blood from the Murder of Crows\n> > Vamp B throws a sewer lid (or whatever)\n> > what happens? Do the Murder of Crows inflicts its damage?\n> >\n>\n> Let's place everyone's effects in the proper timeline.\n>\n> 1. Strike Declaration\n> A steals two blood.\n> B throws a sewer lid.\n> Crows inflicts 1R damage.\n\nI think \"Crows inflicts 1R damage\" actually belongs in (2) below. It's\nnot a strike-declaration effect, it's just an effect that takes place\nduring normal strike resolution. If, for example, Murder of Crows is\nkilled by the opposing minion with First Strike (or its employing\nvampire is torporized with First Strike), its damage will not be applied\nduring regular strike resolution.\n\n> 2. Strike Resolution\n> A takes four damage and gains 2 blood (remove excess blood).\n> B takes zero damage.\n> Crows lose two life and is burned.\n>\n> 3. Damage Resolution\n> A now loses blood due to damage and/or plays cards to prevent damage.\n\nThis all looks solid to me though.\n\nJosh\n\nlacks first strike capability"
+    },
+    {
+      "Author": "henrik isaksson",
+      "Date": "Aug 4, 2004, 5:28:12\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:2nc1g9F...@uni-berlin.de...\n\n> \"henrik isaksson\" <PLEASEDONTSP...@spray.se> wrote in message\nnews:2nbp52F...@uni-berlin.de...\n> > In a combat does the removing of blood from the minions due to damage\nhappen\n> > simultaneous or is there a small pause between the acting minion's\nremoval\n> > and the blocking minion's?\n>\n>\n> Simultaneous.\n>\n\nDoes this mean that:\nIf Barry is in combat with a War ghoul, and plays blood of acid, is there no\ntime for a vagabond mystic to tap to heal the war ghoul for 1 which thus\nsurvives? Or does blood of acid set up it's own little damage resolution\nstep after the regular one?\n\nIt's a little complicated as blood of acid doesn't know how much damage to\ninflict until it's inflicted =)\n\n/henrik isaksson"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Aug 4, 2004, 7:58:36\u202FPM",
+      "Body": "\"henrik isaksson\" <PLEASEDONTSP...@spray.se> wrote in message news:<2nbp52F...@uni-berlin.de>...\n\n\uE5D3\n\nQuoting from the online version of the rulebook:\n\n\"The effects of the strikes from both minions are resolved\nsimultaneously.\n\n(part snipped about ranged vs. close)\n\nWhen a minion or retainer takes damage (either from a strike or from\nother means), he must burn blood or lose life, as appropriate (see\nDamage Resolution, sec. 6.4.6). Note that the effects of a strike are\napplied and then damage is resolved. This timing is important for some\nspecial strikes, such as steal blood (see Strike Effects, sec.\n6.4.5).\"\n\nSo long as the strikes themselves are simultaneously taking effect,\nthen yes, the resolving of damage (including removing blood) are\nsimultaneous.\n\n-John Flournoy"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 4, 2004, 8:15:08\u202FPM",
+      "Body": "\"henrik isaksson\" <PLEASEDONTSP...@spray.se> wrote in message news:2ncdkpF...@uni-berlin.de...\n\n> If Barry is in combat with a War ghoul, and plays blood of acid, is there no\n> time for a vagabond mystic to tap to heal the war ghoul for 1 which thus\n> survives?\n\nRight.\n\n> Or does blood of acid set up it's own little damage resolution\n> step after the regular one?\n\nNo.\n\n> It's a little complicated as blood of acid doesn't know how much damage to\n> inflict until it's inflicted =)\n\nBarry: Blood of Acid.\n\nChoose Strikes:\nBarry: hands for 2.\nWar Ghoul: hands for 4.\n\nResolve Strikes:\nA. Apply effects (2 damage to War Ghoul. 4 to Barry.)\nB. Damage handling\nB.1. Prevent damage (War Ghoul prevents 1, or not).\nB.2. Barry takes 4 damage (successfully inflicted). War Ghoul now\nreceives 4 more damage from BoA, which she could now try to\nprevent. Whatever is unprevented is successful.\nB.3. Burn blood/life for successful damage.\nBarry burns 4 blood to heal (or goes to torpor, of course).\nWar Ghoul burns 5 life (assuming she prevented only 1 point).\n\n\uE5D3"
+    },
+    {
+      "Author": "henrik isaksson",
+      "Date": "Aug 4, 2004, 11:25:17\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:2ncn9jF...@uni-berlin.de...\n\n> \"henrik isaksson\" <PLEASEDONTSP...@spray.se> wrote in message\nnews:2ncdkpF...@uni-berlin.de...\n\n<snip>\n\n> Barry: Blood of Acid.\n>\n> Choose Strikes:\n> Barry: hands for 2.\n> War Ghoul: hands for 4.\n>\n> Resolve Strikes:\n> A. Apply effects (2 damage to War Ghoul. 4 to Barry.)\n> B. Damage handling\n> B.1. Prevent damage (War Ghoul prevents 1, or not).\n> B.2. Barry takes 4 damage (successfully inflicted). War Ghoul now\n> receives 4 more damage from BoA, which she could now try to\n> prevent. Whatever is unprevented is successful.\n> B.3. Burn blood/life for successful damage.\n> Barry burns 4 blood to heal (or goes to torpor, of course).\n> War Ghoul burns 5 life (assuming she prevented only 1 point).\n\nFine. B2 is a bit confusing, as more damage is added there, but since it's\nyou I buy it! =)\n\n/henrik isaksson\n\nBarry: 2 war ghoul frags, his big brother Dragos only 1."
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Aug 5, 2004, 2:57:59\u202FAM",
+      "Body": "On Wed, 4 Aug 2004 15:42:05 +0200, \"Izaak\" <i.hav...@SPAMklg.nl>\nwrote:\n\n>A quick request to Lasombra, could you please update the ELDB text of\n>Taste to say \"only usable at end of round\" instead of \"after strike\n>resolution\"?\n\nDone.\n\nCarpe noctem.\n\nLasombra\n\nhttp://games.groups.yahoo.com/group/eldb3/"
+    }
+  ]
+}

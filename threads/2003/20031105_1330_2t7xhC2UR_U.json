@@ -1,0 +1,27 @@
+{
+  "ThreadId": "2t7xhC2UR_U",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/2t7xhC2UR_U",
+  "Title": "[LSJ] High Ground vs Drawing out the Beast",
+  "Messages": [
+    {
+      "Author": "Ulugh Beg II",
+      "Date": "Nov 5, 2003, 1:30:58\u202FPM",
+      "Body": "What happens when both DotB and HG are being played in a single combat? My guess is as follows:\n \nThe Gargoyle is the acting minion:\nSince the acting minion can play cards first, he can play High Ground. DotB can still be played, but it doesn't prevent the gargoyle being at long range. The press and equipment part still applies.\n \nThe Gargoyle is NOT the acting minion:\nSince High Ground is NOT a maneuver when used for its second text (the set range to long part before range is chosen), its effect still applies after the other vampire has played DotB. That one only prevents maneuvers to long, but the Gargoyle never maneuvered to long. It was there all along. Again, the press and equipment part still applies as normally.\n \nThis works exactly the same, I suppose, with Fear from the Void Below."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 5, 2003, 2:05:27\u202FPM",
+      "Body": "\uE5D3\n\nCorrect. Drawing Out the Beast doesn't restrict setting range, just maneuvering\n(and equipment and pressing).\n\n> This works exactly the same, I suppose, with Fear from the Void Below.\n\nNot really the same, but Fear OF the Void Below's range effect is also unaffected\nby Drawing Out the Beast (except in the Obfuscate usage). FotVB doesn't set range,\nit changes the default range of each round.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Ulugh Beg II",
+      "Date": "Nov 9, 2003, 8:02:23\u202FPM",
+      "Body": "from the Void Below.\n>\n> Not really the same, but Fear OF the Void Below's range effect is also\nunaffected\n> by Drawing Out the Beast (except in the Obfuscate usage). FotVB\ndoesn't set range,\n> it changes the default range of each round.\n\nHmm. How about this.\nFear /of/ the Void Below defaults sets default to long. DotB says I can\nonly use maneuvers to cancel maneuvers (as card text). Does that mean I\ncan only move back to long assuming the vamp that played DotB maneuvers\nback to close? Or does DotB simply mean \"cannot maneuver to long range\"."
+    },
+    {
+      "Author": "Colin McGuigan",
+      "Date": "Nov 9, 2003, 8:24:29\u202FPM",
+      "Body": "Ulugh Beg II wrote:\n> Hmm. How about this.\n> Fear /of/ the Void Below defaults sets default to long. DotB says I can\n> only use maneuvers to cancel maneuvers (as card text). Does that mean I\n> can only move back to long assuming the vamp that played DotB maneuvers\n> back to close?\n\nNo.\n\n> Or does DotB simply mean \"cannot maneuver to long range\".\n\nYes.\n\nMost recent card text for DOtB:\n\n\"Only usable before range is determined on the first round.\n\nDuring this combat, opposing vampire gets +1 strength, but he or she\ncannot use maneuvers to maneuver to long range, cannot use presses to\nend combat, and cannot use equipment. A vampire may play only one\nDrawing Out the Beast each combat.\n\nAs above, and the opposing vampire takes 1 damage during the press step\neach round. This damage cannot be prevented.\"\n\n--Colin McGuigan"
+    }
+  ]
+}

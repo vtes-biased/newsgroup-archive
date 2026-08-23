@@ -1,0 +1,22 @@
+{
+  "ThreadId": "pWt_eAA92Qk",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/pWt_eAA92Qk",
+  "Title": "The Coven and Steal Blood effects",
+  "Messages": [
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 14, 2009, 3:48:57\u202FPM",
+      "Body": "Tried to do a search for this, but found nothing. Maybe I'm missing\nit...\n\nSteal Blood effects are resolved separately from damage, so if I am\ntaking 1 damage from a retainer and getting 2 blood stolen from, say,\nTheft of Vitae, can I tap The Coven *after* handling the Theft of\nVitae and before taking the retainer damage? It came up in JOL today,\nbecause I had a vampire with 1 blood, and Anastasz had a Murder of\nCrows and a Theft of Vitae, and I wanted him to only be able to steal\none. Since I couldn't find the ruling, I agreed that I couldn't do\nthat - my vampire had 1 point of prevention anyway that I'd forgotten,\nso I just let him Theft and prevented the 1 damage, then used the\nCoven later."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 14, 2009, 4:42:45\u202FPM",
+      "Body": "Chris Berger wrote:\n> Tried to do a search for this, but found nothing. Maybe I'm missing\n> it...\n>\n> Steal Blood effects are resolved separately from damage,\n\nWell, they're applied together (not separately), but they're applied before\ndamage is healed, yeah.\n\n> so if I am\n> taking 1 damage from a retainer and getting 2 blood stolen from, say,\n> Theft of Vitae, can I tap The Coven *after* handling the Theft of\n> Vitae and before taking the retainer damage?\n\nYes.\n\nStrikes:\nA: shoot with .44 Magnum for 2 damage (for illustration purposes below).\nB: steal 2 blood from A.\nAnd B's retainer does 1 damage to A.\n\nBefore resolving:\nA: Dragon's Breath Rounds to add 2 aggravated to the gun's strike.\n\nStrike resolution:\n\n1) Apply Effects:\nA: receives 1 damage from the retainer and moves 2 blood to B.\nB: receives 2 damage plus 2 aggravated damage from A's hand strike.\n(the two lines above occur simultaneously).\n\n2) Prevent Damage\nA and/or B may use damage prevention effects to prevent the damage they\nreceived. Unprevented damage is \"successfully inflicted\".\nA: no prevent\nB: no prevent\n\n3) Handle Unprevented Damage:\nA: burns 1 blood to heal damage.\nB: burns 2 blood to heal regular damage, becomes wounded from 1 agg, and burns 1\nblood to prevent destruction from the 2nd agg.\n(the two lines above occur simultaneously).\n\nWhile B could not interrupt 3) to stuff more blood onto B after healing the two\nregular and before handling the agg, you can tap the Coven after damage is\napplied and before preventing/handling the damage.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/3cc686fc638b5ad1\nshows this for Weather Control rather than for strike resolution, but the\nprinciple is the same (using Coven after damage is applied and before handling\nthe damage).\n\nCoven can be used:\n* before 1\n* between 1 and 2\n* between 2 and 3\n* after 3\nor even\n* in the middle of 2\n\n> It came up in JOL today,\n> because I had a vampire with 1 blood, and Anastasz had a Murder of\n> Crows and a Theft of Vitae, and I wanted him to only be able to steal\n> one. Since I couldn't find the ruling, I agreed that I couldn't do\n> that - my vampire had 1 point of prevention anyway that I'd forgotten,\n> so I just let him Theft and prevented the 1 damage, then used the\n> Coven later.\n\nYou could have let the 1 be stolen and then tapped the Coven and gained 2 blood\nand then used 1 blood to heal the Crows' damage, leaving you at 1 blood, sure."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 14, 2009, 4:47:22\u202FPM",
+      "Body": "LSJ wrote:\n> Before resolving:\n> A: Dragon's Breath Rounds to add 2 aggravated to the gun's strike.\n>\n> Strike resolution:\n>\n> 1) Apply Effects:\n> A: receives 1 damage from the retainer and moves 2 blood to B.\n> B: receives 2 damage plus 2 aggravated damage from A's hand strike.\n\n\"A's gun strike\", that is."
+    }
+  ]
+}

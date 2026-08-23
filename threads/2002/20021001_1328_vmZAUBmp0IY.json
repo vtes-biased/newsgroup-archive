@@ -1,0 +1,52 @@
+{
+  "ThreadId": "vmZAUBmp0IY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vmZAUBmp0IY",
+  "Title": "ELDB with Group number",
+  "Messages": [
+    {
+      "Author": "Orpheus",
+      "Date": "Oct 1, 2002, 1:28:50\u202FPM",
+      "Body": "Great, thanks a lot for your work !\n\nOrpheus"
+    },
+    {
+      "Author": "Alex Broadhead",
+      "Date": "Oct 1, 2002, 8:06:16\u202FPM",
+      "Body": "Howdy Orpheus,\n\n> Great, thanks a lot for your work !\n\nYou want to let us in on what you're talking about? Your subject is\nin 're' a subject that does not appear to have been posted - or is\nthis just a hiccup in Google? Is there actually an ELDB with group\nnumber functionality somewhere?\n\nInquiring minds wanna know!\nAlex"
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Oct 1, 2002, 8:49:45\u202FPM",
+      "Body": "> Howdy Orpheus,\n\nHello Alex,\n\n> > Great, thanks a lot for your work !\n>\n> You want to let us in on what you're talking about? Your subject is\n> in 're' a subject that does not appear to have been posted - or is\n> this just a hiccup in Google?\n\nIt IS a hiccup. Sorry I deleted previous text, I didn't want to take loading\nspace just to say \"thanks\" and didn't think of possible Googles problems.\nOriginal mail by Chris QJ follows. As you'll see, it's not yet a \"group\nfunctionnality\", but it's better than nothing, while we wait (every bit\nhelps, as said the old woman who pissed in the sea...).\n\nCheers and CU around.\n\nOrpheus\n\n> hi group\n\ni made my own little change to the VTES.mdb file provided by the\nlasombra.\nit has the groupnumber of each vampire at the beginning of the\n\"cardtext\" field. (i tried to put it into the \"clan\" field, but then\nthe sorting and filtering didn't work. )\n\ni used the following pattern:\n(x) - cardtext\n\nx being the groupnumber\n\na few examples:\n\nName Cardtext\nAaron Duggan, Cameron's Toady (2) - Sabbat\nAbd al-Rashid (2) - Independent: (Blood Cursed)\nAdrianne (1) - Camarilla: +1 bleed\n\nif enough people are interested in this version of the .mdb, maybe\njeff can put it on his website (would you, jeff?).\n\nin the meantime you can download it at\nhttp://kutsch.members.easyspace.com\nif you are interested.\n\ngreetings from vienna\nChris.QJ\nkut...@gmx.atSPAMBREAK<"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 1, 2002, 8:54:05\u202FPM",
+      "Body": "Alex Broadhead wrote:\n>\n> Howdy Orpheus,\n>\n> > Great, thanks a lot for your work !\n>\n> You want to let us in on what you're talking about? Your subject is\n> in 're' a subject that does not appear to have been posted - or is\n> this just a hiccup in Google? Is there actually an ELDB with group\n> number functionality somewhere?\n\nThe original post was marked \"X-No-Archive: yes\", and Google respected\nthat directive and did not archive the post.\n\nThe original poster added the group number to the card text\n(prepending it to the actual card text).\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Fredrik Ljungberg",
+      "Date": "Oct 2, 2002, 12:00:37\u202FAM",
+      "Body": "Good job Orpheus !\n\nI use ELD alot when building decks and throwing ideas around, and it\nwas a bit annoying when you couldn't sort the groups.\n\nThanks again mate :=)"
+    },
+    {
+      "Author": "James O'Rance",
+      "Date": "Oct 2, 2002, 3:27:32\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n\n> The original post was marked \"X-No-Archive: yes\", and Google respected\n> that directive and did not archive the post.\n\nAin't Google nice. Google helps me to find lovely photos to make mock\nVTES cards with. I think I will marry Google. :)\n\njames o'rance"
+    },
+    {
+      "Author": "Talonz",
+      "Date": "Oct 2, 2002, 7:57:22\u202FAM",
+      "Body": "\"Orpheus\" <orph...@wanadoo.fr> wrote in message news:<ancqo9$i9i$1...@wanadoo.fr>...\n> > Howdy Orpheus,\n\n>\n> As you'll see, it's not yet a \"group\n> functionnality\", but it's better than nothing,\n\nVery cool, but does anyone know why the 'cardtext' tab click to\narrange the field by that column doesn't work? Not that it ever\nappeared to work on that column anyways but hey one can dream....\n\nT"
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Oct 3, 2002, 1:57:14\u202FPM",
+      "Body": "\uE5D3\n\nHey, you're welcome, mate, but I ain't the one to thank !! My only merit\nhere was to thank Chris QJ so that everyone could know anout his invisible\npost !! :-)\n\nBut thanks to him. And the guys who added in the group 3 vampires first. And\nthe ones who will add the group functionnality in the filters (and the \"open\n/ save folder preferences\" I'm talking in my last post ?).\n\nOrpheus, who doesn't understand the first thing at programming, but enjoys\nusing well-done stuff (I prefer my steaks rare, though)."
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Oct 4, 2002, 12:24:10\u202FAM",
+      "Body": "> i made my own little change to the VTES.mdb file provided by the\n> lasombra.\n> it has the groupnumber of each vampire at the beginning of the\n> \"cardtext\" field. (i tried to put it into the \"clan\" field, but then\n> the sorting and filtering didn't work. )\n\nAs all good things cannot be 100% good : I think you forgot to include the\nMeddling of Semsith in these cards, right ?\n\nOrpheus"
+    }
+  ]
+}

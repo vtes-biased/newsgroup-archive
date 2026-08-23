@@ -1,0 +1,17 @@
+{
+  "ThreadId": "Pz_Ekznhak4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Pz_Ekznhak4",
+  "Title": "Map of Vampire Clans",
+  "Messages": [
+    {
+      "Author": "Prime",
+      "Date": "Feb 14, 2005, 6:04:07\u202FPM",
+      "Body": "Hello,\n\nI am making an update for the Vampire Map\n(http://www.hut.fi/~jslindst/vtes/) I made a couple of years ago,\nbecause it seems it is still used by some people and there's been so\nmany new expansions released.\n\nCould someone help me a little and provide me with the vampire data in\na file.\n\nThe file should contain the essential data in one row for each vampire.\nI think the following information would be most useful:\nLevel of the disclipline (for each disclipline) as number (0,1,2)\nCapacity as number\nClan as text\nSect as text\nGroup as number\nSet as text\nOther abilities as text\nName of the vampire as text\n\nfor example:\n0;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;6;Tremere-Antitribu;Sabbat;3;The\nBlack Hand;Black Hand: Damage inflicted on Selena by a werewolf is\naggravated.;Selena\n\nI would appreciate your help,\nJukka"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 14, 2005, 6:52:31\u202FPM",
+      "Body": "\"Prime\" <prime_at_...@hotmail.com> wrote in message news:1108400647.1...@o13g2000cwo.googlegroups.com...\n\uE5D3\n\nSee \"Card Database\" at\nhttp://www.white-wolf.com/downloads.php?category_id=38\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nV:TES homepage: http://www.white-wolf.com/vtes/\nThough effective, appear to be ineffective -- Sun Tzu"
+    }
+  ]
+}

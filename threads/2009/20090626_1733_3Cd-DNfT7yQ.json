@@ -1,0 +1,37 @@
+{
+  "ThreadId": "3Cd-DNfT7yQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3Cd-DNfT7yQ",
+  "Title": "washed trifle and trifle again LSJ?",
+  "Messages": [
+    {
+      "Author": "Andrea La Malfa",
+      "Date": "Jun 26, 2009, 5:33:03\u202FPM",
+      "Body": "Hi\njust happened this in a jol game\nin A's master phase\nA: vessel\nB: wash\nA: another vessel\nA: ashur tablets\n\ni thought this is not doable as rules say that the subsequent trifle\nare regular master cards.\nso even if the first did not grant a MPA because it was canceled it\nwas played anyway and so the second trifle is a regular master card.\n\nHave we always played wrong (not that this happens often..)?\n\nthanks\nAndrea"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 26, 2009, 5:50:37\u202FPM",
+      "Body": "Andrea La Malfa wrote:\n> Hi\n> just happened this in a jol game\n> in A's master phase\n> A: vessel\n> B: wash\n> A: another vessel\n> A: ashur tablets\n>\n> i thought this is not doable as rules say that the subsequent trifle\n> are regular master cards.\n> so even if the first did not grant a MPA because it was canceled it\n> was played anyway and so the second trifle is a regular master card.\n\n1.6.2.5 Trifle: When a Methuselah plays a trifle (and it isn't canceled), she\ngains an additional master phase action. A Methuselah can gain only one master\nphase action from trifles in a given master phase; others act like regular\nmaster cards.\n\nVessel1 (Canceled) did not provide an extra MPA.\nVessel2 (uncanceled) provides an extra MPA this master phase, since the limit\n(only one MPA from trifles in a given master phase) has not yet been met.\nLeaving room for:\nAshur Tablets.\n\n\uE5D3"
+    },
+    {
+      "Author": "HardyRange",
+      "Date": "Jun 26, 2009, 6:09:59\u202FPM",
+      "Body": "\uE5D3\n\nMmhhhh....\n\nBut what about the Wash?\nWash is a Trifle, that grants (per card text) a master phase action.\nAnd [1.6.2.5] does not mention _who_ plays the trifle triggering that\nrule.\n\nSo why is the following interpretation not valid?\n\nVessel1 (Canceled) did not provide an extra MPA.\n\nWash (used to cancel Vessel1) provides an extra MPA.\nVessel2 (uncanceled) does _not_ provide an extra MPA this master\nphase, since the limit\n(only one MPA from trifles in a given master phase) has been met.\n\nBest regards,\n\nHardy Range"
+    },
+    {
+      "Author": "Andrea La Malfa",
+      "Date": "Jun 26, 2009, 6:49:06\u202FPM",
+      "Body": "\uE5D3\n\nbecause the extra MPA is provided to the player of wash in his turn..."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 26, 2009, 7:53:07\u202FPM",
+      "Body": "\uE5D3\n\nBut that MPA is not the MPA from Wash being a trifle.\n\n> And [1.6.2.5] does not mention _who_ plays the trifle triggering that\n> rule.\n>\n> So why is the following interpretation not valid?\n>\n> Vessel1 (Canceled) did not provide an extra MPA.\n> Wash (used to cancel Vessel1) provides an extra MPA.\n> Vessel2 (uncanceled) does _not_ provide an extra MPA this master\n> phase, since the limit\n> (only one MPA from trifles in a given master phase) has been met.\n\nBecause the limit is a limit of trifle MPAs.\n\nFor instance:\n\nA: Ascendance.\nB: Wash.\nA: Ascendance.\nC: Wash.\n\nAt this point, this second Wash provides A with an MPA, since that card-text MPA\nis not a trifle MPA of the type being restricted by 1.6.2.5\n\nSo it could continue:\n\nA: Ascendance.\nAll: No cancel.\nA: (Gain 1 pool)."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 29, 2009, 1:12:15\u202FAM",
+      "Body": "\uE5D3\n> A: (Gain 1 pool).- Hide quoted text -\n>\n> - Show quoted text -\n\nI think the central point is that the player who gains the MPA from a\nTrifle is the player who PLAYED the Trifle. So an OoT Trifle provides\nan extra MPA to the player who plays the OoT Trifle.\n\nThe rule is there to allow only 2 Masters to be played without another\neffect like Parthenon, Anson, Cybele, etc... Trifle + Any Master or 1\nMaster Card only."
+    }
+  ]
+}

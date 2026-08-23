@@ -1,0 +1,17 @@
+{
+  "ThreadId": "u9QX4dqa53Y",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/u9QX4dqa53Y",
+  "Title": "handling adding and dropping players with the archon",
+  "Messages": [
+    {
+      "Author": "Chris.QJ",
+      "Date": "Nov 12, 2005, 2:05:43\u202FPM",
+      "Body": "hi,\n\nyou run a tournament using the archon and after a round a player drops\nor a new player shows up. what do you do?\n\nwhen i still ran tuorneys i solved that using the following procedure\nfor adds:\n\ngo to the sheet for the previous round(s)\nhighlight the player number column\ncopy and paste _values_. thus the previous rounds are not affected by\nthe new player\nadd the player to the methuselahs sheet.\ncorrect same predetor prey and starting player issues manually.\ncontinue with the next round as if nothing had happened.\n\ndrops:\ni never had that issue, but i guess i would have continued the tourney\nand awarded a game loss to the player in each of the remainig rounds,\nthus turning a 5 player table into a 4 player table. not the optimal\nsolution, but the only one i can think of at the moment\nyou could hanlde it the same as above, removing the player from the\nmeth sheet, but that would result in that player not showing up in the\nfinal result sheet, so that is not an option.\n\nit would be great to hear how other organizers handle this when using\nthe standard archon.\n\nLSJ: is there a \"_the_ way\" to do this?\n\nregards,\nChris.QJ"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 12, 2005, 2:15:00\u202FPM",
+      "Body": "Chris.QJ wrote:\n\n\uE5D3\n\nYes. Mark the Methuselah as withdrawn in the DQ Flag column (\"wd\" tends\nto suffice to indicate the reason). Then go to the remaining rounds\nand re-seat them as necessary as you had for the add (that is, check\nto make sure that available VPs are equitably distributed and then\nthat pred-prey-other relationships are not repeated).\n\n--\nThat is my story, be it bitter or be it sweet.\nKeep a little and let a little come back to me.\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ThreadId": "_7Tl7-GHWh0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/_7Tl7-GHWh0",
+  "Title": "LSJ: Retrieving cost of cancelled cards",
+  "Messages": [
+    {
+      "Author": "Hodgestar",
+      "Date": "Jul 18, 2010, 10:43:26\u202FPM",
+      "Body": "On 25 Sep, 2001, LSJ wrote:\n> You only retrieve costs paid when specified by card text.\n\nIs this still the case? In context I'm not sure whether this answer\napplied only to action cards and action modifiers or to all cards.\nI'm asking mostly because Section II.B.3.c of the rules outline [1]\nreads \"If the card is canceled, skip to step D\" and paying for cards\nhappens in step C (i.e. is skipped).\n\nIn particular, do the costs of master cards cancelled by Santaleous'\nspecial get paid and remain so?\n\nSantaleous: \"Camarilla: Santaleous gets +1 bleed for each unique\nhunting ground in play. He may burn 3 blood to cancel a master card as\nit is played.\"\n\n[1] http://www.white-wolf.com/vtes/?line=outline\n\nSchiavo\nSimon"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 18, 2010, 11:41:00\u202FPM",
+      "Body": "On Jul 18, 4:43 pm, Hodgestar <hodges...@gmail.com> wrote:\n> On 25 Sep, 2001, LSJ wrote:\n> > You only retrieve costs paid when specified by card text.\n>\n> Is this still the case? In context I'm not sure whether this answer\n\nYes.\n\n> applied only to action cards and action modifiers or to all cards.\n\nTo the extent of context supplied above, it seems to be all cards.\nWas there more context that suggested a smaller set of cards?\n\nAt any rate, costs for action cards is not paid until resolution, so\nif the action card is canceled as it is played, the cost is never\npaid, so the question of retrieving that unpaid cost doesn't come up.\n\n> I'm asking mostly because Section II.B.3.c of the rules outline [1]\n> reads \"If the card is canceled, skip to step D\" and paying for cards\n> happens in step C (i.e. is skipped).\n\nHmm. Seems to be an error in the outline, yes.\n\n> In particular, do the costs of master cards cancelled by Santaleous'\n> special get paid and remain so?\n\nYes, they're paid. The cost is not reimbursed if Santaleous cancels\nit.\n\n\uE5D3"
+    },
+    {
+      "Author": "Hodgestar",
+      "Date": "Jul 21, 2010, 5:19:52\u202FPM",
+      "Body": "On Jul 18, 11:41 pm, LSJ <vtes...@white-wolf.com> wrote:\n> To the extent of context supplied above, it seems to be all cards.\n> Was there more context that suggested a smaller set of cards?\n\nThe original thread focussed mostly on actions and actions modifiers.\nI was only about 99% sure that the \"card\" in \"card text\" referred to\nany card rather than only an action or action modifier.\n\nThanks for the swift response!\n\nSchiavo\nSimon"
+    }
+  ]
+}

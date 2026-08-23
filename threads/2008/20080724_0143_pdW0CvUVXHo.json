@@ -1,0 +1,37 @@
+{
+  "ThreadId": "pdW0CvUVXHo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/pdW0CvUVXHo",
+  "Title": "Card List on White Wolf",
+  "Messages": [
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jul 24, 2008, 1:43:43\u202FAM",
+      "Body": "Any specifc reason the HTML cardlist on the website is incomplete?"
+    },
+    {
+      "Author": "librarian",
+      "Date": "Jul 24, 2008, 2:18:00\u202FAM",
+      "Body": "Blooded Sand wrote:\n> Any specifc reason the HTML cardlist on the website is incomplete?\n\nInquiring/lazy minds want to know - in what way is it incomplete?\n\nbest -\n\nchris\n\n--\nSuper Fun Cards\nwww.superfuncards.com *NEW Website!*\nauct...@superfuncards.com"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 24, 2008, 2:36:12\u202FAM",
+      "Body": "librarian wrote:\n> Blooded Sand wrote:\n>> Any specifc reason the HTML cardlist on the website is incomplete?\n>\n> Inquiring/lazy minds want to know - in what way is it incomplete?\n\nIt ends with Sensory Overload (in the middle, actually).\n\nThe HTML on the server is whole, so there seems to be some truncation going on\nin the php interface to that HTML. I'll pass that info along."
+    },
+    {
+      "Author": "lon...@dlc.fi",
+      "Date": "Jul 24, 2008, 10:00:42\u202FPM",
+      "Body": "On Jul 24, 3:36 am, LSJ <vtes...@white-wolf.com> wrote:\n> It ends with Sensory Overload (in the middle, actually).\n>\n> The HTML on the server is whole, so there seems to be some truncation going on\n> in the php interface to that HTML. I'll pass that info along.\n\nI've experienced the same problem for several months now, but been too\nbusy/lazy to ask about it.\n\nBeen assuming that the problem was at my end, which really hadn't\nhelped me reporting it...\n\nCheers,\nJanne/Lönkka"
+    },
+    {
+      "Author": "Kevin M.",
+      "Date": "Jul 25, 2008, 1:58:42\u202FAM",
+      "Body": "Blooded Sand <sand...@gmail.com> wrote:\n> Any specifc reason the HTML cardlist on the website is incomplete?\n\nAlso, even though I understand it isn't a priority, what about the text\ncardlist at\nhttp://download.white-wolf.com/download/download.php?file_id=128? Thanks.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy, and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment... Complacency... Catastrophe!\" -- Joseph Chevalier"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 25, 2008, 2:17:25\u202FAM",
+      "Body": "Kevin M. wrote:\n> Blooded Sand <sand...@gmail.com> wrote:\n>> Any specifc reason the HTML cardlist on the website is incomplete?\n>\n> Also, even though I understand it isn't a priority, what about the text\n> cardlist at\n> http://download.white-wolf.com/download/download.php?file_id=128? Thanks.\n\nThe up-to-date list is always available at\nhttp://www.white-wolf.com/vtes/downloads/Cardlist.txt"
+    }
+  ]
+}

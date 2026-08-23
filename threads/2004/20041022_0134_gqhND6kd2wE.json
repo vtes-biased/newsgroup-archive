@@ -1,0 +1,27 @@
+{
+  "ThreadId": "gqhND6kd2wE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/gqhND6kd2wE",
+  "Title": "[LSJ] \"action fails\" abilities",
+  "Messages": [
+    {
+      "Author": "Charles Lechasseur",
+      "Date": "Oct 22, 2004, 1:34:49\u202FAM",
+      "Body": "If an effect causes an action to \"fail\", does the action end immediately\nas part of the resolution of the effect (similar to an effect that causes\nthe action to \"end\"), or is there an opportunity to play \"end of action\"\neffects?\n\nHere is a concrete example.\n\nFatima, with a Fortitude master on her, plays Bum's Rush to enter combat\nwith Edward Vignes. Edward announces that he is attempting to block.\nFatima declares that no stealth will be played and thus the block attempt\nis successful. Edward's controller then discards a Deflection from his\nhand to make the action \"fail\" (per card text).\n\nCan Fatima now play Freak Drive at superior to untap? Or did the action\nend when Edward's effect caused it to \"fail\", thus preventing Fatima from\nplaying anything else (similar to what would happen if Obedience was\nplayed against Fatima)?\n\n--\ncharles lechasseur - da...@novideospamtron.ca"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 22, 2004, 1:59:57\u202FPM",
+      "Body": "\"Charles Lechasseur\" <da...@novideospamtron.ca> wrote in message\nnews:danov-21100...@192.168.1.4...\n\n> If an effect causes an action to \"fail\", does the action end immediately\n> as part of the resolution of the effect (similar to an effect that causes\n> the action to \"end\"), or is there an opportunity to play \"end of action\"\n> effects?\n\nThe latter.\n\n> Here is a concrete example.\n>\n> Fatima, with a Fortitude master on her, plays Bum's Rush to enter combat\n> with Edward Vignes. Edward announces that he is attempting to block.\n> Fatima declares that no stealth will be played and thus the block attempt\n> is successful. Edward's controller then discards a Deflection from his\n> hand to make the action \"fail\" (per card text).\n\nCan't.\nEdward would have to invoke his special before the block succeeds.\n\nWhich would then render the Freak Drive question moot, as the conditions\n(success or block) are not met.\n\n> Can Fatima now play Freak Drive at superior to untap? Or did the action\n> end when Edward's effect caused it to \"fail\", thus preventing Fatima from\n> playing anything else (similar to what would happen if Obedience was\n> played against Fatima)?\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nV:TES homepage: http://www.white-wolf.com/vtes/\nThough effective, appear to be ineffective -- Sun Tzu"
+    },
+    {
+      "Author": "Charles Lechasseur",
+      "Date": "Oct 22, 2004, 2:13:37\u202FPM",
+      "Body": "In article <2tsatjF...@uni-berlin.de>, \"LSJ\" <vte...@white-wolf.com>\nwrote:\n\n>\"Charles Lechasseur\" <da...@novideospamtron.ca> wrote in message\n>news:danov-21100...@192.168.1.4...\n\n>> Fatima, with a Fortitude master on her, plays Bum's Rush to enter combat\n>> with Edward Vignes. Edward announces that he is attempting to block.\n>> Fatima declares that no stealth will be played and thus the block attempt\n>> is successful. Edward's controller then discards a Deflection from his\n>> hand to make the action \"fail\" (per card text).\n>\n>Can't.\n>Edward would have to invoke his special before the block succeeds.\n\nIs this because after the block succeeds, the action has already failed?\nIn this case, could Edward burn the Deflection anyway just to cycle a\ncard, making the action fail (again) but not preventing combat from\noccuring?\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 22, 2004, 2:25:19\u202FPM",
+      "Body": "\"Charles Lechasseur\" <da...@novideospamtron.ca> wrote in message\n\nnews:danov-22100...@192.168.1.4...\n\n> In article <2tsatjF...@uni-berlin.de>, \"LSJ\"\n<vte...@white-wolf.com>\n> wrote:\n> >\"Charles Lechasseur\" <da...@novideospamtron.ca> wrote in message\n> >news:danov-21100...@192.168.1.4...\n> >> Fatima, with a Fortitude master on her, plays Bum's Rush to enter\ncombat\n> >> with Edward Vignes. Edward announces that he is attempting to block.\n> >> Fatima declares that no stealth will be played and thus the block\nattempt\n> >> is successful. Edward's controller then discards a Deflection from his\n> >> hand to make the action \"fail\" (per card text).\n> >\n> >Can't.\n> >Edward would have to invoke his special before the block succeeds.\n>\n> Is this because after the block succeeds, the action has already failed?\n\nYes.\nSee also trying to *play* a Deflection after successfully blocking\n(can't do that, either).\n\n> In this case, could Edward burn the Deflection anyway just to cycle a\n> card, making the action fail (again) but not preventing combat from\n> occuring?\n\nNo. He \"can't\" discard a Deflection from his hand.\n\n\uE5D3"
+    }
+  ]
+}

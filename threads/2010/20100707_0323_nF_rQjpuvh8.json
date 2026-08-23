@@ -1,0 +1,112 @@
+{
+  "ThreadId": "nF_rQjpuvh8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/nF_rQjpuvh8",
+  "Title": "LSJ - Rockheart",
+  "Messages": [
+    {
+      "Author": "J",
+      "Date": "Jul 7, 2010, 3:23:06\u202FAM",
+      "Body": "This has come up in a game on JoL recently, and I want to seek\nclarification.\n\nName: Rockheart\n[LoB:C, HttB:PGar4]\nCardtype: Combat\nDiscipline: Visceratika/Thaumaturgy\n[tha] Strike: dodge.\n[vis] Prevent half the damage (round up) done by the opponent's\nstrike. (Doing this twice would prevent all damage from the strike.)\n[VIS] As [vis] above, and prevent half the damage (round up) done by\neach strike of the opponent for the remainder of combat. A vampire may\nplay only one Rockheart at superior each combat.\n\nSo, a Tupdog is hit for h1.\nI play Rockheart to prevent all damage from this strike because;\n\n(snipped from JoL chat log)\nhe did h1\nso that's 1 damage\nI prevent half of 1 rounded up\nwhich is 1\nso I prevent 1\nwhich is all of it\n\nBut I am told that;\n\n(snipped from JoL chat log)\nit only prevents half, which leaves .5 which is rounded back up to 1\nwhich is still done\nthat's why it requires two to prevent even 1\n\nplease advise.\n\n-- J"
+    },
+    {
+      "Author": "James Cass",
+      "Date": "Jul 7, 2010, 3:36:24\u202FAM",
+      "Body": "\uE5D3\n\nAre you serious?\n\nHalf of 1 rounded up is... 1 leaving, shockingly, ZERO not prevented.\n\nHalf of 2 rounded up is... 1 leaving one not prevented.\nHalf of 3 rounded up is... 2 leaving one not prevented.\netc."
+    },
+    {
+      "Author": "J",
+      "Date": "Jul 7, 2010, 3:41:14\u202FAM",
+      "Body": "> Are you serious?\n>\n> Half of 1 rounded up is... 1 leaving, shockingly, ZERO not prevented.\n>\n> Half of 2 rounded up is... 1 leaving one not prevented.\n> Half of 3 rounded up is... 2 leaving one not prevented.\n> etc.\n\nThat was my reaction... but my opponent was very sure of himself, and\nI was so amazed that I had to seek clarification here.\nI did snip out the more 'flavorful' adjectives from the jol log.\n\n-- J"
+    },
+    {
+      "Author": "YY",
+      "Date": "Jul 7, 2010, 4:45:25\u202FAM",
+      "Body": "On Jul 7, 10:24 am, Jonathan_Sicari <jonathan_sic...@hotmail.com>\nwrote:\n\uE5D3\n> Um, not sure who your opponent is Grail, but yeah, he is dead wrong.\n> Probably had his confirmation bias dialed up over his reading\n> comprehension.\n>\n> Jonathan\n\nIs there even a doubt?\n\nRockheart [LoB:C, HttB:PGar4]\nCardtype: Combat\nDiscipline: Visceratika/Thaumaturgy\n[tha] Strike: dodge.\n\n[vis] ***Prevent half the damage (round up)*** done by the opponent's\n\nstrike. (Doing this twice would prevent all damage from the strike.)\n\n[VIS] As [vis] above, and ***prevent half the damage (round up)***\n\ndone by each strike of the opponent for the remainder of combat. A\nvampire may play only one Rockheart at superior each combat.\n\nArtist: Alexander Dunnigan\n\nI'm quite sure \"prevent half the damage (round up)\" means to round up\nthe amount prevented.\n\n- YY"
+    },
+    {
+      "Author": "suoli",
+      "Date": "Jul 7, 2010, 5:33:25\u202FAM",
+      "Body": "\uE5D3\n\nThere is no special \"round up fractions\"-step during the damage\nresolution so any rounding would have to occur immediately as\nRockheart resolves. In other words, when you play Rockheart it\nprevents 0.5 damage from h1, leaving 0.5 damage which is immediately\nrounded up, the second Rockheart you play prevents 0.5 damage from the\nremaining 1 damage, leaving 0.5 damage which is immediately rounded\nup... and so on. The reminder text on Rockheart clearly contradicts\nthis."
+    },
+    {
+      "Author": "James Cass",
+      "Date": "Jul 7, 2010, 5:44:42\u202FAM",
+      "Body": "\uE5D3\n\nThe \"reminder text\" is there to answer the question \"What happens if I\nplay 2 Rockhearts?\"\n\nAssuming you are receiving 7 points of damage. The first would\nprevent 4 points - leaving 3 still to be taken.\n\nPlaying a second Rockheart would either result in the 3 damage being\nreduced to 1 (1.5 rounded up prevented) or as the \"reminder text\"\nclarifies half the original damage being prevented."
+    },
+    {
+      "Author": "Haze",
+      "Date": "Jul 7, 2010, 6:29:13\u202FAM",
+      "Body": "\uE5D3\n\nwat\n\nit doesn't say \"halve the damage\" it says \"prevent half\"\nthe amount prevented is rounded up, not the damage itself.\n\njust like how Free States Rant doesn't actually reduce your vampire's\ncapacity by half. or does it?"
+    },
+    {
+      "Author": "Abdul alHazred",
+      "Date": "Jul 7, 2010, 8:30:43\u202FAM",
+      "Body": "\uE5D3\n\n...adds to all other exclamations of surprise here (0,5 roubnded up is\none): - Rockheart SUP also specifically states that each vampire can\n´t play Rockheart at the superior more than once per combat.\n\n/cheers Tomas"
+    },
+    {
+      "Author": "suoli",
+      "Date": "Jul 7, 2010, 9:46:29\u202FAM",
+      "Body": "On 7 heinä, 06:44, James Cass <tjamesc...@gmail.com> wrote:\n> On Jul 6, 11:33 pm, suoli <suoliruse...@gmail.com> wrote:\n>\n> > There is no special \"round up fractions\"-step during the damage\n> > resolution so any rounding would have to occur immediately as\n> > Rockheart resolves. In other words, when you play Rockheart it\n> > prevents 0.5 damage from h1, leaving 0.5 damage which is immediately\n> > rounded up, the second Rockheart you play prevents 0.5 damage from the\n> > remaining 1 damage, leaving 0.5 damage which is immediately rounded\n> > up... and so on. The reminder text on Rockheart clearly contradicts\n> > this.\n>\n> The \"reminder text\" is there to answer the question \"What happens if I\n> play 2 Rockhearts?\"\n\nI think that's open to interpretation. Why the brackets if it's\nexplicit card text instead of reminder text?\n\n> Assuming you are receiving 7 points of damage.  The first would\n> prevent 4 points - leaving 3 still to be taken.\n>\n> Playing a second Rockheart would either result in the 3 damage being\n> reduced to 1 (1.5 rounded up prevented) or as the \"reminder text\"\n> clarifies half the original damage being prevented.\n\nIf Rockheart prevents half of the strike, rounded up, then the first\nand second Rockheart both prevent half the amount of damage done (as\nopposed to inflicted) by the strike. The damage done by the strike\nshould stay the same even if some or none of it is successfully\ninflicted."
+    },
+    {
+      "Author": "suoli",
+      "Date": "Jul 7, 2010, 9:51:41\u202FAM",
+      "Body": "\uE5D3\n\nI don't understand what you're trying to say here. I am aware that\nRockheart prevents half of the damage done, rounded up."
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Jul 7, 2010, 10:54:57\u202FAM",
+      "Body": "On 7 juil, 03:23, J <grai...@hotmail.com> wrote:\n> But I am told that;\n>\n> (snipped from JoL chat log)\n> it only prevents half, which leaves .5\n\nThere is no such thing as fractionnal damage.\nRockheart prevents half the damage, round up, which means it prevents\n1 in that case (because Ceil(0.5) = 1).\n\nRH does not leave fractionnal damage hanging around.\n\nThe reminder text indicates that a second RH played computes the\nquantity of damage prevented based on the whole total of damage, not\nthe remaining half."
+    },
+    {
+      "Author": "J",
+      "Date": "Jul 7, 2010, 11:44:22\u202FAM",
+      "Body": "> There is no such thing as fractionnal damage.\n> Rockheart prevents half the damage, round up, which means it prevents\n> 1 in that case (because Ceil(0.5) = 1).\n>\n> RH does not leave fractionnal damage hanging around.\n>\n> The reminder text indicates that a second RH played computes the\n> quantity of damage prevented based on the whole total of damage, not\n> the remaining half.\n\nI know that.\nHowever, it seems that there are people out there that don't. As seen\nby suoli's posts. So, some legitimized clarification would be\nappreciated to put this to bed.\n\n-- J"
+    },
+    {
+      "Author": "suoli",
+      "Date": "Jul 7, 2010, 11:55:09\u202FAM",
+      "Body": "\uE5D3\n\nI'm not sure why you'd mention my post in this context. I took the\nview that unprevented fractions of damage left by Rockheart are\nrounded up to its logical conclusion and noted how absurd that would\nbe."
+    },
+    {
+      "Author": "Jonathan_Sicari",
+      "Date": "Jul 7, 2010, 1:29:04\u202FPM",
+      "Body": "\uE5D3\n\nOh, I see that now. When I first read it (stupid lack of emoticons I\nguess) I thought you were serious.\n\nJonathan"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 7, 2010, 1:54:03\u202FPM",
+      "Body": "\uE5D3\n\nCorrect. (Card text)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 7, 2010, 1:56:09\u202FPM",
+      "Body": "On Jul 6, 11:33 pm, suoli <suoliruse...@gmail.com> wrote:\n> There is no special \"round up fractions\"-step during the damage\n> resolution so any rounding would have to occur immediately as\n> Rockheart resolves.\n\nCorrect.\n\n> In other words, when you play Rockheart it\n> prevents 0.5 damage from h1, leaving 0.5 damage which is immediately\n> rounded up,\n\nNo. Card text.\n\nRockheart prevents 1 (half of the one done, rounded up).\n\nLeaving 0. Which is an integer and needs no rounding."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 7, 2010, 1:59:01\u202FPM",
+      "Body": "On Jul 7, 3:46 am, suoli <suoliruse...@gmail.com> wrote:\n> On 7 heinä, 06:44, James Cass <tjamesc...@gmail.com> wrote:\n> > The \"reminder text\" is there to answer the question \"What happens if I\n> > play 2 Rockhearts?\"\n>\n> I think that's open to interpretation. Why the brackets if it's\n> explicit card text instead of reminder text?\n\nEnglish.\n\nNot all parenthesized text is superfluous.\n\nSee also \"round up\".\n\n> > Assuming you are receiving 7 points of damage.  The first would\n> > prevent 4 points - leaving 3 still to be taken.\n>\n> > Playing a second Rockheart would either result in the 3 damage being\n> > reduced to 1 (1.5 rounded up prevented) or as the \"reminder text\"\n> > clarifies half the original damage being prevented.\n>\n> If Rockheart prevents half of the strike, rounded up,\n\nAnd it does (card text).\n\n> then the first\n> and second Rockheart both prevent half the amount of damage done (as\n> opposed to inflicted) by the strike.\n\nCorrect (as confirmed by card text).\n\n> The damage done by the strike\n> should stay the same even if some or none of it is successfully\n> inflicted.\n\nCorrect."
+    },
+    {
+      "Author": "suoli",
+      "Date": "Jul 7, 2010, 2:16:04\u202FPM",
+      "Body": "\uE5D3\n\nObviously. My comment was meant to highlight the problems with the\ninterpretation proposed by J's JOL opponent."
+    },
+    {
+      "Author": "suoli",
+      "Date": "Jul 7, 2010, 2:29:21\u202FPM",
+      "Body": "On 7 heinä, 14:59, LSJ <vtes...@white-wolf.com> wrote:\n> On Jul 7, 3:46 am, suoli <suoliruse...@gmail.com> wrote:\n>\n> > On 7 heinä, 06:44, James Cass <tjamesc...@gmail.com> wrote:\n> > > The \"reminder text\" is there to answer the question \"What happens if I\n> > > play 2 Rockhearts?\"\n>\n> > I think that's open to interpretation. Why the brackets if it's\n> > explicit card text instead of reminder text?\n>\n> English.\n>\n> Not all parenthesized text is superfluous.\n>\n> See also \"round up\".\n\nSure. But...\n\n>\n> > then the first\n> > and second Rockheart both prevent half the amount of damage done (as\n> > opposed to inflicted) by the strike.\n>\n> Correct (as confirmed by card text).\n>\n> > The damage done by the strike\n> > should stay the same even if some or none of it is successfully\n> > inflicted.\n>\n> Correct.\n\n...this seems to indicate that the \"reminder text\" really is just\nsuperfluous (in that it is helpful but not strictly necessary)\nreminder text. When two Rockhearts are played to prevent a strike that\ndoes 7 damage they prevent 4 each, effectively preventing all damage\nfrom the strike. This would be true with or without the reminder text.\nOr am I forgetting some weird card interactions here?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 7, 2010, 2:35:18\u202FPM",
+      "Body": "\uE5D3\n\nApologies.\n\nI'm not used to someone presenting an opposing side's viewpoint so\nunbiasedly on this group."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 7, 2010, 2:37:02\u202FPM",
+      "Body": "On Jul 7, 8:29 am, suoli <suoliruse...@gmail.com> wrote:\n> On 7 heinä, 14:59, LSJ <vtes...@white-wolf.com> wrote:\n> > > The damage done by the strike\n> > > should stay the same even if some or none of it is successfully\n> > > inflicted.\n>\n> > Correct.\n>\n> ...this seems to indicate that the \"reminder text\" really is just\n> superfluous (in that it is helpful but not strictly necessary)\n> reminder text.\n\nWell, it's necessary to indicate which model is being used.\n(prevent half of initial or half of remaining).\n\n> When two Rockhearts are played to prevent a strike that\n> does 7 damage they prevent 4 each, effectively preventing all damage\n> from the strike. This would be true with or without the reminder text.\n\nLike \"round up\", it could be true without the reminder text, but it\ncould be untrue just as easliy."
+    }
+  ]
+}

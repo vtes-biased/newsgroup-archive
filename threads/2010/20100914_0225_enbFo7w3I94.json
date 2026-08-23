@@ -1,0 +1,32 @@
+{
+  "ThreadId": "enbFo7w3I94",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/enbFo7w3I94",
+  "Title": "LSJ: Dagger Question",
+  "Messages": [
+    {
+      "Author": "YY",
+      "Date": "Sep 14, 2010, 2:25:21\u202FAM",
+      "Body": "What happens when a minion uses a Dagger to strike for ranged strength\ndamage, which is then prevented?\nIs it:\n\na) Dagger is out of play, so card text does not trigger and the effect\nis not triggered when it comes back into play, leaving the Dagger in\nplay,\n\nb) Dagger is out of play, so card text does not trigger but the effect\nis triggered when it comes back into play, burning the Dagger as it\ncomes back in play, or\n\nc) Dagger burns before it can be put out of play?\n\nThanks in advance.\n\n-YY"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Sep 14, 2010, 7:51:30\u202FAM",
+      "Body": "\uE5D3\n\nIt's always better with cardtext ;)\n\nDagger\nCardtype: Equipment\nCost: 1 pool\nMelee weapon. Cold iron.\nYou may put a second Dagger from your hand or ash heap on this minion\nwhen you equip this Dagger from your hand. Strike: strength+1 damage.\nAlternatively, strike: strength ranged damage and, after strike\nresolution, put this weapon out of play until the end of the action.\nBurn this weapon if any damage from it is prevented.\n\n\"after strike resolution\" clearly solves the point.\nc) Dagger is burned during strike resolution."
+    },
+    {
+      "Author": "YY",
+      "Date": "Sep 14, 2010, 10:52:40\u202FAM",
+      "Body": "\uE5D3\n\nThanks for the quick reply, floppy.\n\nSo, to clarify: Damage Resolution (6.4.6) is part of Strike Resolution\n(6.4.3)?\nI'm a little confused, since they are described under separate\nsections (even if 6.4.3 references to 6.4.6).\n\n- YY"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Sep 14, 2010, 11:41:05\u202FAM",
+      "Body": "\uE5D3\n\nDamage resolution (6.4.6) is part of strike resolution (6.4.3) as\ndescribed in the outline:\nhttp://www.white-wolf.com/vtes/?line=outline\n[VI.C.2.c \"damage resolution\" is part of VI.C.2 \"strike resolution\"]"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 14, 2010, 12:47:17\u202FPM",
+      "Body": "\uE5D3\n\nTo be clear, damage resolution is part of whatever is going on to\ninflict damage, whether it be strike resolution or some non-strike\neffect like Talbot's Chainsaw's untap phase effect."
+    }
+  ]
+}

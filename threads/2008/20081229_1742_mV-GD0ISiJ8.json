@@ -1,0 +1,77 @@
+{
+  "ThreadId": "mV-GD0ISiJ8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/mV-GD0ISiJ8",
+  "Title": "[LSJ] \"When an action is successful...\" and House of Sorrow",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 29, 2008, 5:42:25\u202FPM",
+      "Body": "How long does the \"when an action is successful...\" window stay open?\nSpecifically, if one of my minions performs a successful action\nrequiring Necromancy and I have both Tower of London and House of\nSorrow untapped, may I gain two pool by tapping Tower, tapping House\nto untap Tower, and then tapping Tower again, all before that window\ncloses?\n\nJohn Eno"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Dec 29, 2008, 6:20:47\u202FPM",
+      "Body": "\uE5D3\n\nThis seems like the same wording as on Andre Leroux (\"when a minion\nyou control bleeds successfully...\"), which you ruled to be usable\nonly once each time the trigger is activated (which I agree with -\nhe's broken enough as it is without making things worse). How come\nthe Tower can be tapped twice in response to the trigger, but Andre\ncan only use his ability once?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 29, 2008, 7:42:35\u202FPM",
+      "Body": "\uE5D3\n\nMmm. Good point. I was only considering the duration of the window, not focusing\nenough on the repeated use of the ability.\n\nREVERSAL. While the window is indeed long enough, triggered abilities still\ncannot be used multiple times in the window following the single trigger."
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 29, 2008, 9:47:20\u202FPM",
+      "Body": "On Dec 29, 1:42 pm, LSJ <vtes...@white-wolf.com> wrote:\n> REVERSAL. While the window is indeed long enough, triggered abilities still\n\n> cannot be used multiple times in the window following the single trigger.- Hide quoted text -\n\nIf a theroetical card in play could be tapped for two different\nabilities, both of which used the same trigger event, could both\nabilities be used in conjunction with House of Sorrow?\n\neg:\nFlames of Tension\nMaster. Put this card into play. Tap this card when a minion\ncontrolled by your prey leaves the ready region to cause your prey to\nburn one pool. Tap this card when a minion controlled by your prey\nleaves the ready region to gain one pool.\n\nIf this card existed, and I had both it and House of Sorrow in play\nuntapped, and torporized one of my prey's vampires, could I both gain\na pool cause my prey to burn a pool? I assume that I could, since I\nthink that the two different effects count as different \"triggered\nabilities.\"\n\n(Side note: choosing Flames of Insurrection to template the text for\nmy fabricated card made me realize for the first time that Flames of\nInsurrection has no \"Put this card into play\" text. Errata,\npresumably?)\n\nOr to use a non-theoretical example (but one which I'm not sure is\ntotally analogous to the above one): I control Midget and Andre\nLeroux. Midget bleeds successfully. May I both play Patterns in the\nChaos to look at my prey's hand and then use Andre's ability to reduce\nthe bleed by one?\n\nJohn Eno"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 29, 2008, 10:03:18\u202FPM",
+      "Body": "Kushiel wrote:\n> (Side note: choosing Flames of Insurrection to template the text for\n> my fabricated card made me realize for the first time that Flames of\n> Insurrection has no \"Put this card into play\" text. Errata,\n> presumably?)\n\nSure. Unique. Call a referendum to burn. Must be in play. I'll correct the\nofficial text.\n\n> Or to use a non-theoretical example (but one which I'm not sure is\n> totally analogous to the above one): I control Midget and Andre\n> Leroux. Midget bleeds successfully. May I both play Patterns in the\n> Chaos to look at my prey's hand and then use Andre's ability to reduce\n> the bleed by one?\n\nPatterns is played after resolving the bleed.\nAndre (and Spying Mission) are played before."
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 29, 2008, 10:20:34\u202FPM",
+      "Body": "On Dec 29, 4:03 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Patterns is played after resolving the bleed.\n> Andre (and Spying Mission) are played before.\n\nSo \"When a vampire you control successfully bleeds...\" (Andre's text)\nand \"Only usable when a bleed would be successful...\" (Spying\nMission's text) are synonymous, but \"Only usable when a bleed is\nsuccessful...\" (Patterns' text) isn't? It looks to me like Spying\nMission is the outlier of the three, given that it has the \"would be\"\nverb conjugation that the other two lack.\n\nSorry to be a pain in the neck, but I'm trying to figure out the\nreasoning behind this.\n\nJohn Eno"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 29, 2008, 10:23:36\u202FPM",
+      "Body": "Also, you didn't actually answer my first question: :)\n\nIf a theroetical card in play could be tapped for two different\nabilities, both of which used the same trigger event, could both\nabilities be used in conjunction with House of Sorrow?\n\neg:\nFlames of Tension\nMaster. Put this card into play. Tap this card when a minion\ncontrolled by your prey leaves the ready region to cause your prey to\nburn one pool. Tap this card when a minion controlled by your prey\nleaves the ready region to gain one pool.\n\nIf this card existed, and I had both it and House of Sorrow in play\nuntapped, and torporized one of my prey's vampires, could I both gain\n\na pool and cause my prey to burn a pool? I assume that I could, since\n\nI\nthink that the two different effects count as different \"triggered\nabilities.\"\n\nJohn Eno"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 29, 2008, 10:26:13\u202FPM",
+      "Body": "\uE5D3\n\nThe effect of modifying the bleed amount is necessarily applied before resolving\nthe bleed."
+    },
+    {
+      "Author": "Pullen",
+      "Date": "Dec 29, 2008, 11:47:56\u202FPM",
+      "Body": "On Dec 29, 1:42 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n\uE5D3\n\nSo does that mean I can't tap a Corporal Reservoir to prevent a damage\nthen tap House of Sorrow to untap it and prevent another point of\ndamage?"
+    },
+    {
+      "Author": "Pullen",
+      "Date": "Dec 29, 2008, 11:52:11\u202FPM",
+      "Body": "\uE5D3\n\nAlso does Corporal Reservoir untap text get around House of Sorrow's\ndoes not untap text.\n\nCorporal Reservoir\nType: Master\nMaster: trifle.\nPut this card on any Black Hand vampire. This vampire may tap this\ncard to prevent 1 point of damage in combat or to gain a blood. This\ncard doesn't untap as normal. This vampire may burn a blood to untap\nthis card during his or her untap phase.\n\nHouse of Sorrow\nType: Master\nCost: 1 pool\nMaster: unique location.\nTap to untap any card you control that is not a minion. If you do so,\nneither that card nor this location untap as normal on your next untap\nphase.\n\nThank you."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 30, 2008, 12:34:10\u202FAM",
+      "Body": "\uE5D3\n\nNo, it doesn't, since the key bit (re: trigger) doesn't apply.\n\n> Also does Corporal Reservoir untap text get around House of Sorrow's\n> does not untap text.\n\nYeah. Card text.\n\n\uE5D3"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 2, 2009, 3:49:00\u202FAM",
+      "Body": "On Dec 29 2008, 3:26 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Kushiel wrote:\n> > On Dec 29, 4:03 pm, LSJ <vtes...@white-wolf.com> wrote:\n> >> Patterns is played after resolving the bleed.\n\n> >>Andre(andSpyingMission) are played before.\n\n>\n> > So \"When a vampire you control successfully bleeds...\" (Andre'stext)\n> > and \"Only usable when a bleed would be successful...\" (Spying\n\n> >Mission'stext) are synonymous, but \"Only usable when a bleed is\n\n> > successful...\" (Patterns' text) isn't? It looks to me likeSpying\n\n> >Missionis the outlier of the three, given that it has the \"would be\"\n\n> > verb conjugation that the other two lack.\n>\n> > Sorry to be a pain in the neck, but I'm trying to figure out the\n> > reasoning behind this.\n>\n> The effect of modifying the bleed amount is necessarily applied before resolving\n> the bleed.\n>\n\nAnd one last thing to be sure... If Lubomira bleeds a methuselah with\na ready titled vampire, and Andre reduces her bleed to 0, she still\nuntaps as normal next turn, right (aside from any other effects).\nLubo's text says: \"If Lubomira successfully bleeds a Methuselah who\ncontrols a ready titled vampire, she does not untap as normal during\nher next untap phase.\" And technically, Andre's text says \"when a\nvampire you control successfully bleeds.\" So, I could see if Lubo\nwould stay tapped since Andre's ability triggers off a successful\nbleed, and Lubo's detriment triggers off a successful bleed. However,\nif that was true, then I would argue that you should also get the edge\nbefore Andre reduces the bleed.\n\nHowever, as you say above, \"the effect of modifying the bleed amount\nis necessarily applied before resolving the bleed,\" which would\nindicate that technically Andre's ability is used just before the\nbleed is actually successful (just like Spying Mission's \"when a bleed\nwould be successful\"), and thus nothing that triggers on a successful\nbleed would happen if Andre makes it unsuccessful before it is fully\nresolved... Right?"
+    },
+    {
+      "Author": "zora...@gmail.com",
+      "Date": "Jan 2, 2009, 12:21:17\u202FPM",
+      "Body": "\uE5D3\n\nI think that, especially after this discussion, such a future card\nwould read\n\n\"Tap this card when a minion controlled by your prey leaves the ready\n\nregion. Either your prey burns one pool or you gain one pool (your\nchoice).\"\n\nor someting similar, to make it a single triggered effect.\n\nFWIW, I find the idea of 'cards can only trigger once per trigger-\neffect, regardless of untapping or window-length' to be a lot more\nintuitive than otherwise. It's one of the reasons I hated the MtG\nstack rules after 6th Ed so much.\n\n- Teeka"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 2, 2009, 1:19:28\u202FPM",
+      "Body": "Chris Berger wrote:\n> And one last thing to be sure... If Lubomira bleeds a methuselah with\n> a ready titled vampire, and Andre reduces her bleed to 0, she still\n> untaps as normal next turn, right (aside from any other effects).\n> Lubo's text says: \"If Lubomira successfully bleeds a Methuselah who\n> controls a ready titled vampire, she does not untap as normal during\n> her next untap phase.\"\n\nYes."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ThreadId": "U2ay8WCEfxc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/U2ay8WCEfxc",
+  "Title": "Rules Outline and S:CE/Press",
+  "Messages": [
+    {
+      "Author": "Brian Wellington",
+      "Date": "Dec 1, 1997, 9:00:00\u202FAM",
+      "Body": "In a tournamnent I was playing in last weekend, several people were\nusing LSJ's rules outline as the official rules. One of the rules\nseemed very strange and incorrect. Here are the relevant sections\nof the rules outline:\n\nV.D.2.a.i.:\nStrike: Combat Ends. (8.3) (Go to step F)\n\nV.F.:\nF. Round Ends. (21) [15.1]\n1. Apply any end-of-round effects.\n2. If the last Press was used to continue Combat, then Combat continues\n(Go back to step A).\n\nBasically, this can be interpreted as saying that after a S:CE has\nbeen played, all outstanding presses to continue are used to continue\ncombat. So, Trap and Frenzy, which both have automatic presses to\ncontinue, would cancel a S:CE. I have never heard this before, and\ndon't think it's correct, but it seems to follow from the Rules\nOutline. Perhaps V.F.2. should be reworded as the following to avoid\nconfusion:\n\n2. If the last Press was used to continue Combat, and Combat has not ended,\nthen Combat continues (Go back to step A).\n\nIf I'm wrong (that is, this alternative is correct, please let me know).\n\nBrian"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 2, 1997, 9:00:00\u202FAM",
+      "Body": "Brian Wellington wrote:\n>\n> In a tournamnent I was playing in last weekend, several people were\n> using LSJ's rules outline as the official rules. One of the rules\n> seemed very strange and incorrect. Here are the relevant sections\n> of the rules outline:\n>\n> V.D.2.a.i.:\n> Strike: Combat Ends. (8.3) (Go to step F)\n>\n> V.F.:\n> F. Round Ends. (21) [15.1]\n> 1. Apply any end-of-round effects.\n> 2. If the last Press was used to continue Combat, then Combat continues\n> (Go back to step A).\n>\n> Basically, this can be interpreted as saying that after a S:CE has\n> been played, all outstanding presses to continue are used to continue\n> combat.\n\nThere are no outstanding presses. Presses are only made during the\npress step, which happens before V.F. Since no presses have been\nmade, the last one was not a press to continue.\n\n> 2. If the last Press was used to continue Combat, and Combat has not ended,\n> then Combat continues (Go back to step A).\n\nAgain, knowing that a press will be made (in the case of Trap) is not\nthe same as having that press played. The Trap's press was never used,\nsince the press step was skipped.\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    }
+  ]
+}

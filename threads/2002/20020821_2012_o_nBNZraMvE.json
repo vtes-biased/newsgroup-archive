@@ -1,0 +1,22 @@
+{
+  "ThreadId": "o_nBNZraMvE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/o_nBNZraMvE",
+  "Title": "Question about new Concealed Weapon",
+  "Messages": [
+    {
+      "Author": "Geemarcus",
+      "Date": "Aug 21, 2002, 8:12:59\u202FPM",
+      "Body": "The new concealed weapon says that the weapon equipped cannot \"inflict\n... more than 3 damage\"\n\nWhen a weapon adds to strength damage, what is the actual damage of\nthe weapon considered to be, the total inflicted, or only what the\nweapon adds? In other words, while most minions could use concealed\nweapon to equip Bang Nakh, because they would inflict 3 damage per\nstrike, could Miller, since he would inflict 4 total, but only two is\nactually added by the weapon?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 21, 2002, 8:19:03\u202FPM",
+      "Body": "Geemarcus wrote:\n>\n> The new concealed weapon says that the weapon equipped cannot \"inflict\n> ... more than 3 damage\"\n\nThe part you skipped over sheds some illumination on the subject:\n\"inflict (with a regular strike) ... more than 3 damage.\"\n\n> When a weapon adds to strength damage, what is the actual damage of\n> the weapon considered to be, the total inflicted, or only what the\n> weapon adds? In other words, while most minions could use concealed\n> weapon to equip Bang Nakh, because they would inflict 3 damage per\n> strike, could Miller, since he would inflict 4 total, but only two is\n> actually added by the weapon?\n\nA \"regular strike\" is unmodified, so would use the default strength\nvalue (of 1) for determining how much damage is done.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Aug 21, 2002, 10:02:50\u202FPM",
+      "Body": ">When a weapon adds to strength damage, what is the actual damage of\n>the weapon considered to be, the total inflicted, or only what the\n>weapon adds? In other words, while most minions could use concealed\n>weapon to equip Bang Nakh, because they would inflict 3 damage per\n>strike, could Miller, since he would inflict 4 total, but only two is\n>actually added by the weapon?\n\nWith the old version, Miller could not conceal a Bang Nakh (since as you\npointed out, he would do 4 damage with it). But the new Camarilla Edition uses\nthe term \"regular strike\" which would allow Miller to conceal it now (since it\nonly does 3 damage with a normal strike when used with a default 1 strength).\nNote that Illegal Search and Seizure has also been modified to use the \"regular\nstrike\" terminology, leaving Machine Blitz the only card left with the old\nstrike usage.\n\nHalcyan 2"
+    }
+  ]
+}

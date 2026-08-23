@@ -1,0 +1,42 @@
+{
+  "ThreadId": "YfmZ1Y4fhZY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/YfmZ1Y4fhZY",
+  "Title": "2008 Tournament Reporting",
+  "Messages": [
+    {
+      "Author": "jcrossn...@gmail.com",
+      "Date": "Jun 10, 2008, 2:17:58\u202FAM",
+      "Body": "I'm noticing on my own record and that of other players that finalists\nare continuing to incorrectly receive rankings of 3-5, when all non-\nwinning finalists should place 2nd. As a prince, I always manually\nenter my tournament results on the White Wolf website, and they appear\ncorrectly. However, it seems that most others report by emailing in\nthe Archon, which still reports finalists in places 1-5 to the best of\nmy knowledge. Additionally, at least two North American Continental\nQualifiers this year have been mistakenly reported as National\nQualifiers.\n\nDoes Robin or anyone else at VEKN have new advice for princes on how\nto enter results? Are the existing discrepancies sealed, or is there\nsome chance they might be corrected?\n\nJesse\nPrince of Northampton, MA"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 10, 2008, 2:24:42\u202FAM",
+      "Body": "\uE5D3\n\nSubmitting via Archon is fine -- the placements calculated by the Archon are not\nthe final word -- the program calculates the appropriate placements and ratings\npoints."
+    },
+    {
+      "Author": "jcrossn...@gmail.com",
+      "Date": "Jun 10, 2008, 2:46:50\u202FAM",
+      "Body": "LSJ wrote:\n> Submitting via Archon is fine -- the placements calculated by the Archon are not\n> the final word -- the program calculates the appropriate placements and ratings\n> points.\n\nEvidently it does so incorrectly however. Is there any plan to fix\nwhatever point in the process is generating the errors? Until the\nreporting database is brought into line with current tournament rules,\ndoes it not make sense to encourage princes to manually report their\nresults? It seems to me that the manual reporting system on the\nwebsite is faster and more accurate than sending in the Archon, and\nI'd imagine it creates less work for Robin. Am I off base in\nsuggesting that more people use it?\n\nJesse"
+    },
+    {
+      "Author": "Matthew T. Morgan",
+      "Date": "Jun 10, 2008, 3:35:51\u202FAM",
+      "Body": "On Mon, 9 Jun 2008, jcrossn...@gmail.com wrote:\n\n> Evidently it does so incorrectly however. Is there any plan to fix\n> whatever point in the process is generating the errors? Until the\n> reporting database is brought into line with current tournament rules,\n> does it not make sense to encourage princes to manually report their\n> results? It seems to me that the manual reporting system on the\n> website is faster and more accurate than sending in the Archon, and\n> I'd imagine it creates less work for Robin. Am I off base in\n> suggesting that more people use it?\n\nIn case anybody is interested, I wrote a tool a while back that will\ncalculate the number of rating points one should receive for tournament\nperformance. I've just updated so the same number of points will be\nreceived for placing 2nd-5th.\n\nhttp://www.io.com/~farquar/ratingscalc.htm\n\nIgnore the player name field (or don't, if you prefer). It doesn't do\nanything. I had originally planned to make this thing handle entire\ntournaments, but there didn't seem to be a need for such a tool. If it\nwould be useful, I could expand the functionality.\n\nThe two qualifiers Jesse referred to earlier in this thread that were\nentered as National Qualifiers instead of Continental Qualifiers were the\nMexico qualifier and the New York one. While it's a bit of a bummer that\nI'm receiving 46 fewer rating points than I should (see how great the tool\nis!), the real shame would be if the players who should have qualified\ndidn't end up on the qualifier list. I hope that can be fixed at least.\n\nMatt Morgan"
+    },
+    {
+      "Author": "jcrossn...@gmail.com",
+      "Date": "Jun 10, 2008, 4:42:46\u202FAM",
+      "Body": "Matt wrote:\n> In case anybody is interested, I wrote a tool a while back that will\n> calculate the number of rating points one should receive for tournament\n> performance. I've just updated so the same number of points will be\n> received for placing 2nd-5th.\n>\n> http://www.io.com/~farquar/ratingscalc.htm\n\nInteresting. On further research, it looks as though the rating points\nare being correctly calculated despite the fact that rankings are\nlisted incorrectly. That's confusing, but at least it's better than it\nfirst appeared."
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 10, 2008, 10:15:11\u202FPM",
+      "Body": "In article\n<ad2ccbf3-fbf7-4cb8...@l42g2000hsc.googlegroups.com>,\njcrossn...@gmail.com wrote:\n\n> Interesting. On further research, it looks as though the rating points\n> are being correctly calculated despite the fact that rankings are\n> listed incorrectly. That's confusing, but at least it's better than it\n> first appeared.\n\nIt looks right to me--I just checked me and Dave, and we are both listed\nas having come in 3rd, which is exactly what happened in the previous\ntournament I ran and reported; everyone who did not win was listed in\nthe registry as being in 3rd. I think it is 'cause while everyone who\ndoesn't win comes in second, the way the points work out, if everyone is\nreported as being in 3rd, they get the right amount of rating points\n(i.e. the average rating point score of 2, 3, 4, and 5th place equals\nthe numbeer of points you get for being 3rd). So while they haven't\nactually fixed the rating program to reflect everyone getting the right\nnumber of points for coming in second, the back door around that is just\nmaking everyone third.\n\nPeter D Bakija\npd...@lightlink.com\nhttp://www.lightlink.com/pdb6/vtes.html\n\n\"It's too bad she won't live! But then again, who does?\"\n-Gaff"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Jun 10, 2008, 10:16:39\u202FPM",
+      "Body": "In article\n<ad2ccbf3-fbf7-4cb8...@l42g2000hsc.googlegroups.com>,\njcrossn...@gmail.com wrote:\n\n> Interesting. On further research, it looks as though the rating points\n> are being correctly calculated despite the fact that rankings are\n> listed incorrectly. That's confusing, but at least it's better than it\n> first appeared.\n\nOn further inspection, Jesse and Cory are both also listed as coming in\n3rd. So everything looks to be in order for the NYC qualifier.\n\n\uE5D3"
+    }
+  ]
+}

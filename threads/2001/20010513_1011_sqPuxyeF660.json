@@ -1,0 +1,17 @@
+{
+  "ThreadId": "sqPuxyeF660",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/sqPuxyeF660",
+  "Title": "Negative strength?",
+  "Messages": [
+    {
+      "Author": "Steven Wedd",
+      "Date": "May 13, 2001, 10:11:24\u202FAM",
+      "Body": "Just a quick question - can a minion's strength be considered negative when\ncalculating damage?\n\nLongwinded example:\n\nAgrippina is equipped with a bastard sword, but afflicted with Nosferatu\nPutresence. Bear Paw attacks her, and range is close.\nBefore range is determined, Bear Paw uses a Song of Serenity.\n\nDoes Agrippina now strike for :\n1) 1 (Base)\n-1 => 0 (Putresence)\n-1 => -1 (Song of Serenity)\n+1 => 0 (Bastard Sword)\n\nor\n\n2) 1 (Base)\n-1 => 0 (Putresence)\n-1 => -1 (Song of Serenity)\n=> 0 (Since strength cannot go Negative)\n+1 => 1 (Bastard Sword)\n\nNote that if case (1) were true and Agrippina elected not to strike with her\nBastard Sword, she would be doing negative damage. I realise it is impossible\nto 'heal' damage like this, but the question is if this damage is 'reset' to\nzero before the effects of equipment are applied.\n\nIf (2) _is_ correct and Agrippina were to strike with an Undead Strength\n(Strike: Strength +1 Damage), then would she do 1 Damage (ie. the +1 Strength\nis applied before the 'zero reset') or 2 Damage (ie. the +1 Strength is\napplied after the 'zero reset').\n\nPersonally I hope that (1) is correct, but thought I'd better check...\n\nThanks.\n\n--\nSteve Wedd. mailto:ne...@camtech.net.au.yay.more.spam\n\"I have never understood why it should be necessary to become irrational in\norder to prove that you care. Or indeed why it should be necessary to prove it,\nat all.\" - Avon, Blake's 7"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 13, 2001, 2:29:20\u202FPM",
+      "Body": "Steven Wedd wrote:\n>\n> Just a quick question - can a minion's strength be considered negative when\n> calculating damage?\n\nA minion's strength can *be* negative, yes.\nNegative damage is treated as zero.\n\n> Longwinded example:\n>\n> Agrippina is equipped with a bastard sword, but afflicted with Nosferatu\n> Putresence. Bear Paw attacks her, and range is close.\n> Before range is determined, Bear Paw uses a Song of Serenity.\n>\n> Does Agrippina now strike for :\n> 1) 1 (Base)\n> -1 => 0 (Putresence)\n> -1 => -1 (Song of Serenity)\n> +1 => 0 (Bastard Sword)\n\n> [snip (2)]\n\n> Note that if case (1) were true and Agrippina elected not to strike with her\n> Bastard Sword, she would be doing negative damage. I realise it is impossible\n> to 'heal' damage like this, but the question is if this damage is 'reset' to\n> zero before the effects of equipment are applied.\n\n(1) is correct.\nNothing is reset.\n\n> Personally I hope that (1) is correct, but thought I'd better check...\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

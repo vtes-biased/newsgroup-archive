@@ -1,0 +1,32 @@
+{
+  "ThreadId": "wTeGnWApVZ0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wTeGnWApVZ0",
+  "Title": "Some basic doubts about blocking",
+  "Messages": [
+    {
+      "Author": "Athenethor",
+      "Date": "Jun 18, 2001, 2:05:15\u202FPM",
+      "Body": "Since i start playing Jyhad ... (A long time ago, in a galaxy far far away....)\nI allways seen two different ways of perform and resolve a Block.\n- Only one minion can attempt to block, and if that minion could not block, the\naction is succesful. I.e. a bleeding minion A (0 stealth)and a blocking minion B\n(0 intercept). With this stats, the minion B is declared as Blocker, but minion\nA play some stealth, and the minion B could not play intercept, so the action is\nsuccesfull.\n\n- Any number of minions could try a block. I.e. a bleeding minion A (0\nstealth), a blocking minion B (0 intercept) and another blocking minion C with a\nraven spy (1 int.). With this stats. minion B is assignmed as blocker, but the\nminion A plays a +1 stealth. As none of the blocking minion could increase his\nintercept, the minion B blocking Fails, but as minion C is ready, C is declared\nas new blocker\n\nWich one of those ways is teh correct one??\nThnaks"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jun 18, 2001, 2:36:03\u202FPM",
+      "Body": "In message <%7mX6.12809$pb1.4...@www.newsranger.com>, Athenethor\n<nos...@newsranger.com> writes\n\n>- Any number of minions could try a block. I.e. a bleeding minion A (0\n>stealth), a blocking minion B (0 intercept) and another blocking minion C with a\n>raven spy (1 int.). With this stats. minion B is assignmed as blocker, but the\n>minion A plays a +1 stealth. As none of the blocking minion could increase his\n>intercept, the minion B blocking Fails, but as minion C is ready, C is declared\n>as new blocker\n\nThis is the correct way.\n\nRemember, of course, that just because a new blocker turns up, A doesn't\nreset his stealth.\n\nA still has the +1 stealth he played against B, because that applies to\nthe entire action.\n\n--\nJames Coupe PGP Key: 0x5D623D5D\n\"You reinstall Dial-Up Networking. The Elf screams and becomes EBD690ECD7A1F\nan icon. *** CONGRATULATIONS! *** You completed the BT Internet B457CA213D7E6\nHelpdesk training course in 15 out of a possible 9000 moves.\" 68C3695D623D5D"
+    },
+    {
+      "Author": "Athenethor",
+      "Date": "Jun 18, 2001, 3:21:15\u202FPM",
+      "Body": "In article <LSfSJADz...@gratiano.zephyr.org.uk>, James Coupe says...\n\n>\n>In message <%7mX6.12809$pb1.4...@www.newsranger.com>, Athenethor\n><nos...@newsranger.com> writes\n>>- Any number of minions could try a block. I.e. a bleeding minion A (0\n>>stealth), a blocking minion B (0 intercept) and another blocking minion C with a\n>>raven spy (1 int.). With this stats. minion B is assignmed as blocker, but the\n>>minion A plays a +1 stealth. As none of the blocking minion could increase his\n>>intercept, the minion B blocking Fails, but as minion C is ready, C is declared\n>>as new blocker\n>\n>This is the correct way.\n>\n>Remember, of course, that just because a new blocker turns up, A doesn't\n>reset his stealth.\n>\n>A still has the +1 stealth he played against B, because that applies to\n>the entire action.\n>\n\nFirst, thanks for the answer, and now, another question:\nI think that the same could be applied to cards like Form of Mist, Elder\nImpersonation ... this card re-open the blocker assignment stage (Form of mist\ntype) or remove one blocker from the ready list (Elder Imp. type)\nIs this correct??\n\nAthenethor"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 18, 2001, 5:06:56\u202FPM",
+      "Body": "\uE5D3\n\nThe latter. [6.2.2.1]\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 18, 2001, 5:08:21\u202FPM",
+      "Body": "Athenethor wrote:\n> I think that the same could be applied to cards like Form of Mist, Elder\n> Impersonation ... this card re-open the blocker assignment stage (Form of mist\n> type) or remove one blocker from the ready list (Elder Imp. type)\n> Is this correct??\n\nYes.\n\n\uE5D3"
+    }
+  ]
+}

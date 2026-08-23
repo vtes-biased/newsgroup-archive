@@ -1,0 +1,22 @@
+{
+  "ThreadId": "Jp3Ck1tHdNU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Jp3Ck1tHdNU",
+  "Title": "Action Modifiers in and around combat",
+  "Messages": [
+    {
+      "Author": "ira...@gmail.com",
+      "Date": "Feb 17, 2008, 12:08:20\u202FAM",
+      "Body": "Hello LSJ,\n\nPer the rulebook, only combat cards can be played in combat. Action\nModifiers like Inspire Greatness can be played while other minions are\nin combat, since the modifying minion isn't in combat.\n\nHere's a specific example that I'm not sure about:\nVamp A with a Soul Gem and 2 blood is bleeding.\nMinion B blocks.\n\nIn the resulting combat, Minion B strikes for 2 damage, which would\nleave Vamp A with zero blood. Vamp A's controller would rather have\nVamp A burn, and would therefore like to play Daring the Dawn at basic\nafter combat, and before the action resolves. Is that legal?\n\nIf Minion B strikes for 3 damage, and Vamp A is going to torpor, does\nVamp A still have time to play an Action Modifier?\n\nI think the answer to both questions is Yes, since Freak Drive can be\nplayed after combat, and it's an Action Modifier.\n\nThanks,\nIra"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 17, 2008, 2:39:29\u202FAM",
+      "Body": "ira...@gmail.com wrote:\n> Hello LSJ,\n>\n> Per the rulebook, only combat cards can be played in combat.\n\nTrue.\n\n> Action\n> Modifiers like Inspire Greatness can be played while other minions are\n> in combat, since the modifying minion isn't in combat.\n\nNot true. The prohibition against non-combat minion cards being played in combat\noffers no exceptions for non-combatants.\n\nInspire Greatness cannot be played during combat, since it is a minion card but\nnot a combat card.\n\n> Here's a specific example that I'm not sure about:\n> Vamp A with a Soul Gem and 2 blood is bleeding.\n> Minion B blocks.\n>\n> In the resulting combat, Minion B strikes for 2 damage, which would\n> leave Vamp A with zero blood. Vamp A's controller would rather have\n> Vamp A burn, and would therefore like to play Daring the Dawn at basic\n> after combat, and before the action resolves. Is that legal?\n\nThis is unrelated to the question of action modifiers during combat, but no:\n\n1) The block combat *is* action resolution (it does not precede resolution).\n2) action modifiers cannot be played after resolution, in general.\n\n> If Minion B strikes for 3 damage, and Vamp A is going to torpor, does\n> Vamp A still have time to play an Action Modifier?\n\nYes, if the action modifier is one that can be played after resolution.\n\nDaring the Dawn is not such an action modifier.\n\n> I think the answer to both questions is Yes, since Freak Drive can be\n> played after combat, and it's an Action Modifier.\n\nFreak Drive is, indeed, such a modifier."
+    },
+    {
+      "Author": "ira...@gmail.com",
+      "Date": "Feb 18, 2008, 10:01:33\u202FAM",
+      "Body": "On Feb 16, 5:39 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n> ira...@gmail.com wrote:\n> Not true. The prohibition against non-combat minion cards being played in combat\n> offers no exceptions for non-combatants.\n>\n> Inspire Greatness cannot be played during combat, since it is a minion card but\n> not a combat card.\n\nOK, thanks for the correction. For some reason I thought I could play\nMask of 1000 Faces to take over a combat, because I remembered some\ndiscussion about Mateusz taking over for Lazvernius.\n\nHaving just searched for that, I realize now that it was in the\ncontext of a vamp getting blocked, playing Form of Mist to continue,\n*then* Mask of 1000 Faces. So the Mask was still not in combat, and\nthe combat mattered for purposes of the Mask.\n\nMask of 1000 Faces is probably the most complicated card I know.\n\n> > In the resulting combat, Minion B strikes for 2 damage, which would\n> > leave Vamp A with zero blood. Vamp A's controller would rather have\n> > Vamp A burn, and would therefore like to play Daring the Dawn at basic\n> > after combat, and before the action resolves. Is that legal?\n>\n> This is unrelated to the question of action modifiers during combat, but no:\n>\n> 1) The block combat *is* action resolution (it does not precede resolution).\n> 2) action modifiers cannot be played after resolution, in general.\n\nOK, thanks for the clarification.\n\nIra"
+    }
+  ]
+}

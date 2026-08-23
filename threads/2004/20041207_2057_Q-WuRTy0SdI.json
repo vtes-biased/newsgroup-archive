@@ -1,0 +1,22 @@
+{
+  "ThreadId": "Q-WuRTy0SdI",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Q-WuRTy0SdI",
+  "Title": "Errata and Rulings updated",
+  "Messages": [
+    {
+      "Author": "LSJ",
+      "Date": "Dec 7, 2004, 8:57:48\u202FPM",
+      "Body": "http://www-white-wolf.com/vtes -> What Is VTES -> Errata and Rulings\n\nis updated.\n\nThe Google links link to google-beta, which only links the thread\nnot the exact article (hopefully they'll fix that), but there it\nis anyhow.\n\nThere seem to be some posts missing between August and October, so\nI may have overlooked some of the new rulings made therein. I'll\ngo back and review those dates when Google has them online.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nV:TES homepage: http://www.white-wolf.com/vtes/\nThough effective, appear to be ineffective -- Sun Tzu"
+    },
+    {
+      "Author": "Charles Lechasseur",
+      "Date": "Dec 8, 2004, 12:40:47\u202FPM",
+      "Body": "In article <31mg5tF...@individual.net>, \"LSJ\"\n<vte...@white-wolf.com> wrote:\n\n>The Google links link to google-beta, which only links the thread\n>not the exact article (hopefully they'll fix that), but there it\n>is anyhow.\n\nIt's still possible to link to a single post through groups-beta, though.\nScroll to the post in the thread, click \"Show options\" and select \"Show\noriginal\". If I do this for the first ruling I see on the Errata page, I\nget:\n\nhttp://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/b176845a5229fc61?dmode=source\n\nYou can also select \"View parsed\" after that (or simply remove the\n\"?dmode=source\" from the URL) and end up with an URL such as this one,\nlinking to the single post:\n\nhttp://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/b176845a5229fc61\n\n--\ncharles lechasseur - da...@novideospamtron.ca"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 8, 2004, 1:03:47\u202FPM",
+      "Body": "Charles Lechasseur wrote:\n> It's still possible to link to a single post through groups-beta, though.\n> Scroll to the post in the thread, click \"Show options\" and select \"Show\n> original\". If I do this for the first ruling I see on the Errata page, I\n> get:\n>\n> http://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/b176845a5229fc61?dmode=source\n\n> You can also select \"View parsed\" after that (or simply remove the\n> \"?dmode=source\" from the URL) and end up with an URL such as this one,\n> linking to the single post:\n>\n> http://groups-beta.google.com/group/rec.games.trading-cards.jyhad/msg/b176845a5229fc61\n\nIt isn't possible to create that link from the MID, though, which\nis what the errata source document has.\n\nIf anyone has the time to create a map table mapping MID to\nGoogle-beta article numbers, I'll be happy to incorporate that.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\n\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

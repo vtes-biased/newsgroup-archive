@@ -1,0 +1,32 @@
+{
+  "ThreadId": "me5yAOEEXwY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/me5yAOEEXwY",
+  "Title": "Changing Control of a Minion During and Action",
+  "Messages": [
+    {
+      "Author": "tbe...@gmail.com",
+      "Date": "Dec 16, 2008, 2:19:06\u202FAM",
+      "Body": "If I take control of a minion during an action, say a Tempted vampire\nacting on my minion phase via Enkil Cog/MN/Ankou's special, and the\naction is still legal will the action continue? Due to the combat via\nTaunt the Caged Beast between 2 other minions on your turn and you\ntake control of one and the combat continues, I would say that applies\nto this question and the answer would be yes. Scenario is: Arika, with\none blood and a Temptation with zero counters, Govern bleeds me via EC\non my turn. Count Ormonde Wakes and Deflects. Arika plays Conditioning\nto make the action fizzle. I burn the Tempt counters to untap and take\ncontrol of her and then use The Coven to give her enough blood to\ncomplete the action. Cool?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 16, 2008, 2:43:28\u202FAM",
+      "Body": "tbe...@gmail.com wrote:\n> If I take control of a minion during an action, say a Tempted vampire\n> acting on my minion phase via Enkil Cog/MN/Ankou's special, and the\n> action is still legal will the action continue?\n\nNo.\n\nThe action ends (fizzles) prior to resolution if acting minion becomes unreadied\n(burned, torpored, incapacitated, whatever) or changes controllers.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/68d8797cc8d29772"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Dec 16, 2008, 4:30:48\u202FPM",
+      "Body": "On 16 déc, 02:43, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/68d8...\n\nHello,\n\nHere's today's tricky situation : Meth1 bleeds Meth2 bleeds Meth3\nbleeds Meth4 bleeds Meth5.\nA malkavian (controlled by Meth3) is using the Madness Network to call\na referendum to burn an Anarch Revolt during Meth1's turn. (just to\nsay he's not bleeding his prey nor playing a card from hand).\n\na) The Malkavian is stolen via a Temptation played by Meth1.\nCan a vampire of Meth1 play Mask of a Thousand Faces before the action\nwould fizzle ?\n\nb) the Malkavian is stolen via a Temptation played by Meth2.\nCan an untapped ready Malkavian controlled by Meth2 play Mask of a\nThousand Faces before the action would fizzle ?\n\nc) the Malkavian is stolen via a Temptation played by Meth4.\nCan an untapped ready Malkavian controlled by Meth4 play a Mask of a\nThousand Faces before the action would fizzle ?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 16, 2008, 4:35:05\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> On 16 déc, 02:43, LSJ <vtes...@white-wolf.com> wrote:\n>> tbel...@gmail.com wrote:\n>>> If I take control of a minion during an action, say a Tempted vampire\n>>> acting on my minion phase via Enkil Cog/MN/Ankou's special, and the\n>>> action is still legal will the action continue?\n>> No.\n>>\n>> The action ends (fizzles) prior to resolution if acting minion becomes unreadied\n>> (burned, torpored, incapacitated, whatever) or changes controllers.\n>>\n>> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/68d8...\n>\n> Hello,\n>\n> Here's today's tricky situation : Meth1 bleeds Meth2 bleeds Meth3\n> bleeds Meth4 bleeds Meth5.\n\nCommon names are A, B, C, D, and E.\n\n> A malkavian (controlled by Meth3) is using the Madness Network to call\n> a referendum to burn an Anarch Revolt during Meth1's turn. (just to\n> say he's not bleeding his prey nor playing a card from hand).\n>\n> a) The Malkavian is stolen via a Temptation played by Meth1.\n> Can a vampire of Meth1 play Mask of a Thousand Faces before the action\n> would fizzle ?\n\nNo.\n\n> b) the Malkavian is stolen via a Temptation played by Meth2.\n> Can an untapped ready Malkavian controlled by Meth2 play Mask of a\n> Thousand Faces before the action would fizzle ?\n\nNo.\n\n> c) the Malkavian is stolen via a Temptation played by Meth4.\n> Can an untapped ready Malkavian controlled by Meth4 play a Mask of a\n> Thousand Faces before the action would fizzle ?\n\nNo."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Dec 16, 2008, 4:38:52\u202FPM",
+      "Body": "\uE5D3\n\nNo to all - when the control changes, the action fizzles and ends\nimmediately - nobody else's minion can take it over\n\nMore specifically, none of the other Methuselahs can Mask to it\nbecause it's not their turn to act - Meth 3 has priority for declaring\nactions. (When the action ends, it'll revert back to Meth1 to have the\nopportunity to declare the next action, but only after the current\naction ends which would be well after any chance to play Mask.)\n\nThus since none of the others can legally act, their minions can't\ntake over the action Meth3 declared.\n\n-John Flournoy"
+    }
+  ]
+}

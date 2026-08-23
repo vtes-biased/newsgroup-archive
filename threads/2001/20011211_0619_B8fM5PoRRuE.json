@@ -1,0 +1,122 @@
+{
+  "ThreadId": "B8fM5PoRRuE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/B8fM5PoRRuE",
+  "Title": "New cards: Inferior/Superior Question",
+  "Messages": [
+    {
+      "Author": "Simidh",
+      "Date": "Dec 11, 2001, 6:19:16\u202FAM",
+      "Body": "Greetings,\n\nLooking to add the new Bloodlines cards into the\nSuccubus Ckub and am wondering how to handle the\nmulti-discipline cards. Whilst we have\ntraditionally called the levels Inferior and Superior\nfor the discipline levels of minion cards, may I ask\nwhat the official terms are going to be for the\nnew multidiscipline cards?\n\nIe\n\nIf we have\n\ninferior aus: text 1\ninferior mel: text 2\nsuperior mel: text 3\n\nI am guessing we label the 'inferior mel: text 2'\nlevel as Inferior, the 'superior mel: text 3' level\nas Superior, but what do we term the\n'inferior aus: text 1' level? Alternative?\nUlterior? :P\n\nI am probably going to need a field in the database for\nthis and would sort of like to get that included in some\nchanges I am writing into the system now, rather than\nlater.\n\nIf we could get a ruling on what the offical terms will\nbe for the third level, would be appreciated. >;->\n\nSimidh"
+    },
+    {
+      "Author": "Gomi no Sensei",
+      "Date": "Dec 11, 2001, 6:30:51\u202FAM",
+      "Body": "In article <458e9b1c.01121...@posting.google.com>,\nSimidh <sim...@succubusclub.net> wrote:\n\n>I am guessing we label the 'inferior mel: text 2'\n>level as Inferior, the 'superior mel: text 3' level\n>as Superior, but what do we term the\n>'inferior aus: text 1' level? Alternative?\n>Ulterior? :P\n\nEither Derek R or Peter B has been calling it 'inferior-out,' which\nseems descriptive and useful to me. For text cites, we've all been\nusing the [foo] [bar] <BAR> style, with variations (but lowercase for\ninferior and uppercase for superior seems pretty constant), and that\nseems to work.\n\ngomi\n--\nBlood, guts, guns, cuts\nKnives, lives, wives, nuns, sluts"
+    },
+    {
+      "Author": "Heikki Poso",
+      "Date": "Dec 11, 2001, 7:36:03\u202FAM",
+      "Body": "go...@panix.com (Gomi no Sensei) writes:\n\n> In article <458e9b1c.01121...@posting.google.com>,\n> Simidh <sim...@succubusclub.net> wrote:\n>\n> >I am guessing we label the 'inferior mel: text 2'\n> >level as Inferior, the 'superior mel: text 3' level\n> >as Superior, but what do we term the\n> >'inferior aus: text 1' level? Alternative?\n> >Ulterior? :P\n>\n> Either Derek R or Peter B has been calling it 'inferior-out,' which\n> seems descriptive and useful to me.\n\nOutferior? <g>\n\n--\nRegards,\nHeikki"
+    },
+    {
+      "Author": "GreySeer",
+      "Date": "Dec 11, 2001, 12:42:59\u202FPM",
+      "Body": "\"Heikki Poso\" <hp...@rock.helsinki.fi> wrote in message\nnews:ov7kruw...@rock.helsinki.fi...\n\uE5D3\n\nCrap? <g>\nSince most of the cards are pretty crap ( because there's a card that has a\nsimilar or the same effect for the same discipline either at a lower cost or\nwith fewer restrictions )"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Dec 11, 2001, 1:42:35\u202FPM",
+      "Body": "\"GreySeer\" <e...@i.think.not> wrote in message\nnews:u1bsbbn...@news.supernews.com...\n\n> > > Either Derek R or Peter B has been calling it 'inferior-out,' which\n> > > seems descriptive and useful to me.\n> >\n> > Outferior? <g>\n>\n> Crap? <g>\n> Since most of the cards are pretty crap ( because there's a card that has\na\n> similar or the same effect for the same discipline either at a lower cost\nor\n> with fewer restrictions )\n>\n\nCycle <text>\nbasic <text>\nextra <text> ?"
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Dec 11, 2001, 5:56:47\u202FPM",
+      "Body": "\"Reyda\" <re...@noos.fr> wrote:\n>\"GreySeer\" <e...@i.think.not> wrote in message\n\n>> > > Either Derek R or Peter B has been calling it 'inferior-out,' which\n>> > > seems descriptive and useful to me.\n>> > Outferior? <g>\n>> Crap? <g>\n\n>Cycle <text>\n>basic <text>\n>extra <text> ?\n\nSecondary ~\nFallback ~\nOff ~\nSub ~\nAlternate ~\n\n--\nL. Scott Johnson (sjoh...@math.sc.edu)\nhttp://www.math.sc.edu/~sjohnson"
+    },
+    {
+      "Author": "Gomi no Sensei",
+      "Date": "Dec 11, 2001, 7:35:28\u202FPM",
+      "Body": "In article <u1bsbbn...@news.supernews.com>,\nGreySeer <e...@i.think.not> wrote:\n\n>Since most of the cards are pretty crap ( because there's a card that has a\n>similar or the same effect for the same discipline either at a lower cost or\n>with fewer restrictions )\n\nActually, a number of the splits provide outferior levels with\neffects otherwise unavailable to that discipline. Absorb the Mind\nis the poster child here, but Infection's outferior is equal to Skin of\nSteel's superior, for an additional blood cost -- but available without\nsuperior Fortitude. This could be vaguely important for weenie-For decks\nwho want options at basic for.\n\nLapse's outferior is just like playing two Fists of Death, as far as\ninferior Pot is concerned, only BETTER since it's two cards instead of one.\n\nAnaesthetic Touch: Again, Auspex dodges were only available at superior\nbefore.\n\nAshes to Ashes: This outferior (instead of burning a vampire in combat,\nit goes to torpor instead) is huge, especially for an inferior level, and\nis entirely new for Fortitude (and, by the way, making burn-in-combat a\nwee bit harder makes diablerie a more prominent game element, which is nice).\n\nAura Absorption's outferior is pretty lame, but there's precedent (telepathic\nmisdirection) for an expensive inferior effect compensating for a good\nsuperior.\n\nBasilisk's Touch is pretty bad at outferior (2 blood for +1 strength), not\nto mention the younger/ally restriction. And the myt/MYT isn't all that either;\nstrong enough, I guess, but 2 blood PLUS the restriction seems a bit much.\n\nBlissful Agony gives animalism a nice Grapple option. Bond with the Mountain\nis arguably MORE useful at tha than at vis/VIS, given that Gargoyles will\nbe spending more time fighting than fleeing. Burning Touch is identical\nto Blood Fury at inferior, which is not super-impressive, but not actively\nworse than an existing effect. Chameleon's Colors gives ani a maneuver,\nalbeit an expensive one. Clio's Kiss is, like Thanks for the Donation, way\ntoo corner case at all levels. Clotho's Gift is pretty damn huge for any\nweenie obf deck, where getting things from crypt to uncontrolled is a big\ndeal -- I know I want about 12 of these, strictly for the outferior.\n\nCompress: Just like Decapitate's inferior.\nConcordance: Just like Cat Burglary. Good for weenie Ser.\nCondemnation: <foo>: Tapping a potential Deflector is all good.\nConflagration: Just like inferior Sacrament of Carnage.\nDarkling Trickery: Okay, this is the joke rare, like Twisting the Knife.\nBut the whole card blows, not just the outferior.\nDomain of Evernight: Just like 5 other Obfuscate cards.\n\nI don't think I'll go through all of them. But have a look; many of the\noutferiors (a majority, I think) are un-crappy.\n\n\uE5D3"
+    },
+    {
+      "Author": "Curevei",
+      "Date": "Dec 11, 2001, 7:58:35\u202FPM",
+      "Body": ">Fallback\n\nI vote for this - relatively distinctive."
+    },
+    {
+      "Author": "The Fanboy",
+      "Date": "Dec 11, 2001, 8:02:13\u202FPM",
+      "Body": "> Crap? <g>\n> Since most of the cards are pretty crap ( because there's a card that has a\n> similar or the same effect for the same discipline either at a lower cost or\n> with fewer restrictions )\n\nNot necessarily true. Granted, I'm basing this off the small number\nof cards I have...\n\nIt seems like the animalism inferior-out powers are things they don't\nquite have at basic Animalism. Sword of the Righteous is a new\neffect, and Falcon's Eye (transient intercept at ani!) are the two off\nthe top of my head.\n\nMany of the cards seem to be equivalent to other basic-discipline\neffects, except maybe without the maneuver, etc. Thanatosis seems to\nbe the exception, as their cards are by far the most expensive I've\nseen, and yes, their inferior-outs are generally too expensive for the\neffect (except Ashes to Ashes -- I LOVE that card!).\n\nFanboy"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Dec 11, 2001, 8:44:09\u202FPM",
+      "Body": ">Lapse's outferior is just like playing two Fists of Death, as far as\n>inferior Pot is concerned, only BETTER since it's two cards instead of one.\n\nIn most cases. But then again, a DI would counter all of lapse, while it would\nonly get one of the FoD. Also, if a card makes combat cards twice as much,\nLapse only costs 3 while 2 Fists of Death now cost 4. But if you have the\nAnkara Citadel, Lapse costs 2, while 2 Fists of Death cost 0.\n\n>Anaesthetic Touch: Again, Auspex dodges were only available at superior\n>before.\n\n'cept for Primal Instincts of course. Costed a blood, but I often included them\ninto Tremere decks b/c I needed a dodge and inferior (though now I can just use\nBond with the Mountain!).\n\nAlso, note that the Anesthetic Touch dodge won't do squat at long range.\n\n>Ashes to Ashes: This outferior (instead of burning a vampire in combat,\n>it goes to torpor instead) is huge, especially for an inferior level, and\n>is entirely new for Fortitude (and, by the way, making burn-in-combat a\n>wee bit harder makes diablerie a more prominent game element, which is nice).\n\nI agree. Weenie fortitude decks using Trp + Undead Persistence can now use\nAshes to Ashes in case the opponent packs any agg damage.\n\n>Basilisk's Touch is pretty bad at outferior (2 blood for +1 strength), not\n>to mention the younger/ally restriction. And the myt/MYT isn't all that\n>either;\n>strong enough, I guess, but 2 blood PLUS the restriction seems a bit much.\n\nIt's like a restricted Disarm. Can only use it against younger vampires, but\ndon't need to do more damage (one is just enough). Stutter-Step + Basilisk's\nTouch might make for an interesting combo. Also, Basilisk's Touch is excellent\nfor doing a killing poke to a Garou or War Ghoul. (But not to Rock Cats! That\nwouldn't be very nice!!! Meow?).\n\n>Blissful Agony gives animalism a nice Grapple option.\n\nBlissful Agony at superior is a bit scary. Sending an opposing minion to enter\ncombat with some of those Tzimisce or potence weenies could really ruin\nsomeone's day.\n\n>Bond with the Mountain\n>is arguably MORE useful at tha than at vis/VIS, given that Gargoyles will\n>be spending more time fighting than fleeing.\n\nDefinitely. The dodge will really help. Bond with the Mountain at VIS is pretty\ngood too. Imagine: Tremere does some action gets blocked (blocking minion\ntaps). Slave Gargoyle taps to untap Tremere and enters combat. Slave Gargoyle\nplays Bond at superior to untap. So now both of your guys are untapped and you\nmanaged to tap someone else.\n\n>Clio's Kiss is, like Thanks for the Donation, way\n>too corner case at all levels.\n\nClio's Kiss at TEM means that someone loses the contest period. Which is just\nlike flushing 2, 4, 8, or 11 pool down the drain...\n\n>Darkling Trickery: Okay, this is the joke rare, like Twisting the Knife.\n> But the whole card blows, not just the outferior.\n\nWhat's so bad about it? It's a conditional press for Obtenebration (in case\nthey can't S:CE out of combat). And it's the only source of manuevers or\npresses for Mytherceria. In fact, it's a press *or* a manuever at inferior, a\nflexibility that only Celerity and Protean usually have.\n\nHalcyan 2"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 11, 2001, 8:47:57\u202FPM",
+      "Body": "Halcyan 2 wrote:\n> Also, note that the Anesthetic Touch dodge won't do squat at long range.\n\nDodges work at long range, by default.\nThe \"end combat after resolution\" basic effect only works at close range,\nbut the dodge fallback works even at long range.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 11, 2001, 8:49:32\u202FPM",
+      "Body": "LSJ wrote:\n>\n> Halcyan 2 wrote:\n> > Also, note that the Anesthetic Touch dodge won't do squat at long range.\n>\n> Dodges work at long range, by default.\n> The \"end combat after resolution\" basic effect only works at close range,\n> but the dodge fallback works even at long range.\n\n... except that you cannot play the card at close range of course. (doh!)\n\nApologies.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 11, 2001, 8:54:35\u202FPM",
+      "Body": "LSJ wrote:\n>\n> LSJ wrote:\n> >\n> > Halcyan 2 wrote:\n> > > Also, note that the Anesthetic Touch dodge won't do squat at long range.\n> >\n> > Dodges work at long range, by default.\n> > The \"end combat after resolution\" basic effect only works at close range,\n> > but the dodge fallback works even at long range.\n>\n> ... except that you cannot play the card at close range of course. (doh!)\n>\n> Apologies.\n\nHmm. I seem to be incapable of posting error-free on this thread.\n\"only at close range\", I meant.\n(double doh!)\n\nThis also takes care of that pesky \"does combat end at [obe] if the strike\nis used at long range\" question.\n\n\uE5D3"
+    },
+    {
+      "Author": "Robert Goudie",
+      "Date": "Dec 11, 2001, 9:10:51\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:3C16647B...@white-wolf.com...\n> LSJ wrote:\n> > Apologies.\n[clip]\n\n> Hmm. I seem to be incapable of posting error-free on this thread.\n\n[clip]\n\nThat's it! I want the old netrep back. Didn't some guy named \"Wilkie\" or\nsomething do it for a couple of weeks? IIRC, everyone loved him. Let's track\nhim down. :)\n\n-Robert\n\nrob...@vtesinla.org"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Dec 11, 2001, 9:28:50\u202FPM",
+      "Body": "\"Halcyan 2\" <halc...@aol.com> wrote in message\nnews:20011211144409...@mb-ch.aol.com...\n\n[gomi wrote]\n\n> >Lapse's outferior is just like playing two Fists of Death, as far as\n> >inferior Pot is concerned, only BETTER since it's two cards instead of\none.\n>\n> In most cases. But then again, a DI would counter all of lapse, while it\nwould\n> only get one of the FoD. Also, if a card makes combat cards twice as much,\n> Lapse only costs 3 while 2 Fists of Death now cost 4. But if you have the\n> Ankara Citadel, Lapse costs 2, while 2 Fists of Death cost 0.\n\nThese hypotheticals confuse me. :-)\n\nOn its own, Lapse costs two. If you made combat cards cost\ntwice as much, it'd cost four, just like two Fists of Death\nwould. If you have Ankara Citadel, Lapse would cost 1,\nbut Fists of Deaths would cost 0. (If you made combat cards\ncost one more, Lapse would cost 3 compared to 4 for two FoD -\nwas that what you meant?)\n\n> It's like a restricted Disarm. Can only use it against younger vampires,\nbut\n> don't need to do more damage (one is just enough). Stutter-Step +\nBasilisk's\n> Touch might make for an interesting combo. Also, Basilisk's Touch is\nexcellent\n> for doing a killing poke to a Garou or War Ghoul. (But not to Rock Cats!\nThat\n> wouldn't be very nice!!! Meow?).\n\nThe killing poke will only work against War Ghoul if (a)\nthe Ghouling player lets it or (b) you do more than one\npoint of poke. It'll work fine against Rock Cats unless\nthe Basilisky vamp is cap 3 or less... which seems unlikely.\n\nNote, though, that the potence fallback on Basilisk's is\n\"remainder of combat\" where on Lapse it's only this round.\n\n> >Darkling Trickery: Okay, this is the joke rare, like Twisting the Knife.\n> > But the whole card blows, not just the outferior.\n>\n> What's so bad about it? It's a conditional press for Obtenebration (in\ncase\n> they can't S:CE out of combat). And it's the only source of manuevers or\n> presses for Mytherceria. In fact, it's a press *or* a manuever at\ninferior, a\n> flexibility that only Celerity and Protean usually have.\n\nI agree. Not something most people are liable to get\nexcited about, but a card approximately as good as Flash,\nwhich is a good card. The superior is, admittedly, very\ncornercase. I think it'll blow up an Improvised Flamethrower\nif used at long...\n\nJosh\n\ntricksy but not darkling"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Dec 11, 2001, 11:16:57\u202FPM",
+      "Body": ">These hypotheticals confuse me. :-)\n>\n>On its own, Lapse costs two. If you made combat cards cost\n>twice as much, it'd cost four, just like two Fists of Death\n>would. If you have Ankara Citadel, Lapse would cost 1,\n>but Fists of Deaths would cost 0. (If you made combat cards\n>cost one more, Lapse would cost 3 compared to 4 for two FoD -\n>was that what you meant?)\n\nOops. Yeah, I meant combat cards cost one more, not twice as much.\n\n>The killing poke will only work against War Ghoul if (a)\n>the Ghouling player lets it or (b) you do more than one\n>point of poke.\n\nOkay, so maybe you throw in a Vengeance of Samiel for the War Ghoul, or just go\nstraight to the Basilisk poke phase for most other allies.\n\n>It'll work fine against Rock Cats unless\n>the Basilisky vamp is cap 3 or less... which seems unlikely.\n\nBut that wouldn't be a very nice thing to do to the kitty! Kitties don't like\nit when you poke them...Anyway, at least Doris and Kervos can't normally poke\nthe cat. And even older !Salubri will still get mauled for 3.\n\n>I agree. Not something most people are liable to get\n>excited about, but a card approximately as good as Flash,\n>which is a good card. The superior is, admittedly, very\n>cornercase.\n\nHere, here!\n\n> I think it'll blow up an Improvised Flamethrower\n>if used at long...\n\n2R aggravated damage each strike. Only usable once per combat. If the opposing\nminion inflicts any damage on this minion at long range (even if it is\nprevented), this weapon is burned and the bearer takes 2 aggravated\n(non-strike) damage.\n\nvs.\n\nOnly usable when the opposing minion attempts to strike with a weapon that does\nranged damage. The damage from that weapon is reduced to zero. The opposing\nminion takes 1 additional damage during strike resolution.\n\nI think the MYT Darkling Trickery damage is environmental, so it wouldn't blow\nup the Improv Flamethrower.\n\nHalcyan 2\n\nWonders if petting a pet rock cat is any nicer than just petting a pet rock."
+    },
+    {
+      "Author": "Cameron",
+      "Date": "Dec 11, 2001, 11:54:16\u202FPM",
+      "Body": "> Crap? <g>\n> Since most of the cards are pretty crap ( because there's a card that has a\n> similar or the same effect for the same discipline either at a lower cost or\n> with fewer restrictions )\n\nohhh... just you wait until my clio's contestable kiss deck is done.\nWeenie dom will never be the same again.\n\nCameron"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Dec 12, 2001, 4:19:38\u202FPM",
+      "Body": "\"Halcyan 2\" <halc...@aol.com> wrote in message\n\nnews:20011211171657...@mb-fc.aol.com...\n\n[i wrote]\n\n> >The killing poke will only work against War Ghoul if (a)\n> >the Ghouling player lets it or (b) you do more than one\n> >point of poke.\n>\n> Okay, so maybe you throw in a Vengeance of Samiel for the War Ghoul, or\njust go\n> straight to the Basilisk poke phase for most other allies.\n\nNow I think you're confusing Valeren with Mytherceria? (MYT\nhas Basilisk's Touch; Valeren has Vengeance of Samiel.)\nPerhaps adding Lucky Blow (or Channel the Beast) would be\neasier. :-)\n\n> >It'll work fine against Rock Cats unless\n> >the Basilisky vamp is cap 3 or less... which seems unlikely.\n>\n> But that wouldn't be a very nice thing to do to the kitty! Kitties don't\nlike\n> it when you poke them...Anyway, at least Doris and Kervos can't normally\npoke\n> the cat. And even older !Salubri will still get mauled for 3.\n\nKiasyd. None of whom are below 5-cap. You see what I meant\nnow. :-)\n\nI agree that kitties should not be poked. I very much desire\nto get three or four Rock Cats and put them all in a deck.\nNice card.\n\n> I think the MYT Darkling Trickery damage is environmental, so it wouldn't\nblow\n> up the Improv Flamethrower.\n\nHmmm. I think you're right. Too bad.\n\nJosh\n\nnot that blowing up improvised flamethrowers would make it any\nless cornercase..."
+    },
+    {
+      "Author": "Santiago",
+      "Date": "Dec 12, 2001, 6:35:07\u202FPM",
+      "Body": "In article <9v5jlg$9pu$1...@panix1.panix.com>,\n\ngo...@panix.com (Gomi no Sensei) wrote:\n\n>Clotho's Gift is pretty damn huge for any weenie obf deck, where\n>getting things from crypt to uncontrolled is a big deal -- I know I\n>want about 12 of these, strictly for the outferior.\n\nHell yeah, when I saw this thing, I loved it. I'm thinking a crypt\nfull of low-cap Malks, Clotho's Gift, GtU, and Sanguine Instruction (for\nall those without DOM). Can you say exponentially-growing weenie\nstealth-bleed without even using master phase actions, transfers, or\npool?\n\n---------------------------------------------------------------------\nMail: santiago [at] umug [dot] org || Web: http://santiago.umug.org\n---------------------------------------------------------------------\n\"Ceci n'est pas un 'sig block'.\""
+    },
+    {
+      "Author": "Brian",
+      "Date": "Dec 12, 2001, 7:04:47\u202FPM",
+      "Body": "> Burning Touch is identical\n> to Blood Fury at inferior, which is not super-impressive, but not actively\n> worse than an existing effect.\n\nActually, yes, it is.\n\nBlood Fury at basic does 2 damage for 1 blood and stops their weapons\nfrom doing damage. Blood Fury can't be prevented by Fortitude. Bet\nyou were thinking of Blood Rage, which does 1 damage at basic for no\nblood cost, and is otherwise identical to Blood Fury.\n\nBurning Touch's basic(out) is also \"Strike: 1 Damage\", and it can't be\nprevented by fortitude. It's already pretty dumb, I can do Strike: 1\nDamage with my hands. But note it does not stop opposing weapons from\ndoing damage, which is enough for me to prefer eating it to playing\nit.\n\nFor the basic(out), that is.\n\n> Clotho's Gift is pretty damn huge for any\n> weenie obf deck, where getting things from crypt to uncontrolled is a big\n> deal -- I know I want about 12 of these, strictly for the outferior.\n\nAmen."
+    },
+    {
+      "Author": "....salem christ....",
+      "Date": "Dec 13, 2001, 6:44:18\u202FAM",
+      "Body": "On Tue, 11 Dec 2001, GreySeer wrote:\n\n> \"Heikki Poso\" <hp...@rock.helsinki.fi> wrote in message\n> news:ov7kruw...@rock.helsinki.fi...\n> > go...@panix.com (Gomi no Sensei) writes:\n> >\n> > > In article <458e9b1c.01121...@posting.google.com>,\n> > > Simidh <sim...@succubusclub.net> wrote:\n> > >\n> > > >I am guessing we label the 'inferior mel: text 2'\n> > > >level as Inferior, the 'superior mel: text 3' level\n> > > >as Superior, but what do we term the\n> > > >'inferior aus: text 1' level? Alternative?\n> > > >Ulterior? :P\n> > >\n> > > Either Derek R or Peter B has been calling it 'inferior-out,' which\n> > > seems descriptive and useful to me.\n> >\n> > Outferior? <g>\n>\n> Crap? <g>\n\nspooky. i had been thinking of that term all through this thread, but just\nhadn't gotten around to suggesting it yet. Is there something in the\nwater at your house, Greyseer? something other than the usual\nbig-city-gunk, that is? O:)\nsome mind-melding psychic weird stuff, mayhaps....\n\nsalem."
+    },
+    {
+      "Author": "GreySeer",
+      "Date": "Dec 13, 2001, 6:02:46\u202FPM",
+      "Body": "> > Crap? <g>\n>\n> spooky. i had been thinking of that term all through this thread, but just\n> hadn't gotten around to suggesting it yet. Is there something in the\n> water at your house, Greyseer? something other than the usual\n> big-city-gunk, that is? O:)\n> some mind-melding psychic weird stuff, mayhaps....\n\nHey, that was filtered gunky water you were drinking!"
+    },
+    {
+      "Author": "....salem christ....",
+      "Date": "Dec 14, 2001, 5:51:20\u202FAM",
+      "Body": "\uE5D3\n\uE5D3\n\nnah, actually, i was drinking from the tap. you didn't point out the\nfiltered water until saturday evening, by which point i was subsiting\nsolely on energy drinks. O:)\n\nsalem.\nPS: thanks again for your horsebrutality."
+    }
+  ]
+}

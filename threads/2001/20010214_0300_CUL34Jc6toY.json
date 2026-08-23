@@ -1,0 +1,27 @@
+{
+  "ThreadId": "CUL34Jc6toY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/CUL34Jc6toY",
+  "Title": "(LSJ) Lucita Question",
+  "Messages": [
+    {
+      "Author": "wes",
+      "Date": "Feb 14, 2001, 3:00:16\u202FAM",
+      "Body": "I know this has been covered before, but I need an official confirmation for\na JOL game (149) where this just came up.\n--------------------------------------------------------------\n\nLucita bleeds (at inherent 0 stealth) and her prey tries to block with a\nSabbat minion of capacity less than Lucita, ie younger. The blocking\nmethuselah claims that because bleeding is by default at 0 stealth, Lucita's\nspecial ability does not apply to her blocking minions, whose inherent\nintercept is also at 0. Assume there are no other eligible minions available\nto block in this case.\n\nThe moderator of JOL149 thinks that the blocking methuselah is correct\nbecause no errata has been posted about Lucita. I believe that this is a\ncase of confusing text more than anything else. The '-1 Intercept' from\nLucita's ability is in this case the same thing as giving her '+1 Stealth'\nfor all intents and purposes.\n\nAlso, there is no need for errata in this case for either Lucita or the\nstealth/intercept rules themselves because a vampire's inherent level of\nstealth or intercept is indeed able to go below 0, rather than always being\ngreater than or equal to 0. The blocking Sabbat vampire in this particular\ncase starts at a default of -1.\n\nPlease excuse excessive verbosity... thanks in advance\nWES"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Feb 14, 2001, 2:50:35\u202FAM",
+      "Body": "\"wes\" <gh...@mnsi.net> writes:\n\n> Lucita bleeds (at inherent 0 stealth) and her prey tries to block with a\n> Sabbat minion of capacity less than Lucita, ie younger. The blocking\n> methuselah claims that because bleeding is by default at 0 stealth, Lucita's\n> special ability does not apply to her blocking minions, whose inherent\n> intercept is also at 0. Assume there are no other eligible minions available\n> to block in this case.\n\nTheir intercept can go to less than 0. Intercept starts at 0, but it\ncan (like the stock-market) go up or down.\n\n--\nJames Coupe | PGP Key 0x5D623D5D\n\"Definitely a woman\" - www.thespark.com/\nStandard disclaimers apply to this post. Full written details\navailable upon request. Your statutory rights are not affected."
+    },
+    {
+      "Author": "Hardy Range",
+      "Date": "Feb 14, 2001, 8:38:57\u202FAM",
+      "Body": "\"wes\" <gh...@mnsi.net> schrieb im Newsbeitrag\nnews:96ce8...@enews4.newsguy.com...\n\n[snip]\n\n> Also, there is no need for errata in this case for either Lucita or the\n> stealth/intercept rules themselves because a vampire's inherent level of\n> stealth or intercept is indeed able to go below 0, rather than always\nbeing\n> greater than or equal to 0. The blocking Sabbat vampire in this particular\n> case starts at a default of -1.\n\nWell, Lucita seems to have a tendency to confuse us mortal men... :-)\n\nYou are right, Wes: The blocking younger Sabbat vamp has indeed -1 intercept\nagainst her (and therefore, cannot block Lucita without getting additional\nintercept from somewhere).\nI had posted this question shortly after SW came out, and LSJ confirmed\nthis.\n\n--\n\nHardy Range\n\nhardy...@gmx.de"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 14, 2001, 1:45:16\u202FPM",
+      "Body": "James Coupe wrote:\n>\n> \"wes\" <gh...@mnsi.net> writes:\n>\n> > Lucita bleeds (at inherent 0 stealth) and her prey tries to block with a\n> > Sabbat minion of capacity less than Lucita, ie younger. The blocking\n> > methuselah claims that because bleeding is by default at 0 stealth, Lucita's\n> > special ability does not apply to her blocking minions, whose inherent\n> > intercept is also at 0. Assume there are no other eligible minions available\n> > to block in this case.\n>\n> Their intercept can go to less than 0. Intercept starts at 0, but it\n> can (like the stock-market) go up or down.\n\nCorrect. And a minion with -1 intercept will fail to block a 0-stealth\naction.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

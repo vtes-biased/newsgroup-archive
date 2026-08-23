@@ -1,0 +1,22 @@
+{
+  "ThreadId": "o2NBk6IcvoY",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/o2NBk6IcvoY",
+  "Title": "(LSJ) Set range effects questions",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Aug 25, 2009, 1:18:54\u202FPM",
+      "Body": "Hi,\n\n1/ A and B are in combat.\nA plays Selective Silence sup'. Can A play a Torn Signpost in the same\nround afterwards?\n\nRange is set by Selective Silence, I'm not sure A (or B) can play\ncards \"only usable before range is determined\".\n\n2/ A and B are in combat.\nA plays Immortal Grapple on round 1.\nWhen exactly does IG set the range for round 2 ?\nIs it:\na- at the very beginning of the round (or before) ?\nb- in the usual \"before range is determined\" window, as an event A can\ntrigger amongst his \"before range is determined\" effects ?\nc- instead of the \"determine range\" window ?\n\nIf it's a- or b- and that A decides to set the range immediately, can\nB play Torn Signpost in the second round ?\nIf it's c-, can B play Selective Silence to set the range in round 2 ?\n(Range can't be re-set, but it hasn't been set yet in this case)\n\nThanks\n\n~~\n\nImmortal Grapple\nCardtype: Combat\nDiscipline: Potence\nOnly usable at close range before strikes are chosen. Grapple.\n[pot] Strikes that are not hand strikes may not be used this round (by\neither combatant). A vampire may play only one Immortal Grapple each\nround.\n[POT] As above, with an optional press. If another round of combat\noccurs, that round is at close range; skip the determine range step\nfor that round.\n\nSelective Silence\nCardtype: Combat\nDiscipline: Quietus\nOnly usable on the first round of combat.\n[qui] Maneuver.\n[QUI] Only usable before range is determined. This vampire burns 1\nblood to set the range for this round. Skip the determine range step\nthis round.\n\nTorn Signpost\nCardtype: Combat\nDiscipline: Potence\nOnly usable before range is determined.\n[pot] This vampire has a strength of 2 for the remainder of combat.\n[POT] This vampire has a strength of 3 for the remainder of combat."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 25, 2009, 1:55:02\u202FPM",
+      "Body": "floppyzedolfin wrote:\n> 1/ A and B are in combat.\n> A plays Selective Silence sup'. Can A play a Torn Signpost in the same\n> round afterwards?\n>\n> Range is set by Selective Silence, I'm not sure A (or B) can play\n> cards \"only usable before range is determined\".\n\nYes. (The \"before range\" aka \"beginning of round\" step occurs before the\nmaneuver aka \"determine range\" step. Many effects can be played in that step.\nFor those of you playing along at home, that's section VI.A of the program\nhttp://www.white-wolf.com/vtes/HTML/outline.html)\n\n> 2/ A and B are in combat.\n> A plays Immortal Grapple on round 1.\n> When exactly does IG set the range for round 2 ?\n> Is it:\n> a- at the very beginning of the round (or before) ?\n> b- in the usual \"before range is determined\" window, as an event A can\n> trigger amongst his \"before range is determined\" effects ?\n> c- instead of the \"determine range\" window ?\n\na (and c, since c isn't a \"when\").\n\n> If it's a- or b- and that A decides to set the range immediately, can\n> B play Torn Signpost in the second round ?\n\nYes.\n\n> If it's c-, can B play Selective Silence to set the range in round 2 ?\n\n> (Range can't be re-set, but it hasn't been set yet in this case).\n\nNo. Range was set by IG.\n\n\uE5D3"
+    },
+    {
+      "Author": "Reyda !",
+      "Date": "Aug 25, 2009, 2:12:46\u202FPM",
+      "Body": "On 25 août, 13:55, LSJ <vtes...@white-wolf.com> wrote:\n> floppyzedolfin wrote:\n\n> > 2/ A and B are in combat.\n> > A plays Immortal Grapple on round 1.\n> > When exactly does IG set the range for round 2 ?\n> > Is it:\n> > a- at the very beginning of the round (or before) ?\n> > b- in the usual \"before range is determined\" window, as an event A can\n> > trigger amongst his \"before range is determined\" effects ?\n> > c- instead of the \"determine range\" window ?\n\n(...)\n\n> > If it's c-, can B play Selective Silence to set the range in round 2 ?\n> > (Range can't be re-set, but it hasn't been set yet in this case).\n>\n> No. Range was set by IG.\n\nplus Selective Silence is only playable on the first round of combat ;)"
+    }
+  ]
+}

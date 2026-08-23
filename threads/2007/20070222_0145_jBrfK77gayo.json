@@ -1,0 +1,107 @@
+{
+  "ThreadId": "jBrfK77gayo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/jBrfK77gayo",
+  "Title": "[LSJ] React with Conviction Question",
+  "Messages": [
+    {
+      "Author": "karlgs...@gmail.com",
+      "Date": "Feb 22, 2007, 1:45:14\u202FAM",
+      "Body": "How does React with Conviction interact with corruption counters? And\ncards that place corruption counters?\n\nThanks,\n\nKarl"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Feb 22, 2007, 7:15:34\u202FAM",
+      "Body": "On Feb 21, 6:45 pm, karlgschae...@gmail.com wrote:\n> How does React with Conviction interact with corruption counters?\n\nPer card text: \"When an effect that would change control of this\nimbued is played or announced, you may burn this card to cancel that\neffect.\"\n\nBurning corruption counters to take control of a minion is 'an effect\nthat would change control' etc, so React cancels it (and the counters\nare still burned.)\n\n> And\n> cards that place corruption counters?\n\nDepends on the card providing the corruption counter.\n\nPer card text: \"Burn this card to cancel either a (D) action against\nthis imbued that requires Chimerstry, Dementation, Dominate, Presence\nor Serpentis or a strike that requires any of those Disciplines played\nby a minion opposing this imbued as it is announced.\"\n\nThis would work against Reformation (a Serpentis action) but not\nCorruption (a Follower of Set action) or Venenation (a Serpentis\naction modifier), for instance.\n\nBut in either case, you can always just burn it in response to the\ncorruption counters being burned to take the Imbued.\n\n> Thanks,\n>\n> Karl\n\n-John Flournoy"
+    },
+    {
+      "Author": "witness1",
+      "Date": "Feb 22, 2007, 9:25:01\u202FPM",
+      "Body": "On Feb 22, 1:15 am, \"John Flournoy\" <carne...@gmail.com> wrote:\n> On Feb 21, 6:45 pm, karlgschae...@gmail.com wrote:\n>\n> > How does React with Conviction interact with corruption counters?\n>\n> Per card text: \"When an effect that would change control of this\n> imbued is played or announced, you may burn this card to cancel that\n> effect.\"\n>\n> Burning corruption counters to take control of a minion is 'an effect\n> that would change control' etc, so React cancels it (and the counters\n> are still burned.)\n\nDoesn't the \"No cost is paid\" clause on React mean that the counters\ndon't burn?\n\nwitness1\n-beware the serpent"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 22, 2007, 9:43:48\u202FPM",
+      "Body": "\uE5D3\n\nWell, they're not a cost, ....\n\nBut actually, canceling the effect should also prevent the burning of Corruption\ncounters -- there's no provision for canceling only part of the effect.\n\nThat's a REVERSAL of the previous ruling (given for Diamond Thunderbolt).\n\nThe Corruption counter (from Corruption or Reformation or Revelation of\nDespair/Wrath or Contagion) would be placed, as normal. Then, when the option to\ntake control is exercised (and canceled by React with Convition or Diamond\nThunderbolt), the effect of burning counters to take control doesn't occur. Not\nbecause the counters are a cost, but because the effect that would burn them is\ncanceled."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 22, 2007, 9:57:46\u202FPM",
+      "Body": "LSJ wrote:\n> witness1 wrote:\n>> On Feb 22, 1:15 am, \"John Flournoy\" <carne...@gmail.com> wrote:\n>>> On Feb 21, 6:45 pm, karlgschae...@gmail.com wrote:\n>>>\n>>>> How does React with Conviction interact with corruption counters?\n>>> Per card text: \"When an effect that would change control of this\n>>> imbued is played or announced, you may burn this card to cancel that\n>>> effect.\"\n>>>\n>>> Burning corruption counters to take control of a minion is 'an effect\n>>> that would change control' etc, so React cancels it (and the counters\n>>> are still burned.)\n>>\n>> Doesn't the \"No cost is paid\" clause on React mean that the counters\n>> don't burn?\n>\n> Well, they're not a cost, ....\n>\n> But actually, canceling the effect should also prevent the burning of\n> Corruption counters -- there's no provision for canceling only part of\n> the effect.\n>\n> That's a REVERSAL of the previous ruling (given for Diamond Thunderbolt).\n\nSorry. Diamond Thunderbolt doesn't cancel the effect (just prevents the change\nof control). No reversal.\n\nToday's ruling doesn't affect the DT ruling -- just React with Conviction.\n\n\uE5D3"
+    },
+    {
+      "Author": "Salem",
+      "Date": "Feb 22, 2007, 10:13:31\u202FPM",
+      "Body": "LSJ wrote:\n> LSJ wrote:\n\n>> The Corruption counter (from Corruption or Reformation or Revelation\n>> of Despair/Wrath or Contagion) would be placed, as normal. Then, when\n>> the option to take control is exercised (and canceled by React with\n>> Convition or Diamond Thunderbolt), the effect of burning counters to\n>> take control doesn't occur. Not because the counters are a cost, but\n>> because the effect that would burn them is canceled.\n\nand just to remind everyone, the corruption counters themselves have no\ninherent way to change control of the minion. So this doesn't mean you\ncan just re-try the effect instantly and still get control of the\nminion. You'd need to play another Corruption (etc.) card to be able to\ntrigger a new control-change, as it is the card text that allows it.\n\n--\nsalem\nhttp://users.tpg.com.au/adsltqna/vtes/\n(replace 'hotmail' with 'yahoo' to email)"
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Feb 24, 2007, 6:28:52\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> ha scritto nel messaggio\nnews:45DE0084...@white-wolf.com...\n\uE5D3\n\nBut, per corruption's text, first you \"burn\" the counter, then you take\ncontrol\nof the minion.\nThe \"take control part\" is after, isn't ?\nThis way means that react with conviction is useless with corruption-like\neffect, isn't ?\nMeth A burns his/her corruptions to take control of imbued B,\nimbued B burns rwc - meth A then still has his/her own corruption\nthere, to be burned immediately again to take control of the imbued ?\n\nthanks in advance\n\nEMiliano, vekn prince of Rome"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 24, 2007, 6:29:35\u202FPM",
+      "Body": "Tetragrammaton wrote:\n> But, per corruption's text, first you \"burn\" the counter, then you take\n> control\n> of the minion.\n> The \"take control part\" is after, isn't ?\n\nNo. Per corruption's text, there is an affect which you may apply if a certain\ncondition is met. That effect is: burn all of your corruption counters to take\ncontrol of the minion. That effect can be canceled with React with Conviction.\nIf it is canceled, then you do not burn all of your corruption counters to take\ncontrol of the minion."
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Feb 25, 2007, 10:08:19\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> ha scritto nel messaggio\n\nnews:3C_Dh.704$BE2...@newssvr27.news.prodigy.net...\n\uE5D3\n\nThis means that the \"corrupter\" meth has still all of his/her corruption\ncounters\nthere to be burned again, just after the imbued burns his/her own rwc, right\n?\nSo rwc would be useless in front of corruption/venenation with\nthis new ruling - not a big deal for the imbued, IMHO\n\nregards\n\nEmiliano"
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Feb 25, 2007, 12:50:50\u202FPM",
+      "Body": "On 25 Feb, 09:08, \"Tetragrammaton\" <nos...@none.com> wrote:\n> \"LSJ\" <vtes...@white-wolf.com> ha scritto nel messaggionews:3C_Dh.704$BE2...@newssvr27.news.prodigy.net...\n\uE5D3\n\nWell, not exactly useless, since the \"corrupter\" would need *another*\nCorruption / Venenation card to get the counters to burn and take\ncontrol\nof the minion. It doesn't happen \"just after\" RwC is burned as you\nsay.\n\nCiao,\nthe other Emiliano ;-)"
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Feb 25, 2007, 3:30:59\u202FPM",
+      "Body": "\"Emiliano Imeroni\" <emiliano...@gmail.com> ha scritto nel messaggio\nnews:1172404250.8...@m58g2000cwm.googlegroups.com...\n\uE5D3\n\uE5D3\n\n? why should he needs another corrption card ?\nAFAIK, the situation is:\n- meth A has X corruption counter on the imbued B with a rcw.\n- Meth A \"burns his corruption counters to take control\"\n- imbued B burn his/her rwc to avoid the effect ->\n- meth A still has, per the rule given by lsj here, all of his corruption\ncounters\nstill on imbued B (that burned his own rwc)\n- meth A can, therefore, still burn again his/her corruption counters to\ntake control\nof the imbued.\n\nAm i missing something ?"
+    },
+    {
+      "Author": "sutekh_23",
+      "Date": "Feb 25, 2007, 5:42:44\u202FPM",
+      "Body": "On Feb 26, 1:30 am, \"Tetragrammaton\" <nos...@none.com> wrote:\n> \"Emiliano Imeroni\" <emiliano.imer...@gmail.com> ha scritto nel messaggionews:1172404250.8...@m58g2000cwm.googlegroups.com...\n\uE5D3\n\nAll of the \"corruption effects\" can only be triggered by the use of a\n\"corruption\" card (corruption, venenation, reformation, etc). The\namount of corruption counters present on a minion only determines\nweather a minion can be stolen or not, they don't create the \"steal\nminon\" effect, that effect is created by the \"corruption\" card. As\nreact with conviction cancels the \"corruption\" card, you then need\nanother such card to get the effect again.\n\nHope that helps\n\nSutekh_23"
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Feb 25, 2007, 6:10:18\u202FPM",
+      "Body": "\"sutekh_23\" <bec...@aapt.net.au> ha scritto nel messaggio\nnews:1172421764.4...@q2g2000cwa.googlegroups.com...\n\uE5D3\n\nBut the corruption card doesn't stay in game.... then the effect\ncould be triggered by each the corruption/venenation/reformation\ncards you used to put the counters on the imbued...\nDoes this means that by burning just *one* react ywith convinction\ncancels the \"effect\" of *all* of the previously-played (corruption etc)\ncards ?\n\nMaybe i remember a ruling that stated you need a least corruption\nplaced via the card \"activate\" counters put via nefertiti's special but,\nin this case, you just have X counters there that were placed via the\ncards, so why you should need another more ?\n\n> react with conviction cancels the \"corruption\" card, you then need\n> another such card to get the effect again.\n>\n\nIndeed, but (maybe) it should cancel just *one*, not all of them.\nAfaik, per corruption (and the like) card text you *don't* have even to\nburn all the counters as soon as they are enough of them on the minion\nfor you to take control of him/her - you can wait for a later moment, so it\njust make little sense to cancel an effect *card* that actually, is not in\nthe\ngame."
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Feb 25, 2007, 6:34:56\u202FPM",
+      "Body": "On Sun, 25 Feb 2007 18:10:18 +0100, \"Tetragrammaton\" <nos...@none.com>\nwrote:\n\n>Afaik, per corruption (and the like) card text you *don't* have even to\n>burn all the counters as soon as they are enough of them on the minion\n>for you to take control of him/her - you can wait for a later moment, so it\n>just make little sense to cancel an effect *card* that actually, is not in\n>the game.\n\nThis is where you are wrong.\nThere is no delay possible.\n\nWith Corruption, you either place a counter and take control or you\ndon't. There is no lingering effect other than the counter.\n\nLSJ 10-22-1997\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/71b3612b6320a4c3\n\n\"Since the Corruption action card doesn't remain in play (only the\ncounter does), you can only burn the counters during the action\nresolution. \"\n\nLSJ 07-23-2001\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/5fe84b11004127ce\n\n\"Card text, not the counter's inherent power, allows you to\ntake control. You must therefore use it when the action resolves (or\nwhen you play Venenation).\""
+    },
+    {
+      "Author": "CthuluKitty",
+      "Date": "Feb 25, 2007, 6:44:38\u202FPM",
+      "Body": "> > react with conviction cancels the \"corruption\" card, you then need\n> > another such card to get the effect again.\n>\n> Indeed, but (maybe) it should cancel just *one*, not all of them.\n> Afaik, per corruption (and the like) card text you *don't* have even to\n> burn all the counters as soon as they are enough of them on the minion\n> for you to take control of him/her - you can wait for a later moment, so it\n> just make little sense to cancel an effect *card* that actually, is not in\n> the\n> game.\n\nYou're misunderstanding how the corruption mechanic works. This isn't\nreally your fault. The wording is pretty much totally unclear.\nHere's the text:\n\nCorruption\nRequires Follower of Set.\n+1 stealth action.\n(D) Put a corruption counter on a minion controlled by your prey. If\nthe number of your corruption counters on the minion equals or exceeds\nthe blood capacity of that vampire or the cost of that ally, you may\nburn all of your corrruption counters on that minion to gain control\nof him or her.\n\nThe part that's confusing is that the second sentence seems to be tied\nto the the corruption counter, which stays in place. In fact, it is\nonly tied to the action, which goes away as soon as it resolves. So\nthe minion stealing effect is part of the action. It is not\nautomatically enabled by the presence of Corruption Counters, nor does\nthe game remember that at some point in the past one or more of those\ncounters was placed by Corruption actions.\n\nSo, if you try to steal an Imbued with Corruption, and the Imbued\nplayer burns React with Conviction, the counters remain in place, but\nthe minion is not stolen. You would then need another Corruption (or\nVenenation, or whatever) to use those same Corruption Counters.\n\nBy the same token, if you have 10 Corruption Counters on Arika, and\nsomeone plays Wormwood (reducing her capacity to 10), you do not\nimmediately have the oppurtunity to burn those counters. The counters\nby themselves don't do anything in fact. They require the card text\nof another action or effect to do anything at all."
+    },
+    {
+      "Author": "MrJ",
+      "Date": "Feb 26, 2007, 8:57:01\u202FPM",
+      "Body": "\uE5D3\n\nA way to start thinking of the corruption mechanic in a different\n(correct) way, is by reminding oneself that Nefertiti alone cannot\nsteal a minion. She can place corruption counters, but can't trigger\nthe change of control:\n\nNefertiti\nIndependent: Nefertiti can place a corruption counter on a minion\ncontrolled by your prey as a +1 stealth (D) action that costs 1 blood.\n+1 bleed."
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Feb 27, 2007, 2:07:39\u202FAM",
+      "Body": "\"The Lasombra\" <TheLa...@hotmail.com> ha scritto nel messaggio\nnews:eqh3u2laouh379jrh...@4ax.com...\n\n> On Sun, 25 Feb 2007 18:10:18 +0100, \"Tetragrammaton\" <nos...@none.com>\n> wrote:\n>\n>>Afaik, per corruption (and the like) card text you *don't* have even to\n>>burn all the counters as soon as they are enough of them on the minion\n>>for you to take control of him/her - you can wait for a later moment, so\n>>it\n>>just make little sense to cancel an effect *card* that actually, is not in\n>>the game.\n>\n> This is where you are wrong.\n> There is no delay possible.\n>\n> With Corruption, you either place a counter and take control or you\n> don't. There is no lingering effect other than the counter.\n>\n> LSJ 10-22-1997\n> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/71b3612b6320a4c3\n>\n> \"Since the Corruption action card doesn't remain in play (only the\n> counter does), you can only burn the counters during the action\n> resolution. \"\n>\n> LSJ 07-23-2001\n> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/5fe84b11004127ce\n>\n\nOk, missed that ruling in the distant past - card text seems pretty unclear\nthough: \"... you may burn...\" seems to read \"you're not forced to burn the\ncounters when the action resolves, but you can burn them at a later stage\"\n\nClearer text could read\n\n\"If the number of your corruption counters on the minion equals or exceeds\n\nthe blood capacity of that vampire or the cost of that ally, *burn* all of\n\nyour corrruption counters on that minion to gain control of him or her\".\n\nGetting the burn mandatory could avoid such misunderstanding.\n\nAnyway, thanks a lot to all for the clarifications\nregards\n\nEmiliano\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 27, 2007, 2:46:21\u202FAM",
+      "Body": "Tetragrammaton wrote:\n> \"The Lasombra\" <TheLa...@hotmail.com> ha scritto nel messaggio\n\n>> With Corruption, you either place a counter and take control or you\n>> don't. There is no lingering effect other than the counter.\n>>\n\n> Ok, missed that ruling in the distant past - card text seems pretty unclear\n> though: \"... you may burn...\" seems to read \"you're not forced to burn the\n> counters when the action resolves, but you can burn them at a later stage\"\n\n\"may\" indicates option, not delayed resolution. As with all actions, the effect\nlisted on the card is the action resolution (unless the card is put in play or\nexplicit text specifies a delayed or lingering effect).\n\nNo ruling needed -- it's just card text.\n\ne.g.: Siphon: \"If this acting vampire is Giovanni, you may also move 1 card from\nyour ash heap to your hand for each blood stolen.\"\n\nWhen can you choose to move those cards? Later? Or just when the action resolves?\n\nTortured Confession: how long may you wait before looking at the target hand?\n\nThird Tradition: how much delay does the \"may\" provide for retrieving the\nDiscipline card?\n\nStatic Virtue: how much delay does the \"may\" provide?\n\n> Clearer text could read\n> \"If the number of your corruption counters on the minion equals or exceeds\n> the blood capacity of that vampire or the cost of that ally, *burn* all of\n> your corrruption counters on that minion to gain control of him or her\".\n> Getting the burn mandatory could avoid such misunderstanding.\n\nAt the expense of losing the optionality, and there's really nothing about the\n\"clarified\" card text that makes it any less delayed than the current card text,\nso it's hard to imagine that such a change would do anything regarding the\nimagined delay of the current version."
+    },
+    {
+      "Author": "Tetragrammaton",
+      "Date": "Feb 27, 2007, 8:36:29\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> ha scritto nel messaggio\nnews:N3MEh.2224$M65....@newssvr21.news.prodigy.net...\n\n> Tetragrammaton wrote:\n>> \"The Lasombra\" <TheLa...@hotmail.com> ha scritto nel messaggio\n>>> With Corruption, you either place a counter and take control or you\n>>> don't. There is no lingering effect other than the counter.\n>>>\n>> Ok, missed that ruling in the distant past - card text seems pretty\n>> unclear\n>> though: \"... you may burn...\" seems to read \"you're not forced to burn\n>> the\n>> counters when the action resolves, but you can burn them at a later\n>> stage\"\n>\n> \"may\" indicates option, not delayed resolution. As with all actions, the\n> effect listed on the card is the action resolution (unless the card is put\n> in play or explicit text specifies a delayed or lingering effect).\n>\n> No ruling needed -- it's just card text.\n>\n> e.g.: Siphon: \"If this acting vampire is Giovanni, you may also move 1\n> card from your ash heap to your hand for each blood stolen.\"\n>\n> When can you choose to move those cards? Later? Or just when the action\n> resolves?\n>\n> Tortured Confession: how long may you wait before looking at the target\n> hand?\n>\n> Third Tradition: how much delay does the \"may\" provide for retrieving the\n> Discipline card?\n>\n> Static Virtue: how much delay does the \"may\" provide?\n>\n\nIsn't the same case - the text in the corruption indicates a unique\ncondition in which the effect\ncan be triggered \"If the number of your corruption counters on the minion\nequals or exceeds....\" ,\nyou can't do that before, so you can't resolve that effect if you don't met\nthe condition, and by\nthat comes the confusion with the \"you may burn\" part -\nIn this, corruption differs from all of the other case you listed above -\nSo the \"may\" can be confusing, at least in the general meaning of the\nsentence.\n\nEmiliano"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 27, 2007, 8:41:31\u202FPM",
+      "Body": "\uE5D3\n\nAt least one, Siphon, is exactly parallel, sorry. Unique condition in which the\neffect can be triggered, and all that.\n\nEven if there were no parallel, there's nothing in Corruption's text that\nindicates the effect of the successful action may be delayed beyond action\nresolution. Actions resolve at action resolution."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ThreadId": "Yd9v945dY70",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Yd9v945dY70",
+  "Title": "Momentary Delay and 'lost' blood",
+  "Messages": [
+    {
+      "Author": "Shockwave",
+      "Date": "Feb 5, 2010, 12:36:50\u202FPM",
+      "Body": "I'd like to query how we define blood is 'lost', specifically for the\npurposes of being able to play Momentary Delay. Does expenditure\ncount? I'm presuming it just means your blood value from the start of\nthe action is 3 lower, but I'd like to be sure.\n\nFor example: Were I to bleed with Conditioning, then blocked by a\ncapacity 5 vampire, and in the resultant combat I took 2 damage, I'm\nguessing it is not possible to play Momentary Delay?\n\nAs a second query, using the example above what if I take 3 damage in\nthat combat, also strike back for 3 and did not prevent, and then have\nplayed Taste of Vitae to gain 3. Am I able to play Momentary Delay? I\ndid lose 3 blood, but my total at the moment of playing Momentary\nDelay is the same. (Or one less, presuming I still played the\nConditioning)\n\nCard Text\n\nMomentary Delay\nAction Modifier\n\nRequires a vampire with capacity 7 or more.\nOnly usable at the end of an action blocked by an ally or a vampire of\ncapacity 5 or less (after any combats). Not usable if more than one\nround of combat has occurred nor if this vampire has lost 3 or more\nblood this action or ended combat before the press step. The action\ncontinues as if unblocked."
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Feb 5, 2010, 12:52:09\u202FPM",
+      "Body": "On Feb 5, 12:36 pm, Shockwave <d_knowles...@hotmail.com> wrote:\n> I'd like to query how we define blood is 'lost', specifically for the\n> purposes of being able to play Momentary Delay. Does expenditure\n> count? I'm presuming it just means your blood value from the start of\n> the action is 3 lower, but I'd like to be sure.\n\nBlood spent is blood lost.\n\n> For example: Were I to bleed with Conditioning, then blocked by a\n> capacity 5 vampire, and in the resultant combat I took 2 damage, I'm\n> guessing it is not possible to play Momentary Delay?\n\nThe vampire lost 2 in combat and 1 because of the Conditioning's\ncost.So no, he can't play MD\n\n>\n> As a second query, using the example above what if I take 3 damage in\n> that combat, also strike back for 3 and did not prevent, and then have\n> played Taste of Vitae to gain 3. Am I able to play Momentary Delay? I\n> did lose 3 blood, but my total at the moment of playing Momentary\n> Delay is the same. (Or one less, presuming I still played the\n> Conditioning)\n\nThe vampire lost 3 and gained 3. Even if the total hasn't changed, he\nhas lost 3 blood and can't play Momentary Delay."
+    },
+    {
+      "Author": "BeAst",
+      "Date": "Feb 5, 2010, 1:07:34\u202FPM",
+      "Body": "\uE5D3\n\nParaphrased from our conversation about it, and IANLSJ:\n\nI believe MD only checks blood \"loss\" after blocks and subsequent\ncombat. I agree that \"loss\" is a bit ambiguous, but its most likely\nshorthand for \"expended blood to heal damage and pay for card cost.\"\n\nSo I believe that at the point of playing MD, it checks blood total at\nthe start of the action, and blood total after playing MD. If you have\npaid (lost) 3 blood prior to the block due to outside-of-combat cards,\nthen after combat (even if it meets the other criteria) your blood\ntotal is 3 lower than at the declaration of the action, and MD cannot\nbe played.\n\nFurther, I read it as a \"state\" check, so if you manage to recoup the\nblood you \"expended blood to heal damage and pay for card cost\" during\ncombat, by e.g. tasting back, then MD should be happy.\n\nI could be, and usually am wrong.\n\nta\nB"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 5, 2010, 2:24:45\u202FPM",
+      "Body": "On Feb 5, 6:52 am, Vincent <v.rip...@gmail.com> wrote:\n> On Feb 5, 12:36 pm, Shockwave <d_knowles...@hotmail.com> wrote:\n> > I'd like to query how we define blood is 'lost', specifically for the\n\nHaving blood and then losing it (burning it, paying it, healing with\nit, moving it away, having it stolen) counts the blood as \"lost\".\n\n> > purposes of being able to play Momentary Delay. Does expenditure\n> > count? I'm presuming it just means your blood value from the start of\n> > the action is 3 lower, but I'd like to be sure.\n\nNo. It means if you've lost 3 blood (to costs, damage, burn effects,\ntheft, or movement) in a single effect or over several effects this\naction. Blood gained (from the bank, moved, or stolen) doesn't count\nas negative loss in the count of \"lost blood\"; it is blood gained, not\nblood lost.\n\n> Blood spent is blood lost.\n\nCorrect.\n\n> > For example: Were I to bleed with Conditioning, then blocked by a\n> > capacity 5 vampire, and in the resultant combat I took 2 damage, I'm\n> > guessing it is not possible to play Momentary Delay?\n>\n> The vampire lost 2 in combat and 1 because of the Conditioning's\n> cost.So no, he can't play MD\n\nCorrect.\n\n> > As a second query, using the example above what if I take 3 damage in\n> > that combat, also strike back for 3 and did not prevent, and then have\n> > played Taste of Vitae to gain 3. Am I able to play Momentary Delay? I\n> > did lose 3 blood, but my total at the moment of playing Momentary\n> > Delay is the same. (Or one less, presuming I still played the\n> > Conditioning)\n>\n> The vampire lost 3 and gained 3. Even if the total hasn't changed, he\n> has lost 3 blood and can't play Momentary Delay.\n\nCorrect."
+    },
+    {
+      "Author": "Shockwave",
+      "Date": "Feb 5, 2010, 2:52:23\u202FPM",
+      "Body": "\uE5D3\n\nAll fine & dandy answers by me. I'd presumed the first one, the second\nquery I was a little less sure on, but makes sense."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Feb 6, 2010, 1:43:22\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n>On Feb 5, 6:52�am, Vincent <v.rip...@gmail.com> wrote:\n>> On Feb 5, 12:36�pm, Shockwave <d_knowles...@hotmail.com> wrote:\n>> > I'd like to query how we define blood is 'lost', specifically for the\n>\n>Having blood and then losing it (burning it, paying it, healing with\n>it, moving it away, having it stolen) counts the blood as \"lost\".\n\nCan I check how Momentary Delay deals with stolen blood draining off?\n\nPer RTR 11-JUL-01, regarding too much blood on a Banished vampire\ntriggering the burn clause on (rewritten) RtoI, it seems that stolen\nblood draining off counts as blood lost. So if I'm at full capacity,\nsteal 2 blood, it drains off, then I take 1 hand damage, I can't play\nMD.\n\nThis seems to be consistent with the rulings, but seems like it might\nnot be designer intent. (Although it might well be 'designer content to\nleave this corner-case in, due to available space for card text.)\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 6, 2010, 2:07:39\u202FAM",
+      "Body": "On Feb 5, 7:43 pm, James Coupe <ja...@zephyr.org.uk> wrote:\n> >Having blood and then losing it (burning it, paying it, healing with\n> >it, moving it away, having it stolen) counts the blood as \"lost\".\n>\n> Can I check how Momentary Delay deals with stolen blood draining off?\n>\n> Per RTR 11-JUL-01, regarding too much blood on a Banished vampire\n> triggering the burn clause on (rewritten) RtoI, it seems that stolen\n> blood draining off counts as blood lost.  So if I'm at full capacity,\n> steal 2 blood, it drains off, then I take 1 hand damage, I can't play\n> MD.\n\nCorrect. It counts as lost for withdrawal attempts and MD and\neverything."
+    }
+  ]
+}

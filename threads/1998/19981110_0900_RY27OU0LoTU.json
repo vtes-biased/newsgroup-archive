@@ -1,0 +1,17 @@
+{
+  "ThreadId": "RY27OU0LoTU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/RY27OU0LoTU",
+  "Title": "Stealth and Intercept Question",
+  "Messages": [
+    {
+      "Author": "Simidh",
+      "Date": "Nov 10, 1998, 9:00:00\u202FAM",
+      "Body": "Hiya folks ;)\n\nHmm, posted a question on here a whileback but as my newsfeed seems dodgy of\nlate didn't get to see if it was answered and can't recall what i\ntitled the post with to search forit on dejanews ;) So thought i'd ask again.\n\nIs it possible for stealth to drop below 0 and if so does it then have to be\npushed ((0 - X) + (X + 1)) to need intercept again where X equals however\nlow below 0 the stealth has become? (Various cards seem to cause -1 stealth or\nin some cases intercept)\n\nThanx if that can be answered ;)\n\nAlso, sometime back LSJ posted a list of Jyhad cards that unlike the card\nlists on the WOTC site. It seemed to have everything about them including\ntypo's and slight printing variations on them detailed. Is this sort of\ndetailed list available for the other card sets online too somewhere? (I\nalready the checklists and fully worded card lists etc but this list seemed to\nhave some extra detail that these lists don't have.\n\nOh, in case it hasn't been added to such lists found a typo on the card for\nRafaele of Clan Giovanni... his name calls him Rafaele but the card wording\nthen calls him Raphael.. ;-)\n\nSimidh >;-<=\n\n__ __ ,-\"_\", __\n,-.______.-.___.---------' '--\"\" \"\" (___\\`, (__ . _ _ . __/ )_\n',_.------._.---._________ __ )*___) ( / ) ) ( (_/ / )\n`--' \"\"--\"\",(\"_\"/,' -=-=-=-=-=-=-=-=-=-=-=-\n--===={) sim...@iweb.net.au (}====-- `---' Prince Of Adelaide >;-<="
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 10, 1998, 9:00:00\u202FAM",
+      "Body": "sim...@iweb.net.au (Simidh) wrote:\n> Is it possible for stealth to drop below 0 and if so does it then have to be\n> pushed ((0 - X) + (X + 1)) to need intercept again where X equals however\n> low below 0 the stealth has become? (Various cards seem to cause -1 stealth or\n> in some cases intercept)\n\nYes(?). Zero is just the default stealth/intercept level. It is not a limiting\nfactor. Whenever the acting minion's stealth (positive, negative, or zero)\nis equalled or exceeded by the blocking minion's intercept (positive,\nnegative, or zero), then the block will succeed.\n\n> Also, sometime back LSJ posted a list of Jyhad cards that unlike the card\n> lists on the WOTC site. It seemed to have everything about them including\n> typo's and slight printing variations on them detailed. Is this sort of\n> detailed list available for the other card sets online too somewhere? (I\n> already the checklists and fully worded card lists etc but this list seemed to\n> have some extra detail that these lists don't have.\n\nI've only seen it for Jyhad - and it was compiled by someone outside of WotC.\n\n--\nL. Scott Johnson (vte...@wizards.com) VTES Net.Rep for Wizards of the Coast.\nLinks to revised rulebook, rulings, errata, and DCI (tournament) rules:\nhttp://www.wizards.com/VTES/VTES_Rules.html\n\n-----------== Posted via Deja News, The Discussion Network ==----------\nhttp://www.dejanews.com/ Search, Read, Discuss, or Start Your Own"
+    }
+  ]
+}

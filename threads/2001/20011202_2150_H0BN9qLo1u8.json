@@ -1,0 +1,27 @@
+{
+  "ThreadId": "H0BN9qLo1u8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/H0BN9qLo1u8",
+  "Title": "[Q] Elder Impersonation + Faceless Night",
+  "Messages": [
+    {
+      "Author": "bingotclown",
+      "Date": "Dec 2, 2001, 9:50:09\u202FPM",
+      "Body": "I'm not sure about the timing of these cards\n\nIf a minion is blocked and plays Faceless Night (sup) and the blocking\nminion increases his/her intercept, can I then play Elder Impersonation\n(sup). If that is the case then is the blocking minion tapped or untapped.\n\nthanks in advance\n\nJohn"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 3, 2001, 2:51:00\u202FAM",
+      "Body": "\uE5D3\n\nIf by \"is blocked\" you mean \"is acting and another minion attempts to block\",\nthen: Yes. Tapped.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "GreySeer",
+      "Date": "Dec 3, 2001, 5:53:52\u202FAM",
+      "Body": "\"bingotclown\" <nojohn.ba...@ntlworld.com> wrote in message\nnews:8swO7.12590$hr5.2...@news2-win.server.ntlworld.com...\n\uE5D3\n\nThe blocking minion is tapped.\n\nFaceless Night\n[obf] +1 stealth. [OBF] +1 stealth, and any vampire that attempts to block\nthis action [is tapped when the block succeeds or when that vampire's\ncontroller decides not to block].\n\nRuling on Faceless Night:\nFaceless Night taps the (successful) blocker when the block is successful,\nas normal. (If the blocking minion wouldn't normally tap when he blocks,\nFaceless Night will still tap him.) If the acting minion uses a Change of\nTarget, then the tapping effect of Faceless Night is undone by the Change of\nTarget.\n\nElder Impersonation\n[obf] +1 stealth. [OBF] Only usable when another minion attempts to block\nthe acting minion. That minion's blocking attempt fails; untap that minion.\nThat minion cannot attempt to block this action again.\n\nErrata for Elder Impersonation:\nThe failed blocker is not untapped, but rather \"not tapped\" - if the blocker\nwas tapped originally, he will remain tapped (errata)\n\ne.g.\nYou attempt a bleed and an untapped minion attempts to block.\nYou play Faceless Night(S)\nBlocking minion plays +1 intercept\nYou play Elder Intervention(S), the block attempt fails.\nYou prey decines to make any further block attempts.\nFaceless Night's card text kicks in, all minions that attempted to block\ntap."
+    },
+    {
+      "Author": "bingotclown",
+      "Date": "Dec 3, 2001, 9:21:50\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote in message\nnews:3C0ADA84...@white-wolf.com...\n\n> If by \"is blocked\" you mean \"is acting and another minion attempts to\nblock\",\n> then: Yes. Tapped.\n\nYes, sorry. The problem I had was with the text on Elder Impersonation\n\"Only usable when another minion attempts to block the acting minion\". I\nwasn't sure if it could be played after a minion 'first' declares its block.\nObviously my grammar needs a little work.\n\nCheers\n\nJohn"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ThreadId": "Y1_BujxOYC4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Y1_BujxOYC4",
+  "Title": "LSJ: 2 questions",
+  "Messages": [
+    {
+      "Author": "Justin Fang",
+      "Date": "Mar 26, 1998, 9:00:00\u202FAM",
+      "Body": "The Ghouled Street Thug normally can't make hand strikes, but can it make\nthem (for base 2 damage each) if it uses a Torn Signpost? Actually, now\nthat I think about it, what happens if an ally without a listed hand damage\nuses a weapon that says \"+N hand damage\"?\n\nIf Meshenka gets a hold of the Ankara Citadel, do you subtract one from and\nthen halve her costs for Vicissitude cards, or halve them and then subtract\none?\n\nThanks in advance.\n\n--\nJustin Fang (jus...@ugcs.caltech.edu)\nThis space intentionally left blank."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 26, 1998, 9:00:00\u202FAM",
+      "Body": "Justin Fang wrote:\n>\n> The Ghouled Street Thug normally can't make hand strikes, but can it make\n> them (for base 2 damage each) if it uses a Torn Signpost?\n\nYes.\n\n> Actually, now\n> that I think about it, what happens if an ally without a listed hand damage\n> uses a weapon that says \"+N hand damage\"?\n\n<nothing> + X = <nothing>\n\nAdding damage to a non-damage-dealing strike has no effect. [RTR]\n\n> If Meshenka gets a hold of the Ankara Citadel, do you subtract one from and\n> then halve her costs for Vicissitude cards, or halve them and then subtract\n> one?\n\nHalve and then subtract one.\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "SirTemple",
+      "Date": "Mar 26, 1998, 9:00:00\u202FAM",
+      "Body": "><nothing> + X = <nothing>\n\nMathmatically, 0+X=X\nThis may not be the case in the game, but that's a fundimental law of addition.\nActually it's called the Identity Rule of Addition.\n\nJason"
+    },
+    {
+      "Author": "David Gausebeck",
+      "Date": "Mar 26, 1998, 9:00:00\u202FAM",
+      "Body": "\uE5D3\n\nWell yes, but the idea is that the strike is not 0 hand damage to\nstart with. It's zero of something else, which is not hand damage at\nall. So adding hand damage doesn't change the amount of damage that it\ndoes.\n0+X = X only if they're quantities of the same units.\n0 seconds + X kilograms is still 0 seconds, insofar as the expression\nstill makes sense."
+    },
+    {
+      "Author": "Jasper Phillips",
+      "Date": "Mar 26, 1998, 9:00:00\u202FAM",
+      "Body": "In article <199803261612...@ladder03.news.aol.com>,\n\nSirTemple <sirt...@aol.com> wrote:\n>><nothing> + X = <nothing>\n>\n>Mathmatically, 0+X=X\n>This may not be the case in the game, but that's a fundimental law of addition.\n> Actually it's called the Identity Rule of Addition.\n>\n\nExcept that <nothing> != 0\nThis isn't a mathmatical construction assertion, but merely an that\nIf you can't do a hand strike, being able to do greater damage when\nyou do one is meaningless.\n\n--\n/\\ Jasper Phillips\n/VVVVVVVVVVVVVV|~\"~\"~\"~\"~\"~\"----------........____ jaz\nj^^^^^^^^^^^^^\\/\"~\"~\"~\"~-----------........._____ ~\"~--.\n* http://www.engr.orst.edu/~philljas/ \"~\"~'--`"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 26, 1998, 9:00:00\u202FAM",
+      "Body": "SirTemple wrote:\n>\n> ><nothing> + X = <nothing>\n>\n> Mathmatically, 0+X=X\n\nThat's true everywhere. Including in VTES.\n\nUnfortunately, allies do not have zero hand damage - they have\nno hand strike at all and no hand damage (unless card text\nsays otherwise).\n\nSimilarly, strikeing with a Rowan Ring does no damage, not just\nzero damage. Using Lucky Blow on a Rowan Ring strike still\ndoes no damage since <nothing> +1 = <nothing>. [RTR]\n\n\uE5D3"
+    },
+    {
+      "Author": "Scott Halvorson",
+      "Date": "Mar 27, 1998, 9:00:00\u202FAM",
+      "Body": "Actually, mathematically, <nothing>! = 1, or more specifically, 0! = 1. This is\nthe way the factorial function is defined for 0. Also, with 0 + X = X, yes, they\nhave to be of the same units, otherwise, they won't add together. It is just like\nadding the proverbial apples to the proverbial oranges. They're oil and water;\nthey don't mix. I liked the comparison to adding 0 seconds to X kilometers. This\nmakes no sense, since their units are different.\n\nScott Halvorson\nmath teacher and Jyhad player\n\nJasper Phillips wrote:\n\n> In article <199803261612...@ladder03.news.aol.com>,\n\n> SirTemple <sirt...@aol.com> wrote:\n> >><nothing> + X = <nothing>\n> >\n> >Mathmatically, 0+X=X\n\n\uE5D3"
+    },
+    {
+      "Author": "ber...@cco.caltech.edu",
+      "Date": "Mar 28, 1998, 9:00:00\u202FAM",
+      "Body": "Warning... this post doesn't add anything to any discussion. Its purposes are\nonly a) pedantry, and b) cluttering up the newsgroup. Thank you, please drive\nthrough.\n\n> Actually, mathematically, <nothing>! = 1, or more specifically, 0! = 1.\n>\n\nTo be further pedantic, while it is true that 0! = 1, it is also true that\n0 != 1, and 0 != 42. An exclamation point followed by an equals sign is the C\nsymbol for 'not equal to', which I feel was represented better in BASIC by the\nopposed inequality signs ('<>'). Not that it matters. In any case, we are\narguing that <nothing> != 0. In this case, <nothing> is more equivalent to\nthe X of tri-valued logic systems. Where 0 is off, 1 is on, and X is\nindeterminate, or not connected.\n\n> This is the way the factorial function is defined for 0. Also, with 0 + X =\n> X, yes, they have to be of the same units, otherwise, they won't add\n> together. It is just like\n> adding the proverbial apples to the proverbial oranges. They're oil and\n> water; they don't mix. I liked the comparison to adding 0 seconds to X\n> kilometers. This makes no sense, since their units are different.\n>\n\nBut in that case, you would have 0 second and X kilometers. If this analogy\nwere carried over to the hand damage thing, a Ghouled Street Thug with a\nBastard Sword would do 1R damage + 1 regular damage. This is obviously not\nwhat happens. A Ghouled Street Thug actually does 0 damage with a Bastard\nSword. Another argument is harder to dismiss. That one being that a minion\nwithout hand damage cannot make a hand strike. Thus, using Undead Strength\nwith that minion will still not allow a hand strike, and so no hand damage is\ndone. But with a Bastard Sword, the minion makes a weapon strike, so it seems\nhe should still be able to do 1 damage with the Sword. But not according to\nthe Rules Team. It's been said over and over again that a weapon strike is\nnot a hand strike, so why can't the Thug simply make a strike for hand damage\n(nothing) + 1 with the Sword? I don't know. It's just \"the way things are.\"\nI guess you could say that a minion without hand damage reduces any sum of\nnumbers that includes his hand damage to 0. So with the Bastard Sword, we\nwould add 1 + <nothing> = 0. And with Bang Nakh, 2 + <nothing> = 0. So\n<nothing> is a mystical quantity which when added to or multiplied by any\nnumber gives 0.\n\nIn other words: when any lvalue is given any quantity involving the term\n<nothing>, that lvalue is set to 0.\n\nThat was fun... 8)\n\n-Chris\n\n-----== Posted via Deja News, The Leader in Internet Discussion ==-----\nhttp://www.dejanews.com/ Now offering spam-free web-based newsreading"
+    },
+    {
+      "Author": "Jasper Phillips",
+      "Date": "Mar 28, 1998, 9:00:00\u202FAM",
+      "Body": "In article <351C5977...@cptc.wisc.edu>,\nScott Halvorson <halv...@cptc.wisc.edu> wrote:\n\n[mucho snippage]\n\n>Actually, mathematically, <nothing>! = 1, or more specifically, 0! = 1.\n\n>This is the way the factorial function is defined for 0.\n\nHeh, I was using programming terminology, not mathmatical -- by\n<nothing> != 0\nI meant: <nothing> does not equal 0, not <nothing> factorial equals 0.\n\n\uE5D3"
+    }
+  ]
+}

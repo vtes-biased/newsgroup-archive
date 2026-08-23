@@ -1,0 +1,42 @@
+{
+  "ThreadId": "BtMCxG-HV_E",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/BtMCxG-HV_E",
+  "Title": "Question: Vitae Block + Punish",
+  "Messages": [
+    {
+      "Author": "tongu...@comcast.net",
+      "Date": "Feb 23, 2007, 8:53:35\u202FAM",
+      "Body": "I'm building a Salubri/Imbued deck that wants to use Vitae Block with\nthe Redemption card Punish. As it is late where I am, and looking at\nthe wording on both cards I think I'm right. But I still wanted to\nask.\n\nVitae Block\nType: Combat\nPlay before range is determined. Only usable if the opposing minion is\na vampire. A vampire can play only one Vitae Block each combat.\n[obe] Put this card in play and move up to 2 blood from the opposing\nvampire to this card. During your untap phase, return the blood\ncounters to that vampire and burn this card.\n\nPunish\nType: Action / Combat\nRequires: Redemption\n[ACTION] +1 stealth action. (D) Put this card on a vampire. You still\ncontrol this card. The vampire with this card cannot gain blood. Any\nblood he or she gains goes to the blood bank instead. Burn this card\nduring your next untap phase.\n[COMBAT] As [ACTION] above, but put this card on the opposing vampire\nas a hand strike (at strength damage) instead.\n\nIs \"returning\" the blood from VB technically the same as gaining blood\nfor all intents and purposes from Punish? If so then cool beans, if\nnot then I should put a halt to my deck ideas for the time being.\n\nI did a search for vitae block and found a thread asking about it with\nblood clots, and someone basically said returning and gained are the\nsame. But I would still like to ask. And if it is true, each card has\na \"during your next untap, burn this card.\" I would get to choose\nwhich to burn first I imagine. Seeing how they are both my cards and\nwould burn at the same time.\n\nThank you!"
+    },
+    {
+      "Author": "Bram Vink",
+      "Date": "Feb 23, 2007, 10:23:21\u202FAM",
+      "Body": "\uE5D3\n\nI would assume the following reasoning:\n---\nA vampire has X blood.\nEffect Y\nA vampire has more than X blood.\nEffect Y = Gaining Blood.\n---\nIf the ending of vitae block's effect would not be considered gaining\nblood, then X in the previous example would have to be unaltered by\nthe playing of vitae block to begin with. ie. I play vitae block, and\nthe opposing vampire still has X blood, there's just 3 of it on this\ncard. This is not how the card works. You lose the blood, then regain\nit. (playing it can trigger anathema, for example.)\n\nHope that's sufficiently clear,\n\nB"
+    },
+    {
+      "Author": "Bram Vink",
+      "Date": "Feb 23, 2007, 11:50:48\u202FAM",
+      "Body": "Just to clarify what I mean:\n\nSince at the initial playing of Vitae Block you lose blood, you gain\nblood when you get it back.\nIf you wouldn't gain blood when having your blood returned, you\nwouldn't lose it in the first place, and count as having said blood.\nThis is not the case.\n\nCheers,\n\nB"
+    },
+    {
+      "Author": "adam....@gmail.com",
+      "Date": "Feb 23, 2007, 2:40:35\u202FPM",
+      "Body": "That is an aweome combo. I was thinking about doing an imbued-salubri\ndeck too. Since Obeah has all those ally cards..."
+    },
+    {
+      "Author": "niko.p....@gmail.com",
+      "Date": "Feb 23, 2007, 5:11:12\u202FPM",
+      "Body": "\uE5D3\n\nIsn't the broblem what gets burned first on next untap ?\nBoth cards trigger on untap and if I remember right the controller of\nminion decides which goes first ?\nOr did I miss something in here ?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 23, 2007, 5:14:16\u202FPM",
+      "Body": "\uE5D3\n\nThe player whose untap it is (who also happens to be the controller of both the\nVitae Block and the Punish -- and who is not the controller of the target\nvampire) orders the effects as she likes. Typically, this will be the\nblood-return bit on Vitae Block first (sending the blood to the bank instead)."
+    },
+    {
+      "Author": "tongu...@comcast.net",
+      "Date": "Feb 23, 2007, 6:07:55\u202FPM",
+      "Body": "Cool, Thank you all very much!\nI'll begin work on the deck and try to post it."
+    }
+  ]
+}

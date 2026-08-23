@@ -1,0 +1,27 @@
+{
+  "ThreadId": "6wJQUE2XfUk",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/6wJQUE2XfUk",
+  "Title": "Fake Out & adding \"hand damage\"",
+  "Messages": [
+    {
+      "Author": "Madman2001",
+      "Date": "Apr 23, 2000, 9:00:00\u202FAM",
+      "Body": "Folks:\n\nFake Out says \"Strike: use your hand or melee weapon at +1 damage\".\n\nNephandus natively does 1R damage. If at long range, could Nephandus\nuse Fake Out and to do 2 damage? Or would he only do 1?\n\nSuccubus does 1 aggravated damage. If she struck with Fake Out, would\nshe do 2 aggravated damage??\n\nThanks,\nMadman\n--\nFree audio & video emails, greeting cards and forums\nTalkway - http://www.talkway.com - Talk more ways (sm)"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Apr 23, 2000, 9:00:00\u202FAM",
+      "Body": "On Sun, 23 Apr 2000, Madman2001 wrote:\n\n> Fake Out says \"Strike: use your hand or melee weapon at +1 damage\".\n\nThat's Lucky Blow, actually.\n\n> Nephandus natively does 1R damage.\n\nRulings state that ranged damage on an ally is not considered to be a hand\nstrike, and that if they do not have a stated hand damage, they have 0\nhand damage.\n\n> If at long range, could Nephandus\n> use Fake Out and to do 2 damage? Or would he only do 1?\n\nHand Damage = 0.\nLucky Blow = Hand Damage + 1 = 1\n\n> Succubus does 1 aggravated damage. If she struck with Fake Out, would\n> she do 2 aggravated damage??\n\nHand Strike: any non-ranged, non-weapon strike that deals damage based on\nthe striking minion's hand damage, or any minion's non-ranged\ndamage-dealing innate strike. [LSJ 19970224]\n\nThis suggests her 1 aggravated damage is a hand strike, but not hand\ndamag. So I would have to say she deals one non-aggravated damage when\nplaying Lucky Blow.\n\n--\nJames Coupe | PGP Key 0x5D623D5D\n\"But I don't have the right to be with you tonight, so please leave me\nalone with no saviour in sight. I will sleep safe and sound with nobody\naround me.\""
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 24, 2000, 9:00:00\u202FAM",
+      "Body": "James Coupe <ja...@zephyr.org.uk> wrote:\n> On Sun, 23 Apr 2000, Madman2001 wrote:\n> > Fake Out says \"Strike: use your hand or melee weapon at +1 damage\".\n> That's Lucky Blow, actually.\n> > Nephandus natively does 1R damage.\n> Rulings state that ranged damage on an ally is not considered\n> to be a hand strike,\n\nTrue for any ranged strike, not just an ally's ranged strike.\n\n> and that if they do not have a stated hand damage, they have\n> 0 hand damage.\n\nCorrect. The current rules use the term \"strength\" instead of\n\"hand damage\" to distinguish between the amount of damage done\nby a (default) hand strike and the type of damage done by (any)\nhand strike. Of course, since the printed cards all still use\n\"hand damage\" for this concept, ...\n\n> > If at long range, could Nephandus\n> > use Fake Out and to do 2 damage? Or would he only do 1?\n>\n> Hand Damage = 0.\n> Lucky Blow = Hand Damage + 1 = 1\n\nCorrect.\n\n> > Succubus does 1 aggravated damage. If she struck with Fake Out,\n> > would she do 2 aggravated damage??\n>\n> Hand Strike: any non-ranged, non-weapon strike that deals damage\n> based on the striking minion's hand damage, or any minion's\n> non-ranged damage-dealing innate strike. [LSJ 19970224]\n>\n> This suggests her 1 aggravated damage is a hand strike, but not hand\n\n> damage.\n\nDamage from a hand strike is \"hand damage\", by definition.\nHer default strike deals one aggravated damage, which satisfies the\ndescription of hand strike, above, so her default strike is a hand\nstrike (and the type of damage it deals is hand damage).\n\n> So I would have to say she deals one non-aggravated damage\n> when playing Lucky Blow.\n\nWith Lucky Blow she would deal \"strength\"+1, or 2, damage.\nAll of that damage would be aggravated:\n\nAdditional damage inherits all of the properties of the base\ndamage (So the +1 damage from lucky blow is aggravated for\nBasilia). [RTR]\n\nThe \"official\" card text (from the rulemonger site) makes this\ncombo a little clearer:\n\nSuccubus\nCardtype: Ally\nClan: Tremere Antitribu\nCost: 4 pool\nAlly with 3 life. 1 <strength>, aggravated <hand> damage, 0 bleed.\nAs a +1 stealth (D) action, Succubus may remove 1 blood from a\nvampire or 1 life from an ally to gain 1 life. Once each turn, she\nmay burn 1 life to get +1 bleed.\n\n--\nLSJ (vte...@white-wolf.com) VTES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and DCI (tournament) rules:\nhttp://www.geocities.com/vtesrep\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    },
+    {
+      "Author": "Justicar",
+      "Date": "Apr 27, 2000, 9:00:00\u202FAM",
+      "Body": "In article <8e1d5s$98e$1...@nnrp1.deja.com>,\n\n> LSJ <vte...@white-wolf.com> wrote:\n> > James Coupe <ja...@zephyr.org.uk> wrote:\n> > > On Sun, 23 Apr 2000, Madman2001 wrote:\n\n> > > If at long range, could Nephandus\n> > > use Fake Out and to do 2 damage? Or would he only do 1?\n> >\n> > Hand Damage = 0.\n> > Lucky Blow = Hand Damage + 1 = 1\n>\n> Correct.\n\nAlthough, Nephandus wouldn't actually successfully inflict the 1 damage\nsince Lucky Blow isn't a long range strike.\n\nJust my two cents.\n\nJusticar.\n\n\uE5D3"
+    }
+  ]
+}

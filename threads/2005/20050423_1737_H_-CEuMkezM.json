@@ -1,0 +1,52 @@
+{
+  "ThreadId": "H_-CEuMkezM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/H_-CEuMkezM",
+  "Title": "Q: Amaranth and Tension in the Ranks",
+  "Messages": [
+    {
+      "Author": "scrote",
+      "Date": "Apr 23, 2005, 5:37:51\u202FPM",
+      "Body": "6.4.3. Strike\nIf one or both of the combatants are no longer ready (because one has\ntaken too much damage, for instance), then combat ends immediately. So\nif a strike inflicts more damage than a minion can heal or prevent,\nthen combat ends at that point (no further strikes, no presses, etc.).\nThis is true at any point during combat, not just during strike\nresolution.\n\nAmaranth [Jyhad:U, VTES:U, CE:U, Anarchs:PAG, BH:PTo2]\nCardtype: Combat\n\nOnly usable by a vampire who can commit diablerie. Only usable when the\nopposing vampire should go to torpor. Diablerize the opposing vampire\ninstead. Not usable by a vampire going to torpor.\n\nTension in the Ranks [CE:R2]\nCardtype: Master\n\nUnique master.\nPut this card in play. Whenever a ready minion is burned or sent to\ntorpor, the controller of the minion burns a pool. Any Methuselah can\nburn this card by discarding 2 master cards as a master phase action.\n\nSo, does TitR trigger on a succesful Amaranth? That is to say, is the\nminion being Amaranth'd considered to be still ready (a condition on\nTitR) prior to the Amaranth being played?\n\nOnce a minion is no longer ready the combat immediately ends, so I\nassume there must be a point in time, still in the combat (Amaranth is\na combat card afterall), when a minion is _about_ to not be ready\n(going to torpor, but not there yet) that Amaranth can be played in.\nThe minion would burn in this window as a (just) ready minion and TitR\nwould trigger.\n\nClose?\n\nCheers,\n-Scrote"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 23, 2005, 6:07:27\u202FPM",
+      "Body": "scrote wrote:\n> Tension in the Ranks [CE:R2]\n\n> So, does TitR trigger on a succesful Amaranth? That is to say, is the\n> minion being Amaranth'd considered to be still ready (a condition on\n> TitR) prior to the Amaranth being played?\n\nYes.\nHe's either ready or torpored first, either of which will trigger\nTitR. For other cards, like Fame, where it actually matters, he\nis in fact burned while ready (Fame is not triggered).\n\n> Once a minion is no longer ready the combat immediately ends, so I\n> assume there must be a point in time, still in the combat (Amaranth is\n> a combat card afterall), when a minion is _about_ to not be ready\n> (going to torpor, but not there yet) that Amaranth can be played in.\n\nAmaranth is a \"as combat is ending\" combat card, yes.\n\n> The minion would burn in this window as a (just) ready minion and TitR\n> would trigger.\n>\n> Close?\n\nYes.\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "jeff...@pacbell.net",
+      "Date": "Apr 23, 2005, 6:07:46\u202FPM",
+      "Body": "\uE5D3\n\nA minion in play is either ready or in torpor. Amaranth is playable\nwhen a vampire should go to torpor (but isn't there yet). The diablerie\nvia Amaranth burns the vampire and triggers Tension in the Ranks. Looks\nlike you answered your own question. :)\n\nJeff"
+    },
+    {
+      "Author": "Colin McGuigan",
+      "Date": "Apr 23, 2005, 6:17:16\u202FPM",
+      "Body": "scrote wrote:\n> So, does TitR trigger on a succesful Amaranth? That is to say, is the\n> minion being Amaranth'd considered to be still ready (a condition on\n> TitR) prior to the Amaranth being played?\n\nYes. The opposing minion is being burned from the ready region.\n\n(Even, for sake of argument, if the opposing minion were somehow not in\nthe ready region, they must've been in the ready region at the start of\ncombat, so at some point they left...)\n\n> Once a minion is no longer ready the combat immediately ends, so I\n> assume there must be a point in time, still in the combat (Amaranth is\n> a combat card afterall), when a minion is _about_ to not be ready\n> (going to torpor, but not there yet) that Amaranth can be played in.\n> The minion would burn in this window as a (just) ready minion and TitR\n> would trigger.\n\nThere's a ruling that I'm too lazy to look up right now, but it\nbasically is, \"regardless of how combat ends, there's always a chance to\nplay \"end of combat\" or \"end of round\" cards at the end of it.\" So even\nif your opponent play Majesty, you can still play Taste of Vitae. Read\n\"combat ends\" as \"skip to the end of this round, past the press step\".\n\nThis is also why you can play Taste of Vitae even if you're sending your\nopponent to torpor, etc.\n\n--Colin McGuigan"
+    },
+    {
+      "Author": "scrote",
+      "Date": "Apr 23, 2005, 6:15:39\u202FPM",
+      "Body": "Man, you three are question answering fiends.\n\nThanks for the clarifications though.\n\n-Scrote"
+    },
+    {
+      "Author": "salem",
+      "Date": "Apr 24, 2005, 2:03:30\u202FAM",
+      "Body": "On 23 Apr 2005 09:15:39 -0700, \"scrote\" <mud...@hotmail.com> scrawled:\n\n>Man, you three are question answering fiends.\n>\n>Thanks for the clarifications though.\n\nhey scrote, did you notice this bit on amaranth?\n\n\"Only usable when the opposing vampire *should* go to torpor.\nDiablerize the opposing vampire *instead*.\"\n\nemphasis added. :)\n\nsalem\nhttp://www.users.tpg.com.au/adsltqna/VtES/index.htm\n(replace \"hotmail\" with \"yahoo\" to email)"
+    },
+    {
+      "Author": "scrote",
+      "Date": "Apr 24, 2005, 2:51:23\u202FAM",
+      "Body": "Yeah, I noticed it, even without emphasis. I am pretty good :P\n\nIt came up the other night, and while we decided that TitR would\ntrigger, I simply had to have something official.\n\nCheers\n-Scrote\nBTW email me your street address so that I can post those cards back to\nyou.\nAlso, did you manage to give my doona to the Adelaide crowd?"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Apr 24, 2005, 1:16:56\u202FPM",
+      "Body": "In message <1114303883....@z14g2000cwz.googlegroups.com>,\n\nscrote <mud...@hotmail.com> writes:\n>Yeah, I noticed it, even without emphasis. I am pretty good :P\n\nNoticed what?\n\nWithout quoting and trimming whatever prompted your response, it's hard\nto follow your posts.\n\n--\nJames Coupe \"Why do so many talented people turn out to be sexual\nPGP Key: 0x5D623D5D deviants? Why can't they just be normal like me and\nEBD690ECD7A1FB457CA2 look at internet pictures of men's cocks all day?\"\n13D7E668C3695D623D5D -- www.livejournal.com/users/scarletdemon/"
+    },
+    {
+      "Author": "scrote",
+      "Date": "Apr 26, 2005, 12:16:48\u202FAM",
+      "Body": "James Coupe wrote:\n>> In message <1114303883....@z14g2000cwz.googlegroups.com>,\n>> scrote <mud...@hotmail.com> writes:\n\nsalem wrote:\n> On 23 Apr 2005 09:15:39 -0700, \"scrote\" <mud...@hotmail.com>\nscrawled:\n>\n>>Man, you three are question answering fiends.\n>>\n>>Thanks for the clarifications though.\n>\n> hey scrote, did you notice this bit on amaranth?\n>\n> \"Only usable when the opposing vampire *should* go to torpor.\n> Diablerize the opposing vampire *instead*.\"\n\n>>Yeah, I noticed it, even without emphasis. I am pretty good :P\n\nWell, maybe only sort of good.\n\n>\n> Noticed what?\n\nObviously it was easy to find in this thread, but point taken.\n\n>\n> Without quoting and trimming whatever prompted your response, it's\nhard\n> to follow your posts.\n\nI like the element of mystery.\n\nCheers,\n-Scrote\n\n\uE5D3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "ThreadId": "8ASagC1E660",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/8ASagC1E660",
+  "Title": "KoT on JOL (LSJ?)",
+  "Messages": [
+    {
+      "Author": "librarian",
+      "Date": "Dec 15, 2008, 11:19:30\u202FPM",
+      "Body": "Hi all - George just posted this on JOL:\n\nif anybody wants to speed up KoT, either get on lsj to get me the html\nversion or write\nan awk script that will join 2 lines if the first line starts with Name:\n\nI don't know what an awk script is, but perhaps others do?\n\nLSJ, if you don't have George's e-mail, I can forward the file he is\nasking for...\n\nbest -\n\nchris"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 15, 2008, 11:35:13\u202FPM",
+      "Body": "\uE5D3\n\nKoT has been in the html for some time now.\n\nhttp://www.white-wolf.com/vtes/HTML/cardlist.html"
+    },
+    {
+      "Author": "Jakob Sievers",
+      "Date": "Dec 16, 2008, 8:48:07\u202FAM",
+      "Body": "librarian <auct...@superfuncards.com> writes:\n\n> write an awk script that will join 2 lines if the first line starts\n> with Name:\n>\n\nUh, how about:\n\nj@salty:~$ cat join.awk\n#!/usr/bin/awk -f\n\nBEGIN { s = 0 }\ns == 0 && /^Name:/ { line = $0; s = 1; next }\ns == 1 { printf line \" \"; s = 0 }\n{ print }\n\n# eof\n\nj@salty:~$ cat test.txt\nfoo bar\nName: quux frob\nsnarf\nblarg\n\nj@salty:~$ ./join.awk test.txt\nfoo bar\nName: quux frob snarf\nblarg\n\n(though the OP probably had something more complicated in mind)\n\ncheers,\n-jakob"
+    }
+  ]
+}

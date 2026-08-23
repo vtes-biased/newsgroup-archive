@@ -1,0 +1,27 @@
+{
+  "ThreadId": "zCNOcKLFzBA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/zCNOcKLFzBA",
+  "Title": "Google tips needed.",
+  "Messages": [
+    {
+      "Author": "Chris Shorb",
+      "Date": "Aug 2, 2004, 9:20:58\u202FAM",
+      "Body": "Hi all -\n\nAnyone care to give either a link, or a quick tutorial to generate good\nsearches on google for rulings? LSJ often puts search criteria in his\nreplies, but doesn't explain what they mean. I don't want him to reply\nto this per se, but someone else who is a google master. I looked on\nGoogle's FAQ, but didn't find anything that showed how to generate those\none line searches that bring back the best listings of stuff. Also, I\ndidn't find anywhere a list of the syntactical shorthand codes to use\nwhen trying to generate Google searches. Things like \" \" is exact, or +\nis something else, what : means, and so forth.\n\nThanks to anyone who replies with info, it will be very appreciated.\n\nbest -\n\nchris\n\n--\nchris shorb\nprince of torrance, where the 5th tradition rules."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 2, 2004, 12:23:44\u202FPM",
+      "Body": "Chris Shorb wrote:\n> Hi all -\n>\n> Anyone care to give either a link, or a quick tutorial to generate good\n> searches on google for rulings? LSJ often puts search criteria in his\n> replies, but doesn't explain what they mean. I don't want him to reply\n> to this per se, but someone else who is a google master. I looked on\n> Google's FAQ, but didn't find anything that showed how to generate those\n> one line searches that bring back the best listings of stuff. Also, I\n> didn't find anywhere a list of the syntactical shorthand codes to use\n> when trying to generate Google searches. Things like \" \" is exact, or +\n> is something else, what : means, and so forth.\n>\n> Thanks to anyone who replies with info, it will be very appreciated.\n\nUsually mine aer just a few primary and distinctive terms followed\nby author:lsj\n\nYou can use quotes in your query to search for words occurring togther\nlike \"black hand\" (to avoid \"hitting\" on discussion of Mary the Black\nand cards from hand).\n\n+ is redundant. All terms are searched by default. It is used by\nGoogle's query-string-building engine to avoid having \"%20\" in the\nURLs, though.\n\nYou can use -term to exclude posts containing term, though.\n\nYou can also go to http://groups.google.com/advanced_group_search\nto compose your complicated query.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Gregory Stuart Pettigrew",
+      "Date": "Aug 2, 2004, 4:49:30\u202FPM",
+      "Body": "> You can also go to http://groups.google.com/advanced_group_search\n> to compose your complicated query.\n>\n\nI just want to make it extra clear that, when searching for rulings, you\nshould use groups.google.com as your search page, not www.google.com."
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Aug 3, 2004, 5:27:47\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:QCoPc.164886$OB3.1...@bgtnsc05-news.ops.worldnet.att.net...\n\n> Chris Shorb wrote:\n> > Hi all -\n> >\n> > Anyone care to give either a link, or a quick tutorial to generate\ngood\n> > searches on google for rulings? LSJ often puts search criteria in\nhis\n> > replies, but doesn't explain what they mean. I don't want him to\nreply\n> > to this per se, but someone else who is a google master. I looked\non\n> > Google's FAQ, but didn't find anything that showed how to generate\nthose\n> > one line searches that bring back the best listings of stuff. Also,\nI\n> > didn't find anywhere a list of the syntactical shorthand codes to\nuse\n> > when trying to generate Google searches. Things like \" \" is exact,\nor +\n> > is something else, what : means, and so forth.\n> >\n> > Thanks to anyone who replies with info, it will be very appreciated.\n>\n> Usually mine aer just a few primary and distinctive terms followed\n> by author:lsj\n\nCorrect. :-) That works reasonably well, although I almost always use\nthe advanced-search page:\n\n> You can also go to http://groups.google.com/advanced_group_search\n> to compose your complicated query.\n\nThere, if I'm looking for rulings posts, I typically put some pieces of\n(or full) card titles in the \"all of the words\" box at the top, select\n\"sort by date\" on the right, and put \"LSJ\" in the author box. That's\nit.\n\nIf I'm looking for posts from other people, I usually put\n\"rec.games.trading-cards.jyhad\" in the \"newsgroup\" box, and sometimes\nuse the \"author\" box if I know who wrote what I'm looking for. I still\noften sort by date since I find that's frequently a useful way for me to\nfind what I'm looking for. Sometimes I use the \"exact phrase\" box too,\nbut not that often.\n\nJosh\n\nthe mad googleator what googles at midnight"
+    }
+  ]
+}

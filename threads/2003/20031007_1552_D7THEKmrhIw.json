@@ -1,0 +1,107 @@
+{
+  "ThreadId": "D7THEKmrhIw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/D7THEKmrhIw",
+  "Title": "When to pay for actions and actions modifiere",
+  "Messages": [
+    {
+      "Author": "Jesper",
+      "Date": "Oct 7, 2003, 3:52:26\u202FPM",
+      "Body": "Hello all\n\nIf I make an actions which have some sort of cost, and then play an action\nmodifiere which also have some cost. Do I pay them at the same time, or one\nafter the other.\n\nE.g. If I get one aggro damage from the action, and then one agro damage\nfrom the action modifere do I the burn, or go to torpor loosing one blood?\n\nCheers\n\n/Jesper"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 7, 2003, 5:23:53\u202FPM",
+      "Body": "Jesper wrote:\n> Hello all\n>\n> If I make an actions which have some sort of cost, and then play an action\n> modifiere which also have some cost. Do I pay them at the same time, or one\n> after the other.\n\nThe cost of an action modifier is paid when it is played.\nThe cost of an action is paid when the action is successful.\n\n> E.g. If I get one aggro damage from the action, and then one agro damage\n> from the action modifere do I the burn, or go to torpor loosing one blood?\n\nActions and action modifiers cost blood or pool.\nDamage is not the cost of a card (or action).\n\nIf the action or modifier inflicts damage, then that damage is inflicted at\nthe time indicated by card text. If two effects do damage at the same time,\nyou can order those effects.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "JH",
+      "Date": "Oct 7, 2003, 8:41:26\u202FPM",
+      "Body": "On Tue, 7 Oct 2003 15:52:26 +0200, Jesper <26984...@mail1.stofanet.dk>\nwrote:\n\n> E.g. If I get one aggro damage from the action, and then one agro damage\n> from the action modifere do I the burn, or go to torpor loosing one\n> blood?\n\nLets say for example that a vampire bleeds with superior Force of Will. One\nof prey's vampires attempts to block and then the acting vampire plays\nDaring the Dawn and after that Conditioning to boost the bleed.\n\nThis is what happens to the acting vampire:\n1st - play FoW and start the action\n2nd - play DtD\n3rd - play Conditioning and pay 1 blood\n4th - reduce prey's pool by amount bled\n5th - take 1 agg from FoW and 1 agg from DtD\n\nIf the acting vampire started with:\n- 1 blood: action fizzles skipping step 4, vampire burns with 2 agg from\nFoW and DtD\n- 2 blood: action succeeds and after that vampire burns with 2 agg from FoW\nand DtD\n- 3 blood or more: action succeeds and after that vampire goes to torpor\nand burns 1 blood from 2 agg from FoW and DtD"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Oct 7, 2003, 10:57:23\u202FPM",
+      "Body": "\"Jesper\" <26984...@mail1.stofanet.dk> wrote in message news:<3f82c49f$0$26165$ba62...@nntp05.dk.telia.net>...\n\n> Hello all\n>\n> If I make an actions which have some sort of cost, and then play an action\n> modifiere which also have some cost. Do I pay them at the same time, or one\n> after the other.\n\nYou pay when the card is successful.\n\n> E.g. If I get one aggro damage from the action, and then one aggro damage\n\n> from the action modifere do I the burn, or go to torpor loosing one blood?\n\nTaking aggravated damage occurs at resolution of the card, after costs\nare paid. This may be declared in card text.\n\nSay a vampire you control is forced to hunt going to 1 blood. Then you\ndecide to bleed at +2 bleed using Force of Will at superior. A vampire\nattempts to block so you play Daring the Dawn at superior.\n\nThe action succeeds unblocked, so the vampire pays 1 blood going to\nzero. The bled Meth takes 3. Then the acting vampire takes 2 points of\naggravated damage, burning in the process.\n\nHere's another example:\n\nA vampire you control has 1 blood and bleeds using Govern the\nUnaligned. Depraved Thetmes attempts to block. You don't feel like\ntaking 2 aggravated damage so you desperately try to fish for stealth,\nplaying Conditioning, taking your vampire to zero blood. Luckily, you\ndraw into Lost in Crowds and stealth past Thetmes. Your action is\nunblocked so now you pay costs for it to succeed. The vampire burned\nhis last blood for Conditioning, so the Govern fails (can't pay for\nit) but at least your vampire survived for another turn.\n\nHere's where I have a question now:\nIn the above scenario, was the action considered successful? It sounds\nlike the action was successful but fails due to non-payment. Suppose\nLucas Halton has 1 blood, a Fortitude skill card and the Ankara\nCitadel. Lucas attempts to Clan Impersonate Assamites at +1 stealth.\nTariq Wakes then tries to stop him with +1 intercept since he's\nalready Draughted Anastazdi's Soul. Lucas further plays Alacrity for\n+1 more stealth, paying his last blood in the process. Tariq lets the\naction go unblocked.\n\nCan Lucas play Freak Drive (for free) so he can try to hunt while\nTariq is still tapped? The action was successful (unblocked) but\nfailed due to lack of payment (no blood left).\n\nJeff"
+    },
+    {
+      "Author": "Legendre",
+      "Date": "Oct 8, 2003, 2:07:39\u202FAM",
+      "Body": "Remind me why people use Daring the Dawn instead of Day Operation again?\nYou can \"Go to torpor\" /after/ taking the one aggravated damage, can't you?\n\n-Legendre"
+    },
+    {
+      "Author": "salem",
+      "Date": "Oct 8, 2003, 5:21:23\u202FAM",
+      "Body": "On 7 Oct 2003 17:07:39 -0700, mlo...@mail.wesleyan.edu (Legendre)\nscrawled:\n\n>Remind me why people use Daring the Dawn instead of Day Operation again?\n> You can \"Go to torpor\" /after/ taking the one aggravated damage, can't you?\n\nAt inferior [for], you can play it (Daring) at any time, unlike Day\nOp. You can play it if you have no blood. It's easier to get hold of\n(printing wise). You might have cards that make you take agg damage as\nnormal, etc.\n\nsalem\ndomain:canberra http://www.geocities.com/salem_christ.geo/vtes.htm"
+    },
+    {
+      "Author": "salem",
+      "Date": "Oct 8, 2003, 5:24:10\u202FAM",
+      "Body": "On 7 Oct 2003 13:57:23 -0700, jeff...@hotmail.com (Jeff Kuta)\nscrawled:\n\n>Here's where I have a question now:\n>In the above scenario, was the action considered successful? It sounds\n>like the action was successful but fails due to non-payment. Suppose\n>Lucas Halton has 1 blood, a Fortitude skill card and the Ankara\n>Citadel. Lucas attempts to Clan Impersonate Assamites at +1 stealth.\n>Tariq Wakes then tries to stop him with +1 intercept since he's\n>already Draughted Anastazdi's Soul. Lucas further plays Alacrity for\n>+1 more stealth, paying his last blood in the process. Tariq lets the\n>action go unblocked.\n>\n>Can Lucas play Freak Drive (for free) so he can try to hunt while\n>Tariq is still tapped? The action was successful (unblocked) but\n>failed due to lack of payment (no blood left).\n\nI think that's where Freak Drive misses being able to be played. The\naction wasn't successful (as it wasn't paid for). Freak Drive is only\nplayable after a sucessful action (at inferior) or after a block (at\nsuperior). Neither of these is the case here, so freak drive cannot be\nplayed at all.\n\n\uE5D3"
+    },
+    {
+      "Author": "Halcyan 2",
+      "Date": "Oct 8, 2003, 5:44:52\u202FAM",
+      "Body": ">At inferior [for], you can play it (Daring) at any time, unlike Day\n>Op. You can play it if you have no blood. It's easier to get hold of\n>(printing wise). You might have cards that make you take agg damage as\n>normal, etc.\n\nYes. In my personal experience, Daring the Dawn seems to be the preferred\nchoice over Day Operation.\n\nOf course, before CE it was a slightly different story since back then, Day Op\nhad the distinction of making the action entirely unblockable, instead of just\nunblockable by vamps like it is now.\n\nHalcyan 2"
+    },
+    {
+      "Author": "Jesper",
+      "Date": "Oct 8, 2003, 9:49:46\u202FAM",
+      "Body": "Okay, I see I failed to make my question clear, mixing things together.\nI am aware of when you play and Action modifere you pay the cost, and for\nthe action if its succesfull, this gets me to my question.\n\nWhat if there as a part of an Action Modifere is that you have to take one\naggro damage.\n\nAnd as part of the action you get one aggro damage.\n\nDose that mean that you get one from the action modifere and then is\nwounded, then you get one aggro damage from the action and since your\nwounded is burned?\n\nCheers\n/Jesper\n\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:3F82DA89...@white-wolf.com...\n\n\uE5D3"
+    },
+    {
+      "Author": "JH",
+      "Date": "Oct 8, 2003, 11:52:09\u202FAM",
+      "Body": "On Wed, 8 Oct 2003 09:49:46 +0200, Jesper <26984...@mail1.stofanet.dk>\nwrote:\n\n> Dose that mean that you get one from the action modifere and then is\n> wounded, then you get one aggro damage from the action and since your\n> wounded is burned?\n\nIf a vampire is wounded and gets aggravated damage he must burn one blood\nfor every point of damage to avoid being burned. For example if a vampire\nis going to torpor and in addition gets one aggravated damage he either\nburns a blood or is burned.\n\nAs an answer to your question: yes if he had no blood, otherwise he can\nburn blood equal to damage received to avoid being burned.\n\nquote from Anarch rulebook, last paragraph on page 44:\n\"Aggravated damage done to a wuonded vampire can burn the\nvampire outright. A wounded vampire is one that has taken\ndamage that he failed to heal or one that is in torpor or\non his way to torpor. For each point of aggravated damage\nthat is successfully inflicted on a wounded vampire, he must\nburn a blood to prevent his destruction. If he doesn't have\nenough blood, he is burned. Destruction by this method does\nnot constitute diablerie.\""
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 8, 2003, 2:04:35\u202FPM",
+      "Body": "\uE5D3\n\nCorrect. If the action doesn't resolve (as in the case when the cost\ncannot be paid), then Freak Drive cannot be played (since it can only\nbe played after resolution).\n\nNormally this doesn't matter, since a fizzled action normally fizzles\nbecause of lack of blood, and a lack of blood itself would preclude\nFreak Drive.\n\nBut, for cases when an empty vampire could play Freak Drive, as above,\nit still cannot be played if the action didn't get resolved (that is,\nif the effects of the successful action weren't applied).\n\nGoogle: \"freak fizzled author:LSJ\"\nhttp://groups.google.com/groups?selm=3CBAAC8D.7A19FF4C%40white-wolf.com\n\n\uE5D3"
+    },
+    {
+      "Author": "TunFiskeMad",
+      "Date": "Oct 8, 2003, 6:36:57\u202FPM",
+      "Body": "so in the first case with GtU and conditioning -u bleed for 0 since\nthe action u modified fail (i would say yes) but still like to get\nthings cleared up.\nthx :D\n\nsalem <salem_ch...@yahoo.com> wrote in message news:<qn07ovcfarek21eie...@4ax.com>...\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 8, 2003, 7:16:47\u202FPM",
+      "Body": "\uE5D3\n\nu dn't beed 4 0. u dn't beed atall cuz u cn't pai 4 d axion, zo the\nbeed axion fzzles b4 d beed okurz. If u bed, u'd beed 4 6 (GtU+C).\n\n\uE5D3"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Oct 9, 2003, 4:31:45\u202FAM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote in message news:<3F84467F...@white-wolf.com>...\n\n> TunFiskeMad wrote:\n> u dn't beed 4 0. u dn't beed atall cuz u cn't pai 4 d axion, zo the\n> beed axion fzzles b4 d beed okurz. If u bed, u'd beed 4 6 (GtU+C).\n\nlololololololololololollololololololololololollololololololololololollololololololololololol\n\nl$j H4$ MA5t3R3D L33+ H4X0R 5P34k!"
+    },
+    {
+      "Author": "salem",
+      "Date": "Oct 9, 2003, 5:26:11\u202FAM",
+      "Body": "On 8 Oct 2003 19:31:45 -0700, jeff...@hotmail.com (Jeff Kuta)\nscrawled:\n\n>LSJ <vte...@white-wolf.com> wrote in message news:<3F84467F...@white-wolf.com>...\n\n\uE5D3\n\nit wasn't 1337 h4X0r speak, it was 'i have owned a mobile phone for\ntoo long' speak.\n\nbut it _was_ LOL'able, indeed. ;)\n\n\uE5D3"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Oct 9, 2003, 12:41:27\u202FPM",
+      "Body": "\"Jeff Kuta\" <jeff...@hotmail.com> wrote in message\nnews:621dd332.03100...@posting.google.com...\n\uE5D3\n\nOh no ! you've broken our LSJ-Robot !\nwho's going to make smart rulings now ?"
+    },
+    {
+      "Author": "Janne Hägglund",
+      "Date": "Oct 10, 2003, 12:32:48\u202FAM",
+      "Body": "\"Reyda\" <true_...@hotmail.com> writes:\n\n> Oh no ! you've broken our LSJ-Robot !\n> who's going to make smart rulings now ?\n\nYou mean rulings like:\n\n=> D00dz! H3r3z th3 n3w roo1z!\n=> Th33z uzt t0 SUXX0R, but n0w th3m R t0tl _PWN4G3_!!!!!!!!11!!!1!!!\n=>\n=> - G14NTZ BL00D iz n0w TR1FL3 N can b3 pl4yd AZ M4NY T1M3Z U L1K3!!!1!!!\n=> 1z th1z K3WL r \\/\\/!-!/-\\~!~ ??!!?\"?!?!!!? LOL, Bl00d, bl00d, bl00d,\n=> BL00000000000000000000DDDDDDDDDDDDDDDD!!!!!!!!!!!\"!!\"1!!!!!!!!!!!!!\n=>\n=> - Azz-mit3z SUXXX0R!!!!11!!! 0lny N00BS N L00z3rz pl4y 'hem! Th3yr\n=> n00b bl33d suxx0r t0 th3 m4xx0r. 4ll 4zz-mit3z R *******1NF3RN4L*****\n=> n0w!!!1!!! M4XX0R K3WL1Z3R!!!! H41L S4T4N!!!!\n=>\n=> - M4lkz PWN!!! 4ll M4lkz N 4nt1-M4Lkz n0w h4f +3 BL33D!!!!!!! Y34H!!!\n=> U R PWND, N00B!!!!!!!!!!\n=>\n=>\n=> *****<<<<<<<<L5J TH3 R00LZ D00D PWNZ U>>>>>>>******\n\n--\nhg@ It's better to open your mouth and appear stupid,\niki.fi than to hold it shut and keep thinking you know it all."
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Oct 10, 2003, 4:39:42\u202FAM",
+      "Body": "\"Janne Hägglund\" <h...@iki.fi.remove.these.to.reply.invalid> wrote in message\nnews:m2n0cahw...@etemenanki.homelinux.net...\n\n> \"Reyda\" <true_...@hotmail.com> writes:\n>\n> > Oh no ! you've broken our LSJ-Robot !\n> > who's going to make smart rulings now ?\n>\n>\n> You mean rulings like:\n>\n>\n> => D00dz! H3r3z th3 n3w roo1z!\n> => Th33z uzt t0 SUXX0R, but n0w th3m R t0tl _PWN4G3_!!!!!!!!11!!!1!!!\n> =>\n> => - G14NTZ BL00D iz n0w TR1FL3 N can b3 pl4yd AZ M4NY T1M3Z U L1K3!!!1!!!\n> => 1z th1z K3WL r \\/\\/!-!/-\\~!~ ??!!?\"?!?!!!? LOL, Bl00d, bl00d, bl00d,\n> => BL00000000000000000000DDDDDDDDDDDDDDDD!!!!!!!!!!!\"!!\"1!!!!!!!!!!!!!\n> =>\n> => - Azz-mit3z SUXXX0R!!!!11!!! 0lny N00BS N L00z3rz pl4y 'hem! Th3yr\n> => n00b bl33d suxx0r t0 th3 m4xx0r. 4ll 4zz-mit3z R\n*******1NF3RN4L*****\n> => n0w!!!1!!! M4XX0R K3WL1Z3R!!!! H41L S4T4N!!!!\n> =>\n> => - M4lkz PWN!!! 4ll M4lkz N 4nt1-M4Lkz n0w h4f +3 BL33D!!!!!!! Y34H!!!\n> => U R PWND, N00B!!!!!!!!!!\n> =>\n> =>\n> => *****<<<<<<<<L5J TH3 R00LZ D00D PWNZ U>>>>>>>******\n\nt0t4ll\\/ r0x0r -ph34r d4 r00l|v|o|\\|64' =)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 10, 2003, 1:55:00\u202FPM",
+      "Body": "(Janne Hägglund) wrote:\n> \"Reyda\" <true_...@hotmail.com> writes:\n>\n>\n>>Oh no ! you've broken our LSJ-Robot !\n>>who's going to make smart rulings now ?\n>\n>\n>\n> You mean rulings like:\n>\n>\n> => D00dz! H3r3z th3 n3w roo1z!\n> => Th33z uzt t0 SUXX0R, but n0w th3m R t0tl _PWN4G3_!!!!!!!!11!!!1!!!\n> =>\n> => - G14NTZ BL00D iz n0w TR1FL3 N can b3 pl4yd AZ M4NY T1M3Z U L1K3!!!1!!!\n> => 1z th1z K3WL r \\/\\/!-!/-\\~!~ ??!!?\"?!?!!!? LOL, Bl00d, bl00d, bl00d,\n> => BL00000000000000000000DDDDDDDDDDDDDDDD!!!!!!!!!!!\"!!\"1!!!!!!!!!!!!!\n> =>\n> => - Azz-mit3z SUXXX0R!!!!11!!! 0lny N00BS N L00z3rz pl4y 'hem! Th3yr\n> => n00b bl33d suxx0r t0 th3 m4xx0r. 4ll 4zz-mit3z R *******1NF3RN4L*****\n> => n0w!!!1!!! M4XX0R K3WL1Z3R!!!! H41L S4T4N!!!!\n> =>\n> => - M4lkz PWN!!! 4ll M4lkz N 4nt1-M4Lkz n0w h4f +3 BL33D!!!!!!! Y34H!!!\n> => U R PWND, N00B!!!!!!!!!!\n> =>\n> =>\n> => *****<<<<<<<<L5J TH3 R00LZ D00D PWNZ U>>>>>>>******\n>\n>\n\nThanks, Janne.\nMaybe it's just lack of sleep, but you had me in tears laughing so hard there.\n\n\uE5D3"
+    },
+    {
+      "Author": "cowfields",
+      "Date": "Oct 11, 2003, 2:16:32\u202FAM",
+      "Body": "the link to be l33t\n\nhttp://www.geocities.com/mnstr_2000/"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ThreadId": "evEzbmjNuCE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/evEzbmjNuCE",
+  "Title": "A Request",
+  "Messages": [
+    {
+      "Author": "jcd...@earthlink.net",
+      "Date": "Apr 28, 2005, 1:48:21\u202FAM",
+      "Body": "'allo,\n\nMy group here in SF is trying out a limited-style format based on the\npre-cons, but I need a bit of help on something. One of the caveats for\ndeck construction in this format is that cards that have been printed\nin a pre-con and not allowed. So, I need a list of all the cards\n(Library) that have been printed in a pre-con. Anyone out there can\nhelp me out or point me in the right direction to putting this list\ntogether?"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Apr 28, 2005, 3:06:56\u202FAM",
+      "Body": "On 27 Apr 2005 16:52:49 -0700, jcd...@earthlink.net wrote:\n\n>'allo,\n\nEvening.\n\n\uE5D3\n\nAll of the pre-constructed decks are documented here:\n\nhttp://www.TheLasombra.com/decks.htm#precon\n\nCarpe noctem.\n\nLasombra\n\nhttp://www.TheLasombra.com\nYour best online source for information about V:TES.\nNow also featuring individual card sales and sales\nof booster and starter box displays."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 28, 2005, 4:14:08\u202FAM",
+      "Body": "The Lasombra wrote:\n> On 27 Apr 2005 16:52:49 -0700, jcd...@earthlink.net wrote:\n>\n>\n>>'allo,\n>\n>\n> Evening.\n>\n>\n>>My group here in SF is trying out a limited-style format based on the\n>>pre-cons, but I need a bit of help on something. One of the caveats for\n>>deck construction in this format is that cards that have been printed\n>>in a pre-con and not allowed. So, I need a list of all the cards\n>>(Library) that have been printed in a pre-con. Anyone out there can\n>>help me out or point me in the right direction to putting this list\n>>together?\n>\n>\n> All of the pre-constructed decks are documented here:\n>\n> http://www.TheLasombra.com/decks.htm#precon\n\nAlternatively, grab the CSV file and cull by the 10th column -- the\npresence of a \":P\" or a \"/P\" pattern in that column means toss out\nthat card (that line).\n\nFor example:\nOpen the .csv in Excel, add a column after column 'J'.\nSet its formula to\n=IF(ISERR(FIND(\":P\",J2)),IF(ISERR(FIND(\"/P\",J2)),0,1),1)\n\n(where \"J2\" is replaced by J# for whatever row you're on)\n\nand then sort by that column. The 0 values are the ones you can use.\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Preston",
+      "Date": "Apr 28, 2005, 12:17:45\u202FPM",
+      "Body": "Exactly where is said CSV file?\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 28, 2005, 12:29:03\u202FPM",
+      "Body": "Preston wrote:\n\n> Exactly where is said CSV file?\n\nhttp://www.white-wolf.com/vtes/downloads/vtescsv.zip\n\n\uE5D3"
+    },
+    {
+      "Author": "Preston",
+      "Date": "Apr 28, 2005, 1:58:24\u202FPM",
+      "Body": "What are you doing up so early?"
+    },
+    {
+      "Author": "David Zopf",
+      "Date": "Apr 28, 2005, 3:08:00\u202FPM",
+      "Body": "\"Preston\" <preston...@hotmail.com> wrote in message\nnews:1114689503....@g14g2000cwa.googlegroups.com...\n\n> What are you doing up so early?\n>\n\nScott has two young kids, man. My guess is, he's already been up since 5:30\n(like me...)\n\nDaveZ\nBleary-eyed Atom Weaver"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 29, 2005, 12:45:09\u202FAM",
+      "Body": "David Zopf wrote:\n> \"Preston\" <preston...@hotmail.com> wrote in message\n> news:1114689503....@g14g2000cwa.googlegroups.com...\n>\n>>What are you doing up so early?\n>>\n>\n> Scott has two young kids, man. My guess is, he's already been up since 5:30\n> (like me...)\n\nWell, I have been up and I do have said kids, but I woke them up\nthis morning -- I'm an early riser by nature.\n\n\uE5D3"
+    },
+    {
+      "Author": "salem",
+      "Date": "Apr 29, 2005, 9:59:28\u202FAM",
+      "Body": "On Thu, 28 Apr 2005 22:45:09 GMT, LSJ <vtesr...@TRAPwhite-wolf.com>\nscrawled:\n\n>David Zopf wrote:\n>> \"Preston\" <preston...@hotmail.com> wrote in message\n>> news:1114689503....@g14g2000cwa.googlegroups.com...\n>>\n>>>What are you doing up so early?\n>>>\n>>\n>> Scott has two young kids, man. My guess is, he's already been up since 5:30\n>> (like me...)\n>\n>Well, I have been up and I do have said kids, but I woke them up\n>this morning -- I'm an early riser by nature.\n\nhttp://users.tpg.com.au/adsltqna/sydforum/calvin.jpg\n\nsalem\nhttp://www.users.tpg.com.au/adsltqna/VtES/index.htm\n(replace \"hotmail\" with \"yahoo\" to email)"
+    }
+  ]
+}

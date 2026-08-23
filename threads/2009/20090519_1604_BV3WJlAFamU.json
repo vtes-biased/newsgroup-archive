@@ -1,0 +1,27 @@
+{
+  "ThreadId": "BV3WJlAFamU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/BV3WJlAFamU",
+  "Title": "LSJ - No repeat action and uncontrolled region",
+  "Messages": [
+    {
+      "Author": "dvorax",
+      "Date": "May 19, 2009, 4:04:49\u202FPM",
+      "Body": "A vampire successfully bleeds. In the same turn, he is Banished and\nbrought back to controlled region with Undue Influence [qui]. Can he\nbleed again? Why yes/no?\n\nIn general, what does a trip through uncontrolled region change in a\ncard's state?\nThis trip clearly sets it's \"tappedness\" state to untapped (e.g.\nCorporal Reservoir & Banishment), on the other hand, it doesn't reset\nthe card type (Embrace & Banishment).\n\nSimilar question, what does a card remember when going through out-of-\nplay (Descent into Darkness), or ashheap.\n\nThanks\ndvorax."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 19, 2009, 4:11:20\u202FPM",
+      "Body": "dvorax wrote:\n> A vampire successfully bleeds. In the same turn, he is Banished and\n> brought back to controlled region with Undue Influence [qui]. Can he\n> bleed again? Why yes/no?\n\nNo. He has bled already.\n\n> In general, what does a trip through uncontrolled region change in a\n> card's state?\n\nNothing.\n\n> This trip clearly sets it's \"tappedness\" state to untapped (e.g.\n> Corporal Reservoir & Banishment), on the other hand, it doesn't reset\n> the card type (Embrace & Banishment).\n\nAh. Well, sure. It also changes its controlledness and its readiness (from ready\nto uncontrolled and back to ready). It will often change the amount of blood on\nthe vampire as well.\n\n> Similar question, what does a card remember when going through out-of-\n> play (Descent into Darkness), or ashheap.\n\nDescent into Darkness is like contested/uncontrolled: the card remembers everything.\n\nBurn is more cleansing. The card remembers nothing."
+    },
+    {
+      "Author": "Smurf...@gmail.com",
+      "Date": "May 19, 2009, 4:27:36\u202FPM",
+      "Body": "\uE5D3\n\nHow do temporary control effects work with descent into darkness? It\nstates on the card that they are broken, but does that mean that the\noriginal controller then chooses when the vampire comes back into play\nor does the player that played the card breaking the temporary control\neffect still control the action card?\n\nMy guess would be the original controller has the choice. Although the\ncardtext might suggest differently.\n\nDescent into Darkness, Action, 1 blood, Obtenebration, C , [G]\n+1 stealth action.\n[obt] Turn the acting vampire and any cards on him or her face down,\nout of play (breaking any temporary control effects). Put this card on\nhim or her (in play). During your influence phase, move 2 blood to\nthis face down vampire from the blood bank, and you can choose to burn\nthis card to return the vampire to play, tapped.\n[OBT] As above, but the vampire is untapped when he or she returns to\nplay."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 19, 2009, 4:38:49\u202FPM",
+      "Body": "Smurf...@gmail.com wrote:\n> How do temporary control effects work with descent into darkness? It\n> states on the card that they are broken, but does that mean that the\n> original controller then chooses when the vampire comes back into play\n> or does the player that played the card breaking the temporary control\n> effect still control the action card?\n>\n> My guess would be the original controller has the choice.\n\nCorrect. It's a minion card.\n\n> Although the\n> cardtext might suggest differently.\n\nNot particularly: it's a minion card.\n\n\uE5D3"
+    }
+  ]
+}

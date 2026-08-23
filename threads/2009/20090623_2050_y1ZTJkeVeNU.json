@@ -1,0 +1,32 @@
+{
+  "ThreadId": "y1ZTJkeVeNU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/y1ZTJkeVeNU",
+  "Title": "Ugadja, spending blood, and declaring actions",
+  "Messages": [
+    {
+      "Author": "ira...@gmail.com",
+      "Date": "Jun 23, 2009, 8:50:54\u202FPM",
+      "Body": "Hello LSJ,\n\nIf Ugadja has 2 blood and declares an action to use his special, then\nspends 1 blood on an action modifier, does the action fizzle or does\nit still work? That is, do I need to declare how much blood I'm\nmoving, or do I simply declare \"moving up to 2 blood to this Laibon in\nmy uncontrolled\"? I think the action would still work, and I'd move 1\nblood to the inactive vamp.\n\nThanks,\nIra\n\nName: Ugadja\n[LoB:PG2]\nCardtype: Vampire\nClan: Guruhi\nGroup: 4\nCapacity: 10\nDiscipline: dom for ABO ANI POT PRE\nLaibon magaji: Ugadja may move up to 2 blood from himself to a younger\nLaibon in your uncontrolled region as a +1 stealth action."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Jun 23, 2009, 9:01:33\u202FPM",
+      "Body": "\uE5D3\n\nI might be wrong, but I believe you declare how much blood you are\nmoving, and then move as much as you can. Thus, if you declare you\nare moving 2, and then spend a blood on an action modifier and have\nonly 1 blood left, you'd still try to move 2, but only 1 blood would\nbe moved.\n\nCompare to Villein, which says that you must move 2 or more blood, but\nit can be used on a vampire with 1 or 0 blood and just moves as much\nas it can."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 23, 2009, 9:02:17\u202FPM",
+      "Body": "ira...@gmail.com wrote:\n> Hello LSJ,\n>\n> If Ugadja has 2 blood and declares an action to use his special, then\n> spends 1 blood on an action modifier, does the action fizzle or does\n> it still work?\n\nWorks.\n\n> That is, do I need to declare how much blood I'm\n> moving,\n\nYes.\n\n> or do I simply declare \"moving up to 2 blood to this Laibon in\n> my uncontrolled\"? I think the action would still work, and I'd move 1\n> blood to the inactive vamp.\n\nYou fully declare it. If it was declared as \"Ugadja moves 2 blood to this\nuncontrolled vampire\", then it when it resolves, you move 2 blood. Like stealing\nblood, though, or rearranging pool with Parity Shift, attempting to move more\nthan there is results in moving all.\n\n\uE5D3"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Jun 24, 2009, 10:45:17\u202FAM",
+      "Body": "On Jun 23, 9:01 pm, Chris Berger <ark...@ugcs.caltech.edu> wrote:\n> Compare to Villein, which says that you must move 2 or more blood, but\n> it can be used on a vampire with 1 or 0 blood and just moves as much\n\n> as it can.- Hide quoted text -\n>\n> - Show quoted text -\n\nWeird, is that true?\n\nWhy have the \"move 2\" text in the first place then? Why not just say\n\"You must move 0 or more blood\" or even copy/paste Minion Tap's text\n\"Move any amount of blood from one of the vampires you control to your\npool\" since it practically works the same anyway? Having it say 2 and\nit works on 0 or 1 is confusing."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jun 24, 2009, 10:52:44\u202FAM",
+      "Body": "\uE5D3\n\nIt works on 0 and 1. But if you have 1 blood on a vampire and play\nVillein on him, you must move 1 blood. If you have 2 blood, you must\nmove 2 blood. You can't \"cycle\" a Villein on Arika with 1 blood\nwithout moving her blood to your pool."
+    }
+  ]
+}

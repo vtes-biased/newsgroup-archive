@@ -1,0 +1,72 @@
+{
+  "ThreadId": "GyFqERb8oVc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/GyFqERb8oVc",
+  "Title": "ARDB ERROR",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Jun 4, 2009, 5:52:06\u202FPM",
+      "Body": "When I try to update the database I get a corruption error, can anyone\nexplain this to me?"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jun 4, 2009, 5:57:33\u202FPM",
+      "Body": "XZealot <xze...@cox.net> wrote:\n> When I try to update the database I get a corruption error, can anyone\n> explain this to me?\n\nMaybe the CSV isn't ready yet?"
+    },
+    {
+      "Author": "D.J.",
+      "Date": "Jun 4, 2009, 5:59:12\u202FPM",
+      "Body": "On Jun 4, 11:52 am, XZealot <xzea...@cox.net> wrote:\n> When I try to update the database I get a corruption error, can anyone\n> explain this to me?\n\nToo many Setites? Or perhaps not enough? :-)\n\n(Sorry, couldn't resist. Wish I had helpful info for you.)\n(Smiley included for Peter's sake.)\n\n- D.J."
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "Jun 4, 2009, 7:26:15\u202FPM",
+      "Body": "On Jun 4, 4:52 pm, XZealot <xzea...@cox.net> wrote:\n> When I try to update the database I get a corruption error, can anyone\n> explain this to me?\n\nThe CSV file that has been uploaded to the White Wolf website is\nwrong. It seems to contain a copy of the actual card text web pages\nand not just the CSV files. Inside of the zip file are the actual\nfiles required by Ardb. There is still a problem though as only the\nlibrary cards have been updated. It does not contain the new crypt\ncards. As soon as the correct files have been upload by White Wolf\nyou will be able to update Ardb.\n\nGraham."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 4, 2009, 9:08:05\u202FPM",
+      "Body": "\uE5D3\n\nCorrect files are now live on White-Wolf.com"
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "Jun 4, 2009, 9:22:26\u202FPM",
+      "Body": "On Jun 4, 8:08 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n> Correct files are now live on White-Wolf.com\n\nCould I have the URL for them please? If I use the link\nhttp://download.white-wolf.com/download/download.php?file_id=131 I get\n\"File E:\\Inetpub\\wwwroot\\download.white-wolf.com\\downloads\\38/\nvtescsv.zip does not exist.\" returned.\n\nGraham."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 4, 2009, 9:22:27\u202FPM",
+      "Body": "\uE5D3\n\nHmm. Not as live as they should be, apparently."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 4, 2009, 9:24:53\u202FPM",
+      "Body": "\uE5D3\n\nYeah. I noticed (thanks to IRC). It's been reported."
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "Jun 4, 2009, 9:33:35\u202FPM",
+      "Body": "On Jun 4, 8:24 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n> Yeah. I noticed (thanks to IRC). It's been reported.\n\nURL now works and Ardb can be updated. Thanks LSJ.\n\nGraham."
+    },
+    {
+      "Author": "devil_in_the_p...@yahoo.com",
+      "Date": "Jun 7, 2009, 4:28:04\u202FPM",
+      "Body": "How can I update my ARDB? I do the update and then when my ARDB tries\nto convert the files it locks up. What am I doing wrong?"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Jun 7, 2009, 4:35:03\u202FPM",
+      "Body": "On Jun 7, 4:28 pm, devil_in_the_pale_moon_li...@yahoo.com wrote:\n> How can I update my ARDB?  I do the update and then when my ARDB tries\n> to convert the files it locks up.  What am I doing wrong?\n\nDid you wait long? It takes quite a while on my comp, like 3-4 minutes\nat least, and acts locked up while doing it."
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "Jun 7, 2009, 7:38:47\u202FPM",
+      "Body": "On Jun 7, 3:28 pm, devil_in_the_pale_moon_li...@yahoo.com wrote:\n> How can I update my ARDB?  I do the update and then when my ARDB tries\n> to convert the files it locks up.  What am I doing wrong?\n\nWhat version of Ardb?\n\nIt does take a long time and the UI does not respond when performing\nthe update. I really should make the updater more responsive but its\none of those things that never makes it onto my todo list.\n\nGraham."
+    },
+    {
+      "Author": "devil_in_the_p...@yahoo.com",
+      "Date": "Jun 8, 2009, 1:44:57\u202FPM",
+      "Body": "I got it to work! Thanks guys!"
+    }
+  ]
+}

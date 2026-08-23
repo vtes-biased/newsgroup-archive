@@ -1,0 +1,52 @@
+{
+  "ThreadId": "zBOoZ0t_y5Q",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/zBOoZ0t_y5Q",
+  "Title": "LSJ - Edged Illusion and targeting",
+  "Messages": [
+    {
+      "Author": "Clément",
+      "Date": "Oct 23, 2007, 1:55:35\u202FPM",
+      "Body": "LSJ,\n\nSuperior Edged Illusion is a (D) action that affect multiple minions.\nAre those minions also considered to be targets of Edged Illusion, or\nthe only target is the Methuselah who controls them?\n\nRelevant text: \"[CHI] (D) Choose a Methuselah. This acting vampire\ninflicts 1 unpreventable damage on each ready minion controlled by\nthat Methuselah.\"\n\nThis is important for effects like:\n\n1) Hide: \"[REACTION] [1 CONVICTION] Only usable during a monster's (D)\naction targeting this imbued. The action fails.\"\n\nIs this imbued allowed to use the reaction effect Hide to make an\nEdged Illusion fail?\n\n2) Talley, the Hound: \"Talley gets +1 intercept when attempting to\nblock any (D) action directed at one of your other minions.\"\n\nThis is basically the same question as above, but with an extra\ndetail: the meaning of \"one\" on Talley's text. Does it mean \"exactly\none\" or Talley still gets his intercept bonus if more than one of your\nother minions is targeted by the action?\n\nThank you in advance.\n\nAbraço,\n\nLuiz Mello"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 23, 2007, 2:29:28\u202FPM",
+      "Body": "Clément wrote:\n> LSJ,\n>\n> Superior Edged Illusion is a (D) action that affect multiple minions.\n> Are those minions also considered to be targets of Edged Illusion, or\n> the only target is the Methuselah who controls them?\n\nThe minions are the targets.\n\n> Relevant text: \"[CHI] (D) Choose a Methuselah. This acting vampire\n> inflicts 1 unpreventable damage on each ready minion controlled by\n> that Methuselah.\"\n>\n> This is important for effects like:\n>\n> 1) Hide: \"[REACTION] [1 CONVICTION] Only usable during a monster's (D)\n> action targeting this imbued. The action fails.\"\n>\n> Is this imbued allowed to use the reaction effect Hide to make an\n> Edged Illusion fail?\n\nYes.\n\n> 2) Talley, the Hound: \"Talley gets +1 intercept when attempting to\n> block any (D) action directed at one of your other minions.\"\n>\n> This is basically the same question as above, but with an extra\n> detail: the meaning of \"one\" on Talley's text. Does it mean \"exactly\n> one\" or Talley still gets his intercept bonus if more than one of your\n> other minions is targeted by the action?\n\nHe gets the bonus."
+    },
+    {
+      "Author": "Stone",
+      "Date": "Oct 23, 2007, 3:13:04\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> a écrit dans le message de\nnews:471DE928...@white-wolf.com...\n\n> > 1) Hide: \"[REACTION] [1 CONVICTION] Only usable during a monster's (D)\n> > action targeting this imbued. The action fails.\"\n> >\n> > Is this imbued allowed to use the reaction effect Hide to make an\n> > Edged Illusion fail?\n>\n> Yes.\n\nDoesn't this contradict [LSJ20060418] ? relevant part of that post quoted\nhere :\n***************************************************\n\nwitness1 wrote:\n> Is superior Wave of Insanity considered directed at any given ally even\n> if the action itself is undirected (i.e., the targets are controlled by\n> more than one methuselah)?\n\nNo. An undirected action does not qualify as a \"(D) action against this\nimbued\".\n\n> Can a single React With Conviction cause the entire action to fail in\n> this case?\n> What if all the allies in play are controlled by the same player?\n\nThen the action would be a (D) action, and RwC could be used (to cancel\nthe action as it is announced).\n\n***************************************************\n\nI mean, in both cases (Edged Illusion and Wave of Insanity), there are\nmultiple targets controlled by different Meth, so that the action is\nundirected (due to the old Mehemet of the Ahl-i-Batin ruling,\n[LSJ20010816]).\nHide specifies \"(D) action targeting this imbued\"\nRwC specifies \"(D) action against this imbued\"\n\nor does this mean \"targeting\" is different than \"against\" ? (I don't know\noff the top of my head how \"against this imbued\" could mean something else\nthan \"targeting this imbued\"). But then, it's irrelevant to the issue of EI\nand WoI being both undirected in this case.\nSo err...what's the explanation? a bit confused, here.\nStone"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 23, 2007, 3:11:23\u202FPM",
+      "Body": "Stone wrote:\n> \"LSJ\" <vte...@white-wolf.com> a écrit dans le message de\n> news:471DE928...@white-wolf.com...\n>>> 1) Hide: \"[REACTION] [1 CONVICTION] Only usable during a monster's (D)\n>>> action targeting this imbued. The action fails.\"\n>>>\n>>> Is this imbued allowed to use the reaction effect Hide to make an\n>>> Edged Illusion fail?\n>> Yes.\n>\n> Doesn't this contradict [LSJ20060418] ? relevant part of that post quoted\n> here :\n> ***************************************************\n>\n> witness1 wrote:\n>> Is superior Wave of Insanity considered directed at any given ally even\n>> if the action itself is undirected (i.e., the targets are controlled by\n>> more than one methuselah)?\n>\n>\n> No. An undirected action does not qualify as a \"(D) action against this\n> imbued\".\n>\n>\n>> Can a single React With Conviction cause the entire action to fail in\n>> this case?\n>> What if all the allies in play are controlled by the same player?\n>\n>\n> Then the action would be a (D) action, and RwC could be used (to cancel\n> the action as it is announced).\n>\n> ***************************************************\n\nNo, since the action is directed, as opposed to the undirected Wave of Insanity\naction. The Wave targets multiple minions, but since the minions are controlled\nby more than just one Methuselah (in the example you're quoting), the action is\nundirected. If the Wave action targeted minions of only one Methuselah, it would\nbe directed and the anti-directed-action stuff would work.\n\n> I mean, in both cases (Edged Illusion and Wave of Insanity), there are\n> multiple targets controlled by different Meth, so that the action is\n\nNo. Edged Illusion's action is targeting only one Methuselah's minions.\nIt it targeted more Methuselah's minions (which it cannot do, by card text),\nthen it would be undirected and the anti-directed stuff wouldn't work.\n\n\uE5D3"
+    },
+    {
+      "Author": "Stone",
+      "Date": "Oct 23, 2007, 3:23:23\u202FPM",
+      "Body": "god, I didn't read properly card text. sorry about that. gotta grab more\ncoffee in shame...\nStone"
+    },
+    {
+      "Author": "JakubB...@gmail.com",
+      "Date": "Oct 24, 2007, 8:49:32\u202FAM",
+      "Body": "So if Edged Illusion is targeting also a minions I assume that I can\ncancel it with for example Yoruba Shrine , right?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 24, 2007, 12:34:03\u202FPM",
+      "Body": "JakubB...@gmail.com wrote:\n> So if Edged Illusion is targeting also a minions I assume that I can\n> cancel it with for example Yoruba Shrine , right?\n\nYes."
+    },
+    {
+      "Author": "reyda",
+      "Date": "Nov 1, 2007, 12:55:24\u202FAM",
+      "Body": "LSJ a écrit :\n\n> Stone wrote:\n>\n>> \"LSJ\" <vte...@white-wolf.com> a écrit dans le message de\n>> news:471DE928...@white-wolf.com...\n>>\n>>>> 1) Hide: \"[REACTION] [1 CONVICTION] Only usable during a monster's (D)\n>>>> action targeting this imbued. The action fails.\"\n>>>>\n>>>> Is this imbued allowed to use the reaction effect Hide to make an\n>>>> Edged Illusion fail?\n>>>\n>>> Yes.\n\nDoes this mean i cannot play Edged illusion if one of my prey's minion\nhappens to have a secure haven ? ... :roll:"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 1, 2007, 2:20:04\u202FAM",
+      "Body": "\uE5D3\n\nNo.\n\nGoogle: \"Edged Illusion Secure author:LSJ\""
+    }
+  ]
+}

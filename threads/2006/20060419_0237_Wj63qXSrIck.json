@@ -1,0 +1,87 @@
+{
+  "ThreadId": "Wj63qXSrIck",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Wj63qXSrIck",
+  "Title": "ARDB ERROR",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Apr 19, 2006, 2:37:34\u202FAM",
+      "Body": "Can somebody help me? I tried to update the ARDB database to see if it\nwould grab the hunter data but I got this message instead.\n\nTable has 13 columns but 14 values were supplied"
+    },
+    {
+      "Author": "sutekh_23",
+      "Date": "Apr 19, 2006, 2:42:55\u202FAM",
+      "Body": "It did this when Lob came out dude, It comes from the addition of\ndisciplines, or in this case powers. Last time it took about a week to\nfix up, but i'm sure it will be fixed.\nPS: Mr G, thanks for the work on ARDB, I think its the best deck\nbuilder out there."
+    },
+    {
+      "Author": "Huruem",
+      "Date": "Apr 19, 2006, 7:21:57\u202FAM",
+      "Body": "Unfortunatly François said he would stop updating it since LOB. So\nunless someone else tries to work on it there won't be any update of\nARDB."
+    },
+    {
+      "Author": "sutekh_23",
+      "Date": "Apr 19, 2006, 8:04:56\u202FAM",
+      "Body": "\uE5D3\n\nThats a real shame. Can't blame the guy, he's done it out of love for\nthe game for quite a while now so Kudos to him for doing so. If anyone\nwas prepared to show me the coding and teach me how to update it\nproperly I sure would. The ARDB has been responsible for most of my\ndeck construction since I started playing V:Tes and it would be a shame\nto see it go away. If anyone has the code and the \"know how\" to make it\nwork, let me know, I'm happy to continue it in Francois' name as long\nas someone would tell me how to do it.\nMerci Francois, for all your work\nViva La ARDB!!\n(apologies now for screwing up the language, Thanks alot for your work)\nLong live the ARDB!!\n\nSutekh_23"
+    },
+    {
+      "Author": "Huruem",
+      "Date": "Apr 19, 2006, 1:29:17\u202FPM",
+      "Body": "You have all you need here :\n\nhttp://wiki.vekn.org/index.php/Anarch_Revolt_Deck_Builder\n\nFrancois also created a mailing list here :\n\nhttp://lists.nongnu.org/mailman/listinfo/anarchdb-devel\n\nNot sure that it still works though."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 19, 2006, 1:42:11\u202FPM",
+      "Body": "\uE5D3\n\nOpen the CSV file in MS Excel or whatever, find the column that is new\n(the labels should provide a clue) and delete it (or merge it with\nanother suitable column, if that's your thing).\n\nThen ARDB can import it."
+    },
+    {
+      "Author": "pallando",
+      "Date": "Apr 19, 2006, 2:57:37\u202FPM",
+      "Body": "\"XZealot\" <xze...@cox.net> wrote in message\nnews:1145407054....@i40g2000cwc.googlegroups.com...\n\n> Can somebody help me? I tried to update the ARDB database to see if it\n> would grab the hunter data but I got this message instead.\n>\n> Table has 13 columns but 14 values were supplied\n>\n\nSince Francois doesn't update ARDB any more you could try Fragment of the\nElder Library Deck Builder (FELDB). You can get it here:\nhttp://web.interware.hu/bala0/feldb.htm\n\nBala updated it for NOB around WEdnesday last week.\n\nI tried both the ARDB and the FELDB and I liked the FELDB better. The big\nplus is the inventory feature. Over the last few versions Bala added some\nnice features: So in the mean time FELDB is a lot better than ELDB ever was.\n\nNote that the latest version still has some minor bugs. The plan was to\nrelease the NOB edition fast and to correct the bugs later on. See also:\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/749c5fee7597eafb/1866eb1567afc8d4?hl=en#1866eb1567afc8d4\n\n--\nregards\n\npallando\n---------------------\npallando(at)gmx(dot)at"
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Apr 19, 2006, 3:04:29\u202FPM",
+      "Body": "pallando wrote:\n<snip>\n\n> Since Francois doesn't update ARDB any more you could try Fragment of the\n> Elder Library Deck Builder (FELDB)\n\n...which however doesn't have a Mac version.\nGrmbpwlll... :-(((\n\nI really hope someone will take care of the ARDB!\n\nEmiliano"
+    },
+    {
+      "Author": "Fabio 'Sooner' Macedo",
+      "Date": "Apr 19, 2006, 4:52:41\u202FPM",
+      "Body": "\uE5D3\n> pallando\n\nDoes the new version of FELDB already gained the online database\nupdater tool?\nBecause if it doesn't have any, even if the software can cook, fly and\npay my taxes, I still won't use it alone if I can get any version of\nARDB around too. FELDB's database has too many errors yet, specially\nregarding Rarity and card text. ARDB has no such problem since it\nupdates its database from the official one at WW's website.\nOf course, if ARDB doesn't get a new version to account for the new\ncolumn added for NoR, we'll never be able to update it, but still, its\ndatabase is accurate on all sets released before, so I'll never abandon\nit until Bala fixes either the database for good or adds an online\nupdater tool.\n\nI appreciate Bala's efforts on making FELDB the best software overall\n(which it is), I really do. But these database errors are a major\nproblem, and newbies shouldn't download it without knowing that they\nsimply can't use FELDB to check for card texts and rarity indicators.\n\nFabio \"Sooner\" Macedo"
+    },
+    {
+      "Author": "xcver",
+      "Date": "Apr 19, 2006, 5:19:40\u202FPM",
+      "Body": "Hi,\n\nIf someone has made a working vtescsv.zip this way could he please send\nit to me as a email. Since I have the german excel version he uses ;\ninstead of , as capacitator in the files and can't save them back right\ntoo :(\n\nmy email adress would be xc...@gmx.net. thx\n\nxcver"
+    },
+    {
+      "Author": "Karl Schaefer",
+      "Date": "Apr 19, 2006, 5:27:11\u202FPM",
+      "Body": "\uE5D3\nWe, the ARDB development team, are currently working on a new version.\nThis has been slower than we would have hoped due to real life concerns\nfor those involved. Please have patience, we hope to have something\nfor you soon."
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Apr 19, 2006, 5:33:31\u202FPM",
+      "Body": "\uE5D3\n\nIs there an \"ARDB development team\"?\nWow, that's very good news!!! You have all my gratitude!\n\nNow becoming a little more egoistic, is mantaining a Mac\nversion part of the commitment of the development team?\n\nCiao,\nEmiliano"
+    },
+    {
+      "Author": "Karl Schaefer",
+      "Date": "Apr 19, 2006, 6:26:10\u202FPM",
+      "Body": "Emiliano Imeroni wrote:\n> Karl Schaefer wrote:\n> > XZealot wrote:\n> > > Can somebody help me? I tried to update the ARDB database to see if it\n> > > would grab the hunter data but I got this message instead.\n> > >\n> > > Table has 13 columns but 14 values were supplied\n> > We, the ARDB development team, are currently working on a new version.\n> > This has been slower than we would have hoped due to real life concerns\n> > for those involved. Please have patience, we hope to have something\n> > for you soon.\n>\n> Is there an \"ARDB development team\"?\n> Wow, that's very good news!!! You have all my gratitude!\n\nYes. The number of active members of that team is in question, but\nthere is a team.\n\n> Now becoming a little more egoistic, is mantaining a Mac\n> version part of the commitment of the development team?\n\nOS X support is a goal. I know Francois is concerned about it and he\nstill helps out.\n\nFor those of you interested, we can use more help. See the ARDB\ndevelopment site:\nhttps://savannah.nongnu.org/projects/anarchdb"
+    },
+    {
+      "Author": "Fabio 'Sooner' Macedo",
+      "Date": "Apr 19, 2006, 6:56:09\u202FPM",
+      "Body": "\uE5D3\n\nGood call. But I'm tryng that right now and I've noticed one thing:\nsomehow the .csv file has line breaks (or something that Excel\ninterprets as such) before all [MERGED] tags. This makes all the values\nafter those tags appear in a subsequent line when the data is imported\nto Excel. So I see something line this (using commas to indicate column\nseparation):\n\nLine N: Alan Sovereign, Vampire, Ventrue etc. etc.\nLine N+1: [MERGED] (Alan's Merged Text), etc. etc.\n\nI had to open the .csv file in Notepad and get rid of those line breaks\nmarks.\n\nAlso, the new column is crypt card type, right? I think we can live\nwithout it for a while ;)\n\nWait. Now that I checked the library file, I noticed it has tons of\nline breaks inside some columns' content. It comes before [] tags,\nafter some periods into card text, and other cases. It's a dauting task\nto find all of them without merging the contents of one line with\nanother. Of course, these seem to be usual line breaks you find in card\ntexts (after things such as \"+1 stealth action.\", per example), but\nanyone has a clue how I can make Excel ignore these if they appear into\ntext delimitator? (\"\")\n\nFabio \"Sooner\" Macedo"
+    },
+    {
+      "Author": "xcver",
+      "Date": "Apr 20, 2006, 8:35:26\u202FAM",
+      "Body": "Fabio 'Sooner' Macedo schrieb:\n\uE5D3\n\nHi I had exactly the same problems and couldn't get it to work :("
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 20, 2006, 2:14:46\u202FPM",
+      "Body": "Fabio 'Sooner' Macedo wrote:\n> LSJ wrote:\n> > XZealot wrote:\n> > > Can somebody help me? I tried to update the ARDB database to see if it\n> > > would grab the hunter data but I got this message instead.\n> > >\n> > > Table has 13 columns but 14 values were supplied\n> >\n> > Open the CSV file in MS Excel or whatever, find the column that is new\n> > (the labels should provide a clue) and delete it (or merge it with\n> > another suitable column, if that's your thing).\n> > Then ARDB can import it.\n>\n> Good call. But I'm tryng that right now and I've noticed one thing:\n> somehow the .csv file has line breaks (or something that Excel\n> interprets as such) before all [MERGED] tags.\n\n[...]\n\n> Wait. Now that I checked the library file, I noticed it has tons of\n> line breaks inside some columns' content. It comes before [] tags,\n> after some periods into card text, and other cases. It's a dauting task\n> to find all of them without merging the contents of one line with\n> another. Of course, these seem to be usual line breaks you find in card\n> texts (after things such as \"+1 stealth action.\", per example), but\n> anyone has a clue how I can make Excel ignore these if they appear into\n> text delimitator? (\"\")\n\nYes. There are many linebreaks embedded in text fields. Such text field\nare wrapped with quotes, per standard .csv conventions. Excel should\nhandle these appropriately. Recent versions of Excel (Windows Excel\n2000 or Mac Excel 2004) do, at any rate.\n\nIf your csv reader doesn't rise to the occassion, you could try editing\nit by hand, but you'll probably need something stronger than Notepad.\n\nIn vi, open the .csv and join every line that doesn't begin with a\ndouble quote to the previous line with the following command (just\nstart typing -- when you press the colon, the colon-prompt will appear\nat the bottom of the screen, allowing you to enter the rest of the\ncommand).\n:g/^[^\"]/.-1j\n\n(Note that the header line will be spared, even though it doesn't begin\nwith a quote, since there is no previous line).\n\nThen save the file and exit vi by typing\n:x\n\nYou can get vim (a vi clone) for windows and other platforms here:\nhttp://www.vim.org/download.php\n\nOr you can try using MS Word:\n\nFirst replace all paragraph marks with manual line breaks:\nSearch for: ^p\nReplace with: ^l\n[Replace All]\n\nThen check the \"Use wildcards\" box in the search-and-replace extended\ndialog and replace the manula line breaks with spaces if the line that\nfollows doesn't begin with a quote:\nSearch for: ^l([!\"])\nReplace with: <spacebar>\\1\n[Replace all]\n\nNOTE: Use a space before the \\1.\n\nThen save the document as text."
+    }
+  ]
+}

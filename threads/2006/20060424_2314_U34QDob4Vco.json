@@ -1,0 +1,52 @@
+{
+  "ThreadId": "U34QDob4Vco",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/U34QDob4Vco",
+  "Title": "Puppeteer vs. React With Conviction",
+  "Messages": [
+    {
+      "Author": "witness1",
+      "Date": "Apr 24, 2006, 11:14:22\u202FPM",
+      "Body": "React with Conviction [NoR:C]\nCardtype: Conviction\nWhen an effect that would change control of this imbued is played or\nannounced, you may burn this card to cancel that effect. Burn this card\nto cancel either a (D) action against this imbued that requires\nChimerstry [chi], Dementation [dem], Dominate [dom], Presence [pre], or\nSerpentis [ser] or a strike card that requires any of those Disciplines\nplayed by a minion opposing this imbued as it is announced. No cost is\npaid.\n\nPuppeteer (Wraith) [FN:R2]\nCardtype: Ally\nCost: 1 pool\nDiscipline: Necromancy\nWraith with 1 life. 1 strength, 0 bleed.\n[nec] The puppeteer can give you control of an ally or a vampire with\ncapacity of less than 5 for the remainder of your turn as a (D) action.\n[NEC] As above, with 2 life.\n\nSo, if I burn the React With Conviction as the Puppeteer's action is\nannounced, it cancels his action, leaving him untapped and ready to\nperform his action, effectively doing nothing but burning a conviction,\nright?\n\nWitness1\n-ItE"
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Apr 25, 2006, 1:04:18\u202FAM",
+      "Body": "\uE5D3\n\nI don't think so. The Puppeteer taps, and his action is successful.\nBurning the React with Conviction cancels the \"effect\", but doesn't\ncancel the action.\n\nSo you keep your Imbued, and the Puppeteer stays tapped to cry on\nhis mistake. Or at least that's my bet, as IANLSJ.\n\nCiao!\nEmiliano"
+    },
+    {
+      "Author": "witness1",
+      "Date": "Apr 25, 2006, 3:08:16\u202FAM",
+      "Body": "\uE5D3\n\nNormally, when an action is canceled as it is announced (see Direct\nIntervention), the minion doesn't tap, and the action doesn't never\nresolves (successfully or otherwise), so NRA doesn't taint the minion.\nThis isn't an action card, so it could be different, hence asking the\nquestion instead of just knowing the result.\n\nSee also this post\n<http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/be36c9ec90d1e78e>\nwhere a minion playing Putrescent Servitude is left untapped when it's\ncanceled by React With Conviction (paralleling DI).\n\nWitness1\n-ItE"
+    },
+    {
+      "Author": "RocketEddy",
+      "Date": "Apr 25, 2006, 10:12:01\u202FAM",
+      "Body": "React with Conviction [NoR:C]\nCardtype: Conviction\nWhen an effect that would change control of this imbued is played or\nannounced, you may burn this card to cancel that effect. Burn this card\nto cancel either a (D) action against this imbued that requires\nChimerstry [chi], Dementation [dem], Dominate [dom], Presence [pre], or\nSerpentis [ser] or a strike card that requires any of those Disciplines\nplayed by a minion opposing this imbued as it is announced. No cost is\npaid.\n\nDirect Intervention\nType: Master\nCost: 1 pool\nMaster: out-of-turn.\nCancel a minion card as it is played. That card has no effect. No cost\nis paid. If the burned card was an action card, the acting minion\nremains untapped. If the card was a strike card, the minion chooses\nanother strike.\n\nI also tend to feel the puppeteer is tapped. DI specifies that the \"no\neffect\" is replaceable with a new one, through not tapping the minion\nor allowing a new strike to be chosen. Contrast that with Sudden\nReversal:\n\nSudden Reversal\nType: Master\nMaster: out-of-turn.\nCancel a master card played by another Methuselah as it is played (no\ncost is paid).\n\nThe card is canceled but the player does not get an opportuity to play\nanother master card.\n\nThe worded here is much closer to SR than DI, so I'd say the action is\nperformed and the minion is tapped - it merely does not have any effect."
+    },
+    {
+      "Author": "Fabio 'Sooner' Macedo",
+      "Date": "Apr 25, 2006, 2:51:41\u202FPM",
+      "Body": "RocketEddy wrote:\n> I also tend to feel the puppeteer is tapped.\n\nI'm pretty sure Witness is right. This has been asked and clarified\nbefore regarding action cards, such as Putrescent Servitude in the link\nposted and others. I don't see why the fact that the action is provided\nby Pupeteer itself would be treated different just because it doesn't\ncome from an action card.\n\nFabio \"Sooner\" Macedo"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 25, 2006, 3:00:00\u202FPM",
+      "Body": "witness1 wrote:\n> So, if I burn the React With Conviction as the Puppeteer's action is\n> announced, it cancels his action, leaving him untapped and ready to\n> perform his action, effectively doing nothing but burning a conviction,\n> right?\n\nCorrect.\n\nJust like burning RwC to cancel a Far Mastery leaves the acting vampire\nuntapped and ready to perform another (if there's another in his hand)."
+    },
+    {
+      "Author": "witness1",
+      "Date": "Apr 25, 2006, 4:11:45\u202FPM",
+      "Body": "\uE5D3\n\nAnd the same would apply to merged Sebastian Goulet.\n\nTo quote Oscar, \"Crappy!\"\n\nWitness1\n-ItE"
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Apr 25, 2006, 4:24:46\u202FPM",
+      "Body": "\uE5D3\n\nAh, so RwC cancels the whole action, not only the \"effect\" as stated\nin the text. Good to know. And apologies for my wrong answer above.\n\nEmiliano"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 25, 2006, 7:31:58\u202FPM",
+      "Body": "\uE5D3\n\nIt cancels the effect, as stated.\n\nThe effect of an action is the action.\nCanceling that action as it is announced means the action isn't taken."
+    }
+  ]
+}

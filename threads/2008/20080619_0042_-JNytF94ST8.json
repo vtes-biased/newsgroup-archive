@@ -1,0 +1,17 @@
+{
+  "ThreadId": "-JNytF94ST8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-JNytF94ST8",
+  "Title": "NRA PAC + Ousted player",
+  "Messages": [
+    {
+      "Author": "ira...@gmail.com",
+      "Date": "Jun 19, 2008, 12:42:40\u202FAM",
+      "Body": "Hello LSJ,\n\nI tried searching for this answer, but I couldn't find it.\n\nPlayer A has 1 Pool and NRA PAC in play. Player E's minion equips\nwith a Flak Jacket. Then Player E ousts Player A. Does Player E's\nminion that equipped with a Flak Jacket untap at the end of E's turn?\n\nI'm not sure what the answer is, because NRA PAC might setup an effect\nthat occurs at the end of the turn. If I had to guess, I'd say Yes\nfor that reason.\n\nThanks,\nIra\n\nNRA PAC\nCard Text:\nGovernment.\nAny minion who successfully performs an equip action untaps at the end\nof the turn."
+    },
+    {
+      "Author": "jcrossn...@gmail.com",
+      "Date": "Jun 19, 2008, 9:41:12\u202FAM",
+      "Body": "\uE5D3\n\nThe minions untaps at the end of the turn. NRA PAC sets up an effect\nthat is triggered by the successful resolution of an equip action,\nrather that checking at the end of the turn if any have been\ncompleted. This is the reason that an NRA PAC played during a discard\nphase does not retroactively untap any minions that equipped earlier\nthat turn.\n\nOr maybe I'm totally wrong.\n\nJesse"
+    }
+  ]
+}

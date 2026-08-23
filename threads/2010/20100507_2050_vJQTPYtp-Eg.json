@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vJQTPYtp-Eg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg",
+  "Title": "[LSJ] Hide the Heart Timing",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "May 7, 2010, 8:50:02\u202FPM",
+      "Body": "At what points during an action is there a window to play Hide the\nHeart at basic Valeren?\n\nIn the \"as the action is declared\" window?\nBefore block attempts are declared?\nAfter block attempts are declared?\nAfter a block is successful, but before combat begins (ie, the Change\nof Target/Obedience window)?\nDuring a referendum?\n\nMy prey declares an attempt to bleed his prey. May I play Hide the\nHeart before my grandprey chooses whether or not to attempt to block?\n(I'm not sure how the impulse works in that situation.)\n\nHide the Heart\nThe action ends (unsuccessfully). The acting minion may burn 1 blood\nto cancel this card as it is played. Only one Hide the Heart may be\nplayed at [val] each action.\n\nJohn Eno"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 7, 2010, 8:57:21\u202FPM",
+      "Body": "On May 7, 2:50 pm, Kushiel <invisibleking...@gmail.com> wrote:\n> At what points during an action is there a window to play Hide the\n> Heart at basic Valeren?\n\nThe standard reaction window:\nAfter \"as announced\" and before action resolution.\n\n> In the \"as the action is declared\" window?\n\nNo.\n\n> Before block attempts are declared?\n\nYes.\n\n> After block attempts are declared?\n\nYes.\n\n> After a block is successful, but before combat begins (ie, the Change\n> of Target/Obedience window)?\n\nResolution, no.\n\n> During a referendum?\n\nResolution, no.\n\n> My prey declares an attempt to bleed his prey. May I play Hide the\n> Heart before my grandprey chooses whether or not to attempt to block?\n> (I'm not sure how the impulse works in that situation.)\n\nNo.\nImpulse works as given in \"sequencing\" [1.6.1.5]\n\n\uE5D3"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "May 7, 2010, 10:11:45\u202FPM",
+      "Body": "On May 7, 2:57 pm, LSJ <vtes...@white-wolf.com> wrote:\n> > My prey declares an attempt to bleed his prey. May I play Hide the\n> > Heart before my grandprey chooses whether or not to attempt to block?\n> > (I'm not sure how the impulse works in that situation.)\n>\n> No.\n\nIf my prey or grandprey played a card before my grandprey declared\nblock/no block, would I be able to play Hide the Heart at that time?\n\nCan HtH be played in response to stealth and/or intercept transient\ncards being played during my prey's action which is directed at my\ngrandprey?\n\nJohn Eno"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 8, 2010, 2:49:25\u202FAM",
+      "Body": "\uE5D3\n\nthree players:\nA: your prey\nB: your grand-prey\nC: you\n\nA: Minion X performs some action\nA: pass\nB: some card\n\nImpulse goes to A, not to C. [1.6.1.5]\n\nA: pass\nB: no block\nA: pass\nB: pass\n\nNow impulse goes to you\n\nC: Hide the Heart"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "May 8, 2010, 8:57:56\u202FPM",
+      "Body": "On May 7, 8:49 pm, LSJ <vtes...@white-wolf.com> wrote:\n> three players:\n> A: your prey\n> B: your grand-prey\n> C: you\n>\n> A: Minion X performs some action\n> A: pass\n> B: some card\n>\n> Impulse goes to A, not to C. [1.6.1.5]\n>\n> A: pass\n> B: no block\n> A: pass\n> B: pass\n>\n> Now impulse goes to you\n>\n> C: Hide the Heart\n\nGot it. This also clears up my confusion about how one could ever use\nEagle's Sight at superior to block a D action. Thanks so much for the\nexplanation!\n\nJohn Eno"
+    }
+  ]
+}

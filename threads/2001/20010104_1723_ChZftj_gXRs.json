@@ -1,0 +1,32 @@
+{
+  "ThreadId": "ChZftj_gXRs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ChZftj_gXRs",
+  "Title": "Two more questions - about weapons and strength",
+  "Messages": [
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jan 4, 2001, 5:23:29\u202FPM",
+      "Body": "Here are a couple more rule questions.\n\nSome weapons say that they do a certain amount of damage\n\"each strike\", but are only usable \"once per combat.\"\nDoes this mean that they can only be used during a single\n_round_ of combat, but can be used with multiple strikes\nwithin that round? Or just for a single strike?\n\nSecond question:\nTorn Signpost says that This vampire has strength 2(3) for\nthe remainder of combat.\n\nIs this modifiable? \"Has strength X for the remainder of\ncombat\" is a wording that seems to me that, no matter what\nother cards are in play, or played afterwards, that should\nmodify his strength, his strength will be considered that\nnumber.\n\nWhat if a Vampire's Strength is already above 3 when the\ncard is played? Does the card _reduce_ his strength? Should\none just avoid playing this card in those cases?\n\nThanks again."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 4, 2001, 5:48:14\u202FPM",
+      "Body": "Jozxyqk <jfeu...@eecs.tufts.edu> wrote:\n> Some weapons say that they do a certain amount of damage\n> \"each strike\", but are only usable \"once per combat.\"\n> Does this mean that they can only be used during a single\n> _round_ of combat, but can be used with multiple strikes\n> within that round? Or just for a single strike?\n\nOne strike (or \"use\") per combat.\n\n> Second question:\n> Torn Signpost says that This vampire has strength 2(3) for\n> the remainder of combat.\n>\n> Is this modifiable? \"Has strength X for the remainder of\n> combat\" is a wording that seems to me that, no matter what\n> other cards are in play, or played afterwards, that should\n> modify his strength, his strength will be considered that\n> number.\n\nIt is modifiable. It sets the vampire's base strength to\n2 (or 3). A vampire's base strength is, by default, 1 [6.4.5]\nJust as that base of 1 is modifiable, the new base of 2\n(or 3) is modifyiable.\n\n> What if a Vampire's Strength is already above 3 when the\n> card is played? Does the card _reduce_ his strength? Should\n> one just avoid playing this card in those cases?\n\nIf his base strength was 3 (for instance, he had played a\nTS at superior), then playing a TS at inferior would reduce\nhis base strength to 2, yes.\nIf his modified strength was 3 (a base of 1 plus bonuses),\nthen the base would change and the bonuses would be applied\nto the new base.\n\n--\nLSJ (vte...@white-wolf.com) VTES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/\n\nSent via Deja.com\nhttp://www.deja.com/"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jan 4, 2001, 6:15:20\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n> Jozxyqk <jfeu...@eecs.tufts.edu> wrote:\n>> Some weapons say that they do a certain amount of damage\n>> \"each strike\", but are only usable \"once per combat.\"\n>> Does this mean that they can only be used during a single\n>> _round_ of combat, but can be used with multiple strikes\n>> within that round? Or just for a single strike?\n\n> One strike (or \"use\") per combat.\n\nSo isn't the \"each strike\" part of the text redundant and\nmisleading? If you can only use it for one strike, why say\n'each'?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 4, 2001, 10:00:48\u202FPM",
+      "Body": "Jozxyqk <jfeu...@eecs.tufts.edu> wrote:\n> LSJ <vte...@white-wolf.com> wrote:\n> > Jozxyqk <jfeu...@eecs.tufts.edu> wrote:\n> >> Some weapons say that they do a certain amount of damage\n> >> \"each strike\", but are only usable \"once per combat.\"\n> >> Does this mean that they can only be used during a single\n> >> _round_ of combat, but can be used with multiple strikes\n> >> within that round? Or just for a single strike?\n>\n> > One strike (or \"use\") per combat.\n>\n> So isn't the \"each strike\" part of the text redundant and\n> misleading?\n\nCertainly not misleading. Possibly redundant.\n\n> If you can only use it for one strike, why say\n> 'each'?\n\nTo indicate that the damage is done via a strike (as\nopposed to some other, non-strike, effect).\n\n\uE5D3"
+    },
+    {
+      "Author": "Pat Ricochet",
+      "Date": "Jan 4, 2001, 10:13:35\u202FPM",
+      "Body": "\uE5D3\n\nWell, if you read it that way. All weapons pretty much say \"x damage\neach strike,\" so it's best to keep using the standard weapon \"template.\" It\ndoes sound silly with \"useable once each combat,\" but it's clear the weapon\ndoes, say, 3 damage each strike, but only once a combat, not the vampire\ndoing 3 each strike for having it, and makes it clear that only ONE Ghoul\nretainer can use it each combat, etc.\n\n--\nPat Ricochet\nSoul Jar'rn Fool of Atlanta"
+    }
+  ]
+}

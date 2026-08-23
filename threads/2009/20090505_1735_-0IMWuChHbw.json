@@ -1,0 +1,52 @@
+{
+  "ThreadId": "-0IMWuChHbw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-0IMWuChHbw",
+  "Title": "Ankou timing (LSJ)",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 5, 2009, 5:35:29\u202FPM",
+      "Body": "Hello,\nI was a bit puzzled when I read Ankou's cardtext today.\n\nSuppose A controls 2 minions with a mandatory hunt (A1 and A2), and\nit's A's turn. B has an untapped and ready Ankou.\nA starts his minion phase, and decides to perform A1's hunt.\nAs far as I know, Ankou cannot burn A1 right there, because that would\nhave A give the impulse, which he cannot do because he has a pending\nmandatory action (hunt) with A2.\nSo, A2 hunts.\n\nCan the Ankou burn A1 after A2 has hunted ?\nI think he can't, because it would be too late. I think - but I'm not\nentirely sure - that \"When\", in V:tES language, has some proximity\nmeaning I'd transcribe as \"immediately after\" in this particular case.\n\nThe Ankou\nCardtype: Vampire\nClan: Malkavian\nGroup: 5\nCapacity: 10\nDiscipline: AUS DEM OBF\nCamarilla: When any vampire successfully hunts while the Ankou is\nready and untapped, the Ankou may burn that vampire as a (D) action\nthat turn (even on another Methuselah's turn)."
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "May 5, 2009, 5:45:09\u202FPM",
+      "Body": "\uE5D3\n\n\"When\" in this case is only to signify that the Ankou can take his\nspecial action in the event that there is a target who has hunted at\nleast once during the current turn. As it states \"that turn\" the\nactioncan be taken to burn either A1 or A2 at any point during the\nturn in which they hunted.\n\nAs to the hunting in between mandatory actions bit, I am not too\nsure....."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "May 5, 2009, 6:36:15\u202FPM",
+      "Body": "On May 5, 10:35 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> Hello,\n> I was a bit puzzled when I read Ankou's cardtext today.\n>\n> Suppose A controls 2 minions with a mandatory hunt (A1 and A2), and\n> it's A's turn. B has an untapped and ready Ankou.\n> A starts his minion phase, and decides to perform A1's hunt.\n> As far as I know, Ankou cannot burn A1 right there, because that would\n> have A give the impulse, which he cannot do because he has a pending\n> mandatory action (hunt) with A2.\n> So, A2 hunts.\n>\n> Can the Ankou burn A1 after A2 has hunted ?\n> I think he can't, because it would be too late. I think - but I'm not\n> entirely sure - that \"When\", in V:tES language, has some proximity\n> meaning I'd transcribe as \"immediately after\" in this particular case.\n\nIt's not too late. See below:\n\n> The Ankou\n> Cardtype: Vampire\n> Clan: Malkavian\n> Group: 5\n> Capacity: 10\n> Discipline: AUS DEM OBF\n> Camarilla: When any vampire successfully hunts while the Ankou is\n> ready and untapped, the Ankou may burn that vampire as a (D) action\n> that turn (even on another Methuselah's turn).\n\n\"When X happens, The Ankou may do Y that turn.\"\n\nIt doesn't say \"The ankou must immediately do this\" or \"before the\nnext action\"; the Ankou's power grants him the ability to take that\naction (during) that turn.\n\nAnd the usual sequencing applies for taking actions, so the Ankou\ncannot take that action until priority-to-act has been passed to him,\nwhich doesn't happen until the acting player has taken as many actions\nas he pleases.\n\nIn fact, in the case you describe above, the Ankou would be able to\nburn either of A1 and A2 (both if he has a way to untap) once priority\nis passed to him.\n\n-John Flournoy"
+    },
+    {
+      "Author": "D.J.",
+      "Date": "May 5, 2009, 7:07:51\u202FPM",
+      "Body": "On May 5, 12:36 pm, John Flournoy <carne...@gmail.com> wrote:\n\n> In fact, in the case you describe above, the Ankou would be able to\n> burn either of A1 and A2 (both if he has a way to untap) once priority\n> is passed to him.\n\nHmm... can he? Or is it a case where NRA applies because it would be\ntwo actions provided by the same card in play, and thus not allowed?\n(See also the fact that Marrakesh Codex's two actions can't be taken\nin the same turn by the same vampire, even though they're different\nactions.) LSJ?\n\n- D.J."
+    },
+    {
+      "Author": "D.J.",
+      "Date": "May 5, 2009, 7:11:26\u202FPM",
+      "Body": "On May 5, 1:07 pm, \"D.J.\" <dj...@comcast.net> wrote:\n> On May 5, 12:36 pm, John Flournoy <carne...@gmail.com> wrote:\n>\n> > In fact, in the case you describe above, the Ankou would be able to\n> > burn either of A1 and A2 (both if he has a way to untap) once priority\n> > is passed to him.\n>\n> Hmm... can he?  \n\nThat is, can he do *both* or does NRA prevent that? Obviously he can\ndo either.\n\n- D.J."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 5, 2009, 7:19:03\u202FPM",
+      "Body": "\uE5D3\n\nCan't, as you explain."
+    },
+    {
+      "Author": "librarian",
+      "Date": "May 5, 2009, 9:42:42\u202FPM",
+      "Body": "\uE5D3\n\nCan Ankou do it during the Influence or Discard phases?\n\n(acting meth may hold back an action to act following Ankou's action\n(since impulse returns to acting meth); but now Ankou can decline during\nminion phase and take special action during Infl or Discard phase)\n\nbest -\n\nchris"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 5, 2009, 9:55:59\u202FPM",
+      "Body": "librarian wrote:\n> Can Ankou do it during the Influence or Discard phases?\n\nEh?"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "May 5, 2009, 10:02:35\u202FPM",
+      "Body": "On May 5, 2:42 pm, librarian <aucti...@superfuncards.com> wrote:\n> > And the usual sequencing applies for taking actions, so the Ankou\n> > cannot take that action until priority-to-act has been passed to him,\n> > which doesn't happen until the acting player has taken as many actions\n> > as he pleases.\n>\n> Can Ankou do it during the Influence or Discard phases?\n>\n> (acting meth may hold back an action to act following Ankou's action\n> (since impulse returns to acting meth); but now Ankou can decline during\n> minion phase and take special action during Infl or Discard phase)\n\nNo. Minions may only act during the minion phase of a turn. Effects\nand cards that grant non-default action options to minions do not\nexempt them from this rule.\n\n> best -\n>\n> chris\n\n-John Flournoy"
+    }
+  ]
+}

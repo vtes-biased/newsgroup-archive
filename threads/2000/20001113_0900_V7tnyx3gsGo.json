@@ -1,0 +1,32 @@
+{
+  "ThreadId": "V7tnyx3gsGo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/V7tnyx3gsGo",
+  "Title": "Form of Mist Q[LSJ]",
+  "Messages": [
+    {
+      "Author": "Sylvain Gogel",
+      "Date": "Nov 13, 2000, 9:00:00\u202FAM",
+      "Body": "about Form of mist; one of the errata don't seems clear ...\n\"The superior form cannot be used by the acting vampire unless he needs the\nstealth [RTR 19970630] \"\n\nWhen do we consider the acting vampire need the stealth since we don't know\nif defending players want to block or not ?\n\nTzimiscelord, Primogen, Paris"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 13, 2000, 9:00:00\u202FAM",
+      "Body": "Sylvain Gogel wrote:\n>\n> about Form of mist; one of the errata don't seems clear ...\n> \"The superior form cannot be used by the acting vampire unless he needs the\n> stealth [RTR 19970630] \"\n>\n> When do we consider the acting vampire need the stealth since we don't know\n> if defending players want to block or not ?\n\nHe needs stealth if there is a current blocking minion with intercept\ngreater than or equal to his current stealth. [6.2.2.2]\n\nSo superior FoM can only be played by an acting vampire if:\n1) He's in combat with a blocking minion\n2) The blocking minion's intercept >= his stealth (typical, since he's in combat)\n3) He hasn't played Form of Mist at superior already this action\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Sorrow",
+      "Date": "Nov 13, 2000, 9:00:00\u202FAM",
+      "Body": "> > So superior FoM can only be played by an acting vampire if:\n> > 1) He's in combat with a blocking minion\n> > 2) The blocking minion's intercept >= his stealth (typical, since he's\nin\n> combat)\n> > 3) He hasn't played Form of Mist at superior already this action\n\n> When will 2) ever not be the case?\n\nBrujah Frenzy.\nCombat initiated by an action.\n\nTo name a few.\n\nSorrow\n---\n\"...but you know, evil is an exact science...\""
+    },
+    {
+      "Author": "Pat Ricochet",
+      "Date": "Nov 13, 2000, 9:00:00\u202FAM",
+      "Body": ">> So superior FoM can only be played by an acting vampire if:\n>> 1) He's in combat with a blocking minion\n>> 2) The blocking minion's intercept >= his stealth (typical, since he's in\n> combat)\n>> 3) He hasn't played Form of Mist at superior already this action\n>\n> When will 2) ever not be the case?\n\nWell, if it's a stealthed, then unblocked Bum's Rush, the acting minion\nwill be in combat with more stealth then the opposing minion has intercept.\nHowever, that's not \"the blocking minion,\" and so it covered in 1).\nI guess you'd need something weird, like a Fleshcraft that reduces\nintercept. (Eyecraft?) Even then, it's even more complicated. If I rush go\nto Arson a hunting ground, and get blocked and play \"Eyecraft\" (maybe there\nis a combat effect that reduces intercept, just not off the top of my head)\nI might then want to press and play superior Form of Mist, which would seem\nfair, really. I mean, I got blocked, and the card is to let me go on with\nmy Arson, but this says I can't play it, because I already have too much\nstealth. I guess I could play Shadow Body, though, since it doesn't add\nstealth. (don't ask me what vampire has all these abilities, I'm making up\ncards to answer the question as I go, anyway)\nI guess I set out to answer the question, but have to say I'm just as\nconfused. I can see how \"The opposing minion\" may have less intercept then\nthey do stealth, but not \"the blocking minion.\"\n\n--\nPat Ricochet\nSoul Jar'rn Fool of Atlanta"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 14, 2000, 9:00:00\u202FAM",
+      "Body": "In article <8uq2jc$65f$1...@plutonium.btinternet.com>,\n\uE5D3\n\nWell, as you surmise, 1) implies 2) almost always.\nBut besides the examples given by others in which 1) doesn't hold\nand therefore 2) can be trivially avoided, there are some ways to\ndo it:\n\nVamp A bleeds.\nVamp B, with Mr. Winthrop, blocks.\nVamp A gets +2 stealth from Lost in Crowds.\nVamp B gets +1 intercept from KRCG News Radio.\nAction is blocked (1)\nVamp A plays Weather Control. Mr. Winthrop dies.\n\nNow Vamp A cannot play superior Form of Mist to\ncontinue the action, since he doesn't need the stealth.\n\n--\nLSJ (vte...@white-wolf.com) VTES Net.Rep for White Wolf, Inc.\n\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/\n\nSent via Deja.com http://www.deja.com/\nBefore you buy."
+    }
+  ]
+}

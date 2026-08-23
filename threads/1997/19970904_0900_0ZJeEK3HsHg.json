@@ -1,0 +1,52 @@
+{
+  "ThreadId": "0ZJeEK3HsHg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/0ZJeEK3HsHg",
+  "Title": "S:CE and DotB",
+  "Messages": [
+    {
+      "Author": "Quicksilver",
+      "Date": "Sep 4, 1997, 9:00:00\u202FAM",
+      "Body": "Will Drawing out the Beast at superior\nstill deal damage when a S:CE is played?"
+    },
+    {
+      "Author": "Robert Goudie",
+      "Date": "Sep 5, 1997, 9:00:00\u202FAM",
+      "Body": "In article <340F24...@lmco.com>,\n\nQuicksilver <michae...@lmco.com> wrote:\n>\n> Will Drawing out the Beast at superior\n> still deal damage when a S:CE is played?\n\nYes, it will. LSJ's rules reference makes this clear. The listing\nfor S:CE says something like \"(Goto Step X)\" and step X has the\nend of combat effects one of which would be DotB.\n\n-Robert Goudie\n\n-------------------==== Posted via Deja News ====-----------------------\nhttp://www.dejanews.com/ Search, Read, Post to Usenet"
+    },
+    {
+      "Author": "Brian Wellington",
+      "Date": "Sep 8, 1997, 9:00:00\u202FAM",
+      "Body": "In article <8734918...@dejanews.com>,\n\nRobert Goudie <robert...@studio.disney.com> wrote:\n>In article <340F24...@lmco.com>,\n> Quicksilver <michae...@lmco.com> wrote:\n>>\n>> Will Drawing out the Beast at superior\n>> still deal damage when a S:CE is played?\n>\n>Yes, it will. LSJ's rules reference makes this clear. The listing\n>for S:CE says something like \"(Goto Step X)\" and step X has the\n>end of combat effects one of which would be DotB.\n\nHow about if the Elysium is tapped to end combat before range, but after\nDrawing Out the Beast is played (the reacting Methuselah taps Elysium)?\nIs the damage still dealt?\n\nBrian"
+    },
+    {
+      "Author": "Jeffrey Endres",
+      "Date": "Sep 9, 1997, 9:00:00\u202FAM",
+      "Body": "Robert Goudie wrote:\n>\n> In article <340F24...@lmco.com>,\n> Quicksilver <michae...@lmco.com> wrote:\n> >\n> > Will Drawing out the Beast at superior\n> > still deal damage when a S:CE is played?\n>\n> Yes, it will. LSJ's rules reference makes this clear. The listing\n> for S:CE says something like \"(Goto Step X)\" and step X has the\n> end of combat effects one of which would be DotB.\n>\n\n> -Robert Goudie\n>\nDrawing out the Beast is an end of _round_ effect, not an end of combat\neffect.\n\nEnding combat will take you past the resolution of end of round effects.\n\nSo, no, DoB will not deal damage if S:CE is played in that round.\n\n--\nJeffrey Endres Undergrad B. Eng (Aerospace Avionics)\nQueensland University of Technology\n`We live in our minds, and existence is the attempt to bring that\ninto physical reality, to state it in gesture and form' -Ayn Rand"
+    },
+    {
+      "Author": "Robert Goudie",
+      "Date": "Sep 9, 1997, 9:00:00\u202FAM",
+      "Body": "In article <3414BB...@student.qut.edu.au>,\n\nJeffrey Endres <j.en...@student.qut.edu.au> wrote:\n>\n> Robert Goudie wrote:\n> >\n> > In article <340F24...@lmco.com>,\n> > Quicksilver <michae...@lmco.com> wrote:\n> > >\n> > > Will Drawing out the Beast at superior\n> > > still deal damage when a S:CE is played?\n> >\n> > Yes, it will. LSJ's rules reference makes this clear. The listing\n> > for S:CE says something like \"(Goto Step X)\" and step X has the\n> > end of combat effects one of which would be DotB.\n> >\n> > -Robert Goudie\n> >\n> Drawing out the Beast is an end of _round_ effect, not an end of combat\n> effect.\n>\n> Ending combat will take you past the resolution of end of round effects.\n>\n> So, no, DoB will not deal damage if S:CE is played in that round.\n>\n\nI used the wrong term. My fault for not actually quoting the original\nsource. But when combat ends from a S:CE (or Elysium, etc.) you go to the\nend of round effects. See the official rules reference quotes below.\n\n2. Resolve Strikes. a. Strikes resolve in the following order. If both\nstrikes are in the same class, then they resolve simultaneously. [15.3]\ni. Strike: Combat Ends. (8.3) (Go to step F) [clip] F. Round Ends. (21)\n[15.1] 1. Apply any end-of-round effects. 2. If the last Press was used\nto continue Combat, then Combat continues (Go back to step A).\n\nSo DotB damage is taken even if combat ends.\n\n\uE5D3"
+    },
+    {
+      "Author": "news_check.py",
+      "Date": "Sep 10, 1997, 9:00:00\u202FAM",
+      "Body": "In article <8734918...@dejanews.com> Robert Goudie <robert...@studio.disney.com> wrote:\n> In article <340F24...@lmco.com>,\n> Quicksilver <michae...@lmco.com> wrote:\n> >\n\nIn article <340F24...@lmco.com>,\nQuicksilver <michae...@lmco.com> wrote:\n>\n> Will Drawing out the Beast at superior\n> still deal damage when a S:CE is played?\n\nYes, it will. LSJ's rules reference makes this clear. The listing\nfor S:CE says something like \"(Goto Step X)\" and step X has the\nend of combat effects one of which would be DotB.\n\n-Robert Goudie\n\n-------------------==== Posted via Deja News ====-----------------------\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ (VtES Rep)",
+      "Date": "Sep 15, 1997, 9:00:00\u202FAM",
+      "Body": "Jeffrey Endres wrote:\n> > Quicksilver <michae...@lmco.com> wrote:\n> > > Will Drawing out the Beast at superior\n> > > still deal damage when a S:CE is played?\n\n> Drawing out the Beast is an end of _round_ effect, not an end of combat\n> effect.\n>\n> Ending combat will take you past the resolution of end of round effects.\n\nEnd of Round is *not* a phase of combat that only occurs after the\nPress phase.\n\nIf DotB's damage was applied during a set phase (like \"during the\nPress step, take a damage\"), then it would be bypassed by S:CE, etc.\n\nBut it is not. The round cannot continue past the end of combat. If\ncombat ends, then the round must also end. DotB's damage will occur\nat that time.\n\n--\nL. Scott Johnson (vte...@regency.wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "LSJ (VtES Rep)",
+      "Date": "Sep 15, 1997, 9:00:00\u202FAM",
+      "Body": "Quicksilver wrote:\n>\n> Will Drawing out the Beast at superior\n> still deal damage when a S:CE is played?\n\nYes.\n\nIt will also deal its damage if the round ends\nprematurely due to one of the combatants no longer\nbeing ready (going to torpor, for instance).\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ (VtES Rep)",
+      "Date": "Sep 15, 1997, 9:00:00\u202FAM",
+      "Body": "Brian Wellington wrote:\n> How about if the Elysium is tapped to end combat before range, but after\n> Drawing Out the Beast is played (the reacting Methuselah taps Elysium)?\n> Is the damage still dealt?\n\nThe victim of DotB will take a point of damage at the end of each round\nof combat, without regard to the reason the round is ending (card text\nonly refers to the end of the round, not the reason).\n\nIf a round ends prematurely, regardless of the reason, it is still the\nend of the round, and DotB damage will be applied.\n\nThis includes: Mariel's special, S:CE (incl. superior FoM), going to\ntorpor, burning opponent, Elysium: Arboretum, Rotschreck, and Legacy\nof Power.\n\n\uE5D3"
+    }
+  ]
+}

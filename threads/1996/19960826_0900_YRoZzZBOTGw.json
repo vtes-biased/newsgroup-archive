@@ -1,0 +1,27 @@
+{
+  "ThreadId": "YRoZzZBOTGw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/YRoZzZBOTGw",
+  "Title": "More rulings needed",
+  "Messages": [
+    {
+      "Author": "George Fink",
+      "Date": "Aug 26, 1996, 9:00:00\u202FAM",
+      "Body": "Actually only one:\n\nIf Form of Mist is used at superior, can the same blocking minion\nincrease intercept to re-block the same action, or is the blocking\nminion considred tapped, and unable to play further reactions unless\nWoken.\n\n--George"
+    },
+    {
+      "Author": "CurtAdams",
+      "Date": "Aug 26, 1996, 9:00:00\u202FAM",
+      "Body": "gf...@avalon.cs.ucdavis.edu (George Fink) writes:\n\n>If Form of Mist is used at superior, can the same blocking minion\n>increase intercept to re-block the same action, or is the blocking\n>minion considred tapped, and unable to play further reactions unless\n>Woken.\n\nThey are tapped by the first block attempt and would need a Wake (or other\nuntap) to attempt to block the second. The only weird aspect is that if\nthey played a Wake to block, the Wake is still in effect (it lasts till\nthe end of the action).\n\nCurt Adams (curt...@aol.com)"
+    },
+    {
+      "Author": "The Corrupter",
+      "Date": "Aug 26, 1996, 9:00:00\u202FAM",
+      "Body": "On 26 Aug 1996, George Fink wrote:\n\n> Actually only one:\n\n> If Form of Mist is used at superior, can the same blocking minion\n> increase intercept to re-block the same action, or is the blocking\n> minion considred tapped, and unable to play further reactions unless\n> Woken.\n\nYes. Form of Mist is a combat card. In this example, the blocker\nattempt to block and succeeded, and is thus tapped. In combat, FoM\nescapes the combat and continues the action. This does not untap the\nblocker, and thus, a Wake is needed if that minion wants to react\n(barring prior placement of Atonement, Justine or Cat's Guidance).\n\n@ The Corrupter - Adrian Lee Sullivan @ GAT/CS/WS R+++* r(+)>++\n# Gamer Coffee-Addict Scripter Author # C(+++)$ USX+$ N++ e+*\n@#$ Comments ? sull...@cslab.uwlax.edu $#@ tv(+)> X++ b++(+++)\n@#$ <http://cslab.uwlax.edu/~sulli_al/jyhad> $#@ PS+&-+ PE&-&++ z*+?"
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Aug 26, 1996, 9:00:00\u202FAM",
+      "Body": "gf...@avalon.cs.ucdavis.edu (George Fink) writes:\n>Actually only one:\n\n>If Form of Mist is used at superior, can the same blocking minion\n>increase intercept to re-block the same action, or is the blocking\n>minion considred tapped, and unable to play further reactions unless\n>Woken.\n\nHe must be awoken.\n\nHe is eligible to block, but must meet all of the requirements:\n\n1. Be untapped.\n2. Have intercept >= acting minion's stealth.\n\nNote that if his first block occured under the benefit of a Wakey, then\nthe Wakey's effect continue through any subsequent block attempts of the\nsame action by that same vampire. (The Wakey is replaced at the end of\nthe combat which resulted from the initial block, as usual.)\n\n--\nL. Scott Johnson (sjoh...@math.sc.edu) | Bad Track 0.\nhttp://www.math.sc.edu/~sjohnson | Why can't you be more\nGraphics Specialist and V:tES Rulemonger. | like Track 1?"
+    }
+  ]
+}

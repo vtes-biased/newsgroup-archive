@@ -1,0 +1,37 @@
+{
+  "ThreadId": "wz-OoyE62HM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wz-OoyE62HM",
+  "Title": "Josef von Bauren and Powerbase: LA",
+  "Messages": [
+    {
+      "Author": "Jozxyqk",
+      "Date": "Nov 21, 2008, 2:11:41\u202FPM",
+      "Body": "A \"lighter\" question from me about new card interactions:\n\nJosef von Bauren's special ability:\n\"You may use a discard phase action to discard a card at random from\nyour predator or prey's hand.\"\n\nPowerbase: LA's relevant text:\nTap during your discard phase to gain a discard phase action. If you use\nthat discard phase action to discard a card that requires an anarch or a\ncard that makes a vampire an anarch, you may untap a ready anarch.\n\nQuestion:\nIf I tap my Powerbase LA to use Josef's ability, and the card my prey\ndiscards at random is a card that requires an anarch, can I untap an\nanarch?"
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Nov 21, 2008, 2:27:31\u202FPM",
+      "Body": "\uE5D3\n\nAlso, how does Josef's ability interact with Port Authority?\n\nPort Authority\nType: Event\nGovernment.\nWhen a Methuselah uses a discard phase action to discard a card, he or\nshe doesn't draw to replace that card until his or her next untap\nphase."
+    },
+    {
+      "Author": "JH",
+      "Date": "Nov 21, 2008, 2:37:48\u202FPM",
+      "Body": "On Nov 21, 3:27 pm, Emiliano Imeroni <emiliano.imer...@gmail.com>\nwrote:\n\uE5D3\n\nJosef + Port Authority doesn't work as the Methuselah discarding isn't\nusing a DPA to discard a card."
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Nov 21, 2008, 2:40:24\u202FPM",
+      "Body": "\uE5D3\n\nWell, that would be a logic conclusion, yes. However, technically, the\nMethuselah *is* using a DPA to discard a card, because that's how\nJosef's text is written: \"You may use a discard phase action to\ndiscard a card at random from your predator or prey's hand.\" Notice\nthe exact same wording as Port Authority."
+    },
+    {
+      "Author": "JH",
+      "Date": "Nov 21, 2008, 2:47:40\u202FPM",
+      "Body": "On Nov 21, 3:40 pm, Emiliano Imeroni <emiliano.imer...@gmail.com>\n\uE5D3\n\nYeah, but the Methuselah who discards the card isn't using a DPA, the\nMethuselah controlling Josef is using the DPA, thus Port Authority\ndoesn't function."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 21, 2008, 2:46:47\u202FPM",
+      "Body": "Emiliano Imeroni wrote:\n> On 21 Nov, 14:11, Jozxyqk <jfeue...@eecs.tufts.edu> wrote:\n>> A \"lighter\" question from me about new card interactions:\n>>\n>> Josef von Bauren's special ability:\n>> \"You may use a discard phase action to discard a card at random from\n>> your predator or prey's hand.\"\n>>\n\n> Also, how does Josef's ability interact with Port Authority?\n>\n> Port Authority\n> Type: Event\n> Government.\n> When a Methuselah uses a discard phase action to discard a card, he or\n> she doesn't draw to replace that card until his or her next untap\n> phase.\n\nThe Methuselah doubly doesn't draw to replace the card. Both from PA's effect\nand from the fact that she wouldn't draw anyhow, since the discarded card didn't\ncome out of her hand.\n\nThe prey (or predator as the case may be) replaces as normal, since no effect\nsays otherwise."
+    }
+  ]
+}

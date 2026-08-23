@@ -1,0 +1,27 @@
+{
+  "ThreadId": "qMCvDtItCcs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/qMCvDtItCcs",
+  "Title": "Corruption mechanics (the \"cost\" bit)",
+  "Messages": [
+    {
+      "Author": "Petri Wessman",
+      "Date": "Apr 13, 2010, 10:46:34\u202FAM",
+      "Body": "Just to make sure I understand how corruption counters work vs various\nminions:\n\n- vampires are straightforward: they look at blood capacity (as per\ncard text)\n\n- allies with pool cost use that as \"cost of that ally\", also\nstraightforward\n\n- allies with blood cost use the blood cost as the \"cost of that\nally\" (I think?)\n\n- Imbued... I seem to recall that there was a ruling that their\ninfluence cost was treated as the \"cost of that ally\" in this case,\nbut not 100% sure\n\n- allies with \"X\" cost (Reanimated Corpse, for example)... this one\nI'm not sure about. Is the cost zero, or the amount of blood/pool\nactually paid for that specific instance of the ally?\n\nCorruption\n+1 stealth action.\n(D) Put a corruption counter on a minion controlled by your prey. If\nthe number of your corruption counters on the minion equals or exceeds\nthe blood capacity of that vampire or the cost of that ally, you may\nburn all of your corruption counters on that minion to gain control of\nhim or her.\n\n-Petri"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 13, 2010, 12:54:52\u202FPM",
+      "Body": "On Apr 13, 4:46 am, Petri Wessman <or...@orava.org> wrote:\n> Just to make sure I understand how corruption counters work vs various\n> minions:\n\nNit: Corruption counters don't work on their own. Many cards' effects\nwill count them for their own purposes, however.\nConsidering the card \"Corruption\" for these questions:\n\n> - vampires are straightforward: they look at blood capacity (as per\n> card text)\n>\n> - allies with pool cost use that as \"cost of that ally\", also\n> straightforward\n>\n> - allies with blood cost use the blood cost as the \"cost of that\n> ally\" (I think?)\n\nYeah: \"the cost of that ally\"\nIt is equally straightforward are allies with pool cost, since the\ncard text restricts the cost to neither pool nor blood.\n\n> - Imbued... I seem to recall that there was a ruling that their\n> influence cost was treated as the \"cost of that ally\" in this case,\n> but not 100% sure\n\nNo ruling needed.\n\"Their cost is also their starting life, and it is specified on each\ncard individually (like capacity)\" [NoR.1]\n\n> - allies with \"X\" cost (Reanimated Corpse, for example)... this one\n> I'm not sure about. Is the cost zero, or the amount of blood/pool\n> actually paid for that specific instance of the ally?\n\nThe cost is X: X is whatever X was set to when the card was played.\n\n\uE5D3"
+    },
+    {
+      "Author": "Petri Wessman",
+      "Date": "Apr 13, 2010, 2:51:41\u202FPM",
+      "Body": "On Apr 13, 1:54 pm, LSJ <vtes...@white-wolf.com> wrote:\n> On Apr 13, 4:46 am, Petri Wessman <or...@orava.org> wrote:\n> Nit: Corruption counters don't work on their own. Many cards' effects\n> will count them for their own purposes, however.\n> Considering the card \"Corruption\" for these questions:\n\nYeah, should have been more specific there :)\n\n> (about Imbued)\n\n> No ruling needed.\n> \"Their cost is also their starting life, and it is specified on each\n> card individually (like capacity)\" [NoR.1]\n\nAh, ok. Out of curiosity, what's that [NoR.1] referring to?\n\n> > - allies with \"X\" cost (Reanimated Corpse, for example)... this one\n> > I'm not sure about. Is the cost zero, or the amount of blood/pool\n> > actually paid for that specific instance of the ally?\n>\n> The cost is X: X is whatever X was set to when the card was played.\n\nMakes sense. Thanks.\n\n-Petri"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 13, 2010, 3:50:34\u202FPM",
+      "Body": "On Apr 13, 8:51 am, Petri Wessman <or...@orava.org> wrote:\n> > (about Imbued)\n\n> > \"Their cost is also their starting life, and it is specified on each\n> > card individually (like capacity)\" [NoR.1]\n>\n> Ah, ok. Out of curiosity, what's that [NoR.1] referring to?\n\nNights of Reckoning Rules. Rule Card 1."
+    }
+  ]
+}

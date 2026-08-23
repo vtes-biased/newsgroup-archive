@@ -1,0 +1,27 @@
+{
+  "ThreadId": "v3wmqPDBcGA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/v3wmqPDBcGA",
+  "Title": "[LSJ] Prisci Subreferendum",
+  "Messages": [
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jun 12, 2007, 1:52:14\u202FPM",
+      "Body": "Last night, a player tapped Demonstration to cancel the votes of a Priscus.\n\n\"Tap to cancel the votes of any vampire during the referendum of a political\naction.\"\n\nSome confusion ensued, since there is some perceived ambiguity about the\nPrisci Subreferendum. Some players thought that the Prisci Subreferendum\nvotes may only be affected explicitly, since we remembered rulings as such.\nBut in the end, the majority ruling was that Demonstration *can* affect a\nPriscus's votes.\n\nI found confirmation of this from 2001. Assuming nothing has changed,\nDemonstration can cancel the votes of a Priscus:\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/5ab156b8b0b5640f\n\nCan we please have a *definitive* ruling on what affects Prisci votes and\nwhat does not?\n\nAs far as I can tell, it all boils down to these 3 general rules:\n\n1) Effects which \"cancel\" a vampire's votes in a referendum may cancel the\nvotes of a vampire in the Prisci Subreferendum (i.e. Demonstration).\n\n2) Multipliers affect the votes of a vampire in the Prisci Subreferendum\n(i.e. if I control Orlando Oriundus and Shawnda Dorritt, Shawnda will have\n2 votes in the Prisci Subreferendum).\n\n3) Effects which numerically alter a vampire's votes (\"gain 2 votes\",\n\"get -1 vote\", etc) do NOT affect Priscus votes, except where explicitly\nstated (i.e. Free States Rant affects them due to card text, but Rastacourere\nand Condemnation Mute do not).\n\nCan you please confirm/deny/expand upon these points, so there is a specific\nrule that can be referenced?\n\nThanks."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 12, 2007, 2:11:27\u202FPM",
+      "Body": "Jozxyqk wrote:\n> Last night, a player tapped Demonstration to cancel the votes of a Priscus.\n>\n> \"Tap to cancel the votes of any vampire during the referendum of a political\n> action.\"\n>\n> Some confusion ensued, since there is some perceived ambiguity about the\n> Prisci Subreferendum. Some players thought that the Prisci Subreferendum\n> votes may only be affected explicitly, since we remembered rulings as such.\n> But in the end, the majority ruling was that Demonstration *can* affect a\n> Priscus's votes.\n>\n> I found confirmation of this from 2001. Assuming nothing has changed,\n> Demonstration can cancel the votes of a Priscus:\n> http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/5ab156b8b0b5640f\n\nCorrect.\n\n> Can we please have a *definitive* ruling on what affects Prisci votes and\n> what does not?\n\nSure.\n\n> As far as I can tell, it all boils down to these 3 general rules:\n>\n> 1) Effects which \"cancel\" a vampire's votes in a referendum may cancel the\n> votes of a vampire in the Prisci Subreferendum (i.e. Demonstration).\n\nYes, setting the vampire's disposition affects both his main- and sub-\nreferendum votes, by the rule that all votes from a single source must be cast\nin agreement. (That is, each source can be viewed as having an \"aligment\": for,\nagainst, or neutral. All votes from the source are cast (or withheld) according\nto that alignment.)\n\n> 2) Multipliers affect the votes of a vampire in the Prisci Subreferendum\n> (i.e. if I control Orlando Oriundus and Shawnda Dorritt, Shawnda will have\n> 2 votes in the Prisci Subreferendum).\n\nNo. Multipliers and all other effects which manipulate the number of votes only\naffect the votes they say they do. (With \"vote\" meaning \"vote in the main\nreferendum\", as per the standard rule.)\n\n> 3) Effects which numerically alter a vampire's votes (\"gain 2 votes\",\n> \"get -1 vote\", etc) do NOT affect Priscus votes, except where explicitly\n> stated (i.e. Free States Rant affects them due to card text, but Rastacourere\n> and Condemnation Mute do not).\n\nCorrect. This rule applies as written to multipliers (which numerically alter a\nvampire's votes).\n\n> Can you please confirm/deny/expand upon these points, so there is a specific\n> rule that can be referenced?\n\nSure, but this just reiterates the specific rule pair that can be referenced as\nit has been given before.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/f5f3092799ed765c\n\nAnd, to reinforce #3's jurisdiction over multipliers:\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/c5033b7ff2a9c261"
+    },
+    {
+      "Author": "JJeff",
+      "Date": "Jun 14, 2007, 4:26:25\u202FPM",
+      "Body": "How does Political Struggle affect a Priscus? Can the Vampire playing\nPolitical Struggle on a Priscus member get 1 vote in the Prisci Sub-\nref or no vote at all?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 14, 2007, 5:42:20\u202FPM",
+      "Body": "\uE5D3\n\nZero votes, the number of main-referendum votes the Priscus has."
+    }
+  ]
+}

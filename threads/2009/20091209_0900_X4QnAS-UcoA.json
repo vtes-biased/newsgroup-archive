@@ -1,0 +1,62 @@
+{
+  "ThreadId": "X4QnAS-UcoA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/X4QnAS-UcoA",
+  "Title": "Redirecting bleed to myself",
+  "Messages": [
+    {
+      "Author": "YY",
+      "Date": "Dec 9, 2009, 9:00:14\u202FAM",
+      "Body": "Can I redirect a bleed to myself using a reaction card that redirects\na bleed? From what I see, only My Enemy's Enemy will allow you to do\nthat, or am I misreading the card texts?\n\nDeflection\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Dominate\n[dom] Only usable when a minion is bleeding you [after blocks are\ndeclined]. Tap this reacting vampire. Choose another Methuselah other\nthan the controller of the acting minion. The acting minion is now\nbleeding that Methuselah.\n[DOM] As above, but do not tap this vampire.\n\nTelepathic Misdirection\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Auspex\n[aus] +1 intercept.\n[AUS] Only usable when a minion is bleeding you, after blocks are\ndeclined. Tap this reacting vampire. Choose another Methuselah other\nthan the acting minion's controller. The acting minion is now bleeding\nthat Methuselah.\n\nMy Enemy's Enemy\nCardtype: Reaction\nDiscipline: Auspex\n[aus] +1 intercept.\n[AUS] Only usable when a minion controlled by your predator is\nbleeding you, [after blocks are declined]. Tap this reacting vampire.\nThe acting minion is now bleeding your predator's predator.\n\nRedirection\nCardtype: Reaction\nDiscipline: Dominate\n[dom] Only usable when a younger vampire is bleeding you, [after\nblocks are declined]. Tap this reacting vampire. Choose another\nMethuselah other than the acting vampire's controller. That acting\nvampire is now bleeding that Methuselah.\n[DOM] As above, but the acting vampire can be the same age or older.\n\nMurmur of the False Will\nCardtype: Action Modifier/Reaction\nDiscipline: Dominate\n[dom] [ACTION MODIFIER] +1 bleed. You cannot play another action\nmodifier to increase this bleed amount.\n[DOM] [REACTION] Only usable when a younger vampire is bleeding you,\nafter blocks are declined. Tap this reacting vampire. Choose another\nMethuselah other than the acting vampire's controller. That acting\nvampire is now bleeding that Methuselah.\n\nLost in Translation\nCardtype: Reaction\nCost: 2 blood\nOnly usable when an ally or younger vampire is bleeding you, after\nblocks are declined.\nTap this reacting vampire. Choose another Methuselah other than the\nacting minion's controller. The acting minion is now bleeding the\nchosen Methuselah. Only one Lost in Translation may be played each\naction."
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Dec 9, 2009, 9:12:44\u202FAM",
+      "Body": "They all say \"choose another Methuselah\" (\"another\" means \"other than\nyou\") with the further restriction \"other than the acting XXX's\ncontroller\".\nSo you can't redirect to you nor to the controller of the acting\nminion or vampire."
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Dec 9, 2009, 10:44:23\u202FAM",
+      "Body": "If you can redirect a bleed to yourself with My Enemies Enemy\n(assuming only two players left). Will there be a new \"choose blocker\"-\nphase?"
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Dec 9, 2009, 11:13:31\u202FAM",
+      "Body": "\uE5D3\n\nNo, because the target hasn't changed.\n\n\"If the target of a directed action is reset, a new \"choose blockers\"\nopportunity results. [RTR 19970630]\n3) Normally, there is only one opportunity to block a given action,\nthough\nany number of minions can try to block during that window of\nopportunity.\nBut if the target of a directed action is *changed*, this closes the\ncurrent\nwindow of opportunity and opens a new one, even if the same player as\nbefore would be trying to block.\" (emphasis mine)"
+    },
+    {
+      "Author": "YY",
+      "Date": "Dec 10, 2009, 2:12:47\u202FAM",
+      "Body": "\uE5D3\n\nBut it doesn't say *change*. It says *reset*, which in this context\nmay trigger a new choose blocker window, since the target is \"set\nagain\" to the current target.\n\nFrom Dictionary.com:\nre·set (rē-sět')\ntr.v. re·set, re·set·ting, re·sets\n1. To set again: reset a broken bone.\n2. To change the reading of: reset a clock.\n\nn. (rē'sět')\n1. The act of setting again.\n2. Something set again."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 10, 2009, 2:26:28\u202FAM",
+      "Body": "On 12/9/09 8:12 , YY wrote:\n> But it doesn't say *change*. It says *reset*, which in this context\n> may trigger a new choose blocker window, since the target is \"set\n> again\" to the current target.\n\nNo."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 10, 2009, 5:18:27\u202FAM",
+      "Body": "\uE5D3\n\nBut if the target of a directed action is changed, this closes the\ncurrent window of opportunity and opens a new one, ***even if the same\nplayer as\nbefore would be trying to block.***\n\nDoesn't this indicate that if the bleed is redirected to \"my\npredator's predator\" which also happens to be me, I get another block\nwindow?"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Dec 10, 2009, 9:16:02\u202FAM",
+      "Body": "On 10 déc, 05:18, Juggernaut1981 <brasscompo...@gmail.com> wrote:\n> But if the target of a directed action is changed, this closes the\n> current window of opportunity\n\nNo. The target changes after the block-window was closed.\n\n> and opens a new one, ***even if the same\n> player as\n> before would be trying to block.***\n\nNo. A new block-window is opened when the target has changed.\n\n> Doesn't this indicate that if the bleed is redirected to \"my\n> predator's predator\" which also happens to be me, I get another block\n> window?\n\nNo.\n[Can't find anything more recent than\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/4d3b56837ef38eb5\n- though I remember LSJ answering this question in the past 6 month...\nsearching for \"MEE author:lsj\" or \"Enemy author:lsj\" or \"Lucita\nauthor:lsj\" in the GoogleGroups mainpage didn't return anything\nrecent...]"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 10, 2009, 12:38:34\u202FPM",
+      "Body": "On 12/9/09 11:18 , Juggernaut1981 wrote:\n> But if the target of a directed action is changed, this closes the\n> current window of opportunity and opens a new one, ***even if the same\n> player as\n> before would be trying to block.***\n>\n> Doesn't this indicate that if the bleed is redirected to \"my\n> predator's predator\" which also happens to be me, I get another block\n> window?\n\nNo, since the target hasn't changed.\n\nWhat that indicates is that if the target changes, even if the \"who may block\"\ndoesn't change (or is a set that overlaps the previous set of \"who may block\").\n\nFor bleeds, this never applies, since the only Methuselah in the \"who may block\"\nset is the target of the bleed.\n\nBut if something like a Bum's Rush could change targets in the middle of the\naction to another minion controlled by the controller of the original target,\nthen that ruling says that the blocking opportunity is re-set."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 10, 2009, 11:34:59\u202FPM",
+      "Body": "\uE5D3\n\nLSJ> Isn't this irrelevant as I can't think of an action under the new\n\"Directed Action\" criteria that can meet the criteria for \"isn't being\ntargeted by they can block it still\".\n\nIf an action targets \"my stuff\" it is directed at me, allowing me to\nblock. If a change happens that makes \"my stuff\" ineligible as a\ntarget (e.g. I untap a minion that was going to be Harassed and it\ncannot be targeted now) then I am no longer able to block and can't be\na \"who may block\".\n\nIf the action is a bleed action, then as you have said, the target of\nthe bleed is the only blocker.\n\nThat results in the last section being redundant, unless you want it\nto have the effect of saying \"flicking legally to yourself creates a\nnew window\"."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 11, 2009, 12:54:26\u202FAM",
+      "Body": "On 12/10/09 5:34 , Juggernaut1981 wrote:\n> On Dec 10, 10:38 pm, LSJ<vtes...@white-wolf.com> wrote:\n>> On 12/9/09 11:18 , Juggernaut1981 wrote:\n>>\n>>> But if the target of a directed action is changed, this closes the\n>>> current window of opportunity and opens a new one, ***even if the same\n>>> player as\n>>> before would be trying to block.***\n>>\n>>> Doesn't this indicate that if the bleed is redirected to \"my\n>>> predator's predator\" which also happens to be me, I get another block\n>>> window?\n>>\n>> No, since the target hasn't changed.\n>>\n>> What that indicates is that if the target changes, even if the \"who may block\"\n>> doesn't change (or is a set that overlaps the previous set of \"who may block\").\n>>\n>> For bleeds, this never applies, since the only Methuselah in the \"who may block\"\n>> set is the target of the bleed.\n>>\n>> But if something like a Bum's Rush could change targets in the middle of the\n>> action to another minion controlled by the controller of the original target,\n>> then that ruling says that the blocking opportunity is re-set.\n>\n> LSJ> Isn't this irrelevant as I can't think of an action under the new\n> \"Directed Action\" criteria that can meet the criteria for \"isn't being\n> targeted by they can block it still\".\n\n?\n\nSee the example given. Bum's Rush targeting minion A can be blocked by minion B\n(both A and B being controlled by Methuselah X)."
+    }
+  ]
+}

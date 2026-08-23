@@ -1,0 +1,77 @@
+{
+  "ThreadId": "-VQSDBxXZKo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-VQSDBxXZKo",
+  "Title": "a couple of rules questions",
+  "Messages": [
+    {
+      "Author": "Chris Berger",
+      "Date": "Jan 31, 2008, 3:13:09\u202FPM",
+      "Body": "Quick one: If Shemti is ready and untapped and you are bled by another\nvampire for 1, which Shemti reduces to 0 with superior Ecstasy, who\ngets to order the effects? I'm assuming the acting methuselah can.\nAssuming a vamp with 1 blood, he can either take the damage before\nuselessly burning a blood, or he can burn the blood first if, say,\nyou've got his vamp in Temptation-lock and he wants it in torpor. Of\ncourse, in the latter case, you can always play Ecstasy at inferior\ninstead.\n\nRelated question: Instead of Shemti, we have Ecstasy and Crocodile\nTemple. In this case, I believe you can wait until after Ecstasy's\nburn blood is applied before tapping the Crocodile Temple, since both\nhappen in the same window. (actually, since Croc is \"at the end\" of\nan action, maybe you have no choice and *have* to wait until after\nEcstasy is resolved?)\n\nUnrelated, but just checking: Scarce only causes you to pay extra pool\nif a vamp is brought out during your *influence* phase, correct?\n\nrelevant card text:\n\nShemti, 9, vic OBF POT PRE SER, Followers of Set, 5, [LotN]\nIndependent: Shemti has1 vote (titled). While he is ready and\nuntapped, any minion successfully performing a (D) action against you\ntakes 1 damage (after resolving theaction).\n\nEcstasy, Reaction, Serpentis, C2 , [FN:C2/PS2]\n[ser] Reduce a bleed against you by 1. [SER] As above, and if the\nbleed resolves for 0 (or less), the acting minion burns 1 blood or\nlife (after resolving the action).\n\nCrocodile Temple, The, Master, Followers of Set, R , [KMW]\nMaster: unique location. You may tap this card at the end of a\nsuccessful (D) action against you to inflict 1 damage on the acting\nminion (after resolving the action)."
+    },
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Jan 31, 2008, 3:23:56\u202FPM",
+      "Body": "Chris Berger wrote:\n\n\uE5D3\n\nBoth Shemti, and the Crocodile Temple require a successful (D) action.\nA bleed for 1, reduced to 0 with ecstasy is no longer a successful\naction, so neither effect kicks in. The acting minion would take 1\ndamage from the ecstasy, but Shemti and the Temple's effects do not\ntrigger, since at action resolution (after ecstasy has been played)\nthe action is unsuccessful."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 31, 2008, 3:23:49\u202FPM",
+      "Body": "Chris Berger wrote:\n> Quick one: If Shemti is ready and untapped and you are bled by another\n> vampire for 1, which Shemti reduces to 0 with superior Ecstasy, who\n> gets to order the effects? I'm assuming the acting methuselah can.\n\nYes.\n\n> Assuming a vamp with 1 blood, he can either take the damage before\n> uselessly burning a blood, or he can burn the blood first if, say,\n> you've got his vamp in Temptation-lock and he wants it in torpor. Of\n> course, in the latter case, you can always play Ecstasy at inferior\n> instead.\n\nSure.\n\n> Related question: Instead of Shemti, we have Ecstasy and Crocodile\n> Temple. In this case, I believe you can wait until after Ecstasy's\n> burn blood is applied before tapping the Crocodile Temple, since both\n> happen in the same window. (actually, since Croc is \"at the end\" of\n> an action, maybe you have no choice and *have* to wait until after\n> Ecstasy is resolved?)\n\nEffectively, you *must* wait. The acting Methuselah cannot pass (instead of\napplying the mandatory Ecstasy effect) in order for you to be able to tap the\nTemple first.\n\n> Unrelated, but just checking: Scarce only causes you to pay extra pool\n> if a vamp is brought out during your *influence* phase, correct?\n\nYes.\n\nrelevant rules text:\n\nScarce: When a Methuselah moves a scarce vampire from her uncontrolled region to\nher ready region during her influence phase, she must burn 3 pool for every\nother vampire of the same clan already in play.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 31, 2008, 3:28:48\u202FPM",
+      "Body": "tbz_...@hotmail.com wrote:\n> Both Shemti, and the Crocodile Temple require a successful (D) action.\n> A bleed for 1, reduced to 0 with ecstasy is no longer a successful\n> action,\n\nAn action that reaches resolution unblocked is successful (unless it fizzles due\nto the lack of valid target or lack of cost-paying ability).\n\nThe bleed may not be successful (0), but the action is."
+    },
+    {
+      "Author": "atomweaver",
+      "Date": "Jan 31, 2008, 3:29:32\u202FPM",
+      "Body": "Chris Berger <ark...@ugcs.caltech.edu> wrote in news:48459044-95de-4985-\na328-efc...@c4g2000hsg.googlegroups.com:\n\n>\n> Quick one: If Shemti is ready and untapped and you are bled by another\n> vampire for 1, which Shemti reduces to 0 with superior Ecstasy, who\n> gets to order the effects? I'm assuming the acting methuselah can.\n\nYes, when a target has multiple simultaneous effects to resolve, the\ntarget's controller decides the order of resolution.\n\n> Assuming a vamp with 1 blood, he can either take the damage before\n> uselessly burning a blood, or he can burn the blood first if, say,\n> you've got his vamp in Temptation-lock and he wants it in torpor. Of\n> course, in the latter case, you can always play Ecstasy at inferior\n> instead.\n>\n> Related question: Instead of Shemti, we have Ecstasy and Crocodile\n> Temple. In this case, I believe you can wait until after Ecstasy's\n> burn blood is applied before tapping the Crocodile Temple, since both\n> happen in the same window. (actually, since Croc is \"at the end\" of\n> an action, maybe you have no choice and *have* to wait until after\n> Ecstasy is resolved?)\n>\n\nI'd agree. The \"tap to\" portion of Croc Temple puts the timing control\nback into the hands of the controller of Croc Temple, and there is an\nopportunity to tap it after the Ecstasy is resolved.\n\n> Unrelated, but just checking: Scarce only causes you to pay extra pool\n> if a vamp is brought out during your *influence* phase, correct?\n>\n\nYes, the rulebook is explicit in stating this from;\n\nhttp://www.white-wolf.com/vtes/rulebook/rulebook.html#sec11\n\n\"Scarce: When a Methuselah moves a scarce vampire from her uncontrolled\nregion to her ready region during her influence phase, she must burn 3\npool for every other vampire of the same clan already in play. \"\n\nDaveZ\nAtom Weaver"
+    },
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Jan 31, 2008, 3:33:16\u202FPM",
+      "Body": "On 31 Jan, 14:28, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n\nReally? Thats interesting, I'd always assumed that since the action\nwas bleed, and the bleed was unsuccessful, the action was unsuccessful."
+    },
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Jan 31, 2008, 3:42:28\u202FPM",
+      "Body": "On 31 Jan, 14:28, LSJ <vtes...@white-wolf.com> wrote:\n\n\uE5D3\n\nFor clarification then - a bleed bounced and not blocked by the new\ntarget meth is a successful bleed - is it a successful action? Is the\nlack of block the condition, or is it that the target has changed, so\nthe action is unsuccessful as declared?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 31, 2008, 3:43:11\u202FPM",
+      "Body": "\uE5D3\n\nYeah, that's a problem with the dual use of \"bleed\".\nCompare to \"political action\" and \"referendum\".\n\nThe action is \"bleed action\" the resolution package is \"bleed\".\n\nreferendums and bleeds may be unsuccessful even if their respective actions\n(political actions and bleed actions) succeed."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 31, 2008, 3:44:25\u202FPM",
+      "Body": "tbz_...@hotmail.com wrote:\n> On 31 Jan, 14:28, LSJ <vtes...@white-wolf.com> wrote:\n>> tbz_be...@hotmail.com wrote:\n>>> Both Shemti, and the Crocodile Temple require a successful (D) action.\n>>> A bleed for 1, reduced to 0 with ecstasy is no longer a successful\n>>> action,\n>> An action that reaches resolution unblocked is successful (unless it fizzles due\n>> to the lack of valid target or lack of cost-paying ability).\n>>\n>> The bleed may not be successful (0), but the action is.\n>\n> For clarification then - a bleed bounced and not blocked by the new\n> target meth is a successful bleed - is it a successful action?\n\nYes. It reached resolution unblocked.\n\n> Is the\n> lack of block the condition, or is it that the target has changed, so\n> the action is unsuccessful as declared?\n\nIt succeeds, with a valid target."
+    },
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Jan 31, 2008, 3:49:55\u202FPM",
+      "Body": "\uE5D3\n\nThanks for that :)"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Feb 1, 2008, 1:42:51\u202FPM",
+      "Body": "\uE5D3\nYeah, it is a little bit confusing, but trust me, it's better this\nway. Otherwise you have weirdness like Freak Drive being unplayable\non a bleed that resolves for 0 (because inferior can only be used on a\nsuccessful action, and superior can only be used when blocked).\n\nAlthough... there are some other cards now which cause an action to\njust fail and also disallow Freak Drive completely - it seems a little\nstrange, and maybe Freak Drive should be reworded to \"As above, but\nplayable on an unsuccessful action (play after combat, if any).\" But\nas it currently stands, Army of Apparitions (sup), for example, will\nkeep the acting minion from Freak Driving."
+    },
+    {
+      "Author": "I. M. Bur",
+      "Date": "Feb 1, 2008, 9:34:54\u202FPM",
+      "Body": "> as it currently stands, Army of Apparitions (sup), for example, will\n> keep the acting minion from Freak Driving.\n\nAnd on the other side of the fence, so does Kiss of Ra.\n\n--\n-bur\n\n--\nPosted via a free Usenet account from http://www.teranews.com"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Feb 2, 2008, 3:25:40\u202FPM",
+      "Body": "Chris Berger a écrit :\n\uE5D3\n\nI think freak drive is good as it is worded now.\nIt's good to be able to tone down thos multi action freaks with\nobediende or army of apparitions."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Feb 3, 2008, 7:00:09\u202FPM",
+      "Body": "On Feb 2, 8:25 am, reyda <true_re...@hotmail.com> wrote:\n>\n> I think freak drive is good as it is worded now.\n> It's good to be able to tone down thos multi action freaks with\n> obediende or army of apparitions.\n>\n\nWell, maybe. But it's still weird, and counter-intuitive, at least at\nfirst."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ThreadId": "HHX1WHYMMbs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HHX1WHYMMbs",
+  "Title": "LSJ: Swarm question",
+  "Messages": [
+    {
+      "Author": "FredGenest",
+      "Date": "May 17, 2006, 2:24:11\u202FPM",
+      "Body": "Hello all.\n\nGot this situation recently, when I tried to put Swarm on another\nminion and got blocked. So the Swarm is now on my minion.\n\nSince a Swarm either 1) burns a life when it has more than two or 2)\nsteals a blood/life from the minion it is on, what happens when that\nminion has no blood/life? Of course, it can't steal a blood, but does\nit burns a life instead (burning itself in the process)?\n\nI guess the answer is \"no\" but I want to check.\n\nA corrolary question: any way a Swarm will burn itself out? If not, I\nguess the only way to get rid of it is to inflict damage on it or steal\nits last life (through Cryptic Mission and the like)\n\nThanks.\n\n*****************************\n\nSwarm [LoB:C]\nCardtype: Retainer\nCost: 1 blood\nAnimal with 1 life. Requires a ready Laibon.\nPut the Swarm on any ready minion (employing the Swarm is a +1 stealth\n(D) action if that minion is controlled by another Methuselah). If this\naction is blocked, put the Swarm on the acting minion instead (no cost\nis paid). During this minion's untap phase, if the Swarm has more than\n1 life, it burns a life; otherwise, it steals 1 blood or life from this\nminion. A minion may have only one Swarm."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 17, 2006, 2:27:58\u202FPM",
+      "Body": "FredGenest wrote:\n> Got this situation recently, when I tried to put Swarm on another\n> minion and got blocked. So the Swarm is now on my minion.\n>\n> Since a Swarm either 1) burns a life when it has more than two or 2)\n\nmore than one, you mean.\n\n> steals a blood/life from the minion it is on, what happens when that\n> minion has no blood/life? Of course, it can't steal a blood, but does\n> it burns a life instead (burning itself in the process)?\n>\n> I guess the answer is \"no\" but I want to check.\n\nNo is correct. It steals one. This works exactly like stealing one\nblood via Theft of Vitae works against an empty vampire -- no effect.\n\n> A corrolary question: any way a Swarm will burn itself out? If not, I\n> guess the only way to get rid of it is to inflict damage on it or steal\n> its last life (through Cryptic Mission and the like)\n\nCorrect.\nYou could also pass it to another vampire with Heidelberg, for example."
+    }
+  ]
+}

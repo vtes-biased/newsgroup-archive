@@ -1,0 +1,22 @@
+{
+  "ThreadId": "pLRePth66iQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/pLRePth66iQ",
+  "Title": "vekn tournament and archon q",
+  "Messages": [
+    {
+      "Author": "Geb",
+      "Date": "Apr 24, 2001, 4:41:39\u202FPM",
+      "Body": "hello all\n\ni have a question about the vp assignament. If i survived the table i\nget 0.5 vp, and if i'm the last one i get 1 additional. Says this that\ni get 1.5 per be the last one or just 1 vp??\n\ni have saw the archon, some function didn't works well, i want to know\nif there is another program to do the rounds, etc. If i use more that\n3 rounds tornament i can't use it. i have a question about it, what is\nthe optimal tournament seating and how did it calculate them?\n\nin 3.8.4 from official v:ekn rules says that in case of a tie the\nposition in the previos event are relevant, instead of remaning pool\nas use the archon, what is the best option?\n\nbye!\nGeb"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 24, 2001, 4:16:51\u202FPM",
+      "Body": "Geb wrote:\n>\n> hello all\n>\n> i have a question about the vp assignament. If i survived the table i\n> get 0.5 vp, and if i'm the last one i get 1 additional. Says this that\n> i get 1.5 per be the last one or just 1 vp??\n\nIf the game goes to the time limit (and is therefore ended with more than\n1 player still in the game), then the players still in the game get an\nadditional 0.5 VP for being still in the game.\n\nIf, before time is called, you are the last player in the game, then you\nget 1 VP (per the normal rules). Time is not called at that table (since\nthe game is already over) and the 'straggler' VPs are not awarded.\n\n> i have saw the archon, some function didn't works well, i want to know\n> if there is another program to do the rounds, etc. If i use more that\n> 3 rounds tornament i can't use it. i have a question about it, what is\n> the optimal tournament seating and how did it calculate them?\n\nThe optimal seating charts are \"calculated\" by me, and were done to\noptimize certain parameters:\n\n* No pair of players repeat their predator-prey relationship, if possible.\n* No pair of players share a table through all three rounds, if possible.\n* Available VPs are equitably distributed. That is, if one player plays\nat three five-player tables during the tournament, she'll have 15\n\"available\" VPs. In this case, no other player should have less than 14\n\"available\" VPs (that is, the difference in available VPs should be no\nmore than one and should be zero if possible).\n* No pair of players share a table more often than necessary.\n* A player doesn't play in the same position. If a player plays second at\none table, she shouldn't be seated \"second\" in any other round.\n\n> in 3.8.4 from official v:ekn rules says that in case of a tie the\n> position in the previos event are relevant, instead of remaning pool\n> as use the archon, what is the best option?\n\nThe \"best\" option for official V:EKN tourneys is the V:EKN rule, which is\nthe rule used by the most recent version of the Archon, I believe.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Roger Carhult",
+      "Date": "May 1, 2001, 5:43:17\u202FPM",
+      "Body": "\"Geb\" <1gan...@teleline.es> wrote in message\nnews:3ae58caa...@news.mad.ttd.net...\n\n> hello all\n>\n> i have a question about the vp assignament. If i survived the table i\n> get 0.5 vp, and if i'm the last one i get 1 additional. Says this that\n> i get 1.5 per be the last one or just 1 vp??\n\nYou only get 0.5 VP in addition to any VPs you gained by ousting people. If\nyou got 1 VP or 1.5 VP that would equal to/be better than being the only one\nleft on the table, which it naturally shouldn't be. But it would also not be\ndesirable to get nothing for managing to not be ousted since that's actually\nsome kind of achievement, thus I think they made the rule about 0.5 VP as a\ncompromise. On the other hand, when I think of it everyone has 1 VP that\nthey \"own\" from start and if you don't get ousted you should get for that\npoint since nobody took it from you...\n\nCantila - my two VPs worth..."
+    }
+  ]
+}

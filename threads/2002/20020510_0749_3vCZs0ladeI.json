@@ -1,0 +1,37 @@
+{
+  "ThreadId": "3vCZs0ladeI",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/3vCZs0ladeI",
+  "Title": "Darkness Within q?",
+  "Messages": [
+    {
+      "Author": "Tal...@nodamspamhotmail.com",
+      "Date": "May 10, 2002, 7:49:06\u202FAM",
+      "Body": "As the move blood effect of DW ocurrs in strike resolution, is this\nbefore or after any damage inflicted during the same strike resolution\nto that same minion?\n\nT"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 10, 2002, 1:57:55\u202FPM",
+      "Body": "\uE5D3\n\nSimultaneous with the application of strike effects (which is all before\nhandling damage).\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "vermillian",
+      "Date": "May 10, 2002, 6:32:41\u202FPM",
+      "Body": "Tal...@nodamspamhotmail.com wrote in message news:<3cdb5ee5.384041125@news>...\n\n> As the move blood effect of DW ocurrs in strike resolution, is this\n> before or after any damage inflicted during the same strike resolution\n> to that same minion?\n\nThis is my guess... Normal strike resolution has no additional steps\nto it (strike resolution itself has already been broken into SCE,\nDodging, First Strike, then Normal SR)... So I would just say that it\nwould go on the order of the acting methuselah's choice...\n\nAm I wrong?\n\n~SV"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "May 10, 2002, 8:20:26\u202FPM",
+      "Body": "\"vermillian\" <vermil...@yahoo.com> wrote in message\nnews:f987c6cd.0205...@posting.google.com...\n\uE5D3\n\nSlightly wrong.\n\nNormal strike resolution = first, effects of strikes are\napplied. Then, there is the \"burn blood for damage\" step\n(in which damage prevention can be played).\n\nDarkness Within's effect (like that of Wolf Companion, etc\netc) is simultaneous with \"apply effects of strikes\". But\nbecause you don't burn blood/go to torpor for damage in\nthat step, you'll move blood for DW before the DW'd vamp\nstarts suffering the effects of damage.\n\nThis is the same reason that blood gained from \"steal blood\"\neffects can be used to heal damage in the same strike\nresolution. (\"Steal blood\" strikes resolve at the same time\nas all other normal strikes, but since they aren't damage\nthey don't have to wait for the damage-handling step.)\n\nOr, short answer: Darkness Within \"takes effect\" before\ndamage inflicted in the same strike resolution (ie the first\nnormal strike resolution in a round) is applied.\n\nJosh\n\nthinks this was answered by LSJ already in this thread, but\nhe may not have gone into as much detail..."
+    },
+    {
+      "Author": "Tal...@nodamspamhotmail.com",
+      "Date": "May 11, 2002, 1:17:11\u202FAM",
+      "Body": "On Fri, 10 May 2002 07:57:55 -0400, LSJ <vte...@white-wolf.com>\nwrote:\n\n>Tal...@nodamspamhotmail.com wrote:\n>>\n>> As the move blood effect of DW ocurrs in strike resolution, is this\n>> before or after any damage inflicted during the same strike resolution\n>> to that same minion?\n>\n>Simultaneous with the application of strike effects (which is all before\n>handling damage).\n>\n\nSo it removes the blood whenyou figure out what the strikes do, kinda\nlike the same time that theft steals blood? And all before damage\nprevention which is where damage is actually applied from\nstrikes/environmental?\n\nT"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 13, 2002, 1:43:40\u202FPM",
+      "Body": "\uE5D3\n> prevention which is where damage is actually [handled] from\n> strikes/environmental?\n\nYes.\n\n\uE5D3"
+    }
+  ]
+}

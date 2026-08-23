@@ -1,0 +1,37 @@
+{
+  "ThreadId": "37EYK3FA30k",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/37EYK3FA30k",
+  "Title": "Archon Investigation Vs declining to block question (LSJ)",
+  "Messages": [
+    {
+      "Author": "Stone",
+      "Date": "Feb 3, 2007, 12:41:25\u202FPM",
+      "Body": "I've heard this has come up on some forum, but would like an official\nconfirmation here.\nA vampire bleeds for 4. Prey plays Archon Investigation. AI is cancelled via\nSudden Reversal.\nCan the target of the bleed still try to block, or has the play of AI\nimplied she declined it ?\ncard text included for reference.\nStone\n\nName: Archon Investigation\n[VTES:U, CE:U, KMW:PG, Third:U]\nCardtype: Master\nCost: 3 pool\nMaster: out-of-turn.\nOnly usable when a minion is attempting to bleed you for more than 3. The\naction is not successful. Burn the acting minion.\nArtist: Peter Bergting; Lawrence Snelly"
+    },
+    {
+      "Author": "Bram Vink",
+      "Date": "Feb 3, 2007, 3:56:00\u202FPM",
+      "Body": "\uE5D3\n\nThere's basically two ways to go. Official confirmation will have to\nsee to this, I guess.\n\nCommon sense tells us: Playing an AI does not mean in any way you\ndecline to block.\nWe've been told before: You're implicitly declining to block by\nattempting to close the blocking window. Wether that attempt is\nsuccessful or not, the declination is final.\n\nCheers\n\nB"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 3, 2007, 4:22:41\u202FPM",
+      "Body": "\uE5D3\n\nHmm. A bit hazy there.\n\nThe effect of AI is to burn the acting minion. The bit about the action not\nbeing successful could therefore be seen to be just reminder text.\n\nIf that were true, then playing AI doesn't close the blocking window. That is,\nthere could be an effect like Reform Body that was an action modifier and left\nthe vampire ready rather than in torpor which could allow the bleed to continue\nthrough an AI.\n\nBut in realty (hypothetically, that is), card text on AI would lead to the\nresult that the action is indeed ended, even though the acting minion has\nmanaged to survive the burn effect of AI.\n\nSo it must be the case that AI is played only after the blocking window is\nclosed (like Deflection), since attempting to end the action (without blocking)\nimplies that you have decided not to block."
+    },
+    {
+      "Author": "Reyda !",
+      "Date": "Feb 3, 2007, 11:43:14\u202FPM",
+      "Body": "LSJ a écrit :\n\n> Stone wrote:\n> > I've heard this has come up on some forum, but would like an official\n> > confirmation here.\n> > A vampire bleeds for 4. Prey plays Archon Investigation. AI is cancelled via\n> > Sudden Reversal.\n> > Can the target of the bleed still try to block, or has the play of AI\n> > implied she declined it ?\n> > card text included for reference.\n> > Stone\n> >\n> > Name: Archon Investigation\n> > [VTES:U, CE:U, KMW:PG, Third:U]\n> > Cardtype: Master\n> > Cost: 3 pool\n> > Master: out-of-turn.\n> > Only usable when a minion is attempting to bleed you for more than 3. The\n> > action is not successful. Burn the acting minion.\n>\n> Hmm. A bit hazy there.\n>\n> The effect of AI is to burn the acting minion. The bit about the action not\n> being successful could therefore be seen to be just reminder text.\n\nit may simply be a text clarifying the fact that the vampire is burned\nright away. No chances to play modifiers, tap masters or stuff like\nthat...\n\n> If that were true, then playing AI doesn't close the blocking window. That is,\n> there could be an effect like Reform Body that was an action modifier and left\n> the vampire ready rather than in torpor which could allow the bleed to continue\n> through an AI.\n\nwhy imply that \"there could be an effect\" where in fact there is no\ncard with such effect ?\n\n> But in realty (hypothetically, that is), card text on AI would lead to the\n> result that the action is indeed ended, even though the acting minion has\n> managed to survive the burn effect of AI.\n\nYes, the card text of AI says \"the action is not succesful\".\nBut if this card is suddened, then its card text is ignored\ncompletely.\nWhy can't we then resume with the block stuff ?\n\n> So it must be the case that AI is played only after the blocking window is\n> closed (like Deflection), since attempting to end the action (without blocking)\n> implies that you have decided not to block.\n\nIt has never been the case, and i'm pretty sure it's never been played\nthat way by any person on the ng : why induce change on such critical\nstuff ?\nWhy remove the only weapon against big bleeds for clans with little\nintercept / no acess to deflections ?\nAnd, oh why make Wash so powerful ? After the deflection case last\nmonth, it's just some more trouble :/"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Feb 12, 2007, 5:17:50\u202FAM",
+      "Body": "\uE5D3\n\nDoesn't this contradict your rulings on the timing of Archon\nInvestigation going back as far as 1998? See:\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/a9886358658e940c\n\nwhich puts the play of Archon Investigation in the same window as the\ndeclaration of block attempts. I'm not sure why it would need changing\nnow. Plus, forcing people to close the blocking window before playing\nAI seems like a pretty unnecessary reduction in the strength of Archon\nInvestigation.\n\nJosh\n\nseveral weeks (if not years) out of the loop"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 12, 2007, 12:46:08\u202FPM",
+      "Body": "\uE5D3\n\nNot that I can tell.\n\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/a9886358658e940c\n>\n> which puts the play of Archon Investigation in the same window as the\n> declaration of block attempts.\n\nNo. It puts it in the \"before resolution\" window. Actually, card text puts it\nthere -- the post cited simply confirms that.\n\n> I'm not sure why it would need changing\n> now. Plus, forcing people to close the blocking window before playing\n> AI seems like a pretty unnecessary reduction in the strength of Archon\n> Investigation.\n\nIf it were a reduction, perhaps. Every change can be labeled \"pretty\nunnecessary\", even R2I and so forth. Some of the changes that aren't actually\nnecessary were/are still good ideas."
+    }
+  ]
+}

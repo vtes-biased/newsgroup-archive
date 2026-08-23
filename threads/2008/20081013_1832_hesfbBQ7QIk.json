@@ -1,0 +1,42 @@
+{
+  "ThreadId": "hesfbBQ7QIk",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/hesfbBQ7QIk",
+  "Title": "Rules Question: Setting range",
+  "Messages": [
+    {
+      "Author": "gla...@gmail.com",
+      "Date": "Oct 13, 2008, 6:32:59\u202FPM",
+      "Body": "It's Minion A vs. Minion B.\n\nRound 1: Minion A plays Immortal Grapple at superior. This sets range\nat close next round, skipping the determine range step. Minion A\npresses to continue and Minion B does not press to end.\n\nRound 2: Minion B, still alive after being grappled, plays Shadow Step\nat superior, paying 2 blood to set range to long, and skipping the\ndetermine range step (which is already being skipped).\n\nClearly there isn't a *timing* problem with Shadow Step, as it is\npretty explicitly *not* played during the skipped part of the combat\nround (Determine Range).\n\nThe questions are:\n\n1) Is Minion B prevented from playing Shadow Step at superior because\nof the effects of the previous Immortal Grapple? (My instinct on this\nis no -- for I can see no reason why Minion B wouldn't be able to\ncycle the card and set range to short.)\n\n2) If the answer to question number 1 is \"no\", is Minion B prevented\nfrom declaring combat at long range because of the effects of the\nprevious Immortal Grapple? (Again, my instinct is no -- if you can\ndeclare short, you can probably declare long.)\n\n3) If the answer to question number 2 is \"no\", then is the rule for\nrange-setting effects that do not take place during the Determine\nRange step of the combat round \"FIRST IN TIME\" or \"LAST IN TIME\"? In\nother words, is range going to be at close no matter what because\nMinion A played a superior Immortal Grapple on round 1, or can Minions\nA and B engage in a toggle-war where they both play Shadow Step/High\nGround/etc. repeatedly until one runs out of blood or relevant cards?\n\nMy apologies if this has been addressed before. I was unable to find\na ruling or relevant game rule.\n\nSincerely,\n\nLegendre"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Oct 13, 2008, 6:42:04\u202FPM",
+      "Body": "gla...@gmail.com wrote:\n> 1) Is Minion B prevented from playing Shadow Step at superior because\n> of the effects of the previous Immortal Grapple?\n\nYes."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Oct 13, 2008, 6:52:10\u202FPM",
+      "Body": "On Oct 13, 11:32 am, glav...@gmail.com wrote:\n> It's Minion A vs. Minion B.\n>\n> Round 1: Minion A plays Immortal Grapple at superior.  This sets range\n> at close next round, skipping the determine range step.  Minion A\n> presses to continue and Minion B does not press to end.\n>\n\n...\n\n> My apologies if this has been addressed before.  I was unable to find\n> a ruling or relevant game rule.\n>\n\nIt's been addressed before. You cannot set range if range has already\nbeen set. I'm sure it's up at the white-wolf site under rulings, and\nyou can also find it if you search for Cailean + Shadow Step."
+    },
+    {
+      "Author": "gla...@gmail.com",
+      "Date": "Oct 13, 2008, 6:54:52\u202FPM",
+      "Body": "On Oct 13, 9:42 am, Jozxyqk <jfeue...@eecs.tufts.edu> wrote:\n\uE5D3\n\nWell then, that was easy. Thank you! That solves the immediate\nproblem.\n\nAny chance on a rules/ruling citation for this principle?\n\nThank you again,\n\nLegendre"
+    },
+    {
+      "Author": "gla...@gmail.com",
+      "Date": "Oct 13, 2008, 6:55:41\u202FPM",
+      "Body": "\uE5D3\n\nBah... pesky simultaneous postings. Thanks a lot."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 13, 2008, 6:57:07\u202FPM",
+      "Body": "\uE5D3\n\nhttp://www.white-wolf.com/vtes/?line=rulings\nsearch for \"range\""
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Oct 13, 2008, 6:44:12\u202FPM",
+      "Body": "In message <gcvtor$2jk$1...@aioe.org>, Jozxyqk <jfeu...@eecs.tufts.edu>\nwrites:\n\uE5D3\n\nBecause...\n\nhttp://www.white-wolf.com/vtes/index.php?line=rulings\n\n# If an effect \"sets\" the range of a round (and therefore skips the\nmaneuver phase), no other effect can be used to reset the range. [RTR\n19970630]\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ThreadId": "-hpyDYag1sE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/-hpyDYag1sE",
+  "Title": "[LSJ] The Becoming",
+  "Messages": [
+    {
+      "Author": "henrik",
+      "Date": "Jan 2, 2009, 3:30:54\u202FPM",
+      "Body": "Good evening.\n\nIs it legal to move 3 Discipline cards of the same kind to The\nBecoming?\n\nA previous ruling ( http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/92a33efbf4cad7e5\n) says that you don't get to replace them between each other which\nseems to indicate that they're moved at the same time (so the Becoming\nwon't have superior, say, Celerity before all three cards are placed\non it which would prevent placing of the last one).\n\nBecoming, The\nType: Action\nRequires: non-sterile\nCost: 2 blood\n+1 stealth action. Requires a non-sterile vampire.\nPut this card in play. It becomes a 0-capacity vampire of the same\nclan as the acting vampire. Move up to 1 blood from the acting vampire\nand up to 3 Discipline cards from your hand to this vampire. This\nvampire cannot act this turn. If this vampire has no capacity-\nincreasing Discipline cards, burn him or her.\n\nCelerity\nType: Master\nMaster: Discipline.\nPut this card on a vampire. This vampire gains one level of Celerity\n[cel]. Capacity increases by 1: the vampire is one generation older.\nCannot be placed on a vampire with superior Celerity."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 2, 2009, 4:06:42\u202FPM",
+      "Body": "henrik wrote:\n> Good evening.\n>\n> Is it legal to move 3 Discipline cards of the same kind to The\n> Becoming?\n\nNo.\n\n> A previous ruling ( http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/92a33efbf4cad7e5\n> ) says that you don't get to replace them between each other which\n> seems to indicate that they're moved at the same time (so the Becoming\n> won't have superior, say, Celerity before all three cards are placed\n> on it which would prevent placing of the last one).\n\nThey're still done in sequence. That sequence occurs before replacing.\n\n\uE5D3"
+    },
+    {
+      "Author": "jwjbw...@gmail.com",
+      "Date": "Jan 2, 2009, 7:15:25\u202FPM",
+      "Body": "On Jan 2, 10:06 am, LSJ <vtes...@white-wolf.com> wrote:\n> henrik wrote:\n\n> > A previous ruling (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/92a3...\n\n> > ) says that you don't get to replace them between each other  which\n> > seems to indicate that they're moved at the same time (so the Becoming\n> > won't have superior, say, Celerity before all three cards are placed\n> > on it which would prevent placing of the last one).\n>\n> They're still done in sequence. That sequence occurs before replacing.\n\nLooking at the previous ruling:\n\nThe question was:\n\n> Do the discipline cards that are mentioned in the card text have to be\n> in your hand immediately after you have drawn to replace The Becoming\n> or can you play them one after another as you draw them after playing\n> them one at a time?\n\nTo which you answered \"The former\"\n\nIf I understand correctly, this is meant to be an application of the\nrule that you (normally) declare effects of actions as you announce\nthem. If so, I believe the \"former\" option is also incorrect, in that\nyou do not replace the card before you declare its effects.\n\nUnless ... this effect, and the options associated with it, are not\ntreated as effects of the action per se, but as effects and options\nthat are triggered is a consequence of putting the card in play when\nthe action resolves successfully. If so, i thing the questioner's\n\"former\" option would also be incorrect, since you should also replace\nany action modifers and/or combat cards that are played before the\naction resolves successfully."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 2, 2009, 7:41:47\u202FPM",
+      "Body": "jwjbw...@gmail.com wrote:\n> On Jan 2, 10:06 am, LSJ <vtes...@white-wolf.com> wrote:\n>> henrik wrote:\n>\n>>> A previous ruling (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/92a3...\n>>> ) says that you don't get to replace them between each other which\n>>> seems to indicate that they're moved at the same time (so the Becoming\n>>> won't have superior, say, Celerity before all three cards are placed\n>>> on it which would prevent placing of the last one).\n>> They're still done in sequence. That sequence occurs before replacing.\n>\n> Looking at the previous ruling:\n>\n> The question was:\n>\n>> Do the discipline cards that are mentioned in the card text have to be\n>> in your hand immediately after you have drawn to replace The Becoming\n>> or can you play them one after another as you draw them after playing\n>> them one at a time?\n>\n> To which you answered \"The former\"\n>\n> If I understand correctly, this is meant to be an application of the\n> rule that you (normally) declare effects of actions as you announce\n> them. If so, I believe the \"former\" option is also incorrect, in that\n> you do not replace the card before you declare its effects.\n\nActually dissected in more detail by the netizens in the posts that followed in\nthat thread.\n\nThe effect of the Becoming action:\n\nYou put this card in play. In play, it becomes a vampire.\nOnce it is a vampire, you can move blood and Discipline cards to it.\n\nSo, declaration:\n\nA: Vampire Bob is attempting a Becoming action at +1 stealth costing 2 blood.\nThis action does <card text>.\n\nA: replace Becoming.\n\n... <blocks are declared and resolved; everyone replacing cards as they go>\nEventually:\nAll: no more blocks.\n\nA: OK. It's in play. It's a vampire. Vampire Bob moves 1 blood to him. I move\nthese three Discipline cards from my hand to him."
+    },
+    {
+      "Author": "jwjbw...@gmail.com",
+      "Date": "Jan 2, 2009, 8:23:21\u202FPM",
+      "Body": "On Jan 2, 1:41 pm, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n\nI just want to make sure it does not end like this:\n\nA: OK. It's in play. It's a vampire. Vampire Bob moves 1 blood to him.\nI move\n\nthese three Discipline cards, celerity, obfuscate and fortitute, from\nmy hand to him.\n\nB: Wait. You never said you would be moving 3 discipline cards or\nany blood to the vamp. You're supposed to declare all effects when\nthe action is announced. If I had know you intended to put celerity,\nobfuscate and fortitute, I certainly woulda blocked.\n\nA: Oops. [The Becoming burns, because it has no discipline cards]"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 2, 2009, 9:19:54\u202FPM",
+      "Body": "\uE5D3\n\nEasily verified. Just check what I said in the section you quoted above."
+    },
+    {
+      "Author": "jwjbw...@gmail.com",
+      "Date": "Jan 2, 2009, 10:03:02\u202FPM",
+      "Body": "On Jan 2, 3:19 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Easily verified. Just check what I said in the section you quoted above.\n\nI shall assume the sequence is meant to be complete, and therefore\nthat no terms, other than card text, were announced when the action\nwas declared. Then it's clear enough.\n\nSorry for being dense. And thanks."
+    },
+    {
+      "Author": "Aeschere",
+      "Date": "Jan 3, 2009, 12:33:02\u202FPM",
+      "Body": "Also, you don't have to declare what you are going to do with the rest\nof the action. Same as with a political action.\nOff course you have to announce what the action does but now you\nintend to solve it.\nFor example, a Kine Resource Contested. You have to tell people that\nyou can distribute 4 points of damage among 2 or more players but you\ndon't have to announce how you are going to distribute those points.\nSame as with The Becoming. You have to announce that you are getting\none and that you can move up to three disciple cards to it, but you\ndon't have to announce which ones.\n\nWith both examples you can even lie about what you are going to do\nwhen asked if that makes people not block it."
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jan 3, 2009, 3:16:16\u202FPM",
+      "Body": "\uE5D3\n\nThen what is the difference to other cards like Sudario Refraction. On\na previous thread, it was said that one needs to declare what cards\nthey are getting. Because ash heaps are public.\nPool is also public, so why does one only have to say the pool damage\nafter?\nThe number of cards in hand is also public. Shouldn't you have to\ndeclare the number of those you are to use as Discipline Cards?\n\nMy problem here is that in similar situations, I find different\nrulings. I might be wrong in judging them similar...\n\nShouldn't you declare \"what is public\" as much as possible?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 3, 2009, 4:31:27\u202FPM",
+      "Body": "Brum wrote:\n> Then what is the difference to other cards like Sudario Refraction. On\n> a previous thread, it was said that one needs to declare what cards\n> they are getting. Because ash heaps are public.\n\nNot because ash heaps are public. Because the action is to choose cards from\nyour ash heap.\n\n> Pool is also public, so why does one only have to say the pool damage\n> after?\n> The number of cards in hand is also public. Shouldn't you have to\n> declare the number of those you are to use as Discipline Cards?\n>\n> My problem here is that in similar situations, I find different\n> rulings. I might be wrong in judging them similar...\n>\n> Shouldn't you declare \"what is public\" as much as possible?\n\nIt has nothing to do with the question of what is public.\n\nIt has to do with the question of when things are chosen. Sudario's action is to\nchoose cards. So you choose cards.\n\nBecoming's action is to put a vampire in play. So you choose to put a vampire in\nplay.\n\nAnd, after the vampire is in play, it gives the option to move blood and cards\nto the new vampire.\n\nSimilarly, you do not declare what card you will be discarding when you use\nCompel the Spirit at basic Necromancy or Permanency at basic Chimerstry."
+    },
+    {
+      "Author": "jwjbw...@gmail.com",
+      "Date": "Jan 3, 2009, 11:52:41\u202FPM",
+      "Body": "Aeschere wrote:\n> Also, you don't have to declare what you are going to do with the rest\n> of the action. Same as with a political action.\n\nNo. Political Actions are exceptions to the general rule that all\neffects are announced when the card is played. See Section 6.2.1.\nAnnouncing the Action.\n\nOf course, there can be other exceptions to the general rule. See\nSection 1.4. The Golden Rule for Cards.\n\nFor instance, if a card tells you to make a choice at the time of the\nresolution of the card (for instance, if it tells you to put a card in\nplay, and THEN choose X), this is a clear case of the card\ncontradicting the general rule. You cannot make a choice later if you\nare committed to a choice you made earlier.\n\nBut whether or not a card intends to contradict the general rule can\nbe a matter of interpretation."
+    },
+    {
+      "Author": "henrik",
+      "Date": "Jan 6, 2009, 12:16:32\u202FPM",
+      "Body": "On Jan 2, 4:06 pm, LSJ <vtes...@white-wolf.com> wrote:\n\n> > Is it legal to move 3 Discipline cards of the same kind to The\n> > Becoming?\n>\n> No.\n>\n\n> They're still done in sequence. That sequence occurs before replacing.\n\nOk.\nHow about other restrictions on the discipline cards? Abombwe seems to\nbe the only current one, and it can only be put on laibon vampires or\nvampires with protean.\nDo you need to either perform The Becoming with a laibon or start out\nwith a protean master if you want to move an Abombwe master the\nBecoming (as part of the action of course, I realise that standard\nrules apply once the action is over)?\n\nAlso, I suppose the same would apply to Path of Death and the Soul as\nwell as The Becoming since both of them uses the same wording.\nCorrect?\n\nAbombwe\nType: Master\nMaster: Discipline. Trifle.\nPut this card on a Laibon or on a vampire with Protean [pro]. This\nvampire gains one level of Abombwe [abo]. Capacity increases by 1: the\n\nvampire is one generation older. Cannot be placed on a vampire with\n\nsuperior Abombwe.\n\nBecoming, The\nType: Action\nRequires: non-sterile\nCost: 2 blood\n+1 stealth action. Requires a non-sterile vampire.\nPut this card in play. It becomes a 0-capacity vampire of the same\nclan as the acting vampire. Move up to 1 blood from the acting vampire\nand up to 3 Discipline cards from your hand to this vampire. This\nvampire cannot act this turn. If this vampire has no capacity-\nincreasing Discipline cards, burn him or her.\n\nPath of Death and the Soul\nType: Master\nUnique master.\nPut this card in play. When a minion controlled by another Methuselah\nis burned, you may tap this card to search your library (shuffle\nafterward), ash heap or hand for a Master: Discipline card. Move 1\nblood from the blood bank and that card to a ready vampire you control."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 6, 2009, 12:46:05\u202FPM",
+      "Body": "henrik wrote:\n> On Jan 2, 4:06 pm, LSJ <vtes...@white-wolf.com> wrote:\n>\n>>> Is it legal to move 3 Discipline cards of the same kind to The\n>>> Becoming?\n>> No.\n>>\n>> They're still done in sequence. That sequence occurs before replacing.\n>\n> Ok.\n> How about other restrictions on the discipline cards? Abombwe seems to\n> be the only current one, and it can only be put on laibon vampires or\n> vampires with protean.\n\nGoogle \"Abombwe protean author:LSJ\"\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/9a0fb74c2625a2fc"
+    }
+  ]
+}

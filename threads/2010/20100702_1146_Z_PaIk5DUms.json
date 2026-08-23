@@ -1,0 +1,32 @@
+{
+  "ThreadId": "Z_PaIk5DUms",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Z_PaIk5DUms",
+  "Title": "Mask of 1k faces question (easy one, this).",
+  "Messages": [
+    {
+      "Author": "BeAst",
+      "Date": "Jul 2, 2010, 11:46:54\u202FAM",
+      "Body": "relevant texts and rulings:\n\nMask of a Thousand Faces\nAction Modifier\n\nobf:\nOnly usable by a ready, untapped vampire other than the acting minion\nwho is capable of performing the action. Not usable if any action\nmodifiers or other effects have been used that could not have been\nused if this vampire were the acting vampire. Untap the acting minion\nand tap this vampire instead. The action continues with this vampire\nas the acting minion.\nOBF:\nAs above, with +1 stealth.\n\nMask cannot be used to mask an action if the Masking vampire is not\ncapable of taking that action, nor if any action modifiers, reactions,\nor other effects (including inherent stealth) have been played on this\naction that could not have been played/used if the Masking vampire\nwere the acting minion. (Not counting blood that has already been\nspent.) [RTR 19980623] [RTR 20030519] [RTR 20041202]\n\nBlind Spot\nMaster.\nChoose a vampire you control and an ally or younger vampire controlled\nby your prey. While the first chosen vampire is acting this turn, the\nother chosen minion cannot block or play reaction cards.\n\n---------------------------------\n\nMeth A has 2 vampires, Meth B is his prey with 1 vamp, Meth C is A's\npredator, also with 1 vamp.\n\nIn A's master phase they select one of their vampires for the effects\nof Blind Spot, choosing B's only vamp. B's vamp now cannot declare a\nblock attempt, nor play reaction cards. A's first vampire takes an\nundirected action. C declares their vamp attempts to block. A's second\nvamp plays mask of 1k faces to take over the action...\n\n*interrupt*\n\nI believe this is not legal, since the \"effect\" of Blind Spot to deny\nB's vamp a block is not applicable to the second of A's vampires, and\nB (in effect) has been denied a block window against a vampire they\ncould have declared a block attempt against."
+    },
+    {
+      "Author": "BeAst",
+      "Date": "Jul 2, 2010, 11:56:58\u202FAM",
+      "Body": "\uE5D3\n\nIf the order of acting had been changed (so A's non- Blind Spotted\nvamp started the undirected action) and B's vamp had declared a block\nattempt, if A's Blind Spotted vamp then played Mask of 1k faces to\ntake over the action, would B's block attempt simply fizzle?"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jul 2, 2010, 1:42:00\u202FPM",
+      "Body": "On Jul 2, 11:46 am, BeAst <john.b...@zeninternet.co.uk> wrote:\n> Meth A has 2 vampires, Meth B is his prey with 1 vamp, Meth C is A's\n> predator, also with 1 vamp.\n>\n> In A's master phase they select one of their vampires for the effects\n> of Blind Spot, choosing B's only vamp. B's vamp now cannot declare a\n> block attempt, nor play reaction cards. A's first vampire takes an\n> undirected action. C declares their vamp attempts to block. A's second\n> vamp plays mask of 1k faces to take over the action...\n>\n> *interrupt*\n>\n> I believe this is not legal, since the \"effect\" of Blind Spot to deny\n> B's vamp a block is not applicable to the second of A's vampires, and\n> B (in effect) has been denied a block window against a vampire they\n> could have declared a block attempt against.\n\nSo A plays Blind Spot, and chooses B's vampire and, say, vampire A1\nshe controls.\nA1 declares an action. Since B can't block, she declines any block\nattempt. C can now attempt to block, which she does - there's no\nrestriction to block for C's minions.\nA2 can play Mask - if all the requirements of Mask are met. The fact\nthat B declined the block doesn't matter - unless something the Mask\ncoulnd't carry was used to have B cancel a block attempt.\n\nSee also Mask of a Thousand Faces + Toreador Grand Ball.\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/bf113e534bce5b84"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jul 2, 2010, 1:43:10\u202FPM",
+      "Body": "\uE5D3\n\nI suppose it'd fail immediately (not sure block attempts can \"fizzle\")."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 2, 2010, 1:55:47\u202FPM",
+      "Body": "\uE5D3\n\nNo. In this case, an effect has been applied (\"B's vamp attempts to\nblock\") that could not have been applied had A's Blind-Spotted vampire\nbeen acting, so A's Blind-Spotted vampire cannot play Mask."
+    }
+  ]
+}

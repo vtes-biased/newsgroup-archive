@@ -1,0 +1,37 @@
+{
+  "ThreadId": "c-VOXeo6aJA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/c-VOXeo6aJA",
+  "Title": "Question about Sabbat Priest",
+  "Messages": [
+    {
+      "Author": "jarkko...@hotmail.com",
+      "Date": "Aug 23, 2007, 2:00:55\u202FPM",
+      "Body": "Information about cards are copy/pasted from WW site\n\nSabbat Priest [Sabbat:C, SW:C/PV, BH:PM2, Third:C/PB]\nCardtype: Political Action\nRequires a ready Sabbat vampire.\nChoose a ready Sabbat vampire. Successful referendum means that for\nthe remainder of the game, any vampire attempting to block the chosen\nvampire burns 1 blood.\nArtist: Lawrence Snelly\n\nIs the effect cumulative?\n\n-if Aaron Duggan has Sabbat Priest casted on him twice, does blocking\nvampire burn 2 blood when attempting to block?\n\n-is burning blood a requirement for succesful block? -can a vampire\nwith zero blood block Sabbat Priest?\n\n-Crocodile's tongue question,\n\nCrocodile's Tongue [Gehenna:C, LoB:PO3]\nCardtype: Action Modifier\nDiscipline: Auspex\n[aus] Only usable when an ally or a younger vampire attempts to block.\nThat block is canceled (the minion is not tapped). The blocking\nminion's controller cannot attempt to block this action again. The\nblocking minion can cancel this card by burning a blood or life.\n[AUS] As above, but canceling this card requires an additional blood\nor life.\nArtist: Leif Jones\n\nCan Metuselah burn 2 blood from the blocking vampire (or 2 life from\nally) and then choose another minion to block? ..or does it have to be\nthe same minion blocking?\n\nThanks!\n-Jarkko"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 23, 2007, 2:07:24\u202FPM",
+      "Body": "jarkko...@hotmail.com wrote:\n> Information about cards are copy/pasted from WW site\n>\n> Sabbat Priest [Sabbat:C, SW:C/PV, BH:PM2, Third:C/PB]\n> Cardtype: Political Action\n> Requires a ready Sabbat vampire.\n> Choose a ready Sabbat vampire. Successful referendum means that for\n> the remainder of the game, any vampire attempting to block the chosen\n> vampire burns 1 blood.\n> Artist: Lawrence Snelly\n>\n> Is the effect cumulative?\n\nYes.\n\n> -if Aaron Duggan has Sabbat Priest casted on him twice, does blocking\n> vampire burn 2 blood when attempting to block?\n\nYes.\n\n> -is burning blood a requirement for succesful block? -can a vampire\n\nNo. The effect \"burn 1 blood\" is applied at the attempt. It is not required that\nthe effect successfully burn a blood in order to continue the attempt.\n\n> with zero blood block Sabbat Priest?\n\nYes.\n\n> -Crocodile's tongue question,\n>\n> Crocodile's Tongue [Gehenna:C, LoB:PO3]\n> Cardtype: Action Modifier\n> Discipline: Auspex\n> [aus] Only usable when an ally or a younger vampire attempts to block.\n> That block is canceled (the minion is not tapped). The blocking\n> minion's controller cannot attempt to block this action again. The\n> blocking minion can cancel this card by burning a blood or life.\n> [AUS] As above, but canceling this card requires an additional blood\n> or life.\n> Artist: Leif Jones\n>\n> Can Metuselah burn 2 blood from the blocking vampire (or 2 life from\n> ally) and then choose another minion to block? ..or does it have to be\n> the same minion blocking?\n\nThe currently-blockin minion (the one who burned 2 blood or life) is still the\ncurrently-blocking minion. No other minion can attempt to block until that block\nattempt is abandoned (due to insufficient intercept, for example)."
+    },
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Aug 23, 2007, 2:13:28\u202FPM",
+      "Body": "\uE5D3\n\n>From the card text, I can't see any reason a minion couldn't have\nmultiple priests applied. I don't think multiples would work however,\nsince it doesn't say an *additional* blood to block, just that it\ntakes 1.\n\nA minion on 0 blood couldn't attempt a block, since the requirement is\nto pay the blood to *attempt* to block.\n\nAs for crocodiles tongue, the meth pays 2 to *cancel* the card, so the\nblock is therefore still continuing, if it fails, then of course\nanother minion can attempt to block.\n\nta\n\nJohn \"BeAst\" Best"
+    },
+    {
+      "Author": "tbz_...@hotmail.com",
+      "Date": "Aug 23, 2007, 2:14:51\u202FPM",
+      "Body": "On 23 Aug, 13:07, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n\nRight, so the opposite of what I said, then!"
+    },
+    {
+      "Author": "MrJ",
+      "Date": "Aug 23, 2007, 6:43:52\u202FPM",
+      "Body": ">From the card text, I can't see any reason a minion couldn't have\n> multiple priests applied. I don't think multiples would work however,\n> since it doesn't say an *additional* blood to block, just that it\n> takes 1.\n>\n> A minion on 0 blood couldn't attempt a block, since the requirement is\n> to pay the blood to *attempt* to block.\n>\n>\n\n> John \"BeAst\" Best\n\nNo, it is not a cost, it is an effect, do as much as possible. If at 0\nblood, there is no more blood to burn, like trying to steal 2 blood\nfrom a vamp with only 1 blood left.\n\nYou burn 1 blood for each card, as each card triggers on its own at a\nblock attempt; i.e. Sabbat Priest (1) - burn 1 blood, Sabbat Priest\n(2) - burn 1 blood, Sabbat Priest (3) - burn 1 blood: Net result - 3\nblood burnt."
+    },
+    {
+      "Author": "Wookie813",
+      "Date": "Aug 24, 2007, 4:03:44\u202FAM",
+      "Body": "On Aug 23, 8:13 am, tbz_be...@hotmail.com wrote:\n\n>\n> A minion on 0 blood couldn't attempt a block, since the requirement is\n> to pay the blood to *attempt* to block.\n\n> ta\n>\n> John \"BeAst\" Best\n\nThe card states that \"any vampire attempting to block the chosen\nvampire burns 1 blood.\", NOT that \"A vampire must burn 1 blood to\nattempt to block.\"\n\nThe way the card is written, the vampire must already be *attempting*\nto block for the burn blood clause to apply."
+    }
+  ]
+}

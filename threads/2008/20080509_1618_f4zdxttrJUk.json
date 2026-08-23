@@ -1,0 +1,192 @@
+{
+  "ThreadId": "f4zdxttrJUk",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/f4zdxttrJUk",
+  "Title": "New Vampire Database Request",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "May 9, 2008, 4:18:04\u202FPM",
+      "Body": "Is it possible to have an entry in ARDB for every merged vampire with\ntheir total combined text and their proper disciplines? Perhaps I\nshould ask LSJ for those same entries in the WW files?\n\nComments Welcome,\nNorman S. Brown, Jr\nXZealot\nArchon of the Swamp"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 9, 2008, 4:24:46\u202FPM",
+      "Body": "XZealot wrote:\n> Is it possible to have an entry in ARDB for every merged vampire with\n> their total combined text and their proper disciplines? Perhaps I\n> should ask LSJ for those same entries in the WW files?\n\nThe WW files list only the cards. It doesn't list what attributes they might\ngain or lose through play (through merging or discipline cards or equipment or\nreferendums or whatever)."
+    },
+    {
+      "Author": "Jazzbeaux",
+      "Date": "May 9, 2008, 4:31:28\u202FPM",
+      "Body": "\uE5D3\n\nCould the list be updated so any tournament banned cards state that\nfact? I imagine that it would require a little work on the text file,\nbut would add a whole level of clarity to players browsing either WW\nwebsite, or any deckbuilder that uses the WW text file.\nSomething like this would be good;\n\nMemories of Mortality\nType: Master\nCost: 1 pool\nMaster.\nPut this card on a vampire; this vampire cannot attempt to block\nallies. Any damage this vampire inflicts on allies is reduced to 0.\nThis vampire may burn 1 blood during his or her controller's influence\nphase to burn this card; he or she then goes into torpor.\n<This card is currently banned for Tournament Play.>\nRarity: AH:U5 CE:U\n\nSam"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 9, 2008, 4:35:52\u202FPM",
+      "Body": "Jazzbeaux wrote:\n> Could the list be updated so any tournament banned cards state that\n> fact? I imagine that it would require a little work on the text file,\n> but would add a whole level of clarity to players browsing either WW\n> website, or any deckbuilder that uses the WW text file.\n> Something like this would be good;\n>\n> Memories of Mortality\n> Type: Master\n> Cost: 1 pool\n> Master.\n> Put this card on a vampire; this vampire cannot attempt to block\n> allies. Any damage this vampire inflicts on allies is reduced to 0.\n> This vampire may burn 1 blood during his or her controller's influence\n> phase to burn this card; he or she then goes into torpor.\n> <This card is currently banned for Tournament Play.>\n> Rarity: AH:U5 CE:U\n\nSure."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 9, 2008, 4:48:24\u202FPM",
+      "Body": "\uE5D3\n\nTo those of you who maintain programs that read and parse the datafiles, do you\nhave a preference as to how this manifests?\n\nOptions:\n\nA token in the \"Set/Rarity\" list with a date on which the card was banned (like\npromos are currently handled). i.e., AH:U5, CE:U, Banned-200800101\n\nErrata line added to text box, as Jazzbeaux suggests above\n\nNew column (field) in the csv"
+    },
+    {
+      "Author": "texasjusticar",
+      "Date": "May 9, 2008, 10:07:27\u202FPM",
+      "Body": "On May 9, 9:48 am, LSJ <vtes...@white-wolf.com> wrote:\n> LSJ wrote:\n<snip>\n\n> Errata line added to text box, as Jazzbeaux suggests above\n\nThis would be the easiest approach as it would require no effort on my\n(or likely any other 3rd party) part as the text of 'banned' could be\nsearched for to find all banned cards.\n\nNew column would be my next preference.\n\nI don't personally like the option of token in set rarity.\n\n</opinion>\n\n--------------\nEthan Burrow - still lurking\nhttp://monger.vekn.org\nhttp://presence.vekn.org"
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "May 9, 2008, 10:46:31\u202FPM",
+      "Body": "On May 9, 3:48 pm, LSJ <vtes...@white-wolf.com> wrote:\n> LSJ wrote:\n>\n\n> To those of you who maintain programs that read and parse the datafiles, do you\n> have a preference as to how this manifests?\n>\n> Options:\n\nI happy with Errata line in card text or New column. Not keen on\nRarity token though.\n\nGraham."
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "May 9, 2008, 10:47:56\u202FPM",
+      "Body": "On May 9, 3:18 pm, XZealot <xzea...@cox.net> wrote:\n> Is it possible to have an entry in ARDB for every merged vampire with\n> their total combined text and their proper disciplines?  Perhaps I\n> should ask LSJ for those same entries in the WW files?\n\nLet me think about this one.\n\nGraham."
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 9, 2008, 10:55:32\u202FPM",
+      "Body": "\uE5D3\n\nIt just seemed handy to have the merged vampire shown in its entirety.\nAs the functionality is that of a single vampire, not a vampire with\nlibrary cards on them. It is the only instance where two crypt cards\nwork in concert and do so by design. So it seemed intuitive that if\nyou design them to merge that you would want to show the final product\nof your hard work.\n\n\uE5D3"
+    },
+    {
+      "Author": "JH",
+      "Date": "May 11, 2008, 6:36:57\u202FPM",
+      "Body": "On May 9, 5:48 pm, LSJ <vtes...@white-wolf.com> wrote:\n> LSJ wrote:\n\n> To those of you who maintain programs that read and parse the datafiles, do you\n> have a preference as to how this manifests?\n>\n> Options:\n>\n> A token in the \"Set/Rarity\" list with a date on which the card was banned (like\n> promos are currently handled). i.e., AH:U5, CE:U, Banned-200800101\n>\n> Errata line added to text box, as Jazzbeaux suggests above\n>\n> New column (field) in the csv\n\nI'd definately prefer a new column to the CSV. That way I wouldn't\nhave to change my CSV parser at all. Additional text to the card text\nwould be ok, although I wouldn't like it too much. Definate no to the\nSet/Rarity column. That would create only problems.\n\n-----\nhttp://www.secretlibrary.info/"
+    },
+    {
+      "Author": "nys...@cs.com",
+      "Date": "May 11, 2008, 8:14:26\u202FPM",
+      "Body": "On May 9, 4:55 pm, XZealot <xzea...@cox.net> wrote:\n> It just seemed handy to have the merged vampire shown in\n> its entirety. As the functionality is that of a single vampire,\n> not a vampire with library cards on them. It is the only\n> instance where two crypt cards work in concert and do so\n> by design.\n\nNot really. Lots of card combos are intended by design. If we\nconsider only crypt cards combining with other crypt cards, we have,\nfor just a few examples: Aabbt Kindred combined with Nefertiti;\nTremere vampires combined with Gargoyle Tremere Slave Vampires; Enid\nBlount combined with Edith Blount; Onaedo combined with Otienno.\n\n> So it seemed intuitive that if you design them to\n> merge that you would want to show the final product\n> of your hard work.\n\nPerhaps. But since the player must do the hard work of merging the\nvampires, seems to me that -- as with any combo -- he might as well do\nthe hard work of calculating the result.\n\nNor is it self evident to me that merging them will be a priority for\nthe player's strategy. He might prefer to draw 4 different vampires,\nbut want 2 copies of that vampire in his crypt for other reasons (such\nas the discipline spread), just to maximize the chances of drawing\njust one. But by instead using a base version and an advanced\nversion, he minimizes the damage of such an \"unlucky draw\" by gaining\na potential offsetting benefit."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 12, 2008, 2:59:48\u202FAM",
+      "Body": "JH wrote:\n> I'd definately prefer a new column to the CSV. That way I wouldn't\n> have to change my CSV parser at all. Additional text to the card text\n> would be ok, although I wouldn't like it too much.\n\nIt seems like the solution to be enacted is \"both a new column in the CSV and\ncard text addendum\", based on feedback so far.\n\n> Definate no to the\n> Set/Rarity column. That would create only problems.\n\nWhat problems?\n\nWhat problems has the promo-YYYYMMDD set created?"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 12, 2008, 7:13:28\u202FAM",
+      "Body": "On May 11, 12:14 pm, nyst...@cs.com wrote:\n> On May 9, 4:55 pm, XZealot <xzea...@cox.net> wrote:\n>\n> > It just seemed handy to have the merged vampire shown in\n> > its entirety. As the functionality is that of a single vampire,\n> > not a vampire with library cards on them. It is the only\n> > instance where two crypt cards work in concert and do so\n> > by design.\n>\n> Not really. Lots of card combos are intended by design. If we\n> consider only crypt cards combining with other crypt cards, we have,\n> for just a few examples: Aabbt Kindred combined with Nefertiti;\n> Tremere vampires combined with Gargoyle Tremere Slave Vampires; Enid\n> Blount combined with Edith Blount; Onaedo combined with Otienno.\n\nBut no other mechanic in the game was designed to have two cards that\nwere named the same thing but have clearly differing texts, which when\nplayed together generated an even more powerful gestalt. None of your\nanalogies have that in common.\n\n> > So it seemed intuitive that if you design them to\n> > merge that you would want to show the final product\n> > of your hard work.\n>\n> Perhaps. But since the player must do the hard work of merging the\n> vampires, seems to me that -- as with any combo -- he might as well do\n> the hard work of calculating the result.\n\nOr you could just make it easier by having the merged vampire's text\navailable.\n\n> Nor is it self evident to me that merging them will be a priority for\n> the player's strategy. He might prefer to draw 4 different vampires,\n> but want 2 copies of that vampire in his crypt for other reasons (such\n> as the discipline spread), just to maximize the chances of drawing\n> just one. But by instead using a base version and an advanced\n> version, he minimizes the damage of such an \"unlucky draw\" by gaining\n> a potential offsetting benefit.\n\nHow is this even relavent to merging vampires? You are not talking\nabout merging vampires and the resultant gestalt. It is a simple\nrequest, about an unique mechanic, not a \"what if someone wants\nsomething different\" speculation.\n\n\uE5D3"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "May 12, 2008, 8:10:54\u202FAM",
+      "Body": "\uE5D3\n\ni think it should be one OR the other... no double info.\n\nAndrea"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "May 12, 2008, 8:11:33\u202FAM",
+      "Body": "\uE5D3\n\nWell that depends on what you mean Scott. For myself, since I have a\ndatabase behind VEKN.SE and I split all the fields and then sometimes\nsplit the info in each field I need, placing the info into the correct\ndatabase and column, I would have to make special code to handle the\nbanned part if it placed into a column with info that it is not really\nrelevant to. I doubt it would happen but you could choose to reprint a\ncard that is banned from tournament play, what would that then mean in\nthe CSV file?\n\nIs a card being banned info pertaining to a set or a rarity? I would\nsay no. So please don't put it there simply for the reasons that it\ndoes not belong there.\n\nA new column would be my choice.\n\nArchie"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "May 12, 2008, 8:16:57\u202FAM",
+      "Body": "\uE5D3\n\nSome other search engine or tool might add this as well but I will add\nanother entry for each merged vampire with the sum of it's\ndescriptions to the VEKN.SE search engine.\n\nThe cardname would be for example:\n\nAlan Sovereign (Merged)\n\nand can be searched for by simply typing merged into the cardname\nfield.\n\nAlso, Merged will appear as an attribute and can be selected from the\ndropdown (these are basically synonymous).\n\nIt should appear by the end of tomorrow (or say 36 hours from this\npost is done).\n\nArchie\nwww.vekn.se"
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "May 12, 2008, 9:42:11\u202FAM",
+      "Body": "On May 12, 7:10 am, andrea.la.ma...@infinito.it wrote:\n>\n> i think it should be one OR the other... no double info.\n\nI agree with Andrea. One or the other.\nI'm not a big fan of duplicating information.\n\nGraham."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 12, 2008, 12:50:42\u202FPM",
+      "Body": "\uE5D3\n\nYou mean like the many sets of double info already in the csv?\n\nHow is that a problem, exactly?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 12, 2008, 12:52:10\u202FPM",
+      "Body": "\uE5D3\n\nThen use the text file.\n\nThe csv already \"duplicates\" the info in the text file, so those who find\nduplication onerous would be avoiding it (and it's nicely separated/duplicated\nDisciplines, titles, costs, and requirements) in the first place."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 12, 2008, 12:54:30\u202FPM",
+      "Body": "Archibald Zimonyi wrote:\n> Is a card being banned info pertaining to a set or a rarity? I would\n> say no. So please don't put it there simply for the reasons that it\n> does not belong there.\n\nAh, a real point. Thank you."
+    },
+    {
+      "Author": "texasjusticar",
+      "Date": "May 12, 2008, 5:30:15\u202FPM",
+      "Body": "On May 12, 1:16 am, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n> On 9 Maj, 16:18, XZealot <xzea...@cox.net> wrote:\n>\n> > Is it possible to have an entry in ARDB for every merged vampire with\n> > their total combined text and their proper disciplines? Perhaps I\n> > should ask LSJ for those same entries in the WW files?\n\n> Some other search engine or tool might add this as well but I will add\n\n> another entry for each merged vampire with the sum of it's\n> descriptions to the VEKN.SE search engine.\n\nFWIW Monger has been doing this for years. I think Norm is\nspecifically asking for ARDB to have this feature.\n\n-----------------\nEthan Burrow - trailblazer of functionality\nhttp://monger.vekn.org\nhttp://presence.vekn.org"
+    },
+    {
+      "Author": "Ross Ridge",
+      "Date": "May 12, 2008, 5:37:16\u202FPM",
+      "Body": "LSJ <vte...@white-wolf.com> wrote:\n>To those of you who maintain programs that read and parse the datafiles,\n>do you have a preference as to how this manifests?\n>\n\n>A token in the \"Set/Rarity\" list with a date on which the card was banned\n>(like promos are currently handled). i.e., AH:U5, CE:U, Banned-200800101\n\nIt doesn't seem to belong there, as this purpose of this field is to\nanswer questions like \"In what set can I find this card?\" or \"How rare\nis this card?\". Promo cards are essentially in their own unique sets,\nwhile banning a card doesn't affect what set it belongs to or its rarity.\n\n>Errata line added to text box, as Jazzbeaux suggests above\n\nI think the text box should reflect what should actually be printed on\nthe card. Unless a hypothetical future printing of a banned card would\ninclude the errata line, I don't think it belongs here either.\n\n>New column (field) in the csv\n\nI think this is the best option.\n\nRoss Ridge\n\n--\nl/ // Ross Ridge -- The Great HTMU\n[oo][oo] rri...@csclub.uwaterloo.ca\n-()-/()/ http://www.csclub.uwaterloo.ca/~rridge/\ndb //"
+    },
+    {
+      "Author": "JH",
+      "Date": "May 12, 2008, 5:59:15\u202FPM",
+      "Body": "On May 12, 3:59 am, LSJ <vtes...@white-wolf.com> wrote:\n> JH wrote:\n> > I'd definately prefer a new column to the CSV. That way I wouldn't\n> > have to change my CSV parser at all. Additional text to the card text\n> > would be ok, although I wouldn't like it too much.\n>\n> It seems like the solution to be enacted is \"both a new column in the CSV and\n> card text addendum\", based on feedback so far.\n\nEither or. Not both. And IIRC the only double info in the CSV are the\ndisciplines. And they don't go into fields with other information. My\nabsolute favorite would be a banned field with a date in it that shows\nsince what date the card has been banned.\n\n> > Definate no to the\n> > Set/Rarity column. That would create only problems.\n>\n> What problems?\n>\n> What problems has the promo-YYYYMMDD set created?\n\nPromo-YYYYMMDD set creates problems that it needs specific code to\nparse correctly. Banned-YYYYMMDD would create additional need for such\ncode. And even more, because I wouldn't like to show Banned info in\nthe set information."
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "May 12, 2008, 6:08:49\u202FPM",
+      "Body": "On 12 Maj, 17:30, texasjusticar <texasjusti...@gmail.com> wrote:\n> On May 12, 1:16 am, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n>\n> > On 9 Maj, 16:18, XZealot <xzea...@cox.net> wrote:\n>\n> > > Is it possible to have an entry in ARDB for every merged vampire with\n> > > their total combined text and their proper disciplines?  Perhaps I\n> > > should ask LSJ for those same entries in the WW files?\n> > Some other search engine or tool might add this as well but I will add\n> > another entry for each merged vampire with the sum of it's\n> > descriptions to the VEKN.SE search engine.\n>\n> FWIW Monger has been doing this for years.  I think Norm is\n> specifically asking for ARDB to have this feature.\n\nHmmmm, how? As far as I see Monger does what VEKN.SE does, which is\ncurrently show two different cards but add Advanced to one to\ndistinguish between them.\n\nWhat I think Norm means is that you have the sum of both cards in the\none search, eg:\n\nCardname: Lucita (Merged)\nCardtype: Vampire\nSect: Sabbat\nGroup: 2\nClan: Lasombra\nCapacity: 8\nDiscipline: cel DOM FOR OBT pot\nCardtext: Sabbat Archbishop of Aragon: Sabbat vampires younger than\nLucita get -1 intercept when attempting to block Lucita. Once each\naction Lucita performs, she may burn 2 blood to cancel a reaction card\nplayed by a vampire with capacity less than 6 as it is played (no cost\nis paid).\n\nAs that is how the vampire Lucita looks once she is merged (if she\nwould have been a completely other vampire). Sure it is a card that\ndoesn't exist and yes one could do the math yourself in order to add\nup both the basic and advanced version of the card but with this you\ncan for example search for DAI and find the merged Helena (which you\nwould never be able to otherwise via the one search). A small and\nnifty addition which might only cater to a select few but no real\nreason not to do it.\n\nArchie\nwww.vekn.se"
+    },
+    {
+      "Author": "texasjusticar",
+      "Date": "May 12, 2008, 6:14:39\u202FPM",
+      "Body": "On May 12, 11:08 am, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n> On 12 Maj, 17:30, texasjusticar <texasjusti...@gmail.com> wrote:\n>\n> > On May 12, 1:16 am, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n>\n> > > On 9 Maj, 16:18, XZealot <xzea...@cox.net> wrote:\n>\n> > > > Is it possible to have an entry in ARDB for every merged vampire with\n> > > > their total combined text and their proper disciplines? Perhaps I\n> > > > should ask LSJ for those same entries in the WW files?\n> > > Some other search engine or tool might add this as well but I will add\n> > > another entry for each merged vampire with the sum of it's\n> > > descriptions to the VEKN.SE search engine.\n>\n> > FWIW Monger has been doing this for years. I think Norm is\n> > specifically asking for ARDB to have this feature.\n>\n> Hmmmm, how? As far as I see Monger does what VEKN.SE does, which is\n> currently show two different cards but add Advanced to one to\n> distinguish between them.\n\nI looked and noticed indeed Lucita doesn't have a merged version,\ndunno why.\n\nHelena's is here : http://monger.vekn.org/showvamp.html?ID=819\n\nGuess I should double check the DB for all advanced vampires...maybe\nsomething got messed up in the transfer a while back.\n\n-------------------------------------\nEthan Burrow - confused\nhttp://monger.vekn.org\nhttp://presence.vekn.org"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 12, 2008, 6:19:07\u202FPM",
+      "Body": "\uE5D3\n\nI just checked Monger and Helena is the only vampire with a Merged\nversion.\n\n\uE5D3"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "May 12, 2008, 6:38:28\u202FPM",
+      "Body": "\uE5D3\n> Archon of the Swamp- Dölj citerad text -\n>\n> - Visa citerad text -\n\nCool, I only chose a random vamp that ended up being Alan Sovereign,\nand he didn't have it.\n\nArchie\nwww.vekn.se"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 12, 2008, 7:26:25\u202FPM",
+      "Body": "JH wrote:\n> On May 12, 3:59 am, LSJ <vtes...@white-wolf.com> wrote:\n>> JH wrote:\n>>> I'd definately prefer a new column to the CSV. That way I wouldn't\n>>> have to change my CSV parser at all. Additional text to the card text\n>>> would be ok, although I wouldn't like it too much.\n>> It seems like the solution to be enacted is \"both a new column in the CSV and\n>> card text addendum\", based on feedback so far.\n>\n> Either or. Not both.\n\nYes. I understood your statement of personal preference. I was summarizing the\nbroader feedback set, however.\n\n> And IIRC the only double info in the CSV are the\n> disciplines.\n\nTitle."
+    },
+    {
+      "Author": "JH",
+      "Date": "May 12, 2008, 9:05:19\u202FPM",
+      "Body": "\uE5D3\n\nYeah. Well. That too. Title should be in the card text because it\nreads there. But having it separately also adds functionality of\nsearches from the CSV. So it's a definite bonus that it's on two\ndifferent locations."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 12, 2008, 9:44:58\u202FPM",
+      "Body": "\uE5D3\n\nUm, yeah. That's the idea behind double listing info at all.\n\nAlso: requirements.\n\nAnd soon: bannedity."
+    },
+    {
+      "Author": "JH",
+      "Date": "May 12, 2008, 10:38:31\u202FPM",
+      "Body": "\uE5D3\n\nYeah, but all the previous double listings have been done so that\nsomething that is originally in the card text box is duplicated\nelsewhere to ease searching. Not the other way around. If you are\nreally going to add it into the card text box i hope that you are\ngoing to make some kind of a parser code for it (like {'s for erratas,\nmrps and such), for easy exclusion.\n\nAs it's own field it would be the easiest to add into a csv-parser.\n- you want to add it into the card text field: cardtext = cardtext +\nbanned\n- you want it as separate entity: cardtext = cardtext, banned = banned\n- you want to ignore it completely: cardtext = cardtext"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "May 13, 2008, 6:34:04\u202FPM",
+      "Body": "VEKN.SE is updated with Merged information.\n\nFollow www.vekn.se, click on the Search link and then you can search\nfor the vampires either by entering the keyword \"Merged\" as part of\nthe cardname of by selecting the attribute Merged in the Attributes\nlist.\n\nEnjoy,\n\nArchie\nwww.vekn.se"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 13, 2008, 8:04:00\u202FPM",
+      "Body": "On May 13, 10:34 am, Archibald Zimonyi <a...@aranzo.netg.se> wrote:\n> VEKN.SE is updated with Merged information.\n>\n\n> Followwww.vekn.se, click on the Search link and then you can search\n\n> for the vampires either by entering the keyword \"Merged\" as part of\n> the cardname of by selecting the attribute Merged in the Attributes\n> list.\n\nIs there a way to sort the resultant list?\n\n\uE5D3"
+    },
+    {
+      "Author": "Archibald Zimonyi",
+      "Date": "May 13, 2008, 9:52:26\u202FPM",
+      "Body": "\uE5D3\n\nNopes. I never had any use for it myself so I never bothered\nimplementing it. The result list is extremely simple compared to the\nsearch page. It has a pre-defined grouping of cardtypes (same as in\nthe Search page) and then lists in alphabetical order within each\ngrouping.\n\nI have for a very long time tried to update the result list but it's\nslow work with all the other things I've got going. Lately I've gone\nback to updating the VEKN.SE site so such functionality will appear. I\nwant users to be able to choose what info is listed on the result list\npage, so that you can select to see for example Name, Disciplines and\nCapacity for all results without having to click on each card for that\ninfo.\n\nArchie\nwww.vekn.se"
+    },
+    {
+      "Author": "andrea....@infinito.it",
+      "Date": "May 14, 2008, 11:49:29\u202FPM",
+      "Body": "On 12 Mag, 12:50, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n\nwell the info doubled is related to columns that extract specific\ninformation from the text of the card. This will be an extra info and\nthen is not exactly the same."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "May 15, 2008, 3:28:18\u202FAM",
+      "Body": "\uE5D3\n\nSince the proposal is to have the online card text reflect the banning as errata\nto card text, the column in the csv will be effectively a column in the csv that\nextracts that specific information.\n\nBut regardless, the question remains:\n\n\uE5D3"
+    },
+    {
+      "Author": "Graham Smith",
+      "Date": "May 15, 2008, 8:52:52\u202FAM",
+      "Body": "On May 15, 2:28 am, LSJ <vtes...@white-wolf.com> wrote:\n>\n> But regardless, the question remains:\n>\n> How is that a problem, exactly?\n\nI do not think there is actual a problem. Add both in and I know I\nwill handle it in Ardb.\n\nGraham."
+    }
+  ]
+}

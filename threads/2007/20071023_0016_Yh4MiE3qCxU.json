@@ -1,0 +1,42 @@
+{
+  "ThreadId": "Yh4MiE3qCxU",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/Yh4MiE3qCxU",
+  "Title": "Lesser Boon Q for LSJ (and possible dirty trick)",
+  "Messages": [
+    {
+      "Author": "John Flournoy",
+      "Date": "Oct 23, 2007, 12:16:16\u202FAM",
+      "Body": "Lesser Boon text:\n\nOnly usable when a minion you control successfully blocks. The action\nresolves as if unblocked. Put this card on the acting minion. This\nminion cannot block your minions. Burn this card if you block this\nminion again, or when this minion's controller has less than 6 pool.\n\n---------------------------------\n\nNote that unlike other cards, LB specifies that the action 'resolves\nas if unblocked' not 'continues as if unblocked.'\n\nDoes this mean that the action immediately resolves, eliminating the\nopportunity for further block attempts, modifiers and reactions?\n(Skipping straight to \"6.2.3. Resolve the Action\" instead of\ncontinuing to work through 6.2.2)\n\nIf so, you could do something very mean:\n\nA: \"I bleed for 3 with my IC member.\"\nB: \"No block.\"\nC: \"Wait, I block with Eagle's Sight - and Lesser Boon you. Suck it,\nB, lose 3 pool and you can't bounce it to me...\"\n\n-John Flournoy"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 23, 2007, 1:55:27\u202FAM",
+      "Body": "John Flournoy wrote:\n> Lesser Boon text:\n>\n> Only usable when a minion you control successfully blocks. The action\n> resolves as if unblocked. Put this card on the acting minion. This\n> minion cannot block your minions. Burn this card if you block this\n> minion again, or when this minion's controller has less than 6 pool.\n>\n> ---------------------------------\n>\n> Note that unlike other cards, LB specifies that the action 'resolves\n> as if unblocked' not 'continues as if unblocked.'\n>\n> Does this mean that the action immediately resolves, eliminating the\n> opportunity for further block attempts, modifiers and reactions?\n\nYes. (Barring at-resolution modifiers like Spying Mission or whathaveyou).\n\n> (Skipping straight to \"6.2.3. Resolve the Action\" instead of\n> continuing to work through 6.2.2)\n>\n> If so, you could do something very mean:\n>\n> A: \"I bleed for 3 with my IC member.\"\n> B: \"No block.\"\n> C: \"Wait, I block with Eagle's Sight - and Lesser Boon you. Suck it,\n> B, lose 3 pool and you can't bounce it to me...\"\n\nYep."
+    },
+    {
+      "Author": "gpett...@gmail.com",
+      "Date": "Oct 23, 2007, 3:05:52\u202FAM",
+      "Body": "\uE5D3\n\nWouldn't B have a chance to bounce it before C had a chance to play\nEagle's Sight because of 1.6.1.5?\n\nA: bleed\nB: no block\nA: no modifier\nB: bounce\nC: aw...\n\n--\n- Gregory Stuart Pettigrew"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 23, 2007, 3:16:04\u202FAM",
+      "Body": "\uE5D3\n\nNo. Bounce cannot be played during the blocking window.\n\nA: bleed.\nA: pass.\nB: no block.\nC: no block.\n...\nJ: Eagle's Sight attempt to block.\nB: aw...\n\nThe end of the blocking window is the event that would restart the order."
+    },
+    {
+      "Author": "gpett...@gmail.com",
+      "Date": "Oct 23, 2007, 3:00:26\u202FPM",
+      "Body": "On Oct 22, 9:16 pm, LSJ <vtes...@white-wolf.com> wrote:\n> > Wouldn't B have a chance to bounce it before C had a chance to play\n> > Eagle's Sight because of 1.6.1.5?\n>\n> > A: bleed\n> > B: no block\n> > A: no modifier\n> > B: bounce\n> > C: aw...\n>\n> No. Bounce cannot be played during the blocking window.\n\nNow you're adding even more text to Deflection? Before, only the\ntarget needed to decline to block.\n\n>\n> A: bleed.\n> A: pass.\n> B: no block.\n> C: no block.\n> ...\n> J: Eagle's Sight attempt to block.\n> B: aw...\n>\n> The end of the blocking window is the event that would restart the order.\n\n1.6.1.3 is pretty clear: what restarts the order is two people wanting\nto play effects.\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Oct 23, 2007, 3:07:54\u202FPM",
+      "Body": "gpett...@gmail.com wrote:\n> On Oct 22, 9:16 pm, LSJ <vtes...@white-wolf.com> wrote:\n>>> Wouldn't B have a chance to bounce it before C had a chance to play\n>>> Eagle's Sight because of 1.6.1.5?\n>>> A: bleed\n>>> B: no block\n>>> A: no modifier\n>>> B: bounce\n>>> C: aw...\n>> No. Bounce cannot be played during the blocking window.\n>\n> Now you're adding even more text to Deflection? Before, only the\n> target needed to decline to block.\n\nNo.\n\n>> A: bleed.\n>> A: pass.\n>> B: no block.\n>> C: no block.\n>> ...\n>> J: Eagle's Sight attempt to block.\n>> B: aw...\n>>\n>> The end of the blocking window is the event that would restart the order.\n>\n> 1.6.1.3 is pretty clear: what restarts the order is two people wanting\n> to play effects.\n\nNo.\nThe order is what decides who gets to play first when two people want to play,\nnot the other way around."
+    },
+    {
+      "Author": "gpett...@gmail.com",
+      "Date": "Oct 23, 2007, 6:07:04\u202FPM",
+      "Body": "On Oct 23, 9:07 am, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n\nRight. And the order is always acting player then target(s) then\nclockwise for each effect.\n\n\uE5D3"
+    }
+  ]
+}

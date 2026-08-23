@@ -1,0 +1,17 @@
+{
+  "ThreadId": "JrkeYmwelxc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/JrkeYmwelxc",
+  "Title": "[LSJ] life booning in circles",
+  "Messages": [
+    {
+      "Author": "François",
+      "Date": "Jan 25, 2006, 1:56:58\u202FPM",
+      "Body": "Hello all,\n\nA fellow player asked me about the following situation :\n\nA, B and C are the only players left.\nA is down to 0 pool but C plays life boon on him.\nthen C is down to 0 pool but B plays a life boon on him.\nthen B is down to 0 pool but A plays a life boon on him.\nthen time limit occurs, with each player having a life boon on another.\nIs this a correct setting or did I miss something that would have\ncaused a boon to disappear in the meantime ?\nIs this is correct, how are the multiple life boons resolved ?\n\nI answered that the first life boon played was resolved first, as it is\nthe case for multiple life boons played on the same Methuselah.\n\nThat is to say :\nC's boon resolves : A : 0 vp, B : 0,5 vp, C : 1 vp\nthen B's boon : A : 0 vp, B : 1,5 vp, C : 0 vp\nthen A's boon : A : 1 vp, B : 0,5 vp, C : 0 vp\n\nWas I right ?\n\nAs I am writing this, I think I could have missed something else :\n\nSince C's boon is actually \"half-resolving\" (for half a vp), it should\nremain in play until A's boon grants A a vp, and then C's boon gives a\nsecond half-vp from A's, with a result of 0,5 vp for everyone. Is it\nthe case ?\n\nThank you,\n\nFrançois"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 25, 2006, 2:19:11\u202FPM",
+      "Body": "\uE5D3\n\nYes (this latter thing). Everyone winds up with 0.5 vps."
+    }
+  ]
+}

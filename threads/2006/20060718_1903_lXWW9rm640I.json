@@ -1,0 +1,117 @@
+{
+  "ThreadId": "lXWW9rm640I",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/lXWW9rm640I",
+  "Title": "timing windows/ resolution stages [LSJ and the learned public]",
+  "Messages": [
+    {
+      "Author": "sutekh_23",
+      "Date": "Jul 18, 2006, 7:03:02\u202FPM",
+      "Body": "Is there any definative list of when a card can be played or when it\nresolves? Is there any priority to when this happens? If so why does\ncard X resolve before card Y? Obviously I'm not looking for \"umm, you\nplay IG in the before strikes phase\", I'm looking for the more obscure\npoints of order. (don't ask me to tell you what they are, thats why\nthey are obscure. :) )\n\nthanks all\nSutekh_23"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 18, 2006, 7:15:02\u202FPM",
+      "Body": "\uE5D3\n\nNot that I know of.\nThe vast majority are: card text, with defaults of: only combat cards\nin combat, action modifiers and reactions only during the action before\nresolution unless card text indicates otherwise, action cards to start\nan action, master cards as MPAs, and events as DPAs."
+    },
+    {
+      "Author": "sutekh_23",
+      "Date": "Jul 18, 2006, 7:46:12\u202FPM",
+      "Body": "\uE5D3\n\nOK, so what happens with before range with this example:\n\nMeth 1: I rush X at Y stealth\nMeth 2: Action Sucessful\nMeth 1: Before range I play weather control\nMeth 2: I play torn signpost\nMeth 1: I play increased strength\nMeth 2: I play increased strength\nMeth 1: I play flesh of marble\nMeth 2: I play nothing\nMeth 1: I play nothing\n\nWhat happens here?\n\nAlternativly:\n\nMeth 1: I play protected resources\nMeth 2 I bleed Meth 1 for 2\nMeth 1: I decline to block\nMeth 2: I jack the bleed to 5\nMeth 1 I play telepathic counter\n\nWhat happens here?\n\nThanks\nSutekh_23"
+    },
+    {
+      "Author": "librarian",
+      "Date": "Jul 18, 2006, 8:34:43\u202FPM",
+      "Body": "\uE5D3\n\nTypically, acting minion's controller gets to order things in phase.\n\nbest -\n\nchris"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jul 18, 2006, 8:55:13\u202FPM",
+      "Body": "\"sutekh_23\" <bec...@aapt.net.au> wrote in message\nnews:1153244772....@75g2000cwc.googlegroups.com...\n\n>\n> LSJ wrote:\n>> sutekh_23 wrote:\n>> > Is there any definative list of when a card can be played or when it\n>> > resolves? Is there any priority to when this happens? If so why does\n>> > card X resolve before card Y? Obviously I'm not looking for \"umm, you\n>> > play IG in the before strikes phase\", I'm looking for the more obscure\n>> > points of order. (don't ask me to tell you what they are, thats why\n>> > they are obscure. :) )\n>>\n>> Not that I know of.\n>> The vast majority are: card text, with defaults of: only combat cards\n>> in combat, action modifiers and reactions only during the action before\n>> resolution unless card text indicates otherwise, action cards to start\n>> an action, master cards as MPAs, and events as DPAs.\n>\n> OK, so what happens with before range with this example:\n>\n> Meth 1: I rush X at Y stealth\n> Meth 2: Action Sucessful\n> Meth 1: Before range I play weather control\n> Meth 2: I play torn signpost\n> Meth 1: I play increased strength\n> Meth 2: I play increased strength\n> Meth 1: I play flesh of marble\n> Meth 2: I play nothing\n> Meth 1: I play nothing\n>\n> What happens here?\n\nAs Chris mentioned, priority for playing cards during any particular game\nphase or step is generally: acting Methuselah first, then blocking (or\nother) Methuselah(s) afterwards. The rulebook section 1.6.1.5 \"Sequencing\"\n(in the \"Overview of Library Cards, General\" section) describes the rules\nfor this.\n\nIn fact, the sequencing rules don't usually result in the card-plays you\ndescribe above taking place in the sequence you've ordered them there. This\nis because *every time* more than one player wants to do something, the\nacting Meth has priority. After playing her first effect, she gets priority\nagain to play the next effect, and continues playing effects until she's\ndone and declares \"pass\". Then the blocking (or other) Meth gets priority\nand can play an effect - however, the acting Meth gets priority back as soon\nas \"Meth 2\" does play an effect, and can play more effects if she wishes.\nIn practice it is common for the acting Meth to not explicitly declare that\nshe's passing on opportunities to play additional cards every time the\nblocking Meth wants to play a card, but she does have the ability to\n\"interrupt\" after each play if she wishes.\n\nNote that this doesn't mean that the acting Meth's effects are\nun-interruptable: if there are effects that are necessarily played in\nreaction to her effects (e.g. Direct Intervention against the Weather\nControl), the blocking Meth does have the opportunity to \"interrupt\". But\nthe blocking Meth doesn't get to play any \"general\" (i.e. non-special-case)\neffects until the acting Meth is done playing all of her general effects.\n\nSo the sequence you describe should usually, instead, go like this:\n\nMeth 1: I rush X at Y stealth\nMeth 2: Action Sucessful\nMeth 1: Before range I play weather control\n\nMeth 1: I also play increased strength\nMeth 1: I also play flesh of marble\nMeth 1: I play nothing else at this time\n[then]\n\nMeth 2: I play torn signpost\n\n[Meth 1: I play nothing]\n\nMeth 2: I play increased strength\n\n[Meth 1: I play nothing]\n\nMeth 2: I play nothing\n\nWhen both Methuselahs have passed in succession, the phase (or step or\nwhatever) ends and you move to the next step.\n\nOf course, it *could* happen a different way, if the acting Meth isn't\ninterested in playing Flesh of Marble until Meth 2 has surprised Meth 1 by\nwhipping out the Torn Signpost, for example. In that case it might go like:\n\nMeth 1: I rush X at Y stealth\nMeth 2: Action Sucessful\nMeth 1: Before range I play weather control\n\nMeth 1: I also play increased strength\nMeth 1: I play nothing else at this time\n[then]\n\nMeth 2: I play torn signpost\n\n[Meth 1: I play flesh of marble]\n[Meth 1: I play nothing else at this time]\n\nMeth 2: I play increased strength\n\n[Meth 1: I play nothing]\n\nMeth 2: I play nothing\n\nThis is also why, if the acting Meth is interested in using an action\nmodifier to increase bleed, but the target Meth is considering playing\nDeflection, there is no stalemate: if the acting Meth plays Conditioning,\nthe target Meth can then play Deflection (when the acting Meth is done\ndeclaring effects), but if the acting Meth passes (wanting to see if the\ntarget Meth plays Deflection), and the target Meth *declines* to play\nDeflection, the phase for playing those effects has ended (because both\nMeths have passed) and the acting Meth cannot *then* play Conditioning. Or\nto\n\n> Alternativly:\n>\n> Meth 1: I play protected resources\n> Meth 2 I bleed Meth 1 for 2\n> Meth 1: I decline to block\n> Meth 2: I jack the bleed to 5\n> Meth 1 I play telepathic counter\n>\n> What happens here?\n\nIn this case, it might look more like:\n\nMeth 1: [has Protected Resources in play]\n\nMeth 2: I bleed Meth 1 for 2\nMeth 1: I decline to block\nMeth 2: I jack the bleed to 5\n\nMeth 1: I play telepathic counter at superior\nMeth 2: I don't increase the bleed any further\nMeth 1: I burn 2 pool for the bleed that resolves at 3 (due to P.R.)\n\nDoes this answer your questions at all? You're right to suspect that there\nare some subtleties to the timing of effects in VTES, but almost all of them\nare resolved by who the rulebook says has priority at any given moment, and\nwhat the particular card-texts are (e.g. Protected Resources' effect is\nthat, no matter how large the bleed is that's coming at you, you will only\nburn 2 pool when the bleed resolves).\n\nJosh\n\nsometime rule maven"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Jul 18, 2006, 9:15:06\u202FPM",
+      "Body": "In message <4i4p4jF...@individual.net>, Joshua Duffin <joshduffin.RE\n\nMO...@SPAM.gmail.com> writes:\n>So the sequence you describe should usually, instead, go like this:\n>\n> Meth 1: I rush X at Y stealth\n> Meth 2: Action Sucessful\n> Meth 1: Before range I play weather control\n> Meth 1: I also play increased strength\n> Meth 1: I also play flesh of marble\n> Meth 1: I play nothing else at this time\n>[then]\n> Meth 2: I play torn signpost\n>[Meth 1: I play nothing]\n> Meth 2: I play increased strength\n>[Meth 1: I play nothing]\n> Meth 2: I play nothing\n>\n>When both Methuselahs have passed in succession, the phase (or step or\n>whatever) ends and you move to the next step.\n\nOnce Weather Control has been played, Methuselah 1 can't pass without\nordering the \"before range\" effect in. He can only pass when he has\nnothing else to do.\n\nIf Methuselah 2 were to play it, control would go back to Methuselah 1\n(because 2 doesn't pass, it just automatically goes back to 1) who could\nplay any number of other effects - but would have to order in the\nWeather Control before passing.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jul 18, 2006, 9:59:54\u202FPM",
+      "Body": "\"James Coupe\" <ja...@zephyr.org.uk> wrote in message\nnews:JhjtSUR6...@gratiano.zephyr.org.uk...\n\n> In message <4i4p4jF...@individual.net>, Joshua Duffin <joshduffin.RE\n> MO...@SPAM.gmail.com> writes:\n>>So the sequence you describe should usually, instead, go like this:\n>>\n>> Meth 1: I rush X at Y stealth\n>> Meth 2: Action Sucessful\n>> Meth 1: Before range I play weather control\n>> Meth 1: I also play increased strength\n>> Meth 1: I also play flesh of marble\n>> Meth 1: I play nothing else at this time\n>>[then]\n>> Meth 2: I play torn signpost\n>>[Meth 1: I play nothing]\n>> Meth 2: I play increased strength\n>>[Meth 1: I play nothing]\n>> Meth 2: I play nothing\n>>\n>>When both Methuselahs have passed in succession, the phase (or step or\n>>whatever) ends and you move to the next step.\n>\n> Once Weather Control has been played, Methuselah 1 can't pass without\n> ordering the \"before range\" effect in. He can only pass when he has\n> nothing else to do.\n>\n> If Methuselah 2 were to play it, control would go back to Methuselah 1\n> (because 2 doesn't pass, it just automatically goes back to 1) who could\n> play any number of other effects - but would have to order in the\n> Weather Control before passing.\n\nOh duh, thanks for that correction. I totally forgot, once I got going,\nthat Weather Control was one of the specific cards in this example, which,\nas you say, puts another mandatory effect to play in the mix.\n\nJosh\n\nforgot about dre"
+    },
+    {
+      "Author": "sutekh_23",
+      "Date": "Jul 19, 2006, 4:30:00\u202FAM",
+      "Body": "\uE5D3\n\nThank you gentlemen.\nSo what this boils down to is that the acting Meth maintains priority,\nwith the ability to order any effects that he/she plays. After playing\nX cards, target Meth gets priority and can play X effects, ordering\nthem as he/she wants. After this, acting Meth regains priority and\nsequence repeats until both Meths decline to play any more effects.\nAdditionaly, if any said effects have mandatory effects, these must be\nordered by the acting Meth no matter who plays them. Finally any effect\nthat can cancel another effect must be played after the \"offending\"\neffect is played as this is the window for doing so.\nDoes this look right?\nThanks again guys"
+    },
+    {
+      "Author": "ira...@gmail.com",
+      "Date": "Jul 19, 2006, 7:13:18\u202FAM",
+      "Body": "\uE5D3\n\nLooks good, except that the \"target Meth gets priority and can play X\neffects,\" should really be \"target Meth gets priority and can play one\neffect, after which the acting Meth regains priority (and can then pass\nback to the target Meth.)\"\n\nThe playthrough that Josh gave for combat and bleeds in your example\nwere good. The Target Meth can always ask the question to the Acting\nMeth, \"Do you have anything else to play at this time?\" The Acting\nMeth, after playing all the cards he wants to play, will eventually\nsay, \"No.\" Then, the Target Meth can either play a card (and priority\ngoes back to the Acting Meth), or not (and then the window closes and\nyou move on to the next step.)\n\nIra"
+    },
+    {
+      "Author": "sutekh_23",
+      "Date": "Jul 19, 2006, 4:40:38\u202FPM",
+      "Body": "\uE5D3\n\nAha, thank you again gentlemen. This resolves some of the issues that\nhave been bothering me of late so, thanks.\n\nSutekh_23\nstill has brain fry from instants and interrupts from the other game"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jul 19, 2006, 5:10:59\u202FPM",
+      "Body": "\"sutekh_23\" <bec...@aapt.net.au> wrote in message\n\nnews:1153320038.1...@m79g2000cwm.googlegroups.com...\n\n> Aha, thank you again gentlemen. This resolves some of the issues that\n> have been bothering me of late so, thanks.\n\nYou're welcome!\n\n> Sutekh_23\n> still has brain fry from instants and interrupts from the other game\n\nYes, this game will only fry your brain in other ways. :-)\n\nJosh\n\nby having too many gehenna events in play at the same time, for example"
+    },
+    {
+      "Author": "niko...@hotmail.com",
+      "Date": "Jul 19, 2006, 8:29:36\u202FPM",
+      "Body": "\uE5D3\n\nIm trying to remember examples of peculiar timing situations, but of\ncourse I cant think of them now apart from this.\n\nAparently\nPsyche!, Combat, Celerity, U , [Jyhad:U, V:TES:U, FN:PA2, CE:U/PB]\n[cel] Press. [CEL] Only usable at the end of a combat when both\ncombatants are still ready. Enter combat with the opposing minion. This\nis a new combat.\n\nisnt usable with\n\nMarthe Dizier, 10, pro AUS CEL OBF PRE, Toreador Antitribu, 3, [G]\nSabbat, Black Hand: When a combat involving Marthe ends, she can burn a\nblood to move a card she played during that combat you your hand. +1\nbleed.\n\nmeaning she cant burn a blood to get a played psyche back even though\nit is a combat card and therefore according to the above must be played\nin the combat, again meaning that she should be able to recycle it.\nThat doesnt make sense to me. I know I've come across other things and\nruligs during all these years, where I thought the timing was weird.\nI'll try to think of them.. :)"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jul 19, 2006, 8:55:31\u202FPM",
+      "Body": "<niko...@hotmail.com> wrote in message\nnews:1153333776.0...@m73g2000cwd.googlegroups.com...\n\n> Im trying to remember examples of peculiar timing situations, but of\n> course I cant think of them now apart from this.\n>\n> Aparently\n> Psyche!, Combat, Celerity, U , [Jyhad:U, V:TES:U, FN:PA2, CE:U/PB]\n> [cel] Press. [CEL] Only usable at the end of a combat when both\n> combatants are still ready. Enter combat with the opposing minion. This\n> is a new combat.\n>\n> isnt usable with\n>\n> Marthe Dizier, 10, pro AUS CEL OBF PRE, Toreador Antitribu, 3, [G]\n> Sabbat, Black Hand: When a combat involving Marthe ends, she can burn a\n> blood to move a card she played during that combat you your hand. +1\n> bleed.\n>\n> meaning she cant burn a blood to get a played psyche back even though\n> it is a combat card and therefore according to the above must be played\n> in the combat, again meaning that she should be able to recycle it.\n> That doesnt make sense to me. I know I've come across other things and\n> ruligs during all these years, where I thought the timing was weird.\n> I'll try to think of them.. :)\n\nYou're right. Psyche! is an unusual case because, by its own card-text, the\nsuperior effect is not played during combat even though it is a combat card.\nThat is, the first combat has to have already ended for you to be able to\nstart a new one (you can't start a new combat while the old combat is still\ngoing on). That's why Marthe can't retrieve a superior Psyche! with her\nability: the Psyche! wasn't played \"during\" either of the two combats, if\nshe plays it at superior. (She *can* retrieve a Psyche! if she uses it to\npress (the [cel] effect) in combat 1, after combat 1 ends, and then\nimmediately play that same Psyche! at superior to start combat 2. But after\ncombat 2 ends, she would not be able to again put it in your hand, because\nthe second time, it wasn't played during combat.)\n\nThis timing is, as you say, kinda weird. The fact that it has a basis in\ncard-text makes it make sense to me, at least. :-)\n\nJosh\n\nsome kind of constructionist"
+    },
+    {
+      "Author": "tigernat1",
+      "Date": "Jul 20, 2006, 2:07:41\u202FAM",
+      "Body": "Or perhaps Psyche! should be a combat card (inferior), in addition to\nan action modifier (superior), in addition to a reaction card\n(superior). Would that remedy its weirdness?\n\ngNat\n\n\uE5D3"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Jul 20, 2006, 3:43:21\u202FAM",
+      "Body": "tigernat1 wrote:\n> Or perhaps Psyche! should be a combat card (inferior), in addition to\n> an action modifier (superior), in addition to a reaction card\n> (superior). Would that remedy its weirdness?\n\nYes it would, as well as severely nerfing it since it would only be\nplayable once an action at superior."
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jul 20, 2006, 4:56:37\u202FPM",
+      "Body": "\"Robert Scythe\" <rob...@exploretalent.com> wrote in message\nnews:1153359801.4...@m79g2000cwm.googlegroups.com...\n\uE5D3\n\nCorrect. On both counts. :-)\n\nJosh\n\n\"my car is not a convention\" -L. Scott Johnson"
+    },
+    {
+      "Author": "adam....@gmail.com",
+      "Date": "Jul 20, 2006, 7:20:35\u202FPM",
+      "Body": "I have another timing question.\n\nWhat about the stealing of things (ex: equipment or retainers)?\n\nExample: I try Fleecing of the Gaje on Blood Tears of Kephran. Can I\nburn the equipment (gaining 2 blood) to make the action fail?\n\nExample: Not sure what card would apply... but lets say you attempt to\nsteal a retainer/equipment/blood... but then you move the\nretainer/equipment/blood to a different vampire via Heidelberg Castle,\nGermany. Does action fail?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 20, 2006, 7:30:08\u202FPM",
+      "Body": "adam....@gmail.com wrote:\n> I have another timing question.\n>\n> What about the stealing of things (ex: equipment or retainers)?\n\nSteal when the effect resolves.\n\n> Example: I try Fleecing of the Gaje on Blood Tears of Kephran. Can I\n> burn the equipment (gaining 2 blood) to make the action fail?\n\nYes.\n\n> Example: Not sure what card would apply... but lets say you attempt to\n> steal a retainer/equipment/blood... but then you move the\n> retainer/equipment/blood to a different vampire via Heidelberg Castle,\n> Germany. Does action fail?\n\nMoot, as Heidelberg cannot be used during an action."
+    },
+    {
+      "Author": "adam....@gmail.com",
+      "Date": "Jul 21, 2006, 3:50:01\u202FPM",
+      "Body": "\uE5D3\n\nHmmm... makes me wonder about something else then. (May have been\nplaying this wrong).\n\nSomeone takes the action to steal Erciyes Fragments, can I tap it then\nto put a card on it?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 21, 2006, 4:51:02\u202FPM",
+      "Body": "adam....@gmail.com wrote:\n> Someone takes the action to steal Erciyes Fragments, can I tap it then\n> to put a card on it?\n\nYes. Actions don't resolve when announced. So long as you tap EF before\nthe steal resolves, you're good."
+    },
+    {
+      "Author": "witness1",
+      "Date": "Jul 21, 2006, 4:55:08\u202FPM",
+      "Body": "adam....@gmail.com wrote:\n\n> LSJ wrote:\n> > Moot, as Heidelberg cannot be used during an action.\n>\n>\n> Hmmm... makes me wonder about something else then. (May have been\n> playing this wrong).\n>\n> Someone takes the action to steal Erciyes Fragments, can I tap it then\n> to put a card on it?\n\nThe reason that Heidelburg cannot be tapped during an action is card\ntext. Erciyes Fragment has no such text, so you can tap it.\n\nWitness1\n-ItE"
+    },
+    {
+      "Author": "Pat",
+      "Date": "Jul 24, 2006, 1:42:16\u202FAM",
+      "Body": "<adam....@gmail.com> wrote in message\nnews:1153489801.2...@p79g2000cwp.googlegroups.com...\n\uE5D3\n\nAs others have noted, this is legal.\n\nA common response to the stealing action is to \"spike\" the card by tapping\nit to put a useless card from your prey's ash heap on it. The best cards for\nthis purpose are \"once per game\" effects that have already been played, like\nGiant's Blood or Ancient Influence, but a discipline that the stealing\nMeth's vamps can't play is almost as good.\n\n- Pat"
+    }
+  ]
+}

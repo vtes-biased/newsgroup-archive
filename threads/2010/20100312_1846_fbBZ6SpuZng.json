@@ -1,0 +1,52 @@
+{
+  "ThreadId": "fbBZ6SpuZng",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/fbBZ6SpuZng",
+  "Title": "How to get your Pool to infinity and beyond",
+  "Messages": [
+    {
+      "Author": "JEH",
+      "Date": "Mar 12, 2010, 6:46:07\u202FPM",
+      "Body": "My group told me about this one last night. I don't know which one of\ntheir devious minds came up with it, but it wasn't me!\n\nYou need the following 3 cards\n\nJournal of Hrorsh\nType: Equipment\nRequires: Salubri\nUnique equipment.\nWhen this Salubri performs a successful action, put a counter on this\ncard. Burn these counters if this card is moved. You may remove this\nready Salubri from the game to move these counters to your pool (not\nusable during an action). Burn option.\n\nEx Nihilo\nType: Action\nRequires: Necromancy\nCost: 1 blood\n+1 stealth action.\n[nec] Put this card on this vampire. This vampire gets +1 stealth.\nDamage he or she inflicts in combat is reduced to 0, and he or she is\nimmune to non-aggravated damage. This vampire cannot gain blood; any\nblood he or she gains goes to the blood bank instead. During your\nmaster phase, this vampire burns 1 blood or is burned. You may burn\nthis card during your untap phase.\n[NEC] As above, but you may burn this card during any Methuselah's\nuntap phase.\n\nTemptation\nType: Action\nRequires: Serpentis\nCost: 1 blood\n[ser] (D) Put this card on a ready vampire; you still control this\ncard. During your master phase, you may put a counter on this card.\nDuring your minion phase, if the number of counters on this card\nequals or exceeds the amount of blood on this vampire, you may burn\nthe counters to untap this vampire and take control of him or her\nuntil the end of the turn.\n[SER] As above, and add a counter when you play this card.\n\nHave one of your Salubri vamps on 0 blood, equiped with the Journal of\nHrorsh, and with the Ex Nihilo and your own Temptation, and also\nassume that nobody happens to have enough intercept at that point.\n\n1. So the vamp has to hunt. It taps, gains no blood due to the Ex\nNihilo, and puts a counter on the Journal of Hrorsh. With the\nTemptions, burn all the (0) counters on it, and the vampire untaps.\n\n2. Goto 1.\n\nKeep going until you've run out of things to represent counters on the\nJournal of Hrorsh or your group has dragged you kicking and screaming\ninto the street and thrown you under a bus.\n\nIf the latter didn't happen, burn the counters and gain lots of pool.\n\nSo, any flaws in this plan ... apart from the bus?"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Mar 12, 2010, 6:53:18\u202FPM",
+      "Body": "On Mar 12, 11:46 am, JEH <john.hick...@bigfoot.com> wrote:\n\n> 1. So the vamp has to hunt. It taps, gains no blood due to the Ex\n> Nihilo, and puts a counter on the Journal of Hrorsh. With the\n> Temptions, burn all the (0) counters on it, and the vampire untaps.\n>\n> 2. Goto 1.\n>\n> Keep going until you've run out of things to represent counters on the\n> Journal of Hrorsh or your group has dragged you kicking and screaming\n> into the street and thrown you under a bus.\n\n> So, any flaws in this plan ... apart from the bus?\n\nYes.\n\n> During your minion phase, if the number of counters on this card\n> equals or exceeds the amount of blood on this vampire, you may burn\n> the counters to untap this vampire and take control of him or her\n> until the end of the turn.\n\nBecause Temptation is \"During X, do Y\", you can only untap via\nTemptation once (per Temptation) per minion phase. So you can hunt,\nuntap, hunt again... and then you're done.\n\n-John Flournoy"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Mar 12, 2010, 6:54:05\u202FPM",
+      "Body": "On Mar 12, 12:46 pm, JEH <john.hick...@bigfoot.com> wrote:\n> My group told me about this one last night. I don't know which one of\n> their devious minds came up with it, but it wasn't me!\n\n> You need the following 3 cards\n\nYou need more than 3.\nTemptation only allows you one untap per turn.\n\n> Journal of Hrorsh\n> Ex Nihilo\n\n> Temptation\n\n> During your minion phase, if the number of counters on this card\n> equals or exceeds the amount of blood on this vampire, you may burn\n> the counters to untap this vampire and take control of him or her\n> until the end of the turn.\n\ni.e. During X, do Y.\nBuilt in limit of once.\n\n> Have one of your Salubri vamps on 0 blood, equiped with the Journal of\n> Hrorsh, and with the Ex Nihilo and your own Temptation, and also\n> assume that nobody happens to have enough intercept at that point.\n\n> 1. So the vamp has to hunt. It taps, gains no blood due to the Ex\n> Nihilo, and puts a counter on the Journal of Hrorsh. With the\n> Temptions, burn all the (0) counters on it, and the vampire untaps.\n\n> 2. Goto 1.\n\nThis gets you 2 counters, yes.\n\n> Keep going until you've run out of things to represent counters on the\n> Journal of Hrorsh or your group has dragged you kicking and screaming\n> into the street and thrown you under a bus.\n\nNot so much really, no.\n\n> If the latter didn't happen, burn the counters and gain lots of pool.\n\nNope.\n\n> So, any flaws in this plan ... apart from the bus?\n\nCard text. Rules.\nThose pesky things."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 12, 2010, 6:54:14\u202FPM",
+      "Body": "On Mar 12, 12:46 pm, JEH <john.hick...@bigfoot.com> wrote:\n\n\uE5D3\n\nTemptation has \"During X, do Y\": it can only be used once during your\nminion phase."
+    },
+    {
+      "Author": "JEH",
+      "Date": "Mar 12, 2010, 6:58:01\u202FPM",
+      "Body": ">\n> Temptation has \"During X, do Y\": it can only be used once during your\n> minion phase.\n\nThanks, that's a relief. It might have been messy otherwise ;-)"
+    },
+    {
+      "Author": "The Lasombra",
+      "Date": "Mar 12, 2010, 7:36:59\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\nIf this worked the way your group wanted, it would have been easier\nwith Rabbat.\nThe blood gained from hunting goes directly to your pool without need\nof Necromancy, Equipment, etc.\n\nFortunately, it never worked that way."
+    },
+    {
+      "Author": "aaronmiller38",
+      "Date": "Mar 12, 2010, 9:17:55\u202FPM",
+      "Body": ">\n> 1. So the vamp has to hunt. It taps, gains no blood due to the Ex\n> Nihilo, and puts a counter on the Journal of Hrorsh. With the\n> Temptions, burn all the (0) counters on it, and the vampire untaps.\n>\n\nI also thought you had to have at least one counter to burn on\ntemptation to untap the vampire. Even if they are at 0 blood."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 12, 2010, 9:22:42\u202FPM",
+      "Body": "\uE5D3\n\nZero counters will suffice if the vampire has zero blood.\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/e310636ba06629d1"
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Mar 15, 2010, 1:46:04\u202FPM",
+      "Body": "\uE5D3\n\nAnyway, there are some tricks to make you lose infinite pool, so it\nwouldn't have been that perfect ;)"
+    }
+  ]
+}

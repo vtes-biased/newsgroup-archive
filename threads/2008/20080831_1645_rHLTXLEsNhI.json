@@ -1,0 +1,47 @@
+{
+  "ThreadId": "rHLTXLEsNhI",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/rHLTXLEsNhI",
+  "Title": "LSJ: Question about Reanimated Corpse",
+  "Messages": [
+    {
+      "Author": "Pullen",
+      "Date": "Aug 31, 2008, 4:45:55\u202FPM",
+      "Body": "Can a Reanimated Corpse play Ashes to Ashes when out of live or when a\ncard burns them and if so what happens? Also if I can, can I follow it\nup with a Undying Tenacity to stay in the fight?\n\nReanimated Corpse\nType: Ally\nRequires: Thanatosis\nCost: X blood\nZombie with 2 life. 2 strength, 2 bleed.\n[thn] Put X pathos counters on this corpse when it enters play. During\nyour untap phase, burn 1 pathos counter. Remove the corpse from the\ngame if it has no pathos counters. The corpse can play combat cards\nthat require basic Fortitude [for] as a vampire.\n[THN] As above, but put 2 additional pathos counters on the corpse.\n\nAshes to Ashes\nType: Combat\nRequires: Thanatosis/Fortitude\n[for] Only usable by a vampire being burned; he or she is sent into\ntorpor instead.\n[thn] Prevent all damage. This vampire untaps and goes to torpor\n(ending combat).\n[THN] As [thn] above, and this vampire gains 2 blood from the blood\nbank.\n\nUndying Tenacity\nType: Combat\nRequires: Fortitude\n[for] Only usable when this vampire should go to torpor. This vampire\nwill not go to torpor until after combat ends (although he or she is\nstill wounded and can be burned by aggravated damage).\n[FOR] Press or prevent 1 damage."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Aug 31, 2008, 5:41:04\u202FPM",
+      "Body": "\uE5D3\n\nI believe - he can not play Undying Tenacity, because he is never\n\"going to torpor\". He can Ashes to Ashes, but will still be burned.\nAn ally cannot go to torpor - he is burned when he reaches 0 life. So\nyou play Ashes to Ashes (at fortitude) when he's supposed to burn,\nthen after the play of Ashes to Ashes, he still has 0 life and burns.\nThere is no window there for playing Undying Tenacity either.\n\nI forget what would happen if it were possible to play Ashes to Ashes\nat thanatosis level with the Corpse - whether the ally would be burned\nby \"going to torpor\", or would simply stay ready and prevent all\ndamage. But since it's not possible to play at that level, it's\nmoot. The fortitude level will not save him."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Aug 31, 2008, 6:19:30\u202FPM",
+      "Body": "In message <9d8ef6a1-a664-40c9...@b1g2000hsg.googlegroups\n\n.com>, Chris Berger <ark...@ugcs.caltech.edu> writes:\n>On Aug 31, 9:45 am, Pullen <mattp3...@yahoo.com> wrote:\n>> Ashes to Ashes\n>> Type: Combat\n>> Requires: Thanatosis/Fortitude\n>> [for] Only usable by a vampire being burned; he or she is sent into\n>> torpor instead.\n>> [thn] Prevent all damage. This vampire untaps and goes to torpor\n>> (ending combat).\n>\n\n>I believe - he can not play Undying Tenacity, because he is never\n>\"going to torpor\". He can Ashes to Ashes, but will still be burned.\n\nIn fact, Ashes to Ashes burns him by sending him to torpor. Allies who\nare sent to torpor are burned instead. [1.3.6]\n\n>I forget what would happen if it were possible to play Ashes to Ashes\n>at thanatosis level with the Corpse - whether the ally would be burned\n>by \"going to torpor\",\n\nHe would - both [for] and [thn] would send him to torpor, causing him to\nburn instead.\n\n>or would simply stay ready and prevent all\n>damage. But since it's not possible to play at that level, it's\n>moot. The fortitude level will not save him.\n\nShadow Court Satyr can play Ashes to Ashes at [thn].\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "simcof",
+      "Date": "Sep 1, 2008, 12:52:53\u202FAM",
+      "Body": "On Sep 1, 2:19 am, James Coupe <ja...@zephyr.org.uk> wrote:\n> In message <9d8ef6a1-a664-40c9-a790-3b1b51122...@b1g2000hsg.googlegroups\n\uE5D3\n\nSo a shadow court satyr is not a vampire and can't go to torpor, so\nplaying ashes to ashes would only have the prevent all effect? If so,\nthat is hot."
+    },
+    {
+      "Author": "Salem",
+      "Date": "Sep 1, 2008, 1:09:37\u202FAM",
+      "Body": "simcof wrote:\n> On Sep 1, 2:19 am, James Coupe <ja...@zephyr.org.uk> wrote:\n\n...\n\n>> He would - both [for] and [thn] would send him to torpor, causing him to\n>> burn instead.\n>>\n>> >or would simply stay ready and prevent all\n>> >damage. But since it's not possible to play at that level, it's\n>> >moot. The fortitude level will not save him.\n>>\n>> Shadow Court Satyr can play Ashes to Ashes at [thn].\n>>\n\n...\n\n> So a shadow court satyr is not a vampire and can't go to torpor, so\n> playing ashes to ashes would only have the prevent all effect? If so,\n> that is hot.\n\nno quite. he can't to torpor, so instead all the damage is prevented,\nand he burns (by what james said above).\n\n--\nsalem\n(replace 'hotmail' with 'gmail' to email)"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Sep 1, 2008, 1:09:40\u202FAM",
+      "Body": "In message <360915a9-32bb-4235...@l33g2000pri.googlegroup\n\ns.com>, simcof <sim...@gmail.com> writes:\n>So a shadow court satyr is not a vampire and can't go to torpor, so\n>playing ashes to ashes would only have the prevent all effect? If so,\n>that is hot.\n\nErm, no. Did you read any of the rest of the post?\n\nAn ally being sent to torpor does not ignore it; they burn instead.\n[1.6.3]\n\n\uE5D3"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Sep 2, 2008, 3:09:12\u202FAM",
+      "Body": "On Aug 31, 11:19 am, James Coupe <ja...@zephyr.org.uk> wrote:\n> In message <9d8ef6a1-a664-40c9-a790-3b1b51122...@b1g2000hsg.googlegroups\n\n> .com>, Chris Berger <ark...@ugcs.caltech.edu> writes:\n>\n> >I believe - he can not play Undying Tenacity, because he is never\n> >\"going to torpor\".  He can Ashes to Ashes, but will still be burned.\n>\n> In fact, Ashes to Ashes burns him by sending him to torpor.  Allies who\n> are sent to torpor are burned instead.  [1.3.6]\n>\n\nAh yes, that's the part I was unsure of. I believe that at one point\nan ally ignored \"go to torpor\" effects entirely, and I think that was\nkind of broken, but I couldn't remember if it was changed or not. So\nif an ally is sent to torpor, he is burned (obviously, he still cannot\nbe targeted by effects that send *vampires* to torpor, but if he is\ntreated as a vampire by a card that will send him to torpor, it will\nburn him)."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 2, 2008, 3:18:47\u202FAM",
+      "Body": "James Coupe wrote:\n> In message <9d8ef6a1-a664-40c9...@b1g2000hsg.googlegroups\n\n> ..com>, Chris Berger <ark...@ugcs.caltech.edu> writes:\n>> On Aug 31, 9:45 am, Pullen <mattp3...@yahoo.com> wrote:\n>>> Ashes to Ashes\n>>> Type: Combat\n>>> Requires: Thanatosis/Fortitude\n>>> [for] Only usable by a vampire being burned; he or she is sent into\n>>> torpor instead.\n>>> [thn] Prevent all damage. This vampire untaps and goes to torpor\n>>> (ending combat).\n>> I believe - he can not play Undying Tenacity, because he is never\n>> \"going to torpor\". He can Ashes to Ashes, but will still be burned.\n>\n> In fact, Ashes to Ashes burns him by sending him to torpor. Allies who\n> are sent to torpor are burned instead. [1.3.6]\n\nCorrect. (As with points below)\n\n\uE5D3"
+    }
+  ]
+}

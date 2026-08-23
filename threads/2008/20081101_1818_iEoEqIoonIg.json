@@ -1,0 +1,42 @@
+{
+  "ThreadId": "iEoEqIoonIg",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/iEoEqIoonIg",
+  "Title": "LSJ - \"to attempt to do X\" vs \"to do X\"",
+  "Messages": [
+    {
+      "Author": "v.ri...@gmail.com",
+      "Date": "Nov 1, 2008, 6:18:24\u202FPM",
+      "Body": "I won't spoil the whole card, but Talbot says :\n\nTalbot may do X to attempt to do Y as a +1 stealth (D) action.\n\nIs there any difference with the following wording :\n\nTalbot may do X to do Y as a +1 stealth (D) action.\n\nFor example:\n\nHrothulf\nCamarilla: If you control the Edge, Hrothulf can burn it to enter\ncombat with a ready minion controlled by another Methuselah as a (D)\naction."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 2, 2008, 6:35:43\u202FPM",
+      "Body": "\uE5D3\n\nHrothulf's ability to \"If you meet condition A, Hrothulf can do X as a (D) action.\"\n\nWhere X is \"burn [the Edge] to enter combat\".\n\nAnd from there the difference should follow easily."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Nov 3, 2008, 11:10:27\u202FPM",
+      "Body": "On Nov 2, 11:35 am, LSJ <vtes...@white-wolf.com> wrote:\n\uE5D3\n\nMaybe someone else can expand on this... How is \"If you meet\ncondition A, Hrothulf can do X as a (D) action\" different from \"If you\nmeet condition B, Hrothulf can attempt to do Y as a (D) action.\"\nSeems the same to me, but the above implies there is a difference...\nActually, scratch that. I'm sure there is no difference, but the\nabove says that the difference should follow easily... What does that\nmean?"
+    },
+    {
+      "Author": "witness1",
+      "Date": "Nov 3, 2008, 11:16:06\u202FPM",
+      "Body": "\uE5D3\n\nHrothulf can burn the Edge to take action Y. This means that burning\nthe edge is a cost of action Y, and is therefore not paid if the\naction is unsuccessful.\n\nIf Hrothulf could burn the edge to attempt action Y instead, he must\nburn the edge even if the action is unsuccessful.\n\n-witness1"
+    },
+    {
+      "Author": "Meej",
+      "Date": "Nov 3, 2008, 11:24:43\u202FPM",
+      "Body": "On Nov 3, 5:10 pm, Chris Berger <ark...@ugcs.caltech.edu> wrote:\n\n\uE5D3\n\nIf we look at two cases:\n\nCase 1: If (Condition A), (Minion) may (Do X) to (Do Y) as a D action.\n(Hrothulf)\nCase 2: If (Condition B), (Minion) may (Do X) to attempt to (Do Y) as\na D action. (Talbot, apparently.)\n\nI can't say for sure, but it looks, to me, like in Case 1 (Hrothulf),\n\"Do X\" is the cost of \"Do Y as a D action\". In which case, if the\naction is blocked, etc, the cost is not paid. (See also: bleeding\nwith Strike with Conviction.)\nOn the other hand, Case 2 appears that \"Do X\" isn't the cost of the\naction - it's something you need to do to be allowed to attempt the\naction. In which case, whether or not the action's blocked, you've\nhad to Do X already. (See also: a non-Ravnos vampire attempting to do\na D action that targets Hazimel. Closest parallel I could find.)\n\nI *think* LSJ is referring to one being a cost of the action (1) and\nthe other being a precondition to attempt the action (2).\n\n- D.J."
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Nov 3, 2008, 11:38:37\u202FPM",
+      "Body": "\uE5D3\n\nOh, I see what he's saying now. Thanks for the clarification. It's\nnot that attempting an action is different from doing something as an\naction, it's a question of where the \"cost\" part is, i.e. whether it's\nburn a blood to attempt to do X or attempt to do X at a cost of a\nblood. Got it."
+    },
+    {
+      "Author": "suolir...@gmail.com",
+      "Date": "Nov 4, 2008, 4:42:29\u202FPM",
+      "Body": "On 4 marras, 00:38, Chris Berger <ark...@ugcs.caltech.edu> wrote:\n> Oh, I see what he's saying now.  Thanks for the clarification.  It's\n> not that attempting an action is different from doing something as an\n> action, it's a question of where the \"cost\" part is, i.e. whether it's\n> burn a blood to attempt to do X or attempt to do X at a cost of a\n> blood.  Got it.\n\nIt doesn't really change the outcome in this case but I believe\nburning the edge is actually an effect of Hrothulf's action as opposed\nto being a cost. Just nitpicking really."
+    }
+  ]
+}

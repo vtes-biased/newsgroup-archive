@@ -1,0 +1,37 @@
+{
+  "ThreadId": "GIB1e561uX8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/GIB1e561uX8",
+  "Title": "[LSJ] Rules doubt",
+  "Messages": [
+    {
+      "Author": "Kalessin",
+      "Date": "Nov 27, 2005, 3:34:54\u202FPM",
+      "Body": "Yesterday a doubt arised during gameplay.\n\nSelena (4-5 blood on her) was in combat with a !Malk (5 blood on\nhim/her), the !Malk being the acting minion.\n\nSelena played Thoughts betrayed at inferior (bad move, granted), her\nplayer believing his opponent had no Coma in his hand. Well it turned\nout he did have one, and the !malk played it, paying all 3 blood for\nit. As a response, Selena played a theft of vitae.\n\nThus, the question is: the !malk goes to torpor (he spends 3 blood on\nthe Coma, gets his two remaining blood stolen and then suffers an\nadditional damage from the TB), or he just gets first the damage from\nthe TB at inferior and THEN gets stealed the remaining blood?\n\nThanks in advance!\nAndrés Valenzuela"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "Nov 27, 2005, 3:59:47\u202FPM",
+      "Body": "Kalessin wrote:\n> Selena (4-5 blood on her) was in combat with a !Malk (5 blood on\n> him/her), the !Malk being the acting minion.\n>\n> Selena played Thoughts betrayed at inferior (bad move, granted), her\n> player believing his opponent had no Coma in his hand. Well it turned\n> out he did have one, and the !malk played it, paying all 3 blood for\n> it. As a response, Selena played a theft of vitae.\n>\n> Thus, the question is: the !malk goes to torpor (he spends 3 blood on\n> the Coma, gets his two remaining blood stolen and then suffers an\n> additional damage from the TB), or he just gets first the damage from\n> the TB at inferior and THEN gets stealed the remaining blood?\n\nStrike resolution happens before damage handling, so the blood gets\nthefted before the !Malk can use it to heal damage. He ends up in\ntorpor."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Nov 27, 2005, 5:24:42\u202FPM",
+      "Body": "In message <1133103587.5...@g44g2000cwa.googlegroups.com>,\n\nEmmit Svenson <emmits...@hotmail.com> writes:\n>Strike resolution happens before damage handling, so the blood gets\n>thefted before the !Malk can use it to heal damage.\n\nDamage handling is part of strike resolution. However, it's handled\nafter the effects of other strikes are applied.\n\nFor clarification, see 6.4.3, Resolve Strike.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 27, 2005, 7:57:06\u202FPM",
+      "Body": "\uE5D3\n\nCorrect.\n\n--\nThat is my story, be it bitter or be it sweet.\nKeep a little and let a little come back to me.\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Kalessin",
+      "Date": "Nov 28, 2005, 1:45:22\u202FPM",
+      "Body": "Thank you everyone!\n\nCheers,\nAndrés.\n\n\uE5D3"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "Nov 28, 2005, 2:32:23\u202FPM",
+      "Body": "James Coupe wrote:\n> In message <1133103587.5...@g44g2000cwa.googlegroups.com>,\n> Emmit Svenson <emmits...@hotmail.com> writes:\n> >Strike resolution happens before damage handling, so the blood gets\n> >thefted before the !Malk can use it to heal damage.\n>\n> Damage handling is part of strike resolution. However, it's handled\n> after the effects of other strikes are applied.\n\nSorry. I have to get my terminology exactly right. \"Strike effects are\napplied before damage handling...\""
+    }
+  ]
+}

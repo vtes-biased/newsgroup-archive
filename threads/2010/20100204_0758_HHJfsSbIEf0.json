@@ -1,0 +1,82 @@
+{
+  "ThreadId": "HHJfsSbIEf0",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/HHJfsSbIEf0",
+  "Title": "Unleash Hell's Fury: LSJ",
+  "Messages": [
+    {
+      "Author": "Dasein",
+      "Date": "Feb 4, 2010, 7:58:58\u202FAM",
+      "Body": "this card may attempt to block a D action against you \"as a 9 capacity\ninfernal vampire with +2 intercept\". What is the clan of this vampire?\nthe sect? Is it independent / Baali? What if the vampire that played\nthe action card was say Dylan Advanced?\n\nAssuming it is Baali, is there a window when this vampire blocks the\naction during which it can play Bloodstorm of Chorazin before its\ntrigger effect resolves? If so, what happens? Does that prevent the\nrest of the Hell's Fury text from resolving (i.e. agg damage and burn\nthe card)?"
+    },
+    {
+      "Author": "Vincent",
+      "Date": "Feb 4, 2010, 10:42:30\u202FAM",
+      "Body": "\uE5D3\n\nClanless independant vampire (the default)\nIt is not Baali so can't play BoC."
+    },
+    {
+      "Author": "botipeti",
+      "Date": "Feb 4, 2010, 11:38:16\u202FAM",
+      "Body": "\uE5D3\n\nWhat about Virolax Facility? Can it trigger its effect?\n\nVirolax Facility\nMaster: unique location.\nWhen a vampire you control with capacity above 7 is burned, burn this\ncard and search your crypt for a vampire with capacity below 5. Place\nthat vampire in your ready region with 1 blood. That vampire cannot\nact this turn."
+    },
+    {
+      "Author": "BeAst",
+      "Date": "Feb 4, 2010, 1:08:54\u202FPM",
+      "Body": "\uE5D3\n\nDoubtful, its a card that may block \"as a vampire\", not a vampire in\nits own right.\nta\nB"
+    },
+    {
+      "Author": "Aeschere",
+      "Date": "Feb 4, 2010, 1:53:32\u202FPM",
+      "Body": "It is not a vampire. It is just a card that is able to block as a\nvampire. The capacity is given for the sake of action modifiers that\ndeny younger/older vampires their block option.\n\nIt doesn't count as a minion otherwise and won't benefit/suffer from\nabilities that target other vampires (tribute to the master,\nbanishment, con. boon etc). Also it cannot be tapped with misdirection\nfor instance.\n\nUnleash hell's fury also mentions something about: Burn this CARD when\nthe block is successful so it won't trigger Facility since no vampire\nis being burned."
+    },
+    {
+      "Author": "Orange Devil",
+      "Date": "Feb 4, 2010, 6:40:59\u202FPM",
+      "Body": "\uE5D3\n\nI'm curious what cards interact with this card blocking as an infernal\nvampire? Any block fails kind of effects that specify infernals being\nexcluded or specifically included? (Ah, True Faith I guess, any\nothers?)"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 4, 2010, 6:54:48\u202FPM",
+      "Body": "\uE5D3\n> Clanless independent vampire (the default)\n\n> It is not Baali so can't play BoC.\n\nCorrect."
+    },
+    {
+      "Author": "Salem",
+      "Date": "Feb 5, 2010, 9:52:15\u202FAM",
+      "Body": "\uE5D3\n\nNotorious Brutality\nType: Action Modifier\nRequires: sabbat,capacity above 7\nCost: 1 blood\nRequires a Sabbat vampire with capacity above 7. Only usable as the\naction is announced.\nNon-infernal vampires with capacity less than 6 cannot block this action.\n\nRarity: SoC:C\n\nhmm...not quite relevant, as it's capacity is above 5 anyway. But I\nguess True Faith still applies, plus gives more interesting interactions\ndown the line with new cards...\n\n--\nsalem\n(replace 'hotmail' with 'gmail' to email)"
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Feb 5, 2010, 9:38:32\u202FAM",
+      "Body": "Orange Devil <orang...@home.nl> wrote:\n>I'm curious what cards interact with this card blocking as an infernal\n>vampire? Any block fails kind of effects that specify infernals being\n>excluded or specifically included? (Ah, True Faith I guess, any\n>others?)\n\nNotorious Brutality prevents low-cap non-infernals from blocking. This\npseudo-vampire is a high enough cap that it's not relevant, but...\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 10, 2010, 1:33:56\u202FPM",
+      "Body": "Hi,\n\n- Can the acting minion play Kiss of Ra at superior on an attempt to\nblock from Unleash Hell's Fury ?\nIf he can, which one is it -\na/ Unleash Hell's Fury be placed in the \"controlled by not ready\"\nregion,\n\n- Can Elder Impersonation sup' be played against Unleash Hell's\nFury?\nIf Elder Impersonation is played against Unleash Hell's Fury, can\nthe card attempt to block anew ?\n(I'm not sure it would be the \"same minion\" if triggered a second\ntime).\n\n- If Faceless Night sup' is played on an attempt to block with\nUnleash Hell's Fury, and the attempt is not successful, is the card\ntapped?\n\nThanks,\nPascal.\n\n~~\n\nUnleash Hell's Fury\nCardtype: Action\nDiscipline: Daimonium (Burn option)\nCost: 2 pool\n+1 stealth action. Requires an infernal vampire. Unique.\n(dai): Put this card in play. This card may attempt to block a (D)\naction against you and is considered a 9-capacity infernal vampire\nwith +2 intercept during that attempt. If successful, the action\nminion takes 1 unpreventable aggravated damage and this card is\nburned.\n(DAI): As above and untap this vampire.\n\nElder Impersonation\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Obfuscate\n[obf] +1 stealth.\n[OBF] Only usable when a minion attempts to block. The attempt fails\n(do not tap that blocking minion). That minion cannot attempt to block\nthis action again.\n\nFaceless Night\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] +1 stealth.\n[OBF] +1 stealth, and any minion who attempts to block this action and\nfails becomes tapped when the action is resolved (before resolving the\naction).\n\nThe Kiss of Ra\nCardtype: Action Modifier\nCost: 3 blood\nDiscipline: Fortitude\nOnly usable when a vampire who does not have Fortitude attempts to\nblock this acting minion.\n[for] The block attempt is canceled, the blocking vampire burns 2\nblood, and the current action is ended (without combat).\n[FOR] As above, and send the blocking vampire to torpor."
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 10, 2010, 1:38:10\u202FPM",
+      "Body": "Hi,\n[sorry for the previous post, I accidently hit \"Send\" when trying to\ninsert tabulations ...]\n\n - Can the acting minion play Kiss of Ra at superior on an attempt to\nblock from Unleash Hell's Fury ?\n    If he can, which one is it -\n\na/ Unleash Hell's Fury is placed in the \"controlled by not ready\"\nregion\nb/ Unleash Hell's Fury stops faking being a vampire when KoR reads\n\"the blockin attempt is cancelled\", and is therefore not affected by\nthe rest of the card\n\n - Can Elder Impersonation sup' be played against  Unleash Hell's\nFury?\n\n   If Elder Impersonation sup' is played against Unleash Hell's Fury,\n\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Feb 10, 2010, 1:58:26\u202FPM",
+      "Body": "On Feb 10, 7:38 am, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n>   - Can the acting minion play Kiss of Ra at superior on an attempt to\n>  block from Unleash Hell's Fury ?\n\nYes.\n\n>      If he can, which one is it -\n>  a/ Unleash Hell's Fury is placed in the \"controlled by not ready\"\n>  region\n>  b/ Unleash Hell's Fury stops faking being a vampire when KoR reads\n> \"the blockin attempt is cancelled\", and is therefore not affected by\n> the rest of the card\n\nb. sounds easier to handle.\n\n>   - Can Elder Impersonation sup' be played against  Unleash Hell's\n>  Fury?\n\nYes.\n\n>     If Elder Impersonation sup' is played against Unleash Hell's Fury,\n> can\n>  the card attempt to block anew ?\n>     (I'm not sure it would be the \"same minion\" if triggered a second\n>  time).\n\nNo. It would be the same minion.\n\n>   - If Faceless Night sup' is played on an attempt to block with\n>  Unleash Hell's Fury, and the attempt is not successful, is the card\n>  tapped?\n\nTapped, no. It's not a minion when the FN effect comes to tap the\nminion.\nBut it wouldn't matter. The card doesn't need to be untapped in order\nto attempt to block."
+    },
+    {
+      "Author": "Dasein",
+      "Date": "Feb 11, 2010, 4:50:24\u202FAM",
+      "Body": "> >   - If Faceless Night sup' is played on an attempt to block with\n> >  Unleash Hell's Fury, and the attempt is not successful, is the card\n> >  tapped?\n>\n> Tapped, no. It's not a minion when the FN effect comes to tap the\n> minion.\n> But it wouldn't matter. The card doesn't need to be untapped in order\n> to attempt to block.\n\nReally? Why not? When it's attempting to block, it's a vampire, and\nvampires need to be tapped to attempt to block. Although I guess he\ncan only *become* a vampire if he attempts to block...\n\nMore questions around this weird card.\n\n- When the Unleash card attempts to block as a vampire, can I\nHeidelberg a Sports Bike onto him?\nIf the answer is yes, then\n- what happens if the block attempt succeeds? I'm guessing Sports\nBike burns when he does?\n- what happens if the block attempt fails? I'm guessing the Sports\nBike burns when he stops being a vampire?\n\n- If an acting vampire has a Dominion card on him, I'm guessing the\nUnleash card can't attempt to block, since doing so requires burning\nblood, of which he has none?\nIf the answer is yes, then is there a window when he has become a\nvampire but before he has failed to attempt to block during which he\ncan have blood Heidelberged onto him?\n\n- If an acting vamprie plays Crocodile Tongue on the Unleash vampire,\ncan I Heidelberg blood onto him for him to burn to cancel the card?\n\n- If an acting vampire is blocked by an Unleash vampire, what happens\nif the acting minion plays a Change of Target?\n\n- Can the Unleash card blocking as a vampire play a Coterie Tactics?\nif so, can I name a second vampire to be the blocking vampire? If so,\nwhat happens after resolving the action?\n\nDominion\nCardtype: Master\nMaster.\nPut this card on a Black Hand vampire. Vampires must burn 1 blood to\nattempt to block this Black Hand vampire. A vampire can have only one\nDominion.\n\nCoterie Tactics\nCardtype: Reaction\nChoose another ready untapped vampire you control of the same sect as\nthis reacting vampire. These two vampires attempt to block, using the\nsum of their intercept to see if the block succeeds. If successful,\nboth tap and then you choose one to be the blocking vampire (and the\nother ceases to be blocking).\n\nCrocodile's Tongue\nCardtype: Action Modifier\nDiscipline: Auspex\n[aus] Only usable when an ally or a younger vampire attempts to block.\nThat block is canceled (the minion is not tapped). The blocking\nminion's controller cannot attempt to block this action again. The\nblocking minion can cancel this card by burning a blood or life.\n[AUS] As above, but canceling this card requires an additional blood\nor life.\n\nChange of Target\nCardtype: Action Modifier\nOnly usable when this acting minion is blocked (play before combat, if\nany). Untap the acting minion, do not tap the blocking minion, and end\nthe current action (it is not successful). This minion cannot perform\nthe same action again this turn."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Feb 11, 2010, 4:59:13\u202FAM",
+      "Body": "On Feb 10, 9:50 pm, Dasein <dasein2...@hotmail.com> wrote:\n> More questions around this weird card.\n>\n> - When the Unleash card attempts to block as a vampire, can I\n> Heidelberg a Sports Bike onto him?\n\nNo; you cannot use Heidleberg during an action, only between them.\n\n> If the answer is yes, then\n>   - what happens if the block attempt succeeds? I'm guessing Sports\n> Bike burns when he does?\n>   - what happens if the block attempt fails? I'm guessing the Sports\n> Bike burns when he stops being a vampire?\n\nBoth moot.\n\n> - If an acting vampire has a Dominion card on him, I'm guessing the\n> Unleash card can't attempt to block, since doing so requires burning\n> blood, of which he has none?\n\nRight.\n\n> If the answer is yes, then is there a window when he has become a\n> vampire but before he has failed to attempt to block during which he\n> can have blood Heidelberged onto him?\n\nDoubly moot.\n\n> - If an acting vamprie plays Crocodile Tongue on the Unleash vampire,\n> can I Heidelberg blood onto him for him to burn to cancel the card?\n\nNo; see above.\n\n-John Flournoy"
+    },
+    {
+      "Author": "Frederick Scott",
+      "Date": "Feb 11, 2010, 5:23:46\u202FAM",
+      "Body": "IANLSJ, but...\n\n\"Dasein\" <dasei...@hotmail.com> wrote in message\nnews:fa3731f2-9c9b-4ffd...@s25g2000prd.googlegroups.com...\n\n> > > - If Faceless Night sup' is played on an attempt to block with\n> > > Unleash Hell's Fury, and the attempt is not successful, is the card\n> > > tapped?\n> >\n> > Tapped, no. It's not a minion when the FN effect comes to tap the\n> > minion.\n> > But it wouldn't matter. The card doesn't need to be untapped in order\n> > to attempt to block.\n>\n> Really? Why not? When it's attempting to block, it's a vampire, and\n> vampires need to be tapped to attempt to block. Although I guess he\n> can only *become* a vampire if he attempts to block...\n\nYou just answered your own question. Card text does not refer to whether\nUHF is untapped or not, WRT its ability. Perhaps it would be more clear\nif it read, \"...is considered a 9-capacity UNTAPPED vampire...\"? But I\nthink that could be assumed. The \"tapped-ness\" of the card does not\nequate to the \"tapped-ness\" of the vampire it becomes.\n\n> More questions around this weird card.\n>\n> - When the Unleash card attempts to block as a vampire, can I\n> Heidelberg a Sports Bike onto him?\n\nI don't think there would be anything inherently wrong with using\nanother permanent's effect during the attempt to block. Not Heidelberg\nCastle, however. The final sentence on HC reads, \"Cannot be used\nduring an action.\" (If you were tapping Heidelberg Castle to move\nintercept retainers and/or equipment around to block an action already\ndeclared and still in progress, you should know that doesn't work.)\n\n> If the answer is yes, then\n> - what happens if the block attempt succeeds? I'm guessing Sports\n> Bike burns when he does?\n> - what happens if the block attempt fails? I'm guessing the Sports\n> Bike burns when he stops being a vampire?\n\nMoot.\n\n> - If an acting vampire has a Dominion card on him, I'm guessing the\n> Unleash card can't attempt to block, since doing so requires burning\n> blood, of which he has none?\n\nSounds reasonable to me.\n\n> If the answer is yes, then is there a window when he has become a\n> vampire but before he has failed to attempt to block during which he\n> can have blood Heidelberged onto him?\n\nAgain, moot. Heidelberg cannot be used during an action.\n\n> - If an acting vamprie plays Crocodile Tongue on the Unleash vampire,\n> can I Heidelberg blood onto him for him to burn to cancel the card?\n\nMoot.\n\n> - If an acting vampire is blocked by an Unleash vampire, what happens\n> if the acting minion plays a Change of Target?\n\nCard text of CoT: Acting minion untaps.\nCard text of UHF: Acting minion takes agg damage. UHF burns.\n\n> - Can the Unleash card blocking as a vampire play a Coterie Tactics?\n> if so, can I name a second vampire to be the blocking vampire? If so,\n> what happens after resolving the action?\n\nI would assume acting minion takes agg damage and UHF is once again\nburned. After all, these are the effects for UHF when a block is\nsuccessful, which are the same conditions as those which allow you\nto choose one vampire or the other to thereafter be the blocking\nvampires. If you choose UFH to be the blocking vampire thereafter,\nthe action would end regardless of what happened after the acting\nvampire took his damage. If you choose the other vampire and the\nacting vampire didn't go torpor somehow (e.g. Heart of Darkness),\nthen combat would ensue.\n\nI'm not sure how sect is determined for UHF, though.\n\n\uE5D3\n\nFred"
+    }
+  ]
+}

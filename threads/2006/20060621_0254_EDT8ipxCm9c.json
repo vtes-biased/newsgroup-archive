@@ -1,0 +1,22 @@
+{
+  "ThreadId": "EDT8ipxCm9c",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/EDT8ipxCm9c",
+  "Title": "[LSJ] Brinksmanship Q",
+  "Messages": [
+    {
+      "Author": "davey!",
+      "Date": "Jun 21, 2006, 2:54:08\u202FAM",
+      "Body": "Card Text:\n\n> Political Card -- Worth 1 Vote. Called by any vampire at +1 stealth.\n>\n> If this referendum is successful, put this card in play.\n>\n> Any Methuselah who has exhausted his or her library and begins his or\n> her untap phase with less than a full hand must attempt to withdraw.\n> On that Methuselah's next untap phase, if the withdrawal fails, that\n> Methuselah is ousted. If any Methuselah successfully withdraws, you are\n> ousted.\n\nThe question is, is the \"if the withdrawl fails\" clause an effect of the\ncard being in play, or a long-term component of the \"must attempt to\nwithdraw\" effect?\n\nFor example, suppose the play order is:\n\nAnna -> Betty -> Carla -> Diana\n\nOn turn 11, Betty plays Briknksmanship.\n\nOn turn 12, Carla is forced to attempt to withdraw, but then she\ninvalidates her attempt (such as by entering combat.)\n\nOn turn 14, Anna ousts Betty, burning the Brinksmanship.\n\nThe next turn is Carla's, and during her untap phase it is apparent she\nfailed to withdraw. Would Carla be ousted at this point?"
+    },
+    {
+      "Author": "quetzalcoatl",
+      "Date": "Jun 21, 2006, 5:15:09\u202FPM",
+      "Body": "\uE5D3\n\nBrinksmanship is a minion card ... it is played by a particular minion\n... and thus it is controlled by the playing Methuselah. If that\nMethuselah (Betty in your example) is ousted, then that card and its\neffects are removed from the game.\n\nSee section 9.1 in the rulebook."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 21, 2006, 5:45:53\u202FPM",
+      "Body": "'davey!' wrote:\n> Card Text [of Brinksmanship]:\n\n>\n> > Political Card -- Worth 1 Vote. Called by any vampire at +1 stealth.\n> > If this referendum is successful, put this card in play.\n> > Any Methuselah who has exhausted his or her library and begins his or\n> > her untap phase with less than a full hand must attempt to withdraw.\n> > On that Methuselah's next untap phase, if the withdrawal fails, that\n> > Methuselah is ousted. If any Methuselah successfully withdraws, you are\n> > ousted.\n>\n> The question is, is the \"if the withdrawl fails\" clause an effect of the\n> card being in play, or a long-term component of the \"must attempt to\n> withdraw\" effect?\n\nA lingering effect of the \"must attempt to withdraw\" effect (setting up\na conditional effect that will occur \"on that Methuselah's next untap\nphase\", if the condition is met).\n\nThe \"must attempt to withdraw\" clause is an effect of the card being in\nplay, of course.\n\nThe classic example of the card-in-play's \"next phase\" template is\nLeandro.\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad/msg/8e36e4de3e365294\n\nSimilarly Flash Grenade, Mummy's Tongue, and Qufur (obviously).\nAnd also Highway Haven, Chill of Oblivion (if the vampire Freaks and\nthen gets into combat and burns the Chill, the Chill still untaps him\nin the discard phase), clan-based Crusades (will untap the vampire even\nif contested), and Blessing of the Name, Command, and Concert Tour\n(interesting only in very odd corner cases), maybe others.\n\n> For example, suppose the play order is:\n>\n> Anna -> Betty -> Carla -> Diana\n>\n> On turn 11, Betty plays Briknksmanship.\n>\n> On turn 12, Carla is forced to attempt to withdraw, but then she\n> invalidates her attempt (such as by entering combat.)\n>\n> On turn 14, Anna ousts Betty, burning the Brinksmanship.\n>\n> The next turn is Carla's, and during her untap phase it is apparent she\n> failed to withdraw. Would Carla be ousted at this point?\n\nYes."
+    }
+  ]
+}

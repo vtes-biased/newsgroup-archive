@@ -1,0 +1,17 @@
+{
+  "ThreadId": "tei4phIyid4",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/tei4phIyid4",
+  "Title": "[misc] seating in tournaments: a mathmatical approach.",
+  "Messages": [
+    {
+      "Author": "vermillian",
+      "Date": "Apr 3, 2002, 10:04:05\u202FPM",
+      "Body": "After some confusion I could imagine and have seen in tournaments, and\nfrom my recent self-torture on taking a class in combinatorics, I have\nrealized that seating for a tournament for VTES would make a good\ncombinatorics problem...\n\nHas anyone found a mathmatical approach to seating multiples of 5\npeople onto a table consisting of 5 people, three different ways, such\nthat, for all people, the person to the left and right of them is\ndifferent each time, and that for any given person, they are seated at\nthe same position, at most, once?\n\nWould be nice to have a consistant method of doing this (assuming one\ndoes not already exist). It would be nice to know if an answer doesn't\nalready exist, so I can worry myself about more interesting\ncombinatoric problems (like the ones I'm required to do for homework.\n:))\n\n~SV"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Apr 3, 2002, 10:18:11\u202FPM",
+      "Body": "\uE5D3\n\nIf there are 5+ tables, then yes, there is a straight-forward algorithm\nfor producing a \"perfect\" seating arrangment that meets your stated\ngoals and moreover makes it so that each pair of players never share\na table more than once.\n\nFor 1-4 tables, I know of no such algorithm.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

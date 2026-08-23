@@ -1,0 +1,37 @@
+{
+  "ThreadId": "8V-0-G9cMZA",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/8V-0-G9cMZA",
+  "Title": "[LSJ] Spying Mission vs Telepathic Counter",
+  "Messages": [
+    {
+      "Author": "JH",
+      "Date": "Nov 23, 2009, 3:28:08\u202FPM",
+      "Body": "This came up on IRC today.\n\nCan Telepathic Counter (or other similar bleed reduction) be played or\nDummy Corporation burned *after* Spying Mission fires for it's +2\nbleed?\n\nI guess the answer is no due to this ruling found on the WW site:\n\nSpying Mission\n# Is only played after all Reaction cards (as well as other Action\nModifiers) have been played. In particular, Telepathic Counter no\nlonger 'beats' Spying Mission unless it is played first (and the bleed\nis not boosted back to positive). [TOM 19960303] [ ]"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 23, 2009, 3:42:31\u202FPM",
+      "Body": "\uE5D3\n\nRight. Bleed reducers are played before resolution."
+    },
+    {
+      "Author": "Powerlord",
+      "Date": "Nov 23, 2009, 5:13:12\u202FPM",
+      "Body": "\uE5D3\n\nI'm sorry LSJ, but once SM is in play (played on a previous round),\nthis rulling doesn't apply, or does it?\n\nBurning SM after a successfull bleed is not the same as playing it\n(and placing it on the minion), so you should be able to reduce the\nbleed \"modified\" by SM after it as been \"burned\". Or burning the SM is\nthe same as playing it?\n\nRicardo Marta\nPrince of Lisboa\nPortugal"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 23, 2009, 5:22:34\u202FPM",
+      "Body": "\uE5D3\n\nThey're different things, clearly.\n\nBut it can only be played upon reaching resolution.\nAnd it only burns when the bleed is successful (in action resolution).\n\nThe window to play (another) one is definitely before the window to burn one."
+    },
+    {
+      "Author": "Powerlord",
+      "Date": "Nov 23, 2009, 5:31:36\u202FPM",
+      "Body": "\uE5D3\n> The window to play (another) one is definitely before the window to burn one.- Ocultar texto citado -\n>\n> - Mostrar texto citado -\n\nok, got it\n\n\uE5D3"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 24, 2009, 11:58:11\u202FPM",
+      "Body": "\uE5D3\n\nJH,\nDon't forget that if a bleed action is for a total of 0 or less it is\nan unsuccessful BLEED but still is a successful action. So Spying\nMission will not \"autoburn\" unless the bleed action resolves for 1 or\nmore.\n\nSpying Mission\nType: Action Modifier\nRequires: Obfuscate\n[obf] +1 stealth.\n[OBF] Only usable when a bleed would be successful. The bleed burns no\npool; it is unsuccessful. Instead, put this card on the acting\nvampire. The next time this vampire successfully bleeds the same\nMethuselah, burn this card for +2 bleed."
+    }
+  ]
+}

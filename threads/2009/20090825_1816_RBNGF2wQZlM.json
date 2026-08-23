@@ -1,0 +1,27 @@
+{
+  "ThreadId": "RBNGF2wQZlM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/RBNGF2wQZlM",
+  "Title": "Timing of Target Hand",
+  "Messages": [
+    {
+      "Author": "Shidara",
+      "Date": "Aug 25, 2009, 6:16:08\u202FPM",
+      "Body": "We had a situation come up in a recent game that needs a bit of overt\nexplanation:\n\n\"Target Hand: Aim. Play when choosing a strike. The opposing minion\nmay discard two combat cards [COMBAT] to cancel this card. If any\ndamage from this strike is successfully inflicted on the opposing\nminion, he or she gets -1 strength this action, and you may destroy a\nweapon he or she has. A minion may play only one aim each strike.\"\n\nDoes the -1 strength from Target Hand apply to the *currently\nresolving* strike resolution? For example:\n\nI do a basic Strength 1 hand strike with Target Hand vs an opposing\nvampire using a basic Strength 1 hand strike. Does my opponent deal 1\nor 0 damage to my vampire *this* round?\n\nAll the other Target cards reference future stages of combat or the\ngame, but only Target Had could potentially reference the current\nstage of the combat.\n\nThanks!\n\nShidara"
+    },
+    {
+      "Author": "Chris Berger",
+      "Date": "Aug 25, 2009, 6:25:03\u202FPM",
+      "Body": "On Aug 25, 11:16 am, Shidara <shida...@mac.com> wrote:\n> We had a situation come up in a recent game that needs a bit of overt\n> explanation:\n>\n> \"Target Hand: Aim. Play when choosing a strike. The opposing minion\n> may discard two combat cards [COMBAT] to cancel this card. If any\n> damage from this strike is successfully inflicted on the opposing\n> minion, he or she gets -1 strength this action, and you may destroy a\n> weapon he or she has. A minion may play only one aim each strike.\"\n>\n> Does the -1 strength from Target Hand apply to the *currently\n> resolving* strike resolution?  For example:\n>\n\nOnly if you do it with first strike."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 25, 2009, 6:58:38\u202FPM",
+      "Body": "\uE5D3\n\nNo.\n\n> Only if you do it with first strike.\n\nIt still wouldn't apply to any currently-resolving strike (like the opposing\nminion's strike dealt with first strike).\n\nIt does apply to futurely-resolving strikes, of course. So if A plays Target\nHand on a strike resolving with first strike and B chooses a default (non-first\nstrike) hand strike, and A's strike successfully inflicts damage on B, then the\nTarget Hand will reduce the damage inflicted by B's hand strike.\n\n(Example restored):\n\n>> I do a basic Strength 1 hand strike with Target Hand vs an opposing\n>> vampire using a basic Strength 1 hand strike. Does my opponent deal 1\n>> or 0 damage to my vampire *this* round?\n\n1 damage."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 26, 2009, 1:20:46\u202FAM",
+      "Body": "\uE5D3\n\nIt will also reduce their strength for any additional strikes they\ntake during the round by corrollary."
+    }
+  ]
+}

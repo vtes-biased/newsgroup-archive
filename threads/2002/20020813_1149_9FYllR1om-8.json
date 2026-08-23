@@ -1,0 +1,57 @@
+{
+  "ThreadId": "9FYllR1om-8",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/9FYllR1om-8",
+  "Title": "Some questions form a confused player",
+  "Messages": [
+    {
+      "Author": "Guru",
+      "Date": "Aug 13, 2002, 11:49:23\u202FAM",
+      "Body": "Hi,\n\nI have some questions concerning timing in VTES:\n\n1) Karimana Benghazi has a Magnum on her. Player controlling her has\nuntapped Heidelburg Castle. His predator plays Anachronism on\nKarimana. Can a player tap HC in 'response' to Anachronism? Or not?\nWhat with Constantin, Baro of the Caravan special ability? He declares\nusing it, can I tap HC in response? If so, what happens to Baro, does\nhis action fizzles?\n\n2) Can a wampire with OBF in torpor play Cloak the Gathering at\nsuperior?\n\n3) What happens when I play successfully a Seeds of Corruption card on\nKarimana Benghazi with some counters on her (from her special\nability)? Does the player controlling her have to discard cards and\nhave original hand size till she gets back?"
+    },
+    {
+      "Author": "Flux",
+      "Date": "Aug 13, 2002, 12:05:30\u202FPM",
+      "Body": "Guru wrote:\n> Hi,\n>\n> I have some questions concerning timing in VTES:\n>\n> 1) Karimana Benghazi has a Magnum on her. Player controlling her has\n> untapped Heidelburg Castle. His predator plays Anachronism on\n> Karimana. Can a player tap HC in 'response' to Anachronism? Or not?\n\nNo time. Anachronism resolves immmediately (like most cards)\n\n> What with Constantin, Baro of the Caravan special ability? He declares\n> using it, can I tap HC in response? If so, what happens to Baro, does\n> his action fizzles?\n\nYou can't tap HC during an action (card text). After the action is\ndeclared it has already begun, so you can't use the HC.\n\n> 2) Can a wampire with OBF in torpor play Cloak the Gathering at\n> superior?\n\nNo, card text ('Usable by a ready vampire...')\n\n> 3) What happens when I play successfully a Seeds of Corruption card on\n> Karimana Benghazi with some counters on her (from her special\n> ability)? Does the player controlling her have to discard cards and\n> have original hand size till she gets back?\n\nI'd say yes, but precedent by Tegyrius seems to suggest that the\ncounters themselves increase the hand size, regardless of her special\nbeing active (ie, the last sentence on her special defines the\nproperties of the counters, and those are not affected by Seeds).\n\nLSJ?\n\nFlux"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 13, 2002, 1:59:15\u202FPM",
+      "Body": "Flux wrote:\n> [snip correctness]\n\n> > 3) What happens when I play successfully a Seeds of Corruption card on\n> > Karimana Benghazi with some counters on her (from her special\n> > ability)? Does the player controlling her have to discard cards and\n> > have original hand size till she gets back?\n>\n> I'd say yes, but precedent by Tegyrius seems to suggest that the\n> counters themselves increase the hand size, regardless of her special\n> being active (ie, the last sentence on her special defines the\n> properties of the counters, and those are not affected by Seeds).\n>\n> LSJ?\n\n\"While she is ready, your hand size is +X, where X is the number of research\ncounters on her.\"\n\nHer text imparts no ability to the counters.\nHer special is deactivated by Seeds.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Aug 13, 2002, 2:00:59\u202FPM",
+      "Body": "Flux wrote:\n\n> I'd say yes, but precedent by Tegyrius seems to suggest that the\n\n> counters themselves increase the hand size, [...]\n\nWhy and how do you put counters on Tegyrius ??"
+    },
+    {
+      "Author": "Flux",
+      "Date": "Aug 13, 2002, 2:21:45\u202FPM",
+      "Body": "\uE5D3\n\nTegyrius' ability allows any Assamite to take an action to put an\nAllegiance counter on themselves. Those were the counters I was refering\nto, since LSJ has clarified that Assamites with those counters will\nstill be Camarilla even if Tegyrius leaves play.\n\nFlux"
+    },
+    {
+      "Author": "Flux",
+      "Date": "Aug 13, 2002, 2:16:34\u202FPM",
+      "Body": "LSJ wrote:\n> Flux wrote:\n>\n>>[snip correctness]\n>\n>\n>>>3) What happens when I play successfully a Seeds of Corruption card on\n>>>Karimana Benghazi with some counters on her (from her special\n>>>ability)? Does the player controlling her have to discard cards and\n>>>have original hand size till she gets back?\n>>\n>>I'd say yes, but precedent by Tegyrius seems to suggest that the\n>>counters themselves increase the hand size, regardless of her special\n>>being active (ie, the last sentence on her special defines the\n>>properties of the counters, and those are not affected by Seeds).\n>>\n>>LSJ?\n>\n>\n> \"While she is ready, your hand size is +X, where X is the number of research\n> counters on her.\"\n>\n> Her text imparts no ability to the counters.\n> Her special is deactivated by Seeds.\n\nI fail to see what differs in her text to make this her own ability (as\nopposed to Tegyrius).\n\nJust because it refers to her specifically, it could just mean that the\ncounter's ability would be void in any other vampire (but would still\nexist).\n\nThis may have been asked when the Tegyrius question came up, but I'll\nask again: what does a counter 'remember'? Why would Allegiance counters\n'remember' to give Camarilla status to 'any vampire', and Research\ncounters fail to remember to give you +X hand size when on Kanimana and\n'while she is ready'?\n\nFlux"
+    },
+    {
+      "Author": "tetragrammaton",
+      "Date": "Aug 13, 2002, 10:07:37\u202FPM",
+      "Body": "\"Flux\" <fl...@netc.pt> ha scritto nel messaggio\nnews:3D58F8A2...@netc.pt...\n\uE5D3\n\nMm, don't know for sure about kanmana:\nanyway tegyrius' counters don't even need tegyrius to be in play.\n\"any assamite with an alliance counter is a camarilla vampire\";\nit has nothing to do with tegyrius' specia:.\nhis special is just to put alliance counters in play.\n\nhope this helps\n\nciao\n\nEmiliano, v:ekn prince of Rome\n>\n>\n> Flux\n>"
+    },
+    {
+      "Author": "reyda",
+      "Date": "Aug 14, 2002, 12:56:02\u202FAM",
+      "Body": "\uE5D3\n\nunderstood =)\nThe counter themselves represent the fact that the assamites are camarilla,\nthen ..."
+    },
+    {
+      "Author": "Guru",
+      "Date": "Aug 14, 2002, 9:55:41\u202FAM",
+      "Body": "Thanks for your answers and help :)\nI am also confused on whether Fast Reactions played after a combat\nended via Mirror Image (chemistry) would cancel the special of MI?\n\nI would be very grateful if anyone can post a link to this specific\nruling on combat ends and such cards like Fast Reaction and Psyche.\n\nThanks in advance,\nGurus, VTES player from Poland."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Aug 14, 2002, 1:48:59\u202FPM",
+      "Body": "Guru wrote:\n>\n> Thanks for your answers and help :)\n> I am also confused on whether Fast Reactions played after a combat\n> ended via Mirror Image (chemistry) would cancel the special of MI?\n\nIt would.\nAny new combat or continuation of combat would fizzle the \"continue\naction\" effect.\n\n> I would be very grateful if anyone can post a link to this specific\n> ruling on combat ends and such cards like Fast Reaction and Psyche.\n\nhttp://groups.google.com/groups?q=msgid%3a3CD0043...@white-wolf.com\n\n\uE5D3"
+    }
+  ]
+}

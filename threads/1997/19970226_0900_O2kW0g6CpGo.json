@@ -1,0 +1,32 @@
+{
+  "ThreadId": "O2kW0g6CpGo",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/O2kW0g6CpGo",
+  "Title": "Anathema and Mariel question",
+  "Messages": [
+    {
+      "Author": "Brian E. Wellington",
+      "Date": "Feb 26, 1997, 9:00:00\u202FAM",
+      "Body": "This could have happened in a game I was in a couple weeks ago, and I was\njust wondering what would happen. And now that there's a Net Rep, there\ncan be an official answer...\n\nIgnacio has an Anathema and a skill card on him, and 1 blood.\nMurat (an Archon) attacks Ignacio.\nAcross the table, Mariel taps to end combat and do 1 damage to each vampire.\nThis reduces Ignacio to 1 blood. So, which of the following happens?\n\na) No one gains 4 pool\nb) Murat's controller gains 4 pool\nc) Mariel's controller gains 4 pool\n\nHere's the relevant card text:\n\nMariel, Lady Thunder:\nBefore range is chosen, tap Mariel to end any combat that does not involve\nher. This inflicts 1 damage to each participating minion and retainer.\n\nAnathema:\nChoose a ready vampire. If the vote is successful, put this card on that\nvampire. If that vampire is reduced to zero blood due to combat, he or\nshe is burned and the Methuselah controlling the opposing minion gains\npool equal to the burned vampire's capacity.\n\nAnd my thoughts:\n\nSo, I'm not sure if Anathema even applies, since combat is over. But\nMariel's ability is a combat effect, so I think it should. Then,\nis the \"opposing\" minion Murat, or is it Mariel, since combat is\ntechnically over by this point and Mariel is dealing the damage?\nBut according to the text on Mariel, she's not dealing the damage,\nit is just inflicted, so there'd be no opposing minion.\n\nAny ideas? LSJ?\n\nBrian"
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Feb 27, 1997, 9:00:00\u202FAM",
+      "Body": "\uE5D3\n\nSince Mariel's damage would be aggravated during a Dawn Operation\n[RTR 941104], the damage is apparently dealt during combat.\n\nSo, Anathema would still apply, since the damage is done during combat.\nSo, the controller of the opposing minion (Murat) gains 4 pool.\n\n--\nL. Scott Johnson (vte...@regency.wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "Jeffrey Endres",
+      "Date": "Feb 28, 1997, 9:00:00\u202FAM",
+      "Body": "Brian E. Wellington wrote:\n>\n[A very good question about Anathema and Mariel's special]\n>\n\nI can't see an answer from LSJ so I'll have a crack at it and see how\nclose I get. :-)\n\nIt would seem the damage dealt to the vampire with Anathema from\nMariel's special comes results from her special and not the combat.\n\nie. Combat ends. One damage is inflicted to both minions.\n\nThe damage is outside of combat, like a cryptic mission.\n\n--\nJeffrey Endres Undergrad B. Eng (Aerospace Avionics)\nQueensland University of Technology\n\"All human actions are equivalent ... and ...\nall are on principle doomed to failure.\"\nJean-Paul Sartre (Being and Nothingness, Conclusion, sct. 2)"
+    },
+    {
+      "Author": "Dave Green",
+      "Date": "Mar 3, 1997, 9:00:00\u202FAM",
+      "Body": "L. Scott Johnson (vte...@regency.wizards.com) wrote:\n: Brian E. Wellington wrote:\n\n: Since Mariel's damage would be aggravated during a Dawn Operation\n\n: [RTR 941104], the damage is apparently dealt during combat.\n\nAs an aside question which should clarify this a bit more, at\nleast in my mind, would a dawn op on the action to burn Path of\nBlood make the damage taken aggravated, or only damage dealt as\na result of combat?\n\n-Dave Green"
+    },
+    {
+      "Author": "L. Scott Johnson",
+      "Date": "Mar 3, 1997, 9:00:00\u202FAM",
+      "Body": "\uE5D3\n\nDawn Operation only kicks in in the action is blocked (card text),\nand only affects damage dealt during the *resulting* combat (i.e.,\nthe combat resulting from the block).\n\nIt would not make the damage from a successful Path of Blood burning\n(or successful Cryptic Mission) aggravated, since the action isn't\nblocked.\n\n\uE5D3"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "ThreadId": "bmuKEg8JG30",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/bmuKEg8JG30",
+  "Title": "[LSJ] rules question ghoul retainer",
+  "Messages": [
+    {
+      "Author": "pallando",
+      "Date": "Jun 28, 2004, 8:02:37\u202FAM",
+      "Body": "The following situation a vampire has a Ghoul Retainer and a Weapon. The\nvampire strikes hands, the Ghoul Retainer uses the weapon. The opposing\nvampire destroys the weapon with first strike. Will the Ghoul retainer now\ndo his default 1 damage or none?\n\nregards\n\npallando\n---------------\npallando(at)gmx(dot)at"
+    },
+    {
+      "Author": "Pepijn",
+      "Date": "Jun 28, 2004, 12:52:13\u202FPM",
+      "Body": "\"pallando\" <m...@privacy.net> wrote in message news:<2k9qjsF...@uni-berlin.de>...\n\n> The following situation a vampire has a Ghoul Retainer and a Weapon. The\n> vampire strikes hands, the Ghoul Retainer uses the weapon. The opposing\n> vampire destroys the weapon with first strike. Will the Ghoul retainer now\n> do his default 1 damage or none?\n\nNone. The controller declared a strike, which get's cancled by the\ndestroy weapon with first strike, so no strike then.\nGhoul retainer follows same rulings as a vampire would."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jun 28, 2004, 1:00:15\u202FPM",
+      "Body": "pallando wrote:\n> The following situation a vampire has a Ghoul Retainer and a Weapon. The\n> vampire strikes hands, the Ghoul Retainer uses the weapon. The opposing\n> vampire destroys the weapon with first strike. Will the Ghoul retainer now\n> do his default 1 damage or none?\n\nThe Retainer cannot use the weapon at strike declaration.\n\nStrike declaration (aka \"Choose Strikes\"):\nA: I strike hands (for 1).\nB: I strike steal/destroy weapon at first strike.\n\nStrike resolution:\nFirst Strike:\nResolve the incoming steal/destroy weapon strike against A.\n\nOther strike resolution:\nHands for 1 on B and Ghoul Retainer's effect (for 1 unless A has another\nweapon).\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Colin McGuigan",
+      "Date": "Jun 28, 2004, 3:40:21\u202FPM",
+      "Body": "Pepijn wrote:\n> None. The controller declared a strike, which get's cancled by the\n> destroy weapon with first strike, so no strike then.\n> Ghoul retainer follows same rulings as a vampire would.\n\nIncorrect. The Ghoul Retainer does not technically declare it's effect\nuntil strike resolution (by card text). So, the weapon gets destroyed\nin the first strike resolution, and the Ghoul Retainer is free to hands\nfor 1.\n\n--Colin McGuigan"
+    }
+  ]
+}

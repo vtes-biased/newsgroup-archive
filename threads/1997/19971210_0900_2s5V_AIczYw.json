@@ -1,0 +1,17 @@
+{
+  "ThreadId": "2s5V_AIczYw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/2s5V_AIczYw",
+  "Title": "Erosion vs. hand damage modifiers",
+  "Messages": [
+    {
+      "Author": "LSJ",
+      "Date": "Dec 10, 1997, 9:00:00\u202FAM",
+      "Body": "Ryan B. Collis\" <4r...@qlink.queensu.ca> wrote via e-mail:\n> This came up as I was testing a new deck: A vampire had \"Depravity\"\n> played on it (+1 hand damage w/each strike...) and one of my minions\n> played \"Erosion\" on that vampire (...That minion has 0 hand damage...).\n> Now, in Magic the order is last cast takes prescidence. Thus the +1 HD\n> would be removed by the Erosion. Is this the case? Likewise, does\n> erosion stop Potence and Lucky Blow strikes, or (as in Magic) are these\n> played ontop of THAT card, and thus are not effected by it. Thanks,\n\nGood question, Ryan. Hope you don't mind me posting the answer to\nthe newsgroup.\n\nAnyway: timing concerns are minimized in VtES by design (unlike some\nother games).\n\nErosion simply overrides the base hand damage that a minion has.\nAll modifiers to that base remain in effect, and merely start counting\nfrom the new base. (*)\n\nSo Zack North (with a base +1 hand damage) would be reduced to zero\nby erosion, while a Depravity-afflicted Gideon Fontain would do one\ndamage with a hand strike when erosion is played on him (zero plus\none for Depravity).\n\nRegardless of the above, strikes that do damage based on hand damage\n(like Potence strikes and Lucky Blow) would certainly not be \"erased\"\nby erosion - they would add to whatever the minion's hand damage was\nat the time.\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 11, 1997, 9:00:00\u202FAM",
+      "Body": "On VTES-L, David Pontes <l41...@ALFA.IST.UTL.PT> writes:\n> > Erosion simply overrides the base hand damage that a minion has.\n> > All modifiers to that base remain in effect, and merely start counting\n> > from the new base. (*)\n> >\n> > So Zack North (with a base +1 hand damage) would be reduced to zero\n> > by erosion, while a Depravity-afflicted Gideon Fontain would do one\n> > damage with a hand strike when erosion is played on him (zero plus\n> > one for Depravity).\n>\n\n> By your \"opinion\", the play of a Torn Signpost by an eroded\n> vampire is redundant, right?\n\nThey're both trying to set the same thing: the vampire's base hand\ndamage. So TS would win out, since it overrides the base that Erosion\nhad set.\n\nThe only problem stems from vampires like Zack who don't have a base\nhand damage of one to begin with. It seems like Erosion should wipe\nZack's bonus off, but that TS should still be modified by the bonus.\n\nSo, to keep things uniform, it looks like Erosion shouldn't cancel\nZack's +1 damage after all (just set his base to zero, for a total\nof 1).\n\n\uE5D3"
+    }
+  ]
+}

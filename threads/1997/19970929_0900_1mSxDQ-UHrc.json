@@ -1,0 +1,32 @@
+{
+  "ThreadId": "1mSxDQ-UHrc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/1mSxDQ-UHrc",
+  "Title": "old questions",
+  "Messages": [
+    {
+      "Author": "Thomas Stellmach",
+      "Date": "Sep 29, 1997, 9:00:00\u202FAM",
+      "Body": "This is a multi-part message in MIME format.\n--------------CF488C0A733BC68FAEEF9E38\nContent-Type: text/plain; charset=us-ascii; x-mac-type=\"54455854\"; x-mac-creator=\"4D4F5353\"\nContent-Transfer-Encoding: 7bit\n\nI will initiate a tourney here and have the following - old - questions:\n\nCan cross-table bleeds performed with d-bleed actions like govern the\nunaligned ?\n\nCan stolen blood in combat heal inflicted damage instantaneously to\nprevent the vampire from going to torpor because of getting too much\nnon-aggravated damage ?\n\nCan 1st strikes be dodged, what if the 1st strike is aggravated ?\n\nThanks for the support, Thomas Stellmach\n\n--------------CF488C0A733BC68FAEEF9E38\nContent-Type: text/x-vcard; charset=us-ascii; name=\"vcard.vcf\"\nContent-Transfer-Encoding: 7bit\nContent-Description: Card for Thomas Stellmach\nContent-Disposition: attachment; filename=\"vcard.vcf\"\n\nbegin: vcard\nfn: Thomas Stellmach\nn: Stellmach;Thomas\norg: TU Berlin\nemail;internet: soch...@sp.zrz.tu-berlin.de\nx-mozilla-cpt: ;0\nx-mozilla-html: FALSE\nend: vcard\n\n--------------CF488C0A733BC68FAEEF9E38--"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 29, 1997, 9:00:00\u202FAM",
+      "Body": "soch...@sp.zrz.tu-berlin.de wrote:\n> I will initiate a tourney here and have the following - old - questions:\n>\n\n> Can cross-table bleeds [be] performed with d-bleed actions like govern the\n> unaligned?\n\nYes (long-standing errata to both the Jyhad and the VtES rulebooks).\n\n> Can stolen blood in combat heal inflicted damage instantaneously to\n> prevent the vampire from going to torpor because of getting too much\n> non-aggravated damage?\n\nYes, if you remove the word instantaneously.\nFirst, if the blood stolen puts the vampire over his capacity, then\nthe excess immediately drains off.\nThen, when it comes time to heal damage (or prevent destruction), the\nvampire can use any blood he has - including blood that he just stole.\n\n> Can 1st strikes be dodged, what if the 1st strike is aggravated ?\n\nYes. The nature of the damage of the strike is irrelevant to Dodge.\n\n--\nL. Scott Johnson (vte...@wizards.com)\nOfficial VtES Net.Rep for Wizards of the Coast.\n(*) - Subject to review by Rules Team\n\n-------------------==== Posted via Deja News ====-----------------------\nhttp://www.dejanews.com/ Search, Read, Post to Usenet"
+    },
+    {
+      "Author": "Thomas Stellmach",
+      "Date": "Sep 29, 1997, 9:00:00\u202FAM",
+      "Body": "This is a multi-part message in MIME format.\n\n--------------9C187E5B738461382F424248\n\nContent-Type: text/plain; charset=us-ascii; x-mac-type=\"54455854\"; x-mac-creator=\"4D4F5353\"\nContent-Transfer-Encoding: 7bit\n\nLSJ wrote:\n\n> soch...@sp.zrz.tu-berlin.de wrote:\n\nsnip\n\n> > Can 1st strikes be dodged, what if the 1st strike is aggravated ?\n>\n> Yes. The nature of the damage of the strike is irrelevant to Dodge.\n>\n\nHmm. So what are they good for ? If I don't understand it wrong, it is:\n\nstep 1: 1st strike\nstep 2: strike\nstep 3: damage resolution\n\nand not\n\nstep 1: 1st strike\nstep 2: damage resolution\nstep 3: strike\nstep 4: damage resolution\n\nThanks, Thomas\n\n--------------9C187E5B738461382F424248\n\nContent-Type: text/x-vcard; charset=us-ascii; name=\"vcard.vcf\"\nContent-Transfer-Encoding: 7bit\nContent-Description: Card for Thomas Stellmach\nContent-Disposition: attachment; filename=\"vcard.vcf\"\n\nbegin: vcard\nfn: Thomas Stellmach\nn: Stellmach;Thomas\norg: TU Berlin\nemail;internet: soch...@sp.zrz.tu-berlin.de\nx-mozilla-cpt: ;0\nx-mozilla-html: FALSE\nend: vcard\n\n--------------9C187E5B738461382F424248--"
+    },
+    {
+      "Author": "Quicksilver",
+      "Date": "Oct 13, 1997, 9:00:00\u202FAM",
+      "Body": "Thomas Stellmach wrote:\n\n> > > Can 1st strikes be dodged, what if the 1st strike is aggravated ?\n> >\n> > Yes. The nature of the damage of the strike is irrelevant to Dodge.\n> >\n>\n> Hmm. So what are they good for ? If I don't understand it wrong, it is:\n>\n> step 1: 1st strike\n> step 2: strike\n> step 3: damage resolution\n>\n> and not\n>\n> step 1: 1st strike\n> step 2: damage resolution\n> step 3: strike\n> step 4: damage resolution\n>\n> Thanks, Thomas\n>\n\nYou got it wrong. Damage from a 1st strike resolves before damage\nfrom a normal strike. That is the one and only reason for performing\na 1st strike.\n\nIn affect it goes:\n\n1. Both parties declare strikes\n2. Resolve S:CE\n3. Resolve Dodges\n4. Resolve First Strikes\n5. Resolve Normal strikes\n\nNote you do not declare your 1st strike first, you resolve it first.\nAnd in spite of the names, a dodge is resolved before a First Strike.\nThe way it is written is a bit simplified since there usually is no\ndamage resolution when there is a S:CE. But there is in the case\nof a Dodge. Thus you can use a Taste of Vitae when Dodging but not\nwhen a S:CE is used (an exception is made in the case of Catatonic\nFear since it causes a damage resolution phase to occur anyway.\nI don't like that ruling!!)."
+    },
+    {
+      "Author": "LSJ (VtES Rep)",
+      "Date": "Oct 15, 1997, 9:00:00\u202FAM",
+      "Body": "Quicksilver wrote:\n> Thus you can use a Taste of Vitae when Dodging but not\n> when a S:CE is used (an exception is made in the case of Catatonic\n> Fear since it causes a damage resolution phase to occur anyway.\n> I don't like that ruling!!).\n\nYeah, sorry about that. That was a mis-ruling on my part.\nI CC'ed you when I realized the mistake, but I guess that\nmessage got detoured, sorry.\n\nAnyway - I had been overlooking the \"after strike resolution\"\non ToV's card text.\n\nYou cannot, in fact, play ToV after any S:CE, since there\nis no combat after strike resolution in which to play ToV.\n\nAgain, I apologize for missing the boat on that one.\n\n\uE5D3"
+    }
+  ]
+}

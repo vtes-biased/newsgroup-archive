@@ -1,0 +1,17 @@
+{
+  "ThreadId": "dF-MI4ZAwUQ",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/dF-MI4ZAwUQ",
+  "Title": "Figuring out cardlists",
+  "Messages": [
+    {
+      "Author": "SwiftOne",
+      "Date": "Jul 25, 2000, 9:00:00\u202FAM",
+      "Body": "I'm poking about the cardlists on the white wolf site, and I'm having\nsome troubles figuring out what different parts mean.\n\nI've figured out the Disciplines, card types, cost, expansion, etc. My\ndifficulty is with some of the card texts.\n\nIs text in <> errata? For example:\n-----------------\nAggressive Tactics (Sabbat)\n2 pool -- Sabbat -- Master\nMaster. Put this card in play and choose a Methuselah. The chosen\n<Methuselah's hand size is reduced by one>. This card may be burned\nby any vampire as <a> (D) action.\n----------------\nIt's unclear. The <a> (D) action looks like it, but the earlier section\nlooks more like a parenthetical.\nAnother example:\n----------------------\nAnarch Revolt (Jyhad, V:TES)\nMaster\nMaster. Put this card in play. Each Methuselah burns 1 pool during\nhis or her untap phase. Any vampire can burn this card with a\nsuccessful <referendum>; calling this <referendum> is a +1 stealth\n<political> action.\n---------------------\nArchon (Jyhad, V:TES)\nPolitical Action\nPolitical Card-Worth 1 Vote. Called by any Prince or Justicar at\n+1 stealth. Choose a vampire. Successful <referendum> makes the vampire\nan Archon. <An> Archon may enter combat with another vampire <controlled\nby another Methuselah> as a +1 stealth <(D)> action. <Any vampire>\nattempting to block <an> Archon burns 1 blood. <A Blood Hunt cannot be\ncalled on an Archon>. [Any vampire can remove these abilities with a\nsuccessful referendum; calling that referendum is a +1 stealth political\naction].\n-------------------------\nWhat do the [] mean? the <>?\n\nThanks"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 25, 2000, 9:00:00\u202FAM",
+      "Body": "SwiftOne wrote:\n>\n> I'm poking about the cardlists on the white wolf site, and I'm having\n> some troubles figuring out what different parts mean.\n>\n> I've figured out the Disciplines, card types, cost, expansion, etc. My\n> difficulty is with some of the card texts.\n>\n> Is text in <> errata? For example:\n\n> [snip]\n\n> What do the [] mean? the <>?\n\nThe <> are for clarifications, including updates for new terminology. Thes\ndo not represent functional changes to card text.\n\nThe [] are for rulings. (resolutions of ambiguity in card text)\n\nThe {} are for errata. (functional changes to card text)\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    }
+  ]
+}

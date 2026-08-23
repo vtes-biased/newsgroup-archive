@@ -1,0 +1,22 @@
+{
+  "ThreadId": "qmhs1IB5H00",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/qmhs1IB5H00",
+  "Title": "LSJ - Crocodile's Tongue and Allies",
+  "Messages": [
+    {
+      "Author": "xcver",
+      "Date": "Mar 6, 2009, 4:19:19\u202FPM",
+      "Body": "Hi,\n\nVamp A bleeds and an Ally with 1 life tries to block. The Vampire\nplays Crocodile's Tongue. What applies?\n\na) Crocodile's Tongue is cancelled. The block of the ally fails, but\nanother minion of that methuselah may now block the action\nb) Crocodile's Tongue is cancelled and the action is considered\nblocked if intercept is sufficient but no combat will take place\n\nI would say a)\n\nThanks,\n\nBernd\n\nCrocodile's Tongue\nType: Action Modifier\nRequires: Auspex\n[aus] Only usable when an ally or a younger vampire attempts to block.\nThat block is canceled (the minion is not tapped). The blocking\nminion's controller cannot attempt to block this action again. The\nblocking minion can cancel this card by burning a blood or life.\n[AUS] As above, but canceling this card requires an additional blood\nor life."
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Mar 6, 2009, 4:38:14\u202FPM",
+      "Body": "On 6 Mar, 16:19, xcver <bernd.schw...@firstdata.de> wrote:\n> Hi,\n>\n> Vamp A bleeds and an Ally with 1 life tries to block. The Vampire\n> plays Crocodile's Tongue. What applies?\n>\n> a) Crocodile's Tongue is cancelled. The block of the ally fails, but\n> another minion of that methuselah may now block the action\n> b) Crocodile's Tongue is cancelled and the action is considered\n> blocked if intercept is sufficient but no combat will take place\n>\n> I would say a)\n>\n> Thanks,\n>\n> Bernd\n\nIf Crocodile's Tongue is played at INFERIOR:\n- Option 1: The blocking ally burns a life, burning itself.\nCrocodile's Tongue is then canceled, and the other minions controlled\nby the reacting Methuselah can now attempt to block.\n- Option 2: The blocking ally does not burn a life. The block fails\nand none of the minions of the reacting Methuselah can attempt to\nblock.\n\nIf Crocodile's Tongue is played at SUPERIOR:\n- The blocking ally does not have enough life to burn to cancel the\ncard. The block fails and none of the minions of the reacting\nMethuselah can attempt to block."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 6, 2009, 4:38:46\u202FPM",
+      "Body": "xcver wrote:\n> Hi,\n>\n> Vamp A bleeds and an Ally with 1 life tries to block. The Vampire\n> plays Crocodile's Tongue. What applies?\n>\n> a) Crocodile's Tongue is cancelled. The block of the ally fails, but\n> another minion of that methuselah may now block the action\n> b) Crocodile's Tongue is cancelled and the action is considered\n> blocked if intercept is sufficient but no combat will take place\n>\n> I would say a)\n\nAssuming the Crocodile's Tongue was played at aus and the ally chose to burn a\nlife to cancel the effect of Crocodile's Tongue, yes.\n\nThe effect of Crocodile's tongue is canceled.\nThe ally dies (is burned), since he has no life.\nThe ally's block attempt ends (fails), since he is no longer eligible to block.\nAnother minion may attempt to block, since Crocodile's Tongue was canceled.\n\n\uE5D3"
+    }
+  ]
+}

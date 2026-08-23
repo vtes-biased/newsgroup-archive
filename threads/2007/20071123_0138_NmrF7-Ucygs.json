@@ -1,0 +1,47 @@
+{
+  "ThreadId": "NmrF7-Ucygs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/NmrF7-Ucygs",
+  "Title": "{LSJ} Block timing issues",
+  "Messages": [
+    {
+      "Author": "Morgan Vening",
+      "Date": "Nov 23, 2007, 1:38:18\u202FAM",
+      "Body": "The following situation happened in a game.\n\nPlayer A is bleeding Player B for 1 Bleed at 0 Stealth.\n\nPlayer B declares a block at 0 Intercept.\n\nPlayer A plays a +1 Stealth Action Modifier.\n\nThe situation now occurs that Player B wishes to have the block\nattempt fail, and Player C wishes to use Maris Streck's ability.\n\nI ruled that the declaration of a block failing is considered a valid\nresponse, and due to the standard timing rules (Acting, Blocking,\nEveryone Else), it's too late.\n\nPlayer C disagreed, feeling that declaration of block failing isn't a\nvalid response, and that only if no generation of Stealth/Intercept\nbalance (+ Intercept, - Stealth, etc), that a block fails.\n\nHow does this work?\n\nMorgan Vening"
+    },
+    {
+      "Author": "J",
+      "Date": "Nov 23, 2007, 1:50:27\u202FAM",
+      "Body": "\uE5D3\n\nIANLSJ but;\n\nFrom 6.2.2.1\nIf one attempt to block fails, another can be made as often as the\nblocking Methuselah wishes. Once a Methuselah decides not to make any\nfurther attempts to block, that decision is final\n\nHaving a block fails does not mean that they cannot try to block\nagain, even with the same minion (unless restricted by card text, ala\nElder Impersonation). As such, they can declare the block fails, and\nPlayer C can use Maris Streck's ability. Only if Player B says \"No\nmore blocks\", or something to the effect of now declining further\nattempts to block can Player C no longer intercede.\n\n--> J\ngrail_pbem \"at\" hotmail.com"
+    },
+    {
+      "Author": "Morgan Vening",
+      "Date": "Nov 23, 2007, 2:09:04\u202FAM",
+      "Body": "On Thu, 22 Nov 2007 16:50:27 -0800 (PST), J <gra...@hotmail.com>\nwrote:\n\n\uE5D3\n\nOn speaking with Player C further, he brought forth the following\npoint, to emphasize his argument.\n\nPlayer A plays +1 Stealth Action Modifier.\n\nPlayer B plays +2 Intercept Reaction.\n\nCan Player B choose not to block after having played this card? Or is\nthe block attempt an ongoing commitment?\n\nCan Player B choose another minion (or multiple other minions) to play\n+1 (or more) intercept on, choosing not to block? Are Intercept\nReaction cards handled differently due to the block resolution concept\nto cards such as Telepathic Counter, or Wake?\n\nMorgan Vening"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 23, 2007, 2:33:49\u202FAM",
+      "Body": "\uE5D3\n\nPlayer C has it right."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 23, 2007, 2:38:34\u202FAM",
+      "Body": "Morgan Vening wrote:\n> Player A plays +1 Stealth Action Modifier.\n>\n> Player B plays +2 Intercept Reaction.\n>\n> Can Player B choose not to block after having played this card? Or is\n> the block attempt an ongoing commitment?\n\nThe latter.\n\nThe block attempt continues until it fails (you can't simply abandon it).\n\nSee also rulings against Second Tradition + Deflection. (e.g., Second Trad,\nchoose to fail, Deflection -- the \"choose to fail\" part is not valid).\n\n> Can Player B choose another minion (or multiple other minions) to play\n> +1 (or more) intercept on, choosing not to block?\n\nOf course not.\n\n> Are Intercept\n> Reaction cards handled differently due to the block resolution concept\n> to cards such as Telepathic Counter, or Wake?\n\nUm, they are restricted by the restriction against playing intercept only when\nit is needed, sure."
+    },
+    {
+      "Author": "Thrall of Arika",
+      "Date": "Nov 23, 2007, 7:21:34\u202FPM",
+      "Body": "\uE5D3\n\nYou denied C from following the Sequencing rule 1.6.1.5:\n\n\"Sequencing. If two or more players want to play a card or effect, the\nacting Methuselah plays first. At every stage, the acting player\nalways has the opportunity to play the next card or effect. So after\nplaying one effect, she may play another and another. Once she is\nfinished, the opportunity passes to the defending Methuselah (in the\ncases of directed actions and combat), then to the rest of the\nMethuselahs in clockwise order from the acting Methuselah. Note that\nif any Methuselah uses a card or effect, the acting Methuselah again\ngets the opportunity to play the next effect.\"\n\nAfter the +1 stealth was played, it falls to B to play another card.\nThey chose not to, so it then goes around to the other Methuselahs,\nwhich is where C is allowed to use Maris Streck's ability.\n\n\"The block fails\" is a valid response, but not in the context you are\nsuggesting. The block fails because the reacting vampire cannot or\nwill not produce more intercept than stealth, not because the reacting\nMethuselah decides they no longer want to block.\n\nChris, Thrall of Arika"
+    },
+    {
+      "Author": "Frogbear",
+      "Date": "Nov 24, 2007, 1:44:39\u202FPM",
+      "Body": ">\n>You denied C from following the Sequencing rule 1.6.1.5:\n>\n\nAs Player C, I feel so cheated.... : (\n\nThanks everyone for getting back on this.\n\nRegards...\n\nFrogbear"
+    },
+    {
+      "Author": "Malone",
+      "Date": "Nov 25, 2007, 7:05:35\u202FAM",
+      "Body": "\uE5D3\n\nMethuselah B can say that her minion's block fails, but there are no\ncircumstances where her words actually make the block fail. To be\nmore accurate she should say that she won't be adding more intercept,\nnot that the block fails."
+    }
+  ]
+}

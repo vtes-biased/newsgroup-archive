@@ -1,0 +1,42 @@
+{
+  "ThreadId": "eeAh36lehiw",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/eeAh36lehiw",
+  "Title": "[LSJ] Fizzling and Failing",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Nov 16, 2010, 8:13:26\u202FPM",
+      "Body": "If an unblocked action fizzles at resolution, due to the acting\nminion's inability to pay the cost of the action or target eligibility\nchanging before resolution, is the action considered to have failed\nfor the purposes of cards and effects which trigger off of failed\nactions? Or is a fizzled action analogous to a bleed which has been\nreduced to zero, in that the action is successful but its effects are\nnot? Thanks.\n\nJohn Eno"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Nov 16, 2010, 8:34:21\u202FPM",
+      "Body": "On 16 nov, 20:13, Kushiel <invisibleking...@gmail.com> wrote:\n> If an unblocked action fizzles at resolution, due to the acting\n> minion's inability to pay the cost of the action or target eligibility\n> changing before resolution, is the action considered to have failed\n> for the purposes of cards and effects which trigger off of failed\n> actions?\n\nIt fizzles.\n1 -If not blocked, then the action is successful.\n2 - Then, check if the target (if any) is still valid.\n3 - Then try to pay.\n4 - Then finish resolving the action.\nIf 2, 3, or 4 can't happen, or can't be fullfilled, the action\nfizzles.\n\nFailed actions are usually unsuccessful.\n\n> Or is a fizzled action analogous to a bleed which has been\n> reduced to zero, in that the action is successful but its effects are\n> not? Thanks.\n>\n> John Eno\n\nEven though a bleed for 0 isn't a successful bleed, the action is\nstill successful and the bleed's effects were applied (i.e. the target\nlost 0 pool to the bleed)."
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Nov 16, 2010, 9:17:35\u202FPM",
+      "Body": "On Nov 16, 2:34 pm, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n> On 16 nov, 20:13, Kushiel <invisibleking...@gmail.com> wrote:\n>\n> > If an unblocked action fizzles at resolution, due to the acting\n> > minion's inability to pay the cost of the action or target eligibility\n> > changing before resolution, is the action considered to have failed\n> > for the purposes of cards and effects which trigger off of failed\n> > actions?\n>\n> It fizzles.\n> 1 -If not blocked, then the action is successful.\n> 2 - Then, check if the target (if any) is still valid.\n> 3 - Then try to pay.\n> 4 - Then finish resolving the action.\n> If 2, 3, or 4 can't happen, or can't be fullfilled, the action\n> fizzles.\n>\n> Failed actions are usually unsuccessful.\n\nWill Perfectionist trigger on a fizzled action if no reaction cards\nwere played?\n\nCan a Neighborhood Watch Commander inflict a damage on an unblocked,\nfizzled action?\n\n> Even though a bleed for 0 isn't a successful bleed, the action is\n> still successful and the bleed's effects were applied (i.e. the target\n> lost 0 pool to the bleed).\n\nYeah, bad analogy on my part. Couldn't think of anything else remotely\nparallel, though.\n\nJohn Eno"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Nov 16, 2010, 9:35:07\u202FPM",
+      "Body": "On 16 nov, 21:17, Kushiel <invisibleking...@gmail.com> wrote:\n> On Nov 16, 2:34 pm, floppyzedolfin <floppyzedol...@gmail.com> wrote:\n>\n>\n>\n> > On 16 nov, 20:13, Kushiel <invisibleking...@gmail.com> wrote:\n>\n> > > If an unblocked action fizzles at resolution, due to the acting\n> > > minion's inability to pay the cost of the action or target eligibility\n> > > changing before resolution, is the action considered to have failed\n> > > for the purposes of cards and effects which trigger off of failed\n> > > actions?\n>\n> > It fizzles.\n> > 1 -If not blocked, then the action is successful.\n> > 2 - Then, check if the target (if any) is still valid.\n> > 3 - Then try to pay.\n> > 4 - Then finish resolving the action.\n> > If 2, 3, or 4 can't happen, or can't be fullfilled, the action\n> > fizzles.\n>\n> > Failed actions are usually unsuccessful.\n>\n> Will Perfectionist trigger on a fizzled action if no reaction cards\n> were played?\n\nSure. https://groups.google.com/group/rec.games.trading-cards.jyhad/msg/2413eb58f02b8ebd\nThe action is successful and no reaction cards were played.\n\n> Can a Neighborhood Watch Commander inflict a damage on an unblocked,\n> fizzled action?\n\nOnly successful actions can fizzle. The fizzling part is determined\nafter all blocks are declined, when the action is successful. So, no."
+    },
+    {
+      "Author": "John McGlynn",
+      "Date": "Nov 17, 2010, 7:04:32\u202FPM",
+      "Body": "\uE5D3\n\nMy thoughts, they are provoked. Is fizzling a useful distinction?\nAny good reason such actions shouldn't simply fail? There are many\nimplications but off the top of my head I can't think of any problem\ncases.\n\n--\nJohn McGlynn"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Nov 19, 2010, 4:50:25\u202FPM",
+      "Body": "On Nov 17, 1:04 pm, John McGlynn <john.mcgl...@gmail.com> wrote:\n> My thoughts, they are provoked.  Is fizzling a useful distinction?\n> Any good reason such actions shouldn't simply fail?  There are many\n> implications but off the top of my head I can't think of any problem\n> cases.\n\nI don't see any need to change the rule, given how rarely it comes up\nin play and that it's not really disruptive when it does. It is a bit\nannoying that, like \"impulse,\" it only appears in the VTES Shadow\nCodex rather than the actual rulebook.\n\nJohn Eno"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Nov 20, 2010, 4:02:02\u202FAM",
+      "Body": "\uE5D3\n\nImpulse is completely described in the rules under sequencing.\nAlbeit without using that shorthand.\n\nThe rules also don't use the \"albeit\" shorthand (or bounce or any\nnumber of other shorthands you might find on this group)."
+    }
+  ]
+}

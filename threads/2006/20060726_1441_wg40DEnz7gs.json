@@ -1,0 +1,52 @@
+{
+  "ThreadId": "wg40DEnz7gs",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/wg40DEnz7gs",
+  "Title": "grandest trick question",
+  "Messages": [
+    {
+      "Author": "lovre",
+      "Date": "Jul 26, 2006, 2:41:21\u202FPM",
+      "Body": "Is a bleed announced together with conditioning, and then playing\ngrandest trick legal?"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 26, 2006, 3:10:24\u202FPM",
+      "Body": "lovre wrote:\n> Is a bleed announced together with conditioning, and then playing\n> grandest trick legal?\n\nNo. Conditioning cannot be played in the \"as action is announced\"\nwindow."
+    },
+    {
+      "Author": "Ankur Gupta",
+      "Date": "Jul 26, 2006, 3:35:48\u202FPM",
+      "Body": "\uE5D3\n\nWhy? There is no card text preventing its use in this phase of the game.\nSeduction seems to provide a limiting phrase only, not also simultaneously\nan enabling phrase, for instance. Can action modifiers by default not be\nplayed in the \"as action is announced\" phase? If not, why not?\n\nCan reaction cards be played in that window once the acting Methuselah is\nfinished? Why or why not?\n\nAnkur"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 26, 2006, 5:14:05\u202FPM",
+      "Body": "Ankur Gupta wrote:\n> > lovre wrote:\n> >> Is a bleed announced together with conditioning, and then playing\n> >> grandest trick legal?\n> >\n> > No. Conditioning cannot be played in the \"as action is announced\"\n> > window.\n>\n> Why? There is no card text preventing its use in this phase of the game.\n\nBecause things can't be played in the \"as announced\" window by default.\n\n> Seduction seems to provide a limiting phrase only, not also simultaneously\n> an enabling phrase, for instance.\n\nIt is enabling. Like Guard Dogs' \"Only usable by a tapped vampire\". (Or\nHidden Lurker, &c.)\n\n> Can action modifiers by default not be\n> played in the \"as action is announced\" phase? If not, why not?\n\nNo. Default.\nLike not being able to play in the \"as played\" window.\n\n> Can reaction cards be played in that window once the acting Methuselah is\n> finished? Why or why not?\n\nThis is why none have been printed with that text."
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jul 26, 2006, 5:19:10\u202FPM",
+      "Body": "Ankur Gupta <agu...@cs.duke.edu> wrote:\n> > lovre wrote:\n> >> Is a bleed announced together with conditioning, and then playing\n> >> grandest trick legal?\n> >\n> > No. Conditioning cannot be played in the \"as action is announced\"\n> > window.\n\n> Why? There is no card text preventing its use in this phase of the game.\n> Seduction seems to provide a limiting phrase only, not also simultaneously\n> an enabling phrase, for instance. Can action modifiers by default not be\n> played in the \"as action is announced\" phase? If not, why not?\n\nI think that we've just sorted this out on IRC with a logical explanation.\nIt kinda breaks down like this:\n\n1. I PLAY the card \"Govern the Unaligned\" (with a window for as-played\neffects)\n2. I draw a card to replace Govern the Unaligned.\n3. I ANNOUNCE \"I am using the inferior dominate effect of this card\".\n4. I PLAY Seduction. (with a window for as-played effects for this card)\n5. I draw a card to replace Seduction.\n6. I PLAY The Sleeping Mind (with a window for as-played effects for this\ncard)\n7. I draw a card to replace The Sleeping Mind.\n8. Now that \"as-announced\" effects are over, this action is finished being\nannounced. After being announced, we now know that it is a Bleed Action.\n9. I may play Conditioning.\n\nSomething like that.\n\nRight?"
+    },
+    {
+      "Author": "Ankur Gupta",
+      "Date": "Jul 26, 2006, 6:16:07\u202FPM",
+      "Body": ">> Why? There is no card text preventing its use in this phase of the\n>> game.\n>\n> Because things can't be played in the \"as announced\" window by default.\n\nI wasn't aware of this default behavior. Now I am. GI Joe.\n\n>> Can reaction cards be played in that window once the acting Methuselah\n>> is finished? Why or why not?\n>\n> This is why none have been printed with that text.\n\nYay. Consider this my vote for never having such cards that complicate\nlife. :)\n\nAnkur"
+    },
+    {
+      "Author": "Joshua Duffin",
+      "Date": "Jul 26, 2006, 6:44:52\u202FPM",
+      "Body": "\"Jozxyqk\" <jfeu...@eecs.tufts.edu> wrote in message\nnews:o4-dnQlLPLhzGlrZ...@comcast.com...\n\n> Ankur Gupta <agu...@cs.duke.edu> wrote:\n>> > lovre wrote:\n>> >> Is a bleed announced together with conditioning, and then playing\n>> >> grandest trick legal?\n>> >\n>> > No. Conditioning cannot be played in the \"as action is announced\"\n>> > window.\n>\n>> Why? There is no card text preventing its use in this phase of the game.\n>> Seduction seems to provide a limiting phrase only, not also\n>> simultaneously\n>> an enabling phrase, for instance. Can action modifiers by default not be\n>> played in the \"as action is announced\" phase? If not, why not?\n>\n> I think that we've just sorted this out on IRC with a logical explanation.\n> It kinda breaks down like this:\n>\n> 1. I PLAY the card \"Govern the Unaligned\" (with a window for as-played\n> effects)\n> 2. I draw a card to replace Govern the Unaligned.\n> 3. I ANNOUNCE \"I am using the inferior dominate effect of this card\".\n\nI think you announce the terms of the action card (or, for non-action-cards,\nthe level/effect you're using it for) at (1), don't you? That is, I'm\npretty sure that the other players get to know whether you're playing\nsuperior Govern or inferior Govern before they have to decide whether to use\nDirect Intervention \"as a card is played\".\n\n> 4. I PLAY Seduction. (with a window for as-played effects for this card)\n> 5. I draw a card to replace Seduction.\n> 6. I PLAY The Sleeping Mind (with a window for as-played effects for this\n> card)\n> 7. I draw a card to replace The Sleeping Mind.\n> 8. Now that \"as-announced\" effects are over, this action is finished being\n> announced. After being announced, we now know that it is a Bleed\n> Action.\n> 9. I may play Conditioning.\n>\n> Something like that.\n>\n> Right?\n\nThe rest of it seems pretty \"something like that\" to me, though. :-)\n\nJosh\n\npossibly also see dvorax's timeline for 'stuff when cards are played', very\nsimilar in nature"
+    },
+    {
+      "Author": "Pat",
+      "Date": "Jul 26, 2006, 8:44:41\u202FPM",
+      "Body": "\"Joshua Duffin\" <joshduff...@SPAM.gmail.com> wrote in message\nnews:4ipkg6F...@individual.net...\n\uE5D3\n\nYeah, plus it's also important that you ANNOUNCE before you REPLACE, since\nyou might Minion Tap Anson for 8 instead of 4 if you were able to see that\nyou top-decked Giant's Blood off the Tap. :)\n\n- Pat"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Jul 26, 2006, 8:56:13\u202FPM",
+      "Body": "\uE5D3\n\uE5D3\n\nI was trying to treat PLAY and ANNOUNCE as \"keywords\" in my example, I guess\nI wasn't very clear.\n\nYes it's important to declare all the effects/terms of the card (other than\nreferendum) during the as-played phase, but the \"announcement\" isn't over until\nafter you've played all the \"as-announced\" cards.\nI should have written it differently."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ThreadId": "lglgrRVyF84",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/lglgrRVyF84",
+  "Title": "(LSJ) DB rarity?",
+  "Messages": [
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Sep 12, 2006, 11:44:46\u202FAM",
+      "Body": "Hello,\n\nI was taking a look at the new cardlist on the WW site, and\nI noticed that, besides the usual rarities (C, U, V, R2, R and\nthe four preconstructed PB, PM, PTr, PTz), Third edition\ncards have a new rarity denoted as \"DB\".\n\nWhat is \"DB\" rarity? Initially, I thought it stood for something\nlike \"double\" (i.e. \"in one preconstructed and in the player's\nkit\"). This seems to work pretty well for the following vampires\n[I denote in brackets the \"experimental\" rarity based on having\nseen 3 boxes of boosters, 1 of starters and 1 player's kit;\nnotice that all of the vampries below appear in the player's kit\nas well]:\n\nAlessandro Garcia (PB)\nApache Jones (PM2)\nArmin Brenner (PB2)\nBeauregard Kroller (PM2)\nBloodfeud (PM)\nDuality (PTz)\nEsoara (PTr2)\nFather Juan Carlos (PB2)\nFrondator (PTr)\nJanine (PTr)\nLady Zara Slatikov (PTz2)\nLaika (PTz2)\nLucubratio (PTr2)\nPaul Cordwood (PTr2)\nPersephone Tar-Annis (PM2)\nRadu Bistri (PTz2)\nSmash (PB)\nUrraca (PB2)\nUta Kovacs (PTr2)\nWhite Lily (PM)\nYuri Kerezenski (PTz2)\n\nHowever, there are a few \"DB\" rarity vampires which do not\nseem to match the above, namely [again with \"experimental\"\nrarity in brackets]:\n\nAxel Von Anders (V)\nFabrizia Contreraz (V)\nIlias cel Frumos (V)\n\nMoreover, some other vampires are denoted with \"V\" rarity\nwhile they should have the following (or \"DB\"? Again, all of\nthem appear in the player's kit as well):\n\nCount Vladimir Rustovitch (PTz)\nHarold Zettler, Pentex Director (PM)\nHektor (PB2)\n\nI hope all this can be of some utility in order to fix the card list\nin some appropriate way. In my opinion, it would be nicer if\nthere were no \"DB\" rarities, but only the rarities we are used\nto (and I also would not mind an additional \"PK\" rarity to\nindicate that a card is to be found in the player's kit as well).\n\nAh, one last thing... On the Library side, Dogs of War has a\nrarity of \"U\", but I guess it should be \"U/PB\" (or, as far as I\nknow, \"PB\" only, since in 3 boxes of boosters I haven't seen\nany - but after all I haven't seen any DI, Helicopter, Auto-da-fè,\nCommand, Cryptic Rider, Demonstration and many others - but\nthis is another story...)\n\nCheers,\nEmiliano"
+    },
+    {
+      "Author": "PaulW...@gmail.com",
+      "Date": "Sep 12, 2006, 11:49:31\u202FAM",
+      "Body": "I got 1 dogs of war from a booster box, so it does exist ;-)\n\uE5D3"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 12, 2006, 1:51:42\u202FPM",
+      "Body": "Emiliano Imeroni wrote:\n> Hello,\n>\n> I was taking a look at the new cardlist on the WW site, and\n> I noticed that, besides the usual rarities (C, U, V, R2, R and\n> the four preconstructed PB, PM, PTr, PTz), Third edition\n> cards have a new rarity denoted as \"DB\".\n>\n> What is \"DB\" rarity?\n\nIt's a placeholder I was using. It shouldn't have appeared in the\npublished list (being replaced with the actual rarity).\n\nI'll correct that ASAP."
+    },
+    {
+      "Author": "Ross Ridge",
+      "Date": "Sep 12, 2006, 8:59:30\u202FPM",
+      "Body": "LSJ wrote:\n> I'll correct that ASAP.\n\nAre the draft effects going to be included in a future update?\n\nRoss Ridge"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 12, 2006, 9:36:29\u202FPM",
+      "Body": "\uE5D3\n\nProbably not. They're not all that useful in such a document, since the\nonly time they matter is when you're looking at the actual card."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Sep 12, 2006, 9:52:12\u202FPM",
+      "Body": "In message <1158089789.5...@e63g2000cwd.googlegroups.com>, LSJ\n\uE5D3\n\nThey can be useful for theoretic discussions, and checking for latest\ncard text. (e.g. if we later find that a draft card needs errata\nsomehow)\n\nHaving them in a separate document would be fine, though.\n\n--\nJames Coupe\nPGP Key: 0x5D623D5D YOU ARE IN ERROR.\nEBD690ECD7A1FB457CA2 NO-ONE IS SCREAMING.\n13D7E668C3695D623D5D THANK YOU FOR YOUR COOPERATION."
+    },
+    {
+      "Author": "Ross Ridge",
+      "Date": "Sep 12, 2006, 10:09:18\u202FPM",
+      "Body": "Ross Ridge wrote:\n> Are the draft effects going to be included in a future update?\n\nLSJ wrote:\n> Probably not. They're not all that useful in such a document, since the\n> only time they matter is when you're looking at the actual card.\n\nWell, what makes the CSV document useful to me is that it has all the\nupdated card text for all my old cards. Since there's an erratum for\none draft effect already, it seems it would also be useful to have most\nup to date draft effect text in there as well.\n\nRoss Ridge"
+    },
+    {
+      "Author": "Jozxyqk",
+      "Date": "Sep 12, 2006, 10:56:27\u202FPM",
+      "Body": "James Coupe <ja...@zephyr.org.uk> wrote:\n> In message <1158089789.5...@e63g2000cwd.googlegroups.com>, LSJ\n> <vte...@white-wolf.com> writes:\n> >Ross Ridge wrote:\n> >> LSJ wrote:\n> >> > I'll correct that ASAP.\n> >>\n> >> Are the draft effects going to be included in a future update?\n> >\n> >Probably not. They're not all that useful in such a document, since the\n> >only time they matter is when you're looking at the actual card.\n\n> They can be useful for theoretic discussions, and checking for latest\n> card text. (e.g. if we later find that a draft card needs errata\n> somehow)\n\n> Having them in a separate document would be fine, though.\n\nIt has to be a separate document, if anything.\nListing Draftferiors with the actual card text would make the draftferior\ninto the official MRP. And that's just not the case.\nBesides, there are versions of the same card with and without draftferior\neven in the same set."
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Sep 13, 2006, 1:02:19\u202FAM",
+      "Body": "\uE5D3\n\nThanks a lot!\n\nI'll leave the \"draftferior\" issue to others, but... Any chance we\nwill have a \"player's kit\" rarity indicated as well? One of the\nuseful things of the official cardlist has always been that it\nallows to know where one can find a specific card (which is\nparticularly useful e.g. if one keeps the collection ordered by\nexpansion, which is something I used to do some time ago).\n\nBest,\nEmiliano"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 13, 2006, 3:30:02\u202FAM",
+      "Body": "Emiliano Imeroni wrote:\n> I'll leave the \"draftferior\" issue to others, but... Any chance we\n> will have a \"player's kit\" rarity indicated as well?\n\nPerhaps. Being a subset of the precons, I hadn't considered it all that\nuseful. But OK.\nI'll queue it up.\n\n> One of the\n> useful things of the official cardlist has always been that it\n> allows to know where one can find a specific card (which is\n> particularly useful e.g. if one keeps the collection ordered by\n> expansion, which is something I used to do some time ago).\n\nWell, if that's all, the current list suffices, since the PK cards are\nall found listed in Third:P* groups anyway. :-)"
+    },
+    {
+      "Author": "sath...@o2.pl",
+      "Date": "Sep 13, 2006, 10:47:29\u202FAM",
+      "Body": "Are the cards from the Player's Kit(other than those four main\nvampires) marked as different cards from the normal cards(by some text\nfor example)? If so having their number of appearances in PK would\nmatter to those die-hard collectors who want to have every DISTINCT\ncard printed (sorry for them, 3rd ED gave the two new sets to collect).\n\nSathriel"
+    },
+    {
+      "Author": "Emiliano Imeroni",
+      "Date": "Sep 13, 2006, 12:33:36\u202FPM",
+      "Body": "LSJ wrote:\n> Emiliano Imeroni wrote:\n> > I'll leave the \"draftferior\" issue to others, but... Any chance we\n> > will have a \"player's kit\" rarity indicated as well?\n>\n> Perhaps. Being a subset of the precons, I hadn't considered it all that\n> useful. But OK.\n> I'll queue it up.\n\nThanks!!\n\n> > One of the\n> > useful things of the official cardlist has always been that it\n> > allows to know where one can find a specific card (which is\n> > particularly useful e.g. if one keeps the collection ordered by\n> > expansion, which is something I used to do some time ago).\n>\n> Well, if that's all, the current list suffices, since the PK cards are\n> all found listed in Third:P* groups anyway. :-)\n\nWell, sort of... Without additional info, I might be led to believe\nthat there is a War Ghoul waiting for me in the player's kit ;-)\n\nBest,\nEmiliano"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 13, 2006, 2:00:08\u202FPM",
+      "Body": "\uE5D3\n\nPerhaps, but the issue above was \"determine which expansion(s) printed\nthe card\" so as to find the card in a collection sorted by expansion."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ThreadId": "poZLLJ7S5Wc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/poZLLJ7S5Wc",
+  "Title": "[LSJ] How do Sudario and Learjet interact?",
+  "Messages": [
+    {
+      "Author": "tobiasopdenbr...@notsocoldmail.com",
+      "Date": "Jul 21, 2005, 2:04:15\u202FPM",
+      "Body": "I have a Giovanni w. learjet.\n\nPlay Sudario.\n\nDo I call the three cards I want as I play sudario, place sudario in\nthe ashheap, draw 2 from the library, discard 1, put the chosen sudario\ncards on my library, discard 3 at random?\n\nTx."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Jul 21, 2005, 4:32:15\u202FPM",
+      "Body": "\uE5D3\n\nYes, but the 'draw 2 from the library, discard 1' is optional.\n\nRelevant texts:\n\nLearjet: Each time you draw to replace a card this minion played as an\nacting minion, you may draw an additional card. Discard down to your\nhand size afterward. A minion may have only one vehicle.\n\nSudario: Choose three cards in your ash heap and move them to the top\nof your library. Then discard three cards at random from your hand (and\ndraw up to your hand size afterward).\n\nSo you play Sudario (putting it in your ash heap), naming the target\ncards to be added to your library and immediately replacing it from\nyour deck. Doing so gives you the option to draw an additional card\n(per learjet) and discard down to your hand size (i.e. discard one.)\n\nThen once it's determined that the Sudario succeeds or not, you follow\nit's instruction: move three cards from your ash heap to the top of\nyour library, discard three cards at random, and draw to your hand size\n(presumably drawing the three you put on top.) Lear jet does _not_ kick\nin here, because the cards you are drawing to replace are ones you\ndiscarded, not ones you played as an acting minion.\n\n-John Flournoy"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jul 22, 2005, 2:46:35\u202FAM",
+      "Body": "John Flournoy wrote:\n\n\uE5D3\n\nCorrect.\n\n--\nLSJ (vtesr...@TRAPwhite-wolf.com) V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "tobiasopdenbr...@notsocoldmail.com",
+      "Date": "Jul 22, 2005, 10:26:36\u202FAM",
+      "Body": "Ok, that's what I figured, thanks."
+    },
+    {
+      "Author": "Ector",
+      "Date": "Jul 22, 2005, 1:03:36\u202FPM",
+      "Body": "John Flournoy wrote:\n\n> Relevant texts:\n>\n> Learjet: Each time you draw to replace a card this minion played as an\n> acting minion, you may draw an additional card. Discard down to your\n> hand size afterward. A minion may have only one vehicle.\n>\n> Sudario: Choose three cards in your ash heap and move them to the top\n> of your library. Then discard three cards at random from your hand (and\n> draw up to your hand size afterward).\n>\n> So you play Sudario (putting it in your ash heap), naming the target\n> cards to be added to your library and immediately replacing it from\n> your deck. Doing so gives you the option to draw an additional card\n> (per learjet) and discard down to your hand size (i.e. discard one.)\n>\n> Then once it's determined that the Sudario succeeds or not, you follow\n> it's instruction: move three cards from your ash heap to the top of\n> your library, discard three cards at random, and draw to your hand size\n> (presumably drawing the three you put on top.) Lear jet does _not_ kick\n> in here, because the cards you are drawing to replace are ones you\n> discarded, not ones you played as an acting minion.\n>\n> -John Flournoy\n\nPlease clarify: when do you place Sudario in the ash heap? According to\nyour text, one may think that the card is put immediately after the\nannouncement and can be chosen as one of the three cards to return! Is\nit true?\n\nYours,\nEctor"
+    },
+    {
+      "Author": "Emmit Svenson",
+      "Date": "Jul 22, 2005, 2:54:18\u202FPM",
+      "Body": "Ector wrote:\n> Please clarify: when do you place Sudario in the ash heap? According to\n> your text, one may think that the card is put immediately after the\n> announcement and can be chosen as one of the three cards to return! Is\n> it true?\n\nNo, you must declare the targets of an action as it is announced."
+    }
+  ]
+}

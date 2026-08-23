@@ -1,0 +1,17 @@
+{
+  "ThreadId": "S-RTNBEe51E",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/S-RTNBEe51E",
+  "Title": "Signpost - again",
+  "Messages": [
+    {
+      "Author": "Robert Ekvall",
+      "Date": "Jan 19, 1999, 9:00:00\u202FAM",
+      "Body": "I know this has been brought up before but I read on a thread here\nrecently that Bianca has 3 hand damage with basic potence and a\nsignpost. I thought that the new ruling on signpost set base hand damage\nto a certain value regardless of modifiers played earlier.\n\nI thought that a minion with POT that plays FOD and then signpost has 3\nhand damage and that a minion with POT that plays signpost then FOD has\n5 hand damage. How is it supposed to be?\n\nWhat about cards that give a minion -x hand damage, like disarm?\n\nIs there a difference between minion cards that modify hand damage and\ncard text of a minion?\n\nAlso how much hand damage would Badger have with basic pot, a ritual\nchallenge and a signpost?\n\nReally confused right now,\n\nRobert"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Jan 19, 1999, 9:00:00\u202FAM",
+      "Body": "Robert Ekvall wrote:\n> I know this has been brought up before but I read on a thread here\n> recently that Bianca has 3 hand damage with basic potence and a\n> signpost.\n>\n> I thought that the new ruling on signpost set base hand damage\n> to a certain value regardless of modifiers played earlier.\n\nIt does. But the modifiers still apply (unless they were also\n\"set this vampire's strength to X\" style modifiers).\n\n> I thought that a minion with POT that plays FOD and then signpost has 3\n> hand damage\n\nFists of Death gives him +2 strength. Torn Signpost sets his base strength\nto 3 (instead of the default of 1). His total current strength\nwould then be 3 +2 = 5.\n\n> and that a minion with POT that plays signpost then FOD has\n> 5 hand damage. How is it supposed to be?\n\nThat works the same way. 3 +2 = 5.\n\n> What about cards that give a minion -x hand damage, like disarm?\n\nThat would modify (subtract from) his base strength.\n\n> Is there a difference between minion cards that modify hand damage and\n> card text of a minion?\n\nNot for the puposes of this thread.\n\n> Also how much hand damage would Badger have with basic pot, a ritual\n> challenge and a signpost?\n\nBadger's default strength (as a vampire): 1\nBadger's reset strength (with Sigpost): 2\nRitual Challenge: +1\n\n2 +1 = 3\n\n--\nL. Scott Johnson (vte...@wizards.com) VTES Net.Rep for Wizards of the Coast.\nLinks to revised rulebook, rulings, errata, and DCI (tournament) rules:\nhttp://www.wizards.com/VTES/VTES_Rules.html"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ThreadId": "pUUGH1nSKpc",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/pUUGH1nSKpc",
+  "Title": "[LSJ] Kevlar Vest",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 10, 2008, 12:16:16\u202FAM",
+      "Body": "May a minion may use a Kevlar Vest to prevent gun damage from separate\nstrikes? For example, if an opposing minion uses an additional strike\nand strikes twice with a Saturday Night Special, can Vest prevent the\ntwo separate \"packets\" of damage?\n\nKevlar Vest [KoT:U]\nCardtype: Equipment\nCost: 1 pool\nBearer may prevent 2 damage from gun strikes or 1 damage from any\nother source each combat. A minion may have only one Kevlar Vest.\n\nJohn Eno"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 10, 2008, 12:53:42\u202FAM",
+      "Body": "\uE5D3\n\nYes.\n\nContrast \"strike\"."
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Dec 10, 2008, 1:03:12\u202FAM",
+      "Body": "\uE5D3\n\nWell, to be fair, I believe this is the only form of damage prevention\nwith a natural number (i.e. less than \"all\") which deals with multiple\nstrikes so it's worth a clarification. :P\n\nJeff"
+    },
+    {
+      "Author": "www.h...@gmail.com",
+      "Date": "Dec 10, 2008, 1:06:12\u202FAM",
+      "Body": "On Dec 10, 1:03 am, Jeff Kuta <jeff.k...@gmail.com> wrote:\n\n> Well, to be fair, I believe this is the only form of damage prevention\n> with a natural number (i.e. less than \"all\") which deals with multiple\n> strikes so it's worth a clarification. :P\n>\n> Jeff\n\nArmor of Caine's Fury\nType: Combat\nRequires: Valeren/Presence\nCost: 1 blood\n[pre] Prevent 1 damage.\n[val] Only usable before range is determined. This vampire may prevent\n1 damage from the opposing minion's strikes each round. Frenzy cards\ncannot be played on this vampire; cancel the effects of any Frenzy\ncards that have already been played on this vampire this combat.\n[VAL] As [val] above, but this vampire may prevent 2 damage from the\nopposing minion's strikes each round."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Dec 10, 2008, 1:06:44\u202FAM",
+      "Body": "\uE5D3\n\nIt also applies to Armor of Caine's Fury."
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 10, 2008, 7:41:04\u202FAM",
+      "Body": "On Dec 9, 6:53 pm, LSJ <vtes...@white-wolf.com> wrote:\n> Yes.\n>\n> Contrast \"strike\".\n\nGotcha. Thanks.\n\nJohn Eno"
+    },
+    {
+      "Author": "v.ri...@gmail.com",
+      "Date": "Dec 11, 2008, 6:55:44\u202FPM",
+      "Body": "Uh? Does it mean that if instead of a Saturday Night Special, it was\na .44 Magnum (2R damage each strike), the Kevlar would prevent 2\ndamage from *each* strike?"
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Dec 11, 2008, 6:58:55\u202FPM",
+      "Body": "\uE5D3\n\nNo.\n\nAfter the first .44 strike, the Kevlar vest has hit its limit of \"2\ndamage from gun strikes each combat\", and can't prevent any more.\n\n(Just as cards like Apparition prevent 2 damage each combat, not '2\ndamage from each strike' each combat.)\n\nThe key is that the 2 damage a Kevlar Vest prevents does not have to\ncome from a single strike (but it cannot prevent more than 2 points\ntotal over the course of a combat.)\n\n-John Flournoy"
+    }
+  ]
+}

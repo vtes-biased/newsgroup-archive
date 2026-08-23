@@ -1,0 +1,107 @@
+{
+  "ThreadId": "ZvcXpLBljsE",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/ZvcXpLBljsE",
+  "Title": "Heaven's Gate and Escaped Mental Patient, please help me understand",
+  "Messages": [
+    {
+      "Author": "Wilsoros",
+      "Date": "Sep 24, 2009, 5:16:23\u202FPM",
+      "Body": "Hello Group,\n\nI do not understand the interaction of these two cards. I have been\ntold how they work, but I still don't understand the causality. I am\nnot arguing the ruling, I am trying to understand why.\n\nPlease troll another thread, I am not here to make you feel special,\nif you have nothing constructive to say, move on.\n\nScenario:\nEscaped Mental Patient(EMP) is in combat with another minion.\nEMP uses his card text to strike at +1 damage, aggravated. He somehow\nsurvives strike resolution. Then his text \"Burn him at the end of\ncombat\" is triggered, he burns.\n\nImportant fact: He burns in combat\n\nThen I play Heaven's Gate: He moves to the Uncontrolled Region, gains\nno life since he can't exceed starting amount.\n\nImportant Confusion: HE STILL BURNS? since combat is still ending?\n\nReason: He follows the Blood Brother Ambush template, next reason\ngiven, combat ends again due to HG retriggering his text.\n\nOk no idea why this ruling is as it is. I think they \"burn\" text\nshould occur once, if it is interrupted then it should be over.\n\nWhy does EMP's text keep triggering? effects happen once:\n\nJeremy Talbot\nClan: Malkavian (group 3)\nCapacity: 4\nDisciplines: dem obf\nCamarilla: During your untap phase, check your pool total. Jeremy\ngains 1 blood if your pool total is even and burns 1 blood if your\npool total is odd.\n\nI have read I can't keep checking it, say if I had vessels, and I\nwanted to gain more than 1 blood. I check his effect once, not\nrepeatedly.\n\nI truly welcome assistance.\nOther Thoughts: BBA says if combat is canceled burn BBA, so\n\nEscaped Mental Patient\nType: Ally\nRequires: Malkavian antitribu\nCost: 2 pool\nMortal with 1 life. 1 strength, 0 bleed.\nEscaped Mental Patient can enter combat with any minion controlled by\nanother Methuselah as a (D) action. The Patient can strike: hand\nstrike at +1 damage, aggravated. Burn him at the end of combat if he\ndoes so.\n\nHeaven's Gate\nType: Combat\nRequires: Obeah/Necromancy\nCost: 1 blood\nOnly usable by a ready untapped vampire not involved in combat.\n[nec] Prevent 1 damage to an ally in combat.\n[obe] Only usable when an ally is burned in combat. Move that ally to\nhis or her controller's uncontrolled region (controlled, but not\nready) instead. Put 1 life on the ally from the blood bank if he or\nshe has no life.\n[OBE] As [obe] above, but add up to 2 life to the ally, not to exceed\nhis or her starting amount.\n\nBlood Brother Ambush\nType: Action Modifier\nRequires: Brujah antitribu\nCost: 2 blood\nOnly usable when an action is blocked.\nCombat does not occur. Put this card into play. While in play, this\ncard represents an ally with 3 life and 2 strength who can strike for\n2R damage; this ally enters combat with the blocking minion. Blood\nBrothers may play cards requiring basic Potence as a vampire with a\ncapacity of 3. Any cost in blood is paid with life. If a card would\ngive them blood, give them life instead. Burn this card at the end of\ncombat or if the combat is canceled."
+    },
+    {
+      "Author": "D.J.",
+      "Date": "Sep 24, 2009, 5:30:34\u202FPM",
+      "Body": "On Sep 24, 11:16 am, Wilsoros <davewilso...@gmail.com> wrote:\n> Why does EMP's text keep triggering? effects happen once:\n>\n> Jeremy Talbot\n> Clan: Malkavian (group 3)\n> Capacity: 4\n> Disciplines: dem obf\n> Camarilla: During your untap phase, check your pool total. Jeremy\n> gains 1 blood if your pool total is even and burns 1 blood if your\n> pool total is odd.\n>\n> I have read I can't keep checking it, say if I had vessels, and I\n> wanted to gain more than 1 blood.  I check his effect once, not\n> repeatedly.\n\nThat would be because JT's text (and many, many similar cards that, as\nyou say, check once) use the \"During X, Do Y\" template. That template\nhas expressly been ruled to mean \"Once During X, Do Y.\"\n\nAdditionally, Heaven's Gate has something happen \"instead\" of burning\nthe Ally. So BBA or EMP (which don't have the \"During X, Do Y\"\ntemplate) looks at the fact that combat is ending, says \"Have I\nburned? No? Burn me.\" If HG is played at this point, they go to\nuncontrolled instead, and we go back to end-of-combat, and the EMP\nchecks and says \"Nope, I still didn't burn - I did something instead.\nBurn me.\"\n\n- D.J."
+    },
+    {
+      "Author": "Wilsoros",
+      "Date": "Sep 24, 2009, 5:44:34\u202FPM",
+      "Body": "> That would be because JT's text (and many, many similar cards that, as\n> you say, check once) use the \"During X, Do Y\" template.  That template\n> has expressly been ruled to mean \"Once During X, Do Y.\"\n\nAgreed, I should not have mentioned JT't text.\n\n> Additionally, Heaven's Gate has something happen \"instead\" of burning\n> the Ally.  So BBA or EMP (which don't have the \"During X, Do Y\"\n> template) looks at the fact that combat is ending, says \"Have I\n> burned?  No?  Burn me.\"  If HG is played at this point, they go to\n> uncontrolled instead, and we go back to end-of-combat, and the EMP\n> checks and says \"Nope, I still didn't burn - I did something instead.\n> Burn me.\"\n>\n\nI disagree with you, I burned the EMP, or else I could not play HG, it\nsays play when an Ally is burned.\n\nI am not arguing that the ruling is wrong, I am trying to understand\nthe chain of causality.\n\nMy argument: EMP was burned with his text, therefore enabling the use\nof HG."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Sep 24, 2009, 5:50:26\u202FPM",
+      "Body": "\uE5D3\n\nExcept a card was played that replaced the 'burn' with something else.\n\nParallel: if you diablerize my vampire via Amaranth and I respond with\nReform Body, there is no bloodhunt because you did not diablerize my\nvampire; I replaced that with an \"instead\" effect.\n\n-John Flournoy"
+    },
+    {
+      "Author": "D.J.",
+      "Date": "Sep 24, 2009, 6:07:53\u202FPM",
+      "Body": "On Sep 24, 11:44 am, Wilsoros <davewilso...@gmail.com> wrote:\n> > Additionally, Heaven's Gate has something happen \"instead\" of burning\n> > the Ally.  So BBA or EMP (which don't have the \"During X, Do Y\"\n> > template) looks at the fact that combat is ending, says \"Have I\n> > burned?  No?  Burn me.\"  If HG is played at this point, they go to\n> > uncontrolled instead, and we go back to end-of-combat, and the EMP\n> > checks and says \"Nope, I still didn't burn - I did something instead.\n> > Burn me.\"\n>\n> I disagree with you, I burned the EMP, or else I could not play HG, it\n> says play when an Ally is burned.\n\nAs John Flournoy points out, you did something else instead, via HG.\nI think there's a good case to be made that HG, and other cards that\nsay \"instead\", should be more explicit about timing - that they should\nread \"When an Ally *would be* burned...\" instead of \"*is* burned...\"\nand similar.\n\n> I am not arguing that the ruling is wrong, I am trying to understand\n> the chain of causality.\n\nUnderstandable. HG steps in when the burn effect would happen; it\nprevents that from happening. (Hence the \"Instead.\") If the burn\neffect is non-optional, and triggered by something that's still in\nplace, then it still hasn't happened.\n\n- D.J."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Sep 24, 2009, 6:13:56\u202FPM",
+      "Body": "\uE5D3\n\nHere's the real key (having talked to you on IRC about it):\n\nThe card says \"when an ally is burned in combat... (do something else)\ninstead.\"\n\nYou are reading that as \"instead of moving them to the ash heap, but\nthey still have burned.\"\n\nThis is not correct. the card doesn't say 'when they are put in the\nash heap', it says 'when they are burned'; the 'instead' is referring\nback to the only text it can, i.e. 'when an ally is burned'.\n\nSo it replaces the entire 'this ally is burned' with (do something\nelse).\n\nIf it meant \"when this ally is burned, they burn to your uncontrolled\nregion instead of your ash heap\", that would make no sense for things\nlike ghouls created via Absimilard's Army (which are removed from game\nand never go to the ash heap).\n\nNo matter how much you want to think it is saying \"instead of going to\nthe ash heap\", there is simply no text on the card mentioning \"ash\nheap\" or any other partial-aspect of \"a minion burns\" - the \"instead\nof\" is \"instead of burning\", much like how Reform Body is \"instead of\ndiablerie\" and not \"instead of being burned when you are diablerized\".\n\nSo when you play Heaven's Gate, that means you do not burn, do not\ncount as burning, and no longer trigger any effect that happen when a\nminion burns (like Tension, Khazar's, Path of Death and the Soul, or\nanything else.)\n\n-John Flournoy"
+    },
+    {
+      "Author": "Wilsoros",
+      "Date": "Sep 24, 2009, 11:15:26\u202FPM",
+      "Body": "John\n\nSection 1.2 of Vtes rules\n\nWhen a counter is \"burned,\" it is returned to the blood bank (see\nBlood Bank and the Edge, sec 2.2). Sometimes, an instruction may say\nto remove a card from the game. While some cards and effects can\nretrieve cards from the ash heap, cards that are removed from the game\ncannot be retrieved or affected in any way. When a card is burned or\nremoved from the game, any counters or other cards on it are burned."
+    },
+    {
+      "Author": "John Flournoy",
+      "Date": "Sep 24, 2009, 11:28:50\u202FPM",
+      "Body": "\uE5D3\n\nThis quoted section of the rules is completely irrelevant. Why are you\nquoting it?\n\n-John Flournoy"
+    },
+    {
+      "Author": "Wilsoros",
+      "Date": "Sep 25, 2009, 12:01:42\u202FAM",
+      "Body": "Ok to all those like me who didn't understand this card interaction,\nhere we go\n\nEMP burns because combat ends,\nHG is played to prevent the burn and instead send the minion to UC\nregion,\nEMP is placed in the UC region, causing combat to end,\nEMP burns because combat ends, this time due to a minion leaving the\nready region.\n\nissue over, for me anyways."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 25, 2009, 8:53:48\u202FAM",
+      "Body": "\uE5D3\n\nActually, if the combat is ended... How can HG be played at all? It\ndoesn't seem to be a card that should be played during the \"Psyche!/TT\nWindow\"...\n\nJust a thought.."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 25, 2009, 12:26:23\u202FPM",
+      "Body": "\uE5D3\n\nTT is played during combat, like HG.\n\nHG is played as combat is ending, not after it has ended."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 26, 2009, 12:27:40\u202FAM",
+      "Body": "\uE5D3\n\nSo, is the \"at the end\" still considered \"during\"?\nTT and Undead Persistence both have a \"if it will end\" sort of phrase,\nPsyche! has been given an \"if it is ending, restart\".\n\nI just don't know if I quite see the requirement for Heaven's Gate\n\"burned during combat\" coming from the Mental Patient. The Mental\nPatient would seem to remain ready until the combat ends... (ergo if\nyou could prevent the damage and press over and over it could make an\nAgg strike over and over...).\n\nI suppose it all comes down to the phrase \"at the end\". Was it ever\nintended to be \"during combat\"? From its text I would have assumed it\nwas meant to be \"Combat now ends, and your EMP is burned now\"."
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 26, 2009, 2:27:38\u202FAM",
+      "Body": "Juggernaut1981 wrote:\n> On Sep 25, 8:26 pm, LSJ <vtes...@white-wolf.com> wrote:\n>> Juggernaut1981 wrote:\n>>> On Sep 25, 8:01 am, Wilsoros <davewilso...@gmail.com> wrote:\n>>>> Ok to all those like me who didn't understand this card interaction,\n>>>> here we go\n>>>> EMP burns because combat ends,\n>>>> HG is played to prevent the burn and instead send the minion to UC\n>>>> region,\n>>>> EMP is placed in the UC region, causing combat to end,\n>>>> EMP burns because combat ends, this time due to a minion leaving the\n>>>> ready region.\n>>>> issue over, for me anyways.\n>>> Actually, if the combat is ended... How can HG be played at all? It\n>>> doesn't seem to be a card that should be played during the \"Psyche!/TT\n>>> Window\"...\n>> TT is played during combat, like HG.\n>>\n>> HG is played as combat is ending, not after it has ended.\n>\n> So, is the \"at the end\" still considered \"during\"?\n> TT and Undead Persistence both have a \"if it will end\" sort of phrase,\n> Psyche! has been given an \"if it is ending, restart\".\n\nTT: \"Only usable when both combatants are still ready and combat is about to end. \"\n\n> I just don't know if I quite see the requirement for Heaven's Gate\n> \"burned during combat\" coming from the Mental Patient. The Mental\n> Patient would seem to remain ready until the combat ends... (ergo if\n> you could prevent the damage and press over and over it could make an\n> Agg strike over and over...).\n>\n> I suppose it all comes down to the phrase \"at the end\". Was it ever\n> intended to be \"during combat\"? From its text I would have assumed it\n> was meant to be \"Combat now ends, and your EMP is burned now\".\n\nIn this case, it's largely moot, since HG won't ultimately save the EMP."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 26, 2009, 6:07:18\u202FAM",
+      "Body": "\uE5D3\n\nWhile I understand that it is Moot (one is a \"check once to meet\nrequirements\" vs a \"constant state check\")... but assuming that there\nare other cards with the phrase \"at the end of combat\", are those\neffects intended to occur when the combat \"has ended\" or \"the only\nother event left in the queue is the ending of combat\".\n\nPsyche! is also one of these cards with an \"at the end of combat\"\nphrases...\n\nCoordinate Attacks\nCombat\nRequires: Same Circle. Sanguinus\nRequires a ready untapped Blood Brother of the same circle as another\none you control in combat.\n[san] Only usable *at the end of combat* if the minion opposing the\nBlood Brother you control is still ready. This Blood Brother taps and\nenters combat with the opposing minion. The first round of combat,\nthe opposing minion cannot play any strike cards.\n[SAN] As [san] above, and this Blood Brother gets an optional maneuver\non the first round of combat.\n\nHorrid Reality\nCombat\nRequires: Chi\nCost: 2 blood\nOnly usable before range is determined in combat.\n[chi] Equip this minion with the first weapon you find in your library\n(working down from the top). Do not pay the cost for this weapon.\nShuffle afterward. At the end of the combat, burn the weapon if it is\nstill in play.\n[CHI] As above, but return the equipment to your library at the end of\ncombat if it is still in play. Shuffle afterward."
+    },
+    {
+      "Author": "Wilsoros",
+      "Date": "Sep 26, 2009, 8:43:26\u202FAM",
+      "Body": "> Psyche! is also one of these cards with an \"at the end of combat\"\n> phrases...\n>\n> Coordinate Attacks\n> Combat\n> Requires: Same Circle.  Sanguinus\n> Requires a ready untapped Blood Brother of the same circle as another\n> one you control in combat.\n> [san] Only usable *at the end of combat* if the minion opposing the\n> Blood Brother you control is still ready. This Blood Brother taps and\n> enters combat with the opposing minion.  The first round of combat,\n> the opposing minion cannot play any strike cards.\n> [SAN] As [san] above, and this Blood Brother gets an optional maneuver\n> on the first round of combat.\n\nAfter the press step, you have the end of round step, after the end of\nround step you have the end of combat step if there are no presses in\nthe previous step.\n\nTo be clear End of Round happens before End of Combat, so you could\nnot play Disarm after playing CA, but assuming there were an effect\nwhich made the opposing minion no longer ready, you would then cancel\nCA since you can't enter combat with a minion who isn't ready. It\ncould also be argued I think that CA is no longer effective since it\nconstantly checks if you can enter combat with the minion during the\nEnd of Combat, hmm need sleep not sure that made any sense.\n\n>\n> Horrid Reality\n> Combat\n> Requires: Chi\n> Cost: 2 blood\n> Only usable before range is determined in combat.\n> [chi] Equip this minion with the first weapon you find in your library\n> (working down from the top).  Do not pay the cost for this weapon.\n> Shuffle afterward.  At the end of the combat, burn the weapon if it is\n> still in play.\n> [CHI] As above, but return the equipment to your library at the end of\n> combat if it is still in play.  Shuffle afterward.\n\nif you somehow avoided the burning of this equipment in combat, then\nit would burn again like escaped mental patient, since at the end of\ncombat it is burned by its text.\n\nmy 2 pools worth."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 28, 2009, 5:37:51\u202FAM",
+      "Body": "\uE5D3\n\nThat's if it is still in play. You could potentially Horrid Reality a\nKerrie into play and then keep it because you sent it out of play\n(using the ranged strike text) and then combat ended. Since it is out\nof play at the end of combat, you get to keep it (when it comes back\nin later). So yeah, it's important to know what \"at the end of\ncombat\" actually means in a sequence.\n\nIs it \"combat has just completed\" or is it \"the only step left in this\ncombat is the ending of the combat\"?\n\nAnd trust me, I'd be MASSIVELY tempted to play a Ravnos Mass Reality\nKerrie deck if I could use Horrid Reality to get them for FREE and\nnever have to put them back."
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 28, 2009, 5:39:33\u202FAM",
+      "Body": "\uE5D3\n> In this case, it's largely moot, since HG won't ultimately save the EMP.- Hide quoted text -\n>\n> - Show quoted text -\n\nIt's also about wether it would be valid to cycle 3 Heaven's Gates out\nof your hand knowing that the EMP was going to die anyway..."
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Sep 28, 2009, 10:32:02\u202FAM",
+      "Body": "\uE5D3\n\nCannot this happen already since the Kerrie does not return until the\nend of the action and the Horrid Realty check would have passed?"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 29, 2009, 12:49:09\u202FAM",
+      "Body": "\uE5D3\n> end of the action and the Horrid Realty check would have passed?- Hide quoted text -\n\n>\n> - Show quoted text -\n\nI'm just wanting to know where the \"at the end of combat\" moment\nhappens. If it happens during, but always the very last thing, then\nthe Kerrie Trick would work. If it happens immediately after combat\nends, then Kerrie may not work."
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Sep 30, 2009, 8:29:28\u202FAM",
+      "Body": "On Sep 28, 3:49 pm, Juggernaut1981 <brasscompo...@gmail.com> wrote:\n\n> I'm just wanting to know where the \"at the end of combat\" moment\n> happens.  \n\nValid question, sure, but the Kerrie analogy does not fit the\nequation.\n\n>If it happens during, but always the very last thing, then\n> the Kerrie Trick would work.  If it happens immediately after combat\n> ends, then Kerrie may not work.\n\nThe Kerrie trick works in either scenario since it comes back at the\nend of the action not the combat. Your MASSIVE temptation can already\nbe fulfilled: Tsunda, No Secrets, maybe a few auspex weenies for Anima\nGathering with Packer's and you're golden (that is if you truly\nbelieve that 2 blood instead of 1 pool is FREE). Frankly, Zip Gun is\neasier and maybe more efficient to use."
+    }
+  ]
+}

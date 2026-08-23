@@ -1,0 +1,27 @@
+{
+  "ThreadId": "O3X44F8et7I",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/O3X44F8et7I",
+  "Title": "LSJ: Hunger Moon + Foul Blood interaction?",
+  "Messages": [
+    {
+      "Author": "OldFan",
+      "Date": "Mar 28, 2010, 4:36:02\u202FPM",
+      "Body": "Hey Scott,\n\nJust curious if it is possible for Hunger Moon and Foul Blood to\ninteract in such a way that a vamp with 1 blood on it goes to torpor?\n\nHunger Moon (Event)\n----------------------------------\nTransient.\nWhenever a vampire successully hunts, move 1 blood from that vampire\nto this card. Burn this card when it has five counters.\n\nFoul Blood (Reaction/qui-QUI)\nCost: 1 blood\n----------------------------------------------\nOnly usable when a vampire successfully hunts.\n(qui) The acting vampire gains 1 less blood and takes 1 unpreventable\ndamage. Tap this reacting vampire.\n(QUI) As above, but do not tap this reacting vampire.\n\nMy thought: A vamp with 1 blood declares a hunt action. No one\ndeclares a block, thereby making the hunt \"Successful\". At this\npoint, Player B can ask Player A to move 1 blood (already on the vamp)\nfrom Vamp A to Hunger Moon, and then plays Foul Blood, causing the\nhunt to generate 1 less blood and inflict 1 damage, sending Vamp A to\ntorpor.\n\nOr is this totally wrong? Can Player A, when Foul Blood is played:\n1.) Hunt and move 1 blood on to Vamp A\n2.) Move the just-gained blood to Hunger Moon\n3.) claim that \"the 1 less blood\" provision doesn't work because the\nblood is already gone (similar to a \"burn 1 blood provision upon a\nvampire with 0 blood on it)\n4.) Take 1 damage, removing the blood counter it already had, leaving\nit at 0 blood, but NOT in torpor.\n\nJust confused how these 2 cards should interact.\n\nThanks!\n-Asif Chaudhry"
+    },
+    {
+      "Author": "Peter D Bakija",
+      "Date": "Mar 28, 2010, 5:18:59\u202FPM",
+      "Body": "On Mar 28, 10:36 am, OldFan <asif.i.chaud...@gmail.com> wrote:\n> Just curious if it is possible for Hunger Moon and Foul Blood to\n> interact in such a way that a vamp with 1 blood on it goes to torpor?\n\nGood lord. Asif--what are you doing with this?\n\nShudder.\n\n-Peter"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 28, 2010, 6:27:55\u202FPM",
+      "Body": "On Mar 28, 10:36 am, OldFan <asif.i.chaud...@gmail.com> wrote:\n\n> Hey Scott,\n>\n> Just curious if it is possible for Hunger Moon and Foul Blood to\n> interact in such a way that a vamp with 1 blood on it goes to torpor?\n\nNo. Foul Blood is played before the vampire gains the blood form the\nhunt (otherwise it could not modify the amount gained). Hunger Moon's\neffect is applied after the vampire gains blood from the hunt.\n\nA: Vampire Bob (with 1 blood) hunts (for 1).\nTable: no block.\nA: The hunt is successful (reaches for a blood from the bank)\nB: Wait. Foul Blood. Bob gains 1 fewer blood from the hunt and takes 1\ndamage.\nA: OK. The hunt is not successful* and Bob heals the damage (burning 1\nblood).\n\nSince the hunt is not successful, Hunger Moon's effect no longer\napplies (although if it did, it would not have any effect, since Bob\nhas no blood to move to the event).\n\n* http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/f280c5c520c84adc\n\n> My thought:  A vamp with 1 blood declares a hunt action.  No one\n> declares a block, thereby making the hunt \"Successful\".  At this\n\nMaking the action successful.\n\n> point, Player B can ask Player A to move 1 blood (already on the vamp)\n> from Vamp A to Hunger Moon, and then plays Foul Blood, causing the\n> hunt to generate 1 less blood and inflict 1 damage, sending Vamp A to\n> torpor.\n\nB can't make A move blood to the event before A gains blood from the\nhunt.\n\n> Or is this totally wrong?  Can Player A, when Foul Blood is played:\n> 1.) Hunt and move 1 blood on to Vamp A\n> 2.) Move the just-gained blood to Hunger Moon\n> 3.) claim that \"the 1 less blood\" provision doesn't work because the\n> blood is already gone (similar to a \"burn 1 blood provision upon a\n> vampire with 0 blood on it)\n> 4.) Take 1 damage, removing the blood counter it already had, leaving\n> it at 0 blood, but NOT in torpor.\n\nThe \"1 less blood\" provision is not a retroactive effect. It isn't\nthat it is similar to burning blood on an empty vampire.\n\n\uE5D3"
+    },
+    {
+      "Author": "OldFan",
+      "Date": "Mar 29, 2010, 11:57:47\u202FPM",
+      "Body": "On Mar 28, 12:27 pm, LSJ <vtes...@white-wolf.com> wrote:\n> On Mar 28, 10:36 am, OldFan <asif.i.chaud...@gmail.com> wrote:\n>\n> > Hey Scott,\n>\n> > Just curious if it is possible for Hunger Moon and Foul Blood to\n> > interact in such a way that a vamp with 1 blood on it goes to torpor?\n>\n> No. Foul Blood is played before the vampire gains the blood form the\n> hunt (otherwise it could not modify the amount gained). Hunger Moon's\n> effect is applied after the vampire gains blood from the hunt.\n\nThanks Scott - I had a feeling that was how it worked, but just wanted\nto make sure.\n\n-Asif Chaudhry\n\np.s. Peter, don't worry. My jank-tastic decks never win. Of course,\nif you're sitting next to me, you might not like the smoking hole\neffect this deck generates, but if you are cross table, you'll be pure\ngold! :)"
+    }
+  ]
+}

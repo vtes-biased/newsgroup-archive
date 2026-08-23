@@ -1,0 +1,67 @@
+{
+  "ThreadId": "umfwrRNa2zM",
+  "Url": "https://groups.google.com/g/rec.games.trading-cards.jyhad/c/umfwrRNa2zM",
+  "Title": "[LSJ] Damage resolution",
+  "Messages": [
+    {
+      "Author": "Mike Ooi",
+      "Date": "Sep 19, 2001, 12:32:27\u202FAM",
+      "Body": "LSJ,\n\nWhen a minion strikes for, say -2 strength, does that minion's strike\nresolve for 0 damage or -2 damage?\n\n(*And yes, I have something brewing based on your answer*)\n\n-Mike Ooi"
+    },
+    {
+      "Author": "Sorrow",
+      "Date": "Sep 19, 2001, 12:56:40\u202FAM",
+      "Body": "> When a minion strikes for, say -2 strength, does that minion's strike\n> resolve for 0 damage or -2 damage?\n> (*And yes, I have something brewing based on your answer*)\n\nMy guess is that it resolves for -2 but the minion takes no damage. So if\nthe striking minion were to try to actually inflict damage, it would have to\ngenerate an additional +3 (to resolve to 1 damage).\nThis would fall in line with negative bleeds and bleed modifiers/Life Boon.\n\nSorrow\n---\n\"Our generation has had no Great Depression, no Great War.\nOur war is a spiritual war. Our depression is our lives.\"\n- Tyler Durden"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 19, 2001, 2:46:58\u202FPM",
+      "Body": "Sorrow wrote:\n>\n> > When a minion strikes for, say -2 strength, does that minion's strike\n> > resolve for 0 damage or -2 damage?\n> > (*And yes, I have something brewing based on your answer*)\n>\n> My guess is that it resolves for -2 but the minion takes no damage. So if\n> the striking minion were to try to actually inflict damage, it would have to\n> generate an additional +3 (to resolve to 1 damage).\n> This would fall in line with negative bleeds and bleed modifiers/Life Boon.\n\nMostly correct. It resolves for -2, resulting in 0 damage \"successfully inflicted\".\nSo if you do just 0 (more than -2) damage - you still get only 0 damage \"successfully\ninflicted\" - not more than your opponent - no Disarm.\n\n--\nLSJ (vte...@white-wolf.com) V:TES Net.Rep for White Wolf, Inc.\nLinks to revised rulebook, rulings, errata, and tournament rules:\nhttp://www.white-wolf.com/vtes/"
+    },
+    {
+      "Author": "Mike Ooi",
+      "Date": "Sep 19, 2001, 9:43:20\u202FPM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\nnews:3BA893C2...@white-wolf.com...\n\n> Sorrow wrote:\n> >\n> > > When a minion strikes for, say -2 strength, does that minion's strike\n> > > resolve for 0 damage or -2 damage?\n> > > (*And yes, I have something brewing based on your answer*)\n> >\n> > My guess is that it resolves for -2 but the minion takes no damage. So\nif\n> > the striking minion were to try to actually inflict damage, it would\nhave to\n> > generate an additional +3 (to resolve to 1 damage).\n> > This would fall in line with negative bleeds and bleed modifiers/Life\nBoon.\n>\n> Mostly correct. It resolves for -2, resulting in 0 damage \"successfully\ninflicted\".\n> So if you do just 0 (more than -2) damage - you still get only 0 damage\n\"successfully\n> inflicted\" - not more than your opponent - no Disarm.\n\nSo, if a minion has -1 strength and a superior Skin of the Adder, does the\ndamage resolve for -1 + 1, or does the damage resolve for 0 + 1, as the card\nprovides an additional point of damage, not an increase in strength?\n\nSkin of the Adder\n:Play before range is determined. Prevent 1 damage each round. A vampire can\nplay only one Skin of the Adder each combat.\n:As above, and this vampire's hand strikes inflict an additional point of\ndamage for the remainder of combat\n\n-Mike"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Sep 19, 2001, 9:49:06\u202FPM",
+      "Body": "Mike Ooi wrote:\n>\n> \"LSJ\" <vte...@white-wolf.com> wrote in message\n> news:3BA893C2...@white-wolf.com...\n> > Sorrow wrote:\n> > >\n> > > > When a minion strikes for, say -2 strength, does that minion's strike\n> > > > resolve for 0 damage or -2 damage?\n> > > > (*And yes, I have something brewing based on your answer*)\n> > >\n> > > My guess is that it resolves for -2 but the minion takes no damage. So\n> if\n> > > the striking minion were to try to actually inflict damage, it would\n> have to\n> > > generate an additional +3 (to resolve to 1 damage).\n> > > This would fall in line with negative bleeds and bleed modifiers/Life\n> Boon.\n> >\n> > Mostly correct. It resolves for -2, resulting in 0 damage \"successfully\n> inflicted\".\n> > So if you do just 0 (more than -2) damage - you still get only 0 damage\n> \"successfully\n> > inflicted\" - not more than your opponent - no Disarm.\n>\n> So, if a minion has -1 strength and a superior Skin of the Adder, does the\n> damage resolve for -1 + 1, or does the damage resolve for 0 + 1, as the card\n> provides an additional point of damage, not an increase in strength?\n\n-1 + 1 = 0. It provides an increase in the damage done by the hand strike\n(\"inflict additional\" as opposed to the \"successfully inflicted\" discussion above).\n\n\uE5D3"
+    },
+    {
+      "Author": "Mike Ooi",
+      "Date": "Sep 20, 2001, 12:32:10\u202FAM",
+      "Body": "\"LSJ\" <vte...@white-wolf.com> wrote in message\n\nnews:3BA8F6B2...@white-wolf.com...\n\n> > So, if a minion has -1 strength and a superior Skin of the Adder, does\nthe\n> > damage resolve for -1 + 1, or does the damage resolve for 0 + 1, as the\ncard\n> > provides an additional point of damage, not an increase in strength?\n>\n> -1 + 1 = 0. It provides an increase in the damage done by the hand strike\n> (\"inflict additional\" as opposed to the \"successfully inflicted\"\ndiscussion above).\n\nAhh.\nSo it is similar to the card \"Increased Strength\" which increases damage,\nnot strength, even if the original damage is based on strength due to a\nPotence hand strike...\n\nIsn't that something? \"Increased Strength\" really doesn't.\n\nLSJ, please ban Increased Strength from VEKN sanctioned Tournaments. And\nPhobia.\n\nThank You,\n\nMike Ooi"
+    },
+    {
+      "Author": "Raille",
+      "Date": "Sep 20, 2001, 4:15:49\u202FAM",
+      "Body": "Mike Ooi wrote:\n> LSJ, please ban Increased Strength from VEKN sanctioned Tournaments. And\n> Phobia.\n>\n\nPhobia is so weak, I am lost as to why you want it banned. I can't even\nrecall anyone using it. ever.\n\nRaille"
+    },
+    {
+      "Author": "Sorrow",
+      "Date": "Sep 20, 2001, 5:06:06\u202FAM",
+      "Body": "> > LSJ, please ban Increased Strength from VEKN sanctioned Tournaments. And\n> > Phobia.\n> Phobia is so weak, I am lost as to why you want it banned. I can't even\n> recall anyone using it. ever.\n\nDamn, Mike's reeling them in hook, line and sinker.\nAnother nice catch, Mike. :p\n\nSorrow\n---\n\"I'll be watching the news. If anything is vandalized or explodes\nor catches on fire, 'X' is going to equal me kicking your ass!\"\n- Red Forman"
+    },
+    {
+      "Author": "skippy",
+      "Date": "Sep 20, 2001, 4:49:00\u202FPM",
+      "Body": "\"Mike Ooi\" <sh...@texas.net> wrote in message\nnews:K19q7.568320$ai2.43...@bin2.nnrp.aus1.giganews.com...\n\uE5D3\n\nhaha 6 Phobia's went on Ebay for like 8 bucks. Why anyone would buy Phobia?\nI have no idea.\n\nOscar Garza\nPrince of College Station\nThe Crazy Aggie\n[insert sidekick's line here]"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "Sep 20, 2001, 6:15:24\u202FPM",
+      "Body": "On Thu, 20 Sep 2001 09:49:00 -0500, \"skippy\" <ski...@nospam.tamu.edu>\nwrote:\n\n>\"Mike Ooi\" <sh...@texas.net> wrote in message\n>news:K19q7.568320$ai2.43...@bin2.nnrp.aus1.giganews.com...\n>>\n\n>> LSJ, please ban Increased Strength from VEKN sanctioned Tournaments. And\n>> Phobia.\n>\n>haha 6 Phobia's went on Ebay for like 8 bucks. Why anyone would buy Phobia?\n>I have no idea.\n\nDude. Mike Ooi has a plan for world domination using Phobia. You gotta\nbe careful. He's crafty and stuff... he'll FIND a way, like the DEM/SER\ndeck which puts Lunatic Eruptions on its predator... and then uses\nPhobia to protect itself!\n\nHow can THAT be bad?\n\n--\n\nDerek\n\nAGITATOR, n. A statesman who shakes the fruit trees of\nhis neighbors -- to dislodge the worms."
+    },
+    {
+      "Author": "James Coupe",
+      "Date": "Sep 20, 2001, 6:36:21\u202FPM",
+      "Body": "In message <ee5kqtc3khs374r8u...@4ax.com>, Derek Ray\n<lor...@yah00.com> writes\n\n>Dude. Mike Ooi has a plan for world domination using Phobia. You gotta\n>be careful. He's crafty and stuff... he'll FIND a way, like the DEM/SER\n>deck which puts Lunatic Eruptions on its predator... and then uses\n>Phobia to protect itself!\n>\n>How can THAT be bad?\n\nTrade your predator Mark of Damnation and a Serpentis vampire, too,\nusing Succubus Club. Wastes even more actions.\n\nSubtly devious.\n\n--\nJames Coupe PGP Key: 0x5D623D5D\nClose your eyes so you don't feel them EBD690ECD7A1F\nThey don't need to see you cry B457CA213D7E6\nI can't promise I will heal you, but if you want to I will try 68C3695D623D5D"
+    },
+    {
+      "Author": "Derek Ray",
+      "Date": "Sep 20, 2001, 6:56:26\u202FPM",
+      "Body": "On Thu, 20 Sep 2001 17:36:21 +0100, James Coupe <ja...@zephyr.org.uk>\nwrote:\n\n>In message <ee5kqtc3khs374r8u...@4ax.com>, Derek Ray\n><lor...@yah00.com> writes\n>>Dude. Mike Ooi has a plan for world domination using Phobia. You gotta\n>>be careful. He's crafty and stuff... he'll FIND a way, like the DEM/SER\n>>deck which puts Lunatic Eruptions on its predator... and then uses\n>>Phobia to protect itself!\n>>\n>>How can THAT be bad?\n>\n>Trade your predator Mark of Damnation and a Serpentis vampire, too,\n>using Succubus Club. Wastes even more actions.\n>\n>Subtly devious.\n\nDementedly serpentine, even.\n\n\uE5D3"
+    }
+  ]
+}
