@@ -16,6 +16,7 @@ import pathlib
 import re
 import shutil
 import sys
+import unicodedata
 
 # Google Groups substitutes this private-use character for the quoted text it
 # folds away behind a "show trimmed content" button. The scrape never saw the
@@ -27,6 +28,23 @@ DATE_FORMATS = (
     "%b %d, %Y, %I:%M %p",
     "%b %d, %Y",
 )
+
+#: What counts as a word for the search index: letters and digits, with
+#: apostrophes and hyphens allowed inside, lowercased. Two characters is the
+#: shortest thing worth filing, thirty the longest thing worth calling a word.
+RE_WORD = re.compile(r"[a-z0-9][a-z0-9'\-]*")
+WORD_MIN, WORD_MAX = 2, 30
+#: Accents are stripped before a word is filed, and stripped again from what is
+#: typed, so that Rötschreck is one word rather than "r" and "tschreck" and is
+#: found by the spelling most of the group used. The letters here are the ones
+#: that carry no accent to peel off: they have to be spelled out by hand.
+LIGATURES = str.maketrans(
+    {"æ": "ae", "œ": "oe", "ß": "ss", "ø": "o", "ð": "d", "đ": "d", "ł": "l", "þ": "th"}
+)
+#: A prefix matches many words, and unioning all of them helps nobody: 'ra'
+#: starts 906 of them. Beyond three characters 89% of prefixes in this archive
+#: reach ten words or fewer, so ten is where the search stops widening.
+PREFIX_CAP = 10
 
 RE_URL = re.compile(r"https?://[^\s<>&\"']+")
 RE_QUOTE = re.compile(r"^\s*(>+)")
@@ -219,6 +237,67 @@ class Thread:
         )
 
 
+def fold(text: str) -> str:
+    """Lowercase and strip the accents, so a word is spelled one way only."""
+    stripped = unicodedata.normalize("NFKD", text.lower().translate(LIGATURES))
+    return "".join(c for c in stripped if not unicodedata.combining(c))
+
+
+def thread_words(thread: "Thread") -> set[str]:
+    """Every distinct word in a thread: its title, its authors, its messages.
+
+    Quoted lines are indexed like any other. They cost 0.9% more postings than
+    skipping them would, because a quoted word is nearly always somewhere else
+    in the same thread anyway -- and when it is not, it is usually mail from
+    another list that the archive holds nowhere but inside that quote.
+    """
+    text = fold(
+        "\n".join(
+            [thread.title]
+            + [m["Author"] for m in thread.messages]
+            + [m["Body"] for m in thread.messages]
+        )
+    )
+    return {w for w in RE_WORD.findall(text) if WORD_MIN <= len(w) <= WORD_MAX}
+
+
+def shard_name(term: str) -> str:
+    """The file a term is filed in: its first two characters, made safe."""
+    return "".join(c if c.isalnum() else "_" for c in term[:2])
+
+
+def write_search_index(out: pathlib.Path, postings: dict[str, list[int]]) -> None:
+    """Write the word index the search page reads, split into small files.
+
+    Whole, the index is 17 MB, 4.7 MB of it over the wire -- too much to hand a
+    phone before it can search at all. Split by the first two characters of the
+    word, a query fetches one file (a few KB for most, 167 KB gzipped for
+    co.txt, the worst of them) and the rest is never downloaded.
+
+    A line is ``word threads gap,gap,gap``: how many threads contain the word,
+    then their positions in threads.json as gaps from the one before, so the
+    numbers stay short. The file is sorted by word, which is what makes a
+    prefix a run of consecutive lines.
+    """
+    shards: dict[str, list[str]] = {}
+    for term in sorted(postings):
+        docs = postings[term]
+        gaps = []
+        previous = 0
+        for doc in docs:
+            gaps.append(str(doc - previous))
+            previous = doc
+        shards.setdefault(shard_name(term), []).append(
+            f"{term} {len(docs)} {','.join(gaps)}"
+        )
+    for name, lines in shards.items():
+        write(out / "find" / f"{name}.txt", "\n".join(lines) + "\n")
+    print(
+        f"{len(postings):,} words in {len(shards)} files, "
+        f"{sum(len(d) for d in postings.values()):,} word-thread pairs -> find/"
+    )
+
+
 def write(path: pathlib.Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
@@ -259,7 +338,7 @@ they will point here instead, because this copy is not going anywhere.</p>
 <ul class="years">
 {years}
 </ul>
-<p class="note"><a href="search/">Search titles and authors</a> &middot;
+<p class="note"><a href="search/">Search the full text</a> &middot;
 <a href="about/">Where this came from</a></p>"""
     return page("rec.games.trading-cards.jyhad archive", body, depth=0)
 
@@ -318,6 +397,13 @@ translated mechanically:</p>
 second, and so on. The <span class="permalink">#</span> beside each author name
 is that message's own link.</p>
 
+<h2>Searching it</h2>
+<p><a href="../search/">Search</a> covers every word of every message, and the
+thread titles and author names besides. The word index is built with the site
+and split into small files, one per pair of opening characters, so a search
+downloads the words it needs rather than the whole archive &mdash; it works on a
+phone, and it works with no server behind it.</p>
+
 <h2>Provenance</h2>
 <p>The threads come from Google Groups' copy of the newsgroups, filled out from
 the <a href="https://archive.org/details/usenet-rec">Internet Archive</a>'s copy
@@ -332,48 +418,171 @@ reference and preservation.</p>"""
 
 
 def render_search() -> str:
+    """The search page: a word index fetched a shard at a time.
+
+    It reads threads.json for the rows it shows and one file per word typed for
+    the threads to show, so the first search costs a few KB rather than the
+    whole index.
+    """
     body = """<nav class="crumbs"><a href="../">Archive</a></nav>
 <h1>Search</h1>
-<p class="meta">Thread titles and author names. Message text is not indexed
-&mdash; there is too much of it to search in your browser.</p>
+<p class="meta">Every word of every message, with thread titles and author
+names. A word matches from the start, so <code>temptat</code> finds
+<em>temptation</em> and <em>temptations</em>; type at least __MIN__ characters.
+Several words narrow the search &mdash; a thread has to hold them all.</p>
 <form id="f" onsubmit="return false"><input id="q" type="search"
-  placeholder="Camarilla Exemplary" autofocus autocomplete="off"
-  aria-label="Search thread titles and authors"></form>
+  placeholder="temptation torpor" autofocus autocomplete="off"
+  aria-label="Search the archive"></form>
 <p id="status" class="meta">Loading the index&hellip;</p>
 <table class="listing" id="results"></table>
 <script>
 (function () {
-  var data = null, status = document.getElementById('status'),
-      out = document.getElementById('results'), box = document.getElementById('q');
+  var MIN = __MIN__, CAP = __CAP__, LIMIT = 300;
+  var WORD = /[a-z0-9][a-z0-9'-]*/g, MARKS = /[\u0300-\u036f]/g;
+  var LIGATURES = [[/æ/g, 'ae'], [/œ/g, 'oe'], [/ß/g, 'ss'], [/ø/g, 'o'],
+                   [/đ|ð/g, 'd'], [/ł/g, 'l'], [/þ/g, 'th'], [/ħ/g, 'h']];
+
+  // The same folding the index was built with: accents off, so that what is
+  // typed is spelled the way the words in the files are.
+  function fold(text) {
+    var out = text.toLowerCase(), i;
+    for (i = 0; i < LIGATURES.length; i++) {
+      out = out.replace(LIGATURES[i][0], LIGATURES[i][1]);
+    }
+    return out.normalize ? out.normalize('NFKD').replace(MARKS, '') : out;
+  }
+  var rows = null, shards = {}, latest = 0;
+  var status = document.getElementById('status'),
+      out = document.getElementById('results'),
+      box = document.getElementById('q');
+
   fetch('../threads.json').then(function (r) { return r.json(); })
-    .then(function (d) { data = d; status.textContent =
-      d.length + ' threads indexed.'; run(); })
+    .then(function (d) { rows = d; run(); })
     .catch(function () { status.textContent =
       'Could not load the index. Browse by year instead.'; });
-  function run() {
-    var q = box.value.trim().toLowerCase();
-    out.innerHTML = '';
-    if (!data || q.length < 2) {
-      status.textContent = data ? data.length + ' threads indexed.' : '';
-      return;
+
+  // One file per two opening characters. A word whose second character is an
+  // apostrophe or a hyphen is filed under "_", as the file name has it.
+  function shard(word) {
+    var name = word.slice(0, 2).replace(/[^a-z0-9]/g, '_');
+    if (!shards[name]) {
+      shards[name] = fetch('../find/' + name + '.txt').then(function (r) {
+        return r.ok ? r.text() : '';
+      }).then(function (text) {
+        return text ? text.split('\\n') : [];
+      }).catch(function () { return []; });
     }
-    var hits = [], i;
-    for (i = 0; i < data.length && hits.length < 300; i++) {
-      if (data[i][1].toLowerCase().indexOf(q) >= 0 ||
-          data[i][3].toLowerCase().indexOf(q) >= 0) hits.push(data[i]);
-    }
-    status.textContent = hits.length + (hits.length === 300 ? '+' : '') +
-      ' matching thread' + (hits.length === 1 ? '' : 's') + '.';
-    var rows = hits.map(function (t) {
-      return '<tr><td class="d">' + t[2] + '</td><td><a href="../t/' + t[0] +
-        '/">' + t[1].replace(/&/g, '&amp;').replace(/</g, '&lt;') +
-        '</a></td><td class="n">' + t[4] + '</td></tr>';
-    });
-    out.innerHTML = rows.join('');
+    return shards[name];
   }
+
+  // Every word in the file starting with this one, commonest first: the file
+  // is sorted, so they are consecutive, but there can be hundreds of them.
+  function lookup(lines, word) {
+    var found = [], i;
+    for (i = 0; i < lines.length; i++) {
+      if (lines[i].lastIndexOf(word, 0) === 0) found.push(lines[i].split(' '));
+    }
+    found.sort(function (a, b) { return b[1] - a[1]; });
+    var chosen = [], exact = null;
+    for (i = 0; i < found.length; i++) if (found[i][0] === word) exact = found[i];
+    if (exact) chosen.push(exact);
+    for (i = 0; i < found.length && chosen.length < CAP; i++) {
+      if (found[i] !== exact) chosen.push(found[i]);
+    }
+    var threads = {};
+    for (i = 0; i < chosen.length; i++) {
+      var gaps = chosen[i][2].split(','), doc = 0, j;
+      for (j = 0; j < gaps.length; j++) {
+        doc += +gaps[j];
+        threads[doc] = true;
+      }
+    }
+    return { threads: threads, matched: found.length, used: chosen.length };
+  }
+
+  function inTitle(title, words) {
+    var found = fold(title).match(WORD) || [], i, j;
+    for (i = 0; i < words.length; i++) {
+      for (j = 0; j < found.length; j++) {
+        if (found[j].lastIndexOf(words[i], 0) === 0) return true;
+      }
+    }
+    return false;
+  }
+
+  function escape(text) {
+    return text.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+  }
+
+  function idle() {
+    out.innerHTML = '';
+    status.textContent = rows ? rows.length.toLocaleString() +
+      ' threads indexed. Type ' + MIN + ' characters to search.' : '';
+  }
+
+  function show(words, results) {
+    var threads = results[0].threads, i, doc;
+    for (i = 1; i < results.length; i++) {
+      var next = {};
+      for (doc in threads) if (results[i].threads[doc]) next[doc] = true;
+      threads = next;
+    }
+    var hits = [];
+    for (doc in threads) hits.push(+doc);
+    hits.sort(function (a, b) { return a - b; });
+    // Date order alone buries the thread that is plainly about the word under
+    // every 1994 post that mentions it in passing, and the 300-row cap then
+    // hides it altogether. Threads whose title holds a word come first; within
+    // each half the archive's own order stands.
+    var titled = [], others = [];
+    for (i = 0; i < hits.length; i++) {
+      (inTitle(rows[hits[i]][1], words) ? titled : others).push(hits[i]);
+    }
+    hits = titled.concat(others);
+
+    var note = [];
+    for (i = 0; i < results.length; i++) {
+      if (results[i].matched > results[i].used) {
+        note.push(results[i].used + ' commonest of ' + results[i].matched +
+          ' words starting “' + words[i] + '”');
+      } else if (!results[i].matched) {
+        note.push('no word starts “' + words[i] + '”');
+      }
+    }
+    status.textContent = hits.length.toLocaleString() +
+      (hits.length > LIMIT ? ' threads, first ' + LIMIT + ' shown, titles first' :
+       ' thread' + (hits.length === 1 ? '' : 's')) +
+      (note.length ? ' · ' + note.join('; ') : '') + '.';
+
+    var html = [];
+    for (i = 0; i < hits.length && i < LIMIT; i++) {
+      var t = rows[hits[i]];
+      html.push('<tr><td class="d">' + t[2] + '</td><td><a href="../t/' +
+        t[0] + '/">' + escape(t[1]) + '</a></td><td class="n">' + t[4] +
+        '</td></tr>');
+    }
+    out.innerHTML = html.join('');
+  }
+
+  function run() {
+    if (!rows) return;
+    var typed = fold(box.value).match(WORD) || [], words = [], i;
+    for (i = 0; i < typed.length; i++) {
+      if (typed[i].length >= MIN) words.push(typed[i]);
+    }
+    if (!words.length) { idle(); return; }
+    var mine = ++latest;
+    Promise.all(words.map(function (word) {
+      return shard(word).then(function (lines) { return lookup(lines, word); });
+    })).then(function (results) {
+      if (mine === latest) show(words, results);
+    });
+  }
+
   box.addEventListener('input', run);
 })();
 </script>"""
+    body = body.replace("__MIN__", str(WORD_MIN)).replace("__CAP__", str(PREFIX_CAP))
     return page("Search — jyhad newsgroup archive", body, depth=1)
 
 
@@ -403,6 +612,9 @@ def main() -> int:
     index: list[list] = []
     seen: set[str] = set()
     total_messages = 0
+    #: word -> the threads holding it, numbered in the order they are read here
+    #: and renumbered below, once the order threads.json will use is known.
+    postings: dict[str, list[int]] = {}
 
     for count, path in enumerate(paths, 1):
         thread = Thread(path)
@@ -422,6 +634,8 @@ def main() -> int:
                 len(thread.messages),
             ]
         )
+        for word in thread_words(thread):
+            postings.setdefault(word, []).append(count - 1)
         if count % 2000 == 0:
             print(f"  {count}/{len(paths)} threads")
 
@@ -432,11 +646,21 @@ def main() -> int:
     write(out / "index.html", render_index(by_year, total_messages))
     write(out / "about" / "index.html", render_about(len(paths), total_messages))
     write(out / "search" / "index.html", render_search())
-    index.sort(key=lambda row: row[2])
+    # threads.json is what the search page reads a hit back out of, so a word
+    # is filed under a thread's position in it, not the order the files were
+    # read in. Sorting is stable, so threads sharing a date keep their order.
+    order = sorted(range(len(index)), key=lambda i: index[i][2])
+    rank = [0] * len(order)
+    for position, original in enumerate(order):
+        rank[original] = position
+    index = [index[i] for i in order]
+    for word, docs in postings.items():
+        docs[:] = sorted(rank[doc] for doc in docs)
     write(
         out / "threads.json",
         json.dumps(index, ensure_ascii=False, separators=(",", ":")),
     )
+    write_search_index(out, postings)
     shutil.copyfile(here / "static" / "site.css", out / "site.css")
     write(out / ".nojekyll", "")
     write(out / "robots.txt", "User-agent: *\nAllow: /\n")

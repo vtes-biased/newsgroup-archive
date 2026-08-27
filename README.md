@@ -67,6 +67,23 @@ the first N threads only, for a fast look at a style change).
 The site is published to GitHub Pages by `.github/workflows/pages.yml` on every
 push to `main`. Generated HTML is not committed.
 
+## Searching it
+
+`/search/` covers every word of every message, with no server behind it. The
+build writes a word index to `_site/find/`: one file per pair of opening
+characters, each line `word threads gap,gap,gap` — how many threads hold the
+word, then their positions in `threads.json`, written as gaps so the numbers
+stay short.
+
+Whole, the index is 17 MB (4.7 MB over the wire), which is more than a phone
+should have to fetch to search at all. Split this way, a query downloads only
+the files its words fall in: a few KB for most of them, 167 KB for `co.txt`,
+the worst of the 1,331. Words are matched by prefix, which a sorted file gives
+for nothing — the matches are consecutive lines. A prefix that starts more than
+ten words is cut to the ten commonest, because `ra` starts 906 of them and
+unioning all 906 helps nobody. Accents come off on both sides, so Rötschreck and
+Rotschreck are one word; the group spelled it both ways.
+
 ## Provenance and rights
 
 The threads were scraped from Google Groups' copy of the newsgroup. Posts are
