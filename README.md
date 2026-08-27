@@ -9,7 +9,7 @@ instead of Google Groups.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 10,322 threads, 129,271
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 10,712 threads, 132,079
 messages, 1994 to 2010. This is every thread in which one of the game's rules
 directors posted: Thomas R. Wylie (from December 1994), Shawn F. Carnes (July
 1996), Jon Wilkie (October 1996) and L. Scott Johnson (June 1998 onward).
