@@ -158,12 +158,20 @@ def read(url: str) -> dict:
 #: across every thread, so a name is asked for once and then remembered.
 NAMES: dict[int, str] = {}
 
+#: A handle is all BoardGameGeek knows a poster by, and for all but one of them
+#: that is all the archive needs. These threads are here for the Rules Director's
+#: answers, and a reader who came from a ruling citing one should not have to
+#: know which handle was his, so his is annotated with the name the newsgroup
+#: knew him by.
+ANNOTATED = {"Rulemonger": "L. Scott Johnson (Rulemonger)"}
+
 
 def named(who: int, delay: float) -> str:
     """What a poster is called, asked for at most once."""
     if who not in NAMES:
         time.sleep(delay)
-        NAMES[who] = read(USER.format(who=who))["username"]
+        handle = read(USER.format(who=who))["username"]
+        NAMES[who] = ANNOTATED.get(handle, handle)
     return NAMES[who]
 
 

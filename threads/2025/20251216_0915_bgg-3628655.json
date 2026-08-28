@@ -23,7 +23,7 @@
       "Id": "47031408"
     },
     {
-      "Author": "Rulemonger",
+      "Author": "L. Scott Johnson (Rulemonger)",
       "Date": "Dec 20, 2025, 2:29:28\u202FPM",
       "Body": "If it helps, think of handling the damage via TheDamageHandlingProgram(tm), whose pseudocode is:\n\nApplyDamageToVampire ( vampire v, unsigned int normal, unsigned int aggravated )\n{\nwhile( normal > 0)\n{\nif (v.blood > 0) v.blood--\nelse v.wounded = true\nnormal--\n}\nwhile( aggravated > 0)\n{\nif( not v.wounded ) v.wounded = true\nelse if (v.blood > 0) v.blood--\nelse v.burned = true\naggravated--\n}\n\nif (v.burned) Burn(v)\nelse if(v.wounded) SendToTorpor(v)\n}",
       "Id": "47046729"
