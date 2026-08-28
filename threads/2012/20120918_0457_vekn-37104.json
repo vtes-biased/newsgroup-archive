@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-37104",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/37104-stealth-vs-intercept",
+  "Title": "Stealth vs. Intercept",
+  "Messages": [
+    {
+      "Author": "manocik",
+      "Date": "Sep 18, 2012, 4:57\u202FAM",
+      "Body": "Hi everybody.\n\nthe rule book states: \"intercept can be added during an action only when needed\"\n\nour situation is: I played +1 stealth, my prey as a reaction plays +2 intercept (enchanted senses superior). does it counts just as +1 intercept, because it exceeds the amount of intercept needed? so when i play another +1 stealth, do I still have bigger stealth than my pray\u00B4s intercept or I just equals his 2?\n\nthanks",
+      "Id": "37104"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 18, 2012, 5:14\u202FAM",
+      "Body": "> manocik wrote:\n> Hi everybody.\n>\n> the rule book states: \"intercept can be added during an action only when needed\"\n>\n> our situation is: I played +1 stealth, my prey as a reaction plays +2 intercept (enchanted senses superior). does it counts just as +1 intercept, because it exceeds the amount of intercept needed? so when i play another +1 stealth, do I still have bigger stealth than my pray\u00B4s intercept or I just equals his 2?\n>\n> thanks\n>\n+2 intercept grants 2 intercept.\n\"only wheen needed\" means you can't play Enhanced Senses / Precognition if your intercept matches or exceeds the stealth amount (or, of course, if you're not attempting to block).\nSo, if Arika declares a +1 stealth action, Isabel de Leon can attempt to block and play basic Enhanced Senses (for +1 intercept) or superior Enhanced Senses (for +2 intercept), as her default intercept is 0 (which is less than 1).\nIf she plays Enhanced Senses at superior, Arika needs 2 additional stealth (1 would only match Isabel's intercept amount, which would have the action blocked, if nothing else is played).",
+      "Id": "37105"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 18, 2012, 5:15\u202FAM",
+      "Body": "As long as you may play the card, you may play it for any amount. In your example, your Enhanced Senses counts for +2, then you cannot play another intercept card until the acting minion has added another 2 or more stealth.",
+      "Id": "37106"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Sep 18, 2012, 5:20\u202FAM",
+      "Body": "If it says +2 intercept (and need atleast one) you are forced to recieve it all.\n\nHere is a few other stealth/intercept cards that could be misinterpreted.\n\nAnother example. The card Gremlin states:\n+1 stealth action.  Bleed at +1 bleed.\nThis means the vampire is forced to recieve +1 stealth even though he does not need it because the card states that the action is at +1 stealth.\n\nAnother example. The action modifier card Bonding states:\ndom: +1 bleed.\nDOM: +1 stealth and +1 bleed\nIf you do not need the stealth you can not use it at superior DOM.\n\nAnother example. The reaction card Eagle's Sight states:\naus: +1 intercept.\nAUS: This reacting vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\nEven though you do not need the intercept you can play the card at superior because nowhere in the text states that it is an effect that grant intercept. However, you can not play it at inferior if you do not need intercept.",
+      "Id": "37109"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Sep 18, 2012, 5:20\u202FAM",
+      "Body": "It count as the full +2. Like every intercept source, he can play only because he need at least 1 intercept, but can use the full +2 if need arise.",
+      "Id": "37110"
+    }
+  ]
+}

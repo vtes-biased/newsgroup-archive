@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-36453",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/36453-familial-bond-and-additional-after-resolution-effects",
+  "Title": "Familial Bond and additional after resolution effects",
+  "Messages": [
+    {
+      "Author": "Azel",
+      "Date": "Sep 11, 2012, 1:31\u202FAM",
+      "Body": "Familial Bond does not have the Fast Reaction (or Hidden Lurker) clause \"Only usable after a combat between...\" It just adds an optional after resolution effect for a failed block. Given that you can have more than one block fail during an action, does this allow more than one after resolution effect to trigger? How would this be a multiple cued combat issue (especially since the combats are optional)?\n\nFamilial Bond\nReaction\n1 blood\nRequires a Laibon.\nOnly usable on an action directed at another Laibon you control or on a bleed against you. +1 intercept. If this block fails, the acting minion may choose to make the action fail. If the action succeeds, this Laibon may tap (after resolution) to enter combat with the acting minion.\n\nBasically does the after resolution window continue through an additional combat or does the additional combat end that window? If it's the latter would that mean Freak Drives, Cats' Guidance and the like must be played before FR/HL/FB combat?",
+      "Id": "36453"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Sep 11, 2012, 2:36\u202FAM",
+      "Body": "Usenet\n>\n> LSJ wrote:\n> You cannot queue a combat while there is a combat already queued.\n>\nOnly 1 Familial Bond would queue a combat.",
+      "Id": "36454"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Sep 11, 2012, 9:44\u202FPM",
+      "Body": "Doesn't answer my question. This isn't a question of competing effects being queued simultaneously, requiring sequence resolution (of which the answer is 'no'). The defending methuselah is the origin of both optional effects and does not have to trigger them at the same time.\n\nIf there's 2 Familial Bonds, and they failed to block, there's two after combat effect available and they are both optional. The defender selects one of the failed blockers' Familial Bond effects for combat, fine that works.\n\nHowever after that combat what happens?\n\nDid the after resolution window close upon engaging in this combat? Which would mean Freak Drives and the like must be played (and resolved) before this combat (and HL/FR/CA/Psyche! similarly)? Therefore does that mean an additional combat is not part of the original action?\n\nOr will the after resolution window stay open in which a \"not-queued (as in, was not triggered yet) but currently available optional combat\" effect remains selectable as there's nothing currently in the queue.",
+      "Id": "36523"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 12, 2012, 5:16\u202FAM",
+      "Body": "You can order your \"after resolution\" effects the way you want to order them. If you played several Familial Bond, and the action is successful, you'll have several vampires with the option of tapping to enter combat with the acting minion. This is not a \"queue a combat\" effect (Psyche!, Illusions of the Kindred, Blissful Agony), but rather a \"I have an option\" effect.\n\nBetween the two combats, the acting minion gets the impulse back (and could play Freak Drive, Voter Captivation, ...) for instance. Then, you get the option to trigger a second Familial Bond.\n\n> Azel wrote:\n> Familial Bond does not have the Fast Reaction (or Hidden Lurker) clause \"Only usable after a combat between...\" It just adds an optional after resolution effect for a failed block. Given that you can have more than one block fail during an action, does this allow more than one after resolution effect to trigger? How would this be a multiple cued combat issue (especially since the combats are optional)?\n>\nYes, it allows more than one effect to trigger. This wouldn't be similar to the Psyche! vs Blissful Agony situation, but rather something like Psyche! vs Siren's Lure (where you can play Psyche!, even if a Siren's Lure was played previously).",
+      "Id": "36535"
+    },
+    {
+      "Author": "Killjoy71",
+      "Date": "Sep 12, 2012, 6:34\u202FAM",
+      "Body": "This makes me curious. Could Familial Bond be played upon a Seduction even when the reacting vampire cannot block; there will still be an option to enter combat after the action resolves?\n\nSeduction\nType: Action Modifier\nRequires: Dominate\nOnly usable as the acting vampire's action is announced.\n[dom] Choose a younger vampire. That vampire cannot block this action.\n[DOM] As above, but you may choose a vampire the same age or older\n\nVTES is not for the faint of heart...especially when you don't have a enough blood.\n\nPrince Of Geneva",
+      "Id": "36544"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 12, 2012, 6:39\u202FAM",
+      "Body": "> Killjoy71 wrote:\n> This makes me curious. Could Familial Bond be played upon a Seduction even when the reacting vampire cannot block; there will still be an option to enter combat after the action resolves?\n>\nNo, Familial Bond is not playable by a seduced vampire: you can't gain intercept when it is not needed - and a seduced vampire definitely doesn't need intercept.",
+      "Id": "36545"
+    },
+    {
+      "Author": "Killjoy71",
+      "Date": "Sep 12, 2012, 6:45\u202FAM",
+      "Body": "Thanks for the clarification.\n\nVTES is not for the faint of heart...especially when you don't have a enough blood.\n\nPrince Of Geneva",
+      "Id": "36546"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Sep 12, 2012, 10:29\u202FAM",
+      "Body": "Thanks Pascal! (and thanks too, Adonai!)\n\nDoesn't mean I'm going to pack my Laibon decks w/ Familial Bond, but it does make the card more interesting.",
+      "Id": "36564"
+    }
+  ]
+}

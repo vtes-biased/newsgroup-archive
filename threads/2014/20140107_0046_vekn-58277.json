@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-58277",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/58277-sensory-deprivation-and-banishment",
+  "Title": "Sensory Deprivation and Banishment",
+  "Messages": [
+    {
+      "Author": "Pascek",
+      "Date": "Jan 7, 2014, 12:46\u202FAM",
+      "Body": "Guys,\n\nIf a vampire that played Sensory Deprivation is banished via Banishment, the Sensored Vampire becomes normal whie he is out of play right?\nBut if the Vampire who put the SD becomes ready again, what happens?\nLSJ stated long ago that nothing happened, once broken, the effect would not \"return\".\nBut I have not found any update on it. Can you help?\n\nBanishment :\n\nChoose a younger ready vampire. Successful referendum means that the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects). The vampire is uncontrolled. Any cards and counters on that vampire stay with him or her (but they are out of play as long as the vampire remains uncontrolled).\n\nSensory Deprivation :\n\nChimerstry  Burn any retainer or put this card on any ally. The minion with this card does not untap as normal during the untap phase as long as the acting vampire remains in play.\nCHIMERSTRY As above, but put this card on any vampire in play.\n\nThanks!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "58277"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 7, 2014, 5:45\u202FAM",
+      "Body": "[LSJ 20010807] remains valid: \"There's no \"kicks back in\" clause on SD. Its effect lasts as long as the vampire /remains/ in play. Once he's not in play, the effect ends.\"",
+      "Id": "58286"
+    },
+    {
+      "Author": "CarcaraBR",
+      "Date": "Jan 7, 2014, 9:46\u202FAM",
+      "Body": "I fail to see the logic behind this rulling. If the SD card is put in play by an acting vampire (SD card stays at target), and this vampire is banished the \"doesn't untap effect\" would sure be lost (no problem until here). But once the banished vampire returns to play the SD card (still in the target) condition would be fulfilled again (\"acting vampire remains in play\"), returning the doesn't untap effect. Shouldn't we get an overrule here?",
+      "Id": "58292"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 7, 2014, 10:49\u202FAM",
+      "Body": "> CarcaraBR wrote:\n> But once the banished vampire returns to play the SD card (still in the target) condition would be fulfilled again (\"acting vampire remains in play\"), returning the doesn't untap effect. Shouldn't we get an overrule here?\n>\nNo, that would be \"while the vampire who played this card is in play\", or similar.\n\nGoing away and coming back isn't \"remaining in play\". You remained in play until you went away. You stayed away for a while. Then you came back some time later. It's not fulfilled again, because \"remaining\" is a continuous action - until the point it's broken.\n\nIf, for example, you were told to remain silent and then asked if you'd remained silent, you couldn't claim to have remained silent except for that bit where you talked in the middle.",
+      "Id": "58294"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Jan 7, 2014, 10:57\u202FAM",
+      "Body": "When banished vampire who played Sensory Deprivation returns in play, it does not qualify for Sensory Deprivation anymore. SD checks only once if vampire remains in play. Returning does not change SD state to vampire remains in play (he did not he was banished, thus not remained in play).\n\n- Vampire plays successfully Sensory Deprivation.\n- Game goes on, Sensory Deprivation checks all the time if vampire who played it remains in play. (\"While remains in play\" equals true).\n- At some point, someone successfully calls Banishment on the vampire who played Sensory Deprivation. Vampire goes uncontrolled and sensory deprivation effect ends \"While remains in play\" equals false).\n- Vampire who played SD returns to play, sensory deprivation effect does not continue (\"While remains in play\" equals false, because vampire did not remain in play even if he or she returns to play).\n\n---\n\nJames ninjaed me.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "58295"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Jan 7, 2014, 4:24\u202FPM",
+      "Body": "Thank you Pascal, Jussi and James.\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "58305"
+    }
+  ]
+}

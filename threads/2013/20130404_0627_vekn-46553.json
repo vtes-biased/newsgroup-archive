@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-46553",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/46553-nose-of-the-hound-ambush-vs-2nd-trad-etc",
+  "Title": "Nose of the Hound/Ambush vs. 2nd Trad etc.",
+  "Messages": [
+    {
+      "Author": "Lambach",
+      "Date": "Apr 4, 2013, 6:27\u202FAM",
+      "Body": "Does the action fizzle as soon as the reacting vampire becomes untapped? Or is there still a block attempt and potential combat?",
+      "Id": "46553"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 4, 2013, 6:40\u202FAM",
+      "Body": "An action \"fizzles\" only when it is successful, but either cost can't be paid, or target isn't eligible any more (or, in rare cases, if the source of the action isn't there anymore, such as burning the Bomb during the Bomb action, or contesting the Talbot's Chainsaw during the action, ..).\n\nBut the important thing is: if the action is blocked, it isn't successful, and, thus, can't fizzle.\n\nSo, if you play Nose of the Hound at a basic level (auspex or spiritus) or Ambush and the target untaps before resolution (Second Tradition or Predator's Communion, for instance), there are two possible scenarii:\n- There is a block attempt: In that case, whoever is attempting to block is, well, attempting to block. The block attempt is resolved. If the block is successful, a combat starts (as usual).\n- There is no block attempt (or block attempts weren't successful): In that case, the action is successful. It fizzles.\n\nName: Ambush\nCardtype: Action\nEnter combat with a ready tapped minion controlled by another Methuselah. The acting minion gets an optional maneuver during this combat.\n\nName: Nose of the Hound\nCardtype: Action\nDiscipline: Spiritus/Auspex\n+1 stealth action.\n[aus]  Enter combat with a ready tapped minion controlled by another Methuselah. This acting minion gets an optional maneuver in that combat.\n[spi] As [aus] above, with an additional optional maneuver during that combat.\n[SPI] As [spi] above, but enter combat with any ready minion controlled by another Methuselah.\n\nName: Second Tradition: Domain\nCardtype: Reaction\nRequires a ready prince or justicar.\n+2 intercept. Also usable by a tapped prince or justicar, even if intercept is not yet needed, to burn a blood to untap and attempt to block with +2 intercept.\n\nName: Predator's Communion\nCardtype: Reaction\nDiscipline: Abombwe\n[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played.\n[abo] +1 intercept. Only usable when a vampire is acting.\n[ABO] Only usable by a tapped vampire when a vampire is acting. This reacting vampire untaps.",
+      "Id": "46554"
+    },
+    {
+      "Author": "Lambach",
+      "Date": "Apr 4, 2013, 6:50\u202FAM",
+      "Body": "Great. Thanks for taking the time to give a full explanation. My V:TES knowledge has expanded.",
+      "Id": "46555"
+    },
+    {
+      "Author": "Lambach",
+      "Date": "Apr 4, 2013, 7:31\u202FAM",
+      "Body": "Just Curious, Pascal, what you mean by \"contesting Talbot's Chainsaw during the action\". If it was already in play it would be contested immediately when anyone tried to bring in a second copy.",
+      "Id": "46557"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 4, 2013, 7:36\u202FAM",
+      "Body": "> Lambach wrote:\n> Just Curious, Pascal, what you mean by \"contesting Talbot's Chainsaw during the action\". If it was already in play it would be contested immediately when anyone tried to bring in a second copy.\n>\nI suppose it mean disguised weapon on a Talbot in the block for the rush of a Talbot.\n\nFor example, if you are blocked while rushing with Talbot, the blocker disguise another talbot, and you Form of mist to continue the rush, it will fizzle.",
+      "Id": "46558"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 4, 2013, 7:44\u202FAM",
+      "Body": "> Lambach wrote:\n> Just Curious, Pascal, what you mean by \"contesting Talbot's Chainsaw during the action\". If it was already in play it would be contested immediately when anyone tried to bring in a second copy.\n>\nHere is an example of what happened in NAC 2008 in Montreal:\nPlayer A controls a vampire with a Talbot's Chainsaw. He uses the Chainsaw to enter combat with player B's Imbued.\nPlayer B plays (before resolution) Angel of Berlin, giving an Imbued the Talbot's Chainsaw, thus contesting the Talbot's Chainsaw. With no further block attempts, the action will fizzle.",
+      "Id": "46559"
+    },
+    {
+      "Author": "Lambach",
+      "Date": "Apr 4, 2013, 7:54\u202FAM",
+      "Body": "OK I get it. Contesting the Chainsaw during the action fizzles the action. Thanks again.",
+      "Id": "46560"
+    },
+    {
+      "Author": "Lambach",
+      "Date": "Apr 4, 2013, 8:04\u202FAM",
+      "Body": "OK another question: what would happen if, during the combat between the Chainsaw armed minion and another minion the defender superior disguised out a Talbot's Chainsaw as strikes are declared? Do both strikes fizzle?",
+      "Id": "46561"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 4, 2013, 8:15\u202FAM",
+      "Body": "> Lambach wrote:\n> OK another question: what would happen if, during the combat between the Chainsaw armed minion and another minion the defender superior disguised out a Talbot's Chainsaw as strikes are declared?\n>\nThe minion who declared their strike with Talbot's Chainsaw would have their strike fizzle, indeed.  [LSJ 19980319]\n>\n> Lambach wrote:\n> Do both strikes fizzle?\n>\nThe \"other\" minion (playing superior Disguised Weapon) cannot declare a Talbot's Chainsaw strike, since Talbot's Chainsaw is out of play at this point. So that minion still has to declare a strike.",
+      "Id": "46562"
+    },
+    {
+      "Author": "Lambach",
+      "Date": "Apr 4, 2013, 8:21\u202FAM",
+      "Body": "OK one more question along this vein: If your strike is cancelled by cardtext, or by interaction of cards such as described above, do you by default get another chance to do a different strike or do you just lose your strike? If I Death Seeker your Majesty can you plaaaay another Majesty?",
+      "Id": "46563"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 4, 2013, 10:39\u202FAM",
+      "Body": "> Lambach wrote:\n> OK one more question along this vein: If your strike is cancelled by cardtext, or by interaction of cards such as described above, do you by default get another chance to do a different strike or do you just lose your strike? If I Death Seeker your Majesty can you plaaaay another Majesty?\n>\nRulebook, 11 - Wording templates  wrote:\n>\n> If the card was a strike card, the minion who played it must choose a strike, which might come from another strike card.\n>\nYes, if they Death Seeker your Majesty, you can play another Majesty.\n\nNOTA: In the Talbot's Chainsaw above, the problem isn't the same. The minion with Talbot's Chainsaw has chosen their strike, which *then* becomes unavailable.",
+      "Id": "46566"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 4, 2013, 7:12\u202FPM",
+      "Body": "> Lambach wrote:\n> OK I get it. Contesting the Chainsaw during the action fizzles the action. Thanks again.\n>\nContesting the Chainsaw means that if the action reaches successful resolution, it fizzles at that point. Contesting the Chainsaw doesn't mean the action instantly ends right there and then. The would-be blocker can still try to block you and beat up your minion, if they want to!\n\n(Similarly if equipment gets destroyed or stolen or something. That often involves a continue-action effect, because those usually happen in combat.)",
+      "Id": "46576"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 5, 2013, 6:00\u202FAM",
+      "Body": "I think it would be appropriate to move this thread to more suitable category (eg. Rules Questions).\n\nFinnish  Politics!",
+      "Id": "46580"
+    }
+  ]
+}

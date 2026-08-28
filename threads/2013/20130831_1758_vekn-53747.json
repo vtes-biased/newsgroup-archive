@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-53747",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53747-political-actions",
+  "Title": "Political Actions",
+  "Messages": [
+    {
+      "Author": "Josephdmorse",
+      "Date": "Aug 31, 2013, 5:58\u202FPM",
+      "Body": "I was wondering, can a tapped Vampire still cast his votes in a political action?\n\nPrince of Toledo",
+      "Id": "53747"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 31, 2013, 6:15\u202FPM",
+      "Body": "Yes. Best example being the acting vampire.\nOnly vampires in torpor and vampires whose titles are contested cannot cast votes.\n\nEDIT:\nVampires in torpor cannot cast votes or ballots.\nVampires whose title is contested don't get the votes from their title to cast. They can cast votes / ballots if they gain some (Bewitching Oration).",
+      "Id": "53748"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 31, 2013, 8:05\u202FPM",
+      "Body": "Can a vampire with a contested title cast the vote he gained by another source than his title, like a Bewitching Oration ?",
+      "Id": "53749"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Aug 31, 2013, 11:17\u202FPM",
+      "Body": "> Pascal wrote:\n> vampires whose titles are contested cannot cast votes.\n>\nThis is wrong.\n\nVampires with a contested title have no votes to cast.\n\n> Ohlmann wrote:\n> Can a vampire with a contested title cast the vote he gained by another source than his title, like a Bewitching Oration ?\n>\nYes, vampires with votes to cast can vote, except when explicitly prohibited by card text.\n\nFAQ 3.23\n>\n> FAQ wrote:\n> 3.23 Which vampires can cast votes in which referendums? i.e. Who can vote when?\n>\n> In general, all vampires may cast their votes in all referendums.\n> Specific card text is required to prohibit a specific vampire or a specific\n> sect of vampires from voting. The only cards which prohibit sects of vampires\n> from voting are as follows:\n> Closed Session\n> Private Audience\n> Cardinal Benediction\n> Investiture\n> and Bruce de Guy\n>\n> In all other votes, every vampire that is not in torpor may cast their\n> votes in favor of or against the terms of the vote.\n>",
+      "Id": "53750"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 1, 2013, 6:26\u202FAM",
+      "Body": "Correct correction from Adonai.\nI skipped the \"their built-in\" part.",
+      "Id": "53751"
+    },
+    {
+      "Author": "Josephdmorse",
+      "Date": "Sep 14, 2013, 4:47\u202FPM",
+      "Body": "Does this also mean that a Vampire controlled by another Methuselah that is tapped can still use his title in a vote??\n\nPrince of Toledo",
+      "Id": "54075"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 14, 2013, 5:25\u202FPM",
+      "Body": "yes. being tapped in no way excludes a vampire (no matter who controls it) from voting if it has votes to cast. some situations where a vampire may be forced to vote in a certain way, but that's usually the effect of explicit card text.\n\nAs Adonai pointed out and was verified by Pascal:\n\nFAQ 3.23\n>\n> FAQ wrote:\n> 3.23 Which vampires can cast votes in which referendums? i.e. Who can vote when?\n>\n> In general, all vampires may cast their votes in all referendums.\n> Specific card text is required to prohibit a specific vampire or a specific\n> sect of vampires from voting. The only cards which prohibit sects of vampires\n> from voting are as follows:\n> Closed Session\n> Private Audience\n> Cardinal Benediction\n> Investiture\n> and Bruce de Guy\n>\n> In all other votes, every vampire that is not in torpor may cast their\n> votes in favor of or against the terms of the vote.\n>",
+      "Id": "54077"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 14, 2013, 8:58\u202FPM",
+      "Body": "> Josephdmorse wrote:\n> Does this also mean that a Vampire controlled by another Methuselah that is tapped can still use his title in a vote??\n>\nBeing tapped stops a few specific things. In particular:\n\n- a tapped vampire can't take an action\n- a tapped vampire can't attempt to block an action\n- a tapped vampire can't play a reaction card\n\nIn all three cases, exceptions exist, by the Golden Rule of Cards. And many effects will target a tapped or untapped minion. Additionally, a tapped minion can't be used to pay a \"cost\" where the cost is \"tap to blah\", for example \"Tap this minion to...\"\n\nThere are a few other corner cases (e.g. a tapped vampire can't be used for a Slave combat), but that's the bulk of it.\n\nNotable things a tapped vampire can do:\n\n- play action modifiers (the acting vampire is usually tapped when playing them!), which is important for superior Cloak the Gathering\n- maneuver, strike, gain additional strikes, press, and use any other combat effects etc. as normal\n- use their special ability text, including providing benefits to the controlling Methuselah (being tapped doesn't turn the ability off)\n- cast votes or ballots in a referendum (including a Blood Hunt referendum)\n- count towards meeting the requirements for playing a master card (e.g. you can play Ventrue Headquarters, even if your only Ventrue is tapped from Sensory Deprivation)\n\nAgain, exceptions exist based on card text. For example, a vampire's special ability might require them to be untapped, or to \"tap to...\" provide some effect. But, for example, if Anson is tapped, you still get an extra master phase action. (Imagine he has Sensory Deprivation on him.) Alexandra can untap another Toreador, even when she's tapped.",
+      "Id": "54078"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-44771",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/44771-bomb",
+  "Title": "Bomb",
+  "Messages": [
+    {
+      "Author": "Amin",
+      "Date": "Feb 2, 2013, 8:20\u202FPM",
+      "Body": "Name: Bomb\nCardtype: Equipment\nCost: 1 pool\nWeapon.\nStrike: 5R damage. If the bomb is used in combat, the bearer takes 5 damage as well. The minion with this weapon may burn a location as a  action. Burn the Bomb after use.\n\nA vampire is performing an action to burn a location with a Bomb, but the action is blocked. Should the bomb be burned after the action/combat as it was used to perform the action?\n\nThank you",
+      "Id": "44771"
+    },
+    {
+      "Author": "Omelet",
+      "Date": "Feb 2, 2013, 9:07\u202FPM",
+      "Body": "If the action is blocked then it is not successful, and therefore any costs associated are not paid. This would include a blood cost, or in the case of the bomb, the bomb itself is not burnt.\n\nFrom\n\n6.2.3. Resolve the Action\n\n...If the action is blocked, then any card played to take the action is burned (it is moved to the ash heap) and the blocking minion is tapped and enters combat with the acting minion (see Combat, sec. 6.4). The effects of the action do not take place when the action is blocked. Note that the action's cost, if any, is only paid if the action succeeds; the cost is not paid if the action is blocked...",
+      "Id": "44774"
+    },
+    {
+      "Author": "Amin",
+      "Date": "Feb 2, 2013, 9:31\u202FPM",
+      "Body": "Ok, I got it: the \"burn after use\" part is a cost not an effect of attempting an action.\n\nThank you for the clarification.",
+      "Id": "44776"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 4, 2013, 10:29\u202FAM",
+      "Body": "Correct answer from Omelet - the Bomb doesn't burn if its built-in action is blocked.",
+      "Id": "44813"
+    }
+  ]
+}

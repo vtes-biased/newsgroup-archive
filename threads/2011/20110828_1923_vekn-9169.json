@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-9169",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/9169-hidden-strength-and-strike-resolution-for-allies",
+  "Title": "Hidden strength and strike resolution for allies",
+  "Messages": [
+    {
+      "Author": "Louhi",
+      "Date": "Aug 28, 2011, 7:23\u202FPM",
+      "Body": "If an ally were to play a hidden strength so it would burn, will the strike of the ally be resolved? For example a reanimated corpse gets hit for one and uses its hand strike. Then during strike resolution a hidden strength for two blood is played by the corpse, will the hand strike for two be resolved or will the corpse just burn straight up first?\n\nHidden Strength\nType: Combat\nRequires: Fortitude\nCost: X blood\n[for] Prevent X+1 damage.\n[FOR] As above, with an optional press.\n\nLiding\u00F6 Scourge",
+      "Id": "9169"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 28, 2011, 7:50\u202FPM",
+      "Body": "Yes the strike will be resolved (assuming the opponent didn't strike with first strike) as damage prevention is after strike resolution.",
+      "Id": "9177"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 29, 2011, 8:02\u202FAM",
+      "Body": "> Klaital wrote:\n> Yes the strike will be resolved (assuming the opponent didn't strike with first strike) as damage prevention is after strike resolution.\n>\nDamage prevention is part of strike resolution ( Complete Rules Reference VI.C.2 ). However, damage inflicted must be handled (prevent or heal / avoid destruction).\n\nSo you burn the Reanimated Corpse, and the opponent has to deal with the 2 damage.",
+      "Id": "9191"
+    }
+  ]
+}

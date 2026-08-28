@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-20951",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/20951-superior-flesh-of-marble-and-damage-order",
+  "Title": "Superior Flesh of marble and damage order",
+  "Messages": [
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 16, 2012, 2:25\u202FPM",
+      "Body": "Hello.\n\n(it's mainly confirmation, to avoid confusion)\n\nMy vampire have played a Flesh of Marbre at superior, and use a zip gun. My opponent, Enkidu, have played torn signpost, Death of my conscience, Increased strength, and use Burning Wrath as a strike, fully intending to burn me in one strike (17 damage total).\n\n* Who resolve first between the one damage to myself with Zip Gun and the 17 from Enkidu ?\n* if Enkidu somehow get First Strike, how many aggravated damage does I take ? one or 17 ?\n* if my opponent also played a Carrion Crow (because there is no kill like overkill), the damage from the Carrion crow alway resolve after a first strike strike, and before the (non-first-strike) strike ?\n* I have heard rumors that Flesh of marble work against unpreventable strike (like Psychioc Assault by a black Hand vampire), because it does not \"prevent\" but allow to ignore damage. I suppose it's just rumor, can I be confirmed ?\n\nFlesh of Marble\n\nCombat\n\nProtean\n\nOnly usable before range is chosen.\n[pro] For the duration of the combat, when this vampire suffers a point of damage (that he or she does not prevent) in a given round, any additional damage inflicted on this vampire in the same round is automatically prevented. Aggravated damage cannot be prevented in this way.\n[PRO] As above, but aggravated damage is prevented in this way as well.",
+      "Id": "20951"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 16, 2012, 2:51\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Hello.\n>\n> (it's mainly confirmation, to avoid confusion)\n>\n> My vampire have played a Flesh of Marbre at superior, and use a zip gun. My opponent, Enkidu, have played torn signpost, Death of my conscience, Increased strength, and use Burning Wrath as a strike, fully intending to burn me in one strike (17 damage total).\n>\n> * Who resolve first between the one damage to myself with Zip Gun and the 17 from Enkidu ?\n>\nNone. Or both, as you like, they resolve simultaneously. However, non-aggravated damage (\"normal damage\") is handled first  [LSJ 19980714] . In your case, the Zip Gun damage will be handled first (but you may still decide not to prevent 1 agg from Enkidu).\n\n> Ohlmann wrote:\n> * if Enkidu somehow get First Strike, how many aggravated damage does I take ? one or 17 ?\n>\nIf Enkidu plays Shadow Feint in the Before Range step, his Burning Wrath strike will be for 17 agg damage with first strike. So you first deal with these 17 damage, and then, if you survived, deal with the 1 damage from the Zip Gun.\n\n> Ohlmann wrote:\n> * if my opponent also played a Carrion Crow (because there is no kill like overkill), the damage from the Carrion crow alway resolve after a first strike strike, and before the (non-first-strike) strike ?\n>\nCarrion Crows' damage resolves in the normal strike resolution (per cardtext), just as the non-first strike Zip Gun damage.\n\n> Ohlmann wrote:\n> * I have heard rumors that Flesh of marble work against unpreventable strike (like Psychioc Assault by a black Hand vampire), because it does not \"prevent\" but allow to ignore damage. I suppose it's just rumor, can I be confirmed ?\n>\nCardtext is quite clear on this one: Flesh of Marble \"prevents\" damage. Unpreventable damage being unpreventable, they can't be prevented with Flesh of Marble. Thus, you'd have to handle the Drawing out the Beast damage at the end of the round, or the 2 da,age from Psychic Assault, ..",
+      "Id": "20953"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Jan 16, 2012, 4:51\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > Ohlmann wrote:\n> > * I have heard rumors that Flesh of marble work against unpreventable strike (like Psychioc Assault by a black Hand vampire), because it does not \"prevent\" but allow to ignore damage. I suppose it's just rumor, can I be confirmed ?\n> >\n> Cardtext is quite clear on this one: Flesh of Marble \"prevents\" damage. Unpreventable damage being unpreventable, they can't be prevented with Flesh of Marble. Thus, you'd have to handle the Drawing out the Beast damage at the end of the round, or the 2 da,age from Psychic Assault, ..\n>\nI'm guessing the original poster might have been confused about the Weather Control + Flesh of Marble trick (where the one damage you take form Weather Control counts as the point you'll be taking, so you can then prevent all other damage, that is preventable, with Flesh of Marble.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "20964"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jan 17, 2012, 5:12\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > Ohlmann wrote:\n> > * if Enkidu somehow get First Strike, how many aggravated damage does I take ? one or 17 ?\n> >\n> If Enkidu plays Shadow Feint in the Before Range step, his Burning Wrath strike will be for 17 agg damage with first strike. So you first deal with these 17 damage, and then, if you survived, deal with the 1 damage from the Zip Gun.\n>\nI think in this case, the vampire being struck by Enkidu only takes 1 point of aggravated damage because of superior Flesh of Marble.",
+      "Id": "20988"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 17, 2012, 6:24\u202FAM",
+      "Body": "> Aaron wrote:\n>\n> > Pascal wrote:\n> >\n> > > Ohlmann wrote:\n> > > * if Enkidu somehow get First Strike, how many aggravated damage does I take ? one or 17 ?\n> > >\n> > If Enkidu plays Shadow Feint in the Before Range step, his Burning Wrath strike will be for 17 agg damage with first strike. So you first deal with these 17 damage, and then, if you survived, deal with the 1 damage from the Zip Gun.\n> >\n> I think in this case, the vampire being struck by Enkidu only takes 1 point of aggravated damage because of superior Flesh of Marble.\n>\nBarring any previous damage, yes, the vampire would take 1 aggravated damage and prevent the rest.",
+      "Id": "20990"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-6435",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/6435-learjet-question",
+  "Title": "Learjet question",
+  "Messages": [
+    {
+      "Author": "prunesquallor",
+      "Date": "Jul 18, 2011, 5:31\u202FPM",
+      "Body": "The question is about how Learjet interacts with hand size and with cards that are not replaced until later.\n\nLearjet\nCardtype: Equipment\nCost: 1 pool\nVehicle.\nEach time you draw to replace a card this minion played as an acting minion, you may draw an additional card (discard afterward). A minion may have only one vehicle.\n\nExample of a \"do not replace\" card :\nInto Thin Air\nCardtype: Action Modifier\nDiscipline: Obfuscate\nDo not replace until your untap phase.\n[obf] +1 stealth. Once this action, this vampire may burn 1 blood to give an ally or younger vampire -1 intercept. Into Thin Air and Lost in Crowds cannot both be played on the same action.\n[OBF] As above, but for +2 stealth.\n\nLet's say that an acting minion controls a Learjet, and attempts a bleed. A block is attempted, and the acting minion plays Into Thin Air.\n\nAt this point the player has 6 cards in their hand, since they can't immediately replace Into Thin Air.\n\nNext, Threats is played by the acting minion to boost the bleed. The player draws two cards to replace the Threats, and so they now have 7 cards in their hand.\n\nDo they have to discard down to 6 cards at this point?\n\nWe had compelling arguments both ways.\n\nAgainst the discard, one could say that the \"(discard afterwards)\" text on Learjet is just reminder text and can be ignored; meanwhile, Into Thin Air isn't changing the hand size of the acting player, and so they don't have to discard because they don't have excess cards in their hand.\n\nIn favor of the discard, there is the \"(discard afterwards)\" text. Also there's the notion that do-not-replace cards implicitly reduce your hand size, and so although the \"(discard afterwards)\" text is just a reminder, it still needs to be followed.\n\nI did a little looking and found an interesting ruling, that seems to say that a \"do not replace until...\" card still gets the benefits of the Learjet once you do draw. So, in this case, when the player has their next untap phase and can finally draw to replace Into Thin Air, they draw two cards.\n\nVtES store : www.prunesquallor.net\nCard supplies & games : stores.ebay.com/Prunesquallors-Secret-Cache",
+      "Id": "6435"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 18, 2011, 6:35\u202FPM",
+      "Body": "> prunesquallor wrote:\n> Let's say that an acting minion controls a Learjet, and attempts a bleed. A block is attempted, and the acting minion plays Into Thin Air.\n>\n> At this point the player has 6 cards in their hand, since they can't immediately replace Into Thin Air.\n>\nCorrect. Their handsize is 6 until their next untap phase.\n\n> prunesquallor wrote:\n> Next, Threats is played by the acting minion to boost the bleed. The player draws two cards to replace the Threats, and so they now have 7 cards in their hand.\n>\n> Do they have to discard down to 6 cards at this point?\n>\nYes, since the effect reducing handsize (Into Thin Air's replacement clause) hasn't ended. THeir handsize is still 6.\n\n> prunesquallor wrote:\n> I did a little looking and found an interesting ruling, that seems to say that a \"do not replace until...\" card still gets the benefits of the Learjet once you do draw. So, in this case, when the player has their next untap phase and can finally draw to replace Into Thin Air, they draw two cards.\n>\nCorrect (they draw one card, and can draw an additional card).\n\nTags: Do not replace hand size Learjet Into Thin Air",
+      "Id": "6436"
+    },
+    {
+      "Author": "prunesquallor",
+      "Date": "Jul 18, 2011, 6:55\u202FPM",
+      "Body": "So, in general, we could substitute card text like \"Do not replace until...\" with \"Your hand size is reduced by one until...\"\n\nI figured that if that's what \"do not replace\" meant, it would have the more explicit wording.\n\nI guess the lesson from this one is to make the wording substitution above to make it easier to figure out these interactions.\n\nVtES store : www.prunesquallor.net\nCard supplies & games : stores.ebay.com/Prunesquallors-Secret-Cache",
+      "Id": "6437"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Jul 18, 2011, 7:09\u202FPM",
+      "Body": "> prunesquallor wrote:\n> So, in general, we could substitute card text like \"Do not replace until...\" with \"Your hand size is reduced by one until...\"\n>\n> I figured that if that's what \"do not replace\" meant, it would have the more explicit wording.\n>\n> I guess the lesson from this one is to make the wording substitution above to make it easier to figure out these interactions.\n>\nThis would mean that you would have to print both sentences on the card:\n\"Do not replace until your next untap phase, your handsize is reduced by one until you replace this card.\"\n\nBecause otherwise, you'd play the card, and according to the rules you would replace the card immediatly. Then you would discard a card as the played card states that your handsize is reduced. I guess that both sentences on their own could be misinterpreted. However, \"Do not replace...\" is a long-standing effect which is well enough understood. Longer sentences might pose a problem for the available space on the card.\n\npckvtes.wordpress.com",
+      "Id": "6438"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Jul 18, 2011, 8:26\u202FPM",
+      "Body": "if the rule was changed to \"your handsize is reduced by one\" then we wouldn't get to use the incredible power of Learjet when we replace Into Thin Air! are you trying to wallpaper these cards?",
+      "Id": "6440"
+    },
+    {
+      "Author": "prunesquallor",
+      "Date": "Jul 19, 2011, 3:24\u202FPM",
+      "Body": "I'm not suggesting to change (or wallpaper) anything, I'm looking for a more general way to think about how hand size / replacement / \"do not replace\" all interact.\n\nIt just appears that \"do not replace until XXX\" actually means \"hand size reduced until XXX, at which time you should draw to replace\". I didn't grasp the nuances to the effective wording in my first reply.\n\nGood rulings are ones that give you a framework you can use to interpret other card interactions and have it be clear how the interaction works. And yes, that more explicit wording is too long to put on every \"do not replace\" card, but maybe it could be in an updated version of the rules or in the general rulings list.\n\nVtES store : www.prunesquallor.net\nCard supplies & games : stores.ebay.com/Prunesquallors-Secret-Cache",
+      "Id": "6474"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 19, 2011, 3:36\u202FPM",
+      "Body": "> prunesquallor wrote:\n> I'm not suggesting to change (or wallpaper) anything, I'm looking for a more general way to think about how hand size / replacement / \"do not replace\" all interact.\n>\n> My comment was just to say, it appears that \"do not replace until XXX\" effectively means \"hand size reduced until XXX, at which time you should draw to replace\". Good rulings are ones that give you a framework you can use to interpret other card interactions and have it be clear how the interaction works. And yes, that more explicit wording is too long to put on every \"do not replace\" card, but maybe it could be in an updated version of the rules or in the general rulings list.\n>\nA more explicit wording is unnecessary. You are viewing this in a vacuum.\n\n'Do Not Replace' interacts with 1.6.1.2 and 2.3, both of which detail the playing of cards and the standard game-handsize. So, assuming one were to read the rulebook, one would gain an understanding of what 'Do Not Replace' meant, without needing to have it redefined because one was unaware of 1.6.1.2 and 2.3.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "6477"
+    },
+    {
+      "Author": "prunesquallor",
+      "Date": "Jul 19, 2011, 3:50\u202FPM",
+      "Body": "Replacing what I wrote to Kevin earlier; re-reading that paragraph the third time, I'm coming to the conclusion that the ruling is wrong, but I want to mull on this a bit more. I'll post either an argument or a \"never mind\" later...\n\nVtES store : www.prunesquallor.net\nCard supplies & games : stores.ebay.com/Prunesquallors-Secret-Cache",
+      "Id": "6478"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 19, 2011, 4:23\u202FPM",
+      "Body": "> prunesquallor wrote:\n> Replacing what I wrote to Kevin earlier; re-reading that paragraph the third time, I'm coming to the conclusion that the ruling is wrong, but I want to mull on this a bit more. I'll post either an argument or a \"never mind\" later...\n>\nHow is it wrong? To say that \"Into Thin Air isn't changing the hand size of the acting player, and so they don't have to discard because they don't have excess cards in their hand.\" is just plain wrong, based on Into Thin Air's card text, so how *could* the ruling be wrong?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "6479"
+    },
+    {
+      "Author": "prunesquallor",
+      "Date": "Jul 19, 2011, 7:06\u202FPM",
+      "Body": "Ok, I think I've put my finger on what is not quite right here. It's not the ruling (the conclusion is fine), and it's not the rulebook (which I think could still use some more clarity, since no one else has brought up the point below yet).\n\nRather, the problem is the exact choice of words in PB's ruling.\n\n> VtES Rulebook par 1.6.1.2\n> Drawing Cards. Whenever you play a library card from your hand, you immediately draw another from your library to replace it (unless card text says otherwise, of course). If your library is empty, then you do not draw to replenish your hand, but you continue to play. The number of cards in your hand should always match your hand size (less any cards you are not replacing until later). Whenever they don't match (when an effect changes your hand size or adds or removes cards from your hand, for example), immediately discard down to or draw up to your hand size.\n>\nCareful reading of the above indicates that \"do not replace\" cards do not affect your hand size. However, your hand size and the number of cards in your hand are not the same thing. That is, in my example, the hand size of the player is still 7, but \"the number of cards in your hand should always match your hand size (less any cards that you are not replacing until later)\".\n\nThus, my suggested clarifying wording is wrong - \"do not replace\" cards don't affect your hand size. However, your effective hand size is not necessarily the same as your actual hand size. In my example, the player has a hand size of 7 - nothing has changed that - but the rulebook says that the player should have 6 in their hand at that point (because of the \"less any cards\" clause of the above).\n\nWhat's made it hard for me to understand the ruling and how to generalize it is the wording in two spots below from Pascal :\n>\n> Pascal wrote:\n>\n> > prunesquallor wrote:\n> > Let's say that an acting minion controls a Learjet, and attempts a bleed. A block is attempted, and the acting minion plays Into Thin Air.\n> >\n> > At this point the player has 6 cards in their hand, since they can't immediately replace Into Thin Air.\n> >\n> Correct. Their handsize is 6 until their next untap phase.\n>\n> > prunesquallor wrote:\n> > Next, Threats is played by the acting minion to boost the bleed. The player draws two cards to replace the Threats, and so they now have 7 cards in their hand.\n> >\n> > Do they have to discard down to 6 cards at this point?\n> >\n> Yes, since the effect reducing handsize (Into Thin Air's replacement clause) hasn't ended. THeir handsize is still 6.\n>\n> Tags: Do not replace hand size Learjet Into Thin Air\n>\nThe number of cards in their hand is 6, and should remain at six until their next untap phase (unless anything else happens to change it). However, their hand size remains at 7, and nothing has changed that.\n\nVtES store : www.prunesquallor.net\nCard supplies & games : stores.ebay.com/Prunesquallors-Secret-Cache",
+      "Id": "6491"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 19, 2011, 9:00\u202FPM",
+      "Body": "Here are several references of LSJ's posts explicitely reading cards you do not replace count against your hand size:\n[LSJ 20040608] : Drawing a card after playing a do-not-replace Gehenna card.\n[LSJ 20061004] (last section),  [LSJ 20080501] : hand size affected by cards you do not replace.\n\nI would agree that this parenthesis part isn't clear. I'll consider \"The number of cards in your hand should always match your hand size (a card you do not replace until later reduces your hand size by 1 until you replace it)\".",
+      "Id": "6504"
+    }
+  ]
+}

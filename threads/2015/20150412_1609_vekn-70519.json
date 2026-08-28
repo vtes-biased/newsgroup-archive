@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-70519",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/70519-can-you-play-mind-rape-on-a-tapped-vampire",
+  "Title": "Can you play Mind Rape on a tapped vampire?",
+  "Messages": [
+    {
+      "Author": "prestonp",
+      "Date": "Apr 12, 2015, 4:09\u202FPM",
+      "Body": "Mind Rape\n\n> Tap a younger vampire and put this card on that vampire; you still control this card. This vampire does not untap as normal. During your next minion phase, burn this card to untap this vampire and take control of him or her until the end of your turn.\n>",
+      "Id": "70519"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Apr 12, 2015, 5:24\u202FPM",
+      "Body": "Yes, you are always allowed to try to tap something tapped, except the card tells you otherwise, for example ...\n\n> Mind wrote:\n> Put this card on any untapped vampire. Tap that vampire; he or she does not untap as normal during his or her controller's untap phase. Burn this card during your next untap phase.\n> As above, with +1 stealth.\n>\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "70523"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 12, 2015, 8:11\u202FPM",
+      "Body": "> Hakuron wrote:\n> Yes, you are always allowed to try to tap something tapped, except the card tells you otherwise, for example ...\n>\n> > Mind wrote:\n> > Put this card on any untapped vampire. Tap that vampire; he or she does not untap as normal during his or her controller's untap phase. Burn this card during your next untap phase.\n> > As above, with +1 stealth.\n> >\nPartially correct (you cannot tap as a cost something that is tapped (for instance: Carmine Giovanni can't tap herself to give an ally +1 stealth while tapped).\n\nBut anyways: Yes, you can play Mind Rape on a tapped vampire, as it taps that vampire as an effect (\"Tap that vampire.\" rather than \"Tap that vampire to..\").",
+      "Id": "70528"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Apr 13, 2015, 4:36\u202FPM",
+      "Body": "Follow-up question ...\n\nI successfully play Mind Rape on a vampire (round x).\nBefore my next minion phase (in round x+1), that vampire goes to torpor.\nIn the minion phase of round x+1, I successfully play Graverobbing on superior at that vampire in torpor.\n\nCan I then use the effect of Mind Rape to untap the stolen vampire and act with it?\n\n> Tap a younger vampire and put this card on that vampire; you still control this card. This vampire does not untap as normal. During your next minion phase, burn this card to untap this vampire and take control of him or her until the end of your turn.\n>\nThanks in advance!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "70541"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 13, 2015, 6:08\u202FPM",
+      "Body": "> Hakuron wrote:\n> Can I then use the effect of Mind Rape to untap the stolen vampire and act with it?\n>\nYes; no part of the card text requires the vampire to be controlled by another Methuselah when activating that part of the card text.\n\nThe more commonly seen similar situation is using  Temptation on your own vampire. You can burn the counters and take control of a vampire you already control, untapping them in the process.",
+      "Id": "70542"
+    },
+    {
+      "Author": "cordovader",
+      "Date": "Apr 16, 2015, 9:00\u202FAM",
+      "Body": "That's not 100% correct. I'll paste Graverobbing's cardtext:\n\n> Graverobbing\n> [Action] Action\n>\n> [Dominate] Dominate\n>\n> [dom]  Steal a vampire in torpor controlled by another Methuselah.\n> [DOM] As above, and this acting vampire may burn 2 blood to move the stolen vampire to your ready region.\n>\nSince you're in your minion phase, you can trigger the effects as you want, so the correct order should be:\n\n1. Use Graverobbing (since you cannot use it on your own vampires)\n2. Do whatever stuff you want to do\n3. Burn Mind Rape to untap the stolen vampire, since burning Mind Rape during your minion phase is mandatory (if not you could leave a vampire permanently tapped, like with Sensory Deprivation and the card is not intended to work that way)\n4. ...\n\nIs not a matter of if you CAN or NOT burn Mind Rape. You MUST burn Mind Rape during your minion phase.",
+      "Id": "70568"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 16, 2015, 11:50\u202FAM",
+      "Body": "> cordovader wrote:\n> Is not a matter of if you CAN or NOT burn Mind Rape. You MUST burn Mind Rape during your minion phase.\n>\nI'm pretty certain the question was about whether you can \"take control\" of something you already control (you can, redundantly). If you're prohibited from doing something, certain cards and effects can get \"stuck\", even if specified as mandatory. e.g. a vampire with a Talbot's Chainsaw cannot hunt, even though certain effects may try to force them to hunt.",
+      "Id": "70569"
+    },
+    {
+      "Author": "mirddes",
+      "Date": "Apr 17, 2015, 8:23\u202FPM",
+      "Body": "> cordovader wrote:\n> 1. Burn Mind Rape to untap the stolen vampire, since burning Mind Rape during your minion phase is mandatory\n> 2. Use Graverobbing (since you want to use it)\n> 3. Do whatever other stuff you want to do\n> 4. ...\n>\nMind Rape is mandatory therefor-aswith hunts, it goes first.\n\nUDHR18/19/27",
+      "Id": "70584"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 17, 2015, 9:55\u202FPM",
+      "Body": "> mirddes wrote:\n> Mind Rape is mandatory therefor-aswith hunts, it goes first.\n>\nIncorrect.\nvekn.net/card-rulings/card-rulings-g-to-o\nMind Rape:\nThe card can be burned to take control of the target at any point during the the appropriate minion phase. It doesn't have to be done at the start of that minion phase. [LSJ 20001201]",
+      "Id": "70585"
+    }
+  ]
+}

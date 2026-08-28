@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-55220",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/55220-mimir-and-archon-investigation",
+  "Title": "Mimir and Archon investigation",
+  "Messages": [
+    {
+      "Author": "M.Schumacher",
+      "Date": "Oct 13, 2013, 9:58\u202FAM",
+      "Body": "Mimir bleeds for 4.\nCan I play Archon Investigation to burn Mimir? (I guess the answer is pretty clearly no.)\nCan I play Archon Investigation to make the action unsuccessful?\n(Ignroing the \"Burn the acting minion\" part of AI)\n\nMimir\nSabbat Cardinal\nOhter Methuselahs cannot play Master Cards that target Mimir.+1 bleed.\n\nArchon Investiagtion\nMaster: out-of-turn. Only usable when a minion is attempting to bleed you for more than 3. The action is not successful. Burn the acting minion.",
+      "Id": "55220"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 13, 2013, 10:57\u202FAM",
+      "Body": "You cannot play archon investigation at all when Mimir is acting.",
+      "Id": "55222"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Oct 13, 2013, 4:01\u202FPM",
+      "Body": "Is \"burn the acting minion\" really targetting the minion?\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "55236"
+    },
+    {
+      "Author": "derjudge",
+      "Date": "Oct 13, 2013, 4:19\u202FPM",
+      "Body": "Yes.",
+      "Id": "55237"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 13, 2013, 5:06\u202FPM",
+      "Body": "Correct answer from Klaital: You cannot play Archon Investigation on Mimir.\n\n> Hakuron wrote:\n> Is \"burn the acting minion\" really targetting the minion?\n>\nYes. It's important to remember that Secure Haven would affect Archon Investigation's cost:\n[LSJ 20010817]\n\nName: Secure Haven\nCardtype: Master\nCost: 1 pool\nMaster: unique location. Haven.\nPut this card on a minion you control. This minion cannot be the target of other Methuselahs' actions. Any Methuselah burns an additional pool when playing master cards on (or that target) this minion. Burn this card if this minion enters torpor. A minion may have only one haven.",
+      "Id": "55238"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Oct 13, 2013, 6:39\u202FPM",
+      "Body": "Where is there a link to a discussion on what \"targeting\" means in VTES? The use of the term \"target/targeting\" seems so useful when writing card text, but it is not defined in the rules or card text, AFAIK.\n\nFor instance, do reaction cards such as Deflection or Ignis Fatuus \"target\" the affected minion? I was creating card text for a homebrew crypt card, and I was interested to know if you could say \"Reaction cards that require  may not target [this vampire]\"",
+      "Id": "55241"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 13, 2013, 7:17\u202FPM",
+      "Body": "I believe you should word it as 'Reaction cards that require  may not be played while this vampire is acting.",
+      "Id": "55242"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Oct 13, 2013, 10:42\u202FPM",
+      "Body": "> Klaital wrote:\n> I believe you should word it as 'Reaction cards that require  may not be played while this vampire is acting.\n>\nSo you know for certain that reaction cards do not \"target\"?",
+      "Id": "55252"
+    }
+  ]
+}

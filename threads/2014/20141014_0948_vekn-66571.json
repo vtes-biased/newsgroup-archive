@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-66571",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/66571-nar-shepta-and-deep-song",
+  "Title": "Nar Shepta and Deep Song",
+  "Messages": [
+    {
+      "Author": "Timo",
+      "Date": "Oct 14, 2014, 9:48\u202FAM",
+      "Body": "Assamite A has Nar Shepta.\n\nVampire B use Deep Song SUP to enter combat with A.\n\nNo block.\n\nWho is considered the acting minion ?\n\n> Nar SHepta\n>\n> [Retainer] Retainer\n>\n> [Assamite] Assamite\n>\n> [1 Pool]\n>\n> Unique Wraith with 1 life.\n> While this vampire is in combat, you get +2 hand size, and the opposing minion is considered the acting minion.\n>\n> Deep Song\n>\n> [Action] Action\n>\n> [Animalism] Animalism\n>\n> [ani]  Bleed at +1 bleed.\n> [ANI] Frenzy.  Enter combat with and tap a ready vampire controlled by another Methuselah. In that combat, that vampire is considered the acting minion.\n>",
+      "Id": "66571"
+    },
+    {
+      "Author": "M.Schumacher",
+      "Date": "Oct 14, 2014, 1:44\u202FPM",
+      "Body": "My guess would be that this follows the template for\nset range. If range is set in a combat, it cannot\nbe changed again by other set range effects.\nSimilarly, if a minion is set to be the acting minion,\nthis cannot be changed by other effects afterwards.\nSo Deep Song sets the \"victim\" to be the acting minion in the\nresulting combat if the action is unblocked.\nThen this cannot be reversed in combat by the retainer.\n\nJust my 2 cents",
+      "Id": "66576"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 14, 2014, 8:03\u202FPM",
+      "Body": "> Timo wrote:\n> Assamite A has Nar Shepta.\n>\n> Vampire B use Deep Song SUP to enter combat with A.\n>\n> No block.\n>\n> Who is considered the acting minion ?\n>\nA (the minion with Nar-Shepta), for several reasons. You can consider it a ruling if you think it's fiat.\n\nAmongst other reasons to consider: Olid Loa and burning the retainer during combat.",
+      "Id": "66594"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 15, 2014, 5:07\u202FAM",
+      "Body": "So a Samedi (S) with  plays deep song SUP on an Assamite (A) with Nar Shepta.\n\nS is considered acting.\n\nSo S has the opportunity to play as many before range he wants, and then he plays Olid Loa.\n\nOnce Olid Loa is resolved, A is now the acting minion correct ?\n\nNow a question of timing :\n\nTo better understand let's imagine that the impulse is a physical token which have to be handed back to the acting whenever the reacting plays an effect. Does it is :\n\n(A) I play an effect\nBeing the reacting, I hand you back the impulse\n\nOr is it :\n(B) Being the reacting, I hand you back the impulse to play an effect\n\nIt \"could\" be relevant in the case above.\n\nIn case (A), after playing Olid Loa, S immediately hand back the impulse and now A can play as many before he wants...\n\nIn case (B), after playing Olid Loa, S still has the impulse. But now, S is the reacting. So S COULD pass, ending the before range phase without A having the opportunity to play any effect",
+      "Id": "66604"
+    },
+    {
+      "Author": "Fran\u00E7oisV",
+      "Date": "Oct 15, 2014, 5:42\u202FAM",
+      "Body": "> Timo wrote:\n> So a Samedi (S) with  plays deep song SUP on an Assamite (A) with Nar Shepta.\n>\n> S is considered acting.\n>\nDidn't Pascal just rule that A was considered the acting minion ?",
+      "Id": "66607"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 15, 2014, 5:59\u202FAM",
+      "Body": "That's why using letters is messy. I tried to be explicit with references to cards, but that wasn't enough...\n\nStick plays sup Deep Song on Qadir. Qadir has a Nar-Shepta.\nThere is no block.\nIn the resulting combat, Qadir is considered the acting minion.\nIf Nar-Shepta burns, Qadir remains considered the acting minion.\n\nEDIT: The reason is precisely to avoid complications such as Timo's questions.",
+      "Id": "66611"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 15, 2014, 6:08\u202FAM",
+      "Body": "Oups Sorry !\n\nI read it backward...\n\nThanks for the answer !\n\nEdit : the problem was not the letter, it was me reading \"A (the minion with Nar Shepta)\" as \"A is the one 'winning the contest'\" So Nar shepta taking priority over Deep Song...",
+      "Id": "66613"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-17187",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/17187-cardinals-and-regents",
+  "Title": "Cardinals and Regents",
+  "Messages": [
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Dec 5, 2011, 9:35\u202FPM",
+      "Body": "From the rule book:\n\n\"The regent counts as cardinal by cards and other effects, but has an additional vote as well.\"\n\nIf I control a ready Regent but no other titled vampires, can I play Gurchon Hall which requires a Cardinal, but has no \"reminder text\" about Regents? (Would/could a methuselah's ability to play such cards be considered an \"other effect\"?)\n\nIf not, does it make sense to alter that rule book sentence so the card can be played??\n\nThanks.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "17187"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 5, 2011, 10:37\u202FPM",
+      "Body": "When asking a question about a card, I recommend quoting cardtext.\nWhen quoting cardtext, I recommend taking it from the one source: the  Cardlist on vekn.net.\n\nSo, let's have a look at Gurchon Hall's cardtext:\n>\n> Name: Gurchon Hall\n> [Third:R2]\n> Cardtype: Master\n> Cost: 3 pool\n> Master: unique location. Requires a ready cardinal {or regent}. Hunting ground.\n> During your untap phase, you may move 1 blood from the blood bank to each of the two oldest ready vampires you control. A vampire can gain blood from only one hunting ground card each turn.\n> Artist: Heather Kreiter\n>\nThere, problem solved\n\n(for those who wonder: the question has been asked here:  [LSJ 20061002] , where LSJ states the csv has been updated)",
+      "Id": "17194"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Dec 5, 2011, 10:40\u202FPM",
+      "Body": "Gurchon's Hall's card text answers this question for you.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "17195"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Dec 5, 2011, 10:41\u202FPM",
+      "Body": "The Card List linked from the site:\n\nvekn.net/index.php/card-lists/starting-with-g\n\ndoesn't seem to include the change (with \"Regent\").\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "17196"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Dec 5, 2011, 10:42\u202FPM",
+      "Body": "Thanks for the above, but the text at the link below doesn't match.\n\nvekn.net/index.php/card-lists/starting-with-g\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "17197"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 5, 2011, 10:46\u202FPM",
+      "Body": "Ah .. Interesting.\nI guess I'll fix all of these when I update the cardlist.\nIn the meantime, use the list I gave rather than the others (which, obviously, aren't up-to-date).",
+      "Id": "17201"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Dec 6, 2011, 6:40\u202FAM",
+      "Body": "This is another instance of the problems described in www.vekn.net/index.php/forum/17-site-a-forum-feedback/1910-errors-in-the-html-cardlist\n\nThe clarification text has been turned into in a erroneous \"or\" tag.\n<b>Master: unique location. Requires a ready cardinal <or regent=\"regent\">. Hunting ground.</or></b><br />\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "17221"
+    }
+  ]
+}

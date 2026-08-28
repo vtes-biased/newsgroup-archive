@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-68286",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68286-first-strike-and-additional-strikes",
+  "Title": "First strike and additional strikes",
+  "Messages": [
+    {
+      "Author": "mjvtes521",
+      "Date": "Dec 25, 2014, 11:50\u202FAM",
+      "Body": "Vamp A has first strike this round and Vamp B does not. If Vamp A plays an additional strike card, when is that additional strike resolved? Before or at the same time as Vamp B's regular strike?",
+      "Id": "68286"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Dec 25, 2014, 12:38\u202FPM",
+      "Body": "After.\n\nNormally:\nA & B strikes are resolved at the same time.\n\n(Initial) strikes are chosen:\nA makes her initial strike First Strike.\nThus her (initial) strike is resolved before B's strike.\nAfter which B's (initial strike is resolved).\n\nAny possible additional strikes are handled after this.\n(A or B could still make her additional strike a First Strike, which would then be resolved just like in the example below. That is, if the other combatant also played an additional strike.)\n\n6.4.5. Strike Effects\nFirst Strike. A strike done with first strike is resolved before a normal strike. Thus, if the opposing minion is burned or sent to torpor by a strike done with first strike, his strike will not be resolved at all. If the opposing minion was striking with a weapon that is stolen or destroyed with first strike, then the opposing minion simply loses his strike altogether. If both minions strike with first strike, then the strikes are resolved simultaneously. A strike done with first strike will still not resolve before a combat ends effect (which always resolves first), and a dodge still cancels the effects of a strike done with first strike\n\n6.4.3. Strike\nAdditional Strikes: Some cards and effects allow a minion to make additional strikes during the current round of combat. Additional strikes are announced (gained) and performed (used) only after the first pair of strikes are completed. The acting minion decides whether or not to gain additional strikes before the opposing minion, as usual. Additional strikes are handled by having another choose strike phase and resolve strike phase in which only the minions with additional strikes may play strike cards. All additional strikes take place at the same range. This is repeated as necessary. A minion cannot use more than one card or effect to gain additional strikes per round of combat.\n\nFinnish  Politics!",
+      "Id": "68287"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 25, 2014, 12:41\u202FPM",
+      "Body": "A and B declare their strikes. A's strike is with First Strike, so it will resolve before B's strike.\n\nWe first resolve the first pair of strikes before going to additional strikes.\n\nSo, before playing cards such as Blur, you need to resolve A's strike first (because A's strike is done with Frist Strike), and then B's strike (if A and B are still ready).\nThen, A and B get a chance to play Blur.\nIf they do so, and if A also has first strike and B doesn't, A's additional stirke #1 will be resolved before B's additional strike #1 (and before both get to choose additional strike #2).",
+      "Id": "68288"
+    }
+  ]
+}

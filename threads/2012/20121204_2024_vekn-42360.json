@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-42360",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/42360-satyr-and-for-the-duration-combat-cards",
+  "Title": "Satyr and \"for the duration combat\" cards",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Dec 4, 2012, 8:24\u202FPM",
+      "Body": "Heys!\n\nShadow Court Satyr has Flesh of Marble on him. How does he react with it? The same as vamps, or other scenarios occur due to his text?\n\nAnd what about another type of cards which should be put in play? I think of Vitae Block... technically the Satyr does not \"play\" the card, only use its effect, so it might be interesting to determine what happens to the blood \"on\" a Vitae Block effect. I'd assume it's lost forever, since an effect cannot be burned, as the cardtext say. Or I'm wrong and these kind of cards burn from the Satyr as used?\n\nShadow Court Satyr (Changeling)\n[Sabbat:R, SW:R, Third:R]\nCardtype: Ally\nClan: Gangrel antitribu\nCost: 3 pool\nChangeling with 3 life. 1 strength, 1 bleed.\nWhen the Satyr enters play, you may put a combat card from your hand on him. Once each combat, the Satyr may use the ability of that card as if played from your hand. If the card requires a vampire (e.g., costs blood or requires a Discipline), he may use it as a vampire with the basic level of the Discipline (if any).\n\nFlesh of Marble\n[Jyhad:R2, VTES:R, Anarchs:C/PG, KMW:PG3, KoT:U]\nCardtype: Combat\nDiscipline: Protean\nOnly usable before range is chosen.\n[pro] For the duration of the combat, when this vampire suffers a point of damage (that he or she does not prevent) in a given round, any additional damage inflicted on this vampire in the same round is automatically prevented. Aggravated damage cannot be prevented in this way.\n[PRO] As above, but aggravated damage is prevented in this way as well.\n\nVitae Block\n[BL:U2, LoB:R]\nCardtype: Combat\nDiscipline: Obeah/Animalism\nPlay before range is determined. Only usable if the opposing minion is a vampire. A vampire can play only one Vitae Block each combat.\n[ani] This vampire gets an optional press this round.\n[obe] Put this card in play and move up to 2 blood from the opposing vampire to this card. During your untap phase, return the blood counters to that vampire and burn this card.\n[OBE] As [obe] above, but move up to 3 blood to this card.\n\nNC of Hungary\n\n///",
+      "Id": "42360"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Dec 4, 2012, 8:39\u202FPM",
+      "Body": "the card Vitae block is played \"as from your hand\", so it is burned when card text says you have to burn it.B-)\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "42361"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 4, 2012, 8:47\u202FPM",
+      "Body": "(and it don't return to your satyr afterwar)",
+      "Id": "42363"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Dec 4, 2012, 8:59\u202FPM",
+      "Body": "Are you sure he plays it not just uses its ability AS it is played from hand? I can sense a difference but it could be the same  I'm just suggesting, cuz I haven't seen it clarified before. According to your statement, it can be DI'd or Asguresh'd as well?\n\nNC of Hungary\n\n///",
+      "Id": "42366"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Dec 4, 2012, 10:35\u202FPM",
+      "Body": "If you read Vitae block closely, it says \"put this card in play\"... So... you move the card in the ready region aaaand... it's gone.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "42370"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Dec 6, 2012, 12:35\u202FAM",
+      "Body": "there's a similar ruling with Weighted Walking Stick, the Satyr loses the \"ability\" once it has been put into play.",
+      "Id": "42423"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 13, 2012, 12:28\u202FPM",
+      "Body": "> Malachy wrote:\n> Heys!\n>\n> Shadow Court Satyr has Flesh of Marble on him. How does he react with it? The same as vamps, or other scenarios occur due to his text?\n>\n[RTR 070707] : \"Cards allies play as vampires treat them as vampires for duration effects\"\nThe effect of Flesh of Marble is carried over for the current round and any subsequent rounds.\n\n> Malachy wrote:\n> And what about another type of cards which should be put in play? I think of Vitae Block... technically the Satyr does not \"play\" the card, only use its effect, so it might be interesting to determine what happens to the blood \"on\" a Vitae Block effect. I'd assume it's lost forever, since an effect cannot be burned, as the cardtext say. Or I'm wrong and these kind of cards burn from the Satyr as used?\n>\nCards that are put in play get put in play when used from the Satyr. This includes (non-exhaustive list): Vitae Block, Weighted Walking Stick. Such cards are burned when their cardtext reads \"burn this card\".",
+      "Id": "42796"
+    }
+  ]
+}

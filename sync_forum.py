@@ -75,6 +75,15 @@ def patiently(url: str, delay: float, tries: int = 4) -> str | None:
     return None
 
 
+def slug(name: str) -> str:
+    """The forum's own spelling of a member's name where it links them.
+
+    Members are named with spaces in them -- Pascal Bertrand is one -- which
+    the search wants encoded and a link writes hyphenated.
+    """
+    return name.lower().replace(" ", "-")
+
+
 def hits(page: str) -> list[dict]:
     """The posts on one page of search results.
 
@@ -102,7 +111,8 @@ def every_post(user: str, delay: float) -> list[dict]:
     posts: list[dict] = []
     start = 0
     while True:
-        page = patiently(SEARCH.format(user=user, size=PAGE, start=start), delay)
+        asked = SEARCH.format(user=urllib.parse.quote(user), size=PAGE, start=start)
+        page = patiently(asked, delay)
         if page is None:
             print(f"search failed at start={start}", file=sys.stderr)
             break
@@ -112,7 +122,7 @@ def every_post(user: str, delay: float) -> list[dict]:
         if len(found) < PAGE:
             break
         start += PAGE
-    strangers = {post["who"].lower() for post in posts} - {user.lower(), ""}
+    strangers = {post["who"].lower() for post in posts} - {slug(user), ""}
     if strangers:
         print(f"search returned other members: {sorted(strangers)}", file=sys.stderr)
     return posts

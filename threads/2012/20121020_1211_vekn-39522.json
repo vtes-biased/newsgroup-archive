@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-39522",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/39522-lunatic-eruption-question",
+  "Title": "Lunatic Eruption question",
+  "Messages": [
+    {
+      "Author": "protytwo",
+      "Date": "Oct 20, 2012, 12:11\u202FPM",
+      "Body": "The VTES One blog recently posted the old ruling from LSJ that a minion with 2 Lunatic Eruption placed on it cannot act.\n\nJyhad_addict wrote:\n> Additionaly, if you place 2 Lunatic Erruptions on the same minion,\n> then if he enters combat via the first and then untaps in some way\n> (e.g. play Majesty) then he is forced to enter combat because of the\n> 2nd, right ?\n\nNo. He cannot enter combat with either because he must enter combat\nwith the other.\n\n--\nLSJ () V:TES Net.Rep for White Wolf, Inc.\n\nLunatic Eruption\nAction\n\nDementation\n\nPut this card on any ready minion. During his or her minion phase, the minion with this card must enter combat with a ready minion controlled by his or her prey as a  action (unless the minion must hunt). Any minion may burn this card as an action.\nAs above, and the minion taking the action to burn this card takes 1 unpreventable damage when this card is burned.\n\nIt seems arbitrary that LSJ ruled the enter combat effect to stack. Couldn't it be ruled that both Lunatic Eruption can force you to target a ready minion. You choose prey's minion X for both Eruptions. And a single enter combat ensues?\n\nIn theory there is no difference between theory and practice, but in practice...",
+      "Id": "39522"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 20, 2012, 12:35\u202FPM",
+      "Body": "> protytwo wrote:\n> Couldn't it be ruled that both Lunatic Eruption can force you to target a ready minion? You choose prey's minion X for both Eruptions. And a single enter combat ensues?\n>\nNo.\nEach card creates a mandatory action.\nThe card does not create a target.\n\nThe card could certainly be rewritten to do what you're asking, but the existing card text does not support that interpretation.\n\n> Lunatic wrote:\n> the minion with this card must enter combat with a ready minion controlled by his or her prey\n>",
+      "Id": "39523"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 20, 2012, 12:35\u202FPM",
+      "Body": "Well, despite your best effort, I don't really this as being simpler or more intuitive. Also, it don't expand well to other mandatory action, so the \"stuck\" ruling would still need to be here for every other mandatory action card, like Spirit Marionete.\n\nI don't think it's simpler because the ruling is right here in the rulebook, not out of LSJ ass : a minion who have 2 mandatory actions at the same time is stuck and cannot act.\n\nWanting to modify that so that \"identical\" action seem both problematic to define (how one can define two mandatory action to be same ?) and leading to a lot of other confusion (if the important part is attacking one of my minion's prey, can I use Nose of the Hound ? Does the card give me a built-in rush ? And does it cause NRA ?)",
+      "Id": "39524"
+    },
+    {
+      "Author": "protytwo",
+      "Date": "Oct 20, 2012, 11:38\u202FPM",
+      "Body": "Got it. Thanks.\n\nRulebook references \"two or more different mandatory actions,\" but I can see how two copies of the same exact action could be two different actions per LSJ.\n\nIn theory there is no difference between theory and practice, but in practice...",
+      "Id": "39549"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 21, 2012, 7:20\u202FPM",
+      "Body": "They are not the same action. One comes from \"Lunatic Eruption #1\", while the other comes from \"Lunatic Eruption #2\".\n\nSimilarly, if you have 2 Haven Uncovered on your vampire, he can attempt to remove the first one, untap, and attempt to remove the second one. That's not the same action (though it looks quite similar).\n\nAdonai's answers are correct.",
+      "Id": "39617"
+    }
+  ]
+}

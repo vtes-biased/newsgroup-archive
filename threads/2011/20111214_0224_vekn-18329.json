@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-18329",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/18329-imbued-heaven-s-gate-conviction",
+  "Title": "Imbued / Heaven's Gate / Conviction",
+  "Messages": [
+    {
+      "Author": "Robba Yaga",
+      "Date": "Dec 14, 2011, 2:24\u202FAM",
+      "Body": "If an Imbued being burned, is saved with Heaven's Gate and is moved to the uncontrolled region, do they come back into play during the controlling player's next Influence Phase or do they have to be influenced out again? I am assuming the former given the card text on Heaven's Gate (controlled, but not ready). Further, can an Imbued in this state receive Conviction during the Untap Phase since the Conviction rules do not specify the state of the Imbued (Ready vs. Controlled)?\n\nThanks,\nRobert Dudock\n\nHeaven's Gate\nType: Combat\nRequires: Obeah/Necromancy\nCost: 1 blood\nOnly usable by a ready untapped vampire not involved in combat.\n[nec] Prevent 1 damage to an ally in combat.\n[obe] Only usable when an ally is burned in combat. Move that ally to his or her controller's uncontrolled region (controlled, but not ready) instead. Put 1 life on the ally from the blood bank if he or she has no life.\n[OBE] As [obe] above, but add up to 2 life to the ally, not to exceed his or her starting amount.\n\nConviction\nConviction is a new card type. It is played in the untap phase, so it is an \"untap\" card, not a master or minion or discard (event) card. During your untap phase, you may play 1 conviction on each of your imbued. You may play these conviction cards from your hand or from your ash heap. When an imbued enters play with no conviction, he may gain 1 conviction from your library, hand or ash heap. In addition to their own effects, conviction cards may be spent (burned) to pay the conviction costs which some cards require. Each imbued has a limit of 5 conviction. Any conviction gained above five is burned instead.",
+      "Id": "18329"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Dec 14, 2011, 3:30\u202FAM",
+      "Body": "> Robba wrote:\n> If an Imbued being burned, is saved with Heaven's Gate and is moved to the uncontrolled region, do they come back into play during the controlling player's next Influence Phase or do they have to be influenced out again?\n>\nLSJ 02-11-2004\nThe ally saved by Heaven's Gate returns to the ready region at the end of the current turn.\n\nAlso now a part of the  Hunter FAQ .\n\nThey cannot be 'influenced' out, as they are controlled.\nOnly uncontrolled minions can be 'influenced'.\n\n> Robba wrote:\n> Further, can an Imbued in this state receive Conviction during the Untap Phase since the Conviction rules do not specify the state of the Imbued (Ready vs. Controlled)?\n>\nThey won't ever be there during an untap phase, unless you find a way to burn an ally in combat during the untap phase. (As they come back to the ready region as soon as whichever turn it is ends.)",
+      "Id": "18331"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 14, 2011, 8:03\u202FAM",
+      "Body": "> Adonai wrote:\n>\n> > Robba wrote:\n> > If an Imbued being burned, is saved with Heaven's Gate and is moved to the uncontrolled region, do they come back into play during the controlling player's next Influence Phase or do they have to be influenced out again?\n> >\n> LSJ 02-11-2004\n> The ally saved by Heaven's Gate returns to the ready region at the end of the current turn.\n>\n> Also now a part of the  Hunter FAQ .\n>\n> They cannot be 'influenced' out, as they are controlled.\n> Only uncontrolled minions can be 'influenced'.\n>\nCorrect on all counts.\n\n> Adonai wrote:\n>\n> > Robba wrote:\n> > Further, can an Imbued in this state receive Conviction during the Untap Phase since the Conviction rules do not specify the state of the Imbued (Ready vs. Controlled)?\n> >\n> They won't ever be there during an untap phase, unless you find a way to burn an ally in combat during the untap phase. (As they come back to the ready region as soon as whichever turn it is ends.)\n>\nCorrect. Remember that, at the end of the turn, any allies that were placed in your uncontrolled region (to indicate that they cannot act) are moved to your ready region. ( Rulebook 6.1.5 )",
+      "Id": "18350"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Dec 14, 2011, 9:15\u202FAM",
+      "Body": "> Adonai wrote:\n> They won't ever be there during an untap phase, unless you find a way to burn an ally in combat during the untap phase. (As they come back to the ready region as soon as whichever turn it is ends.)\n>\nUnless a contest is involved, as mentioned in groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/ceeb73e8d557e2a7\n\nOf course, the timing for this to actually apply - an Imbued is burnt, Heaven's Gated and then contested before the end of the turn - is pretty unlikely, but it could happen.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "18361"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 14, 2011, 9:52\u202FAM",
+      "Body": "> Robba wrote:\n> Further, can an Imbued in this state receive Conviction during the Untap Phase since the Conviction rules do not specify the state of the Imbued (Ready vs. Controlled)?\n>\n> \" wrote:\n> Unless a contest is involved, as mentioned in groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/ceeb73e8d557e2a7\n> Of course, the timing for this to actually apply - an Imbued is burnt, Heaven's Gated and then contested before the end of the turn - is pretty unlikely, but it could happen.\n>\nIn that case, the controlled but not ready imbued can receive a Conviction.",
+      "Id": "18363"
+    },
+    {
+      "Author": "Robba Yaga",
+      "Date": "Dec 14, 2011, 10:21\u202FAM",
+      "Body": "Thank you for the clarifications. I was not aware that Allies return to the ready region at the end of the \"current\" turn.\n\nRobba Yaga",
+      "Id": "18365"
+    }
+  ]
+}

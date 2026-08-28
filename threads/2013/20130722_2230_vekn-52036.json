@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-52036",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/52036-withering",
+  "Title": "Withering",
+  "Messages": [
+    {
+      "Author": "jacksonmusic",
+      "Date": "Jul 22, 2013, 10:30\u202FPM",
+      "Body": "question...\n\nas I can see Withering is a strike. can the opposing vampire \"in the same strike resolution\" play cards that require any Disciplines, or the effect of this card comes in play immediately as the card is played, eliminating the opposing minions strike?\n\nrick",
+      "Id": "52036"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jul 22, 2013, 10:54\u202FPM",
+      "Body": "The effects of the strike do not occur until the strike resolves and is not dodged (or the has the combat end before the strike).\n\nThe future victim of Withering can play a strike card that requires a discipline and it will resolve as normal.\n\nThe damage done by Withering cannot be prevented by a card that requires a discipline that is played after the strike resolves.\n\nSee also:\n\nLSJ 03 January 2002\n\n> Strikes occur simultaneously (though Dodge and\n> > S:CE take precedence), so the Withering doesn't have its effect until strike\n> > resolution (and you get to choose your strike before that). So you could use an\n> > Acrobatics to dodge or Majesty to end (and Withering would have no effect). But\n> > note that if you get hit by Withering, you can't use discipline damage\n> > prevention because the Withering has already taken effect.\n>\n> Correct.\n>\n> --\n> LSJ - V:TES Net.Rep for White Wolf, Inc.\n>",
+      "Id": "52040"
+    },
+    {
+      "Author": "jacksonmusic",
+      "Date": "Jul 22, 2013, 10:59\u202FPM",
+      "Body": "noted.. thanx..!!!",
+      "Id": "52042"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 23, 2013, 5:33\u202FAM",
+      "Body": "Correct answer from Adonai.\nAlso, if the minion declares a superior Withering strike with first strike, the opponent can play (and declare) an Undead Strength \"normal\" strike.",
+      "Id": "52061"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Jul 25, 2013, 12:12\u202FAM",
+      "Body": "> Pascal wrote:\n> Correct answer from Adonai.\n> Also, if the minion declares a superior Withering strike with first strike, the opponent can play (and declare) an Undead Strength \"normal\" strike.\n>\nBreak that down, please.\n\nWithering at first strike resolves and applies -1 strength and no-discipline card playable. However since initial strikes are declared simultaneously, the Withering target can still play disciplined pre-man, pre-strike, and initial strike cards. After resolution, discipline cards could not be played, thus effecting post-strike, prevent beyond first strike resolution, and add strikes, correct?\n\nSo Undead Strength is already played before the Withering bar. First strike resolves and Undead Strength strike is going to be reduced by -1 strength.\n\nWithering without first strike retains simultaneous resolution of initial strikes, thus Claws of the Dead can be played post-strike, before resolution. But Withering with first strike should force Claws of the Dead to be played before Withering resolution, during pre-strike -- so no waiting after first strike resolution until regular initial strike resolution and adding Claws, or post strike. (edit: correction -- Strike resolution is a separate step, so even if first strike goes first in resolution, post-strike window after declaration of strikes is by then closed. Therefore, initial post-strikes are still open under Withering.)\n\nCEL add strikes cannot be played as initial resolution has resolved, regardless of first strike.\n\nFOR prevent should work on the first strike, but doesn't prevent the Withering. Later FOR prevent cannot be played after first strike resolution (important for environmental, add strikes, etc).\n\nAnything wrong in there?",
+      "Id": "52196"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 25, 2013, 2:08\u202FAM",
+      "Body": "> FOR prevent should work on the first strike, but doesn't prevent the Withering. Later FOR prevent cannot be played after first strike resolution (important for environmental, add strikes, etc).\n>\nYou cannot use discipline cards to prevent the damage dealt by Withering even at a 'normal' strike. As soon as the damage would be applied (and now needs to be prevented) the text of Withering kicks in.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "52207"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Jul 25, 2013, 4:14\u202FAM",
+      "Body": "Slight nitpick, you can prevent Withering with some discpline requiring cards, such as Horrid Form/Typhonic Beast, Apparition played before strike resolution, Ablative Skin already on the vampire, etc. It just means that the opposing minion who didn't dodge the withering cannot play discpline requiring cards anymore during the damage prevention step.",
+      "Id": "52209"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 25, 2013, 5:06\u202FAM",
+      "Body": "> Azel wrote:\n>\n> > Pascal wrote:\n> > Correct answer from Adonai.\n> > Also, if the minion declares a superior Withering strike with first strike, the opponent can play (and declare) an Undead Strength \"normal\" strike.\n> >\n> Break that down, please.\n>\nIf a discipline-requiring card or effect is played before Withering resolves, the card works.\n\nIf a discipline-requiring card or effect is played after Withering resolves, it can't be played. And - for either first strike or normal strike - strike resolution comes before damage prevention.\n\nTrying to break this down into a list of hard and fast rules is silly (and harder than just understanding the above two points), because so many cards work outside the system you've attempted to establish. CEL additional strikes work just fine, if they're played before Withering resolves - say, Acrobatics.",
+      "Id": "52212"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 25, 2013, 6:32\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Azel wrote:\n> >\n> > > Pascal wrote:\n> > > Correct answer from Adonai.\n> > > Also, if the minion declares a superior Withering strike with first strike, the opponent can play (and declare) an Undead Strength \"normal\" strike.\n> > >\n> > >\n> > Break that down, please.\n> >\n> If a discipline-requiring card or effect is played before Withering resolves, the card works.\n>\n> If a discipline-requiring card or effect is played after Withering resolves, it can't be played. And - for either first strike or normal strike - strike resolution comes before damage prevention.\n>\n> Trying to break this down into a list of hard and fast rules is silly (and harder than just understanding the above two points), because so many cards work outside the system you've attempted to establish. CEL additional strikes work just fine, if they're played before Withering resolves - say, Acrobatics.\n>\nCorrect, except point 2 should be \"A card requiring a discipline cannot be played (by the opposing minion) after sup' Withering resolves [edited].\" Effects requiring a discipline (Masochism, strike from Heroic Might) can be used after Withering has resolved.",
+      "Id": "52224"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 25, 2013, 8:04\u202FAM",
+      "Body": "> Pascal wrote:\n> \"A card requiring a discipline cannot be played (by the opposing minion) after sup' Withering resolves (and inflicts damage).\"\n>\nWhy is the amount of damage relevant? Are you saying that giving the opponent negative strength (say, Song of Serenity) such that the strike resolves for zero damage also negates the rest of the strike? Does Nephandus (reducing a strike's damage by 1) negate a Fractured Armanent at superior (1 damage and destroy equipment), by reducing the damage component to zero? The press from Aid from Bats?\n\nInflicting damage (successfully or otherwise) is relevant to some things, like Target Leg, Weighted Walking Stick, Improvised Flamethrower, Cobra Fangs, or whatever. But I don't see its relevance to Withering.",
+      "Id": "52229"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 25, 2013, 9:01\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Pascal wrote:\n> > \"A card requiring a discipline cannot be played (by the opposing minion) after sup' Withering resolves (and inflicts damage).\"\n> >\n> Why is the amount of damage relevant?\n> [...]\n>\n> But I don't see its relevance to Withering.\n>\nThat's me misreading Withering's cardtext. It's even better than I dreamed it was!",
+      "Id": "52232"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jul 25, 2013, 2:56\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > jamesatzephyr wrote:\n> >\n> > > Pascal wrote:\n> > > \"A card requiring a discipline cannot be played (by the opposing minion) after sup' Withering resolves (and inflicts damage).\"\n> > >\n> > >\n> > Why is the amount of damage relevant?\n> > [...]\n> >\n> > But I don't see its relevance to Withering.\n> >\n> That's me misreading Withering's cardtext. It's even better than I dreamed it was!\n>\nIts decidedly the best thn handstrike ive used.........",
+      "Id": "52248"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Jul 29, 2013, 9:23\u202FPM",
+      "Body": "Thanks for the clarification (I'm assuming the strikeout on \"or effect\" was editing).",
+      "Id": "52474"
+    }
+  ]
+}

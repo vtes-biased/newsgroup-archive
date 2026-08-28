@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-24160",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/24160-nra-and-multiple-actions-from-the-same-card",
+  "Title": "NRA and multiple actions from the same card",
+  "Messages": [
+    {
+      "Author": "NikolajWendt",
+      "Date": "Feb 26, 2012, 11:35\u202FPM",
+      "Body": "6.1.6. Action Card (or Card in Play) -- [..] A minion cannot perform an action with the same action card or via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n\nDoes the \"an action\" refer to each specific action or the actions from the card in general?\n\nExample: Can an infernal sabbat vampire use both actions from the Kaymakli Fragment in the same turn if he untaps?\n\nKaymakli Fragment, Equipment, Promo , [Promo]\nUnique equipment. This Sabbat vampire may allow you to draw 5 cards from your library as an action (discard afterward). This infernal minion may move 3 blood from the bank to a vampire in your uncontrolled region as a +1 stealth action. Any minion may steal this equipment as a strike.",
+      "Id": "24160"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 26, 2012, 11:42\u202FPM",
+      "Body": "Ah, looks like I forgot to scrap that sentence. It should have been replaced by the following one :\nA minion cannot perform each action via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n\nwhich, was merely appended.\n\nI'll fix that tomorrow.\n(the answer to the example question is \"yes\")",
+      "Id": "24164"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Feb 26, 2012, 11:45\u202FPM",
+      "Body": "At one point, it was \"no\", but the answer was reversed to \"yes\":\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/ef99d89831148769",
+      "Id": "24166"
+    },
+    {
+      "Author": "NikolajWendt",
+      "Date": "Feb 27, 2012, 1:40\u202FPM",
+      "Body": "Awesome, gotta make a deck around that then.",
+      "Id": "24193"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 27, 2012, 6:04\u202FPM",
+      "Body": "> Pascal wrote:\n> Ah, looks like I forgot to scrap that sentence. It should have been replaced by the following one :\n> A minion cannot perform each action via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n>\nHow about, instead:\n\nA minion cannot perform each action via the same card played or in play (including from the minion's own card text) more than once each turn.\n\nClarified \"played\" (since cards played to the ash heap are not \"in play\") and removed the redundant \"untap\" clause.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "24219"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 28, 2012, 5:45\u202FAM",
+      "Body": "Well, that's already covered by the next paragraph in the rulebook:\n>\n> A minion cannot perform an action with the same action card more than once each turn, even if he untaps. A minion cannot perform each action via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n>",
+      "Id": "24251"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Feb 28, 2012, 6:39\u202FAM",
+      "Body": "So can we go through this again coz there seems to be a conflict for me from what i remember it was. Before, i always thought that you couldn't use govern to influence 3 blood by a minion if he untaps that turn, if he had used govern to bleed at +2 previously (or vice versa). Can you explain to me how come the Kaymakli fragment is allowed to be used twice by an infernal Sabbat vamp. Is that the same ruling that Gregory Winter can burn a vamp and steal blood?",
+      "Id": "24253"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 28, 2012, 6:58\u202FAM",
+      "Body": "> blackday wrote:\n> So can we go through this again coz there seems to be a conflict for me from what i remember it was. Before, i always thought that you couldn't use govern to influence 3 blood by a minion if he untaps that turn, if he had used govern to bleed at +2 previously (or vice versa). Can you explain to me how come the Kaymakli fragment is allowed to be used twice by an infernal Sabbat vamp. Is that the same ruling that Gregory Winter can burn a vamp and steal blood?\n>\nRulebook 6.1.6  wrote\"\n>\n> A minion cannot perform an action with the same action card more than once each turn, even if he untaps.\n> A minion cannot perform each action via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n>\nOne Govern per turn is handled by the first sentence (\"an action with the same action card\")\nOne of each of KF's actions is handled by the second sentence (\"each action via the same card in play\")",
+      "Id": "24255"
+    }
+  ]
+}

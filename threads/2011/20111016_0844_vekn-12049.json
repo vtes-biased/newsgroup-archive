@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-12049",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12049-rabbat-and-mask-of-a-1000-faces",
+  "Title": "Rabbat and Mask of a 1000 faces",
+  "Messages": [
+    {
+      "Author": "wastaz",
+      "Date": "Oct 16, 2011, 8:44\u202FAM",
+      "Body": "Hello everyone,\n\nI'm a bit unsure as to how these two cards would work together (if they do).\n\nRabbat, the sewer goddess (www.secretlibrary.info/index.php?crypt=798)\n>\n> Independent. Red List: Rabbat may send a vampire to torpor or burn an ally as a strike. If she hunts, you may move 1 of the blood she gains to your pool. She cannot take  actions or block actions that aren't directed at her or at a card on her.\n>\nMask of a thousand faces (www.secretlibrary.info/index.php?lib=183)\n>\n> Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Untap the acting minion and tap this vampire instead. The action continues with this vampire as the acting minion.\n> As above, with +1 stealth.\n>\nIf I have another minion doing a normal \"bleed my prey for 1\" action, and I get blocked. Can I use mask of a thousand faces to have Rabbat go into combat instead?",
+      "Id": "12049"
+    },
+    {
+      "Author": "Pendargon",
+      "Date": "Oct 16, 2011, 8:48\u202FAM",
+      "Body": "IANPB, but no. Because of this part :\n\nNot usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire.\n\nRabbat cannot bleed for one, therefore she cannot mask that action.\n\nShe might use Hidden Lurker instead, though  B)",
+      "Id": "12050"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 16, 2011, 8:55\u202FAM",
+      "Body": "Well, the real inch is in Mask of a Thousand Faces indeed, but it's earlier in the cardtext:\n\nOnly usable by a ready, untapped vampire other than the acting minion who is capable of performing the action.\n\nRabbat isn't capable of performing any D-action, so she isn't capable of performing bleeds. So she can't play Mask of a Thousand Faces on a bleed action.",
+      "Id": "12055"
+    }
+  ]
+}

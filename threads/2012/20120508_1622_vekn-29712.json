@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-29712",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/29712-mordechai-ben-nun-is-missing",
+  "Title": "Mordechai Ben-Nun is Missing",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "May 8, 2012, 4:22\u202FPM",
+      "Body": "Mordechai Ben-Nun is Missing from my database after updating this weekend.",
+      "Id": "29712"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 8, 2012, 4:25\u202FPM",
+      "Body": "When I try to load an old deck with him I get the following error,\n\"Error while adding the card\"",
+      "Id": "29713"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "May 8, 2012, 5:18\u202FPM",
+      "Body": "From what program?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "29716"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 8, 2012, 8:43\u202FPM",
+      "Body": "> XZealot wrote:\n> Mordechai Ben-Nun is Missing from my database after updating this weekend.\n>\nARDB 3.1.1\nFile\nPreferences\nUncheck Automatic Card Text Download\n\nAll of the Heirs to the Blood crypt and library cards are missing again, as is the set.\n\nAnyone have a backup of the one that worked from last week?",
+      "Id": "29732"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 8, 2012, 9:13\u202FPM",
+      "Body": "Found the error. Missing end of line in the vtessets.csv file.\nI suppose none of the HttB library cards show.\nI'll submit a new file tomorrow.",
+      "Id": "29735"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 9, 2012, 5:07\u202FPM",
+      "Body": "..or today",
+      "Id": "29826"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 9, 2012, 6:05\u202FPM",
+      "Body": "done.",
+      "Id": "29829"
+    }
+  ]
+}

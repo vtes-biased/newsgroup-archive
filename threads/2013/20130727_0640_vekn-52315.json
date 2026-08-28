@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-52315",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/52315-do-not-replace-until-clauses-on-events-burned-with-uncoiling-4th-cycle-shattering",
+  "Title": "\"Do not replace until...\" clauses on events burned with Uncoiling/4th Cycle/Shattering",
+  "Messages": [
+    {
+      "Author": "PetriWessman",
+      "Date": "Jul 27, 2013, 6:40\u202FAM",
+      "Body": "Came up in last night's Ropecon ECQ:\n\nIf an Event card is burned via Uncoiling, Fourth Cycle or Shattering after it has been put into play, does a \"Do not replace until...\" clause on that Event (if any) stay in place or not?\n\nBlack Hand Ritual explicitly says that the clause is canceled, but Uncoiling, Fourth Cycle and Shattering have no such clarification.\n\nI ruled that it stays, but nobody was 100% sure.\n\nFor example. player A has Torpid Blood in play, with \"Do not replace until a vampire moves from torpor to the ready region.\". Player B uses Uncoiling to burn that event. Does player A immediately draw to replace the Torpid Blood, or does he still have to wait until a vampire moves from torpor to ready?\n\nTorpid Blood\nGehenna. Do not replace until a vampire moves from torpor to the ready region.\nActions taken by vampires in torpor cost an additional blood. Rescuing an older vampire from torpor costs an additional blood.\n\nUncoiling, The\nEvent. Do not replace as long as this card is in play.\nDuring your discard phase, burn one other event at random. Any other Methuselah may use a discard phase action and burn X pool to burn this card, where X is the number of other events in play.\n\nFourth Cycle, The\nRequires at least two Gehenna cards in play. When this card is played, burn all Gehenna cards and conviction cards, then send all vampires with capacity 3 or less to torpor. No Gehenna cards may be played while this card remains in play.\n\nBlack Hand Ritual\n+1 stealth action. Requires a ready Black Hand vampire.\nUntap a younger Black Hand vampire or  burn any Gehenna card in play. Any Do not replace until directive on that card is ended (and the controller draws to replace it, if it hadn't been replaced yet).\n\nShattering\nRequires an anarch.\n+1 stealth action.  Look at another Methuselah's hand and discard a card from it.\n+2 stealth action. Burn an event (undirected, no matter who controls the event).\nInflict 2 unpreventable damage on a ready minion.",
+      "Id": "52315"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Jul 27, 2013, 10:23\u202FAM",
+      "Body": "I would say that they do get to replace since the card telling you not to replace is no longer around.",
+      "Id": "52339"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jul 27, 2013, 11:10\u202FAM",
+      "Body": "It is not replaced as long as the condition written is not fullfilled :\n\ngroups.google.com/forum/#!searchin/rec.games.trading-cards.jyhad/LSJ$20inquisition$20replace/rec.games.trading-cards.jyhad/SIbzFAwWDKs/g2QiSaVAvjYJ\n\n> If The New Inquisition is played and is then removed via the vote,\n> does the person that played the event draw back up or does the\n> stipulation (do not replace until a titled vampire goes to torpor) is\n> fulfilled still remain? Thank you.\n\nIt remains. Not replacing is an effect of card play, not an effect that depends\non the card being in play.\n\n> The New Inquisition [Gehenna:R]\n> Cardtype: Event\n>\n> Gehenna. Do not replace until a titled vampire goes to torpor.\n> Requires at least one other Gehenna card in play. During each\n> Methuselah's untap phase, he or she may choose a ready vampire\n> controlled by his or her prey. That vampire takes 1 unpreventable\n> damage. Any titled vampire may call a referendum to burn this card as\n> a +1 stealth political action.",
+      "Id": "52351"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Jul 28, 2013, 3:18\u202FAM",
+      "Body": "Ok, that's what I thought too, thanks.\n\nSo Black Hand Ritual is functionally different from the others in that regard (due to direct card text). Interesting.",
+      "Id": "52375"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 31, 2013, 1:40\u202FPM",
+      "Body": "Correct answer from Timo.",
+      "Id": "52560"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Apr 20, 2020, 8:29\u202FAM",
+      "Body": "> Timo wrote:\n> It is not replaced as long as the condition written is not fullfilled :\n>\n> groups.google.com/forum/#!searchin/rec.games.trading-cards.jyhad/LSJ$20inquisition$20replace/rec.games.trading-cards.jyhad/SIbzFAwWDKs/g2QiSaVAvjYJ\n>\n> > If The New Inquisition is played and is then removed via the vote,\n> > does the person that played the event draw back up or does the\n> > stipulation (do not replace until a titled vampire goes to torpor) is\n> > fulfilled still remain? Thank you.\n>\n> It remains. Not replacing is an effect of card play, not an effect that depends\n> on the card being in play.\n>\n> > The New Inquisition [Gehenna:R]\n> > Cardtype: Event\n> >\n> > Gehenna. Do not replace until a titled vampire goes to torpor.\n> > Requires at least one other Gehenna card in play. During each\n> > Methuselah's untap phase, he or she may choose a ready vampire\n> > controlled by his or her prey. That vampire takes 1 unpreventable\n> > damage. Any titled vampire may call a referendum to burn this card as\n> > a +1 stealth political action.\n>\n\u00BBIt remains. Not replacing is an effect of card play, not an effect that depends\non the card being in play.\u00AB\n\nA follow-up question: Will the player draw up to his hand size again when the condition is fulfilled even though the card is no longer in play?\n\nThanks in advance!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "99644"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Apr 20, 2020, 10:06\u202FAM",
+      "Body": "Since it is an effect of the card being played and remains even though the card left play, the condition to end the Do not replace effect will still apply.\n\nFor example cards like Into Thin Air have a similar clause. They are obviously replaced as soon as the condition is met, even though they are never put into play.\n\nPrince of Bonn, Germany",
+      "Id": "99646"
+    }
+  ]
+}

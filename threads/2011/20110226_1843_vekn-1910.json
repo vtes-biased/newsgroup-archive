@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-1910",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/1910-errors-in-the-html-cardlist",
+  "Title": "Errors in the html cardlist",
+  "Messages": [
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 26, 2011, 6:43\u202FPM",
+      "Body": "Several of the Crusade cards in the html cardlist hve been incorrectly converted, and thus don't display correctly.\n\nThe problematic cards include HTML like\n<Requires a=\"a\" /> Sabbat vampire. </b><br /> <If this=\"this\" referendum=\"referendum\" passes,=\"passes,\" put=\"put\" this=\"this\" card=\"card\" />\nwhich is clearly bogus - it looks like some tag was incorrectly stripped from the text.\n\nOn closer inspection this seems to effect most cards that used to have clarifications in the old WW cardlist - see for example Aggressive Tactics, Dagon's Call, Game of Malkav or Gangrel Atavism.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "1910"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 26, 2011, 7:50\u202FPM",
+      "Body": "Thank you for letting us know. Will be fixed ASAP.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "1913"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 19, 2011, 10:22\u202FAM",
+      "Body": "This problem either wasn't fixed, or the fix has been reverted somehow.\n\nExamples:\n\n- many Crusades (e.g. Barcelona, Atlanta)\n- Anathema's 'Requires a' text...\n- half the text of superior Terror Frenzy.\n\nMy guess - without checking - is that where a ruling/clarification/errata got written into card text in angle brackets, the server is trying to turn that into a legal-looking HTML tag.",
+      "Id": "14993"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 10:17\u202FAM",
+      "Body": "If you have any idea of what the use of angle / curly / double curly brackets was, please let me know. I think all changes to a card should use single curly brackets.",
+      "Id": "15611"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 23, 2011, 1:18\u202FPM",
+      "Body": "groups.google.com/group/rec.games.trading-cards.jyhad/msg/11e9f7c89d1da5f5\n\n> LSJ wrote:\n> Note the use of the errata indicators\n> (curly braces) instead of the clarification indicators (angle brackets).\n>\nErrata: {foo}\nClarification: <bar>\n\nDo you have an example of double-curly?\n\nAs an example, take this from the Wayback Machine archive of the White Wolf website:\nweb.archive.org/web/20070106115946/http://www.white-wolf.com/vtes/index.php?line=Cardlist_A\n>\n> That wrote:\n> Abomination [FN:R]\n> Cardtype: Action\n> Cost: 1 pool\n> Capacity: 4\n> Unique. Requires a ready <non-Sterile> vampire. +1 stealth action.\n> Burn an untapped werewolf ally (such as Renegade Garou, Werewolf Pack or Black Spiral Buddy) in your ready region to put this card in play. This card becomes a unique Independent {Abomination} vampire of 4 capacity with superior Protean [PRO]. You may move up to 4 blood from the acting vampire to this vampire. This vampire has +1 strength, gets an additional strike each round and gets an optional maneuver each combat. This vampire may attack any ready minion as a  action.\n>\n<non-Sterile> is a clarification, because the rules on Sterile already made it clear - but the card text was updated to be explicit.\n\n{Abomination} was errata, because it was originally clanless (Abominations hadn't been invented in Final Nights).",
+      "Id": "15632"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 1:48\u202FPM",
+      "Body": "Hm, I got confused by the \"={ ... }=\" and then \"-{ ...}-\"",
+      "Id": "15634"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 1, 2012, 5:31\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Examples:\n>\n> - many Crusades (e.g. Barcelona, Atlanta)\n> - Anathema's 'Requires a' text...\n> - half the text of superior Terror Frenzy.\n>\nThese cards (and presumably others) still appear to be broken in the HTML cardlists.",
+      "Id": "24454"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 28, 2012, 5:01\u202FPM",
+      "Body": "Since \"will be fixed ASAP\" apparently doesn't come in under a year, could the HTML cardlists be deleted from the site?\n\nIt is impossible to rely on them for accurate texts. Having the official website issuing card texts that vary from \"makes no sense\" to \"actively misleading\" is counter-productive.",
+      "Id": "26751"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Mar 28, 2012, 6:40\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Since \"will be fixed ASAP\" apparently doesn't come in under a year, could the HTML cardlists be deleted from the site?\n>\n> It is impossible to rely on them for accurate texts. Having the official website issuing card texts that vary from \"makes no sense\" to \"actively misleading\" is counter-productive.\n>\nI have disabled the HTML card list files until they can be updated.\n\nV:EKN Website Coordinator",
+      "Id": "26761"
+    }
+  ]
+}

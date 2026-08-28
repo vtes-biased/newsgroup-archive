@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-15461",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/15461-truth-of-blood-change-of-target",
+  "Title": "Truth of blood + Change of Target",
+  "Messages": [
+    {
+      "Author": "M.Schumacher",
+      "Date": "Nov 22, 2011, 12:26\u202FPM",
+      "Body": "Thinking about this combo:\n\nTruth of Blood\n[aus] [qui]  Bleed at +1 bleed. If this action is blocked, the controller of the blocking minion discards two cards at random from his or her hand (before combat, if any). Those cards are not replaced until the end of this action.\n[AUS] [QUI] As above, but bleed at +2 bleed\n\nChange of Target\nOnly usable when this acting minion is blocked (play before combat, if any). Untap the acting minion, do not tap the blocking minion, and end the current action (it is not successful). This minion cannot perform the same action again this turn.\n\nThe way I see it CoT is played in the same window as the discard effect of\nToB takes place hence allowing me to play CoT after the discard has occured.\nAm I correct?",
+      "Id": "15461"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 22, 2011, 12:42\u202FPM",
+      "Body": "> M.Schumacher wrote:\n> The way I see it CoT is played in the same window as the discard effect of\n> ToB takes place hence allowing me to play CoT after the discard has occured.\n> Am I correct?\n>\nShould be possible, yes. An analogous situation occurs with Burning Touch:\n\n[val] If this action is blocked, the blocking minion burns one blood or life before combat begins. Any minion currently attempting to block may now choose not to block.\n\nAnd LSJ tells us:  [LSJ 20020115]\n>\n> LSJ wrote:\n> > What is the timing for [Burning Touch + Change of target + Obedience]?\n>\n> BT is playable at any time before the block succeeds.\n> CoT is playable once a block succeeds.\n> Obedience is playable once a block succeeds that would lead to combat.\n>\n> > When one plays Burning Touch (val) can the acting minion then play\n> > Change of target right after? If one plays Burning Touch does\n> > Obedience cancel the burn blood effect done by Burning Touch?\n>\n> Yes. to the BT + CoT question\n> No. to the BT+Obedience question\n>\nTruth of Blood seems to me to have the same timing, so it should be fine.",
+      "Id": "15462"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 22, 2011, 12:50\u202FPM",
+      "Body": "It's a tad different (in a way that Truth in blood produces a triggered effect, rather than being an action modifier when the card is played).\nBut that doens't change the fact that you can play Change of Target after the cards are discarded, similarly to the ruling you give and to this one:  [LSJ 20040412] , about Bear-Baiting.",
+      "Id": "15463"
+    }
+  ]
+}

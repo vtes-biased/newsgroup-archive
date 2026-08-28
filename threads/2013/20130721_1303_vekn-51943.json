@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-51943",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/51943-maneuves-on-aids-from-bats",
+  "Title": "Maneuves on Aids from Bats",
+  "Messages": [
+    {
+      "Author": "nekojosh",
+      "Date": "Jul 21, 2013, 1:03\u202FPM",
+      "Body": "Good day, I have a question. Can a minion who plays Aid from Bats maneuver to long range on the same round it played the card? I mean, the set range step in a combat happens before the strike selection step, so would that minion still be able to maneuver to long range?\n\nAid from Bats\n[Combat]\n\n[Animalism]\n\n[ani] Strike: 1R damage, with an optional maneuver.\n[ANI] As above, with an optional press.\n\nP.D. Sorry for posting on the wrong section, could a moderator move this post the correct section? Thanks.",
+      "Id": "51943"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jul 21, 2013, 1:08\u202FPM",
+      "Body": "If you want to use the maneuver from Aid from the bat, you must play it at the maneuver step. It will commit you to use Aid from the bat as your first strike (or nothing if Aid is not playable at the strike resolution step, because of Immortal grapple for example).\n\nOnce you use a strike with optional maneuver, you cannot play any other strike with optional maneuver in the maneuver step (e.g. another aid from the bat), even if you have additional strike.",
+      "Id": "51944"
+    },
+    {
+      "Author": "nekojosh",
+      "Date": "Jul 21, 2013, 1:12\u202FPM",
+      "Body": "Thanks! That clears it up!",
+      "Id": "51947"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 23, 2013, 5:41\u202FAM",
+      "Body": "> Ohlmann wrote:\n> If you want to use the maneuver from Aid from the bat, you must play it at the maneuver step. It will commit you to use Aid from the bat as your first strike (or nothing if Aid is not playable at the strike resolution step, because of Immortal grapple for example).\n>\n> Once you use a strike with optional maneuver, you cannot play any other strike with optional maneuver in the maneuver step (e.g. another aid from the bat), even if you have additional strike.\n>\nCorrect. This also applies to .44 Magnum, or to Beretta (if anyone else is using these), or to any \"strike: X, with an optional maneuver\" cards.",
+      "Id": "52065"
+    }
+  ]
+}

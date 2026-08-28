@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-21299",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/21299-pre-range-question",
+  "Title": "pre range question",
+  "Messages": [
+    {
+      "Author": "Megabaja",
+      "Date": "Jan 20, 2012, 5:24\u202FPM",
+      "Body": "say vampire A plays domain of evernight at inferior tem, and is blocked by vampire b. in combat vampire A plays Outside the Hourglass for damage, and vampire b plays horrid form. Does horrid form prevent damage already dealt?\n\n> Outside the Hourglass\n> Type: Combat\n> Requires: Temporis / Obfuscate\n> [obf] Strike: dodge.\n> [tem] Maneuver, or strike: dodge, with an optional maneuver.\n> [TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n>\n> Horrid Form\n> Type: Combat\n> Requires: Vicissitude\n> Cost: 1 blood\n> Only usable before range is chosen.\n> [vic] This vampire gets +1 strength for the remainder of combat.\n> [VIC] As above, and this vampire may prevent 1 damage each round for the remainder of combat.\n>\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "21299"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 20, 2012, 5:30\u202FPM",
+      "Body": "> Megabaja wrote:\n> say vampire A plays domain of evernight at inferior tem, and is blocked by vampire b. in combat vampire A plays Outside the Hourglass for damage, and vampire b plays horrid form. Does horrid form prevent damage already dealt?\n>\nYou can play Horrid Form during the damage resolution step created by Outside the Hourglass. You can then use the effect to prevent the damage before it is handled.\n\n[LSJ 20100706]\n>\n> LSJ wrote:\n> > - You can play horrid form (and similar cards) before preventing/\n> > healing damage from an OtH already played.\n>\n> Yes.\n>\nSimilarly, you can play Skin of Night in the damage resolution step (mentioned further down that post).\n\nMore generally,  [RTR 20041202]\n>\n> RTR wrote:\n> The damage resolution phase does not preclude other effects (like tapping a\n> Barrens, for example). You may tap the Barrens to attempt to draw into more\n> damage prevention, or play Aura Reading when Weather Control damage is\n> applied (to attempt to draw Skin of Night if a Dawn Operation is in play,\n> for example). You still cannot \"interrupt\" damage handling, however (you\n> cannot burn two blood to heal and then use some effect to gain blood before\n> burning another blood to heal the remaining third point of damage, for\n> example).\n>\nIf - for some reason - you have already taken some damage and not prevented it and damage resolution/prevention has passed, you cannot retroactively prevent it. (That would be unlikely to matter in the case where the damage is aggravated, but it's technically plausible that you decided to take the damage, play an Undead Persistence to stick around, and then drew into Horrid Form or whatever.)",
+      "Id": "21300"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Jan 20, 2012, 5:47\u202FPM",
+      "Body": "> LSJ wrote:\n> > - You can play horrid form (and similar cards) before preventing/\n> > healing damage from an OtH already played.\n>\n> Yes.\n>\nThis sentence does not state that the very same horrid form could be used to prevent damage already dealt, it just states that it can be played before window of \"before range\" is closed. Key is in the word remainder. Word remainder by default states that there is something before it. ( Or I am very wrong, since English is not my first language) In this case damage is dealt before remainder of \"before range\" window.\n\nRuling of the RTR 20041202 merely states that you can attempt to play \"before range\" cards before damage is resolved, not that you can rewind time and prevent damage done with card that has a questioned word \"remainder\".\n>\n> The damage resolution phase does not preclude other effects (like tapping a\n> Barrens, for example). You may tap the Barrens to attempt to draw into more\n> damage prevention, or play Aura Reading when Weather Control damage is\n> applied (to attempt to draw Skin of Night if a Dawn Operation is in play,\n> for example).\n>\ntry not to mix sentence in brackets with Weather control sentence outside of it...\n\nWebster says:\n>\n> 3. (noun) remainder\n> the quantity or sum that is left after subtraction, or after any deduction\n>\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "21301"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 20, 2012, 8:22\u202FPM",
+      "Body": "> Megabaja wrote:\n> This sentence does not state that the very same horrid form could be used to prevent damage already dealt, it just states that it can be played before window of \"before range\" is closed.\n>\nCorrect.\n\nThe damaging effect has been played, but there is a window to play damage prevention. Most damage prevention effects are played in this window.\n\nWhen you play Horrid Form, you now have an optional damage prevention effect that you can use for the remainder of the round.\n\nWe still haven't moved outside of damage resolution.\n\nWithout having to accelerate to 88 miles per hour, get struck by lightning, or push a steam train down a canyon, we now use the damage prevention effect we have.\n\nWe prevent one damage.\n\nThe point about \"remainder of the round\" is that - unlike most damage prevention effects - Horrid Form does not have to be used immediately, and may be used when there is no damage to handle. (As in most combats, which don't have much damage flying round before range.)\n\nSkin of Rock? Can't play when there's no damage, and can't keep any left-over prevent for later.\n\nHorrid Form? Can play when there's no damage, and can keep the effect for the rest of the round.",
+      "Id": "21306"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 21, 2012, 10:30\u202FAM",
+      "Body": "jamesatzephyr's answers are correct.",
+      "Id": "21352"
+    }
+  ]
+}

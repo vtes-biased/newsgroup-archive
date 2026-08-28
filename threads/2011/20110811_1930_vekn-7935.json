@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-7935",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/7935-mirror-walk-and-slave-rule",
+  "Title": "Mirror Walk and Slave rule",
+  "Messages": [
+    {
+      "Author": "Xaddam",
+      "Date": "Aug 11, 2011, 7:30\u202FPM",
+      "Body": "I'm wondering about the interaction between Mirror Walk and the slave rule. If an action is blocked with a Mirror Walk played can the acting minion's methuselah use the slave rule to untap the acting minion and have a gargoyle start a combat with the blocking minion?\n\nI'd argue no because the action ends at the time the action is blocked.\nI'd argue yes because (in some cases) you're allowed to choose the order in which to resolve your own effects (end action vs. slave rule in this case).\nWhich one is correct and why?\n\nThanks in advance.\n\nSlave: Some minions are identified as slaves to a specified clan. A slave cannot take a directed action if his controller doesn\uFFFDt control a ready member of the specified clan. Also, if a member of the specified clan controlled by the same Methuselah is blocked, the controller can tap the slave to cancel the combat and to untap the acting vampire and have the slave enter combat with the blocking minion instead.\n\nMirror Walk [Third:C, KoT:C]\nCardtype: Action Modifier\nDiscipline: Thaumaturgy\nDo not replace until your discard phase.\n[tha] +1 stealth.\n[THA] As [tha] above, and if this action is blocked, the action ends (with no combat).\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "7935"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 11, 2011, 7:43\u202FPM",
+      "Body": "> Xaddam wrote:\n> I'm wondering about the interaction between Mirror Walk and the slave rule. If an action is blocked with a Mirror Walk played can the acting minion's methuselah use the slave rule to untap the acting minion and have a gargoyle start a combat with the blocking minion?\n>\nAssuming superior Mirror Walk: no.\n\n> Xaddam wrote:\n> I'd argue no because the action ends at the time the action is blocked.\n> I'd argue yes because (in some cases) you're allowed to choose the order in which to resolve your own effects (end action vs. slave rule in this case).\n> Which one is correct and why?\n>\nThe latter, due to the \"instead\" word in the Slave rule. If the acting vampire isn't entering combat, the Slave can't step in for him.",
+      "Id": "7937"
+    },
+    {
+      "Author": "Forhead",
+      "Date": "Aug 12, 2011, 11:57\u202FAM",
+      "Body": "I got a similar question concerning the Slave rule and Stone travel.\n\n1) Is the same true for stone travel? (since there is not \"end action\" text)\n2) Is it possible for the salve to use the \"choose to cancel the resultning combat\"?\n\nStone Travel\nType: Action Modifier\nRequires: Mytherceria/Obtenebration\n[obt] This vampire burns 1 blood to get +1 stealth.\n[myt] +1 stealth.\n[MYT] +1 stealth. If this action is blocked, this acting vampire may choose to cancel the resulting combat.\n\nIsak Esbj\u00F6rnsson Bj\u00E4rmark",
+      "Id": "7984"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 12, 2011, 12:15\u202FPM",
+      "Body": "> Forhead wrote:\n> I got a similar question concerning the Slave rule and Stone travel.\n>\n> 1) Is the same true for stone travel? (since there is not \"end action\" text)\n>\nI'm not sure what \"the same\" is, but if a vampire is blocked after playing sup'Stone Travel, a Slave to that vampire's clan can't step in for a combat that was cancelled.\n\n> Forhead wrote:\n> 2) Is it possible for the salve to use the \"choose to cancel the resultning combat\"?\n>\nNo - the Slave mininon stepping in doesn't become the acting minion: the Slave can't play Freak Drive, As the Crow, Momentery Delay, ..",
+      "Id": "7986"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 12, 2011, 12:18\u202FPM",
+      "Body": "Well Stone Travel gives you option to cancel the combat, you don't -have- to cancel it like you do for Mirror Walk.",
+      "Id": "7987"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Aug 12, 2011, 12:27\u202FPM",
+      "Body": "> Forhead wrote:\n> I got a similar question concerning the Slave rule and Stone travel.\n>\n> 1) Is the same true for stone travel? (since there is not \"end action\" text)\n> 2) Is it possible for the salve to use the \"choose to cancel the resultning combat\"?\n>\n> Stone Travel\n> Type: Action Modifier\n> Requires: Mytherceria/Obtenebration\n> [obt] This vampire burns 1 blood to get +1 stealth.\n> [myt] +1 stealth.\n> [MYT] +1 stealth. If this action is blocked, this acting vampire may choose to cancel the resulting combat.\n>\nIANF, but anything that cancels the resulting combat of a blocked action, ends the action if it doesn't add anything else to do.\nSo, if the Stone Traveler chooses to cancel combat, he cannot trigger the Slave Rule.\nIf he chooses not to cancel the resulting combat and has a ready Slave that meets the requirements, the player can use the Slave Rule.\n\nRight, mr. Floppy?\n\nEDIT: I started writing this before there where answers",
+      "Id": "7988"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 12, 2011, 1:15\u202FPM",
+      "Body": "> Brum wrote:\n>\n> > Forhead wrote:\n> > I got a similar question concerning the Slave rule and Stone travel.\n> >\n> > 1) Is the same true for stone travel? (since there is not \"end action\" text)\n> > 2) Is it possible for the salve to use the \"choose to cancel the resultning combat\"?\n> >\n> > Stone Travel\n> > Type: Action Modifier\n> > Requires: Mytherceria/Obtenebration\n> > [obt] This vampire burns 1 blood to get +1 stealth.\n> > [myt] +1 stealth.\n> > [MYT] +1 stealth. If this action is blocked, this acting vampire may choose to cancel the resulting combat.\n> >\n> IANF, but anything that cancels the resulting combat of a blocked action, ends the action if it doesn't add anything else to do.\n> So, if the Stone Traveler chooses to cancel combat, he cannot trigger the Slave Rule.\n> If he chooses not to cancel the resulting combat and has a ready Slave that meets the requirements, the player can use the Slave Rule.\n>\n> Right, mr. Floppy?\n>\n> EDIT: I started writing this before there where answers\n>\nCancelling combat doesn't end the action. Your vampire playing sup' Stone Travel can still play sup' Freak Drive or Momentary Delay. The blocking minion can play Cats' Guidance.\n\nIf you cancel the resulting combat, you can't invoke the Slave rule.\nIf you invoke the Slave rule, the generated combat isn't the combat resulting of the block, so you can't choose to cancel it.\nSo, with sup' Stone Travel, it's one of\n- have resulting combat\n- cancel resulting combat\n- invoke the Slave rule\nand then, unless the action somehow continues (Momentary Delay, mostly, I guess), the end of the action is reached for good.",
+      "Id": "7989"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Aug 12, 2011, 2:12\u202FPM",
+      "Body": "Is this a reversal of the ruling here\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/52231ead130f0cd1\n\n> GreySeer wrote:\n> > Does this mean that there doesn't have to be a combat for a Gargoyle to tap\n> > and enter combat with the blocking minion, there just has to be a blocking\n> > minion ( and the appropriate acting minion )?\n>\n> Yes.\n>\n> --\n> LSJ () V:TES Net.Rep for White Wolf, Inc.\n> Links to revised rulebook, rulings, errata, and tournament rules:\n> www.white-wolf.com/vtes/\n>\nEdit: Context of the above is if the vampire is taking the 'Leave Torpor' action.",
+      "Id": "7994"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Aug 12, 2011, 5:02\u202FPM",
+      "Body": "> Pascal wrote:\n> Cancelling combat doesn't end the action. Your vampire playing sup' Stone Travel can still play sup' Freak Drive or Momentary Delay. The blocking minion can play Cats' Guidance.\n>\nAh.\nJust saw the texts of cards like Kiss of Ra and Obedience and they are specific that the action ends.\nFor some reason I had the idea that canceling the combat resulting from a block would end the action.\nI was wrong.\n\nNow I know better.\nThanks!",
+      "Id": "8002"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 13, 2011, 8:13\u202FAM",
+      "Body": "> Mael wrote:\n> Is this a reversal of the ruling here\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/52231ead130f0cd1\n>\n> > GreySeer wrote:\n> > > Does this mean that there doesn't have to be a combat for a Gargoyle to tap\n> > > and enter combat with the blocking minion, there just has to be a blocking\n> > > minion ( and the appropriate acting minion )?\n> >\n> > Yes.\n> >\n> > --\n> > LSJ () V:TES Net.Rep for White Wolf, Inc.\n> > Links to revised rulebook, rulings, errata, and tournament rules:\n> > www.white-wolf.com/vtes/\n> >\n> Edit: Context of the above is if the vampire is taking the 'Leave Torpor' action.\n>\nI need some time to check what happens exactly.\nThis ruling stands, but I'm not sure  this one (question #4) should.",
+      "Id": "8050"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Aug 13, 2011, 9:04\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > Mael wrote:\n> > Is this a reversal of the ruling here\n> > groups.google.com/group/rec.games.trading-cards.jyhad/msg/52231ead130f0cd1\n> >\n> > > GreySeer wrote:\n> > > > Does this mean that there doesn't have to be a combat for a Gargoyle to tap\n> > > > and enter combat with the blocking minion, there just has to be a blocking\n> > > > minion ( and the appropriate acting minion )?\n> > >\n> > > Yes.\n> > >\n> > > --\n> > > LSJ () V:TES Net.Rep for White Wolf, Inc.\n> > > Links to revised rulebook, rulings, errata, and tournament rules:\n> > > www.white-wolf.com/vtes/\n> > >\n> > >\n> > Edit: Context of the above is if the vampire is taking the 'Leave Torpor' action.\n> >\n> I need some time to check what happens exactly.\n> This ruling stands, but I'm not sure  this one (question #4) should.\n>\nThe way I see it, canceling a combat resulting from a block is an effect, not a prerequisite for invoking the slave rule in the same way that untapping the target is an effect, not a prerequisite for Precognizant Mobility. The effect is applied but there is no actual state change, so Vampiric Disease doesn't trigger and the Gargoyle gets in to combat.\n\nAs for question #4, I don't see any contradiction. The acting vampire doesn't cancel the combat that isn't coming, the blocking vampire gets to diablerize as normal.",
+      "Id": "8052"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 13, 2011, 10:29\u202FAM",
+      "Body": "The contradiction is with this ruling (explicitely written in the Rulings page):\n\nBlood Brother Ambush:\n\nBlood Brother Ambush can be used by a BrujahAnti taking an action while in torpor. If this happens, the blocker loses the opportunity to commit diablerie.  [RTR 20010710]",
+      "Id": "8053"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 3, 2011, 10:47\u202FAM",
+      "Body": "> Mael wrote:\n> Is this a reversal of the ruling here\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/52231ead130f0cd1\n>\n> > GreySeer wrote:\n> > > Does this mean that there doesn't have to be a combat for a Gargoyle to tap\n> > > and enter combat with the blocking minion, there just has to be a blocking\n> > > minion ( and the appropriate acting minion )?\n> >\n> > Yes.\n> >\n> > --\n> > LSJ () V:TES Net.Rep for White Wolf, Inc.\n> > Links to revised rulebook, rulings, errata, and tournament rules:\n> > www.white-wolf.com/vtes/\n> >\n> Edit: Context of the above is if the vampire is taking the 'Leave Torpor' action.\n>\nNo.\nThe requirement for playing Blood Brother Ambush is to be blocked. I will update its cardtext to have it read \"Combat (if any) does not occur.\"",
+      "Id": "9537"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-25462",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/25462-ardb-csv",
+  "Title": "ARDB & *.csv",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Mar 9, 2012, 11:11\u202FPM",
+      "Body": "I'm trying to tinker with ARDB (to possibly use it for things like storing my own Storyline Cards and my own VTES creations, of which there is a LOT realistically).\n\nI'm having issues with the CSV and importing it into ARDB.\n\nThis is the Log:\n11:04:12: Query was: CREATE TABLE Crypt ( name TEXT, type TEXT, clan TEXT, adv TEXT, groupnumber int, capacity int, disciplines TEXT, cardtext TEXT, edition TEXT, title TEXT, banned TEXT, artist TEXT,\n11:04:12: SQL error: near \" \": syntax error\n11:04:12: Query was: CREATE TABLE cards_crypt_unsorted ( card_name INTEGER, clan INTEGER, adv INTEGER, groupnumber INTEGER, capacity INTEGER, disciplines STRING, superior STRING, inferior STRING, title STRING, card_text INTEGER, release_set INTEGER, release_date INTEGER, rarity INTEGER, artist STRING, url STRING,\n11:04:12: SQL error: near \" \": syntax error\n11:04:12: Query was: UPDATE Crypt SET groupnumber = 0 WHERE groupnumber = '*';\n11:04:12: SQL error: no such table: Crypt\n11:04:12: Cancelling changes to prevent database corruption\n\nAny help??\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "25462"
+    },
+    {
+      "Author": "drstrange26",
+      "Date": "Mar 10, 2012, 10:21\u202FAM",
+      "Body": "I am more than willing to help. I am assuming that you have edited the. Csv. Yourself.\nThe csv uses dual. \"\" when the csv is created and if you edited then the \" seperaters are not there. Also it looks like you've left an entry for crypt groupnumber blank.\n\nContact me here or my email at. ARDB website\n\nDr.",
+      "Id": "25486"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Mar 10, 2012, 12:56\u202FPM",
+      "Body": "> drstrange26 wrote:\n> I am assuming that you have edited the. Csv. Yourself.\n>\nNope.\nThe new CSV put together by Pascal is the source of the error.\n\nSee also:\nPascal 02-25-2012",
+      "Id": "25502"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Mar 10, 2012, 8:57\u202FPM",
+      "Body": "Thanks Adonai.\nI'll try get a previous edition and edit that one.\n\nEDIT: I am getting my problems from vtessets.csv at the moment.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "25543"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 27, 2012, 6:56\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Thanks Adonai.\n> I'll try get a previous edition and edit that one.\n>\n> EDIT: I am getting my problems from vtessets.csv at the moment.\n>\nFound the error.\nI'm updating the csv files.\n\nDone.\n\nThere was an extra \" at the end of the first line...\n\nSomething's still wrong, but I can't find what.",
+      "Id": "26664"
+    }
+  ]
+}

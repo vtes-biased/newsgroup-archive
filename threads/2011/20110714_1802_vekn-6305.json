@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-6305",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/6305-diverse-temporis-cards",
+  "Title": "Diverse Temporis cards.",
+  "Messages": [
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Jul 14, 2011, 6:02\u202FPM",
+      "Body": "Okay. Here are some Temporis questions.\n\n1. card:\nAmulet of Temporal Perception\nType: Equipment\nUnique equipment.\nThis vampire may burn 1 blood to play a card that requires basic Temporis [tem] from your hand. This equipment can be used only once each turn.\n\nQ: May you use this card to go around the No repeat action rule? Or the only one act.mod/react card?\n\n2. card:\nDomain of Evernight\nType: Action Modifier\nRequires: Temporis/Obfuscate\n[tem] If this action is blocked, all damage done to vampires in the resulting combat is aggravated.\n\nQ: May a blocker back-out like the basic Dawn operation?\n\n3. card\nHourglass of the Mind\nType: Action\nRequires: Temporis/Potence\n+1 stealth action.\n[TEM] Put this card on this acting vampire. During your untap phase, this vampire may burn 2 blood to add a counter to this card. While this vampire is ready, you get +X hand size, where X is the number of counters on this card.\n\nQ: May you burn 4 cards to get 2 counters.\n\n......\nAnd a quick non-temporis question that's been answered before.\n\nIf you play a reaction card that ends the action. You may not play freak drive/seraphs second, right?",
+      "Id": "6305"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Jul 14, 2011, 6:31\u202FPM",
+      "Body": "IANPB, but I'll try anyhow ..\n>\n> Baaliprimogen wrote:\n> 1. card:\n> Amulet of Temporal Perception\n> [..]\n> Q: May you use this card to go around the No repeat action rule? Or the only one act.mod/react card?\n>\nNo. The cards are played as any other card.\n\n> Baaliprimogen wrote:\n> 2. card:\n> Domain of Evernight\n> [..]\n> Q: May a blocker back-out like the basic Dawn operation?\n>\nNo. The action is played when you're blocked. Combat occurs afterwards as usual.\n\n> Baaliprimogen wrote:\n> 3. card\n> Hourglass of the Mind\n> [..]\n> Q: May you burn 4 cards to get 2 counters.\n>\nNo. The card follows the \"during X, do Y\" template, so you can only use the effect once.\n\n> Baaliprimogen wrote:\n> And a quick non-temporis question that's been answered before.\n>\n> If you play a reaction card that ends the action. You may not play freak drive/seraphs second, right?\n>\nCorrect.",
+      "Id": "6306"
+    },
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Jul 14, 2011, 7:39\u202FPM",
+      "Body": "Thanks. That's what I thought, but wasn't sure.",
+      "Id": "6314"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 14, 2011, 7:52\u202FPM",
+      "Body": "extrala's answers are all correct.\n\nTags: Amulet of Temporal Perception Domain of Evernight Dawn Operation Hourglass of the Mind Freak Drive end of action",
+      "Id": "6315"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 19, 2011, 4:34\u202FPM",
+      "Body": "> Baaliprimogen wrote:\n>\n> 2. card:\n> Domain of Evernight\n> Type: Action Modifier\n> Requires: Temporis/Obfuscate\n> [tem] If this action is blocked, all damage done to vampires in the resulting combat is aggravated.\n>\n> Q: May a blocker back-out like the basic Dawn operation?\n>\n...though you may play it while announcing action to scare away potential blockers.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10554"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 19, 2011, 5:18\u202FPM",
+      "Body": "Well, you can't play it before a Seduction (which is played before this one, due to its \" only usable as the acting vampire's action is announced\" cardtext). But you can play it before anyone could declare attempts to block, yes.",
+      "Id": "10559"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 19, 2011, 8:38\u202FPM",
+      "Body": "actually i think you can, since the text on seduction says that it may be played only when action is announced and that means that it cannot be played after announcement. but, you can also play any other modifier as action is announced, but before block attempts. this means that you may play DoE at any time, even as action is announced, while seduction may be played only in announcement part, leading to conclusion that this is doable.\n\nexample:\n\nvampire plays any action, then Approximation of Loyalty, then Dawn Operation, then Seduction. Now any remaining minions may attempt to block or play reactions.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10569"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 19, 2011, 8:52\u202FPM",
+      "Body": "> Megabaja wrote:\n> actually i think you can, since the text on seduction says that it may be played only when action is announced and that means that it cannot be played after announcement. but, you can also play any other modifier as action is announced, but before block attempts. this means that you may play DoE at any time, even as action is announced, while seduction may be played only in announcement part, leading to conclusion that this is doable.\n>\n> example:\n>\n> vampire plays any action, then Approximation of Loyalty, then Dawn Operation, then Seduction. Now any remaining minions may attempt to block or play reactions.\n>\nThis is incorrect.\n\"As action is announced\" is a window which opens and closes before \"regular\" action modifiers (such as Conditioning, for instance) can be played. The sequence you describe is incorrect.\n\nSee  Complete Rules Reference, section (IV. A. 3) : Cards that are played \"as the action is announced\" may be played (other effects cannot be played until after the \"as announced\" stuff is finished).\n\nThe correct sequence is Approximation of Loyalty (inferior) and Seduction (whatever order), and then, once everyone has passed on playing cards / using effects in the \"as action is announced\" window, Dawn Operation, which can be played before or after any block attempt.",
+      "Id": "10571"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 20, 2011, 7:43\u202FAM",
+      "Body": "> NOTE: Action modifiers may be played only by the acting minion at any time in the above sequence as allowed by the card. Any cost for playing the modifier is paid immediately.\n>\nit is written just below - E.Action Ends\n\nI think that \"As announced\" is banning term for cards that have this text, not for other action modifiers that do not. Card that do not have \"As announced\" clause may be played as per text on them.\n\nAs written in the \"NOTE\" section.\n\nOr am I reading incorrectly?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10587"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 20, 2011, 9:03\u202FAM",
+      "Body": "> Megabaja wrote:\n>\n> > NOTE: Action modifiers may be played only by the acting minion at any time in the above sequence as allowed by the card. Any cost for playing the modifier is paid immediately.\n> >\n> it is written just below - E.Action Ends\n>\n> I think that \"As announced\" is banning term for cards that have this text, not for other action modifiers that do not. Card that do not have \"As announced\" clause may be played as per text on them.\n>\n> As written in the \"NOTE\" section.\n>\n> Or am I reading incorrectly?\n>\nYou are reading correcyly, but interpreting incorrectly. Cards without the \"usable as action is announced\" text cannot be played as the action is announced. See  [LSJ 20070930] for instance.\n\nAlso (though this might sound extremely dumb), action modifiers cannot be played at the end of the action (unless they have explicit cardtext). Cards such as Mask of a Thousand Faces, Conditioning, .. can't be played after resolution (when searching for a Freak Drive). Action modifiers can only be played before resolution.  [LSJ 20080711]",
+      "Id": "10592"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 20, 2011, 12:17\u202FPM",
+      "Body": "I took some time and read a thread \"\"Play when action is announced\" query\" from 2003. You are correct.\nThis LSJ ruling is very strange - giving a window in which only one type of action modifier can be played, rather then giving those cards only small window while all remaining modifiers could be played as per card text, during whole action. Looks like I thought that every action card had a hypothetical text stating \"can be played as announced and during an action\" while those specific like sleeping mind, grandest trick, walk of caine, etc. lacked \"and during an action part\". Did not know that all other cards lack \"can be played as announced\". Probably because of the factthat basic paper rulebook does not state ANYTHING about this imaginary \"as anounced\" window, nor does electronic copy of it on this site. My main confusion was with the 1.6.1.5 Sequencing section, which clearly states:\n>\n> If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n>\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10622"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 20, 2011, 1:28\u202FPM",
+      "Body": "> Megabaja wrote:\n> I took some time and read a thread \"\"Play when action is announced\" query\" from 2003. You are correct.\n> This LSJ ruling is very strange - giving a window in which only one type of action modifier can be played, rather then giving those cards only small window while all remaining modifiers could be played as per card text, during whole action. Looks like I thought that every action card had a hypothetical text stating \"can be played as announced and during an action\" while those specific like sleeping mind, grandest trick, walk of caine, etc. lacked \"and during an action part\". Did not know that all other cards lack \"can be played as announced\".\n>\nWell, the obviously do\n\n> Megabaja wrote:\n> Probably because of the factthat basic paper rulebook does not state ANYTHING about this imaginary \"as anounced\" window, nor does electronic copy of it on this site.\n>\nThe electronic copy of the rulebook (click the  Rulebook link) should have the same contents as your paper version (since there has been no change since its last print).\nHowever, the Rulebook doesn't feature all the steps of the game. Some more \"technical\" mechanisms are explained in the  Complete Rules Reference (aka \"Outline\"). For instance, the Limbo isn't described in the Rulebook, but it is a part of the game.\n\n> Megabaja wrote:\n> My main confusion was with the 1.6.1.5 Sequencing section, which clearly states:\n> >\n> > If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n> >\nThis means you can play Seduction + Approximation of Loyalty before someone else gets the opportunity to use Yavu Matebo's cardtext to have your action fail.",
+      "Id": "10626"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 20, 2011, 3:00\u202FPM",
+      "Body": "It has something to do with this, so I'll ask here:\n\nPascal, what is your opinion on the concept of \"impulse\" and its introduction in the rules, specifically and literally?\n\nFor instance, in this present case:\n\"The acting Methuselah declares the action and all action modifiers or effects that have the \"when action is declared\" clause. Impulse passes clockwise and other Methuselahs may play or use effects that are in the \"when action is declared\" window.\nAfter all players declining Impulse, the action continues to...\"\n\nIn my opinion Impulse solves allot of rules issues and confusions.\nI might be wrong.\nBut that's what I get from demos to new players. Much easier for them to understand the timing of the game.",
+      "Id": "10633"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 20, 2011, 4:02\u202FPM",
+      "Body": "It's a great game mechanic.\n\nIts major drawback, though, in my opinion is that it makes an online game \"close to real game\" almost impossible. Would you want to click 6 times on \"Pass\" when someone plays Govern + Conditioning? (1 \"as played\", 1 \"as announced\", 1 \"block attempt\", 1 \"as conditioning is played\", 1 \"before resolution\", 1 \"after resolution\" - and that was without combat)\n\nOf course, there are ways to circumvene this.\n\nAnother issue is that, when a Malk starts acting via Madness Network, players get confused.",
+      "Id": "10635"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 20, 2011, 6:57\u202FPM",
+      "Body": "> Pascal wrote:\n> It's a great game mechanic.\n>\n> Its major drawback, though, in my opinion is that it makes an online game \"close to real game\" almost impossible. Would you want to click 6 times on \"Pass\" when someone plays Govern + Conditioning? (1 \"as played\", 1 \"as announced\", 1 \"block attempt\", 1 \"as conditioning is played\", 1 \"before resolution\", 1 \"after resolution\" - and that was without combat)\n>\n> Of course, there are ways to circumvene this.\n>\n> Another issue is that, when a Malk starts acting via Madness Network, players get confused.\n>\nFor online gaming you can change the rules to suit playability.\nThankfully, our core business is NOT online gaming, like those <insert insult here> guys at CCP say when they are out of arguments about dropping physical formats.\n\nAbout Madness Network:\nImpulse actually help me explain how that card worked to neonates and they got it at first.\n\n\"Like every other phase, the acting player has impulse, uses it, and it passes clockwise. If by any chance someone else can play or use effects during the Minion Phase of another Acting Player, he can use them as he gets the Impulse.\nExamples, Untapped  can act via Madness Network, you can choose to tap your Dreams or the Coven, etc.\"",
+      "Id": "10638"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 20, 2011, 7:28\u202FPM",
+      "Body": "No, the issues to consider are:\n- Do you play that Direct Intervention?\nYou should get that opportunity if you have the card in your hand.\n\nNow, the question is: should you mandatorily pass without being able to bluff, when someone plays Parity Shift, if you don't have the Direct Intervention in your hand? Should you mandatorily not have a blocking opportunity if you have no wakes in your hand?\n\nThis whole game whithold a major bluff part, which would surely be removed if we stick to \"cards and effects you have determine cards and effects you can use\".",
+      "Id": "10641"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 20, 2011, 9:34\u202FPM",
+      "Body": "Right now (without any changes in the rules):\nScenario A:\nI play Parity Shift.\nI ask all players if anyone wants to DI.\nAll say no.\nBefore blocks, people talk and negotiation ensues.\nIf any other player, dislikes the way the conversation is going, can he still play DI (assuming no other cards or effects were used)?\n\nScenario B:\nI play Parity Shift.\nI ask all players if anyone wants to DI.\nAll say no.\nI play Seduction.\nPeople can only DI the Seduction, right?\n\nEDIT:\nSorry for the off-topic.\nMaybe this whole Impulse thing should have its own topic.",
+      "Id": "10647"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 20, 2011, 10:51\u202FPM",
+      "Body": "I always advise my new players to avoid making definitive statements until the last moment.\n\nIn your DI & Parity Shift scenario, I'd advocate two things:\n1) Never say you 'can't', always say 'I choose not to'\n2) Explicitly ask if someone is going to do XYZ\n\nFor political actions, players should always negotiate before declaring blocks. Sure, it may result in you getting the odd vote directed against you after the \"declare blocks\" part ends... but it also allows you to call them \"Dirty Stinkin' Deal Breakers\" if they shaft you afterwards.\n\nSo Impulse is easy to remember.\nYou can only pass impulse after you've done your complete \"As Announced\" or \"As Declared\" things happen.\n\nYour Scenario A:\nX plays a Parity Shift.\n(X plays no other \"As announced\" cards)\nX now asks the table if there is anything happening before block attempts.\n[Negotiations happen here, any DIs are played here]\nAction is blocked/unblocked and the rest of it continues from there.\n\nYour Scenario B (should be...):\nX plays a Parity Shift\nBefore replacing the card they also play Seduction (since it is \"As Announced\")\nX now asks the table if there is anything happening before block attempts.\n[Negotiations happen here, any DIs are played here choosing either the Parity Shift or DI]\nAction is blocked/unblocked and the rest continues from there.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "10648"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 20, 2011, 11:26\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> I always advise my new players to avoid making definitive statements until the last moment.\n>\n> In your DI & Parity Shift scenario, I'd advocate two things:\n> 1) Never say you 'can't', always say 'I choose not to'\n> 2) Explicitly ask if someone is going to do XYZ\n>\n> For political actions, players should always negotiate before declaring blocks. Sure, it may result in you getting the odd vote directed against you after the \"declare blocks\" part ends... but it also allows you to call them \"Dirty Stinkin' Deal Breakers\" if they shaft you afterwards.\n>\n> So Impulse is easy to remember.\n> You can only pass impulse after you've done your complete \"As Announced\" or \"As Declared\" things happen.\n>\n> Your Scenario A:\n> X plays a Parity Shift.\n> (X plays no other \"As announced\" cards)\n> X now asks the table if there is anything happening before block attempts.\n> [Negotiations happen here, any DIs are played here]\n> Action is blocked/unblocked and the rest of it continues from there.\n>\n> Your Scenario B (should be...):\n> X plays a Parity Shift\n> Before replacing the card they also play Seduction (since it is \"As Announced\")\n> X now asks the table if there is anything happening before block attempts.\n> [Negotiations happen here, any DIs are played here choosing either the Parity Shift or DI]\n> Action is blocked/unblocked and the rest continues from there.\n>\nWait a minute. Several things here:\nI'm not talking about strategy or best practices. I'm concerned with 0 or 1 rules questions and answers.\nSecondly, you do replace the Parity Shift and you can even use the replaced card, if it is a Seduction, on that window.\nBetween both cards there is the chance that someone might DI the  .\nBut if not, you can proceed do use Seduction.\nThen people should have the chance to DI the Seduction.",
+      "Id": "10650"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 3:34\u202FAM",
+      "Body": "> Brum wrote:\n> Right now (without any changes in the rules):\n> Scenario A:\n> I play Parity Shift.\n> I ask all players if anyone wants to DI.\n> All say no.\n> Before blocks, people talk and negotiation ensues.\n> If any other player, dislikes the way the conversation is going, can he still play DI (assuming no other cards or effects were used)?\n>\nNo. That's what \"passing\" means ( Rulebook 1.6.1.5 )\n\n> Brum wrote:\n> Scenario B:\n> I play Parity Shift.\n> I ask all players if anyone wants to DI.\n> All say no.\n> I play Seduction.\n> People can only DI the Seduction, right?\n>\nYes. ( Rulebook 1.6.1.5 )",
+      "Id": "10655"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 3:48\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> I always advise my new players to avoid making definitive statements until the last moment.\n>\n> In your DI & Parity Shift scenario, I'd advocate two things:\n> 1) Never say you 'can't', always say 'I choose not to'\n> 2) Explicitly ask if someone is going to do XYZ\n>\n> For political actions, players should always negotiate before declaring blocks. Sure, it may result in you getting the odd vote directed against you after the \"declare blocks\" part ends... but it also allows you to call them \"Dirty Stinkin' Deal Breakers\" if they shaft you afterwards.\n>\nCan't DI at that moment any more. The action card can only be DI'd as it is played (Direct Intervention's cardtext).\n\n> Juggernaut1981 wrote:\n> So Impulse is easy to remember.\n> You can only pass impulse after you've done your complete \"As Announced\" or \"As Declared\" things happen.\n>\nWell, it's not exactly that.\nYou play your action card and announce terms. This is the \"as played\" window, which ends when your predator passes. This is the only window open where cards that read \"only usable as action card is played\" are usable.\nThen, you tap your vampire and replace the card.\nThen, you enter the \"as announced\" window, where you can play Seduction et al. This window ends when your predator passes.\nThen, it's the usual \"block attempts\" window, where you play the usual Conditionings, Telepathic Misdirection, and declare block attempts. Thiw window ends when your predator passes.\nThen, there's there \"before resolution\" window, when you declare \"Ah, so you're not blocking... Take that Conditioning too.\" And where they can play Deflection, Archon Investigation, ... This window ends when your predator passes.\nAnd we finally reach the resolution.\n\nIt isn't that straitforward. This was the longer version of what is written in the  Complete Rules Reference, (IV.A) .\n\n> Juggernaut1981 wrote:\n> Your Scenario A:\n> X plays a Parity Shift.\n> (X plays no other \"As announced\" cards)\n> X now asks the table if there is anything happening before block attempts.\n> [Negotiations happen here, any DIs are played here]\n> Action is blocked/unblocked and the rest of it continues from there.\n>\nX should ask if someone DI's the card as it is played, before considering playing \"as announced\" cards.\n\n> Juggernaut1981 wrote:\n> Your Scenario B (should be...):\n> X plays a Parity Shift\n> Before replacing the card they also play Seduction (since it is \"As Announced\")\n> X now asks the table if there is anything happening before block attempts.\n> [Negotiations happen here, any DIs are played here choosing either the Parity Shift or DI]\n> Action is blocked/unblocked and the rest continues from there.\n>\nSeduction is played after the DI on Parity Shift could be played, and after Parity Shift was replaced ( Complete Rules Reference, (IV.A) ).",
+      "Id": "10657"
+    }
+  ]
+}

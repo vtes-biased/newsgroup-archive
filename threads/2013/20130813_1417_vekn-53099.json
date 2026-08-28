@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-53099",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53099-q-the-uncoiling",
+  "Title": "Q: The Uncoiling",
+  "Messages": [
+    {
+      "Author": "Franz",
+      "Date": "Aug 13, 2013, 2:17\u202FPM",
+      "Body": "Does the effect of The Uncoiling is triggered right when you play it (since you play events during your discard phase), or you need to wait until next turn to start burning events?\n\nThanks guys",
+      "Id": "53099"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 13, 2013, 2:38\u202FPM",
+      "Body": "Name: The Uncoiling\nCardtype: Event\nEvent. Do not replace as long as this card is in play.\nDuring your discard phase, burn one other event at random. Any other Methuselah may use a discard phase action and burn X pool to burn this card, where X is the number of other events in play.\n\nJust like Blood Doll, the Uncoiling is usable the turn it is played.\n\nName: Blood Doll\nCardtype: Master\nMaster.\nPut this card on a vampire you control. During his or her master phase, this vampire's controller may move 1 blood from this vampire to his or her pool or from his or her pool to this vampire.",
+      "Id": "53101"
+    },
+    {
+      "Author": "Franz",
+      "Date": "Aug 13, 2013, 2:46\u202FPM",
+      "Body": "Cool, thanks Pascal",
+      "Id": "53102"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Aug 14, 2013, 9:59\u202FAM",
+      "Body": "> Pascal wrote:\n> Name: The Uncoiling\n> Cardtype: Event\n> Event. Do not replace as long as this card is in play.\n> During your discard phase, burn one other event at random. Any other Methuselah may use a discard phase action and burn X pool to burn this card, where X is the number of other events in play.\n>\n> Just like Blood Doll, the Uncoiling is usable the turn it is played.\n>\n> Name: Blood Doll\n> Cardtype: Master\n> Master.\n> Put this card on a vampire you control. During his or her master phase, this vampire's controller may move 1 blood from this vampire to his or her pool or from his or her pool to this vampire.\n>\nI would add that you don't have any choice.\n\nSince you play it during your discard phase, you *have* to burn another event.\n(or am I mistaken on this matter?)",
+      "Id": "53128"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 14, 2013, 11:09\u202FAM",
+      "Body": "> Timo wrote:\n>\n> > Pascal wrote:\n> > During your discard phase, burn one other event at random.\n> >\n> Since you play it during your discard phase, you *have* to burn another event.\n> (or am I mistaken on this matter?)\n>\nIt's not optional, correct. If there's at least one other event in play, you burn one of them.",
+      "Id": "53131"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 14, 2013, 12:46\u202FPM",
+      "Body": "> Timo wrote:\n> I would add that you don't have any choice.\n>\n> Since you play it during your discard phase, you *have* to burn another event.\n> (or am I mistaken on this matter?)\n>\nCorrect.\n\n(Also notice that you don't get the choice of getting the choice with Boll. Getting the choice with Blood Doll is as mandatory as burning another event is with the Uncoiling).",
+      "Id": "53147"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Aug 14, 2013, 3:12\u202FPM",
+      "Body": "Does it mean that you can't forget to use (or not use) your blood doll ?\n\nAnd the edge ?",
+      "Id": "53220"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 14, 2013, 3:34\u202FPM",
+      "Body": "> Timo wrote:\n> Does it mean that you can't forget to use (or not use) your blood doll ?\n>\nNo, moving blood via Blood Doll is optional during the Master phase. You can \"forget\" to use it (\"forget\" not being a keyword in vtes, I'd rather say: \"you can decide not to use it\").\n\n> Timo wrote:\n> And the edge ?\n>\nNo, gaining pool for having the Edge during the untap phase is optional (== \"you can decide not to gain the pool\").",
+      "Id": "53223"
+    }
+  ]
+}

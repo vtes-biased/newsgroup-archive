@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-21195",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/21195-theft-of-vitae-prevents",
+  "Title": "Theft of Vitae & prevents",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Jan 19, 2012, 10:14\u202FAM",
+      "Body": "Greets!\n\nCan one play prevent cards cost blood at 0 if just stole 2 blood with theft of vitae?\n\nNC of Hungary\n\n///",
+      "Id": "21195"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 19, 2012, 10:39\u202FAM",
+      "Body": "> Malachy wrote:\n> Greets!\n>\n> Can one play prevent cards cost blood at 0 if just stole 2 blood with theft of vitae?\n>\nTry to rewrite your post in better english, because I can't understand what you are trying to say.",
+      "Id": "21196"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 19, 2012, 10:58\u202FAM",
+      "Body": "> Malachy wrote:\n> Greets!\n>\n> Can one play prevent cards cost blood at 0 if just stole 2 blood with theft of vitae?\n>\nI'm not sure I understand what you meant, so here are a couple of scenarii.\n\nA and B are in combat. A has 0 blood, B has 2 blood.\n\n* A's strike is superior Theft of Vitae. B's strike is a handstrike.\nWe resolve Theft of Vitae before dealing with the damage, so A can play Rolling with the Punches (costs 1 blood) or Skin of Rock (costs 0 blood).\nB cannot play prevention cards, since there B has no damage to prevent.\n\n* A plays Carrion Crows and strikes with Theft of Vitae. B's strike is a handstrike.\nWe first resolve Theft of Vitae (A now has 2 blood, B has no blood). B can play Skin of Rock (costs 0 blood), but not Armor of Vitality (costs 1 blood) to prevent the damage from Carrion Crows.",
+      "Id": "21198"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Jan 19, 2012, 11:13\u202FAM",
+      "Body": "Sry I was in a great hurry, Pascal answered my question! Thanks!\n\nNC of Hungary\n\n///",
+      "Id": "21199"
+    },
+    {
+      "Author": "Kude",
+      "Date": "Feb 24, 2012, 10:44\u202FAM",
+      "Body": "How about situation like next:\n\nVampire A has 0 blood, vampire B has 3.\nVampire A uses Theft of Vitae at superior, B strikes hand strike with str 3. A wants to prevent that damage with superior Rego Modus (costs 1 blood), can he do it?\n\nIn other owrds, when does he get the blood, compared to when he plays the prevent card.",
+      "Id": "24038"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 24, 2012, 11:06\u202FAM",
+      "Body": "> Kude wrote:\n> How about situation like next:\n>\n> Vampire A has 0 blood, vampire B has 3.\n> Vampire A uses Theft of Vitae at superior, B strikes hand strike with str 3. A wants to prevent that damage with superior Rego Modus (costs 1 blood), can he do it?\n>\n> In other owrds, when does he get the blood, compared to when he plays the prevent card.\n>\nThis situation is dealt with in Pascal's explanation:\n>\n> Pascal wrote:\n> A and B are in combat. A has 0 blood, B has 2 blood.\n>\n> * A's strike is superior Theft of Vitae. B's strike is a handstrike.\n> We resolve Theft of Vitae before dealing with the damage, so A can play Rolling with the Punches (costs 1 blood) or Skin of Rock (costs 0 blood).\n> B cannot play prevention cards, since there B has no damage to prevent.\n>",
+      "Id": "24039"
+    }
+  ]
+}

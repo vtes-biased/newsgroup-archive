@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-45475",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45475-lunatic-eruption-untap",
+  "Title": "Lunatic Eruption + untap",
+  "Messages": [
+    {
+      "Author": "Whisker",
+      "Date": "Feb 22, 2013, 8:22\u202FPM",
+      "Body": "Name: Lunatic Eruption\n[SW:R, Third:R]\nCardtype: Action\nCost: 2 blood\nDiscipline: Dementation\n[dem]  Put this card on any ready minion. During his or her minion phase, the minion with this card must enter combat with a ready minion controlled by his or her prey as a  action (unless the minion must hunt). Any minion may burn this card as an action.\n[DEM] As above, and the minion taking the action to burn this card takes 1 unpreventable damage when this card is burned.\nArtist: Steve Prescott\n\nIs the 'rush' action provided by the card an on going effect or once per turn thingie? What happens if vampire untaps (freak drive etc.) after Lunatic Eruption's mandatory enter combat action?\n\n1. It's once per turn, do what you like.\n2. On going effect, rush again.\n3. Something else?",
+      "Id": "45475"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Feb 22, 2013, 8:55\u202FPM",
+      "Body": "\"Put this card\" part makes rush-once-a-turn. \"Must\" part should make your vampire unable to do anything if she was blocked, since she did not enter combat \"as a D action\". If she hunted or was not blocked entering combat, she fulfilled the requirement and should be able to do whatever she pleases.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "45476"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Feb 22, 2013, 9:41\u202FPM",
+      "Body": "> kombainas wrote:\n> \"Put this card\" part makes rush-once-a-turn. \"Must\" part should make your vampire unable to do anything if she was blocked, since she did not enter combat \"as a D action\". If she hunted or was not blocked entering combat, she fulfilled the requirement and should be able to do whatever she pleases.\n>\nAn unsuccessful attempt still counts as a \"performed\" action and \"performing\" is what the rule on mandatory actions cares about.",
+      "Id": "45477"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 22, 2013, 10:05\u202FPM",
+      "Body": "This: 1. It's once per turn, do what you like.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "45478"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Feb 23, 2013, 12:03\u202FPM",
+      "Body": "And here is the explanation (from the latest RTR):\n\n> Rulebook updates:\n>\n> Terminology (11):\n>\n> \u201CDuring X, do Y\u201D:\n> The \u201Cduring X do Y\u201D template is used in several cards. When this template is used, only one Y can be done per X with this card. For instance, you may move blood from your vampire to your pool with Vessel only once per untap phase.\n>\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "45481"
+    },
+    {
+      "Author": "AriusZet",
+      "Date": "Apr 3, 2013, 6:24\u202FAM",
+      "Body": "Isn't lunatic eruption a mandatory action?\n\nI think that since it's mandatory action (unless the vampire must hunt, you have to attempt an attack.\n\nedit: you cannot burn that card with an other vampire of yours first, since mandatory actions are going first. If i interpret the rules correctly\n\nAfter the attempt to enter combat, the vampire with lunatic eruption uses freak drive / helicopter etc to untap.\n\nBut since he/she has a mandatory action, and he/she already attempted that action, and still have some blood (so he/she don't have to hunt, he/she cannot attempt any more actions, the vampire is stuck\n\nAm i right?",
+      "Id": "46508"
+    },
+    {
+      "Author": "Kiddo",
+      "Date": "Apr 3, 2013, 7:04\u202FAM",
+      "Body": "> AriusZet wrote:\n> But since he/she has a mandatory action, and he/she already attempted that action, and still have some blood (so he/she don't have to hunt, he/she cannot attempt any more actions, the vampire is stuck\n>\n> Am i right?\n>\nNope.\nSince that vampire already attempted all of his/hers mandatory actions that turn, she's free to do what she pleases with any remaining actions she might have...\n\nThat is like saying that an empty vamp with Rutor's Hand cannot use his second action, once he hunted and untapped, since ha doesn't have any mandatory actions 'pending'.",
+      "Id": "46514"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 3, 2013, 8:46\u202FAM",
+      "Body": "> Whisker wrote:\n> Name: Lunatic Eruption\n> [SW:R, Third:R]\n> Cardtype: Action\n> Cost: 2 blood\n> Discipline: Dementation\n> [dem]  Put this card on any ready minion. During his or her minion phase, the minion with this card must enter combat with a ready minion controlled by his or her prey as a  action (unless the minion must hunt). Any minion may burn this card as an action.\n> [DEM] As above, and the minion taking the action to burn this card takes 1 unpreventable damage when this card is burned.\n> Artist: Steve Prescott\n>\n> Is the 'rush' action provided by the card an on going effect or once per turn thingie? What happens if vampire untaps (freak drive etc.) after Lunatic Eruption's mandatory enter combat action?\n>\n> 1. It's once per turn, do what you like.\n> 2. On going effect, rush again.\n> 3. Something else?\n>\nThe action to enter combat is provided by the Lunatic Eruption indeed.\nRegardless of the \"during\" keyword on it, it is an action provided by a card in play, and, as any card in play, it follows the rules on cards in play:\n\nRulebook 6.1.6  wrote:\n>\n> A minion cannot perform each action via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n>\nSimilarly, Enkidu cannot use his built-in enter combat ability, untap (Freak Drive), and re-use it. Same for Haven Uncovered (and Freak Drive).\n\n> AriusZet wrote:\n> Isn't lunatic eruption a mandatory action?\n>\n> I think that since it's mandatory action (unless the vampire must hunt, you have to attempt an attack.\n>\nCorrect. \"Must\" implies the action is mandatory.\n\n> AriusZet wrote:\n> edit: you cannot burn that card with an other vampire of yours first, since mandatory actions are going first. If i interpret the rules correctly\n>\nCorrect.\n\n> AriusZet wrote:\n> After the attempt to enter combat, the vampire with lunatic eruption uses freak drive / helicopter etc to untap.\n>\n> But since he/she has a mandatory action, and he/she already attempted that action, and still have some blood (so he/she don't have to hunt, he/she cannot attempt any more actions, the vampire is stuck\n>\n> Am i right?\n>\nNo. Once the vampire has performed the mandatory action, he is no longer bound to doing it, and can hunt, bleed, etc.",
+      "Id": "46522"
+    }
+  ]
+}

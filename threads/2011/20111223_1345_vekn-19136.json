@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-19136",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/19136-forgetting-contest-and-vessel-resetting-gamestate",
+  "Title": "Forgetting contest and Vessel, resetting gamestate",
+  "Messages": [
+    {
+      "Author": "Jesper",
+      "Date": "Dec 23, 2011, 1:45\u202FPM",
+      "Body": "Hola\n\nSo im trying to geet some understanfing for the concept of resetting game state, impulse and stuff like that and have a question.\n\nIf meth. A have a vampire with a vessel and a contested dreams in play and he have the edge. He moves into master phase and then into his minion phase forgetting about the contest, the edge and have used the vessel. When someone points out he should pay or forfit the dreams. Contest being mandatory we now move back into his untap phase and he pays for the contest but suddenly realise he also have the edge and a vessel he havet used. Would it be okay for him to take pool for those two now (we are now back in his untap phase). Also what about card played in his master phase or actions taken in his minion phase (depending on how long he have gone into his minion phase before it was pointed out).\n\nCheers And a merry x-mas\n/Jesper",
+      "Id": "19136"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Dec 23, 2011, 1:47\u202FPM",
+      "Body": "I'd say no.\n\nUsing Vessel and gaining for the Edge is optional, so by moving to his master phase he forfeits both.\n\nChoosing whether to continue to contest or not is not optional, so if you forget, you have to make the choice whenever it gets found out. In this case, you just choose to pay or not and move on with your minion phase.",
+      "Id": "19137"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 23, 2011, 1:52\u202FPM",
+      "Body": "That would really depend if the judge had rollenback to a previous valid gamestate (i.e. go back to Untap Phase, and any card that were played till the Untap Phase are moved back to the players' hands, who put cards back on top of libraries (which, most of the time, is too messy to do unless noone played a card and just skipped from untap phase to before the first action was taken), or if the judge decides to fix gamestate (and says: \"you forgot to pay/yield the Dreams of the Sphinx, take a decision now, during your minion phase\".\n\nIf we rollback, then we fully rollback, which means this is that player's untap phase, if he/she hasn't used a Vessel, he/she can do it, must pay/yield the contest, can get pool from the Edge, (and can order all this) .. And then play their master phase (which might not be what had previously been played and was rollennback).\n\nIf we fix current gamestate, then this is the minion phase, and untap-phase effects can't be used (unless judges says so).",
+      "Id": "19138"
+    },
+    {
+      "Author": "Jesper",
+      "Date": "Dec 23, 2011, 2:20\u202FPM",
+      "Body": "So what factors to consider if your rolling back or fixing the game state, only if there have been cards played. So if meth. A bleeds for one, no one blocks no one plays any cards you would make the roll back, but if a card was played e.g. A wake, you just fix game state? Why not always just fix the game state?\n\nOnly asking out of courosity",
+      "Id": "19139"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 23, 2011, 2:29\u202FPM",
+      "Body": "Some judges find it nicer to rollback.\nFor instance, you forget to pay for the contest and didn't use Vessel and your first card is Parity Shift. Before anything else is handled, someone calls the judge. In this situation, it is probably too dirsuptive to just fix the situation. So rollback sounds smarter.\n\nBut if more is done that can't be forgotten (someone played a wake with Carna, a Delaying Tactics, a deflection on the lunge bleed, ...) then it's up to the judge.",
+      "Id": "19140"
+    },
+    {
+      "Author": "Jesper",
+      "Date": "Dec 23, 2011, 2:40\u202FPM",
+      "Body": "Can you explain why it would be to hard to just fix the situation with the PS. You wouldent end in a game state where you couldent play it(gaining pool), which would be a serious problem if you did, and needed to be corrected somehow",
+      "Id": "19141"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 23, 2011, 2:46\u202FPM",
+      "Body": "Mh, yeah, I'm 20min before vacation, my brain was early.\nReplace Parity Shift with Temptation of Greater Power.",
+      "Id": "19142"
+    },
+    {
+      "Author": "Jesper",
+      "Date": "Dec 23, 2011, 4:27\u202FPM",
+      "Body": "Heh no problem, just wanted to understand  have a great vacation\n\n/Jesper",
+      "Id": "19151"
+    }
+  ]
+}

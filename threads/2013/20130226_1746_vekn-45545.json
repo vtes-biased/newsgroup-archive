@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-45545",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45545-very-simple-bleed-question",
+  "Title": "Very simple bleed question",
+  "Messages": [
+    {
+      "Author": "Mr Apone",
+      "Date": "Feb 26, 2013, 5:46\u202FPM",
+      "Body": "I'm new to the game and am unsure on the concept of bleeding. As there's no inherent stealth to bleeding and there's an inherent 0 to intercept, does that mean that without stealth you can never bleed? For instance, Harold Tanner would always need a card with some level of Obfuscate in order to get a bonus to stealth, just in order to bleed OR is bleed an automatic success?",
+      "Id": "45545"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 26, 2013, 6:08\u202FPM",
+      "Body": "> Mr wrote:\n> I'm new to the game and am unsure on the concept of bleeding. As there's no inherent stealth to bleeding and there's an inherent 0 to intercept, does that mean that without stealth you can never bleed? For instance, Harold Tanner would always need a card with some level of Obfuscate in order to get a bonus to stealth, just in order to bleed OR is bleed an automatic success?\n>\nBleeds are actions taken by vampires (most frequently). The default stealth for the default bleed action is indeed 0.\nWhen a minion - vampire or ally - attempts to block, that minion has an intercept value for this block attempt. The default value of intercept for minions is 0.\n\nIf a minion attempts to block a 0-stealth action while having 0 intercept, and the acting minion plays no stealth card (usually, Obfuscate, Obtenebration, Chimerstry, Protean or Vicissitude), the action is declared blocked, and combat ensues. The action is not successful, and, if it was a bleed, no pool is lost.\n\nHowever, if there is no block attempt (only untapped minions controlled by the target can declare block attempts), then the action is successful, and, in case it was a bleed action, pool would be burned, and the Edge would be awarded to the controller of the bleeding minion.\n\nSo, it all depends on whether someone is declaring a block attempt.",
+      "Id": "45546"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Feb 26, 2013, 6:15\u202FPM",
+      "Body": "Well, you must tap to take an action and you must be untapped in order to tap and block. So if you have more minions to act than your prey has untapped minions to block, then you will will likely get bleeds through even at 0 stealth.\n\nThat's one of the great dynamics of the game \u2014 managing the balance between attacking and defending... If you tap all of your minions attacking your prey then it's much harder to defend yourself.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "45547"
+    },
+    {
+      "Author": "Mr Apone",
+      "Date": "Feb 26, 2013, 8:19\u202FPM",
+      "Body": "Thank you both!",
+      "Id": "45548"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-15506",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/15506-two-imperator-questions",
+  "Title": "Two Imperator questions",
+  "Messages": [
+    {
+      "Author": "MTacla",
+      "Date": "Nov 22, 2011, 5:10\u202FPM",
+      "Body": "I have some questionas about Imperator. I saw that Jozxyqk posted the same doubts on the RCGTCJ google group with no official answer, so I decided to post them again here.\n\n1. Is the political action 'Imperator' a title holder? I guess it is, but it lacks the text.\n\n2. Are the other abilities granted by the card dependant of the title? For instance, if Karsh is Imperator but have the title contested, would he still have +3 votes for bloodhunts? I guess they are, but the card doesn't states it clearly.\n\n3. If a vampire becomes Imperator via the political action, then calls another Imperator, would he have +6 votes for bloodhunts? I guess not, because the first three would go away with the title holder, but I'm not sure.\n\nCard Text:\n\"Choose a Camarilla vampire with capacity 8 or more. If this referendum is successful, put this card on the chosen vampire to represent the unique Camarilla title of Imperator (worth 3 votes). This vampire may play a Blood Hunt card from your hand or ash heap as a prince. This vampire gets 3 additional votes in blood hunt referendums.\"\n\nOriginal doubt: tinyurl.com/imperatorquestion\n\nTks!",
+      "Id": "15506"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 22, 2011, 5:40\u202FPM",
+      "Body": "> MTacla wrote:\n> 1. Is the political action 'Imperator' a title holder? I guess it is, but it lacks the text.\n>\nIt's a Title card, if that's what you mean. There's an issue with the web version of some card texts where they include bracketed text. See: www.vekn.net/index.php/forum/17-site-a-forum-feedback/1910-errors-in-the-html-cardlist\n\nIf you look at www.vekn.net/images/stories/downloads/cardlist.txt then you can see the following:\n\nName: Imperator\n[Promo-20090401]\nCardtype: Political Action\n{Title.}\nChoose a Camarilla vampire with capacity 8 or more. If this referendum is successful, put this card on the chosen vampire to represent the unique Camarilla title of Imperator (worth 3 votes). This vampire may play a Blood Hunt card from your hand or ash heap as a prince. This vampire gets 3 additional votes in blood hunt referendums.\n\n> MTacla wrote:\n> 2. Are the other abilities granted by the card dependant of the title? For instance, if Karsh is Imperator but have the title contested, would he still have +3 votes for bloodhunts? I guess they are, but the card doesn't states it clearly.\n>\nMoot.\n\nWhen a title is contested, the Title card (if any) goes out of play.  [LSJ 20070808]\n>\n> LSJ wrote:\n> Question raised at the 2007 EC:\n> > If I have a vampire with the Regent card and someone else brings out\n> > Sha-Ennu (who has the regent title), can other Sabbat vampire still rush\n> > my regent via the regent card's built-in action?\n>\n> No. The regent card is a title card. It is out of play while the title is\n> contested. (Similar to the way capacity-increasing praxes are handled.)\n>\n> MTacla wrote:\n> 3. If a vampire becomes Imperator via the political action, then calls another Imperator, would he have +6 votes for bloodhunts? I guess not, because the first three would go away with the title holder, but I'm not sure.\n>\nWhen a vampire gains a new title, the old Title card is burned. So the additional three votes go away. (Although the new Imperator card grants you its own additional three votes, of course.)\n>\n> Rulebook wrote:\n> Title: A Title card is a placeholder for a title. If the title is yielded or lost, the card is burned. If the title is unique, contests are paid with vampire blood, as normal for titles.\n>\nWhen you gain a new title, you lose the old one - so you burn it.",
+      "Id": "15510"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 23, 2011, 10:25\u202FAM",
+      "Body": "> I wrote:\n> When a title is contested, the Title card (if any) goes out of play.\n>\nI started having thoughts about (for example) \"What happens if the Imperator changes sect?\" or \"What happens if Fall of the Camarilla is played?\"\n\nIs the card still in play for other special abilities, even though the title is now inert?\n\nAnswer: if the title is inert, the title card is inert. Similarly, if the title is contested, the title card is contested, and if the title is lost, the title card is lost.\n\n[LSJ 20091015]\n>\n> LSJ wrote:\n> As such, the card goes the way of the title. When the title is lost, the card is\n> burned. When the title is contested, the card is out of play.\n> ...\n> The Writ renders the title inert. The title card is also thus inert.\n> Similarly, if a Toreador with Praxis Seizure: Paris goes Into the Fire, the\n> capacity increase from the inert title is also inert (xe no longer has the extra\n> capacity, until the Praxis title is again in effect).\n>\nSo, in that case, the 'burn this card' political action on a Fee Stake isn't available to other vampires when the title is inert, because the card is inert.\n\nFor Imperator, the extra votes aren't available when the title is inert (Imperator is the wrong sect), because the card is inert.",
+      "Id": "15612"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 10:28\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > MTacla wrote:\n> > 1. Is the political action 'Imperator' a title holder? I guess it is, but it lacks the text.\n> >\n> It's a Title card, if that's what you mean. There's an issue with the web version of some card texts where they include bracketed text. See: www.vekn.net/index.php/forum/17-site-a-forum-feedback/1910-errors-in-the-html-cardlist\n>\n> If you look at www.vekn.net/images/stories/downloads/cardlist.txt then you can see the following:\n>\n> Name: Imperator\n> [Promo-20090401]\n> Cardtype: Political Action\n> {Title.}\n> Choose a Camarilla vampire with capacity 8 or more. If this referendum is successful, put this card on the chosen vampire to represent the unique Camarilla title of Imperator (worth 3 votes). This vampire may play a Blood Hunt card from your hand or ash heap as a prince. This vampire gets 3 additional votes in blood hunt referendums.\n>\n> > MTacla wrote:\n> > 2. Are the other abilities granted by the card dependant of the title? For instance, if Karsh is Imperator but have the title contested, would he still have +3 votes for bloodhunts? I guess they are, but the card doesn't states it clearly.\n> >\n> Moot.\n>\n> When a title is contested, the Title card (if any) goes out of play.  [LSJ 20070808]\n> >\n> > LSJ wrote:\n> > Question raised at the 2007 EC:\n> > > If I have a vampire with the Regent card and someone else brings out\n> > > Sha-Ennu (who has the regent title), can other Sabbat vampire still rush\n> > > my regent via the regent card's built-in action?\n> >\n> > No. The regent card is a title card. It is out of play while the title is\n> > contested. (Similar to the way capacity-increasing praxes are handled.)\n> >\n> > MTacla wrote:\n> > 3. If a vampire becomes Imperator via the political action, then calls another Imperator, would he have +6 votes for bloodhunts? I guess not, because the first three would go away with the title holder, but I'm not sure.\n> >\n> When a vampire gains a new title, the old Title card is burned. So the additional three votes go away. (Although the new Imperator card grants you its own additional three votes, of course.)\n> >\n> > Rulebook wrote:\n> > Title: A Title card is a placeholder for a title. If the title is yielded or lost, the card is burned. If the title is unique, contests are paid with vampire blood, as normal for titles.\n> >\n> When you gain a new title, you lose the old one - so you burn it.\n>\nCorrect.",
+      "Id": "15613"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Nov 23, 2011, 3:52\u202FPM",
+      "Body": "Would it be worthwhile to make unique titles say \"Unique title\" instead of, or in addition to, using \"unique\" in the card text? Currently none of them do, but all \"Master: unique location\" cards have it right up front. Contestation issues might be more clear this way, but perhaps the reminder is just redundant.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "15641"
+    },
+    {
+      "Author": "Zammael",
+      "Date": "Nov 23, 2011, 4:13\u202FPM",
+      "Body": "Well, I think - If the Imperator is contested, you lose all the benefits of the title, including the 3 votes for blood hunts referendums. The Karsh's ADV text isn't affected by the effects of the contested title.\n\nGood is put Imperator on Karsh ADV. 3 votes, plus 3 votes on blood hunt referendums (Karsh's ADV text), plus 3 votes on blood hunt by Imperator 'Political Card'... Karsh has 9 votes for Veles' Hunt (and the political card gives you one more vote!).\n\nSergio Nascimento - \"Zammael\"",
+      "Id": "15642"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 4:51\u202FPM",
+      "Body": "> Jeff wrote:\n> Would it be worthwhile to make unique titles say \"Unique title\" instead of, or in addition to, using \"unique\" in the card text? Currently none of them do, but all \"Master: unique location\" cards have it right up front. Contestation issues might be more clear this way, but perhaps the reminder is just redundant.\n>\nThat would make the cards unique, I suppose, and affect the contest of the titles (you would have to pay 1 pool to stay in the contest of the unique card, and 1 blood to stay in the title contest). I'm not sure this is the intent, but it's a side effect.",
+      "Id": "15650"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Nov 23, 2011, 5:09\u202FPM",
+      "Body": "Definitely not an intent. I guess letting the card text (rather than any card trait) handle the contest is better for titles.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "15652"
+    }
+  ]
+}

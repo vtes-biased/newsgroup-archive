@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-49921",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/49921-thoughts-betrayed",
+  "Title": "Thoughts betrayed",
+  "Messages": [
+    {
+      "Author": "ChaosMadness7",
+      "Date": "Jun 17, 2013, 12:08\u202FPM",
+      "Body": "Hello to all !\nMy question pertains to the \"thoughts betrayed\" card wich say's that : The \"opposing minion cannot use cards until after combat\". Question; Is the damage prevention phase part of combat ? meaning that If I play the card I could do pretty much what I want to the minion without him being able to prevent it ?\nMy question stems from the fact that damage prevention is not included in the combat sequence but the cards are \"combat cards\" as they bear the symbol...\nThanks for your help (and patience)!",
+      "Id": "49921"
+    },
+    {
+      "Author": "Eius P",
+      "Date": "Jun 17, 2013, 12:21\u202FPM",
+      "Body": "I believe it says they cannot play STRIKE cards for the rest of combat. So tornsignpost, fists of death, carrion crows and prevention cards (to name but a few) are all still fair game",
+      "Id": "49922"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 17, 2013, 12:25\u202FPM",
+      "Body": "It's always a good idea to include  cardtext\n\n> Name: Thoughts Betrayed\n> Cardtype: Combat\n> Cost: 2 blood\n> Discipline: Dominate\n> Only usable before range is determined on the first round.\n> [dom] Opposing minion takes 1 additional damage in the first round of combat during normal strike resolution.\n> [DOM] Opposing minion cannot play any strike cards for the duration of this combat.\n>\nDamage prevention is indeed part of the combat.  Rulebook 6.4.6 ,  CRR VI.C.2.c .\nIt can only happen when damage is applied, which is most of the time during strike resolution.\n\nIf you play Thoughts Betrayed, they can still prevent the damage from your strike with a card such as Skin of Rock\n>\n> Name: Skin of Rock\n> Anarchs:PAG3]\n> Cardtype: Combat\n> Discipline: Fortitude\n> [for] Prevent 1 damage.\n> [FOR] Prevent 2 damage.\n>\nSkin of Rock isn't a strike card.\n[EDIT]: \"Strike\" cards read \"Strike: {do something}\". Common examples: Majesty, Coma, Taste of Death.",
+      "Id": "49923"
+    },
+    {
+      "Author": "hardyrange",
+      "Date": "Jun 17, 2013, 12:26\u202FPM",
+      "Body": "EDIT: Pascal beat me by approximately 3 seconds... B-)\n\n\"It was a perfect plan - until it had contact with reality\"\n---\nHardy Range\nPlaygroup Tradition Compliance Manager",
+      "Id": "49924"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 17, 2013, 12:27\u202FPM",
+      "Body": "I think the old printing said \"combat cards\" but thats too strong. Its current version says it prohibits strike cards. Which is cool, but rarely 3 blood cool.\nAlso, if you are interested, the inferior version only does damage at close range, and shpuld probably be avoided as a play at all costs.........",
+      "Id": "49925"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Jun 17, 2013, 12:30\u202FPM",
+      "Body": "Yep, prevention, maneuvers, etc. are legal unless they are part of Strike:XXXX or strike card text with something similar.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "49926"
+    },
+    {
+      "Author": "ChaosMadness7",
+      "Date": "Jun 17, 2013, 12:35\u202FPM",
+      "Body": "Aaah, that explains all. I do own old versions of the card. I WILL do a little more research before posting next time. Thank you so much (all answers) for the info. This site and it's users are amazing !!",
+      "Id": "49930"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 18, 2013, 1:19\u202FPM",
+      "Body": "> ChaosMadness7 wrote:\n> Aaah, that explains all. I do own old versions of the card.\n>\nIf most of your cards are from Camarilla Edition or earlier (so mostly Wizards of the Coast sets), you might find leafing through web.archive.org/web/20100114131747/http://white-wolf.com/vtes/migration.html to be helpful. It's not going to cover absolutely every change (a few of those cards have changed since then) but it covers most of the major changes from the earlier sets - Tomb of Rameses, Thoughts Betrayed, Mind Rape etc.\n\nIt doesn't mention that Return to Innocence got significantly rewritten, then banned, or a variety of other cards being banned - Succubus Club, Memories of Mortality, Dramatic Upheaval/Kindred Restructure etc. See www.vekn.net/tournament-rules/4-tournament-game-rules",
+      "Id": "49994"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jun 18, 2013, 1:25\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> you might find leafing through web.archive.org/web/20100114131747/http://white-wolf.com/vtes/migration.html to be helpful.\n>\nOr you can see that list and an earlier one, here:\n\nwww.thelasombra.com/cardlists.htm\n\nwww.thelasombra.com/lists/card_changes_by_set.txt\n\nwww.thelasombra.com/lists/migration.htm",
+      "Id": "49995"
+    }
+  ]
+}

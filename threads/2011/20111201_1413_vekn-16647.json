@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-16647",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16647-threading-the-path-of-orpheus-and-banishment",
+  "Title": "Threading the Path of Orpheus and Banishment",
+  "Messages": [
+    {
+      "Author": "Steinar",
+      "Date": "Dec 1, 2011, 2:13\u202FPM",
+      "Body": "Can I remove Banishment with TPO?\n\nBanishment\nCardtype: Political Action\nChoose a younger ready vampire. Successful referendum means that the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects). The vampire is uncontrolled. Any cards and counters on that vampire stay with him or her (but they are out of play as long as the vampire remains uncontrolled).\n\nThreading the Path of Orpheus\nCardtype: Action\nClan: Harbinger of Skulls\n+1 stealth action.\nBurn a card played by another Methuselah on a vampire you control. Tap that vampire.",
+      "Id": "16647"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Dec 1, 2011, 2:18\u202FPM",
+      "Body": "Is Banishment put on the chosen vampire? No. Therefore, you can't meet the requirements of Threading the Path of Orpheus.\n\nCardtext!\n\npckvtes.wordpress.com",
+      "Id": "16648"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 1, 2011, 3:51\u202FPM",
+      "Body": "> Amenophobis wrote:\n> Is Banishment put on the chosen vampire? No. Therefore, you can't meet the requirements of Threading the Path of Orpheus.\n>\n> Cardtext!\n>\nCorrect. Threading the Path of Orpheus being an action, it requires a target as it is played - which can't be when Banishment is called, because we don't nest actions.",
+      "Id": "16659"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 4:34\u202FPM",
+      "Body": "> Pascal wrote:\n> Threading the Path of Orpheus being an action, it requires a target as it is played - which can't be when Banishment is called, because we don't nest actions.\n>\nBirds could use action cards for nesting, though. Would that help?",
+      "Id": "16669"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 1, 2011, 4:39\u202FPM",
+      "Body": "Not if Birds are an action.\n\nI don't know if I should check if Threading the Path of Orpheus could burn a Banishment on a stolen Karavalisha Vrana.. I think I remember Scott saying \"on\" is transitive (or was it the opposite ?)",
+      "Id": "16670"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 2, 2011, 8:43\u202FAM",
+      "Body": "And once the banishment has been played, the vampire is uncontrolled so he is not a valid target anymore. You cannot play TPO on him at all until he comes back.",
+      "Id": "16747"
+    }
+  ]
+}

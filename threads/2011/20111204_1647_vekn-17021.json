@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-17021",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/17021-can-ballots-abstain",
+  "Title": "Can ballots abstain?",
+  "Messages": [
+    {
+      "Author": "Adonai",
+      "Date": "Dec 4, 2011, 4:47\u202FPM",
+      "Body": "Quote from the  Presence.vekn.org forum:\n>\n> RTR wrote:\n> The Prisci block (6.3.3):\n> The prisci as a group have 3 votes. During a referendum, the prisci block of 3 votes is cast \"for\" or \"against\" the referendum according to the prisci subreferendum. Each ready priscus provides 1 ballot for this subreferendum, and votes may not be used in this subreferendum. Each ballot cast is either \"for\" or \"against\" the main referendum. Whichever side has the greater number of ballots in the subreferendum gains 3 votes in the main referendum. If the subreferendum is tied, the prisci block abstains from the main vote. As vampires cast their ballots in the subreferendum, the prisci block of 3 votes might shift between \"for\", \"against\", and \"abstain\" (as the majority in the subreferendum changes). A vampire must cast all of his votes and ballots in agreement.\n>\n> FC wrote:\n> So no abstaining in the prisci subrefendum?\n>",
+      "Id": "17021"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Dec 4, 2011, 4:57\u202FPM",
+      "Body": "There is nothing indicating that a ballot MUST be cast, so yes.",
+      "Id": "17024"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 4, 2011, 9:21\u202FPM",
+      "Body": "> johannes wrote:\n> There is nothing indicating that a ballot MUST be cast, so yes.\n>\nWell, \"no\", if the question is \"must we cast ballots?\"\n\nA vampire with ballot(s) can abstain. Casting a ballot is not mandatory.\nI merely changed occurrences of \"vote\" in this part of the rulebook to \"ballots\". Everything that previously applied to votes now applies to ballots too (and the rulebook will reflect this).",
+      "Id": "17068"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Dec 4, 2011, 9:31\u202FPM",
+      "Body": "I just want to pipe in here that according to section 6.3.3 of the rulebook, you cannot actually choose to \"abstain\".\n\nYou either choose to vote in favor or you vote against and once cast, you cannot change those votes. (In practice this latter is actually not really enforced or taken into account, so it may be worth considering just removing that bit, but that's just an aside).\n\nA vampire choosing not to vote implicitely chooses to abstain from voting, but that's not a choice as such that you *can* get back on that and cast votes whenever you please. In practice, again, this doesn't pose really as a problem but it's kinda of ambigious in the rules.",
+      "Id": "17071"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 4, 2011, 9:35\u202FPM",
+      "Body": "Correct. You abstain until you cast votes / ballots, which is not mandatory. But once votes/ballots are cast, they can't be reverted, and further votes / ballots cast by this [entity] (vampire, methuselah) must be cast in agreement.",
+      "Id": "17072"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Dec 5, 2011, 7:09\u202FPM",
+      "Body": "A little, but nice surprise to me. I have thought, that \"Each vote [in the sub-referendum] is either \"for\" or \"against\" the main referendum.\" would indicate, that all ready Prisci in play had to cast their votes ... I am glad to read that I have been (taught) wrong.\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "17171"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 5, 2011, 7:16\u202FPM",
+      "Body": "Well, each ballot cast in the prisci subreferendum is either for or against the main referendum.\n\nRulebook 6.3.2.2 will read:\n>\n> Polling. All Methuselahs may now cast any votes and ballots they have (see below) at this time, in any order. They call out their votes and ballots freely, and there is no obligation to cast votes or ballots. Once a vote or a ballot has been cast, however, it cannot be changed. The polling stage is completed only when all Methuselahs are finished casting votes and ballots(if you need a time limit, the players can agree to wait 15 seconds after the last vote or ballot cast to close the polling stage).\n>",
+      "Id": "17173"
+    }
+  ]
+}

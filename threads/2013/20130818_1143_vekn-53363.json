@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-53363",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53363-wall-street-nights-question",
+  "Title": "Wall Street Nights question",
+  "Messages": [
+    {
+      "Author": "CalibanX",
+      "Date": "Aug 18, 2013, 11:43\u202FAM",
+      "Body": "So, can I Tap Wall Street Nights Financial Newspaper to remove a blood from one of my own Investment cards as a +1 Stealth action? It says you can do this to \"any\" Methuselah but it also says it's a Directed action. I thought Directed actions can't be used on yourself but then why does it say \"any\"? So, which is it?",
+      "Id": "53363"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Aug 18, 2013, 12:38\u202FPM",
+      "Body": "Card text quoted for context:\n\nwww.vekn.net/images/stories/downloads/cardlist.txt\n\nName: Wall Street Night, Financial Newspaper\n[Promo-20060123]\nCardtype: Master\nCost: 1 pool\nMaster: unique location.\nTap during an undirected action to give a minion you control +1 intercept for the current action. Tap to select a minion you control. Once this turn, the chosen minion may move a counter from an investment card controlled by any Methuselah to your pool as a +1 stealth  action.\nArtist: David Day\n\nRulebook, section 6.2.2.\n\nwww.vekn.net/rulebook\n\nAs a convenience, when a card describes an action that is typically directed at another Methuselah, the card's text will usually include a  symbol as a reminder that the action is typically directed.\n\nSo, using these 2 bits to answer your questions....\n\nYes, you can target your own investment and get the stealth. Both your predator's minions and your prey's minions are eligible blockers.\n\nThere is no general restriction on the target of directed actions. An action is directed if it targets something controlled by another Methuselah.",
+      "Id": "53366"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 18, 2013, 8:34\u202FPM",
+      "Body": "Correct answer from Adonai.\n\nThe action to move the counter from your investment card to your pool would be a +1 stealth action. (same as regular hunts or political actions).",
+      "Id": "53389"
+    }
+  ]
+}

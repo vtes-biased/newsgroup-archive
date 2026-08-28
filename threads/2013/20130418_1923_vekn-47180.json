@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-47180",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/47180-famelike-question",
+  "Title": "Famelike question",
+  "Messages": [
+    {
+      "Author": "delangen",
+      "Date": "Apr 18, 2013, 7:23\u202FPM",
+      "Body": "Just would like to verify: cards which are unique; such as Fame, is/are controlled by the methuselah who played it for contestation purposes... now when the controller is ousted this card is burned according to:\n9.1. Victory Points\nWhen a Methuselah runs out of pool counters, she is ousted from the game. If you are ousted, all the cards you control are removed from the game. Any of your opponents' cards you control are returned to them at the end of the game. Any of your cards controlled by other Methuselahs remain in play as normal (see The Golden Rule of Card Ownership, sec. 1.3).\n\nCorrect, correct?",
+      "Id": "47180"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Apr 18, 2013, 7:35\u202FPM",
+      "Body": "It's not about uniqueness, it's about card type. When a master card is on another card, it is controlled by the methuselah who played it. When a minion card is on another card, it is controlled by the controller of the card it is on.\n\nExample:\n\nA plays a Pulled Fangs and a Pentex Subversion on one of B's vampires. A is ousted. The Pentex goes because A still controls it, the Pulled Fangs stays because it is now B who controls it.\n\nIt also matters to determine who can block actions to get rid of cards. In the example above, if C wants to burn the Pentex, it is a  action against A so A can block. If C wants to burn the Pulled Fangs, it is a  action \"against\" B so A cannot block without Eagle Sight.",
+      "Id": "47182"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Apr 18, 2013, 7:58\u202FPM",
+      "Body": "Except for Charnas the Imp, maybe some other post Sabbat examples I'm not familiar with... but he has addendum which allows the controller to move him to any other minion when the minion he's imping is burned.\n\nIt's good to know which cards go when an ousting happens... like the curse of nitocris and the society of leopold they are always controlled by the methuselah who played them, but they move around to others... contesting them becomes a viable option especially when on the verge of ousting the original methuselah",
+      "Id": "47184"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Apr 18, 2013, 8:21\u202FPM",
+      "Body": "Society of Leopold, yes.\nCurse of Nitocris, no.\n\nCurse of Nitocris does not go on another card, so its controller is always the player who has it on his side of the table. Card text:\n>\n> Curse of Nitocris\n> Master\n>\n> Unique master.\n> Choose a Methuselah and put this card in play under the control of the chosen Methuselah. The controller of this card burns 1 pool during each of his or her untap phases. Each time a new Methuselah gets the Edge, the current controller of this card chooses any Methuselah, and that chosen Methuselah takes control of this card.\n>",
+      "Id": "47187"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Apr 18, 2013, 8:34\u202FPM",
+      "Body": "Ahhh yet another old Jyhad card I haven't checked for addendi... good to know TY",
+      "Id": "47188"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Apr 18, 2013, 8:38\u202FPM",
+      "Body": "That kinda sucks you can't contest the curse to get rid of it",
+      "Id": "47189"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 19, 2013, 5:31\u202FAM",
+      "Body": "> delangen wrote:\n> Just would like to verify: cards which are unique; such as Fame, is/are controlled by the methuselah who played it for contestation purposes... now when the controller is ousted this card is burned according to:\n> 9.1. Victory Points\n> When a Methuselah runs out of pool counters, she is ousted from the game. If you are ousted, all the cards you control are removed from the game. Any of your opponents' cards you control are returned to them at the end of the game. Any of your cards controlled by other Methuselahs remain in play as normal (see The Golden Rule of Card Ownership, sec. 1.3).\n>\n> Correct, correct?\n>\nCards controlled by Methuselahs who are ousted are removed from the game (from that very section of the Rulebook you quote). A Disarm on a vampire of your prey is removed from the game when you oust her, and won't be eligible for some Ashur Tablets trick.\n\nAs Boris The Blade said, there is a difference between Master cards and minion cards. Unless cardtext explicitely mentions it (Curse of Nitocris, Mind Rape, ..), a master card is controlled by the Methuselah who played it, and a minion card on a minion is controlled by the Methuselah controlling that said minion.",
+      "Id": "47227"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 19, 2013, 6:43\u202FAM",
+      "Body": "> delangen wrote:\n> Ahhh yet another old Jyhad card I haven't checked for addendi... good to know TY\n>\nQuite a few revisions have happened to Jyhad/other old cards so it is really useful to chekc the current wordings from this site's Card Lists. Also some wallpaper from Dark Sovereigns/Ancient Hearts got revised so they're more playable now.\n\nOnes that immediately spring into mind are Majesty and 2nd Tradition.\n\nFrom here...\nvekn.net/index.php/card-lists\n\n...you can get this:\nvekn.net/images/stories/downloads/cardlist.txt\n\nAnother way would be to go to Secret Library and search with all kinds of nifty options for the cards you need to check:\nwww.secretlibrary.info\n\nFinnish  Politics!",
+      "Id": "47236"
+    }
+  ]
+}

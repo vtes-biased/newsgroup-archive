@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-44418",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/44418-bleed-bleed-and-more-bleed",
+  "Title": "Bleed, Bleed, and more Bleed",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Jan 25, 2013, 5:42\u202FPM",
+      "Body": "Just clarrifying that if I have 8 vampires out that are all capacity 1, that each Vampire can try to perform a Bleed action. If they all succeed, then my prey is bled for 8. If one of the vampire's bleed actions was blocked, he cannot perform a second bleed action even if he untaps or can perform actions while tapped...RIGHT?\n\nIf a Bleed action was successful but for 0 Bleed, it is deemed not successful and no Edge is awarded...RIGHT??\n\nEven if a vampire performs a Bleed action successful or unsuccessful and is stolen by another player, that vampire still cannot bleed again unitl that players turn comes around...RIGHT???\n\nMaking sure all my facts are in line. Thanks in advance.",
+      "Id": "44418"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 25, 2013, 6:01\u202FPM",
+      "Body": "I believe that you are correct on all EXCEPT the last. The no repeat action rule applies for a given turn, not for a trip around the table. For instance, if you bleed with a vampire, and untap (via freak drive, rutors hand, or whatever), you can bleed again on someone elses turn using Enkil Cog or Madness Network.\n\nLikewise, if someone stole your vampire, say with temptation, they could bleed with them, regardless of whether you bled on your turn.\n\nOh, one slight clarification: For a bleed of 0, the BLEED is unsuccessful, but the ACTION is successful. So you could do things that are contingent on successful actions (inferior freak drive, etc.",
+      "Id": "44419"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 25, 2013, 6:42\u202FPM",
+      "Body": "Malcom is right as far as I know, but I would like to add a small remark.\n\nIf an opponent stole you one of your vampire that have already bled during your turn (a Salubri with Enkil Cog, for example), and the vampire in question can act during another player' turn (he is a malkavian and Malkavian Madness Network is in play, for example), the stolen vampire cannot bleed.\n\nIn other word, what 'wash' the NRA rule is the end of any turn, not the beginning of your turn or controller change.",
+      "Id": "44420"
+    },
+    {
+      "Author": "Miasmat",
+      "Date": "Jan 25, 2013, 7:30\u202FPM",
+      "Body": "\"In other word, what 'wash' the NRA rule is the end of any turn, not the beginning of your turn or controller change.\"\n\nI THINK a trip through the uncontrolled region will also clear NRA (via something silly like Banishment followed by Chain of Command).",
+      "Id": "44421"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 28, 2013, 7:28\u202FAM",
+      "Body": "> Trigger wrote:\n> Just clarrifying that if I have 8 vampires out that are all capacity 1, that each Vampire can try to perform a Bleed action. If they all succeed, then my prey is bled for 8. If one of the vampire's bleed actions was blocked, he cannot perform a second bleed action even if he untaps or can perform actions while tapped...RIGHT?\n>\nCorrect. A minion cannot perform more than one bleed action each turn, even if he untaps. ( Rulebook 6.1.1 ).\n\n> Trigger wrote:\n> If a Bleed action was successful but for 0 Bleed, it is deemed not successful and no Edge is awarded...RIGHT??\n>\nIf a bleed action isn't blocked, it is a successful action and it resolves. If a bleed action resolves (== is successful) for 0, it is not a successful bleed. Only successful bleeds give you the Edge.\n\nHere's an example:\nNeighbor John (AUS for dom) has a Perfectionist bleeds for 1. The prey doesn't block, but uses Greta's ability to reduce Neighbor John's bleed by 1 (making it a bleed for 0).\nThe action resolves as a successful action (because it wasn't blocked). It's a bleed for 0, which doesn't grant the Edge. Neighbor John gains 1 blood from Perfectionist and can play Freak Drive to untap.\n\n> Trigger wrote:\n> Even if a vampire performs a Bleed action successful or unsuccessful and is stolen by another player, that vampire still cannot bleed again unitl that players turn comes around...RIGHT???\n>\nCorrect. A minion cannot perform more than one bleed action each turn, even if he untaps. ( Rulebook 6.1.1 ).\n\nEDIT: I might have misread this last one.\nIt's A's turn. A's 10-cap with Enkil Cog bleeds. During A's turn, 10-cap with Enkil Cog cannot bleed anymore. Now, unless someone pulls some magic and steals A's 10-cap with Enkil Cog during A's turn (difficult, but doable with Spirit Marionnette or Ailing Spirit), A's 10-cap vampire with Enkil Cog won't be able to bleed again on A's turn.\n\nNow, after A's turn, A's 10-cap vampire with Enkil Cog can bleed again. A \"turn\" in VTES is a player's turn, not a \"table\"'s turn.",
+      "Id": "44511"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 28, 2013, 7:32\u202FAM",
+      "Body": "> Miasmat wrote:\n> I THINK a trip through the uncontrolled region will also clear NRA (via something silly like Banishment followed by Chain of Command).\n>\nNo, going back to the uncontrolled doesn't erase any information about your vampire - this includes, but isn't limited to: Contracts, NRA, ...\nOnly a trip to the ash heap will cleanse you. Being out of the game (Contest, Descent Into Darkness, ..) won't.",
+      "Id": "44512"
+    }
+  ]
+}

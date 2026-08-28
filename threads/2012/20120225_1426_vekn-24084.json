@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-24084",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/24084-actions-with-multiple-resolutions",
+  "Title": "Actions with multiple resolutions",
+  "Messages": [
+    {
+      "Author": "henrik",
+      "Date": "Feb 25, 2012, 2:26\u202FPM",
+      "Body": "The thread about Faceless Night started to get long, and this is quite a sidetrack.\n\n> Pascal wrote:\n> Faceless Night taps at {each} resolution.\n>\nI assume this would apply to Ogwon as well (only card I found with similar enough card text to Faceless Night).\n\nWhat about effects that are applied after resolution, are they applied after each resolution as well?\nGwyedd, Ecstacy and Day Operation, might be more.\n\nRegarding Ecstacy. Is a blocked bleed considered to be resolved for the current bleed amount or for 0?\n\n> Name: Ecstasy\n> Cardtype: Reaction\n> Discipline: Serpentis\n> [ser] Reduce a bleed against you by 1.\n> [SER] As above, and if the bleed resolves for 0 (or less), the acting minion burns 1 blood or life (after resolving the action).\n>\n> Name: Ogwon\n> Cardtype: Vampire\n> [...]\n> Independent: If an ally or younger vampire attempts to block Ogwon and fails, that minion burns 1 blood or life when the action resolves (before resolving the action).\n>\n> Name: Gwyedd\n> Cardtype: Vampire\n> [...]\n> Camarilla primogen: When Gwyedd is performing an undirected action, any younger vampire who attempts to block and fails is tapped after resolution.\n>\n> Name: Day Operation\n> Cardtype: Action Modifier\n> Cost: 1 blood\n> Discipline: Fortitude\n> [for] Only usable as the action is announced. Vampires cannot block this action. The acting vampire goes to torpor after resolving the action.\n> [FOR] As above, but usable if a minion is attempting to block.\n>\n> Name: Faceless Night\n> Cardtype: Action Modifier\n> [OBF] +1 stealth, and any minion who attempts to block this action and fails becomes tapped when the action is resolved (before resolving the action).\n>",
+      "Id": "24084"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Feb 25, 2012, 2:53\u202FPM",
+      "Body": "If a bleed action is blocked, the bleed never resolves, so no they don't burn blood for ecstasy. Remember that resolving 'bleed' and resolving 'bleed action' are two different things.",
+      "Id": "24089"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 25, 2012, 3:01\u202FPM",
+      "Body": "> Klaital wrote:\n> If a bleed action is blocked, the bleed never resolves, so no they don't burn blood for ecstasy. Remember that resolving 'bleed' and resolving 'bleed action' are two different things.\n>\nDidn't know that actually.\nI know that bleeds resolving for 0 or less are considered unsuccessful bleeds even if the action itself was successful, but not that there's a second action resolution for all bleeds.",
+      "Id": "24091"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 25, 2012, 3:03\u202FPM",
+      "Body": "I might've been too fast to answer the Faceless Night question.\nThere's also Forced Awekening that has to be added to that list.\nGive me a few days to check what already exists (and feel free to run searches on your side too).",
+      "Id": "24093"
+    }
+  ]
+}

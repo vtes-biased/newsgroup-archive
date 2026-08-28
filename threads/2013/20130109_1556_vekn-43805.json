@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-43805",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43805-maneuver-with-spirit-s-touch",
+  "Title": "Maneuver with Spirit's Touch",
+  "Messages": [
+    {
+      "Author": "Morkar",
+      "Date": "Jan 9, 2013, 3:56\u202FPM",
+      "Body": "Hello,\n\nWith the AUS effect of Spirit's touch, the minion have an optional maneuver in the resulting combat. Can I use this maneuver during the strike phase, for example for stay at close range after than the opposing and acting minion plays \"Aid from bats\" ?\n\nThank for your responses !",
+      "Id": "43805"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 9, 2013, 4:05\u202FPM",
+      "Body": "No, you have to use the maneuver in the Determine Range step.\n\nAid from Bats is played during Determine Range to maneuver to long.\nYou may immediately maneuver back to close with any maneuver available to your minion.\nYour opponent may then choose to maneuver back to long, and so on.\n\nOnce all maneuvering is complete, and range is determined, the Announce Strikes phase occurs. Your opponent is locked into the Aid from Bats strike played during Determine Range.",
+      "Id": "43806"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 9, 2013, 4:12\u202FPM",
+      "Body": "And, in case it would not be already clear : you can play Spirit's Touch ONLY when you are blocking, not in the resulting combat, and you can play it ONLY if you wouldn't successfully block the action otherwise.\n\n(because the original post let me think he is trying to play Spirit's touch during the combat)",
+      "Id": "43808"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 10, 2013, 7:20\u202FAM",
+      "Body": "Spirit's Touch is a reaction card that grants you intercept (at both levels). For that reason, it is only usable by a minion attempting to block who is currently lacking intercept (stealth of the acting > intercept of the bloc-attempter).\n\nIt is not usable in combat, because only combat cards (and masters) can be played in combat, and Spirit's Touch is a reaction card.\n\nThe maneuver it grants at superior can be used in the Determine Range step of any round of the combat resulting from a successful block.",
+      "Id": "43847"
+    },
+    {
+      "Author": "Morkar",
+      "Date": "Jan 10, 2013, 7:39\u202FAM",
+      "Body": "Thank you !\n\nI were maybe not clear in my question, but your answers reveal a probable miscomprehension of a rule point.\n\nMy friends and me, when we play, we consider that a strike like \"Aid from bats\" could permit a maneuver during the strike resolution. So, a minion who plays this card can go to long range AND strike to long range too.\n\nDo you confirm this mistake ?",
+      "Id": "43849"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 10, 2013, 8:11\u202FAM",
+      "Body": "As said Adonai, if you want to use the maneuver Aid from Bats or .44 Magnum gives you, you must play the card (Aid from Bats) or declare you use it in the \"Determine Range\" step.\nThe opponent then gets the opportunity to maneuver, with cards such as Fake Out (and if he does, you can maneuever again with Pursuit, IR Googles, for instance).\n\nThere are two important things to notice:\n- you cannot use more than one Aid from Bats to maneuver in a single round of combat\n- playing Aid from Bats to maneuver restricts your choice of strike to Aid from Bats (handstrikes are no longer an option). This matters most in case Immortal Grapple is played.\n\nHere is an example:\n\nStick (ANI, 3 blood) is in combat with KoKo (pot, 2 blood).\n# \"Before range is set\"\nBefore range is set, Stick plays Carrion Crows (sup), and passes.\nKoKo plays Torn Signpost (base).\nStick passes.\nKoKo plays Trap.\nStick passes.\nKoKo passes.\n\n#We now move to the Determine Range step.\nStick plays Aid from Bats (sup) to go to long range. This will restrict Stick's choice of strike to Aid from Bats.\nKoKo plays Fake Out to go back to close range.\nStick passes on using maneuvers.\n\n#Range is now close, we're right before the strike declaration.\nStick passes on using pre-strike effects. (there really is just one card that we see played here)\nKoKo plays Immortal Grapple (base) (that's the card we usually see).\n\n#Strike declaration.\nStick must choose Aid from Bats (because it was used in the Determine Range step), but cannot, since it is not a handstrike (Immortal Grapple's restriction). Stick thus has no strike.\nKoKo declares a handstrike (for 2 damage).\n\n#Strike resolution\nDamage inflicted on Stick: 2 (handstrike).\nDamage inflicted on KoKo: 2 (Carrion Crows).\n\n#Damage resolution\nStick burns 2 blood to heal 2 damage.\nKoKo burns 2 blood to heal 2 damage.\n\n#Additional strikes\nStick passes on declaring effects to gain additional strikes.\nKoKo passes on declaring effects to gain additional strikes.\n\n#Press step\nThere is a mandatory press to continue combat (Trap).\nStick uses the press from Aid from Bats to end combat.\nKoKo plays no press card.\n\n#End of round\nStick passes.\nKoKo plays Taste of Vitae, and gains 2 blood.\nStick plays Taste of Vitae and gains 2 blood, and passes.\nKoKo plays Disarm, sending Stick to Torpor.\n\n#End of combat.",
+      "Id": "43855"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jan 10, 2013, 8:16\u202FAM",
+      "Body": "> Morkar wrote:\n> My friends and me, when we play, we consider that a strike like \"Aid from bats\" could permit a maneuver during the strike resolution. So, a minion who plays this card can go to long range AND strike to long range too.\n>\n> Do you confirm this mistake ?\n>\nConfirm the mistake.\n\nManeuvers are all played in the MANEUVER step.\n\nDuring CHOOSE STRIKE step you choose a strike. Thus no more meaneuvers can be chosen any more.\n\nLike Pascal said earlier, with cards like Aid from the Bats that give you both a maneuver and a strike, you need to use the meneuver during the MANEUVER step. Doing so also \"locks\" your strike being that from the said card (ie. with Aid from the Bats the 1R damage). Weapons with maneuvers work just the same -you need to use the optional maneuver during MANEUVER step but it locks you strike to that of the weapon.\n\nCheck the following paragraphs from the rulebook.\nReading them'll take like a minute or two.\n\n6.4.1. Combat Sequence\n6.4.2. Determine Range\n6.4.3. Strike\n\nHere's the online rulebook:\nvekn.net/index.php/rulebook\n\nFinnish  Politics!",
+      "Id": "43856"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-39067",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/39067-inscription-rutor-s-hand",
+  "Title": "Inscription + Rutor's Hand",
+  "Messages": [
+    {
+      "Author": "Azel",
+      "Date": "Oct 14, 2012, 7:43\u202FAM",
+      "Body": "Just confirming assumed operations:\n\nWhen you Inscription Rutor's Hand, first it is a +1 stealth undirected action. But does it get +1 stealth on the directed action if you target another minion you don't control? It doesn't have (reminder?) text like Bloodstone or Swarm.\n\nWhen you play Inscription at either level, you only pay the cost - 1 blood.\n\nWhen the vampire with Inscription burns it does \"use ability\" mean get the effect outright, or take the Rutor's Hand action? The latter would require a successful action to \"use ability,\" as it were. Is an action card's ability a complete package, requiring both a successful action to get an effect; basically it sets up the conditions for play. Whereas compared to act mod, react, or combat which requires just legal presence at the appropriate stage of an action, correct?\n\nThe vampire with the Inscription equipped is the one that burns the 3 extra blood to avoid the unpreventable agg damage for a THA Rutor's Hand, correct?\n\nInscription\nType: Equipment\nRequires: Thaumaturgy\nEquipment.\n[tha] Put this equipment on a ready vampire and put a card that requires Thaumaturgy from your hand on it (face up, out of play; this acting vampire pays the cost of that card). The vampire with this equipment can burn this equipment to use the basic Thaumaturgy ability of that card.\n[THA] As above, but the vampire can use the superior Thaumaturgy ability of the card.\n\nRutor's Hand\nType: Action\nRequires: Thaumaturgy\nCost: 1 blood\n+1 stealth action.\n[tha] Put this card on the acting vampire. This vampire takes 1 unpreventable aggravated damage. Beginning with your next turn, this vampire may untap once during each of your minion phases. A vampire may have only one Rutor's Hand.\n[THA] As above, but this acting vampire may prevent the aggravated damage by burning 3 additional blood.",
+      "Id": "39067"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 14, 2012, 10:17\u202FAM",
+      "Body": "> Azel wrote:\n> Just confirming assumed operations:\n>\n> When you Inscription Rutor's Hand, first it is a +1 stealth undirected action.\n>\nCorrect - it's an equip action.\n>\n> Azel wrote:\n> But does it get +1 stealth on the directed action if you target another minion you don't control? It doesn't have (reminder?) text like Bloodstone or Swarm.\n>\nThe stealth is provided by the fact that the action to put it in play is an equip action, and that the Rulebook grants +1 stealth to equip actions. (Rulebook 6.1.3)\n\n> Azel wrote:\n> When you play Inscription at either level, you only pay the cost - 1 blood.\n>\nUnclear formatting, prefer this:\n\"When you play Inscription at either level, you pay the cost of the chosen card, which, in Rutor's Hand's case, is: 1 blood.\"\n\n> Azel wrote:\n> When the vampire with Inscription burns it does \"use ability\" mean get the effect outright, or take the Rutor's Hand action?\n>\nThe latter. Burning the Inscription won't put the card on it in play (which might have had sense for Rutor's Hand, but has none for Theft of Vitae). When burning an Inscription with a Rutor's Hand on it, the effect used is to perform the Rutor's Hand action.\n>\n> Azel wrote:\n> The latter would require a successful action to \"use ability,\" as it were. Is an action card's ability a complete package, requiring both a successful action to get an effect; basically it sets up the conditions for play. Whereas compared to act mod, react, or combat which requires just legal presence at the appropriate stage of an action, correct?\n>\nI'm not sure what you mean here. Only when an action is resolved do we apply its effects (usually, none when blocked - but there are exceptions, like Dive Bomb - and regular cardtext elsewise).\n\n> Azel wrote:\n> The vampire with the Inscription equipped is the one that burns the 3 extra blood to avoid the unpreventable agg damage for a THA Rutor's Hand, correct?\n>\nThe vampire with Inscription is the one who may burn 3 blood to avoid the agg damage from Rutor's Hand, if the Inscription was played at superior (and if Rutor's Hand is played at superior too).",
+      "Id": "39077"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Oct 15, 2012, 7:12\u202FAM",
+      "Body": "Thanks. The 'use ability' phrase definitely threw me off some.",
+      "Id": "39131"
+    }
+  ]
+}

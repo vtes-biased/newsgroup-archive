@@ -1,0 +1,14 @@
+{
+  "ThreadId": "vekn-38964",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/news-and-announcements/38964-the-archon-v1-4",
+  "Title": "The Archon v1.4",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 12, 2012, 9:16\u202FAM",
+      "Body": "Hello fellow Methuselahs,\n\nWith great help from Vincent Ripoll, the version 1.4 of our beloved Archon file is now available.\n\nYou will find it here: www.vekn.net/index.php/downloads\n\nThe Archon 1.4 includes:\n- bug fix for the number of Rating Points awarded to the winner of an event who didn't get a GW in the finals (he was missing 8 points)\n- bug fix for the number of rounds in which a player has played\n- bug fix for the number of Rating Points a finalist gets (the formula wasn't properly applied to all rows of the Methuselah sheet)\n\nbut it also includes:\n- 2R+F seating chart, supported in the Rounds sheets (currently available for 20 or less players)\n\nI will spend some of my week-end working on adding more lines for a support of 2R+F of attendance of more than 20 people.\n\nMany thanks to David Tatu and Kevin Mergen for working on the seating chart.\nThey respected the seating rules that were established previously.\n\nAttachment thearchon1.4.zip not found",
+      "Id": "38964"
+    }
+  ]
+}

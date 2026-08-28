@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-12932",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12932-summon-history",
+  "Title": "Summon History",
+  "Messages": [
+    {
+      "Author": "Megabaja",
+      "Date": "Oct 27, 2011, 2:46\u202FPM",
+      "Body": "I have a Summon history question - am I allowed to announce blood cost for a vampire/or minion card even if vampire calling the action does not have enough blood?\n\nSay, if Gweyd has 3 blood and Ankara citadel, can he target assault rifle with Summon History inferior text?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "12932"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 27, 2011, 3:37\u202FPM",
+      "Body": "Summon History\n[HttB:R]\nCardtype: Action\nCost: X blood\nDiscipline: Temporis\n[tem] Search your library and/or ash heap for an ally, retainer or equipment whose cost is X or less. Put that card in play (on this vampire and with starting life from the bank as needed).\n[TEM] Search your crypt and/or ash heap for a non-scarce vampire with capacity X or less. Put that vampire in play, with no blood.\n\nX is set as part of the terms of the action. The vampire must be able to pay X blood when the card is played.  [LSJ 20100314]\n\nA vampire with Ankara Citadel (only works for vampires) could announce Summon History for X=6 when having 3 blood. He would just say \"My action is inferior Summon History with X = 6.\"\nHe couldn't do it if he had 2 blood.\n\nNote that the target equipment / ally / retainer (at inferior) isn't part of the terms of the card. Only X (cost) is.",
+      "Id": "12933"
+    }
+  ]
+}

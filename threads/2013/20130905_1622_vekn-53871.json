@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-53871",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53871-rules-team-rulings-05-sept-2013",
+  "Title": "Rules Team Rulings - 05-SEPT-2013",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 5, 2013, 4:22\u202FPM",
+      "Body": "As always, changes contained herein do not go into effect for sanctioned tournaments for 30 days. (So these become active on October 5th, 2013 .)\n\nContinental Championships Changes\nDropped: The \"25%/33%/50% participants qualify\" rule no longer applies. Added: \"A player with at least 1 Game Win at a Continental Championship Qualifier qualifies.\" Added: \"The winner of any Continental Championship Qualifier qualifies.\" Added: \"For the Australian Championships, a player with at least 0.5 Victory Point per preliminary round played + 0.5 Victory Point qualifies.\" Added: \"To reward the judges who put so much time and effort into running these events, the judges for Regional continental qualifiers automatically qualify if they don't play in their event.\"\n\n==\n\nThe Archon\nThe Archon 1.5b has been finialized. It will be available in the  Download page.  (Please note we're still running validity checks against the upload module. Till October 5th, please continue to use the Archon available in the Download page.)\nThe Archon 1.5b should be compatible with OpenOffice and LibreOffice suites.",
+      "Id": "53871"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Sep 5, 2013, 10:45\u202FPM",
+      "Body": "What about National Championship organizers?\nAny changes to reward them?",
+      "Id": "53880"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Sep 6, 2013, 12:36\u202FAM",
+      "Body": "Will the Asian and South American Continentals still remain open events after this change?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "53882"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 6, 2013, 1:24\u202FAM",
+      "Body": "Just to clarify Pascal...\n\nThat ruling does mean that:\n\n0.5VP/round + 0.5VP at a Qualifier Tournament results in Qualification for Australian Qualifier Tournaments? or just for the purposes of Qualifying to the AUSNZ Championship?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "53883"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 6, 2013, 5:54\u202FAM",
+      "Body": "Will a list of all the players that qualified be automatically fed by the submission of the Archons?\nOr will a volunteer have to build the list by hand like me and Jeff on the previous years? I volunteered for 2014.\n\nIf so, I propose to be mandatory for each organizer post the link to the result page of his Tournament in the TWD post.\n\nLike this:\nEvent: vekn.net/event-calendar/event/7223\n\nSoon we'll need a Data Warehouse with Business Intelligence reports.",
+      "Id": "53889"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Sep 6, 2013, 7:04\u202FPM",
+      "Body": "With the new rule, coding a view to show qualified players should be trivial.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "53909"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 8, 2013, 6:34\u202FPM",
+      "Body": "> Pascal wrote:\n> Added: \"A player with at least 1 Game Win at a Continental Championship Qualifier qualifies.\"\n>\nEstimating how many qualifier shirts will be needed for CCQ will soon become nigh impossible\n\nFinnish  Politics!",
+      "Id": "53937"
+    },
+    {
+      "Author": "D-dennis",
+      "Date": "Sep 8, 2013, 7:38\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> Estimating how many qualifier shirts will be needed for CCQ will soon become nigh impossible\n>\nGood catch. Might be something to discuss in Stockholm. The NCs will come up with a solution for this.\n\nwww.facebook.com/groups/vtes.belgium/",
+      "Id": "53939"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Sep 9, 2013, 4:21\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n>\n> > Pascal wrote:\n> > Added: \"A player with at least 1 Game Win at a Continental Championship Qualifier qualifies.\"\n> >\n> Estimating how many qualifier shirts will be needed for CCQ will soon become nigh impossible\n>\nTrue. On the other hand, once we have enough Archon results in, it should be easy enough to write a script which prints out the most probable number of qualifieds for a given number of players. It won't be exact, of course, but should be enough to estimate with.",
+      "Id": "53942"
+    },
+    {
+      "Author": "HG.fi",
+      "Date": "Sep 9, 2013, 5:21\u202FAM",
+      "Body": "> PetriWessman wrote:\n>\n> > L\u00F6nkka wrote:\n> >\n> > > Pascal wrote:\n> > > Added: \"A player with at least 1 Game Win at a Continental Championship Qualifier qualifies.\"\n> > >\n> > Estimating how many qualifier shirts will be needed for CCQ will soon become nigh impossible\n> >\n> True. On the other hand, once we have enough Archon results in, it should be easy enough to write a script which prints out the most probable number of qualifieds for a given number of players. It won't be exact, of course, but should be enough to estimate with.\n>\nHaving an exactly correct number of shirts is irrelevant, since they won't all be in correct sizes anyway.",
+      "Id": "53943"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 9, 2013, 7:56\u202FAM",
+      "Body": "> HG.fi wrote:\n> Having an exactly correct number of shirts is irrelevant, since they won't all be in correct sizes anyway.\n>\nNo it is not.\nSo far I've had a single (1) instace where there was a problem with sizes. Andf that was you my good Sir...\n\nIn the future it'll be cropping up all the time.\nEspecially because NC's don't most likely want to order excessive number of T shirts just in case.\n\nI for one don't want to invest my money in speculative market of shirts for the ECQ for 6+ months in advance.\n\nAll in all, probably a wise rule change, but logistically it is a nightmare!\n\nFinnish  Politics!",
+      "Id": "53952"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 9, 2013, 9:07\u202FAM",
+      "Body": "> the1andonlime wrote:\n> Will the Asian and South American Continentals still remain open events after this change?\n>\nThese tournaments, as long as they remain in Open format, are not affected by rules that affect the Qualification system.\nShould their organizers decide to apply the Qualification system to their events, then, they would follow the rules given here (and there would have to be a choice on which system fits which event).",
+      "Id": "53956"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 9, 2013, 9:10\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Just to clarify Pascal...\n>\n> That ruling does mean that:\n>\n> 0.5VP/round + 0.5VP at a Qualifier Tournament results in Qualification for Australian Qualifier Tournaments? or just for the purposes of Qualifying to the AUSNZ Championship?\n>\nThese rules only apply to continental qualifiers.\n\nYou are free to use whatever rules you want for your National qualifiers.\n\nIn France, we've been using the 1GW qualifier rule for a year. Spain has a trickier system. The UK has its Nationals run in Open system. I can't remember exactly how Italy handles their National Championships (there used to be a series of events in Italy ending with the Nationals).",
+      "Id": "53957"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 9, 2013, 9:12\u202FAM",
+      "Body": "> Brum wrote:\n> Will a list of all the players that qualified be automatically fed by the submission of the Archons?\n> Or will a volunteer have to build the list by hand like me and Jeff on the previous years? I volunteered for 2014.\n>\n> If so, I propose to be mandatory for each organizer post the link to the result page of his Tournament in the TWD post.\n>\n> Like this:\n> Event: vekn.net/event-calendar/event/7223\n>\n> Soon we'll need a Data Warehouse with Business Intelligence reports.\n>\nAs Jussi said, retrieving players who qualified starting Oct 5th will be rather easy, with the hypothesis that Archons have been submitted and approved.",
+      "Id": "53958"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 9, 2013, 9:17\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n>\n> > Pascal wrote:\n> > Added: \"A player with at least 1 Game Win at a Continental Championship Qualifier qualifies.\"\n> >\n> Estimating how many qualifier shirts will be needed for CCQ will soon become nigh impossible\n>\nThe average % of players with 1 GW in tournaments of 15+ players is 35% (this stat was calculated over 200+ events, iirc). I suppose that helps a bit.\n\nFinnish examples:\n- 9/28 (32.1%) at Finnish Nationals 2012 [ www.vekn.net/event-calendar/event/6700 ]\n- 15/38 (39.5%) at Finnish Nationals 2013 [ www.vekn.net/event-calendar/event/7220 ]\n- 24/70 (34.3%) at Ropecon 2012 [ www.vekn.net/event-calendar/event/6775 ]\n- 26/71 (36.6%) at Ropecon 2013 [ www.vekn.net/event-calendar/event/7223 ]\n\nEC events:\n- 50/127 (39.4%) at LCQ 2012 [ www.vekn.net/event-calendar/event/6908 ]\n- 38/121 (31.4%) at FCQ 2012 [ www.vekn.net/event-calendar/event/6913 ]",
+      "Id": "53959"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Sep 13, 2013, 6:55\u202FPM",
+      "Body": "> Dropped: The \"25%/33%/50% participants qualify\" rule no longer applies. Added: \"A player with at least 1 Game Win at a Continental Championship Qualifier qualifies.\"\n>\nIs there a concern about players getting a GW in the first round and then dropping? (yay, re-doing seating...) Should players be required to play in all preliminary rounds of the qualifier without dropping/DQ'ing in order to be eligible to qualify?",
+      "Id": "54059"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 13, 2013, 7:24\u202FPM",
+      "Body": "> Is there a concern about players getting a GW in the first round and then dropping? (yay, re-doing seating...) Should players be required to play in all preliminary rounds of the qualifier without dropping/DQ'ing in order to be eligible to qualify?\n>\nHasn't been an issue so far (it would have mattered in \"small\" tournaments (in which a GW would lead you to the finals, thus awarding you the qualification slot).\n\nIt is not required that a partcipant has played in all rounds.\nEspecially:\n- Players who couldn't attend the first round of the tournament, and have played rounds 2 and 3 successfully enough to get a GW will qualify.\n- Players who made it to top 5 after preliminary rounds with a GW but drop the finals will still qualify.\n- Players disqualified with no prize won't get their qualification at the event.",
+      "Id": "54061"
+    },
+    {
+      "Author": "hardyrange",
+      "Date": "Oct 6, 2013, 8:21\u202FAM",
+      "Body": "Just a reminder:\nThe \"Continental Championships\" page will need to be updated to reflect the new rules...\n..once you are back from Stockholm, and properly rested. B-)\n\nAnd what about the new Archon?\n\n\"It was a perfect plan - until it had contact with reality\"\n---\nHardy Range\nPlaygroup Tradition Compliance Manager",
+      "Id": "54839"
+    }
+  ]
+}

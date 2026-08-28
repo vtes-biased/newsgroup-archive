@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-24337",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/24337-faceless-night-vs-multiple-blockers",
+  "Title": "Faceless Night vs multiple blockers",
+  "Messages": [
+    {
+      "Author": "Klaital",
+      "Date": "Feb 29, 2012, 3:03\u202FPM",
+      "Body": "Does Faceless Night only tap the -one- minion who was attempting to block when it was played, or everyone who attempts to block after it was played, or everyone who had attempted to block that action whether before or after it was played?\n\nEXAMPLE: Annazir is bleeding, Ramiel Du Pre attempts to block, Annazir plays cloak the gathering for +1 stealth, Ramiel's block fails, then Isabel de Leon with +1 intercept from atonement attempts to block, Annazir plays faceless night for further +1 stealth, Isabel fails to block, then Felicia Mostrom attempts to block with enhanced senses for +2 intercept, Annazir plays lost in crowds for further +2 stealth, Felicia's block fails.\n\nNow which of those three vampires become tapped at the resolution.\n\nOption 1: All three since faceless night taps all minions who failed to block the action it was played at.\nOption 2: Isabel and Felicia since Ramiel's block attempt failed already before Faceless Night was played and its not retroactive.\nOption 3: Only Isabel who was attempting to block when it was played?\n\nName: Faceless Night\n[Jyhad:C, VTES:C, CE:C/PM4, BH:PM4/PN4, KMW:PB3, Third:C]\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] +1 stealth.\n[OBF] +1 stealth, and any minion who attempts to block this action and fails becomes tapped when the action is resolved (before resolving the action).\nArtist: Harold Arthur McNeill",
+      "Id": "24337"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 29, 2012, 3:25\u202FPM",
+      "Body": "The minion currently attempting to block when Faceless Night is played and all minions attempting to block after it has been played are tapped by it. The minions\nwho had attempted to block before FN is played are not affected.  [LSJ 20020101]",
+      "Id": "24338"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 29, 2012, 3:27\u202FPM",
+      "Body": "> Klaital wrote:\n> Does Faceless Night only tap the -one- minion who was attempting to block when it was played, or everyone who attempts to block after it was played, or everyone who had attempted to block that action whether before or after it was played?\n>\n[LSJ 20020101]\n>\n> LSJ wrote:\n> The minion currently attempting to block when Faceless Night\n> is played and all minions attempting to block after it has been played\n> are tapped by it (if played at superior, of course). The minions\n> who had attempted to block before (and whose attempts are not \"active\"\n> when) FN is played are not affected.\n>",
+      "Id": "24339"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-43352",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43352-steeling-blood-clarification",
+  "Title": "Steeling Blood Clarification",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Dec 28, 2012, 3:16\u202FAM",
+      "Body": "When playing combat cards that steel blood, the blood is stolen before damage resolution, with excess blood removed, and then regular damage applied to the vampire that stole blood? Correct?",
+      "Id": "43352"
+    },
+    {
+      "Author": "CryWolf",
+      "Date": "Dec 28, 2012, 3:27\u202FAM",
+      "Body": "Yes.\n\nSee the  Rules Reference [6.4.3]\n\n> > iv.Steal blood. Removes blood/life from the opponent and places it on this vampire. Blood in excess of this vampire's capacity is burned immediately. Stolen blood may be used in step c. [6.4.5]\n> >\n> c.Prevent damage and then resolve any unprevented damage (VII).\n>\nAdvocate of  Good-looking Deck Posts\n\npulledfangs.blogspot.com :vtes:  Manila V:tES",
+      "Id": "43355"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 28, 2012, 10:18\u202FAM",
+      "Body": "Correct.\n\nLet's give a useful example:\n\nA Shambling Hordes (4 life, hence 4 strength)is in combat with Carna (6 blood) .\nRange is close.\nShambling Hordes (4 strength at this moment) declares a handstrike. This handstrike is for 4.\nCarna declares a Theft of Vitae at superior.\nNow, we move to strike resolution.\nStrikes resolve simultaneously, so the Hordes punch Carna as she steals 2. Damage will be resolved later.\nCarna gets 2 blood, making 1 blood drain off, and the Hordes drop down to 2 life. The Hordes' strike remains a handstrike for 4.\nWe now resolve the damage. Carna plays no prevention card, and burns 4 blood for the 4 damage inflicted by the Hordes.\nThere is no press, and the combat ends.\nCarna now has 3 blood, and the Hordes 2.",
+      "Id": "43371"
+    }
+  ]
+}

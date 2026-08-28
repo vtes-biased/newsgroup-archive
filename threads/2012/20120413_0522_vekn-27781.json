@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-27781",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/27781-withering-and-first-strike",
+  "Title": "Withering and first strike",
+  "Messages": [
+    {
+      "Author": "Steinar",
+      "Date": "Apr 13, 2012, 5:22\u202FAM",
+      "Body": "Hi!\nIf I play withering with first strike, is the opposing minion then able to play a strike that requires a discipline?\n\nName: Withering\nCardtype: Combat\nDiscipline: Thanatosis/Animalism\n[ani] Strike: 1R damage.\n[thn] Strike: hand strike. Place this card on the opposing minion. The minion with this card has -1 strength. Burn this card during his or her controller's next discard phase.\n[THN] As [thn] above, and the minion with this card cannot play cards that require any Disciplines.",
+      "Id": "27781"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 13, 2012, 5:24\u202FAM",
+      "Body": "Yes since strikes are declared simultaneously, even if yours resolves first, the opposing minion has already played his strike at that point. They will be affected by the -1 strength when their strike resolves however.",
+      "Id": "27782"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 13, 2012, 8:55\u202FAM",
+      "Body": "> Steinar wrote:\n> Hi!\n> If I play withering with first strike, is the opposing minion then able to play a strike that requires a discipline?\n>\nYes.\nWhen Withering is declared ( CRR VI.C.1 ), the opposing minion can still play discipline cards and doesn't yet get -1 strength  [LSJ 20020211] .\nWhen strikes resolve, the opposing minion gets -1 strength and can't play discipline cards anymore (for instance, they couldn't play Soak). But if that opponent declared a handstrike with 1 strength as their strike, the strike still resolves as 1 damage if Withering isn't with First Strike. If Withering is with First Strike, the opponent's strike is at -1 strength.",
+      "Id": "27798"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Apr 13, 2012, 9:46\u202FAM",
+      "Body": "> Pascal wrote:\n> When strikes resolve, the opposing minion gets -1 strength and can't play discipline cards anymore (for instance, they couldn't play Soak). But if that opponent declared a handstrike with 1 strength as their strike, the strike still resolves as 1 damage.\n>\nyou must be mistaken my friend : if withering is played at first strike, the opponent gets the card placed on him before his strike resolves.\nIf his strike was \"hands for one\", it means \"strength damage\", not \"one damage\". So the incoming hands strike would resolve as a hands for 0 damage strike...\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "27801"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 13, 2012, 11:46\u202FAM",
+      "Body": "> Reyda wrote:\n>\n> > Pascal wrote:\n> > When strikes resolve, the opposing minion gets -1 strength and can't play discipline cards anymore (for instance, they couldn't play Soak). But if that opponent declared a handstrike with 1 strength as their strike, the strike still resolves as 1 damage.\n> >\n> you must be mistaken my friend : if withering is played at first strike, the opponent gets the card placed on him before his strike resolves.\n> If his strike was \"hands for one\", it means \"strength damage\", not \"one damage\". So the incoming hands strike would resolve as a hands for 0 damage strike...\n>\nBlast, I skipped the \"first strike\" part.\nIf Withering is used with First Strike, it resolves before the opposing minion's strike, and thus, the opposing minion's strike is at -1 strength.\nThanks !",
+      "Id": "27811"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 13, 2012, 12:02\u202FPM",
+      "Body": "This ruling is a bit illogical for me. I explain.\n\nI play an aid from the bat, but my opponent play Immortal grapple. At strike resolution, I can't play the Aid, so I have no strike.\n\nI play an aid from the bat, but my opponent play Withering strike with first strike. At strike resolution, my Aid from the bat is resolved anyway.\n\nIn a pure logical sense, I must admit having an hard time to see this as making sense. (also, it screw further first strike, which is already not the sexiest effect on earth)",
+      "Id": "27813"
+    },
+    {
+      "Author": "Louhi",
+      "Date": "Apr 13, 2012, 12:16\u202FPM",
+      "Body": "My guess would be that you are allowed to 'play' the aid from bats in both cases (as a maneuver + strike that is) but the immortal grapple will limit your 'use' of it after it's played. The withering, once resolved, would only restricts the playing of the card.\n\nLiding\u00F6 Scourge",
+      "Id": "27816"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 13, 2012, 12:19\u202FPM",
+      "Body": "> Ohlmann wrote:\n> This ruling is a bit illogical for me. I explain.\n>\n> I play an aid from the bat, but my opponent play Immortal grapple. At strike resolution, I can't play the Aid, so I have no strike.\n>\n> I play an aid from the bat, but my opponent play Withering strike with first strike. At strike resolution, my Aid from the bat is resolved anyway.\n>\n> In a pure logical sense, I must admit having an hard time to see this as making sense. (also, it screw further first strike, which is already not the sexiest effect on earth)\n>\nWithering allows you to declare strikes. Immortal Grapple forbids some strike declaration.\n\nSee also: You can play Burning Wrath with Immortal Grapple or Withering. It has nothing to do with the fact that Burning Wrath / Aid from Bats requires a discipline. What matters is when the effects of a card apply.\nFor non-strike (and non-action) cards, they resolve as the card is played.\nFor strike cards, the strike is resolved during the strike resolution, which happens after the strike declaration.\nImmortal Grapple affects strike declaration. Withering doesn't.\n\nWhy is it illogical that two cards with different texts have different effects?",
+      "Id": "27817"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Apr 13, 2012, 6:36\u202FPM",
+      "Body": "> Louhi wrote:\n> My guess would be that you are allowed to 'play' the aid from bats in both cases (as a maneuver + strike that is) but the immortal grapple will limit your 'use' of it after it's played. The withering, once resolved, would only restricts the playing of the card.\n>\nThat's right. Aid from Bats is \"played\" when you use the maneuver, assuming we're talking about when the optional maneuver is used. The strike from Aid from Bats is \"declared\" during strike declaration.\n\nThe Aid from Bats card is already played and in the ash heap during strike declaration (again, assuming you've used the optional maneuver), meaning it isn't affected by the Withering.",
+      "Id": "27846"
+    }
+  ]
+}

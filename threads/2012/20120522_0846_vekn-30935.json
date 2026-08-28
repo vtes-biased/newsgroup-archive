@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-30935",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/30935-bbcode-in-quotes-firefox-was-wrong-actually",
+  "Title": "BBCode in quotes - Firefox (was wrong, actually ...)",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 22, 2012, 8:46\u202FAM",
+      "Body": "I recently discovered that Firefox doesn't show *some* bbcode enhancement in quotes.\nI don't know if it's intended / a bug / ..\n\nAh.. I think I found why .. I was concerned about bold + italic:\nbold + italic = bold italic\ndifferent from\n>\n> bold quoted\n> not-bold quoted\n>\n(on my firefox, the difference between these last two quoted lines is very thin).",
+      "Id": "30935"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 22, 2012, 9:08\u202FAM",
+      "Body": "> Pascal wrote:\n> I recently discovered that Firefox doesn't show bbcode enhancement in quotes.\n> I don't know if it's intended / a bug / ..\n>\nI recently discovered that Firefox doesn't show bbcode enhancement in quotes.\nI don't know if it's intended / a bug / ..\n\nJust testing\n\nEDIT: it seems that only the italic does not show up because the whole quote is already italicized.",
+      "Id": "30943"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 22, 2012, 11:41\u202FAM",
+      "Body": "Ah... nevermind... Turns out zooming in revealed quoted bold",
+      "Id": "30957"
+    }
+  ]
+}

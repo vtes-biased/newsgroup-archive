@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-62843",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/62843-eze-and-delaying-tactics",
+  "Title": "Eze and Delaying Tactics",
+  "Messages": [
+    {
+      "Author": "prestonp",
+      "Date": "May 29, 2014, 4:13\u202FAM",
+      "Body": "Eze's text reads,\n>\n> Once each turn when Eze successfully performs a non-hunt action, he untaps after resolving that action.\n>\nSo let's say his first successful action is to call a vote. Someone plays Delaying Tactics, which reads\n>\n> Only usable during a referendum.\n> Cancel the referendum. Untap the acting vampire. The political action card (if any) played to call this referendum is returned to its owner's hand (discard afterward), and the acting Methuselah's minions cannot attempt the same political action again this turn.\n>\nSo is Eze's free untap wasted because Delaying also untaps him, or can it be saved for later?",
+      "Id": "62843"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 29, 2014, 5:12\u202FAM",
+      "Body": "It's \"wasted\". [url=https://groups.google.com/d/msg/rec.games.trading-cards.jyhad/TuwXiJ8A9mo/Ef_5xj46lA8J[/url][LSJ 20051211][/url]",
+      "Id": "62846"
+    },
+    {
+      "Author": "Tdog",
+      "Date": "May 30, 2014, 3:27\u202FPM",
+      "Body": "According to my understanding, the action was successful if the referendum takes place, so Eze untaps before any Delaying Tactics could be played. So the untap from the reaction card is the one that is wasted in this case. perhaps there is a way to benefit from this?\nCan someone confirm/clarify?",
+      "Id": "62895"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 30, 2014, 3:34\u202FPM",
+      "Body": "> Tdog wrote:\n> According to my understanding, the action was successful if the referendum takes place, so Eze untaps before any Delaying Tactics could be played.\n>\nNo. You're only looking at the word \"successfully\" and ignoring the timing given in the rest of his ability.\n\nhe untaps after resolving that action.\n\nConducting the referendum is part of the resolution of a political action.\n\nSimilarly, if he'd successfully rushed someone, the combat is part of the resolution, so you untap afterwards.",
+      "Id": "62896"
+    }
+  ]
+}

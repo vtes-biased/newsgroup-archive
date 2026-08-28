@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-45380",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45380-empower-the-puppet-king",
+  "Title": "Empower the Puppet King",
+  "Messages": [
+    {
+      "Author": "Megakannon",
+      "Date": "Feb 19, 2013, 6:18\u202FPM",
+      "Body": "Why does this card have text stating the vampire must be ready to modify another minions action when the general rulings already prohibit such modifications from torpor?",
+      "Id": "45380"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Feb 19, 2013, 6:25\u202FPM",
+      "Body": "When you ask question, add the card text to your post.\n\n> Only usable by a ready untapped vampire other than the acting minion you control. After playing this card, you cannot play another action modifier to further increase the bleed for this action.\n> [dom] The acting minion gets +1 bleed.\n> [DOM] As above, but usable by a ready tapped vampire.\n>\nThe text of the card replace the normal condition to play an action modifier, to allow it to be played by a minion which is not acting. It specify \"ready\" for two reason :\n* it's clearer\n* ally can be not ready but not be in torpor, for example when they are recruited. Since some ally can play action modifier as vampires, it prevent the corner case of thoses ally using a card the turn they are recruited.",
+      "Id": "45381"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 19, 2013, 6:27\u202FPM",
+      "Body": "> Megakannon wrote:\n> the general rulings already prohibit such modifications from torpor?\n>\nThey don't.\n\nAccording to the rules, only the acting minion can play action modifiers. It often entails that he is ready, but not always. A vampire trying to leave torpor can play stealth (or even better: Daring the Dawn  ) when someone attempts to block him.\n\nAction modifiers played by a non-acting minion such as Empowering the Puppet King are an exception to the rules. As such, they need to have their own rules on them.\n\nReactions, on the other hand, are indeed reserved to ready minions in the rules.",
+      "Id": "45382"
+    },
+    {
+      "Author": "Megakannon",
+      "Date": "Feb 19, 2013, 6:48\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > Megakannon wrote:\n> > the general rulings already prohibit such modifications from torpor?\n> >\n> They don't.\n> They do.\n> Action Modifiers/Reactions:\n>\n> Action modifiers cannot be played by a vampire in torpor unless that vampire is the acting minion. [RTR 19970306]\n>\n> According to the rules, only the acting minion can play action modifiers. It often entails that he is ready, but not always. A vampire trying to leave torpor can play stealth (or even better: Daring the Dawn  ) when someone attempts to block him.\n>\n> Action modifiers played by a non-acting minion such as Empowering the Puppet King are an exception to the rules. As such, they need to have their own rules on them.\n>\n> Reactions, on the other hand, are indeed reserved to ready minions in the rules.\n>",
+      "Id": "45383"
+    },
+    {
+      "Author": "Megakannon",
+      "Date": "Feb 19, 2013, 6:53\u202FPM",
+      "Body": "I don't understand how the general rulings say a vampire cannot modify actions while in torpor unless that vampire is the acting vampire and then you tell me the general rulings do not restrict such modifications.",
+      "Id": "45384"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Feb 19, 2013, 7:22\u202FPM",
+      "Body": "> Megakannon wrote:\n> I don't understand how the general rulings say a vampire cannot modify actions while in torpor unless that vampire is the acting vampire and then you tell me the general rulings do not restrict such modifications.\n>\nAnd what is your point exactly ?\n\nI mean, the ruling say you cannot, the card say you cannot. It seem pretty consistent. And the text on Empowering is not useless or simply a reminder, since it prevent non-ready minion that are not in torpor from playing the card.\n\nAlso, he talk about the rules, not the rulings.",
+      "Id": "45385"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 19, 2013, 7:23\u202FPM",
+      "Body": "Generic rule is that action modifiers can be played by the acting vampire, regardless if he is ready or not. Empowering changes the standard \"acting, ready or not\" into \"not acting but ready\".\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "45387"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Feb 20, 2013, 1:07\u202FAM",
+      "Body": "> Megakannon wrote:\n> I don't understand how the general rulings say a vampire cannot modify actions while in torpor unless that vampire is the acting vampire and then you tell me the general rulings do not restrict such modifications.\n>\nCan you direct us to the bit in the rules that state that minions cannot play action modifiers while in torpor?\n\nIt would be easier to see your point\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "45394"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 20, 2013, 7:17\u202FAM",
+      "Body": "> Megakannon wrote:\n> Why does this card have text stating the vampire must be ready to modify another minions action when the general rulings already prohibit such modifications from torpor?\n>\nThe Rulebook simply prohibits non-acting minions from playing action modifiers:\nRulebook 1.6.3.2  wrote:\n>\n> Action modifier cards: The acting minion can play these cards to modify his action.\n>\nThis means that only the acting minion can play action modifier cards, unless cardtext says something else.\nActing vampires in torpor can play action modifiers just as much as ready minions can. Usually, that's limited to stealth (and similar) cards, as they're trying to leave torpor / gain 4-5 blood.\n\nWhat the General Rulings page reads (everyone here seems to have skipped the fact that the question isn't about the rules, but about the rulings) is:\nGeneral Rulings  wrote:\n>\n> Action Modifiers / Reaction: Action modifiers cannot be played by a vampire in torpor unless that vampire is the acting minion.  [RTR 19970306]\n>\nWhat this means is that vampires in torpor cannot play action modifiers that read \"Usable by a minion who is not the acting minion.\" or something similar (for instance: Cloak the Gathering, Veil the Legion, ...)\n\nNow, most of these cards already read \"only usable by a ready ...\". The only one that I can think of that doesn't would be sup' Blanket of Night, which, per that ruling, cannot be played by a vampire in torpor.\n\nThis redundancy is sometimes simpler than omitting the \"ready\" word on the card, because it avoids questions such as \"Can I play Blanket of Night with my non acting vampire in torpor? But why not? It doesn't read 'ready'!\"",
+      "Id": "45404"
+    }
+  ]
+}

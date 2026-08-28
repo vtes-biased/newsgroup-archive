@@ -1,0 +1,230 @@
+{
+  "ThreadId": "vekn-16788",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16788-re-new-psyche-and-telepathic-tracking",
+  "Title": "Re: New Psyche and Telepathic Tracking",
+  "Messages": [
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 2, 2011, 1:31\u202FPM",
+      "Body": "First of all, Psyche and Telepathic Tracking are played in the same window now, aren't they?\n\nAssuming they are, what happens if the acting minion plays a Psyche, then the reacting plays Telepathic Tracking?\n\nSeveral possible answers:\n-the TT effect kicks in first because the combat does not end. Then is the Psyche remembered until the end of the combat or does it fizzle?\n-\"Set Next Round\" is like Set Range: it cannot be unset once it has been set, so the first card played wins (I like it, it's simple).\n\nThe same question might apply to Coordinate attacks too.",
+      "Id": "16788"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Dec 2, 2011, 1:36\u202FPM",
+      "Body": "How they interact with rotshreck now ?\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "16789"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2011, 1:49\u202FPM",
+      "Body": "> Non-existant user wrote:\n> First of all, Psyche and Telepathic Tracking are played in the same window now, aren't they?\n>\nThey will be (as of Jan 01, 2012).*\n\n> Non-existant user wrote:\n> Assuming they are, what happens if the acting minion plays a Psyche, then the reacting plays Telepathic Tracking?\n>\nA new round of combat will happen (TT's \"combat does not end\"). Psyche!'s \"start a new combat after this round\" effect is lost (as much as Rotschreck's \"send that vampire to torpor after combat has ended\" is lost)\n\n> Non-existant user wrote:\n> Several possible answers:\n> -the TT effect kicks in first because the combat does not end. Then is the Psyche remembered until the end of the combat or does it fizzle?\n> -\"Set Next Round\" is like Set Range: it cannot be unset once it has been set, so the first card played wins (I like it, it's simple).\n>\n> The same question might apply to Coordinate attacks too.\n>\nThe same replies also apply.\n\n> Lech wrote:\n> How they interact with rotshreck now ?\n>\nNo change on that. Rotschreck ends the combat, thus ends the round. You play Psyche! / TT / CA, and a new [round of] combat starts, instead of having your vampire go to torpor.\n\n* EDIT Ankha: For further reference, the window during which Psyche! and Telepathic Tracking are no longer the same. Telepathic Tracking is a replacement effect and is played when the \"combat would end\" (and it doesn't end anymore). Psyche! is played when \"combat is about to end\", which only occurs once the replacement effects have been used, and only if the combat is really ending.",
+      "Id": "16794"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 2, 2011, 2:02\u202FPM",
+      "Body": "> Pascal wrote:\n> A new round of combat will happen (TT's \"combat does not end\"). Psyche!'s \"start a new combat after this round\" effect is lost (as much as Rotschreck's \"send that vampire to torpor after combat has ended\" is lost)\n>\nThanks.\n>\n> The same replies also apply.\n>\nHow about a Psyche against a Coordinate Attacks? I don't see any timing difference in that case.",
+      "Id": "16800"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2011, 2:05\u202FPM",
+      "Body": "> Non-existant user wrote:\n> How about a Psyche against a Coordinate Attacks? I don't see any timing difference in that case.\n>\nAh. Sorry. I thought you asked about CA instead of Psyche, not CA + Psyche played in the same combat.\n\nYou can't play Psyche / CA if another Psyche / CA was already played:\nGeneral Rulings\n>\n> An effect which would cause (a new) combat cannot be used if there is already a pending combat queued.\n>",
+      "Id": "16802"
+    },
+    {
+      "Author": "Pendargon",
+      "Date": "Dec 2, 2011, 2:18\u202FPM",
+      "Body": "Sp, Marthe Dizzier can now return Psyche! played during combat ?\n\nName: Psyche!\n[Jyhad:U, VTES:U, FN:PA2, CE:U/PB, KMW:PAl2, Third:U, KoT:U/PB3/PT3]\nCardtype: Combat\nDiscipline: Celerity\n[cel] Press.\n[CEL] Only usable at the end of a round when both combatants are still ready and combat is about to end. After this combat, begin another combat with the opposing minion if both minions are ready.\nArtist: Jeff Menges; Eric Lofgren\n\nMarthe Dizier, 10, pro AUS CEL OBF PRE, Toreador Antitribu, 3,\nSabbat, Black Hand: When a combat involving Marthe ends, she can burn a blood to move a card she played during that combat you your hand. +1 bleed.",
+      "Id": "16809"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Dec 2, 2011, 2:20\u202FPM",
+      "Body": "Name: R\u00F6tschreck\nCardtype: Master\nMaster: out-of-turn. Frenzy.\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\nArtist: Mike Danza\n\nBy R\u00F6tschreck's text, combat does end, unless players play a Sudden or Wash.\nVtES doesn't have a stack of effects or a queue.\nCombat ends.\nIf you rule that Psyche! can only be used inside combat, you can no longer use it here, because combat is not about to end. It ended already.",
+      "Id": "16811"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 2, 2011, 2:26\u202FPM",
+      "Body": "> Brum wrote:\n> By R\u00F6tschreck's text, combat does end, unless players play a Sudden or Wash.\n> VtES doesn't have a stack of effects or a queue.\n> Combat ends.\n> If you rule that Psyche! can only be used inside combat, you can no longer use it here, because combat is not about to end. It ended already.\n>\nHmm? Telepathic Tracking can be played against Rotschreck, as combat would be about to end. A rewritten Psyche would fit in the same slot.\n\n[LSJ 20031002]\n>\n> LSJ wrote:\n> Ruling on Telepathic Tracking says:\n> Superior Telepathic Tracking may interrupt the end of combat\n> produced by Rotschreck, which will cause the rest of Rotschreck's\n> effect to be lost (no torpor). [RTR 20020501]\n>",
+      "Id": "16815"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 2, 2011, 2:29\u202FPM",
+      "Body": "> Brum wrote:\n> By R\u00F6tschreck's text, combat does end, unless players play a Sudden or Wash.\n> VtES doesn't have a stack of effects or a queue.\n> Combat ends.\n> If you rule that Psyche! can only be used inside combat, you can no longer use it here, because combat is not about to end. It ended already.\n>\nThere is always an End of Round window (the new window for Psyche), no matter how the round ends. If it was not the case, then you could not Taste a vampire going to torpor after strike resolution for example. It is in the general rulings too.",
+      "Id": "16817"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2011, 2:34\u202FPM",
+      "Body": "> Pendargon wrote:\n> Sp, Marthe Dizzier can now return Psyche! played during combat ?\n>\nYes. Happy New Year, Marthe!\n\n> Non-existant user wrote:\n>\n> > Brum wrote:\n> > By R\u00F6tschreck's text, combat does end, unless players play a Sudden or Wash.\n> > VtES doesn't have a stack of effects or a queue.\n> > Combat ends.\n> > If you rule that Psyche! can only be used inside combat, you can no longer use it here, because combat is not about to end. It ended already.\n> >\n> There is always an End of Round window (the new window for Psyche), no matter how the round ends. If it was not the case, then you could not Taste a vampire going to torpor after strike resolution for example. It is in the general rulings too.\n>\nCorrect.\nGeneral Rulings :\n>\n> Combat effects played at the end of a round/combat can be played when the round ends via S:CE or similar.\n>",
+      "Id": "16820"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Dec 2, 2011, 2:38\u202FPM",
+      "Body": "What's the difference then?\nCombat is not about to end. It ended already.\nR\u00F6tschreck's \"Combat ends.\" part of the text apply before the use of Psyche!.\nSince:\na. You can only use Psyche! in combat\nb. You are no longer in combat\n\nIt appears to me that you can play Psyche! no longer.\n\nI would like to see an explanation that carefully walks us through both Impulse and exact moments of card resolution and effects.\n\nPretty please.",
+      "Id": "16822"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 2, 2011, 2:49\u202FPM",
+      "Body": "It's in the Complete rule reference\nwww.vekn.net/index.php/complete-rules-reference\nThe real effect of Combat Ends is to jump directly to the end of the round. Although it is written only for Strike: Combat Ends, I guess it is the same for Rotschreck and other stuff like Alpha Glint.",
+      "Id": "16829"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 2, 2011, 2:54\u202FPM",
+      "Body": "> Brum wrote:\n> I would like to see an explanation that carefully walks us through both Impulse and exact moments of card resolution and effects.\n>\nThe Impulse isn't relevant. Both players can play an effect in the 'combat is about to end' window, as per the cited ruling on Telepathic Tracking. The impulse only control which goes first when there's a fight.\n\nTelepathic Tracking is playable in this window, per LSJ's cited ruling on the issue, which uses the terminology \"Only usable when both combatants are still ready and combat is about to end.\" Combat is about to end via Rotschreck. Telepathic Tracking is allowed to interrupt it.\n\nA re-written Psyche can use the same wording and work the same way.",
+      "Id": "16830"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Dec 2, 2011, 4:07\u202FPM",
+      "Body": "First time I looked at the Complete Rules Reference.\n\nGood stuff.\n\nOne addition:\n\nVI. HOW TO RESOLVE A COMBAT\nNote: If either of the combatants is burned[, goes to torpor, or goes to the incapacitated region], blah blah....\n\nThere may be more Imbued related issues in that document, but that is just the first I saw.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "16835"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Dec 5, 2011, 9:10\u202FAM",
+      "Body": "Let me ask for a clarification here. Everything else makes sense to me, but R\u00F6tschreck versus Strike: Combat Ends.\n\nStrike: Combat Ends takes the combat round to part E, as per Complete Rules Reference (CRR). R\u00F6tschreck makes once again an exception here, does it? R\u00F6tschreck is thus not referring to a Strike: Combat Ends effect as in CRR, but ends the combat instantly, and the latter parts of combat never occur?\n\nIt does make sense, but doesn't at the same time. R\u00F6tschreck always was the exceptional card...\n\nAs a conclusion, the new ruling for Psyche! and Teletracking leave R\u00F6tschreck a wee bit stronger, don't they? If yes, I'm more than happy with this. Psyche! and Teletracking nullifying the stronger card never seemed intuitional or appropriate, somehow...\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "17102"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Dec 5, 2011, 9:53\u202FAM",
+      "Body": "> As a conclusion, the new ruling for Psyche! and Teletracking leave R\u00F6tschreck a wee bit stronger, don't they? If yes, I'm more than happy with this. Psyche! and Teletracking nullifying the stronger card never seemed intuitional or appropriate, somehow...\n>\n? Rot is just as before, it will be interrupted by TT or psyche or coordinate attack and the like - only change is that psyche is played \"in combat\" and not\nconsidered to be played outside\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "17105"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Dec 5, 2011, 9:57\u202FAM",
+      "Body": "My understanding is that anything that \"ends combat\", jumps the combat to \"part E\" of the Complete (Combat) Rules Reference.\nNot just Strike: Combat Ends, but cards like Mariel - Lady Thunder, superior Alpha Glint, Elysium: The Arboretum, etc.\nR\u00F6tschreck ends combat -> jumps combat to \"part E\".\nIt is in that part you can play Psyche!, thus interrupting the rest of R\u00F6tschreck's effects that would only enter after combat.",
+      "Id": "17106"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Dec 5, 2011, 11:03\u202FAM",
+      "Body": "> Brum wrote:\n> My understanding is that anything that \"ends combat\", jumps the combat to \"part E\" of the Complete (Combat) Rules Reference.\n> Not just Strike: Combat Ends, but cards like Mariel - Lady Thunder, superior Alpha Glint, Elysium: The Arboretum, etc.\n>\nNo, Pascal in fact already confirmed that nothing changes\nin the respect of psyche vs rot (or similar)  here\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "17109"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 5, 2011, 11:13\u202FAM",
+      "Body": "> Brum wrote:\n> My understanding is that anything that \"ends combat\", jumps the combat to \"part E\" of the Complete (Combat) Rules Reference.\n>\nCorrect.\n[LSJ 20001020] wrote:\n>\n> No. S:CE causes combat to end. Which necessarily causes the round\n> to end. Rotschreck operates the same way.\n>",
+      "Id": "17111"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Dec 5, 2011, 12:24\u202FPM",
+      "Body": "So Psyche! still cancels R\u00F6tschreck?\n\nIt seems 'yes', but there are still conflicting opinions floating around. I just want to make sure, is all.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "17121"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 5, 2011, 12:27\u202FPM",
+      "Body": "> Kraus wrote:\n> So Psyche! still cancels R\u00F6tschreck?\n>\nPsyche! still interrupts Rotschreck, and causes some of its effect to be lost.\n\nwww.vekn.net/index.php/forum/10-news-and-announcements/16769-rules-team-rulings-02-dec-11?limit=10&start=30#16905\n>\n> Pascal wrote:\n> Psyche! being played in the \"end of round\" window, and Rotschreck ending the combat, thus the round, Psyche! (and other cards such as Taste of Vitae or Telepathic Tracking) is playable (and would create a new combat instead of sending the vampire R\u00F6tschreck is on to torpor).\n>\n> Kraus wrote:\n> It seems 'yes', but there are still conflicting opinions floating around. I just want to make sure, is all.\n>\nIt seems unhelpful to believe conflicting opinions, rather than the direct words of Pascal.",
+      "Id": "17124"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 5, 2011, 12:29\u202FPM",
+      "Body": "> Kraus wrote:\n> So Psyche! still cancels R\u00F6tschreck?\n>\n\"Interrupts\" is better. Rotschreck is still put on the vampire (which means he won't untap as normal during the next untap phase) and ends combat. This is where Psyche! queues a new combat once the first one is over, and stuff that would happen afterwards (Rotschreck sending the vampire to torpor, Catatonic Fear's damage, ...).\nAnd, yes, Psyche! interrupts Rotschreck as it used to. But you'll be playing it in combat rather than out of combat (matters for cards such as Terror Frenzy, Marthe Dizier, ..)\n\nEDIT: And of course, jamesatzephyr is correct.",
+      "Id": "17126"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Dec 12, 2011, 7:26\u202FAM",
+      "Body": "Related question about the way Psyche works now:\n\nThe rules reference for Illusions of the Kindred says:\n\n> There is no room to play Psyche! (superior) between the time Illusions of the Kindred ends combat and when the new combat begins. So, when you play Illusions of the Kindred, Psyche! cannot be played. LSJ 19971003\n>\nIs this still true? You're now playing Psyche during the combat, not between the two combats, so the \"there is no window\" argument would seem not to apply.\n\n> Illusions of the Kindred - Combat - 2 blood\n> Only usable before range is determined.\n> chi: Combat ends. Move the bottom card of your crypt to your ready region. He or she does not contest any other minions or titles in play. The vampire has an amount of blood equal to half of his or her capacity (round down). Combat begins between the vampire and the opposing minion. Remove the crypt card from the game at the end of combat.\n> CHI: As above, but the vampire has an amount of blood equal to his or her capacity.\n>",
+      "Id": "18110"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 7:43\u202FAM",
+      "Body": "There is indeed now a window to play Psyche! (as much as there is a window to play Taste of Vitae)\nNotice that, since the Illusions are removed from the game after the combat in which Psyche! gets played, they're no longer there for the new combat.",
+      "Id": "18114"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 12, 2011, 8:42\u202FAM",
+      "Body": "Doesn't the ruling above talk about playing Psyche! after the Illusions of the Kindred ends combat rather than after the combat with the illusion?",
+      "Id": "18124"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 8:55\u202FAM",
+      "Body": "> henrik wrote:\n> Doesn't the ruling above talk about playing Psyche! after the Illusions of the Kindred ends combat rather than after the combat with the illusion?\n>\nOh, sorry.\nFor such things (queuing combats) we have a ruling in the  All Rulings page:\n>\n> An effect which would cause (a new) combat cannot be used if there is already a pending combat queued.  [RTR 20020501]\n>",
+      "Id": "18126"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 12, 2011, 10:18\u202FAM",
+      "Body": "> henrik wrote:\n> Doesn't the ruling above talk about playing Psyche! after the Illusions of the Kindred ends combat rather than after the combat with the illusion?\n>\nNo, that ruling is talking about the words \"Combat ends.\" on Illusions of the Kindred - the first words of the [chi] level. Essentially, people wanted to know \"Can I interrupt Illusions of the Kindred with Psyche!?\"\n\nThe ruling was that it couldn't fit in the gap, but that's quite elderly and pre-dates the ruling on Rotschreck et al.\n\nFor Psyche!, however, the answer is now no. Illusions of the Kindred queues a combat, as does Psyche! (including old Psyche!). You can only queue one combat at once.\n\nYou can play Illusions of the Kindred, have someone play Telepathic Tracking (which doesn't queue a combat), and lose the rest of the effect of IotK, however.  [LSJ 20090908]\n\n> LSJ wrote:\n> TT interrupts IotK's effect, and, since TT extends combat, the rest of IotK's\n> effect is lost.\n>",
+      "Id": "18133"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 12, 2011, 10:36\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > henrik wrote:\n> > Doesn't the ruling above talk about playing Psyche! after the Illusions of the Kindred ends combat rather than after the combat with the illusion?\n> >\n> No, that ruling is talking about the words \"Combat ends.\" on Illusions of the Kindred - the first words of the [chi] level. Essentially, people wanted to know \"Can I interrupt Illusions of the Kindred with Psyche!?\"\n>\nYeah, that's what I meant.\n\nWhen I think about it, it does seem a bit weird that Psyche! can interrupt some things (Rotschrek's tapping and torpor sending) but not others (IotK's queued up combat) even though the wording seems identical (Combat ends. Something else happens.)\n\nI know the rulings state that you can't queue more than one combats, but I'm not sure why combats are considered to be queued up when other effects (like Rotschreck's tapping and torpor sending) aren't. Having combats work in one way and other effects work in another way feels a bit counterintuitive to me, even if I'm not really having any problems with it since I know the rulings. I'm thinking it would be more consistent to have Psyche! interrupt (or just delay, but that would possibly get weird with combats) any or no effects (including combats).",
+      "Id": "18136"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 12, 2011, 12:17\u202FPM",
+      "Body": "> henrik wrote:\n> When I think about it, it does seem a bit weird that Psyche! can interrupt some things (Rotschrek's tapping and torpor sending) but not others (IotK's queued up combat) even though the wording seems identical (Combat ends. Something else happens.)\n>\nThe point is that the \"something else\" is different, and there's a prohibition on the \"something else\".\n\n> henrik wrote:\n> I know the rulings state that you can't queue more than one combats, but I'm not sure why combats are considered to be queued up when other effects (like Rotschreck's tapping and torpor sending) aren't.\n>\nI'm not sure why you think they're not queued up, or why it's relevant.\n\nThe point is that there's an explicit ruling on queuing multiple combats at once. There isn't a ruling prevent you from queuing up other things.\n\n> henrik wrote:\n> I'm thinking it would be more consistent to have Psyche! interrupt (or just delay, but that would possibly get weird with combats) any or no effects (including combats).\n>\nIt's the \"getting weird with combats\" part that the ruling on queuing combats was intended to prevent.",
+      "Id": "18146"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 12, 2011, 12:48\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > henrik wrote:\n> > I know the rulings state that you can't queue more than one combats, but I'm not sure why combats are considered to be queued up when other effects (like Rotschreck's tapping and torpor sending) aren't.\n> >\n> I'm not sure why you think they're not queued up, or why it's relevant.\n>\n> The point is that there's an explicit ruling on queuing multiple combats at once. There isn't a ruling prevent you from queuing up other things.\n>\nYeah, as I said I know that the rulings exist and I understand how Psyche! works due to the rulings. I'm just unsure about why the rulings were made that way (or why they stayed that way). Why is the \"something other than combat\" different? And the answer I'm looking for isn't \"because the rulings say so\", I'm in the clear with that. I'm more interested in the reasoning behind the rulings.\nI think it would be easier to just have Psyche! interrupt IotK (and other combat queueing effects) entirely after the combat ends. This is the way it works with Rotschreck.\n\nFor some reason, a new combat is considered to be queued up and uninterruptable by cards like Psyche! while other things (sending to torpor, tapping, dealing damage) are considered interruptable effects which are just ignored after Psyche! (and similar) are played. And yes, the reason is probably that queued up combats can get messy and confusing, but why not have it the other way around?\n\n> jamesatzephyr wrote:\n>\n> > henrik wrote:\n> > I'm thinking it would be more consistent to have Psyche! interrupt (or just delay, but that would possibly get weird with combats) any or no effects (including combats).\n> >\n> It's the \"getting weird with combats\" part that the ruling on queuing combats was intended to prevent.\n>\nSure. But why not have the queued up combat taken away with no effect (like the \"vampire is tapped and sent to torpor\" part on Rotschreck)? Wouldn't that be a more consistent way to handle cards like Psyche!?\n\nI think the wordings on the cards texts are identical, the only difference is the actual effects happening after combat ends. I don't any reason why Psyche! shouldn't be able to interrupt IotK and disregard the text after \"Combat ends.\", just like it with Rotschreck.\nThis is what I meant in my last post when I wrote that only combats are considered \"queued up\". Why would playing Pscyhe! after IotK imply that the IotK combat should happen after the Psyche! combat, when the tapping and torporing of Rotschreck doesn't?\n\n> Rotschrek wrote:\n> Combat ends. This vampire is tapped and sent to torpor.\n>\n> Illusions wrote:\n> Combat ends. Move the bottom card of your crypt to your ready region. He or she does not contest any other minions or titles in play. The vampire has an amount of blood equal to half of his or her capacity (round down). Combat begins between the vampire and the opposing minion.\n>\nI'm not trying to be a pain here, I just want to understand the reasons behind the rules.",
+      "Id": "18150"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 1:15\u202FPM",
+      "Body": "If we were doing it the way you suggest, we would have\n- Psyche! can squeeze a combat between the current combat and a combat another Psyche! queued (and you could play any amount of Psyche!'s in the first combat).\n- Blissful Agony vs Blissful Agony would be a mess\n- IotK vs IotK would be a mess.\n\nThe thing about combat is that it isn't an \"instantaneous\" effect (such as \"send to torpor\", \"tap\" or \"burn 1 blood\").\n\nLSJ tried not to have any stack at all. He managed - through rulings, sometimes - to avoid stacks. If you queue effects that will happen \"later\", you're creating such a stack. The problem with stacks is that you delay something's resolution.",
+      "Id": "18153"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 19, 2011, 10:29\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > Non-existant user wrote:\n> > Assuming they are, what happens if the acting minion plays a Psyche, then the reacting plays Telepathic Tracking?\n> >\n> A new round of combat will happen (TT's \"combat does not end\"). Psyche!'s \"start a new combat after this round\" effect is lost (as much as Rotschreck's \"send that vampire to torpor after combat has ended\" is lost)\n>\nI think that this is incorrect, the errata needs to be changed, or you're overturning a ruling accidentally. Rotschreck and new Psyche! aren't parallels in this way.\n\nFrom floppyzedolfin.free.fr/vtes/cardlist/cardlist-20111202\n>\n> Floppy wrote:\n> [CEL] {Only usable at the end of a round when both combatants are still ready and combat is about to end. After this round, begin another combat with the opposing minion.}\n>\nRules Team Rulings 01-MAY-2002\n>\n> RTR wrote:\n> Effects that end combat and then do something else after combat (all in the\n> single resolution of the effect) will fizzle if combat doesn't end or if a\n> new combat is started.\n>\nThis is what kills Rotschreck - its resolution and effect are simultaneous, and it gets interrupted.\n\nNew Psyche! isn't end-combat-and-do-something-in-a-single-effect. It's \"set up an effect to be resolved later\". (Which just happens to be imminently.)\n\n> RTR wrote:\n> If an effect resolves and sets up an effect to be resolved later (e.g.,\n> Undead Persistence's torpor effect or Siren's Lure's combat), then the\n> effect will not be canceled by \"interruptions\" (extending combat/starting\n> combat/etc.).\n>\nMy reading of new Psyche!'s card text is that it's an Undead Persistence effect, not a Rotschreck one.\n\n(The words \"This effect is lost if combat is extended\" would cover it.\n\nAs would, potentially, \"Play when combat is about to end; restart combat\" - although that would prevent Obedience. Actually, I think that would open a whole new can of worms.)",
+      "Id": "18823"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 19, 2011, 1:28\u202FPM",
+      "Body": "Well, there are two things here.\nFirst, the meaning of \"after\" in VTES, which is \"immediately after\"  [LSJ 20010712] (except when it's been ruled otherwise)\n\nSecond, I used \"after this round\" rather than \"after this combat\" to avoid that one. Obviously it wasn't enough  Do you suggest something like:\n\"After this round, unless a new round in this combat occurs, start a new combat with .. \" ?",
+      "Id": "18827"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 19, 2011, 2:08\u202FPM",
+      "Body": "> Pascal wrote:\n> Second, I used \"after this round\" rather than \"after this combat\" to avoid that one.\n>\nYes, I was thinking about that after I posted. That makes it feel like - with that wording - Psyche! is played, Telepathic Tracking is played (extending combat), the round finally ends, and then Psyche! kicks in during combat.\n\n> Pascal wrote:\n> Obviously it wasn't enough  Do you suggest something like:\n> \"After this round, unless a new round in this combat occurs, start a new combat with .. \" ?\n>\nHow about:\n\n\"If combat ends [immediately] after this round, start a new combat...\n\nWith \"immediately\" being optional, depending on your tastes.",
+      "Id": "18828"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Dec 19, 2011, 2:55\u202FPM",
+      "Body": "I was also wondering how the new Psyche interacts with Telepathic Tracking.\n\nBefore the ruling, the opportunity to play TT happened before combat was over, so it was played before Psyche!\n\nWith the new wording, they appear to be in the same timing window. But if the acting player has impulse, he may try to play a Psyche! when the other player wants to continue combat with Telepathic Tracking.\n\nSimilarly, the current wording seems to indicate that the acting player may pre-empt the opposing player from playing \"end of round\" or \"end of combat\" cards by playing Psyche! first (I get to play my Taste of Vitae, but I play Psyche! before you can play your Taste of Vitae or Disarm).\n\nI'm glad to see that you guys are already working on this!\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "18829"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 19, 2011, 3:41\u202FPM",
+      "Body": "If someone plays sup' Telepathic Tracking, it voids any previously played Psyche!\nAnd if someone plays sup' TT, sup' Psyche! can't be played.\nAnd if sup' Psyche! is played, another sup' Psyche! can't be played (because there is a queued combat).\n\n@jamesatzephyr: Would that allow two Pscyhes! in a round?",
+      "Id": "18835"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 19, 2011, 5:10\u202FPM",
+      "Body": "> Pascal wrote:\n> And if sup' Psyche! is played, another sup' Psyche! can't be played (because there is a queued combat).\n>\n> @jamesatzephyr: Would that allow two Pscyhes! in a round?\n>\nHmm. Possibly it would make the queueing conditional, but I'd be tempted to say that my wording follows the queueing rules.",
+      "Id": "18842"
+    }
+  ]
+}

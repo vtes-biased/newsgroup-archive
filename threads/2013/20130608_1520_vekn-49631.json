@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-49631",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/49631-skin-of-steel",
+  "Title": "skin of steel",
+  "Messages": [
+    {
+      "Author": "ChaosMadness7",
+      "Date": "Jun 8, 2013, 3:20\u202FPM",
+      "Body": "Hello to all !\nAm new to the game and just wondering if \"skin of steel\" fortitude card may prevent aggravated damage ? Some cards specificaly prevent aggravated damage some cards just say prevent damage...am flustered...My fellow players say skin of steel DOES. If so, what is the pertinence of \"skin of night\" ? Seems to may a long route to change the damage from aggravated to normal and then play another damage prevention for the normal damage if skin of steel does in fact prevent \"all damage\". Thanx for the help",
+      "Id": "49631"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jun 8, 2013, 3:48\u202FPM",
+      "Body": "It does. Card that cannot prevent aggravated damage say it explicitely, like Soak:\n\n> Prevent 2 non-aggravated damage.\n>\nSkin of night is an extremely specialized card. But don't forget that aggravated damage not done by strike cannot be prevented by Skin of steel : for example, Dawn Operation + Carrion Crow, or Domain of Evernight + Outside the hourglass. They are better card to deal with those still, like Armor of Vitality.\n\nAggravated unpreventable damage from Hexe (an EXTREMELY difficult to play baali combat card) is twarthed by Skin of the night. Some other card combination can pull off unpreventable aggravated damage, but all in all they are far too rare to be worth some skin of night against them.",
+      "Id": "49632"
+    },
+    {
+      "Author": "TorranceCircle",
+      "Date": "Jun 8, 2013, 3:49\u202FPM",
+      "Body": "Skin of Steel\nCombat\nFortitude\nCost 1 blood\nPrevent all damage from the opponent's strike.\nAs above, and prevent all damage from the opponent's strikes for the remainder of this round\n\nSkin of Night\nCombat\nFortitude\nThis vampire treats aggravated damage as normal damage for the remainder of this round.\nAs above, and prevent 1 damage\n\nSkin of steel does prevent agg damage. Skin of night is a card that can be used when you expect to take agg damage in combat. For example, Dawn Operation makes all damage in combat aggravated. In most situations skin of steel is more efficient. But in some decks, skin of night comes in handy. Weather control is a Thaumaturgy card that deals unpreventable damage to minions in combat. Combined with Dawn Operation, the damage becomes unpreventable aggravated damage. Skin of night lets you avoid going to torpor while your opponent will have a much harder time dealing with the aggravated damage.\n\nDawn Operation\nAction Modifier\nFortitude\nIf this action is blocked, all damage inflicted to vampires in the resulting combat is aggravated. Any vampire attempting to block may now choose not to block.\nAs above, but vampires attempting to block cannot back out.\n\nWeather Control\nCombat\nThaumaturgy\nOnly usable before range is determined on the first round.\nBoth combatants and each of their retainers take 1 unpreventable damage before range is determined each round. A vampire may play only one Weather Control each combat.\nAs above, but the amount of damage inflicted increases by 1 in each subsequent round.",
+      "Id": "49633"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 8, 2013, 4:16\u202FPM",
+      "Body": "> TorranceCircle wrote:\n> Skin of Steel\n> Combat\n> Fortitude\n> Cost 1 blood\n> Prevent all damage from the opponent's strike.\n> As above, and prevent all damage from the opponent's strikes for the remainder of this round\n>\n> Skin of Night\n> Combat\n> Fortitude\n> This vampire treats aggravated damage as normal damage for the remainder of this round.\n> As above, and prevent 1 damage\n>\n> Skin of steel does prevent agg damage. Skin of night is a card that can be used when you expect to take agg damage in combat. For example, Dawn Operation makes all damage in combat aggravated. In most situations skin of steel is more efficient. But in some decks, skin of night comes in handy. Weather control is a Thaumaturgy card that deals unpreventable damage to minions in combat. Combined with Dawn Operation, the damage becomes unpreventable aggravated damage. Skin of night lets you avoid going to torpor while your opponent will have a much harder time dealing with the aggravated damage.\n>\n> Dawn Operation\n> Action Modifier\n> Fortitude\n> If this action is blocked, all damage inflicted to vampires in the resulting combat is aggravated. Any vampire attempting to block may now choose not to block.\n> As above, but vampires attempting to block cannot back out.\n>\n> Weather Control\n> Combat\n> Thaumaturgy\n> Only usable before range is determined on the first round.\n> Both combatants and each of their retainers take 1 unpreventable damage before range is determined each round. A vampire may play only one Weather Control each combat.\n> As above, but the amount of damage inflicted increases by 1 in each subsequent round.\n>\nI had a deck using these and repair the undead flesh. Lucinde, the 8 cap prince ventrue in g3, iliana, vincent day....\n\nMade some finals.",
+      "Id": "49635"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 9, 2013, 12:46\u202FPM",
+      "Body": "> ChaosMadness7 wrote:\n> Hello to all !\n> Am new to the game and just wondering if \"skin of steel\" fortitude card may prevent aggravated damage ?\n>\nYes. Any time the game says \"damage\" it means \"aggravated damage or non-aggravated damage\". And you get to choose. So if you take a strike for 1 damage and 2 aggravated damage, Skin of Steel will prevent all three.\n\nSimilarly, if you played Skin of Rock (superior) - \"Prevent 2 damage\" - you could prevent any 2 of the damage, your choice.\n\n> ChaosMadness7 wrote:\n> If so, what is the pertinence of \"skin of night\" ?\n>\nSkin of Night is pretty corner-case. There are some interesting tricks you can do with it but, as you've rightly spotted, it's a bit more awkward than most Fortitude cards.",
+      "Id": "49658"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 17, 2013, 10:11\u202FAM",
+      "Body": "Correct answers from jamesatzephyr. Unless explicitly written, \"damage\" covers both normal and aggravated damage.\nA \"prevent 2 damage\" effect can prevent 1 normal damage (*), 1 aggravated damage (*), 1 normal and 1 aggravated damage, 2 normal damage, or 2 aggravated damage.\n\n(*): only if there is no other damage to prevent. Preventing damage isn't an option when playing a prevention card.",
+      "Id": "49913"
+    }
+  ]
+}

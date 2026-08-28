@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-35328",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/35328-uncontrolled-impulse",
+  "Title": "Uncontrolled Impulse",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 24, 2012, 8:26\u202FPM",
+      "Body": "Uncontrolled Impulse\nType: Action Modifier\nRequires: Ishtarri\nCost: 1 blood\n+2 stealth. Not usable if any non-mandatory actions have been performed this turn.\n\nShould the second sentence be read as if it was:\n\"Not usable if any non-mandatory actions have been successfully performed this turn\"\n\nOR\n\n\"Not usable if any non-mandatory actions have been declared this turn.\"\n\nSince the card uses 'non standard' wording, I felt unsure about its usage when it came up in a social game recently.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "35328"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 24, 2012, 8:40\u202FPM",
+      "Body": "\"Performed\" is used everywhere in the rulebook, but I haven't seen it defined. It seems to mean \"resolved\" since it is the same word used for NRA.",
+      "Id": "35330"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 25, 2012, 9:47\u202FAM",
+      "Body": "Yeah, the word perform is total shit and always has been. It's incredibly insufficient to define what it's trying to define. All \"perform(s)(ed)(ing)\" should be changed to \"attempt(s)(ed)(ing)\" unless otherwise already clarified using \"successfully\".\n\nfr.ex. This card is incredibly confusing, if one is trying to posit the definition of perform...\n\nChameleon's Colors\n[SPI] Only usable at long range. Strike: combat ends. If this vampire was blocked while performing an action other than bleeding, the action continues as if unblocked.\n\n...because the modifier \"was blocked\" seems to change the definition of perform to mean \"attempting\", whereas in Jugg's example of Uncontrolled Impulse, there is no clarifying modifier, hence his question.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "35337"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 25, 2012, 10:57\u202FAM",
+      "Body": "The relevant cards seem to be:\nChange of Target\nFlow within the Mountain\nMalkavian Derangement: Paranoia\nRavnos Carnival\nRed Herring\nSoul Decoration\nVeil the Legions\n\nBut even then the usage of the word Perform is VERY inconsistent.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "35341"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 25, 2012, 11:04\u202FAM",
+      "Body": "There's actually 29 cards that need to be changed.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "35342"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 25, 2012, 11:21\u202FAM",
+      "Body": "I was just trying to pick the cards likely to have relevant rulings.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "35343"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 27, 2012, 5:12\u202FAM",
+      "Body": "Sorry to be \"thread bumping\" but if nothing else, could I get a \"The Rules Team/Leader are looking at this\" comment from Pascal if not a ruling??\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "35406"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 27, 2012, 2:01\u202FPM",
+      "Body": "I was out of Internet reach this week-end.\n\nPast tense / passive voice \"performed\" means \"[which] has reached resolution\" - and the resolution can be successful, or unsucessful.\n\nActive present tense / gerundive \"perform(ing)\" means \"attempting\"\n\nHere are several scenarii: (suppose there has been no actions previously in that turn)\n- Undele plays Abactor, which is DI'd. He then bleeds. In that action, he can play Uncontrollable Impulse.\n- Undele bleeds, gets blocked, untaps with Freak Drive, and calls Consanguineous Boon. In that action, he can't play Uncontrollable Impulse.\n- Undele plays Consanguineous Boon, which is DI'd. He then calls Kine Resources Contested. In that action, he can play UI.\n- Undele hunts, untaps with Freak Drive, and bleeds. In that action, he can play Uncontrollable Impulse.",
+      "Id": "35415"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Aug 27, 2012, 2:08\u202FPM",
+      "Body": "> Pascal wrote:\n> - Undele hunts, untaps with Freak Drive, and bleeds. In that action, he can play Uncontrollable Impulse.\n>\nUndele with no blood hunts, untaps with Forced March, ...\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "35417"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 27, 2012, 3:08\u202FPM",
+      "Body": "Or hunts with the Razor, or Abactor, and then, Freak Drives. but, yes, Undele with no blood hunts and untaps.",
+      "Id": "35418"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 27, 2012, 7:19\u202FPM",
+      "Body": "So the second sentence should read:\n\"Not usable if any non-mandatory actions have been resolved this turn.\"\n\nPerformed, (still past tense), could mean attempted, resolved or successful. It might be worth in future not using performed and replacing with 'attempted', 'resolved' or 'successful'.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "35424"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-23283",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/23283-telepathic-counter-and-telepathic-misdirection",
+  "Title": "Telepathic Counter and Telepathic Misdirection",
+  "Messages": [
+    {
+      "Author": "Robba Yaga",
+      "Date": "Feb 16, 2012, 2:30\u202FAM",
+      "Body": "Methuselah A controls Vampire X.\nVampire X bleeds Methuselah B for 2.\nMethuselah B controls Vampire Y.\nVampire Y plays Telepathic Counter to reduce the bleed by 2.\nVampire X then boosts the bleed by 2.\nVampire Y then play Telepathic Misdirection to bounce the bleed to Methuselah C.\nMethuselah C plays no reaction cards and does not block.\nDoes Methuselah C take a bleed or 2 or 4?\n\nThanks,\nRobba Yaga\n\nTelepathic Counter\nType: Reaction\nRequires: Auspex\n[aus] Reduce a bleed against you by 1.\n[AUS] Reduce a bleed against you by 2.\n\nTelepathic Misdirection\nType: Reaction\nRequires: Auspex\nCost: 1 blood\n[aus] +1 intercept.\n[AUS] Only usable when a minion is bleeding you, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the acting minion's controller. The acting minion is now bleeding that Methuselah.",
+      "Id": "23283"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Feb 16, 2012, 3:10\u202FAM",
+      "Body": "2.\n\nThe restriction on Telepathic Counter determines when it can be played.\nOnce it has been played, the bleed amount is permanently reduced.",
+      "Id": "23284"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 16, 2012, 7:22\u202FAM",
+      "Body": "> Adonai wrote:\n> 2.\n>\n> The restriction on Telepathic Counter determines when it can be played.\n> Once it has been played, the bleed amount is permanently reduced.\n>\nCorrect.",
+      "Id": "23295"
+    }
+  ]
+}

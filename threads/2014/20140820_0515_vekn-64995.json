@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-64995",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/64995-action-modifiers-played-by-other-minions-while-acting-out-of-turn",
+  "Title": "Action modifiers played by other minions while acting out of turn",
+  "Messages": [
+    {
+      "Author": "HG.fi",
+      "Date": "Aug 20, 2014, 5:15\u202FAM",
+      "Body": "I have two minions:\nMinion A is untapped and has an untapped Enkil Cog.\nMinion B is untapped and has Obfuscate.\n\nIt's the end of someone else's minion phase. I tap Enkil Cog to take an action with A. Someone tries to block.\n\nQuestion: Can minion B play Veil the Legions to grant stealth to minion A when it's not my turn?\n\n(I thought there was no rule that would prevent it, but I was outvoted by other players who said it wasn't legal.)\n\nCard texts:\n\nName: Veil the Legions\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting minion you control. The acting minion gets +1 stealth. Only one Veil the Legions may be played each action.\n[OBF] As above, and this vampire may burn X additional blood to give +1 stealth to the next X actions your minions perform this turn. Only one Veil the Legions can be played at superior each turn.\n\nName: Enkil Cog\nCardtype: Action Modifier\nRequires a vampire of capacity 10 or more. Unique.\nOnly usable when this vampire successfully bleeds your prey (play after resolution). Put this card on this vampire. During any Methuselah's minion phase, this vampire may tap this card to attempt an action. This vampire has +1 bleed.",
+      "Id": "64995"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 20, 2014, 6:38\u202FAM",
+      "Body": "You can play Veil the Legions on your Madness Network/Enkil Cog/Anjou action.  [LSJ 19970630] .",
+      "Id": "64996"
+    }
+  ]
+}

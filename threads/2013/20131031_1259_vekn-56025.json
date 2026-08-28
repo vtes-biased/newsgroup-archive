@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-56025",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/56025-untap-effects",
+  "Title": "Untap effects",
+  "Messages": [
+    {
+      "Author": "david_magri",
+      "Date": "Oct 31, 2013, 12:59\u202FPM",
+      "Body": "This may look a simple doubt, but it already raised some hot discussions in my play group.\n\nLet's suppose vamp A have:\n\n1 blood,\n\n1 Vampiric Disease counter and\n(Type: Master\nMaster.\nPut a disease counter on any vampire. Each time a vampire with a disease counter is in combat at close range with another vampire, the second vampire gets a counter as well. An afflicted vampire cannot gain blood by hunting. When an afflicted vampire untaps, he or she burns a blood or, if unable, burns the disease counter. A vampire can have only one disease counter.)\n\n1 vessel.\n(Vessel\nType: Master\nCost: 1 pool\nMaster: trifle.\nPut this card on a vampire, and you may burn a Blood Doll in play (if any). During this vampire's controller's untap phase, he or she may move 1 blood from this vampire to his or her pool or from his or her pool to this vampire.)\n\nSuppose this vampire is tapped and it\u00B4s his untap phase.\n\nAccording to the rulebook:\n\nYou start your turn with your untap phase. At the beginning of your untap phase, you must untap all of your cards (except your infernal cards, see section 11). Any cards or effects that require or allow you to do something during your untap phase take effect after you have untapped your cards. You may choose the order in which these effects take place.\n\nIn this case, can the controler of the minion choose to get the blood from the vampire to his pool before the effecto of the disease couter or he must burn the disease counter before? The doubt is if the effect triggered by untap his minion take place before other effects or if he can choose it.\n\nThank you again in advance.",
+      "Id": "56025"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 31, 2013, 1:25\u202FPM",
+      "Body": "> david_magri wrote:\n> You start your turn with your untap phase. At the beginning of your untap phase, you must untap all of your cards (except your infernal cards, see section 11). Any cards or effects that require or allow you to do something during your untap phase take effect after you have untapped your cards. You may choose the order in which these effects take place.\n>\n> In this case, can the controler of the minion choose to get the blood from the vampire to his pool before the effecto of the disease couter or he must burn the disease counter before? The doubt is if the effect triggered by untap his minion take place before other effects or if he can choose it.\n>\n> Thank you again in advance.\n>\nEffects such as Vessel, Owain, Hunting Grounds, etc.. are used after your minions untap.\n\nVampiric Disease happens when the vampire untaps, which is before Vessel can be used.\n\nAn empty, tapped vampire with a Vessel and a Vampiric Disease will burn the disease counter.",
+      "Id": "56028"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Oct 31, 2013, 2:57\u202FPM",
+      "Body": "So, in the example david provided, since the vamp has 1 blood, the blood burns @ the untapping of the vampire(assumimg its not infernal) and the counter stays, because said vampire with 1 blood cannot vessel it to pool to burn the counter instead. Right?",
+      "Id": "56029"
+    },
+    {
+      "Author": "Ice_S5",
+      "Date": "Nov 3, 2013, 8:04\u202FAM",
+      "Body": "@David: Situation you described could be possile if VD's text said:\n\"During this vampire's controller's untap phase, he or she burns a blood or,\"\ninstead of \"When an afflicted vampire untaps, he or she burns a blood or,\".\nIn such situation you could choose order of triggers.",
+      "Id": "56155"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 3, 2013, 12:36\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n> So, in the example david provided, since the vamp has 1 blood, the blood burns @ the untapping of the vampire(assumimg its not infernal) and the counter stays, because said vampire with 1 blood cannot vessel it to pool to burn the counter instead. Right?\n>\nYes.\n\nVampire with Vessel: 1 blood.\n\nEnter untap phase.\n1) VwV untaps. At this point, Vampiric Disease triggers. VwV loses a blood. (And all your other vampires untap.)\n2) Rest of untap phase effects, such as the pool for Antediluvian Awakening, or using Vessel to pull a blood into your pool, or burning pool for First Tradition. In whatever order you do them.\n\nSince VD triggers when you untap, it has to happen in step 1. Vessel has to happen at some point in step 2.",
+      "Id": "56168"
+    }
+  ]
+}

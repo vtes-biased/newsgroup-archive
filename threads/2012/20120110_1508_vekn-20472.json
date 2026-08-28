@@ -1,0 +1,128 @@
+{
+  "ThreadId": "vekn-20472",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/20472-window-after-a-blood-hunt",
+  "Title": "Window After a Blood hunt?",
+  "Messages": [
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 10, 2012, 3:08\u202FPM",
+      "Body": "The topic came up in JOL chat today. The original question regarded Mr. Noir playing Amaranth and burning in the resulting blood hunt (i.e. does his controller gain 2 pool). Someone linked some old LSJ rulings, which indicate that his ability would not trigger:\nnewsgroups.derkeiler.com/Archive/Rec/rec.games.trading-cards.jyhad/2006-08/msg00530.html\n\nAs for the rules, here are all rules and rulings on the VEKN site I've found:\n\nWarning: Spoiler!\n\nWhen a vampire commits diablerie, a referendum is automatically conducted to determine if a blood hunt will be called on the diablerist. If the referendum passes, a blood hunt is called, and the diablerist is burned. This referendum is not an action, so it cannot be blocked, and action modifiers and reaction cards cannot be played. Otherwise, this referendum is handled just like any other.\n\nAnd from the Complete Rules Reference:\nNOTE: Action modifiers and reaction cards cannot be played during a blood hunt referendum. [6.5.6]\n....\nA referendum is held to call a blood hunt to burn the diablerist. This is handled indepently of the action and any combat. [6.5.6]\n\nBy the rules, as written, things are vague. The problem with the clarifying rulings is that, as far as I can tell, they would prevent the play of at least one card EVER. Lay Low, under those rulings, literally has no window in which to be played. Reform Bocy, which would get played in the same window is explicitly mentioned as unplayable: groups.google.com/group/rec.games.trading-cards.jyhad/msg/4780ab690dbc5fd8\n\nSo, I guess I'm asking for a fresh ruling that takes reconciles existing cards with the rules. I hope this is the place to do so.\n\nCheers,\nSonam\n\nEdit: Curses, Spoiler doesn't hide the text on this board",
+      "Id": "20472"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 10, 2012, 4:38\u202FPM",
+      "Body": "> Malcolm wrote:\n> By the rules, as written, things are vague. The problem with the clarifying rulings is that, as far as I can tell, they would prevent the play of at least one card EVER. Lay Low, under those rulings, literally has no window in which to be played.\n>\nLay Low has specific text requiring it to be played in that window, so it contradicts the rules on minion cards and blood hunts, by the Golden Rule of Cards.\n\nReform Body's text doesn't contradict the normal rules, so it can't be played.",
+      "Id": "20483"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 10, 2012, 5:10\u202FPM",
+      "Body": "I don't really think the Golden Rule applies here. Take Rewind Time as an example ( a card which would otherwise break the rules, except for the golden rule):\n\" Usable by a ready, untapped vampire even though there is no action. Cancel a non-out-of-turn master card as it is played during any other Methuselah's master phase (no cost is paid). The Methuselah who played that card gains another master phase action.\"\n\nRewind time explicitly grants an exception, thus invoking the Golden Rule. Lay low, on the other hand, has no such wording:\n\"Only usable when a blood hunt referendum passes and would burn this anarch. Move this anarch to the uncontrolled region (breaking any temporary control effects). Any cards and counters on this vampire remain with him or her (but are out of play as long as the vampire remains uncontrolled).\"\n\nEmphasis is mine, but Rewind time is very clear in it's invocation of the Golden Rule. Lay Low isn't and has no wording beyond that of any other card laying out it's play restrictions. It is not explicitly calling on the Golden Rule.\n\nAs for Reform Body... it's text DOES contradict the normal rules:\n\"[vic] Only usable by a vampire being burned; he or she is sent into torpor instead. Usable by a vampire in torpor. =(Usable by a tapped vampire.)=\"\nThe obvious intention of the two listed exceptions was to allow a vampire to come back from diablerie.\n\nSo yah... if the golden rule applies, it's not clear cut.",
+      "Id": "20486"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 10, 2012, 6:51\u202FPM",
+      "Body": "> Malcolm wrote:\n> I don't really think the Golden Rule applies here.\n>\nIncorrect.\n\nLegacy of Power, for example, is played during combat. It does not have explicit text saying \"Playable during combat, even though reaction cards can't normally be played in combat\" - but its timing text prevents any other interpretation under the current rules. So it's playable.\n\nWinged Second is also played in combat, following the same text. It also lacks \"Playable in combat, even though this is a reaction card\" text.\n\nSo it is with Lay Low.\n\n> Malcolm wrote:\n> Take Rewind Time as an example\n>\nSure, I'll I use it as an example of \"Some cards are drafted more explicitly than others.\"\n\n> Malcolm wrote:\n> As for Reform Body... it's text DOES contradict the normal rules:\n> \"[vic] Only usable by a vampire being burned; he or she is sent into torpor instead. Usable by a vampire in torpor. =(Usable by a tapped vampire.)=\"\n>\nSure, it contradicts some other rules. But it doesn't explicitly contradict the rules about reactions and blood hunts, nor is it only playable at such a time (thus necessitating it).\n\nIf your argument is: Reform Body can be played in response to a Blood Hunt because it lacks any text overriding the normal restrictions, but Lay Low can't be played in response to a Blood Hunt even though it has explicit text saying to play it then... do you also wear hats on your feet and shoes on your head?",
+      "Id": "20499"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Jan 10, 2012, 7:39\u202FPM",
+      "Body": "Wake With Evening's Freshness says \"only playable by a tapped vampire\" but it doesn't say \"usable by a tapped vampire\" so therefore wake is now unplayable wallpaper.",
+      "Id": "20514"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 10, 2012, 10:04\u202FPM",
+      "Body": "> Malcolm wrote:\n> So, I guess I'm asking for a fresh ruling that takes reconciles existing cards with the rules.\n>\nYou can't play any action modififer / reaction [fixed this after jamesatzephyr's message] during the blood hunt referendum ( Rulebook 6.5.6 , \"The blood hunt\"), unless ( Rulebook 1.4 , \"Golden Rule of Cardtext\") cardtext reads you can play the card during a blood hunt referendum.",
+      "Id": "20546"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 10, 2012, 10:33\u202FPM",
+      "Body": "> Pascal wrote:\n> You can't play anything during the blood hunt referendum ( Rulebook 6.5.6 , \"The blood hunt\"), unless ( Rulebook 1.4 , \"Golden Rule of Cardtext\") cardtext reads you can play the card during a blood hunt referendum.\n>\nErm...\n\nYou can use political action cards (up to one per Methuselah) to gain a vote during the Blood Hunt referendum. This isn't playing the card per se - it's burned without regard to its card text. e.g. [LSJ 20030814]\n\nYou can also use master cards that affect referenda (but not ones restricted to political actions), such as Vox Senis.\n>\n> LSJ wrote:\n> Vox Senis can be used in the blood hunt referendum.\n>\n> It is not dependent on a political action, since:\n>\n> * it is not an action modifier\n> * it is not a reaction\n> * it doesn't restrict itself to \"political action\" via card text\n>\n> It cannot be played during a referendum on your own turn, however, since\n> that use is an out-of-turn master.\n>\nAction modifiers and reactions can't be played, due to explicit rules.\n\nCombat cards can't be played because the combat is held in suspension / the Blood Hunt is conducted in isolation from it.  [LSJ 20030618]\n>\n> LSJ wrote:\n> The Blood Hunt referendum is conducted in isolation (effectively the same\n> as \"combat is suspended during the Blood Hunt referendum).\n>\nAction cards (including plain actions, equipment, retainers, allies, powers etc.) can't be played because it wouldn't make any sense. If such cards are already in play, however, they can grant benefits - such as Agate Talisman granting a vote. (Because \"otherwise, this referendum is handled just like any other\".)",
+      "Id": "20548"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 10, 2012, 11:30\u202FPM",
+      "Body": "Oh, thanks.\nI meant \"no action modifiers or reactions\" (as written in the rulebook).",
+      "Id": "20556"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 12, 2012, 8:55\u202FPM",
+      "Body": "My argument was actually NOT that Reform body should be playable while Lay Low shouldn't. It was that either should be playable.\n\nBasically:\nDiablerie occurs.\nBlood hunt is called\nAt this point, no action modifiers or reaction cards can be played.\nVoting in blood hunt happens, and votes are tallied.\nTime to resolve the blood hunt if it passed!\nAt this point, I feel the window should re-open\nThis allows The play of all those never used cards that are used when a vampire is being burned: reform body, abandoning the flesh, Ashes to Ashes, Consume the dead.\n\nIf there's some problem with opening that window that I don't see, then at least the golden rule should apply to those cards, as they say \"only playable when a vampire is being burned\" or \"only playable when this vampire is being burned\". They still won't see much play, but it's just silly that they can't be played in one of the two easiest situations to get burned (gettingdiablerized being the other way).\n\nIt's not a major thing either way, since none of these are cards that are much more than corner case regardless. Still, I hate to see cards that are more \"wallpaper\" than they have to be.",
+      "Id": "20753"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 12, 2012, 9:06\u202FPM",
+      "Body": "> Malcolm wrote:\n> M\n> Blood hunt is called\n> At this point, no action modifiers or reaction cards can be played.\n> Voting in blood hunt happens, and votes are tallied.\n> Time to resolve the blood hunt if it passed!\n> At this point, I feel the window should re-open\n>\nWhy? Burning the vampire is the essential part of the Blood Hunt. How is it not part of the Blood Hunt window?",
+      "Id": "20759"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 13, 2012, 12:36\u202FAM",
+      "Body": "Ah! You're quite right. I had been confusing referendum and Polling.\n\nMy point about the Golden Rule still stands though: Vampires being burned can't play cards usually. Vampires being burned by a bloodhunt are a subset of vampires being burned. Therefore any card which says \"playable by a vampire being burned\", should include vampires being burned to blood hunts under the Golden Rule aegis.",
+      "Id": "20782"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jan 13, 2012, 12:41\u202FAM",
+      "Body": "> Malcolm wrote:\n> My argument was actually NOT that Reform body should be playable while Lay Low shouldn't. It was that either should be playable.\n>\n> Basically:\n> Diablerie occurs.\n> Blood hunt is called\n> At this point, no action modifiers or reaction cards can be played.\n> Voting in blood hunt happens, and votes are tallied.\n> Time to resolve the blood hunt if it passed!\n> At this point, I feel the window should re-open\n> This allows The play of all those never used cards that are used when a vampire is being burned: reform body, abandoning the flesh, Ashes to Ashes, Consume the dead.\n>\n> If there's some problem with opening that window that I don't see, then at least the golden rule should apply to those cards, as they say \"only playable when a vampire is being burned\" or \"only playable when this vampire is being burned\". They still won't see much play, but it's just silly that they can't be played in one of the two easiest situations to get burned (gettingdiablerized being the other way).\n>\n> It's not a major thing either way, since none of these are cards that are much more than corner case regardless. Still, I hate to see cards that are more \"wallpaper\" than they have to be.\n>\nI agree. I think the diablerie rules should be changed to say that action modifiers and reactions cannot be played during the Blood Hunt referendum, only. Otherwise the other cards don't make a lot of sense: your vampire with  gets diablerized, but because he played Reform Body, the diablerie doesn't occur. However, if it didn't occur, how did the vampire get burned again?",
+      "Id": "20783"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 13, 2012, 12:48\u202FAM",
+      "Body": "> Aaron wrote:\n>\n> > Malcolm wrote:\n> > My argument was actually NOT that Reform body should be playable while Lay Low shouldn't. It was that either should be playable.\n> >\n> > Basically:\n> > Diablerie occurs.\n> > Blood hunt is called\n> > At this point, no action modifiers or reaction cards can be played.\n> > Voting in blood hunt happens, and votes are tallied.\n> > Time to resolve the blood hunt if it passed!\n> > At this point, I feel the window should re-open\n> > This allows The play of all those never used cards that are used when a vampire is being burned: reform body, abandoning the flesh, Ashes to Ashes, Consume the dead.\n> >\n> > If there's some problem with opening that window that I don't see, then at least the golden rule should apply to those cards, as they say \"only playable when a vampire is being burned\" or \"only playable when this vampire is being burned\". They still won't see much play, but it's just silly that they can't be played in one of the two easiest situations to get burned (gettingdiablerized being the other way).\n> >\n> > It's not a major thing either way, since none of these are cards that are much more than corner case regardless. Still, I hate to see cards that are more \"wallpaper\" than they have to be.\n> >\n> I agree. I think the diablerie rules should be changed to say that action modifiers and reactions cannot be played during the Blood Hunt referendum, only. Otherwise the other cards don't make a lot of sense: your vampire with  gets diablerized, but because he played Reform Body, the diablerie doesn't occur. However, if it didn't occur, how did the vampire get burned again?\n>\nI think I got it backwards when I was talking about Reform body. The diablerized vampire can play it, no problem. The diablerizing vampire should also be able to play it, if he is burned subsequently. See my above post regarding the Golden Rule and Subsets.",
+      "Id": "20784"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jan 13, 2012, 1:25\u202FAM",
+      "Body": "> Malcolm wrote:\n>\n> I think I got it backwards when I was talking about Reform body. The diablerized vampire can play it, no problem. The diablerizing vampire should also be able to play it, if he is burned subsequently. See my above post regarding the Golden Rule and Subsets.\n>\nRegardless, I still think it should be possible to play cards during diablerie but not during the Blood Hunt referendum, so I agree with what you (perhaps confusedly) said.\n\nA vampire that is going to be diablerized can play Reform Body, but if he does, the diablerie doesn't happen.\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/4ba13f058e6a0c21\n\nThere are these cards that are played as a vampire \"is being burned\"; I think the rules set would be better if they were played during the step of diablerie in which the vampire was actually burned. As you said, it might \"un-wallpaper\" some cards.\n\nFrom a source material perspective, the reason the vampire \"would be burned\" is a successful diablerie. The diablerie ACTUALLY OCCURS. It's just that afterwards the vampire manages to pull himself together again somehow.",
+      "Id": "20787"
+    },
+    {
+      "Author": "jAvel",
+      "Date": "Jan 13, 2012, 4:34\u202FAM",
+      "Body": "Yeah, the victim uses vicistitude-cheat and reforms body, but why should i (diablerist) not take his money, guns and helicopter? Btw, do i gain blood from him? And do he lose his blood while reforming?\n(yeah, i know that old joke story about antedeluvians, where the only thing that could stop Tzimice from reforming was diablerie)",
+      "Id": "20792"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 13, 2012, 6:40\u202FAM",
+      "Body": "> jAvel wrote:\n> Yeah, the victim uses vicistitude-cheat and reforms body, but why should i (diablerist) not take his money, guns and helicopter? Btw, do i gain blood from him? And do he lose his blood while reforming?\n>\nIn addition to the fact that trying to put too much sense in game mechanism is bad for the game, the vampire can be rebuild again quickly enough, so you can suppose that your vampire flee before taking the belonging of the vampires, that are likely to not be too obviously takeable.\n\n> jAvel wrote:\n> (yeah, i know that old joke story about antedeluvians, where the only thing that could stop Tzimice from reforming was diablerie)\n>\nThen again, the chances of someone diablerizing Tzimisce and not losing its body to him seem pretty slim. Especially when you believe you are diablerizing Olga Triminov",
+      "Id": "20795"
+    },
+    {
+      "Author": "erewego",
+      "Date": "Jan 27, 2012, 5:16\u202FPM",
+      "Body": "Because if there is no re-opening of the window, how does one play Lay Low?\n\nNo action modifiers or reaction cards can be played during a blood hunt.\n\nThat is the main question. How does one play Lay Low as a action modifier?\n\nAdam",
+      "Id": "21841"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Jan 27, 2012, 7:01\u202FPM",
+      "Body": "because it is \"only playable when a blood hunt referendum passes\" and the rule book says \"Whenever the cards contradict the rules, the cards take precedence.\"\n\nand for the same reason that Wake is playable by tapped vampires",
+      "Id": "21856"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Jan 29, 2012, 10:05\u202FPM",
+      "Body": "> Haze wrote:\n> because it is \"only playable when a blood hunt referendum passes\" and the rule book says \"Whenever the cards contradict the rules, the cards take precedence.\"\n>\n> and for the same reason that Wake is playable by tapped vampires\n>\nYes, it is clear why Lay Low invokes the golden rule. What is unclear is why Reform Body doe NOT. Vampires being burned can't normally play cards, and reform body invokes the golden rule for that. So why does that golden rule invocation not extend to a subset of that set of \"vampires being burned\"?\n\nThat's where the ruling loses me.\nTo use a concrete (but silly) example:\nIt's like someone sells you a loofa. It says \" for use in the shower\" on the package. You go and visit your friend Mike for the weekend, and bring your bath supplies along. As you step into the shower, the loofa self-destructs. When you call the manufacturer, they explain \"We didn't say it was usable in Mike's shower...\"",
+      "Id": "22037"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 30, 2012, 11:11\u202FAM",
+      "Body": "> Malcolm wrote:\n> Yes, it is clear why Lay Low invokes the golden rule. What is unclear is why Reform Body doe NOT.\n>\nThe only way that Lay Low can be played is - by its card text - to contradict the rules on action modifiers and Blood Hunts. All other rules are unaffected - a vampire who was banned from playing action modifiers would still be banned from playing it, a vampire who cannot meet the cost (1 blood) cannot play it, a vampire must still meet the requirements (Anarch), and so on. Its card text necessitates 'overturning' one rule, so that rule is overturned by the Golden Rule, so far as is necessary to enable its play.\n\nReform Body can be played in response to being burned (about to be burned). In so far as it is necessary to overturn any rules to facilitate this, you overturn that specific rule. You then play it in line with all other rules. A vampire being burned can't play reaction cards, so we overturn that. But cards cannot be played in a blood hunt, as normal, and nothing on the card text necessitates that - the card is playable in a range of other circumstances (so the card doesn't impliedly require it), and the card doesn't say anything that points to overturning that rule.\n\nSimilarly, Army of Apparitions (gain 3 votes) says it is \"Usable a tapped vampire.\" Why can it not be used by a tapped vampire during a blood hunt? Because it overturns one rule (tappedness), but says nothing about the other (reactions during blood hunts). So it is with Reform Body.",
+      "Id": "22058"
+    }
+  ]
+}

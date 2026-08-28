@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-55311",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/55311-canceled-combat-cards",
+  "Title": "canceled combat cards",
+  "Messages": [
+    {
+      "Author": "thrasher80",
+      "Date": "Oct 14, 2013, 11:09\u202FPM",
+      "Body": "the situation i'm referring to is immortal grapple and disengage. the acting minion playing immortal grapple and the blocking minion playing disengage to cancel the grapple. does immortal grapple still count as being played? and thus the acting minion cant respond by playing another copy of immortal grapple?",
+      "Id": "55311"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Oct 15, 2013, 3:27\u202FAM",
+      "Body": "Yes the acting minion cant play another IG, same situation with DI and charismatic aura",
+      "Id": "55316"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 15, 2013, 4:37\u202FAM",
+      "Body": "1) A card that has not been played cannot be canceled.\n2) New cards can check the status of old cards (i.e. Has card X been played?)\n3) Cancelling a card negates the text of that card.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "55318"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Oct 15, 2013, 7:25\u202FPM",
+      "Body": "First, to pick a nit: Immortal Grapple and Disengage are both Combat cards, and not Action Modifier cards. Minions are explicitly prohibited from playing more than one of a particular Action Modifier or Reaction.\n\nUnless I am missing it, I do not see anything in the combat section of the rulebook that says a minion cannot play more than one of the same combat card during combat.",
+      "Id": "55352"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Oct 15, 2013, 7:31\u202FPM",
+      "Body": "Normally, you can play another copy of a combat card after one is canceled. However:\n>\n> Immortal wrote:\n> Strikes that are not hand strikes may not be used this round (by either combatant). A vampire may play only one Immortal Grapple each round.\n>\nThe first IG is played, and canceled. The IG in your hand explicitly forbids you from playing it.",
+      "Id": "55353"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 22, 2013, 9:03\u202FAM",
+      "Body": "> self wrote:\n> First, to pick a nit: Immortal Grapple and Disengage are both Combat cards, and not Action Modifier cards. Minions are explicitly prohibited from playing more than one of a particular Action Modifier or Reaction.\n>\n> Unless I am missing it, I do not see anything in the combat section of the rulebook that says a minion cannot play more than one of the same combat card during combat.\n>\nWell, there's this:\n>\n> 1.4. The Golden Rule for Cards\n>\n> Whenever the cards contradict the rules, the cards take precedence.\n>\nAs explained by Dorrinal and Juggernaut1981, the second Immortal Grapple would \"see\" that there was another IG played earlier this round (or, to be more precise, the game state at this point is that it would be the second Immortal Grapple that is played this round). This barrs it from being played.",
+      "Id": "55572"
+    }
+  ]
+}

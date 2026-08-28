@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-19904",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/19904-byzar-and-carlton-van-wyk",
+  "Title": "Byzar and Carlton van Wyk",
+  "Messages": [
+    {
+      "Author": "KevinM",
+      "Date": "Jan 4, 2012, 8:34\u202FPM",
+      "Body": "Byzar\n\"If Byzar would be burned, put a burn counter on him and move him to torpor instead.\"\n\nCarlton Van Wyk (Hunter)\n\"During your discard phase, you may burn Carlton to burn a vampire who has committed diablerie since your last turn.\"\n\n6.5.4. Diablerize a Vampire in Torpor\n\"To have a vampire diablerize a vampire in torpor, announce the action and tap the acting vampire. If the action is successful, the victim is diablerized (see below).\n\n...\n\n6.5.5. Diablerie\n\nDiablerie is the act of sending another vampire to Final Death by drinking his blood. Only ready vampires can commit diablerie. Vampires marked as Blood Cursed cannot commit diablerie. The vampire committing diablerie is called the diablerist. Diablerie is resolved as follows:\n\n- All blood on the victim is moved to the diablerist. Blood in excess of his capacity drains off as normal.\n- The diablerist may take any equipment on the victim.\n- The victim is burned (sent to his owner's ash heap). Any cards and counters on him are also burned.\n- If the victim was older (had a higher capacity) than the diablerist, the diablerist can be given a Discipline. His controller may go through her library, ash heap and hand to get a master Discipline card to put on the diablerist and then reshuffle her library or draw back up to her hand size as necessary. This may increase the diablerist's capacity by 1, but does not automatically give the diablerist a blood to fill that new capacity.\n- If the victim was Red List, the diablerist may receive trophies (see section 11).\n\nThe steps of diablerie are treated as a single unit. No effects can be used to interrupt the diablerie; effects may be played either before or after, as appropriate. After diablerie, a blood hunt may be called on the diablerist.\"\n\nI guess the questions here revolve around Byzar's card text using the word \"instead\".\n\nQ1: If a vampire diablerizes Byzar, is the diablerist able to obtain Byzar's blood and/or equipment and/or a discipline card, even though Byzar's card text says that Byzar is moved to torpor \"instead\"?\n\nQ2: Does Carlton van Wyk see the diablerist as \"a vampire who has committed diablerie\" even though one of the inseperable effects of diablerie was negated by Byzar's \"instead\" card text?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "19904"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jan 4, 2012, 9:43\u202FPM",
+      "Body": "Don't all the steps of diablerie happen in order?\n\nWouldn't the only difference when Byzar is diablerized be that at the third line item he goes to the uncontrolled region instead of the ash heap?\n\nHow does that interrupt the diablerie steps? Is his effect even \"used\", since it isn't at-will?",
+      "Id": "19910"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 4, 2012, 9:47\u202FPM",
+      "Body": "> KevinM wrote:\n> Q1: If a vampire diablerizes Byzar, is the diablerist able to obtain Byzar's blood and/or equipment and/or a discipline card, even though Byzar's card text says that Byzar is moved to torpor \"instead\"?\n>\nNo.\n[LSJ 20100228]  wrote:\n>\n> > What happenes to Byzars blood and equipments when he is diablerized?\n> The diablerie is unsuccessful.\n> No equipment is moved. No blood is moved.\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/4ba13f058e6a0c21\n>\n> > And also is there a blood hunt called on the diablerist or not?\n> No blood hunt is called. No referendum is conducted to see if a blood\n> hunt will be called.\n>\n> KevinM wrote:\n> Q2: Does Carlton van Wyk see the diablerist as \"a vampire who has committed diablerie\" even though one of the inseperable effects of diablerie was negated by Byzar's \"instead\" card text?\n>\nNo. The diablerie wasn't successful (previous link).",
+      "Id": "19911"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jan 4, 2012, 10:10\u202FPM",
+      "Body": "I would submit that since it is impossible for a player using a rulebook to know that not being burned makes a diablerie action unsuccessful -- or is the action successful, just not the diablerie? -- we need to add a sentence to the end of 6.5.5 stating something about negation of any of these steps results in an unsuccessful diablerie action.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "19912"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 4, 2012, 10:19\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > KevinM wrote:\n> > Q1: If a vampire diablerizes Byzar, is the diablerist able to obtain Byzar's blood and/or equipment and/or a discipline card, even though Byzar's card text says that Byzar is moved to torpor \"instead\"?\n> >\n> No.\n>\nSo the timing in the complete rule reference cited by Kevin is wrong. According to it, Byzar's special only kicks in after the blood and equipment have been moved, and I don't see any reason to backtrack at that point. Shouldn't it be more something like:\n1)burn the diablerized vampire and set his blood/equipment aside.\n2)move all the blood set aside to the diablerist, up to his capacity.\n3)the diablerist may take any of the equipment set aside.\n\nAlso, according to the existing timing, the blood is moved before fetching a discipline, so the blood of the victim cannot be used to fill the extra capacity point. That is extremely counter-intuitive. With the timing I propose, fecthing the discipline could be moved between the steps 1 and 2.",
+      "Id": "19913"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Jan 4, 2012, 10:19\u202FPM",
+      "Body": "Perhaps:\n\"Any card or effect that prevents the vampire being diablerized from burning renders the diablerie unsuccessful. None of the other effects of diablerie (moving blood and equipment, etc.) occur.\"",
+      "Id": "19914"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 4, 2012, 10:24\u202FPM",
+      "Body": "About the successful/unsuccessful diablerie: isn't it a lot like bleed? Even if Byzar does not burn , it is still a successful action, so we need a separate definition of a successful diablerie.",
+      "Id": "19916"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Jan 4, 2012, 10:30\u202FPM",
+      "Body": "While we're on this topic, one thing that I was always puzzled by was the interaction between Reform Body and Crimson Fury.\n\nIf you are successfully diablerized and play Crimson Fury at superior, you only need to play one Reform Body to not get burned. I always thought it was more intuitive than the successful diablerie would burn you once and the Crimson Fury effect would burn you a second time, so you would need two Reform Bodies. Maybe someone can explain this one to me?\n\nSpeaking of, which let's bring Byzar into the equation:\n\n1. Byzar is in torpor and a diablerie action is targeting him. He plays superior Crimson Fury. How many burn counters does he get?\n\n2. Byzar is diablerizing a vampire in torpor who plays superior Crimson Fury. Is there still a blood hunt referendum after he receives a burn counter from Crimson Fury?\n\nI always thought the non-chaining of Dual Form burning was always non-intuitive as well! Maybe someone could eloquently explain that one too!\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "19919"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 4, 2012, 10:34\u202FPM",
+      "Body": "Crimson Fury/Reform Body: I guess that burning the acting vampire ends the action so you don't resolve the diablerie (even if it is considered successful)?",
+      "Id": "19921"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 5, 2012, 1:17\u202FAM",
+      "Body": "> echiang wrote:\n> While we're on this topic, one thing that I was always puzzled by was the interaction between Reform Body and Crimson Fury.\n>\nCrimson Fury\nType: Reaction/Combat\nRequires: Animalism\nCost: 1 blood\nOnly usable when this vampire is being diablerized. Usable by a tapped vampire. Usable by a vampire in torpor.\n[ani] The diablerie is canceled and the diablerist burns 1 blood.\n[ANI] Burn both the diablerist and this vampire. (The diablerie is still considered successful.)\n\nReform Body\nType: Combat/Reaction\nRequires: Vicissitude\n[vic] Only usable by a vampire being burned; he or she is sent into torpor instead. Usable by a vampire in torpor. Usable by a tapped vampire.\n[VIC] As above, and this vampire gains 2 blood from the blood bank.\n\n> If you are successfully diablerized and play Crimson Fury at superior, you only need to play one Reform Body to not get burned. I always thought it was more intuitive than the successful diablerie would burn you once and the Crimson Fury effect would burn you a second time, so you would need two Reform Bodies. Maybe someone can explain this one to me?\n>\nFrom Crimson Fury there is the \"is being diablerised\" which using the rulings about \"is being bled\" would mean that \"is being diablerised\" should be read as \"{would be} diablerised\". So the diablerie has not yet occurred but will occur. So playing Crimson Fury @  would burn both vampires before the diablerie would be completed. Therefore, while the diablerie is considered successful, it didn't actually occur (both vampires exploded before the action resolved) and therefore you only need to play one Reform Body (to counteract the burning caused by Crimson Fury).\n>\n> Speaking of, which let's bring Byzar into the equation:\n>\n> 1. Byzar is in torpor and a diablerie action is targeting him. He plays superior Crimson Fury. How many burn counters does he get?\n>\nI would say 2 counters. 1 from Crimson. 1 from the Successful Diablerie.\n>\n> 2. Byzar is diablerizing a vampire in torpor who plays superior Crimson Fury. Is there still a blood hunt referendum after he receives a burn counter from Crimson Fury?\n>\nYes, the diablerie is still successful, it's just that Byzar has a counter and is in torpor.\n>\n> I always thought the non-chaining of Dual Form burning was always non-intuitive as well! Maybe someone could eloquently explain that one too!\n>\nPlease enlighten the rest of us to that Dual Form chain?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "19927"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 5, 2012, 1:45\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n>\n> > echiang wrote:\n> > Speaking of, which let's bring Byzar into the equation:\n> >\n> > 1. Byzar is in torpor and a diablerie action is targeting him. He plays superior Crimson Fury. How many burn counters does he get?\n> >\n> I would say 2 counters. 1 from Crimson. 1 from the Successful Diablerie.\n>\nHow do you obtain two different answers for Byzar and for Reform Body?\n>\n> > echiang wrote:\n> > 2. Byzar is diablerizing a vampire in torpor who plays superior Crimson Fury. Is there still a blood hunt referendum after he receives a burn counter from Crimson Fury?\n> >\n> Yes, the diablerie is still successful, it's just that Byzar has a counter and is in torpor.\n>\nEven if he does not burn, he still goes to torpor, which ends the action. Is there time for a blood hunt?",
+      "Id": "19932"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 5, 2012, 2:13\u202FAM",
+      "Body": "@Boris:\nByzar + Crimson\nSorry, misread oen of the bits on Reform Body.\n\nBloodhunt in Torpor\nThe action hasn't finished resolution (it is a successful diablerie) so the remainder of the diablerie resolves, which includes a bloodhunt on Byzar. It isn't relevant that he is in torpor, he can still be the subject of a Bloodhunt Referendum.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "19934"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Jan 5, 2012, 2:41\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Bloodhunt in Torpor\n> The action hasn't finished resolution (it is a successful diablerie) so the remainder of the diablerie resolves, which includes a bloodhunt on Byzar. It isn't relevant that he is in torpor, he can still be the subject of a Bloodhunt Referendum.\n>\nBut if Byzar is diablerizing a vampire who is using Crimson Fury + Reform Body, why is Byzar getting burned twice but the other vampire only getting burned once?\n\nIf Crimson Fury is interrupting the diablerie action (so that the reacting vampire only gets burnt once), how is there still time to resolve a blood hunt on the acting Byzar?\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "19940"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 5, 2012, 5:29\u202FAM",
+      "Body": "1. Vampire A is being diablerised by Byzar.\n2. Vampire A plays Crimson Fury. By Crimson Fury, Byzar and Vamp A are burned; so Byzar gains a counter and moving to torpor. Crimson Fury says the Diablerie was successful.\n3. Successful Diablerie means Byzar gets the blood and movable equipment of Vamp A.\n4. After moving the blood and equipment (and or Byzar gaining a discipline card) a Bloodhunt Referendum is called on Byzar. At this point Byzar could be burned again by the Bloodhunt (gaining a 2nd counter and staying in torpor).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "19944"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 6, 2012, 11:05\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> 2. Vampire A plays Crimson Fury. By Crimson Fury, Byzar and Vamp A are burned; so Byzar gains a counter and moving to torpor. Crimson Fury says the Diablerie was successful.\n>\nCrimson Fury has text saying that the diablerie is still successful. However, Byzar's special then thwarts the success of the diablerie.\n\n[LSJ 20091217]\n>\n> LSJ wrote:\n> >Sandra White [...] performs an\n> > unblocked action to diablerize [Byzar].\n>\n> > Does Sandra diablerize him? My guess: yes. The diablerie action\n> > triggers Byzar being burned and considers itself successful.\n> > analogies: War Ghoul and Impundulu; bleed action and Major Boon\n>\n> No. Analogy: Ashes to Ashes.\n>\n> The action is successful (reaches resolution unblocked).\n> The diablerie is not.\n>\nSince he doesn't burn, the otherwise-successful diablerie becomes unsuccessful.",
+      "Id": "20092"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Jan 11, 2012, 7:29\u202FPM",
+      "Body": "edit: deleted for misreading.",
+      "Id": "20624"
+    }
+  ]
+}

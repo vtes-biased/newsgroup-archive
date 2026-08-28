@@ -1,0 +1,146 @@
+{
+  "ThreadId": "vekn-66453",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/66453-double-velvet-tongue-cannot-cast-votes-or-ballots",
+  "Title": "Double Velvet Tongue - \"cannot cast votes or ballots\"",
+  "Messages": [
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 12, 2014, 3:42\u202FPM",
+      "Body": "Velvet Tongue says:\n\nVelvet Tongue\nAction Modifier / Reaction\n[ser] Only usable during a referendum. Put 1 corruption counter on a minion casting votes or ballots in this referendum.\n[SER] Only usable during a referendum before votes and ballots are cast. Minions with corruption counters cannot cast votes or ballots during this referendum.\n\nWhat happens if it's played at both levels during a single referendum? (One as action modifier, one as reaction, or two different reacting minions.)\n\nFor all the similar \"cannot cast...\" restrictions I can find, it's either something fairly permanent that happens outside the referendum (e.g. Reality), or it's something that's based on a property of the vampire that's fairly hard to change during a referendum, like sect (e.g. Seraph, Private Audience, Cardinal Benediction). Potentially, going to torpor during a referendum would trigger the same issue, though I'm struggling to think of a way of doing that.\n\nTwo Velvet Tongues are played for a single referendum, at both levels. The inferior hits Arika, who votes in favour, with her four votes. She therefore acquires a corruption counter. Do her already-cast votes stand? Does the \"cannot cast\" restriction cancel her already-cast votes? If they stand, can she add more to them (such as if her controller draws a Bewitching Oration)?\n\nMy ruling-by-fiat hunch is for \"cancels the votes out\". But \"cannot cast\" as a wording seems a bar to the act of casting the vote, which she has already done. So I'm somewhat uncertain both ways.",
+      "Id": "66453"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 12, 2014, 4:01\u202FPM",
+      "Body": "Well, sup' Velvet Tongue is only usable *before* votes and ballots are cast.\nTherefore, the problem of \"what happens when it's played and a vampire has already cast votes/ballots\" shouldn't happen.\n\nEDIT:\nOh, I see your point.\nPlayed at sup' before votes/ballots are cast, and then played at basic after votes were cast.\nWell, votes were cast. Arika would still be casting her votes in favour/against. Regardless of what happens to her votes, she can play Bewitching Oration (or Dread Gaze). And if that happened, she'd still be casting her votes (8, now) in favour/against.",
+      "Id": "66454"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 12, 2014, 4:14\u202FPM",
+      "Body": "> Pascal wrote:\n> Well, sup' Velvet Tongue is only usable *before* votes and ballots are cast.\n> Therefore, the problem of \"what happens when it's played and a vampire has already cast votes/ballots\" shouldn't happen.\n>\nStep 1: Superior is played, prior to the casting of votes.\nStep 2: Arika has no counters on her.\nStep 3: Arika casts votes.\nStep 4: Inferior is played, hitting Arika and giving her a corruption counter.\n\nIs casting votes a one-off thing that happens the moment Arika's controller says \"Arika votes in favour\", or a continuous act?\n\nActually, on that note, is the inferior:\n\na) For the duration of this referendum, any minion casting votes or ballots in this referendum gets a corruption counter, or\nb) In response to a minion voting, play this card and give them a corruption counter, or\nc) A minion has cast votes at some point earlier in this referendum (but not necessarily right now). Play this card and give them a corruption counter. (So like b, but with a longer window of opportunity to play it.)\n\n?",
+      "Id": "66457"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 12, 2014, 4:30\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Pascal wrote:\n> > Well, sup' Velvet Tongue is only usable *before* votes and ballots are cast.\n> > Therefore, the problem of \"what happens when it's played and a vampire has already cast votes/ballots\" shouldn't happen.\n> >\n> Step 1: Superior is played, prior to the casting of votes.\n> Step 2: Arika has no counters on her.\n> Step 3: Arika casts votes.\n> Step 4: Inferior is played, hitting Arika and giving her a corruption counter.\n>\n> Is casting votes a one-off thing that happens the moment Arika's controller says \"Arika votes in favour\", or a continuous act?\n>\nTo \"cast votes and ballots\" is a \"one-off\". Once it's done, votes and ballots have been cast.\n\n> jamesatzephyr wrote:\n> Actually, on that note, is the inferior:\n>\n> a) For the duration of this referendum, any minion casting votes or ballots in this referendum gets a corruption counter, or\n> b) In response to a minion voting, play this card and give them a corruption counter, or\n> c) A minion has cast votes at some point earlier in this referendum (but not necessarily right now). Play this card and give them a corruption counter. (So like b, but with a longer window of opportunity to play it.)\n>\n> ?\n>\nc)",
+      "Id": "66458"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 12, 2014, 6:44\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Potentially, going to torpor during a referendum would trigger the same issue, though I'm struggling to think of a way of doing that.\n>\nFound one.\n\nEpikasta Rigatos is in play. (Pertinent information: Toreador Prince.)\nThe Treatment is played on Epikasta. (Relevant card text: \"Each time this prince untaps, he or she takes 1 point of damage (damage not preventable).\")\nEpikasta has no blood on him.\nDuring a referendum, Epikasta (tapped) votes in favour.\nAlexandra (card text: \"Once during your turn, you may tap or untap another ready Toreador.\") wants Epikasta's votes out of the picture. Alexandra untaps Epikasta during the referendum. Epikasta takes one damage, and goes to torpor.\n\nAssuming the above sequence is legal (and I can't think of a reason it isn't), what - if anything - happens to Epikasta'a votes?",
+      "Id": "66461"
+    },
+    {
+      "Author": "Shockwave",
+      "Date": "Oct 13, 2014, 10:41\u202FAM",
+      "Body": "I would have thought they've been cast, so they're cast for the duration of this referendum because Epikasta was ready when she cast them.\n\nThe fact she's in torpor now (and indeed, when the votes are tallied) is irrelevant by this point, as her votes were cast.\n\nHere we go again....\nDave Knowles (Advanced)\nSabbat Bishop of Manchester",
+      "Id": "66506"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 13, 2014, 10:53\u202FAM",
+      "Body": "I don't think so...\n\n> Rulebook wrote:\n> A minion's votes and ballots can be used only when the minion is ready.\n>\nI would think that \"used\" is different than \"cast\" and even if voes are cast, he can be cancelled and I think going to torpor will cancelled votes because they can't be \"used\"",
+      "Id": "66507"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 14, 2014, 5:03\u202FPM",
+      "Body": "Hmm.. A vampire in torpor brings no vote/ballot to his/her controller.\nThe only change between \"going to torpor forces you to abstain\" vs \"going to torpor nullifies whatever votes/ballots you have/get\" would be things like Scorn of Adonis / Bribes.\n\nI must admit I am open to suggestions regarding this one. I'd rather have \"cast votes remain cast\".",
+      "Id": "66584"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 14, 2014, 7:45\u202FPM",
+      "Body": "I'd agree with \"Once cast, stay cast excluding Golden Rule of Cards\" (i.e. Telepathic Vote Counting, etc).\n\nThis would open the door for things such as Telepathic Vote Counting to change votes that were cast by a minion now in torpor.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "66593"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 15, 2014, 4:26\u202FAM",
+      "Body": "> Pascal wrote:\n> Hmm.. A vampire in torpor brings no vote/ballot to his/her controller.\n> The only change between \"going to torpor forces you to abstain\" vs \"going to torpor nullifies whatever votes/ballots you have/get\" would be things like Scorn of Adonis / Bribes.\n>\n> I must admit I am open to suggestions regarding this one. I'd rather have \"cast votes remain cast\".\n>\nAs I understand your answer, you say that in the case described by James (with Epikasta and Alexandra), Epikasta has cast votes but now, her votes are nullify so she has 0 votes. I guess it is fine and \"easy\" to understand/remember...",
+      "Id": "66603"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 16, 2014, 3:51\u202FPM",
+      "Body": "> Pascal wrote:\n> I must admit I am open to suggestions regarding this one. I'd rather have \"cast votes remain cast\".\n>\nTo add to the matter (from the point of view of \"Hey, if we're thinking about this, let's think about it all at once\" rather than trying to rebut anyone specifically):\n\nMethuselah A calls a referendum. Let's say something innocuous like Praxis Seizure: Seattle.\nMethuselah B casts some votes against - either from vampires or from non-vampires (e.g. tapping Ventrue HQ, burning the edge,).\nMethuselah A plays Business Pressure.\nMethuselah B self-ousts by spending pool on the Business Pressure (and the self oust is legal).\nMethuselah B is ousted immediately.  [LSJ 20060211]\n\nWhat (if anything) happens to Methuselah B's votes, from minions and non-minion sources?\n\nSimilar situation:\n\nMeth A calls a vote.\nSeveral Methuselahs (A, B, C, D, E) cast a vote using Vox Senis controlled by Methuselah B. Relevant card text: \"Put this card in play. Each Methuselah gets an additional vote during each referendum.\"\nMethuselah A plays Business Pressure.\nMethuselah B - who controls the Vox Senis - self-ousts.\n\nWhat, if anything, happens to the votes already cast by Methuselahs using the Vox Senis?\n\nSame Vox Senis scenario. Methuselah D hasn't got involved in the referendum at the point Methuelah A plays Business Pressure and Methuselah B self-ousts. When was Methuselah D granted the additional vote? Is it still there, lingering on him as an optional vote to be cast, even though Vox Senis is no longer in play? Is it something that the Methuselah 'gets' only when that Methuselah casts it, and now can't be used?",
+      "Id": "66677"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 17, 2014, 5:08\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Similar situation:\n>\n> Meth A calls a vote.\n> Several Methuselahs (A, B, C, D, E) cast a vote using Vox Senis controlled by Methuselah B. Relevant card text: \"Put this card in play. Each Methuselah gets an additional vote during each referendum.\"\n> Methuselah A plays Business Pressure.\n> Methuselah B - who controls the Vox Senis - self-ousts.\n>\n> What, if anything, happens to the votes already cast by Methuselahs using the Vox Senis?\n>\n> Same Vox Senis scenario. Methuselah D hasn't got involved in the referendum at the point Methuelah A plays Business Pressure and Methuselah B self-ousts. When was Methuselah D granted the additional vote? Is it still there, lingering on him as an optional vote to be cast, even though Vox Senis is no longer in play? Is it something that the Methuselah 'gets' only when that Methuselah casts it, and now can't be used?\n>\nIn this situation, I think it is similar to modifying the number of vote a vampire have :\n\nmehusalah cast \"their votes\" which are at this point 1 due to Vox Senis and then Vox Senis is not there anymore so the number of vote a meth has is now 0.",
+      "Id": "66694"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 17, 2014, 7:48\u202FAM",
+      "Body": "> Timo wrote:\n> In this situation, I think it is similar to modifying the number of vote a vampire have :\n>\n> mehusalah cast \"their votes\" which are at this point 1 due to Vox Senis and then Vox Senis is not there anymore so the number of vote a meth has is now 0.\n>\nThat would be my hunch too(*), but that would seem to go against Pascal's understandable preference for \"cast votes stay cast\". If removing the source of the vote from play reduces votes, why wouldn't removing the source of avvote from the ready region (vampire goes to torpor) do the same?\n\n(*) By which I mostly mean \"That's probably how I would rule in a tournament situation where I didn't have the answer, and someone was unhelpful enough to play awful cards in horrifying combinations(**).\"\n\n(**) SWUETPACIHC used to be Pascal's speciality on rec.games.trading-cards.jyhad, though, so it's all his fault.",
+      "Id": "66704"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 17, 2014, 9:02\u202FAM",
+      "Body": "PB actually said \"cast votes stay cast\" BUT, he actually said that the quantity of votes can be modified wih card like Dread Gaze/Bewitching Oration.\n\nSo in the case above, a Meth would have cast his/her votes and then, the total worth of his/her votes would be reduced...",
+      "Id": "66706"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 17, 2014, 9:24\u202FAM",
+      "Body": "> Timo wrote:\n> PB actually said \"cast votes stay cast\" BUT, he actually said that the quantity of votes can be modified wih card like Dread Gaze/Bewitching Oration.\n>\n> So in the case above, a Meth would have cast his/her votes and then, the total worth of his/her votes would be reduced...\n>\nSo why would the source of votes leaving the ready region matter in one case (Vox Senis burning/leaving the game) but not the other (torporized vampire)? Why does the former reduce the number of votes you've cast, but not the latter? Would it differ if the vampire was burned instead of/as well as torporized? For example, use Julius in the torporization case with a Revelation of the Sire (Toreador) and a PS: Somewhere. Do his votes continue to be cast? If so, why do they persist when not in the game but Vox Senis doesn't?\n\nIf a Brujah antitribu leaves the game via a Business Pressure self-oust, what happens to Unexpected Coalition? (Assume, obviously, that said !Brujah voted in opposition to the !Brujah who played it.) Are the votes or ballots from the no-longer-thre-vampire still being cast, and what do they do to counting the extra votes from Unexpected Coalition? Card text: \"Each ready Brujah antitribu gets an additional vote this referendum. When tallying results, if any Brujah antitribu cast any votes or ballots in opposition to this Brujah antitribu's votes or ballots (or if this Brujah antitribu abstains), none of the additional votes from this card are counted.\" Does it matter if the !Brujah who played it is the one who leaves the game? Assuming the dead vampire isn't treated as abstaining, can you vote in opposition to a vampire who is no longer in play?",
+      "Id": "66709"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 17, 2014, 10:15\u202FAM",
+      "Body": "Actually, I don't think PB stated that the votes of a vampire in torpor counted toward the referendum. He even asked us to give him advice on the matter ^^.\n\nBy the way, I must say that your !Brujah case is a masterpiece of SWUETPACIHC !",
+      "Id": "66713"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 17, 2014, 10:24\u202FAM",
+      "Body": "> Timo wrote:\n> Actually, I don't think PB stated that the votes of a vampire in torpor counted toward the referendum. He even asked us to give him advice on the matter ^^.\n>\nAh, I read Pascal as mulling over three options - abstain, nullify, and cast remains cast (i.e. counts). But he could have just been mulling the first two.\n\n> Timo wrote:\n> By the way, I must say that your !Brujah case is a masterpiece of SWUETPACIHC !\n>\nIt's the new craze that's sweeping the nation.\n\nUnexpected Coalition isn't terrible, though it's hard to rely on - but you could justify tossing a few into a !Bru breed-boon deck or something along those lines. (The crypt options for that are a little more awkward than for some others, but it's obviously possible.)\n\nBusiness Pressure is pretty terrible, though I could see someone deciding it was an interesting way to manipulate their pool total mid-turn to get in range for a Parity Shift, rather than the alternative, sometimes-employed tactic of expensive masters. Obviously, you'd have to run the BP on a referendum before the Parity Shift. Not great, but I could see someone trying it. There are even seven whole copies of Business Pressure in the Lasombra-era TWDA.",
+      "Id": "66714"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 17, 2014, 10:54\u202FAM",
+      "Body": "My gut with the Unexpected Coalition situation hinges on the \"any votes\"...\n\nArmin Brenner is acting, plays unexpected Coalition and votes for the referendum. Amelia votes her 1 vote against. An effect* sends Amelia to torpor during the referendum. Amelia is the only !Brujah voting against.\n\n1) Amelia has cast her vote (cast votes stay cast unless tinkered with by things like TVC).\n2) Amelia is now no longer ready, so she casts 0 votes when tallying occurs.\n3) Tallying of votes begins and Amelia's 0 votes are not 'any votes' in the Tallying process, so Unexpected Coalition sees only !Brujah voting in favour and modifies the cast votes accordingly.\n\nBut as usual... IANPB.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "66716"
+    },
+    {
+      "Author": "emime",
+      "Date": "Oct 23, 2014, 6:28\u202FAM",
+      "Body": "> Pascal wrote:\n> I must admit I am open to suggestions regarding this one. I'd rather have \"cast votes remain cast\".\n>\nHi Pascal,\n\nDoes this sentence of yours cast doubts on what you said earlier about the original question, i.e. that \"cast votes/ballots remain cast\"?\n\nThe Unaligned is becoming legal soon and it would be nice to have an official clarification, on the original question, as Velvet Tongue is probably one of the easiest / most obvious cards that will find its way into decks.\n\nIn addition, I guess such decks will often star  Khay'tall (\"Vampires with corruption counters cannot cast votes or ballots against any referendums called by Khay'tall\"), so the problem of \"what happens to votes already cast when Khay'tall plays Velvet Tongue at inferior\" is bound to arise.\n\nMy personal view is that James' examples show that the \"cast votes/ballots remain cast\" option leads inevitably to ambiguities. His examples may be somewhat contrived, but I cannot see much conceptual difference between a vampire going to torpor in a referendum and a vampire acquiring a corruption counter in a context where vampires with corruption counters cannot cast votes. A single, unifying solution would be elegant to have.\n\nGiven that usually the \"cannot\" clauses take precedence over the positive \"can\" abilities, wouldn't it be easier, more elegant and above all less ambiguous to check for votes at the moment when they are actually tallied?\n\nIn this way, you would not have to ask yourself about status changes, but just look at the current situation and draw the appropriate conclusions. A vampire in torpor? He cannot cast votes (and any he had cast are lost). A vampire with a corruption counters in a referendum called by Khay'tall? He cannot cast votes (no matter when he gained such counter).\n\nIn my humble opinion, this solution would not lead to the contradictions showed above, would be easier to explain, and facilitate judges' lives as well. Just my 2 cents!\n\nEmiliano \"Sans Terre\" - Wandering Player - Prince of Brussels",
+      "Id": "66896"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 23, 2014, 6:50\u202FAM",
+      "Body": "I tend to disagree.\n\nYou can \"cast Arika votes\" and consider they remain cast (except if an effect force you to abstain).\n\nAnd then, when the result are tallied, we check the number of votes of Arika : in torpor it would be 0 but a ready IC it would be 4 and ready IC having played a sup dread gaze it would be 8\n\n=> casting your votes is an action possible if you have any vote and nothing preventing you and when the results are tallied, you check how many votes each vampire casting votes is worth",
+      "Id": "66897"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 26, 2014, 9:10\u202FAM",
+      "Body": "Hmm.. Got logged out.\n\nHere's the ruling:\n\nIf an effect causes a minion to be unable to cast votes or ballots during a referendum is played/used, that minion is forced to abstain, whether he or she had already cast votes or ballots.\n\nExamples:\n- Khay'Tall calls a referendum, Arika casts her votes against. Khay'Tall plays inf' Velvet's Tongue. Arika is now abstaining.\n\n- Alexandra calls a referendum. Cao Nguyen (reacting) plays sup' Velvet's Tongue. Arika casts her votes against. Alexandra plays Scorn of Adonis. Shahara plays inf' Velvet's Tongue on Arika. Arika is now abstaining. Before results are tallied, Arika's controller doesn't burn 1 pool to Scorn because of Arika.",
+      "Id": "66964"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 26, 2014, 9:32\u202FAM",
+      "Body": "Could you publish this as a General Ruling as not part of the usual RTR process?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "66966"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Oct 26, 2014, 9:50\u202FAM",
+      "Body": "> Pascal wrote:\n> Hi\n> Examples:\n> - Khay'Tall calls a referendum, Arika casts her votes against. Khay'Tall plays sup' Velvet's Tongue. Arika is now abstaining.\n>\nI assume this is supposed to be \"Khay'Tall plays inferior Velvet's Tongue\" ?\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "66968"
+    }
+  ]
+}

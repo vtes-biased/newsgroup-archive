@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-16331",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16331-yawp-court-vs-psyche",
+  "Title": "Yawp Court vs Psyche!",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Nov 28, 2011, 4:39\u202FPM",
+      "Body": "What will happen if a Yawp Court combat ends but Psyche! is played?\n\nYawp Court\n\nMaster\n\nMaster: unique location. Requires a ready Sabbat vampire.\nWhen a political action is successful, before the referendum, tap this card and a ready untapped Sabbat vampire you control to have that vampire enter combat with the acting vampire. If the acting vampire is still ready at the end of combat, the Sabbat vampire takes 2 damage, and the referendum is conducted as normal.\n\nPsyche!\n\n[Combat] Combat\n\n[Celerity] Celerity\n\n[cel] Press.\n[CEL] Only usable at the end of combat when both combatants are still ready. Begin another combat with the opposing minion.\n\nNC of Hungary\n\n///",
+      "Id": "16331"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 28, 2011, 4:48\u202FPM",
+      "Body": "> Malachy wrote:\n> What will happen if a Yawp Court combat ends but Psyche! is played?\n>\nThe Yawp Court damage is dealt at the end of the first combat. Then the Psyche! combat happens, if the vampire is still ready. The referendum is conducted after the Psyche! combat.\n\n[LSJ 20060903]\n\n> LSJ wrote:\n> > do Enkidu takes that 2 damage or he doesn't ?\n>\n> He took his two back when the first combat ended.\n> Then, if he's still ready, the Psyche! combat starts.\n>\n> > can he play Psyche! after first combat or he can't ?\n>\n> He can if he's ready.\n>\n> > if he can referendum is concluded as normal before second combat or it\n> > fizzle ?\n>\n> It takes place as normal after the Psyche! combat.\n>\nIf the acting minion isn't ready, the action ends (aborting the referendum).\n[LSJ 20060902]\n\n> LSJ wrote:\n> But anyway, yes, if the acting minion is not ready, the action ends\n> (so, in the case of Yawp Court, the referendum would not be conducted).\n>",
+      "Id": "16334"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 28, 2011, 6:03\u202FPM",
+      "Body": "Correct on both points, of course.",
+      "Id": "16340"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Nov 29, 2011, 7:45\u202FPM",
+      "Body": "Another question occured... Legacy of Power vs PSyche! What will happen?\n\nLegacy of Power\n\n[Reaction] Reaction\n\n[3 Blood]\n\nRequires a ready prince, justicar or Inner Circle member.\nOnly usable when another vampire you control enters combat. Tap this reacting vampire and end combat. Each of the vampires involved in that combat goes to torpor.\n\nNC of Hungary\n\n///",
+      "Id": "16483"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 29, 2011, 8:07\u202FPM",
+      "Body": "> Malachy wrote:\n> Another question occured... Legacy of Power vs PSyche! What will happen?\n>\nWhat confusion are you seeing?\n\nVampire X plays Psyche! X and Y re-enter combat. The non-acting vampire's controller (which could be X or Y) plays Legacy of Power. (Technically, this happens in combat, though LSJ meant to change the card text so it didn't happen.) Then the card text of Legacy of Power takes effect.\n\nWhat weirdness are you expecting here that you wouldn't see in (for example):\nBum's Rush, followed by Legacy of Power a successful block, followed by Legacy of Power  ?",
+      "Id": "16484"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 29, 2011, 8:24\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Malachy wrote:\n> > Another question occured... Legacy of Power vs PSyche! What will happen?\n> >\n> What confusion are you seeing?\n>\nAh, probably the other way round. D'oh.\n\nX and Y enter combat. Legacy of Power ends combat but, crucially, both vampires are still ready. Psyche! interrupts the resolution of Legacy of Power, under RTR 1 May 2002: www.thelasombra.com/rules/RTR512.txt\n>\n> RTR wrote:\n> Effects that end combat and then do something else after combat (all in the\n> single resolution of the effect) will fizzle if combat doesn't end or if a\n> new combat is started. (Changes: Rotschreck followed by Fast Reaction or\n> Psyche! will nullify the torpor effect.) Note that this doesn't apply to\n> end combat and untap effects - the untap effect is not delayed to after\n> combat (see Majesty ruling above).\n>\nThe \"go to torpor\" element of Legacy of Power is then lost.\n\nLSJ confirms.  [LSJ 20021126]\n>\n> LSJ wrote:\n> > #3. Does a Psyche! played in response to a Legacy of Power prevent both\n> > vampires from going to torpor?\n>\n> Yes. It should probably not (LoP \"should\" just send the two to torpor and let\n> that event end the combat), but as it written, yeah. Not a problem, though,\n> so I don't foresee any errata for this one any time soon.\n>\n(No errata was forthcoming.)",
+      "Id": "16487"
+    }
+  ]
+}

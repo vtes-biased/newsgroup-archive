@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-52980",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/52980-fortitude-vs-additional-stikes",
+  "Title": "Fortitude vs Additional Stikes",
+  "Messages": [
+    {
+      "Author": "CalibanX",
+      "Date": "Aug 10, 2013, 1:40\u202FPM",
+      "Body": "Minion A hits for 1 Damage. Minion B plays Hidden Strength, spending a blood to prevent 2 damage. Minion B plays an additional strike for 1 Damage. Does the Hidden Strength prevent the Damage for both strikes if payed for during the initial strike phase?\n\nOr, in general, can damage prevention affects that exceed the inflicted damage of an opponent's initial strike be used to soak damage for additional strikes in the same round?",
+      "Id": "52980"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Aug 10, 2013, 2:12\u202FPM",
+      "Body": "Damage prevention does not carry over to other damage resolution phases (e.g. another round) unless explicitly stated otherwise. As every (additional) strike (pair) has its own resolution phase, damage prevention works the same, therefore prevention does not carry over to additional strike phase by default.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "52985"
+    },
+    {
+      "Author": "CalibanX",
+      "Date": "Aug 10, 2013, 2:35\u202FPM",
+      "Body": "So, if I played Unflinching Persistence at Superior to use the optional maneuver, I couldn't use it's \"Prevent 1 Damage\" affect on any Strikes except the first one that round?\n\nThis isn't intuitive to me. If someone bleeds me for one and I reduce it by two and they increase the bleed by one, doesn't the bleed still fail since I reduced it by two? It's a similar sort of situation.",
+      "Id": "52989"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Aug 10, 2013, 2:59\u202FPM",
+      "Body": "> Unflinching Persistence\n>\n> Combat\n> Fortitude\n> [for] Prevent 1 damage.\n> [FOR] Maneuver, and prevent up to 1 damage later this round. Only usable when choosing range.\n>\nUnflinching persistance gives you ability to prevent later in the round (a delayed effect). Additional strikes damage resolution phase is still within the same round, therefore you are eligible to keep the effect for additional strikes.\n\nThis is not the same for bleeds, because bleeds (votes, stealth, intercept) can be negative. Therefore if you reduce a bleed of 1 by 2, it goes for -1 and +2 bleed is needed to inflict pool damage.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "52992"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Aug 10, 2013, 3:07\u202FPM",
+      "Body": "To be precise, damage gets negative for (only) that phase too if you over-prevent it.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "52995"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Aug 10, 2013, 3:16\u202FPM",
+      "Body": "> CalibanX wrote:\n> Minion A hits for 1 Damage. Minion B plays Hidden Strength, spending a blood to prevent 2 damage. Minion B plays an additional strike for 1 Damage. Does the Hidden Strength prevent the Damage for both strikes if payed for during the initial strike phase?\n>\nHidden Strength\nType: Combat\nRequires: Fortitude\nCost: X blood\n[for] Prevent X+1 damage.\n[FOR] As above, with an optional press.\n\nEach round of strikes has it's own strike and damage resolution phase. Unless card text says otherwise, you can only prevent damage that exists in the current damage resolution phase. Extras don't carry over to other combat phases.\n\n> This isn't intuitive to me. If someone bleeds me for one and I reduce it by two and they increase the bleed by one, doesn't the bleed still fail since I reduced it by two?\n>\nA bleed of 1 reduced by 2 equals a bleed of minus 1.\n\n> It's a similar sort of situation.\n>\nIt's different. Striking a second time is analogous to bleeding a second time in a separate action (except that the latter is usually illegal).",
+      "Id": "52997"
+    },
+    {
+      "Author": "CalibanX",
+      "Date": "Aug 10, 2013, 4:47\u202FPM",
+      "Body": "My confusion on this was because I was interpreting \"Unflinching Persistence\" as a precedent for damage prevention cards generally possessing the \"delayed\" damage prevention affect within a round rather than it being an exception to other damage prevention cards.\n\nIf strikes and damage resolution must be resolved before the next pair of additional strikes can occur, then how can you use the maneuver from Unflinching Persistence during the first pair of strikes, yet use it's Damage Prevention affect on the second pair of strikes? Wouldn't you have to use that damage prevention only on the first pair of strikes since you played that card during the first pair of strikes instead of the second?",
+      "Id": "53001"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Aug 10, 2013, 4:56\u202FPM",
+      "Body": "At superior damage prevention is optional. So, if you still fulfill the condition (same round), you can use the option.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "53002"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 10, 2013, 5:53\u202FPM",
+      "Body": "It explicitly states manuever and you may use one prevent later. So, whereas the go to for fortitude is \"prevent @# damage\" , like soak, armor of vitality, most basic levels of everyting, etc is prevent whatever at the point you play it, unflinching persistance says use it later. Just like chaundice has 2 seperate chances to prevent two, or flak jacket lets you use it whenever.\n\nIts just what the card says that happens, not what it could theoretically mean.",
+      "Id": "53003"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Aug 10, 2013, 6:28\u202FPM",
+      "Body": "> CalibanX wrote:\n> If strikes and damage resolution must be resolved before the next pair of additional strikes can occur, then how can you use the maneuver from Unflinching Persistence during the first pair of strikes, yet use it's Damage Prevention affect on the second pair of strikes?\n>\nThe determine range step is separate from choosing and resolving strikes.\n\n> Wouldn't you have to use that damage prevention only on the first pair of strikes since you played that card during the first pair of strikes instead of the second?\n>\nIf Unflinching Persistence only read \"Maneuver, and prevent up to 1 damage\", you would have to use the prevent during the maneuver step (making it completely useless). As it actually reads, you get to use the prevent any time \"later this round\" - first strike resolution, normal strike resolution, press step, post-press step, etc.",
+      "Id": "53004"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 12, 2013, 12:07\u202FPM",
+      "Body": "> kombainas wrote:\n> To be precise, damage gets negative for (only) that phase too if you over-prevent it.\n>\nHow are you proposing to over-prevent it?\n\nwww.vekn.net/index.php/general-rulings\n>\n> RTR wrote:\n> Effects that prevent \"up to X\" or that prevent \"X\" damage have the same effect -- they prevent as much damage as possible, up to the maximimum (X) specified. [RTR 20041202]\n>\n[LSJ 20001114]\n>\n> LSJ wrote:\n> Damage prevention in excess of current damage (superior skin of\n> Rock vs. Aid from Bats, for instance) is lost.\n>\n(For completeness, the general rulings also include an uncredited \"A card can prevent more damage than the remaining unprevented damage.\" But that's an earlier variation on the \"Prevent X\" vs \"Prevent up to X\" issue, I believe - yes, you can play Undead Persistence to prevent 2 damage, even if only facing 1 damage.)",
+      "Id": "53079"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Aug 13, 2013, 3:23\u202FAM",
+      "Body": "> How are you proposing to over-prevent it?\n>\nYou said it yourself, you just have more damage prevention coming from a single source than you actually need. It would be hard to understand how the damage could not get negatvie, while stealth, strength, votes, etc. can, and at the same time, find it worthwhile to pay much attention to negative damage as a concept as most post-strike damage increases are played before, not during damage resolution phase.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "53090"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 13, 2013, 3:42\u202FAM",
+      "Body": "> kombainas wrote:\n>\n> > How are you proposing to over-prevent it?\n> >\n> You said it yourself, you just have more damage prevention coming from a single source than you actually need.\n>\nNo, at that point it just then prevents \"up to\" X, from the ruling that I quoted. You have 4 prevention, but only 3 dealt. It prevents 3. The excess \"is lost\".\n\nThe issue has always been whether leftover prevention can be carried forward (it can't), which would never be an issue if the damage went negative.\n\n> kombainas wrote:\n> It would be hard to understand how the damage could not get negatvie\n>\nIt can. See Song of Serenity, Bonecraft, Disease etc.\n\nExcess damage prevention does not prevent damage that isn't there.",
+      "Id": "53091"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 18, 2013, 8:24\u202FPM",
+      "Body": "Correct answers from jamesatzephyr.\n\nThe only case I can think of that would \"save extra prevention points\" is Apparition (and I can't find a proper ruling for it).\n\nSuppose you play sup' Apparition, and they strike: hands for 1 (which you prevent with Apparition), blur, hands for 1, you'd still have that 1 remaining point of prevention from Apparition. The reason for this is that Apparition reads \"each round\", and, thus, sort of \"lingers\".",
+      "Id": "53387"
+    }
+  ]
+}

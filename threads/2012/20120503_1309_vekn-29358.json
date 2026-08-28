@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-29358",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/29358-latest-csv-errors",
+  "Title": "Latest csv errors",
+  "Messages": [
+    {
+      "Author": "drnlmza",
+      "Date": "May 3, 2012, 1:09\u202FPM",
+      "Body": "The current csv file (2012/04/23) has lost the double quotes in the name for the following vampires:\nJeremy \"Wix\" Wyzchovsky Joe \"Boot\" Hill J. Oswald \"Ozzy\" Hyde-White  This also affects the cardlist.txt file\n\nOndine \"Boudicca\" Sinclair is OK, as are all the Imbued.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "29358"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 3, 2012, 2:55\u202FPM",
+      "Body": "Thanks,\nI'll fix it this evening / this week-end.\nSong of Pan is also weirdly missing some text.",
+      "Id": "29369"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 13, 2012, 7:28\u202FAM",
+      "Body": "In the most recent csv file (2012-06-12), The Summoning's text is truncated.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "32087"
+    }
+  ]
+}

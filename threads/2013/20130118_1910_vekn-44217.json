@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-44217",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/44217-recalled-to-the-founder",
+  "Title": "Recalled to the Founder",
+  "Messages": [
+    {
+      "Author": "Pagan",
+      "Date": "Jan 18, 2013, 7:10\u202FPM",
+      "Body": "Am I reading this right in that it is an always on effect during your untap phase? If you manage to gain a 3rd vampire of a clan during your untap phase Recalled will want you to burn one of them?\n\nMainly you have two Assamites, and then a Web of Knives Recruit enters play with Recalled to the Founder sitting on the table you have to burn one of the three Assamites you now control or can you have met the Recalled check before bringing the 3rd Assamite into play.\n\n> Recalled to the Founder\n> Type: Event\n> Gehenna. Do not replace as long as this card is in play.\n> Requires at least two other Gehenna cards in play. During each Methuselah's untap phase, if he or she controls more than two vampires of the same clan, he or she burns one such vampire. If that vampire's capacity is above 5, this Methuselah becomes immune to the effects of this card for the remainder of the game.\n>\n> Web of Knives Recruit\n> Type: Action\n> Requires: Assamite\n> Cost: 1 pool\n> +1 stealth action.\n> Put this card in play in your uncontrolled region with 3 training counters. During your untap phase, burn a training counter from this card. You may burn counters from no more than two recruits each untap phase. When the last training counter is burned, move this card to your ready region; it becomes a 3-capacity, non-unique Assamite with Celerity [cel], Obfuscate [obf], Potence [pot], Quietus [qui] and 3 blood who is Blood Cursed.\n>",
+      "Id": "44217"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jan 18, 2013, 9:21\u202FPM",
+      "Body": "if it's a lingering penalty, you can't leave the untap phase before having resolved it iirc. So if a same-clan vampire pop-up during the untap phase, it triggers recalled to the founder's \"exception radar\" and requires you to burn a vamp.\nOBEY THE FOUNDER !\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "44220"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 19, 2013, 11:01\u202FAM",
+      "Body": "Correct answer from Reyda. The check that is performed is not about \"not controlling 3 vampires of the same clan\", it is about \"controlling 3 vampires of the same clan\".\n\nA similar scenario happens with Anarch Revolt: If you control an Anarch at some point during your untap phase, you're not done with the Anarch Revolt: should that Anarch be burned / removed from the game before the end of your untap phase, you'd still have to burn 1 pool to the Anarch Revolt.",
+      "Id": "44231"
+    }
+  ]
+}

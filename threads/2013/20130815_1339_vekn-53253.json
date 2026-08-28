@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-53253",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53253-multiple-actions-in-torpor",
+  "Title": "Multiple actions in Torpor",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Aug 15, 2013, 1:39\u202FPM",
+      "Body": "I have a question on the chain of these cards.\n\nLet\u2019s say a Vampire in play taps and bleeds his prey successfully.\nThe Vampire can then play Force of Will, right?\n\nForce of Will, Action\nOnly usable by a tapped vampire.\n[for]  Bleed with +1 bleed. This vampire takes 2 points of aggravated damage (damage not preventable) even if the action is blocked. Damage occurs after the action or combat is resolved.\n[FOR] As above, but with +2 bleed, and the acting vampire takes only 1 point of aggravated damage (damage not preventable).\n\nEither successful or not, the Vampire goes to Torpor tapped.\nCan you then play Movement of the Slow Body?\n\nMovement of the Slow Body\n+2 stealth action. Only usable by a tapped vampire in torpor[pro] The acting vampire untaps. If this action is blocked, there is no combat. If the blocking minion is a vampire, he or she gets the opportunity to diablerize this acting vampire.\n[PRO] As above, and this vampire also gains 1 blood from the blood bank.\n\nIf he untaps can you theoretically play Rapid Healing?\n\nRapid Healing\n+1 stealth action. Only usable by a vampire in torpor.\n[for] The acting vampire leaves torpor. If the vampire is blocked, there is no combat. If the blocking minion is a vampire who can commit diablerie, that vampire may diablerize the acting vampire.\n[FOR] As above, and the vampire leaving torpor gains 1 blood from the blood bank.\n\nSo now the vampire is back in play tapped? If you had more cards of the same, can this cycle go again starting with Force of Will?",
+      "Id": "53253"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 15, 2013, 1:50\u202FPM",
+      "Body": "You cannot play Force of will because of the NRA action which prevent you from doing another bleed in the same turn.\n\nIf you tapped for a non-bleed action, you could do the force of will / rapid healing / movement of the slow body shenanigan, but then you would be unable to play another Force of Will.",
+      "Id": "53254"
+    },
+    {
+      "Author": "Trigger",
+      "Date": "Aug 15, 2013, 1:58\u202FPM",
+      "Body": "Oh ya, forgot the 1 bleed action. So starting with a non-bleed action, then bleed with force of will, movement of the slow body, rapid healing, then were all good to play any non-bleed card while tapped. Got it. Thanks!",
+      "Id": "53255"
+    },
+    {
+      "Author": "TorranceCircle",
+      "Date": "Aug 15, 2013, 2:27\u202FPM",
+      "Body": "A good chain using these cards is to have two vamps. Vamp A recruits or equips with a bleed modifier permanent (like Tasha Morgan or Laptop Computer). Vamp A then bleeds with with Force of Will, Movement of the Slow Body, Rapid healing. Vamp B takes an action to take the Laptop or some other action to tap. Then Vamp B bleeds with the FoW, MotSB, RH chain.",
+      "Id": "53258"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 15, 2013, 2:27\u202FPM",
+      "Body": "> Trigger wrote:\n> If you had more cards of the same, can this cycle go again starting with Force of Will?\n>\n> Ohlmann wrote:\n> If you tapped for a non-bleed action, you could do the force of will / rapid healing / movement of the slow body shenanigan, but then you would be unable to play another Force of Will.\n>\nAnd you wouldn't be able to precisely repeat the Rapid Healing / Moevment of the Slow Body trick, because you can't take the same action (by card name) with the same minion in the same turn. (But you could take other similar actions.)",
+      "Id": "53259"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 16, 2013, 10:16\u202FAM",
+      "Body": "Correct answers from Ohlmann and jamesatzephyr.",
+      "Id": "53299"
+    }
+  ]
+}

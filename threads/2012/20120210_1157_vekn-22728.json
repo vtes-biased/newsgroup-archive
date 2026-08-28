@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-22728",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/22728-self-killing-during-a-vote",
+  "Title": "Self Killing during a vote",
+  "Messages": [
+    {
+      "Author": "tottiabtigol",
+      "Date": "Feb 10, 2012, 11:57\u202FAM",
+      "Body": "Hi, let me explain the situation.\n\n3 players\nA : Lot of pool ; higher vampire's capacity : 8\nB : 1 pool ; higher vampire's capacity : 11\nC : 5 pools ; higher vampire's capacity : 6\n\nso B call a referundum : Reins of power and it pass:\n\nA, B and C gain 6 pools then\n\nA lost 0 pool ; B lost 3 pools ; C lost 5 pools.\n\nB is ousted and C too.\n\nquestion : who is ousted first ? and why ?\nB gain 1 VP ?\nB gain 6 pools ?\n\nThank you !",
+      "Id": "22728"
+    },
+    {
+      "Author": "V\u00E4in\u00E4m\u00F6inen",
+      "Date": "Feb 10, 2012, 12:09\u202FPM",
+      "Body": "Unless I'm very much mistaken:\n\nif A pred of B pred of C pred of A\n\nA gains 6 pool and loses 6, ends at \"the same lot of pool\"\nB gains 6 pool and loses 8, ends at 1 - 2 = -1 pool -> dies\nC gains 6 pool and loses 11, ends at 5 - 5 = 0 pool -> dies\n\nthey both die at the same time and B and A both get a VP, but B doesn't get 6 pool as reward for VP as he's dead.\n\nif A prey of B prey of C prey of A\n\nA gains 6 pool and loses 11, ends at \"lot of pool\" -5 and supposedly \"lot\" being greater than 5 lives\nB gains 6 pool and loses 6, ends at the same 1 pool as before -> lives\nC gains 6 pool and loses 8, ends at 5 - 2 = 3 -> lives\n\neveryone lives",
+      "Id": "22730"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 10, 2012, 12:14\u202FPM",
+      "Body": "> tottiabtigol wrote:\n> A, B and C gain 6 pools then\n>\n> A lost 0 pool ; B lost 3 pools ; C lost 5 pools.\n>\nIf B has gained 6 and burned 8 (for A's vampire), surely B has lost 2 pool?\n\n> tottiabtigol wrote:\n> B is ousted and C too.\n>\n> question : who is ousted first ? and why ?\n> B gain 1 VP ?\n> B gain 6 pools ?\n>\nB and C are ousted simultaneously.\n\n> Rulebook wrote:\n> EXCEPTION: If a player is ousted at the same time that her prey is ousted, the player gets the victory point but does not gain 6 pool.\n>\nC gains 0 VP. (Not having ousted anyone.)\nB gains 1 VP (due to ousting C), and no pool (due to simultaneously being ousted).\nA gains 1 VP and 6 pool for ousting B, and 1 VP for being last man standing.",
+      "Id": "22731"
+    },
+    {
+      "Author": "tottiabtigol",
+      "Date": "Feb 10, 2012, 12:16\u202FPM",
+      "Body": "THnank you all !\n\nIt's perfect !",
+      "Id": "22732"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 10, 2012, 12:19\u202FPM",
+      "Body": "I guess the example is just an example, so whether it's perfect or not shouldn't really matter for the real question.\n\nIf you're ousted at the same time as your prey, you gain the victory point but not the pool. Your predator will gain the usual 1vp and 6 pool, of course.\n\nOn a table where A->B->C->D, B and C might get ousted at the same time. This would lead to A getting 1vp and 6 pool, B getting 1vp and being out of the game, C being out of the game.",
+      "Id": "22733"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 11, 2012, 10:44\u202FAM",
+      "Body": "Answers given in here by jamesatzephyr and henrik are correct.",
+      "Id": "22822"
+    }
+  ]
+}

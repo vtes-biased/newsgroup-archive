@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-45048",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45048-cave-of-apples-vs-imbued",
+  "Title": "Cave of apples vs Imbued",
+  "Messages": [
+    {
+      "Author": "Corax",
+      "Date": "Feb 9, 2013, 1:13\u202FAM",
+      "Body": "Was there a rules reversal. I thought that Imbued's cost were zero for cards that determined things off allies costs. Checking the site here they are based of their starting life now.\n\nType(s): Master\nClan(s): Follower of Set\nPool Cost: 3\nRarity: Rare\nArtist(s): Alexander Dunnigan\nSet(s): *Lords of the Night\n* Set card was introduced\nCard Text:\nMaster: unique location.\nAny Follower of Set you control may put a corruption counter on an ally or younger vampire controlled by your prey as a  action. If the action is successful and the number of your corruption counters on the minion equals or exceeds his or her capacity or cost, you may burn those counters to gain control of him or her.",
+      "Id": "45048"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Feb 9, 2013, 1:55\u202FAM",
+      "Body": "Their cost is the same as their starting life (this is specified on one of the rules cards that came in that set).\nTheir 'cost to recruit' is zero, as they are not recruited. So effects that look specifically for the cost to recruit (eg Kindred Segregation) see them as having a pool cost of zero.\nEffects like Pentweret, Corruption or Cave of Apples see their actual pool cost.",
+      "Id": "45050"
+    },
+    {
+      "Author": "brm130",
+      "Date": "Feb 9, 2013, 1:55\u202FAM",
+      "Body": "My understanding is that not having a cost isn't the same as cost = zero.\n\nIn this case, you'd go with the [life] capacity of the Imbued.\n\ne: Beaten with a better explanation.",
+      "Id": "45051"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Feb 9, 2013, 10:01\u202FPM",
+      "Body": "> Corax wrote:\n> Was there a rules reversal.\n>\nNo.\n\n> Corax wrote:\n> I thought that Imbued's cost were zero for cards that determined things off allies costs.\n>\nImbued have no 'cost to recruit', because they are not 'recruited' like other allies.\nCards which care about the 'cost to recruit' see that cost as 0.\nCards which care about anything else, see the pool cost of putting the card in play as the cost.\n\nSee also:\nImbued FAQ\n>\n> FAQ wrote:\n> Q) What amount of pool is the cost to recruit an Imbued for the purposes of Kindred Segregation?\n>\n> A) Imbued are not recruited, so they have no cost to recruit and all Imbued in play may stay in play by repaying that zero cost.\n>\n> Q) What amount of pool is the cost for an Imbued for Cave of Apples, Consume the Dead, Contagion, Corruption, Khobar Towers, Al-Khubar, Pentweret or Venenation?\n>\n> A) These cards do not care about the 'cost to recruit' the ally, so they will only be concerned with the cost to influence the Imbued minion into play, i.e. their starting life.\n>",
+      "Id": "45090"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 10, 2013, 1:52\u202FPM",
+      "Body": "> Mael wrote:\n> Their cost is the same as their starting life (this is specified on one of the rules cards that came in that set).\n> Their 'cost to recruit' is zero, as they are not recruited. So effects that look specifically for the cost to recruit (eg Kindred Segregation) see them as having a pool cost of zero.\n> Effects like Pentweret, Corruption or Cave of Apples see their actual pool cost.\n>\nCorrect.",
+      "Id": "45133"
+    }
+  ]
+}

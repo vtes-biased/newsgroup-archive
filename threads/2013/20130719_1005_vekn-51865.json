@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-51865",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/51865-anarch-revolt-and-losing-anarchs-during-untap-phase",
+  "Title": "Anarch Revolt and losing anarchs during Untap phase",
+  "Messages": [
+    {
+      "Author": "Kraus",
+      "Date": "Jul 19, 2013, 10:05\u202FAM",
+      "Body": "Ho!\n\nWe got this issue up yesterday, and couldn't figure out an answer with general rulings, card rulings, card text or Rules Reference.\n\nI had an anarch vampire with Eye of Hazimel up, controlled an Anarch Revolt and had only 1 pool left. So, basically, I can't pay for Eye of Hazimel, my vampire goes to torpor from damage, and then I don't have an Anarch to cover for Anarch Revolt.\n\nWhat happens? Can I opt to check for Anarch Revolt before going to torpor, or does Revolt check continuously throughout Untap phase, or effectively check for its effect at the end of the phase? By rules I can conduct effects in any order I wish, like use my Vessel before taking damage from Revolt, but the card texts were confusing this time.\n\nName: Anarch Revolt\n[Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, KMW:PAn, Third:U]\nCardtype: Master\nMaster.\nPut this card in play. A Methuselah who does not control a ready anarch burns 1 pool during his or her untap phase. Any vampire can call a referendum to burn this card as a +1 stealth political action.\nArtist: Pete Venters; Steve Prescott\n\nThe same kind of a situation might occur with cards like Society of Leopold or that Sabbat vote which gives target counters and deals damage in untap phase.\n\nWe eventually flipped a coin since the arguments were strong towards both ends.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "51865"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jul 19, 2013, 10:36\u202FAM",
+      "Body": "IIRC, you must pay the Anarch Revolt in this case and be ousted.\n\nThat's because you can't go to the following phase if you did not burn a pool or have an Anarch. You cannot go to the following phase without paying for the Hazimel eye or burning it either. So, you have to burn the Eye, then you have to pay for the anarch revolt.",
+      "Id": "51866"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 19, 2013, 10:37\u202FAM",
+      "Body": "> Kraus wrote:\n> Ho!\n>\n> We got this issue up yesterday, and couldn't figure out an answer with general rulings, card rulings, card text or Rules Reference.\n>\n> I had an anarch vampire with Eye of Hazimel up, controlled an Anarch Revolt and had only 1 pool left. So, basically, I can't pay for Eye of Hazimel, my vampire goes to torpor from damage, and then I don't have an Anarch to cover for Anarch Revolt.\n>\n> What happens? Can I opt to check for Anarch Revolt before going to torpor, or does Revolt check continuously throughout Untap phase, or effectively check for its effect at the end of the phase?\n>\nCheck at the end of the untap phase.  [LSJ 20080106]\n\n(note: you could choose to burn 1 pool to Anarch Revolt earlier during your untap phase, but only if you don't control a ready anarch when you perform the check)\n\nExample :\nSay it's your untap phase, an Anarch Revolt A and Anarch Revolt B are in play.\nYou control Merged Dominique (Anarch Baron of Paris). Dominique sadly has a Baltimore Purge on her. Dominique also has a Renewed Vigor on her.\n\nYou cannot burn pool to Anarch Revolts as long as Dominique is ready.\nHowever, you must send Dominique to torpor (Baltimore Purge).\nAt that point, you can decide to perform the Anarch Revolt A check (and/or Anarch Revolt B), and lose 1 pool (maybe you need to call a Parity Shift later) or can decide not to perform these checks\nThen, you can bring back Dominique to the ready region (Renewed Vigor). After this, and as long as Dominique is ready during your untap phase, you can't burn pool to Anarch Revolts.\n\nAnarch Revolt's effect is a mandatory effect, which means you can't leave the Untap phase without performing it. As wrote LSJ,\n>\n> LSJ wrote:\n> Xe has to control at least one ready anarch at the end of xer untap phase to avoid losing pool.\n>",
+      "Id": "51867"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 19, 2013, 1:18\u202FPM",
+      "Body": "> Kraus wrote:\n> Name: Anarch Revolt\n> [Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, KMW:PAn, Third:U]\n> Cardtype: Master\n> Master.\n> Put this card in play. A Methuselah who does not control a ready anarch burns 1 pool during his or her untap phase. Any vampire can call a referendum to burn this card as a +1 stealth political action.\n>\nWhen your anarch vampire leaves the ready region, do you have a ready anarch? No. So, pay 1 pool.\n\nIOW: Since there is no language that says you can pay something or tap something to activate Anarch Revolt and turn it \"off\", it's always \"on\".\n\nOr: \"During [the] untap phase\" = at any/all time within the phase\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "51880"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jul 19, 2013, 1:35\u202FPM",
+      "Body": "'tis as I though. Thanks for answers.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "51882"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Jul 19, 2013, 8:41\u202FPM",
+      "Body": "I remember reading somewhere that all effects that happen during a phase untap/master you can resolve in any order you want... not sure about some of the card rulings or if this is out of date\n\nWould make sense the Anarch covers the revolt then has others happen... burn with leopold or send to torpor... etc",
+      "Id": "51888"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Jul 19, 2013, 10:40\u202FPM",
+      "Body": "Forgot to clarify the during his/her untap phase just refers to when the penalty must be paid for not having a ready anarch to quell the revolt...",
+      "Id": "51889"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 20, 2013, 12:03\u202FAM",
+      "Body": "> delangen wrote:\n> Would make sense the Anarch covers the revolt then has others happen... burn with leopold or send to torpor... etc\n>\nNo, because the effect of the revolt is not \"check for an anarch\", it is \"burn 1 pool\" (card text). As long as you control an anarch, you cannot resolve that effect (card text). If you lose your anarch, then that restriction disappears and you must resolve the revolt, in the order that you prefer with other untap phase effects.",
+      "Id": "51890"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Jul 20, 2013, 3:21\u202FPM",
+      "Body": "As far as I thought the untap phase doesn't have any time or steps to it,no begining no middle no end, everything technically happens at the same time, therefore your anarch is both ready and not ready.... so you should be able to resolve any terms or effects in the order you see fit.. it is up to the methuselah who's turn it is.\n\nIf I am wrong I humbly appologize however will wait for the official ruling before I change how I judge my games.\n\nthank you kinely",
+      "Id": "51916"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 20, 2013, 6:43\u202FPM",
+      "Body": "> delangen wrote:\n> As far as I thought the untap phase doesn't have any time or steps to it,\n>\nIncorrect. See vekn.net/index.php/complete-rules-reference\n\nIII.A shows the untap phase, including the order of effects (untap your cards comes first).\n\n> delangen wrote:\n> no begining no middle no end, everything technically happens at the same time,\n>\nWildly incorrect. Very, very few effects in V:TES happen simultaneously, and the entire untap phase is very definitely not one of them! (The important ones are strike resolution for strikes at the same 'speed', and issues regarding simultaneous ousting.)",
+      "Id": "51920"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 20, 2013, 7:09\u202FPM",
+      "Body": "> delangen wrote:\n> If I am wrong I humbly appologize however will wait for the official ruling before I change how I judge my games.\n>\nThe official answer has already been given by Pascal.\n\n> so you should be able to resolve any terms or effects in the order you see fit.. it is up to the methuselah who's turn it is.\n>\nThat is correct. What you got wrong is how to resolve Anarch Revolt. You cannot say \"I resolve the Anarch Revolt now, I have an Anarch so I don't lose pool\", because that is not what is written on the card. The only way to resolve Anarch Revolt is to burn a pool. As long as you control an Anarch, you cannot resolve that effect. If you control an Anarch for the whole untap phase, you don't burn the pool at all, not because you resolved the Anarch Revolt with an Anarch, but because you didn't resolve it at all. Consequently, if you have an anarch at the beginning of the untap phase and you lose it somehow, the revolt is still unresolved when you lose it, and now you need to resolve it.\n\nNow consider the opposite situation: you start your untap phase without an anarch, and you manage to gain one during the untap phase. Since you can choose how to order untap phase effects, you can delay the resolution of the Revolt until after you gain your anarch, and at that point you don't resolve it anymore.",
+      "Id": "51922"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 22, 2013, 6:02\u202FAM",
+      "Body": "> KevinM wrote:\n> When your anarch vampire leaves the ready region, do you have a ready anarch? No. So, pay 1 pool.\n>\n> IOW: Since there is no language that says you can pay something or tap something to activate Anarch Revolt and turn it \"off\", it's always \"on\".\n>\n> Or: \"During [the] untap phase\" = at any/all time within the phase\n>\nNot really.\nAnarch Revolt doesn't read \"Whenever you don't control a ready anarch vampire in your untap phase\", but rather \"if you don't control a ready anarch vampire during your untap phase\".\nThat's an effect that can be ordered with other \"during your untap phase\" effects - such as, for instance, Renewed Vigoring your anarch.\n\n\"During [the] untap phase\" == \"at some point within the phase\" (rather than \"each and every second of it\")",
+      "Id": "51984"
+    }
+  ]
+}

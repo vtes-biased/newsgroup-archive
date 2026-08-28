@@ -1,0 +1,176 @@
+{
+  "ThreadId": "vekn-775",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/775-offline-rulings-tool",
+  "Title": "Offline Rulings Tool",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 25, 2011, 9:05\u202FAM",
+      "Body": "Would it be possible to have an offline rulings tool?\nI don't know if I'd be able to have web access while at my FLGS, and I think it would be an invaluable tool. Not sure if I could easily just save the webpage for the rulings and get all of the relevant ones.\n\nI am also thinking that if it's an option, then there should be an option for automatically notifying users on this site about updates. For example, being able to subscribe to a simple email that said \"There has been an update to the Rulings. You will need to download a new copy of the offline Rulings Documents.\"\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "775"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 25, 2011, 12:00\u202FPM",
+      "Body": "Best way is to either take a print or just copy the contents. Not really any easier way for that. Of course if someone wants to make an application for that, no one will prevent it. As for the notifications, best would probably to set up a forum thread in the announcements, where people could subscribe.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "778"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 25, 2011, 8:44\u202FPM",
+      "Body": "Thanks.\nI don't know enough coding of anything to potentially do that, so I'd just have to beg/plead/etc with those are significantly more awesome than me with software.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "796"
+    },
+    {
+      "Author": "KzArashi",
+      "Date": "Jan 26, 2011, 10:29\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Thanks.\n> I don't know enough coding of anything to potentially do that, so I'd just have to beg/plead/etc with those are significantly more awesome than me with software.\n>\nI too don't know coding. But \"Fragment of Elder Library Deck Builder\" have options to show or hide flavor text. I think that may be ease to add one option and field to show card related rullings.\n\nBy the way, I would like so much if someone can port FELDB or ARDB to iPad.\n\nIn White Wolf download section there are some PalmOs based files (Judge's Guidelines, Tournament Rules, Rulebook, Cardlist, Rullings and Errata) but they are outdate. That files date back to 2004.\nAnd I remember to see some players here in Brazil using a sort of Cardlist on N-Gage years ago. Don't know if was the PalmOS ones or other thing.\n\nVTES' cousin MTG have apps for PSP, iPad and iPhone. So the same for VTES is very possible.B)\n\nPriest of Rio de Janeiro\n\nMy blog:  Portal Distant Kingdoms\nFacebook:  Distant Kingdoms\nYoutube:  Distant Shore",
+      "Id": "816"
+    },
+    {
+      "Author": "KzArashi",
+      "Date": "Jan 26, 2011, 10:42\u202FPM",
+      "Body": "By the way, to that of you that are coding genius:\n\niGather\nBasically, this is a portable version of Gatherer, Magic\u2019s card database. If you don\u2019t have a 3G or WiFi connection available, you\u2019ll only see the card details as text, but when internet is available you can also download a card image. Filters are also available for sorting by things like rarity and format.\n\nMTGJudge\nThis one is for the judges. It\u2019s a quick reference for all of the rules of Magic, from penalties to layers. It even gives you a rundown of the Head Judge\u2019s announcement at the beginning of a tournament. There is also a basic card lookup facility (with images if you\u2019re on the net), and copies of the Infraction Penalty Guidelines and Comprehensive Rules.\n\nThe Sylvan Archives\nSome say that The Sylvan Archives is one of the best-known iPhone MTG apps. It\u2019s a sort-of MTG toolbox, with a life counter, dice roller and card lookup engine. It can even show your DCI number and rating (if you want to show that!).\n\nWagic\nWagic is a bit different to the other apps mentioned here as it claims to let you play a game of Magic on your iPhone. Don't know if work fine.\n\nI'm showing this becouse someone may use one of that apps like a start point to design a VTES one for iPhone and iPad.\n\nPriest of Rio de Janeiro\n\nMy blog:  Portal Distant Kingdoms\nFacebook:  Distant Kingdoms\nYoutube:  Distant Shore",
+      "Id": "817"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 26, 2011, 11:43\u202FPM",
+      "Body": "Well, that's a loit of stuff... and some of it we already have.\n\nI was just hoping for something like ARDB (a searchable DB) that would contain Rulings, particularly for cards, that could be easily used during a tournament without getting online. I don't know what sort of coding it would require, but it would probably require building some kind of DB/Index that connected rulings to Cards.\n\nFor example...\n\nSearch Space: Rotschreck\n\nResults:\nRotschreck & Psyche!\nRotschreck & Telepathic Tracking\n....\nAnd so on.\n\nI just assume that it will be far easier for other people and potentially create a bit more work for the Rulings Team, because they'd have to hand these rulings off to others to be loaded into the DB. Plus if it was able to update itself like ARDB does, then that would be SHINEY!\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "819"
+    },
+    {
+      "Author": "KzArashi",
+      "Date": "Jan 26, 2011, 11:52\u202FPM",
+      "Body": "Yep.\nOnly for mention. If someone would like to take a look on that PalmOS file from White Wolf site. You can use  FBReader to read them (Download section have versions for various operating systems).\n\nPriest of Rio de Janeiro\n\nMy blog:  Portal Distant Kingdoms\nFacebook:  Distant Kingdoms\nYoutube:  Distant Shore",
+      "Id": "820"
+    },
+    {
+      "Author": "drstrange26",
+      "Date": "Jan 27, 2011, 1:32\u202FAM",
+      "Body": "I couldnt help but hear that you were looking for an option in ARDB to have references to card ruleings. I have to admit when Ive been working with the database for ARDB that I've thought of just that option being useful.\nMy only question is the All Rulings area official and being able to pull from this website to update may be very possible.\n\nAlso I do know that Graham the former head of ARDB, mentioned to me an interest in developing a mobile app in a serious way. Graham has stepped down as ARDB lead. Im currently the lead of development and can be notified via the ARDB website on Google or on my email in my profile here.\n\nI do code and have changed and modified ARDB for about a year. I am currently working on a beta with fixes and changes that have been requested.\n\nBy the Hoary Hosts of Hoggoth,\nDR",
+      "Id": "821"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 27, 2011, 2:52\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Would it be possible to have an offline rulings tool?\n>\nYes.\n\nAside from the \"Rules\" section of this website, what would you want it to contain?\n\nIf you had those html pages in a zip file, would a browser's functionality be sufficient?\n\nIts maybe a few hours work to do that. (Rulebook, CRR, Card Lists, All Rulings, Tournament Rules, Judge's Guide)\n\nCould even throw in a copy of the most recent Archon, and package it in an installer for Windows.\n\nIphone and Android apps are beyond the scope of what I willing to do for free.",
+      "Id": "822"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 27, 2011, 7:12\u202FAM",
+      "Body": "If there was going to be a VEKN Judge's Tool (or similar), then it should definately contain:\n\nTournament Rules\nJudges Guide\nSearchable \"All Rulings\"\nCard Texts (without all of the deckbuilding functions and exporting functions of ARDB)\n\nIf it was one program, that would be great, but the only 'interactive' or 'searchable' part must be the All Rulings.\n\nIf the thing can then turn around and update itself from here, as ARDB does, then I don't think we'd really need anything more.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "823"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Jan 27, 2011, 7:51\u202FAM",
+      "Body": "It would be awesome to have an IPad/Iphone app for deckbuilding like ARDB or Secret Library.\nIf the Magic-players can have that, how hard can it be?\n\npckvtes.wordpress.com",
+      "Id": "825"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 27, 2011, 8:04\u202FAM",
+      "Body": "First you'd need an iPhone developer. I'd prefer a JavaScript application that would work on all the major browsers. That should be quite easy to translate into mobile version that could be used with iOs/Android/Symbian/... devices.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "826"
+    },
+    {
+      "Author": "KzArashi",
+      "Date": "Jan 27, 2011, 9:02\u202FAM",
+      "Body": "> Adonai wrote:\n> Iphone and Android apps are beyond the scope of what I willing to do for free.\n>\nI have no problem to pay for one VTES iPad app on iTunes Store. I pay for others, Why not for one to ma favotite Card Game? B)\n\nPriest of Rio de Janeiro\n\nMy blog:  Portal Distant Kingdoms\nFacebook:  Distant Kingdoms\nYoutube:  Distant Shore",
+      "Id": "833"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 27, 2011, 5:02\u202FPM",
+      "Body": "Evidently you can't cancel out of a reply started with \"Quote\".\n\nIf a local HTML version were created, it would all be search-able, you would just have to search each part individually. i.e. Rulebook, card text, rulings...\n\nIncluded in my thoughts on that are a 'version' page, and a 'check for updates' link that would show you your installed version and a web page that always shows the current version.\n\nMy other thought for cross-platform compatibility and search functionality would be to have WW publish it all as a Kindle book. It would be more difficult to update consistently when working thru Amazon though. Perhaps .mobi files would be sufficient. I'll look into that more on the weekend.",
+      "Id": "849"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 27, 2011, 6:06\u202FPM",
+      "Body": "If we get an offline tool it should be as platform independent as possible. Or alternatively we should get several tools.\n\nSystems that shouldn't be ignored: Android, iPhone, Linux, OS X, Symbian, Windows\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "855"
+    },
+    {
+      "Author": "drstrange26",
+      "Date": "Jan 27, 2011, 11:06\u202FPM",
+      "Body": "I have to agree with a web based system that was mentioned earlier would be the most optimal way of doing things. And ultimatly be less time consuming. I have to admit Im bias because I use Windows Products (Enter boos here) but I have a DROID phone and think a deckbuilder app would be nice. Just for coders out there, ARDB is written in C++ and not java which is required for android.\nBut I think ARDB niche is for users who arent always online all the time and that want an application that works either way. As mentioned above having something that updates and can work offline would be the way to go, if you want to please everyone. I personally dont like having to go to the cloud everytime I want to look up something/make decks when Im traveling or out of Wifi range etc. There is already code to pull from websites and load into the database.\nI helped update the code to pull the csv file from the web. I just dont want to cross over into other peoples ideas or niches.\n\nMay the Winds of Wattomb not blow through your nether region.\nDR",
+      "Id": "873"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 28, 2011, 2:32\u202FAM",
+      "Body": "Offline tool - platform independent:\n\nPDF\n\nI've created and formatted the 6 PDF files that a judge would want to have on-hand while off-line and running a tournament.\n\nI tried to attach them as a 2.8 MB zip file.\n\nThat doesn't seem to have worked.\n\nI am open to other hosting options.",
+      "Id": "878"
+    },
+    {
+      "Author": "librarian",
+      "Date": "Jan 28, 2011, 2:48\u202FAM",
+      "Body": "> Systems that shouldn't be ignored: Android, iPhone, Linux, OS X, Symbian, Windows\n>\nDon't forget Ubuntu for salem and David Cherryholmes (I think...)\n\nMe, I could care less, Wintel is fine for me. Sometime soon, this laptop will go away, and I will move to some sort of tablet, but probably not an Apple (bleh).",
+      "Id": "880"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 28, 2011, 3:15\u202FAM",
+      "Body": "Well,\nI love the idea of it being something generic like a HTML-download. Then it won't care too much which platform it is used on.\n\nI hope people don't feel like I've stirred up a giant problem for a bunch of people with more tech skills than myself.\n\nThanks in advance for whatever is produced, I know you won't be getting paid for your awesome work.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "882"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 28, 2011, 7:01\u202FAM",
+      "Body": "> librarian wrote:\n>\n> > Systems that shouldn't be ignored: Android, iPhone, Linux, OS X, Symbian, Windows\n> >\n> Don't forget Ubuntu for salem and David Cherryholmes (I think...)\n>\n> Me, I could care less, Wintel is fine for me. Sometime soon, this laptop will go away, and I will move to some sort of tablet, but probably not an Apple (bleh).\n>\nUbuntu == Linux\nOS X == Apple\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "891"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 29, 2011, 1:45\u202FAM",
+      "Body": "The Offline Judges Kit has been made available, here:\n\nwww.thelasombra.com/tournaments.htm\n\nLook for the link in the second paragraph.\n\n\"There is a new Offline Judges Kit zip file that contains the game rules, all of the rulings, the tournament rules, the judges guidelines, the complete card list, the complete rules reference, and The Archon.\"\n\nNote:\nThis package is compatible with every OS that can display a PDF.\nThe Archon is not tested or expected to be compatible with phone OSes.",
+      "Id": "929"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 29, 2011, 9:49\u202FAM",
+      "Body": "Do you mind if we grab that in here ?\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "931"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 29, 2011, 10:21\u202FAM",
+      "Body": "Please do host a copy of the zip file (or the individual files).\n\n(Perhaps in the new  Downloads section.)",
+      "Id": "933"
+    },
+    {
+      "Author": "KzArashi",
+      "Date": "Jan 31, 2011, 11:17\u202FPM",
+      "Body": "I have an idea.  And I'm editing first the rulebook and later the same to rulings and all the stuff to .ePub (ebook format).\nAdonai has made a great job with the Offline Judges Kit. So I thought to brought that to iPad, Nook, iRiver, iRex, Sony Reader, Cybook and others.\nBut I can't deny that would love to flip VTES Rulebook pages on the iPad's iBook app.\nePub have too some cool features. So I'm editing things to include some graphics and other things. \"First time I try to make an ebook document, and I am discovering what I can do\"\nSoon I'll show a sample so that you can say if was woth the job. B)\n\nPriest of Rio de Janeiro\n\nMy blog:  Portal Distant Kingdoms\nFacebook:  Distant Kingdoms\nYoutube:  Distant Shore",
+      "Id": "964"
+    },
+    {
+      "Author": "salem",
+      "Date": "Aug 9, 2011, 5:57\u202FAM",
+      "Body": "So I am coming in to this about 6 months late, but....\n\n...thanks for the shout-out Librarian, yes I do run Ubuntu at home.  (and yes, it's a type of linux)\n\nHowever, I just recently got an android phone (also a type of linux, kind of).\n\nI just found VampiDroid in the android market, which apparently has all the card texts. So I've grabbed that.\n\nI'm still keen to see an ePub of the rulebook though, did that ever get done?\n(and/or all the rulings, too.)\n\ncheers,\n\nSalem\n\n--\nsalem",
+      "Id": "7654"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 9, 2011, 6:02\u202FAM",
+      "Body": "I'm working on trying to make something usable (something like what Juggernaut1981 mentioned). I don't know if it should be a file or an app.",
+      "Id": "7658"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 9, 2011, 6:18\u202FAM",
+      "Body": "Thanks Pascal. I would love to be able to create these sorts of things but I'm fairly coding-inept...\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "7660"
+    },
+    {
+      "Author": "salem",
+      "Date": "Aug 9, 2011, 7:26\u202FAM",
+      "Body": "I'd make it an epub if you could (or whatever the generally accepted drm-free open standard ebook format is these days). much greater portability, and I can't imagine what features you would need for an app that you couldn't get out of an ebook.\n\n--\nsalem",
+      "Id": "7665"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-25560",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/25560-order-of-ending-effects",
+  "Title": "Order of ending effects?",
+  "Messages": [
+    {
+      "Author": "Klaital",
+      "Date": "Mar 11, 2012, 2:56\u202FAM",
+      "Body": "Here is something that came up and am not sure of which is the right answer.\n\nHenri Lavenant enters combat with someone, your hand size goes up to 8, then he plays a card in the combat that is not replaced until end of combat, going back down to hand size 7. Now what happens when the combat ends?\n\nOption 1: You discard down to hand size from his special to 6 cards, then draw back up to replace the card you played in the combat.\nOption 2: You draw up to your hand size from the card you played in the combat, then discard down to hand size when Henri's special runs out.\nOption 3: You can choose which of the above to do.\nOption 4: They end at same time so you don't draw or discard anything but keep your hand of 7 cards.\n\nName: Henri Lavenant\n[BH:U2]\nCardtype: Vampire\nClan: Lasombra\nGroup: 3\nCapacity: 7\nDiscipline: pot qui DOM OBT\nSabbat. Black Hand: You have +1 hand size while Henri is in combat.\nArtist: Christopher Shy",
+      "Id": "25560"
+    },
+    {
+      "Author": "TorranceCircle",
+      "Date": "Mar 11, 2012, 4:26\u202FAM",
+      "Body": "I'm not sure but here is something I found that seems related.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/49e9e9845e42434/39f79becbd83773f?hl=en&ie=ISO-8859-1&oe=ISO-8859-1&q=lavenant+group:rec.games.trading-cards.jyhad+author:LSJ\n\nBut this has to do with effects during combat. Anyone else have an idea? Pascal?\n\nEdit: The last entry by LSJ is interesting.",
+      "Id": "25561"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 11, 2012, 6:44\u202FAM",
+      "Body": "> Klaital wrote:\n> Here is something that came up and am not sure of which is the right answer.\n>\n> Henri Lavenant enters combat with someone, your hand size goes up to 8, then he plays a card in the combat that is not replaced until end of combat, going back down to hand size 7. Now what happens when the combat ends?\n>\nKeep in mind that \"combat ends\" happens during combat, and the events you're talking about happen \"after combat\".\n\n> Option 1: You discard down to hand size from his special to 6 cards, then draw back up to replace the card you played in the combat.\n> Option 2: You draw up to your hand size from the card you played in the combat, then discard down to hand size when Henri's special runs out.\n> Option 3: You can choose which of the above to do.\n> Option 4: They end at same time so you don't draw or discard anything but keep your hand of 7 cards.\n>\nOption 3 is my guess. If you use Dreams of the Sphinx to gain +2 hand size, you can order decreasing your hand size with other effects that happen during the discard phase (the end of the turn).\n\nIt is most likely the case that you lose the +1 hand size in the same timing window as you replace \"replace after combat\" cards. Two effects in the same timing window with the same controller can be ordered. I can't see how a \"while in combat\" would cease working in any window besides the \"after combat\" window, whenever that may be.\n\nRegardless of whether Pascal agrees with me, this brings up some interesting qeustions as to exactly when the \"replace after combat\" window occurs. I assume this window happens between consecutive combats caused by sup. Psyche! Would you also lose your +1 hand size from Henri Lavenant between Pscyhe!/Coordinated Attack combats? The same for -1 from Raptor?\n\n[ADD WITH EDIT: Of course, this seems to contradict what LSJ said in Andy's link. According to him, hand size is an \"ongoing effect\", whatever that is. Everyone around here orders the \"ongoing effect\" of losing your hand size to Dreams of the Sphinx with their discard phase action. Personally I think LSJ was not on the right track there - lots of effects are \"ongoing\", and when they change, you order them with everything else that happens in the same timing window.]",
+      "Id": "25573"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Mar 11, 2012, 7:18\u202FAM",
+      "Body": "> AaronC wrote:\n> Option 3 is my guess. If you use Dreams of the Sphinx to gain +2 hand size, you can order decreasing your hand size with other effects that happen during the discard phase (the end of the turn).\n>\nI'm pretty sure that part about Dreams of the Sphinx is wrong. Discard phase and end of the turn are different timingwise, you can't order things that happen at the end of your turn to happen in your discard phase (or the other way around).\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_frm/thread/b83d41d6affc524/28ae58678169c4fd",
+      "Id": "25579"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 11, 2012, 7:54\u202FAM",
+      "Body": "> henrik wrote:\n> I'm pretty sure that part about Dreams of the Sphinx is wrong. Discard phase and end of the turn are different timingwise, you can't order things that happen at the end of your turn to happen in your discard phase (or the other way around).\n> groups.google.com/group/rec.games.trading-cards.jyhad/browse_frm/thread/b83d41d6affc524/28ae58678169c4fd\n>\nThat is a very interesting post you've linked to.\n\n\"Your turn ends\" is a separate timing window of the Discard Phase in the rules reference, too. Another case in which local longer-time players have passed on wrong information!\n\nI don't think there is an established answer, and thus this requires a ruling. If I were judging at a tournament and this came up, I would rule that hand size is resolved before any other effect in a timing window, thus Option 1: Lose hand size, go to 6 cards, draw to replace. Is hand size different than other effects? I'm curious to see if it's been addressed other than LSJ's use of the (seemingly) undefined term \"ongoing\".\n\nAnd I\"m still interested in the timing of \"after combat\" effects, since this timing window is not mentioned in the rules reference.",
+      "Id": "25583"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Mar 11, 2012, 8:08\u202FAM",
+      "Body": "> AaronC wrote:\n> I don't think there is an established answer, and thus this requires a ruling. If I were judging at a tournament and this came up, I would rule that hand size is resolved before any other effect in a timing window, thus Option 1: Lose hand size, go to 6 cards, draw to replace. Is hand size different than other effects? I'm curious to see if it's been addressed other than LSJ's use of the (seemingly) undefined term \"ongoing\".\n>\nI think things that are said to last \"until phase X\" or \"during phase X\" etc, can't really be ordered (except for several effects taking place/ending/etc at the same time). I'm not so sure it's about hand size specifically, but rather about the wording.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/894f252d7a248bd7",
+      "Id": "25584"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 11, 2012, 8:21\u202FAM",
+      "Body": "Again you're finding good references. I think that that is a very piecemeal way to deal with it.\n\nInstead why not just say \"every effect in a phase/timing window can be ordered including card replacement\" for the sake of consistency? Everyone replaces first anyway so they can work with a maximum hand size.\n\nOr if the replacement has to happen first (and he seems to have just made it up right there) why not have a printed rule that says \"card replacement and hand size change effects occur before any other effects in a phase or timing window\".\n\nI like universal rules like that.\n\n(So tell me why I play VTES again  )",
+      "Id": "25587"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Mar 12, 2012, 1:27\u202FAM",
+      "Body": "> \"Your turn ends\" is a separate timing window of the Discard Phase in the rules reference, too. Another case in which local longer-time players have passed on wrong information!\n>\nAnd how, pray tell, have these \"local longer-time players\" (whoever they could be) mislead you (yet again, apparently) in your eyes, since this statement seems to have nothing to do with your discussion other than to dis these players?",
+      "Id": "25644"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Mar 12, 2012, 1:29\u202FPM",
+      "Body": "> Robert wrote:\n>\n> > \"Your turn ends\" is a separate timing window of the Discard Phase in the rules reference, too. Another case in which local longer-time players have passed on wrong information!\n> >\n> And how, pray tell, have these \"local longer-time players\" (whoever the fuck they could be) mislead you (yet again, apparently) in your eyes, since this statement seems to have nothing to do with your discussion other than to dis these assholes?\n>\nPlease, do not use any vulgar words in your posts. Things can be said politely.\n\nSee the forum rules for more information: vekn.net/index.php/forum/rules\n\nYour previous post has been edited accordingly.\n\nV:EKN Website Coordinator",
+      "Id": "25671"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 13, 2012, 9:19\u202FAM",
+      "Body": "> Klaital wrote:\n> Here is something that came up and am not sure of which is the right answer.\n>\n> Henri Lavenant enters combat with someone, your hand size goes up to 8, then he plays a card in the combat that is not replaced until end of combat, going back down to hand size 7. Now what happens when the combat ends?\n>\n> Option 1: You discard down to hand size from his special to 6 cards, then draw back up to replace the card you played in the combat.\n> Option 2: You draw up to your hand size from the card you played in the combat, then discard down to hand size when Henri's special runs out.\n> Option 3: You can choose which of the above to do.\n> Option 4: They end at same time so you don't draw or discard anything but keep your hand of 7 cards.\n>\n> Name: Henri Lavenant\n> [BH:U2]\n> Cardtype: Vampire\n> Clan: Lasombra\n> Group: 3\n> Capacity: 7\n> Discipline: pot qui DOM OBT\n> Sabbat. Black Hand: You have +1 hand size while Henri is in combat.\n> Artist: Christopher Shy\n>\nI'd say the +1 handsize and the \"do not replace\" cause end at the same time, cf link given by TorranceCircle :  [LSJ 20070225] , which has to be considered with  [LSJ 20020205] , \"cards you do not replace count against your handsize\"\n\nI'm still looking for other examples - they're welcome.",
+      "Id": "25729"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 13, 2012, 6:55\u202FPM",
+      "Body": "> Pascal wrote:\n> I'd say the +1 handsize and the \"do not replace\" cause end at the same time, cf link given by TorranceCircle :  [LSJ 20070225] , which has to be considered with  [LSJ 20020205] , \"cards you do not replace count against your handsize\"\n>\n> I'm still looking for other examples - they're welcome.\n>\nThat is an elegant way to handle it - considering \"do not replace\" clauses the same as +/- hand size effects. The question of timing remains. Once you've decided how to handle it, I bet you could add a single sentence to the rules to clarify the matter.\n\nIMO, it would be the easiest to say that hand size changes are resolved before any other effects in a given timing window, and that seems to agree with what LSJ has written. You've established that you add pluses and minuses together before determining a new hand size, so all changes would be \"simultaneous.\"",
+      "Id": "25763"
+    }
+  ]
+}

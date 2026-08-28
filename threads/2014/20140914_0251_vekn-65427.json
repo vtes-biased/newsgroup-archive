@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-65427",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/65427-the-cost-of-cards",
+  "Title": "The Cost of Cards",
+  "Messages": [
+    {
+      "Author": "glaswanderer",
+      "Date": "Sep 14, 2014, 2:51\u202FAM",
+      "Body": "I'm still confused about this issue about the cost of a card and things that reduce (or increase) them.\n\nI would prefer a SINGLE answer, preferably by Pascal, that explains this.\n\nSuch as:\n\nAnkara Citadel, Turkey, The\n[Equipment] Equipment\n[Tremere] Tremere\n[2 Blood]\nThis equipment card represents a location and does not count as equipment while in play. Unique.\nCards that cost blood cost this vampire half as much blood to play (round down).\n\ndoes this ONLY reduce the cost PRINTED on the card or the overall cost after other modifiers from other played cards and/or ones that have been tapped, such as:\n\nEccentric Billionaire\nInner Essence\nPowerbase: Tshwane\nSoul of the Earth\nSucculent Vitae\nSunset Strip, Hollywood Master\n\nPrince of Puyallup",
+      "Id": "65427"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 14, 2014, 6:10\u202FAM",
+      "Body": "You'll find various answers on the Google Groups where people mess with LSJ about this, but all that matters was written in RTR070707:\n\nRTR 070707  wrote\n>\n> All cost-affecting cards operate no matter how the card is played (\"as normal\"\n> or otherwise). All multiplication and division is handled first, followed by\n> addition and subtraction.\n> Note that pay nothing still means pay nothing, even if something else would add\n> to the cost. So costs for cards canceled by Sudden Reversal or Direct\n> Intervention are still not paid, for example. And Bauble and Horrid Reality\n> still gets weapons for free. And similar for Helena and Dragos.\n>\nI highly recommend sticking to the RTR rather than browsing for other answers (there's a Nocturn and a Jack of Both Faces that I still need to investigate).\n\nSo, in the end, when in comes to costs:\n- Apply multipliers / dividers first (for instance, Ankara Citadel, and, erm, Ankara Citadel)\n- Apply additions / substractions next (Eccentric Bliilionaire, Inner Essence, Powerbase: Tshwane, Soul of the Eearth, Succulent Vitae, Sunset Strip: Hollywood, Path of X, ...)",
+      "Id": "65428"
+    },
+    {
+      "Author": "glaswanderer",
+      "Date": "Sep 14, 2014, 2:26\u202FPM",
+      "Body": "Thank you the quick answer Pascal.\n\nPrince of Puyallup",
+      "Id": "65432"
+    }
+  ]
+}

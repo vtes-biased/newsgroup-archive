@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-41378",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/card-balance-strategy-discussion/41378-deck-size-formula",
+  "Title": "Deck Size & Formula",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Nov 22, 2012, 12:53\u202FAM",
+      "Body": "1. Wondering what size decks players use for a 2-player game and for every player added. I know the max size, but was curious if well designed decks were constructed with less cards.\n\n2. Any good formulas of the number of each type of card in someone's Library?",
+      "Id": "41378"
+    },
+    {
+      "Author": "mirddes",
+      "Date": "Nov 22, 2012, 12:56\u202FAM",
+      "Body": "90 brainwash\n\nUDHR18/19/27",
+      "Id": "41379"
+    },
+    {
+      "Author": "Trigger",
+      "Date": "Nov 22, 2012, 1:09\u202FAM",
+      "Body": "> mirddes wrote:\n> 90 brainwash\n>\n90 for how many players?",
+      "Id": "41382"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Nov 22, 2012, 1:14\u202FAM",
+      "Body": "60 cards max\n10-12 masters\nKeep decks lean and don't develop bad deck-building habits.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "41383"
+    },
+    {
+      "Author": "Trigger",
+      "Date": "Nov 22, 2012, 2:25\u202FAM",
+      "Body": "> Jeff wrote:\n> 60 cards max\n> 10-12 masters\n> Keep decks lean and don't develop bad deck-building habits.\n>\nNo matter the number of players?",
+      "Id": "41387"
+    },
+    {
+      "Author": "Xaddam",
+      "Date": "Nov 22, 2012, 2:30\u202FAM",
+      "Body": "I normally play between 60 and 75 cards in decks. They're designed for 5 player games, but they're fine for 4 player games as well. If you play 2 or 3 player games, I see no reason to play anything but 60, maybe even include a few burn option cards to bring it down an additional 5-7 cards.\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "41388"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Nov 22, 2012, 2:33\u202FAM",
+      "Body": "> Trigger wrote:\n> 1. Wondering what size decks players use for a 2-player game\n>\nNone. If there are only 2 players, I find something else to do.\nThere are plenty of good 2 player games, standard V:TES isn't one of them.\nVariant V:TES is a good alternative.\n\n> Trigger wrote:\n> and for every player added. I know the max size, but was curious if well designed decks were constructed with less cards.\n>\nI don't know of anyone that plays with the deck construction rules as printed in the rulebook. The online community has used the tournament rules practically since their introduction. Decks are 60-90 cards and the number of players doesn't matter.\n\n> Trigger wrote:\n> 2. Any good formulas of the number of each type of card in someone's Library?\n>\nLegbiter had a theory for that called  Happy Families . The second link in the left hand pane has theory and examples or you can examine just the theory,  here .",
+      "Id": "41389"
+    },
+    {
+      "Author": "direwolf",
+      "Date": "Mar 5, 2013, 7:06\u202FAM",
+      "Body": "I've found that 75 cards is a good goal to aim towards. But that does depend on the type of deck you are playing, and how many of your \"power cards\" you are using.\n\nIf you are building a Potence combat deck and you own 5-6 Immortal Grapple, than I would recommend a smaller deck (60-70 cards,) For a 90 card deck you will probably want 10 Immortal Grapple.\n\nOften, you will have a variety of \"power cards\" such as Pentex Subversion, Giant's Blood, Heart of Nizchetus etc. You might have one or two copies of some of these card. A smaller deck will assure you see more of these cards in the course of a game.\n\nThe other thing to consider is that with a smaller deck you have to make your actions count. Failed actions with a smaller deck are more costly than failed actions with a larger deck. In a long game you might find yourself running out of cards which could make the different in a game win. But more often, you will be ousted seeing less than half of your deck.\n\nIndependent Futurist. Contrarian (titled, X votes where X is the number of votes as the acting minion.) Target Vitals is always the better combat card.",
+      "Id": "45665"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 5, 2013, 7:12\u202FAM",
+      "Body": "I haven't found a better 2-player format than  Battle Arena (except that we used to play with the so called \"banned\" cards)",
+      "Id": "45666"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Mar 5, 2013, 7:38\u202FAM",
+      "Body": "> Adonai wrote:\n> None. If there are only 2 players, I find something else to do.\n>\nI agree with this. There is no reason to play VTES unless you are 4 or 5 players.\n\nThe only 2-player variant I like is the \"Common pool\"-variant  (www265.pair.com/perlman/vtes/vtes2p.html )\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "45667"
+    },
+    {
+      "Author": "Lemmink\u00E4inen",
+      "Date": "Mar 8, 2013, 1:44\u202FPM",
+      "Body": "> Trigger wrote:\n> 2. Any good formulas of the number of each type of card in someone's Library?\n>\nHypergeometric distribution is what you want.\n\nIn Excel it's HYPGEOMDIST (N, Z, X, Y)\nwhere\nX is the number of a certain card that you have in the deck.\nY is the number of cards in the deck.\nZ is the number of cards you are drawing.\nN is the number you are checking for.\n\nSo, if you have a 70 card deck with five Lilith's Blessings and you're wondering what are the odds of finding at least one amongst the ten first cards, you would put this in excel:\nHYPGEOMDIST (1, 10, 5, 70)\n\nThe answer is about 40%, btw. Naturally you'd want to put it into Excel so that you'll have the Z going up from seven so that you can check what's you chance of finding the first Lilith's Blessing at a particular time in the game.\n\nThere's also an online tool for this but it isn't as handy:\nstattrek.com/online-calculator/hypergeometric.aspx",
+      "Id": "45899"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Mar 8, 2013, 8:45\u202FPM",
+      "Body": "> Lemmink\u00E4inen wrote:\n>\n> > Trigger wrote:\n> > 2. Any good formulas of the number of each type of card in someone's Library?\n> >\n> Hypergeometric distribution is what you want.\n>\n> There's also an online tool for this but it isn't as handy:\n> stattrek.com/online-calculator/hypergeometric.aspx\n>\nOr you could use the tools that Ira put together.\n\nwww.irafay.com/cards.php",
+      "Id": "45908"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 9, 2013, 2:28\u202FAM",
+      "Body": "Thanks for the information about the tool.\n\nI can't get it to work for crypt draws. What am I doing wrong?\n\nLooking for the chance to draw at least one if I put in 5 of a vampire in my crypt.\n\n=HYPGEOMDIST(1,4,5,12)\n\nIt turns up 35%.",
+      "Id": "45914"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Mar 9, 2013, 7:52\u202FAM",
+      "Body": "That is the probability to get exactly 1, not 1 or more. The link Lemminkainen gave provides both answers.",
+      "Id": "45916"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 9, 2013, 3:11\u202FPM",
+      "Body": "I've always wanted to be able to run crypt probabilities myself, so I am grateful for that link.\n\n4 out of 12 crypt cards = 86% chance to draw in initial crypt\n5 out of 12 crypt cards = 93% chance to draw in initial crypt",
+      "Id": "45917"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 9, 2013, 3:37\u202FPM",
+      "Body": "And never forget : if you have less than 9 copy of your star on 12 cards, the chance of drawing 0 copy of your star on the final is alway exactly 100%",
+      "Id": "45918"
+    },
+    {
+      "Author": "TapeTaChatte",
+      "Date": "Mar 12, 2013, 8:34\u202FAM",
+      "Body": "V:tes has won ten years in one when people started playing 60-cards deck consistently (well I am a big fan of 70 myself but I can understand the point), don't try to make it regress 10 years by going back to 90 cards.\n\nIC Organized play coordinator\nPlease contact me with any OP query using the mail in my profile",
+      "Id": "46024"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Mar 13, 2013, 1:23\u202FPM",
+      "Body": "Well... it depends of the type of the deck that you are using...\n\nIf you use ashur tablets 60 will do the trick...\n\nOtherwise you should playtest... must decks will fare well with 70-80 cards... if you have a rush deck that uses a lot of cards in each action you might end up without a library...",
+      "Id": "46045"
+    }
+  ]
+}

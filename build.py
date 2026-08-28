@@ -347,7 +347,7 @@ out in public from 1994 to 2010, and where its rules directors answered
 questions one post at a time. This is a preserved copy of every thread one of
 those directors took part in &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
-together with the topics the rules director has answered on the V:EKN forum
+together with the topics their successors have answered on the V:EKN forum
 ever since, which is where the rulings went when Usenet ended.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
@@ -364,9 +364,9 @@ def render_about(total_threads: int, total_messages: int) -> str:
     body = f"""<nav class="crumbs"><a href="../">Archive</a></nav>
 <h1>About this archive</h1>
 <p>This is a static copy of {total_threads:,} threads
-({total_messages:,} messages) from the Usenet newsgroup
-<code>{GROUP}</code>, spanning 1994 to 2010. It is every thread in which one of
-the game's rules directors posted &mdash;
+({total_messages:,} messages), from two places. Most of them come from the
+Usenet newsgroup <code>{GROUP}</code>, spanning 1994 to 2010: every thread in
+which one of the game's rules directors posted &mdash;
 <strong>Thomas&nbsp;R.&nbsp;Wylie</strong> (from December 1994),
 <strong>Shawn&nbsp;F.&nbsp;Carnes</strong> (July 1996),
 <strong>Jon&nbsp;Wilkie</strong> (October 1996) and
@@ -385,12 +385,14 @@ somewhere to point.</p>
 <p>Several thousand threads are not from Usenet at all. Rulings did not stop
 when the newsgroup did &mdash; they moved to the
 <a href="https://www.vekn.net/forum">V:EKN forum</a>, where
-<strong>Ankha</strong> has answered them since. Every topic he has posted in is
-here too, marked with the forum it came from, on the same rule that decided
-which newsgroup threads to keep. The forum drops topics of its own accord: the
+<strong>Pascal&nbsp;Bertrand</strong> and then <strong>Ankha</strong> have
+answered them since. Every topic either of them posted in is here too, marked
+with the forum it came from, on the same rule that decided which newsgroup
+threads to keep. The forum drops topics of its own accord: the
 one a Baltimore Purge ruling rests on returns a 404 today and survives only
 because the Wayback Machine happened to keep it, which is reason enough not to
-wait and see which goes next.</p>
+wait and see which goes next. Two more topics are here for the other reason
+&mdash; a ruling cites them, though neither director posted in them.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings

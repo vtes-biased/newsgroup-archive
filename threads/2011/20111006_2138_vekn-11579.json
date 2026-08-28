@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-11579",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/11579-detect-authority-and-shatter-the-gate",
+  "Title": "Detect Authority and Shatter the Gate",
+  "Messages": [
+    {
+      "Author": "DeathInABottle",
+      "Date": "Oct 6, 2011, 9:38\u202FPM",
+      "Body": "Can Detect Authority at [ani] be used to protect Shatter the Gate? Shatter the Gate is \"on\" the Baali, but I'm not sure if Detect Authority works for cards on a minion.\n\nDetect Authority [TR:C]\nCardtype: Reaction\nDiscipline: Animalism/Serpentis/Thaumaturgy\nRequires an anarch.\n[ani] Only usable during a  action directed at a minion or location you control. The action ends (no cost is paid), unless the acting minion burns 2 blood immediately.\n[ser] +1 intercept.\n[tha] Reduce a bleed against you by 2.\n\nShatter the Gate [HttB:C]\nCardtype: Action\nClan: Baali\nBurn Option\n+1 stealth action. Requires an infernal Baali with capacity 9 or more.\nPut this card on this Baali. A vampire with capacity 6 or more may burn the Edge to burn this card as a  action. If this Baali has three Shatter the Gates, burn them all to give each other Methuselah a shattered counter. A Methuselah with any shattered counters burns 3 pool during his or her untap phase.",
+      "Id": "11579"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 6, 2011, 10:45\u202FPM",
+      "Body": "> DeathInABottle wrote:\n> Can Detect Authority at [ani] be used to protect Shatter the Gate?\n>\nNo.\nSecure Haven won't protect the Shatter the Gate cards either.",
+      "Id": "11580"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 7, 2011, 3:47\u202FAM",
+      "Body": "> Adonai wrote:\n>\n> > DeathInABottle wrote:\n> > Can Detect Authority at [ani] be used to protect Shatter the Gate?\n> >\n> No.\n>\nCorrect.  [LSJ 20080602]\n\n> Adonai wrote:\n> Secure Haven won't work either.\n>\nThat's unclear  Detect Authority can be used during an action targetting Secure Haven, but a minion with a Shatter the Gate and a Secure Haven can have its Shatter the Gate burned, despite the Secure Haven.  [LSJ 20020502]",
+      "Id": "11587"
+    }
+  ]
+}

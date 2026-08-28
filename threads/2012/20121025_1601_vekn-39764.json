@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-39764",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/39764-feline-saboteur",
+  "Title": "Feline Saboteur?",
+  "Messages": [
+    {
+      "Author": "Pullen",
+      "Date": "Oct 25, 2012, 4:01\u202FPM",
+      "Body": "When is the card Feline Saboteur forces you to discard replaced, before or after the 4 burned from the second part of the card?\n\nFeline Saboteur\nType: Action\nRequires: Animalism & Obfuscate\n[ani][obf]  Choose any Methuselah. The chosen Methuselah discards 1 card at random from his or her hand.\n[ANI][OBF] As [ani][obf] above, and the chosen Methuselah burns the top 4 cards of his or her library as well.",
+      "Id": "39764"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Oct 25, 2012, 5:36\u202FPM",
+      "Body": "before. All the cards effects take place simultaneously.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "39766"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Oct 25, 2012, 6:28\u202FPM",
+      "Body": "Good answer.\n\nI might phrase it differently:\n\nEach card resolves \"atomically\" with effects in the order specified on the card.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "39768"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Oct 25, 2012, 7:50\u202FPM",
+      "Body": "> Jeff wrote:\n> I might phrase it differently\n>\nThen good for you.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "39770"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 29, 2012, 8:06\u202FAM",
+      "Body": "> Reyda wrote:\n> before. All the cards effects take place simultaneously.\n>\nCorrect.",
+      "Id": "39912"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Oct 29, 2012, 10:45\u202FAM",
+      "Body": "Uh, should this not be?\nAfter, all card affects take place simultaneously.",
+      "Id": "39921"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Oct 29, 2012, 2:18\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > Reyda wrote:\n> > before. All the cards effects take place simultaneously.\n> >\n> Correct.\n>\nmmm, i didn't take in account how the initial question is worded.\n\nlogic is : when you resolve feline saboteur, one card from hand and top 4 cards are discarded at once. Then the hand goes back to normal size.\n( thus there is no way the target can take in hand the top 3 cards you just peeked with, say, steam tunnels)\n\nwhich was : all the discard effect take place BEFORE the replacement card is drawn.\n\nAm I understanding this correctly ?\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "39938"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 3, 2012, 11:13\u202FAM",
+      "Body": "Discard card from hand and burn cards from deck before replacing the missing card in the hand.",
+      "Id": "40327"
+    }
+  ]
+}

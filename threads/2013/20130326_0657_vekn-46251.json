@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-46251",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/46251-ignore-aggravated-vs-treat-aggravated-as-normal",
+  "Title": "Ignore aggravated vs treat aggravated as normal",
+  "Messages": [
+    {
+      "Author": "galliard",
+      "Date": "Mar 26, 2013, 6:57\u202FAM",
+      "Body": "Hello\nIf i treat aggravated damage as normal, but also ignore aggravated damage: do i burn blood or not when i receive aggro?\n\nTo be more specific i was thinking about Nergal that plays Ignore the Searing Flames during his action, then using Force of Will + Daring the Dawn. Nergal has Concordance on him so he treats aggravated damage as normal\nSorry for a lots of rules questions, but my mind is wicked and i am trying some insane combos.",
+      "Id": "46251"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 26, 2013, 8:09\u202FAM",
+      "Body": "> galliard wrote:\n> Hello\n> If i treat aggravated damage as normal, but also ignore aggravated damage: do i burn blood or not when i receive aggro?\n>\nNo - you are immune to it.\n\nHowever, if you treat aggravated damage as normal, and ignore normal damage, you would also burn no blood when normal or aggravated damage would be inflicted on you.  [LSJ 20100527]\n\n> galliard wrote:\n> To be more specific i was thinking about Nergal that plays Ignore the Searing Flames during his action, then using Force of Will + Daring the Dawn. Nergal has Concordance on him so he treats aggravated damage as normal\n>\nI wouldn't recommend that.\nWell, first, I would recommend quoting cardtexts:\n>\n> Name: Ignore the Searing Flames\n> Cardtype: Combat[/colo]\n> Discipline: Daimoinon/Serpentis\n> [ser] This vampire treats all aggravated damage from the opposing minion's strike as normal damage. Only usable when the opposing minion inflicts aggravated damage on this vampire.\n> [dai] Prevent all aggravated damage from the opposing minion's strike.\n> [DAI] This vampire burns 1 blood to be immune to aggravated damage for the remainder of the round.\n>\n> Name: Daring the Dawn\n> Cardtype: Action Modifier\n> Discipline: Fortitude\n> [for] Vampires cannot block this action. The acting vampire takes 2 unpreventable aggravated damage after the action resolves.\n> [FOR] As above, but the acting vampire takes 1 unpreventable aggravated damage.\n>\n> Name: Force of Will\n> Cardtype: Action\n> Cost: 1 blood\n> Discipline: Fortitude\n> Only usable by a tapped vampire.\n> [for]  Bleed with +1 bleed. After resolution, this vampire takes 2 unpreventable aggravated damage even if the action is blocked.\n> [FOR] As above, but with +2 bleed, and the acting vampire takes only 1 unpreventable aggravated damage.\n>\nIgnore the Searing Flames only affects damage inflicted during combat, not after resolution (Daring the Dawn, Force of Will).\n\nConcordance would work, though (but you would burn blood to heal Force of Will and Daring the Dawn's damage).",
+      "Id": "46255"
+    },
+    {
+      "Author": "galliard",
+      "Date": "Mar 26, 2013, 8:18\u202FAM",
+      "Body": "Thank you. I misunderstood round of fight with Metuselah turn.\nSo Ignore Searing Flame is best used with Dawn Operation.",
+      "Id": "46256"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 26, 2013, 9:21\u202FAM",
+      "Body": "> galliard wrote:\n> Thank you. I misunderstood round of fight with Metuselah turn.\n> So Ignore Searing Flame is best used with Dawn Operation.\n>\nI'm not sure what \"best\" means, when the cards don't interact.\nDaring the Dawn is best used with Jua Vema, for instance.",
+      "Id": "46259"
+    },
+    {
+      "Author": "galliard",
+      "Date": "Mar 26, 2013, 9:44\u202FAM",
+      "Body": "But they do interact. You burn just one blood with ItSF, and are immune to any damage in combat after Dawn Operation. You can do anything to opponent",
+      "Id": "46261"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Mar 26, 2013, 10:16\u202FAM",
+      "Body": "> But they do interact. You burn just one blood with ItSF, and are immune to any damage in combat after Dawn Operation. You can do anything to opponent\n>\nBut they do interact. You burn just one blood with ItSF, and are immune to any damage in THAT ROUND after Dawn Operation. You can do anything to opponent\n\nOne press, and you risk collecting that very agg damage yourself. Not a major nuisance, but still a risk to have in mind.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "46262"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Mar 26, 2013, 2:07\u202FPM",
+      "Body": "Just my two cents, ive used concordance with petaniqua and nergal, (petaniqua for combat reasons though) and nergal is stupid good with such shenanigans. Base nergal can bleed, get a cog, freak drive for free, and get concordance in one turn. Then, during you preys turn, he can fow bleed for 4, and since its free, he just burns 2 blood for damage from fow and dtd. Or you can use other means of getting a fow bleed through, such as true loves face, croc tongue, elder impersonation, and or srealth or the daimoinion block fails. And if you dont get a fow, you can jusr untap with concordance and bleed as an action. Its not as abusable as madness rachel, but he doesnt have to be untapped and hes more durable in combat.\n\nHope ive helped add to your info.\n\nAs for dawn op, my favorite vamp is Gotsdam. He bleeds or rushes and any blocks are at dawn, and he can mind of yhe wilds or thoughts betrayed to put in crows or whatever as agg. And or bolt on tham to do weather control, or for burst of sunlight while blocking.\n\nBut nergal concordance is better for fow or dtd.",
+      "Id": "46265"
+    }
+  ]
+}

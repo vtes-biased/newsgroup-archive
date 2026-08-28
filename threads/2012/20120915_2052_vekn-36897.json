@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-36897",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/36897-siren-s-lure-vs-unleash-hell-s-fury-also-remover",
+  "Title": "Siren's Lure vs. Unleash Hell's Fury (also Remover)",
+  "Messages": [
+    {
+      "Author": "Adonai",
+      "Date": "Sep 15, 2012, 8:52\u202FPM",
+      "Body": "How does  Siren's Lure interact with a block attempt from  Unleash Hell's Fury ?\n\nIs UHF tapped? (notice that it can't block, which would make it cease to be a minion, before it was tapped by the SL text)\n\nDoes it matter that  UHF is tapped, i.e. can it block while tapped?\n\nWhat happens if  UHF is tapped by  Remover ? Can it still block?\n\nIs there a comprehensive Siren's Lure interaction list/FAQ?\nHere are all of LSJ's posts that include the term.",
+      "Id": "36897"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Sep 15, 2012, 9:05\u202FPM",
+      "Body": "UHF can attempt to block even if it's tapped. www.vekn.net/index.php/forum/6-rules-questions/15007-what-about-a-tapped-unleash-hells-fury\n\nBlock denial works on UHF just as with any vampire. But as it's no longer a minion after it stops blocking the rest of the Siren's Lure's text is irrelevant.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "36900"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 18, 2012, 5:18\u202FAM",
+      "Body": "> Adonai wrote:\n> How does  Siren's Lure interact with a block attempt from  Unleash Hell's Fury ?\n>\nUHF's block attempt fails, and the modifying vampire taps.\n\n> Adonai wrote:\n> Is UHF tapped? (notice that it can't block, which would make it cease to be a minion, before it was tapped by the SL text)\n>\nUHF isn't tapped. As soon as it ceases to block, it ceases to be \"that minion\".\n\n> Adonai wrote:\n> Does it matter that  UHF is tapped, i.e. can it block while tapped?\n>\nIt can block while tapped:  [LSJ 20100210] .\n\n> Adonai wrote:\n> What happens if  UHF is tapped by  Remover ? Can it still block?\n>\nYes, per the link above.\n\n> Adonai wrote:\n> Is there a comprehensive Siren's Lure interaction list/FAQ?\n> Here are all of LSJ's posts that include the term.\n>\nIs there anything unclear with Siren's Lure?",
+      "Id": "37107"
+    },
+    {
+      "Author": "islandofyiaros",
+      "Date": "Sep 18, 2012, 3:25\u202FPM",
+      "Body": ">>Is there anything unclear with Siren's Lure?\n\nYes, I'm a bit unclear as to how Siren's Lure interacts with Psyche!, Form of Mist, and other copies of itself. I'm sure I've seen the ruling before from LSJ on rec.games.trading-cards.jyhad, but I can't find it.\n\nPlease elaborate when you have the time.\n\n-- Brian",
+      "Id": "37164"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Oct 15, 2012, 5:58\u202FAM",
+      "Body": "> islandofyiaros wrote:\n> >>Is there anything unclear with Siren's Lure?\n>\n> Yes, I'm a bit unclear as to how Siren's Lure interacts with Psyche!, Form of Mist, and other copies of itself. I'm sure I've seen the ruling before from LSJ on rec.games.trading-cards.jyhad, but I can't find it.\n>\nThere's something about not being able to queue up more combats beyond one past the current one. I forget exactly. Ask Pascal.",
+      "Id": "39113"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 15, 2012, 6:16\u202FAM",
+      "Body": "> BenPeal wrote:\n>\n> > islandofyiaros wrote:\n> > >>Is there anything unclear with Siren's Lure?\n> >\n> > Yes, I'm a bit unclear as to how Siren's Lure interacts with Psyche!, Form of Mist, and other copies of itself. I'm sure I've seen the ruling before from LSJ on rec.games.trading-cards.jyhad, but I can't find it.\n> >\n> There's something about not being able to queue up more combats beyond one past the current one. I forget exactly. Ask Pascal.\n>\nAh, that one went quite unnoticed... Thank you, wowlijetgold for bringing it back !\n\nSo, the general ruling is: You can't queue a combat if there is already one queued right after the current one.\n\nThis basically means:\n- You can't play Psyche! if someone (usually the opponent) played Blissful Agony (unless you've dodged).\n- You can, however, play Telepathic Tracking on Blissful Agony, as it doesn't create a new combat.\n- You can't play Psyche! if someone (usually the opponent) played Illusions of the Kindred (unless you've dodged).\n\nNow, Siren's Lure does queue a combat, but after the action's resolution. So we need to consider the following situations:\n\n- Can I play two Siren's Lures on the same action? => No.  [LSJ 20020123]\n\n- Can I play Psyche! during the action's resolution (and before the Siren's Lure combat) ? => Yes.  [LSJ 20090324]\n\n- Can I play Psyche! after the Siren's Lure combat? => Yes.\n\n- If I play Siren's Lure, and then am block, and in the resulting combat, play Form of Mist and continue the action, when does the Siren's Lure's combat start? => After the last resolution, and not as soon as the first resolution is reached. That is: You continue your action, and after it's successful / finally blocked, Siren's Lure kicks in. (this is probably a new ruling, but it stands there for coherence with the other rulings).\n\n- Can I play sup' Form of Mist in the Siren's Lure combat? => Yes, but you won't be able to continue the action (Siren's Lure states we are now past resolution).",
+      "Id": "39122"
+    }
+  ]
+}

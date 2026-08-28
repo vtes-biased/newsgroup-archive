@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-38130",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/38130-bleed-modifiers-on-currently-blocked-bleed",
+  "Title": "Bleed modifiers on currently blocked bleed",
+  "Messages": [
+    {
+      "Author": "Kiddo",
+      "Date": "Oct 1, 2012, 8:48\u202FAM",
+      "Body": "OK, i feel silly for asking this as I know I should know this one...however, it turns out that my gaming group plays it differently than another one. So, my question is:\n\nCan you increase a bleed (via non-stealth providing modifiers, like Conditioning) that is being currently blocked, presumably in order to try and draw into a stealth/block fail etc?\n\nWe've always played it in a way that you cannot, that only currently unblocked bleed can be increased, but there are other interpretations, too.",
+      "Id": "38130"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Oct 1, 2012, 9:00\u202FAM",
+      "Body": "As far as I know, yes you can. You can goverd, get blocked and then play conditioning, etc, etc, to cycle hand and get the stealth or the S:CE...",
+      "Id": "38131"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Oct 1, 2012, 9:04\u202FAM",
+      "Body": "> Kiddo wrote:\n> Can you increase a bleed (via non-stealth providing modifiers, like Conditioning) that is being currently blocked, presumably in order to try and draw into a stealth/block fail etc?\n>\nWell, as long as you haven't moved on to the \"resolve block\" phase, sure?\n\nI take it you mean a situation where player A is doing a bleed, player B (prey) declares that minion X will try to block? At that point, A can play action modifiers freely (only one of each, of course), and those may well be bleed modifiers. That's actually a somewhat common event, when A is trying to draw into some stealth (or a combat ends, if the blocker looks nasty .",
+      "Id": "38132"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Oct 2, 2012, 7:53\u202FAM",
+      "Body": "> PetriWessman wrote:\n> Well, as long as you haven't moved on to the \"resolve block\" phase, sure?\n>\nThis is the important part. If you declare that the action is blocked and move onto the rest of resolution you can't back up and play  .\n\nHowever, people forget that when someone is attempting to block and has intercept equal to the acting minion's stealth that isn't instantaneously a resolved block. It will lead to a resolve block if nothing in the game state changes, true. But that's why people can keep playing  &  until they are finished playing anymore -- because they want to change the game state of the action's current resolution likelihood.\n\nWe may often speak colloquially that intercept=stealth therefore means blocked. Yet it's more appropriate to say that the blocker is currently blocking, as in present tense and not yet resolved. Well, naturally until that point when everyone is done playing  &  and the action state does move into resolution, of course.",
+      "Id": "38216"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 2, 2012, 9:32\u202FAM",
+      "Body": "Ok, let's get back to the basics, in our case: impulse,.\n\nSay Arika plays basic Govern the Unaligned. Arika has the impulse in the \"as announced\" window, as she is the acting vampire. She declines to play/use any effects here (Seduction would be used here).\nAll other players pass on using stuff in the \"as announced\" window.\n\nImpulse goes back to Arika (we haven't declared any block attempts yet), and she can play the regular action modifiers (Conditioning, Daring the Dawn, Perfect Paragon, ..). Let's say she plays nothing here.\nHer prey's Carna declares a block attempt with Carna. This gives the impulse back to the acting minion.\nWe now check stealth vs intercept. There is currently more intercept than stealth, so Arika can play stealth cards. There is nothing that limits the cards she can play to stealth cards. For instance, Arika could play a Daring the Dawn, or a Conditioning.\nLet's assume Arika plays a superior Faceless Night. She keeps the impulse (the acting Methuselah keeps the impulse as long as she plays cards /uses effects).\nWe check again stealth vs intercept. Stealth is still needed, so Arika can play stealth modififers or any other modififers (Daring the Dawn, Conditioning, ..). Let's say she plays sup' Command of the Beast (also known as \"fishing for stealth\"). Her controller keeps the impulse.\nWe now check stealth vs intercept. Stealth is still needed. Let's say Arika plays superior Lost in Crowds. Her controller keeps the impulse.\nWe now checck stealth vs intercept. Stealth is no longer needed, so Arika cannot play *stealth* cards. Carna, on the other side, is still the minion attempting to block, and sup' Elder Impersonation or Kiss of Ra can be played. Arika declines to play anything and passes the impulse to Carna's controller. Carna plays sup' Precognition (as intercept is needed), and the impulse goes back to Arika's controller. Arika can play sup' Elder Impersonation, Kiss of Ra, Daring the Dawn, ... She declines to do so.\nThe impulse goes back to Carna (target of the D action), who can play intercept cards (as intercept is needed). She declines to do so. Carna is still the blocking minion.\nWe then proceed clockwise (from the acting player) to determine if anyone wants to modify Carna's block attempt of Arika's action. Stuff that could modify it: KRCG, WMRH, Maris Streck (all these could increase Carna's intercept), someone using a Draba on Arika, ...\nIf a player uses such an effect, the impulse goes back to Arika's controler, and we check stealth vs intercept (as above).\nOtherwise, when everyone passes, we perform a stealth vs intercept check, and this determines whether Carna's current block attempt is successful or not.\nIf it is, then the action is blocked, and the combat will start.\nOtherwise, Arika's controller has the impulse, and can play stuff like Conditioning, Daring the Dawn, but no longer Kiss of Ra (as Carna is no longer blocking).\nOnce Arika's controller is done with playing stuff, the impulse goes to Carna's controller, who either declares a block attempt, or declines declaring block attempts. Decline declaring block attempts is a final decision.\n\nI hope this (lengthy) description makes things clearer.\nShort version is: You can play Conditioning anytime after the \"as announced\" window, and before resolution. That's also true for all non-stealth action modifiers (keeping in mind the Golden Rule of Cardtext).",
+      "Id": "38221"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 2, 2012, 9:40\u202FAM",
+      "Body": "> Pascal wrote:\n> Ok, let's get back to the basics, in our case: impulse.\n>\nSuggestion for the future : actually include the impulse in the rulebook. The rule is clear and everything, it's just odd to not see the term in the rulebook.",
+      "Id": "38222"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Oct 3, 2012, 3:27\u202FAM",
+      "Body": "1.6.1.5 Sequencing\n\nSequencing. If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n\nThere isn't a real issue when someone speaks of the \"impulse\", because that word is just shorthand for \"the opportunity\" in 1.6.1.5, above.\n\nInstead of putting yet another cumbersome definition of a term into the rulebook, I suggest instead that a)people read the rulebook from front to back, and b)when using the term \"impulse\", that Pascal (as the official rulesmonger) always, always cite \"1.6.1.5 Sequencing\" so that we do not have to put another cumbersome definition of a term into the rulebook.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "38269"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 3, 2012, 4:16\u202FAM",
+      "Body": "You could make a simple edit to that section.\n>\n> 1.6.1.5 Sequencing\n>\n> Sequencing.\n> If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect (referred to as Impulse). So after playing one effect, she may play another and another. Once she is finished, the opportunity passes, or impulse, to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity, or impulse, to play the next effect.\n>\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38270"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Oct 3, 2012, 4:19\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> You could make a simple edit to that section.\n> >\n> > 1.6.1.5 Sequencing\n> >\n> > Sequencing.\n> > If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect (referred to as Impulse). So after playing one effect, she may play another and another. Once she is finished, the opportunity passes, or impulse, to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity, or impulse, to play the next effect.\n> >\nOr just refer to opportunity instead of impulse in the future.",
+      "Id": "38271"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 3, 2012, 4:33\u202FAM",
+      "Body": "Impulse is an LSJ legacy, like it or lump it there are many rulings that have been made around the concept of Impulse and it seems the easiest solution to add it into the sequencing rule rather than try to go back and edit every LSJ ruling to have 'opportunity to play cards' inserted for \"impulse\".\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38272"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Oct 3, 2012, 5:24\u202FAM",
+      "Body": "Why do so many people think every word that comes out of every Rulesmonger's mouth needs to be enshrined into the rulebook???\n\nI ask these questions seriously:\n\n1. Are you unable to parse 1.6.1.5?\n2. Are you unable to explain 1.6.1.5 to players?\n3. Are you unable to substitute one word for another?\n\nIf you can do these things, there is likely no need to add another term into the rulebook.\n\nIf you cannot do these things, I would suggest that asking for help understanding the concept is the better way to go -- for you and for the game -- than asking for yet another term to be added to a rulebook that is already too long.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "38276"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 3, 2012, 6:10\u202FAM",
+      "Body": "I'm not making the suggestion because I have issues parsing 1.6.1.5. It's because parsing the, sometimes dense or overly brief, rulings of LSJ (which aren't stored here) makes it harder without the amendment to 1.6.1.5. I, and many others, can no doubt parse 1.6.1.5 just fine. But this game is a game of LSJ Rulings (mostly because PB hasn't had much time to generate a giant raft of his own), the card texts and then sometimes the rulebook.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38277"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Oct 4, 2012, 2:16\u202FAM",
+      "Body": "I await, then, your learned explanation of how introducing a new, single-word term into the rulebook will help you parse any LSJ rulings (which may or may not be listed here).\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "38292"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 10, 2012, 4:13\u202FAM",
+      "Body": "Well, we could condense LSJs rulings, remove them and edit the rulebook to fix it all.\n\nOR\n\nWe could leave the rulebook as a static unchanging and have 10,000 dense, difficult to parse statements from LSJ stored in a now-remote location of the internet.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38771"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Oct 10, 2012, 4:17\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Well, we could condense LSJs rulings, remove them and edit the rulebook to fix it all.\n>\n> OR\n>\n> We could leave the rulebook as a static unchanging and have 10,000 dense, difficult to parse statements from LSJ stored in a now-remote location of the internet.\n>\nOR\n\nWe could leave the rulebook as a static unchanging and have 10,000 statements from LSJ stored in a central place (ie. www.vekn.net/index.php/all-rulings).\n\nThe problem is that far from every LSJ ruling is in this place. My vote goes to your first suggestion though.",
+      "Id": "38773"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Oct 10, 2012, 4:57\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Well, we could condense LSJs rulings, remove them and edit the rulebook to fix it all.\n>\n> OR\n>\n> We could leave the rulebook as a static unchanging and have 10,000 dense, difficult to parse statements from LSJ stored in a now-remote location of the internet.\n>\nI notice how you didn't address my question, which was the entire point of the thread. Interesting.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "38779"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 10, 2012, 5:03\u202FAM",
+      "Body": "Just because I aimed at the principles underneath doesn't mean I didn't answer your question. To make the rules more of a living document rather than relying on people using the, now outdated, Google-Group OR to build layer upon layer of rulings, non-rulebook terminology and possible confusion.\n\nI'm suggesting that LSJs 'impulse' rulings should either:\na) Be replaced by a new general ruling that would appear somewhere like the CRR\nb) Be added explicitly into the rulebook (so that everyone should be able to parse his scattered rulings around the Google-groups and the ones which may appear under All Rulings, which is ironically named).\nc) Be individually replaced by PB & the RT until there are no \"impulse related\" LSJ rulings (so that Impulse vanishes from VTES since it isn't in the rules)\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38780"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Oct 10, 2012, 6:18\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Just because I aimed at the principles underneath doesn't mean I didn't answer your question. To make the rules more of a living document rather than relying on people using the, now outdated, Google-Group OR to build layer upon layer of rulings, non-rulebook terminology and possible confusion.\n>\n> I'm suggesting that LSJs 'impulse' rulings should either:\n> a) Be replaced by a new general ruling that would appear somewhere like the CRR\n> b) Be added explicitly into the rulebook (so that everyone should be able to parse his scattered rulings around the Google-groups and the ones which may appear under All Rulings, which is ironically named).\n> c) Be individually replaced by PB & the RT until there are no \"impulse related\" LSJ rulings (so that Impulse vanishes from VTES since it isn't in the rules)\n>\nAgain: You proceed from a false assumption.\n\nThere are no 'impulse rulings'. There isn't a real issue when someone speaks of the \"impulse\", because that word is just shorthand for \"the opportunity\" in 1.6.1.5, above.\n\nSo, your issue is moot.\n\nI have never had an issue with any player, ever, understanding 1.6.1.5 while using the term 'impulse' to substitute for 'opportunity'.\n\nIf you have, I suggest you view that as an opportunity -- see what I did there?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "38839"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 10, 2012, 6:34\u202FPM",
+      "Body": "So, we are to live with a raft of LSJ rulings that don't use the rules?\n\nor\n\nAre we to live with a bunch of rules, unsupported by rulings?\n\nThis isn't about \"who understands what\" but seriously, there are enough inconsistencies between the Rulebook and the CRR. We don't need to doggedly hold on to the past rulings of LSJ that don't reference the terminology of the actual rules.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38841"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Oct 10, 2012, 6:46\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> So, we are to live with a raft of LSJ rulings that don't use the rules?\n>\nYou keep mislabeling \"not reading and/or comprehending the rulebook\" as \"rulings\". I can't stress how wrongheaded this thinking is and how faulty it is as a basis for a discussion.\n\nI'm sorry but I don't know how we can proceed further.\n\nOn a tangential note, I think we can all agree that the rulebook needs to be updated and/or revised with some things.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "38842"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Oct 10, 2012, 7:37\u202FPM",
+      "Body": "LSJ used \"xe\" terminology a lot, when can we get this added to the official rulebook as well?\n\nthere's a lot of rulings that just said \"correct\" but I can't find what this keyword means in VTES. is it a sect like Sabbat?",
+      "Id": "38848"
+    }
+  ]
+}

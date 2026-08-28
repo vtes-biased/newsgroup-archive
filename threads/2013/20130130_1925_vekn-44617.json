@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-44617",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/44617-moving-retainers",
+  "Title": "moving retainers",
+  "Messages": [
+    {
+      "Author": "ViniFace",
+      "Date": "Jan 30, 2013, 7:25\u202FPM",
+      "Body": "Hi all, this is a simple question:\nif my minion A employs a retainer with Inferior Discipline and later on passes the retainer to my minion B and minion B has the Superior version of the Discipline, do I use the retainer following the Sup or Inf text?\n\nThank you for answering",
+      "Id": "44617"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Jan 30, 2013, 8:09\u202FPM",
+      "Body": "How I understand, if the effect is defined when employing, it does not change effect when moving in whatever means you do it.\n\nUsually restrictions of usage are listed sepparately, for example:\n\nEnchanted Marionette\n\n[Equipment] Equipment\nMalkavian antitribu\n[3 Pool]\nUnique equipment.\nThe Malkavian antitribu with this equipment gets +1 bleed and +1 stealth when bleeding.\n\nI requires !Malk to equip it AND !Malk to use it, hence even if you steal it with diablerie or other means, you can't use it if the vamp is not !Malk\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "44621"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jan 30, 2013, 8:32\u202FPM",
+      "Body": "> ViniFace wrote:\n> Hi all, this is a simple question:\n> if my minion A employs a retainer with Inferior Discipline and later on passes the retainer to my minion B and minion B has the Superior version of the Discipline, do I use the retainer following the Sup or Inf text?\n>\n> Thank you for answering\n>\nThe discipline level of a retainer is set at the time the action is declared and does not change regardless of the discipline level of the vampire who has the retainer.\n\nBy the way, there is no inherent mechanic in the game for one minion to \"pass\" a retainer to another minion. There are cards that can cause the owner of a retainer to change (e.g., Heidelberg Castle, Far Mastery, Virgil, Shepherd's Innocence), but this is not an inherent power of minions. Minions can take equipment from other minions with the same controller, but not retainers, and a vampire does not get the retainers of another vampire it diablerizes. You may know all this already, but it sounds like you may have a confusion.",
+      "Id": "44625"
+    },
+    {
+      "Author": "ViniFace",
+      "Date": "Jan 30, 2013, 9:24\u202FPM",
+      "Body": "I'll be more specific on the case:\n\nCynthia Ingold (ani SPI) plays Muricia's Call (spi ani) to employ Raptor and at this point Cynthia gets +1 intercept.\nLater on I tap Heidelberg Castle and pass Raptor to Muricia.\nWhat now? just +1 cept or hand size effect too?\n\nThank you",
+      "Id": "44630"
+    },
+    {
+      "Author": "DeathInABottle",
+      "Date": "Jan 30, 2013, 10:10\u202FPM",
+      "Body": "> ViniFace wrote:\n> I'll be more specific on the case:\n>\n> Cynthia Ingold (ani SPI) plays Muricia's Call (spi ani) to employ Raptor and at this point Cynthia gets +1 intercept.\n> Later on I tap Heidelberg Castle and pass Raptor to Muricia.\n> What now? just +1 cept or hand size effect too?\n>\n> Thank you\n>\nJust +1 intercept. The retainer's abilities are set by the initial employer, and will never change, even if moved by Heidelberg.",
+      "Id": "44634"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Jan 31, 2013, 2:24\u202FAM",
+      "Body": "Also note that Cynthia is group 2 and Muricia is group 4, so they shouldn't be in the same deck in the first place.",
+      "Id": "44638"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 4, 2013, 11:29\u202FAM",
+      "Body": "Correct answers given by from everyone. Nice catch, Klaital!\n\nThe level of a retainer / equipment / ally is determined when that card is played, and not by the level of discipline (or the clan, should that ever matter) of the bearer / employer.",
+      "Id": "44816"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-13671",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/13671-anarch-revolt-damage-and-cobra-fangs",
+  "Title": "Anarch Revolt damage and Cobra Fangs",
+  "Messages": [
+    {
+      "Author": "fredsct",
+      "Date": "Nov 8, 2011, 12:49\u202FAM",
+      "Body": "Anarch Revolt - Master\nPut this card in play. A Methuselah who does not control a ready anarch burns 1 pool during his or her untap phase. Any vampire can call a referendum to burn this card as a +1 stealth political action.\n\nCobra Fangs - Combat\nRequires Serpentis, costs 1 blood\n(Inferior) Strike: make a hand strike (at strength damage). If any damage from this strike is successfully inflicted on an opposing ally, burn that ally at the end of the action.\n(Superior) As above, and if any damage from this strike is successfully inflicted on an opposing vampire, that vampire goes to torpor during his next untap phase.\n\nSo assume Monte Methuselah controls an Anarch Revolt and Joe Methuselah controls exactly one anarch vampire. One of Monte's vampires gets into combat with Joe's one and only anarch vampire during Monte's turn and successfully inflicts damage using Cobra Fangs at superior. Will Joe lose a pool to the Anarch Revolt during his next untap phase or may he order the Anarch Revolt effect before the Cobra Fangs damage effect? (And, of course, explain your reasoning so I can defend the answer to others...)\n\nApologies for not finding the answer on Usenet posts anywhere. I have a feeling the answer is out there. I used to be pretty good at searching them using the White Wolf rulings web page search function but that's gone now. Do we have anything like that on this site? I couldn't see one right off.\n\nFred",
+      "Id": "13671"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Nov 8, 2011, 1:16\u202FAM",
+      "Body": "You must control 1 or more ready Anarchs at the end of your untap phase to avoid the damage from Anarch Revolt.\n\n> LSJ wrote:\n>\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/38816c5e4204dc37\n>\n> Kushiel wrote:\n> > Does a player choose when to check if he has at least one anarch\n> > vampire to avoid taking damage from Anarch Revolt during his untap\n> > phase, or must he control at least one anarch vampire during the\n> > entirety of his untap phase to avoid losing pool?\n>\n> Xe has to control at least one ready anarch at the end of xer untap phase to\n> avoid losing pool.\n>\n> The effect cannot be applied if the player has any ready anarchs. And the player\n> cannot leave xer untap phase without handling the effect if xe has no ready\n> anarchs. The combination of those two points leads to my first sentence above.\n>\nFor searching, I recommend this page:\n\nwww.thelasombra.com/search.htm\n\nThe original search tool from White Wolf's site is archived there, as are other effective Google Groups search tools.",
+      "Id": "13677"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 8, 2011, 5:25\u202FAM",
+      "Body": "Adonai is, of course, correct.",
+      "Id": "13690"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Nov 8, 2011, 7:50\u202FAM",
+      "Body": "Guys,\nI think Fred was actually asking this:\n>\n> fredsct wrote:\n> Anarch Revolt - Master\n> Will Joe lose a pool to the Anarch Revolt during his next untap phase or may he order the Anarch Revolt effect before the Cobra Fangs damage effect? (And, of course, explain your reasoning so I can defend the answer to others...)\n>\nIANPB, but if there's multiple things ahppening during a phase, the player can choose the order in which the these take place.\n\nSo:\n-check for ready anarch in order not to take damage from Anarch Reveolt (no damage, Combra Fanged vampire still ready)\n-go to torpor from Cobra Fangs\n\nFinnish  Politics!",
+      "Id": "13703"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Nov 8, 2011, 9:28\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> IANPB, but if there's multiple things ahppening during a phase, the player can choose the order in which the these take place.\n>\ntrue.\n\n> So:\n> -check for ready anarch in order not to take damage from Anarch Reveolt (no damage, Combra Fanged vampire still ready)\n> -go to torpor from Cobra Fangs\n>\nwrong.\n\nAnarch Revolt's effect is not \"check for A to be true,\" (like Jeremy Talbot's ability) but it is instead \"if A is true, then B must happen.\"\nif the condition is not met, the effect does not exist at all, and you can not order a nonexistant effect. after Cobra Fangs resolves, it creates the Anarch Revolt effect, which can now be ordered as the player chooses but must be resolved (or cancelled) before the untap phase ends. for example, he may gain pool from vessel first, or use the Warsaw Station to move the vampire back to the ready region (and avoid burning 1 pool).",
+      "Id": "13715"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Nov 9, 2011, 9:49\u202FAM",
+      "Body": "> Haze wrote:\n> wrong.\n>\n> Anarch Revolt's effect is not \"check for A to be true,\"\n>\nIndeed.\nSorry about the brainfart...\n\nFinnish  Politics!",
+      "Id": "13882"
+    }
+  ]
+}

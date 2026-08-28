@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-26170",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/26170-auto-replace",
+  "Title": "Auto-replace",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 18, 2012, 9:14\u202FPM",
+      "Body": "Hey!\nIs there a setting that would have the smileys not replaced? For instance, typing \":)\" wouldn't result in  ?",
+      "Id": "26170"
+    },
+    {
+      "Author": "david.tatu",
+      "Date": "Mar 18, 2012, 9:23\u202FPM",
+      "Body": "I hate those things. Typically I hit the \"Undo\" icon but that is not an option on the boards.\n\nDavid Tatu\nV:EKN Scribe",
+      "Id": "26171"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 18, 2012, 9:30\u202FPM",
+      "Body": "Only way would be adding empty formatting within the code e.g. :) can be accomplished with following code\n:[i][/i])\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "26172"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Mar 18, 2012, 10:23\u202FPM",
+      "Body": "Or you can use code tags (maybe, testing)\n:)\nEdit: or not, works on other forums",
+      "Id": "26175"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 18, 2012, 10:32\u202FPM",
+      "Body": "> jhattara wrote:\n> Only way would be adding empty formatting within the code e.g. :) can be accomplished with following code\n> :[i][/i])\n>\nThe other option is to attach the smiley to the previous word, as in \"I'm really happy:) !\"",
+      "Id": "26176"
+    }
+  ]
+}

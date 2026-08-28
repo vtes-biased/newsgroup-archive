@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-32157",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/32157-ex-nihilo-concordance",
+  "Title": "Ex Nihilo + Concordance",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 16, 2012, 2:01\u202FAM",
+      "Body": "Would these two cards make you immune to all damage if on the same minion??\n\nEx Nihilo\nType: Action\nRequires: Necromancy\nCost: 1 blood\n+1 stealth action.\n[nec] Put this card on this vampire. This vampire gets +1 stealth. Damage he or she inflicts in combat is reduced to 0, and he or she is immune to non-aggravated damage. This vampire cannot gain blood; any blood he or she gains goes to the blood bank instead. During your master phase, this vampire burns 1 blood or is burned. You may burn this card during your untap phase.\n[NEC] As above, but you may burn this card during any Methuselah's untap phase.\n\nConcordance\nType: Action\nRequires: Daimoinon/Serpentis\nCost: 1 blood\n+1 stealth action.\n[ser]  Bleed. If more than 1 pool is bled with this action, ignore the excess.\n[dai] Requires an infernal vampire. Put this card on the acting vampire. This vampire treats aggravated damage as normal damage and has +1 strength and -1 stealth.\n[DAI] As [dai] above, and this vampire has flight [FLIGHT]. During your influence phase, this vampire may burn 1 blood to untap.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "32157"
+    },
+    {
+      "Author": "1up20x6",
+      "Date": "Jun 16, 2012, 2:28\u202FAM",
+      "Body": "I don't think so, because even the vampire treats aggravated damage as normal damage, it still actually is aggravated, so Nihilo wouldn't defend against it.\n\nThink of it like this - the vampire treats it as normal damage, but Nihilo doesn't.\n\nI'm sure someone else can find the ruling that states this.\n\nAny deck can win, whether you're using stealth bleed, rush combat, or Soul Gem combos. It doesn't matter if your minions use Auspex, Thaumaturgy, or Melpominee. What matters is the Methuselah uses Presence. That is how deals are made. That is how games are won.\n\nNo, you misunderstand. I don't want...",
+      "Id": "32158"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jun 16, 2012, 5:19\u202FAM",
+      "Body": "Questions about aggravated damage being treated as normal pop up about once per month. It shows that the wording \"treats as\" is not clear enough. How about \"this vampire can heal aggravated damage and is not destroyed by unhealed aggravated damage\" instead?",
+      "Id": "32160"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 16, 2012, 7:21\u202FAM",
+      "Body": "Has been  ruled on before here .\n\n> on the other hand, if aggravated damage is treated as normal because\n> of a card text, and you are immune to normal damage, then you must be\n> immune to all damage that you treat as normal.\nCorrect.\n\nThe vampire treats the incoming unprevented aggravated damage as if\nit were normal damage.\n\nIf this vampire is immune to normal damage (via Ex Nihilo for example),\nthen the incoming damage which he treats as normal will be ignored.\n\nLSJ\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "32163"
+    },
+    {
+      "Author": "DeathInABottle",
+      "Date": "Jun 16, 2012, 2:09\u202FPM",
+      "Body": "Neat. Now what can you do with Valerius to make this worthwhile?",
+      "Id": "32167"
+    },
+    {
+      "Author": "Pullen",
+      "Date": "Jun 16, 2012, 7:31\u202FPM",
+      "Body": "It works and all, but it's not worth it. Most of the effect counter each other so all you end up with is flight, no damage coming in or out and bleeding yourself and your minion.",
+      "Id": "32177"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Jun 17, 2012, 5:26\u202FAM",
+      "Body": "> Pullen wrote:\n> It works and all, but it's not worth it. Most of the effect counter each other so all you end up with is flight, no damage coming in or out and bleeding yourself and your minion.\n>\nthe brilliance of this combo is that it avoids contesting of Depravity for the +1 strength bonus. it can even be stacked with it! that's +2 strength for 3 cards, 1 pool, and 2 blood = so overpowered OMGWTFBBQ\n\nnow you just need a way to use that +2 strength that does not involve combat",
+      "Id": "32185"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 18, 2012, 5:01\u202FAM",
+      "Body": "> Ke. wrote:\n> Has been  ruled on before here .\n>\n> > on the other hand, if aggravated damage is treated as normal because\n> > of a card text, and you are immune to normal damage, then you must be\n> > immune to all damage that you treat as normal.\n> Correct.\n>\n> The vampire treats the incoming unprevented aggravated damage as if\n> it were normal damage.\n>\n> If this vampire is immune to normal damage (via Ex Nihilo for example),\n> then the incoming damage which he treats as normal will be ignored.\n>\n> LSJ\n>\nCorrect.",
+      "Id": "32217"
+    }
+  ]
+}

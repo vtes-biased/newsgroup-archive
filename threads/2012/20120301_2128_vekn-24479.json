@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-24479",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/24479-troglodytia-and-playing-masters",
+  "Title": "Troglodytia and 'playing' masters?",
+  "Messages": [
+    {
+      "Author": "Klaital",
+      "Date": "Mar 1, 2012, 9:28\u202FPM",
+      "Body": "Ok so does Trogloydytias special trigger only when actually playing a master card the normal way, or does it also trigger from, for example, using lilith's blessing to search your library for a discpline master and putting it on a vampire, or from putting a skill card from your hand on a becoming you just played?\n\nName: Troglodytia\n[LoB:U, HttB:PSam]\nCardtype: Vampire\nClan: Samedi\nGroup: 4\nCapacity: 10\nDiscipline: obf pot AUS FOR NEC THN\nIndependent: When any Methuselah plays a master card, you may look at that Methuselah's hand (after the replacement card is drawn). +1 strength.\nArtist: James Stowe\n\nName: Lilith's Blessing\n[Promo-20100401]\nCardtype: Master\nCost: 1 pool\nMaster.\nPut this card in play. As a master phase action, you may tap this card to search your library for a master: Discipline card and choose a ready non-Bahari vampire you control who has no blood. That vampire gains the Discipline card (if any) and 3 blood and becomes Bahari.\nArtist: Matt Smith\n\nName: The Becoming\n[KoT:U]\nCardtype: Action\nCost: 2 blood\nCapacity: 0\n+1 stealth action. Requires a non-sterile vampire.\nPut this card in play. It becomes a 0-capacity (non-unique) vampire of the same clan as the acting vampire. Move up to 1 blood from the acting vampire and up to 3 Discipline cards from your hand to this vampire. This vampire cannot act this turn. If this vampire has no capacity-increasing Discipline cards, burn him or her.\nArtist: Kyri Koniotis",
+      "Id": "24479"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Mar 1, 2012, 9:35\u202FPM",
+      "Body": "Same question but with Sudden Reversal instead of Troglodytia.\n\nName: Sudden Reversal\n[Jyhad:U, VTES:U, Sabbat:U, SW:U/PV, CE:U, Anarchs:PAB2/PAG, KMW:PAl, LoB:PA/PG/PI, HttB:PKia]\nCardtype: Master\nMaster: out-of-turn.\nCancel a master card played by another Methuselah as it is played (no cost is paid).\nArtist: Harold Arthur McNeill; L. A. Williams; Anna Christenson",
+      "Id": "24480"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 1, 2012, 9:46\u202FPM",
+      "Body": "IIRC, Lillith blessing and Becoming (and other vampire-breeding card that allow to put master discipline card on them) does not play the discipline card but just put it onto the vampire. I can't find a source however, I just recall that it was a qustion about being able to play Abonwe master throught Lillith Blessing.",
+      "Id": "24482"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 1, 2012, 11:56\u202FPM",
+      "Body": "> Klaital wrote:\n> Ok so does Trogloydytias special trigger only when actually playing a master card the normal way, or does it also trigger from, for example, using lilith's blessing to search your library for a discpline master and putting it on a vampire, or from putting a skill card from your hand on a becoming you just played?\n>\nUnless qualified, 'plays' means 'in the normal fashion'.\n\n[LSJ 20050215]\n>\n> LSJ wrote:\n> hCard text: \"you play\" means \"in the normal fashion\" (cf. Sudden\n> Reversal, etc.)\n>\nThe disciplines for The Becoming, Creation Rites, Third Tradition etc. are not master cards played in the normal fashion. They're not subject to Sudden Reversal. From the rulings page:\n\n> Rulings wrote:\n> Sudden Reversal:\n> Can only burn master cards that are played from the hand in the normal fashion (not Elder Library via Bindusara's ability nor the skill card played when Creation Rites is successful, for example). [RTR 20001020]\n>\nAnd that goes for other cancellers - Wash etc.\n\nLilith's Blessing is also not playing the discipline card in the normal fashion. If it was, you'd need two MPAs to use it, one to search, and one for the follow-up normal fashion play. Instead, it's all part of the one ability.\n\nSo Troglodytia shouldn't activate, and card cancellers shouldn't be playable.",
+      "Id": "24489"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 2, 2012, 8:16\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Klaital wrote:\n> > Ok so does Trogloydytias special trigger only when actually playing a master card the normal way, or does it also trigger from, for example, using lilith's blessing to search your library for a discpline master and putting it on a vampire, or from putting a skill card from your hand on a becoming you just played?\n> >\n> Unless qualified, 'plays' means 'in the normal fashion'.\n>\n> [LSJ 20050215]\n> >\n> > LSJ wrote:\n> > hCard text: \"you play\" means \"in the normal fashion\" (cf. Sudden\n> > Reversal, etc.)\n> >\n> The disciplines for The Becoming, Creation Rites, Third Tradition etc. are not master cards played in the normal fashion. They're not subject to Sudden Reversal. From the rulings page:\n>\n> > Rulings wrote:\n> > Sudden Reversal:\n> > Can only burn master cards that are played from the hand in the normal fashion (not Elder Library via Bindusara's ability nor the skill card played when Creation Rites is successful, for example). [RTR 20001020]\n> >\n> And that goes for other cancellers - Wash etc.\n>\n> Lilith's Blessing is also not playing the discipline card in the normal fashion. If it was, you'd need two MPAs to use it, one to search, and one for the follow-up normal fashion play. Instead, it's all part of the one ability.\n>\nCorrect on all counts.\n\n> jamesatzephyr wrote:\n> So Troglodytia shouldn't activate, and card cancellers shouldn't be playable.\n>\nHer ability doesn't activate when Lilith's Blessing is used to put a Discipline card on a vampire, indeed. And Sudden Reversal / Wash / Rewind Time / Bleeding the Vine / Santaleous / .. aren't usable to cancel the putting of that Discipline card.",
+      "Id": "24501"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Mar 4, 2012, 6:59\u202FPM",
+      "Body": "Troglodytia's text says that you look at the player's hand after the replacement card is drawn. Does that only apply to cards replaced normally?\n\nIf your prey plays Liquidation, do you look at their hand after he plays it? Or do you look at his hand during his discard phase, after he replaces the Liquidation?\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "24737"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 4, 2012, 8:00\u202FPM",
+      "Body": "> echiang wrote:\n> Troglodytia's text says that you look at the player's hand after the replacement card is drawn. Does that only apply to cards replaced normally?\n>\n> If your prey plays Liquidation, do you look at their hand after he plays it? Or do you look at his hand during his discard phase, after he replaces the Liquidation?\n>\n\"When any Methuselah plays a master card, you may look at that Methuselah's hand (after the replacement card is drawn).\"\n\nI would think that \"(after the replacement card is drawn)\" is just reminder text.\n\nSo:\n- Methuselah X plays Liquidation, waits for as-played cards\n- all meth's pass\n- Trog meth looks at Meth X hand, by card text (where you'd normally replace)\n- Liquidation effect takes hold\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "24745"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2012, 10:24\u202FPM",
+      "Body": "> KevinM wrote:\n>\n> > echiang wrote:\n> > Troglodytia's text says that you look at the player's hand after the replacement card is drawn. Does that only apply to cards replaced normally?\n> >\n> > If your prey plays Liquidation, do you look at their hand after he plays it? Or do you look at his hand during his discard phase, after he replaces the Liquidation?\n> >\n> \"When any Methuselah plays a master card, you may look at that Methuselah's hand (after the replacement card is drawn).\"\n>\n> I would think that \"(after the replacement card is drawn)\" is just reminder text.\n>\n> So:\n> - Methuselah X plays Liquidation, waits for as-played cards\n> - all meth's pass\n> - Trog meth looks at Meth X hand, by card text (where you'd normally replace)\n> - Liquidation effect takes hold\n>\nCorrect.",
+      "Id": "25071"
+    }
+  ]
+}

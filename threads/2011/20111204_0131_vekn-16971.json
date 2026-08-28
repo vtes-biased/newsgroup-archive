@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-16971",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/16971-offline-judges-kit-and-the-12-2-11-rtr",
+  "Title": "Offline Judges Kit and the 12/2/11 RTR",
+  "Messages": [
+    {
+      "Author": "Adonai",
+      "Date": "Dec 4, 2011, 1:31\u202FAM",
+      "Body": "Will the offline judge's kit be updated with the new rulings, errata, clarifications, etc?\n\nwww.vekn.net/images/stories/downloads/vtes-offline-judges-kit.zip",
+      "Id": "16971"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 4, 2011, 10:13\u202FAM",
+      "Body": "Hm, I'll try to. I can't guarantee it'll be there on Jan 1st. I don't know how to regenerate the pdf files though.",
+      "Id": "16985"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Dec 4, 2011, 5:11\u202FPM",
+      "Body": "Original steps taken to generate the PDFs:\n\n1) Install  PDF Creator or a similar free PDF printer\n\n2) Copied the HTML into a MS Word document, reformat so that things end on pages appropriately, and rulings/card texts are not split across pages.\n\n3) Print to PDF.\n\nI can provide the original MS Word documents, but updating them would be just as much work as creating them from scratch with the new files.",
+      "Id": "17028"
+    }
+  ]
+}

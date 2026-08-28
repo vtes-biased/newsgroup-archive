@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-52804",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/52804-unburdening-the-bestial-soul",
+  "Title": "Unburdening the Bestial Soul",
+  "Messages": [
+    {
+      "Author": "Pascek",
+      "Date": "Aug 6, 2013, 7:42\u202FPM",
+      "Body": "Hello guys,\n\nJust to clarify, the blood is paid by the acting during his untap phase or during the untap phase of the minion with the card?\n\nThanks!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "52804"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Aug 6, 2013, 9:09\u202FPM",
+      "Body": "Name: Unburdening the Bestial Soul\n\n[BL:R1, LoB:R]\nCardtype: Action\nDiscipline: Obeah Animalism\n[ani] +1 stealth action. Move 1 or more blood from this vampire to any other vampire.\n[obe] As [ani] above, and untap this acting vampire.\n[OBE]  Put this card on an ally or a younger vampire. The minion with this card cannot take actions, block or play reaction cards. During this minion's untap phase, this card is burned unless this acting vampire burns 2 blood.\n\nCard text says that it happens during the untap phase of the controller of the minion with the card.\n\nYou can compare it to for example to Consignment to Duat:\n\nName: Consignment to Duat\n\n[BH:C, KMW:PB2]\nCardtype: Action\nCost: 1 blood\nDiscipline: Serpentis\n[ser]  Steal 1 blood or life from a ready minion.\n[SER]  Put this card on a ready minion. During this minion's untap phase, he or she burns 1 blood or life. If this vampire cannot burn a blood, he or she goes to torpor. Burn this card if this acting minion enters combat or leaves the ready region. A minion can have only one Consignment to Duat.\n\nMarko, Prince of Helsinki",
+      "Id": "52805"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 6, 2013, 9:13\u202FPM",
+      "Body": "Unburdening the Bestial Soul\nType: Action\nRequires: Obeah/Animalism\n[ani] +1 stealth action. Move 1 or more blood from this vampire to any other vampire.\n[obe] As [ani] above, and untap this acting vampire.\n[OBE]  Put this card on an ally or a younger vampire. The minion with this card cannot take actions, block or play reaction cards. During this minion's untap phase, this card is burned unless this acting vampire burns 2 blood.\n\nVamp A plays Unburdening the Bestial Soul on Vamp B. When Vamp B's untap phase happens, Unburdening the Bestial Soul is burned unless Vamp A burns 2 blood.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "52807"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 7, 2013, 4:02\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Unburdening the Bestial Soul\n> Type: Action\n> Requires: Obeah/Animalism\n> [ani] +1 stealth action. Move 1 or more blood from this vampire to any other vampire.\n> [obe] As [ani] above, and untap this acting vampire.\n> [OBE]  Put this card on an ally or a younger vampire. The minion with this card cannot take actions, block or play reaction cards. During this minion's untap phase, this card is burned unless this acting vampire burns 2 blood.\n>\n> Vamp A plays Unburdening the Bestial Soul on Vamp B. When Vamp B's untap phase happens, Unburdening the Bestial Soul is burned unless Vamp A burns 2 blood.\n>\nCorrect.\n\n\"This minion\" always refers to the minion the card is on.\nOtherwise, the wording would be \"the acting minion\" (as it is later on this one), or \"the chosen minion\" (Dirty Contract), or something in the lines of \"the first minion\", when several minions are chosen (Toreador Grand Ball)",
+      "Id": "52816"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Aug 7, 2013, 5:10\u202FAM",
+      "Body": "Perfect, thank you guys.\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "52818"
+    }
+  ]
+}

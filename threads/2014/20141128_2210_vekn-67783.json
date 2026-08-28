@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-67783",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/67783-voter-captivation-question",
+  "Title": "Voter Captivation question",
+  "Messages": [
+    {
+      "Author": "delangen",
+      "Date": "Nov 28, 2014, 10:10\u202FPM",
+      "Body": "Hi WRT SUPerior voter cappin'\n\nVoter Captivation\n[Action Modifier] Action Modifier\n[Presence] Presence\n\nOnly usable after resolving a successful referendum called by this acting vampire.\nThe acting vampire gains X blood from the blood bank, where X is the number of votes by which the referendum passed.\nAs above, but move up to 2 of those blood counters to your pool instead of this vampire.\n\nI need a clarification on how this goes down. We've been playing it as: the vamp calling succesfull vote gains the X blood with the excess draining off as usual and then being able to move up to 2 to pool, but there is a chance that this might not be the way it is intended? Let's say Arika succesfully passes a vote by 32votes does she bloat to max plus gain 2 pool. I much prefer the way we've been doing it: she eventually ends up at 9 +2 to the pool.\n\nthank you lindly",
+      "Id": "67783"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 29, 2014, 4:19\u202FAM",
+      "Body": "After some talk with LSJ when Final Loosening was published... it works like this.\n\nVampire X calls a KRC, it passes by 10 votes and Vamp X plays a Voter Cap @ .\n\nWhen you declare the voter cap, you declare the pool you are getting. That pool never counts as belonging to the vampire but goes direct from the Bank to your pool. The remainder goes to the vampire and only after it is all delivered is the excess removed.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "67784"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2014, 12:24\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> After some talk with LSJ when Final Loosening was published... it works like this.\n>\n> Vampire X calls a KRC, it passes by 10 votes and Vamp X plays a Voter Cap @ .\n>\n> When you declare the voter cap, you declare the pool you are getting. That pool never counts as belonging to the vampire but goes direct from the Bank to your pool. The remainder goes to the vampire and only after it is all delivered is the excess removed.\n>\nCorrect.  [LSJ 20080529]\n> The answer is given in Voter Captivation's card text: \"instead\", meaning the\n> acting vampire never gains that blood (nor \"would gain\" that blood).",
+      "Id": "67834"
+    }
+  ]
+}

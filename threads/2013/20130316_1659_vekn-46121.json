@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-46121",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/46121-playing-several-optional-press-stack",
+  "Title": "Playing several optional press stack?",
+  "Messages": [
+    {
+      "Author": "galliard",
+      "Date": "Mar 16, 2013, 4:59\u202FPM",
+      "Body": "rulebook section 6.4.2\n\n\"The two combatants can continue playing maneuvers (to keep offsetting the effects of their opponent's last maneuver) for as long as they wish. A minion cannot play two maneuvers in a row (which would effectively cancel each other).\"\n\nand 6.4.4\n\"A minion cannot play two presses in a row (which would effectively cancel each other)\"\n\nThis is not clear to me. If i use two Flash on superior to manuever, do i have one or two presses?\nSame with cards like Indomitability.\n\nI believe that additional presses/manuevers are lost. and if opposing minions counters us, we need to play new card. My understanding is that you cannot stack several presses/manouvers for later from combat cards, even if they are optional.\n\nPlease help",
+      "Id": "46121"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Mar 16, 2013, 5:12\u202FPM",
+      "Body": "Maneuvers and presses gained are for the current round of combat only (unless card text specifies otherwise).\n\nFor example, you maneuver to long with Flash at CEL, your opponent maneuvers close with Unflinching Persistence at FOR, and you maneuver to long again with Flash at CEL, you have two (optional) presses in that round. If you press to continue, your opponent may press to end (e.g. with Indomitability at FOR), and then you can press to continue with your second optional press.\n\nIf your opponent did not press at the end of round 1, your second optional press would be lost and unusable during round 2.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "46123"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Mar 16, 2013, 5:19\u202FPM",
+      "Body": "6.4.2. Determine Range: \"If a combat card played by a minion has a maneuver as part of an effect, the maneuver must be used that round of combat.\"\n\n6.4.4. Press The rulebook doesn't say the exact same thing for presses, but it does say \"Presses can be used to continue combat (start another round of combat) or to end combat (cancel an opponent's press), similar to the way maneuvers are used to determine range\" which can be interpreted to include \"must be used that round of combat.\"\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "46124"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Mar 16, 2013, 5:35\u202FPM",
+      "Body": "Well, you wrote yourself \"CAN\", so you can't misinterpret it as a \"must\". I mean it is exact the same as with manouvers, unless explicitly stated otherwise.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "46125"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Mar 16, 2013, 6:30\u202FPM",
+      "Body": "I'm just quoting the rulebook. That way the rules work, it is interpreted to mean \"the maneuver must be used that round of combat {if at all}.\"\n\nIt might be better phrased as \"the maneuver may only be used that round of combat.\"\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "46126"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 17, 2013, 9:05\u202FAM",
+      "Body": "What about quoting the actual cardtext of the involved cards?\n\n> Name: Flash\n> [Jyhad:C, VTES:C, Sabbat:C, SW:C/PB2, FN:PA5, CE:C/PB6/PTo3, Anarchs:PAG3, Third:PB5]\n> Cardtype: Combat\n> Discipline: Celerity\n> [cel] Maneuver or press.\n> [CEL] Maneuver, with an optional press this round.\n> Artist: Harold Arthur McNeill; John McCrea\n>\nSo, say you play two Flashes at superior during the Set Range step. That grants you two optional presses (that you'll be able to use in the Press step).\n\nRead the \"A minion cannot play two maneuvers\" as \"A minion cannot use two maneuvers\" in the quoted section.\n\nJeff Kuta's answers are correct. Earned \"optional press\" / \"optional maneuver\" are not lost if a second \"optional press\" / \"optional maneuver\" would be gained too.\n\nSee also cards such as Nose of the Hound:\n>\n> Name: Nose of the Hound\n> [BL:C2, LoB:C]\n> Cardtype: Action\n> Discipline: Spiritus/Auspex\n> +1 stealth action.\n> [aus]  Enter combat with a ready tapped minion controlled by another Methuselah. This acting minion gets an optional maneuver in that combat.\n> [spi] As [aus] above, with an additional optional maneuver during that combat.\n> [SPI] As [spi] above, but enter combat with any ready minion controlled by another Methuselah.\n>",
+      "Id": "46133"
+    }
+  ]
+}

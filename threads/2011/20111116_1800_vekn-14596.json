@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-14596",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/14596-rewind-time-and-wake-cards",
+  "Title": "Rewind time and wake cards",
+  "Messages": [
+    {
+      "Author": "Forhead",
+      "Date": "Nov 16, 2011, 6:00\u202FPM",
+      "Body": "Can Rewind Time both  and  be used by first playing a wake card i.e. by a tapped minion? The 'All rulings' part of vekn.net says that Special Report don't work with Rewind Time, so I guess that goes for Eluding the Arms of Morpheus as well\n\nRewind Time\nType: Reaction\nRequires: Temporis/Presence\nCost: 2 blood\nReduce a bleed against you by 1.\n[tem] Cancel an action card as it is played (the acting minion is not tapped).\n[TEM] Usable by a ready, untapped vampire even though there is no action. Cancel a non-out-of-turn master card as it is played during any other Methuselah's master phase (no cost is paid). The Methuselah who played that card gains another master phase action.\n\nOn the Qui Vive\nType: Reaction\nOnly usable by a tapped minion. This reacting minion can play reaction cards and attempt to block as though untapped until the current action is concluded. If this minion is an ally, he or she does not untap as normal during his or her next untap phase. A minion may play only one On the Qui Vive between his or her untap phases.\n\nIsak Esbj\u00F6rnsson Bj\u00E4rmark",
+      "Id": "14596"
+    },
+    {
+      "Author": "Smaul",
+      "Date": "Nov 16, 2011, 6:21\u202FPM",
+      "Body": "You can use on the qui to use rewind time in inferior temporis. You can't use on the qui( or similar cards) to play it superior temporis as there is no action.\nThe key why you can\u00B4t use special report or eluding to play rewind time at inferior temporis is because the 2 cards both say you try to block the action. As played window period goes before any block attempts are made, so by the time you would try to cancel the card with inferior temporis after playing special report, you couldn't.\nThe rulebook specifies that you can play wake with the evening\u00B4s freshness and similars in the as played window period. Cards and habilities that specifie that and wake like cards are the only ones permited.",
+      "Id": "14603"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 16, 2011, 10:59\u202FPM",
+      "Body": "The Rulebook (1.6.1) specify cards such as \"Forced Awakening\" are usable in the \"as played\" window (in addition to cards with explicit cardtext).\n\n\"Cards such as Forced Awakening\" are defined here:  [LSJ 20080130] as cards reading \"this minion may play reaction cards as though untapped\". So far, this includes:\n- Wake with Evening's Freshness\n- Forced Awakening\n- Eyes of Argus\n- Fillip\n- Aye (if you have 3 of them)\n- On the Qui Vive\n\nCards that would untap your minion (Babble, Guard Dogs, Forced Vigilance, ..) and cards that would have you declare a block attempt aren't usable in the \"as played\" window, such as Special Report:  [LSJ 20021011]\n\nWake cards, on the other hand, are reaction cards, and can't be played outside of an action. (Rulebook 1.6.3.6).  [LSJ 20020209] . So you can't Wake+ sup' Rewind Time.\n\nAlso, any non-wake ability can't be used in the as-played window (tapping Barrens, Dreams, Ercyies, ..)",
+      "Id": "14656"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Nov 17, 2011, 8:59\u202FAM",
+      "Body": "Just to get it right:\n\nOn the Qui Vive + Rewind Time at  is possible,\nbut On the Qui Vive + Rewind Time at  is not.\n\nTrue? B)\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "14713"
+    },
+    {
+      "Author": "Smaul",
+      "Date": "Nov 17, 2011, 9:02\u202FAM",
+      "Body": "correct.",
+      "Id": "14716"
+    }
+  ]
+}

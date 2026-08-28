@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-65836",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/65836-blessing-of-chaos-vs-stealth",
+  "Title": "Blessing of Chaos vs. Stealth",
+  "Messages": [
+    {
+      "Author": "Khalid1988",
+      "Date": "Sep 27, 2014, 6:56\u202FPM",
+      "Body": "Hello, I have a question about following scenario:\n\nJoseph Cambridge bleeds with Vermin Channel, which Uncle George tries to block. Uncle George has Blessing of Chaos, but does not get any intercept, thus failing the block.\n\nCan Uncle George gain the benefits of Blessing of Chaos in the situation described above? My assumption is yes but I would like a confirmation. That way it would be possible to prevent the playing of Conditioning even if you would have no real intention to block the action.\n\nName: Joseph Cambridge\n[Third:V]\nCardtype: Vampire\nClan: Nosferatu antitribu\nGroup: 4\nCapacity: 6\nDiscipline: ani dom obf POT\nSabbat bishop: Joseph gets an additional +1 stealth on political actions.\nArtist: James Stowe\n\nName: Uncle George\n[CE:V, Third:PM, BSC:X]\nCardtype: Vampire\nClan: Malkavian antitribu\nGroup: 3\nCapacity: 5\nDiscipline: aus dom obf DEM\nSabbat.\nArtist: Ken Meyer, Jr.\n\nName: Blessing of Chaos\n[Sabbat:R, CE:PM, Third:PM]\nCardtype: Action\nCost: 1 blood\nDiscipline: Dementation\n+1 stealth action.\n[dem] Put this card on the acting vampire. If this vampire attempts to block, the acting vampire cannot play action modifiers requiring Dementation [dem], Chimerstry [chi], Dominate [dom] or Presence . Vampires opposing this vampire in combat cannot play cards that require those Disciplines.\n[DEM] As above, and actions requiring those Disciplines cannot be directed at this vampire.\nArtist: Hannibal King\n\nName: Vermin Channel\n[SoC:C]\nCardtype: Action\nClan: Nosferatu antitribu\nCost: 1 blood\n+3 stealth action.\nBleed.\nArtist: Thomas Manning\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "65836"
+    },
+    {
+      "Author": "Randy",
+      "Date": "Sep 27, 2014, 11:33\u202FPM",
+      "Body": "I would agree but as the acting minion Joseph Cambridge has the impulse to play prior to blockas are declared. Somthing I would do if I see a minion this blessing in play\n\nPrince of Liding\u00F6",
+      "Id": "65838"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Sep 28, 2014, 5:45\u202FAM",
+      "Body": "> Randy wrote:\n> I would agree but as the acting minion Joseph Cambridge has the impulse to play prior to blockas are declared. Somthing I would do if I see a minion this blessing in play\n>\nExactly. The acting minion cannot play Conditioning (or others) after Uncle George declares a block attempt (success does not matter), but he can play it before the block attempt, while he has the impulse.\n\nAs an aside, one of the more amusing aspects of Blessing is that it totally screws over decks relying on bloat via Voter Captivation. As long as a minion with Blessing just attempts to block the political action, the acting minion can't voter cap. Or play Awe, or...\n\nHonestly, if I was building a Dementation deck which wasn't the normal bleed-cheese, I'd put multiple copies of Blessing in. It's a great card.",
+      "Id": "65841"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 30, 2014, 8:17\u202FAM",
+      "Body": "Correct answers.\nOnce blessed George declared a block attempt, there is no possibility to play Conditioning.\n\nThe precedent was with Valerius adv.",
+      "Id": "65891"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Sep 30, 2014, 9:34\u202FAM",
+      "Body": "On a related issue: Can I play superior Perfect Paragon before George can attempt to block? Or asked the way around: Can I play cards to reduce intercept before any intercept attempt has been made? The rules state that you cannot add stealth when none is needed, but what about reduction of intercept?\n\n> Name: Perfect Paragon\n> [KoT:U]\n> Cardtype: Action Modifier\n> Cost: 1 blood\n> Discipline: Presence\n> Only usable during a referendum. This vampire gains 3 votes.\n> Allies and younger vampires get -1 intercept when attempting to block this action.\n>",
+      "Id": "65895"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 30, 2014, 9:42\u202FAM",
+      "Body": "> extrala wrote:\n> On a related issue: Can I play superior Perfect Paragon before George can attempt to block? Or asked the way around: Can I play cards to reduce intercept before any intercept attempt has been made? The rules state that you cannot add stealth when none is needed, but what about reduction of intercept?\n>\n> > Name: Perfect Paragon\n> > [KoT:U]\n> > Cardtype: Action Modifier\n> > Cost: 1 blood\n> > Discipline: Presence\n> > Only usable during a referendum. This vampire gains 3 votes.\n> > Allies and younger vampires get -1 intercept when attempting to block this action.\n> >\nYes we can ! (c)",
+      "Id": "65896"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Sep 30, 2014, 9:48\u202FAM",
+      "Body": "> Pascal wrote:\n> Correct answers.\n> Once blessed George declared a block attempt, there is no possibility to play Conditioning.\n>\n> The precedent was with Valerius adv.\n>\nThats funny, since blessings of chaos existed years before KMW. Guess people like stopping stealth more than SCE, bleed pump, or voter cap........\n\nIve used BoC since a fee months after I started playing; Ive done fighting malks alot. Worth noting if Id just dome bleed cheese, Id probably win more.......",
+      "Id": "65899"
+    }
+  ]
+}

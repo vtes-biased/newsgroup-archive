@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-58770",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/58770-n-a-tye-cooper",
+  "Title": "N/A Tye Cooper",
+  "Messages": [
+    {
+      "Author": "Pagan",
+      "Date": "Jan 22, 2014, 3:36\u202FPM",
+      "Body": "Defeated by text.",
+      "Id": "58770"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 22, 2014, 6:14\u202FPM",
+      "Body": "> Pagan wrote:\n> Defeated by text.\n>\nWell, just in case someone is wondering the same thing: No, Tye Cooper can't burn minions in that are not controlled (for instance: vampires or imbueds in the uncontrolled region, crypt, or out-of-play).",
+      "Id": "58776"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jan 22, 2014, 9:42\u202FPM",
+      "Body": "Can he burn allies that were just recruited this turn, since the rule book says to put them between \"torpor\" amd the ready region, so you know they cant act until the end of the current turn?\nLike, if Slava takes a cog action to recruit garou, returns priority to methuselah whos turn it is, can Tye burn the wolf?",
+      "Id": "58782"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 23, 2014, 11:23\u202FAM",
+      "Body": "Name: Tye Cooper\n[LotN:R]\nCardtype: Ally\nClan: Giovanni\nCost: 3 pool\nUnique wraith with 1 life. 0 strength, 1 bleed.\nTye is immune to non-aggravated damage. He may burn a non-ready minion as a  action. If that action is successful, you may move a library card from your ash heap to your hand (discard afterward).\n\n> ReverendRevolver wrote:\n> Can he burn allies that were just recruited this turn, since the rule book says to put them between \"torpor\" amd the ready region, so you know they cant act until the end of the current turn?\n> Like, if Slava takes a cog action to recruit garou, returns priority to methuselah whos turn it is, can Tye burn the wolf?\n>\nRulebook 6.1.5 (Recruit action): \"If the [recruit] action is successful, the ally is placed in your uncontrolled region, even though it is controlled, to indicate that it cannot act this turn (and the cost, if any, is paid).\"\n\nSo, it's in the uncontrolled region, but it is controlled.\n\nRulebook 1.6.4 (Targets): If a card is played on another card, or selects or chooses or otherwise targets another card, the target card must be in play (i.e., controlled). Vampires in the torpor region are eligible targets by default, but vampires in the uncontrolled region and contested cards are not.\n\nSince the freshly recruited ally is controlled (quoted above) but not ready ( [LSJ 20081229] , it's an eligible target for Tye Cooper.",
+      "Id": "58794"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jan 23, 2014, 6:10\u202FPM",
+      "Body": "If Tye burns your own newly recruited minion, you can pick it up as the library card from your discard pile, right?\n\n(I may neex to build a kazaars diary deck.)",
+      "Id": "58806"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 24, 2014, 8:28\u202FAM",
+      "Body": "Name: Khazar's Diary (Endless Night)\n[LotN:C]\nCardtype: Action\nClan: Giovanni\n+1 stealth action.\nPut the Diary in play, or add a counter to one in play. When a unique minion in play is burned, add another counter. While this card has seven or more counters, Giovanni get [NEC] and may take a +1 stealth action to put a minion from any ash heap into play to represent a wraith ally with 2 life, 0 strength, 1 bleed and +1 stealth.\n\nYes, Tye can burn allies recruited by you the turn you recruit them. And, yes, this would trigger the adding of a counter on Khazar's Diary if the ally was unique.\n\nFollowing ruling on Third Trad + blood sharing (optional conditional effect), it seems you can indeed move the burned ally to your hand.",
+      "Id": "58811"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jan 24, 2014, 2:14\u202FPM",
+      "Body": "Thank you Floppy.\n\n+2 style points for me for remembering to ask about an obscure combo i hypothesized",
+      "Id": "58822"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-68465",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68465-voting-is-complicated",
+  "Title": "voting is complicated",
+  "Messages": [
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Jan 4, 2015, 1:04\u202FAM",
+      "Body": "May a vampire play bribes during a referendum that is automatically passing?\n\nMay a vampire play delaying tactics in a vote that is automatically passing?\n\nI would say no in either case but can't find rulings supporting this.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "68465"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Jan 4, 2015, 5:59\u202FAM",
+      "Body": "From  general rulings you can find this:\n\nIf a referendum will pass automatically (e.g., Cryptic Rider, Charming Lobby, Malkavian Rider Clause, D\u00EDa de los Muertos), then no casting votes or ballots occurs during the automatic referendum, and most \"during a political action\" and \"during a referendum\" effects cannot be used. E.g., Delaying Tactics cannot be used to cancel the referendum. Any effects that operate on the number of votes that the referendum passed by have no effect. [LSJ 19980107]\n\nMarko, Prince of Helsinki",
+      "Id": "68468"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Jan 4, 2015, 11:55\u202FAM",
+      "Body": "> a-e wrote:\n> ... most \"during a political action\" and \"during a referendum\" effects cannot be used.\n>\nWhat determines what can and cannot be used?",
+      "Id": "68473"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 4, 2015, 1:20\u202FPM",
+      "Body": "I can't think of any right now.\nStuff such as Alvaro will still won't get triggered. [thanks Miasmat for spotting this one]\n\nName: Alvaro, The Scion of Angelica\n[Sabbat:V, SW:PL]\nCardtype: Vampire\nClan: Lasombra\nGroup: 2\nCapacity: 9\nDiscipline: dom pre OBT POT\nSabbat Archbishop of Pittsburgh: If Alvaro abstains during a political action, he gains 2 blood at the end of the action. +1 bleed.",
+      "Id": "68474"
+    },
+    {
+      "Author": "Miasmat",
+      "Date": "Jan 5, 2015, 4:41\u202FPM",
+      "Body": "Delaying Tactics/Telepathic Vote Counting/Bewitching Oration says \"Only usable during a referendum.\"\nBribes/Madrigal says \"Only usable during a referendum before votes and ballots are cast.\"\nPoison Pill adds a comma \"Only usable during a referendum, before votes and ballots are cast.\"\n\nI guess it hinges on whether or not there's a \"referendum\" step on a vote that will pass automatically. I just want my free pool from playing Bribes or the cycle of playing Madrigal, even if votes won't be tallied.\n\nI'm also curious if you can play Cryptic Rider (\"Only usable on a successful referendum.\") after the automatically passing vote.\n\nThe Alvaro example is weird to me, since you're saying that he gets to \"Abstain\" even if votes aren't tallied. Which would indicate to me that he'd trigger on a vote canceled by Delaying Tactics if it was played late enough in the referendum.",
+      "Id": "68491"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 5, 2015, 5:35\u202FPM",
+      "Body": "> Miasmat wrote:\n> Delaying Tactics/Telepathic Vote Counting/Bewitching Oration says \"Only usable during a referendum.\"\n> Bribes/Madrigal says \"Only usable during a referendum before votes and ballots are cast.\"\n> Poison Pill adds a comma \"Only usable during a referendum, before votes and ballots are cast.\"\n>\n> I guess it hinges on whether or not there's a \"referendum\" step on a vote that will pass automatically. I just want my free pool from playing Bribes or the cycle of playing Madrigal, even if votes won't be tallied.\n>\nCan't.\n\n> Miasmat wrote:\n> I'm also curious if you can play Cryptic Rider (\"Only usable on a successful referendum.\") after the automatically passing vote.\n>\nYes, you can play \"on/after a successful referendum\" cards after a referendum that successfully passed.\nYou can Voter Cap for 0, or chain your Cryptic Riders.\n\n> Miasmat wrote:\n> The Alvaro example is weird to me, since you're saying that he gets to \"Abstain\" even if votes aren't tallied. Which would indicate to me that he'd trigger on a vote canceled by Delaying Tactics if it was played late enough in the referendum.\n>\nYou are correct to be intrigued, as I was wrong.\nI'll updated my previous answer to make it clearer for future readers.",
+      "Id": "68493"
+    }
+  ]
+}

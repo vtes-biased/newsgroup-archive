@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-58505",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/58505-damage-prevention-outside-of-damage-resolution-phase",
+  "Title": "Damage Prevention outside of Damage Resolution Phase",
+  "Messages": [
+    {
+      "Author": "tmu",
+      "Date": "Jan 12, 2014, 12:37\u202FPM",
+      "Body": "Hi all,\n\nI am wondering if one can play Damage Prevention Cards outside the Damage Resolution Phase. I have read somewhere, that it's not possible but cannot find anything in the rules or the Rulings.\n\nThe specific question is for Petaniqua, where the card says \"During any round of combat after the first, a minion opposing Petaniqua takes 2 points of damage before range is determined.\"\nThe Question is, is this damage preventable by Damage Prevention Combat Cards?\nIs this Damage Preventable by other cards (f.e. flak jacket) - I believe so.\nCan someone point me to the Ruling, when you may play combat prevention cards?\nOr is there no ruling and you can play them anytime during combat?\n\nthnx\n\nT\n\nSorry, I placed this rule question in the wrong Catecory.\ncan someone move this to rule questions please?\nthnx",
+      "Id": "58505"
+    },
+    {
+      "Author": "Corvis",
+      "Date": "Jan 12, 2014, 12:42\u202FPM",
+      "Body": "you can play cards which do not have wording \"from opposing minion strike\", since there is no strike. you can play other damage prevention cards (they are just much less in numbers)",
+      "Id": "58507"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 12, 2014, 2:35\u202FPM",
+      "Body": "> tmu wrote:\n> The Question is, is this damage preventable by Damage Prevention Combat Cards?\n>\nYes. The main issues with damage prevention are:\n\n- was the damage from a strike? You can't use a card like Skin of Steel (prevent damage from a strike) to prevent damage from Carrion Crows (not a strike).\n\n- was the damage done outside combat? You can't play combat cards to prevent damage done outside combat. For example, Catatonic Fear deals damage outside of combat, so you can't play Soak to prevent it. (But you could burn a Leather Jacket or use Surge counters.)\n\n> tmu wrote:\n> Can someone point me to the Ruling, when you may play combat prevention cards?\n> Or is there no ruling and you can play them anytime during combat?\n>\nYou can play damage prevention during combat, any time there's damage to prevent. (And the damage isn't unpreventable, of course.)\n\n[LSJ 20100526]\n>\n> LSJ wrote:\n> On May 25, 5:36 pm, Blooded Sand <> wrote:\n> > On May 25, 11:11 pm, Drago13 <> wrote:\n> >\n> > > There was a situation a couple of days ago when some Trujah was\n> > > blocked by The Unnamed.\n> > > He played Outside the hourglass to inflict 2 damage on The Unnamed.\n> > > Can The Unnamed play Flesh of Marble to reduce damage taken to 1?\n> > > Or does OTH resolve right away before any cards can be played by\n> > > blocking minion?\n> > > My guess is the latter, but not everyone in my gaming group thinks\n> > > that way.\n> > > Their argument is that Flesh of Marble is a damage preventing effect\n> > > and so it can be played during ''prevent damage'' step of damage from\n> > > OTH, similar to using Soak or smth.\n> >\n> > Nope. You can play soak and skin of rock and anything similar to\n> > prevent outside the hourglass. That damage is preventable. You CANNOT,\n> > however, play skin of steel, rolling with the punches at FOR or\n> > similar, that specify damage from a strike, to prevent it.\n> >\n> > You can play flesh of marble at any time, there are no timing\n> > restrictions (apart from in combat of course  thus you could play\n> > this, take one, and prevent everything else for the remainder of\n> > combat...\n>\n> Correct.\n>",
+      "Id": "58514"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 13, 2014, 10:56\u202FAM",
+      "Body": "Correct answers.\n\n> jamesatzephyr wrote:\n>\n> > tmu wrote:\n> > Can someone point me to the Ruling, when you may play combat prevention cards?\n> > Or is there no ruling and you can play them anytime during combat?\n> >\n> You can play damage prevention during combat, any time there's damage to prevent. (And the damage isn't unpreventable, of course.)\n>\nCorrect. \"Any time there's preventable unprevented damage\" is just as good.",
+      "Id": "58552"
+    },
+    {
+      "Author": "tmu",
+      "Date": "Jan 15, 2014, 7:51\u202FAM",
+      "Body": "thnx.\nthat answers my question.\n\ntmu",
+      "Id": "58606"
+    }
+  ]
+}

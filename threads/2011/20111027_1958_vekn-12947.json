@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-12947",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12947-repulsion-is-1-stealth-applied-immediately",
+  "Title": "Repulsion - is +1 stealth applied immediately?",
+  "Messages": [
+    {
+      "Author": "DeathInABottle",
+      "Date": "Oct 27, 2011, 7:58\u202FPM",
+      "Body": "Does Repulsion's +1 stealth (at superior) affect the current action, or only subsequent actions?\n\nRepulsion [BL:C1, LoB:C]\nCardtype: Action Modifier\nDiscipline: Obeah/Presence\nOnly usable when the acting vampire's action is announced. If this action is blocked, the acting vampire gets an optional maneuver, only usable to maneuver to long range, during the resulting combat.\n[obe] +1 stealth.\n[OBE] Put this card on this vampire. This vampire gets +1 stealth. Burn this card if this vampire goes to torpor. This vampire cannot have or play another Repulsion.\n\nGiven the different wording of Enkil Cog - \"play after resolution\" - I suspect that Repulsion's +1 stealth kicks in immediately, while the Cog's +1 bleed does not. Correct?\n\nEnkil Cog [KoT:R]\nCardtype: Action Modifier\nRequires a vampire of capacity 10 or more. Unique.\nOnly usable when this vampire successfully bleeds your prey (play after resolution). Put this card on this vampire. During any Methuselah's minion phase, this vampire may tap this card to attempt an action. This vampire has +1 bleed.",
+      "Id": "12947"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Oct 27, 2011, 8:23\u202FPM",
+      "Body": "> All wrote:\n> Repulsion:\n>\n> * The superior Obeah effect can be used even if the stealth is not currently needed.  [LSJ 20011214]\n>\nYes, as soon as the card is put into play, it provides the Vampire with +1 stealth.",
+      "Id": "12949"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 27, 2011, 8:24\u202FPM",
+      "Body": "> DeathInABottle wrote:\n> Does Repulsion's +1 stealth (at superior) affect the current action, or only subsequent actions?\n>\nCurrent action too. Nothing indicates you wait for it - it's just given to the vampire it's on.  [LSJ 20031114]\n\nAlso, you can play it at superior on any action, regardless of whether you 'need' stealth. The trick here is that it's not the play of the card that grants stealth (like Lost in Crowds etc.), but the card being on the vampire - and nothing stops you putting it on the vampire (unless they already have one).  [LSJ 20011214]\n\n> DeathInABottle wrote:\n> Given the different wording of Enkil Cog - \"play after resolution\" - I suspect that Repulsion's +1 stealth kicks in immediately, while the Cog's +1 bleed does not. Correct?\n>\nCorrect. The bleed is already resolved, so Enkil doesn't retrospectively increase it.\n\n[LSJ 20090603]",
+      "Id": "12950"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 27, 2011, 8:33\u202FPM",
+      "Body": "Good answers from jamesatzephyr and Brum.",
+      "Id": "12953"
+    }
+  ]
+}

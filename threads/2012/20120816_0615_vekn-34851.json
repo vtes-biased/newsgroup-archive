@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-34851",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/34851-guns-concealed-weapon",
+  "Title": "GUNS: Concealed Weapon",
+  "Messages": [
+    {
+      "Author": "Agamemnon",
+      "Date": "Aug 16, 2012, 6:15\u202FAM",
+      "Body": "so if I block and use\n\nConcealed Weapon\nLibrary\n\nOnly usable before range is determined.\nThis minion equips with a non-unique weapon card from your hand (requirements and cost apply as normal). The weapon cannot cost 3 or more pool or inflict (with a regular strike) aggravated damage or 4 or more damage.\n\nto equip\n\nSniper Rifle\nLibrary\n\nWeapon, gun.\n2R damage each strike. Only usable at long range. If the bearer blocks an action, he or she may, before range is determined, set the range for the first round of the resulting combat to long; if he or she does so, skip the determine range step that round, and the bearer's initial strike that round must be with this weapon.\n\ndo I get to set the range, or did I miss that window?\n\nHindsight is foresight because we walk in circles",
+      "Id": "34851"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 16, 2012, 6:44\u202FAM",
+      "Body": "Missed it.\nSniper Rifle only gets to trigger its \"If the bearer blocks\" when the block attempt is successful. Concealed Weapon happens during the combat after the block.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34853"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 16, 2012, 6:54\u202FAM",
+      "Body": "Juggernaut1981 is correct.\n[LSJ 20021028]  wrote:\n>\n> > 2) If a minion blocks an action and then equips with a Sniper Rifle\n> > via (inferior) Disguised Weapon, can they use the \"set range\"\n> > effect? In other words, does the minion have to have the weapon\n> > when the block is made, or is it enough to have it before the\n> > choose range combat step?\n>\n> No. The former.\n>",
+      "Id": "34857"
+    }
+  ]
+}

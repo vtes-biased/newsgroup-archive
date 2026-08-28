@@ -1,0 +1,146 @@
+{
+  "ThreadId": "vekn-6870",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/6870-kaymakli-fragment",
+  "Title": "Kaymakli Fragment",
+  "Messages": [
+    {
+      "Author": "Joscha",
+      "Date": "Jul 27, 2011, 6:39\u202FAM",
+      "Body": "How often can a given minion use the Kaymakli Fragment?\n\nKaymakli Fragment\n\nUnique equipment.\nThis Sabbat vampire may allow you to draw 5 cards from your library as an action (discard afterward). This infernal minion may move 3 blood from the bank to a vampire in your uncontrolled region as a +1 stealth action. Any minion may steal this equipment as a strike.\n\na) He can use it once per turn. If it is swapped away via Heidelburt another minion can use it once this turn too.\nb) He can use it once as a Sabbat and once as a infernal per turn.\nc) He can use it multiple times per turn (asuming he can untap in whatever way).\n\nI assume it is a), but one never know...  .\n\nBaron of Frankfurt",
+      "Id": "6870"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Jul 27, 2011, 6:59\u202FAM",
+      "Body": "Once per turn. The question has been asked and answered some time ago, but I cannot find the post.\n\nThe reasoning was that you can't play/use the two effects of a card (like Govern the Unaligned or Kamakli Fragment) twice per turn, since it would violate NRA.",
+      "Id": "6874"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 27, 2011, 7:06\u202FAM",
+      "Body": "> Joscha wrote:\n> How often can a given minion use the Kaymakli Fragment?\n>\n> Kaymakli Fragment\n>\n> Unique equipment.\n> This Sabbat vampire may allow you to draw 5 cards from your library as an action (discard afterward). This infernal minion may move 3 blood from the bank to a vampire in your uncontrolled region as a +1 stealth action. Any minion may steal this equipment as a strike.\n>\n> a) He can use it once per turn. If it is swapped away via Heidelburt another minion can use it once this turn too.\n> b) He can use it once as a Sabbat and once as a infernal per turn.\n> c) He can use it multiple times per turn (asuming he can untap in whatever way).\n>\n> I assume it is a), but one never know...  .\n>\nc) He can use it multiple times per turn, but is limited to perform each of the actions it provides a maximum of one time each turn (that is: the stealing part isn't limited, each turn, and each of the actions it provides is limited by the NRA).\n\nFor reference:  [LSJ 20100909] (EDIT: notice that this was a reversal of an answer given earlier)",
+      "Id": "6875"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jul 27, 2011, 11:30\u202FAM",
+      "Body": "I get the ruling....and it is clear enbough. But on the face it seems to fly in the face of commonly understood NRA mechanics. I need to be able to explain this to my playgroup.\n\nThat ruling boils down to \"you can access different parts of the same card's text with the same minion and not bump up against NRA.\"\n\nIn the case of Frag, that's sonce as Sabbat, once as Infernal, with NRA being based on a vampire's properties.\n\nIt seems to me that normal discipline-based actions cards also have requirements in a similar fashion - that being \"basic\" and \"superior\". So using the logic behind the Fragment rule issued above, I could potentially Govern \"down\" using the [DOM] restriction then \"left\" with the [dom] same minion in a given turn.\n\nIs the reason for the difference in approach that [DOM] is largely dependent on having [dom], while Kaymakli's Sabbat and Infernal requirements are completely independent?",
+      "Id": "6909"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 27, 2011, 11:41\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> It seems to me that normal discipline-based actions cards also have requirements in a similar fashion - that being \"basic\" and \"superior\". So using the logic behind the Fragment rule issued above, I could potentially Govern \"down\" using the [DOM] restriction then \"left\" with the [dom] same minion in a given turn.\n>\n> Is the reason for the difference in approach that [DOM] is largely dependent on having [DOM], while Kaymakli's Sabbat and Infernal requirements are completely independent?\n>\nNo.\nThe reason is that this ruling applies to cards in play:  [LSJ 20100910] .",
+      "Id": "6911"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Jul 27, 2011, 11:42\u202FAM",
+      "Body": "> Pascal wrote:\n> For reference:  [LSJ 20100909] (EDIT: notice that this was a reversal of an answer given earlier)\n>\nThat's really news for me .. thanks for sorting that out!",
+      "Id": "6912"
+    },
+    {
+      "Author": "technobabble66",
+      "Date": "Jul 27, 2011, 11:06\u202FPM",
+      "Body": "So am i correct in interpreting this to mean there's a difference in how NRA is applied depending on whether the card in \"played\" (ie: played straight into the ash heap) or \"in play\" (ie: stays in the play region)?\n\nie: Say i have only 1 vamp out, minion X:\nA *played* action card (that has multiple action options) - eg: Govern - can only have one action performed per turn by minion X\n\nA card *in play* (that has multiple action options) - eg: Kaymakli frag - can have it's first action performed by minion X, then that same minion (if it untaps) can perform the second action option in the same turn\n\nSorry for being a bit pedantic, but this is v different to how i thought it worked (ie: NRA same for everything), so i just wanted to be absolutely clear on it.",
+      "Id": "6962"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 28, 2011, 1:34\u202FAM",
+      "Body": "Multiple Actions from an IN PLAY card are considered to NOT be repeated actions IF the action taken is a separate action on the card IN PLAY.\n\nA card played from the hand has only ONE possible action (e.g. GtU as a Bleed OR GtU Down) since it is NOT in play there are no other possible actions and further uses of that named card are prohibited by the NRA rule.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "6965"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 28, 2011, 5:47\u202FAM",
+      "Body": "> technobabble66 wrote:\n> So am i correct in interpreting this to mean there's a difference in how NRA is applied depending on whether the card in \"played\" (ie: played straight into the ash heap) or \"in play\" (ie: stays in the play region)?\n>\nYes. Which means the little line in the rulebook needs a slight update.\n\n> technobabble66 wrote:\n> ie: Say i have only 1 vamp out, minion X:\n> A *played* action card (that has multiple action options) - eg: Govern - can only have one action performed per turn by minion X\n>\n> A card *in play* (that has multiple action options) - eg: Kaymakli frag - can have it's first action performed by minion X, then that same minion (if it untaps) can perform the second action option in the same turn\n>\nBoth are correct.",
+      "Id": "6979"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Aug 1, 2011, 4:27\u202FPM",
+      "Body": "I sincerely believe that the rulebook needs to be adhered to in this case. LSJ's arbitrary decisions do not need to be upheld on every account, especially when contradicting the written, and widely distributed, rules. This is solely on you as the new Rules Director, of course, but then you should actually make that 'little line' change in some official rules printing.",
+      "Id": "7168"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 2, 2011, 12:26\u202FAM",
+      "Body": "There are so many things that aren't in the \"widely distributed\" rules that it doesn't strike me as a big deal.\n\nI also wonder why, all of a sudden, people are \"against\" LSJ's rulings, and want them overturned. It's nonsensical.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "7205"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 2, 2011, 5:25\u202FAM",
+      "Body": "I'd say that it is way easiest to adhere to LSJ's rulings than to start revising some of them.\n\nYe firste rulese art in ye rulebooke.\nYe seconde rulese art in ye cards but overriding ye rulebooke.\nYe thirde rulese art in ye rulings of ye venerable LSJ.\nYe fourthe rulese art in ye rulings of ye new rulemongere, Pascal.\nYe fifthe rule is that all ye othere interpretation of ye rulese art likely to be heretical.\n\nAlthough, having said that I'd still be happy if you'd actually couldn't use Villein on vamps with less than 2 blood... But you really can't have everything and if I could I'd have a pony!\n\nFinnish  Politics!",
+      "Id": "7207"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Aug 2, 2011, 5:50\u202FAM",
+      "Body": "Actually Lonkka, the issue here is that your third rule has become the first rule. LSJ's ruling here has contradicted the rulesbook, thus begging the question whether the rulebook or LSJ's rulings take precedence.\n\nLSJ's rulings for the most part clarify how cards work in certain instances or go into more depth than the rulebook does. In the case of Villein, LSJ defined what it means to \"move\" blood from a card. His ruling on that did not directly contradict the existing rules. Yes, why go back on it?\n\nBut in this case the ruling contradicts rule 6.1.6 of the rulebook. The ruling was made quietly in September of last year, after the game was discontinued. To me the NRA rules are already a bit hard to teach and retain, so I figure, why change them just for one or two cards?\n\nAnd for Kevin: LSJ did a fine job, but I don't think every ruling he made found unanimous approval.",
+      "Id": "7208"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 2, 2011, 6:05\u202FAM",
+      "Body": "This whole topic is subject to review by the Rules team.\nUntil something else is issued, LSJ's reversal stands.\nIn the future, either the rulebook will be adapted so that the NRA is properly defined for actions from cards in play, or this ruling will be reversed.",
+      "Id": "7209"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 2, 2011, 6:08\u202FAM",
+      "Body": "Thanks Pascal.\nI do hope that any 'game-wide' applicable rulings are incorporated into the core rules, rather than standing alone as rulings. It will return the 'rule book' to the first reference for game-play in general and the rulings for specific cards.\n\nTo that end, I do think it would be worth glossarising key words such as \"Steal\", \"Move\", \"Transfer\" and having them be specific meanings (e.g. if transfer equipment is the same as move equipment... then only one of those words should be used).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "7210"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 2, 2011, 7:24\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> To that end, I do think it would be worth glossarising key words such as \"Steal\", \"Move\", \"Transfer\" and having them be specific meanings (e.g. if transfer equipment is the same as move equipment... then only one of those words should be used).\n>\nIf someone thinks something isn't clear in the rulebook (or the outline, or the tournament rules, or the judges' guide, ...), please let me know. I'll try to handle it, if I think it is necessary. Notifying me won't mean I'll change it, but at least I'll be aware of it.",
+      "Id": "7211"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 2, 2011, 7:59\u202FAM",
+      "Body": "Can't ask for more.\nThanks Pascal.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "7216"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 2, 2011, 10:39\u202FAM",
+      "Body": "> Aaron wrote:\n> And for Kevin: LSJ did a fine job, but I don't think every ruling he made found unanimous approval.\n>\nWith all due respect, that's a meaningless statement unless you want mob rule.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "7224"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Aug 2, 2011, 12:12\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> I'd say that it is way easiest to adhere to LSJ's rulings than to start revising some of them.\n>\n> Ye firste rulese art in ye rulebooke.\n> Ye seconde rulese art in ye cards but overriding ye rulebooke.\n> Ye thirde rulese art in ye rulings of ye venerable LSJ.\n> Ye fourthe rulese art in ye rulings of ye new rulemongere, Pascal.\n> Ye fifthe rule is that all ye othere interpretation of ye rulese art likely to be heretical.\n>\nI might respectfuilly submit that, in the current world, rule the thirde should be rule the firste. We have a rulesmongers for a reason. He MUST have the ability to alter both the rulebook itself and LSJ's rulings if needed.\n\nThis allows Pascal to fix newly any discovered, broken interactions, either with existing or newly printed cards.\n\nJust sayin'",
+      "Id": "7229"
+    },
+    {
+      "Author": "Sudden Reversal",
+      "Date": "Sep 28, 2011, 2:38\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> Although, having said that I'd still be happy if you'd actually couldn't use Villein on vamps with less than 2 blood... But you really can't have everything and if I could I'd have a pony!\n>\nThe only LSJ ruling I have ardently disagreed with.\n\nAs for the Pony, here are two made to order.\n\nAaron\nArchbishop\nAdelaide",
+      "Id": "11072"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 28, 2011, 12:58\u202FPM",
+      "Body": "> Sudden wrote:\n> As for the Pony, here are two made to order.\n>\nYeee -haw!\n\nFinnish  Politics!",
+      "Id": "11088"
+    },
+    {
+      "Author": "cauecoraini",
+      "Date": "Sep 29, 2011, 4:00\u202FPM",
+      "Body": "The rulebook is being adhered to in this case. LSJ is not arbitrary, but very consistent at his rulings.\nThe rules says the you cannot take the SAME action, based on a card in play, and you\u00B4re not taking the SAME action.\nA Govern is always a Govern, at inferior or at superior, so its the SAME action and is affected by NRA, but as the fragments say:\n\nThis Sabbat vampire may allow you to draw 5 cards from your library as an action (discard afterward). <this is one separated action>. This infernal minion may move 3 blood from the bank to a vampire in your uncontrolled region as a<nother> +1 stealth action.\nSo the rulings are not conflitant neither contradicted.",
+      "Id": "11150"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Sep 29, 2011, 4:49\u202FPM",
+      "Body": "> cauecoraini wrote:\n> The rulebook is being adhered to in this case. LSJ is not arbitrary, but very consistent at his rulings.\n> The rules says the you cannot take the SAME action, based on a card in play, and you\u00B4re not taking the SAME action.\n>\nSorry to contradict you, but that is not what the rules say:\n\nRulebook, section 6.1.6.:\nA minion cannot perform an action with the same action card or via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n\nAlthough the indefinite article (an action) is a bit ambiguous, the most literal interpretation of the rule is that you can't take any more than one action from the same card in play per turn.\n\nBoth LSJ (in the original ruling) and Pascal have acknowledged that the ruling being discussed was a change in the rules.",
+      "Id": "11155"
+    }
+  ]
+}

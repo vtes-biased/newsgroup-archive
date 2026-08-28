@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-11603",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/11603-babble-wakes",
+  "Title": "Babble +Wakes",
+  "Messages": [
+    {
+      "Author": "technobabble66",
+      "Date": "Oct 7, 2011, 9:53\u202FAM",
+      "Body": "Is it possible to have a tapped minion play a Wake/OtQV/Forced and then play a Babble at superior to untap another minion?\n\nWake with Evening's Freshness\nReaction\nDo not replace until your next untap phase.\nOnly usable by a tapped vampire. This reacting vampire can play reaction cards and attempt to block as though untapped until the current action is concluded.\n\nBabble\nReaction\nDementation\nGive another ready minion +1 intercept.\nTap this vampire to untap another ready minion. Not usable by a blocking minion.\n\nThanks in advance",
+      "Id": "11603"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Oct 7, 2011, 10:16\u202FAM",
+      "Body": "\"Tap Y to do X\" means that you need to complete the changement of state from untapped state to tapped state for being able to do X, so a tapped vampire can't play Babble at superior.",
+      "Id": "11604"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 7, 2011, 10:17\u202FAM",
+      "Body": "> technobabble66 wrote:\n> Is it possible to have a tapped minion play a Wake/OtQV/Forced and then play a Babble at superior to untap another minion?\n>\nNo.\nBabble uses the \"tap X to do Y\", which requires X to tap (from an untapped state) to have Y happen.  [LSJ 20050221]",
+      "Id": "11605"
+    },
+    {
+      "Author": "technobabble66",
+      "Date": "Oct 7, 2011, 11:01\u202FAM",
+      "Body": "Suspected. Disappointed\n\nThanks",
+      "Id": "11609"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Oct 7, 2011, 11:06\u202FAM",
+      "Body": "I managed to be faster than Pascal",
+      "Id": "11610"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Oct 8, 2011, 7:54\u202FAM",
+      "Body": "Tangential to the topic, I've been thinking about Babble as an indirect means to irritate bounce. Using Babble during your predator's last few actions to untap some of your grandprey's minions would help against being bounced. Naturally, Change of Target and the like also help. Doesn't work well with traditional S&B, though.\n\nMight work. But then I find Bloodstones entertaining to use on my grandpredator's stealthy bleeders to disrupt my predator's bounce. So perhaps I'm just crazy, is all.",
+      "Id": "11655"
+    },
+    {
+      "Author": "Xaddam",
+      "Date": "Oct 8, 2011, 8:02\u202FAM",
+      "Body": "I'm a bit curious how to understand this part of the card text of wakes: \"This reacting vampire can play reaction cards and attempt to block as though untapped until the current action is concluded\". My logic understands that as: if I play Babble \"as though untapped\" I should be able to play it at superior, no?\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "11656"
+    },
+    {
+      "Author": "technobabble66",
+      "Date": "Oct 8, 2011, 12:07\u202FPM",
+      "Body": "Yeah, that's kinda why i asked the question. I vaguely remember the clarification that u do actually have to be untapped for this sort of card text, but the bit \"as though untapped\" does kinda seem to address this. Maybe it should read something like:\n\"as though untapped, but you're not really untapped, so you can't play stuff that requires you to actually tap\" ... huh?!?!!\n\nI think maybe it has to do with the text of Babble that says \"Tap this vampire...\"\nie: you can play the card, but because you can't actually tap the minion (because it's already tapped) therefore you can't complete the text/reaction, & hence can't play it in the first place...\nSorta make sense i suppose when its put like that ... ;-/",
+      "Id": "11663"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 8, 2011, 3:23\u202FPM",
+      "Body": "As acbishop and I wrote earlier (and as it is written in the ruling I liked), \"tap X to do Y\" requires X to be untapped. I didn't say \"able to play cards as if untapped\", but \"untapped\". In \"tap X to do Y\" , \"tap\" is the cost you have to pay to get Y done.\nRemember that this is not the same as \"Tap X. Do Y\", where \"tap\" isn't a cost (because it's not using the \"tap X to do Y\")",
+      "Id": "11667"
+    },
+    {
+      "Author": "Xaddam",
+      "Date": "Oct 9, 2011, 11:35\u202FAM",
+      "Body": "I see. I would have thought that the minion be recognized as untapped for the duration of playing Babble (that is; it's fictitiously untapped before playing it and then fictitiously tap). A bit like how Mata Hari's special works.\n\nIf cards recognize the difference between their imposed states and their actual states won't that cause problems for other rules? First thing that comes to mind is location equipments (ankara citadel, ruins of villers abbey, etc, etc), they should be able to be destroyed by Anarch Troublemaker it seems to me then. If not, then in what cases does the actual state overrule the imposed state?\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "11688"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 9, 2011, 7:10\u202FPM",
+      "Body": "With a Wake / On the Qui Vive / ..., the minion's considered untapped for playing cards and declaring block attempts. They're not considered untapped for paying costs.\n\n\"Locquipments\" (equipments that become locations while in play) are locations when in play (an only locations) and are equipments while not in play (and only equipments). There's been a discussion on that matter a few weeks ago: vekn.net/index.php/forum/6-rules-questions/10624-two-qs#10676",
+      "Id": "11720"
+    },
+    {
+      "Author": "Xaddam",
+      "Date": "Oct 9, 2011, 7:22\u202FPM",
+      "Body": "> Pascal wrote:\n> With a Wake / On the Qui Vive / ..., the minion's considered untapped for playing cards and declaring block attempts. They're not considered untapped for paying costs.\n>\nOk, I see. Thanks, now I understand!\n\nSorry for being such a pain.\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "11721"
+    }
+  ]
+}

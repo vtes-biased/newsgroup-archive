@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-40821",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/40821-change-of-target-nra",
+  "Title": "Change of Target + NRA",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 12, 2012, 7:33\u202FPM",
+      "Body": "@Pascal:\nOthers have attempted to find a more recent than 2001 ruling by LSJ. It seems to imply that CoT will remove the NRA taint.\n\nDoes Change of Target \"wash off taint\" for the purposes of the No Repeat Actions rule. Such as:\n\nMinion A declares a Bleed action. Minion B attempts to block. Minion A plays Change of Target.\n\nCan Minion A now declare another bleed action (with a different name to the previous bleed action)?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "40821"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Nov 12, 2012, 7:43\u202FPM",
+      "Body": "Huh?\n\nNRA kicks in on resolution of the action, successful or not.\n\nChange of Target doesn't say it cancels the action. It says it *ends* the action unsuccessful. If the action has ended, it means it reached resolution, so if it was a bleed/vote action, you can't try again. I realize the card text on Change of Target is somewhat redundant with this interpretation, but we can just throw that on the pile of reminder text.\n\nCompare to Tangle, which specifically says it *cancels* the action.\n\n(Also, if LSJ's 2001 ruling stands, this is clearly a case of a card in need of errata)",
+      "Id": "40822"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Nov 12, 2012, 8:00\u202FPM",
+      "Body": "CoTs text is not redundant, because it means the minion can't attempt even normally repeatable actions again (like hunting), but yes, Change of Target is played when the action is -blocked- which means the action reached resolution, and thus the normal NRA rules also apply.",
+      "Id": "40824"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Nov 12, 2012, 8:08\u202FPM",
+      "Body": "> CoTs text is not redundant, because it means the minion can't attempt even normally repeatable actions again (like hunting)\n>\nDuh. Good catch.",
+      "Id": "40826"
+    },
+    {
+      "Author": "Robba Yaga",
+      "Date": "Nov 12, 2012, 8:17\u202FPM",
+      "Body": "Here is the original post LSJ made regarding this:\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/a4f455a0e926a7/0c7df9bd86b0c787?hl=en&lnk=gst&q=change+of+target+cardless+action#0c7df9bd86b0c787\n\nI found no later errata on the topic. If this is wrong, it needs a newer ruling from Pascal.\n\nRobba Yaga",
+      "Id": "40827"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 12, 2012, 8:26\u202FPM",
+      "Body": "> Robba wrote:\n> Here is the original post LSJ made regarding this:\n>\n> groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/a4f455a0e926a7/0c7df9bd86b0c787?hl=en&lnk=gst&q=change+of+target+cardless+action#0c7df9bd86b0c787\n>\n> I found no later errata on the topic. If this is wrong, it needs a newer ruling from Pascal.\n>\n> Robba Yaga\n>\nThen again, this errata say nothing about Change of target except confirming it does not wash anything. At best, it could be used to argue that tangle does not wash the NRA taint, not that Change does wash it.\n\n(and even for Tangle the ruling seem to not apply, since the Krassimir special intervene after the resolution that give NRA, and Tangle before)",
+      "Id": "40828"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 12, 2012, 9:37\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> @Pascal:\n> Others have attempted to find a more recent than 2001 ruling by LSJ. It seems to imply that CoT will remove the NRA taint.\n>\n> Does Change of Target \"wash off taint\" for the purposes of the No Repeat Actions rule. Such as:\n>\n> Minion A declares a Bleed action. Minion B attempts to block. Minion A plays Change of Target.\n>\n> Can Minion A now declare another bleed action (with a different name to the previous bleed action)?\n>\nNo. The action is blocked (per Change of Target's text), thus the NRA kicks in.\n\nYou can't play another base Govern the Unaligned, nor can't you play a Computer Hacking, if you somehow untap.\n\nPlease give a reference to LSJ's link regarding Change of Target not tainting the action with NRA.\nIn  [LSJ 20010512] , \"the action kicks in if it is successful\" should be read as \"applying the terms of an action kicks in if it is successful\".\n\nBlocked actions trigger NRA (it wasn't the case back in Jyhad-times, but it is now, and it has been for more than 10 years).\n\nTangle Atropo's Hand cancels the action before resolution (\"when a minion attempts to block\"), which means we didn't reach resolution, and that the same minion can attempt the same action this turn.",
+      "Id": "40834"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 12, 2012, 10:25\u202FPM",
+      "Body": "> Pascal wrote:\n> No. The action is blocked (per Change of Target's text), thus the NRA kicks in.\n>\n> Blocked actions trigger NRA (it wasn't the case back in Jyhad-times, but it is now, and it has been for more than 10 years).\n>\n> Tangle Atropo's Hand cancels the action before resolution (\"when a minion attempts to block\"), which means we didn't reach resolution, and that the same minion can attempt the same action this turn.\n>\nA nice clean principle that can be used in the future. I like this sort of ruling-statement.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "40837"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Nov 13, 2012, 10:42\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> @Pascal:\n> Others have attempted to find a more recent than 2001 ruling by LSJ. It seems to imply that CoT will remove the NRA taint.\n>\nThere are a number of later discussions on the interaction between CoT and NRA clear. See for example  this one from 2009 caused by our play goup getting CoT horribly wrong.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "40865"
+    }
+  ]
+}

@@ -9,7 +9,7 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 13,584 threads, 168,903
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,327 threads, 175,925
 messages, 1994 to today. Two sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
@@ -18,10 +18,12 @@ of the game's rules directors took part.
   (June 1998 onward) answered. Several hundred of these threads are from
   `rec.games.deckmaster`, where Jyhad was discussed before it had a group of
   its own.
-- **The V:EKN forum**, from 2010 on: 2,862 topics Ankha has posted in,
-  close to half of them rules questions. The forum drops topics of its own accord —
-  the one the Baltimore Purge ruling rests on returns a 404 today, and survives
-  only because the Wayback Machine kept it.
+- **The V:EKN forum**, from 2010 on: 3,605 topics, every one that Ankha or
+  Pascal Bertrand before him posted in, close to half of them rules questions.
+  The forum drops topics of its own accord — the one the Baltimore Purge ruling
+  rests on returns a 404 today, and survives only because the Wayback Machine
+  kept it. Two topics are here for the other reason: a ruling cites them, even
+  though neither director posted in them.
 
 A thread from anywhere but the newsgroup carries a `Group` saying where it came
 from. `import_mbox.py`, `import_forum.py` and `sync_forum.py` are what put them
@@ -98,9 +100,9 @@ characters, each line `word threads gap,gap,gap` — how many threads hold the
 word, then their positions in `threads.json`, written as gaps so the numbers
 stay short.
 
-Whole, the index is 17 MB (6.3 MB over the wire), which is more than a phone
+Whole, the index is 17 MB (6.5 MB over the wire), which is more than a phone
 should have to fetch to search at all. Split this way, a query downloads only
-the files its words fall in: a few KB for most of them, 202 KB for `co.txt`,
+the files its words fall in: a few KB for most of them, 211 KB for `co.txt`,
 the worst of the 1,332. Words are matched by prefix, which a sorted file gives
 for nothing — the matches are consecutive lines. A prefix that starts more than
 ten words is cut to the ten commonest, because `ra` starts 906 of them and
@@ -110,8 +112,9 @@ Rotschreck are one word; the group spelled it both ways.
 ## Keeping the forum copy current
 
 ```sh
-python3 sync_forum.py --list   # say what would be fetched, fetch nothing
-python3 sync_forum.py          # fetch what the archive has not got
+python3 sync_forum.py --list      # say what would be fetched, fetch nothing
+python3 sync_forum.py             # fetch what the archive has not got
+python3 sync_forum.py --user "Pascal Bertrand"   # or any other member
 python3 sync_forum.py --refresh   # fetch every topic again, replies and all
 ```
 
@@ -123,9 +126,14 @@ list; the topics are then fetched one a second. The first run took two hours
 for 2,861 topics, a run that finds nothing new takes a minute.
 
 What a plain run cannot see is a reply written after that member's last post in
-a topic; `--refresh` is for that. `--user` takes any member: the rulings
-database also cites Pascal Bertrand, the rules director before Ankha, and 47 of
-the topics it cites have no post by Ankha in them at all.
+a topic; `--refresh` is for that.
+
+`--user` takes any member, and it took two to cover the rulings: Ankha, and
+Pascal Bertrand, the rules director before him. Nor does the search see quite
+everything — it returned 5,609 of the 6,947 posts Ankha's profile counts, and
+two cited topics had to be fetched by name with `import_forum.py`. Run with
+`--expect`, naming a file of topic numbers, and it says at the end which of
+them the archive still has not got.
 
 ## Provenance and rights
 

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-18155",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/18155-lightning-reflexes",
+  "Title": "Lightning Reflexes",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Dec 12, 2011, 1:45\u202FPM",
+      "Body": "Greets!\n\nMust I burn X blood right after playing LR or I can burn blood consecutively (like Maris Streck's ability) waiting for the opposing minion to play additional strikes or else?\n\nLightning Reflexes\nCardtype: Combat\nCost: 1 blood\nDiscipline: Celerity\n[cel] Additional strike.\n[CEL] This vampire may burn X blood to gain X additional strikes.\n\nNC of Hungary\n\n///",
+      "Id": "18155"
+    },
+    {
+      "Author": "Oskar",
+      "Date": "Dec 12, 2011, 2:05\u202FPM",
+      "Body": "You must decide on a value for X when you play it so no consecutive burning.",
+      "Id": "18157"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Dec 12, 2011, 2:18\u202FPM",
+      "Body": "> Hidden Strength\n> Type: Combat\n> Requires: Fortitude\n> Cost: X blood\n> [for] Prevent X+1 damage.\n> [FOR] As above, with an optional press.\n>\nWould be an excellent card if that worked.\n\nIf Lightning Reflexes said \"Put this card in play\" then I guess you could consecutively burn blood just as Maris can.\n\nThe reason Maris can use her ability over and over again is that the cardtext \"Maris can burn a blood to give a blocking minion +1 intercept.\" does not follow the ruling \"'During time period X, (you may) do Y' limits Y to once per phase X. [LSJ 19970625].\"\n\nFor example:\nJoseph O'Grady has cardtext: \"During a referendum, Joseph may burn 1 blood to gain 1 vote\" which you can see has a \"During X you may do Y.\"-template",
+      "Id": "18159"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 2:37\u202FPM",
+      "Body": "> Oskar wrote:\n> You must decide on a value for X when you play it so no consecutive burning.\n>\nCorrect.\n[LSJ 19980514]  wrote:\n>\n> > Also how is Lightening Reflexes played? Does one burn the blood immediately\n> > for the additional strikes when the card is played, or is it like Awe? Can\n>\n> It is like Awe: both can only be used once, and the 'X' is paid when\n> the card is played.\n>\n> > one play LR with 2 blood on him, burn the 2 blood for one additional strike,\n>\n> Pay 1 blood to play the card, burn X=1 blood for one additional strike.\n>\n> > inflict some damage, Taste of vitae for more blood after the strike\n> > resolution phase and then burn more blood for more additional strikes?\n>\n> No. 'X' is set only once.\n>",
+      "Id": "18161"
+    }
+  ]
+}

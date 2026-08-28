@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-43831",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43831-uta-kovacs-ankara-citadel",
+  "Title": "Uta Kovacs & Ankara Citadel",
+  "Messages": [
+    {
+      "Author": "Omelet",
+      "Date": "Jan 9, 2013, 10:10\u202FPM",
+      "Body": "If Uta Kovacs uses Clan Impersonation to switch to Tremere and equips the Ankara Citadel Turkey, how is the cost of THA cards calculated.\n\nUta\n\n> Sabbat: Uta can enter combat with a minion controlled by another Methuselah as a  action. Cards that require Thaumaturgy cost her 1 less blood.\n>\nAnkara Citadel, Turkey\n\n> This equipment card represents a location and does not count as equipment while in play. Unique.\n> Cards that cost blood cost this vampire half as much blood to play (round down).\n>\nIt seems that either effect you apply first leads to the same outcome...\n\nIf a card costs two blood, Ankara reduces to one, and the special reduces by 1 for zero cost OR special reduces by 1, ankara reduces by 0.5, round down to zero.\n\nIs this correct?",
+      "Id": "43831"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 9, 2013, 10:51\u202FPM",
+      "Body": "> RTR wrote:\n> All cost-affecting cards operate no matter how the card is played (\"as normal\" or otherwise). All multiplication and division is handled first, followed by addition and subtraction.\n>\nIf Uta Kovacs has Ankara Citadel and plays a Thaumaturgy card that costs 3 blood or less, she pays 0 (3/2 = 1.5 rounded down to 1 -1 = 0). If the card costs 5 blood, she pays 1 (5/2 = 2.5 rounded down to 2 -1 = 1). And so forth.\n\nwww.secretlibrary.info/index.php?lib=Ankara+Citadel,+Turkey,+The\nwww.secretlibrary.info/index.php?crypt=Uta+Kovacs\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "43836"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 10, 2013, 7:25\u202FAM",
+      "Body": "Correct answer from jhattara.",
+      "Id": "43848"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-48942",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/48942-obedience-and-re-entering-combat",
+  "Title": "Obedience and re-entering combat",
+  "Messages": [
+    {
+      "Author": "Tdog",
+      "Date": "May 22, 2013, 3:29\u202FPM",
+      "Body": "Can Psyche!, Telepathic Tracking, Hidden Lurker or Fast Reaction start a new combat after an opposing minion uses Obedience?\nI guess there are also things like Status Perfectus that work the same way.\n\nIt seems like obedience shuts down the slave effect too.\nHow could you prepare for obedience with a combat strategy involving Toy, for instance? (Besides the erstwhile \"play another deck\" solution)",
+      "Id": "48942"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 22, 2013, 4:13\u202FPM",
+      "Body": "> Tdog wrote:\n> Can Psyche!, Telepathic Tracking, Hidden Lurker or Fast Reaction start a new combat after an opposing minion uses Obedience?\n>\nIf you play Obedience, you're outside combat, and the combat doesn't start, and the action ends. There's no combat to continue (TT), restart (Psyche!), no combat to come after (HL, FR), or a completed combat (Status Perfectus).\n\nThe combat doesn't start and then get terminated by Obedience.\n\n> Tdog wrote:\n> It seems like obedience shuts down the slave effect too.\n>\nNot quite.\n\nIf you choose not to invoke the Slave rule, you enter combat and Obedience can be played.\n\nAt the point the acting Methuselah invokes the Slave rule, it's slightly too early to play Obedience. So if you choose to invoke it, the Slave enters combat, and Obedience can't be played against the Slave (since they're not an acting vampire, required by Obedience's card text).  [LSJ 20030108] (Read the quoted text between Josh and Jeff, which LSJ confirms.)",
+      "Id": "48947"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "May 22, 2013, 4:15\u202FPM",
+      "Body": "Psyche! and Telepathic Tracking are combat cards, Obedience disallows a combat to begin so they cannot be used.\n\nObedience also cancels the action so Hidden Lurker has no action to modify.\n\nFast Reaction and Obedience are both reactions and cannot be played by opposing minions.\n\nObedience cannot disrupt the Slave effect since it can only be played after a successful block (in this case) and the acting minion still has the impulse to play cards and effects before it, such as invoking the Slave rule.",
+      "Id": "48948"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "May 22, 2013, 4:17\u202FPM",
+      "Body": "Great, I finally bother to answer a rules question with seemingly no one around and James still beats me to it.",
+      "Id": "48949"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 22, 2013, 4:34\u202FPM",
+      "Body": "> Tdog wrote:\n> Can Psyche!, Telepathic Tracking, Hidden Lurker or Fast Reaction start a new combat after an opposing minion uses Obedience?\n> I guess there are also things like Status Perfectus that work the same way.\n>\n> It seems like obedience shuts down the slave effect too.\n> How could you prepare for obedience with a combat strategy involving Toy, for instance? (Besides the erstwhile \"play another deck\" solution)\n>\n[/quote]\n>\n> Name: Obedience\n> [Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U, HttB:PKia3]\n> Cardtype: Reaction\n> Discipline: Dominate\n> Only usable when this reacting vampire is about to enter combat with an acting younger vampire.\n> [dom] Untap the acting vampire, do not tap this reacting vampire, and end the current action (and combat). The acting vampire cannot attempt the same action this turn.\n> [DOM] As above, but do not untap the acting vampire.\n>\n> Name: Psyche!\n> [Jyhad:U, VTES:U, FN:PA2, CE:U/PB, KMW:PAl2, Third:U, KoT:U/PB3/PT3]\n> Cardtype: Combat\n> Discipline: Celerity\n> [cel] Press.\n> [CEL] Only usable at the end of a round when both combatants are still ready and combat is about to end. After this round, begin another combat with the opposing minion.\n>\n> Name: Telepathic Tracking\n> [SW:U, LoB:PO2, Third:U]\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Auspex\n> [aus] Press, only usable to continue combat. If another round of combat occurs, this vampire gets an optional maneuver during that round.\n> [AUS] Only usable at the end of a round when both combatants are still ready and combat is about to end. The round ends, but combat does not end; another round starts.\n>\n> Name: Hidden Lurker\n> [Jyhad:C, VTES:C, SW:C, CE:U, KMW:PAn4]\n> Cardtype: Action Modifier\n> Discipline: Obfuscate\n> Only usable by a ready untapped vampire other than the acting minion. Only usable after a combat between the acting minion you control and a blocking minion.\n> [obf] Tap this vampire. This vampire enters combat with the blocking minion. The first round of this new combat, the blocking minion cannot strike.\n> [OBF] As above, with an optional press.\n>\n> Name: Fast Reaction\n> [Jyhad:C, VTES:C, CE:U, BH:PTr2, LoB:PO]\n> Cardtype: Reaction\n> Discipline: Auspex\n> Only usable after a combat between a blocking minion you control other than this vampire and the acting minion.\n> [aus] Tap this vampire. This vampire enters combat with the acting minion. The first round of this new combat, the acting minion cannot strike.\n> [AUS] As above, with an optional press.\n>\n> Name: The Status Perfectus\n> [Anarchs:R2]\n> Cardtype: Action\n> +1 stealth action. Requires a ready anarch. Unique.\n> Put this card in play. During your master phase, you may move 1 blood from a ready anarch you control to another ready anarch. When a blocking anarch has just completed combat with an acting minion, you may tap this card and a ready untapped anarch you control other than the blocking anarch. That anarch enters combat with the acting minion. The acting minion cannot use any strikes in the first round of that combat.\n>\nThis part shows why Psyche! / Telepathic Tracking cannot be played after Obedience. These cards are combat, and can only be played in combat, which is after the opportunity to play Obedience.\n\nThis part shows why Fast Reaction / Hidden Lurker cannot be played after Obedience. They are reaction / action modifier cards, which cannot be played once the action is ended. Also, there was no \"combat\" to begin with.\n\nThis part shows why Obedience cannot be used after the Slave trait was used to have Tupdog enter combat with Leandro when Leandro blocked Keith Moody. It also can't be used before the Slave trait could be used, because they share the same window (when block is successful, before combat), and the acting has the impulse in that window.",
+      "Id": "48951"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "May 22, 2013, 4:57\u202FPM",
+      "Body": "If you wish to counter obedience, then there are some ways which work: make the methuselah to play all of them, make them to discard them from hand or increase your capacity (e.g. Aye, Orun).\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "48953"
+    },
+    {
+      "Author": "wesile",
+      "Date": "May 23, 2013, 5:50\u202FAM",
+      "Body": "You can also use Touch of clarity or Perfect Clarity.\n\nOr you can increase the stealth...",
+      "Id": "48997"
+    },
+    {
+      "Author": "Tdog",
+      "Date": "May 24, 2013, 2:35\u202FPM",
+      "Body": "Thank you for the education, gentlemen.",
+      "Id": "49066"
+    }
+  ]
+}

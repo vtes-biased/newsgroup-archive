@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-17580",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/17580-strix-and-mirror-walk",
+  "Title": "Strix and Mirror Walk",
+  "Messages": [
+    {
+      "Author": "henrik",
+      "Date": "Dec 8, 2011, 10:16\u202FAM",
+      "Body": "Acting vampire plays Mirror Walk, reacting vampire plays inferior Strix and blocks successfully. Does the blocking vampire untap or not?\n\nMirror Walk\nCardtype: Action Modifier\nDiscipline: Thaumaturgy\nDo not replace until your discard phase.\n[tha] +1 stealth.\n[THA] As [tha] above, and if this action is blocked, the action ends (with no combat).\n\nStrix\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Striga\nBurn Option\n[str] +1 intercept, even if intercept is not yet needed. If this vampire successfully blocks this action, he or she untaps at the end of the action. [str] is not a Discipline.\n[STR] Only usable when a bleed against you is successful. The bleed burns no pool. Instead, this vampire taps and enters combat with the acting minion.",
+      "Id": "17580"
+    },
+    {
+      "Author": "yappo",
+      "Date": "Dec 8, 2011, 10:31\u202FAM",
+      "Body": "Eh, read wrong",
+      "Id": "17583"
+    },
+    {
+      "Author": "yappo",
+      "Date": "Dec 8, 2011, 10:34\u202FAM",
+      "Body": "I realised I brainfarted as I clicked submit. Already edidted my note.\n\nI'd think it untaps. MW ends the action. There is an 'end of action' window.",
+      "Id": "17585"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 8, 2011, 10:41\u202FAM",
+      "Body": "> yappo wrote:\n> I realised I brainfarted as I clicked submit. Already edidted my note.\n>\n> I'd think it untaps. MW ends the action. There is an 'end of action' window.\n>\nYeah, that was my thoughts as well. Just wanted to make sure due to superior Mirror Walk's interaction with Freak Drive and some other cards/effects.",
+      "Id": "17590"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 8:32\u202FAM",
+      "Body": "The rulings I find ( [RTR 19991206] Change of Target / Obedience vs Aching Beauty,  [LSJ 20090826] Siren's Lure vs Change of Target,  [LSJ 20071015] Mirror Walk vs Sowing Dissension) show that when an effect ends the action, the rest is lost.\n\nSo the vampire who played inferior Strix won't untap in case of Obedience / Change of Target / Mirror Walk.",
+      "Id": "18123"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 12, 2011, 8:51\u202FAM",
+      "Body": "Ok. I was thinking that Strix has somewhat different wording since it refers to \"the end of the action\" (which I would say still happens, just like \"end of combat\" always does) rather than successful blocks or action resolution.",
+      "Id": "18125"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 9:33\u202FAM",
+      "Body": "I'm putting this one on the list for review.\nMaybe we should have mandatory triggering \"end of action\" effects happen - but this hasn't been investigated. Any comments are welcome.",
+      "Id": "18128"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 12, 2011, 9:44\u202FAM",
+      "Body": "Something just struck me. Some cards have the text \"Do not replace until the end of the action.\"\nIf the \"end of the action\" effects doesn't trigger after playing Bum's Rush, superior Mirror Walk and getting blocked wouldn't that mean that Bum's Rush would never be replaced?\n\nBum's Rush\nCardtype: Action\nDo not replace until the end of this action.\nEnter combat with a ready minion controlled by another Methuselah. The acting minion gets an optional maneuver during this combat.",
+      "Id": "18129"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 12, 2011, 9:57\u202FAM",
+      "Body": "I believe that Bum's rush does not read \"replace it when the action end\", but \"do not replace as long as the action is not ended\". So, you would replace it anyway once the action is ended.",
+      "Id": "18130"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 12, 2011, 10:03\u202FAM",
+      "Body": "> Ohlmann wrote:\n> I believe that Bum's rush does not read \"replace it when the action end\", but \"do not replace as long as the action is not ended\". So, you would replace it anyway once the action is ended.\n>\nAccording to the latest print (HttB) and the card list on this site, the text I copied in my post is the most recent.\n\nTo you have any source for this other card text?",
+      "Id": "18131"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 12, 2011, 10:33\u202FAM",
+      "Body": "> henrik wrote:\n> According to the latest print (HttB) and the card list on this site, the text I copied in my post is the most recent.\n>\nI wasn't clear, sorry. I was not talking about the text but about what it mean.\n\nThe text does not mean that you replace the card once the action is ended (and may lose it forever if the step is skipped), but that you don't replace it while a condition is true, the condition being that the action is not ended.\n\nOnce the Bum's rush is finished in any way, the condition is false (the bum's rush is effectively ended), so per the normal rule you replace immediatly.\n\nAt least, that's what I have understood about card replacement. They are no delayed draw in VtES that could be cancelled, unlike what you could see in Magic.",
+      "Id": "18135"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 12, 2011, 11:02\u202FAM",
+      "Body": "> Ohlmann wrote:\n> The text does not mean that you replace the card once the action is ended (and may lose it forever if the step is skipped), but that you don't replace it while a condition is true, the condition being that the action is not ended.\n>\nCorrect.\nThis, however, might add some confusion when it comes to Steely Tenacity..",
+      "Id": "18139"
+    },
+    {
+      "Author": "TunFiskeMad",
+      "Date": "Dec 12, 2011, 12:45\u202FPM",
+      "Body": "bums rush: Do not replace until the end of this action.\n\nfreak drive: Only usable at the end of a successful action.\n\nJust to be annoying but the only diffenrence in the wording is \"this\" and \"successful\".\n\n- I have bitten the mighy judge-beard.",
+      "Id": "18149"
+    }
+  ]
+}

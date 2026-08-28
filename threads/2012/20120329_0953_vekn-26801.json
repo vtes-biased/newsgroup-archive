@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-26801",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/26801-ankara-citadel-and-nocturn",
+  "Title": "Ankara Citadel and Nocturn",
+  "Messages": [
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 29, 2012, 9:53\u202FAM",
+      "Body": "So the  ruling on stacking cost effects is:\n\n> RTR wrote:\n> All cost-affecting cards operate no matter how the card is played (\"as normal\" or otherwise). All multiplication and division is handled first, followed by addition and subtraction.\n>\nHowever, one of the quoted examples for this is the  following:\n>\n> Rehlow wrote:\n> So if I have a Lasombra with Ankara Citadel, Charisma, Drink the Blood\n> of Ahriman and Path of Night is in play when he plays his seventh\n> Nocturn this turn it would cost ...\n>\n> 7 (7th Nocturn) divided by 2 (Ankara) = 3 - 1 (Charisma) - 1 (Drink\n> the Blood of Ahriman) - 1 (Path of Night) = 0\n>\nwhich was agreed to by LSJ  here .\n\nWhy is the Nocturn's increased cost not a \"cost-affecting card\"?\n\n> Nocturn wrote:\n> Demon with 1 life. 1 strength, 1 bleed.\n> Move Nocturn to the ready region when recruited. If this is this vampire's first successful recruit action this turn, he or she untaps. Nocturn can play non-ally cards that require basic Obtenebration as a vampire. Burn Nocturn during your untap phase.\n> As above, and this vampire may perform this action again this turn, with the cost increased by 1 blood.\n>\n--\nNational Coordinator\nSouth Africa",
+      "Id": "26801"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 29, 2012, 9:58\u202FAM",
+      "Body": "[FZD 20111129]\n\n> Mael wrote:\n> Just bumping this because the above question is interesting and looks like it may have been missed by Pascal.\n> In the quoted example, why is the maths\n> 7 (7th Nocturn) divided by 2 (Ankara) = 3 - 1 (Charisma) - 1 (Drink the Blood of Ahriman) - 1 (Path of Night) = 0\n> Instead of\n> 1 (base cost) divided by 2 (Ankara) = 0 + 6 (7th Nocturn) - 1 (Charisma) - 1 (Drink the Blood of Ahriman) - 1 (Path of Night) = 3\n>\n> This was marked as correct by LSJ, but seems to be contrary to the usual rule about multiplying/dividing before adding/subtracting.\n>\n> Pascal wrote:\n> You are correct. 7th Nocturn costs indeed 3 blood.\n>",
+      "Id": "26803"
+    },
+    {
+      "Author": "glaswanderer",
+      "Date": "Mar 30, 2012, 5:58\u202FPM",
+      "Body": "So, from this, I assume that Ankara reduces the original (printed) cost of the card, regardless of any modifiers from the card itself or outside reducers/increasers.\n\nPrince of Puyallup",
+      "Id": "26903"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Mar 30, 2012, 9:09\u202FPM",
+      "Body": "I had thought Ankara and Paths only affected the blood a vampire paid, and not the actual cost of the card (so you would have a 7-blood Nocturn cut in half). but apparently they've been mysteriously errataed in the cardlists to directly affect blood cost, with no announcement anywhere. confusing!\n\nit's even weirder how LSJ made these rulings before Ankara Citadel was reprinted in KoT, where it still uses the original \"pay half\" wording.\n\nbut the cards should work this way in the first place so I'm not complaining for it to be changed back.",
+      "Id": "26921"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 2, 2012, 5:19\u202FAM",
+      "Body": "Ankara changing cost:  [LSJ 20100429]",
+      "Id": "27015"
+    }
+  ]
+}

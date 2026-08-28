@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-25174",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/25174-stacking-biothaumaturgical-experiment",
+  "Title": "Stacking Biothaumaturgical Experiment",
+  "Messages": [
+    {
+      "Author": "wmseith",
+      "Date": "Mar 7, 2012, 3:13\u202FPM",
+      "Body": "Is it possible to stack multiple experiments on the same minion at su0perior to gain multiple +1 strengths and maneuvers? Thanks",
+      "Id": "25174"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 7, 2012, 3:25\u202FPM",
+      "Body": "> Biothaumaturgic Experiment\n> Cardtype: Action\n> Cost: 1 pool\n> Discipline: Thaumaturgy\n> +1 stealth action.\n> [tha] {This minion employs} an animal retainer from your hand (ignore requirements; pay cost as normal).\n> [THA] Put this card on a minion you control. The minion with this card gets an optional maneuver each combat and +1 strength.\n>\nSure. No reason this couldn't be done.",
+      "Id": "25175"
+    },
+    {
+      "Author": "wmseith",
+      "Date": "Mar 7, 2012, 10:42\u202FPM",
+      "Body": "thanks. thought so but some of the players were arguing about it so just wanted to make sure.",
+      "Id": "25235"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 8, 2012, 1:44\u202FAM",
+      "Body": "> wmseith wrote:\n> thanks. thought so but some of the players were arguing about it so just wanted to make sure.\n>\nI'm curious. What rule did they cite for their belief that you can NOT stack cards?\n\nCards stack by default, because no rule says they don't.\n\nIn fact, there are cards that have text that specifically says they don't stack. Why would this text be there if cards couldn't stack in the first place?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "25247"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Mar 8, 2012, 8:20\u202FAM",
+      "Body": "What KevinM said.\n\nYou will save yourself a world of trouble to learn that cards stack by default instead of asking for single cards.\n\nThere are many exceptions though. Cards that are unique, Cards that can only be played once (including events), cards that can only be played once on or by a minion and so on.\n\nBut here's a list of the majority (but far from all) cards that stack.\n\nArmy of Rats (but prey only lose 1 pool regardless of how many).\nMass reality\nTorn Signpost (but each card reset strength to 3 so practically nothing happens).\nMasquerade Enforcement\nAnarch Revolt\nBrujah Debate (and the multiple cards can target a single vampire to tap).\nToreador Grand Ball (same issue, multiple cards can target a single vampire).\nSpying Mission (at superior)\nPhobia\nMind of a Killer\nSucculent Vitae\nCamarilla Exemplary\nUsing the Advantage\nIncriminating Videotape\nFlak Jacket\nCooler\nBiothaumaturgic Experiment at superior.\nChoir\n419 Operation\nCloak the Gathering (when played by different minions).\nFatuus Mastery\nHorrid Form\nEternal Vigilance (quite useless to stack)\nConcert Tour (also quite useless)\nThe Framing (also useless)\nTemptation\nInfernal Familiar\nCamarilla Vitae Slave\nSlaughtering the Herd\nApparition\nJudgment: Camarilla Segregation\nBonecraft\nDisease\nMark of Damnation\nFleshcraft\nErosion\nDespiral\nHexaped (the link counter stack)\nLibertas\nShort-Term Investment\nDarksight\nAtonement\nCourier (making it possible to discard multiple cards after a single bleed).\nMarijava Ghoul\nAching Beauty\nVentrue Investment\nGuardian Angel\nMind of a Child\nSensory Deprivation\nProtracted Investment\nLord of Serenity\nConcordance\nShadowed Eyes\nSeeds of Corruption\nLunatic Eruption\nHeart of Darkness\nDraught of the Soul\nIncreased Strength\nTyphonic Beast\nAnd just about all non-unique retainers.",
+      "Id": "25281"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 8, 2012, 11:30\u202FAM",
+      "Body": "> wmseith wrote:\n> thanks. thought so but some of the players were arguing about it so just wanted to make sure.\n>\nAs a general rule, everything stacks if it gives you a plus or minus to something. This doesn't apply if:\n\n- the rules prevent you from playing the effect twice\n- card text prevents you from doing it twice.\n\nFor example, playing Lost in Crowds (+ stealth) twice on an action would give you +4 stealth, except that you can't play the same action modifier twice with the same minion in a given action. In fact, Lost in Crowds twice does give you +4 stealth if minion A starts the action, plays Lost in Crowds, minion B takes over the action with Mask of a Thousand Faces, and minion B plays Lost in Crowds. Fun times.\n\nSimilarly, if you could play Conditioning (+ bleed) twice on an action, you could get +6 bleed. This is stopped both by the same action modifierrules, but also by its card text - so even if you play Mask, you can't play a second with another minion.\n\nOn permanents, a minion with three superior Jackals (+ stealth) has +6 stealth when their prey has a ready Follower or Assamite. Two Marijava Ghouls (+ stealth) on a minion gives your Presence actions +2 stealth. A Lasombra with multiple Drink the Blood of Ahriman (+ strength) has a stacking plus to strength and a stacking cost reducer - but will need to burn blood separately for each card.\n\nA minion with two superior Fleshcrafts (- stealth) has -4 stealth. A minion with 4 superior Bonecrafts (- strength) has -8 strength.\n\nCertain cards aren't plus-es or minus-es, they just set a value. For example, Torn Signpost sets your base strength to 2 (or 3). Multiple Torn Signposts will not stack - they just keep reseting it to 2. Other modifiers will stack on top of that, though.\n\nRumors of Gehenna sets your number of master phase actions to 2 (from 1), and will not stack with itself - or with Anson, who also sets it to two. Having both Anson and Rumors out - just two master phase actions. Anson plus the Parthenon - you can have three, 2 from Anson, and an additional one from tapping the Parthenon.\n\nYou can also have multiple of the same effect going off. For example, if you have three Wolf Companions, your opponent will take three damage at close range - one from each Companion. If you have three Anarch Revolts in play, each Methuselah burns three pool during their untap phase - one for each Revolt. These aren't stacking in exactly the same way as a cumulative plus-to-strength effect, but each provides its own effect which has to be resolved.\n\nArmy of Rats (mentioned earlier) would cause you to burn pool for each one, were it not for its own card text preventing that.",
+      "Id": "25307"
+    },
+    {
+      "Author": "wmseith",
+      "Date": "Mar 21, 2012, 7:48\u202FPM",
+      "Body": "He wasn't really quoting any rule just arguing it so I told him I would verify that you could just to shut him up",
+      "Id": "26373"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 21, 2012, 11:56\u202FPM",
+      "Body": "> wmseith wrote:\n> He wasn't really quoting any rule just arguing it so I told him I would verify that you could just to shut him up\n>\n\"What makes you believe that X?\" usually works to shut up rules lawyers, since they have no ability to discuss.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "26380"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-51031",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/51031-bleed-mods",
+  "Title": "Bleed mods",
+  "Messages": [
+    {
+      "Author": "delangen",
+      "Date": "Jul 5, 2013, 10:00\u202FPM",
+      "Body": "Hi I'm teaching a new player and had some basic questions come up:\n\nDuring the bleed, then block attempt, then stealth then intercept, ok then blocker denies (or) can't block...does she then have to declare intent to deflect/misidrect/bounce before declaring the bleed successfull??? Prior to any bleed mods??\n\nor after the bleeder plays modifiers does it open a new window to attempt block or deflect/misdirect/bounce???\n\nthank you kindly",
+      "Id": "51031"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jul 5, 2013, 10:38\u202FPM",
+      "Body": "Impulse is key. The controller of the acting minion always declares what they are going to do first. If they pass \"impulse\" then the controller of the reacting minion gets to play cards. Also key is that you may only play a card which redirects the target of a bleed *after* you decline blocks.\n\nIn your example, after the block is declined, then the acting minion may play modifiers like Threats or Conditioning. The block has still been declined. There is no chance to block again. However, the bleed may then be \"bounced\" with a Deflection.\n\nAfter the target of the action (bleed) changes, the new target Methuselah has a chance to try to block the action, if they can attempt to do so and have the required intercept.\n\nIf a Methuselah declines to block a bleed, and then bounces it with a Deflection, but then the Deflection is canceled (e.g. by a Direct Intervention), the block has still been declined and no further attempts can be made to block it.\n\nPractically speaking, here's how the players talk it out:\n\nA: I bleed for 1 with VampA.\nB: I block with VampB.\nA: VampA plays a card for +1 stealth.\nB: VampB plays a card for +1 intercept.\nA: VampA plays a card for +2 more stealth.\nB: I decline to block. How much total?\n\nThen A has two possibilities:\nA: Just 1 total.\nor\nA: VampA plays a card for +1 bleed. Total 2 bleed.\n\nThen B has two possibilities:\nB: I take the bleed for 1 or 2. (Burns 1 or 2 pool, A gets the Edge)\nor\nB: VampB plays a card to bounce the bleed to C.\nA: C, do you block? I am bleeding for 1 or 2 at 2 stealth.\nRepeat as needed...\n\nAlso note that at any time during this sequence, when B has impulse, they can play a card like Telepathic Counter which reduces the bleed amount.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "51032"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Jul 5, 2013, 11:10\u202FPM",
+      "Body": "Thanks..\n\nanother quickie... lets say vamp has a pulse of canaille/heart o'the city and knows through some aura reading or something that his prey has the bleed bounce, and his grand prey (is it?) prey's prey is on the brink...said vamp can't opt to not have his/her bleed bonus, it is inherent now and pretty much permanent, correct..same for retainer use??",
+      "Id": "51034"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jul 5, 2013, 11:30\u202FPM",
+      "Body": "Correct. Pulse of the Canaille, Heart of the City, Tasha Morgan, J.S. Simmons, Esq, and Laptop Computer work just like any vampire who has +1 bleed or +2 bleed as a special ability.\n\nVirginie, Prodigy has the special \"Once per action, Virginie may burn 1 blood to get +1 bleed.\" Her special is used like an action modifier.\n\nLastly, the equipment Camera Phone is different than Laptop Computer. If you have a Camera Phone, you can't use it simultaneously with a Computer Hacking bleed card---both say  Bleed at +1 bleed so you have to choose one or the other. But a Computer Hacking and Laptop Computer work just fine together.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "51035"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jul 6, 2013, 5:16\u202FAM",
+      "Body": "> Jeff wrote:\n> Virginie, Prodigy has the special \"Once per action, Virginie may burn 1 blood to get +1 bleed.\" Her special is used like an action modifier.\n>\n(note that using this ability don't prevent you from playing an action modifier to get +1 bleed, and can be used after an action modifier that prevent you from playing another bleed action modifier. So you can use her ability, then Conditioning, or Conditioning, then her ability)",
+      "Id": "51037"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 6, 2013, 6:51\u202FAM",
+      "Body": "> Jeff wrote:\n> Impulse is key. The controller of the acting minion always declares what they are going to do first. If they pass \"impulse\" then the controller of the reacting minion gets to play cards.\n>\nNIT: This isn't completely true.\n\nThe actor always has priority -- the \"impulse\" -- to play cards until the actor gives up the impulse, at which time the controller of a reacting minion is allowed to play A SINGLE CARD, at which point the impulse goes back to the actor.\n\nTypically, the actor and the reactor will go back and forth on a 1-to-1 ratio of card-played, but the rule is that the actor gets to play as many cards as wanted, then the impulse is passed to the appropriate reactor, who may play A SINGLE CARD, and then the impulse goes back to the actor, until the actor again gives up the impulse...repeat as needed until the resolution of the action.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "51040"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 6, 2013, 12:08\u202FPM",
+      "Body": "> KevinM wrote:\n> Typically, the actor and the reactor will go back and forth on a 1-to-1 ratio of card-played, but the rule is that the actor gets to play as many cards as wanted, then the impulse is passed to the appropriate reactor, who may play A SINGLE CARD, and then the impulse goes back to the actor, until the actor again gives up the impulse...repeat as needed until the resolution of the action.\n>\nThat's typical during stealth/intercept fights. Combat (especially pre-range combat) can be a different kettle of fish, however.\n\nFor example, say A has multiple pre-range effects he wants to use. Perhaps just to cycle out of his hand. But the other combatant, B, is a vampire with Temporis, and A is worried about him playing a card such as Outside the Hourglass. \"Only usable before range is determined. Inflict 2 damage on the opposing minion.\" So that combat might go:\n\nA: I play Carrion Crows. *redraws* I play Aura Reading. Pass.\nB: I play Outside the Hourglass. (Which sends A to torpor, hypothetically.)\n\nSimilarly, if A plays only one card and gives the impulse to B and then B chooses not to play a card, the impulse doesn't go back to A. For example:\n\nA: I play Carrion Crows. Pass.\nB: I pass.\n\nA now can't play Aura Reading, or any other pre-range effects.\n\n(Well, technically, the impulse could go back to A if another Methuselah played an effect, but that's vanishingly rare in combat.)\n\nAn alternative scenario might be where the opposing Methuselah can end combat, such as with Elysium: The Arboretum or Mariel, Lady Thunder.\n\nAlso imagine a situation where the opponent wants to play a pre-range card (say, Outside the Hourglass again) but you want to try to get to a copy of Terror Frenzy in your deck. So you play Carrion Crows, then Aura Reading, then... and eventually draw a Terror Frenzy, which you play, which increases the cost of Outside the Hourglass. \"Only usable before range is determined. Combat cards cost the opposing vampire an additional blood this combat.\" Which in a hypothetical example means the opponent can't play it because they have zero blood.\n\nThis is rarely an issue during stealth/intercept wars, because if B doesn't play an effect to increase intercept, A can't play another stealth card anyway.",
+      "Id": "51045"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jul 6, 2013, 2:51\u202FPM",
+      "Body": "> delangen wrote:\n> Hi I'm teaching a new player and had some basic questions come up\n>\nExcellent news indeed!\n\nStart with the FAQs.\n\nwww.thelasombra.com/FAQs.htm\n\n3.12 helps in this case.\n\nwww.thelasombra.com/vtes_faq.htm#c3s12\n\n3.12. When can I play Deflection / My Enemy's Enemy / Lost in Translantion / Redirection / Telepathic Misdirection?\n\nYou may play the bleed bounce cards:\nwhen the bleed is announced. (decline to block, then bounce)\nafter a stealth card is played. (decline to block, then bounce)\nafter a bleed modifier is played. (decline to block, then bounce)\nafter a card is played that makes the action unblockable. (decline to block, then bounce)\nafter a declaration that you will not block. (always required)\nafter someone else bounces the bleed to you. (decline to block, then bounce)",
+      "Id": "51048"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Jul 6, 2013, 3:44\u202FPM",
+      "Body": "Single card?? I was under the impression you could play a couple of cards if needed say: enhanced senses and precognition to block a (minor)night moves",
+      "Id": "51049"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Jul 6, 2013, 4:10\u202FPM",
+      "Body": "> delangen wrote:\n> Single card?? I was under the impression you could play a couple of cards if needed say: enhanced senses and precognition to block a (minor)night moves\n>\nWell how it goes is vampire a bleeds with night moves, gives impulse to the target player, who declares block attempt with vampire b playing enhanced senses, then impulse goes back to a who declines playing anything else, then b plays precognition, and then a has chance to play stuff again, etc.",
+      "Id": "51052"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jul 6, 2013, 6:10\u202FPM",
+      "Body": "> delangen wrote:\n> Single card?? I was under the impression you could play a couple of cards if needed say: enhanced senses and precognition to block a (minor)night moves\n>\nTechnically speaking (the best kind of speaking), KevinM is right about the single card thing for the non-acting minion.\n\nPractically speaking, the reacting player often plays multiple cards without interruption.\n\nA particular concept that affects this is that you can't play stealth cards *unless stealth is needed*. For example, you bleed. They block. You play Lost in Crowds at OBF for +2 stealth. They play Precognition for +1 intercept. Technically, the acting minion has another window to play action modifiers. But since more stealth is not needed, they usually pass impulse. Then the reacting minion can play Spirit's Touch for +1 more intercept, which then sends impulse back to the acting minion.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "51054"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 6, 2013, 7:47\u202FPM",
+      "Body": "> delangen wrote:\n> Single card?? I was under the impression you could play a couple of cards if needed say: enhanced senses and precognition to block a (minor)night moves\n>\nYou can. You just can't play both at the same time. And any time anyone plays an effect in a given window, the impulse (that is, the ability to play the next effect in that window) goes back to the acting Methuselah.\n\nHere is what a lot of people assume the sequencing rules say. A is acting, B is non-acting. For simplicity right now, we'll say only two Methuselahs.\n\nA: This vampire is going to attempt to diablerize your copy of Arika, who is in torpor. Do you block? (Impulse goes to B.)\nB: Yes, this vampire attempts to block. (Impulse goes to A.)\nA: I play Forgotten Labyrinth for +3 stealth. You? (A is done, so impulse goes to B.)\nB: I play Spirit's Touch for +1 intercept. (Impulse stays with B.) I play Precognition for +1 intercept. (Impulse stays with B.) I play Eagle's Sight for +1 intercept. Okay, now I'm done. (Impulse goes back to A.)\n\n(This isn't what technically happens.)\n\nIn fact, after every time B plays a card or uses an effect (e.g. tapping a newspaper), the impulse goes back to A. So for example, A could play Call of the Hungry Dead after any of those cards to make the block fail. Oftentimes, A will want to wait until B has wasted all that intercept. But maybe A would prefer that B had a hand full of intercept, rather than drawing into some bleed modifiers. So it can be to A's advantage, perhaps.",
+      "Id": "51057"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 8, 2013, 6:35\u202FAM",
+      "Body": "Correct answers from Juff Kuta (corrected by KevinM, and, in your example, A should say to C : \"I am bleeding you for 1 or 2 with +3 stelath\").\n\nHere's what happened to me during a game:\nI was playing Nosferatu Breed and Boon. I played a Consanguineous Boon, and my prey (Nocturn deck) played an On The Qui Vive (for the puropose of cycling / fishing for a Delaying Tactics) (I got the Impulse back, but had nothing to do with it) and then he said \"I attempt to block.\"\nThat was a bad move from him, as he should have guessed I was jamming on stealth.\n\nSo, the situation was: my vampire had +1 stealth, there was a vampire with 0 intercept attempting to block.\nI played a sup' Elder Impersonation to cause the block attempt to fail.\n\nI wish I had had my KRCG in play at that time, to give his vampire +1 intercept, and then play a +1 stealth card, and then play Elder Impersonation (cycling a total of 2 cards without letting him have the impulse).\n\nIf you're playing a deck with little/no stealth, but cards that can give intercept cross table, it's sometimes a good idea to use them if someone wakes Selena instead of Carna - that means they're likely trying to cycle some auspex-internet card",
+      "Id": "51081"
+    }
+  ]
+}

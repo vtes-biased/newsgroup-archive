@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-9340",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/9340-first-strike-strength-reduction",
+  "Title": "First strike + strength reduction",
+  "Messages": [
+    {
+      "Author": "DeathInABottle",
+      "Date": "Aug 30, 2011, 6:27\u202FPM",
+      "Body": "If a vampire strikes with first strike (e.g. with Silence of Death) and uses a strike that reduces the opposing minion's strength (e.g. with Scorpion's Touch), does the strength reduction kick in immediately? I remember reading somewhere that it doesn't, but the phrasing on Scorpion's Touch - \"this minion gets -1 strength (after the current strike resolution step)\" - seems to suggest that it should, provided that the \"current\" strike resolution is the resolution of the first strike alone.\n\nSilence of Death [AH:R2, Tenth:A]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Quietus\nOnly usable before range is determined.\n[qui] This vampire gets first strike with hand and melee-weapon strikes this round.\n[QUI] As above, with an optional maneuver.\n\nScorpion's Touch [FN:C2, LotN:PA4]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Quietus\n[qui] Strike: hand strike or use a melee weapon strike. Put this card on the opposing minion. This minion gets -1 strength (after the current strike resolution step). Any vampire may burn this card as a +1 stealth action. A minion may have only one Scorpion's Touch.\n[QUI] As above, and this minion burns 1 blood or life during his or her untap phase.",
+      "Id": "9340"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 30, 2011, 7:09\u202FPM",
+      "Body": "> DeathInABottle wrote:\n> If a vampire strikes with first strike (e.g. with Silence of Death) and uses a strike that reduces the opposing minion's strength (e.g. with Scorpion's Touch), does the strength reduction kick in immediately? I remember reading somewhere that it doesn't, but the phrasing on Scorpion's Touch - \"this minion gets -1 strength (after the current strike resolution step)\" - seems to suggest that it should, provided that the \"current\" strike resolution is the resolution of the first strike alone.\n>\nWe resolve the first strike, and then we resolve the normal strike.\nIf you're striking with first strike, the \"current strike resolution\" of Scorpion's Touch is the first strike resolution. Therefore, if the other minion is using a regular handstrike, it is affected.  [LSJ 20020325]",
+      "Id": "9345"
+    }
+  ]
+}

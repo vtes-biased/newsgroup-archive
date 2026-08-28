@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-49476",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/49476-multi-act-question",
+  "Title": "Multi act question",
+  "Messages": [
+    {
+      "Author": "delangen",
+      "Date": "Jun 4, 2013, 9:02\u202FPM",
+      "Body": "Hi\n\nOur group has been playing with not being able to repeat same action type twice... except if it was unsuccessful or blocked...what is the ruling on the multi acting...it is not very clear\n\nexample we've been playing: minion calle a vote succesfully they can'T call any other vote... same for bleed, equip, hunt, diablerie, recruit ally, hire retainer, same card etc...\n\nis this correct?",
+      "Id": "49476"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 4, 2013, 9:23\u202FPM",
+      "Body": "> delangen wrote:\n> Hi\n>\n> Our group has been playing with not being able to repeat same action type twice... except if it was unsuccessful or blocked...what is the ruling on the multi acting...it is not very clear\n>\n> example we've been playing: minion calle a vote succesfully they can'T call any other vote... same for bleed, equip, hunt, diablerie, recruit ally, hire retainer, same card etc...\n>\n> is this correct?\n>\nNot quite. It is quite close to the (very old, no longer used) floor rule for No Repeat Actions. However, that got thrown away years ago.\n\nA minion who untaps can repeat actions as often as they like, unless they fall under one of the excluded categories in the rulebook. They are:\n\n6.1.1: A minion cannot perform more than one bleed action each turn, even if he untaps.\n6.1.7: A minion cannot perform more than one political action each turn.\n6.1.6: A minion cannot perform an action with the same action card more than once each turn, even if he untaps.\n6.1.6: A minion cannot perform each action via the same card in play (including from the minion's own card text) more than once each turn, even if he untaps.\n11: (Marked, Red List vampires.) Any ready vampire she controls may enter combat with a marked Red List minion as a +1 stealth  action that costs 1 blood. Each vampire can take this action only once each turn.\n\nSo, for example, if there are 10 minions in torpor and my vampire untaps enough times, he can take a diablerie action for all of them. Similary, I can equip a .44 Magnum, untap, equip a Flamethrower, untap, equip an Ivory Bow, untap, recruit War Ghoul, untap, recruit Shambling Horde, untap, recruit Renegade Garou, untap, employ Mr Winthrop, untap, employ JS Simmons. One commonly seen tactic is repeat hunting with a vampire like Una and many Freak Drives.\n\nYou cannot bleed twice (6.1.1), regardless of where the bleed comes from. For example, you cannot bleed (cardless), untap, bleed (cardless). You also cannot bleed (Govern), untap, bleed (cardless). No two bleeds.\n\nSame with political actions (6.1.7). You cannot perform a political action, untap, and perform a political action, regardless of where those actions come from or what actions they are.\n\nYou cannot use the same action card twice, even if it provides two completely different actions. For example, you cannot bleed with Govern, untap, then do superior Govern. However, you can bleed (cardless), untap, superior Govern. Or bleed (inferior Govern), untap, superior Scouting Mission. This is just based on card name. Similarly, you can't recruit two Renegade Garou with the same vampire in the same turn, or equip two .44 Magnums. (But you could equip a .44 Magnum normally, untap, and get a second via Vast Wealth - different actions. Or recruit a Renegade Garou, untap, recruit a second with Summon History - different card names.)\n\nYou cannot use an action from the same instance of a card in play. For example, a vampire with a built-in rush (e.g. Beast, Wynn) cannot use it twice per turn. My copy of Duck cannot use a single Haven Uncovered on your copy of Arika twice in a turn. Your copy of Arika cannot attempt to burn the Haven Uncovered twice in a turn. This is based on the instance of the card in play, so if you have two Haven Uncovereds on the same vampire, you can rush it twice (once with each).\n\nAs to successful actions/blocked actions... the \"taint\" is applied at action resolution, either successful action resolution or unsuccessful. So if Vamp A attempts to bleed you, get blocked, untap with Freak Drive, Vamp A cannot bleed you again this turn. Similarly, if Vamp B calls a political action, gets blocked, untaps, it can't take another political action this turn. Same with card by name, same with card in play.\n\nOne subtlety here is that the taint applies to the minion who is acting at the time of hitting resolution, which is not necessarily the vampire who started the action. In particular, Mask of a Thousand Faces. Vamp A starts an action, Vamp B Masks it off them, the action reaches resolution (successful or otherwise). Vamp B is tainted, Vamp A is not.\n\nA second subtlety is that if the action terminates without reaching resolution, the acting minion is not tainted at all. This applies with cards such as Tangle Atropos' Hand, where the action is cancelled without reaching resolution.",
+      "Id": "49478"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Jun 4, 2013, 11:19\u202FPM",
+      "Body": "that is where I got confused sometimes the rules say attempt and sometimes it says perform.... great good to know\n\nthanks",
+      "Id": "49487"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 5, 2013, 4:31\u202FAM",
+      "Body": "Correct answer from jamesatzephyr.\n\n\"perform\" == \"reach resolution of the action\" (doesn't matter if the action is successful or not).\n\nA few (extra) precisions:\nIf there are two cards with the same name in play (say Haven Uncovered), a minion can perform the Haven-Uncovered-rush-action-1, untap, and perform the Haven-Uncovered-rush-action-2 (as long as the 6.1 limitations aren't broken - you can't try to burn two Anarch Revolts in the same turn with the same vampire).\n\nI'll also add to the \"subtlety\" that Direct Intervention is played way before resolution (it's even played before your tap your vampire), and, thus, doesn't forbid the play of a second copy of the action card. Yes, if they DI Donal's Parity Shift, you can play another Parity Shift with Donal.",
+      "Id": "49493"
+    }
+  ]
+}

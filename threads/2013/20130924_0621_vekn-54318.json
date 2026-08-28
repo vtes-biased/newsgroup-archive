@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-54318",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/54318-blissful-agony",
+  "Title": "Blissful Agony",
+  "Messages": [
+    {
+      "Author": "wesile",
+      "Date": "Sep 24, 2013, 6:21\u202FAM",
+      "Body": "Blissful Agony, Combat, 1 blood, Valeren/Animalism, R1 , [Bloodlines:R1]\n\n[ani] Strike: make a hand strike at strength+1 damage\n[val] Only usable at close range before strikes are chosen. Opposing minion takes 1 damage (damage not preventable) during strike resolution each round this combat if the range is close.\n[VAL] Strike: combat ends. Choose a minion controlled by a Methuselah other than the opposing vampire`s controller. The opposing vampire enters combat with that minion.\n\nQuestion - IMHO the second part of the BA effect kicks in even if the opposing vampire plays S:CE or dodge. I am wrong?\n\nJust wanted to clarify this...",
+      "Id": "54318"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 24, 2013, 7:06\u202FAM",
+      "Body": "Majesty: Yes, the new combat happens.\nDodge: The new combat doesn't happen. Dodge protects your minion from the opposing minion's strike.\n\nAlso remember: can't sup BA if the opponent plays sup BA.",
+      "Id": "54320"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Sep 25, 2013, 5:08\u202FAM",
+      "Body": "> Also remember: can't sup BA if the opponent plays sup BA.\n>\nCan you explain this, Pascal?\n\nNC of Hungary\n\n///",
+      "Id": "54350"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 25, 2013, 6:29\u202FAM",
+      "Body": "> Malachy wrote:\n>\n> > Also remember: can't sup BA if the opponent plays sup BA.\n> >\n> Can you explain this, Pascal?\n>\nThere's some confusion here and - unfortunately - Pascal has ruled both ways on this.\n\n1) Back in  [LSJ 20011215] , LSJ ruled:\n>\n> LSJ wrote:\n> The [two Blissful Agony] strikes resolve simultaneously. The acting methuselah can then order the two pending \"after combat\" effects - with the one chosen to be first canceling the other.\n>\n2) In  RTR 2002-05-01 (later than that ruling), the Rules Team changed how queued-up / pending combats were handled.\n\n> RTR wrote:\n> An effect which would cause (a new) combat cannot be used if there is already a \"to be resolved later\" combat.\n>\nThe common example for this was Blissful Agony ending combat (which sets up a combat about to happen) and then the opponent playing Psyche! (old text) to start a new combat.\n\n3) In  [FZD 20120225] , Pascal ruled that we should follow the ruling in 1.\n\n4) Here, in this thread, Pascal appears to be following the ruling in 2).\n\nHowever, it's arguable that Blissful Agony doesn't queue up another combat until it resolves and so - when both players play it - there isn't a pending combat to stop them, potentially.\n\nThere's some similar confusion regarding Siren's Lure:\n\n2009: groups.google.com/d/msg/rec.games.trading-cards.jyhad/B-OXE85SduA/kvhqdJbbFGkJ Earlier in the thread, a pending Siren's Lure prevents Hidden Lurker being played.\n>\n> LSJ wrote:\n> Jozxyqk wrote:\n> > I actually thought Siren's Lure was ruled differently.\n> > Since Siren's Lure's timing is \"once the action resolves\", which is after\n> > all queued combats _during_ the action would happen, it's a little bit\n> > different from playing psyche/hidden lurker during the action.\n> >\n> > The conversation about this seems very familiar, although I can't find\n> > the magical google groups search that comes up with a result that supports\n> > this memory....\n> Yeah. I had the same vague memory. But found nothing to back it up.\n>\nBut in 2008 - this perhaps being the vague memory they both had but couldn't find:\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/NWoHG9BuKnQ/6sE-FnADoOsJ\n>\n> LSJ wrote:\n> John Flournoy wrote:\n> > On Apr 28, 1:56 pm, \"\" <> wrote:\n> >> Hello LSJ,\n> >>\n> >> Vamp A1 calls a political action, Vamp B tries to block. Vamp A2\n> >> plays Siren's Lure. No more blocks are declared. Can Yawp Court be\n> >> used at this time? I believe no, because a combat is already queued.\n> >\n> > Look at it this way: If another block was declared and succeeded, the\n> > combat resulting from that block is not annulled because of the\n> > pending Siren's Lure combat. The existence of 'there will be a combat\n> > later' due to Siren's Lure doesn't pre-empt any other combats during\n> > the action - especially since that combat by definition doesn't occur\n> > until after the action (and all of its resultant combats) resolves.\n> Correct.\n>\nAnd then if SL does prevent other combat queuers being played, does it prevent Blissful Agony being played? Because then it's clear that we know BA will queue a combat, and that might prevent the opponent's BA being played.\n\nBut, for example, acting minion plays Blissful Agony. Opposing minion plays agg damage + Rotschreck. The possibly-queued BA combat doesn't happen because the strike doesn't resolve - it's not a question of interruption and being lost, it simply never gets to strike resolution.",
+      "Id": "54353"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 26, 2013, 5:20\u202FPM",
+      "Body": "Thanks for the catch.\n\"Sup' Blissful Agony cannot be played if the opposing plays sup' Blissful Agony\" is the valid ruling.\n\nSiren's Lure won't disallow the play of sup BA.",
+      "Id": "54400"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Sep 26, 2013, 9:06\u202FPM",
+      "Body": "> Pascal wrote:\n> Thanks for the catch.\n> \"Sup' Blissful Agony cannot be played if the opposing plays sup' Blissful Agony\" is the valid ruling.\n>\n> Siren's Lure won't disallow the play of sup BA.\n>\nPascal - can you explain the metaphysics behind this as i've been following ruling [1] for sometime as it made sense [the card isn't queuing when it's played as it's not resolved at that stage]\n\nEspecially as your thoughts on Siren's Lure and BA interaction seems to go the other way [why would SL NOT prevent a BA being played at SUP if a BA at SUP prevents a BA at sup being played?????]",
+      "Id": "54412"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 27, 2013, 5:58\u202FAM",
+      "Body": "From the Rulings page:\n\nAn effect which would cause (a new) combat cannot be used if there is already a pending combat queued. [RTR 20020501]\n\nNow, all depends on how you interpret \"Pending\".\nHere are a couple of examples:\n\nA plays Bum's Rush on B. A gets blocked by C.\nIn the resulting combat, if A plays Torrent to continue the action, (which means that, if the action is successful, a new combat will happen):  C can play Blissful Agony, and the \"continue the action\" part from Torrent will be lost (General Rulings) C can play sup' Psyche! (and the \"continue the action\" part will be lost) (General Rulings)\nNow, say A gets blocked by C, and D plays Siren's Lure. E now blocks. The results above still apply.\n\nThe idea is that the SL combat happens \"late enough\" (past resolution), whereas Psyche!, Blissful Agony, Hidden Lurker et al. combat all resolve immediately.\n\nSaid differently, Siren's Lure has its own \"pending window\" (which means you can't play two Siren's Lure on the same action,  [LSJ 20020123] ).\n\nTherefore it looks like we have (as far as I can see) four \"pending combat windows\":\n- The classic block window (when Ali Kar blocks your Bum's Rush on AMaravati)\n- The classic resolution window (when you enter in combat with Amaravati)\n- The less-classical Yawp Court window (which follows its own rulings regarding Psyche! vs damage)\n- The special Siren's Lure window\n\nIn each window, the ruling above applies. It doesn't extend to other windows.",
+      "Id": "54421"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Sep 27, 2013, 7:35\u202FPM",
+      "Body": "thanks Pascal but seems unnecessarily complicated!",
+      "Id": "54438"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 28, 2013, 4:03\u202FAM",
+      "Body": "> Squidalot wrote:\n> thanks Pascal but seems unnecessarily complicated!\n>\n\"Metaphysics aren't easy\" -- A. Einstein\n\nHere's an example:\n\nSaulot plays Bum's Rush on Nahum Enosh.\nQawiyya el-Ghaduba attempts to block. Anarch Convert (Inceptor + SIren's Lire + Blissful Agony) plays Siren's Lure.\nAriel attempts to block.\nIn this combat, one combatant could play Blissful Agony (sup), but not both.\nLet's say none does, and Saulot plays Toreador's Bane (to continue the action).\nThe action is successful, Saulot enters combat with Nahum Enosh.\nIn this combat, one combatant could play Blissful AGony (sup), but not both.\n\nAt the end of the action, one combattant of the Anarch Convert vs Qawiyya combat can play Blissful Agony, but not both.\n\nI think it's better to have this than to face stuff I've faced during the EC 2010, where two players weren't aware that you cannot play Psyche! after the opponent plays Blissful Agony, and did it. Three times. In a row. No queued combat.",
+      "Id": "54440"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Sep 28, 2013, 7:01\u202FAM",
+      "Body": "I didn't need the example I got how it worked and I appreciate the it's bad if players play psyche to get queued combat but I find:\n\n\"At the end of the action, one combattant of the Anarch Convert vs Qawiyya combat can play Blissful Agony, but not both.\"\n\nnon-intuitive as you haven't queued anything yet just played a strike later that will queue something [hence always used [1] in James's post above as the ruling]\nI just don't understand why at some stage BA has moved from ruling [1] to ruling [2] or why - that's the metaphysics i'm missing.\nYou can't 'pend' with BA until resolution so it doesn't make sense that the second player couldn't play a BA as well.\n\nThe unnecessarily complex bit referred to the 'four' cases of combats above. Eurgh mess and doesn't add anything as they're all the same case.",
+      "Id": "54447"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 28, 2013, 3:20\u202FPM",
+      "Body": "Ok, let's start from the other side.\n\nCan't queue combats. That's the main idea. If you disagree with this one, it's easier to stop reading now, and say so\n\nNow, suppose two players would actually play sup' BA. We'd be in a situation, during strike resolution, where we would have to have two combats start. They can't happen simultaneously, so someone would have to sequence them. One of them being the first, and the other being the second. I hope you see the trouble here. We now have queued combats (which, as stated several times, is forbidden).\n\nIf you think this state is OK, do let me know. I think it's not, as it introduces queued combats.",
+      "Id": "54463"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Sep 28, 2013, 3:56\u202FPM",
+      "Body": "no I certainly don't think that's ok\n\nI just don't think the 'metaphysics' of the card works like that and i'm interested why you can play a Sup BA on a Siren's lure action because that seems even more blatant 'combat is queued' than two sup BA's that haven't resolved.\n\n[to make it easier I think Siren's Lure queued = BA already played at Superior as it seems like a sensible standardisation]",
+      "Id": "54467"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 28, 2013, 4:20\u202FPM",
+      "Body": "So your trouble isn't with BA at all, it simply is with Siren's Lure.\n\nRe-read my previous example, and you'll realize that, at every point, once SL has been played, there would be a so-called \"queued\" combat. Generated from the play of SL.\n\nAre you trying to say that I shouldn't allow the play of BA, because SL has been played?\n\nSimilar question: Should the combat resulting from a block after SL has been played still resolve (after all, there is a \"queued\" combat) ?\n\nSimilar question: If the action isn't blocked after SL has been played, should the Bum's Rush still resolve (after all, there is a \"queued\" combat) ?\n\nWhat I'm interested in is knowing why you would refuse BA to generate a new combat when there was already one that was perfectly valid.",
+      "Id": "54469"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 30, 2013, 5:10\u202FAM",
+      "Body": "> Pascal wrote:\n> Now, suppose two players would actually play sup' BA. We'd be in a situation, during strike resolution, where we would have to have two combats start. They can't happen simultaneously, so someone would have to sequence them. One of them being the first, and the other being the second. I hope you see the trouble here. We now have queued combats (which, as stated several times, is forbidden).\n>\nWhy introduce a spurious false dichotomy? Nothing requires the second combat to be queued. You can just have it thrown away, as per  [FZD 20120225] .\n\nOther after combat effects are routinely thrown away when interrupted by something else sufficiently disruptive getting in the way.  RTR 2002-05-01 and the earlier [TOM 10-MAY-1995]. We don't feel forced to remember the existence of Form of Mist's continue action effect following a Psyche!\n\nSo no, I don't see the trouble here. We are not in a situation where two combats have to start, because we have long-standing rulings explaining what happens - the acting Methuselah sequences two otherwise-simultaneous effects, and the extra combat is thrown away.",
+      "Id": "54524"
+    }
+  ]
+}

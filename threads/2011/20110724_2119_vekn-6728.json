@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-6728",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/6728-announcing-siphon",
+  "Title": "Announcing Siphon",
+  "Messages": [
+    {
+      "Author": "Suoli",
+      "Date": "Jul 24, 2011, 9:19\u202FPM",
+      "Body": "I control a ready Accorri Giovanni and a torpored Nicomedes with 1 blood. Accorri plays Siphon, targeting Nicomedes and 2 other vampires controlled by other Methuselahs. Nicomedes burns his last blood to use his ability after the action is announced.\n\n1. Can Siphon target vampires with 0 blood?\n\n2. Do I have to announce the cards that I would move from my ash heap to my hand when the action is announced as I would with Gear Up or Sudario Refraction?\n\n3. If not and the cards are chosen during the resolution of the action, can I choose the Siphon that Accorri just played?\n\n4. Curveball! Accorri tries to Siphon a blood from the other 2 vampires but gets hit with Final Loosening at aus. Do I only get to move 1 card from the ash heap?\n\nSiphon\nType: Action\n+1 stealth action. Requires a ready vampire.\nChoose one or more younger vampires in torpor. If there are any Gehenna cards in play, the vampires need not be younger. Steal 1 blood from each chosen vampire. If this acting vampire is Giovanni, you may also move 1 card from your ash heap to your hand for each blood stolen (discard afterward). Only one Siphon can be played each turn.\n\nNicomedes\nClan: Harbinger of Skulls (group 4)\nCapacity: 5\nDisciplines: aus for nec vic\nSabbat. Black Hand: Once each of your turns, Nicomedes may burn a blood to shuffle your hand into your library (draw afterward).\n\nFinal Loosening\nType: Reaction\nRequires: anarch Auspex/Dementation/Fortitude\nRequires an anarch.\n[aus] Play when the acting vampire would gain 1 or more blood. The acting vampire and this reacting anarch each gain 1 blood instead.\n[dem] Gain 4 votes.\n[for] Only usable when an ally is acting. The action fails and the ally takes 1 damage. Tap this reacting anarch.\n\nThanks in advance.",
+      "Id": "6728"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Jul 24, 2011, 10:17\u202FPM",
+      "Body": "I'm not a rules guru, but I'd argue that:\n\n1. The targeting requirements don't specify a vampire with blood, so I'd say that you can target a vampire without blood. \"steal blood\" is well-defined for cases where the target has no blood.\n\n2. The amount of blood stolen is not known at declaration time, so I would argue that the cards moved would be chosen at that time. Once you resolve all the steal blood effects, you learn how much blood was stolen, so you know how many cards to choose.\n\n3. Based on a reading of the Sudario Refraction rulings, that would make your Siphon a possible target for retrieval.\n\n4. Final Loosening targets a blood gaining effect, not an action. I think you'd have to choose one of the individual steal blood effects, and you'd have to choose one that was in the process of resolving successfully. Based on the Final Loosening + Francois Villon ruling, the blood you gain still comes from the torpored vampire, so FL wouldn't impact the resolution of the siphon at all; it'd just give your watching Anarch a free blood.",
+      "Id": "6732"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Jul 24, 2011, 10:39\u202FPM",
+      "Body": "My intuition agrees with all your points except for the last one. I would say that all the blood is stolen simultaneously, just like every affected player would burn pool from a successful KRC simultaneously.",
+      "Id": "6733"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 25, 2011, 3:04\u202FAM",
+      "Body": "I agree, #4 isn't correct.\nYou take the action to steal X blood from X targets. Final Loosening interferes to reduce the total gained to 1 blood.\n\nPascal would probably need to rule if Final Loosening's 'draw cards' ability triggers from the 'blood that was taken' or the 'blood that was gained'.\n\nE.g. If I use Siphon to attempt to steal 4 blood, only actually get to steal 3 (because there is 3 blood available on the targets) and Final Loosening limits me to 1... do I get 3 cards or 1 card from Siphon?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "6738"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 25, 2011, 5:38\u202FAM",
+      "Body": "> Suoli wrote:\n> I control a ready Accorri Giovanni and a torpored Nicomedes with 1 blood. Accorri plays Siphon, targeting Nicomedes and 2 other vampires controlled by other Methuselahs. Nicomedes burns his last blood to use his ability after the action is announced.\n>\n> 1. Can Siphon target vampires with 0 blood?\n>\nYes. Siphon targets vampires, whether they have blood or not is irrelevent.\n\n> Suoli wrote:\n> 2. Do I have to announce the cards that I would move from my ash heap to my hand when the action is announced as I would with Gear Up or Sudario Refraction?\n>\nNo. See also Keystone Kine (where you choose the ally you'd burn with obf only at resolution:  [LSJ 20080608] ).\n\n> Suoli wrote:\n> 3. If not and the cards are chosen during the resolution of the action, can I choose the Siphon that Accorri just played?\n>\nNo. Action cards are placed in the ash heap after successful resolution. See also Sudario Refraction  [LSJ 20050407] .\n@finbury: Which ruling were you referring to?\n\n> Suoli wrote:\n> 4. Curveball! Accorri tries to Siphon a blood from the other 2 vampires but gets hit with Final Loosening at aus. Do I only get to move 1 card from the ash heap?\n>\nFL reduces the stealing part to 1. The player of FL decides which vampire the blood comes from. You may draw 1 card. (similarly to  [LSJ 20101011] , Francois Villon vs Final Loosening).",
+      "Id": "6740"
+    }
+  ]
+}

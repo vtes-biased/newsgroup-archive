@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-71359",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/71359-carrion-crows",
+  "Title": "Carrion Crows",
+  "Messages": [
+    {
+      "Author": "Josephdmorse",
+      "Date": "May 27, 2015, 9:07\u202FPM",
+      "Body": "I played Carrion Crows in Combat and a thrown gate, and both were blocked by a card that stated all strikes First strike cancel strikes.... does that include carrion Crows?\n\nPrince of Toledo",
+      "Id": "71359"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "May 27, 2015, 9:23\u202FPM",
+      "Body": "Carrion Crows is not a strike, and cannot be \"canceled\" (dodged?) by Strike: Dodge or other strike-affecting effects.\n\nCan you clarify your question by providing the specific cards in play?",
+      "Id": "71360"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 3, 2015, 10:19\u202FAM",
+      "Body": "\"First Strikes\" don't cancel \"Strikes\".\n\nWhen resolving strikes, always resolve, in order:\n- Strike: Combat ends (which cause pending strikes to be discarded)\n- First Strikes\n- Normal strikes\n\nIf a First Strike somehow ends a combat (send opponent to torpor; diablerize opponent; burn opponent; or do something similar to your minion), then the normal strike step is skipped, and you move to the end of combat.\n\nCarrion Crows' damage is applied during normal strike resolution, regardless of the strikes chosen by opponents.",
+      "Id": "71469"
+    }
+  ]
+}

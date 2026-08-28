@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-43452",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43452-pre-range-order",
+  "Title": "Pre-Range Order",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Dec 30, 2012, 5:13\u202FAM",
+      "Body": "In combat before range is determined, is there a specific order in playing pre-range cards? If actining minion says he is not playing any pre-range cards, then the reacting minion plays a pre-range card, can the acting mion then play a pre-range card? Is there even a structured order of play like this for pre-range cards like there is when playing Strike cards?",
+      "Id": "43452"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Dec 30, 2012, 9:26\u202FAM",
+      "Body": "Do these answer your question?\n\n[1.6.1.5] Sequencing.\nIf two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n\nand\n\n[6.4.2] Determine Range\nA minion in combat can use a maneuver to get to long range, or he can maneuver to get back to close range if his opponent maneuvers to long. The two combatants can continue playing maneuvers (to keep offsetting the effects of their opponent's last maneuver) for as long as they wish. A minion cannot play two maneuvers in a row (which would effectively cancel each other).\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "43456"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 30, 2012, 12:19\u202FPM",
+      "Body": "> Trigger wrote:\n> In combat before range is determined, is there a specific order in playing pre-range cards? If actining minion says he is not playing any pre-range cards, then the reacting minion plays a pre-range card, can the acting mion then play a pre-range card? Is there even a structured order of play like this for pre-range cards like there is when playing Strike cards?\n>\nUse the Sequencing rule to determine when each player can play a card.\n\nA is acting, B is blocking.\n\nA: no pre-range.\nB: Carrion Crows. (B is only allowed to play one card or to pass)\nA: no pre-range.\nB: Torn Signpost.\nA: Drawing out the Beast, Flesh of Marble, Trap. Pass.\nB: Pass.\nMove to maneuvers.",
+      "Id": "43465"
+    },
+    {
+      "Author": "Trigger",
+      "Date": "Dec 31, 2012, 12:49\u202FPM",
+      "Body": "So pretty much works like I figured, Acting minion plays pre-range or passes, then reacting minion plays or passes and so on untill both pass which then it goes to Manuevers. Thanks!\n\nLast question, A Minion can play more than one pre-range on his turn right?\n\n> Pascal wrote:\n> A: Drawing out the Beast, Flesh of Marble, Trap. Pass.\n>\nI didn't know if this was an OR statement or AND statement was the question.",
+      "Id": "43489"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 7, 2013, 7:39\u202FAM",
+      "Body": "Whenever a minion plays a pre-range card, the impulse (soon to be included in the rulebook!) goes back to the acting, either to play a card (giving him the impulse again) or to pass.\n\nSo, everytime the acting player plays a pre-range card, he gets the impulse again to play another one.",
+      "Id": "43704"
+    }
+  ]
+}

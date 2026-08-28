@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-55892",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/55892-burning-madness-network-cross-table",
+  "Title": "Burning madness network cross table",
+  "Messages": [
+    {
+      "Author": "Blooded Sand",
+      "Date": "Oct 29, 2013, 8:51\u202FPM",
+      "Body": "4 player game\nJohn -> Mike -> Bob -> Joe\nBob controls the madness network\nJohn declares an action to burn it.\nThis is a directed against Bob, correct? The text on madness network is to allow malks controlled by Joe and Mike to also block, not to make it not be a non D action, correct?\nPlease let me know, this is a current playing game",
+      "Id": "55892"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Oct 29, 2013, 9:06\u202FPM",
+      "Body": "It's still a  action against the controller of the card. It's just that there are some additional eligible blockers for the action.\n\nJust as if the other Malks had played Eagle's Sight. Playing ES on an action doesn't make the action undirected.",
+      "Id": "55894"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Oct 29, 2013, 9:09\u202FPM",
+      "Body": "and that settles that, thank you\nPlayer was trying to convince me based on a 1995 ruling that it was not a d action......",
+      "Id": "55895"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Oct 29, 2013, 9:19\u202FPM",
+      "Body": "Although I must admit, it is really strange, that no version of Madness Network has the  action (nor the latest version of the CSV on this website).\n\nBut .. the rulings page on this website specifically states:\n\n> Directed Actions:\n> Actions which target another player's hand, uncontrolled region, crypt, or library (or cards therein) are directed at that player. (Actions which target another player's ash heap are undirected by default). [LSJ 20010924] [LSJ 20010926]\n>",
+      "Id": "55901"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 29, 2013, 10:01\u202FPM",
+      "Body": "> Blooded wrote:\n> and that settles that, thank you\n> Player was trying to convince me based on a 1995 ruling that it was not a d action......\n>\nIn the distant past, an action that targeted more than one other Methuselah (e.g. superior Shepherd's Innocence, Border Skirmish) was undirected. Nowadays, such actions are directed actions. So even if it was aimed at two Methuselahs (the owner, and the other one with Malkavians) it wouldn't stop it being a directed action.\n\nThe action is still only directed at the actual target)s_ though (the Madness Network and its controller). The extra eligible blockers don't change that, any more than a vampire playing Eagle's Sight to block cross-table would.\n\nAn explanation I wrote up some years ago of what makes an action directed or undirected:\n\n> I wrote:\n> The action is by you against something you control (or pool, hand etc.).\n> Therefore, it is an undirected action.\n>\n> If you take an action that affects someone else (e.g. diablerie, their\n> pool, hand etc.), that's a directed action against that Methuselah.\n>\n> If you take an action that affects someone else (minions, pool, hand\n> etc.) and it also affects you, that's a directed action against the\n> target. e.g. \" Bleed, and untap a minion you control if successful\"\n> is a directed action against the bleed target - although you get a\n> benefit too. It's not directed against you.\n>\n> If you take an action that affects multiple Methuselahs, all of the\n> targets can block and it's a  action against those Methuselahs.\n> (Under the old rules, this would be an undirected action.) Example:\n> superior Shepherd's Innocence, Border Skirmish.\n>\n> If it affects multiple Methuselahs _and_ me, it's still a  action\n> against those other Methuselahs.\n>\n> In all circumstances, calling a referendum is an undirected action,\n> irrespective of who the referendum will affect (or might affect).\n>",
+      "Id": "55907"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2013, 11:57\u202FAM",
+      "Body": "> extrala wrote:\n> It's still a  action against the controller of the card. It's just that there are some additional eligible blockers for the action.\n>\n> Just as if the other Malks had played Eagle's Sight. Playing ES on an action doesn't make the action undirected.\n>\nCorrect.",
+      "Id": "56971"
+    }
+  ]
+}

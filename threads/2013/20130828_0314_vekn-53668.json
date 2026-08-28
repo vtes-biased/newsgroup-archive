@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-53668",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53668-tier-of-souls-vs-allies",
+  "Title": "Tier of Souls vs. Allies",
+  "Messages": [
+    {
+      "Author": "Pascek",
+      "Date": "Aug 28, 2013, 3:14\u202FAM",
+      "Body": "Is it possible to use Tier of Souls in an ally?\nOr ot fizzles? Even if not possible , at superior would the card stay in play?\n\nThanks!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "53668"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Aug 28, 2013, 4:13\u202FAM",
+      "Body": "> Name: Tier of Souls\n> [Sabbat:R, SW:R, Anarchs:PG, LoB:PA, Third:R]\n> Cardtype: Action\n> Discipline: Animalism\n> [ani]  Move 1 blood from a minion controlled by your prey to this vampire.\n> [ANI] As above, and put this card on the acting vampire. This vampire gets +1 bleed when bleeding your prey. Any minion may burn this card as a  action. A vampire may have only one Tier of Souls.\n> Artist: Harold Arthur McNeill\n>\nYou can play Tier of Souls on an ally, but you cannot move blood from that ally to the acting vampire, because allies do not have blood, but life.\n\ngroups.google.com/forum/#!original/rec.games.trading-cards.jyhad/iQV-HeSWhtQ/pVCtfIZmKokJ\n\nV:EKN Website Coordinator",
+      "Id": "53669"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 28, 2013, 5:13\u202FAM",
+      "Body": "Correct answer from Damnans.",
+      "Id": "53670"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 28, 2013, 8:40\u202FAM",
+      "Body": "You do still get the +1 bleed from the superior however.",
+      "Id": "53673"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Aug 28, 2013, 6:25\u202FPM",
+      "Body": "Perfect! Thanks to all!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "53692"
+    },
+    {
+      "Author": "prestonp",
+      "Date": "Sep 1, 2013, 11:56\u202FPM",
+      "Body": "I disagree with this ruling. Blood and life have long been treated as equivalent (Theft of Vitae) and there's no good reason to treat it differently now.",
+      "Id": "53762"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Sep 2, 2013, 2:30\u202FAM",
+      "Body": "> prestonp wrote:\n> I disagree with this ruling. Blood and life have long been treated as equivalent (Theft of Vitae) and there's no good reason to treat it differently now.\n>\nNo they haven't. \"Steal blood\" as a term is covered in rulebook to steal blood or life, but normally life doesn't count as blood. If it would be equivalent then you could pay any blood cost of cards with life.\n\nMarko, Prince of Helsinki",
+      "Id": "53766"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 2, 2013, 4:54\u202FAM",
+      "Body": "> prestonp wrote:\n> Blood and life have long been treated as equivalent\n>\nIncorrect.\n\nChanjelin Ward: \"Other Methuselahs' actions targeting this vampire cost an additional blood. \"\n[LSJ 20040818]\n>\n> LSJ wrote:\n> > Marijava Thuggee wishes to damage a minion with a Chanjelin Ward as an\n> > action. Can it, since they don't have the blood to pay for the action? Or\n> > can they lose a life to do it?\n>\n> He cannot, since he cannot pay the cost. Allies have no blood, so cannot\n> pay blood cost (unless card text says otherwise\n>\nExtortion: \"The minion with this card burns an additional blood to untap during his or her untap phase. \"\n[LSJ 20011004]\n>\n> LSJ wrote:\n> The wording is intentional - it prevents allies from untapping, as they\n> have no blood to burn.\n>\n[LSJ 20050629]\n>\n> LSJ wrote:\n> >>If I play Jar the Soul (sup) on himan ally, what happens ?\n> >\n> > He taps. The \"burn 1 blood\" is ignored, since allies ignore \"burn\n> > blood\" effects, having life.\n>\n> Correct.\n>\n> prestonp wrote:\n> and there's no good reason to treat it differently now.\n>\nQuite so, we should treat it the same as any other \"Does this ally have blood?\" interactions where there isn't a particular rule telling us to treat it differently.",
+      "Id": "53768"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 2, 2013, 6:13\u202FAM",
+      "Body": "Correct answers from a-e and jamesatzephyr.\nBlood and life are different. Allies can't burn blood, and vampires can't burn life.\n\"Steal\" converts blood / life into blood / life as appropriate.\nHere are some examples with Theft of Vitae:\n- Carna would steal 2 blood (becoming 2 blood) from Beetleman.\n- Carna would steal 2 life (becoming 2 blood) from Shambling Hordes.\n- Talaq would steal 1 blood (becoming 1 life) from Beetleman.\n- Talaq would steal 1 life (becoming 1 life) from Shambling Hordes.\n\nAn ally's life represents blood only when that ally plays a card as a vampire (usually to pay its cost). Allies can't play cards that require a vampire, unless explicit cardtext allows it.\n\nFor instance, Delaying Tacticts costs a blood, which is a cost an ally cannot pay.\nChanneling the Beast costs 1 blood, which is a cost an ally cannot play. However, a Shadow Court Satyr with a Channeling the Beast could play it, because of SCS's cardtext. It would burn 1 life to pay the 1-blood cost of the card.",
+      "Id": "53771"
+    },
+    {
+      "Author": "Powerlord",
+      "Date": "Sep 4, 2013, 3:44\u202FPM",
+      "Body": "So this means that you do not get the +1 bleed from superior, since you cannot remove one blood from the ally, correct?",
+      "Id": "53835"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 4, 2013, 4:33\u202FPM",
+      "Body": "> Powerlord wrote:\n> So this means that you do not get the +1 bleed from superior, since you cannot remove one blood from the ally, correct?\n>\nIncorrect.\nThe acting vampire would indeed not gain blood, but the card would still be put on him.\n\n> LSJ wrote:\n> Tier of Souls may target an ally (any minion).\n> The \"move blood\" effect will have no effect, since the ally has no blood to\n> move.\n> The acting vampire wears the card and gets +1 bleed.\n>\n(that quote is taken from Gin\u00E9s's link)\n\n(remember that the +1 bleed on Tier of Soul is only against your prey)",
+      "Id": "53836"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 6, 2013, 10:09\u202FAM",
+      "Body": "> Powerlord wrote:\n> So this means that you do not get the +1 bleed from superior, since you cannot remove one blood from the ally, correct?\n>\nAs Pascal points out, this works.\n\nAn \"interesting\" quirk of the targeting rules is that, ordinarily, if the target is no longer there or in a legal state, your action (or other similar effect) fizzles.\n\nActions targeting blood (or - by extension - life) counters, however, target the thing those counters are on, and then affect an appropriate number of those counters, up to the stated amount, but it can be less. For example:\n\n- Theft of Vitae superior steals 2 blood (or life) counters. I play Theft of Vitae against your vampire, who has 2 blood. Your vampire plays a strike costing 1 blood. Strikes resolve: my Theft of Vitae resolves, taking the 1 remaining counter. It doesn't fizzle because there's only one counter (the target was the minion).\n\n- Villein. (This is more controversial, but follows the same principle.) My vampire has 1 blood counter. I play Villein, declaring 2 counters. Villein doesn't fizzle, and takes as many counters as it can - 1.\n\nThere are a number of alternative approaches one might have taken in this area, but none of them are where we are. For example:\n\n- Just like you pick which vampire you're rushing, you might pick which counters you're targetting. But that would be lead to weird situations like \"I play Theft of Vitae against Arika who has 11 blood. I pick that counter and that counter.\" Arika then plays a combat card(s) costing 2 blood, and uses those specific counters. So then it fizzles. Currently, Arika would go down to 9 blood, then you'd steal two of the remaining 9.\n\n- You might decide that although you didn't target specific counters, there had to be enough counters there when you announced the effect to legally take all of them. So you wouldn't be able to Villein a vampire with 1 blood, or superior Theft of Vitae against a vampire with 1 blood. But currently, you might be able to do something like: you have 1 blood. I play Theft of Vitae superior against you. Before my strike resolves, you gain some blood - perhaps you do your own Steal Blood strike, but at First Strike. Currently, I'd be able to take that blood with my strike. Similarly, I can play Theft of Vitae (at either level) against an empty target, just to cycle cards.\n\n- You might decide that having insufficient counters to complete an effect causes the effect to fizzle. (Much like a tapped vampire untapping can cause your Ambush to fizzle.)",
+      "Id": "53891"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Jul 13, 2015, 5:13\u202FPM",
+      "Body": "Tier of Souls says take a blood from a MINION. That is an term that encompasses both allies and vampires.",
+      "Id": "72032"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 13, 2015, 5:58\u202FPM",
+      "Body": "> XZealot wrote:\n> Tier of Souls says take a blood from a MINION. That is an term that encompasses both allies and vampires.\n>\nIt is, yes. If there was an ally with blood, it would take blood from that ally. It's just there aren't any allies with blood.\n\nSimilarly, Jar the Soul targets minions, but burns blood from the target minion (at superior) - which will do nothing to an ally.\n+1 stealth action.\n[nec]  Tap any ready minion.\n[NEC]  As above, and that minion burns 1 blood.\n\nBonecraft goes on a minion, and can only be burned by that minion paying blood - something that allies can't do, so they're stuck with it.\n[vic] Strike: 1 damage. Put this card on the opposing minion. The minion with this card has -1 strength. (This does not affect the current Strike Resolution step.) He or she may burn this card by paying 2 blood as a +1 stealth action.\n\nCondemnation: Betrayed goes on a minion, but makes bleed actions cost an additional blood for that minion - a cost allies cannot meet.\n[dai] Requires an Infernal vampire.  Put this card on a ready minion. Bleed actions cost the minion with this card an additional blood. Burn all other Condemnations on this minion.\n\nOmael Kuman can be activated by a minion - by paying blood, something that allies don't have, so they can't use it.\nUnique ghoul with 1 life.\nBefore range is determined on the first round of combat, the minion with this retainer may burn 1 blood to set the range for the round.",
+      "Id": "72034"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jul 14, 2015, 2:28\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > XZealot wrote:\n> > Tier of Souls says take a blood from a MINION. That is an term that encompasses both allies and vampires.\n> >\n> It is, yes. If there was an ally with blood, it would take blood from that ally. It's just there aren't any allies with blood.\n>\n> Similarly, Jar the Soul targets minions, but burns blood from the target minion (at superior) - which will do nothing to an ally.\n> +1 stealth action.\n> [nec]  Tap any ready minion.\n> [NEC]  As above, and that minion burns 1 blood.\n>\n> Bonecraft goes on a minion, and can only be burned by that minion paying blood - something that allies can't do, so they're stuck with it.\n> [vic] Strike: 1 damage. Put this card on the opposing minion. The minion with this card has -1 strength. (This does not affect the current Strike Resolution step.) He or she may burn this card by paying 2 blood as a +1 stealth action.\n>\n> Condemnation: Betrayed goes on a minion, but makes bleed actions cost an additional blood for that minion - a cost allies cannot meet.\n> [dai] Requires an Infernal vampire.  Put this card on a ready minion. Bleed actions cost the minion with this card an additional blood. Burn all other Condemnations on this minion.\n>\n> Omael Kuman can be activated by a minion - by paying blood, something that allies don't have, so they can't use it.\n> Unique ghoul with 1 life.\n> Before range is determined on the first round of combat, the minion with this retainer may burn 1 blood to set the range for the round.\n>\nTier of Souls says \"move blood,\" not \"burn blood.\" Is it correct that \"move blood\" effects cannot affect life counters?",
+      "Id": "72050"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 14, 2015, 3:15\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Tier of Souls says \"move blood,\" not \"burn blood.\" Is it correct that \"move blood\" effects cannot affect life counters?\n>\n\"Move blood\" cannot affect life, because it is not blood.  [FZD 20130828] and  [LSJ 20060304]\n\n\"Burn blood\" does not affect life, because it is not blood. www.vekn.net/index.php/general-rulings \"Ignore all \"burn blood\" effects entirely. [TOM 19960326]\"\n\nIn general, something involving \"blood\" that affects an ally (who does not have blood) will not swap the word \"life\" in for blood unless either:\n\n- there is explicit card text\n- there is explicit rules text. (This rules text exists for \"steal blood\" - see 6.4.5: www.vekn.net/rulebook.)",
+      "Id": "72051"
+    }
+  ]
+}

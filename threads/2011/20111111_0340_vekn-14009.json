@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-14009",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/14009-power-of-all-and-tapping-the-acting-minion",
+  "Title": "Power of All and tapping the acting minion",
+  "Messages": [
+    {
+      "Author": "Ira",
+      "Date": "Nov 11, 2011, 3:40\u202FAM",
+      "Body": "If a minion plays an action card which is cancelled with Power of All, is the acting minion tapped or not? I know that the cost of the action is paid, but I'm not sure if the minion stays tapped or not.\n\nDI has specific reminder text clarifying that the minion untaps.\n\nThanks,\nIra\n\nPower of All\nReaction\n2 blood\nRequires a ready anarch.\nTap this anarch and one other untapped ready anarch you control to cancel a library card as it is played. Usable even if there is no action. Not usable during your own turn.\n\nDirect Intervention\nMaster: out-of-turn.\nCancel a minion card as it is played. No cost is paid. (If it was an action card, the acting minion doesn't tap. If it was a strike card, the minion chooses another strike.)\n\nIra",
+      "Id": "14009"
+    },
+    {
+      "Author": "Smaul",
+      "Date": "Nov 11, 2011, 4:07\u202FAM",
+      "Body": "An action is not played and a vampire is not tapped until the as played window doesn\u00B4t resolve. For this matter, any DI like card acts the same way. The acting minion doesn\u00B4t get to be tapped and the cost isn\u00B4t paid eather.",
+      "Id": "14010"
+    },
+    {
+      "Author": "miketheknife",
+      "Date": "Nov 11, 2011, 12:00\u202FPM",
+      "Body": "I have another question regarding this card:\n\nAnarch A plays PoA, anarch B is chosen to tap.\nQ: does anarch A need to tap? or can play PoA using on the qui vive/wake/forced awakening/Eye of argus?\n\nthx!",
+      "Id": "14019"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Nov 11, 2011, 12:08\u202FPM",
+      "Body": "> miketheknife wrote:\n> Anarch A plays PoA, anarch B is chosen to tap.\n> Q: does anarch A need to tap?\n>\nIANPB but yes, tap to do something means you have to tap.\n\nOther thing is a card like Telepathic Misdirection which says \"tap this reacting vampire\". This is no \"tap to do something\" but more a \"this vampire becomes tapped if he isn't already\".\n\nBaron of Frankfurt",
+      "Id": "14020"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 11, 2011, 12:12\u202FPM",
+      "Body": "> Smaul wrote:\n> An action is not played and a vampire is not tapped until the as played window doesn\u00B4t resolve.\n>\nThe action has already been played, it's just then cancelled. That doesn't mean it wasn't played.  [LSJ 20001018]\n>\n> LSJ wrote:\n> DI does the same thing in both cases - cancels the card (without erasing\n> the fact that the card was played).\n>\nBecause the action card was cancelled, the vampire doesn't attempt the action, so the vampire doesn't tap.  [LSJ 20081213]\n>\n> LSJ wrote:\n> as the vampire hasn't yet attempted an action (the\n> canceled action card's action isn't attempted), you can still attempt an action\n>",
+      "Id": "14021"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 11, 2011, 12:19\u202FPM",
+      "Body": "> Joscha wrote:\n>\n> > miketheknife wrote:\n> > Anarch A plays PoA, anarch B is chosen to tap.\n> > Q: does anarch A need to tap?\n> >\n> IANPB but yes, tap to do something means you have to tap.\n>\nCorrect. LSJ confirms it for similarly-worded reaction cards:  [LSJ 20031117]\n\n> Thar wrote:\n> Halcyan 2 wrote:\n> >>I believe that the superior cannot be used with Forced Awakening\n> >>or other similar effects that allow to act as if untapped because\n> >>you cannot tap when you are already tapped. Just want to be\n> >>certain about it.\n>\n> > Correct. You need to actually go from an untapped state to a tapped state to\n> > use the superior effect of the card. Similarly, Forced Awakening does not work\n> > with The Mole (Dominate) or Mariel's special.\n>\n> Correct. Card text: \"tap to\"\n>\nRelevant card text:\n\nThe Mole (dom): Only usable when you are being bled by a younger vampire. Tap this vampire to cause the action to fail.\n\nBabble (DEM): Tap this vampire to untap another ready minion.",
+      "Id": "14023"
+    },
+    {
+      "Author": "Smaul",
+      "Date": "Nov 11, 2011, 2:38\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Smaul wrote:\n> > An action is not played and a vampire is not tapped until the as played window doesn\u00B4t resolve.\n> >\n> The action has already been played, it's just then cancelled. That doesn't mean it wasn't played.  [LSJ 20001018]\n>\n[/quote]\nSorry I wanted to mean that and just that the minion is not tapped until that window passess, it is just that my english was not really accurate.",
+      "Id": "14027"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 14, 2011, 4:13\u202FPM",
+      "Body": "Correct answers from jamesatzephyr.\n\nThe acting vampire isn't tapped yet when Power of All is played. The cost of the action is not paid (cost of actions is only paid on successful resolution of the actions)\n\nMight I also add that DI doesn't untap the minion, but merely \"not tap him\" (for instance if you DI Force of Will, the guy won't magically untap)\n\nHere's a quick recap, using Kindred Spirits.\n\n1 - play the action card from your hand. Announce which minion is performing the action. Announce which the targets are (in this case, the target of the bleed). Announce the level of discipline. Announce whatever else you could announce (for instance: X in cost)\n\n2 - wait for DIs - this is the \"as played\" window\n\n3 - if there was no DI, replace the action card and tap the acting minion\n\n4 - you are now in the \"as announced\" window, you can play Seduction (but not Eyes of Chaos yet)",
+      "Id": "14131"
+    }
+  ]
+}

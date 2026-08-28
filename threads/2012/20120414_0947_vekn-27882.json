@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-27882",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/27882-can-someone-explain-the-wording-pentex-subversion",
+  "Title": "Can someone explain the wording: Pentex Subversion",
+  "Messages": [
+    {
+      "Author": "Azel",
+      "Date": "Apr 14, 2012, 9:47\u202FAM",
+      "Body": "I'm not asking how the card is played; that I already know. I'm asking about the history (and possible migration? legacy?) of text for this card. It's the bolded part in the beginning that gets me. It seems so... extraneous.\n\nSince the meth who plays the card is the target for the  action to remove it (because of card ownership), what's with this extra text? Couldn't it have been better written \"Put this card in play and target a ready minion\"? As a visual reminder of who is 'Pentex'ed it just adds visual confusion when I explain to new players that that reminder has no bearing on who you are targeting with the  action to remove the card. But at some point was there a reason?\n\nAt this point, I don't really care about current rulings about it. VTES is chock full of quirks that at this point are essentially delightful apocrypha. But I'm rather intrigued by the story behind the text's legacy. It's sorta like why I find Phobia or Mummify interesting as a legacy narrative.\n\nPentex(TM) Subversion\nMaster\nUnique master.\nPut this card on any ready minion. The minion with this card cannot take actions and cannot block actions. This card may be burned by any other minion as a  action.\n\nSo, VTES historians, what's the story here?",
+      "Id": "27882"
+    },
+    {
+      "Author": "Otso",
+      "Date": "Apr 14, 2012, 10:10\u202FAM",
+      "Body": "I don't know about the history of the card, but the question whether the card is put on a minion is a nontrivial one. I guess the most common situation where this could be seen is when the minion with the card leaves play causing all cards on the minion to be burned and making it possible to play another pentex without contesting.",
+      "Id": "27884"
+    },
+    {
+      "Author": "Pagan",
+      "Date": "Apr 14, 2012, 3:07\u202FPM",
+      "Body": "Likely old WotC wording and the fact that the card better represents the game state being attached to the target minion.\n\nIt also allows it to interact with at least one card that the alternative text would not, although I can't say that I've ever seen it happen.\n\nCleansing Ritual\nType: Action\nRequires: Obeah/Dominate\nCost: 1 blood\n+1 stealth action.\n[dom] Add 1 blood to a vampire you control.\n[obe] Burn a card on an ally or younger vampire in your ready region.\n[OBE] As [obe] above, and untap that minion at the end of the turn.",
+      "Id": "27893"
+    },
+    {
+      "Author": "salem",
+      "Date": "Apr 16, 2012, 3:40\u202FAM",
+      "Body": "I think maybe the old text of secure haven also may have had \"master cards played on this vampire\" instead of \"targetting\". So it would affect pentex only if pentex was played on the vampire. I probably have a DS version of both I could check if I could be bothered...\n\n--\nsalem",
+      "Id": "27968"
+    },
+    {
+      "Author": "Lemmink\u00E4inen",
+      "Date": "Apr 16, 2012, 5:11\u202FAM",
+      "Body": "> Pagan wrote:\n> Likely old WotC wording and the fact that the card better represents the game state being attached to the target minion.\n>\n> It also allows it to interact with at least one card that the alternative text would not, although I can't say that I've ever seen it happen.\n>\n> Cleansing Ritual\n> Type: Action\n> Requires: Obeah/Dominate\n> Cost: 1 blood\n> +1 stealth action.\n> [dom] Add 1 blood to a vampire you control.\n> [obe] Burn a card on an ally or younger vampire in your ready region.\n> [OBE] As [obe] above, and untap that minion at the end of the turn.\n>\nAnother one is:\n\nThreading the Path of Orpheus\nType: Action\nRequires: Harbinger of Skulls\n+1 stealth action.\nBurn a card played by another Methuselah on a vampire you control. Tap that vampire.",
+      "Id": "27981"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 16, 2012, 7:09\u202FAM",
+      "Body": "Shadow of Taint\n[LoB:R]\nCardtype: Action\nDiscipline: Valeren/Dominate\n[dom]  Move a card played by another Methuselah on an ally in your ready region to another ally.\n[val] As [dom] above, or move a card played by another Methuselah on a vampire in your ready region to another minion on whom the card could be played. That minion cannot be a vampire older than the vampire with the card.\n[VAL] As [val] above, and this action is at +1 stealth.",
+      "Id": "27983"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 16, 2012, 7:43\u202FAM",
+      "Body": "> Pascal wrote:\n> Shadow of Taint\n> [LoB:R]\n> Cardtype: Action\n> Discipline: Valeren/Dominate\n> [dom]  Move a card played by another Methuselah on an ally in your ready region to another ally.\n> [val] As [dom] above, or move a card played by another Methuselah on a vampire in your ready region to another minion on whom the card could be played. That minion cannot be a vampire older than the vampire with the card.\n> [VAL] As [val] above, and this action is at +1 stealth.\n>\nWhich is by far the funniest way to get rid of Pentex Subvertion. Too bad Saulot can't use it to unpentex himself.",
+      "Id": "27985"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Apr 16, 2012, 7:55\u202FAM",
+      "Body": "But any weenie !Salubri can unpentex Saulot.",
+      "Id": "27987"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 16, 2012, 8:25\u202FAM",
+      "Body": "> Non-existant user wrote:\n> But any weenie !Salubri can unpentex Saulot.\n>\nYes, but still it's in the realm of \"awesome but impractical\" from my experience. !Salubri are not too stealthy, and the two salubri with  are very likely to be the target of the pentex subvertion. Pentex subversion and Disarm are the two card played on my vampire that I see the most, and only one of them is really worth an action to get rid of :/",
+      "Id": "27989"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 16, 2012, 10:11\u202FAM",
+      "Body": "You don't see Fame played on your vampires often?",
+      "Id": "27994"
+    }
+  ]
+}

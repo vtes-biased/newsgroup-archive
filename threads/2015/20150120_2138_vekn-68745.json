@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-68745",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68745-presses-outside-of-the-press-step",
+  "Title": "Presses outside of the press step",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Jan 20, 2015, 9:38\u202FPM",
+      "Body": "Can you use cards or effects to gain presses outside of the press step?",
+      "Id": "68745"
+    },
+    {
+      "Author": "chrisn101",
+      "Date": "Jan 20, 2015, 9:55\u202FPM",
+      "Body": "Hi XZealot,\n\nDo you mean like if you play superior  Vampiric Speed as a strike?\n\nStrike: dodge.\nStrike: dodge, with an optional press.\n\nThen yes. At press step, you can also play cards that specifically allow you to press e.g.  Nimble Feet .\n\nHowever, \"A maneuver or press gained by a combat card can only be used during the current round of combat. A maneuver or press gained by a non-combat card (e.g., action, equipment) can be used in any round of the combat. [TOM 19960521]\". Also, your minion can't press to continue and then press to end.",
+      "Id": "68748"
+    },
+    {
+      "Author": "Pagan",
+      "Date": "Jan 20, 2015, 10:20\u202FPM",
+      "Body": "No, the question came up with:\n\nName: Terry\n[BL:U1]\nCardtype: Vampire\nClan: Blood Brother\nGroup: 2\nCapacity: 5\nDiscipline: aus dom san POT\nSabbat. Chicago Circle: Once each combat, Terry can burn 1 blood to get a press. Sterile.\nArtist: Christopher Shy\n\nI wanted to burn a blood before strikes so he'd go to 0 and then torpor with damage. But intuitively we agree it isn't legal as no one cycles 15 presses during combat before the press step so there has to be a ruling somewhere that states this.\n\nBut after looking at the rulebook I can't find where it states you can only gain presses during the press step or a specific card ruling but it has to be there somewhere. Also it has to be a ruling his text doesn't 'Golden Rule' over.",
+      "Id": "68749"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 21, 2015, 9:02\u202FAM",
+      "Body": "> Pagan wrote:\n> But after looking at the rulebook I can't find where it states you can only gain presses during the press step or a specific card ruling but it has to be there somewhere. Also it has to be a ruling his text doesn't 'Golden Rule' over.\n>\nWell, the rulebook only talks about playing presses during the press step, 6.4.4, which implies it.\n\nHowever, it has been explicitly ruled in the past that cards giving you an immediate press should be played in the press step. e.g.  [LSJ 20070525]\n>\n> LSJ wrote:\n> > Immortal Grapple has a draft effect \"[obf]Press\". Considering the bold\n> > text \"Only usable at close range before strikes are chosen. Grapple\",\n> > when the draft effect should be played? If it should be played before\n> > strikes are chosen, why the text isn't like \"This vampire gets an\n> > optional press this round\", as usual?\n> Play in the press step.\n>\nAnd from two posts further on:\n>\n> LSJ wrote:\n> you can't play a press in the pre-range step.\n>\nSimilarly, you can only play immediate maneuvers in Choose Range and not in \"before range is determined\". You can only play an immediate additional strike after strikes are resolved. You can only play immediate damage prevention if there is damage to prevent. You can only play an immediate strike during Choose Strike.\n\nAs already noted, if a card gives you a press that is obviously for later e.g. Vampiric Speed, Flash, then you can play that earlier. If a card gives you a strike for later (e.g. superior Mythic Form), you can play that earlier. If a card gives you lingering damage prevention (e.g. Apparition) you can play that earlier. Additional strike later this round, Vial of Garou Blood.",
+      "Id": "68755"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 21, 2015, 11:10\u202FAM",
+      "Body": "Correct answer from jamesatzehpyr.",
+      "Id": "68757"
+    },
+    {
+      "Author": "Pagan",
+      "Date": "Feb 2, 2015, 10:11\u202FPM",
+      "Body": "So why is this not true then?\n>\n> 1.4. The Golden Rule for Cards\n>\n> Whenever the cards contradict the rules, the cards take precedence.\n>\nTerry contradicts the rules by allowing him to gain a press by burning a blood with the only restriction that he has to be in combat. The rulebook says when card text would allow something different than the rules, the card text wins.\n\nIf the intent is as explained above that he shouldn't be able to gain a press earlier Terry should then say,\n\n> Once during the press step each combat, Terry can burn 1 blood to get a press.\n>\nAnd the rulebook needs to specify when a Press can be played and not require finding a ruling on a basic mechanic.",
+      "Id": "69029"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Feb 3, 2015, 2:02\u202FAM",
+      "Body": "there's plenty of precedent: you can't generate stealth unless there's a block attempt. you can't generate intercept unless there's stealth, &c. same rules apply there. I think. I usually defer to Jamesatzephyr for this sort of thing",
+      "Id": "69030"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 3, 2015, 3:21\u202FAM",
+      "Body": "The confusing wording is \"get a press\". What it really means is \"get a press and play it\". What \"get a press\" commonly means is said \"get an optional press\" on cards.\n\nIt seems that the rulebook does not use \"press\" and \"maneuver\" as verbs. It is a pity. \"Once each combat, Terry can burn 1 blood to press\" is certainly clearer, and that is the way all players I know announce it.",
+      "Id": "69031"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Feb 3, 2015, 3:23\u202FAM",
+      "Body": "> self wrote:\n> there's plenty of precedent: you can't generate stealth unless there's a block attempt. you can't generate intercept unless there's stealth, &c. same rules apply there. I think. I usually defer to Jamesatzephyr for this sort of thing\n>\nIt's a shame that more people can't read written text and come to an understanding of what it means without the help of someone else.\n\nPagan is correct: the rulebook, as it is written, does not say that you can't play (or get, or whatever) a press outside the press step. The rulebook makes the jump from \"using presses\" to \"playing presses\" without taking into account how to handle presses gotten/played outside the press step. I mean, aren't optional presses \"played\"? Aren't the presses from Trap \"played\"? It implies instead of explicitly states that you cannot play \"immediate\" presses outside the press step, even though of course there is no class of game effects categorized as \"immediate\". As Pagan mentioned, this is an intuitive understanding.\n\nJust because you know something to be true intuitively, or because someone you view as an authority tells you something, doesn't mean that there is any written text backing it up. Seriously.\n\nEveryone knows how presses are meant to be played, I guess, and this example with Dan is corner-case. However, the rulebook could always be written better, which seems to be Pagan's point.\n\n> 6.4.4. Press\n>\n> At the end of a round of combat (if both combatants are still ready), the combatants will either go their separate ways (the default) or one of them will give chase. Presses can be used to continue combat (start another round of combat) or to end combat (cancel an opponent's press), similar to the way maneuvers are used to determine range. The two combatants can continue playing presses (to keep offsetting the effects of their opponent's last press) for as long as they wish. A minion cannot play two presses in a row (which would effectively cancel each other). If there is an uncanceled press to continue, then another round of combat begins.\n>",
+      "Id": "69032"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 3, 2015, 8:03\u202FAM",
+      "Body": "> Pagan wrote:\n> Terry contradicts the rules by allowing him to gain a press by burning a blood with the only restriction that he has to be in combat. The rulebook says when card text would allow something different than the rules, the card text wins.\n>\nIt doesn't actually contradict the rules, though. It says he can do it once each combat, so even if the combat goes on for seventeen rounds, he can only do it once. But you follow the rest of the game on presses, which includes when you play/use/declare them. Both restrictions apply - once each combat, and the normal timing.\n\nSimilarly, Alexis Sorokin can only declare his strike during Choose Strike:\nAlexis Sorokin... Once each combat, Alexis may dodge as a strike.\n\nLernean can only gain his additional strike during the normal point for that, after strikes are resolved:\nLernean... Once each round, Lernean may burn 1 blood to get an additional strike.\n\nDon Cruez can only gain a maneuver during Choose Range:\nOnce each combat, Don Cruez may burn 1 blood to get one maneuver.\n\nTo contradict the rules, you need to do more than just state a general timing - you actually need to say something that's incompatible with the rules, where the two cannot be true together. For example:\nSecond Tradition... Also usable by a tapped prince or justicar, even if intercept is not yet needed, to burn a blood to untap and attempt to block with +2 intercept.\n\nUsable by a tapped prince - check, that contradicts. Ordinarily, reactions are playable only by untapped minions. Gain intercept even though it's not yet needed - check, that contradicts. Ordinarily, transient intercept can only be gained during a stealth-intercept fight when you need the intercept.",
+      "Id": "69034"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-34951",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/34951-blithe-acceptance-obedience",
+  "Title": "blithe acceptance / obedience",
+  "Messages": [
+    {
+      "Author": "Chaitan",
+      "Date": "Aug 17, 2012, 10:13\u202FAM",
+      "Body": "Minion A attempts to enter combat with Minion B.\n\nMinion B has Blithe Acceptance and plays Obedience.\n\nwording on obedience says that the action ends (and combat). For a combat to end it must have started. (disarm+strike combat ends for instance, end of combat for disarm is legit target since ended combat has started and has an end) Does this mean that if minion B plays obedience, he must still pay 1 blood to keep blithe (combat must have started since it ends)?",
+      "Id": "34951"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Aug 17, 2012, 10:23\u202FAM",
+      "Body": "Obedience card text:\n\nOnly usable when this reacting vampire is about to enter combat with an acting younger vampire.\n[dom] Untap the acting vampire, do not tap this reacting vampire, and end the current action (and combat). The acting vampire cannot attempt the same action this turn.\n[DOM] As above, but do not untap the acting vampire.\n\nBolded the relevant part.\n\nObedience is played before combat starts (which is kinda neccesary because Obedience is a reaction card and not a combat card) so the action ends before combat starts.\n\nMinion B keeps his Blithe Acceptance.\n\nThe (and combat) seems a bit redundant, but is probably just some of this imfamous \"reminder text\".",
+      "Id": "34952"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 17, 2012, 10:24\u202FAM",
+      "Body": "Combat doesn't start. That part is here to let players know that once Obedience is played, we move on to the next action (about-to-happen combat doesn't happen).\nThe vampire hasn't entered combat - for instance, you can't play sup' Aura Reading, and then Obedience, in a combat.\nA vampire with a Blithe Acceptance who plays Obedience doesn't have to burn blood to keep Blithe, as he didn't enter combat.\n\nI'm not sure what the reason for adding the \"(and combat)\" part was (between SW and CE) - maybe something to do with Psyche!, I suppose. Since GoogleGroups are pretty messy, it's hard to guess.",
+      "Id": "34953"
+    }
+  ]
+}

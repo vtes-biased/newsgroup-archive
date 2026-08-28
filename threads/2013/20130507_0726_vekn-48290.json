@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-48290",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/48290-blood-trade",
+  "Title": "Blood Trade",
+  "Messages": [
+    {
+      "Author": "Marakh",
+      "Date": "May 7, 2013, 7:26\u202FAM",
+      "Body": "Hi. I'd like to know if Blood Trade prohibits the playing of Consnguineous Boon or King's Favor(I assume not, because from what I've read in the rules neither of those is put in play.),if not,why was it necessary to specify that they are boon cards(Ok, CB has boon in it's name,but stuff like that didn't always matter in card design(looking at you Gargoyle Slave))? Thanks in advance.",
+      "Id": "48290"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 7, 2013, 10:41\u202FAM",
+      "Body": "> Marakh wrote:\n> Hi. I'd like to know if Blood Trade prohibits the playing of Consnguineous Boon or King's Favor(I assume not, because from what I've read in the rules neither of those is put in play.),\n>\nCon Boon, playable under Blood Trade. (And this was a change explicitly made during playtest - it's intentional that CB can be played.)  [LSJ 20040602]\n\nKing's Favor - based on the ruling on Extremis Boon in that same post, yes. However, if the criteria are met that would mean it went into play after tallying, it doesn't go into play.\n\n> Marakh wrote:\n> if not,why was it necessary to specify that they are boon cards(Ok, CB has boon in it's name,but stuff like that didn't always matter in card design(looking at you Gargoyle Slave))? Thanks in advance.\n>\nProbably a combination of two factors:\n\n1) LSJ liked keywords.\n\n2) Gargoyle Slave was first printed in Sabbat, prior to Gargoyles being created, and was never reprinted. LSJ usually disliked changing codes for no reason (for theme reasons, at least), unless he was also reprinting them.",
+      "Id": "48292"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 13, 2013, 9:19\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Marakh wrote:\n> > Hi. I'd like to know if Blood Trade prohibits the playing of Consnguineous Boon or King's Favor(I assume not, because from what I've read in the rules neither of those is put in play.),\n> >\n> Con Boon, playable under Blood Trade. (And this was a change explicitly made during playtest - it's intentional that CB can be played.)  [LSJ 20040602]\n>\n> King's Favor - based on the ruling on Extremis Boon in that same post, yes. However, if the criteria are met that would mean it went into play after tallying, it doesn't go into play.\n>\nCorrect.\n\nName: King's Favor\n[LoB:PG]\nCardtype: Reaction\nClan: Guruhi\nOnly usable during a referendum. Boon.\nThis Guruhi gets 3 additional votes. If this Guruhi casts votes in favor, and the referendum passes by the number of votes this Guruhi cast or fewer, put this card in play. While this card is in play, that acting vampire may not block this Guruhi. You may burn this card during any Methuselah's untap phase to move up to 3 blood from that vampire to this Guruhi.\n\nName: Consanguineous Boon\n[Jyhad:C, VTES:C, Sabbat:C, SW:PL/PV3, FN:PG/PS, CE:PTo3/PV2, BH:PTo4, LoB:PG2, Third:C/PB]\nCardtype: Political Action\nBoon.\nChoose a clan. Successful referendum means each Methuselah gains 1 pool for each member of that clan he or she controls.\n\nName: Blood Trade\n[Gehenna:R]\nCardtype: Event\nGehenna.\nBurn all boons in play. No more boons may be put in play. During each Methuselah's untap phase, that Methuselah may move a blood from a vampire he or she controls to a vampire controlled by another Methuselah.",
+      "Id": "48462"
+    }
+  ]
+}

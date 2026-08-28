@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-63650",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/63650-clarification-regarding-raptors",
+  "Title": "Clarification regarding Raptors",
+  "Messages": [
+    {
+      "Author": "Khalid1988",
+      "Date": "Jul 12, 2014, 7:26\u202FAM",
+      "Body": "Hello,\n\nI have been wondering what would happen in the following scenario:\n\nEnkidu is in play and employs a Raptor. After this, Enkidu enters combat with Gustaphe Brunelle. As per the text of Raptor, Gustaphe's controller reduces his/her hand size by 1. After the round and combat has ended, Enkidu uses Psyche to start new combat.\n\nSo my question is, whether Gustaphe Brunelle's controller would replace the discarded cards before the Psyche is played or not? Or is there no window of opportunity to replace the cards before new combat starts?\n\nCard texts for the library cards\n\nRaptor\n\n2 blood\nAnimal with 1 life\nThe minion with this retainer gets +1 intercept.\nAs above, and when the minion with this retainer is in combat, the opposing minion's controller gets -1 hand size.\nArtist(s): Ron Spencer\n\nPsyche!\n\nPress.\nOnly usable at the end of a round when both combatants are still ready and combat is about to end. After this round, begin another combat with the opposing minion.\nArtist(s): Jeff Menges; Eric Lofgren\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "63650"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 12, 2014, 8:09\u202FAM",
+      "Body": "> Khalid1988 wrote:\n> So my question is, whether Gustaphe Brunelle's controller would replace the discarded cards before the Psyche is played or not? Or is there no window of opportunity to replace the cards before new combat starts?\n>\nCombat actually ends, and there is a window outside of combat to play other relevant effects, such as Obedience.\n\n[FZD 20111211]\n>\n> Pascal wrote:\n>\n> > How does it work now, with Psyche! being inside the combat and Obedience being a reaction?\n> >\n> You can play Obedience to end the action as the combat created by Psyche! would start. Just as before.\n>\nAnd similarly:\n\n[FZD 20011202]\n>\n> Pascal wrote:\n>\n> > Sp, Marthe Dizzier can now return Psyche! played during combat ?\n> >\n> Yes. Happy New Year, Marthe!\n>\nWhen a combat involving Marthe ends, she can burn a blood to move a card she played during that combat from your ash heap to your hand.\n\nSo based on those, combat ends, effects usable at the end of combat can be played and effects usable outside of combat (reactions) can be played. So you're outside combat. So redraw, then discard again in the new combat.",
+      "Id": "63651"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Sep 17, 2014, 9:33\u202FAM",
+      "Body": "Is it possible to use Marthe's ability on Psyche! BEFORE replacing the card (making it so u dont have to discard after taking back Psyche!)? Or \"played\" means correctly announced and replaced\"?\n\nName: Marthe Dizier\n[Gehenna:U]\nCardtype: Vampire\nClan: Toreador antitribu\nGroup: 3\nCapacity: 10\nDiscipline: pro AUS CEL OBF PRE\nSabbat. Black Hand: When a combat involving Marthe ends, she can burn a blood to move a card she played during that combat from your ash heap to your hand. +1 bleed.\nArtist: Peter Bergting\n\nNC of Hungary\n\n///",
+      "Id": "65505"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 17, 2014, 9:56\u202FAM",
+      "Body": "> Malachy wrote:\n> Is it possible to use Marthe's ability on Psyche! BEFORE replacing the card (making it so u dont have to discard after taking back Psyche!)? Or \"played\" means correctly announced and replaced\"?\n>\n> Name: Marthe Dizier\n> [Gehenna:U]\n> Cardtype: Vampire\n> Clan: Toreador antitribu\n> Group: 3\n> Capacity: 10\n> Discipline: pro AUS CEL OBF PRE\n> Sabbat. Black Hand: When a combat involving Marthe ends, she can burn a blood to move a card she played during that combat from your ash heap to your hand. +1 bleed.\n> Artist: Peter Bergting\n>\nI am not sure what is the case described but I am sure of something, whatever happen, you will have to discard after using Marthe special even if you have a card which will not be replaced until \"a long time from now\" (e. g. glancing blow). In this case, you have to consider your hand size to be 1 card less than before playing the card \"do not replace until blah\" and so if you move a card to your hand, you have one card too many and you should discard.\n\nIf I read specifically your example and try to understand it, I would say :\n\nCombat is about to end.\nMarthe plays Psyche!\nYou replace your card (if nothing on the table prevent you from doing it e. g. blood weakens)\nCombat effectively ends.\nBoth combatants can play effects playable after combat (e. g. Marthe special) and effects playable before combat (e. g. obedience)\nNew combat begins.",
+      "Id": "65506"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 17, 2014, 10:12\u202FAM",
+      "Body": "> Malachy wrote:\n> Is it possible to use Marthe's ability on Psyche! BEFORE replacing the card (making it so u dont have to discard after taking back Psyche!)? Or \"played\" means correctly announced and replaced\"?\n>\n> Name: Marthe Dizier\n> [Gehenna:U]\n> Cardtype: Vampire\n> Clan: Toreador antitribu\n> Group: 3\n> Capacity: 10\n> Discipline: pro AUS CEL OBF PRE\n> Sabbat. Black Hand: When a combat involving Marthe ends, she can burn a blood to move a card she played during that combat from your ash heap to your hand. +1 bleed.\n> Artist: Peter Bergting\n>\nYou can't.\nA card is replaced immediately after being played. The only thing that can happen between a card being played and a card being replaced are\n- card-cancellers\n- \"as played\" effects (cost-reducers)\n- Wakes",
+      "Id": "65507"
+    }
+  ]
+}
