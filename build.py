@@ -176,6 +176,8 @@ def source_name(url: str) -> str:
         return "the page as the Wayback Machine kept it"
     if "vekn.net" in url:
         return "the topic on the V:EKN forum"
+    if "boardgamegeek.com" in url:
+        return "the thread on BoardGameGeek"
     if "/c/" in url:
         return "original thread on Google Groups"
     return "source archive"
@@ -348,7 +350,8 @@ questions one post at a time. This is a preserved copy of every thread one of
 those directors took part in &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
 together with the topics their successors have answered on the V:EKN forum
-ever since, which is where the rulings went when Usenet ended.</p>
+ever since, which is where the rulings went when Usenet ended, and three
+threads answered on BoardGameGeek along the way.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
 they will point here instead, because this copy is not going anywhere.</p>
@@ -364,7 +367,7 @@ def render_about(total_threads: int, total_messages: int) -> str:
     body = f"""<nav class="crumbs"><a href="../">Archive</a></nav>
 <h1>About this archive</h1>
 <p>This is a static copy of {total_threads:,} threads
-({total_messages:,} messages), from two places. Most of them come from the
+({total_messages:,} messages), from three places. Most of them come from the
 Usenet newsgroup <code>{GROUP}</code>, spanning 1994 to 2010: every thread in
 which one of the game's rules directors posted &mdash;
 <strong>Thomas&nbsp;R.&nbsp;Wylie</strong> (from December 1994),
@@ -393,6 +396,18 @@ one a Baltimore Purge ruling rests on returns a 404 today and survives only
 because the Wayback Machine happened to keep it, which is reason enough not to
 wait and see which goes next. Two more topics are here for the other reason
 &mdash; a ruling cites them, though neither director posted in them.</p>
+
+<p>Three threads come from a third place. In 2011, with the newsgroup finished
+and the forum still young,
+<strong>L.&nbsp;Scott&nbsp;Johnson</strong> answered rules questions in the
+game's forums on
+<a href="https://boardgamegeek.com/boardgame/2122/vampire-the-eternal-struggle/forums/66">BoardGameGeek</a>
+as well, and four rulings cite what he wrote there. Those three threads are
+here. Whether he answered in others is not something we can tell you:
+BoardGameGeek will not list a forum's threads without an API key, so unlike the
+newsgroup and the forum, this source was gathered from the citations rather
+than by the rule. Nobody has asked a rules question there since, so it is a
+closed source either way: copied once, and it will not grow.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
@@ -431,6 +446,12 @@ post it was pointing at:</p>
 <pre class="rewrite">vekn.net/forum/rules-questions/<b>75512</b>-raptor-obedience<b>#80020</b>
         &darr;
     usenet.krcg.org/t/vekn-<b>75512</b>/<b>#80020</b></pre>
+<p>A BoardGameGeek thread translates the same way, except that it writes the
+post number into the path rather than the fragment, so that is where the number
+is read from:</p>
+<pre class="rewrite">boardgamegeek.com/thread/<b>609699</b>/article/<b>6142361</b>
+        &darr;
+   usenet.krcg.org/t/bgg-<b>609699</b>/<b>#6142361</b></pre>
 
 <h2>Searching it</h2>
 <p><a href="../search/">Search</a> covers every word of every message, and the
@@ -442,7 +463,8 @@ phone, and it works with no server behind it.</p>
 <h2>Provenance</h2>
 <p>The newsgroup threads come from Google Groups' copy, filled out from
 the <a href="https://archive.org/details/usenet-rec">Internet Archive</a>'s copy
-where Google's had gaps; the forum topics were read from the forum itself. The
+where Google's had gaps; the forum topics were read from the forum itself, and
+the BoardGameGeek threads from the JSON its own pages are built out of. The
 JSON the pages were rendered
 from is committed alongside the site generator in the
 <a href="https://github.com/vtes-biased/newsgroup-archive">newsgroup-archive</a>

@@ -210,11 +210,16 @@ def started(thread: dict) -> datetime.datetime:
 
     The file a thread lives in is named for that moment, so the name has to
     come from the same string the thread carries rather than a second reading
-    of the page -- one date, written once.
+    of the page -- one date, written once. The forum records no seconds and
+    BoardGameGeek records them, so both shapes of the archive's date are read.
     """
-    return datetime.datetime.strptime(
-        thread["Messages"][0]["Date"].replace("\u202f", " "), "%b %d, %Y, %I:%M %p"
-    )
+    stamp = thread["Messages"][0]["Date"].replace("\u202f", " ")
+    for shape in ("%b %d, %Y, %I:%M:%S %p", "%b %d, %Y, %I:%M %p"):
+        try:
+            return datetime.datetime.strptime(stamp, shape)
+        except ValueError:
+            continue
+    raise ValueError(f"unreadable thread date: {stamp!r}")
 
 
 def fetch(url: str, timeout: int = 120) -> str:

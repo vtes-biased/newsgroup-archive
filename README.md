@@ -9,8 +9,8 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,327 threads, 175,925
-messages, 1994 to today. Two sources, one rule: every discussion in which one
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,330 threads, 175,947
+messages, 1994 to today. Three sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
 - **The newsgroup**, 1994 to 2010, where Thomas R. Wylie (from December 1994),
@@ -24,10 +24,17 @@ of the game's rules directors took part.
   rests on returns a 404 today, and survives only because the Wayback Machine
   kept it. Two topics are here for the other reason: a ruling cites them, even
   though neither director posted in them.
+- **BoardGameGeek**, 2011: the 3 threads four rulings cite, where L. Scott
+  Johnson answered rules questions in the game's Rules forum while the move to
+  the V:EKN forum was still settling. Here the rule above is not what was
+  applied: BoardGameGeek will not list a forum's threads without an API key, so
+  whether he answered in others cannot be checked, and these are the ones a
+  ruling asked for. Nobody has asked a rules question there since, so the
+  source is closed either way — copied once, and it will not grow.
 
 A thread from anywhere but the newsgroup carries a `Group` saying where it came
-from. `import_mbox.py`, `import_forum.py` and `sync_forum.py` are what put them
-here.
+from. `import_mbox.py`, `import_forum.py`, `sync_forum.py` and `import_bgg.py` are
+what put them here.
 
 Each file is one thread:
 
@@ -79,6 +86,19 @@ vekn.net/forum/rules-questions/75512-raptor-obedience#80020
     → usenet.krcg.org/t/vekn-75512/#80020
 ```
 
+A BoardGameGeek thread translates the same way, except that it writes the post
+number into the path rather than the fragment:
+
+```
+boardgamegeek.com/thread/609699/article/6142361
+    → usenet.krcg.org/t/bgg-609699/#6142361
+```
+
+Two things to know when rewriting forum links in bulk: match on the topic
+number and the post number alone, ignoring the category segment
+(`/6-rules-questions/` is a category, not a topic) and the whole query string
+(`?limit=10&start=20` appears in the wild).
+
 ## Building the site
 
 ```sh
@@ -102,7 +122,7 @@ stay short.
 
 Whole, the index is 17 MB (6.5 MB over the wire), which is more than a phone
 should have to fetch to search at all. Split this way, a query downloads only
-the files its words fall in: a few KB for most of them, 211 KB for `co.txt`,
+the files its words fall in: a few KB for most of them, 213 KB for `co.txt`,
 the worst of the 1,332. Words are matched by prefix, which a sorted file gives
 for nothing — the matches are consecutive lines. A prefix that starts more than
 ten words is cut to the ten commonest, because `ra` starts 906 of them and
@@ -135,10 +155,23 @@ two cited topics had to be fetched by name with `import_forum.py`. Run with
 `--expect`, naming a file of topic numbers, and it says at the end which of
 them the archive still has not got.
 
+## The BoardGameGeek threads
+
+```sh
+python3 import_bgg.py 609699 648695 662413
+```
+
+All three are already imported; this is here for the record. BoardGameGeek's
+public XML API wants a key now and its HTML sits behind a bot check, but the
+JSON its own pages read is open — `api.geekdo.com/api/threads/<id>` for the
+subject, `/api/articles?threadid=<id>` for the posts. There is no sync script
+because there is nothing to sync: the source is closed.
+
 ## Provenance and rights
 
 The newsgroup threads were scraped from Google Groups' copy; the forum topics
-were read from the forum itself. Posts are the property of their authors and are reproduced here for reference and
+were read from the forum itself, and the BoardGameGeek threads from the JSON
+its own pages are built out of. Posts are the property of their authors and are reproduced here for reference and
 preservation. Author e-mail addresses arrived already partly obscured by Google
 (`someone...@example.com`).
 

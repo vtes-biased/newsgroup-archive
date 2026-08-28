@@ -1,0 +1,74 @@
+{
+  "ThreadId": "bgg-609699",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/609699/lsj-ordering-of-optional-and-mandatory-effects",
+  "Title": "[LSJ] Ordering of optional and mandatory effects",
+  "Messages": [
+    {
+      "Author": "ira212",
+      "Date": "Jan 20, 2011, 11:31:31\u202FPM",
+      "Body": "Hello LSJ,\n\nFrom this thread:\nhttp://tinyurl.com/4s8vwpw\n\n1 vampire with 1 blood with Vessel and The Haunting. Also a Hunting Ground in play.\n\nYou wrote that the player could use the vessel, resolve the burn 1 blood effect of The Haunting while empty, and then gain 1 from the Hunting Ground.\n\nI thought that all mandatory effects had to be resolved before optional effects.  Since Vessel and HG are optional and The Haunting is mandatory, I thought The Haunting would have to be resolved first.\n\nThanks,\nIra",
+      "Id": "6141620"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 21, 2011, 1:59:23\u202FAM",
+      "Body": "> ira212 wrote:\n> I thought that all mandatory effects had to be resolved before optional effects.\nNo. They just have to be resolved.\n\nAny pending mandatory actions, in contrast, must be performed before any non-mandatory actions.",
+      "Id": "6142361"
+    },
+    {
+      "Author": "ira212",
+      "Date": "Jan 21, 2011, 7:08:55\u202FPM",
+      "Body": "> Rulemonger wrote:\n> > ira212 wrote:\n> > I thought that all mandatory effects had to be resolved before optional effects.\n> No. They just have to be resolved.\n>\n> Any pending mandatory actions, in contrast, must be performed before any non-mandatory actions.\nAh, thanks for the reminder.  I was confusing myself with the example of Owain controlled by someone else + Society of Leopold on my vamp.  In that case, I cannot gain from Owain because I would have to pass the impulse.\n\nIn the case described in the original post, I retain the impulse the entire time and can order as I wish.\n\nSo here's another example.  Is all of this legal:\n1) Vamp A, acting, in combat with Vamp B, blocking.  Prerange.\n2) Vamp A plays Weather Control and declines to play more prerange cards, but hasn't resolved the damage yet.\n3) Vamp B plays Aura Reading.\n4) Vamp A again declines to play more prerange.\n5) Vamp B plays Outside the Hourglass to do 2 damage to A.\n6) Vamp A plays Flesh of Marble, then declines to play more prerange.\n7) Vamp B declines to play more prerange.\n8) Vamp A resolves 1 + 2 = 3 damage simultaneously, prevents 2 of it with Flesh of Marble, and burns 1 blood.\n9) Vamp B resolves 1 damage, prevents 0, and burns 1 blood.\n\nI feel certain I got something wrong there, but I'm not sure what.  Please feel free to give correct counter-examples.\n\nThanks,\nIra",
+      "Id": "6146195"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 21, 2011, 9:48:02\u202FPM",
+      "Body": "So long as you don't \"pass\" when you have a mandatory effect to handle at the time.",
+      "Id": "6147152"
+    },
+    {
+      "Author": "ira212",
+      "Date": "Jan 22, 2011, 2:06:45\u202FAM",
+      "Body": "> ira212 wrote:\n> So here's another example.  Is all of this legal:\n> 1) Vamp A, acting, in combat with Vamp B, blocking.  Prerange.\n> 2) Vamp A plays Weather Control and declines to play more prerange cards, but hasn't resolved the damage yet.\n> 3) Vamp B plays Aura Reading.\n> 4) Vamp A again declines to play more prerange.\n> 5) Vamp B plays Outside the Hourglass to do 2 damage to A.\n> 6) Vamp A plays Flesh of Marble, then declines to play more prerange.\n> 7) Vamp B declines to play more prerange.\n> 8) Vamp A resolves 1 + 2 = 3 damage simultaneously, prevents 2 of it with Flesh of Marble, and burns 1 blood.\n> 9) Vamp B resolves 1 damage, prevents 0, and burns 1 blood.\n> Rulemonger wrote:\n> So long as you don't \"pass\" when you have a mandatory effect to handle at the time.\nCould you define \"pass\" ?  Does Player A \"pass\" in Step 2 above by saying that he's not playing more cards before resolving damage?  I guess not, but I'm not sure what pass means, then.\n\nThanks for the help, LSJ!\n\nIra",
+      "Id": "6148362"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 22, 2011, 3:13:01\u202FAM",
+      "Body": "> ira212 wrote:\n> Could you define \"pass\" ?\nDecline to play a card or use any effect.\n\n> Does Player A \"pass\" in Step 2 above by saying that he's not playing more cards before resolving damage?\nYes.",
+      "Id": "6148513"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 22, 2011, 4:22:36\u202FPM",
+      "Body": "> Rulemonger wrote:\n> So long as you don't \"pass\" when you have a mandatory effect to handle at the time.\nCould you define \"mandatory\" ? The rulebook only applies that term to actions.\n\nI understand that if something says \"Do X during your untap phase\", then X is mandatory, and I can't pass in my untap phase before dealing with that X. As Ira mentionned, this applies to handling the effect of Society of Leopold before getting the chance of someone else's Owain giving my vampire a blood.\n\nBut I'm not sure how mandatory applies to inflicted damage. It's been discussed that non-damage-prevention before range cards can be played after the opponent plays Oustide the Hourglass (which reads \"Inflict 2 damage on the opposing minion\").\n\nIn Ira's list, can A pass in step 6, without handling the damage from OtH? Similarly, can A pass in step 2 without handling Weather Control?\n\nIs it that damage inflicted during the before-range step is only handled after everyone has passed using effects in this step?\nSo far, I assumed it was: you can't pass if you still have damage to handle (== inflicted damage is a mandatory effect).\n\nI also guess that, in Ira's list, if damage is applied after everyone passes, 8 an 9 happen simultaneously.",
+      "Id": "6150345"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 22, 2011, 7:19:52\u202FPM",
+      "Body": "I'm just using the standard English definition. If card text tells you to do something (or that something is done) and omits any sort of optional language like \"may\", then it's mandatory.\n\nIf you have something mandatory, like applying damage from WC, then you cannot pass without doing that. It's mandatory.",
+      "Id": "6151085"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 22, 2011, 7:59:56\u202FPM",
+      "Body": "In Ira's list, A passed in step 2 and 4, while there was a pending damage from WC to be handled; and in step 6, while there was damage from WC and OtH still to be dealt with.\n\nB passed in step 7 even though there was still 1 damage B had to handle.\n\nWas A allowed to pass in steps 2, 4 and 6, giving B the impulse, with 1 or more damage yet to be handled by A?\nYour answers seem to say that A couldn't pass - due to a mandatory effect (WC's damage) still there to handle.\n\nReusing Ira's example, is this \"correcter\":\n\n1) Vamp A, acting, in combat with Vamp B, blocking. Prerange.\n2) Vamp A plays Weather Control. A has 1 damage to handle. A either decides to prevent it or heal it. A then passes the impulse.\n3) Vamp B plays Aura Reading. B still has 1 damage to handle, but that's OK because she hasn't passed yet.\n4) Vamp A again declines to play more prerange.\n5) Vamp B plays Outside the Hourglass to do 2 damage to A.\n6) Vamp A plays Flesh of Marble, then FoM's effect happens, and the 2 damage from OtH are prevented. A then passes.\n7) B heals 1 damage.\n8) A passes\n9) B passes\n10) Continue with Determine Range step.\n\nThanks",
+      "Id": "6151222"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 23, 2011, 4:27:22\u202FAM",
+      "Body": "I would have thought this:\n\n#1 Combat begins.\n#2 Prerange, A plays Weather Control.  A AND B must now deal with 1 unpreventable damage to all minions & retainers in combat.\n#3 B may now play a card and plays Aura Reading.\n#4 A declares they are not playing a card in response\n#5 B plays Outside the Hourglass.  A deals with the 2 damage by playing Flesh of Marble, and (depending on the retroactive ability of FoM) takes 1 damage and prevents the remainder of all damage for the entire round of combat (@pro)\n#6 A does not play any other cards, after they have dealt with the damage.\n#7 B does not play any other cards.  Both have passed.\n#8 Determine Range Step begins and combat continues.",
+      "Id": "6152620"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 23, 2011, 1:41:32\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> I would have thought this:\n>\n> #1 Combat begins.\n> #2 Prerange, A plays Weather Control.  A AND B must now deal with 1 unpreventable damage to all minions & retainers in combat.\n> #3 B may now play a card and plays Aura Reading.\nB can't play anything before A passes.\n\n> #4 A declares they are not playing a card in response\nThere is no \"in response\" mechanism in VTES.\n\n> #5 B plays Outside the Hourglass.  A deals with the 2 damage by playing Flesh of Marble, and (depending on the retroactive ability of FoM) takes 1 damage and prevents the remainder of all damage for the entire round of combat (@pro)\n> #6 A does not play any other cards, after they have dealt with the damage.\n> #7 B does not play any other cards.  Both have passed.\nB still has 1 damage to deal with.\n\n> #8 Determine Range Step begins and combat continues.",
+      "Id": "6153489"
+    }
+  ]
+}
