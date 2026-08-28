@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-82406",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/82406-use-of-parentheses-in-non-reminder-text-is-sometimes-incorrect",
+  "Title": "Use of parentheses in non-reminder text is sometimes incorrect",
+  "Messages": [
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jun 19, 2025, 1:36\u202FAM",
+      "Body": "In the below card text examples, use of parentheses in the first two is correct, while use of parentheses in the last two is not.\n\nCorrect:\nTalbot\u2019s Chainsaw: \"The bearer gets 1 press (mandatory).\"\nConditioning: \u201C+2 bleed (limited).\u201D\n\nIncorrect:\nThe Baron: \u201CThe Baron has 2 votes (titled).\u201D\nChange of Target: \u201Cthe action ends (unsuccessfully).\u201D\n\nThe difference between these two uses of parenthetical text is subtle and only becomes clear when it is understood how parentheses are used in English to offset nonrestrictive text, which is text that can be removed without changing the core meaning of the whole text. \u201C(limited)\u201D and \u201C(mandatory)\u201D are correct because by default, all action modifiers modifying bleed amounts are limited to 1, and all presses are mandatory unless explicitly stated they are optional. Thus, the \u201C(limited)\u201D or \u201C(mandatory)\u201D text can be removed and the meaning is unchanged. This is not the case for \u201C(titled)\u201D and \u201C(unsuccessfully),\u201D where removal of the parenthetical text changes the meaning (from titled to additional votes and unsuccessfully ended action to successfully ended action, respectively).\n\nWhile it is true parentheses are used to offset text that is giving extra information, this should only be done in cases where the core meaning of the sentence would be unaffected by removal of the text in parentheses (some other cards with non-reminder text do this). It may be good practice to use parenthetical text only for reminder text and remove parentheses and recast text that is giving extra information that also happens to be essential to the core meaning of the card text (for example, \u201CThe Baron has 2 titled votes\u201D; \u201Cthe action ends unsuccessfully\u201D).",
+      "Id": "114730"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 19, 2025, 5:40\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> Incorrect:\n> The Baron: \u201CThe Baron has 2 votes (titled).\u201D\n> Change of Target: \u201Cthe action ends (unsuccessfully).\u201D\n>\n> This is not the case for \u201C(titled)\u201D and \u201C(unsuccessfully),\u201D where removal of the parenthetical text changes the meaning (from titled to additional votes and unsuccessfully ended action to successfully ended action, respectively).\n>\nNo. \"The Baron has 2 votes\" means he has a title of his own (not to be mistaken with \"Mithras gets +2 votes\")\nChange of Target: since the action was blocked, it is unsuccessful by definition.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114733"
+    },
+    {
+      "Author": "emime",
+      "Date": "Jun 19, 2025, 5:48\u202FPM",
+      "Body": "Incorrect:\nwhole OP\n\nEmiliano \"Sans Terre\" - Wandering Player - Prince of Brussels",
+      "Id": "114738"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 2, 2025, 9:11\u202FAM",
+      "Body": "> Ankha wrote:\n> Change of Target: since the action was blocked, it is unsuccessful by definition.\n>\nAction would be unsuccessful if the block is resolved, which it is not in the case of change of target, since action ends before that. The latest \"Change of target\" card text makes this clear since it states that its usable only before block resolution.\n\nI think the use of parentheses is incorrect here since leaving the word out would create needless ambiguity between action resolving unsuccessfully and action simply being canceled (meaning its neither successful nor unsuccessful and NRA rule does not apply). Thus the word \"unsuccessfully\" is actually meaningful in the context, and we shouldn't use parentheses.\n\nReminder: rulebook states that the block has to be resolved in order for the action to count as either successful or unsuccessful. So if the action ends before the block is resolved, we need to always state how it ends.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "114825"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2025, 9:36\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > Change of Target: since the action was blocked, it is unsuccessful by definition.\n> >\n> Action would be unsuccessful if the block is resolved\n>\nNo. The action being blocked leads to the resolution of the block.\n\n> Bloodartist wrote:\n> , which it is not in the case of change of target, since action ends before that. The latest \"Change of target\" card text makes this clear since it states that its usable only before block resolution.\n>\nSure, but the block resolution has nothing to do with the status (successful or unsuccessful) of the action.\n\nRemember to include cardtext with your post:\n\nChange of Target\nOnly usable if this minion is blocked, before block resolution.\nUnlock this minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114830"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2025, 9:38\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> Reminder: rulebook states that the block has to be resolved in order for the action to count as either successful or unsuccessful. So if the action ends before the block is resolved, we need to always state how it ends.\n>\nThis could be misleading, but we are talking about the resolution of the block attempt, not the resolution of the block. See point 3 which refers to the same concept:\n\n3. the Methuselah who has declared the current block attempt may use effects that force the currently blocking to attempt to block (no other minion can attempt to block until this block attempt is resolved)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114831"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 3, 2025, 11:18\u202FAM",
+      "Body": "> Ankha wrote:\n> Sure, but the block resolution has nothing to do with the status (successful or unsuccessful) of the action.\n>\nThat's not true, as per above excerpt from the rulebook. An action is successful or unsuccessful only after the block or the action itself has been resolved (successfully), or some card says otherwise before resolution. It has nothing to do with \"blocking attempt\". Rules are rules. There is no \"default state\" defined anywhere. This is literally how canceling actions used to work, before the term \"cancel\" was introduced. NRA rule didnt apply unless the action reached resolution. Now that we end actions, it still needs to be defined whether they end successfully or unsuccessfully.\n\nSince change of target is played before block resolution, there is no \"default state\" since such is not defined in the rules. If the action is to end unsuccessfully, the card should state so. Whether it ends successfully or unsuccessfully is crucial information for a great variety of different cards and abilities.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "114833"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jul 4, 2025, 11:57\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Bloodartist wrote:\n> >\n> > > Ankha wrote:\n> > > Change of Target: since the action was blocked, it is unsuccessful by definition.\n> > >\n> > >\n> > Action would be unsuccessful if the block is resolved\n> >\n> No. The action being blocked leads to the resolution of the block.\n>\nJust to be sure I understand this correctly: When an action is blocked, its success is determined after the block combat?\n\n(Which would make sense to me, especially looking at Form of Mist)",
+      "Id": "114841"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 4, 2025, 11:59\u202FAM",
+      "Body": "> Oracle.kid wrote:\n>\n> > Ankha wrote:\n> >\n> > > Bloodartist wrote:\n> > >\n> > > >\n> > > >\n> > > > Ankha wrote:\n> > > > Change of Target: since the action was blocked, it is unsuccessful by definition.\n> > > >\n> > > >\n> > > Action would be unsuccessful if the block is resolved\n> > >\n> > No. The action being blocked leads to the resolution of the block.\n> >\n> Just to be sure I understand this correctly: When an action is blocked, its success is determined after the block combat?\n>\n> (Which would make sense to me, especially looking at Form of Mist)\n>\nNo, before.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114842"
+    }
+  ]
+}

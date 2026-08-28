@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-30262",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/30262-gwyedd-and-horrific-countenance",
+  "Title": "Gwyedd and Horrific Countenance",
+  "Messages": [
+    {
+      "Author": "Megabaja",
+      "Date": "May 14, 2012, 12:16\u202FPM",
+      "Body": "Horrific Countenance\nType: Action Modifier\nRequires: Protean\nCost: 4 blood\nOnly usable when this vampire is blocked.\n[pro] Untap the blocking minion. This action is not blocked, and it is now unblockable.\n\nGwyedd\nClan: Gangrel (group 4)\nCapacity: 10\nDisciplines: ANI DEM FOR POT PRO tem\nCamarilla primogen: When Gwyedd is performing an undirected action, any younger vampire who attempts to block and fails is tapped after resolution.\n\nWhat happens when Gwyedd plays Horrific countenace? Is blocking minion tapped in the end, or not?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "30262"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 14, 2012, 12:27\u202FPM",
+      "Body": "Hm.\nThe blocking minion did block (requirement to play Horrific Coutenance), so the blocking minion isn't tapped by Gwyedd's ability.",
+      "Id": "30263"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "May 14, 2012, 12:33\u202FPM",
+      "Body": "Interesting.\nIt is clearly written on Horrific Countenance that action is not blocked.\n\nEDIT:\nAnd maybe I'm wrong but the check if block attempt failed is resolved after the resolution of an action taken by Gwyedd. Or not?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "30266"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 14, 2012, 2:31\u202FPM",
+      "Body": "> Pascal wrote:\n> Hm.\n> The blocking minion did block (requirement to play Horrific Coutenance), so the blocking minion isn't tapped by Gwyedd's ability.\n>\nIt would seem to me that \"This action is not blocked\" is equivalent to \"Cancel the current block\" or similar wording on other cards.\n\nIn particular:\n\n[LSJ 20030211]\n>\n> LSJ wrote:\n> > What happens if i played a faceless nights at superior before the\n> > elder impersonation (and/or the horrific countenance)?\n>\n> Faceless Night wins. See CE card text.\n>",
+      "Id": "30278"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2012, 2:49\u202FPM",
+      "Body": "Elder Impersonation doesn't work the same way as Horrific Countenance. I suppose that LSJ's answer covers Elder Impersonation and that he was assuming Horrific Countenance had a similar text. This could be asked to him.\n\nAnyway,\nA) A minion has blocked.\nB) The action is not blocked.\n\nare two compatible facts (see also Form of Mist and any card that continues the action). There's a slight difference between a failed block attempt and an action blocked that continues or \"is not blocked\".\n\nSince the minion has blocked (condition in order to play Horrific Countenance), it won't be tapped. It would be the same if Gwyedd plays Form of Mist superior instead.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30280"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 14, 2012, 3:25\u202FPM",
+      "Body": "> Ankha wrote:\n> Elder Impersonation doesn't work the same way as Horrific Countenance. I suppose that LSJ's answer covers Elder Impersonation and that he was assuming Horrific Countenance had a similar text.\n>\nIn a thread which was about why Elder Impersonation's text was different from Horrific Countenance's, and why hadn't the Rules Team or Design Team decided to change Horrific Countenance to match Elder Impersonation, LSJ assumed that the two had the same card text?\n\nThat seems... untenable.",
+      "Id": "30289"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2012, 3:39\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> In a thread which was about why Elder Impersonation's text was different from Horrific Countenance's, and why hadn't the Rules Team or Design Team decided to change Horrific Countenance to match Elder Impersonation, LSJ assumed that the two had the same card text?\n>\n> That seems... untenable.\n>\nThat thread was about untap vs do not tap, not about block fails vs do not block. And LSJ's \"Horrific Countenance has not risen to errata threshold\" sounds a lot like \"Why bother reading a card no one plays?\" to me\n\nRelated question: the acting minion plays superior faceless followed by inferior Dawn Operations. The blocking minion chooses not to block. Is he tapped?",
+      "Id": "30292"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "May 14, 2012, 6:05\u202FPM",
+      "Body": "> Anyway,\n> A) A minion has blocked.\n> B) The action is not blocked.\n>\n> are two compatible facts (see also Form of Mist and any card that continues the action). There's a slight difference between a failed block attempt and an action blocked that continues or \"is not blocked\".\n>\n> Since the minion has blocked (condition in order to play Horrific Countenance), it won't be tapped. It would be the same if Gwyedd plays Form of Mist superior instead.\n>\nWait there. It is not that simple.\n\nFirst,\nA and B are not compatible. If A is true, B is excluded. What did minion block? This action can continue only \"as if not blocked\" which is not the case with Horrific Countenance.\nSecond,\nAction called is not interrupted (e.g. combat does not begin) and there is not \"as if unblocked\" clause, but it can be interrupted with combat. This is not a slight difference. As stated elsewhere: combat is a part of block - ergo - you can play Horrific Countenance after combat, in Freak Drive window. This card does not have \"play before combat, if any\" clause either.\nThird,\nAs I already stated twice - it is clearly written on the card that the action is NOT blocked.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "30316"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "May 14, 2012, 6:32\u202FPM",
+      "Body": "> Megabaja wrote:\n>\n> > First,\n> > A and B are not compatible. If A is true, B is excluded.\n> >\n> Sure they are. A signifies that a minion has blocked at some point, B signifies that the action is currently not blocked.\n>",
+      "Id": "30321"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "May 14, 2012, 7:01\u202FPM",
+      "Body": "There is not a single card that states that action is not blocked, except Horrific Countenance. Every other card says that action continues \"as if unblocked\". This card states that action is not blocked, for the fourth time. Even if the basic rules would say that it is blocked (and they don't), card stating otherwise would take precedence as in :\n\n> 1.4. The Golden Rule for Cards\n>\n> Whenever the cards contradict the rules, the cards take precedence.\n>\nIf you think you're correct on this solve a more complicated problem:\n\n> Movement of the Slow Body\n> Type: Action\n> Requires: Protean\n> +2 stealth action. Only usable by a tapped vampire in torpor\n> [pro] The acting vampire untaps. If this action is blocked, there is no combat. If the blocking minion is a vampire, he or she gets the opportunity to diablerize this acting vampire.\n> [PRO] As above, and this vampire also gains 1 blood from the blood bank.\n>\n> Horrific Countenance\n> Type: Action Modifier\n> Requires: Protean\n> Cost: 4 blood\n> Only usable when this vampire is blocked.\n> [pro] Untap the blocking minion. This action is not blocked, and it is now unblockable.\n>\nMinion A is in torpor and plays Movement of the Slow Body. Vampire B blocks the action. Minion A plays Horrific Countenance. Is minion B allowed to diablerise vampire A?\n\nEDIT:\n@Suoli - To repeat one more time. This card states that action, in fact, was not blocked. It is written on it for god's sake.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "30326"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2012, 7:11\u202FPM",
+      "Body": "> Megabaja wrote:\n> There is not a single card that states that action is not blocked, except Horrific Countenance. Every other card says that action continues \"as if unblocked\". This card states that action is not blocked, for the fourth time\n>\nThe card states : \"when this vampire is blocked. ... This action is not blocked\", not merely that the action is not blocked. The \"contradiction\" on the card doesn't seem to bother you though.\nI agree with Suoli clarification about that.\n\n> Megabaja wrote:\n> Even if the basic rules would say that it is blocked (and they don't), card stating otherwise would take precedence as in :\n>\n> > 1.4. The Golden Rule for Cards\n> >\n> > Whenever the cards contradict the rules, the cards take precedence.\n> >\nSure. But that's exactly what we're talking about: what does the card say about the action.\n\n> Megabaja wrote:\n> If you think you're correct on this solve a more complicated problem:\n>\n> > Movement of the Slow Body\n> > Type: Action\n> > Requires: Protean\n> > +2 stealth action. Only usable by a tapped vampire in torpor\n> > [pro] The acting vampire untaps. If this action is blocked, there is no combat. If the blocking minion is a vampire, he or she gets the opportunity to diablerize this acting vampire.\n> > [PRO] As above, and this vampire also gains 1 blood from the blood bank.\n> >\n> > Horrific Countenance\n> > Type: Action Modifier\n> > Requires: Protean\n> > Cost: 4 blood\n> > Only usable when this vampire is blocked.\n> > [pro] Untap the blocking minion. This action is not blocked, and it is now unblockable.\n> >\n> Minion A is in torpor and plays Movement of the Slow Body. Vampire B blocks the action. Minion A plays Horrific Countenance. Is minion B allowed to diablerise vampire A?\n>\nActing minion may play Horrific Countenance before B can diablerize A (because A is acting). Same thing as Mirror Walk.\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/ccbb2674f23b9cc/319ebd30296dc180?hl=fr&lnk=gst&q=mirror+walk+diablerie#319ebd30296dc180\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30327"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 14, 2012, 7:13\u202FPM",
+      "Body": "Isn't the answer obvious \"This action is not blocked, and it is now unblockable\"\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "30328"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "May 14, 2012, 7:24\u202FPM",
+      "Body": "@ Ankha - Not the same - Mirror Walk ends the action. Movement and Horrific do not.\n\nEDIT:\n\nand, of course it bothers me - that is why I asked in the first place...\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "30330"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 15, 2012, 10:26\u202FAM",
+      "Body": "> Pascal wrote:\n> Hm.\n> The blocking minion did block (requirement to play Horrific Coutenance), so the blocking minion isn't tapped by Gwyedd's ability.\n>\nAs a follow-up, this appears (to me) to be pretty much the same issue that led to RTR 2011-12-02. Specifically, the change from \"successfully bleeds\" to \"would be successful\".\n\nIt would seem internally consistent that cards which go (roughly speaking): \"Play when [X happens]. [X happening is messed up.]\" would all fit into the \"Play when [X would happen]\" template brought in for bleeds by that RTR.\n\nFor example, Andre LeRoux could previously have a vampire who \"successfully bleeds\", but then reduce the amount to zero. And you then get into questions like \"Can Major Boon be played on a successful bleed for zero?\" and \"Can I play Enkil Cog? Well, Andre says I've successfully bled...\"",
+      "Id": "30444"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 11:32\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Pascal wrote:\n> > Hm.\n> > The blocking minion did block (requirement to play Horrific Coutenance), so the blocking minion isn't tapped by Gwyedd's ability.\n> >\n> As a follow-up, this appears (to me) to be pretty much the same issue that led to RTR 2011-12-02. Specifically, the change from \"successfully bleeds\" to \"would be successful\".\n>\n> It would seem internally consistent that cards which go (roughly speaking): \"Play when [X happens]. [X happening is messed up.]\" would all fit into the \"Play when [X would happen]\" template brought in for bleeds by that RTR.\n>\n> For example, Andre LeRoux could previously have a vampire who \"successfully bleeds\", but then reduce the amount to zero. And you then get into questions like \"Can Major Boon be played on a successful bleed for zero?\" and \"Can I play Enkil Cog? Well, Andre says I've successfully bled...\"\n>\n\"Would\" in \"Only usable when this vampire would be blocked.\" would be more consistant, true, because of the RTR and because modifying a state (blocked/not blocked) before the first state is reached is easier/clearer than once it has been reached.\nOf course, this would slightly alter how Horrific Countenance behaves today.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30451"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 15, 2012, 12:18\u202FPM",
+      "Body": "I'm reading this discussion and thinking at the same time.\nI'm trying to find a comparison with Psychomachia (notice how that one changed from \"is attempting to block\" to \"successfully blocks\"), which clearly states \"The block fails.\"\n[LSJ 20020301] The vampire is blocked, triggering \"when a vampire is blocked\" effects (barring any \"when this vampire would be blocked\" erratum).",
+      "Id": "30453"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 15, 2012, 1:16\u202FPM",
+      "Body": "> Pascal wrote:\n> [LSJ 20020301] The vampire is blocked, triggering \"when a vampire is blocked\" effects (barring any \"when this vampire would be blocked\" erratum).\n>\nThis one is slightly problematic - but supported in, for example,  [LSJ 20030902] - that means that for some reason, Millicent beats other cards that appear to specify the same timing window.\n\nIt's not obvious to me why Millicent beats Change of Target, and that it isn't the acting Methuselah's choice. For example, the acting Methuselah can play Carrion Crowds (or any other before range effect) before resolving a pending Weather Control damage. Not sure why that's not the case here.\n\nIn any event, this still appears to leave us in the successfully bled/unsuccessful bleed situation.",
+      "Id": "30458"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 1:48\u202FPM",
+      "Body": "> Pascal wrote:\n> I'm reading this discussion and thinking at the same time.\n> I'm trying to find a comparison with Psychomachia (notice how that one changed from \"is attempting to block\" to \"successfully blocks\"), which clearly states \"The block fails.\"\n> [LSJ 20020301] The vampire is blocked, triggering \"when a vampire is blocked\" effects (barring any \"when this vampire would be blocked\" erratum).\n>\nThe reason behind Psychomachia's errata is that before the  effect was similar to Tangle Atropo's Handle (thus not triggering the NRA), which wasn't the designer intent.\nNow, the errata has introduced a new side-effect, which is you can't avoid being burned by Milicent Smith with the [dai] effect of the card (block fails).\n\nThe real errata should have been (since the  timing is different from the [dai] timing):\n\n> Only usable when an ally or younger vampire successfully blocks. Cancel the current action and untap this acting vampire. The blocking minion is not tapped.\n> [dai] Only usable when an ally or younger vampire attempts to block. The attempt fails (do not tap that blocking minion). That minion cannot attempt to block this action again.\n> [DAI] As [dai] above, and the blocking minion takes 1 damage (damage not preventable).\n>\n(I copied the wording of Elder Impersonation for the [dai] effect. )\n\nOf course, this is much longer.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30461"
+    }
+  ]
+}

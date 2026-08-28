@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-74939",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/74939-what-is-a-block",
+  "Title": "What is \"a\" block?",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2016, 4:13\u202FPM",
+      "Body": "This will be the debate of the week\n\nI figure out quite clearly what is a block attempt, or an attempt to block.\nI figure out also quite clearly what happens when a block attempt fails, or when the acting minion is blocked.\n\nBut a \"block\"? Does the sentence \"the block fails\" have a sense?\n\nGame-wise, the \"block\" would be found in the instant when an attempt to block becomes successful, right before a minion is blocked.\n\nBut if the block fails, then the minion can't enter the \"is blocked state\", which is a condition for the the block moment to exist. Can a non-existing thing fail?\n\nGame-wise, a minion with Aching Beauty blocked by an ally would cause the blocking Methuselah to lose 1 pool, and if the acting minion plays Psychomachia at [dai], then the \"block fails\" and the action continues. \"Block fails\" is in fact erroneous, it's a shortcut for \"cancel the resulting combat if any, and continue the action\". (Because the action WAS blocked in the first place, which means it is tainted for the NRA for instance).\n\n\"Block fails\" looks like a quantic state where the action would be blocked AND not blocked, and should be avoided.\n\nFeel free to discuss.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76877"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "May 12, 2016, 5:48\u202FPM",
+      "Body": "",
+      "Id": "76878"
+    },
+    {
+      "Author": "chrisn101",
+      "Date": "May 12, 2016, 5:56\u202FPM",
+      "Body": "Sounds about right to me.\n\nI've always considered the block fail-type events to occur a micro-second after the block happens because they're very specifically timed - intercepting the action has been successful and both players involved are deciding whether normal combat will now occur.\n\nMovie example: when the hero (love interest optional) hides in a crowded scene from The Bad Guys, who have pursued him/them and currently looking for them, something really fortuitous happens, like a random person just happens to walk in front of the hero and obscure The Bad Guys' view (or any other distraction).\n\nSo to me it's effectively block cancelling rather than block failing and I treat it as if it said that. No-one has perfect, accurate grammar and English 100% of the time.\n\nSo with  Elder Impersonation , it's a case of the reacting minion seeing/hearing something/someone suspicious and going to investigate, only to see that it's actually an important-looking elder they don't want to trifle with. So they go back to whatever they were doing.\n\nPhase-wise, I don't think the rules break it down to this degree, but I've always handled it as:  Acting minion decides to do something, but a legal reacting minion wants to stop it.\nActing minion stealth is compared with reacting minions' intercept. 'Block successful' versus 'block failed' is correct when comparing intercept versus stealth. Let us assume that the reacting minions' intercept equals/exceeds the acting minions' stealth, so the action is successfully blocked. There is an opportunity for the acting minion to cancel the block  If a card is played to cancel the block, the action continues as normal and the reacting minion is not tapped. If the block is cancelled and a card like  Faceless Night has been played by the acting minion, the reacting minion taps anyway. If the block is not cancelled, the reacting minion taps and combat occurs.\nRegarding  Psychomania , it does specify:\n>\n> Only usable when an ally or younger vampire successfully blocks before tapping the blocker.\n>",
+      "Id": "76879"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 12, 2016, 6:48\u202FPM",
+      "Body": "> Ankha wrote:\n> This will be the debate of the week\n>\n> I figure out quite clearly what is a block attempt, or an attempt to block.\n> I figure out also quite clearly what happens when a block attempt fails, or when the acting minion is blocked.\n>\n> But a \"block\"? Does the sentence \"the block fails\" have a sense?\n>\n> Game-wise, the \"block\" would be found in the instant when an attempt to block becomes successful, right before a minion is blocked.\n>\n> But if the block fails, then the minion can't enter the \"is blocked state\", which is a condition for the the block moment to exist. Can a non-existing thing fail?\n>\n> Game-wise, a minion with Aching Beauty blocked by an ally would cause the blocking Methuselah to lose 1 pool, and if the acting minion plays Psychomachia at [dai], then the \"block fails\" and the action continues. \"Block fails\" is in fact erroneous, it's a shortcut for \"cancel the resulting combat if any, and continue the action\". (Because the action WAS blocked in the first place, which means it is tainted for the NRA for instance).\n>\n> \"Block fails\" looks like a quantic state where the action would be blocked AND not blocked, and should be avoided.\n>\n> Feel free to discuss.\n>\nIs \"block\" is a misnomer for \"blocking attempt?\" I think if you were to simply replace block with blocking attempt, in most cases, the issues you raise go away.",
+      "Id": "76880"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2016, 6:56\u202FPM",
+      "Body": "> chrisn101 wrote:\n> Phase-wise, I don't think the rules break it down to this degree, but I've always handled it as:  Acting minion decides to do something, but a legal reacting minion wants to stop it.\n> Acting minion stealth is compared with reacting minions' intercept. 'Block successful' versus 'block failed' is correct when comparing intercept versus stealth. Let us assume that the reacting minions' intercept equals/exceeds the acting minions' stealth, so the action is successfully blocked. There is an opportunity for the acting minion to cancel the block  If a card is played to cancel the block, the action continues as normal and the reacting minion is not tapped. If the block is cancelled and a card like  Faceless Night has been played by the acting minion, the reacting minion taps anyway. If the block is not cancelled, the reacting minion taps and combat occurs.\n>\nElder Impersonation can be played any time when a minion \"attempts to block\". So A could play a +1 stealth action, give the impulse to B to see if he attempts to block. B says \"Bobby attempts to block\", and before Bobby is allowed to add stealth, A can decide to play Elder Impersonation and make the block fail. There's no need for the blocking attempt to be currently successful.\n\nOne must be careful with Psychomachia because it was originally designed to be played \"when... is attempting to block\" (vtes.pl/card/Bloodlines/Psychomachia/41249)\nBut then the outferior Presence effect was estimated too strong, and the card switch to a card text supposed to make the action be blocked at pre, and not blocked at dai/DAI.\n\n> TwoRazorReign wrote:\n> Is \"block\" is a misnomer for \"blocking attempt?\" I think if you were to simply replace block with blocking attempt, in most cases, the issues you raise go away.\n>\nIn the Psychomachia case (or Phantom Speaker), the action is blocked so an Aching Beauty would trigger. But then the action is not blocked.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76881"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 12, 2016, 7:30\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Is \"block\" is a misnomer for \"blocking attempt?\" I think if you were to simply replace block with blocking attempt, in most cases, the issues you raise go away.\n>\n> In the Psychomachia case (or Phantom Speaker), the action is blocked so an Aching Beauty would trigger. But then the action is not blocked.\n>\nRight. so it's not a misnomer. I agree that \"cancel the resulting combat if any, and continue the action\" is far superior to saying \"the block fails.\"",
+      "Id": "76882"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2016, 8:33\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > TwoRazorReign wrote:\n> > Is \"block\" is a misnomer for \"blocking attempt?\" I think if you were to simply replace block with blocking attempt, in most cases, the issues you raise go away.\n> >\n> > In the Psychomachia case (or Phantom Speaker), the action is blocked so an Aching Beauty would trigger. But then the action is not blocked.\n> >\n> Right. so it's not a misnomer. I agree that \"cancel the resulting combat if any, and continue the action\" is far superior to saying \"the block fails.\"\n>\nWell, it's even better to say that the block attempt failed\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76884"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 13, 2016, 1:04\u202FAM",
+      "Body": "> Ankha wrote:\n> One must be careful with Psychomachia because it was originally designed to be played \"when... is attempting to block\" (vtes.pl/card/Bloodlines/Psychomachia/41249)\n> But then the outferior Presence effect was estimated too strong, and the card switch to a card text supposed to make the action be blocked at pre, and not blocked at dai/DAI.\n>\nThen one set later, Tangle Atropos Hand was printed with the same Outferior as the old Psychomachia",
+      "Id": "76886"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2016, 8:01\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Ankha wrote:\n> > One must be careful with Psychomachia because it was originally designed to be played \"when... is attempting to block\" (vtes.pl/card/Bloodlines/Psychomachia/41249)\n> > But then the outferior Presence effect was estimated too strong, and the card switch to a card text supposed to make the action be blocked at pre, and not blocked at dai/DAI.\n> >\n> Then one set later, Tangle Atropos Hand was printed with the same Outferior as the old Psychomachia\n>\nApparently, it's ok for Potence. I suppose that Psychomachia was too good in weenie presence. I'm fine with that choice.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76887"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 13, 2016, 12:22\u202FPM",
+      "Body": "Psychomachia was always restricted to ally and younger blockers, so weenies are not an issue. Besides, it does not change anything for a pure presence deck: if you acting at 0 stealth, anyone who attempts to block will succeed, so Psychomachia is playable anyway. The only situation I can think of where it is better not to wait for the opponent to play his intercept before you cancel the action is on a bounced stealthed bleed, and for that, once you give Tangle to  and  it is hard to argue that the same effect in  (with extra generation restrictions) is overpowered for the Baali.\n\nTo go back to the original topic: do not mess up the core rules to accomodate one half-baked card. If there is a timing problem with Psychomachia only, then reword Psychomachia, not the rules. Spying Mission already uses the \"would be succesfull\" template for a similar timing. But again, I believe it is a waste of space on Psychomachia and the original text was fine.",
+      "Id": "76889"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 13, 2016, 1:37\u202FPM",
+      "Body": "> To go back to the original topic: do not mess up the core rules to accomodate one half-baked card. If there is a timing problem with Psychomachia only, then reword Psychomachia, not the rules. Spying Mission already uses the \"would be succesfull\" template for a similar timing. But again, I believe it is a waste of space on Psychomachia and the original text was fine.\n>\nThe original topic was that \"block fails\" creates problems, and Psychomachia was just one example. \"Block fails\" appears on many cards. The updated language on Spying Mission creates more problems that it attempts to solve due to the ambiguity introduced with \"would be successful,\" but I think changing \"block fails\" to \"cancel the resulting combat if any, and continue the action\" is a good fix because it clearly indicates what happens when.",
+      "Id": "76896"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "May 13, 2016, 1:57\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Is \"block\" is a misnomer for \"blocking attempt?\" I think if you were to simply replace block with blocking attempt, in most cases, the issues you raise go away.\n>\nYes, \"block fails\" should of course be \"block attempt fails\". If someone bothers to rewrite the rulebook and/or reword cards.\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "76897"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2016, 2:35\u202FPM",
+      "Body": "> Non-existant user wrote:\n> Psychomachia was always restricted to ally and younger blockers, so weenies are not an issue. Besides, it does not change anything for a pure presence deck: if you acting at 0 stealth, anyone who attempts to block will succeed, so Psychomachia is playable anyway. The only situation I can think of where it is better not to wait for the opponent to play his intercept before you cancel the action is on a bounced stealthed bleed, and for that, once you give Tangle to  and  it is hard to argue that the same effect in  (with extra generation restrictions) is overpowered for the Baali.\n>\nMaybe not weenie presence indeed due to the capacity restriction. But keep in mind that with the old text, you could do an action, add stealth and/or make people play their wakes, then cancel the action. And since the action was cancelled before it was blocked, you could do it again (NRA doesn't kick in). That's what Tangle Atropo's Hand allow you to do, but in Potence (or Temporis, which is a cheated discipline anyway).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76898"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2016, 1:49\u202FAM",
+      "Body": "> Ankha wrote:\n> And since the action was cancelled before it was blocked, you could do it again (NRA doesn't kick in).\n>\nAre you saying that with the new Psychomachia, the NRA kicks in? That is not what the card text says:\n>\n> Only usable when an ally or younger vampire successfully blocks before tapping the blocker.\n> Cancel the current action and untap this acting vampire. The blocking minion is not tapped.\n>\nOne cannot cancel an action that has already resolved, and the successful block is the action resolution. By the same logic that allows  Psychomachia to undo the block,  Psychomachia undoes the action resolution and the NRA does not kick in. The trigger of the card is common, there cannot be 2 different interpretations of the timing based on the effect.",
+      "Id": "76914"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2016, 9:32\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Ankha wrote:\n> > And since the action was cancelled before it was blocked, you could do it again (NRA doesn't kick in).\n> >\n> Are you saying that with the new Psychomachia, the NRA kicks in? That is not what the card text says:\n> >\n> > Only usable when an ally or younger vampire successfully blocks before tapping the blocker.\n> > Cancel the current action and untap this acting vampire. The blocking minion is not tapped.\n> >\n> One cannot cancel an action that has already resolved, and the successful block is the action resolution. By the same logic that allows  Psychomachia to undo the block,  Psychomachia undoes the action resolution and the NRA does not kick in. The trigger of the card is common, there cannot be 2 different interpretations of the timing based on the effect.\n>\nI'll quote LSJ:\n\n> LSJ wrote:\n> > \"Reaches resolution\" means the action is either blocked or unblocked\n> > and successful.\n> Correct. [6.2.3]\n> www.white-wolf.com/vtes/rulebook/rulebook.html#sec6_2_3\n>\n> So if you resolve the successful action or enter block-combat (or play some\n> other effect that is played when the action succeeds or when the action is\n> blocked), then the action has reached resolution.\n>\nand further reading:\n\n> LSJ wrote:\n> > Psychomachia \"cancels\" the action, so it can be taken again.\n> No. The action reached resolution in order for Psychomachia to be played.\n> Therefore the minion cannot repeat the action.\n>\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/qKrJPLXBFFw/fX0Dfz9LHOUJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76915"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2016, 12:47\u202FPM",
+      "Body": "If that is the designer intent, then the  effect needs to be reworded to copy Change of Target. LSJ errated the timing of the card but didn't realize that the effects had to be adjusted to take it into account.",
+      "Id": "76919"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2016, 5:23\u202FPM",
+      "Body": "> Non-existant user wrote:\n> If that is the designer intent, then the  effect needs to be reworded to copy Change of Target. LSJ errated the timing of the card but didn't realize that the effects had to be adjusted to take it into account.\n>\nI agree that for homogeneity, it would be better. But as it is, the cardtext work the same in both cases*. Since Jyhad, Change of Target indicates that the minion can't perform the same action again because at that time, the NRA rule didn't exist.\n\n*There's a corner-case difference: you could play a second Nocturn after playing Psychomachia, but not Change of Target.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76925"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "May 20, 2016, 11:32\u202FPM",
+      "Body": "If you would trigger Aching Beauty, then clearly \"a block\" has occurred successfully.\n\nHowever, at the play of the card, and after the \"a block is successful\" stuff has been dealt with, you can then load on \"Block fails\" stuff.\n\nIt sounds like you're trying to find new ways to parse the older stunt of:\nAching Beauty + Change of Target\n\nIt's all covered in the 'when playable' preamble.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "76984"
+    }
+  ]
+}

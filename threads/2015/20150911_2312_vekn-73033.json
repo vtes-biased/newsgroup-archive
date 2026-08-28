@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-73033",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/card-balance-strategy-discussion/73033-gramle",
+  "Title": "Gramle",
+  "Messages": [
+    {
+      "Author": "Montebellus",
+      "Date": "Sep 11, 2015, 11:12\u202FPM",
+      "Body": "Could someone give me an example about how to use Gramle to catch another library card? Can't see the point since the grabbed card is discarded after the action...",
+      "Id": "73033"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 12, 2015, 12:07\u202FAM",
+      "Body": "> Montebellus wrote:\n> Could someone give me an example about how to use Gramle to catch another library card? Can't see the point since the grabbed card is discarded after the action...\n>\nwhen you discard, it's any card in your hand. Not just the card you just drew.",
+      "Id": "73034"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 12, 2015, 7:08\u202FAM",
+      "Body": "> self wrote:\n>\n> > Montebellus wrote:\n> > Could someone give me an example about how to use Gramle to catch another library card? Can't see the point since the grabbed card is discarded after the action...\n> >\n> when you discard, it's any card in your hand. Not just the card you just drew.\n>\nCorrect.\nThe \"(discard afterwards)\" is a reminder: if you have too many cards in your hand compared to your hand size, you have to discard down to your hand size (you can discard any card).\n\nName: Gramle\n[LotN:C]\nCardtype: Action\nCost: 1 pool\n+1 stealth action. Do not replace until after this action.\nChoose a card in play or in any ash heap by name. Search your library or crypt for the chosen card, show it to all Methuselahs, and move it to your hand (discard afterward) or uncontrolled region.\n\nEg. you have a hand size of 7. Since Gramle isn't replaced until after the action:\n1/ you play Gramle. You don't replace. Your hand size is 6.\n2/ if the action succeeds, you fetch the card from your library. You have 7 cards in hand, so you have to discard down (any card).\n3/ after the action, you replace Gramle. You're back at 7 cards.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73035"
+    },
+    {
+      "Author": "Montebellus",
+      "Date": "Sep 12, 2015, 11:44\u202FPM",
+      "Body": "Thanks, makes more sense now",
+      "Id": "73060"
+    }
+  ]
+}

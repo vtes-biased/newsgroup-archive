@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-79650",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/79650-archon-9-man",
+  "Title": "Archon 9 man",
+  "Messages": [
+    {
+      "Author": "M\u00E5rten",
+      "Date": "Feb 12, 2022, 5:22\u202FPM",
+      "Body": "I did not know this.\n\nBut it seems that archon does not care about having people play at least one 5 player game.\n\nI just played with 9 and I got to play all 3 games with 4 players. 2 players played all 3 games on 5 player tables.\n\nCan this please be fixed to guarantee that at least everyone gets to play at least one 5 player game?",
+      "Id": "104677"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 12, 2022, 9:54\u202FPM",
+      "Body": "Reasons for the seatings are provided in the archon file:\nOptimal Seating Criteria, with additional previously-unformalized criteria included:\n\n1. No pair of players repeat their predator-prey relationship. This is mandatory, by the VEKN rules.\n2. No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)\n3. Available VPs are equitably distributed.\n4. No pair of players share a table more often than necessary.\n5. A player doesn't sit in the fifth seat more than once.\n6. No pair of players repeat the same relative position[], when possible.\n7. A player doesn't play in the same seat position, if possible.\n8. Starting transfers are equitably distributed. [NOAL]\n9. No pair of players repeat the same relative position group[^], when possible.\n\n[] \"relative position\" relationship values:\n\nA) prey\nB) predator\nC) cross-table at a 4-player\nD) grand-prey at a 5\nE) grand-predator at a 5\n\nNote that repeating A and repeating B is already handled (prohibited) by criterion #1.\n\n[^] \"relative position group\" values:\n\ni) Adjacent (prey or predator)\nii) Not adjacent\n\nI suppose that another seating (one where player X would have played at least a 5 players game) would break rule 1.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104678"
+    }
+  ]
+}

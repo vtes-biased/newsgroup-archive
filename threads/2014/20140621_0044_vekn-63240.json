@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-63240",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/63240-when-x-untaps",
+  "Title": "When X Untaps",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 21, 2014, 12:44\u202FAM",
+      "Body": "Does a minion trigger a \"When this X Untaps\" if they are untapped in the untap phase?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "63240"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Jun 21, 2014, 5:40\u202FAM",
+      "Body": "If the effect doesn't specify what untapping triggers the effect, then every untap triggers the effect regardless the phase.\n\nedit: Misread your question, if it's untap to x to do y I think card needs to be tapped in untap phase to trigger the effect. Would be easier if you would have told what effect you're referring to.\n\nMarko, Prince of Helsinki",
+      "Id": "63248"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 21, 2014, 7:15\u202FAM",
+      "Body": "Particularly Vampiric Disease.\n\nBut I was thinking in general. When it reaches your untap phase all cards are supposed to be untapped BUT...\n\nIf you \"untap all cards\" but do not actually return it to an untapped state from a tapped state do you still trigger \"When this X untaps\"? The vampire was not tapped and therefore did not actually untap...\n\nCan you untap and untapped card?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "63249"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 21, 2014, 9:40\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Particularly Vampiric Disease.\n>\n> But I was thinking in general. When it reaches your untap phase all cards are supposed to be untapped BUT...\n>\n> If you \"untap all cards\" but do not actually return it to an untapped state from a tapped state do you still trigger \"When this X untaps\"? The vampire was not tapped and therefore did not actually untap...\n>\n> Can you untap and untapped card?\n>\nGenerally, I dont think you can. Unsure on it, as a general question. Basically, you ask if you can burn a blood to homonoclous, the edge to Torvus, a pool to metro underground or infernal vamp, or pitch a card to path of void to untap an untappex minion?\n\nThinking no.....\n\nVD triggers each occurence of untapping. Disease counter says burn a blood to untap, or if you cant, burn disease counter. So, untapping at untap, by paying infernal tax, metro underground, homonoclous, torvus special, cock robin special, eze special, abbot untap, go anarch untap, freak drive, as the crow, forced march, second trad by tapped vamp, etc all cost an additional blood.",
+      "Id": "63250"
+    },
+    {
+      "Author": "Fran\u00E7oisV",
+      "Date": "Jun 21, 2014, 3:31\u202FPM",
+      "Body": "> Vampiric Disease\n> Type: Master\n> Master.\n> Put a disease counter on any vampire. Each time a vampire with a disease counter is in combat at close range with another vampire, the second vampire gets a counter as well. An afflicted vampire cannot gain blood by hunting. When an afflicted vampire untaps, he or she burns a blood or, if unable, burns the disease counter. A vampire can have only one disease counter.\n>\nThe afflicted vampire has to get from a tapped state to an untapped state for the burn blood effect to trigger.\nFor example you can't force an untapped diseased vampire to burn a blood with inf Meld with the land or precognizant mobility.\n\nAs a side note, it's different from \"you burn a blood to untap\", because if you have no blood, you do untap (and you burn the counter)\n\nI think it differs from effects that happen \"instead of untapping\" during the untap phase though. For example you would burn a counter from Riddle Phantastique even if the vampire is untapped at the start of your turn.",
+      "Id": "63255"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 22, 2014, 4:23\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> Generally, I dont think you can. Unsure on it, as a general question. Basically, you ask if you can burn a blood to homonoclous, the edge to Torvus, a pool to metro underground or infernal vamp, or pitch a card to path of void to untap an untappex minion?\n>\nActually it is more like, if you did choose to burn a blood to Homonculus when the minion was untapped, would it work? (assuming that it is otherwise legal to untap an untapped minion).\n\nIt would also indirectly be a question about \"When X is tapped\" effects (if such exist or may be created in the future). As an example: When Minion A is tapped, other than to perform an action, he burns 1 blood. Assuming minion A could play something like Redirection, but was already tapped, would they burn blood?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "63261"
+    },
+    {
+      "Author": "Nick M",
+      "Date": "Jun 22, 2014, 7:42\u202FAM",
+      "Body": "\"When an afflicted vampire untaps, he or she burns a blood or, if unable, burns the disease counter\" -Vampiric Disease card text\n\n\"At the beginning of your untap phase, you must untap all of your cards\" - Rulebook 4.\n\nNick",
+      "Id": "63262"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 22, 2014, 8:25\u202FAM",
+      "Body": "> Fran\u00E7oisV wrote:\n> The afflicted vampire has to get from a tapped state to an untapped state for the burn blood effect to trigger.\n>\nCorrect. If you untap an untapped card, nothing happens -- it hasn't untapped. Therefore, Vampiric Disease doesn't trigger.\n\nSame thing with tapped card.\n\ngroups.google.com/d/topic/rec.games.trading-cards.jyhad/4LXlqwmGQGc/discussion\n\n> LSJ wrote:\n> Sten During wrote:\n> >\n> > Having followed the thread about Riddle Phantasique I note that it's\n> > made clear that all cards untap in the beginning of the untap-phase.\n> > Does this mean that Vampiric Disease will make an untapped, diseased\n> > vampire burn one blood at the beginning of the untap-phase?\n> > There are probably several other cards for which this question is\n> > valid as well.\n> No.\n> As per that thread, effects which occur when a vampire untaps occur\n> when the vampire changes from a tapped state to an untapped one.\n> Untapping an untapped vampire has no effect.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63263"
+    }
+  ]
+}

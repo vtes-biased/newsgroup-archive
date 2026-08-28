@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-78781",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/78781-official-csv-file-format-change",
+  "Title": "Official CSV file format change",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Aug 3, 2020, 11:59\u202FAM",
+      "Body": "I am planning to change the format of the official CSV files to include more informations and remove some redundant ones.\n\nIf you use those files for tools etc., feel free to suggest your ideas and prepare for the change.\n\nvtescrypt.csv\n[REMOVE] Each of the individual discipline columns. They are redundant with the \"Disciplines\" columns.\n[REMOVE] The Set column. A new file will be created to link the card, its set, and its artist for that set.\n[REMOVE] The Artist column. A new file will be created to link the card, its set, and its artist for that set.\n\nvteslib.csv\n[REMOVE] The Draft column has never been used. It will be removed.\n\nvtesartist.csv (new)\n[ADD] \"Id\" : the id of the card (for both library and crypt cards\"\n[ADD] \"Set\": the set in which the card appear, and the quantity (1 row per set). Uses the current \"SET:QTTY\" format\n[ADD] \"Artist\": the name of the artist for that set\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100458"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 5, 2020, 8:00\u202FAM",
+      "Body": "Awesome news !\n\nAs a heavy user of the CSV files with the KRCG and Codex websites, I look forward to these changes, they all make a lot of sense. I'll try my best to have a compatible version available. Would it be possible to get a draft version of the new files a few days in advance to test the change ?\n\nJust to throw some ideas here while you're at it and since you asked (feel free to ignore any of them):  Remove the \"Requirement\" column in vteslib.csv, it's incomplete (nothing in it when a card requires a sect like \"Anarch\" or an undefined title like \"title Sabbat\") and redundant with the card text. See discussion hereunder. Remove the braces used in text in some places (eg. Harvest Rite \"Put this card on this{} vampire. {The attached vampire gets +1 hunt.}\") Use different trigrams to distinguish Vision and Visceratika in vtescrypt.csv (both use [vis], vision should be [vin] or [vsn])) Use the actual card name for all cards (eg. \"The\" at the start of the name and not at the end of it, \u2122 instead of (TM)) Use \u24B9 instead of ( D ) in the card texts. Use some kind of marker for bold text in card texts.\nThese are all cases the Codex tries to handle automatically. The last point on bold text looks like a harder one I did not manage to get right automatically.\n\nFinally, but that's a huge undertaking, having some kind of classifications on cards could be very useful, Amaranth already has a bunch of search criteria, but as they come from parsing card text and not actual columns, they're missing some cards. Having a \"tags\" column would be awesome, with information such as \"provides stealth/intercept\", \"provides rush\", \"provides wake/unlock\", \"provides aggravated damage\", \"provides strength\", etc.\n\nA similar column (or additional tags in the same column) to tag cards that are intended for a specific sect would also be useful. Filtering requirements for sect is a hassle right now (you have to check sect and titles, plus parsing requirements is not very reliable). Moreover, some cards make no sense if you do not have a vampire of the intended sect, even if they have no requirement for the sect (eg. The Hungry Coyote). The \"Requirement\" column could be used/transformed to this effect.\n\nAnyhow, thanks a lot for the great job on these files !\n\nKind Regards,",
+      "Id": "100473"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 5, 2020, 9:07\u202FAM",
+      "Body": "Classification is a good idea.\nIn olden days it would be relatively easy to get by this in Secretlibrary since you could also search with card text.\n\nFinnish  Politics!",
+      "Id": "100475"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Aug 5, 2020, 10:28\u202FAM",
+      "Body": "> lip wrote:\n> Remove the braces used in text in some places (eg. Harvest Rite \"Put this card on this{} vampire. {The attached vampire gets +1 hunt.}\")\n>\nThese mark differences between the official card text and the last printed version (Harvest Rites as printed said \"on this acting Sabbat vampire\", for example). I personally find that information useful to have available, and, since braces aren't used for anything else, it's easy to remove programmatically if required.\n\n> lip wrote:\n> Finally, but that's a huge undertaking, having some kind of classifications on cards could be very useful, Amaranth already has a bunch of search criteria, but as they come from parsing card text and not actual columns, they're missing some cards. Having a \"tags\" column would be awesome, with information such as \"provides stealth/intercept\", \"provides rush\", \"provides wake/unlock\", \"provides aggravated damage\", \"provides strength\", etc.\n>\nI think there too many judgment calls that need to be made to do this sensibly. Does a conditional card like \"Judgement: Death to the Brujah\" count as \"provides rush\"? Should \"gain +1 strength if blocked\" effects like \"Show of Force\" or \"Adhocracy\" count as \"providing strength\"? Arguments can be made for both inclusion and exclusion, and the whatever decison is made will surprise someone, and we end up with another unstatisifying and incomplete column like the current requirements one.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "100479"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Aug 7, 2020, 4:06\u202FPM",
+      "Body": "Can you post a sample with modified CSV?\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "100499"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 7, 2020, 4:07\u202FPM",
+      "Body": "I haven't one yet, but yes, as soon as I create one.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100500"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Aug 11, 2020, 2:09\u202FPM",
+      "Body": "I know its a huge step, but have you tought about change from CSV to a newer format like JSON?\nMaybe a API with:\nIncremental version of each card ( so we can keep track of changes )\nNew texts since (date/time / Version code ) so when someone wants to update just bring the new cards\nRelated rullings so a database can keep track of what rulling affect each card\nTranslated texts: Someone can make a request to the API to bring the English/Portuguese/Spanish/French/etc version of the cards\n\nWith this in mind, many of the cards could start to be linked as a code so when someone needs to know the card in another language they can link it by the code, something like:\n[100131] instead of Banishment so it can show for portuguese players as Banimento.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "100518"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 11, 2020, 7:56\u202FPM",
+      "Body": "> Sambomb wrote:\n> I know its a huge step, but have you tought about change from CSV to a newer format like JSON?\n>\nCSV is easier to maintain than a JSON file when it comes to editing. It's easy to convert a CSV file to JSON if you really need one.\n\n> Sambomb wrote:\n> Maybe a API with:\n> Incremental version of each card ( so we can keep track of changes )\n> New texts since (date/time / Version code ) so when someone wants to update just bring the new cards\n> Related rullings so a database can keep track of what rulling affect each card\n> Translated texts: Someone can make a request to the API to bring the English/Portuguese/Spanish/French/etc version of the cards\n>\n> With this in mind, many of the cards could start to be linked as a code so when someone needs to know the card in another language they can link it by the code, something like:\n> [100131] instead of Banishment so it can show for portuguese players as Banimento.\n>\nThis is something else I'm already working on, but recreating the history of each card is a hassle, especially for cards predating the BCP era (even though some sites like vtes.pl do have that kind of information).\n\nAlso, I don't have the time to do everything by myself.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100519"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 12, 2020, 9:09\u202FAM",
+      "Body": "@ Sambomb note the  KRCG API (open source and free to use) gives you JSON format of the CSV, with rulings as a bonus. It is dynamically built upon the official CSV, so is always up-to-date. If you need a static file instead, this is possible, do not hesitate to reach out and I'll see to it (or, even better, propose a pull request on KRCG ^_^)\n\n@Ankha if you have files for other languages, I'll be happy to include them to the KRCG API so that, depending on the language header, people could access cards in different languages. That could also be useful for the codex, as the current plan is to translate the whole site, having the card texts in the proper language would be a huge plus.\n\nAlso, if I can be of help to compile card text history and integrate that into the API, do not hesitate to each out, I may be able to put in some work on that.",
+      "Id": "100520"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 13, 2020, 4:52\u202FPM",
+      "Body": "On a side note, maybe it would be useful to have a \"card name\" column in the new vtesartist.csv file, not just the card ID.",
+      "Id": "100537"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Aug 16, 2020, 9:01\u202FAM",
+      "Body": "I convert CSV to JSON to later use it in  vtes-db and my thoughts are:\n1) Columns transition to other files and changes in discipline columns (except 'vis' issue as mentioned above) are not important as anyway it's trivial to convert it as you wish (need to modify converter but it is not a big deal).\n2) Would be very nice to have bold and newlines indicators for card text.\n3) 'Tags' for standard effects (e.g. enter combat, etc) as proposed above by lip would be nice, but probably too much efforts so I dont really expect it. Maybe later during card text updates (not only for CVS but for printing also) it's reasonable to unify text as much as possible, so at least it will be easier (and much more reliable) to parse card text with regexes.\n4) It will be great if first release of new CVS will be either without new cards or to be double release i.e. new+old format with same cards. It will let existing tools to be up to date with cards from day-0 and then update to new format.",
+      "Id": "100553"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 13, 2021, 12:05\u202FPM",
+      "Body": "IMPORTANT ANNOUNCEMENT\n\nA version with the new format is available here for testing: www.vekn.net/images/stories/downloads/vtescsv_utf8_new.zip\n\nChanges:\n1/ vtescrypt.csv\n1.a/ the Discipline columns (Abombwe, Animalism, Auspex, Celerity, Chimerstry, Daimoinon, Dementation, Dominate, Fortitude, Melpominee, Mytherceria, Necromancy, Obeah, Obfuscate, Obtenebration, Potence, Presence, Protean, Quietus, Sanguinus, Serpentis, Spiritus, Temporis, Thanatosis, Thaumaturgy, Valeren, Vicissitude, Visceratika) have been deleted\n1.b/ the Vision trigram is now \"viz\" to make it different from Visceratika\n1.c/ the column names are now enclosed in double quotes\n\n2/ vteslib.csv\n2.a/ the \"Draft\" column has been removed\n2.b/ the \"Requirement\" column has been moved to a new file: vteslibmeta.csv\n\n3/ vteslibmeta.csv\n3.a/ this is a new file containing the following columns: \"Id\",\"Name\",\"Requirement\"\n3.b/ the requirements based on capacity have been updated from \"capacity above X\" to \"capacity X+1 or more\", \"capacity less than X\" to \"capacity X-1 or less\".\n3.c/ Some missing requirements have been added (Legacy)\n\nPlease note that the artist column has not been moved yet.\n\nThe future releases of the csv will follow the above format.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102035"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 14, 2021, 4:42\u202FPM",
+      "Body": "Please note that the vteslibmeta.csv can be freely improved by the community if additional metadata are to be added.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102038"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 14, 2021, 10:02\u202FPM",
+      "Body": "Is there a GH repo for these edits? Or do you expect edits to come in another way?",
+      "Id": "102040"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 15, 2021, 9:14\u202FAM",
+      "Body": "> kschaefer wrote:\n> Is there a GH repo for these edits? Or do you expect edits to come in another way?\n>\nThere's none. I don't want to officially endorse the responsability of maintaining that file as its content will likely adapted for each use or application. However, anyone can set up such a repository and if a consensus is reached, I'll add the content of the file to the official releases.\nAs it is now, the file is more a bootstrap containing the previous metadata.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102042"
+    },
+    {
+      "Author": "asperon",
+      "Date": "May 5, 2024, 6:38\u202FPM",
+      "Body": "Is it possible to still get the cardlists in the old format (to use for ardb for example), or is the handled manually? I will write a tool to convert the new format to the old one if that is the case, but if its possible to get both formats from your source then that would save me the time of doing so.",
+      "Id": "111358"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 6, 2024, 6:00\u202FAM",
+      "Body": "I used to do it, but it's so outdated I've stopped. Keep in mind that you'll need to tweak ARDB to support the new groups.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111362"
+    }
+  ]
+}

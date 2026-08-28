@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-36041",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/36041-wmrh-talk-radio-vs-political-action",
+  "Title": "WMRH Talk Radio vs Political Action",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2012, 6:35\u202FAM",
+      "Body": "Meth A (1 pool left) with a WMRH Talk Radio attempts to block, uses the WMRH but fails to block.\nAm I right to assume that Meth A is ousted when the action resolves = the referendum of the political action is conducted, and therefore can't be chosen in the terms of the referendum?\n\nName: WMRH Talk Radio\nCardtype: Master\nCost: 1 pool\nMaster: unique location.\nTap to give any minion +1 intercept for the current action. If that minion doesn't successfully block the action, burn 1 pool after the action resolves.\n\n> rulebook wrote:\n> 6.2.3. Resolve the Action\n> If the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place.\n>\n> rulebook wrote:\n> 6.1.7. Political Action\n> If the action is successful, pay its cost, and then the terms of the referendum are chosen and votes and ballots are cast and tallied to see if the referendum passes or fails (see Politics, sec. 6.3).\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "36041"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 6, 2012, 6:38\u202FAM",
+      "Body": "Why do you think so? It is written \"after\", and the referendum is part of the resolution of the action.",
+      "Id": "36042"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2012, 6:51\u202FAM",
+      "Body": "From what I read in section 6.2.3, the action has been resolved in order to proceed to the conduct of the referendum.\nIn other words: the referendum is conducted because the action has resolved.\nOr: resolving the political action \"creates\" the referendum.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "36043"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 6, 2012, 6:59\u202FAM",
+      "Body": "The referendum of a political action is part of its successful resolution.",
+      "Id": "36044"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Sep 6, 2012, 7:00\u202FAM",
+      "Body": "IMHO the WMRH effect is only applied after the political actions effects.\n\nSo, the WMRH can still be choosen to be a target of a Recless agitation, banishment, etc, etc.\n\nFor instance: There are only 3 players left and my Baron calls a recless agitation.\n\nMy prey (only 1 pool) attempts to block with WMRH and fails. I set the terms to make my prey to loose 1 pool and the other Methuselah to loose 5.\n\nThe vote passes (no delaying or something else). The referendum is successful, and no other cards are played.\n\nMy prey looses one pool and is ousted, the other player looses 5 pool.\n\nEnd of the Political action. WMRH should trigger at this point... but the player is gone.",
+      "Id": "36045"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Sep 6, 2012, 7:01\u202FAM",
+      "Body": "Floppy already cleared this issue.",
+      "Id": "36046"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 6, 2012, 7:07\u202FAM",
+      "Body": "> Ankha wrote:\n> Meth A (1 pool left) with a WMRH Talk Radio attempts to block, uses the WMRH but fails to block.\n> Am I right to assume that Meth A is ousted when the action resolves = the referendum of the political action is conducted, and therefore can't be chosen in the terms of the referendum?\n>\nNo. When the action resolves = when the referendum is conducted (amongst other effects, such as setting terms) is before that player burns pool to WMRH (which happens \"after\" the action resolves).",
+      "Id": "36048"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Sep 6, 2012, 7:23\u202FAM",
+      "Body": "So a vamp with Perfectionist gains one blood BEFORE the referendum is conducted? Kinda wierd... so you can play Freak Drive as well? I always thought the referendum to be part of the action (like combat for instance, when the action is blocked).\n\nNC of Hungary\n\n///",
+      "Id": "36049"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2012, 7:42\u202FAM",
+      "Body": "> Malachy wrote:\n> So a vamp with Perfectionist gains one blood BEFORE the referendum is conducted? Kinda wierd... so you can play Freak Drive as well? I always thought the referendum to be part of the action (like combat for instance, when the action is blocked).\n>\nNo. Re-read what Pascal wrote.\nSee also\ngroups.google.com/forum/?hl=fr&fromgroups=#!searchin/rec.games.trading-cards.jyhad/perfectionist$20delaying$20tactics/rec.games.trading-cards.jyhad/FST_Tt-CcJk/k8zt1UiYHh8J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "36051"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 6, 2012, 8:32\u202FAM",
+      "Body": "Since we're at it: is the Voter Cap window still part of the resolution, or does the action resolution end right after applying the effects of the successful referendum?\n\nI would tend to say it is still part of the resolution, but only because the next window is the \"after resolution\" window",
+      "Id": "36053"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 6, 2012, 9:43\u202FAM",
+      "Body": "> Malachy wrote:\n> So a vamp with Perfectionist gains one blood BEFORE the referendum is conducted? Kinda wierd...\n>\n> Name: Perfectionist\n> [Gehenna:C, KoT:C]\n> Cardtype: Master\n> Master: archetype.\n> Put this card on a vampire you control. Once per turn, when this vampire sucessfully performs an action and no reaction cards are played, he or she gains 1 blood after the action is resolved. A vampire can have only one archetype.\n> Artist: Ken Meyer, Jr.\n>\nSame wording, same effect, same window. After resolution of a referendum means after the referendum is conducted, after the effects have been applied.\n\n> Malachy wrote:\n> so you can play Freak Drive as well? I always thought the referendum to be part of the action (like combat for instance, when the action is blocked).\n>\n> Name: Freak Drive\n> [Jyhad:R2, VTES:R, CE:U/PV2, Anarchs:PG, LoB:PA2, Third:U, LotN:PR, KoT:PV3, HttB:PSam2]\n> Cardtype: Action Modifier\n> Cost: 1 blood\n> Discipline: Fortitude\n> [for] Only usable at the end of a successful action (after resolving the action). This vampire untaps.\n> [FOR] As above, but usable even if the action is blocked (play after combat, if any).\n>\nThe hint is given twice here - \"after resolution\", again, is the same as \"after the effects have been applied\" for referenda.\n\n> Non-existant user wrote:\n> Since we're at it: is the Voter Cap window still part of the resolution, or does the action resolution end right after applying the effects of the successful referendum?\n>\n> I would tend to say it is still part of the resolution, but only because the next window is the \"after resolution\" window\n>\n> Name: Voter Captivation\n> [Jyhad:U2, VTES:U, Sabbat:U, CE:U/PTo2/PV, Anarchs:PAB3, KMW:PAn3, LoB:PG3, Third:U/PB2]\n> Cardtype: Action Modifier\n> Discipline: Presence\n> Only usable after resolving a successful referendum called by this acting vampire.\n> The acting vampire gains X blood from the blood bank, where X is the number of votes by which the referendum passed.\n> As above, but move up to 2 of those blood counters to your pool instead of this vampire.\n>\nI agree the cardtext is slightly different. However, it should be clear that Voter Captivation is played after the referendum - after resolving its effects.\nIf you call an Anarchist Uprising when you have 1 pool, Voter Captivation won't save you. Voter Captivation has the same window as Freak Drive (after resolution). You can play VC and then FD, or FD and then VC.",
+      "Id": "36055"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 6, 2012, 10:07\u202FAM",
+      "Body": "> Pascal wrote:\n> I agree the cardtext is slightly different. However, it should be clear that Voter Captivation is played after the referendum - after resolving its effects.\n> If you call an Anarchist Uprising when you have 1 pool, Voter Captivation won't save you. Voter Captivation has the same window as Freak Drive (after resolution). You can play VC and then FD, or FD and then VC.\n>\nI would love it to work as you say (it is simpler), but LSJ seems to have ruled differently, unless there is a more recent answer I don't know of:\ngroups.google.com/forum/?fromgroups=#!topic/rec.games.trading-cards.jyhad/yvOEO69y2kU",
+      "Id": "36056"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 6, 2012, 10:46\u202FAM",
+      "Body": "[LSJ 20070324]  wrote:\n>\n> Note that this is a REVERSAL of an earlier Voter Captivation vs. Freak Drive\n> ruling -- Voter Captivation has the same timing window as Freak Drive (and may\n> be played before or after Freak Drive).\n>",
+      "Id": "36058"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 6, 2012, 11:06\u202FAM",
+      "Body": "Thanks.\n\nMaybe that's worth adding to the ruling list on this site since a newsgroups search can give the wrong answer?",
+      "Id": "36059"
+    }
+  ]
+}

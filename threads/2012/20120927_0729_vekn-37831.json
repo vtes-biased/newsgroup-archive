@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-37831",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/37831-double-creepshow-casino",
+  "Title": "Double Creepshow casino",
+  "Messages": [
+    {
+      "Author": "Tomas",
+      "Date": "Sep 27, 2012, 7:29\u202FAM",
+      "Body": "Can you use Creepshow casino twice on the same action if you untap it with house of Sorrows?\n\nCreepshow Casino\nType: Master\nPool Cost: 2\n\nMaster: unique location.\nTap when a vampire you control announces an undirected action to give that acting vampire +1 stealth; usable even though the stealth is not yet needed.\n\nHouse of Sorrow\nType: Master\nPool Cost: 1\n\nMaster: unique location.\nTap to untap any card you control that is not a minion. If you do so, neither that card nor this location untap as normal on your next untap phase.",
+      "Id": "37831"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Sep 27, 2012, 7:41\u202FAM",
+      "Body": "Yes. Cards and effects stack by default unless rules or card text state otherwise.\n\nBut you must tap it twice during the \"announces an undirected action\" window.",
+      "Id": "37836"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 27, 2012, 7:41\u202FAM",
+      "Body": "> Tomas wrote:\n> Can you use Creepshow casino twice on the same action if you untap it with house of Sorrows?\n>\nNo.\nPreceding examples:  [LSJ 20081229] and  [LSJ 20090731] refer to the word \"when\" for the reason not to be able to use a card twice on a triggered event (Tower of London was the first question like this).",
+      "Id": "37837"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Sep 27, 2012, 7:57\u202FAM",
+      "Body": "> Chaitan wrote:\n> Yes. Cards and effects stack by default unless rules or card text state otherwise.\n>\n> But you must tap it twice during the \"announces an undirected action\" window.\n>\nI stand corrected.\n\nMay I suggest the addition of keywords to the www.vekn.net/index.php/all-rulings/general-rulings and place rulings for keywords such as \"when\", \"may\" and more under this?",
+      "Id": "37842"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 27, 2012, 10:52\u202FAM",
+      "Body": "Well, it's really just a ruling about House of Sorrows. I'll think if I can add it to the Rulings page.",
+      "Id": "37861"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Sep 27, 2012, 3:35\u202FPM",
+      "Body": "I think the issue is that ANY word describing timing means that the effect can only be used once.\n\nc.f. Maris Streck: \"...can burn a blood to give a blocking minion +1 intercept.\"\n\nc.f. Corpse Minion: \"...may burn X blood to get +X intercept...\"\n\nNeither have such a word.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "37886"
+    },
+    {
+      "Author": "direwolf",
+      "Date": "Oct 1, 2012, 4:39\u202FAM",
+      "Body": "Would it also be a valid argument that the \"as announced\" window does not allow you to tap the Barrens or Fragment of the Book of Nod (or any other similar effect.)\n\nAlso, you do not refresh your hand during this window (IE drawing a Seduction from the action card, or you must have a weapon in hand to play Concealed Weapon.)\n\nThat mostly comes into play when someone plays a master card and another player taps the Barrens to dig for a Sudden Reversal. However, it should work both ways: you can't tap the House of Sorrows to untap the Creepshow Casino in the \"as announced\" window.\n\nIndependent Futurist. Contrarian (titled, X votes where X is the number of votes as the acting minion.) Target Vitals is always the better combat card.",
+      "Id": "38098"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 1, 2012, 7:08\u202FAM",
+      "Body": "> direwolf wrote:\n> Would it also be a valid argument that the \"as announced\" window does not allow you to tap the Barrens or Fragment of the Book of Nod (or any other similar effect.)\n>\n> Also, you do not refresh your hand during this window (IE drawing a Seduction from the action card, or you must have a weapon in hand to play Concealed Weapon.)\n>\n> That mostly comes into play when someone plays a master card and another player taps the Barrens to dig for a Sudden Reversal. However, it should work both ways: you can't tap the House of Sorrows to untap the Creepshow Casino in the \"as announced\" window.\n>\nWrong.\n\nCards aren't replaced in the \"as played\" window (Rulebook 1.6.1), but you replace your Govern before deciding whether or not to play your Seduction. You can tap Barrens before playing Seduction.\n\nConcealed Weapon is also replaced before putting the weapon in play, but *you need the weapon in your hand in order to play CW in the first place*.",
+      "Id": "38120"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 1, 2012, 7:15\u202FAM",
+      "Body": "> Pascal wrote:\n> Concealed Weapon is also replaced before putting the weapon in play, but *you need the weapon in your hand in order to play CW in the first place*.\n>\nThat, for once, is something truly confusing and error-prone.\n\nOn the same account, do you have to declare what you equip with a jack of both side ? And do you need to actually have the thing in hand before replacing the Jack ?",
+      "Id": "38123"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Oct 1, 2012, 7:34\u202FAM",
+      "Body": "I already cited the answer for that in \"Uses for Jack of Both Sides\" topic. Let me cut and paste to help you.\n\nRe: Questions re: Jack of Both Sides < Prev Next >\nPosted By:\nvtesrep\nFri Apr 20, 2007 11:02 am |\nOptions\n\nfloppyzedolfin wrote:\n> On Apr 20, 2:55 am, Dasein <dasein2...@...> wrote:\n> Sequence of evenements is :\n> - Announce wich minion plays which action card.\n> - Announce the terms of the action card, if any (inferior / superior\n> level, cards targetted for Sudario Refraction or Jack, ...)\n> - You tap your minon when doing one of the 2 points above.\n> - At that moment, any one could call ask for a check that the\n> equipment / retainer you announced for your Jack is in your 6 card\n> hand)\n> - Wait for Direct Intervention.\n> - Replace the action card.\n> - Play any \"As the action is announced\" cards as you want.\n\nCorrect, except that tapping comes after DI (that is, if the action card is\nDI'ed, the minion doesn't tap).\n\n...\n\n>> For\n>> example can someone wait until I declare what equipment/retainer card\n>> is before they decide to Direct Intervention the Jack of Both Sides?\n>\n> There's no time window before the terms declaration to play a Direct\n> Intervention.\n>\n>> Does the equipment retainer card stay in my hand or go onto the table\n>> while block attempts are being made / resolved?\n>\n> While the action is not succesful, the equipment / retainer remains in\n> your hand. As a result of the succesful action, put the equipment /\n> retainer on the minion.\n>\n> By the way, the \"announce the target card / wait for direct\n> intervention / replace card\" is the same for Concealed Weapon.\n\nCorrect.",
+      "Id": "38125"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 1, 2012, 8:23\u202FAM",
+      "Body": "So, let's suppose..\n\nI play Jack of both side for a Magnum .44\n\nI get blocked by a vampire with 6 raptor. I discard my hand, including the magnum, play torrent, continue my action, draw another Magnum. Can I equip it ?\n\n(if not, this is a nightmare to ascertain \"cheating\" by people ; and if there were a way to make discard at random during the time between announce and resolution, it will be even more fun, since the active player will have to keep mental track of which magnum he have in hand is the good one, to know whether he discarded the one for the action or any other)",
+      "Id": "38129"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 1, 2012, 11:55\u202FAM",
+      "Body": "Yes.\nThe thing is that you fully announce your action: \"I play Jack of Both Sides to equip with a .44 Magnum from my hand.\" (not \"this .44 Magnum\") In order to be legal, you must have a .44 Magnum in hand when you announce it.\nThen, upon resolution, you move a .44 Magnum from your hand to the vampire (if you can).\n\nThe thing is that it's not necessarily the same Magnum because you don't have to explicitely say which Magnum you equip (it's irrelevant). As long as you play the named card, it's ok.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "38149"
+    }
+  ]
+}

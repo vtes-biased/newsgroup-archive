@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-66960",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/66960-re-gianna-di-canneto",
+  "Title": "Re: Gianna di Canneto",
+  "Messages": [
+    {
+      "Author": "Joscha",
+      "Date": "Oct 26, 2014, 7:47\u202FAM",
+      "Body": "> Name: Gianna di Canneto\n> [TU:C]\n> Cardtype: Ally\n> Clan: Giovanni\n> Cost: 1 pool\n> Unique wraith with 2 life. 1 strength, 1 bleed.\n> When another of your minions is in combat, Gianna can tap and burn herself to burn any equipment on the opposing minion, or tap during strike resolution to inflict 1 unpreventable damage on the opposing minion.\n>\nCan Gianna do her damage if the opposing minion uses a Strike: Combat Ends?\n\nI'd say no, because Drawing out the Beast wouldn't neither.\n\nBaron of Frankfurt",
+      "Id": "66960"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 26, 2014, 8:04\u202FAM",
+      "Body": "No. \"During strike resolution\" means during normal strike resolution, like for Wolf Companion.\n\nDrawing out the Beast isn't relevant as its damage is during the press step.",
+      "Id": "66961"
+    },
+    {
+      "Author": "porphyrion",
+      "Date": "Oct 26, 2014, 10:19\u202FAM",
+      "Body": "Can she burn for example a .44 Magnum on the opposing minion after that minion has already maneuvred with it, thereby causing their strike to do no damage?\n-thank you for your input.",
+      "Id": "66969"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 26, 2014, 10:28\u202FAM",
+      "Body": "> porphyrion wrote:\n> Can she burn for example a .44 Magnum on the opposing minion after that minion has already maneuvred with it, thereby causing their strike to do no damage?\n> -thank you for your input.\n>\nShe can, and the bottom-line would indeed be that the opposing minion's strike would be nothing, resulting in no damage inflicted from the strike.",
+      "Id": "66971"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 11, 2021, 9:52\u202FAM",
+      "Body": "I just want to be sure about Gianna di Canneto rule.\n1) she cannot lock to inflict damage if oposing minion play strike: CE\n2) she cannot lock if any of minions in combat strike with first strike and burn,sent torpor,or sent to incapacited region oposing minion\n3) she must use his abiliti after both minions declare strike (but not in case about point 1 and 2) but before prevent step.\n\nif all 3 point above correct?",
+      "Id": "103848"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 11, 2021, 12:16\u202FPM",
+      "Body": "> beslin wrote:\n> I just want to be sure about Gianna di Canneto rule.\n> 1) she cannot lock to inflict damage if oposing minion play strike: CE\n> 2) she cannot lock if any of minions in combat strike with first strike and burn,sent torpor,or sent to incapacited region oposing minion\n> 3) she must use his abiliti after both minions declare strike (but not in case about point 1 and 2) but before prevent step.\n>\n> if all 3 point above correct?\n>\n1) Correct, Combat End prevents the resolution of other effects (except Dodge) in the strike resolution windows (rule below)\n\n2) Incorrect, it doesn't say it has to be during the strike resolution of the minion that also controls Gianna di Canneto i.e. Gianna di Canneto can be locked during the strike resolution of the minion striking with first strike and inflict the 1 damage. Ankha will need to confirm this one.\n**Update ** was wrong as I based it on old card text.\n\n3) Correct, the ability \"...lock during strike resolution to inflict 1...\" can only be done after the declaration of strikes as the window of the ability is during strike resolution which comes after. Note the ability to \"..lock and burn herself to...\" can be used before declaring strikes and resolves immediately.\n\n> Rulebook:\n>\n> Combat Ends: This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike (see First Strike), and it ends combat before other strikes or other strike resolution effects are\n>",
+      "Id": "103849"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Nov 11, 2021, 12:53\u202FPM",
+      "Body": "> inm8 wrote:\n> 2) Incorrect, it doesn't say it has to be during the strike resolution of the minion that also controls Gianna di Canneto i.e. Gianna di Canneto can be locked during the strike resolution of the minion striking with first strike and inflict the 1 damage. Ankha will need to confirm this one.\n>\nThe quoted text for Gianna at the start of this thread is from 2014 and is thus now badly out of date.\n\nThe current text for Gianna reads\n>\n> Unique wraith with 2 life. 1 strength, 1 bleed.\n> If another minion you control is in combat, Gianna can lock and burn herself to burn an equipment on the opposing minion, or lock during normal strike resolution to inflict 1 unpreventable damage on the opposing minion.\n>\nSince this specifies \"normal strike resolution\", Gianna cannot lock to inflict damage if the combat doesn't reach that stage (due to S:CE, minion going to torpor from first strike, or other effects).\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "103850"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 11, 2021, 1:04\u202FPM",
+      "Body": "Thanks for pointing it out...just assumed the text from the original post was still relevant which was wrong on my part....should have checked as it was an old post....then 2) is Correct as pointed out by drnlmza, the opportunity to lock to inflict damage would be lost in the given scenario.",
+      "Id": "103851"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 30, 2021, 4:11\u202FPM",
+      "Body": "> drnlmza wrote:\n>\n> > inm8 wrote:\n> > 2) Incorrect, it doesn't say it has to be during the strike resolution of the minion that also controls Gianna di Canneto i.e. Gianna di Canneto can be locked during the strike resolution of the minion striking with first strike and inflict the 1 damage. Ankha will need to confirm this one.\n> >\n> The quoted text for Gianna at the start of this thread is from 2014 and is thus now badly out of date.\n>\n> The current text for Gianna reads\n> >\n> > Unique wraith with 2 life. 1 strength, 1 bleed.\n> > If another minion you control is in combat, Gianna can lock and burn herself to burn an equipment on the opposing minion, or lock during normal strike resolution to inflict 1 unpreventable damage on the opposing minion.\n> >\n> Since this specifies \"normal strike resolution\", Gianna cannot lock to inflict damage if the combat doesn't reach that stage (due to S:CE, minion going to torpor from first strike, or other effects).\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104061"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-83075",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83075-tariq-merge-during-influence-phase",
+  "Title": "Tariq Merge during influence phase",
+  "Messages": [
+    {
+      "Author": "Alanmut",
+      "Date": "Jul 1, 2026, 1:00\u202FPM",
+      "Body": "Here is my question: first I play Tariq (Adv.), turn him into an Anarch, and then on the next turn I evolve him into the base version\u2014which sect prevails? Would Tariq become Independent or Sabbat?",
+      "Id": "117301"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 1, 2026, 2:03\u202FPM",
+      "Body": "> Alanmut wrote:\n> Here is my question: first I play Tariq (Adv.), turn him into an Anarch, and then on the next turn I evolve him into the base version\u2014which sect prevails? Would Tariq become Independent or Sabbat?\n>\nCardtexts :\n\nName: Tariq, The Silent\n[FN:U2, POD:DTC]\nCardtype: Vampire\nClan: Banu Haqim\nGroup: 2\nCapacity: 7\nDiscipline: cel AUS FOR OBF QUI\nIndependent: While Tariq is controlled, he gets -4 capacity. He can enter combat with a vampire as a  action. Blood hunts cannot be called on him.\nArtist: Christopher Shy\n\nName: Tariq, The Silent\n[KMW:U, POD:DTC]\nCardtype: Vampire\nClan: Banu Haqim\nLevel: Advanced\nGroup: 2\nCapacity: 7\nDiscipline: cel AUS FOR OBF QUI\nSabbat: While Tariq is controlled, he gets -4 capacity. He can strike, ranged: steal 1 blood or life (becoming blood). Black Hand. Red List.\n[MERGED] Independent: Tariq's capacity is not reduced by his card text.\nArtist: Steve Eidson\n\nEDIT: I read the OP the otherway round. If Tariq base becomes Anarch then merges, he stays Anarch because: The base version is Independent. The merged version is also Independent, meaning Tariq won't change sect: he stays Anarch.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/GDs-UOjOtUk/m/KO8JYwYYlKYJ\n\nIn the OP, Tariq ADV becomes Anarch, then merges: he becomes Independent because his base sect (Sabbat) is different from his merged sect (Independent).\n>\n> rulebook wrote:\n> If the advanced card conflicts with the base card (a different sect, for example), the advanced card has precedence.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117302"
+    },
+    {
+      "Author": "meneran",
+      "Date": "Jul 1, 2026, 4:36\u202FPM",
+      "Body": "Since I assume that normally there would be a sect change (Tariq ADV is Sabbat -> Tariq Merged is Independent), why does making the starting sect Anarch instead of Sabbat prevent the change?",
+      "Id": "117303"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2026, 6:55\u202FPM",
+      "Body": "> meneran wrote:\n> Since I assume that normally there would be a sect change (Tariq ADV is Sabbat -> Tariq Merged is Independent), why does making the starting sect Anarch instead of Sabbat prevent the change?\n>\nHis starting sect is not Anarch, it's Independent. See cardtext.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117307"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 2, 2026, 10:32\u202FPM",
+      "Body": "Interesting. So, the Merge process happens simultaneously with the check for differences.\n\nIt doesn't work by first checking for discrepancies between the versions, correcting them, and then applying the \"Merged\" modifier.\n(In that scenario, Tariq would have switched to Sabbat\u2014regardless of his current sect\u2014and then become Independent.)\n\nInstead, the \"Merged\" modifier is applied, and the Advanced+Merged version is compared to the Basic version. (And since the Basic version and the Advanced+Merged version have the same sect, the sect doesn't change regardless of his current sect)\n\nThis one is tricky to see.",
+      "Id": "117312"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 3, 2026, 7:24\u202FAM",
+      "Body": "Even more complicated.\n\nIf you control the advanced version and merge it with the basic one, the resulting vampire will be Sabbat.\n\nIf you control the basic version and merge it with the advance one, the resulting vampire will be independent.",
+      "Id": "117313"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 3, 2026, 6:19\u202FPM",
+      "Body": "> Coyote wrote:\n> Even more complicated.\n>\n> If you control the advanced version and merge it with the basic one, the resulting vampire will be Sabbat.\n>\nNo, his sect his \"Independent\" when merged.\n\n> Coyote wrote:\n> If you control the basic version and merge it with the advance one, the resulting vampire will be independent.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117315"
+    },
+    {
+      "Author": "meneran",
+      "Date": "Jul 3, 2026, 9:26\u202FPM",
+      "Body": "Just to be sure that I understand this correctly (sorry for asking basically the same question second time, I just feel that there is some kind of misunderstanding) :\n\nADV Tariq (Sabbat) merges -> resulting Tariq is Independent because of the card text ( = his sect changes)\n\nADV Tariq (Sabbat) changes sect (to Anarch), then merges -> resulting Tariq is Anarch, because of this ruling ( = his sect does not change)",
+      "Id": "117316"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jul 4, 2026, 5:10\u202FPM",
+      "Body": "The priority is merged text > advanced version text > basic version text, and at each of these \"stages\", sect / clan can also be changed.",
+      "Id": "117329"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2026, 2:24\u202FPM",
+      "Body": "> meneran wrote:\n> Just to be sure that I understand this correctly (sorry for asking basically the same question second time, I just feel that there is some kind of misunderstanding) :\n>\n> ADV Tariq (Sabbat) merges -> resulting Tariq is Independent because of the card text ( = his sect changes)\n>\n> ADV Tariq (Sabbat) changes sect (to Anarch), then merges -> resulting Tariq is Anarch, because of this ruling ( = his sect does not change)\n>\nSorry, I read the OP question the other way.\n\nLet's sum it up here:\n\nTariq base (Independent) merges with Tariq adv: Tariq stays Independent (merged sect)\nTariq adv (Sabbat) merges with Tariq base: Tariq becomes Independent (merged sect)\n\nIf Tariq base changes sect before merging, he keeps his sect.\nIf Tariq adv changes sect before merging, he becomes Independent.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117332"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jul 6, 2026, 5:47\u202FAM",
+      "Body": "\"If Tariq base changes sect before merging, he keeps his sect.\"\n\nSo merging doesn't \"overwrite\" sect if even it happens *after* Tariq changed his sect?",
+      "Id": "117335"
+    },
+    {
+      "Author": "meneran",
+      "Date": "Jul 6, 2026, 8:49\u202FAM",
+      "Body": "> KoRneeshon wrote:\n> \"If Tariq base changes sect before merging, he keeps his sect.\"\n>\n> So merging doesn't \"overwrite\" sect if even it happens *after* Tariq changed his sect?\n>\nTo know if merging will cause sect to change, you just look at the starting card (not the vampire in play) and look at the sect of the merged 'card' (again, not the resulting vampire in play).\nIf those two sects are the same, then process of merging never changes sect, it just keeps the starting sect. If those two sects are different, then merging will reset sect to the \"merged\" version.\n\nTo rephrase what Ankha has said:\n\nWhen you start with Tariq basic, merging will never change his sect.\nWhen you start with Tariq ADV, merging will always try to change his sect to Independent.",
+      "Id": "117336"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jul 7, 2026, 7:48\u202FAM",
+      "Body": "Got it, I forgot that merging text is only on ADV version.",
+      "Id": "117347"
+    }
+  ]
+}

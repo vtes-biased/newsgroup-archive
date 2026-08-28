@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-79528",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79528-crypt-s-sons-versus-unleash-hell-s-fury",
+  "Title": "Crypt's Sons versus Unleash Hell's Fury",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Dec 6, 2021, 3:42\u202FPM",
+      "Body": "Unleash Hell's Fury blocks an Anarch vampire with Crypt's Sons.\n\nUnleash Hell's Fury\n+1 stealth action.\nRequires an infernal vampire. Unique.\ndai Put this card in play. This card can attempt to block a \u24B9 action against you (or a card you control) and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable environmental aggravated damage and this card is burned.\nDAI As above, and unlock this vampire.\n\nCrypt's Sons\nUnique mortal with 3 life. Requires an anarch.\nWhenever this anarch is blocked, he or she may burn a life from the Sons to cancel combat and continue the action as if unblocked. The Sons inflict 1R damage each round of combat during normal strike resolution.\n\nDoes the Anarch take 1 aggravated damage and go to torpor or does the Anarch take 1 aggravated damage and continue the action or does something else happen?",
+      "Id": "104128"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Dec 6, 2021, 7:22\u202FPM",
+      "Body": "Per UHF text Anarch Vampire takes 1 aggravated damage and goes to torpor, UHF is burned.\nCrypt's Sons cancels combat, but with UHF combat never occurs. The only prerequisite for UHF trigger is to successfully block.",
+      "Id": "104129"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 6, 2021, 7:50\u202FPM",
+      "Body": "In corollary to the ruling about leaving torpor, you can cancel the block. The block will not be successful, so no damaged will be applied.\n\nNothing prevents Unleash Hell's Fury from attempting to block again, so the reason to use Crypt's Sons effect is mostly moot.",
+      "Id": "104130"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Dec 7, 2021, 7:08\u202FAM",
+      "Body": "> kschaefer wrote:\n> In corollary to the ruling about leaving torpor, you can cancel the block. The block will not be successful, so no damaged will be applied.\n>\n> Nothing prevents Unleash Hell's Fury from attempting to block again, so the reason to use Crypt's Sons effect is mostly moot.\n>\nWouldn't it be locked as it blocked as a vampire? There is precedent on game objects keeping their gained attributes over the course of an action. In \"normal\" cases it does not tap as it doesn't matter (it goes away) but per blocking rules, it should.",
+      "Id": "104131"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 7, 2021, 8:06\u202FAM",
+      "Body": "I don't know if the UHF would be locked (actually I don't think it would) but it can block locked or not.",
+      "Id": "104134"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 7, 2021, 8:36\u202FAM",
+      "Body": "> kschaefer wrote:\n> In corollary to the ruling about leaving torpor, you can cancel the block. The block will not be successful, so no damaged will be applied.\n>\n> Nothing prevents Unleash Hell's Fury from attempting to block again, so the reason to use Crypt's Sons effect is mostly moot.\n>\nCan you please elaborate...not understanding what you are trying to say, about the ruling (which ruling?) and canceling the block?\n\n> Timo wrote:\n> I don't know if the UHF would be locked (actually I don't think it would) but it can block locked or not.\n>\nIt does not lock (it is only considered a vampire during the actual block attempt and no further) and wouldn\u00B4t matter if it did.  [LSJ 20100210]\n\n> LSJ wrote:\n> > - If Faceless Night sup' is played on an attempt to block with\n> > Unleash Hell's Fury, and the attempt is not successful, is the card\n> > tapped?\n>\n> Tapped, no. It's not a minion when the FN effect comes to tap the\n> minion.\n> But it wouldn't matter. The card doesn't need to be untapped in order\n> to attempt to block.\n>",
+      "Id": "104135"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Dec 7, 2021, 11:59\u202FAM",
+      "Body": "If I'm not mistaken, Unleash deals its damage between when block is successful and before combat would start. I believe this is the same window where crypt's sons is used. And because acting player plays their effects and cards first, this might mean that the anarch can continue their action by burning life from sons... but nothing prevents unleash from blocking again since it doesn't lock.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104137"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 7, 2021, 1:36\u202FPM",
+      "Body": "> XZealot wrote:\n> Unleash Hell's Fury blocks an Anarch vampire with Crypt's Sons.\n>\n> Does the Anarch take 1 aggravated damage and go to torpor or does the Anarch take 1 aggravated damage and continue the action or does something else happen?\n>\nYou must apply the delayed effects first: www.vekn.net/forum/rules-questions/79192-mirror-walk-and-slave?start=12#102578\n\nSo the Anarch takes 1 aggravated damage first. If they are in torpor, they cannot continue the action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104139"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 7, 2021, 1:55\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > XZealot wrote:\n> > Unleash Hell's Fury blocks an Anarch vampire with Crypt's Sons.\n> >\n> > Does the Anarch take 1 aggravated damage and go to torpor or does the Anarch take 1 aggravated damage and continue the action or does something else happen?\n> >\n> You must apply the delayed effects first: www.vekn.net/forum/rules-questions/79192-mirror-walk-and-slave?start=12#102578\n>\n> So the Anarch takes 1 aggravated damage first. If they are in torpor, they cannot continue the action.\n>\nWas just working on replying as well and needed to reference the above ruling of delayed effect\n\nThe abilities of both UHF and CS are triggered at the same time (i.e. when the block is successful) but the UHF effect is a delayed effect already in play and therefore has priority to be resolved before another effect (CS) can be actively played following the normal sequencing rule.\n\nUHF deals the damage before block resolution and never enters combat.\nCS cancels the combat part of the block resolution (that has two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion).\n\nThat means that even if the CS effect could be played it wouldn\u00B4t actually do anything against UHF as the Anarch is sent to torpor before block resolution and the block resolution is never reached because of it and furthermore the UHF is burned as part of the effect of it causing the damage to the acting minion which happens before the block resolution.",
+      "Id": "104140"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 7, 2021, 3:33\u202FPM",
+      "Body": "> Nac wrote:\n>\n> > kschaefer wrote:\n> > In corollary to the ruling about leaving torpor, you can cancel the block. The block will not be successful, so no damaged will be applied.\n> >\n> > Nothing prevents Unleash Hell's Fury from attempting to block again, so the reason to use Crypt's Sons effect is mostly moot.\n> >\n> Wouldn't it be locked as it blocked as a vampire? There is precedent on game objects keeping their gained attributes over the course of an action. In \"normal\" cases it does not tap as it doesn't matter (it goes away) but per blocking rules, it should.\n>\nAlthough I was incorrect about being able to continue the action, UHF's card state does not matter. Even if the card is locked, the card can still block as a 9-cap vampire: Can attempt to block even if locked. [LSJ 20100210](groups.google.com/d/msg/rec.games.trading-cards.jyhad/HHJfsSbIEf0/6UxQ3UJT9aEJ)",
+      "Id": "104141"
+    }
+  ]
+}

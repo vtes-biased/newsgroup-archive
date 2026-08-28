@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-77036",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77036-continuing-an-action-after-stealing-with-venenation",
+  "Title": "Continuing an Action After Stealing with Venenation",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Sep 29, 2018, 12:10\u202FAM",
+      "Body": "Scenario:\n\nNakhthorheb (who has become an Anarch) has employed the Crypt\u2019s Sons. While attempting an action, he is blocked by an Emerald Legionnaire (or any other ally with a recruit cost of 1 pool or less). Nakhthorheb plays Venenation and takes control of the blocking ally.\n\nQuestion 1: May Nakhthorheb now use the Crypt\u2019s Sons\u2019 text and continue the action as if unblocked? (I'm thinking not, because the combat was already canceled and CS text begins with canceling combat.)\n\nQuestion 2: Instead of using Crypt\u2019s Sons, may Nakhthorheb now use Momentary Delay to continue the action?\n\nQuestion 3: Instead, assuming Nakhthorheb possessed the appropriate discipline, could he instead play Phantom Speaker at Melpominee or Psychomachia at Daimoinon at that point to continue the action?\n\nQuestion 4: Instead, could a supporting vampire now play Mask of 1,000 Faces to continue the action (after gaining control of the ally)?\n\nThanks Much!\n-Bill Troxel\n\nNakhthorheb\n[OBF] PRE [SER]\n[Follower of Set]\nCapacity: 10, Group: 4\nIndependent: Nakhthorheb may untap once during each of your minion phases. Minions with your corruption counters cannot block him. +1 strength.\n\nVenenation\nAction Modifier, Serpentis\n[1 Blood]\nOnly usable when this acting minion is blocked, before combat begins.\n[ser] Place a corruption counter on the blocking minion. If the number of your corruption counters on the minion equals or exceeds the blood capacity of that vampire or the cost of that ally, you may burn all of your corruption counters on that minion to gain control of him or her (combat is canceled). Otherwise, combat occurs as normal.\n[SER] As above, but the cost of this card is reduced by 1 blood.\n\nCrypt's Sons\n[Retainer] [1 Pool]\nUnique mortal with 3 life. Requires an anarch.\nWhenever this anarch is blocked, he or she may burn a life from the Sons to cancel combat and continue the action as if unblocked. The Sons inflict 1R damage each round of combat during normal strike resolution.\n\nMomentary Delay\n[Action Modifier]\nRequires a vampire with capacity 7 or more.\nOnly usable at the end of an action blocked by an ally or a vampire of capacity 5 or less (after any combats). Not usable if more than one round of combat has occurred nor if this vampire has lost 3 or more blood this action or ended combat before the press step. The action continues as if unblocked.\n\nPhantom Speaker\n[Action Modifier] [Melpominee] [Chimerstry]\nOnly usable when this acting vampire is blocked (before tapping the blocker).\n[chi] Cancel combat and do not tap the blocking minion.\n[mel] The block fails and the action continues. The blocking minion cannot attempt to block this action again. Not usable if the blocking minion is an older vampire.\n[MEL] As [mel] above, and if this action is successful, tap that blocking minion.\n\nPsychomachia\n[Action Modifier], [Daimoinon] Presence\n[1 Blood]\nOnly usable when an ally or younger vampire successfully blocks before tapping the blocker.\npre Cancel the current action and untap this acting vampire. The blocking minion is not tapped.\n[dai] The block fails, and the action continues. The blocking minion cannot attempt to block this action again.\n[DAI] As [dai] above, and the blocking minion takes 1 damage (damage not preventable).\n\nMask of a Thousand Faces\n[Action Modifier], [Obfuscate]\n[obf] Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Untap the acting minion and tap this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "90827"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Sep 29, 2018, 9:46\u202FAM",
+      "Body": "Momentary Delay should work, and Mask might, but the rest all talk about canceling the block which is not happening anymore after the Venenation.",
+      "Id": "90830"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Oct 1, 2018, 12:17\u202FPM",
+      "Body": "> Klaital wrote:\n> Momentary Delay should work, and Mask might, but the rest all talk about canceling the block which is not happening anymore after the Venenation.\n>\nDoes canceling combat not count as ending it before the press step?\nI always assumed MD wasn't great because mirror walk and agg poke or flamethrowers didn't work.",
+      "Id": "90874"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 1, 2018, 2:46\u202FPM",
+      "Body": "Agg damage works just fine with momentary delay, your vampire isn't 'ending combat' by sending the opposing vampire to torpor, it is the opposing vampire that ends the combat by going to torpor, it basically just means that you can't use it if you s:ce yourself.\n\nAnd canceling combat is not the same as ending combat before press step, if the combat never started in the first place you couldn't have ended it.",
+      "Id": "90880"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Oct 3, 2018, 3:52\u202FPM",
+      "Body": "Is there a way to flag a member of the rules team to answer the four questions I posed in my original post for this thread? I don't feel any closer to getting a definitive, binding ruling.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "90941"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 3, 2018, 5:10\u202FPM",
+      "Body": "> Killiam wrote:\n> Question 1: May Nakhthorheb now use the Crypt\u2019s Sons\u2019 text and continue the action as if unblocked? (I'm thinking not, because the combat was already canceled and CS text begins with canceling combat.)\n>\nHe can, the same way he could play Bear-Baiting then continue the action.\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/tROpvfFdgBI/qDwA9JTPMxgJ\n\n> Killiam wrote:\n> Question 2: Instead of using Crypt\u2019s Sons, may Nakhthorheb now use Momentary Delay to continue the action?\n>\nYes, conditions are met.\n\n> Killiam wrote:\n> Question 3: Instead, assuming Nakhthorheb possessed the appropriate discipline, could he instead play Phantom Speaker at Melpominee or Psychomachia at Daimoinon at that point to continue the action?\n>\nYes.\n\n> Killiam wrote:\n> Question 4: Instead, could a supporting vampire now play Mask of 1,000 Faces to continue the action (after gaining control of the ally)?\n>\nInstead of using Crypt's Sons? No, he was blocked.\nSee also: groups.google.com/d/msg/rec.games.trading-cards.jyhad/s1lJEsLMf-8/3CwIMglRboIJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90942"
+    }
+  ]
+}

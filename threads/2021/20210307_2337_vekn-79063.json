@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-79063",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79063-daring-the-dawn-and-then-mask-of-a-thousand-faces",
+  "Title": "Daring the Dawn and then Mask of a Thousand Faces",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Mar 7, 2021, 11:37\u202FPM",
+      "Body": "Scenario: Minion A is bleeding and plays Daring the Dawn at basic. Minion B (who is a vampire possessing both Fortitude and Obfuscate) then plays Mask of a Thousand Faces, taking over the bleed action, which resolves successfully.\n\nQuestion: Who takes the 2 aggravated damage, A or B?\n\nThanks much!\n-Bill Troxel / Killiam\n\nName: Daring the Dawn\nCardtype: Action Modifier\nDiscipline: Fortitude\n[for] Vampires cannot block this action. This vampire takes 2 unpreventable environmental aggravated damage after action resolution.\n[FOR] As above, but this vampire takes 1 unpreventable environmental aggravated damage.\n\nName: Mask of a Thousand Faces\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "101784"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 8, 2021, 8:10\u202FAM",
+      "Body": "I'm not very rules savy about M1kF but reading card text I am pretty sure it would be the masked vampire taking the damages.",
+      "Id": "101786"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Mar 8, 2021, 8:30\u202FAM",
+      "Body": "In my opinion second minion (B) because 2 agr. dmg triggers after resolution so after the swap.",
+      "Id": "101787"
+    },
+    {
+      "Author": "lip",
+      "Date": "Mar 8, 2021, 1:12\u202FPM",
+      "Body": "I would have said B:\n>\n> The action remains the same. All action modifiers remain in effect, but inherent modifiers (a minion's inherent +1 bleed for example) do not. Other effects applied to the action also carry over to the new masking vampire. [RTR 19951110] [LSJ 19971201] [RTR 20030519] [LSJ 20030521]\n>",
+      "Id": "101792"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 8, 2021, 8:29\u202FPM",
+      "Body": "the 2 agg damage are not effects applied to the action but to the vampire.\n\nFor example IMO a conditioning add +3 bleed to the action and not to the vampire.\n\nBut this card being a judge nightmare, I could certainly be wrong...",
+      "Id": "101799"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 9, 2021, 7:57\u202FAM",
+      "Body": "> lip wrote:\n> I would have said B:\n> >\n> > The action remains the same. All action modifiers remain in effect, but inherent modifiers (a minion's inherent +1 bleed for example) do not. Other effects applied to the action also carry over to the new masking vampire. [RTR 19951110] [LSJ 19971201] [RTR 20030519] [LSJ 20030521]\n> >\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101805"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 9, 2021, 2:34\u202FPM",
+      "Body": "Ankha would be great if you could add some more reasoning behind why....the quoted ruling doesn't really make it clear...one could argue that the damaging effect would trigger as the card is played queuing up damage to be applied after action resolution to the vampire that played it and thereby be treated like card cost that one pays as the card is played and that is per ruling not passed to the masking minion. The effect \"This action cannot be blocked by vampires\" would be a lingering effect that is affecting the action as a whole that the masked minion is taking over and therefore benefits from that effect.",
+      "Id": "101811"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 13, 2021, 9:44\u202FAM",
+      "Body": "> inm8 wrote:\n> Ankha would be great if you could add some more reasoning behind why....the quoted ruling doesn't really make it clear...one could argue that the damaging effect would trigger as the card is played queuing up damage to be applied after action resolution to the vampire that played it and thereby be treated like card cost that one pays as the card is played and that is per ruling not passed to the masking minion. The effect \"This action cannot be blocked by vampires\" would be a lingering effect that is affecting the action as a whole that the masked minion is taking over and therefore benefits from that effect.\n>\nThe effect of Daring the Dawn carries over the new acting minion. This means that the new acting minion cannot be blocked by vampires, and will take the aggravated damage after the resolution of the action.\nThe former acting minion is not involved anymore, as if it never had been the acting minion (despite any blood spend before playing the Mask).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101842"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 14, 2021, 5:48\u202FPM",
+      "Body": "Thanks for your explanation. If i understand your reasoning correctly of why the masking minion (B) also takes over the damaging effect is because it is to be considered as if it was the masking minion (B) all along and the masked minion (A) was never involved which thematically and intent wise can make sense. But i don\u00B4t understand how you come to the conclusion based on these card\u00B4s text I still don\u00B4t find this ruling and previous LSJ one (below) to be very intuitive and seems to be a ruling to align more with the idea/intent of the card then the explicit implementation/card text.\n.\n>\n> LSJ wrote:\n>\n> All effects that had been applied to the action or the acting minion carry over as if they had been applied with the Masker as the acting minion.\n>\nIf Daring the Dawn would be written as below it would make more sense for it to also be carried over to the masking minion:\n\n[for] Vampires cannot block this action. This The acting vampire takes 2 unpreventable environmental aggravated damage after action resolution.\n\nMask of a Thousand Faces text \"The action continues with this vampire as the acting minion.\" changes who is the acting minion for the action not the targets of previously played cards/effects.\n\nOne could also argue that if Daring of the Dawn has been played the action can\u00B4t be masked anymore for the same reason as Aching Beauty... (similar text wise using \"this\") per ruling if Aching Beauty effect has been activated on minion (A) the action can\u00B4t be masked even if the masking minion (B) also has an Aching Beauty.\n.\n>\n> Name: Aching Beauty\n> [Jyhad:U, VTES:U, CE:U, KoT:U, FB:PTo3]\n> Cardtype: Master\n> Clan: Toreador\n> Cost: 2 pool\n> Put this card on any Toreador. If this Toreador is blocked, the blocking minion's controller burns 1 pool before block resolution.\n> Artist: Dave Roach & Pete Burges; Chris Stevens; Dave Roach & Pete Burges\n>\n> LSJ wrote:\n>\n> Any minion can mask before the Aching Beauty on the first Toreador\n> is activated (i.e., before the pool is burned).\n>\n> After it is activated, only a minion with *that* Aching Beauty can\n> mask, which means that no minion can mask, since the only minion\n> with that Aching Beauty is the acting minion.\n>",
+      "Id": "101849"
+    }
+  ]
+}

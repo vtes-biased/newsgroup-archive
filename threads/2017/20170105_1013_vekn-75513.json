@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-75513",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75513-rules-question-obedience-ended-action",
+  "Title": "Rules Question: Obedience - ended action",
+  "Messages": [
+    {
+      "Author": "nisu_advanced",
+      "Date": "Jan 5, 2017, 10:13\u202FAM",
+      "Body": "Hi all,\n\nI've got a doubt with Obedience, is the ended action considered unsuccessfully or it's just cancelled?\n\nFor example, Blood brother A is attempting a Bum's Rush on Arika and she force's him to obey, could a second BB play a Hay Ride to atempt the same action?\n\nI hope I\u2019ve been clear enough despite my poor English level\u2026\n\nHere you have card text:\n\nObedience\n\nOnly usable when this reacting vampire is about to enter combat with an acting younger vampire.\n[dom] Untap the acting vampire, do not tap this reacting vampire, and end the current action (and combat). The acting vampire cannot attempt the same action this turn.\n[DOM] As above, but do not untap the acting vampire.\n\nHay Ride\n\n[san] Only usable after resolving an action (successfully or not). Choose a Blood Brother of the same circle as this acting vampire. As your next action, that Blood Brother may play the action card used for this action from your ash heap as if from your hand.\n[SAN] As above, but the cost of this card is reduced by 1 blood.\n\nThanks!",
+      "Id": "80015"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jan 5, 2017, 10:58\u202FAM",
+      "Body": "Obedience ends the current action, so there is no way you can further modify that action with an action modifier like Hay Ride or Freak Drive.\n\nV:EKN Website Coordinator",
+      "Id": "80017"
+    },
+    {
+      "Author": "nisu_advanced",
+      "Date": "Jan 5, 2017, 12:48\u202FPM",
+      "Body": "thanks!",
+      "Id": "80018"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2017, 4:22\u202FPM",
+      "Body": "> nisu_advanced wrote:\n> Hi all,\n>\n> I've got a doubt with Obedience, is the ended action considered unsuccessfully or it's just cancelled?\n>\nThe successful / unsuccessful state depends only on whether the action was blocked or not. In any case, Obedience doesn't cancel the action but ends it immediately: action modifiers or reactions cards can't be played because there's no current action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80021"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jan 6, 2017, 10:54\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > nisu_advanced wrote:\n> > Hi all,\n> >\n> > I've got a doubt with Obedience, is the ended action considered unsuccessfully or it's just cancelled?\n> >\n> The successful / unsuccessful state depends only on whether the action was blocked or not. In any case, Obedience doesn't cancel the action but ends it immediately: action modifiers or reactions cards can't be played because there's no current action.\n>\nIs a combat action that ends when \"about to enter combat\" a successful combat action?",
+      "Id": "80026"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2017, 1:21\u202FPM",
+      "Body": "> Brum wrote:\n>\n> > Ankha wrote:\n> >\n> > > nisu_advanced wrote:\n> > > Hi all,\n> > >\n> > > I've got a doubt with Obedience, is the ended action considered unsuccessfully or it's just cancelled?\n> > >\n> > The successful / unsuccessful state depends only on whether the action was blocked or not. In any case, Obedience doesn't cancel the action but ends it immediately: action modifiers or reactions cards can't be played because there's no current action.\n> >\n> Is a combat action that ends when \"about to enter combat\" a successful combat action?\n>\nWhatever the action is, if it was successful (eg. not blocked) then it is successful, and if it was not successful (eg. blocked) then it's unsuccessful.\nIn both case, the action is ended when Obedience is played, and the successful or not state is unlikely to trigger anything outside the action.\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/MIRAQ05Ag7E/qWdf0iK2DbAJ\n\n> LSJ wrote:\n> > LSJ <> wrote:\n> > >> On Sun, 26 Sep 2004 13:06:08 +0200, \"henrik isaksson\"\n> > >>>Can't find a clear answer to these Q:\n> > >>>A rushes B. No block. B playes obedience. Can A play inf freakdrive?\n> Sup?\n> > >>>A rushes B. B block. B play obedience. Can A play sup freak drive?\n> > >Obedience ends the action now (rather than simply canceling the combat).\n>\n> > >No action modifiers (like Freak) can be played after the action ends.\n> > I guess that when Obedience ends the action, it is not considered\n> > successful.\n> Obedience doesn't affect that. If the action was successful (case 1\n> above), then it was succesful.\n>\n> If it was unsuccessful (case 2), then it was unsuccessful.\n>\n> > But if B blocks, isn't there a timing window where superior\n> > Freak Drive can be played? Kind of like when a Strike: Combat Ends is\n> > played, there's a timing window to play Taste, for example.\n> No. Obedience ends the action. Unlike combat, in which many things\n> can be done as combat is ending to forestall that (or to squeeze\n> in other effects in that window), there is no \"as the action is\n> ending\" phase -- there's a \"after resolution, but still during\n> the action\" window that many cards, like Freak Drive, use. But\n> Obedience ends that action earlier than that window -- up near\n> the start of resolution.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80028"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 6, 2017, 8:35\u202FPM",
+      "Body": "> Ankha wrote:\n> Whatever the action is, if it was successful (eg. not blocked) then it is successful, and if it was not successful (eg. blocked) then it's unsuccessful.\n> In both case, the action is ended when Obedience is played, and the successful or not state is unlikely to trigger anything outside the action.\n>\nBlood of the Sabbat potentially cares.\n\nThe vampire with this card gains 1 blood after each successful  action he or she performs.",
+      "Id": "80033"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-78321",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78321-slave-rule-and-acting-minion",
+  "Title": "Slave Rule and Acting Minion",
+  "Messages": [
+    {
+      "Author": "Hakuron",
+      "Date": "Jan 13, 2020, 7:51\u202FPM",
+      "Body": "> Slave: Some minions are identified as slaves to a specified clan. A slave cannot take a directed action if his controller doesn't control a ready member of the specified clan. Also, if a member of the specified clan controlled by the same Methuselah is blocked, the controller can lock the slave to cancel the combat and to unlock the acting vampire and have the slave enter combat with the blocking minion instead.\n>\nDoes a slave minion entering combat via the slave rule actually become the \"acting minion\"?\n\nWould be relevant e. g. for cards like \"NSA Trio\".\n>\n> Name: NSA Trio\n> Cardtype: Event\n> Government.\n> During the first combat between an acting vampire and a blocking vampire each turn, neither combatant may end combat as a strike in the first round. A Methuselah may use a discard phase action to burn this card if his or her minions attempted no actions in the current turn.\n>\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "98566"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2020, 7:25\u202FAM",
+      "Body": "> Hakuron wrote:\n>\n> > Slave: Some minions are identified as slaves to a specified clan. A slave cannot take a directed action if his controller doesn't control a ready member of the specified clan. Also, if a member of the specified clan controlled by the same Methuselah is blocked, the controller can lock the slave to cancel the combat and to unlock the acting vampire and have the slave enter combat with the blocking minion instead.\n> >\n> Does a slave minion entering combat via the slave rule actually become the \"acting minion\"?\n>\n> Would be relevant e. g. for cards like \"NSA Trio\".\n> >\n> > Name: NSA Trio\n> > Cardtype: Event\n> > Government.\n> > During the first combat between an acting vampire and a blocking vampire each turn, neither combatant may end combat as a strike in the first round. A Methuselah may use a discard phase action to burn this card if his or her minions attempted no actions in the current turn.\n> >\nNo. The acting minion is the one conducting the action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98574"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Jan 14, 2020, 3:12\u202FPM",
+      "Body": "After the combat between blocking and (now) locked slave minion, can (now) unlocked acting minion plays cards like Shadow Boxing or Momentary Delay? If can, is they stay and continue the action unlocked? if can't - why?\n\nWarning: Spoiler!\n\nShadow Boxing\n[obf][pot] [COMBAT] Maneuver, only usable to get to close range, or press, only usable to continue combat.\n[OBF][POT] [ACTION MODIFIER] Only usable after a combat resulting from a block. Not usable if the blocking minion is ready. This vampire burns 1 blood to continue the action as if unblocked.\n\nMomentary Delay\n[ACTION MODIFIER]\nRequires a vampire with capacity 7 or more. Only usable after resolution of an action blocked by an ally or a vampire with capacity 5 or less. Not usable if, during this action, more than 1 round of combat has occurred or this vampire has lost 3 or more blood or ended combat before the press step. The action continues as if unblocked.",
+      "Id": "98580"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2020, 5:33\u202FPM",
+      "Body": "> Palamedes wrote:\n> After the combat between blocking and (now) locked slave minion, can (now) unlocked acting minion plays cards like Shadow Boxing or Momentary Delay? If can, is they stay and continue the action unlocked? if can't - why?\n>\nShadow Boxing: no => \"Only usable after a combat resulting from a block\" and the combat does not result from a block\n\nMomentary Delay: yes, if you meet the other conditions.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98584"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Jan 14, 2020, 10:15\u202FPM",
+      "Body": "> Ankha wrote:\n> Shadow Boxing: no => \"Only usable after a combat resulting from a block\" and the combat does not result from a block\n>\nOk, I can understand this logic since the original combat is canceled and the acting minion is not involved in combat, but this is a little tricky since condition \"after a combat resulting from a block\" is met in the same action in some way. Just want to say this is also logical, except if the blocking minion is not considered as \"blocking\" in the following combat.\n\nSo is the blocking minion still considered as blocking in the combat with a slave?\n\nCan he use Sniper Rifle to set the range for example?\n\nWarning: Spoiler!\n\nSniper Rifle\nCardtype: Equipment\nCost: 2 pool\nWeapon, gun.\n2R damage each strike. Only usable at long range. If the bearer blocks an action, he or she may, before range is determined, set the range for the first round of the resulting combat to long; if he or she does so, skip the determine range step that round, and the bearer's initial strike that round must be with this weapon.",
+      "Id": "98588"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 14, 2020, 11:15\u202FPM",
+      "Body": "> Palamedes wrote:\n> So is the blocking minion still considered as blocking in the combat with a slave?\n>\n> Can he use Sniper Rifle to set the range for example?\n>\nNo. For the same reason as  this ruling regarding Sniper Rifle and Psyche! The slave combat is not the result of the block.",
+      "Id": "98590"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 15, 2020, 9:59\u202FAM",
+      "Body": "> kschaefer wrote:\n>\n> > Palamedes wrote:\n> > So is the blocking minion still considered as blocking in the combat with a slave?\n> >\n> > Can he use Sniper Rifle to set the range for example?\n> >\n> No. For the same reason as  this ruling regarding Sniper Rifle and Psyche! The slave combat is not the result of the block.\n>\nCorrect, even if the blocking minion is still the blocking minion. The \"resulting combat\" condtion is not fulfilled.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98594"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-78937",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/78937-why-is-this-site-using-insecure-connections-http-instead-of-https",
+  "Title": "Why is this site using insecure connections? (http instead of https)",
+  "Messages": [
+    {
+      "Author": "captrench",
+      "Date": "Dec 10, 2020, 7:36\u202FPM",
+      "Body": "It worries me that any site i would like to interact with the community of uses non-secure (http instead of https) addresses.\n\nTraffic to this and any other site that wants to be considered reputable should be using https by default or at least have the option to.\n\nCan this be corrected?",
+      "Id": "101236"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2020, 8:50\u202FAM",
+      "Body": "A SSL certificate will be added shortly.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101241"
+    },
+    {
+      "Author": "captrench",
+      "Date": "Dec 11, 2020, 1:20\u202FPM",
+      "Body": "> Ankha wrote:\n> A SSL certificate will be added shortly.\n>\nReally appreciate the fast response Ankha, I can see now that the cert has been added.",
+      "Id": "101244"
+    }
+  ]
+}

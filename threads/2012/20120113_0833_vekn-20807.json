@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-20807",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/20807-re-combat-range-always-close-by-default-close-range-effects-available",
+  "Title": "Re: Combat range always close by default (close range effects available!)",
+  "Messages": [
+    {
+      "Author": "mika",
+      "Date": "Jan 13, 2012, 8:33\u202FAM",
+      "Body": "According to this thread (and LSJ):\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/8fdf1aa852058e71/5e36e7346b877322?hl=fi&lnk=gst&q=%22Outside+the+Hourglass%22#5e36e7346b877322\n\nThe range of a combat is considered always close, if it's not changed to long. This means that combat effects that require close range (pulled fangs, disarm) are available if other conditions are met.\n\nFor example:\n\nOutside hourglass + Majesty + Disarm OR Outside hourglass + Alpha Glint + Pulled fangs / Disarm\n\nHow about Catatonic fear + Disarm / Pulled fangs?\n\nI'd like to hear Pascal's opinion of all of this...",
+      "Id": "20807"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 13, 2012, 8:52\u202FAM",
+      "Body": "> mika wrote:\n> According to this thread (and LSJ):\n>\n> groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/8fdf1aa852058e71/5e36e7346b877322?hl=fi&lnk=gst&q=%22Outside+the+Hourglass%22#5e36e7346b877322\n>\n> The range of a combat is considered always close, if it's not changed to long. This means that combat effects that require close range (pulled fangs, disarm) are available if other conditions are met.\n>\n> For example:\n>\n> Outside hourglass + Majesty + Disarm OR Outside hourglass + Alpha Glint + Pulled fangs / Disarm\n>\n> How about Catatonic fear + Disarm / Pulled fangs?\n>\n> I'd like to hear Pascal's opinion of all of this...\n>\nThese rulings are valid.\nOutside the Hourglass + Majesty + Disarm works.\nOutside the Hourglass + Alpha Glint + Pulled Fangs works.\n\nIf your only strike is Catatonic Fear, you can't play Disarm, since, when the combat ends, you have inflicted 0 damage.\n\nA question remains, though, which might lead to a slight rewording of Pulled Fangs / Disarm / .. : If the range is set to long after Outside the Hourglass is played, is the damage from OtH still considered \"inflicted at close range\"?\nTo solve this, I might change Disarm / ... to \"Only usable at close range, if this vampire inflicted more damage ...\"",
+      "Id": "20809"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Jan 13, 2012, 9:08\u202FAM",
+      "Body": "> Pascal wrote:\n> A question remains, though, which might lead to a slight rewording of Pulled Fangs / Disarm / .. : If the range is set to long after Outside the Hourglass is played, is the damage from OtH still considered \"inflicted at close range\"?\n> To solve this, I might change Disarm / ... to \"Only usable at close range, if this vampire inflicted more damage ...\"\n>\nThat would be the second or third most awesome solution to lots of weirdness. It could also be made a bit clearer in the rulebook that there in fact is a range even before the \"determine range\" step of combat.\n\nI think changing Outside the Hourglass or pre-range damage in general would be better for the future. Having a range (be it close or long) before the step where you determine range is something that feels very unintuitive to me.",
+      "Id": "20812"
+    },
+    {
+      "Author": "mika",
+      "Date": "Jan 13, 2012, 9:14\u202FAM",
+      "Body": "I understood that there can be only one range during combat.\n\nApplying this ruling, the damage from the Hourglass is not considered close range damage if the combat is later maneuvered or set to long, even though by default combat starts at close range and maneuvers are applied later. Go figure...\n\nCould it be that damage from Hourglass is close range and later combat is fought and the damage is dealth long range? There's seems to be room for interpretation here...\n\nCatatonic fear damage is dealt after the combat so 'dealing enough damage during combat' -condition is not fulfilled. Ok.",
+      "Id": "20815"
+    },
+    {
+      "Author": "Amin",
+      "Date": "Feb 8, 2012, 7:28\u202FPM",
+      "Body": "I understand what LSJ wrote about Pulled Fangs, Disarm etc, but still have a problem regarding Vampiric Disease.\n\nMy vampire is in combat with a bloodless, diseased opponent. My vampire plays Weather Control and sends the opponent to torpor before range is determined. Does my vampire get a disease counter?\n\nAs far as I understood LSJ the disease is not spread as \"card text on VD is clearly using the \"after range is determined\" window\".\n\nGranted: my English is far from perfect so my question might be not_so_smart, but is it out of question that VD uses \"after range is determined window\" whereas other effects - like Disarm and Pulled fangs - don't? I must admit it puzzles me a bit cos I cant see much difference between wordings regarding the combat range.\n\nPulled Fangs\n\"Only usable at the end of a round of combat in which this minion inflicted more damage at close range than the opposing vampire. (...)\"\n\nVampiric Disease\n\"(...)Each time a vampire with a disease counter is in combat at close range with another vampire, the second vampire gets a counter as well (...)\"\n\nCan someone confirm that the disease is not being spread if the combat ends before range is determined?",
+      "Id": "22575"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 9, 2012, 9:44\u202FAM",
+      "Body": "> Amin wrote:\n> Vampiric Disease\n> \"(...)Each time a vampire with a disease counter is in combat at close range with another vampire, the second vampire gets a counter as well (...)\"\n>\n> Can someone confirm that the disease is not being spread if the combat ends before range is determined?\n>\nIt's not.\n\nAt a very simple level, when Vampiric Disease was printed, if it was based on the 'default' range, it would happen every single combat, on entering combat. Even with Fear of the Void Below (which can change the default), it's arguable that the vampire has been in combat at close range before Fear of the Void Below was played. So the text would be redundant.\n\n[LSJ 20040827]\n>\n> LSJ wrote:\n> > I ask this because of the interaction with effects such as Vampiric\n> > Disease.\n>\n> If something depends on range being either close or long, then it\n> must wait until range is determined.\n>",
+      "Id": "22593"
+    },
+    {
+      "Author": "Amin",
+      "Date": "Feb 9, 2012, 1:15\u202FPM",
+      "Body": "Thank you for your response.\n\nIntuitively I get it.\n\nBut the thing is the same intuition says the same rule - \"If something depends on range being either close or long, then it must wait until range is determined\" - should be applied to Pulled Fangs and Disarm as well. These two cards do depend on range being either close or long, don't the? But somehow - if the combat ends before range is determined - we assume the combat was at close range and apply the close range effects. Apart from VD effect...\n\nI assume it is just behind my comprehension ability and I have to accept it humbly.\n\nThank you for your effort anyway\n\nAmin",
+      "Id": "22599"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "Feb 9, 2012, 2:58\u202FPM",
+      "Body": "I agree that you can get easily confused. Best way is just to think that VTES rules are not very coherent and card texts can be misleading.",
+      "Id": "22605"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 9, 2012, 3:59\u202FPM",
+      "Body": "> Amin wrote:\n> But the thing is the same intuition says the same rule - \"If something depends on range being either close or long, then it must wait until range is determined\" - should be applied to Pulled Fangs and Disarm as well.\n>\nOn a personal level, I'm inclined to agree that this area is somewhat unsatisfactory.\n\nIntuitively, it seems right that Vampiric Disease shouldn't trigger before range is determined, otherwise its text is excessive. But I'm not altogether happy with the idea that (for example) damage dealt before range is 'rangeless' such that Pulled Fangs can't be played (with its current text).",
+      "Id": "22610"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 10, 2012, 4:06\u202FAM",
+      "Body": "Then James,\nWhat is the logical reason NOT to have either VD work like Pulled Fangs or Pulled Fangs work like VD?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "22680"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 10, 2012, 5:55\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Then James,\n> What is the logical reason NOT to have either VD work like Pulled Fangs or Pulled Fangs work like VD?\n>\nYou know how I just posted that, personally, I found the rulings in this area 'unsatisfactory' and that I explicitly contrasted two somewhat contradictory rulings as part of doing that?\n\nWhy would you then ask me to stand on my head and provide a totally opposite post which synthesises both points into a satisfactory outcome?",
+      "Id": "22694"
+    },
+    {
+      "Author": "Dthamilaye",
+      "Date": "Nov 8, 2023, 10:57\u202FAM",
+      "Body": "> Pascal wrote:\n> These rulings are valid.\n> Outside the Hourglass + Majesty + Disarm works.\n> Outside the Hourglass + Alpha Glint + Pulled Fangs works.\n>\n> If your only strike is Catatonic Fear, you can't play Disarm, since, when the combat ends, you have inflicted 0 damage.\n>\n> A question remains, though, which might lead to a slight rewording of Pulled Fangs / Disarm / .. : If the range is set to long after Outside the Hourglass is played, is the damage from OtH still considered \"inflicted at close range\"?\n> To solve this, I might change Disarm / ... to \"Only usable at close range, if this vampire inflicted more damage ...\"\n>\nI'm sorry for the necro from 10 years ago, but this question and especially this quote is now bothering me. There was a deck a week or so ago that won a tournament that used the Outside + Majesty + Disarm -trick, so I assume the main trick still works.\n\nHowever, the wording of the Disarm -card has changed (as Pascal says in the quote) from \"... more damage at close range than opponent...\" to \"Only usable at close range at the end of a round during which this vampire successfully inflicted more damage than the opposing vampire.\"\n\nDoes this now mean that Disarm works differently, and the following is no longer acceptable:\nOutside the hourglass -> maneuver to long range -> Majesty -> Disarm?\n\nI.e. if I want to use the trick, I need to make sure I end up at close range before playing Majesty?\n\nAlso, I assume this now means that the following sequence is no longer acceptable:\nOutside the hourglass (2 damage) -> opponent maneuvers to long range with magnum and shoots for 2 damage -> I use Disarm to send him to torpor as my damage was close range but his was long range.\n\nThe wording change of Disarm has considerably changed how it works with outside the hourglass.",
+      "Id": "109793"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Nov 8, 2023, 11:55\u202FPM",
+      "Body": "You need to make sure that the combat ends up at close range.\nThe damage inflicted via OtH has no specific range per se; it is regarded to have happened at close range if you end up at close range.\n(Please note that the default range is \"close\" if for any reason the \"determine range\" step is skipped.)\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "109804"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 9, 2023, 7:52\u202FAM",
+      "Body": "> Dthamilaye wrote:\n>\n> > Pascal wrote:\n> > These rulings are valid.\n> > Outside the Hourglass + Majesty + Disarm works.\n> > Outside the Hourglass + Alpha Glint + Pulled Fangs works.\n> >\n> > If your only strike is Catatonic Fear, you can't play Disarm, since, when the combat ends, you have inflicted 0 damage.\n> >\n> > A question remains, though, which might lead to a slight rewording of Pulled Fangs / Disarm / .. : If the range is set to long after Outside the Hourglass is played, is the damage from OtH still considered \"inflicted at close range\"?\n> > To solve this, I might change Disarm / ... to \"Only usable at close range, if this vampire inflicted more damage ...\"\n> >\n> I'm sorry for the necro from 10 years ago, but this question and especially this quote is now bothering me. There was a deck a week or so ago that won a tournament that used the Outside + Majesty + Disarm -trick, so I assume the main trick still works.\n>\n> However, the wording of the Disarm -card has changed (as Pascal says in the quote) from \"... more damage at close range than opponent...\" to \"Only usable at close range at the end of a round during which this vampire successfully inflicted more damage than the opposing vampire.\"\n>\n> Does this now mean that Disarm works differently, and the following is no longer acceptable:\n> Outside the hourglass -> maneuver to long range -> Majesty -> Disarm?\n>\nIt never was, because the range is known only after it the \"determine range\" step or because it was set.\nAnd it's made clearer by the updated clarified cardtext of Disarm:\n\nName: Disarm\n[Sabbat:R, SW:R, CE:PB, BH:PN, KMW:PAl, Third:R, NB2:PB1]\nCardtype: Combat\nDiscipline: Potence\nOnly usable at close range at the end of a round during which this vampire successfully inflicted more damage than the opposing vampire. Not usable by a vampire being burned or going to torpor.\n[pot] Put this card on the opposing vampire and send them to torpor. The attached vampire gets -1 strength. They can burn 3 blood to burn this card. A vampire can have only one Disarm.\n[POT] As above, but the attached vampire gets -2 strength.\n\n> Dthamilaye wrote:\n> I.e. if I want to use the trick, I need to make sure I end up at close range before playing Majesty?\n>\nYou need the range to be close when you want to play Disarm.\n\n> Dthamilaye wrote:\n> Also, I assume this now means that the following sequence is no longer acceptable:\n> Outside the hourglass (2 damage) -> opponent maneuvers to long range with magnum and shoots for 2 damage -> I use Disarm to send him to torpor as my damage was close range but his was long range.\n>\nIt never was.\n\n> Dthamilaye wrote:\n> The wording change of Disarm has considerably changed how it works with outside the hourglass.\n>\nIt hasn't.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109805"
+    },
+    {
+      "Author": "Dthamilaye",
+      "Date": "Nov 9, 2023, 9:01\u202FAM",
+      "Body": "Thank you for the answers. From some of the answers from the threads 13 years ago I got the understanding that Outside the hourglass would be always considered close range damage, regardless of what happens in the \"Determine Range\" -step, but seems I understood wrong.\n\nImmortal Grapples can still ruin the day with this one it seems .",
+      "Id": "109807"
+    }
+  ]
+}

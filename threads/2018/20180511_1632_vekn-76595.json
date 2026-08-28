@@ -1,0 +1,584 @@
+{
+  "ThreadId": "vekn-76595",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76595-rules-team-rulings-rtr-11-05-2018",
+  "Title": "Rules Team Rulings - RTR 11/05/2018",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2018, 4:32\u202FPM",
+      "Body": "Fellow Methuselahs,\n\nWith the release of the new Lost Kindred expansion, the following rule changes will be effective as for June 09, 2018 (changes contained herein do not go into effect for santioned tournaments for 29 days, instead of the regular 30 days.)\n\nRule change #1: Anarch is a sect.\n\nThe anarch trait was tightly associated to the Independent sect until now: if an anarch vampire changed sect, it would lose the anarch trait, and some titles are anarch titles.\n\nAnarch is now a sect on its own (alongside Camarilla, Sabbat, Independent and Laibon). For compatibility, all cards that were previously available to Independent (except for Rise of the Nephtali*) will now also be available to Anarch: Banner of Neutrality, Community Justice, Exclusion Principle, Free States Rant, Haqim's Law: Judgment, and Reckless Agitation. Future cards that require an Independent vampire will not be usable by an Anarch vampire (unless if it is explicitly stated that they can use it too).\n*The title of liaison provided by Rise of the Nephtali is an Independent title: only Independent vampires can hold that title.\n\nEffects that would affect (or ignore) Independent vampires now affect (or ignore) Independent and Anarch vampires:\n\nBanner of Neutrality\nRequires an Independent or Anarch vampire. Only usable when a Camarilla or Sabbat vampire is bleeding you.\nReduce the bleed amount by 1.\n\nCommunity Justice\n+1 stealth action. Requires an Independent or Anarch vampire.\nBurn a vampire who has diablerized a vampire of the same clan as this acting vampire since your last turn.\n\nExclusion Principle\nSuccessful referendum means each Methuselah gains 1 pool for each ready Independent or Anarch vampire he or she controls.\n\nFree States Rant\nRequires an Independent or Anarch vampire.\nAllocate X points among one or more ready vampires, where X is half this acting vampire's capacity rounded up. No more than 3 points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point assigned. In this referendum, non-priscus titles are worth 1 less vote each, priscus title is worth 1 less ballot, and burning the Edge is worth 1 additional vote.\n\nHaqim's Law: Judgment\nContract. Trifle.\nLock a ready Independent or Anarch Assamite you control to put this card on a younger vampire. Every Independent or Anarch Assamite is considered chosen for this contract. Any Independent or Anarch Assamite can enter combat with the attached vampire as a +1 stealth  action.\n\nReckless Agitation\nRequires an Independent or Anarch vampire with capacity 5 or more.\nAllocate 6 points among two or more other Methuselahs. Successful referendum means each Methuselah burns 1 pool for each point assigned.\n\nCount Germaine\nIndependent. Red List: Germaine gets +2 bleed against a Methuselah who controls a titled non-Independent, non-Anarch vampire.\n\nHillanvale\nOnce each action, Hillanvale can burn 1 blood and discard one card requiring Melpominee [mel] to get +1 bleed. She gets -1 intercept against non-Independent non-Anarch vampires.\n\nJan Pieterzoon ADV\nIndependent: Jan can burn 3 blood to cancel a Gehenna card as it is played.\n[MERGED] While Jan is Independent or Anarch and there are any Gehenna cards in play, he gets +3 votes.\n\nMatthew Romans\nSabbat: During your unlock phase, Matthew can burn 1 blood to lock a younger non-Independent, non-Anarch vampire controlled by your prey.\n\nRule change #2: Hunt\nVampires now have a hunt value of 1 by default, that indicates how much blood they gain when hunting (from any source). Cards that increase the amount of blood gained by a hunt now states +X hunt.\nSome cards also reduce the amount of blood gained by a hunt (-X hunt). A hunt is not successful if the amount of blood gained is 0 or less (but the hunt action can still be successful), the same way as bleed works.\n\nRule change #3: Limited effects\nMost bleed-increasing action modifier cards used to prevent other bleed-increasing action modifier cards from being played. This is now the default (some cards will contain the optional text \"(limited)\" to remind players of the rule).\n\nUpdated rulebook text:\nBleed Action Modifiers: A minion cannot use more than one action modifier card to increase a bleed during a bleed action. Some bleed action modifiers explicitly state that they do not count against this limit; those can be played before or after modifiers that count against the limit.\n\nAdditional Strikes: [...] A minion cannot use more than one card or effect (a source) to gain additional strikes per round of combat. Some additional strike sources explicitly state that they do not count against this limit; those can be played before or after additional strike sources. that count against the limit.\n\nBleed increasing action modifiers that previously didn't restrict the usage of another bleed increasing action modifier work as before are errated:\n\nCommand of the Beast\nOnly usable during a bleed action.\n[dom] +1 bleed (limited).\n[DOM] +1 bleed that does not count against the limit.\n\nDivine Image\nOnly usable as the action is announced.\n[ser] This action, this vampire gets -1 stealth, +1 strength and can prevent 1 damage each combat.\n[SER] As above, with +1 bleed that does not count against the limit, only usable during a bleed action.\n\nLeverage\nOnly usable during a bleed action.\nBurn the Edge to get +1 bleed that does not count against the limit. You cannot gain the Edge this action (if you would get the Edge, it is burned instead).\n\nPower of One\nRequires an anarch.\n[obt] Only usable when this anarch is blocked, before combat (if any). The blocking minion burns 2 blood or life.\n[pot] Only usable during a bleed action. +1 bleed that does not count against the limit.\n[pre] Only usable during a bleed action. +1 bleed, or +1 bleed and +1 stealth (limited).\n\nQuicksilver Contemplation\n[aus] [REACTION] +1 intercept.\n[tem] [REACTION] Reduce a bleed against you by 2.\n[aus][tem] [ACTION MODIFIER][REACTION] Only usable during a referendum. Force a younger vampire to abstain (this can cancel that vampire's votes and ballots).\n[AUS][TEM] [ACTION MODIFIER] Only usable during a bleed action. +2 bleed that does not count against the limit.\n\nCard changes and errata\n\nBecoming, The\nThe discipline cards need to be master (has no impact currently)\n\nCount Zaroff\nHis ability can now be used more than once each turn, if you manage to bring him back from the uncontrolled region during the same turn.\n\nGotsdam, The Tired Warrior\nGotsdam is no longer immune to frenzy cards. Instead, frenzy cards cannot be played on him.\n\nLaecanus\nLaecanus is no longer immune to frenzy cards. Instead, frenzy cards cannot be played on him.\n\nVillein\nThe amount of blood you can move is now limited to 5.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86780"
+    },
+    {
+      "Author": "henoch",
+      "Date": "May 11, 2018, 4:44\u202FPM",
+      "Body": "> Ankha wrote:\n> Villein\n> The amount of blood you can move is now limited to 5.\n>\nYES ! YEESSSSSSS !!!! Thank you !!!",
+      "Id": "86781"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "May 11, 2018, 4:54\u202FPM",
+      "Body": "> The amount of blood you can move is now limited to 5.\n>\nI've been saying this should happen for years.\n\nI really don't have words.\n\nTHANK YOU!!\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "86782"
+    },
+    {
+      "Author": "Nac",
+      "Date": "May 11, 2018, 4:55\u202FPM",
+      "Body": "Hi, first of all many thanks for the work\n\nOn the matter: what does it mean the change from template for frenzy immunity? are there some interactions that work differenty now?\n\nThanks in advance",
+      "Id": "86783"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 11, 2018, 5:05\u202FPM",
+      "Body": "> Nac wrote:\n> On the matter: what does it mean the change from template for frenzy immunity? are there some interactions that work differenty now?\n>\nIf you are immune to Frenzy cards, they can still be played on you, target you etc., but they then have no effect on you. So a Methuselah can cycle a card in that situation if they want to - play it, even though there's no real effect.\n\nIf it can't be played on you, it can't be played. No cycling.",
+      "Id": "86784"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 11, 2018, 5:34\u202FPM",
+      "Body": "> Ankha wrote:\n> Rule change #1: Anarch is a sect.\n>\n> The anarch trait was tightly associated to the Independent sect until now: if an anarch vampire changed sect, it would lose the anarch trait, and some titles are anarch titles.\n>\n> Anarch is now a sect on its own (alongside Camarilla, Sabbat, Independent and Laibon). For compatibility, all cards that were previously available to Independent will now also be available to Anarch: Banner of Neutrality, Community Justice, Exclusion Principle, Free States Rant, Haqim's Law: Judgment, and Reckless Agitation. Future cards that require an Independent vampire will not be usable by an Anarch vampire (unless if it is explicitly stated that they can use it too).\n>\nWhat about vampires with specific abilities?\nName: Count Germaine\n[KMW:U/PAn]\nCardtype: Vampire\nClan: Brujah\nLevel: Advanced\nGroup: 4\nCapacity: 8\nDiscipline: obf CEL FOR POT PRE\nAdvanced, Independent. Red List: Germaine gets +2 bleed when bleeding a Methuselah who controls a titled non-Independent vampire.\n[MERGED] Anarch: Germaine gets an optional press each combat.\nArtist: Becky Jollensten\n\nWould that become:\nAdvanced, Independent. Red List: Germaine gets +2 bleed when bleeding a Methuselah who controls a titled non-Independent or titled non-Anarch vampire.\n\nUgh, I don't even like my wording. Doesn't feel right. That being said, do these kinds of effects change?",
+      "Id": "86785"
+    },
+    {
+      "Author": "Molloy",
+      "Date": "May 11, 2018, 5:35\u202FPM",
+      "Body": "> Ankha wrote:\n> Fellow Methuselahs,\n>\n> Updated rulebook text:\n> Bleed Action Modifiers: A minion cannot use more than one action modifier card to increase a bleed during a bleed action. Some bleed action modifiers explicitly state that they do not count against this limit; those can be played before or after modifiers that count against the limit.\n>\nCard text on Command of the Beast, for example, will be changed, then?\n\nSabbat. Animals, Wraiths and Zombies Molloy recruits or employs get an additional life.",
+      "Id": "86786"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "May 11, 2018, 5:35\u202FPM",
+      "Body": "The only thing that annoys me about the villein change is that all those ebayed Villeins I've bought now have obsolete text, so I'll have to replace them in my decks. Such is life, but dammit they weren't cheap.",
+      "Id": "86787"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 11, 2018, 5:37\u202FPM",
+      "Body": "You can still use the old printings. You just need to follow the new text.",
+      "Id": "86788"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "May 11, 2018, 5:45\u202FPM",
+      "Body": "> kschaefer wrote:\n> You can still use the old printings. You just need to follow the new text.\n>\nI know, but it gets very confusing for newer players who aren't very familiar with all the rules who may play with them.\n\nPlus, I'm a little OCD.",
+      "Id": "86789"
+    },
+    {
+      "Author": "Zoroh",
+      "Date": "May 11, 2018, 5:59\u202FPM",
+      "Body": "> Ankha wrote:\n> Villein\n> The amount of blood you can move is now limited to 5.\n>\nSorry, still sinking this in. It's straight out 5? Not up to 5?\n\nKeep walking...",
+      "Id": "86791"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "May 11, 2018, 6:11\u202FPM",
+      "Body": "> Ankha wrote:\n> Villein\n> The amount of blood you can move is now limited to 5.\n>\nYeeeeeehaaa!\n\nVery very good change, we've all known something needs to be done to tone down Villein for a long while now, and this sounds like a great change. Still makes it a very useful card, but no longer quite so overpowering. Minion Tap will be seeing some actual use again, I suspect.",
+      "Id": "86792"
+    },
+    {
+      "Author": "Serazahr",
+      "Date": "May 11, 2018, 6:48\u202FPM",
+      "Body": "Did the Villein card text on the DrivethruRPG KoT Sets get updated?",
+      "Id": "86794"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2018, 6:59\u202FPM",
+      "Body": "> Zoroh wrote:\n>\n> > Ankha wrote:\n> > Villein\n> > The amount of blood you can move is now limited to 5.\n> >\n> Sorry, still sinking this in. It's straight out 5? Not up to 5?\n>\nTo make it clear: it moves from 2 to 5 blood.\n\n> Serazahr wrote:\n> Did the Villein card text on the DrivethruRPG KoT Sets get updated?\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86795"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "May 11, 2018, 7:32\u202FPM",
+      "Body": "Boy do I hate this change of Villein. It wrecks so many of my decks (since I love fatty star vamp decks), none of which were MMPA decks or even close to being overpowered. Never thought a single argument I read in this forum about Villein being overpowered was at all justified. My star vamp decks get pentexed and rushed to torpor plenty, and Villein only delays my ousting after that, when they don't get canceled. Fatty vamps are extremely vulnerable and risky. They come out slowly. They require lots of investment of resources into one minion that comes with a big target on them. Villein made the risk and investment worthwhile. Oh well. Guess I'll have to start creating and playing against weenie decks.\n\nWas any thought given to removing the way Villein makes your Minion Taps cost 1 more? That would have definitely lessened the blow here, since we could then splash both into our decks. I would only have to swap out some of my Villeins for Minion Taps, and could then avoid too much of a hand jam full of masters. What is the need for making Minion Taps cost 1 less now that Villein is a mediocre card?\n\nAm I the only one that thinks Villein was fine the way it was, and basically made fatty star vamps viable? I doubt they are now.",
+      "Id": "86798"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "May 11, 2018, 8:07\u202FPM",
+      "Body": "> Ankha wrote:\n> Fellow Methuselahs,\n>\n> Anarch is now a sect on its own (alongside Camarilla, Sabbat, Independent and Laibon). For compatibility, all cards that were previously available to Independent will now also be available to Anarch.....\n>\nEmphasis on \"all\" is mine. At least one Independent-linked action is missing from the list. The \"Liason\" title action from Rise of the Nepthali was previously accessible to Anarchs. Presumably it is no longer a valid action since the title is linked to the Independent sect.\n\nCorrect?",
+      "Id": "86800"
+    },
+    {
+      "Author": "henoch",
+      "Date": "May 11, 2018, 8:32\u202FPM",
+      "Body": "> mjvtes521 wrote:\n> Am I the only one that thinks Villein was fine the way it was, and basically made fatty star vamps viable? I doubt they are now.\n>\nI don't think you're the only one not happy about that but I do believe that there is a lot of players - myself included- who think that it was really needed.\n\nI really don't think that this nerf will render fatty deck useless. Less resilient, yes. I don't think that the TWD fatty decks will die just because you Villein for 5 instead of 7 or 8.",
+      "Id": "86802"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2018, 9:00\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n>\n> > Ankha wrote:\n> > Fellow Methuselahs,\n> >\n> > Anarch is now a sect on its own (alongside Camarilla, Sabbat, Independent and Laibon). For compatibility, all cards that were previously available to Independent will now also be available to Anarch.....\n> >\n> Emphasis on \"all\" is mine. At least one Independent-linked action is missing from the list. The \"Liason\" title action from Rise of the Nepthali was previously accessible to Anarchs. Presumably it is no longer a valid action since the title is linked to the Independent sect.\n>\n> Correct?\n>\nCorrect: since Liaison is an Independent title, Anarchs can't become Liaison. I'll update the RTR to reflect that.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86803"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 11, 2018, 9:45\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Zoroh wrote:\n> >\n> > > Ankha wrote:\n> > > Villein\n> > > The amount of blood you can move is now limited to 5.\n> > >\n> > Sorry, still sinking this in. It's straight out 5? Not up to 5?\n> >\n> To make it clear: it moves from 2 to 5 blood.\n>\nTo query your clarity: do you mean you have to declare a number from 2 to 5, or do you mean it only moves 2 to 5? As currently, because it targets the vampire not the counters, it can move 1 (or zero) blood, if the vampire has fewer than two counters.\n\n(See also: you can declare a steal 2 blood strike against a vampire who has fewer than 2 blood.)",
+      "Id": "86807"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 11, 2018, 9:47\u202FPM",
+      "Body": "> Cat_in_Exile wrote:\n>\n> > kschaefer wrote:\n> > You can still use the old printings. You just need to follow the new text.\n> >\n> I know, but it gets very confusing for newer players who aren't very familiar with all the rules who may play with them.\n>\nFor new players, put a small piece of PostIt inside the sleeve with the altered text, or just \"Can't move more than 5 blood\" or whatever on it. Although...\n\n> Cat_in_Exile wrote:\n> Plus, I'm a little OCD.\n>\n... it's less likely to help with that.",
+      "Id": "86808"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "May 11, 2018, 10:28\u202FPM",
+      "Body": "> Kraus wrote:\n>\n> > The amount of blood you can move is now limited to 5.\n> >\n> I've been saying this should happen for years.\n>\n> I really don't have words.\n>\n> THANK YOU!!\n>\nSo.... can we bring back an Erratad Liliths now?\n\nAlso:\n\nIs \"immune\" nixed because it's not streamlined with other wording?\n\nDid hunt value X have no current changes, or did Ariadne just get nerfed?\n\nWhen is Lost Kindred tournament legal?\n\nCan we get errata to Command if the beast, leverage, power of one  etc? I'm in favor of swapping weddings so the exception, not the rule gets more words, but seriously, those three cards are going in a trash can if they lost the one thing that made them matter at all.\n\nI'm pretty sure I missed something, but that's the big ones......",
+      "Id": "86810"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "May 11, 2018, 10:42\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n> So.... can we bring back an Erratad Liliths now?\n>\nI sure hope not. \"I can get an infinite number of 5-caps for the grand total cost of one pool\" is still game-breakingly OP.",
+      "Id": "86811"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "May 12, 2018, 12:37\u202FAM",
+      "Body": "> Kushiel wrote:\n>\n> > ReverendRevolver wrote:\n> > So.... can we bring back an Erratad Liliths now?\n> >\n> I sure hope not. \"I can get an infinite number of 5-caps for the grand total cost of one pool\" is still game-breakingly OP.\n>\nYeah, but less so than 11caps.\n\nI just need something that says \"lock: stick a master:discipline on someone\"",
+      "Id": "86815"
+    },
+    {
+      "Author": "elotar",
+      "Date": "May 12, 2018, 5:28\u202FAM",
+      "Body": "3 blood too much but still better than it was B)\n\nNC Russia",
+      "Id": "86818"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "May 12, 2018, 7:02\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> I just need something that says \"lock: stick a master:discipline on someone\"\n>\nGotcha. That being the case, it would be way more productive for you to\n\na) Propose a new card that accomplishes this function, and/or\nb) Mention that this is your hope for an errata'd Lilith's Blessing.\n\nBecause, no offense, but you might be the first player in the history of the game to even notice the cardtext about discipline cards on Lilith's Blessing.",
+      "Id": "86821"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2018, 7:07\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> >\n> > > Zoroh wrote:\n> > >\n> > > >\n> > > >\n> > > > Ankha wrote:\n> > > > Villein\n> > > > The amount of blood you can move is now limited to 5.\n> > > >\n> > > Sorry, still sinking this in. It's straight out 5? Not up to 5?\n> > >\n> > >\n> > To make it clear: it moves from 2 to 5 blood.\n> >\n> To query your clarity: do you mean you have to declare a number from 2 to 5, or do you mean it only moves 2 to 5? As currently, because it targets the vampire not the counters, it can move 1 (or zero) blood, if the vampire has fewer than two counters.\n>\n> (See also: you can declare a steal 2 blood strike against a vampire who has fewer than 2 blood.)\n>\nVillein\nMaster\nTrifle.\nPut this card on a vampire you control and move 2 to 5 blood from that vampire to your pool (usable on a vampire with 1 or less blood). Minion Tap costs you 1 additional pool. Villein costs 1 additional pool to play on this vampire.\n\nSo you choose a number between 2 and 5 included, and you move that much blood from the vampire to your pool, even if it has less.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86823"
+    },
+    {
+      "Author": "Kerath",
+      "Date": "May 12, 2018, 7:24\u202FAM",
+      "Body": "I'm happy about the Villein ruling, it will make things more balanced. Sometimes the \"nearly dry a vampire up + giants blood / other option that will refill it\" can really shift balance. Unless you have a heavy bleeder as predator\n\nforceofpersonality.blogspot.com",
+      "Id": "86825"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 12, 2018, 9:37\u202FAM",
+      "Body": "I love the villein change! *raises mug*\n\nI am partial to playing cool large cap star vampires and I'm not bothered by this change at all. Its kind of ironic however that we release a new printed version of villein at the same time we nerf it ^^ \"You asked for this, so you got it! And we also nerfed it. Enjoy!\" ^^\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "86831"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 12, 2018, 3:08\u202FPM",
+      "Body": "> Ankha wrote:\n> Gotsdam, The Tired Warrior\n> Gotsdam is no longer immune to frenzy cards. Instead, frenzy cards cannot be played on him.\n>\n> Laecanus\n> Laecanus is no longer immune to frenzy cards. Instead, frenzy cards cannot be played on him.\n>\nQuestion: is there a reason for changing these two, but not changing the minion cards with a similar effect? (Sire's Index Finger, Blade of Enoch, Call the Wild Hunt, Bestial Vengeance.)",
+      "Id": "86837"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2018, 4:10\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > Gotsdam, The Tired Warrior\n> > Gotsdam is no longer immune to frenzy cards. Instead, frenzy cards cannot be played on him.\n> >\n> > Laecanus\n> > Laecanus is no longer immune to frenzy cards. Instead, frenzy cards cannot be played on him.\n> >\n> Question: is there a reason for changing these two, but not changing the minion cards with a similar effect? (Sire's Index Finger, Blade of Enoch, Call the Wild Hunt, Bestial Vengeance.)\n>\nThey are not reprinted yet. They will be changed when reprinted.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86839"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2018, 4:40\u202FPM",
+      "Body": "I forgot to mention that the bleed increasing action modifiers that previously didn't restrict the usage of another bleed increasing action modifier work as before are errated:\n\nCommand of the Beast\nOnly usable during a bleed action.\n[dom] +1 bleed (limited).\n[DOM] +1 bleed that does not count against the limit.\n\nDivine Image\nOnly usable as the action is announced.\n[ser] This action, this vampire gets -1 stealth, +1 strength and can prevent 1 damage each combat.\n[SER] As above, with +1 bleed that does not count against the limit, only usable during a bleed action.\n\nLeverage\nOnly usable during a bleed action.\nBurn the Edge to get +1 bleed that does not count against the limit. You cannot gain the Edge this action (if you would get the Edge, it is burned instead).\n\nPower of One\nRequires an anarch.\n[obt] Only usable when this anarch is blocked, before combat (if any). The blocking minion burns 2 blood or life.\n[pot] Only usable during a bleed action. +1 bleed that does not count against the limit.\n[pre] Only usable during a bleed action. +1 bleed, or +1 bleed and +1 stealth (limited).\n\nQuicksilver Contemplation\n[aus] [REACTION] +1 intercept.\n[tem] [REACTION] Reduce a bleed against you by 2.\n[aus][tem] [ACTION MODIFIER][REACTION] Only usable during a referendum. Force a younger vampire to abstain (this can cancel that vampire's votes and ballots).\n[AUS][TEM] [ACTION MODIFIER] Only usable during a bleed action. +2 bleed that does not count against the limit.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86840"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 12, 2018, 9:10\u202FPM",
+      "Body": "> Ankha wrote:\n> Power of One\n> Requires an anarch.\n> [obt] Only usable when this anarch is blocked, before combat (if any). The blocking minion burns 2 blood or life.\n> [pot] Only usable during a bleed action. +1 bleed that does not count against the limit.\n> [pre] Only usable during a bleed action. +1 bleed, or +1 bleed and +1 stealth (limited).\n>\nAny reason to use 2 different templates? This feels more elegant to me:\n\nCommand of the Beast\nOnly usable during a bleed action.\n[dom] +1 bleed (limited).\n[DOM] +1 bleed (unlimited).\n\nPower of One\nRequires an anarch.\n[obt] Only usable when this anarch is blocked, before combat (if any). The blocking minion burns 2 blood or life.\n[pot] Only usable during a bleed action. +1 bleed (unlimited.)\n[pre] Only usable during a bleed action. +1 bleed, or +1 bleed and +1 stealth (limited).",
+      "Id": "86845"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 12, 2018, 9:26\u202FPM",
+      "Body": "> Non-existant user wrote:\n> Any reason to use 2 different templates? This feels more elegant to me:\n>\n> Command of the Beast\n> Only usable during a bleed action.\n> [dom] +1 bleed (limited).\n> [DOM] +1 bleed (unlimited).\n>\nOn a technical point, Ankha has indicated that, going forward, bracketed text will only be used for reminder text that can be removed without changing the meaning of the card. So your card says:\n\n[dom] +1 bleed\n[DOM] +1 bleed\n\nwww.vekn.net/forum/rules-questions/76591-rules-questions#86741",
+      "Id": "86846"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 12, 2018, 10:30\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> On a technical point, Ankha has indicated that, going forward, bracketed text will only be used for reminder text that can be removed without changing the meaning of the card.\n>\nIn other words, following this technical point, cards that have \"limits\" will now have parenthetical reminder text that don't change the meaning of the card, whereas cards without limits will still have clauses explaining there's no limit and therefore alter the meaning of the card.\n\nI think Boris the Blade's point is that this inconsistency is not elegant, and if we're going to include parenthetical single-word \"reminder\" text, it's probably better to just treat those parenthetical single-words as keywords with the associated reminder text in the rulebook.\n\nI mean, if it were me, and I had to write a FAQ explaining that something that looks like a keyword isn't a keyword, I would re-evaluate whether that \"reminder text\" is doing more harm than good. But that's just me, and I definitely have the proclivity to over-inflate minor issues like this.",
+      "Id": "86848"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 12, 2018, 11:10\u202FPM",
+      "Body": "If the keyword unlimited were added to the rulebook, you could add that non-parenthetically to the card to make it concise and elegant at both levels.",
+      "Id": "86851"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "May 13, 2018, 6:14\u202FAM",
+      "Body": "You don't expect the use of \"unlimited\" to to cause arguments from a player about why they can't immediately play a second \"Command the Beast\"? The only one action modifier by name rule already trips new players up often enough without adding text that can easily be misinterpreted to say it doesn't apply.\n\nAlso, this change unifies the presentation of Additional Strikes and bleed modifers, Your proposal means that Quickness, for example, will read\n\n[CEL] Additonal strike (unlimited). A vampire may only play one Quickness each round.\n\nYou don't see that causing confusion?\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "86853"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 13, 2018, 6:54\u202FAM",
+      "Body": "I agree with Ankha's templating. You don't need to make the very few exceptions to the rule 'elegant'. Its much better that they are explicit and clear in what they do. There are only a handful of cards that break the limited rule. A handful of cards also don't need a keyword assigned to them. I feel that VTES card designers have fallen into this trap several times in the past.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "86854"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "May 13, 2018, 7:10\u202FAM",
+      "Body": "> Ankha wrote:\n> Fellow Methuselahs,\n>\n> Villein\n> The amount of blood you can move is now limited to 5.\n>\nI'm glad to see that fatties are being reined in to some extent with the change to Villein. Every deck I've played in recent tournaments has had to plan around my prey gaining massive pool due to Villein from fatty, super-strong vampires. It is good for VTES that that is less of a factor now.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "86855"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 13, 2018, 12:52\u202FPM",
+      "Body": "I wish people would stop quoting walls of text... It is entirely unnecessary and makes the forum hard to read. Even if you are on a phone, you can use the \"reply\" action instead of \"quote\" action..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "86858"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 13, 2018, 5:42\u202FPM",
+      "Body": "I so totally agree on Bloodartist on this one!\n\nFinnish  Politics!",
+      "Id": "86863"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 14, 2018, 1:07\u202FPM",
+      "Body": "> kschaefer wrote:\n> If the keyword unlimited were added to the rulebook, you could add that non-parenthetically to the card to make it concise and elegant at both levels.\n>\nThere's still a problem with inconsistency: some cards will have parenthetical text that say \"(limited)\" following the main text on the card, and other cards will have \"Unlimted\" not in parentheses before the main text on the card. Inconsistency is an issue because it hinders comprehension. This is not just a VTES thing, it is a general rule when writing anything, whether it be a book, newspaper article, thesis, or card text in a card game. This is my viewpoint, and I'm sure it does not mesh with the viewpoint of long-time VTES players.\n\n> drnlmza wrote:\n> You don't expect the use of \"unlimited\" to to cause arguments from a player about why they can't immediately play a second \"Command the Beast\"?\n>\nYes, but that's a sequencing/impulse issue. How passing the impulse works is not described anywhere in detail. I'd expect a lot of arguments to stem from that issue over a misinterpretation of what \"unlimited\" means, especially if \"unlimited\" were defined in the rulebook.\n\n> The only one action modifier by name rule already trips new players up often enough without adding text that can easily be misinterpreted to say it doesn't apply.\n>\nSo by removing \"you can only play 1 action modifier to increase the bleed for this action\" with \"(limited)\", we're making things easier to understand for new players? I'd disagree. I don't think the goal was necessarily to clear things up for new players, the goal was to reduce the amount of characters on the card. And I tend to agree that having fewer characters on the card is important enough to institute keywords/reminder text that point to further description in the rulebook. How this should be implemented is proving to be tricky (in my opinion).\n\n> Also, this change unifies the presentation of Additional Strikes and bleed modifers, Your proposal means that Quickness, for example, will read\n>\n> [CEL] Additonal strike (unlimited). A vampire may only play one Quickness each round.\n>\n> You don't see that causing confusion?\n>\nWithout looking at the rulebook, of course. But as long as there's a clear description of what \"unlimited\" means in the rulebook, at least there is something to point the confused player toward. Having fewer characters on the card is the bigger goal here.\n\n> Bloodartist wrote:\n> I agree with Ankha's templating. You don't need to make the very few exceptions to the rule 'elegant'. Its much better that they are explicit and clear in what they do.\n>\nBut by replacing \"you can only play 1 action modifier to increase the bleed for this action\" with \"(limited),\" I don't think we are making things clearer necessarily. Again, i think the main idea was to reduce the amount of characters. I just see the inconsistency between parenthetical reminder text on some cards and full clauses on others as problematic, but I may be in the minority.",
+      "Id": "86885"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 16, 2018, 3:57\u202FPM",
+      "Body": "> Rule change #1: Anarch is a sect.\n>\n> The anarch trait was tightly associated to the Independent sect until now: if an anarch vampire changed sect, it would lose the anarch trait, and some titles are anarch titles.\n>\n> Anarch is now a sect on its own (alongside Camarilla, Sabbat, Independent and Laibon). For compatibility, all cards that were previously available to Independent (except for Rise of the Nephtali*) will now also be available to Anarch: Banner of Neutrality, Community Justice, Exclusion Principle, Free States Rant, Haqim's Law: Judgment, and Reckless Agitation. Future cards that require an Independent vampire will not be usable by an Anarch vampire (unless if it is explicitly stated that they can use it too).\n> *The title of liaison provided by Rise of the Nephtali is an Independent title: only Independent vampires can hold that title.\n>\n> Effects that would affect (or ignore) Independent vampires now affect (or ignore) Independent and Anarch vampires:\n>\nThis means the waters come into play as anarchs already?\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "86989"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 16, 2018, 4:08\u202FPM",
+      "Body": "> Sambomb wrote:\n>\n> This means the waters come into play as anarchs already?\n>\nyes, If the Setite taking the Waters of Duat action is also a member of the Anarch Sect.",
+      "Id": "86990"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "May 16, 2018, 4:19\u202FPM",
+      "Body": "As do Thin-blooded Seers, Tumnimos, Hatchlings and Create Gargoyles.\n\nWhich is awesome because that is the only way to make Thin-blooded Seers viable, and in a pretty elegant way: if you want another vampire of your clan, go with Embrace; if you want another from your sect, go Thin-blooded Seers.\n\nI already built a thin-bloods+hackerspace+saturday/dragonbreath deck based on the new wording, and I would love to try a Ravnos/gargoyle one soon enough.",
+      "Id": "86992"
+    },
+    {
+      "Author": "talonz",
+      "Date": "May 16, 2018, 10:26\u202FPM",
+      "Body": "I might have missed it and if so please point me to the relevant post, but what justifications were made for these rules changes? Most seem pointless or will/may have unintended consequences (the anarch sect thing is abusable for instance by tumninos/waters/thinbloodseer revolutionary council decks) , and seems utterly unnecesary.\n\nNot fond of the Villein change either. It fucks every fattie deck I run. The whole point of villein was to make minion tap a trifle (to allow room for other less used masters, variety is good) while putting a diminishing return clock on both minion taps and villeins. Now I have to go back to taps when there is not enough room for them in the master portion of the decks.\n\nNot really keen on these new rules changes coming out especially as none of them deal with my most hated cards, pentex and the golden bullets, sudden/wash and in particular DI which just causes games to time out more ime.",
+      "Id": "87016"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 16, 2018, 11:46\u202FPM",
+      "Body": "> talonz wrote:\n> (the anarch sect thing is abusable for instance by tumninos/waters/thinbloodseer revolutionary council decks) , and seems utterly unnecesary.\n>\nIt was mentioned that Anarchs will be a sect in 5th Ed and this is to align with that. I guess to help cross-promotion. Not sure if it was an edict from WW/Paradox or a suggestion from BC, though.",
+      "Id": "87019"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 17, 2018, 6:30\u202FAM",
+      "Body": "> talonz wrote:\n> I might have missed it and if so please point me to the relevant post, but what justifications were made for these rules changes? Most seem pointless or will/may have unintended consequences (the anarch sect thing is abusable for instance by tumninos/waters/thinbloodseer revolutionary council decks) , and seems utterly unnecesary.\n>\nRecruiting allies was functioning unintuitively, and you could argue that the juggle of recruiting, putting them to uncontrolled, and then moving them to controlled was entirely unnecessary as well. It was working differently from basically any other type of action in the game (cards just move straight to controlled). The obvious sign that something was wrong is when very few people were actually recruiting allies correctly. Almost everybody in my local games for example just put allies straight to controlled since it made no practical difference and was similar how putting vampires to play worked. Put into play, they cannot act on first turn.\n\nps. Breeding straight to anarchs is a consequence, something we may have to deal with but I don't think the world is gonna end..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87033"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "May 22, 2018, 2:27\u202FPM",
+      "Body": "About \"Anarch is now a sect\": (and sorry if this has been discussed before, if so I've missed if)\n\nDoes this change how merging anarch vampires works?\n\nSay that the advanced version of Vampire X is \"Independent\". If I have the base version of X and make it Anarch, and then later merge the superior version, does it lose the Anarch status (now sect)? Or is Independent treated the same as Anarch in this case also?",
+      "Id": "87314"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "May 22, 2018, 2:39\u202FPM",
+      "Body": "Advanced takes precedent over base when they conflict. Somerge dominique, germaine, etc, get an anarch with the texts of base and adv.",
+      "Id": "87315"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 22, 2018, 3:04\u202FPM",
+      "Body": "> PetriWessman wrote:\n> About \"Anarch is now a sect\": (and sorry if this has been discussed before, if so I've missed if)\n>\n> Does this change how merging anarch vampires works?\n>\n> Say that the advanced version of Vampire X is \"Independent\". If I have the base version of X and make it Anarch, and then later merge the superior version, does it lose the Anarch status (now sect)? Or is Independent treated the same as Anarch in this case also?\n>\nThe Anarch sect would be lost, and the vampire would become Independent instead.\n\nWhat was the vampire you were thinking of?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87317"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "May 22, 2018, 3:43\u202FPM",
+      "Body": "Did he mean the base wasn't printed as Anarch?\n\nAdv/merge from rulebook:\nThe particulars of this merge are as follows. The counters and cards on the vampire remain. The advancement and the base card are treated as a single vampire card, even if sent to the uncontrolled region somehow, until the vampire is burned. Any effects in play that targeted the vampire now target the merged version.\n(I bolded important part)\nWhen merged, the text on the base card still applies, but the rest of the card is ignored (capacity, Disciplines, etc.). The advancement card applies in full. If the advancement card conflictsiconmiscmergedold with the base card (a different sect, for example), the advancement card has precedence. Some merged cards have an additional effect that only applies if the card is merged with its base card. Such an effect is identified in the card text by a \"merged\" icon.\n\nThe advanced vampire (merged or not) will contest other copies of the same vampire (advanced or not) in play, as usual.\n\nNow, rulebook doesn't state that you get an anarch counter from the cardless action, but most other ways to be anarch give a card or counter.\nSo, unsure about the cardless action, but unless there's a missing \"burn this if the vampire changes sects\" I think you change sects. Not sure about non permanent stuff, twilight camp and cardless action, but relatively sure you change sects.(since the merge ot adv text applies.)basically you have the trait or its printed, adv or merge replaces it. If you have cards or counters, they burn.\nAgain, important what crypt card you're asking about.\nSkimming stuff, if you had a Beckett, Tariq, etc and merging makes you independent, you are no longer anarch.\n\n*edit* I just edited like 6 times replacing my auto correct with \"cardless\" instead of \"careless \".......",
+      "Id": "87321"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "May 22, 2018, 5:08\u202FPM",
+      "Body": "> Ankha wrote:\n> The Anarch sect would be lost, and the vampire would become Independent instead.\n>\n> What was the vampire you were thinking of?\n>\nAdvanced Enzo Giovanni, for example. But there may be others, haven't checked.\n\nSo ok, this ruling changes what happens in this case for Enzo, at least. Previously the sect would stay Independent and Enzo would retain Anarch status. Now that goes away.",
+      "Id": "87327"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 22, 2018, 5:29\u202FPM",
+      "Body": "> PetriWessman wrote:\n> Advanced Enzo Giovanni, for example. But there may be others, haven't checked.\n>\nAmbrogino Giovanni, Beckett, Ivan Krenyenko, Jack Dawson, Jan Pieterzoon, Kemintiri (?), Lambach, Menele, Nergal, Petaniqua, Tariq the silent.\n\nIf I'm not mistaken.. If basic version of these vampires would acquire anarch status, they would lose it upon merging according to the new rule?\n\nIf I make advanced version of an independent vampire anarch, and then merge it with basic version, is the \"independent\" status re-applied or does the vampire remain anarch?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87329"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 22, 2018, 5:53\u202FPM",
+      "Body": "> Bloodartist wrote:\n> If I make advanced version of an independent vampire anarch, and then merge it with basic version, is the \"independent\" status re-applied or does the vampire remain anarch?\n>\nIf the merged version has a sect designation, then that will apply, cf. Tariq, the Silent.\n\nPlay Tariq, the Silent (Adv), go Anarch. Merge him, and he'll be Independent because the merge text has a sect designation.",
+      "Id": "87330"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "May 23, 2018, 5:40\u202FAM",
+      "Body": "Ok, to be absolutely clear on this:\n\nLet's look at Tariq. His base version is Independent, his Advanced version is Sabbat, and his merge text specifies Independent.\n\nWith him, if either version of him is made Anarch before merge, and then he is merged (either way), he reverts back to Independent (because merge text specifies Independent).\n\nIs this correct?\n\nThen let's look at Enzo Giovanni. Both versions specify Independent, but his merge text does not specify sect.\n\nWith him, it's clear that if the base version is made Anarch and then he is merged, he reverts back to Independent (due to advanced version specifying that sect). But what happens if the advanced version is made Anarch and then merged with the base version? Does he get to stay Anarch then (due to no sect in merge text), or does he still revert to Independent?",
+      "Id": "87367"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 23, 2018, 6:53\u202FAM",
+      "Body": "> PetriWessman wrote:\n> Ok, to be absolutely clear on this:\n>\n> Let's look at Tariq. His base version is Independent, his Advanced version is Sabbat, and his merge text specifies Independent.\n>\n> With him, if either version of him is made Anarch before merge, and then he is merged (either way), he reverts back to Independent (because merge text specifies Independent).\n>\n> Is this correct?\n>\nCorrect. He changes sect when merged.\n\n> PetriWessman wrote:\n> Then let's look at Enzo Giovanni. Both versions specify Independent, but his merge text does not specify sect.\n>\n> With him, it's clear that if the base version is made Anarch and then he is merged, he reverts back to Independent (due to advanced version specifying that sect).\n>\nCorrect.\n\n> PetriWessman wrote:\n> But what happens if the advanced version is made Anarch and then merged with the base version? Does he get to stay Anarch then (due to no sect in merge text), or does he still revert to Independent?\n>\nHe stays Anarch, the sect of the base vampire is ignored, and the sect of the advanced vampire has already been taken into account (then superseded by the Anarch sect)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87370"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 23, 2018, 8:27\u202FAM",
+      "Body": "What a lovely can of worms! :/\n\nFinnish  Politics!",
+      "Id": "87372"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 23, 2018, 12:45\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> What a lovely can of worms! :/\n>\nWhy?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87382"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 24, 2018, 7:57\u202FAM",
+      "Body": "This is a relatively small can of worms, since the amount of advanced vampires who this concerns is rather small ~10. However, I bet some player somewhere goes to play the way he/she thinks it works, and will be surprised in the end if rules lawyers are present.\n\nIt is however somewhat unintuitive since first we have counter placed on a vampire that overrules the card text (anarch counter says that this vampire is now an anarch instead of what is printed on the vampire), then we have card text overruling said counter (merged vampire is now independent instead of being an anarch). It would be clearer if for example counters would always overrule card text, so people could maintain this \"hierarchy\" in their heads what effect is 'stronger'. It would be more intuitive in my opinion. Currently the anarch counter is only a reminder, but it could be the defining factor.\n\nI still prefer anarch and independent being separate sects btw.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87418"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 24, 2018, 9:37\u202FAM",
+      "Body": "> Bloodartist wrote:\n> It is however somewhat unintuitive since first we have counter placed on a vampire that overrules the card text (anarch counter says that this vampire is now an anarch instead of what is printed on the vampire), then we have card text overruling said counter (merged vampire is now independent instead of being an anarch).\n>\nThat should not be a problem, because all cards that make anarch counters should already be stating that the counter burns if the vampire changes sect. In case it is missing on some cards, it might be good to lift that point from individual cards to the core rules, because it is really just saying that sect counters follow the general rules of sects.",
+      "Id": "87422"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 24, 2018, 9:43\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > L\u00F6nkka wrote:\n> > What a lovely can of worms! :/\n> >\n> Why?\n>\nTotally changes how these vamps functioned before (anarch vise).\n\nAnd not in that intuitive way.\n\nFinnish  Politics!",
+      "Id": "87423"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2018, 12:46\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > Bloodartist wrote:\n> > It is however somewhat unintuitive since first we have counter placed on a vampire that overrules the card text (anarch counter says that this vampire is now an anarch instead of what is printed on the vampire), then we have card text overruling said counter (merged vampire is now independent instead of being an anarch).\n> >\n> That should not be a problem, because all cards that make anarch counters should already be stating that the counter burns if the vampire changes sect. In case it is missing on some cards, it might be good to lift that point from individual cards to the core rules, because it is really just saying that sect counters follow the general rules of sects.\n>\nCorrect. Boris' example illustrate the fact that players tend to forget that the anarch counter goes away when the vampire changes sect. That should no longer be the case.\n\nWhat Boris quote as unintuitive has been there long before Anarch becomes a sect on its own: if I control an Advanced vampire who is Independent, and merge it with a base vampire who is Camarilla, does it change sect?\n\nThe answer is no. Is it unintuitive? I don't think so, since the Advanced version is the most advanced version, so it must supersede the base version.\nIf the Advanced vampire has changed sect in the meantime, there is no reason why the base version would suddenly change the sect (THAT would be unintuitive).\n\n> L\u00F6nkka wrote:\n>\n> > Ankha wrote:\n> >\n> > > L\u00F6nkka wrote:\n> > > What a lovely can of worms! :/\n> > >\n> > Why?\n> >\n> Totally changes how these vamps functioned before (anarch vise).\n>\n> And not in that intuitive way.\n>\nOnly if the advanced (or merged) vampire is Independent.\nOtherwise, it works exactly the same way as before: a base Anarch vampire who merges into a Sabbat used to lose its Anarch status before, because changing sect causes the anarch to go.\nAnd an advanced vampire who had become Anarch would have kept his anarch status when merging with a base version, unless the MERGED text states otherwise (another sect)\n\nIf you get used to the idea that Anarch is a sect, it's not unintuitive (replace \"Anarch\" by \"Camarilla\" for instance).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87433"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 24, 2018, 2:45\u202FPM",
+      "Body": "advanced / merged independent vampires that is anarch should be able to keep the anarch sect when merging to follow \"Effects that would affect (or ignore) Independent vampires now affect (or ignore) Independent and Anarch vampires:\"\n\nMaybe a keyword to avoid \"Independent or Anarch\" can help, maybe sectless.\nSectless vampires inherit the independent or Anarch sect when needed.\n\nBanner of Neutrality\nRequires an Sectless vampire. Only usable when a Camarilla or Sabbat vampire is bleeding you.\nReduce the bleed amount by 1.\n\nCommunity Justice\n+1 stealth action. Requires an Sectless vampire.\nBurn a vampire who has diablerized a vampire of the same clan as this acting vampire since your last turn.\n\nExclusion Principle\nSuccessful referendum means each Methuselah gains 1 pool for each ready Sectless vampire he or she controls.\n\nFree States Rant\nRequires an Sectless vampire.\nAllocate X points among one or more ready vampires, where X is half this acting vampire's capacity rounded up. No 4 or more points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point assigned. In this referendum, non-priscus titles are worth 1 less vote each, priscus title is worth 1 less ballot, and burning the Edge is worth 1 additional vote.\n\nHaqim's Law: Judgment\nContract. Trifle.\nLock a ready Sectless Assamite you control to put this card on a younger vampire. Every Independent or Anarch Assamite is considered chosen for this contract. Any Sectless Assamite can enter combat with the attached vampire as a +1 stealth  action.\n\nReckless Agitation\nRequires an Sectless vampire with capacity 5 or more.\nAllocate 6 points among two or more other Methuselahs. Successful referendum means each Methuselah burns 1 pool for each point assigned.\n\nCount Germaine\nIndependent. Red List: Germaine gets +2 bleed against a Methuselah who controls a titled non-Sectless vampire.\n\nHillanvale\nOnce each action, Hillanvale can burn 1 blood and discard one card requiring Melpominee [mel] to get +1 bleed. She gets -1 intercept against non-Sectless vampires.\n\nJan Pieterzoon ADV\nIndependent: Jan can burn 3 blood to cancel a Gehenna card as it is played.\n[MERGED] While Jan is Sectless and there are any Gehenna cards in play, he gets +3 votes.\n\nMatthew Romans\nSabbat: During your unlock phase, Matthew can burn 1 blood to lock a younger non-Sectless vampire controlled by your prey.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87441"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "May 24, 2018, 4:25\u202FPM",
+      "Body": "I'm concerned that some of this would be taking a mad stab at design Intent.\nLike, Jan is presumably just fine with the cam, so is independent. Independent is unaffiliated with anarch, sabbat, cam, laibon, so independent is simply independent. Anarch has things that go on a vamp as card or counter. All burn when sect changes. Anarch has cards that make you anarch with no cards or counters. Those are overridden if sect changes. Its frustrating to play around, but it's not changed much.\n\nNow, Anarch and laibon have fewer minions printed with their sect as default, so maybe we can adjust that, but that's a farther off sort of thing.",
+      "Id": "87444"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 24, 2018, 7:00\u202FPM",
+      "Body": "> Sambomb wrote:\n> Maybe a keyword to avoid \"Independent or Anarch\" can help, maybe sectless.\n> Sectless vampires inherit the independent or Anarch sect when needed.\n>\nUnlikely to work with that word. The key cited motivation for the change is that Paradox WoD treats Anarch as a sect. Labelling it not a sect (sectless i.e. without a sect) in V:TES would run in the exact opposite direction to that.\n\nwww.vekn.net/2-uncategorised/385-vampire-elder-kindred-network-newsletter-november-2017",
+      "Id": "87453"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 25, 2018, 2:33\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Sambomb wrote:\n> > Maybe a keyword to avoid \"Independent or Anarch\" can help, maybe sectless.\n> > Sectless vampires inherit the independent or Anarch sect when needed.\n> >\n> Unlikely to work with that word. The key cited motivation for the change is that Paradox WoD treats Anarch as a sect. Labelling it not a sect (sectless i.e. without a sect) in V:TES would run in the exact opposite direction to that.\n>\n> www.vekn.net/2-uncategorised/385-vampire-elder-kindred-network-newsletter-november-2017\n>\nThey will still be a sect, its just a keyword to group both independent and anarch, this can be switched to another keyword\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87512"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 25, 2018, 3:04\u202FPM",
+      "Body": "> Sambomb wrote:\n> its just a keyword to group both independent and anarch, this can be switched to another keyword\n>\nHence why I wrote \"Unlikely to work with that word\".",
+      "Id": "87513"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 8:38\u202FPM",
+      "Body": "> Sambomb wrote:\n> advanced / merged independent vampires that is anarch should be able to keep the anarch sect when merging to follow \"Effects that would affect (or ignore) Independent vampires now affect (or ignore) Independent and Anarch vampires:\"\n>\nWhy? To keep exactly the same way as before for a 0.01% case noone cared about until now, but at the expense of adding a corner-case rule?\nYou'd better consider it as a \"breaking change\" then.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87527"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 28, 2018, 6:27\u202FPM",
+      "Body": "> Ankha wrote:\n> Banner of Neutrality\n> Requires an Independent or Anarch vampire.\n> ...\n> Community Justice\n> +1 stealth action. Requires an Independent or Anarch vampire.\n> ...\n> Free States Rant\n> Requires an Independent or Anarch vampire.\n> ...\n> Reckless Agitation\n> Requires an Independent or Anarch vampire with capacity 5 or more.\n>\nThese are now recyclable with Garibaldi-Meucci Museum, per card text, correct?\n\n> Ankha wrote:\n> Haqim's Law: Judgment\n> Contract. Trifle.\n> Lock a ready Independent or Anarch Assamite you control to put this card on a younger vampire. Every Independent or Anarch Assamite is considered chosen for this contract. Any Independent or Anarch Assamite can enter combat with the attached vampire as a +1 stealth  action.\n>\nDoes the action to enter combat count as an Anarch action for purposes of CrimethInc?",
+      "Id": "87627"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 29, 2018, 7:30\u202FAM",
+      "Body": "Bump; I'd like an answer to above questions also.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87657"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2018, 8:48\u202FAM",
+      "Body": "> kschaefer wrote:\n>\n> > Ankha wrote:\n> > Banner of Neutrality\n> > Requires an Independent or Anarch vampire.\n> > ...\n> > Community Justice\n> > +1 stealth action. Requires an Independent or Anarch vampire.\n> > ...\n> > Free States Rant\n> > Requires an Independent or Anarch vampire.\n> > ...\n> > Reckless Agitation\n> > Requires an Independent or Anarch vampire with capacity 5 or more.\n> >\n> These are now recyclable with Garibaldi-Meucci Museum, per card text, correct?\n>\nI would have appreciated the cardtext of Garibaldi-Meucci Museum, because the answer is: cardtext.\n\n> kschaefer wrote:\n>\n> > Ankha wrote:\n> > Haqim's Law: Judgment\n> > Contract. Trifle.\n> > Lock a ready Independent or Anarch Assamite you control to put this card on a younger vampire. Every Independent or Anarch Assamite is considered chosen for this contract. Any Independent or Anarch Assamite can enter combat with the attached vampire as a +1 stealth  action.\n> >\n> Does the action to enter combat count as an Anarch action for purposes of CrimethInc?\n>\nYes. If an Anarch vampire takes the action, then it's an action that requires an Anarch vampire. It an Independent vampire takes the action, then it's an action that requires an Independent vampire. See also Derange.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87662"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 29, 2018, 9:09\u202FAM",
+      "Body": "> Ankha wrote:\n> I would have appreciated the cardtext of Garibaldi-Meucci Museum, because the answer is: cardtext.\n>\nSorry but... is this a yes or no?\n\nHere is the museum cardtext if you need it..\n>\n> Garibaldi-Meucci Museum\n> Master\n>\n> Master: unique location.\n> Tap and burn 1 pool during your untap phase to exchange a card in your ash heap that requires an anarch for a card from your hand. Tap before range is determined to end combat between an anarch you control and another anarch.\n>\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87665"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "May 29, 2018, 9:44\u202FAM",
+      "Body": "It does kinda look like you can use Garibaldi-Meucci Museum in your Followers of Set deck to fetch Reckless Agitation now.\n\n-1 Strength",
+      "Id": "87666"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2018, 9:53\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > I would have appreciated the cardtext of Garibaldi-Meucci Museum, because the answer is: cardtext.\n> >\n> Sorry but... is this a yes or no?\n>\n> Here is the museum cardtext if you need it..\n> >\n> > Garibaldi-Meucci Museum\n> > Master\n> >\n> > Master: unique location.\n> > Tap and burn 1 pool during your untap phase to exchange a card in your ash heap that requires an anarch for a card from your hand. Tap before range is determined to end combat between an anarch you control and another anarch.\n> >\n> Banner of Neutrality\n> Requires an Independent or Anarch vampire.\n>\nIf you like stating the obvious, the answer is yes. But you could figure that by yourself, I presume.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87667"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 29, 2018, 9:53\u202FAM",
+      "Body": "> GreyB wrote:\n> It does kinda look like you can use Garibaldi-Meucci Museum in your Followers of Set deck to fetch Reckless Agitation now.\n>\nI just don't see there is any way to misinterpret this, since reckless errata clearly says \"requires an anarch or independent vampire\", but its nice to get an 'official' confirmation.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87668"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 29, 2018, 9:55\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> If you like stating the obvious, the answer is yes. But you could figure that by yourself, I presume.\n>\nExperience has taught me that there is no such thing as \"obvious\" regarding VTES rules. There are no stupid questions, only stupid answers. Rules questions subforum is definitely not the place for stupid answers. Thank you for reminding me once again how unprofessional and casual VTES tournament circuit is.\n\nSome people here merely wanted to know whether you missed this interaction when creating the errata and wanted to errata it again to \"fix it\".\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87669"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2018, 2:04\u202FPM",
+      "Body": "> Bloodartist wrote:\n> Experience has taught me that there is no such thing as \"obvious\" regarding VTES rules.\n>\nMost of the time, you are right, and we are trying to fix it, with clearer and more consistent rule.\nBut sometimes (and this is the case), you just have to follow the card text.\n\n> Bloodartist wrote:\n> Some people here merely wanted to know whether you missed this interaction when creating the errata and wanted to errata it again to \"fix it\".\n>\nAh, that is a real question whose answer isn't \"cardtext\"\n\nWe probably overlooked some interactions (and we knew we would), but Garibaldi-Meucci Museum doesn't need to be fixed, unless it proves to be broken. So, no errata for now.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87682"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "May 29, 2018, 8:30\u202FPM",
+      "Body": "perhaps Garibaldi needs an errata to start requiring an anarch to use the recycle?\n\notherwise im looking forward to recycling ReckAg's without ever intending to be anarch.",
+      "Id": "87703"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jun 26, 2018, 2:18\u202FAM",
+      "Body": "Any chance the rulebook section 10.5 will be changed to reflect the new Anarch rules?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "88391"
+    },
+    {
+      "Author": "ruiza97",
+      "Date": "Jun 30, 2018, 6:37\u202FPM",
+      "Body": "VEKN moves at such a slow pace. It's like you guys have day jobs and are just volunteering y'alls time. /S\n\nPrince of Dallas\nToreador Grand Ball: Dallas\nAugust 13, 2022",
+      "Id": "88477"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 30, 2018, 8:52\u202FPM",
+      "Body": "> the1andonlime wrote:\n> Any chance the rulebook section 10.5 will be changed to reflect the new Anarch rules?\n>\nDone.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88478"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Aug 20, 2018, 3:04\u202FPM",
+      "Body": "When is the database going to be updated with these changes",
+      "Id": "90146"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 20, 2018, 5:39\u202FPM",
+      "Body": "> XZealot wrote:\n> When is the database going to be updated with these changes\n>\nWhat database?\nThe official files are up-to-date www.vekn.net/card-lists\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90149"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Aug 20, 2018, 8:18\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > XZealot wrote:\n> > When is the database going to be updated with these changes\n> >\n> What database?\n> The official files are up-to-date www.vekn.net/card-lists\n>\nAlthough they don't currently reflect the text updates from the most recent reprints (I checked Shalmath and Dagger).\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "90152"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 21, 2018, 5:45\u202FAM",
+      "Body": "The HttB changes are effective since August 18, 2018. I will upload a new file today.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90158"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Sep 5, 2018, 4:25\u202FPM",
+      "Body": "> Ankha wrote:\n> The HttB changes are effective since August 18, 2018. I will upload a new file today.\n>\nThis doesn't appear to have happened yet. Any ETA on when the files will be updated?\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "90442"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 5, 2018, 5:58\u202FPM",
+      "Body": "There was some delay. I will update the files soon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90445"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Nov 3, 2018, 6:42\u202FPM",
+      "Body": "> Ankha wrote:\n> There was some delay. I will update the files soon.\n>\nThe cardlist here still haven't been updated - any news on when that will happen?\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "91656"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Nov 26, 2018, 9:04\u202FPM",
+      "Body": "Does Free States Rant have a limit of 4 per vampire or 3 per vampire?",
+      "Id": "92030"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Nov 26, 2018, 9:33\u202FPM",
+      "Body": "> XZealot wrote:\n> Does Free States Rant have a limit of 4 per vampire or 3 per vampire?\n>\nI'm wondering the same thing. The current card text states \"No 4 or more points can be allocated to each vampire.\" What does this mean exactly? Was the change intended, or is it a copy/paste error? Older versions of the card said \"No more than 3 points can be allocated to each vampire.\"\n\nRequires an Independent or Anarch vampire.\nAllocate X points among one or more ready vampires, where X is half this acting vampire's capacity rounded up. No 4 or more points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point allocated. In this referendum, non-priscus titles are worth 1 less vote each, priscus title is worth 1 less ballot, and burning the Edge is worth 1 additional vote.",
+      "Id": "92031"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 27, 2018, 7:55\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > XZealot wrote:\n> > Does Free States Rant have a limit of 4 per vampire or 3 per vampire?\n> >\n> I'm wondering the same thing. The current card text states \"No 4 or more points can be allocated to each vampire.\" What does this mean exactly? Was the change intended, or is it a copy/paste error? Older versions of the card said \"No more than 3 points can be allocated to each vampire.\"\n>\n> Requires an Independent or Anarch vampire.\n> Allocate X points among one or more ready vampires, where X is half this acting vampire's capacity rounded up. No 4 or more points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point allocated. In this referendum, non-priscus titles are worth 1 less vote each, priscus title is worth 1 less ballot, and burning the Edge is worth 1 additional vote.\n>\nIt should read \"No more than 3\" as before. I have corrected it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92036"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 16, 2019, 9:38\u202FAM",
+      "Body": "> Ankha wrote:\n> Rule change #2: Hunt\n> Vampires now have a hunt value of 1 by default, that indicates how much blood they gain when hunting (from any source). Cards that increase the amount of blood gained by a hunt now states +X hunt.\n> Some cards also reduce the amount of blood gained by a hunt (-X hunt). A hunt is not successful if the amount of blood gained is 0 or less (but the hunt action can still be successful), the same way as bleed works.\n>\nThis appears not to have made it to the online rulebook. Could that be fixed?\n\nThe definition of a hunt action (6.1.2) would be the obvious place. It might be worth having a mention in the Rules Glossary too, which mentions hunt to mean the action, but may be worth mentioning it also means the hunt value.",
+      "Id": "97415"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Nov 10, 2020, 6:58\u202FPM",
+      "Body": "How does Priscus Ballots interact with Fee Stakes \"non-anarch titles are worth one less?\"",
+      "Id": "101088"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 10, 2020, 8:11\u202FPM",
+      "Body": "In the following thread Ankha answered that Prisci are not affected by this.\n\nwww.vekn.net/forum/rules-questions/76452-ballot-vs-fee-stake\n\nPrince of Bonn, Germany",
+      "Id": "101089"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 11, 2020, 7:50\u202FAM",
+      "Body": "> XZealot wrote:\n> How does Priscus Ballots interact with Fee Stakes \"non-anarch titles are worth one less?\"\n>\nTo be exact, Their Ballots are worth 1 less per card text : \"priscus title is worth 1 less ballot\" but the vote provided by the sub-referendum is not affected  [ANK 20180307] .",
+      "Id": "101095"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 13, 2020, 9:24\u202FAM",
+      "Body": "> lip wrote:\n>\n> > XZealot wrote:\n> > How does Priscus Ballots interact with Fee Stakes \"non-anarch titles are worth one less?\"\n> >\n> To be exact, Their Ballots are worth 1 less per card text : \"priscus title is worth 1 less ballot\" but the vote provided by the sub-referendum is not affected  [ANK 20180307] .\n>\n> Do not hesitate to check the card text and rulings on  the Codex for rules question.\n>\nThey were speaking about Fee stakes and not Free state rants",
+      "Id": "101108"
+    }
+  ]
+}

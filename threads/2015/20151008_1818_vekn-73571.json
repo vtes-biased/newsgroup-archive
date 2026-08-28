@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-73571",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/73571-tournament-question",
+  "Title": "Tournament question",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Oct 8, 2015, 6:18\u202FPM",
+      "Body": "How does one enter data into the Archon in this situation.\n\n9 players start and finish 1st round.\n3 players unfortunately have to withdraw, leaving 6 players left\n\nFor the 2nd round, does the top person have a bye and the other 5 players play the 2nd round? Or is there some other way to do this and if so, after putting WD for the 3 players leaving, how would you enter into the Archon?\n\nAny help is appreciated. Thanks.",
+      "Id": "73571"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2015, 5:53\u202FAM",
+      "Body": "> Trigger wrote:\n> How does one enter data into the Archon in this situation.\n>\n> 9 players start and finish 1st round.\n> 3 players unfortunately have to withdraw, leaving 6 players left\n>\n> For the 2nd round, does the top person have a bye and the other 5 players play the 2nd round? Or is there some other way to do this and if so, after putting WD for the 3 players leaving, how would you enter into the Archon?\n>\n> Any help is appreciated. Thanks.\n>\nWell, I hope this situation doesn't happen often\n\nFor the second round, you should go in the \"Round 2\" sheet and edit manually the column \"#\" by entering the number of the players that play. The sixth player doesn't play.\n\nFor instance, you should have \"9 4 2 8 6\" and \"5 3 7 1\" for tables 1 and 2. Change the first five lines to the values of the remining players, and erase the number of table 2.\n\nYou'll also have to override the round in the \"Override\" sheet so the archon doesn't get stuck, waiting for the second table.\nFor that, you just have to create two lines, the first for \"Round\"=2 and \"Table\"=1 and the second line for \"Round\"=2 and \"Table\"=2 (the \"Explanation\" column isn't mandatory).\n\nYou can also play a 6 players game, but that isn't supported by the archon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73576"
+    }
+  ]
+}

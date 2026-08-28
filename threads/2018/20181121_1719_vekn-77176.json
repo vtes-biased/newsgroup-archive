@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-77176",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77176-eagle-s-sight-and-guardian-vigil",
+  "Title": "Eagle's Sight and Guardian Vigil",
+  "Messages": [
+    {
+      "Author": "ResurrectioN",
+      "Date": "Nov 21, 2018, 5:19\u202FPM",
+      "Body": "Can an untapped vampire play Eagle's Sight on a d action crosstable and before block resolves play Guardian Vigil?\n\nIssue is if Guardian attempt to block crosstable is allowed because Eagle's enabled it.\n\nEagle's Sight\n[aus] +1 intercept.\n[AUS] This reacting vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\n\nGuardian Vigil\n[aus] +1 intercept, even if intercept is not yet needed.\n[cel] This anarch gets 1 optional maneuver in the resulting combat if he or she blocks.\n[for] This anarch does not tap for the block.",
+      "Id": "91953"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 21, 2018, 8:47\u202FPM",
+      "Body": "> ResurrectioN wrote:\n> Can an untapped vampire play Eagle's Sight on a d action crosstable and before block resolves play Guardian Vigil?\n>\nYes.\n\nwww.vekn.net/forum/rules-questions/75596-guardian-vigil-and-eagle-s-sight\n>\n> I wrote:\n> You can apply an \"attempt to block\" effect while already attempting to block.\n>\n> Precedent: Eagle Sight, followed by Black Sunrise  [LSJ 20050708]\n>\n> > LSJ wrote:\n> > .\n> > >>>A sequence that does work is: Wake with Evening's Freshness, (Superior)\n> > >>>Eagle's Sight, (Superior) Black Sunrise.\n> > >>\n> > >>Correct.\n> > >\n> > > Eagle's Sight: Reaction, Auspex\n> > > [aus] This reacting vampire gets +1 intercept.\n> > > [AUS] This reacting vampire attempts to block the current action,\n> > > ignoring the normal prey, predator or target restrictions for blocking\n> > > actions.\n> > >\n> > > Since Eagle's Sight at [AUS] causes a block attempt, don't you lose the\n> > > window in which to play Black Sunrise (to untap and attempt to block)?\n> >\n> > No. You may attempt to block while attempting to block. It is\n> > indeed difficult to do otherwise.\n> >\n> Note that if you aren't an ordinarily eligible blocker then in the case of Guardian Vigil and Eagle's Sight, you need to play the Eagle's Sight first. Since Guardian Vigil makes you attempt to block, you must be an eligible blocker before you play it.\n>",
+      "Id": "91956"
+    },
+    {
+      "Author": "Revenant",
+      "Date": "Nov 21, 2018, 11:14\u202FPM",
+      "Body": "Can we please have Ankha review this issue and make the ruling, since i understand he is the main rules guy and has the final word. Thank you.",
+      "Id": "91957"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 22, 2018, 8:31\u202FAM",
+      "Body": "> Revenant wrote:\n> Can we please have Ankha review this issue and make the ruling, since i understand he is the main rules guy and has the final word. Thank you.\n>\nIf you follow the link given, you can see that Ankha gave a \"Thanks\" to my previous post.",
+      "Id": "91963"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 22, 2018, 2:14\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Revenant wrote:\n> > Can we please have Ankha review this issue and make the ruling, since i understand he is the main rules guy and has the final word. Thank you.\n> >\n> If you follow the link given, you can see that Ankha gave a \"Thanks\" to my previous post.\n>\nCorrect. There has been a debate about it, and LSJ's ruling stands.\nRulebook has also been edited:\n\n> 6.2.2. Resolve Any Block Attempts\n> ...\n> A minion can attempt to block as many time as they wish as long as another minion is not already blocking.\n>\nwww.vekn.net/rulebook#6.2.2.resolveanyblockattempts\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "91965"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 26, 2018, 11:01\u202FAM",
+      "Body": "I have one question about Guardian Vigil,about this part:\n[for] This anarch does not tap for the block.\n\nWhat hapen if action continue? is this part of text still work?",
+      "Id": "92013"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 26, 2018, 2:27\u202FPM",
+      "Body": "> beslin wrote:\n> I have one question about Guardian Vigil,about this part:\n> [for] This anarch does not tap for the block.\n>\n> What hapen if action continue? is this part of text still work?\n>\nYes, as well as the [cel] level of the card if there is another block and another combat resulting from the block.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92017"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Nov 26, 2018, 5:15\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > beslin wrote:\n> > I have one question about Guardian Vigil,about this part:\n> > [for] This anarch does not tap for the block.\n> >\n> > What hapen if action continue? is this part of text still work?\n> >\n> Yes, as well as the [cel] level of the card if there is another block and another combat resulting from the block.\n>\nI did not expect this so to make it more clear:\n\nVampire attempts to block action at 0 stealth and plays Guardian Vigil at [cel], [aus], [for]\nThe vampire has +1 intercept for duration of the action.\nBlock is successful and the vampire doesn't tap.\nHe has a maneuver in resulting combat.\n\nIn resulting combat opposing vampire plays Form of Mist at superior to continue the action at +1 stealth.\nAction continues.\n\nThe vampire attempts to block again with +1 intercept.\nThe blocking vampire doesn't tap and has maneuver in resulting combat.\n\nIs above correct?\n\nI was under the impression that [cel] and [for] effect would be there only for the current block attempt (current being when the card is played).",
+      "Id": "92022"
+    },
+    {
+      "Author": "Viper",
+      "Date": "Nov 26, 2018, 5:34\u202FPM",
+      "Body": "Like pointed earlier, the effect of the card lasts until the action ends. The same applies to cards like Precognition or Spirit's Touch, to name some.\n\nKey text is \"in the resulting combat\". If you block an action with any of the said cards and the opposing vampire plays SUP Form of Mist, then the next block attempt at that action from the same blocking vampire would incur in a resulting combat (assuming you are able to block) and enabling those effects again.",
+      "Id": "92023"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 27, 2018, 7:57\u202FAM",
+      "Body": "> ResurrectioN wrote:\n> Vampire attempts to block action at 0 stealth and plays Guardian Vigil at [cel], [aus], [for]\n> The vampire has +1 intercept for duration of the action.\n> Block is successful and the vampire doesn't tap.\n> He has a maneuver in resulting combat.\n>\n> In resulting combat opposing vampire plays Form of Mist at superior to continue the action at +1 stealth.\n> Action continues.\n>\n> The vampire attempts to block again with +1 intercept.\n> The blocking vampire doesn't tap and has maneuver in resulting combat.\n>\n> Is above correct?\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92037"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Nov 29, 2018, 8:18\u202FAM",
+      "Body": "Sorry for continuing down this questions path but better to know now then argue during a game:\n\nEffects of Guardian Vigil carry on onto 2nd block and block attempt if action is continued after 1st one.\n(As Ankha confirmed above)\n\nHow come effect of Eagle's Sight doesn't carry over for 2nd block attempt?\nvtesone.wordpress.com/2015/10/28/did-you-know-that-part-131/?fbclid=IwAR2-8_XallD8WpWmX5BvPilkRcv8Wbwr9ASGeDSFIMW2Uyat6JmeXLSFjPc\n\nIt's unintuitive why it works for Guardian Vigil and not for Eagle's Sight.\n\nThank you guys for clearing up thing so far!",
+      "Id": "92126"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 29, 2018, 5:28\u202FPM",
+      "Body": "> ResurrectioN wrote:\n> How come effect of Eagle's Sight doesn't carry over for 2nd block attempt?\n> vtesone.wordpress.com/2015/10/28/did-you-know-that-part-131/?fbclid=IwAR2-8_XallD8WpWmX5BvPilkRcv8Wbwr9ASGeDSFIMW2Uyat6JmeXLSFjPc\n>\nBecause the thing that ignores \"the normal prey, predator or target restrictions for blocking actions\" is the block attempt, not the minion.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92146"
+    }
+  ]
+}

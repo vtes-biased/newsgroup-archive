@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-32113",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/jol/32113-missing-features-and-smartphone-development",
+  "Title": "Missing features and smartphone development",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2012, 4:54\u202FAM",
+      "Body": "Hi there,\nI was asking myself who is behind JOL and who has the source code or documentation of it?\n\nI think JOL's missing the following commands:  random discard from hand.\nCurrently, we're obliged to label cards, call random X times, discard labelled cards.\nSuggested syntax: discard 3 random move to top of the library.\nUseful for some cards such as Sudario's Refraction, Hourglass of the Mind. Currently, we're obliged to move them to the uncontrolled region and label them.\nSuggested syntax: move [SRCPLAYER] [SRCREGION] CARD [DESTPLAYER] [TOP] [DESTREGION] [DESTCARD], eg. move hand 3 top library choose secret value\nUseful for cards such as Malkavian Prank (where users must choose a secret number of pool). There's currently no way of doing this except sending some mails to a trusted person that will check and send back results\nSuggested syntax: secret [VALUE]\nand reveal [PLAYER].  Eg. > secret 3\nAnkha has chosen a secret value\n> reveal (or reveal Ankha)\nAnkha had chosen: 3\n\nAnd I'd like a command like 'burn X' that would be a shortcut for 'move X ash'.\n\nAlso, some commands could be expanded, such as discard:\ndiscard CARD1 CARD2 ... CARDn [draw]\nIn order to discard multiple cards at the same time. Typing n commands is long and can be tricky sometimes because the card number may change if you're not careful.\n\nGiven the source code, I think I could develop this quite easily.\n\nI'd also like to know if JOL exposes some web service in order to develop a JOL application for mobile phone.\n\nThat's all!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32113"
+    },
+    {
+      "Author": "alf",
+      "Date": "Jun 14, 2012, 1:45\u202FPM",
+      "Body": "JOL is done by George Finklang.\nBest bet is propably to reach him on JOL (George).\n\nSmartphone works fine for me on iOS.\nOnly feature that doesn't work for me there is a missing button on main chat, and no return shown on keyboard input.\nSo I'can't approve my message.\n\nI'm not really missing anything of the stuff you're mentioning so far.\nBut I don't play lots of Ashur decks and such.\n\n-alf\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "32126"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2012, 2:31\u202FPM",
+      "Body": "Thanks, I'll try to contact him.\n\n> alf wrote:\n> Smartphone works fine for me on iOS.\n>\nIt doesn't work on Android because you can't scroll down in the chat window, so you quickly can't see what's happening anymore.\nAnd I had in mind to create a user friendl interface for smartphones.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32127"
+    },
+    {
+      "Author": "rehlow",
+      "Date": "Jun 21, 2012, 3:23\u202FAM",
+      "Body": "I can scroll on my Droid Asus tablet both on Honeycomb and Ice Cream Sandwich. The initial chat screen is hella long though.\n\nI keep thinking one day I'll develop an app to play JOL. I'd like to add buttons to type bleed, tap, untap, etc into the command window so I don't have to type them. Also, I think I could better arrange screen real estate. Then life keeps me from starting.\n\nLater,\nRehlow",
+      "Id": "32334"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 21, 2012, 5:01\u202FAM",
+      "Body": "> rehlow wrote:\n> I can scroll on my Droid Asus tablet both on Honeycomb and Ice Cream Sandwich. The initial chat screen is hella long though.\n>\n> I keep thinking one day I'll develop an app to play JOL. I'd like to add buttons to type bleed, tap, untap, etc into the command window so I don't have to type them. Also, I think I could better arrange screen real estate. Then life keeps me from starting.\n>\n> Later,\n> Rehlow\n>\nThat's what I had in mind, but first I need to know how to communicate with JOL (thus contacting George... anyone has his mail address?)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32336"
+    },
+    {
+      "Author": "alf",
+      "Date": "Jun 21, 2012, 5:21\u202FAM",
+      "Body": "I'd ask at JOL or check the site deckserver.net for a hint.\n\n-alf\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "32339"
+    },
+    {
+      "Author": "alf",
+      "Date": "Jun 22, 2012, 4:24\u202FAM",
+      "Body": "a quick search with your-favourite-search-engine(tm) revealed:\ngeorge (DOT) finklang (AT) gmail (DOT) com\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "32369"
+    }
+  ]
+}

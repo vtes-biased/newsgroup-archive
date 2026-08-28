@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-77232",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77232-zephyr-timing",
+  "Title": "Zephyr Timing",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 18, 2018, 8:01\u202FPM",
+      "Body": "When is Zephyr played? By its card text, it's after resolution of an unsuccessful action, but (assuming the action is unsuccessful due to being blocked) does that mean it is played before the resulting combat, or after? Unlike Freak Drive, it doesn't contain \"play after combat, if any\" text, which makes me think that it's played after being blocked but before combat begins.\n\n6.2.3. Resolve the Action\nIf the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place. If the action is blocked, then any card played to take the action is burned (it is moved to the ash heap) and the blocking minion is locked and enters combat with the acting minion (see Combat, sec. 6.4).\n\nName: Zephyr\nCardtype: Action Modifier\nDiscipline: Celerity\nOnly usable after resolution of an unsuccessful action.\n[cel] Unlock this vampire at the end of the turn.\n[CEL] Unlock this vampire.",
+      "Id": "92483"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Dec 18, 2018, 9:03\u202FPM",
+      "Body": "End of the action.\nParenthetical is supposed to be for reminder stuff now.\nSo treat it like freak drive for squishy vampires.\n[Realized that was vague]\nIt's one of those things where it's still \"during \" the action even though it was blocked, the card could potentially benefit from the parenthetical part.(only it and IT, from Danse, seem to lack it in the cards I use often...)The whole thing is done at roughly the point where you play this. Similar but not the same is the parenthetical \"after resolving the action \" on forced march. Obviously, more likely to have no combat with FM than  FD, and I'm pretty sure you can use it on the way to torpor.\nCats guidance works in this window too.\nUnrelated, but it helped me remember to play it if I thought of it as a reacting FD timing.",
+      "Id": "92489"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 19, 2018, 1:12\u202FPM",
+      "Body": "> Kushiel wrote:\n> When is Zephyr played? By its card text, it's after resolution of an unsuccessful action, but (assuming the action is unsuccessful due to being blocked) does that mean it is played before the resulting combat, or after? Unlike Freak Drive, it doesn't contain \"play after combat, if any\" text, which makes me think that it's played after being blocked but before combat begins.\n>\n> 6.2.3. Resolve the Action\n> If the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place. If the action is blocked, then any card played to take the action is burned (it is moved to the ash heap) and the blocking minion is locked and enters combat with the acting minion (see Combat, sec. 6.4).\n>\nIf the minion is blocked, the resolution of the action is some stuff + lock + combat (as described above in 6.2.3).\nAfter resolution means after that (so yes, after combat).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92505"
+    }
+  ]
+}

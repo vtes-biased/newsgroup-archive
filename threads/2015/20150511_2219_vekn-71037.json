@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-71037",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/71037-time-auctioning-parmenides",
+  "Title": "Time Auctioning Parmenides",
+  "Messages": [
+    {
+      "Author": "prestonp",
+      "Date": "May 11, 2015, 10:19\u202FPM",
+      "Body": "My prey plays Paramenides who comes to me because of his special text: \"Independent: When you move Parmenides from your uncontrolled region to your ready region, your predator takes control of Parmenides until your next untap phase. +1 strength. (Blood Cursed)\"\n\nOn my master phase, I play Malkavian Time Auction which reads, \"Choose a card you control. Starting to your left and proceeding clockwise, other Methuselahs may bid pool for control of that card. Highest bidder takes control of the card. You collect pool from the two highest bidders.\"\n\nSo if the winner of the auction is NOT my prey, that player gains control of Paramenides. I think this will override his clause to change control back to my prey, but I'm not sure.",
+      "Id": "71037"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2015, 3:51\u202FAM",
+      "Body": "> prestonp wrote:\n> So if the winner of the auction is NOT my prey, that player gains control of Paramenides. I think this will override his clause to change control back to my prey, but I'm not sure.\n>\nCorrect. The player who won the auction gains permanent control of Parmenides. When the temporary change of control ends, nothing happens.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71039"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 13, 2015, 5:25\u202FPM",
+      "Body": "Parmenides wording breaks that effect. You only have control of him until his original controllers next untap phase. Even if you auction him off, he returns to his original controller by card text.\n\nIs there a ruling somewhere else that states otherwise?",
+      "Id": "71067"
+    },
+    {
+      "Author": "prestonp",
+      "Date": "May 13, 2015, 5:27\u202FPM",
+      "Body": "By extension, if I have a way to have more than 1 master phase action, if I play Malkavian Dementia to steal a vampire and then auction him, I assume that that is for permanent control. Correct?",
+      "Id": "71068"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 13, 2015, 5:30\u202FPM",
+      "Body": "> XZealot wrote:\n> Parmenides wording breaks that effect. You only have control of him until his original controllers next untap phase. Even if you auction him off, he returns to his original controller by card text.\n>\nThat's the same with pretty much all temporary control effects - they last until a certain time, and then expire.\n\n> XZealot wrote:\n> Is there a ruling somewhere else that states otherwise?\n>\nYes.\n\n[LSJ 20010330]\n>\n> LSJ wrote:\n> > You can use Malkavian Time Auction to auction off \"a card you control\". I\n> > presume that even if this is a card you temporarily control (e.g. thru Mind\n> > Rape, Temptation, or Malkavian Dementia), the new owner will take permanent\n> > control of this card.\n> >\n> > Could someone confirm or deny this??\n>\n> Confirmed.\n> Any change of permanent control effective terminates all lingering temporary\n> control effects.\n> The new permanent controller takes undisputed permanent control.\n>",
+      "Id": "71069"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 13, 2015, 5:31\u202FPM",
+      "Body": "> prestonp wrote:\n> By extension, if I have a way to have more than 1 master phase action, if I play Malkavian Dementia to steal a vampire and then auction him, I assume that that is for permanent control. Correct?\n>\nYes, and the temporary control effect of the Malkavian Dementia is terminated by the permanent change of control.",
+      "Id": "71070"
+    }
+  ]
+}

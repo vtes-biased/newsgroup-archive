@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-80911",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80911-can-you-use-gathii-s-and-or-boleslaw-s-abilities-when-you-dont-need-stealth",
+  "Title": "Can you use Gathii's and/or Boles\u0142aw's abilities when you dont need stealth?",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 21, 2023, 8:32\u202FAM",
+      "Body": "Can you use Gathii's and/or Boles\u0142aw's abilities when you don't need stealth?\n\nThey seem to be worded in a way, that the first sentence is the \"main effetct\" (in Boles\u0142aw's case cost and effect) and after the Period, in the sentence is a rider effect, depended on the main effect.\n\nSimilarly like \"khabar: community\" doesnt stop you form bleeding, because you dont need stealth at this point, but Bleeds now have stealth.\n\nGathii\n\nAnarch: During an Action Gathii performs, you can reveal the top card of your library. If this is a Master card, he burns 1 blood; otherwise he gets +1 stealth.\n\nBoles\u0142aw Gutowski\n\nAnarch: During an action he performs, Boles\u0142aw can burn 1 blood to reveal the top card of your crypt and then shuffle your crypt. If the revealed card is a copy of Boles\u0142aw, Boles\u0142aw gets +1 stealth for this action; otherwise, he gets +1 strength for this action.",
+      "Id": "109617"
+    },
+    {
+      "Author": "Draud",
+      "Date": "Oct 22, 2023, 9:38\u202FAM",
+      "Body": "Since it doesn't tell you \"even when it's not needed\" you can't perform the ability because rules prohibit the posibility of doing something you can't acomplish.",
+      "Id": "109623"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 23, 2023, 8:09\u202FAM",
+      "Body": "> Draud wrote:\n> Since it doesn't tell you \"even when it's not needed\" you can't perform the ability because rules prohibit the posibility of doing something you can't acomplish.\n>\nThe text of the cards follows the \"during x, do y\" format where \"y\" isnt prohibited and have a secondary conditional effect \"z\" related to what \"y\" was that could result in a potentially prohibited effect....as the played effect isnt prohibited it should be playable and similar to playing Vast Wealth, that could result in that the first equipment found is not useable and would be burned/not equipped, the effect \"z\" if prohibited would just be lost.",
+      "Id": "109637"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 30, 2023, 10:23\u202FAM",
+      "Body": "Ankha can we have an official answer please, thanks.",
+      "Id": "109700"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 31, 2023, 1:39\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> Can you use Gathii's and/or Boles\u0142aw's abilities when you don't need stealth?\n> They seem to be worded in a way, that the first sentence is the \"main effetct\" (in Boles\u0142aw's case cost and effect) and after the Period, in the sentence is a rider effect, depended on the main effect.\n>\nYou can use it anytime, but you don't gain the stealth if you don't need it. From the rulebook: \"Stealth can be added during an action only when needed, that is, only if the action is currently being blocked and the blocking minion has enough intercept to block the acting minion.\"\n\nThis is because the outcome of the coin flip is not known, so you can use the effect. And if you would gain stealth but the condition \"if the action is currently being blocked and the blocking minion has enough intercept to block the acting minion\" is not met, then you don't get stealth (since stealth can't be added in that case). See also ruling about The Portrait: groups.google.com/g/rec.games.trading-cards.jyhad/c/AhLw5v3abjU/m/L4d8Qv_C2osJ\n\nThe +1 strength effect always work since there's no restriction about gaining strength during an action.\n\n> Hobbesgoblin wrote:\n> Similarly like \"khabar: community\" doesnt stop you form bleeding, because you dont need stealth at this point, but Bleeds now have stealth.\n>\nThe difference is that the Khabar: Community doesn't provide temporary stealth for the current action. See also the ruling about superior Repulsion: groups.google.com/g/rec.games.trading-cards.jyhad/c/TinQ8ywzIHU/m/-zW_hcYbiD4J\n\nSo the safe way to use its ability is to trigger it when you are being blocked if you're trying to get stealth.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109706"
+    }
+  ]
+}

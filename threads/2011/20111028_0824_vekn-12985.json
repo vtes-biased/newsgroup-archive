@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-12985",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12985-infectious-question",
+  "Title": "Infectious question",
+  "Messages": [
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Oct 28, 2011, 8:24\u202FAM",
+      "Body": "Okay this card:\n\nInfection\nType: Combat\nRequires: Thanatosis/Fortitude\nCost: 2 blood\n[for] Prevent all damage from the opponent's strikes this round.\n[thn] Prevent all damage to a ghoul (ally or retainer) in combat. Usable by a vampire not involved in the combat.\n[THN] Only usable at the end of a round in which this vampire successfully inflicted damage on the opposing vampire. Put this card on the opposing vampire. The vampire with this card cannot block the vampire playing this card.\n\nDoes the underlined text say the ghoul prevents all damage taken during the combat. Every single round...?",
+      "Id": "12985"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2011, 8:33\u202FAM",
+      "Body": "No, you\n- Prevent all damage\ndone to\n- a ghoul in combat.\n\nSo if during the damage resolution step the ghoul is taking 1 (hand strike) + 2 (carrion crows) damage, you prevent that 3 damage at that time.\nDamage dealt during additional strikes or subsequent rounds will have to be prevented by other cards.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "12986"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Oct 28, 2011, 8:34\u202FAM",
+      "Body": "all damage from current strike resolution damage.\n\nThat could be Carrion Crows plus first strike of oposing minion all together",
+      "Id": "12987"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 28, 2011, 9:04\u202FAM",
+      "Body": "> Ankha wrote:\n> No, you\n> - Prevent all damage\n> done to\n> - a ghoul in combat.\n>\n> So if during the damage resolution step the ghoul is taking 1 (hand strike) + 2 (carrion crows) damage, you prevent that 3 damage at that time.\n> Damage dealt during additional strikes or subsequent rounds will have to be prevented by other cards.\n>\nCorrect.  [LSJ 20040704]\n\nEDIT: in acbishop's \"this could be carrion crows and first strike of the opposing minion altogether\", \"first\" should be read as \"initial non-first-strike strike\"",
+      "Id": "12989"
+    }
+  ]
+}

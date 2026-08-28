@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-82872",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82872-automatic-effects-confirmation-needed-flesh-of-marble",
+  "Title": "Automatic effects Confirmation needed (Flesh of Marble)",
+  "Messages": [
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Mar 10, 2026, 10:39\u202FAM",
+      "Body": "Dear all,\n\nIf there is an automatic effect that should trigger, can you please confirm that there is a window to use non automatic effect first?\n\nHere is an example.\nMy plays Flesh of Marble, then recieve 1 damage during the current round of combat.\nWhen they recieve more damage, is there a window to activate prevent effects before Flesh of Marble automaticly prevent all that damage.\n\nRelevant card text:\n[]uFlesh of Marble:[/u]\nThis combat, if a damage is successfully inflicted on this vampire in a given round, any additional damage inflicted on this vampire in the same round is automatically prevented. Aggravated damage cannot be prevented this way.\n\nThanks in advance,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116604"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Mar 10, 2026, 12:21\u202FPM",
+      "Body": "don\u00B4t know if is your case, but instead of \"take\" 1 damage to trigger FoM, you can use other preventions before to cicle your hand, then take 1 and leave the rest of damage to FoM\n\nthe card text seens to be no time to use nothing before it is automatically prevent once triggered\n\nDavid Resende - Prince of Teresina",
+      "Id": "116610"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Mar 10, 2026, 12:47\u202FPM",
+      "Body": "Thanks David.\n\nYour 2nd sentence is the one I would need a confirmation.\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116611"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Mar 10, 2026, 10:18\u202FPM",
+      "Body": "Hi,\n\nSo good example is Flak Jacket\n\nWarning: Spoiler!\n\nEquipment.\nThe minion with this equipment may prevent 1 damage each combat.\n\nIf minion haves this on, he can select to prevent 1 point using this, then take 1 damage after it, thus triggering rest of prevention at that point.\n\nHope this helps.",
+      "Id": "116621"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Mar 10, 2026, 10:27\u202FPM",
+      "Body": "If you are looking to stop aggravated damage,\nthen see skin of night:\n\nWarning: Spoiler!\n\nFortitude This vampire treats aggravated damage as normal damage for the remainder of this round.\nSuperior Fortitude As above, and prevent 1 damage.\n\nDMG allocation will be, 1 from Skin, then 1 damage to trigger , however, you can select at what point you take that 1 damage.\n\nThe vampire preventing the damage can choose which one of the damage he does not prevent, normal or aggravated. if there are more then 1 sources at same resolution step.",
+      "Id": "116622"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 11, 2026, 6:03\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> Dear all,\n> If there is an automatic effect that should trigger, can you please confirm that there is a window to use non automatic effect first?\n>\nIn a given round, when you receive X damage in the strike resolution (not counting additional strikes), you can choose which damage you prevent or how. The damage during a strike resolution is dealt all at the same time. I am not sure what the confusion is here, its not a timing issue. As long as you take 1 damage from SOMEwhere, flesh of marble prevents the rest. However, you must take that one damage for the card to do anything.\n\nAs a more literal example: Assume opponent has superior Carrion crows, you have superior of flesh of marble, opponent does hand strike for 3 aggravated. You now have 2 normal and 3 aggravated to deal with. You choose to take 1 normal from carrion crows, and all the rest is prevented. If opponent does additional strikes, they are also all prevented.\n\nIf instead you have superior flesh of marble and flak jacket, and opponent strikes for 2 normal and 3 aggravated, nothing really changes. You dont even need flak jacket here. You can just take the same 1 normal and prevent the rest. I am not sure why would you ever want to prevent damage specifically with the jacket if you can avoid it.\n\nIf you have superior flesh of marble and flak jacket, opponent strikes for 1 aggravated, you can choose to prevent the 1 aggro with the jacket. If opponent instead strikes for 2+ aggravated only, then you are cooked. There is no way to avoid taking the 1 aggro.\n\nIf you are looking for ways to use flesh of marble and not die to aggravated damage, skin of night, adaptability or repair the undead flesh are useful.\n\nA classic combo is the use of zip gun, which does damage to you as well as the opponent. But this is damage you can choose to take with flesh of marble and prevent whatever opponent does.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "116626"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 11, 2026, 7:14\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> Dear all,\n>\n> If there is an automatic effect that should trigger, can you please confirm that there is a window to use non automatic effect first?\n>\n*nitpicking on*\n\"Confirm\" implies that the assertion is right. I don't think it's the right term to use when asking a question.\nAs it is, I cannot confirm something that is wrong.\n\n> R\u00E9mi wrote:\n> My plays Flesh of Marble, then recieve 1 damage during the current round of combat.\n> When they recieve more damage, is there a window to activate prevent effects before Flesh of Marble automaticly prevent all that damage.\n>\nI assume you mean you take a total of X damage at the same time (rather than 1, then later on, a new batch of damage).\nWhen receiving damage, you can choose to prevent it or not. If you don't, the first damage is applied as usual, then the rest is automatically prevented by FoM.\nOnce FoM has kicked in, it's too late to play other means of prevention, since you cannot prevent damage that is already prevented.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116629"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Apr 24, 2026, 1:01\u202FPM",
+      "Body": "Thank Vincent, my assertion was wrong so it'll help me a lot for further doubts.\n\nLet's see a more detailled example. I think BloodArtist answered but I'm still not sure I have fully understood.\n\n1- My vampire plays Flesh of Marble\n2 -The oposing minion suffesfully inflict 1 damage to my minion during the initail Strike Resolution.\n3 - The oposing minion uses an additional strike and try to inflict a new batch of damage to my vampire\n\nCan my vampire use any other effect than Flesh of Marble to prevent that new batch of damage or not?\n\nThanks in advance,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116905"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 24, 2026, 3:02\u202FPM",
+      "Body": "> R\u00E9mi wrote:\n> Thank Vincent, my assertion was wrong so it'll help me a lot for further doubts.\n>\n> Let's see a more detailled example. I think BloodArtist answered but I'm still not sure I have fully understood.\n>\n> 1- My vampire plays Flesh of Marble\n> 2 -The oposing minion suffesfully inflict 1 damage to my minion during the initail Strike Resolution.\n> 3 - The oposing minion uses an additional strike and try to inflict a new batch of damage to my vampire\n>\n> Can my vampire use any other effect than Flesh of Marble to prevent that new batch of damage or not?\n>\nYes. Then Flesh of Marble prevents the damage that have been left unprevented.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116911"
+    }
+  ]
+}

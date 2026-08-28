@@ -1,0 +1,170 @@
+{
+  "ThreadId": "vekn-81563",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81563-break-the-bonds-presence-target",
+  "Title": "Break the Bonds presence target",
+  "Messages": [
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 26, 2024, 12:36\u202FPM",
+      "Body": "In the discord, during a discussion about the announcement requirements for the presence effect of Break the Bonds (and similar) @hobbesgoblin found a ruling by LSJ.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/j5ShUmUt-vM/m/E0CqmXp_R0IJ\n\nThis seems to contradict the rulebook, which states:\n\nAll details of the action are defined when the action is announced, including the target(s), the cost, the effects, and so on.\n\nFor me it would be logical that the target for the blood gain with pre should be announced as the card is played, as it is clearly a detail of the action. So imo the LSJ ruling might be hard to deduce by card text and rulebook alone.\n\nSo I wanted to confirm if LSJ's ruling still stands.",
+      "Id": "111818"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 26, 2024, 2:02\u202FPM",
+      "Body": "obf and pre effect only occur if the bleed is sucefull (bleed for 1 or more) only this time the requeriment are fullfiled and the targets choice\n\nDavid Resende - Prince of Teresina",
+      "Id": "111821"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 26, 2024, 2:24\u202FPM",
+      "Body": "Thats clear. However, what we were unsure about is if you need to announce the target of pr (+1 blood uncontrolled) during action announcement or later",
+      "Id": "111822"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 26, 2024, 2:53\u202FPM",
+      "Body": "later, only if the bleed suceed\n\nDavid Resende - Prince of Teresina",
+      "Id": "111823"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jun 27, 2024, 12:04\u202FAM",
+      "Body": "Does this also means that, hypothetically, if the uncontrolled vampire somehow gets removed during the action, BtB will fizzle?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "111824"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 27, 2024, 3:34\u202FAM",
+      "Body": "Nope, if the bleed for 1 or more and need to choose someone on your uncontrolled region and therenos noone there, you just waste the free bloat\n\nDavid Resende - Prince of Teresina",
+      "Id": "111825"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 27, 2024, 7:23\u202FAM",
+      "Body": "> the1andonlime wrote:\n> Does this also means that, hypothetically, if the uncontrolled vampire somehow gets removed during the action, BtB will fizzle?\n>\nYes because of not having a valid target (not having any vampires in the uncontrolled region, declaring of targets for conditional effects is only done when and if that effect actually triggers), the BtB action (which is to bleed) is not what fizzles but only the non-optional conditional effect of adding 1 blood to a vampire in your uncontrolled region (if the  effect was announced when playing the card.)",
+      "Id": "111826"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 27, 2024, 3:18\u202FPM",
+      "Body": "For Dabbler for instance, the player can announce all three effects? fullfil the dabbler codition even if pre or obf effects don't thrigger because of lack of targets?\n\nDavid Resende - Prince of Teresina",
+      "Id": "111831"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 28, 2024, 4:52\u202FAM",
+      "Body": "> DavidR wrote:\n> For Dabbler for instance, the player can announce all three effects?\n>\nYes, assuming all requirements for a legal play are met.\n\n> DavidR wrote:\n> fullfil the dabbler codition even if pre or obf effects don't thrigger because of lack of targets?\n>\nYes, but note that the  effect cannot be announced if one doesn\u2019t have any vampires in one\u2019s uncontrolled region as it isn\u2019t an optional effect and therefore even though declaring of targets isn\u2019t done until and only if the effect triggers there still needs to exist valid targets to fulfill the \u201Cvalid target existence\u201D requirement for the effect.",
+      "Id": "111833"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 28, 2024, 6:43\u202FAM",
+      "Body": "Break the Bond\nAction Requires an Anarch. More than one Discipline can be used to play this card. (D) Bleed. [ani] The bleed is with +1 bleed. [obf] If the bleed is successful, you can lock a minion controlled by the target Methuselah. [pre] If the bleed is successful, add 1 blood to a vampire in your uncontrolled region.\n\n> Oracle.kid wrote:\n> In the discord, during a discussion about the announcement requirements for the presence effect of Break the Bonds (and similar) @hobbesgoblin found a ruling by LSJ.\n>\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/j5ShUmUt-vM/m/E0CqmXp_R0IJ\n>\n> This seems to contradict the rulebook, which states:\n>\n> All details of the action are defined when the action is announced, including the target(s), the cost, the effects, and so on.\n>\n> For me it would be logical that the target for the blood gain with pre should be announced as the card is played, as it is clearly a detail of the action. So imo the LSJ ruling might be hard to deduce by card text and rulebook alone.\n>\n> So I wanted to confirm if LSJ's ruling still stands.\n>\nLSJ's (still valid) ruling is about a bleed action with an optional effect depending on something that is not known upon declaration (the bleed amount vs the cost of the ally). It is not relevant in the case of Break the Bonds which is a bleed action but with a mandatory effect that is well defined.\n\nIf you want to use the [pre] effect of Break the Bond, you need to choose a vampire in your uncontrolled region when declaring the action (so you cannot use the [pre] effect if you don't have any vampire in it).\n\n> the1andonlime wrote:\n> Does this also means that, hypothetically, if the uncontrolled vampire somehow gets removed during the action, BtB will fizzle?\n>\nNo. First of all, it's a bleed action targeting your prey, not an action targeting a vampire in your uncontrolled region. Secondly, in the case of actions with multiple targets, you resolve as many parts as possible of the action's effect. The action fizzles only if all the targets are no longer eligible.  RTR 8-AUG-8\n\n> RTR wrote:\n> If one of the multiple targets becomes ineligible during the course of the\n> action, then it's handled just as if it had always been ineligible. The action\n> resolves on the remaining targets as above.\n>\n> Non-existant user wrote:\n> Public trusts works the same then?\n>\nCorrect, you cannot play Public Trust at superior if you don't have a vampire in your uncontrolled region, and you need to declare which vampire will get the blood.\n\nPublic Trust\nAction [pre] (D) Bleed with +2 bleed. [PRE] As above, and if the bleed is successful (for 1 or more), add 1 blood to a vampire in your uncontrolled region.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111834"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 28, 2024, 7:11\u202FAM",
+      "Body": "> Ankha wrote:\n> LSJ's (still valid) ruling is about a bleed action with an optional effect depending on something that is not known upon declaration (the bleed amount vs the cost of the ally).\n>\nInteresting to see that you derived from the below that it is to be limited to unknow facts of just e.g. bleed value but it doesn't include the unknown facts of if the qualifier for the conditional effect is met or not.\n>\n> LSJ wrote:\n> No. That waits until the action is successful.\n>",
+      "Id": "111835"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 28, 2024, 12:21\u202FPM",
+      "Body": "> inm8 wrote:\n>\n> > Ankha wrote:\n> > LSJ's (still valid) ruling is about a bleed action with an optional effect depending on something that is not known upon declaration (the bleed amount vs the cost of the ally).\n> >\n> Interesting to see that you derived from the below that it is to be limited to unknow facts of just e.g. bleed value but it doesn't include the unknown facts of if the qualifier for the conditional effect is met or not.\n> >\n> > LSJ wrote:\n> > No. That waits until the action is successful.\n> >\nCould you please restate?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111836"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 28, 2024, 12:46\u202FPM",
+      "Body": "Thanks, this clears it up for me\n\nSo in general, all effects which are mandatory (if the option is chosen) need to be announced?\n\nLike Platinum Protocol's target for corruption counters, as alternate example.",
+      "Id": "111837"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 28, 2024, 1:06\u202FPM",
+      "Body": "the general interpretation of the Keystone Kine ruling was thought to be based on the conditional nature of the effect (\"if y, x\") making it not know if it (x) would happen and therefore didn\u00B4t require the declaration of the target in the announcement and would only need to be done when and if the qualifier (y) was met... which is why this ruling in KRCG is currently also linked to eg. The Platinum Protocol\n\nnow your provided ruling (assumingly based on the same ruling) states that it is because of the unknown details of the bleed value that matters for the targeting of the conditional effect why the target declaration is delayed for it... which means it has nothing to do with conditional effects and their unknown nature of whether they will happen or not.\n\none would need to know about this ruling to come to the right conclusion and it is difficult to generally apply it as the argument could be made that the conditional effects all have an unknown aspect to them but this unknown fact doesn't matter only unknown aspects that affect the targeting do.",
+      "Id": "111839"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 28, 2024, 1:23\u202FPM",
+      "Body": "> inm8 wrote:\n> one would need to know about this ruling to come to the right conclusion and it is difficult to generally apply it as the argument could be made that the conditional effects all have an unknown aspect to them but this unknown fact doesn't matter only unknown aspects that affect the targeting do.\n>\nImho the ruling is on the contrary better deducable from the rulebook than before, since the RB makes no difference on which details need to be announced.\n\n> rulebook wrote:\n> All details of the action are defined when the action is announced, including the target(s), the cost, the effects, and so on.\n>\nWhat might be helpful to clarify is that an action only fizzles if all parts of the action are unsuccessful",
+      "Id": "111840"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jul 4, 2024, 4:09\u202FPM",
+      "Body": "OK, going to leave the editorial complaining out and skip straight to questions.\n\n1) You need an uncontrolled minion to announce the  line on Break the Bonds (ruled in this thread). You don't necessarily choose the minion at that time as Undue Influence's explicit text requires, one just has to be there for announcement.\n\nQUESTION: Do you defer selection of the recipient until after the bleed is successful?\n\nThat's what the Keystone Kine precedent would suggest - the target of \"if successful\" lines are selected only after the bleed demonstrates success. That 2-part timing feels clumsy.\n\nThere's also that Platinum Protocol question hanging. The  line is mandatory and should have a valid target on announcement if you follow the  Break the Bonds ruling here. That seems to follow even if the final targets (of both the bleed and applied counter) might change.\n\nQUESTION: Is a valid INITIAL target for every MANDATORY effect required even when there's a \"if successful\" that implies deferred selection of the actual target?\n\nI get the whole Keystone Kine precedent for opting out of \"can/may\" lines (e.g., [obf] Break the Bonds) getting around some of this, while still having used the effect for the purposes of things like Dabbler. We're leaning more on the more general \"can't do what you can't do\" with thee Pt Protocol question.",
+      "Id": "111916"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jul 4, 2024, 5:43\u202FPM",
+      "Body": "As I understood Ankha, the Keystone Kine is not a precedent, since the delayed choice is caused by an unknown variable (bleed amount), not \"if successful\".\n\nSo for every other \"if successful\"-action, choices would need to be made during announcement as normal.",
+      "Id": "111918"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jul 4, 2024, 7:53\u202FPM",
+      "Body": "The rub is that magnitude is what determines if the bleed is successful (e.g. more than 0).\n\nIt's really the same comparison right?\n\nIs my bleed value bigger than \"some target value\"\n- target = 1 or more for BtB\n- target = X or more where X is the cost of an ally.\n\nThe syntax feels the same to me. If (and only if) X, do Y.",
+      "Id": "111921"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jul 4, 2024, 11:24\u202FPM",
+      "Body": "Unless we are reading a different ruling, it is not the same comparison.\n\n> Ankha wrote:\n> LSJ's (still valid) ruling is about a bleed action with an optional effect depending on something that is not known upon declaration (the bleed amount vs the cost of the ally). It is not relevant in the case of Break the Bonds which is a bleed action but with a mandatory effect that is well defined.\n>\n> If you want to use the pre effect of Break the Bond, you need to choose a vampire in your uncontrolled region when declaring the action (so you cannot use the pre effect if you don't have any vampire in it).\n>\nThe question is for BtB: Value = bleed successful, so it is always triggered in the same way. No matter how much the bleed is. Therefore, you can define which minion at action announcement.\n\nSyntax would read if X, then Y.\n\nFor Keystone Kine: Value = bleed successful with an amount X. Since X is unknown until action resolution, a target cannot be named beforehand.\n\nSyntax would read if X, then Y for N.",
+      "Id": "111924"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 6, 2024, 8:39\u202FPM",
+      "Body": "> inm8 wrote:\n> the general interpretation of the Keystone Kine ruling was thought to be based on the conditional nature of the effect (\"if y, x\") making it not know if it (x) would happen and therefore didn\u00B4t require the declaration of the target in the announcement and would only need to be done when and if the qualifier (y) was met... which is why this ruling in KRCG is currently also linked to eg. The Platinum Protocol\n>\n1. Since KK is an action, the \" If this action is successful,\" part is in fact optional but put the emphasis on the fact that something depending on the outcome of the action must be decided when the action resolves. However, since that some something depends on the final bleed amount, it is implied that the outcome must be known before making that decision.\n\n2. BtB depends on the bleed being successful, which is different from KK, but it doesn't matter for determining whether the target(s) must be declared or not. Since the [obf] effect depends on the outcome as it relies on the final target of the bleed, the minion being locked cannot be chosen before resolution. But the [pre] effect doesn't, so you can and must choose the target when announcing the action.\n\n3. PP is an action modifier, depending on the bleed being successful and the final target of the bleed.\n\n> inm8 wrote:\n> now your provided ruling (assumingly based on the same ruling) states that it is because of the unknown details of the bleed value that matters for the targeting of the conditional effect why the target declaration is delayed for it... which means it has nothing to do with conditional effects and their unknown nature of whether they will happen or not.\n>\n> one would need to know about this ruling to come to the right conclusion and it is difficult to generally apply it as the argument could be made that the conditional effects all have an unknown aspect to them but this unknown fact doesn't matter only unknown aspects that affect the targeting do.\n>\nThe rule is: make all the possible choices when announcing the action. Choices that depend on the outcome of the action must be made during resolution.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111945"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 6, 2024, 8:45\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> OK, going to leave the editorial complaining out and skip straight to questions.\n>\n> 1) You need an uncontrolled minion to announce the  line on Break the Bonds (ruled in this thread). You don't necessarily choose the minion at that time as Undue Influence's explicit text requires, one just has to be there for announcement.\n>\n> QUESTION: Do you defer selection of the recipient until after the bleed is successful?\n>\nNo, it can and must be chosen when announcing the action.\n\n> TryDeflectingThisGrapple wrote:\n> That's what the Keystone Kine precedent would suggest - the target of \"if successful\" lines are selected only after the bleed demonstrates success. That 2-part timing feels clumsy.\n>\nIt's suggesting something, but it's not required.\n\n> TryDeflectingThisGrapple wrote:\n> There's also that Platinum Protocol question hanging. The  line is mandatory and should have a valid target on announcement if you follow the  Break the Bonds ruling here.\n>\nThe recipient cannot be chosen as long as the final target of the bleed is not known.\n\n> TryDeflectingThisGrapple wrote:\n> QUESTION: Is a valid INITIAL target for every MANDATORY effect required even when there's a \"if successful\" that implies deferred selection of the actual target?\n>\n\"Initial\" implies it may change. So no, you don't choose it until the resolution.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111946"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Nov 19, 2024, 11:25\u202FAM",
+      "Body": "Sorry to resurrect this, but one point is unclear to me.\n\nMy understanding is that when you declare an action with Keystone Kine using [obfuscate] you don't have to choose a target until after you've performed the bleed. That is clear.\n\nBut if your predator has no allies in play, you can declare to use the obfuscate discipline?\n\nIf this is true in case there are other similar effects this rule would be correct?\n\nIf an effect of an action can't be fully defined until resolution, that action can be declared, even there are no suitable targets for the action at that moment. (the phase for selection of targets is postponed) If at resolution there is still no target available, the effect will fizzle.",
+      "Id": "113126"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Nov 19, 2024, 12:31\u202FPM",
+      "Body": "> Coyote wrote:\n> Sorry to resurrect this, but one point is unclear to me.\n>\n> My understanding is that when you declare an action with Keystone Kine using [obfuscate] you don't have to choose a target until after you've performed the bleed. That is clear.\n>\n> But if your predator has no allies in play, you can declare to use the obfuscate discipline?\n>\n> If this is true in case there are other similar effects this rule would be correct?\n>\n> If an effect of an action can't be fully defined until resolution, that action can be declared, even there are no suitable targets for the action at that moment. (the phase for selection of targets is postponed) If at resolution there is still no target available, the effect will fizzle.\n>\nyou announce the discipline you use when you declare the action, then in resoluaiton you check if there is any ally you can burn to fulfil the obf part\n\n\"If this action is successful, you can burn an ally controlled by your prey whose cost is not greater than the bleed amount.\" - if there is no ally to burn then you don't burn anything",
+      "Id": "113129"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Nov 21, 2024, 9:01\u202FAM",
+      "Body": "I think so.\n\nBut some people like to twist the rules. So an official answer would be good.",
+      "Id": "113152"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 21, 2024, 9:43\u202FAM",
+      "Body": "> Coyote wrote:\n> Sorry to resurrect this, but one point is unclear to me.\n>\n> My understanding is that when you declare an action with Keystone Kine using [obfuscate] you don't have to choose a target until after you've performed the bleed. That is clear.\n>\n> But if your predator has no allies in play, you can declare to use the obfuscate discipline?\n>\nIt's not a great idea to hijack this thread with another card, especially with no cardtext provided.\n\n> If an effect of an action can't be fully defined until resolution, that action can be declared, even there are no suitable targets for the action at that moment. (the phase for selection of targets is postponed) If at resolution there is still no target available, the effect will fizzle.\n>\nIs that a question?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113153"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Nov 21, 2024, 9:57\u202FAM",
+      "Body": "Ok",
+      "Id": "113157"
+    },
+    {
+      "Author": "YuriLevich",
+      "Date": "Dec 4, 2025, 6:49\u202FPM",
+      "Body": "1. Announce the Action\n\nAll details of the action are defined when the action is announced, including the target(s), the cost, the effects, and so on. Any card required for the action is played (face up) at this time, but is temporarily set aside (out of play) until the action resolves. Lock the acting minion (only ready unlocked minions can perform actions).\n\nEffects are declared when announcing",
+      "Id": "115929"
+    }
+  ]
+}

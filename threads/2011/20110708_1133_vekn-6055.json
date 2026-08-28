@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-6055",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/6055-member-of-the-entourage-question",
+  "Title": "Member of the Entourage Question",
+  "Messages": [
+    {
+      "Author": "erewego",
+      "Date": "Jul 8, 2011, 11:33\u202FAM",
+      "Body": "Member of the Entourage\nMortal with 2 life, 0 strength, 0 bleed. This ally cannot take actions. During a  action directed at you, this ally may burn 1 life to get +1 intercept. Burn this ally if he successfully blocks a vampire (no combat occurs).\n[DRAFT]:  as above.\n\nBasically, can you burn extra life to get more intercept? Even if it burns him?\nExample:\nSomeone plays Entrancement and attempts to steal a Member of the Entourage at one stealth. Member of the Entourage burns a life to get 1 int to block. Entrancement gets another stealth. Can I burn another life to get another intercept, which burns Member of the Entourage causing the action to fail?\n\nAlso, if I have Vagabond Mystic, is there a window in above example to add another life?\n\nPrince of New York,\nAdam",
+      "Id": "6055"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 8, 2011, 11:48\u202FAM",
+      "Body": "> erewego wrote:\n> Member of the Entourage\n> Mortal with 2 life, 0 strength, 0 bleed. This ally cannot take actions. During a  action directed at you, this ally may burn 1 life to get +1 intercept. Burn this ally if he successfully blocks a vampire (no combat occurs).\n> [DRAFT]:  as above.\n>\n> Basically, can you burn extra life to get more intercept? Even if it burns him?\n> Example:\n> Someone plays Entrancement and attempts to steal a Member of the Entourage at one stealth. Member of the Entourage burns a life to get 1 int to block. Entrancement gets another stealth. Can I burn another life to get another intercept, which burns Member of the Entourage causing the action to fail?\n>\nMember of Entourage can burn 1 life to get +1 intercept once per action (\"During X do Y\" template).\nWith a Member of Entourage having 1 life at the beginning of the action, if it burns 1 life to get +1 intercept in this action, it burns (provided it doesn't gain life in between). If the action was sup' Far Mastery, it fizzles (no cost is paid).\n\n> erewego wrote:\n> Also, if I have Vagabond Mystic, is there a window in above example to add another life?\n>\n> Prince of New York,\n> Adam\n>\nIf the acting minion plays inf' Crocodile's Tongue, there is a window after burning the life to cancel CT, and before burning a blood for +1 intercept.",
+      "Id": "6056"
+    },
+    {
+      "Author": "erewego",
+      "Date": "Jul 8, 2011, 12:14\u202FPM",
+      "Body": "Thanks... but why can I only do it once? Wording seems similar to Maris Streck\nCamarilla Justicar: Maris can burn a blood to give a blocking minion +1 intercept. She can take a +1 stealth action to allow you to look at and rearrange the top 5 cards of your library.\n\nSo if the Member of the Entourage has 3 life (or 4 or 5...) I can't burn more then one life as the stealth is increased?",
+      "Id": "6060"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 8, 2011, 12:20\u202FPM",
+      "Body": "Because Maris lacks the \"During X do Y\" template.\nIn VTES, this template limits to once per X the use of Y.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "6061"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 8, 2011, 12:23\u202FPM",
+      "Body": "> erewego wrote:\n> Thanks... but why can I only do it once? Wording seems similar to Maris Streck\n> Camarilla Justicar: Maris can burn a blood to give a blocking minion +1 intercept. She can take a +1 stealth action to allow you to look at and rearrange the top 5 cards of your library.\n>\nWording is slightly different.\nMaris' cardtext doesn't involve \"During\". Therefore, you can use any number of times to get intercept in an action.\n\"During X do Y\" is a template used in several cards that limits the possibilities of doing X to once per X.\nUsual examples: Temptation (it only adds 1 counter per Master Phase), Blood Doll (it doesn't work like Minion Tap), sup' Drawing out the Beast doesn't inflict several damage during the press step, ..\n\n> erewego wrote:\n> So if the Member of the Entourage has 3 life (or 4 or 5...) I can't burn more then one life as the stealth is increased?\n>\nCan't burn more than 1 life to get intercept per its cardtext, correct.",
+      "Id": "6062"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Jul 8, 2011, 3:26\u202FPM",
+      "Body": "Now that you're the new rules guy can we get Maris Streck her special re-ruled to be no longer broken?",
+      "Id": "6070"
+    }
+  ]
+}

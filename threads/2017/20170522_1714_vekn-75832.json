@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-75832",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/75832-feld-updated-to-anthology-set",
+  "Title": "FELD updated to Anthology set",
+  "Messages": [
+    {
+      "Author": "Sydnelson",
+      "Date": "May 22, 2017, 5:14\u202FPM",
+      "Body": "FELD database updated with Anthology Set cards.\n\nLink:\nwww.dropbox.com/s/janwl10pmpvnbxu/FELDB_2.6.7%20-%20anthology.zip?dl=0\n\nTo install just create a copy / backup of your current FELD database (vtes.db file), unpack the zip file from above link inside FELD main folder and have a fun.\n\n*Make a backup of your current inventory before update (inv_deck.db).\n\nYou can download card image files here:\nwww.dropbox.com/s/qnvwv6btb3now9d/feld-pictures.zip?dl=0\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "81997"
+    },
+    {
+      "Author": "Cardano",
+      "Date": "Jul 14, 2017, 2:13\u202FAM",
+      "Body": "Thank you Syd!",
+      "Id": "82590"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Mar 3, 2018, 10:26\u202FAM",
+      "Body": "Thanks!\n\nAlthough there's no option to filter the Anthology set nor I can see the Anthology cards when I use a filter. Ot is it just me? :/\n\nNC of Hungary\n\n///",
+      "Id": "85531"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Mar 3, 2018, 10:31\u202FAM",
+      "Body": "I just spotted \"Gangrel antitribu\" was spelled by lower-case \"a\", so the program couldn't find it when filtered for \"Gangrel Antitribu\". Nevertheless the Anthology set is still missing from the \"filter by set\" option.\n\nNC of Hungary\n\n///",
+      "Id": "85532"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Mar 3, 2018, 4:37\u202FPM",
+      "Body": "> Malachy wrote:\n> I just spotted \"Gangrel antitribu\" was spelled by lower-case \"a\", so the program couldn't find it when filtered for \"Gangrel Antitribu\". Nevertheless the Anthology set is still missing from the \"filter by set\" option.\n>\nGangrel antitribu filter fixed, also added new image scans. Just download FELD again from links above.\n\nAbout Anthology filters, I don't have the program source code. I can only update card database and images.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "85535"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Mar 4, 2018, 5:31\u202FPM",
+      "Body": "Something's not right, now that I've downloaded it, I cannot see any of the new Gangrel/Gangrel Antitribu Anthology crypt cards  I'm sorry for being such a pita\n\nNC of Hungary\n\n///",
+      "Id": "85551"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 4, 2018, 7:36\u202FPM",
+      "Body": "I also have this problem Malachy and Carlton(ally) is not updated by Anthology set",
+      "Id": "85553"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Mar 6, 2018, 7:12\u202FAM",
+      "Body": "Fixed, try again.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "85576"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Mar 21, 2018, 6:28\u202FPM",
+      "Body": "Fixed one more time. Hope finally fix all database bugs and filters.\n\nThanks to Igor for feedback.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "85934"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Mar 24, 2018, 9:02\u202FAM",
+      "Body": "Heys, it's me again, the \"problem reporting guy\"\n\nI've found two kinds of irregularities. Frist, cards like Ni Dieu ni Ma\u0102\u017Dtre, Bang Nakh \u00E2\u20AC\u201D Tiger's Claws are shown like this.\n\nThe other buggy thing is \"Ahrimanes\" filtering in library (it searches for 'Ahrimane', which only works in crypt filtering). I believe it should read \"Ahrimane\" in both crypt and library.\n\nNC of Hungary\n\n///",
+      "Id": "86017"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Mar 24, 2018, 4:24\u202FPM",
+      "Body": "Fixed again, also update text of few cards reflecting February 2018 rules changes.\nAlso update card images database.\n\nThanks to Malachy and Igor for feedback.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "86024"
+    },
+    {
+      "Author": "Bubbles",
+      "Date": "Jun 28, 2018, 2:12\u202FPM",
+      "Body": "just reporting back: lots of cards dont show up for me. Is that correct? Is the newestset included already?",
+      "Id": "88436"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Jun 28, 2018, 2:45\u202FPM",
+      "Body": "> Bubbles wrote:\n> just reporting back: lots of cards dont show up for me. Is that correct? Is the newestset included already?\n>\nNo new expansion released yet. I just waiting new image files to release the update. Hope do it soon.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "88439"
+    },
+    {
+      "Author": "IC-Oddish",
+      "Date": "Aug 9, 2018, 9:27\u202FAM",
+      "Body": "Hi, could you please help where I can download latest FELDB with pictures? and what is the last set included?",
+      "Id": "89825"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Aug 9, 2018, 4:20\u202FPM",
+      "Body": "> IC-Oddish wrote:\n> Hi, could you please help where I can download latest FELDB with pictures? and what is the last set included?\n>\ni dont know why the first mensage of this topic was deleted.\n\nFELD link with anthology set:\nwww.dropbox.com/s/qnvwv6btb3now9d/feld-pictures.zip?dl=0\n\nPictures\nwww.dropbox.com/s/qnvwv6btb3now9d/feld-pictures.zip?dl=0\n\nI hope finish the update to Lost Kindred in the next week.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "89847"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 8:08\u202FPM",
+      "Body": "> Sydnelson wrote:\n>\n> > IC-Oddish wrote:\n> > Hi, could you please help where I can download latest FELDB with pictures? and what is the last set included?\n> >\n> i dont know why the first mensage of this topic was deleted.\n>\nIt wasn't. See www.vekn.net/forum/site-forum-feedback-and-news/76899-weird-links-that-miss-out-the-first-post-if-you-navigate-back-to-page-1#89693\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89857"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 9, 2018, 9:47\u202FPM",
+      "Body": "> Ankha wrote:\n> It wasn't. See www.vekn.net/forum/site-forum-feedback-and-news/76899-weird-links-that-miss-out-the-first-post-if-you-navigate-back-to-page-1#89693\n>\nThere's currently a bug in the forum.\n\nIf you click pagination \"1\" or \"Start\" \u2014 the URL has %1$d appended to it which causes the first post to be skipped.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "89865"
+    },
+    {
+      "Author": "IC-Oddish",
+      "Date": "Aug 13, 2018, 8:07\u202FAM",
+      "Body": "Thanks!",
+      "Id": "89947"
+    }
+  ]
+}

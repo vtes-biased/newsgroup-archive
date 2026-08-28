@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-80196",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80196-clarification-regarding-detect-authority",
+  "Title": "Clarification regarding Detect Authority.",
+  "Messages": [
+    {
+      "Author": "Snodig",
+      "Date": "Dec 5, 2022, 1:14\u202FPM",
+      "Body": "> Detect Authority.\n>\n> Requires an Anarch.\n> Only usable during an action directed at a minion or location you control. The action fails unless the acting minion burns 2 blood (allies cannot burn blood).\n> +1 intercept.\n> Reduce a bleed against you by 2.\n>\nDetect Authority at  now says \"The action fails\". The printed version from Twilight Rebellion said \"The action ends\".\nAccording to www.blackchantry.com/2018/07/18/rules-team-rulings-rtr-19-07-2018/ there is a distinct difference with regards to whether or not further reactions can be played.\n\nCan you play some reaction to interact with the now \"failing\" action after Detect Authority has been played (and not paid for)?\nThis would apply to cards like Draba at superior or Scobax at inferior (and possibly superior?).",
+      "Id": "106922"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2022, 1:18\u202FPM",
+      "Body": "> Snodig wrote:\n>\n> > Detect Authority.\n> >\n> > Requires an Anarch.\n> > Only usable during an action directed at a minion or location you control. The action fails unless the acting minion burns 2 blood (allies cannot burn blood).\n> > +1 intercept.\n> > Reduce a bleed against you by 2.\n> >\n> Detect Authority at  now says \"The action fails\". The printed version from Twilight Rebellion said \"The action ends\".\n> According to www.blackchantry.com/2018/07/18/rules-team-rulings-rtr-19-07-2018/ there is a distinct difference with regards to whether or not further reactions can be played.\n>\nCorrect.\n\n> Snodig wrote:\n> Can you play some reaction to interact with the now \"failing\" action after Detect Authority has been played (and not paid for)?\n> This would apply to cards like Draba at superior or Scobax at inferior (and possibly superior?).\n>\nAn action that fails has reached resolution. You cannot play reaction cards or action modifier cards once the action has resolved, unless they have an explicit cardtext (eg., Freak Drive or Cats' Guidance).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106923"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Dec 5, 2022, 9:08\u202FPM",
+      "Body": "That RTR-link says below, (text bolded by me). This seems to be contradictory to your reply Ankha, or what am I missing? The RTR is rather hard to comprehend any way.\n\n\"c) Failing action vs ended action\nFor less disparity, some cards that were causing an action to end unsuccessfully before resolution now make it fail; if the action had resolved (e.g., it had been blocked), those cards make them end unsuccessfully. That way, the action has resolved in both cases.\nActions that are ended are over: action modifiers and reactions cannot be played anymore.\nActions that fail are similar to actions that have been blocked (notice that a blocked action fails) except that there is no blocker and no combat. Action modifiers and reaction can still be played, if their text does not refer to a blocked action (e.g., Freak Drive cannot be played at superior after a failed action since it was not blocked, and cannot be played at basic since the action was not successful)\"\n\nLackeyname: Kris",
+      "Id": "106929"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 5, 2022, 10:20\u202FPM",
+      "Body": "\"Unless they have an explicit cardtext (eg., Freak Drive or Cats' Guidance)\" is not saying that you can play Freak Drive in that case. He's giving examples of cards that fit into the category of cards that may be played after the action has resolved.",
+      "Id": "106930"
+    }
+  ]
+}

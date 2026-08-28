@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-69997",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/69997-strange-ardb-behaviour",
+  "Title": "Strange ARDB behaviour",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Mar 23, 2015, 1:23\u202FAM",
+      "Body": "Using the UTF8 card file I'm getting some strange behaviour out of ARDB 3.1.1 on Win7.\nWhen it updates, the Crypt cards are fine BEFORE the restart.\nAfter the restart, the crypt card disciplines go 'out of whack' with leading \" marks and all of the library cards vanish.\n\nAnyone planning to do something about these?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "69997"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 23, 2015, 6:15\u202FAM",
+      "Body": "It has nothing to do with UTF-8. To quote myself from  this topic\n\n> Ankha wrote:\n>\n> > Walt wrote:\n> > Thanks for the update\n> >\n> > I try to update my ARDB using the update database function and I obtain this result:\n> >\n> > Downloading...\n> > Importing file vtescrypt.csv...\n> > Importing file vteslib.csv... .....................\n> > Importing file vtessets.csv...\n> > ERROR -> UPDATE ABORTED (ROLLBACK)\n> > Database update has ended.\n> > You may need to restart ARDB.\n> >\n> > until yesterday it works fine. The same if I download the file and try to manually update it\n> >\n> > maybe you change the name of the file?\n> >\n> > ciao\n> > Walt\n> >\n> I've updated the file, ARDB doesn't like when the crypt file header line contains quotes.\n> But it wouldn't make the update crash, so check that you've got the latest version of ARDB (I have the 3.1.2Beta) and try again wih the updated file.\n>\nWhat you can do is extract the vtescrypt.csv file from the zip, remove all the quotes from the first line, repack the csv file in the zip and feed your ARDB with it.\nYou'll still have a problem with UTF-8, for instance Z\u00F6e will be displayed as Z??e. A solution is to convert all the csv files in the archive to ANSI.\n\nOr wait for ARDB to be updated\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69999"
+    }
+  ]
+}

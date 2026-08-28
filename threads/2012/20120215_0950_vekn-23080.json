@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-23080",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/23080-ready-ally-recruited-red-list-permanent-vacation",
+  "Title": "Ready ally, recruited, Red List, Permanent Vacation",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Feb 15, 2012, 9:50\u202FAM",
+      "Body": "An ally \"A\" is recruited. During the same turn, can a vampire V play Red List on A?\nIn other terms, is A \"ready\" when it is recruited?\n\n(This is a classical case in a Trophy deck based on Caiaphas Smith)\n\nThis also concerns Permanent Vacation (on one of our own ally) or Preston Varrick that would act during another Methuselah's turn (through Madness Network or Enkil Cog) after that Methuselah has recruited his only ally during that turn.\n\nI think the answer is no but it's worth a reference.\n\nName: Red List\nCardtype: Action\nRequires a ready, titled, non-Red List vampire.\nChoose a ready ally or a ready younger vampire. The chosen minion becomes Red List. That minion may not attempt to block this action.\n\nName: Permanent Vacation\nCardtype: Political Action\nChoose a ready ally. Successful referendum means that ally is removed from the game.\n\nName: Preston Varrick\nCardtype: Vampire\nClan: Tremere\nGroup: 4\nCapacity: 7\nDiscipline: aus nec DOM OBF THA\nCamarilla: Preston gets +1 bleed when bleeding a Methuselah who controls a ready ally.\n\n> Rulebook wrote:\n> To recruit an ally from your hand, play the card and tap the acting minion. If the action is successful, the ally is placed in your uncontrolled region, even though it is controlled, to indicate that it cannot act this turn (and the cost, if any, is paid).\n> At the end of the turn, any allies that were placed in your uncontrolled region (to indicate that they cannot act) are moved to your ready region.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23080"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 15, 2012, 10:29\u202FAM",
+      "Body": "> Ankha wrote:\n> An ally \"A\" is recruited. During the same turn, can a vampire V play Red List on A?\n> In other terms, is A \"ready\" when it is recruited?\n>\nAn ally who has just been recruited and who is in the uncontrolled region is:\na controlled minion not ready\n[LSJ 19980717]\n>\n> LSJ wrote:\n> The short answer (ruling/correction): The Ally is controlled (and thus a\n> legal target for most effects), but is not ready while it is in the inactive\n> region. This could be better shown if the Ally were placed in the Torpor\n> region, but doing so would lead to its own set of questions and confusion.\n>",
+      "Id": "23083"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 15, 2012, 11:12\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > An ally \"A\" is recruited. During the same turn, can a vampire V play Red List on A?\n> > In other terms, is A \"ready\" when it is recruited?\n> >\n> An ally who has just been recruited and who is in the uncontrolled region is:\n> a controlled minion not ready\n>\nCorrect.\n(This is one of the numerous things that make the Cry Wolf + Abomination stack of cards something that doesn't deserve the name of \"deck\").",
+      "Id": "23086"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Feb 21, 2012, 3:42\u202FPM",
+      "Body": "Since the newly recruited ally IS controlled, can it use abilities that don't require actions? e.g. Eccentric Billionaire, or Brigette Gebaur",
+      "Id": "23786"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 21, 2012, 3:51\u202FPM",
+      "Body": "6.1.5 is quite clear on this:\n\"...to indicate that it cannot act this turn...\"\n\nTapping has never been acting.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "23789"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 21, 2012, 4:06\u202FPM",
+      "Body": "> Malcolm wrote:\n> Since the newly recruited ally IS controlled, can it use abilities that don't require actions? e.g. Eccentric Billionaire, or Brigette Gebaur\n>\nYes. LSJ confirms.  [LSJ 20010621]\n\n> LSJ wrote:\n> >Allies \"cannot act\" on the turn they are brought into play.\n>\n> The turn recruited, yes. If brought into play in other means\n> (Compel the Spirit, e.g.), the restriction doesn't apply.\n>\n> >Can they use non-action special abilities?\n>\n> Yes.\n>\n> >i.e. Can I use the Rom Gypsy's \"tap to give +1 stealth to\n> >a Ravnos\" ability on the same turn it's recruited?\n>\n> Yes.\n>",
+      "Id": "23790"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-63013",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/63013-sword-of-the-righteous-aggravated-damage-duration",
+  "Title": "Sword of the Righteous aggravated damage duration.",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2014, 2:36\u202FPM",
+      "Body": "Effects from a combat card lasts per default the round the card is played.\n\nWhat about Sword of the Righteous' [val] effect.\n\"As above\" doesn't imply that the [val] effect has the same duration.\n\nIs it correct to assume that the [val] effect last for the current round?\n\nName: Sword of the Righteous\n[BL:C1, LoB:C, HttB:PSal3]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Valeren/Animalism\nOnly usable before range is determined.\n[ani] Choose one of this vampire's melee weapons. For the remainder of combat, this vampire inflicts +1 damage each strike with that weapon. A vampire can play only one Sword of the Righteous each combat.\n[val] As [ani] above, and the damage this vampire inflicts with the weapon is aggravated.\n[VAL] As [val] above, and this vampire may prevent 1 damage this round.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63013"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Jun 5, 2014, 3:04\u202FPM",
+      "Body": "> Ankha wrote:\n> \"As above\" doesn't imply that the [val] effect has the same duration.\n>\nEr...why not?",
+      "Id": "63014"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 5, 2014, 3:32\u202FPM",
+      "Body": "> BenPeal wrote:\n>\n> > Ankha wrote:\n> > \"As above\" doesn't imply that the [val] effect has the same duration.\n> >\n> Er...why not?\n>\nImplication of the agg being part of the \" this combat\" part seems clear. Its not like most agg granting cards, but it implies for the duration. Like devil channel hands at ABO. its the same agg all combat, now with a press.",
+      "Id": "63015"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Jun 5, 2014, 6:39\u202FPM",
+      "Body": "Replace \"As [val] above\" with the actual text and you get:\n>\n> [VAL] As [ani] above, and the damage this vampire inflicts with the weapon is aggravated, and this vampire may prevent 1 damage this round.\n>\nReplace \"As [ani] above\" with the actual text of [ani] and you get:\n>\n> [VAL] Choose one of this vampire's melee weapons. For the remainder of combat, this vampire inflicts +1 damage each strike with that weapon. A vampire can play only one Sword of the Righteous each combat, and the damage this vampire inflicts with the weapon is aggravated, and this vampire may prevent 1 damage this round.\n>\nThis is confusing because \"A vampire can only play one Sword of the Righteous each combat\" is in the way. How it should read:\n\n> [VAL] Choose one of this vampire's melee weapons. For the remainder of combat, this vampire inflicts +1 damage each strike with that weapon, and the damage this vampire inflicts with the weapon is aggravated, and this vampire may prevent 1 damage this round. A vampire can play only one Sword of the Righteous each combat.\n>",
+      "Id": "63019"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 6, 2014, 4:44\u202FAM",
+      "Body": "I disagree with you because all combat effects last, by default, only for the current round.\nHaving\n[x] Gain Y this combat.\n[y] As above, and gain Z.\n\ndoesn't mean Z lasts for the combat.\n\nFor instance, does it mean then that Mythic Form's maneuver is valid for the whole combat?\n\nName: Mythic Form\nCardtype: Combat\nCost: 3 blood\nDiscipline: Protean\n[pro] Play before range is determined on the first round. For the remainder of this combat, this vampire gets +1 strength and can prevent 1 non-aggravated damage each round. A vampire can play only one Mythic Form each combat.\n[PRO] As above, but with an optional maneuver, and this vampire can inflict 2R aggravated damage as a strike once each round this combat.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63024"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 6, 2014, 10:25\u202FAM",
+      "Body": "> Ankha wrote:\n> I disagree with you because all combat effects last, by default, only for the current round.\n> Having\n> [x] Gain Y this combat.\n> [y] As above, and gain Z.\n>\n> doesn't mean Z lasts for the combat.\n>\n> For instance, does it mean then that Mythic Form's maneuver is valid for the whole combat?\n>\n> Name: Mythic Form\n> Cardtype: Combat\n> Cost: 3 blood\n> Discipline: Protean\n> [pro] Play before range is determined on the first round. For the remainder of this combat, this vampire gets +1 strength and can prevent 1 non-aggravated damage each round. A vampire can play only one Mythic Form each combat.\n> [PRO] As above, but with an optional maneuver, and this vampire can inflict 2R aggravated damage as a strike once each round this combat.\n>\nOptional manuevers are different from effects like damage bonus.\n\nBut frankly its all in the meh wording here...\n\nAlso, even if mythic form gave you an optional manuever once each round, would you play it  it needs more help than what we can give it.....",
+      "Id": "63032"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-53379",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53379-yseult-and-blood-weakens",
+  "Title": "Yseult and Blood Weakens",
+  "Messages": [
+    {
+      "Author": "Pascek",
+      "Date": "Aug 18, 2013, 5:06\u202FPM",
+      "Body": "Yseult plays a Melpominee card and Blood Weakens is in play. How it works?\n\nThank you!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "53379"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 18, 2013, 5:35\u202FPM",
+      "Body": "Card text?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "53381"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 18, 2013, 7:01\u202FPM",
+      "Body": "Ona phone, but for clarity, yseult says \" when yseult plays a card that requires melpominee, you may draw an additional card. Discard afterword\"\nBlood weakens says\"cards that require disciplines are not replaced until the end of the action or (blahblahblah)\"\n\nSo, no bw out means yseult plays lily prelude and you draw two, drop one. Blood weakens is out, she plays lily prelude, she draws an additional(one more than zero) and discards afterwords.\n\nThats how i read it, at least. Drawing an additional card is in this case stated on ysuelt. So, you dont get your replqcement, but you get to daw and dicard per her text.",
+      "Id": "53384"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 18, 2013, 8:40\u202FPM",
+      "Body": "Name: Blood Weakens\nCardtype: Event\nGehenna. Do not replace until a vampire commits diablerie.\nCards minions play in an action that require any Disciplines are not replaced until the end of the current action or until any Methuselah's hand is empty (whichever comes first). Any vampire who commits diablerie is immune to this effect until the next Gehenna card is played.\n\nName: Yseult\nCardtype: Vampire\nClan: Daughter of Cacophony\nGroup: 3\nCapacity: 6\nDiscipline: FOR MEL PRE\nSabbat: When Yseult plays a card that requires Melpominee [mel], you may draw an additional card. Discard afterward. Yseult cannot block vampires with capacity above 4.\n\nDraw the extra card when you'd replace the card. This is to be fixed in later cardtexts.",
+      "Id": "53390"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Aug 19, 2013, 2:55\u202FAM",
+      "Body": "Thanks, that's what I thought it would be.\n\nRegards!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "53395"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Sep 6, 2013, 5:37\u202FPM",
+      "Body": "Really? So you have to keep track of which melpominee cards were played by different vamps to know which ones to draw extra for? Am i correct in assuming that within that bunch of cards, you choose which ones to replace first at turn's end? Or do you also need to keep track of the order they were played in?",
+      "Id": "53908"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 6, 2013, 9:08\u202FPM",
+      "Body": "You replace t the end of the action. Not the end of the turn.\n\nAnd I have another question which happen last week with a similar effect (with learjet).\n\nWe played it like we had to replace 1 card, discard down, replace another, discard down etc. Is it correct ?\n\nName: Learjet\n[KMW:C, KoT:PM2]\nCardtype: Equipment\nCost: 1 pool\nVehicle.\nEach time you draw to replace a card this minion played as an acting minion, you may draw an additional card (discard afterward). A minion may have only one vehicle.\nArtist: John Bridges",
+      "Id": "53911"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 7, 2013, 4:09\u202FAM",
+      "Body": "Yseult & Learjet should function in the same way.\n\nThe logic is:\n\nDo I draw to replace now?\nIf NO then ignore effect.\nIf YES, then choose 1 or 2 cards to draw. (may draw an additional card).\nIs my number of cards in hand above my handsize? Yes = Discard cards required. No = continue play.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "53914"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 7, 2013, 8:14\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Do I draw to replace now?\n> If NO then ignore effect.\n> If YES, then choose 1 or 2 cards to draw. (may draw an additional card).\n> Is my number of cards in hand above my handsize? Yes = Discard cards required. No = continue play.\n>\nIncorrect.\n\nI have a Learjet. I play a card. I replace that card. Next I make the decision on whether to draw an additional card from Learjet.\n\n[LSJ 20050224]\n>\n> LSJ wrote:\n> > If it is, do you get to see the first card you draw\n> > before you choose to draw an additional [from the Learjet]?\n>\n> Yes.\n>",
+      "Id": "53919"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 15, 2013, 4:21\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Juggernaut1981 wrote:\n> > Do I draw to replace now?\n> > If NO then ignore effect.\n> > If YES, then choose 1 or 2 cards to draw. (may draw an additional card).\n> > Is my number of cards in hand above my handsize? Yes = Discard cards required. No = continue play.\n> >\n> Incorrect.\n>\n> I have a Learjet. I play a card. I replace that card. Next I make the decision on whether to draw an additional card from Learjet.\n>\n> [LSJ 20050224]\n> >\n> > LSJ wrote:\n> > > If it is, do you get to see the first card you draw\n> > > before you choose to draw an additional [from the Learjet]?\n> >\n> > Yes.\n> >\nWoW. I have allways played this one wrong.",
+      "Id": "54095"
+    }
+  ]
+}

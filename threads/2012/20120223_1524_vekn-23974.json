@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-23974",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/23974-ousted-during-a-bleed",
+  "Title": "Ousted during a bleed",
+  "Messages": [
+    {
+      "Author": "Miasmat",
+      "Date": "Feb 23, 2012, 3:24\u202FPM",
+      "Body": "When declaring a default bleed, are you declaring a bleed directed at a specific methuselah or at \"my prey, whoever that may be when the bleed resolves\"?\n\nConsider:\nMeth A bleeds Meth B (at 1 pool) with a minion.\nMeth B tries to block with something.\nMeth A plays True Love's Face.\nMeth B hates life and chooses to oust himself by burning a pool to cancel the card.\n\nDoes that action fizzle? Does the bleed fall through to Meth B's prey?\n\nCan Meth A play a Freak Drive?\n\n> True Love's Face\n> Only usable when a minion attempts to block. That block fails (do not tap that minion). That minion cannot attempt to block this action again. That minion's controller may burn a pool to cancel this card as it is played.\n>\n> Freak Drive\n> Only usable at the end of a successful action (after resolving the action). This vampire untaps.\n> As above, but usable even if the action is blocked (play after combat, if any).\n>\nI'm thinking that you have to declare a bleed against a specific target. The action fizzles (unsuccessfully and unblocked) when Meth B is ousted before the bleed resolves. Freak Drive can not be played.",
+      "Id": "23974"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "Feb 23, 2012, 3:32\u202FPM",
+      "Body": "I would say action will fizzle (no valid target). Rules: \"By default, your minion's bleed actions can be directed only at your prey.\" Action is successful (was not blocked). Compare to  This",
+      "Id": "23975"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 23, 2012, 3:32\u202FPM",
+      "Body": "Most of the answers can be found here:  [LSJ 20090122] (note that LSJ got the FD part wrong in his first answer)\n\n> Miasmat wrote:\n> When declaring a default bleed, are you declaring a bleed directed at a specific methuselah or at \"my prey, whoever that may be when the bleed resolves\"?\n>\nAgainst a specific Methuselah (who is your prey at the moment the bleed is declared).\n\n> Miasmat wrote:\n> Consider:\n> Meth A bleeds Meth B (at 1 pool) with a minion.\n> Meth B tries to block with something.\n> Meth A plays True Love's Face.\n> Meth B hates life and chooses to oust himself by burning a pool to cancel the card.\n>\n> Does that action fizzle? Does the bleed fall through to Meth B's prey?\n>\nThe bleed doesn't land on the target's prey (think of what would happen when you bleed your predator with Kindred Spirits). It fizzles if it reaches resolution unblocked.\n\n> Miasmat wrote:\n> Can Meth A play a Freak Drive?\n>\nSure. The action was successful.\n\n> Miasmat wrote:\n> I'm thinking that you have to declare a bleed against a specific target. The action fizzles (unsuccessfully and unblocked) when Meth B is ousted before the bleed resolves. Freak Drive can not be played.\n>\nFreak Drive is playable on successful actions. A fizzling action is successful. Ergo, Freak Drive is playable on a fizzling action (such as bleeding an ousted Methuselah, for instance).",
+      "Id": "23976"
+    },
+    {
+      "Author": "Miasmat",
+      "Date": "Feb 23, 2012, 3:51\u202FPM",
+      "Body": "> Surreal wrote:\n> Compare to  This\n>\nYeah, that's the post that got me thinking about it.\n\nWhat I didn't realize is that a fizzled action is successful. No pool was burned, so it's not a successful bleed, right?",
+      "Id": "23977"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Feb 23, 2012, 4:16\u202FPM",
+      "Body": "Succesful action and succesful bleed are two different things. Like for example, if your bleed is reduced to 0 with telepathic counter its not a succesful bleed, but the action was still succesful (assuming it wasn't blocked)",
+      "Id": "23978"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 23, 2012, 4:24\u202FPM",
+      "Body": "> Klaital wrote:\n> Succesful action and succesful bleed are two different things. Like for example, if your bleed is reduced to 0 with telepathic counter its not a succesful bleed, but the action was still succesful (assuming it wasn't blocked)\n>\nTechnically, the \"bleed action\" was successful, even though the \"bleed\" wasn't successful.\n\nSuccesful bleed action <> Successful bleed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23979"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 23, 2012, 4:33\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Klaital wrote:\n> > Succesful action and succesful bleed are two different things. Like for example, if your bleed is reduced to 0 with telepathic counter its not a succesful bleed, but the action was still succesful (assuming it wasn't blocked)\n> >\n> Technically, the \"bleed action\" was successful, even though the \"bleed\" wasn't successful.\n>\nThe definition of \"successful bleed\" is \"successful bleed action with amount of bleed > 0\". This definition is under review, but it seems the edge would be awarded, in this scenario.",
+      "Id": "23981"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-79080",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79080-nightmares-upon-nightmares",
+  "Title": "Nightmares Upon Nightmares",
+  "Messages": [
+    {
+      "Author": "thiagotargino",
+      "Date": "Mar 22, 2021, 2:25\u202FAM",
+      "Body": "Name: Nightmares upon Nightmares\n[Gehenna:R]\nCardtype: Event\nGehenna. Do not replace until your next discard phase.\nFor each minion a Methuselah controls during his or her unlock phase, the Methuselah must burn a card from his or her hand or lock that minion. Cards burned in this way are not replaced until the master phase. Vampires with capacity greater than the number of Gehenna cards in play and mortal allies are not affected by this card.\nArtist: Mark Nelson\n\nWhen NuN is in play, how does the burn card/lock effect interacts with cards that come to play on untap phase like Emerald Legionnaire or a previously contested minion who returns to play after other contestors yield?\n\nFlip a coin. Thank you.",
+      "Id": "101901"
+    },
+    {
+      "Author": "lip",
+      "Date": "Mar 22, 2021, 9:46\u202FAM",
+      "Body": "> When NuN is in play, how does the burn card/lock effect interacts with cards that come to play on untap phase like Emerald Legionnaire or a previously contested minion who returns to play after other contestors yield?\n>\nINA, but I'd say you cannot end your unlock phase or pass the impulse if you control a minion you haven't locked or burned a card for. So if you get a minion back from contest or a Legionnaire back from the Ash Heap, you must either lock them or burn a card.\n\nSee this ruling on Arika's ability:\n>\n> Arika's prey cannot end her unlock phase if she controls a location that she hasn't burned a pool for, even if she gained control of that location during that unlock phase.  [LSJ 19990405]\n>\nArika\n\nCamarilla Ventrue Inner Circle: If Arika is ready during your prey's unlock phase, your prey chooses which locations he or she keeps in play. For each location he or she controls, your prey burns 1 pool or burns the location. +2 bleed.",
+      "Id": "101904"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 22, 2021, 10:15\u202FAM",
+      "Body": "Yes, NuN is an on going effect. You don't \"resolve NuN\" and then do something else.\n\nIt is rather like each minion has an effect attached as long as NuN is in play that say you have to either lock it or discard a card for it.",
+      "Id": "101905"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 22, 2021, 10:30\u202FAM",
+      "Body": "> lip wrote:\n> INA, but I'd say you cannot end your unlock phase or pass the impulse if you control a minion you haven't locked or burned a card for. So if you get a minion back from contest or a Legionnaire back from the Ash Heap, you must either lock them or burn a card.\n>\nCorrect. If you gain control of an ally during your unlock phase, you have to either discard a card or lock that minion at some point during your unlock phase.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101906"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 22, 2021, 10:31\u202FAM",
+      "Body": "How does NuN interaact with infernal minions?\n\nmy understaning so far was, that i can decide to \"lock\" them, while they are already locked (since the do not automatically unlock at the beginning of the unlock phase) and then can unlock them voluntarily with the infernal payed unllock.\n\nThis works in my mind, since the \"regular\" unlock must be the first thing in the unlock phase by the rules, and after that in can order any effects like I please as the active player.",
+      "Id": "101907"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Mar 22, 2021, 12:49\u202FPM",
+      "Body": "NuN for hand management in a nocturn deck is nice.\n\nLackeyname: Kris",
+      "Id": "101908"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 22, 2021, 1:32\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> How does NuN interaact with infernal minions?\n>\n> my understaning so far was, that i can decide to \"lock\" them, while they are already locked (since the do not automatically unlock at the beginning of the unlock phase) and then can unlock them voluntarily with the infernal payed unllock.\n>\nCorrect. Once you've handled the NuN effect for a minion, you can unlock it afterward.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101910"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 21, 2025, 1:30\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > lip wrote:\n> > INA, but I'd say you cannot end your unlock phase or pass the impulse if you control a minion you haven't locked or burned a card for. So if you get a minion back from contest or a Legionnaire back from the Ash Heap, you must either lock them or burn a card.\n> >\n> Correct. If you gain control of an ally during your unlock phase, you have to either discard a card or lock that minion at some point during your unlock phase.\n>\n\"For each ... do something\" should be resolved as a whole, and only once. This means that when you decide to resolve this effect, you consider the minions in play at that moment. This is a REVERSAL of the ruling above.\n\nThis makes it consistent with other \"For each ... do something effects\" (eg. Smiling Jack) and effects whose magnitude depends on \"X, where X is...\" (eg. Constant Revolution). They are resolved once, as a whole (in fact, those two syntaxes are strictly equivalent).\n\nMore generally, effects in VTES cannot be interrupted during resolution*, for instance you cannot burn Jake Washington when resolving the burn blood effect of Smiling Jack, or use a Vagabond Mystic to save an ally with 2 life taking 2 damage.\n\n* as usual, cards can create some exceptions, such as Psyche! vs R\u00F6tschreck\n\nNB: Conditional effects (eg. Anarch Revolt) are different as they cannot be resolved if the condition is not met.\n\nName: Nightmares upon Nightmares\n[Gehenna:R, EoG:1]\nCardtype: Event\nGehenna. Do not replace until your next discard phase.\nDuring each Methuselah's unlock phase, for each minion they control, they lock that minion unless they discard a card; cards discarded this way are not replaced until the master phase. Mortal allies and vampires with capacity greater than the number of Gehenna events in play ignore this effect.\n\nName: Smiling Jack, The Anarch\n[Jyhad:R, VTES:R, CE:R, Third:PTz, KoT:R, SP:DoF1, V5:PN1, V5A:PG1, NB2:PG1]\nCardtype: Master\nUnique.\nPut this card in play. During your unlock phase, move 1 counter from your pool to this card. During each other Methuselah's unlock phase, for each counter on this card, that Methuselah burns 1 pool or burns 1 blood from a vampire they control. Vampires can burn this card as a  action.\n\nName: Constant Revolution\n[TR:R, V5A:PG2, V5C:PTz1]\nCardtype: Action\n+1 stealth action. Requires an Anarch. Unique.\nPut this card in play with 1 counter. During your unlock phase, add 1 counter to this card. During each other Methuselah's unlock phase, that Methuselah burns X pool and/or cards at random from their hand, where X is the number of counters on this card. Vampires can burn this card as a  action that costs 1 pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113567"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 21, 2025, 1:38\u202FPM",
+      "Body": "> lip wrote:\n> See this ruling on Arika's ability:\n> >\n> > Arika's prey cannot end her unlock phase if she controls a location that she hasn't burned a pool for, even if she gained control of that location during that unlock phase.  [LSJ 19990405]\n> >\n> Arika\n>\n> Camarilla Ventrue Inner Circle: If Arika is ready during your prey's unlock phase, your prey chooses which locations he or she keeps in play. For each location he or she controls, your prey burns 1 pool or burns the location. +2 bleed.\n>\nThis ruling is also REVERSED.\n\nName: Arika\n[DS:V, CE:PV]\nCardtype: Vampire\nClan: Ventrue\nGroup: 2\nCapacity: 11\nDiscipline: aus cel DOM FOR OBF PRE\nCamarilla Ventrue Inner Circle: If Arika is ready during your prey's unlock phase, your prey chooses which locations he or she keeps in play. For each location he or she controls, your prey burns 1 pool or burns the location. +2 bleed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113568"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-82686",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82686-negative-values",
+  "Title": "Negative Values",
+  "Messages": [
+    {
+      "Author": "jonrreeves",
+      "Date": "Nov 24, 2025, 4:54\u202FPM",
+      "Body": "This isn't really a question so much as a humble request for official thumbs up.\n\nThere was a question posted on JOL recently about Condemnation: Mute on a primogen and the mechanic of negative votes. I've seen this question come up a few times, and the answer is straightforward. There is a fundamental property of the game that values can go negative. You can have negative stealth, negative intercept, negative hand strength, negative bleed, and of course negative votes.\n\nIn the process of answering the question, I went looking for some concise official statement about negative values, and I couldn't find one anywhere. As far as I can tell, the word \"negative\" only appears in the card rulings list once, in the context of Life Boon.\n\n@Ankha if I may be so bold as to @ you on here, would you be willing to give me a \"Correct\" response on my statement above, or if I've said anything wrong, a clarifying comment, so we can link to this when answering the question? I realize most experienced VTES players don't have a problem with this concept, but I find it is not intuitive for new players (who are probably bringing context from other games which might not do this), and it would be extremely helpful to have this be discoverable from rulings at least. In the end I'd love to submit a ruling request on Condemnation: Mute specifically linking to this post, but I think it could be applied in a few other places where players have been confused in the past.\n\nMany thanks!",
+      "Id": "115860"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 25, 2025, 5:39\u202FPM",
+      "Body": "> jonrreeves wrote:\n> There is a fundamental property of the game that values can go negative. You can have negative stealth, negative intercept, negative hand strength, negative bleed, and of course negative votes.\n>\nCorrect.\nYou cannot have negative counters however, or a negative number of vampires.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115870"
+    },
+    {
+      "Author": "jonrreeves",
+      "Date": "Nov 26, 2025, 11:54\u202FPM",
+      "Body": "> or a negative number of vampires\n\nWouldn't negative vampires just be imbued? ;-P\n\nKidding of course, thanks for the confirmation!",
+      "Id": "115880"
+    },
+    {
+      "Author": "jonrreeves",
+      "Date": "Dec 9, 2025, 2:52\u202FPM",
+      "Body": "Sorry, hate to resurrect an idle thread, but there's some deliberation about this on discord and it sounds like we're still missing an authoritative answer on whether titles can be worth negative votes. This would be relevant for the various Fee Stake cards, which explicitly say non Anarch *titles* are worth -1 votes. The natural question is can this number go negative? I'll admit based on the fact that vampires can have negative votes, I would assume a title can \"grant\" negative too, but it sounds like there was an old post where someone asserted that titles can't go negative and LSJ didn't explicitly object.\n\nI'm not sure what the right answer is here, is it indeed that titles can bottom out at 0?",
+      "Id": "115955"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Dec 9, 2025, 3:53\u202FPM",
+      "Body": "[quote=\"jonrreeves post=115955 userid=383984\" but it sounds like there was an old post where someone asserted that titles can't go negative and LSJ didn't explicitly object.\n[/quote]\n\nWas a reference to the post provided?\n\nBecause it's easy to find posts where LSJ discusses negative votes and none of those I find say anything about titles bottoming out:\n\nFor example\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/y8ywOLXdEmg/m/YmouHsdWr9oJ\n\n(Having a negative number of votes results in casting 0 votes in the referendum, the same as a negative bleed total results in zero pool loss and not a gain in pool, but that's different from negative votes not being possible.)\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "115957"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Dec 10, 2025, 8:04\u202FAM",
+      "Body": "I think stealth, intercept, strength, bleed, and votes can all be negative and don't bottom out at 0.\n\nThe difference is in handling them. If you have -1 stealth action, -2 intercept minion cannot block it.\n\nThe remaining values can be treated as 0 virtually, but are never actually set to 0 just by being negative. If you have -2 votes, you just don't vote as if you had 0 votes, but the value is not bottomed out - if that vampire gains 4 votes, he now has 2, not 4. Strength and bleed follow similar pattern. You can still strike with -1 strength (and don't add blood / life to the target as a cost of healing...) and bleed for -1 (and don't add pool to the target if successful).",
+      "Id": "115971"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2025, 10:04\u202FAM",
+      "Body": "> jonrreeves wrote:\n> Sorry, hate to resurrect an idle thread, but there's some deliberation about this on discord and it sounds like we're still missing an authoritative answer on whether titles can be worth negative votes. This would be relevant for the various Fee Stake cards, which explicitly say non Anarch *titles* are worth -1 votes. The natural question is can this number go negative?\n>\nIt could, but it will never happen as all titles are worth at least 1 vote or ballot.\n\nName: Free States Rant\n[FN:C2, Anarchs:PAB2, KMW:PAn3, LotN:PA]\nCardtype: Political Action\nRequires an Independent {or Anarch} vampire.\nAllocate X points among one or more ready vampires, where X is half the capacity of the acting vampire (rounded up). No more than 3 points points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point {allocated}. In this referendum, {non-priscus titles are worth 1 less vote each, priscus title is worth 1 less ballot}, and burning the Edge is worth {1} additional vote.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115972"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Dec 10, 2025, 1:20\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jonrreeves wrote:\n> > Sorry, hate to resurrect an idle thread, but there's some deliberation about this on discord and it sounds like we're still missing an authoritative answer on whether titles can be worth negative votes. This would be relevant for the various Fee Stake cards, which explicitly say non Anarch *titles* are worth -1 votes. The natural question is can this number go negative?\n> >\n> It could, but it will never happen as all titles are worth at least 1 vote or ballot.\n>\n> Name: Free States Rant\n> [FN:C2, Anarchs:PAB2, KMW:PAn3, LotN:PA]\n> Cardtype: Political Action\n> Requires an Independent {or Anarch} vampire.\n> Allocate X points among one or more ready vampires, where X is half the capacity of the acting vampire (rounded up). No more than 3 points points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point {allocated}. In this referendum, {non-priscus titles are worth 1 less vote each, priscus title is worth 1 less ballot}, and burning the Edge is worth {1} additional vote.\n>\nCurrent text from fee stake boston:\n>\n> +1 stealth action. Requires an Anarch with capacity 5 or more. Title.\n> Put this card on this Anarch to represent the unique Anarch title of Baron of Boston. While this Anarch is Toreador or Toreador antitribu, they get +1 vote during referendums they call. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.\n>\nAll Fee stakes reduce the votes of a priscus from 0 to -1\nso it can happen.\n\nMost obvious exampel would be genevive that calls that vote, having now -1 vote from priscus, but +1 vote from her special, that is NOT tied to her title, but herself directly.",
+      "Id": "115977"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Dec 10, 2025, 2:04\u202FPM",
+      "Body": "> Ankha wrote:\n> It could, but it will never happen as all titles are worth at least 1 vote or ballot.\n>\nThere are other effects that reduce the votes from a title, like\n\n> cardlist wrote:\n> Name: Rastacourere\n> [Tenth:A/B]\n> Cardtype: Action\n> Cost: 1 pool\n> +1 stealth action.\n> Put this card on a titled vampire. The vampire's title is worth 1 less vote during referendums, and he or she gets -1 stealth when attempting political actions. This vampire's capacity is reduced by 1. (A vampire's capacity cannot go below 1.) A vampire may have only one Rastacourere.\n> Artist: David Day\n>\nA primogen with Rastacourere would have -1 vote at the start of a Free States Rant referendum, no?\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "115978"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2025, 9:08\u202FPM",
+      "Body": "> LSJ wrote:\n> If he's titled, then the number of votes his title\n> is worth in the main referendum is reduced by one (negative values\n> treated as zero).\n>\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/o9N6h9g7PPo/m/gd25YYlzheoJ\n\nSo if a primogen's title is worth -2 votes, the primogen has 0 votes with his title.\nIf that primogen plays a modifier for +2 votes, he would have 2 votes.\nIf he had another card stating that is title is worth +2 votes, he would be back to 1 vote (from his title) +2 votes from the modifier.\n\nReducing the number of votes a title is worth by X is not the same as giving a vampire a plain -X votes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115981"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Dec 18, 2025, 7:23\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > LSJ wrote:\n> > If he's titled, then the number of votes his title\n> > is worth in the main referendum is reduced by one (negative values\n> > treated as zero).\n> >\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/o9N6h9g7PPo/m/gd25YYlzheoJ\n>\n> So if a primogen's title is worth -2 votes, the primogen has 0 votes with his title.\n> If that primogen plays a modifier for +2 votes, he would have 2 votes.\n> If he had another card stating that is title is worth +2 votes, he would be back to 1 vote (from his title) +2 votes from the modifier.\n>\n> Reducing the number of votes a title is worth by X is not the same as giving a vampire a plain -X votes.\n>\nSory Ankha,im not sure if i understand good.\nso if someone play Condemnation: Mute on a primogen (1-3= -2) this primogen have -2 votes-but that count how him have 0 votes,and if play for example Bewitching Oration to get +4 votes him now have 4 votes ( 0+4=4 )?\nthat i understand how you wrote this",
+      "Id": "116016"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Dec 19, 2025, 7:43\u202FAM",
+      "Body": "This is also how I understood Ankha's post and it contradicts my explanation, so would love to have this clarified. If confirmed, are any other parameters calculated the same way (intercept, stealth, strength)?",
+      "Id": "116020"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Dec 19, 2025, 12:22\u202FPM",
+      "Body": "> beslin wrote:\n>\n> > Ankha wrote:\n> >\n> > > LSJ wrote:\n> > > If he's titled, then the number of votes his title\n> > > is worth in the main referendum is reduced by one (negative values\n> > > treated as zero).\n> > >\n> > >\n> > groups.google.com/g/rec.games.trading-cards.jyhad/c/o9N6h9g7PPo/m/gd25YYlzheoJ\n> >\n> > So if a primogen's title is worth -2 votes, the primogen has 0 votes with his title.\n> > If that primogen plays a modifier for +2 votes, he would have 2 votes.\n> > If he had another card stating that is title is worth +2 votes, he would be back to 1 vote (from his title) +2 votes from the modifier.\n> >\n> > Reducing the number of votes a title is worth by X is not the same as giving a vampire a plain -X votes.\n> >\n> Sory Ankha,im not sure if i understand good.\n> so if someone play Condemnation: Mute on a primogen (1-3= -2) this primogen have -2 votes-but that count how him have 0 votes,and if play for example Bewitching Oration to get +4 votes him now have 4 votes ( 0+4=4 )?\n> that i understand how you wrote this\n>\nNo, this Primogen with CM and BO will have 2 votes (1-3+4), if negative valus sticks and counts a condeenation mute on a Bishop or Primogen will be a shot in your foot, i will put my -2 votes in favor of any referendum that Arishat and his infernal friends call being more efective than my original vote count\n\nDavid Resende - Prince of Teresina",
+      "Id": "116023"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 20, 2025, 10:12\u202FAM",
+      "Body": "> beslin wrote:\n> Sory Ankha,im not sure if i understand good.\n> so if someone play Condemnation: Mute on a primogen (1-3= -2) this primogen have -2 votes\n>\nCorrect.\n\n> beslin wrote:\n> -but that count how him have 0 votes,and if play for example Bewitching Oration to get +4 votes him now have 4 votes ( 0+4=4 )?\n>\nNo, -2 + 4 = 2 votes.\n>\n> beslin wrote:\n> that i understand how you wrote this\n>\nThere is a difference between \"The vampire gets -X votes\" and \"The vampire's title is worth -X votes\".\n\nIn the first case, the votes can go negative.\nIn the second case, the title cannot be worth a negative value.\n\nSo:\nPrimogen with Condemnation Mute playing a Betwiching Oration has: 1 -3 + 4 = 2 votes.\n\nPrimogen with Rastacourere expressing votes in a Free States Rant and playing Betwitching Oration has: 0 +4 votes\nsince his title is worth 1-1-1 votes, which would be be negative, so it's worth 0 votes instead.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116028"
+    }
+  ]
+}

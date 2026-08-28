@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-12975",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12975-summon-history-reanimated-corpse",
+  "Title": "Summon History + Reanimated Corpse",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2011, 7:18\u202FAM",
+      "Body": "Vampire A plays Summon History at inferior with cost = 3.\nIf he puts into play a Reanimated Corpse, can the Reanimated Corpse be considered to have a cost of 3 (therefore coming into play with 3 Pathos counters), or is its costs considered to be 0?\n\nName: Summon History\nCardtype: Action\nCost: X blood\nDiscipline: Temporis\n[tem] Search your library and/or ash heap for an ally, retainer or equipment whose cost is X or less. Put that card in play (on this vampire and with starting life from the bank as needed).\n[TEM] Search your crypt and/or ash heap for a non-scarce vampire with capacity X or less. Put that vampire in play, with no blood.\n\nName: Reanimated Corpse\nCardtype: Ally\nCost: X blood\nDiscipline: Thanatosis\nZombie with 2 life. 2 strength, 2 bleed.\n[thn] Put X pathos counters on this corpse when it enters play. During your untap phase, burn 1 pathos counter. Remove the corpse from the game if it has no pathos counters. The corpse can play combat cards that require basic Fortitude [for] as a vampire.\n[THN] As above, but put 2 additional pathos counters on the corpse.\n\nTag: X cost Summon History\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "12975"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 28, 2011, 11:46\u202FAM",
+      "Body": "I would say that the cost of a card is set when the card is played. However, with Summon History, the cards aren't played \"regularly\". (see DI vs Concaeled Weapon, Ian Forestal + Pack Alpha + serpentis retainer, ... )\n\nSo either each card has a default cost (which, usually, is the printed cost, but in this case, would be 0) - or we let the choice be made when card is \"played in the unusual way\".\n\nthe Zhenga + Swarm ruling would push towards the X=0 direction.\n\nI'm trying to find cards that interact with other cards referring to their cost (something like \"Search your library for a card with a cost of 2 or less\", ...)\n\nRegarding the RC's cost, we have one existing ruling:\n* Khobar Towers, that gives X pool (where X is what you paid)\n\nI need some extra time to check this one.",
+      "Id": "12995"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 1, 2011, 6:06\u202FPM",
+      "Body": "When put in play in a non-standard way (via Summon History or Alastor, for instance), X in cost is 0.",
+      "Id": "13169"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 1, 2011, 7:26\u202FPM",
+      "Body": "Could it possible, in the case of things like Summon History & Reanimated Corpse (or any other X-cost target) that the Methuselah may choose to have the Reanimcated corpse be X or less?\n\nFor example:\n\nSummon History is declared for 6 blood cost. Search through the library for a Reanimated Corpse and declare its cost to be 6 (since that is equal to or less than the cost paid to Summon History) and put it into play as if its cost had been six (with the Pathos counters).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "13175"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 1, 2011, 7:32\u202FPM",
+      "Body": "If your question is the same as the initial question, won't my answer be the same?\n\nWhen [a card is] put in play in a non-standard way (via Summon History or Alastor, for instance), X in [its] cost is 0.",
+      "Id": "13177"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 1, 2011, 9:03\u202FPM",
+      "Body": "I'm not trying to disagree with the general principal that for cards such as Kindred Segregation or Consume the Dead, which check the cost of the card as it is in play, should still see cards such as Reanimated Corpse as X = 0 (the minimum required cost to put the card into play).\n\nWhat I am suggesting is that in the same way you can declare a Villein for more than 2, you should be able to declare a Summon History for more than X = 0, lets choose 5 for the sake of a number, and put into a play a Reanimated Corpse as if the Reanimated Corpse cost 5.\n\nThe difference between the other \"put in play\" cards I could easily remember and find all have text dealing with the cost of the card \"put in play\", such as Alastor, Bauble and Pier 13.\n\nAlastor\nType: Political Action\nRequires: justicar,inner circle\nRequires a justicar or Inner Circle member.\nChoose a ready Camarilla vampire. If this referendum is successful, search your library for an equipment card and place this card and the equipment on the chosen vampire. Pay half the cost (round down) of the equipment. This vampire may enter combat with any vampire controlled by another Methuselah as a +1 stealth  action. This vampire cannot commit diablerie. A vampire may have only one Alastor.\n\nPier 13, Port of Baltimore\nType: Equipment\nCost: 2 blood\nThis equipment card represents a unique location and does not count as equipment while in play.\nDuring your influence phase, this minion may equip with a non-location, non-unique equipment card from your hand (requirements and cost apply as normal). This is not an action and cannot be blocked.\n\nBauble\nType: Action\nRequires: Vicissitude\nCost: 2 blood\n+1 stealth action.\nPut this card on the acting vampire. Search your library and put a non-unique, non-location equipment card on another minion you control. Do not pay the cost to equip. The vampire with this card cannot attempt actions, block or vote. You may burn this card and the chosen equipment card during your untap phase or when the minion with the chosen equipment leaves the controlled region.\nAs above, but you may burn this card and the chosen equipment at any time.\n\nSummon History\nType: Action\nRequires: Temporis\nCost: X blood\nSearch your library and/or ash heap for an ally, retainer or equipment whose cost is X or less. Put that card in play (on this vampire and with starting life from the bank as needed).\nSearch your crypt and/or ash heap for a non-scarce vampire with capacity X or less. Put that vampire in play, with no blood.\n\nKindred Segregation\nType: Political Action\nSuccessful referendum means that all allies are burned. Any Methuselah can keep an ally or allies he or she controls by repaying their pool cost to recruit.\n\nConsume the Dead\nType: Action/Reaction\nRequires: Nagaraja\n[ACTION] +1 stealth action.  Enter combat with a wraith ally or burn a wraith retainer.\n[REACTION] Only usable when a minion or retainer is being burned by any means except diablerie. Usable during combat. Usable by a tapped Nagaraja. Remove that minion or retainer from the game instead. This Nagaraja gains 1 blood if the minion was a vampire or gains X+1 blood, where X is the blood or pool cost of that ally or retainer. Burn option.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "13178"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 1, 2011, 9:43\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> I'm not trying to disagree with the general principal that for cards such as Kindred Segregation or Consume the Dead, which check the cost of the card as it is in play, should still see cards such as Reanimated Corpse as X = 0 (the minimum required cost to put the card into play).\n>\nThis is wrong.\nCorruption vs Reanimated Corpse:  [LSJ 20100413] \"The cost is X: X is whatever X was set to when the card was played.\"\nKhobar Towers vs Reanimated Corpse:  [LSJ 20070201] \"Tower uses current cost. For Reanimated Corpse, that cost is X.\"\nCompel the Spirit vs Reanimated Corpse:  [LSJ 20100307] \"if I use it on a Reanimated Corpse, it will assume X=0\"\nKindred Segregation doesn't really interact at all with Reanimated Corpse, since the ally doesn't cost pool, but blood.  [RTR 20010710]\n\n> Juggernaut1981 wrote:\n> What I am suggesting is that in the same way you can declare a Villein for more than 2, you should be able to declare a Summon History for more than X = 0, lets choose 5 for the sake of a number, and put into a play a Reanimated Corpse as if the Reanimated Corpse cost 5.\n>\nThe first part (setting the cost of SH to more than 0, similarly to Villein's terms being settable) is OK. The next part, where you set the RC's cost at SH's resolution, isn't, as I wrote above.\n\n> Juggernaut1981 wrote:\n> The difference between the other \"put in play\" cards I could easily remember and find all have text dealing with the cost of the card \"put in play\", such as Alastor, Bauble and Pier 13.\n>\nNotice that some of these cards read \"equip/employ/recruit\" (which allows more choice than a mere \"put in play\").\n\nIf we had an equipment with a cost of X pool / blood, Alastor would put it in play with X=0 (per the ruling above). If that card requires a discipline, use the inferior.  [LSJ 20020311]\n\nIf we had an appropriate equipment with a cost of X pool / blood, Pier 13 would have the cost set to X=0,1,2, ... at player's choice. Level of discipline is up to the player. These two would have to be set when the \"equip\" part comes up. For instance, when you'd play Concealed Weapon on Tinglestripe, or Pack Alpha on Raptor, you'd announce the level of discipline.\n\nIf we had an appropriate equipment with a cost of X pool / blood, Bauble would have the cost set to X=0. (ruling above). Discipline level would be inferior.  [LSJ 20020311]\n\nAt the end of the day (or night, for Vampires), what matters really is how the card enters play.\nIs it \"played in a normal fashion\" (as an action, for retainers / equipments / allies)? In this case, set X, level of discipline, and eventually target (so far, this only affects Swarm). In this case, the card can be DI'd.\nIs it \"played in a non-normal fashion\" (as in \"this minion equips / employs / recruits\" - examples are The Summoning, Concealed Weapon, Piper, ...)? In this case, set X, level of discipline. Swarm would go on your guy. The card can't be DI'd.\nIs it \"put in play\" (as in \"put this card in play\" - examples are Alastor, Summon History, Bauble, ..)? In this case, X in cost is 0, level of discipline used is inferior. Swarm would go on your guy. The card can't be DI'd.\n\nI hope this is clear and covers everything.",
+      "Id": "13181"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Nov 1, 2011, 10:10\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> If we had an equipment with a cost of X pool / blood, Alastor would put it in play with X=0 (per the ruling above). If that card requires a discipline, use the inferior. .\n>\nI don't think you actually placed the link to this ruling. Could you please provide it?",
+      "Id": "13183"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 1, 2011, 10:23\u202FPM",
+      "Body": "Scroll up four posts from that post you quote : vekn.net/index.php/forum/6-rules-questions/12975-summon-history--reanimated-corpse#13169\nor two posts: vekn.net/index.php/forum/6-rules-questions/12975-summon-history--reanimated-corpse#13177\n\nI don't know yet which acronym to use. \"PB\"? \"FZD\"? \"BER\"? \"PAS\"? \"PIB\"? \"PBE\"? Something else? Maybe we should have a referendum on that",
+      "Id": "13184"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 2, 2011, 12:19\u202FAM",
+      "Body": "Thanks. Didn't mean to seem objectionable, more playing a Devil's Advocate.\n\nBy the way... seems sensible for it to be \"PB\" as in \"IANPB\" or \"IIRC but IANPB\" .\n\nPBR (Pascal Bertrand Ruling)\nRTR (Rulings Team Ruling)\n\nShouldn't be too much confusion there.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "13194"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Nov 2, 2011, 1:44\u202FAM",
+      "Body": "> Pascal wrote:\n> I don't know yet which acronym to use. \"PB\"? \"FZD\"? \"BER\"? \"PAS\"? \"PIB\"? \"PBE\"? Something else? Maybe we should have a referendum on that\n>\nPIB looks cool. If you are the Rules Monger, one of your initials should be mysterious.",
+      "Id": "13198"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Nov 2, 2011, 5:03\u202FAM",
+      "Body": "> Pascal wrote:\n> Scroll up four posts from that post you quote : vekn.net/index.php/forum/6-rules-questions/12975-summon-history--reanimated-corpse#13169\n> or two posts: vekn.net/index.php/forum/6-rules-questions/12975-summon-history--reanimated-corpse#13177\n>\n> I don't know yet which acronym to use. \"PB\"? \"FZD\"? \"BER\"? \"PAS\"? \"PIB\"? \"PBE\"? Something else? Maybe we should have a referendum on that\n>\nOh, this is a new ruling, and not taken from LSJ or the old rules team. I was asking for a link to your reference, but there isn't one\n\nMy guess is that your logic is thus: the cost of a card with cost X is determined at the time the card is played and only then. Since cards brought into play by Summon History and Alastor are not technically played, their costs cannot be determined. Zero is the closest equivalency to an undetermined cost.\n\nI think many people will interpret the Summon History/Reanimated Corpse situation as Juggernaut did, so this is certainly one to consider adding to the official list of rulings.",
+      "Id": "13205"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-78423",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78423-mental-maze-and-obedience",
+  "Title": "Mental Ma\u017Ce and Obedience",
+  "Messages": [
+    {
+      "Author": "Raven",
+      "Date": "Feb 7, 2020, 6:22\u202FAM",
+      "Body": "Hello,\n\nWhen vampire Has blocked an action, and then player Mental Ma\u017Ce, then action is successfull or unsuccessfull?\n\nSame with Obedience?",
+      "Id": "98900"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 7, 2020, 7:05\u202FAM",
+      "Body": "If the action was blocked, then it was unsuccessful. Mental Maze and Obedience have no impact on that matter.\n\nBut I sense there is something more you want to ask.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98901"
+    },
+    {
+      "Author": "Raven",
+      "Date": "Feb 7, 2020, 7:13\u202FAM",
+      "Body": "Not really,\n\nI have been told that player cannot play Freak Drive after combat was cancelled by Obedience because it's before block resolution. But Your reply clarify everything\n\nMental Maze\nOnly usable when this vampire blocks an ally or a younger vampire, before block resolution.\n\nLock this vampire, and end the action. This card costs Followers of Set 1 fewer blood. As above, but do not lock this blocking vampire.\n\nObedience\n\nOnly usable when this vampire is about to enter combat with an acting younger vampire.\n\nUnlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn. As above, but do not unlock the acting vampire.",
+      "Id": "98903"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Feb 7, 2020, 7:49\u202FAM",
+      "Body": "> I have been told that player cannot play Freak Drive after combat was cancelled by Obedience because it's before block resolution. But Your reply clarify everything\n>\nJust to make sure, the correct answer is that Freak Drive may not be played. This is because those reactions end the action prematurely and immediately, and no further modifiers or reactions can be played.\n\nThe same applies to cards like Change of Target and Mirror Walk; if you play either of those, and the clause to end the action triggers, the action ends before cards like Freak Drive or Zephyr may be played.\n\nName: Mirror Walk\n[Third:C, KoT:C, SP:PwN6]\nCardtype: Action Modifier\nDiscipline: Thaumaturgy\nDo not replace until your discard phase.\n[tha] +1 stealth.\n[THA] As [tha] above, and if this action is blocked, lock the blocking minion and end the action before block resolution.\nArtist: Brian LeBlanc\n\nName: Change of Target\n[Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, LoB:PG2/PI2, KoT:U/PM3, SP:LB4, FB:PTo4]\nCardtype: Action Modifier\nOnly usable if this minion is blocked, before block resolution.\nUnlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\nArtist: Dan Frazier; Chris Stevens\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "98905"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 7, 2020, 8:02\u202FAM",
+      "Body": "> Kraus wrote:\n>\n> > I have been told that player cannot play Freak Drive after combat was cancelled by Obedience because it's before block resolution. But Your reply clarify everything\n> >\n> Just to make sure, the correct answer is that Freak Drive may not be played. This is because those reactions end the action prematurely and immediately, and no further modifiers or reactions can be played.\n>\nCorrect.\nThe action is blocked => it has reached resolution and is unsuccessful.\nMental Maze is played. It ends the action.\n\nSince the action has been ended, there is no action action anymore to modify (=> Freak Drive cannot be played) or to react to (=> Cats' Guidance cannot be played).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98906"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 7, 2020, 8:03\u202FAM",
+      "Body": "> Raven wrote:\n> I have been told that player cannot play Freak Drive after combat was cancelled by Obedience because it's before block resolution.\n>\nObdience doesn't cancel combat. It ends the action before combat happens (cardtext), which is not the same.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98907"
+    },
+    {
+      "Author": "Raven",
+      "Date": "Feb 7, 2020, 8:27\u202FAM",
+      "Body": "Thank guys, now it's clear",
+      "Id": "98908"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Feb 9, 2020, 4:40\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Raven wrote:\n> > I have been told that player cannot play Freak Drive after combat was cancelled by Obedience because it's before block resolution.\n> >\n> Obdience doesn't cancel combat. It ends the action before combat happens (cardtext), which is not the same.\n>\nWhat if only combat is cancelled, or a new combat is queued? As in\n\nName: Ohoyo Hopoksia (Bastet)\n[LoB:R]\nCardtype: Ally\nClan: Ahrimane\nCost: 3 pool\nUnique werewolf with 3 life. 3 strength, 0 bleed.\nWhen a minion you control is about to enter combat with an acting minion, you may lock Ohoyo to cancel that combat; Ohoyo enters combat with the acting minion instead. She gets an optional maneuver each combat. If she has less than 3 life during your unlock phase, she gains 1 life from the blood bank.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "98923"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 9, 2020, 5:32\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> >\n> > > Raven wrote:\n> > > I have been told that player cannot play Freak Drive after combat was cancelled by Obedience because it's before block resolution.\n> > >\n> > Obdience doesn't cancel combat. It ends the action before combat happens (cardtext), which is not the same.\n> >\n> What if only combat is cancelled, or a new combat is queued?\n>\nThen you play it after resolution as usual.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98924"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Feb 10, 2020, 11:50\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Bloodartist wrote:\n> > What if only combat is cancelled, or a new combat is queued?\n> >\n> Then you play it after resolution as usual.\n>\nFor me, it has never been quite clear whether the combat that follows a successful block is part of the action or not. I don't see it clearly stated in the rulebook.\n\nThis has some effects regarding action modifiers, namely if you want to unlock after your action is blocked with superior freak drive, you have to play it before the combat happens? Because if the combat is not part of the action, then it cannot be played afterwards? I'm pretty sure we have played this wrong so far if that's the case..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "98932"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 10, 2020, 1:44\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> >\n> > > Bloodartist wrote:\n> > > What if only combat is cancelled, or a new combat is queued?\n> > >\n> > Then you play it after resolution as usual.\n> >\n> For me, it has never been quite clear whether the combat that follows a successful block is part of the action or not. I don't see it clearly stated in the rulebook.\n>\nCombats are part of the action.\n\n> Bloodartist wrote:\n> This has some effects regarding action modifiers, namely if you want to unlock after your action is blocked with superior freak drive, you have to play it before the combat happens?\n>\nNo, you have to play it after combat.\n\n> Bloodartist wrote:\n> Because if the combat is not part of the action, then it cannot be played afterwards? I'm pretty sure we have played this wrong so far if that's the case..\n>\nSee above.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98934"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Feb 10, 2020, 3:12\u202FPM",
+      "Body": "> Ankha wrote:\n> Combats are part of the action.\n>\nPerhaps this could be made bit clearer in the rulebook.\n\nps. But are the additional queued combats? Iirc there were rulings some time back related to who is \"acting vampire\" in the additional combats, which might contradict with this. If the additional combats are part of the action, then \"acting vampire\" status persists into those combats. I cant remember exactly right now but I thought there was something that might contradict with this.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "98937"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 10, 2020, 3:42\u202FPM",
+      "Body": "As I said \"combats\" (plural) are part of the action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98938"
+    }
+  ]
+}

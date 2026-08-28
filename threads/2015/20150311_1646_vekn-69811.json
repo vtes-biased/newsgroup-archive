@@ -1,0 +1,242 @@
+{
+  "ThreadId": "vekn-69811",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/69811-optimal-seatings-changes-3r-f",
+  "Title": "Optimal seatings changes 3R+F",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Mar 11, 2015, 4:46\u202FPM",
+      "Body": "Please disregard those results, for some of them are wrong due to a flaw in the validation.\n\nFrom now on, I strongly recommand not to use the version 1.5e but version 1.5f :\n\nExcel: www.vekn.net/images/stories/downloads/thearchon1.5f.xlsx\nLibreOffice: www.vekn.net/images/stories/downloads/thearchon1.5f.ods\n\nOk, I've started toying with the 3R seatings.\n\nStarting with 10 players, the current seating is :\n12345|678910\n101982|56437\n471031|92586\n\nwith the following results:\n\nRuleExpectedResult N10 1. No pair of players repeat their predator-prey relationship. This is mandatory, by the VEKN rules.OK 2. No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)KO (player 1 shares a table with player 2 on round 2) 3. Available VPs are equitably distributed.OKOK 5. A player doesn't sit in the fifth seat more than once.OK 6. No pair of players repeat the same relative position[*], when possible.KO (players 8 and 10, table 1, round 2) 7. A player doesn't play in the same seat position, if possible.KO (player 7, table 1, position 2) 8. Starting transfers are equitably distributed. [NOAL]KO. Absolute deviation is: 1,04 => 1, 6 have 7 transfers | 2, 4, 5, 7, 9, 10 have 8 transfers | 3, 8 have 11 transfers\nThe first of the best results I have computed is:\n12345|678910\n862101|59473\n103928|41756\nwith the following results:\nRuleExpectedResult N10 1. No pair of players repeat their predator-prey relationship. This is mandatory, by the VEKN rules.OK 2. No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)KO (player 1 shares a table with player 2 on round 2) 3. Available VPs are equitably distributed.OKOK 5. A player doesn't sit in the fifth seat more than once.OK 6. No pair of players repeat the same relative position[*], when possible.OK 7. A player doesn't play in the same seat position, if possible.OK 8. Starting transfers are equitably distributed. [NOAL]KO. Absolute deviation is: 0,72 => 1, 6 have 7 transfers | 2, 3, 5, 7, 9, 10 have 9 transfers | 4, 8 have 8 transfers\n\nSo compared to the current seating, rule 2 and 7 are no longer violated and the distribution of the transfers has a lesser deviation.\nPlus, everyone has at least once 4 transfers.\n\nDo you see anything unoptimal with the proposed new seating?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69811"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 12, 2015, 1:09\u202FPM",
+      "Body": "8 players (3R): unchanged 7 1 8 2 | 3 5 4 6 / 4 7 6 1 | 8 3 2 5\nRule 2 KO (player 1 shares a table with player 2 on round 2): 12 (once), 12 (twice)\nRule 8 KO. Absolute deviation is: 1 => 1, 5 have 7 transfers | 2, 6 have 9 transfers | 3, 7 have 6 transfers | 4, 8 have 8 transfers\n\n9 players (3R): unchanged 9 4 2 8 6 | 5 3 7 1 / 8 1 9 7 3 | 4 6 5 2\nRule 2 KO (player 1 shares a table with player 3 on round 2): 15 (once), 12 (twice), 3 (thrice)\nRule 3 KO. Absolute deviation is: 0,222 => 1, 2, 3, 4, 8, 9 have 14 VP | 5, 6, 7 have 13 VP\nRule 8 KO. Absolute deviation is: 0,666 => 1, 4, 6 have 7 transfers | 2, 3, 7 have 9 transfers | 5, 8, 9 have 8 transfers\n\n10 players (3R): unchanged 10 1 9 8 2 | 5 6 4 3 7 / 4 7 10 3 1 | 9 2 5 8 6\nRule 2 KO. (player 1 shares a table with player 2 on round 2): 18 (once), 18 (twice), 2 (thrice))\nRule 6 and 7 KO.\nRule 8 KO. Absolute transfer deviation is: 1,04\nThe alternative seating (8 6 4 1 3 | 9 5 2 10 7 / 10 4 9 6 1 | 5 3 7 2 8 ) will not be kept because even though it doesn't violate rule 6 and 7 and has a better transfer deviation, it violates rule 2 with 3 pairs of players meeting thrice.\n\n12 players (3R): 6 9 5 1 | 11 8 10 3 | 2 4 12 7 / 8 1 9 2 | 7 5 4 11 | 12 3 6 10\nRule 2 KO (player 2 shares a table with player 4 on round 2): 36 (once), 9 (twice)\n(Current seating violates rule 2 (player 1 shares a table with player 2 on round 2): 30 (once), 12 (twice))\nRule 8 KO. Absolute deviation is: 1 => 1, 5, 9 have 7 transfers | 2, 6, 10 have 9 transfers | 3, 7, 11 have 6 transfers | 4, 8, 12 have 8 transfers\n\n13 players (3R): 12 10 1 6 8 | 11 4 2 7 | 13 5 9 3 / 9 13 7 1 11 | 5 6 10 2 | 3 8 4 12\nRule 2 KO (player 2 shares a table with player 4 on round 2): 42 (once), 12 (twice)\n(Current seating violates rule 2 (player 1 shares a table with player 3 on round 2): 34 (once), 16 (twice))\nRule 3 KO. Absolute deviation is: 0,071 => 1 have 15 VP | 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 have 13 VP\n(Current seating has the same absolute vp deviation)\nRule 8 KO. Absolute deviation is: 0,804 => 1, 3, 9, 12 have 8 transfers | 2, 4, 7, 8 have 9 transfers | 5, 6, 11, 13 have 7 transfers | 10 have 6 transfers\n(Current seating has the same absolute transfer deviation)\n\n14 players (3R): 12 6 1 11 7 | 14 10 2 13 3 | 4 9 5 8 / 5 11 9 6 14 | 8 13 4 12 2 | 7 3 10 1\nRule 2 KO (player 2 shares a table with player 3 on round 2): 42 (once), 18 (twice)\n(Current seating has the same encounter repartition)\nRule 3 KO. Absolute deviation is: 0,0612 => 1, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14 have 14 VP | 2, 6 have 15 VP\n(Current seating has the same absolute deviation)\n(Current seating violates rule 7: player 12, table 2, position 2)\nRule 8 KO. Absolute deviation is: 0,734 => 1, 4, 5, 8 have 8 transfers | 2, 3, 9, 10, 13, 14 have 9 transfers | 6, 7, 11, 12 have 7 transfers\n(Current seating has an absolute deviation of 0,755)\n\n15 players (3R): 5 11 6 1 12 | 13 4 7 2 8 | 9 3 15 10 14 / 14 1 4 11 7 | 12 15 2 6 9 | 10 8 5 13 3  (fixed in 1.5f)\nRule 2 KO (player 1 shares a table with player 5 on round 2): 54 (once), 18 (twice)\n(Current seating has the same encounter repartition)\n(Current seating also violate rule 6 and 7: player 8, table 1, position 3)\nRule 8 KO. Absolute deviation is: 0,72 => 1, 11, 12 have 7 transfers | 2, 3, 4, 7, 8, 9, 10, 14, 15 have 9 transfers | 5, 6, 13 have 8 transfers\n(Current seating has an absolute deviation of 1,12)\n\n16 players (3R): unchanged 8 1 14 11 | 12 5 2 15 | 16 9 6 3 | 4 13 10 7 / 15 7 1 9 | 10 16 8 2 | 3 11 13 5 | 6 4 12 14\nRule 8 KO.\n(Current seating has an absolute transfer deviation of 1)\n\n17 players (3R) (in progress) (fixed in 1.5f)\n\nFor 17 players, I had to \"cheat\" a little by entering manually some seatings (otherwise it would take 1 year to compute), so I don't know if there is a better solution. Anyway, this seating is slightly better.\nWhat I did is that I chose 2 players that will never be seated on the only 5-players table (since only 15 players can be seated there through the 3 rounds). I chose players 12 and 17. I seated them in 4th, 3rd, 2nd position so they get in exchange the most transfers. The other players can only be seated once on the 5-players table, and I limited the number of players with 6 transfers to two.\nPlayers 1 and 14 are 1st, 2nd and 3rd (6 transfers) but some players are necessarily disadvantaged.\n\nEDIT:\nThe seating in the version 1.5d of the archon had two pairs of players meeting each other in a prey-predator then predator-prey way.\nEDIT: the seating in version 1.5a had no violation of rule 1, therefore we use it until we found a better seating: 17 13 11 6 8 | 3 1 7 15 | 5 9 2 12 | 4 10 14 16 / 15 12 9 7 10 | 11 3 6 14 | 16 8 1 5 | 13 17 4 2\n\n18 players (3R) 12 15 11 6 1 | 16 18 7 2 13 | 17 4 14 8 | 9 5 10 3 / 13 8 5 15 17 | 3 14 9 11 16 | 2 6 18 12 | 10 1 4 7\nRule 2 KO (player 3 shares a table with player 5 on round 2): 72 (once), 12 (twice)\n(Current seating has a worse encounter repartition: 66 (once), 15 (twice))\nRule 3 KO. Absolute deviation is: 0,222 => 1, 2, 3, 5, 6, 7, 8, 9, 11, 13, 15, 16 have 14 VP | 4, 10, 12, 14, 17, 18 have 13 VP\n(Current seating has the same absolute VP deviation.)\nRule 8 KO. Absolute deviation is: 0,666 => 1, 2, 6, 12, 15, 16 have 7 transfers | 3, 9, 10, 11, 13, 17 have 8 transfers | 4, 5, 7, 8, 14, 18 have 9 transfers\n(Current seating has an absolute transfer deviation of 0,777)\n\n19 players (3R): 12 4 11 6 16 | 17 14 7 18 1 | 2 19 9 13 8 | 5 10 15 3 / 13 3 10 17 11 | 18 5 19 12 6 | 15 8 1 16 7 | 14 9 4 2\nKO (player 4 shares a table with player 5 on round 2): 84 (once), 12 (twice)\n(Current seating has a the same encounter repartition)\nRule 3 KO. Absolute deviation is: 0,182 => 1, 2, 6, 7, 8, 11, 12 have 15 VP | 3, 4, 5, 9, 10, 13, 14, 15, 16, 17, 18, 19 have 14 VP\n(Current seating has the same absolute vp deviation)\n(Current seating violates rule 7.)\nRule 8 KO. Absolute deviation is: 0,747 => 1, 7, 11, 17, 19 have 7 transfers | 2, 4, 5, 12, 13, 14, 15, 16, 18 have 9 transfers | 3, 6, 8, 9, 10 have 8 transfers\n(Current seating has an absolute transfer deviation of 0,831)\n\n20 players (3R) (in progress): 3 1 14 10 17 | 8 6 19 15 2 | 13 11 4 20 7 | 18 16 9 5 12 / 15 19 7 1 13 | 20 4 12 6 18 | 5 9 17 11 3 | 10 14 2 16 8\nRule 8. KO. Absolute deviation is: 0,72 => 1, 6, 11, 16 have 7 transfers | 2, 4, 5, 7, 9, 10, 12, 14, 15, 17, 19, 20 have 9 transfers | 3, 8, 13, 18 have 8 transfers\n\n21 players (3R): to revalidate fixed in 1.5f\nThe seating in 1.5a has a better score on rule 2. \"No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)\" It is used until we found something better\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69831"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 26, 2015, 8:40\u202FPM",
+      "Body": "Ok, we have a better seating for 15 players! Hooray!\nIf you see anything strange with this seating or have any comment, feel free to post!\n\nIn any case, it has a better transfer distribution, and more importantly, doesn't violate rules 6 and 7 anymore!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70091"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 27, 2015, 6:24\u202FAM",
+      "Body": "We also have a better seating for 14 players (better transfer distribution, and more importantly, it doesn't violate rule 7. \"A player doesn't play in the same seat position, if possible.\" anymore!)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70092"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 27, 2015, 8:48\u202FAM",
+      "Body": "Thank you SO much for putting time and energy for this!\n\nFinnish  Politics!",
+      "Id": "70093"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Mar 27, 2015, 8:35\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> Thank you SO much for putting time and energy for this!\n>\nSeconded! B-)\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "70101"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 28, 2015, 8:33\u202FAM",
+      "Body": "Thank you for your support. I've added results for 17 players, with an explanation of how I did it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70105"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 29, 2015, 5:32\u202FAM",
+      "Body": "Results for 18 players have been added. The new seating has better transfers, and no longer violates rule 7 \"A player doesn't play in the same seat position, if possible.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70123"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 29, 2015, 6:34\u202FAM",
+      "Body": "Results for 19 players have been added (and it was quick!). The new seating has better transfers, and no longer violates rule 7 \"A player doesn't play in the same seat position, if possible.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70126"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 29, 2015, 10:51\u202FAM",
+      "Body": "Current results for 20 seem optimal: all players that are at the same starting position on each table rotate the same way. I've just switched tables 3 and 4 on round 3 because there should be ordered that way by construction.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70132"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 30, 2015, 9:54\u202FAM",
+      "Body": "I've added the result for 21 players.\n\nThe current seating violates rule 7 (\"A player doesn't play in the same seat position\") but has a better deviation (one less player with 6 transfers and 9 transfers, one more with 7 and 8 transfers). Which one is better?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70144"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 18, 2015, 3:10\u202FPM",
+      "Body": "I fixed the results for 18 (bad paste).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70598"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 30, 2015, 7:19\u202FAM",
+      "Body": "We used the new seatings to our last tournament (17 players), and many players had the feeling the met the same players often.\n\nI gave a look to the seating used, and I can confirm that this feeling was true. Among all the possible seatings that are \"optimal\" (ie. with the lowest vp/transfers deviation), there are variations about how many times player X met player Y.\n\nFor instance, the current (non-optimal) seating has 13 pairs of players that meet twice, and 58 pairs of players that meet once during the 3 rounds.\n\nThe seating I took among the list of optimal seatings was: 9 14 10 15 7 | 5 12 4 2 | 3 13 17 6 | 16 1 11 8 / 13 8 6 11 16 | 15 5 14 3 | 7 4 1 12 | 2 17 9 10\n\nIt contains 1 pair of players that meet thrice (14 and 15), 14 pairs twice, 53 pairs once.\n\nBut there are other optimal seatings that seem \"better\": 17 pairs twice, 50 pairs once, or 15 pairs twice, 54 pairs once.\n\nI think we should value more the seatings with the most \"meet once\" pairs.\n\nBut what if it increases the number of players that meet thrice?\n\nFor instance, the seating with the most \"meet once\" pairs is: 63 once, 6 twice, 3 thrice\n\nThe seating with the most \"meet once\" pairs AND no \"meet thrice\" pairs is: 60 once, 12 twice\n\nWhich seating is \"better\"?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70777"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 30, 2015, 7:37\u202FAM",
+      "Body": "1. No pair of players repeat their predator-prey relationship.\n2. No pair of players share a table through all three rounds, when possible.\n3. Available VPs are equitably distributed.\n4. No pair of players share a table more often than necessary.\n5. A player doesn't sit in the fifth seat more than once.\n6. No pair of players repeat the same relative position[*], when possible.\n7. A player doesn't play in the same seat position, if possible.\n8. Starting transfers are equitably distributed. [NOAL]\n9. No pair of players repeat the same relative position group[^], when possible.\n\nHow can two results be equally optimal if they don't have the same result for criteria 2 and 4?",
+      "Id": "70778"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Apr 30, 2015, 7:41\u202FAM",
+      "Body": "> Ankha wrote:\n> thrice\n>\nDo not use this word.\n\n> I think we should value more the seatings with the most \"meet once\" pairs.\n>\n> But what if it increases the number of players that meet thrice?\n>\nPlaying against the same person three times in the preliminary rounds of a tournament seems terrible. One might say suboptimal.",
+      "Id": "70779"
+    },
+    {
+      "Author": "alf",
+      "Date": "May 1, 2015, 8:18\u202FAM",
+      "Body": "> BenPeal wrote:\n>\n> > Ankha wrote:\n> > thrice\n> >\n> Do not use this word.\n>\nIsn't this the plural of throuse?\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "70799"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "May 1, 2015, 2:12\u202FPM",
+      "Body": "> BenPeal wrote:\n>\n> > Ankha wrote:\n> > thrice\n> >\n> Do not use this word.\n>\n> > I think we should value more the seatings with the most \"meet once\" pairs.\n> >\n> > But what if it increases the number of players that meet thrice?\n> >\n> Playing against the same person three times in the preliminary rounds of a tournament seems terrible. One might say suboptimal.\n>\nYes definitely in players meeting three times more than multi-pairs of players",
+      "Id": "70806"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 1, 2015, 3:56\u202FPM",
+      "Body": "I'm redoing the computations because rule 2 had been taken out of the equation.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70808"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 2, 2015, 12:57\u202FPM",
+      "Body": "> alf wrote:\n> Isn't this the plural of throuse?\n>\nen.wiktionary.org/wiki/thrice\n\nFinnish  Politics!",
+      "Id": "70846"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 5, 2015, 11:27\u202FAM",
+      "Body": "I've corrected the algorithm to take rule 2 into account. The algorithm will now return the results that minimize the number of times each player meet other players, and will exclude any results where the players would meet on the three rounds.\n\nI takes a lot of computation power to get the results, so if you have a PC that runs Windows, and some spare CPU, you can help!\n\n1/ download www.veknfrance.com/tmp/seatings19calculator.7z\n2/ extract the files in it into an empty folder\n3/ run the command line: ConsoleApplication5.exe X Y\nor double-click on ConsoleApplication5.exe and input the interval\n\nX and Y define the boundaries of the computation interval. For my part, I've already calculated the results from 1 to 127000 (over 228550), so try to take intervals of size 10000  starting from 150000. If you do, please leave a message here before launching the computation and indicate what interval you are going to computeso that other people don't compute the same thing.\n\n4/ in the folder, files will appear: seating3r-19.txt-$$$$-$$$$-$$$$-$$$$$$$$$$-value\nWhen the computation is over, please create a zip with those files and send me that archive.\n\nBeware! It's a pretty heavy computation that will take all your powerhorses, making it laggish. The best thing to do is to take small intervals and make it run nightly.\n\nHere's the list of contributors:\nAnkha: 1 - 144 000\nAnkha (azure81): 144 000 - 144 999\nAnkha (132): 145 000 - 150 000\nAnkha (build8): 150 001 - 159 999\nLestat: 180 000 - 190 000\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000\nApolokia final: 220 000 - 228 550\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70934"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 6, 2015, 7:36\u202FAM",
+      "Body": "Updated the list of contributors. Any help would be greatly appreciated!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70946"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2015, 9:45\u202FAM",
+      "Body": "Current list of contributors for 19 players.\n\nAnkha: 1 - 144 000\nAnkha (azure81): 144 000 - 144 999\nAnkha (132): 145 000 - 150 000\nAnkha (build8): 150 001 - 159 999\nLestat: 180 000 - 190 000\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000\nApolokia final: 220 000 - 228 550\n\nAnyone can help to get this computation done!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71024"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2015, 3:44\u202FPM",
+      "Body": "Updated list:\n\nAnkha: 1 - 142 999\nAnkha (132): 143 000 - 143 999\nAnkha (azure81): 144 000 - 144 999 ETA: 12/06/2015\nAnkha (132): 145 000 - 150 000 ETA: 17/05/2015 OK\nAnkha (build8): 150 001 - 159 999 ETA: 17/05/2015\nLSJ: 160 000 - 179 999\nLestat: 180 000 - 190 000 OK\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000\nApolokia final: 220 000 - 228 550 OK\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71065"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 19, 2015, 6:00\u202FAM",
+      "Body": "Updated list:\n\nAnkha: 1 - 142 999\nAnkha (132): 143 000 - 143 999 ETA: 18/05/2015 OK\nAnkha (azure81): 144 000 - 144 999 ETA: 08/06/2015\nAnkha (132): 145 000 - 150 000 ETA: 17/05/2015 OK\nAnkha (build8): 150 001 - 159 999 ETA: 20/05/2015\nLSJ: 160 000 - 179 999\nLestat: 180 000 - 190 000 OK\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000\nApolokia final: 220 000 - 228 550 OK\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71219"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2015, 6:29\u202FAM",
+      "Body": "Updated list:\n\nAnkha: 1 - 140 000\n2wayspeaker : 140 000 - 140 500\nSelim: 140 500 - 140 750 OK\nAnkha (132): 140 750 - 140 999\nAnkha: 141 000 - 141 500\nLestat: 141 500 - 141 900 OK\nAnkha (132): 141900 - 142 499 OK\nAnkha (132): 142 500 - 142 999 OK\nAnkha (132): 143 000 - 143 999 OK\nAnkha (azure81/build8): 144 000 - 144 999 ETA: 08/06/2015\nAnkha (132): 145 000 - 150 000 OK\nAnkha (build8): 150 001 - 159 999 OK\nLSJ: 160 000 - 179 999\nLestat: 180 000 - 190 000 OK\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000 OK\nApolokia final: 220 000 - 228 550 OK\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71303"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "May 24, 2015, 12:37\u202FPM",
+      "Body": "Hey Ankha not shur if I interpreted this right: You want to calculate all instances of 1 to 228550. Green is done, Named are spoken for.\n\nI just started 140000 to 140500. ETA 24/05 16:59 Laptop i7--3610QM\nAlso started 141000 to 141500 ETA 24/05 16:53 PC Xeon E3-1230V3 (but this might be redundant because you are already doing this)\n\nI have a xeon e3 1230 v3 usually used for renders, so if you want me to take over some other intervals let me know.\n\nEdit: the ETA moves  My laptop will now be finished 25/05 03:30\nEdit2: Also an overnight ETA for the Xeon: 25/05 03:08\n\nEdit 3: ETA laptop 25/05 20:31\nETA Xeon 25/05 10:07 (Cancelled)",
+      "Id": "71307"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2015, 1:13\u202FPM",
+      "Body": "Cool, thanks!\n\n> 2wayspeaker wrote:\n> Hey Ankha not shur if I interpreted this right: You want to calculate all instances of 1 to 228550. Green is done, Named are spoken for.\n>\nYou got it right.\n\n> 2wayspeaker wrote:\n> I just started 140000 to 140500. ETA 24/05 16:59 Laptop i7--3610QM\n>\nI'll update the post with your name.\n\n> 2wayspeaker wrote:\n> Also started 141000 to 141500 ETA 24/05 16:53 PC Xeon E3-1230V3 (but this might be redundant because you are already doing this)\n>\nIndeed, I'm almost done with it.\n\n> 2wayspeaker wrote:\n> I have a xeon e3 1230 v3 usually used for renders, so if you want me to take over some other intervals let me know.\n>\nSure I will. Computation for 19 is almost over, but there will be more computation for 20 players for instance.\n\n> 2wayspeaker wrote:\n> Edit: the ETA moves  My laptop will now be finished 25/05 03:30\n> Edit2: Also an overnight ETA for the Xeon: 25/05 03:08\n>\nYes, this is because the estimated time is an extrapolation based on the number of parts already computed and the time it took. If the first parts are quick to compute, the estimated time will increase.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71308"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "May 24, 2015, 1:19\u202FPM",
+      "Body": "Ok, I'll cancel the 141000-141500.\nIf you want you can already start me on the calcs for 20.",
+      "Id": "71309"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2015, 1:27\u202FPM",
+      "Body": "> 2wayspeaker wrote:\n> Ok, I'll cancel the 141000-141500.\n> If you want you can already start me on the calcs for 20.\n>\nI will post the program in a few days, but I'm trying first to optimize the algorithm further to reduce the computation time.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71310"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2015, 5:07\u202FAM",
+      "Body": "Updated list:\n\nAnkha: 1 - 140 000\n2wayspeaker: 140 000 - 140 500\nSelim: 140 500 - 140 750 OK\nAnkha: 140 750 - 141 500 OK\nLestat: 141 500 - 141 900 OK\nAnkha (132): 141900 - 142 499 OK\nAnkha (132): 142 500 - 142 999 OK\nAnkha (132): 143 000 - 143 999 OK\nAnkha (azure81/build8): 144 000 - 144 999 ETA: 08/06/2015\nAnkha (132): 145 000 - 150 000 OK\nAnkha (build8): 150 001 - 159 999 OK\nLSJ: 160 000 - 179 999\nLestat: 180 000 - 190 000 OK\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000 OK\nApolokia final: 220 000 - 228 550 OK\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71315"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "May 25, 2015, 4:01\u202FPM",
+      "Body": "My results are in.\nI ran it on my Xeon because it would outspeed by almost 10hours.\n\n501 Parts\n95403 Seconds\nwww.mediafire.com/download/dvodb8jplk4lgb8/seatings19calculator-Results140000-140500.rar\n\nI was hesitant to shut it off because there was no new file produced at the end of the calculation. The last file created came from 3hrs earlier.",
+      "Id": "71318"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2015, 5:26\u202FPM",
+      "Body": "Updated list:\n\nAnkha: 1 - 140 000 OK\n2wayspeaker: 140 000 - 140 500 OK\nSelim: 140 500 - 140 750 OK\nAnkha: 140 750 - 141 500 OK\nLestat: 141 500 - 141 900 OK\nAnkha (132): 141900 - 142 499 OK\nAnkha (132): 142 500 - 142 999 OK\nAnkha (132): 143 000 - 143 999 OK\nAnkha (azure81/build8): 144 000 - 144 999 OK\nAnkha (132): 145 000 - 150 000 OK\nAnkha (build8): 150 001 - 159 999 OK\nLSJ: 160 000 - 174 999\nAnkha (8): 175 000 - 175 999\n2wayspeaker: 176 000 - 176 499\nAnkha (132): 176500 - 176 999 OK\nAnkha: 177000 - 177 999 OK\nMimmy: 178000 - 179 999\nLestat: 180 000 - 190 000 OK\nLestat: 190 000 - 200 000\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000 OK\nApolokia final: 220 000 - 228 550 OK\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71319"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "May 25, 2015, 5:51\u202FPM",
+      "Body": "I'll take 176 000 - 176 499 but I can only start on it tomorrow afternoon.\nIt'll be finished 28/05 most likely.",
+      "Id": "71320"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "May 27, 2015, 7:25\u202FAM",
+      "Body": "I calculated 176000-176499.\n\n500 parts\n79756 seconds\n\nBut the program did not produce any results.\nIs this OK?",
+      "Id": "71340"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 27, 2015, 7:36\u202FAM",
+      "Body": "> 2wayspeaker wrote:\n> I calculated 176000-176499.\n>\n> 500 parts\n> 79756 seconds\n>\n> But the program did not produce any results.\n> Is this OK?\n>\nYes, it means there is no result in that range\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71341"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 2, 2015, 7:38\u202FAM",
+      "Body": "Updated list:\n\nAnkha: 1 - 140 000 OK\n2wayspeaker: 140 000 - 140 500 OK\nSelim: 140 500 - 140 750 OK\nAnkha: 140 750 - 141 500 OK\nLestat: 141 500 - 141 900 OK\nAnkha (132): 141900 - 142 499 OK\nAnkha (132): 142 500 - 142 999 OK\nAnkha (132): 143 000 - 143 999 OK\nAnkha (azure81/build8): 144 000 - 144 999 OK\nAnkha (132): 145 000 - 150 000 OK\nAnkha (build8): 150 001 - 159 999 OK\nLSJ: 160 000 - 174 999\nAnkha (8): 175 000 - 175 999 OK\n2wayspeaker: 176 000 - 176 499 OK\nAnkha (132): 176500 - 176 999 OK\nAnkha: 177000 - 177 999 OK\nMimmy: 178000 - 179 999\nLestat: 180 000 - 190 000 OK\nLestat: 190 000 - 200 000 OK\nAnkha (build8): 200 000 - 210 000 OK\nMimmy: 210 000 - 220 000 OK\nApolokia final: 220 000 - 228 550 OK\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71462"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 9, 2015, 6:53\u202FAM",
+      "Body": "I managed to optimize the algorithm, and rerun the computation for 19 using the new method (it took 13 days still).\nI'll wait for the reamining results so I can check that I get the same results.\n\nIn the meanwhile, here's the new best seating for 19:\n\n12 4 11 6 16 | 17 14 7 18 1 | 2 19 9 13 8 | 5 10 15 3 / 13 3 10 17 11 | 18 5 19 12 6 | 15 8 1 16 7 | 14 9 4 2\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71585"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 24, 2015, 1:59\u202FPM",
+      "Body": "Thanks to everyone for helping me calculating the optimal seating for 19 players: 2wayspeaker, Selim, Lestat, Scott, Mimmy and Apolokia final!\n\n(now working on 17...)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71838"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 13, 2017, 10:04\u202FAM",
+      "Body": "There was a flaw in the validation of the new results, and some manual mistakes when reporting the results.\nAs a consequence, some of the results displayed here are wrong, and I won't continue to maintain this page: the new results will always be available in the latest version of the archon.\nFrom now on, I strongly recommand not to use the version 1.5e but version 1.5f :\n\nExcel: www.vekn.net/images/stories/downloads/thearchon1.5f.xlsx\nLibreOffice: www.vekn.net/images/stories/downloads/thearchon1.5f.ods\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "81103"
+    }
+  ]
+}

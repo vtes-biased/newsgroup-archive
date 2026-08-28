@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-75805",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75805-blood-fury-vs-ivory-bow-roetschreck",
+  "Title": "Blood Fury vs Ivory Bow+R\u00F6tschreck",
+  "Messages": [
+    {
+      "Author": "Lazoth",
+      "Date": "May 19, 2017, 8:10\u202FAM",
+      "Body": "As the acting vampire, I declare Bloody Fury as my strike and the opposing minion declares Ivory Bow with the intention of playing R\u00F6tschreck. When does Blood Fury weapon clause trigger? Does it trigger during the strike declaration phase since it is looking for an opponent attempting to use a weapon, or does it only trigger during strike resolution phase?\nIf the latter then does it apply retroactively (Against a weapon with first strike)?\n\nSo to put it a bit more simply, due to the wording on both cards will Blood Fury (and similar cards) cause the opponents weapon to inflict no damage (which according to LSJ  here means R\u00F6tschreck cant be played) when it is played in the declare strike step when the conditions for R\u00F6tschreck are checked?\n\nSo how do you intend to survive?\nBleed faster\n\nWhen plumbing the depths of depravity, I must remember to come up for air.",
+      "Id": "81920"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 19, 2017, 10:01\u202FAM",
+      "Body": "Your reacting opponent can play R\u00F6tschreck when announcing his strikes because Blood Fury hasn't resolved yet.\n\nName: Blood Fury\nCardtype: Combat\nCost: 1 blood\nDiscipline: Thaumaturgy\nOnly usable at close range.\n[tha] Strike: hand strike at +1 damage. This damage cannot be prevented by cards that require Fortitude [for]. If the opposing vampire attempts to strike with a weapon this round, he or she does no damage.\n[THA] As above, but for strength+2 damage.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "81933"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "May 20, 2017, 9:41\u202FAM",
+      "Body": "Does that mean also that Blood Fury vs any weapon with first strike does not work? and minion must take damage from weapon?",
+      "Id": "81951"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 20, 2017, 11:34\u202FAM",
+      "Body": "> beslin wrote:\n> Does that mean also that Blood Fury vs any weapon with first strike does not work? and minion must take damage from weapon?\n>\nThe anti-weapon text is part of the Blood Fury strike. Here's a ruling about the similar Soul Burn:\n\n[LSJ 20040928]\n>\n> LSJ wrote:\n> > 2. If soul burn is dodged, does the \"weapon inflict no damage\" thing\n> > take effect or not ? (i believe not)\n> \"Not\" is correct. Dodge protects the dodger from all effects of the\n> strike.\n>\n> > Does soul burn prevents weapon damage only from additional strikes ?\n> > or does it prevent weapon damage from the initial strike, too ?\n> From the currently-resolving strike (if any) and any further strikes\n> in the same round (if any).\n>\n> That is, it negates weapon damage from the initial strike if Soul\n> Burn is also an initial strike and the weapon strike is not done\n> with first strike (the latter can be overcome by making the Soul\n> Burn strike also at first strike, of course).\n>\nSo if you dodge my Soul Burn, and then you play some additional strikes and shoot me with an Ivory Bow or gun or whatever, that damage hurts me.\n\nBecause the anti-weapon text is part of the strike, it resolves with the strike. It isn't like playing Song of Serenity before range, which drops my strength immediately. It's a strike, and so the strike needs to resolve.\n\nIf I hit you with a first strike gun strike and you play Blood Fury, the anti-weapon effect won't have taken effect when my first strike resolves. If you gained First Strike somehow - say, Backstab or Silence of Death - your Blood Fury strike would have first strike, and so the anti-weapon effect would resolve at the same time as my first strike gun, negating it as normal.",
+      "Id": "81952"
+    }
+  ]
+}

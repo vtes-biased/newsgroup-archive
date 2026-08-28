@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-79506",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79506-clarifying-environmental-damage",
+  "Title": "Clarifying environmental damage",
+  "Messages": [
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 26, 2021, 1:13\u202FPM",
+      "Body": "So apparently there are some conflicting rulings floating about involving whether damage inflicted by retainers is environmental damage or not.\n\nNow I know that the V5 rulebook makes it very explicit that any damage not inflicted by the minion is environmental, but apparently the last thread on the matter in this forum is from before the rulebook and is just wrong on the matter. The purpose of this thread is to make the ruling clear.\n\nproblem:\nKRCG bot on lackey ruling on Razor bat is that the damage inflicted by razor bat is neither inflicted by the minion nor environmental. The bot uses this thread as proof:\nwww.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental?start=0\n\nNow that ruling is just wrong in light of current BCP rulebook (environmental damage, page 31). I created this thread for the purpose to get a more up-to-date ruling on the matter.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104001"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 26, 2021, 1:49\u202FPM",
+      "Body": "Rulebook link on the matter: www.vekn.net/rulebook#environmental-damage\n\n(Note that now you can link specific parts of the rulebook easily using the VEKN version and this id thing with the # there at the end of the URL)",
+      "Id": "104005"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 27, 2021, 8:38\u202FAM",
+      "Body": "The rulebook is correct.\n\nBack when I wrote the ruling, I thought it was a better idea to distinguish environmental damage without a source (Carrion Crows) from previously-environmental damage from a non-minion source (Murder of Crows).\n\nThe idea was to make clear which damage was inflicted by a source (a retainer, for instance a retainer inflicting damage to which Carolina would be immune) and which was source-less by explicitly using the word \"environmental\"\n\nHowever, explicitly excluding the latter from the \"environmental\" category is not that productive: what matters for the game is whether the damage was inflicted by the minion or not (for playing cards such as Disarm for instance, or determining whether the damage inflicted to a Nephandus is reduced or not).\n\nAnd, as James pointed out at that time, we can get the best of both worlds:\n\n1/ not using the passive form (\"the opposing minion takes 1 damage...\") when the damage is inflicted by a retainer\n2/ indicating that the damage is environmental (for the purpose of determining whether Disarm can be played or not) explicitly\n\nSo : yes, the damage from a Razor Bat is environmental (implicitly) since it\u2019s not inflicted by a minion, and I\u2019ll change the ruling.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104016"
+    }
+  ]
+}

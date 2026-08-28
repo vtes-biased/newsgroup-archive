@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-79463",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79463-power-of-one-and-limited-keyword",
+  "Title": "Power of One and limited keyword",
+  "Messages": [
+    {
+      "Author": "ResurrectioN",
+      "Date": "Nov 5, 2021, 12:44\u202FPM",
+      "Body": "Text on  for Power of One is similar to text on  on Revelation of Serpent with one small difference.\n\nIn Power of One limited keyword is missing after \"+ 1 bleed\" which might imply that it is not limited if the card is played only for + 1 bleed but is limited if card is played for \"+1 bleed and +1 stealth\". Compare to the wording on Revelation of Serpent where limited is after both options.\n\nMaybe it's an inconsistency maybe PoO is better than initially perceived\n\nRelevant cards",
+      "Id": "103793"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 5, 2021, 12:58\u202FPM",
+      "Body": "Indeed, the templating is different. They work the same however, since (limited) is just a reminder. To work differently, explicit text \"that does not count against the limit\" is needed, like on Power of One at potence.\n\nPrince of Bonn, Germany",
+      "Id": "103794"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 5, 2021, 1:00\u202FPM",
+      "Body": "The templating of Power of One is better as there is no need to have two reminders for the same text especially when there needs to be explicit mention of not counting towards the limit to not do so.",
+      "Id": "103795"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 5, 2021, 1:25\u202FPM",
+      "Body": "Reminder text is optional, so both are correct.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103797"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 7, 2021, 10:53\u202FAM",
+      "Body": "> ResurrectioN wrote:\n> Maybe it's an inconsistency maybe PoO is better than initially perceived\n>\nThere is no inconsistency, since bleed modifiers are limited by default. The text in brackets is just a reminder of this. Now bleed modifiers have to explicitly state if they are not limited.\n\nThis is an official rules change from before when it used to be the other way around, so oldtimer players may get confused by this.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103817"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 8, 2021, 3:06\u202FPM",
+      "Body": "Also, not sure where the images come from but current official card text is actually the same:",
+      "Id": "103832"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 8, 2021, 4:04\u202FPM",
+      "Body": "im guessing but probably amaranth.vtes.co.nz/cardimagesold/powerofone.jpg\n\n** just confirmed that it was from Amaranth\n\nthe better one would be www.drivethrucards.com/images/12056/339426.jpg or the one you posted from KRCG :) .....are those the POD images...if it is and you have them all it would be good to pass them to Smeea to use them in VDB which currently is missing the POD Images.",
+      "Id": "103833"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 8, 2021, 6:29\u202FPM",
+      "Body": "The Codex, the KRCG bot, VDB and the LackeyCCG plugin all use the same images database, that is kept as up to date as possible: static.krcg.org/card/ . VDB and the Codex card texts are usually updated from the official VEKN CSV with a very small delay.\n\nIf Ke is lurking around, please feel free to use the same images for Amaranth of course - it's free under Dark Pack.",
+      "Id": "103834"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 8, 2021, 6:42\u202FPM",
+      "Body": "I was referring to the below...don't know if it is relevant or not...but it was why I asked if it was the POD images.\n\n> smeeag wrote:\n> Thanks for clarification.\n>\n> The default image is not from any set, but just generated for latest card text. And (at least for now) it's not possible to go back to this image once you changed the image to scan from particular set (sure you can just re-open card window).\n>\n> With POD there are no scans available, and so there is a black background without anything (which is sure not good). I will fix it, so that click on POD will do nothing (preserve existing image) until I'll have POD scans.\n>",
+      "Id": "103835"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 9, 2021, 8:56\u202FAM",
+      "Body": "Yeah I don\u2019t have POD scans on krcg but is it useful? There shouldn\u2019t be any difference between the default image and the POD image.",
+      "Id": "103840"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Nov 9, 2021, 12:55\u202FPM",
+      "Body": "The \"default\" image is subject of change, while scans may be valuable for collectioners (but then scans must follow POD updates and possibly have more than one version as they will probably also updates with main card image).",
+      "Id": "103841"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 14, 2021, 3:02\u202FPM",
+      "Body": "Happy to add scans for PoD to the repository if anyone can provide them.",
+      "Id": "103882"
+    }
+  ]
+}

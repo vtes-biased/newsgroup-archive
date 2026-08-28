@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-32843",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/32843-methuselahs-order-of-priority-when-the-acting-isn-t-involved",
+  "Title": "Methuselahs order of priority when the acting isn't involved",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jul 6, 2012, 9:30\u202FAM",
+      "Body": "Considering the ruling\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/fdb5cf79f87e36b8\nand\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/6d7a37a626e6e9cb\n\nwe know that if the acting Methuselah A plays Taunt the Caged Beast at superior and makes minions controlled by B and E fight each other, then B will have the priority over E to play cards (because of the turn order)\n\nWhat is the priority order for Methuselahs to play cards during that combat (cards playable even when not involved in combat such as Martyr's Resilience)?\n\n1/ A (because A is the acting Methuselah) > B > E > the others\n2/ A > B > C > D > E (the turn order)\n3/ B (because B has the priority during the combat, maybe even over A) > A > C > D > E\n3/ something else\n\n> Name: Taunt the Caged Beast\n> [SoC:C, KoT:C]\n> Cardtype: Action\n> Discipline: Animalism\n> [ani]  Enter combat with any vampire, with an optional maneuver in that combat.\n> [ANI] Choose a ready vampire controlled by your predator and another controlled by your prey (not usable when only one other Methuselah is in the game). The chosen vampires enter combat. If only one is ready at the end of that combat, he or she gains 4 blood.\n>\n> Name: Martyr's Resilience\n> [BL:R1]\n> Cardtype: Combat\n> Discipline: Auspex & Fortitude\n> Only usable by an untapped vampire not involved in the current combat.\n> [aus][for] Prevent 1 damage to a minion or retainer in combat.\n> [AUS][FOR] Burn X blood to prevent X+1 damage to a minion or retainer in combat.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32843"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 6, 2012, 10:08\u202FAM",
+      "Body": "B>E>A>C>D\n\n\"Acting Minion in Combat\">\"Non-Acting Minion in Combat\">Around the Pred-Prey Order.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "32846"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 6, 2012, 11:03\u202FAM",
+      "Body": "The Sequencing Rules are quite clear that the acting Methuselah always goes first, as is LSJ's priority order (that you link):\n\n> LSJ wrote:\n> 1) Acting\n> 2) -Target/Blocker\n> 3) Others (clockwise from Acting)\n>\n> Rulebook wrote:\n> At every stage, the acting player always has the opportunity to play the next card or effect. ... Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah.\n>\nOf course, in 99% of combats, all that's going on is the two fighters going back and forth, so you only need to handle those (and the acting Methuselah is implicitly being skipped).\n\nStrictly, though, the acting Methuselah still goes first.\n\nYou need to be careful about groups.google.com/d/msg/rec.games.trading-cards.jyhad/9ArBwoYDquw/y-nmJqY3em0J , though.\n\n> LSJ wrote:\n> > I ruled that this should go clockwise from the acting minion's\n> > controller, since there is neither an acting minion, nor a blocker or\n> > target of a  action in that combat, which would be the first two\n> > steps in ordering sequence of play.\n> >\n> > Was I correct?\n>\n> Yes.\n>\nThat's correct at the time (2007), but not strictly so now. (It implied A (usually skipped) > B > C (usually skipped) > D (usually skipped) > E.)\n\nKeepers of Tradition (2008) changed the definition of  action, so that TtCB is now a  action.\n\nSo the order of priority is:\n\nActing Methuselah\nTargets - and tie-break them where necessary\nOther people\n\nSo if B is in combat with E, it looks like:\n\nA (usually skipped) > B (target - tiebreak clockwise) > E (target) > C (clockwise, usually skipped) > D (clockwise, usually skipped)\n\nwhich is pretty much the order of blocks for an undirected action.",
+      "Id": "32847"
+    }
+  ]
+}

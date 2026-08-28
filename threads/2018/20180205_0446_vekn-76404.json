@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-76404",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76404-timing-of-shemti-s-special-and-ecstasy",
+  "Title": "Timing of Shemti's special and Ecstasy",
+  "Messages": [
+    {
+      "Author": "mjvtes521",
+      "Date": "Feb 5, 2018, 4:46\u202FAM",
+      "Body": "I couldn't find any discussion on this, so I am wondering:\n\nAfter his controller is bled for 1 and not blocked, which comes first, the damage from Shemti's special or the blood burned by superior Ecstasy? For example, Vamp A (with 1 blood on them) bleeds Shemti's controller for 1. Shemti's controller says no block and Shemti plays Ecstasy at superior. Does Vamp A take 1 damage and then have no blood left to burn, or does Vamp A burn 1 blood and then take 1 damage (sending them to torpor)? Here are the card texts. Thanks.\n\nShemti vic OBF POT PRE SER\nFollower of Set\n\nCapacity: 9\nGroup: 5\n\nIndependent: Shemti has 1 vote (titled). While he is ready and untapped, any minion successfully performing a  action against you takes 1 damage (after resolving the action).\n\nEcstasy\nReaction\nSerpentis\n\n[ser] Reduce a bleed against you by 1.\n[SER] As above, and if the bleed resolves for 0 (or less), the acting minion burns 1 blood or life (after resolving the action).",
+      "Id": "85211"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 5, 2018, 5:04\u202FAM",
+      "Body": "The controller of the acting vampire chooses the order of the affects. Both are outstanding when the action ends, so the acting player has the choice on what effect to handle first.",
+      "Id": "85212"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Feb 6, 2018, 12:37\u202FAM",
+      "Body": "> kschaefer wrote:\n> The controller of the acting vampire chooses the order of the affects. Both are outstanding when the action ends, so the acting player has the choice on what effect to handle first.\n>\nI knew already that they were handled in the same timing window (after resolving the action), meaning there is a choice of which to handle first, but since both effects are played by the blocking minion's controller, why doesn't the blocking minion's controller choose the order the effects are handled? Where in the rulebook does it address this? I'm having trouble finding it.",
+      "Id": "85219"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 6, 2018, 1:50\u202FAM",
+      "Body": "> Rulebook wrote:\n> Sequencing. If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n>\nThe sequencing rules work here. The acting Methuselah has first option to handle the queued effects. If the acting Methuselah passes, then any other Methuselah can choose one to handle. This is an odd case, in that, because the effects are queued and must be handled the action cannot end if all Methuselahs pass, which in reality never happens, so the rules need not address the issue. In all likelihood the acting Methuselah will choose how to handle the effects, but should they fail to do so, then player who queued the effects would certainly choose one to handle.",
+      "Id": "85220"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 6, 2018, 10:16\u202FAM",
+      "Body": "There are two effects to handle after resolving the action: burning 1 blood from Ectasy, and taking 1 damage from Shemti. The acting player cannot pass as long as she must handle these effects. Besides, the sequencing rule allows her to sequence them as she wants. So she's probably take the damage first, then burn 1 blood. This allows vampires with 1 blood not to go to torpor.\n\nAs an analogy, consider an Anarch Revolt and an Antediluvian Awakening both played by another player. The acting Methuselah orders their effects, and cannot pass until both have been handled.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85223"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 6, 2018, 7:08\u202FPM",
+      "Body": "So, I had it mostly right.\n\nThis seems different than Weather Control? Both Methuselahs can play many effects and before the queued damage is resolved, including passing, right?",
+      "Id": "85231"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Feb 6, 2018, 10:56\u202FPM",
+      "Body": "> kschaefer wrote:\n> So, I had it mostly right.\n>\n> This seems different than Weather Control? Both Methuselahs can play many effects and before the queued damage is resolved, including passing, right?\n>\nAfaik, as long as those cards/effects can be played in the same time window, once all players have passed playing cards/effects, those cards/effects are resolved.\n\nThat's also why (for example) you can still play 'before range is determined' cards/effects after someone plays a 'set range' card/effect.\n\nWhen resolving cards/effect, the affected player can order his damage/burns/effects as he sees fit unless explicitly state otherwise on the card.\n\nedit: My question @ www.vekn.net/forum/rules-questions/76408-weather-control-vs-alpha-glint makes me think I am totally wrong with my interpretation...\n\n-1 Strength",
+      "Id": "85237"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 6, 2018, 11:58\u202FPM",
+      "Body": "> kschaefer wrote:\n> This seems different than Weather Control? Both Methuselahs can play many effects and before the queued damage is resolved, including passing, right?\n>\nIf the acting Methuselah plays Weather Control, he can continue to play other cards/effects. However, he can't pass with Weather Control's damage effect pending. If there's a pending effect, he must sequence it in before passing - passing is saying \"All effects are done (unless the rest of you guys play something)\".\n\nIf the defending Methuselah plays Weather Control, the impulse passes back to the acting Methuselah immediately (this isn't the defending Methuselah passing - just any card play gives the impulse back to the acting Methuselah). The acting Methuselah can then play some other cards of their own if they want to, but again, can't pass without sequencing in Weather Control's damage effect.\n\nSee Ankha here: www.vekn.net/forum/rules-questions/75275-before-range-is-determined#78665\nWeather Control creates a \"pending effect\" that will inflict 1 damage during the \"before range\" step.\nA can continue to play cards, but he will be forced to apply the damage of the Weather Control before passing the impulse.\nSee the thread groups.google.com/d/topic/rec.games.trading-cards.jyhad/sNKssgt0E78/discussion\n\nAnd from that linked thread, an exchange involving Pascal and LSJ:\n>\n> Pascal wrote:\n> > > (*) I suppose it's not the \"before range\" impulse (which is A's at\n> > > this point), since A can't pass until WC's damage is applied - if it\n> > > were, it would mean B couldn't play any card at all.\n>\n> LSJ, wrote:\n> > So B can't play any cards till A announces \"We're now handling the\n> > damage from WC. Here are my damage-resolution effects. Now I pass.\n> > What effects do you want to play during damage resolution?\" At which\n> > point, by the RTR, it looks like B can play any before-range effect xe\n> > likes. Then, once they're done and the damage is all handled and\n> > resolved, if the combat's still going, it's A's pre-range impulse to\n> > do something or pass again.\n>\n> Correct.\n>",
+      "Id": "85241"
+    }
+  ]
+}

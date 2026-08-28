@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-83074",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83074-privileged-position-and-venceslava-the-implacable",
+  "Title": "\"Privileged Position\" and \"V\u011Bnceslava, The Implacable\"",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Jul 1, 2026, 12:08\u202FPM",
+      "Body": "Does using Privileged Position after a referendum that doesn't burn pool activates V\u011Bnceslava, The Implacable ability?\n\nA damage applied after action resolution is still applied during the action?\n\nAnd by extension, does everything that happens after action resolution also happens during the action?\n\nThanks in advance.\n\nName: Privileged Position\n[SV5:PPower1]\nCardtype: Master\nPath: Power and the Inner Voice\nUnique. Requires 2 or more ready vampires who follow the Path of Power and the Inner Voice.\nPut this card in play. After a referendum called by a vampire you control passes, you can lock this card to burn 1 pool from your prey.\nArtist: Kim Aldau\n\nName: V\u00C4\u203Anceslava, The Implacable\n[SV5:PPower1]\nCardtype: Vampire\nClan: Brujah\nPath: Power and the Inner Voice\nGroup: 6\nCapacity: 9\nDiscipline: cel DOM FOR POT PRE\nSabbat Archbishop of Ostrava: Once each turn, after resolution of an action performed by V\u00C4\u203Anceslava during which your prey burned 1 or more pool, you can gain 1 pool.\nArtist: Raquel Cornejo",
+      "Id": "117300"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Jul 2, 2026, 1:40\u202FPM",
+      "Body": "\"3. Resolve the Referendum: If there are more votes for the referendum than against, it passes, and the effects take place.\"\n\n\"... After a referendum called by a vampire you control passes... \"\n\nThis would put tapping of Privileged Position as part of resolving the referendum, like Voter Captivation:\n\nWarning: Spoiler!\n\nOnly usable after resolution of a political action whose referendum passed.\nPresence This vampire gains 1 blood for each vote by which the referendum passed.\nSuperior Presence As above, but move up to 2 of those blood to your pool instead of this vampire.\n\nWhile V\u011Bnceslava, The Implacable text:\n\"after resolution of an action \"\nis at a point after the cards are all played out, like Freak Drive:\n\nWarning: Spoiler!\n\nOnly usable after action resolution.\nFortitude Only usable if the action was successful. Unlock this vampire.\nSuperior Fortitude Only usable if the action was blocked. Unlock this vampire.\n\nSo yes, you get 1 pool after tapping Privileged Position if V\u011Bnceslava played Banishment, exmp",
+      "Id": "117306"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2026, 9:02\u202FPM",
+      "Body": "> Coyote wrote:\n> Does using Privileged Position after a referendum that doesn't burn pool activates V\u011Bnceslava, The Implacable ability?\n>\nYes.\n>\n> Coyote wrote:\n> A damage applied after action resolution is still applied during the action?\n> And by extension, does everything that happens after action resolution also happens during the action?\n>\nYes and yes, assuming you are talking about effect played or used \"after action resolution\" during the same action (not another action).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117310"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2026, 9:05\u202FPM",
+      "Body": "> mipopo3 wrote:\n> \"3. Resolve the Referendum: If there are more votes for the referendum than against, it passes, and the effects take place.\"\n>\n> \"... After a referendum called by a vampire you control passes... \"\n>\n> This would put tapping of Privileged Position as part of resolving the referendum, like Voter Captivation:\n>\nNo, it's not \"part of the resolution of the referendum\".\n\n> mipopo3 wrote:\n> While V\u011Bnceslava, The Implacable text:\n> \"after resolution of an action \"\n> is at a point after the cards are all played out, like Freak Drive\n>\nVoter Captivation and Freak Drive are played at the same moment, after action resolution (which is also after resolution of the referendum).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117311"
+    }
+  ]
+}

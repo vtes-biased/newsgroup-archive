@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-78662",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78662-delaying-tactics-on-a-card-not-played-from-hand",
+  "Title": "Delaying Tactics on a card not played from hand",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "May 30, 2020, 2:06\u202FPM",
+      "Body": "Multiple rulings exist on playing Delaying Tactics on political actions cards not played from hand:\nIf Charming Lobby was used, the Political Action returns to its owner's hand  [LSJ 20030426]  If The Erciyes Fragments was used, the Political Action returns to its owner's hand  [LSJ 20050322]  If Bujo is used, the card is not retrieved.  [LSJ 20100527]\nDo the three rulings still apply ?\n\nIf they do, why the difference and how does it apply to other cards that let you play political actions cards \"non normally\" ?\n\nDelaying Tactics\n\nOnly usable during the polling step of a political action.\n\nCancel the referendum. Unlock the acting vampire. If a political action card was played to call this referendum, return it to its owner's hand (discard down afterward). Minions controlled by the acting Methuselah cannot take the same political action again this turn.\n\nCharming Lobby\n\n+1 stealth political action.\n\nThis vampire calls a referendum listed on a political action card in your hand (play that card) or allowed by an effect in play. If the referendum passes, then the next referendum called by any vampire thereafter passes automatically.\n\nAs above, and this vampire gains 2 votes in that first referendum.\n\nThe Erciyes Fragments\n\nUnique master.\n\nPut this card in play. Lock this card to move a library card from your prey's ash heap to this card, face down. You may look at that card at any time. You may play the card from the Fragments as if playing it from your hand (requirements and cost, if any, apply as normal). When that card is burned, remove it from the game instead. Only 1 card can be on this card at a time. Any vampire with a capacity above 4 can steal the Fragments (and any card on it) for his or her controller as a \u24B9 action.\n\nBujo\n\n+1 stealth political action.\n\nChoose a political action card in another Methuselah's ash heap. Call the referendum given on that card (this Ravnos must meet the requirements of that political action, if any) and remove that card from the game. This vampire gains 3 additional votes in this referendum.",
+      "Id": "99979"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 30, 2020, 4:20\u202FPM",
+      "Body": "There was a card text migration for Delaying Tactics around the KMW/Legacies time frame, which changed \"back to his or her hand\" to \"returned to the owner's hand.\"\n\nSo, the Charming Lobby and Erciyes Fragments simply predate that text migration and the ruling are effectively moot, as they simply restate the now current card text. It's Ankha's show, but in my mind, I'd remove the rulings because they simply reiterate the current card text.\n\nBujo is simply different than the others as it never plays the card (Bujo chooses), so there's nothing to take back into hand. It seems clear that this ruling still has value because of the non-standard interaction caused by Bujo.",
+      "Id": "99980"
+    },
+    {
+      "Author": "lip",
+      "Date": "May 31, 2020, 4:50\u202FAM",
+      "Body": "Thanks for the additional information !\n\nThe point on Bujo text is clear, it is still a bit strange as both cards have such a close effect, so I would not mind a confirmation.\n\nIn the mean time I'll add the ruling to Bujo then.",
+      "Id": "99982"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 31, 2020, 8:16\u202FAM",
+      "Body": "> kschaefer wrote:\n> There was a card text migration for Delaying Tactics around the KMW/Legacies time frame, which changed \"back to his or her hand\" to \"returned to the owner's hand.\"\n>\n> So, the Charming Lobby and Erciyes Fragments simply predate that text migration and the ruling are effectively moot, as they simply restate the now current card text. It's Ankha's show, but in my mind, I'd remove the rulings because they simply reiterate the current card text.\n>\n> Bujo is simply different than the others as it never plays the card (Bujo chooses), so there's nothing to take back into hand. It seems clear that this ruling still has value because of the non-standard interaction caused by Bujo.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99985"
+    }
+  ]
+}

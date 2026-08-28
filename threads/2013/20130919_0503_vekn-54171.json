@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-54171",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/54171-losing-blood-during-an-action",
+  "Title": "Losing blood during an action",
+  "Messages": [
+    {
+      "Author": "Lambach",
+      "Date": "Sep 19, 2013, 5:03\u202FAM",
+      "Body": "This happened in a game tonight: Arishat attempts to rescue Xeper from torpor. They each have 1 blood so each vamp will pay 1. Tegyrius attempts to block with intercept. Arishat plays Forgotten Labyrinth bringing her to zero blood. The action is not blocked, but there now isn't enough blood to pay for the rescue. So is no cost paid? Or does Xeper still have to burn his blood?\n\nI guess in general, if you lose enough blood during an action that you can no longer pay for it, do you pay nothing? Or must you pay as much of the cost as you can?",
+      "Id": "54171"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 19, 2013, 5:34\u202FAM",
+      "Body": "You must pay as much as you can, and the action fails.\n\ngroups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/V3uIITe1wug/P-WH48zhoc8J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "54172"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 19, 2013, 5:34\u202FAM",
+      "Body": "You pay as much as you can and the action fizzle (not successfull, no effect but concluded)",
+      "Id": "54173"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 19, 2013, 7:14\u202FAM",
+      "Body": "If the action wasn't blocked :\n- it is successful (for things that check if it is successful, such as Freak Drive, Perfectionist, etc) [edit: some effects cause the action to fail even if unblocked. such effects cause the action to be unsuccessful]\n- if the target is eligible, pay cost to apply effect; otherwise (if target isn't eligible), nothing happens (\"the action fizzles\").\n- if cost can't be paid, pay as much as you can, and then nothing happens (\"the action fizzles\")\n\n- if action is successful, target is eligible, and cost is paid, apply effects.",
+      "Id": "54174"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 19, 2013, 9:30\u202FAM",
+      "Body": "> Ankha wrote:\n> You must pay as much as you can, and the action fails.\n>\n> groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/V3uIITe1wug/P-WH48zhoc8J\n>\n> Timo wrote:\n> You pay as much as you can and the action fizzle (not successfull, no effect but concluded)\n>\nThese are both wrong. And to point it out more clearly, \"fizzled\" does not mean \"unsuccessful\". A successful action that fizzles is still a successful action, but the effects aren't applied.\n\n[LSJ 20090129]\n>\n> LSJ wrote:\n> So, back to the example bleed above, yeah, the action would fizzle, but\n> (assuming it reaches resolution unblocked) it is still successful (by definition\n> of \"successful action\", namely: resolves unblocked).\n>\n> So you could still play Freak Drive at normal Fortitude to untap after a\n> successful action that fizzles at resolution.\n>\n[LSJ 20090224] that Ankha references doesn't overturn this. It simply states when an action fizzles, not that fizzling means the action failed.",
+      "Id": "54175"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 19, 2013, 10:20\u202FAM",
+      "Body": "So the funny part is that if you have a perfectionist, you will gain the blood which were needed just a hair after it is needed.",
+      "Id": "54176"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 19, 2013, 12:35\u202FPM",
+      "Body": "> Timo wrote:\n> So the funny part is that if you have a perfectionist, you will gain the blood which were needed just a hair after it is needed.\n>\nCorrect.  [LSJ 20070412]\n\n> LSJ wrote:\n> [snip - fizzling action]\n> > if the vamp has Perfectionist (assuming no reactions are played), he\n> > can gain a blood from that and then use that blood to Freak Drive\n> > (since both Perf and FD time in the 'after resolution' window, you can\n> > order the two as you like)? Course, then he would immediately have to\n> > hunt...\n>\n> Heh. Sure. No reactions and yet he is still \"surprised\" by something that makes\n> him have to play an action modifier that costs him enough blood so that he can't\n> pay for the action. Right.\n>\n(Various people go on to provide legitimate examples of things that would surprise an acting Methuselah without being a reaction card.)",
+      "Id": "54177"
+    },
+    {
+      "Author": "derekcastor",
+      "Date": "Sep 20, 2013, 4:23\u202FAM",
+      "Body": "If no reaction cards are played.\n\n\"self destruct mechanism\nintrovert overturn assasination\nmake from steel the ugly weapon\nkillers instinct from man to trigger\"\nSkinny Puppy : Chainsaw",
+      "Id": "54188"
+    }
+  ]
+}

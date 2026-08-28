@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-12969",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12969-bauble-question",
+  "Title": "Bauble question",
+  "Messages": [
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Oct 28, 2011, 4:53\u202FAM",
+      "Body": "Well, here is a question. If the minion with Bauble burns or is sendt to topor. Do you have to burn Bauble?\n\nBauble\nType: Action\nRequires: Vicissitude\nCost: 2 blood\n+1 stealth action.\n[vic] Put this card on the acting vampire. Search your library and put a non-unique, non-location equipment card on another minion you control. Do not pay the cost to equip. The vampire with this card cannot attempt actions, block or vote. You may burn this card and the chosen equipment card during your untap phase or when the minion with the chosen equipment leaves the controlled region.[VIC] As above, but you may burn this card and the chosen equipment at any time.\n\nIt clearly states may, but that may only be for the first condition...",
+      "Id": "12969"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 28, 2011, 5:17\u202FAM",
+      "Body": "If the minion with Bauble burns, Bauble burns:\nRulebook 1.1.2 wrote:\n>\n> When a card is burned or removed from the game, any counters or other cards on it are burned.\n>\nUnless the minion with Bauble also has the weapon (transfered via Nod, Heidelberg, ..), you can't burn the Bauble when the minion with Bauble is banished / ... Otherwise, you could.",
+      "Id": "12970"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 28, 2011, 5:22\u202FAM",
+      "Body": "IANPB, but I tried to dig up an older answer but I assume it is meant to be \"Condition 1: You may choose...\" and \"Condition 2: Any time this goes to torpor...\"\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "12971"
+    },
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Oct 28, 2011, 6:20\u202FAM",
+      "Body": "So you loose the weapon if the minion goes to topor/burnt/removed... Unless you burn bauble in another way (Smear Campain)",
+      "Id": "12973"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 28, 2011, 6:40\u202FAM",
+      "Body": "@ Juggernaut1981: I didn't get that. Conditions to be matched for burning Bauble via its text are any of:\n- it is your untap phase\n- the minion with the equipment leaves the controlled are\n- it is anyone's untap phase (sup' Bauble only)\n\n\"Conditions\" isn't a VTES word, but we can agree that, once \"conditions\" are fulfilled, \"consequences\" happen. Here, \"consequences\" is:\n- you get to choose if you want to burn the Bauble and the equipment.\n\n> Baaliprimogen wrote:\n> Ahh. I wrote something wrong, if you go to topor and/or burnt. Do you have to burn bba\n>\nI'm not sure who \"you\" is here.\nSince we've covered the case where the minion with Bauble leaves the ready region, I'll assume \"you\" refers to the minion with the equipment retrieved via Bauble.\n(\"goes to torpor\" isn't an example of \"leaves the controlled area\" - I'll use \"burn\" below, but other examples would be \"becomes contested\", \"is removed from play\", \"moved to the uncontrolled area\", \"moved to crypt / library\" and probably a couple of others that don't come to mind right now)\n\nSo, suppose minion A plays Bauble, and retrieves equipment E and puts it on minion B.\n\nMinion A now has a Bauble on them, minion B has E.\n\n\"Minion A burns\" has been covered abouve.\n\n\"Minion B burns / leaves the controlled region\" : Minion A has the possibility to burn the Bauble [*and* the equipment] per Bauble's cardtext. It's up to A.\n\n\"E burns\" : then A can't burn the Bauble anymore and is stuck with it  [RTR 080808] (this was a reversal of a ruling from 1997)\n\n\"Bauble burns\" : Depending on if it's from Bauble's text, E burns (Bauble burns from its text) or doesn't burn.  [LSJ 20090113]\n\nI hope it's all covered here.",
+      "Id": "12974"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 28, 2011, 7:29\u202FAM",
+      "Body": "> Pascal wrote:\n> @ Juggernaut1981: I didn't get that. Conditions to be matched for burning Bauble via its text are any of:\n> - it is your untap phase\n> - the minion with the equipment leaves the controlled are\n> - it is anyone's untap phase (sup' Bauble only)\n>\n> \"Conditions\" isn't a VTES word, but we can agree that, once \"conditions\" are fulfilled, \"consequences\" happen. Here, \"consequences\" is:\n> - you get to choose if you want to burn the Bauble and the equipment.\n>\nI was just stating that there are two ways the card could possibly be burned.\n\nOption 1: The Methuselah may choose to burn the Bauble (and meet any requirements) -- This one is not compulsory.\n\nOption 2: The minion with Bauble leaves the controlled region. -- This one is compulsory.\n\nBoth result in the burning of the Bauble.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "12977"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 28, 2011, 7:41\u202FAM",
+      "Body": "Option 2 is compulsory indeed, but it only applies when the minion is burned / removed from the game (rather than \"when leaving the controlled region).\n\nOption 3 - have something else burn it. (Callirus, Cleansing Ritual are those that come to mind)\n\nIn the end, if something says the Bauble burns, then the Bauble burns.",
+      "Id": "12980"
+    },
+    {
+      "Author": "Baaliprimogen",
+      "Date": "Oct 28, 2011, 8:02\u202FAM",
+      "Body": "> Pascal wrote:\n> In the end, if something says the Bauble burns, then the Bauble burns.\n>\nAnd then burning the equipment...\nRight?",
+      "Id": "12982"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Oct 28, 2011, 8:23\u202FAM",
+      "Body": "> Baaliprimogen wrote:\n>\n> > Pascal wrote:\n> > In the end, if something says the Bauble burns, then the Bauble burns.\n> >\n> And then burning the equipment...\n> Right?\n>\nNot with Callirus or Cleansing Ritual, in \"normal\" way of burning the Bauble then yes, the equipment is burnt as well",
+      "Id": "12984"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 28, 2011, 9:00\u202FAM",
+      "Body": "> acbishop wrote:\n>\n> > Baaliprimogen wrote:\n> >\n> > > Pascal wrote:\n> > > In the end, if something says the Bauble burns, then the Bauble burns.\n> > >\n> > >\n> > And then burning the equipment...\n> > Right?\n> >\n> Not with Callirus or Cleansing Ritual, in \"normal\" way of burning the Bauble then yes, the equipment is burnt as well\n>\nCorrect (cardtext). Also not, as I linked above: If the equipment is no longer around (Canine Horde, ..), you can't burn the Bauble.",
+      "Id": "12988"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 13, 2012, 5:04\u202FPM",
+      "Body": "Well, either me or other people don't read the ruling correctly, so in plain words:\n\nA plays Bauble\nB fetches an equipement.\nA is burned through Scourge of the Enochians.\n\nDoes the equipment on B stay in play?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42813"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 13, 2012, 5:11\u202FPM",
+      "Body": "> Ankha wrote:\n> Well, either me or other people don't read the ruling correctly, so in plain words:\n>\n> A plays Bauble\n> B fetches an equipement.\n> A is burned through Scourge of the Enochians.\n>\n> Does the equipment on B stay in play?\n>\nYes. (that's not a ruling, that's just cardtext - there's nothing causing the equipment to go away when Bauble - or the minion with Bauble - leaves the ready / controlled / in play / whatever area).",
+      "Id": "42815"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Dec 13, 2012, 5:15\u202FPM",
+      "Body": "The vampire who IS the equipment burns, but the Equipment does NOT burn is what you are saying?",
+      "Id": "42816"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Dec 13, 2012, 5:26\u202FPM",
+      "Body": "If the card, Bauble, burns does the equipment, that the card, Bauble, put into play, burn as well?",
+      "Id": "42817"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 13, 2012, 5:30\u202FPM",
+      "Body": "> XZealot wrote:\n> The vampire who IS the equipment burns, but the Equipment does NOT burn is what you are saying?\n>\nI don't understand your question. Vampires aren't equipment - which vampire are you referring to, in Ankha's example, with this?\n\nBauble doesn't have the cascading burn effect that exists in Dual Form.\n\n> XZealot wrote:\n> If the card Bauble burns, does the equipment, the card Bauble put into play, burn as well?\n>\nHm, can you check I replaced the commas properly?\nIf it is, the answer is no.\nThe old trick is to play Bauble with Callirus (see  [LSJ 20090113] for instance).\n\nThe thing is: the only way the equipment Bauble fetched burns is to choose to have it burn via Bauble's cardtext - or to have it burned otherway. if Bauble burns in any other way than via its cardtext (Scourge of the Enochians, Amaranth, ...), this won't burn the equipment.",
+      "Id": "42818"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 13, 2012, 5:31\u202FPM",
+      "Body": "> XZealot wrote:\n> If the card, Bauble, burns does the equipment, that the card, Bauble, put into play, burn as well?\n>\nAgain, no.\n\nRefer to the cardtext, not to the real-world logic, to determine that. Bauble don't say the equipment burn with either the vampire or the bauble.",
+      "Id": "42820"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 13, 2012, 10:44\u202FPM",
+      "Body": "> XZealot wrote:\n> The vampire who IS the equipment burns, but the Equipment does NOT burn is what you are saying?\n>\nI think the confusion comes from that RP approach of the card. The vampire doesn't become an equipment.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42842"
+    }
+  ]
+}

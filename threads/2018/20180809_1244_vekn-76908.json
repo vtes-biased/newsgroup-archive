@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-76908",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/76908-proposal-new-play-area",
+  "Title": "[proposal] 'New' play area",
+  "Messages": [
+    {
+      "Author": "skimflux",
+      "Date": "Aug 9, 2018, 12:44\u202FPM",
+      "Body": "The current Trap discussion/suggestion reminded me of an observation that I've made ages ago: most players play cards to the playing area, even non-permanent cards, and only move them to the ash heap once it is no longer relevant to the current game state.\n\nFor example: when playing Cariorn Crows, it is common to leave the card in the playing area for the duration of the combat - strictly speaking the card should be simply shown to all players and moved to the ash heap immediately. Everybody understands that the card is actually in the ash heap and not 'in play', but it is a common way to remind everyone of the lingering effect of the card. This is specially useful for new players.\n\nSo I would like to propose an addition to the current rules that reflects the reality of how the cards are actually played: to create a 'temporary play area' where cards are put for the duration of their effect, but which is still part of the ash heap for gameplay purposes. This would act only as a reminder of which cards have been played (with no impact on current gameplay mechanics), and should be cleaned up at the end of every phase (ie, every card which has no effect beyond the current phase is moved to the 'permanent' ash heap).\n\nWhat do you guys think?",
+      "Id": "89830"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Aug 9, 2018, 12:55\u202FPM",
+      "Body": "The cards you play do not go to the ash heap immediately, they are in 'limbo'.\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/vhSqnoAt_Bs/4yurSS3iyqAJ\n\n>>Now how does this interact with the Erciyes Fragment? For example, my prey\n>>wants to equip with an Ivory Bow. He taps his minion and plays the Ivory Bow\n>>(which then goes to the ash heap and, if the action is successful, it goes into\n>>play). During the action (while determining blockers, combat, etc.), I decide\n>>to tap the Erciyes Fragment to move the Ivory Bow (that is currently being\n>>equipped) onto the Fragment. The action is then successful but the Ivory Bow is\n>>no longer in the ash heap. So what happens now?\n>\n>\n> He equips with the Ivory Bow (the action was successful).\n> If you like, treat this as a reversal of the previous ruling -- the\n> equipment is in limbo until the action resolves and cannot be\n> affected.\n\n--\nLSJ () V:TES Net.Rep (remove spam trap to reply)\nLinks to V:TES news, rules, cards, utilities, and tournament calendar:\nwww.white-wolf.com/vtes/\n\nV:EKN Website Coordinator",
+      "Id": "89833"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Aug 9, 2018, 1:08\u202FPM",
+      "Body": "That only applies to action cards - other card types are played to the ash heap (except when explicitly put in play).\n\n1.6.1 (...)A card is played by placing it face up in the playing area or by showing it to the other players and placing it face up in the ash heap.(...)\n\n6.1.6 (...)To take the action described on an action card in your hand, play the card and lock the acting minion. If the action is successful, it resolves as indicated on the card (and the cost, if any, is paid). If the action is unsuccessful, the card is burned.(...)\n\n1.6.3. Minion Cards\nMinion cards are cards that your vampires and allies (collectively referred to as \"minions\") play. Unless the card states otherwise, a minion card is burned after a minion plays it.",
+      "Id": "89834"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 1:36\u202FPM",
+      "Body": "Correct. Only action cards are in limbo, waiting for resolution. All other cards are resolved immediately.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89836"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 1:36\u202FPM",
+      "Body": "Adding a new area is not a good idea. Leaving the Carrion Crows on the table is just a convention some players follow, but some put their cards directly in the ash heap. Anyway, it is not worth the extra rules requires by adding a new area.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89837"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Aug 9, 2018, 2:05\u202FPM",
+      "Body": "I understand that creating a new area may be troublesome, but the idea is to simply codify that convention. If you can do that without creating a new area, it would be even better - I just failed to see an easy way to do that.\nI can see advantages in clarity mainly for combat and stealth/intercept interactions, both of which are very common in the game.",
+      "Id": "89841"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 2:21\u202FPM",
+      "Body": "> skimflux wrote:\n> I understand that creating a new area may be troublesome, but the idea is to simply codify that convention. If you can do that without creating a new area, it would be even better - I just failed to see an easy way to do that.\n> I can see advantages in clarity mainly for combat and stealth/intercept interactions, both of which are very common in the game.\n>\nI tried adding a \"recruit\" area for allies to indicate they can't act, but it became clear it was unnecessary. That is why I am not keen to add an area for the same reasons.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89842"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 10, 2018, 4:32\u202FAM",
+      "Body": "I don't believe we need a new area either. However, we could make it a rule that all cards stay in play as long as they affect the game state. That would open a new design space for burning transient cards after they have been played.",
+      "Id": "89869"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Aug 10, 2018, 9:22\u202FAM",
+      "Body": "To leave cards in play would impact several things (Reality Mirror, Spiritual Guidance, etc), that's why I proposed it as a new subarea of the ash heap - this way it would not change any existing mechanics, but it would help to clarifiy the game state and could still open a new design space for future cards.",
+      "Id": "89874"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 10, 2018, 9:24\u202FAM",
+      "Body": "> Ankha wrote:\n> Correct. Only action cards are in limbo, waiting for resolution. All other cards are resolved immediately.\n>\nWe could make change the rules so that cards that have an ongoing effect on the game state (such as carrion crows, etc) would be in limbo (kept in play) until the effect ends. This would make it easier to track game state. VTES has an awful lot of triggers and effects like this to track, and I feel that constantly checking and rechecking these to ensure you don't forget anything during the game will lead to slower play overall. Having things to help people track these in the heat of the game would probably make the game proceed more smoothly. People do this already, even though it isn't official.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89875"
+    }
+  ]
+}

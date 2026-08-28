@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-82895",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82895-failing-action-before-block-attempts",
+  "Title": "Failing action before block attempts",
+  "Messages": [
+    {
+      "Author": "meneran",
+      "Date": "Mar 16, 2026, 3:29\u202FPM",
+      "Body": "Is it possible to play Faerie Wards [myt/MYT] or Hide the Heart [val] before blocks are attempted?\n\nIs it possible to play those cards during block attempt?\n\nThere is ruling that supports this (note that Hide the Heart used to end the action at the time of the ruling): groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg/m/6_nkxd28-v8J\n\nThere is also (older) ruling which seems to disallow this: groups.google.com/g/rec.games.trading-cards.jyhad/c/37EYK3FA30k/m/QynliahgIzQJ\n\nFaerie Wards\nOnly usable if an ally or younger vampire is taking an action directed at you (or a card you control).\n[aus] +2 intercept.\n[myt] The action fails. Lock this reacting vampire.\n[MYT] As Mytherceria above, and the acting minion does not unlock as normal during their next unlock phase.\n\nHide the Heart\n[aus] Reduce a bleed against you by 1.\n[val] The action fails, unless the acting minion burns 1 blood. Only one Hide the Heart can be played at Valeren each action.\n[VAL] Reduce a bleed against you by 2, or lock to reduce a bleed against any Methuselah by 2.",
+      "Id": "116664"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 16, 2026, 7:55\u202FPM",
+      "Body": "> meneran wrote:\n> Is it possible to play Faerie Wards [myt/MYT] or Hide the Heart [val] before blocks are attempted?\n>\nYes.\n>\n> meneran wrote:\n> Is it possible to play those cards during block attempt?\n>\nNo (per the Archon Investigation ruling).\n\n> meneran wrote:\n> There is ruling that supports this (note that Hide the Heart used to end the action at the time of the ruling): groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg/m/6_nkxd28-v8J\n>\n> There is also (older) ruling which seems to disallow this: groups.google.com/g/rec.games.trading-cards.jyhad/c/37EYK3FA30k/m/QynliahgIzQJ\n>\nThey don't contradict each other.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116669"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 16, 2026, 8:45\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > meneran wrote:\n> > Is it possible to play Faerie Wards [myt/MYT] or Hide the Heart [val] before blocks are attempted?\n> >\n> Yes.\n> >\n> > meneran wrote:\n> > Is it possible to play those cards during block attempt?\n> >\n> No (per the Archon Investigation ruling).\n>\n> > meneran wrote:\n> > There is ruling that supports this (note that Hide the Heart used to end the action at the time of the ruling): groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg/m/6_nkxd28-v8J\n> >\n> > There is also (older) ruling which seems to disallow this: groups.google.com/g/rec.games.trading-cards.jyhad/c/37EYK3FA30k/m/QynliahgIzQJ\n> >\n> They don't contradict each other.\n>\nIs this a reversal of the hide the heart ruling, or is the old ruling moot with the new card text?\n\nthere is also this rulign on Edward Vignes:\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/gqhND6kd2wE/m/LDmEotxa_4kJ\n>\n> > Fatima, with a Fortitude master on her, plays Bum's Rush to enter combat\n> > with Edward Vignes. Edward announces that he is attempting to block.\n> > Fatima declares that no stealth will be played and thus the block attempt\n> > is successful. Edward's controller then discards a Deflection from his\n> > hand to make the action \"fail\" (per card text).\n>\n> Can't.\n> Edward would have to invoke his special before the block succeeds.\n>\nThis reads as if it is the sucess of the block that stops the effect from beign used, not a running block attempt.\n\nalso generalization question:\n\nDoes this extend to all effects that \"fail\" the acion?",
+      "Id": "116670"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 16, 2026, 9:57\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > Ankha wrote:\n> >\n> > > meneran wrote:\n> > > Is it possible to play Faerie Wards [myt/MYT] or Hide the Heart [val] before blocks are attempted?\n> > >\n> > Yes.\n> > >\n> > >\n> > > meneran wrote:\n> > > Is it possible to play those cards during block attempt?\n> > >\n> > No (per the Archon Investigation ruling).\n> >\n> > > meneran wrote:\n> > > There is ruling that supports this (note that Hide the Heart used to end the action at the time of the ruling): groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg/m/6_nkxd28-v8J\n> > >\n> > > There is also (older) ruling which seems to disallow this: groups.google.com/g/rec.games.trading-cards.jyhad/c/37EYK3FA30k/m/QynliahgIzQJ\n> > >\n> > They don't contradict each other.\n> >\n> Is this a reversal of the hide the heart ruling, or is the old ruling moot with the new card text?\n>\nBoth are still valid.\n\n> Hobbesgoblin wrote:\n> there is also this rulign on Edward Vignes:\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/gqhND6kd2wE/m/LDmEotxa_4kJ\n> >\n> > > Fatima, with a Fortitude master on her, plays Bum's Rush to enter combat\n> > > with Edward Vignes. Edward announces that he is attempting to block.\n> > > Fatima declares that no stealth will be played and thus the block attempt\n> > > is successful. Edward's controller then discards a Deflection from his\n> > > hand to make the action \"fail\" (per card text).\n> >\n> > Can't.\n> > Edward would have to invoke his special before the block succeeds.\n> >\n> This reads as if it is the sucess of the block that stops the effect from beign used\n>\nIndeed\n\n> Hobbesgoblin wrote:\n> , not a running block attempt.\n>\nBoth does.\n\n> Hobbesgoblin wrote:\n> also generalization question:\n>\n> Does this extend to all effects that \"fail\" the acion?\n>\nI need to check, but I think it does.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116671"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 17, 2026, 7:33\u202FAM",
+      "Body": "If the Hide the heart rulign is sitll valid, please explain how the fillowing parts work together:\n\nfrom groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg/m/6_nkxd28-v8J\n>\n> > At what points during an action is there a window to play Hide the\n> > Heart at basic Valeren?\n> [...]\n> > After block attempts are declared?\n>\n> Yes.\n>\nfrom this Thread:\n>\n> > Is it possible to play those cards during block attempt?\n>\n> No (per the Archon Investigation ruling).\n>\nDo you read LSJs post as \"After a block attempt has been made (and it failed)\"?",
+      "Id": "116675"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 17, 2026, 7:36\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n> If the Hide the heart rulign is sitll valid, please explain how the fillowing parts work together:\n>\n> from groups.google.com/g/rec.games.trading-cards.jyhad/c/vJQTPYtp-Eg/m/6_nkxd28-v8J\n> >\n> > > At what points during an action is there a window to play Hide the\n> > > Heart at basic Valeren?\n> > [...]\n> > > After block attempts are declared?\n> >\n> > Yes.\n> >\n> from this Thread:\n> >\n> > > Is it possible to play those cards during block attempt?\n> >\n> > No (per the Archon Investigation ruling).\n> >\nFull quote is:\n\n> > Before block attempts are declared?\n> Yes.\n>\n> > After block attempts are declared?\n> Yes.\n>\nI read it as: you can play the card either before or after block attempts (but not during per the Archon Investigation ruling).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116676"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 17, 2026, 3:12\u202FPM",
+      "Body": "Another followup:\n\nIf the AI ruling is the reference, does that mean \"failing the action\" has to be played \"after blocks are declined\"?\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/37EYK3FA30k/m/QynliahgIzQJ",
+      "Id": "116682"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 17, 2026, 4:02\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> Another followup:\n>\n> If the AI ruling is the reference, does that mean \"failing the action\" has to be played \"after blocks are declined\"?\n>\nThat would break existing rulings on playing HtH cross table (such as the discussion in www.vekn.net/forum/rules-questions/72462-hide-the-heart-timing-questions#72626)\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "116688"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 24, 2026, 7:50\u202FPM",
+      "Body": "> Ankha wrote:\n> Full quote is:\n>\n> > > Before block attempts are declared?\n> > Yes.\n> >\n> > > After block attempts are declared?\n> > Yes.\n> >\n> I read it as: you can play the card either before or after block attempts (but not during per the Archon Investigation ruling).\n>\nI question the above interpretation. The full quote is actually per below.\nClearly it is being asked considering the 3 possible steps related to blocking....\n\n\"are declared\" is an important part of the sentences making up the questions.\n\n\"before block attempts are declared\" - explicitly clear\n\n\"after block attempts are declared\" - not explicit, but by the follow-on question, it is clear that it refers to \"while attempting to block, i.e., after declaring an attempt to block before the outcome of the attempt ... if it didnt, it would make it moot as it is the same as the step before or after this\n\n\"After a block is successful\" - explicitly clear\n\n> > At what points during an action is there a window to play Hide the\n> > Heart at basic Valeren?\n> The standard reaction window:\n> After \"as announced\" and before action resolution.\n>\n> > In the \"as the action is declared\" window?\n>\n> No.\n>\n> > Before block attempts are declared?\n>\n> Yes.\n>\n> > After block attempts are declared?\n>\n> Yes.\n>\n> > After a block is successful, but before combat begins (ie, the Change\n> > of Target/Obedience window)?\n>\n> Resolution, no.\n>\n> > During a referendum?\n>\n> Resolution, no.\n>\n> > My prey declares an attempt to bleed his prey. May I play Hide the\n> > Heart before my grandprey chooses whether or not to attempt to block?\n> > (I'm not sure how the impulse works in that situation.)\n>\n> No.\n> Impulse works as given in \"sequencing\" [1.6.1.5]\n>",
+      "Id": "116738"
+    },
+    {
+      "Author": "skychan",
+      "Date": "May 20, 2026, 6:11\u202FAM",
+      "Body": "Ankha,\n\nThere are now split rulings on Scobax and I question your statement that there is no conflict between play windows and that all action fails effects are banned from being played during a block attempt.\n\nIt is my belief that you have missinterpreted what 'after blocks are declared' means. That it does not mean, after resolving all block attempts, but during a block attempt as well.\n\nThe split rulings on Scobax are below.\n\n[Striga]\n/ [Superior Striga]\nCan be played/used any time during the action before resolution; a block attempt is not required.  groups.google.com/g/rec.games.trading-cards.jyhad/c/sC0pTtJJDj4/m/bD04Jy4pM_cJ[LSJ 20020612]\n[Superior Striga]\nCannot be used while a block is being attempted, or has already been successful. www.vekn.net/forum/rules-questions/82895-failing-action-before-block-attempts#116669 [ANK 20260316]\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/gqhND6kd2wE/m/LDmEotxa_4kJ[LSJ 20041022]\n\nFrom this thread it seems you are implying that you cannot play Scobax at 'superior' during a block attempt. However it explicitly is allowed to be played because it reduces stealth. Following the LSJ ruling on Ignis Fatuus it is even allowed to be played when a block attempt will be successful but before resolution of that block attempt occurs.\n\nThe ruling you quote about Archon Investigation timing no longer seems valid. The card has been explicitly reworded to \"after blocks are declined\" as have all other cards restricted to that window, ie deflection, redirection etc.\n\nFurther the original logic being quoted was, \"So it must be the case that AI is played only after the blocking window is closed (like Deflection), since attempting to end the action (without blocking) implies that you have decided not to block.\" However with Scobax since one of the major effects it to reduce the acting minions stealth it cannot be assumed that your attempt to end the action mean's you don't intend to block as decreased stealth is quite often in fact used to allow a block.\n\nSimilarly playing Hide the Heart does not imply you don't intend to block, it implies you want them to burn a blood before you get involved. LSJ's original ruling on the matter in 2007, started with the words \"Hmm. A bit hazy there.\" and focused specifically on a deflection style timing for a single card. It further seems to have been invalidated both because the card Archon Investigation was reworded and in the later 2010 ruling that explicitly allows the playing of Hide the Heart after a block attempt is declared.\n\nThe only restriction on play described for hide the heart is after a block attempt has reached resolution. Effects such as starshell grendade launcher can explicitly be used even when a block will be successful but before the resolution of that block begins, per the ruling on ignus fatus\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/sC0pTtJJDj4/m/bD04Jy4pM_cJ\n\nwhere it is explicitly stated that you can play it even if the acting minions stealth does not exceed any blockers intercept. which means that the timing of 'after blocks are declared' does include during that block attempt.\n\nSo the Archon Investigation Ruling cannot be used as a blanket for all or perhaps even most action fails effects as those should, if such was the intent, have the updated text of \"after blocks are declined\"",
+      "Id": "117078"
+    },
+    {
+      "Author": "skychan",
+      "Date": "May 20, 2026, 1:40\u202FPM",
+      "Body": "I've realized a simpler explanation why the Archon Investigation ruling does not apply and the two rulings are incompatible.\n\nIf the AI ruling applies as interpreted you can only play cards that end an action after blocks are declined.\nThe Hide the Heart ruling explicitly allows it to be played before then even interpreted to restrict when you can play.\n\nIf those two statements are both true, they are incompatible. Thus at least one is false. As the AI ruling for timing has been both clarified by card text and doesn't explicitly refer to a card that ends the action by card text it seems clear that it does not apply, and so regular timing of cards should govern the play of end the action cards.",
+      "Id": "117079"
+    }
+  ]
+}

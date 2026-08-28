@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-75001",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75001-thing-and-new-player-confusion",
+  "Title": "Thing and New Player Confusion",
+  "Messages": [
+    {
+      "Author": "brettscho",
+      "Date": "Jun 6, 2016, 11:03\u202FPM",
+      "Body": "Hello all - I was playing a game with a relatively new player recently (she's played ~15-20 games at this point, so new-ish is likely a better descriptor), and when she ran into Thing, she was very confused. Let's take a look at the card:\n\n> Thing\n> +1 stealth action.\n> Add 2 blood to a Gangrel in your uncontrolled region.\n>\nWhat was unclear to this player is where the blood that gets added to your uncontrolled Gangrel comes from. She knew that it couldn't be from the blood bank (this is literally what she told me) because those cards all say \"from the blood bank.\" Scouting Mission, Enchant Kindred, Govern the Unaligned, and many more cards use this phrasing.\n\n> Enchant Kindred\n> [ pre ]  Bleed with +1 bleed.\n> [ PRE ] +1 stealth action. Move 2 blood from the blood bank to a younger vampire in your uncontrolled region.\n>\nShe tried to figure out where the blood comes from and concluded that it must come from the vampire playing the card. Once she found out that the blood was supposed to come from the blood bank, she was at least marginally confused because Thing didn't follow the wording precedent set by other cards that she was familiar with.\n\nSo I guess I'm trying to ask if there was a reason that this card doesn't follow the typical wording. Was the wording altered on purpose? Is the difference in wording meaningful? Am I actually wrong and the blood does come from the vampire playing the action? And if none of those things apply then can we update the text on the card so that it clearly explains where the blood comes from? Thanks!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "77124"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jun 7, 2016, 1:07\u202FAM",
+      "Body": "One can hardly think of clearer and simpler wording than Thing. It is the old template that is needlessly complicated. The whole notion of blood bank has no place in the rules, it is only there to say that players should bring more than 30 tokens with them.",
+      "Id": "77129"
+    },
+    {
+      "Author": "Maddog",
+      "Date": "Jun 7, 2016, 6:36\u202FAM",
+      "Body": "It is confusing wording for a new player, and possibly for returning players.\nNo harm in making the wording consistent with other similar card effects\n(see changed text below)\n\n]Thing\n+1 stealth action.\nMove 2 blood from the blood bank to a to a Gangrel in your uncontrolled region.\n\nI much prefer the old template (which I edited original wording above to reflect this) which imo is much clearer than the present \"Thing\" description.\n\nI'm also very fond of the phrase \"Blood Bank\". Due to it being a term players in my meta have been using from the 90s and still use today. I does have a place in the rules.",
+      "Id": "77130"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jun 7, 2016, 1:47\u202FPM",
+      "Body": "> So I guess I'm trying to ask if there was a reason that this card doesn't follow the typical wording. Was the wording altered on purpose? Is the difference in wording meaningful? Am I actually wrong and the blood does come from the vampire playing the action? And if none of those things apply then can we update the text on the card so that it clearly explains where the blood comes from? Thanks!\n>\nI'm not sure about answers to any of these questions, but the change certainly was deliberate. From \"Output Changes\" under \"Rules\":\n\n> R0089 : Add/give/move X blood from the blood bank\n>\n> Use 'add X blood' (without 'from the blook bank').\n>\nI don't agree with some of the text change decisions that have been made, including this one. There doesn't seem to be any awareness that inconsistency in wording among cards causes confusion for new players. Changing existing templates is a wonderful long-term goal, but it is not a good idea to implement them now in the VEKN expansions.",
+      "Id": "77132"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 7, 2016, 4:43\u202FPM",
+      "Body": "Some other cards don't mention the blood bank, eg. Powerbase: Barranquilla. All of them use \"move\" when blood is moved from the vampire.\nThere are plenty of variations in the pre-PDF wording that confuse players (eg. Veil of Darkness vs. Direct Intervention).\nThe goal is to use the cleanest wording in the new cards, and the same wording everywhere (in the new cards).\nOlder cardtexts are updated in a csv file we ought to publish.\n\nThat being said, I understand she was confused, but unfortunately she will be again, even with older cards.\n\nIf you have any suggestions or remarks such as this one, feel free to post, wording rules are still under construction.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "77133"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 8, 2016, 2:35\u202FPM",
+      "Body": "Other cards:\n\nName: Cleansing Ritual\n[LoB:R]\nCardtype: Action\nCost: 1 blood\nDiscipline: Obeah/Dominate\n+1 stealth action.\n[dom] Add 1 blood to a vampire you control.\n...\n\nName: Jungle Hunting Ground\n[LoB:PA]\nCardtype: Master\nClan: Akunanse\nCost: 1 pool\nMaster: unique location. Hunting ground.\nTap during your untap phase to add 1 blood to this card if it has fewer than 3 blood. ...\n\nRejuvenate / Respire\n\nName: Transfusion\n[LoB:C]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Thanatosis/Necromancy\n[nec] Only usable after a successful action. Add 1 blood to a ready vampire.\n...\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "77138"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jun 8, 2016, 5:05\u202FPM",
+      "Body": "> Ankha wrote:\n> Other cards:\n>\n> Name: Cleansing Ritual\n> [LoB:R]\n> Cardtype: Action\n> Cost: 1 blood\n> Discipline: Obeah/Dominate\n> +1 stealth action.\n> [dom] Add 1 blood to a vampire you control.\n> ...\n>\n> Name: Jungle Hunting Ground\n> [LoB:PA]\n> Cardtype: Master\n> Clan: Akunanse\n> Cost: 1 pool\n> Master: unique location. Hunting ground.\n> Tap during your untap phase to add 1 blood to this card if it has fewer than 3 blood. ...\n>\n> Rejuvenate / Respire\n>\n> Name: Transfusion\n> [LoB:C]\n> Cardtype: Action Modifier\n> Cost: 1 blood\n> Discipline: Thanatosis/Necromancy\n> [nec] Only usable after a successful action. Add 1 blood to a ready vampire.\n> ...\n>\nMost cards include the \"from the blood bank\" language. I agree that \"add x blood\" is short and clean language in a vacuum, but the risk of confusion is increased when the text for Thing/Cleansing Ritual/Transfusion expresses the exact same effect using different language than the text for superior Govern the Unaligned, which is a card virtually every player is familiar with and has included the \u201Cblood bank\u201D language since Jyhad. The cards you cite have set a bad precedent by not following the same template as the staple cards.\n\nGovern the Unaligned\n[Sabbat War]\nCardtype: Action\nCost: 1 blood\nDiscipline: Dominate\n[dom]  Bleed with +2 bleed.\n[DOM] +1 stealth action. Move 3 blood from the blood bank to a younger vampire in your uncontrolled region.",
+      "Id": "77139"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jun 8, 2016, 10:04\u202FPM",
+      "Body": "Sorry for the late reply - I was traveling all yesterday. Anyway, thanks everybody for the replies! I very much support the proposed change in text. Eliminating terminology should be encouraged, especially when that terminology isn't really used by the game in a meaningful way. I think the proposed change is clear and I'd like to see it implemented if/when VTES gets reprinted. I just wonder how wise it is to switch the wording right now in an environment when all the old cards still have the old wording. But honestly, I don't know if there is a \"right\" answer. VTES just has so many poorly worded cards and the phrasing is so wildly inconsistent that I don't really see a solution until a reprint happens.\n\nThanks again for the explanation!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "77140"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-81635",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81635-erlik-and-illusions-of-the-kindred",
+  "Title": "Erlik and Illusions of the Kindred",
+  "Messages": [
+    {
+      "Author": "Snodig",
+      "Date": "Jul 22, 2024, 7:14\u202FAM",
+      "Body": "Will Erlik be given blood by Illusions of the Kindred in time to use his cardtext ability and move 5 of those counters to the uncontrolled region?\n\nMy understanding of cards worded with complete sentences and full stops, like R\u00F6tschreck, is that each operation is atomic (and interruptable).\nDoes that imply separate timing windows for each operation?\nMeaning\n- Illusions is played\n- Combat ends\n- Erlik enters play (cardtext triggers here)\n- Erlik is filled to capacity\n- New combat occurs\n\nOr is Erlik already filled to capacity when he enters play, and his cardtext is usable in this scenario?\n\n> Illusions of the Kindred\n>\n> Only usable before range is determined.\n>\n> Combat ends. Move the bottom card from your crypt to your ready region. That minion does not contest any other minions or titles in play. That vampire gains blood equal to half their capacity rounded down. That vampire and the opposing minion enter combat. Remove that minion from the game at the end of combat (if they are still in play).\n>\n> As above, but that vampire gains blood equal to their capacity.\n>\n> Erlik\n>\n> Sabbat\n> As Erlik enters play, you can distribute up to 5 blood from him to any of your uncontrolled Harbingers of Skulls. +1 bleed. +1 hand size.\n>",
+      "Id": "112108"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jul 22, 2024, 11:40\u202FAM",
+      "Body": "not sure but seens to me that he will enter play with full capacity, distribute 5 blood then fight with the another 5 bloods, no?\n\nDavid Resende - Prince of Teresina",
+      "Id": "112114"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 22, 2024, 11:41\u202FAM",
+      "Body": "The effect \"That vampire gains blood\" happens in the \"Enter play\" window.\nYou can arrange the order of the \"Enter play\" effects.\nSo you can fill the vampire and then trigger the redistribution of his blood.\n\nActually, this combo has been used before.\n\nBut yes. The wording could be improved.\n\nAnd could be funny to see with an \"Anarch converter\". You could stop the combat and gain1 pool.",
+      "Id": "112115"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jul 22, 2024, 1:09\u202FPM",
+      "Body": "Can you shed some light on this, Ankha?",
+      "Id": "112120"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 23, 2024, 6:04\u202FAM",
+      "Body": "> Snodig wrote:\n> Will Erlik be given blood by Illusions of the Kindred in time to use his cardtext ability and move 5 of those counters to the uncontrolled region?\n>\n> My understanding of cards worded with complete sentences and full stops, like R\u00F6tschreck, is that each operation is atomic (and interruptable).\n> Does that imply separate timing windows for each operation?\n> Meaning\n> - Illusions is played\n> - Combat ends\n> - Erlik enters play (cardtext triggers here)\n> - Erlik is filled to capacity\n> - New combat occurs\n>\n> Or is Erlik already filled to capacity when he enters play, and his cardtext is usable in this scenario?\n>\nThe latter.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112133"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jul 23, 2024, 7:44\u202FAM",
+      "Body": "Ankha could you please provide your rationale for the ruling?\n\nI and others thought because of the separate sentences; of moving the vampire to the ready region, and the gaining blood, that the \u201Cas Erlik enter play\u201D would happen in relation to the first part of being put in play and thereby before actually gaining any blood.",
+      "Id": "112135"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 24, 2024, 6:02\u202FAM",
+      "Body": "> inm8 wrote:\n> Ankha could you please provide your rationale for the ruling?\n>\n> I and others thought because of the separate sentences; of moving the vampire to the ready region, and the gaining blood, that the \u201Cas Erlik enter play\u201D would happen in relation to the first part of being put in play and thereby before actually gaining any blood.\n>\nBy default, cardtext resolves atomically. The separation between sentences only matters if something interrupts an effect (e.g., Psyche!) but then it requires specific cardtext such as a replacement effect (\"would... instead\") or a \"is about to...\" effect.\nErlik's effect is neither, so you resolve IotK then apply Erlik's effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112151"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jul 24, 2024, 10:16\u202FAM",
+      "Body": "If we look at R\u00F6tschreck\u2019s wording it is intentionally divided into two sentences, if it wasn\u2019t it wouldn\u2019t be possible to interrupt/play eg Psyche (being two separate sentences is the reason why it has been ruled that Psyche is playable in its timing window \u201CEnd of Round\u201D which happens between the two sentences and not because it is an \u201Cinterrupt\u201D effect ).\n\n\u201CCombat ends. This vampire is locked and sent to torpor.\u201D\n\n[RTR 20020501]\n\nThe \u201DAs Erlik enters play\u201D effect based on the R\u00F6tschreck rationale should resolve in the same timing window as \u201CThat minion does not contest any other minions or titles in play.\u201D which logically is before the blood gaining effect that isn\u2019t in any way a mandatory or prerequisite effect for putting the vampire in the ready region.\n\n\u201CMove the bottom card from your crypt to your ready region. That minion does not contest any other minions or titles in play. That vampire gains blood equal to half their capacity rounded down.\u201D\n\nI understand that the intent of the card might be to work as ruled but imo if that is the wish a re-wording is what is needed and not a ruling.",
+      "Id": "112154"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jul 24, 2024, 11:03\u202FPM",
+      "Body": "Here's the 2009 LSJ ruling for Fourth Cycle (pre-errata) which established a precedent for execution in written order - in this case even when provided in a single sentence. That thread post-dates the Bima ruling [LSJ 20080512] which established at least some of the atomic timing precedents.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/4VRjly38IPo/m/hyjMZeaQmjUJ\n\nI can see why 1) there's confusion on this topic and 2) why Fourth Cycle was given errata.",
+      "Id": "112168"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 25, 2024, 9:13\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Here's the 2009 LSJ ruling for Fourth Cycle (pre-errata) which established a precedent for execution in written order - in this case even when provided in a single sentence. That thread post-dates the Bima ruling [LSJ 20080512] which established at least some of the atomic timing precedents.\n>\nJust to be clear, \"atomically\" does not mean \"simultaneously\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112177"
+    }
+  ]
+}

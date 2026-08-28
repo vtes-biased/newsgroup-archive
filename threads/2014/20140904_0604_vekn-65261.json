@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-65261",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/65261-sowing-skirmish",
+  "Title": "Sowing Skirmish",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Sep 4, 2014, 6:04\u202FAM",
+      "Body": "Greets!\n\nOh man, been a long time... I was just wondering, looking at anarch cards... Border Skirmish, Sowing Dissension for example are made to be undirected. According to the updated rules, those are D actions (pls correct me if I'm wrong). If that's the case, these kind of cards reacieved a nerf the designers did not reckon with when they created them.\n\nSo do these type of cards count as a D action? Can anyone involved creating the new rules walk me through the necessities why this change is required?\n\nName: Sowing Dissension\n[Anarchs:C]\nCardtype: Action\nRequires a ready anarch.\nEach other Methuselah taps an untapped ready younger vampire he or she controls. If this action is blocked by a non-titled vampire, the acting anarch can burn 1 blood to cancel combat and untap.\n\nName: Border Skirmish\n[Anarchs:C2/PAG3]\nCardtype: Action\n+1 stealth action. Requires a ready anarch.\nEach other Methuselah discards one card at random from his or her hand, and this anarch untaps at the end of the turn.\n\nNC of Hungary\n\n///",
+      "Id": "65261"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 4, 2014, 6:28\u202FAM",
+      "Body": "Both actions are directed at all their targets, that is directed at all Methuselahs.\nAny Methuselah can block, starting with prey, predator then other Methuselahs clockwise.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "65262"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 4, 2014, 7:28\u202FAM",
+      "Body": "> Ankha wrote:\n> Both actions are directed at all their targets, that is directed at all Methuselahs.\n>\nCorrect.\n>\n> Ankha wrote:\n> Any Methuselah can block, starting with prey, predator then other Methuselahs clockwise.\n>\nIncorrect.\nAny tqrgetted Methuselah can block, clockwise. Prey, grand prey, grand predator, predator, and then clockwise for Eeagle's Sights, if some were not targets.\n\nThis new rule (introduced with KoT about 6 yeras ago) removes incoherences such as:\nCurrent rules: If you have an eligible target for Wave of Insanity, the action is now D against you (amongst other Methuselahs).\nPrevious rules: If you have an eligible target for Wave of Insanity, the action is D against you ONLY IF noone else has a target.\n\nI find it way cleaner.\n\nAs to retroactively changing existing cards due to that change: I don't see what this would be good for.\nTake Border's Skirmish: Why should prey and predator be the only ones to be eligible to block something that also hits grand prey and grand predator the same way?",
+      "Id": "65263"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 4, 2014, 9:04\u202FAM",
+      "Body": "> Malachy wrote:\n> If that's the case, these kind of cards reacieved a nerf the designers did not reckon with when they created them.\n>\nThe person who changed the rules (LSJ) was also the person who designed both of the cards you mention. Other cards it affects include:\n\n- Shepherd's Innocence, superior, which sees basically zero play\n- Wave of Insanity, which was designed by designers who would never have suspected allies might feature in the crypt, so got a significant boost at that point\n\nBottom line: designers cannot foresee how the game will change in a CCG, whether due to new cards, rules changes, metagame shifts or whatever else.\n\n> Malachy wrote:\n> So do these type of cards count as a D action? Can anyone involved creating the new rules walk me through the necessities why this change is required?\n>\nThe change was made in the next set after this RTR discussion  [RTR 2008-AUG-08] , provoked largely by the incoherences pointed out by Jozxyqk, especially regarding immunity and actions that target all of a class of card without the Methuselah being able to choose, with actions then shifting between being  and non- depending on whether you burned an Underbridge Stray but you were still tapping one of your own allies, and that sort of thing. (They discussed it at considerable length by email, and I was copied on some of it.)",
+      "Id": "65265"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-77556",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/card-balance-strategy-discussion/77556-the-grandest-trick-should-it-receive-an-errata",
+  "Title": "The Grandest Trick - Should it receive an Errata?",
+  "Messages": [
+    {
+      "Author": "Mateusz",
+      "Date": "Apr 12, 2019, 1:44\u202FPM",
+      "Body": "Now that we see VTES on the rise again and some cards already had rules updates, i think Grandest Trick should be reworded to make it playable:\n\nCost: 2 blood\n\nOld Text\nOnly usable when an action is announced.\nVampires cannot block this minion. This acting vampire is treated as a mortal ally for the duration of the action (cannot spend or burn blood, cannot use Disciplines, will burn if reduced to 0 life, etc.). This vampire's blood represents his or her life while he or she is an ally. Only usable on an action that doesn't cost blood or require a vampire, clan or Discipline.\n\nProposed new text\nOnly usable when an action is announced. A vampire can play only one The Grandest Trick each game.\nVampires cannot block this minion. This acting vampire is treated as a mortal ally for the duration of the action (cannot spend or burn blood, cannot use Disciplines, will burn if reduced to 0 life, etc.). This vampire's blood represents his or her life while he or she is an ally.\n\n\"Renegade Garou, can do!\"",
+      "Id": "94501"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Apr 12, 2019, 2:58\u202FPM",
+      "Body": "It might be better if the card is put on the acting vampire, and a vampire can have only one Grandest Trick.\nMuch easier to keep track.",
+      "Id": "94502"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 12, 2019, 5:58\u202FPM",
+      "Body": "The grandest trick is to manage to play the Grandest Trick.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94503"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 12, 2019, 7:39\u202FPM",
+      "Body": "> Mateusz wrote:\n> Only usable on an action that doesn't cost blood or require a vampire, clan or Discipline.\n>\nThis line that you've deleted doesn't help.\n\nRequirements are checked when an action starts, and re-checked when it resolves.\n\n[RTR 2008-08-08]\n>\n> Non-existant user wrote:\n> An action that requires a Discipline (or clan or sect or capacity) will fizzle\n> if the acting vampire no longer meets the requirements (just as it would fizzle\n> if the acting minion ceased being ready, or if a required equipment was lost,\n> like a Bomb).\n>\n(Note that this Rules Team Ruling was a reversal of some previous rulings that said requirements were only checked when the action started, so be careful if you go hunting for rulings on it.)\n\nIf the action requires a vampire, it will fizzle when it resolves because TGT means we're treating the minion as an ally.\n\nIf the action costs blood, life cannot be used to meet a blood cost, and TGT means that we're treating the minion's blood as life.\n\nMortal allies don't have clans or disciplines under TGT, so a card that required a clan or discipline would not have its requirements met.  [LSJ 20070228]\n\n> LSJ wrote:\n> > I would think that a mortal ally cannot have a\n> > clan,\n>\n> Nor a Disciple. Correct. Mata has neither while she is a mortal ally.\n>",
+      "Id": "94504"
+    },
+    {
+      "Author": "Mateusz",
+      "Date": "Apr 13, 2019, 6:16\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Mateusz wrote:\n> > Only usable on an action that doesn't cost blood or require a vampire, clan or Discipline.\n> >\n> This line that you've deleted doesn't help.\n>\n> Requirements are checked when an action starts, and re-checked when it resolves.\n> [...]\n> If the action requires a vampire, it will fizzle when it resolves because TGT means we're treating the minion as an ally.\n>\n> If the action costs blood, life cannot be used to meet a blood cost, and TGT means that we're treating the minion's blood as life.\n>\n> Mortal allies don't have clans or disciplines under TGT, so a card that required a clan or discipline would not have its requirements met.  [LSJ 20070228]\n>\n> > LSJ wrote:\n> > > I would think that a mortal ally cannot have a\n> > > clan,\n> >\n> > Nor a Disciple. Correct. Mata has neither while she is a mortal ally.\n> >\nOk, i was not aware of that!\n\n> Snodig wrote:\n> It might be better if the card is put on the acting vampire, and a vampire can have only one Grandest Trick.\n> Much easier to keep track.\n>\nVery good idea! Thank you!\n\nSo, how about this version of the card?\n\nProposed new text V2\nOnly usable when an action is announced. Put this card on the acting vampire. A vampire can have only one The Grandest Trick.\nVampires cannot block this minion during the current action. If this acting vampire is reduced to 0 blood or sent to torpor during this action, he or she is burned instead.\n\nWhat do you think?\n\n\"Renegade Garou, can do!\"",
+      "Id": "94506"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Apr 13, 2019, 9:09\u202FAM",
+      "Body": "> Ankha wrote:\n> The grandest trick is to manage to play the Grandest Trick.\n>\nI wonder is this one of those \"First you play clan impersonation\" quests..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "94510"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Apr 14, 2019, 2:18\u202FAM",
+      "Body": "> Mateusz wrote:\n> So, how about this version of the card?\n>\n> Proposed new text V2\n> Only usable when an action is announced. Put this card on the acting vampire. A vampire can have only one The Grandest Trick.\n> Vampires cannot block this minion during the current action. If this acting vampire is reduced to 0 blood or sent to torpor during this action, he or she is burned instead.\n>\n> What do you think?\n>\nThat's massively overpowered. Compare it to other \"this vampire is unblockable by vampires\" cards:\nBeast Meld: requires two disciplines, not usable on a bleed action\nDaring the Dawn/Day Op: acting vampire goes to torpor\nStrange Day: only one per game\nFlaming Candle: requires setup action, only one per game\nNeutral Guard: requires scarce clan, only works against younger vampires\n\nAnd not only is your version of GT way overpowered, it's a clan card for a clan that's already one of the more powerful ones in the game, who have access to two stealth disciplines and the Dominate \"no blocking cards,\" and who certainly don't need unconditional unblockability.\n\nLastly, it completely kills the flavor of the card. I don't normally care much about the latter, but Grandest Trick is so cute!",
+      "Id": "94518"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Apr 14, 2019, 10:58\u202FPM",
+      "Body": "In canon, as of V20 core book, most recent addition of The Grandest Trick, it's got pretty limited use.\nThrow off hunters, meet with other Kiasyd elders.\n\nBasically, Strange Day is a billion times more interesting as a story hook, and as a card.\n\nTGT could be a reaction that's playable once a game that cancels a card directed at the Kiasyd if the card must be put on a vampire. Pentex, Fame, Deep song, etc.\nBut maybe word it to make the Kiasyd a Mortal Ally until the card has been resolved or something.\n\nBut it sucks, not much salvaging. VTM wise, it's not great because only high gen Kiasyd can use it. Not exactly ever played with a whole coterie of those....",
+      "Id": "94520"
+    }
+  ]
+}

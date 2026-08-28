@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-80110",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80110-goth-band-and-leadership-vacuum",
+  "Title": "Goth Band and Leadership Vacuum",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Oct 21, 2022, 8:50\u202FPM",
+      "Body": "Imagine you control Goth Band (GB) and have just played a Leadership Vacuum (LV), placing one counter on it for having dunked a Bishop (so X=1 for LV). You immediately take an action with GB to remove a counter from another Methuselah's master card and add it to the LV. So now there are two counters on LV, but does that mean that X=2 now? More to the point -->\nQUESTION: Now that there is a second counter on Leadership Vacuum (played at X=1), how much pool will my prey burn from LV during their unlock phase?\n\nThe reason I think the answer might be 1 rather than 2 is that the card says to burn X pool, rather than saying to burn pool equal to the number of counters on the card. Moreover, the card does not say to adjust the value of X according to the number of counters; it merely says that X is the starting number of counters. Still, it would be cool if the combo worked.\n\nCard text pasted below.\n\nThanks!\n-Bill / Killiam\n\nLeadership Vacuum\nMaster: out-of-turn. Unique.\nOnly usable when a ready titled vampire controlled by another Methuselah is burned or sent to torpor. Usable during your turn. Put this card in play and put X counters on this card where X is the number of votes that vampire has. That Methuselah burns X pool during each of his or her unlock phases. During his or her unlock phase, if he or she controls a ready vampire with a capacity of 8 or more or with a title, burn this card.\n\nGoth Band\nCost: 2 pool\nUnique mortal with 2 life. 1 strength, 0 bleed.\nAs a +1 stealth \u24B9 action, the Goth Band may move one counter from any master card controlled by another Methuselah to a master card you control that uses counters. The counter is changed to a counter of the type appropriate to the new card.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "106633"
+    },
+    {
+      "Author": "lip",
+      "Date": "Oct 22, 2022, 6:53\u202FAM",
+      "Body": "Good question, and good point. I would say that still, X has to be 2, otherwise why the counters at all?",
+      "Id": "106635"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 22, 2022, 7:16\u202FAM",
+      "Body": "I disagree, the text is explicit about what the value of X is (\"X is the number of votes that vampire has\") and has nothing to do with the counters on the card.",
+      "Id": "106636"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Oct 22, 2022, 7:32\u202FAM",
+      "Body": "Poor wording. Should be:\n\n\"That Methuselah burns pool equal to the number of counters on this card during each of his or her unlock phases\".\n\nWith the current text, I agree with inm8.",
+      "Id": "106637"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 24, 2022, 1:08\u202FPM",
+      "Body": "> KoRneeshon wrote:\n> Poor wording. Should be:\n>\n> \"That Methuselah burns pool equal to the number of counters on this card during each of his or her unlock phases\".\n>\n> With the current text, I agree with inm8.\n>\nCorrect. The number of counters has no influence whatsoever on the pool amount the Methuselah burns.\nIf we ever reprint the card, it will perhaps change.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106640"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-79318",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79318-claiming-the-body-vs-mental-maze",
+  "Title": "Claiming the body vs mental maze",
+  "Messages": [
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 9, 2021, 10:10\u202FPM",
+      "Body": "Acting blood brother is blocked by a larger cap malkavian. Blood brother player wants to play claiming the body, the malkavian player wants to play mental maze. Which is played/resolved first?\n\nThis situation arose in an offline game today, and mostly everyone except the malkavian player thought that the cards are played in the same window, and claiming the body resolves first because the acting player has impulse. To get closure, I'm asking this question here.\n\nName: Mental Maze\n[LotN:C/PS2, POD:DTC]\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Obfuscate\nOnly usable if this vampire blocks an ally or younger vampire, before block resolution.\n[obf] Lock this vampire and end the action. This card costs Ministers 1 fewer blood.\n[OBF] As above, but do not lock this vampire.\n\nName: Claiming the Body\n[LoB:C]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Sanguinus\nRequires a ready unlocked Blood Brother of the same circle as another one who has just been blocked.\n[san] Cancel the combat and end the action. (Do not unlock the blocking minion.)\n[SAN] As above, and unlock the acting Blood Brother.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103081"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 10, 2021, 6:29\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Acting blood brother is blocked by a larger cap malkavian. Blood brother player wants to play claiming the body, the malkavian player wants to play mental maze. Which is played/resolved first?\n>\n> This situation arose in an offline game today, and mostly everyone except the malkavian player thought that the cards are played in the same window, and claiming the body resolves first because the acting player has impulse. To get closure, I'm asking this question here.\n>\n> Name: Mental Maze\n> [LotN:C/PS2, POD:DTC]\n> Cardtype: Reaction\n> Cost: 1 blood\n> Discipline: Obfuscate\n> Only usable if this vampire blocks an ally or younger vampire, before block resolution.\n> [obf] Lock this vampire and end the action. This card costs Ministers 1 fewer blood.\n> [OBF] As above, but do not lock this vampire.\n>\n> Name: Claiming the Body\n> [LoB:C]\n> Cardtype: Action Modifier\n> Cost: 1 blood\n> Discipline: Sanguinus\n> Requires a ready unlocked Blood Brother of the same circle as another one who has just been blocked.\n> [san] Cancel the combat and end the action. (Do not unlock the blocking minion.)\n> [SAN] As above, and unlock the acting Blood Brother.\n>\nClaiming the Body should have been migrated, this is an oversight.\n\nIt should read now:\n\nOnly usable by a ready unlocked Blood Brother of the same circle as another Blood Brother who has just been blocked, before block resolution. [san] Lock the blocking minion and end the action. [SAN] As above, and unlock the acting Blood Brother.\n\nIt is played in the same window as Mental Maze, so the acting Methuselah gets the priority.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103082"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 10, 2021, 8:11\u202FAM",
+      "Body": "Maybe it is just me but i\u00B4m having doubt how this exactly plays out\n\nAnkha could you please provide a step by step explanation...When is the Mental Maze played? When is Claiming the Body played? When are they resolved if at all? When do the minions get locked? etc.\n\n1. Acting Blood Brother bleeds for 1\n2. Larger capacity Malkavian attempts to block\n3.. etc\nX. ...",
+      "Id": "103083"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 10, 2021, 9:16\u202FAM",
+      "Body": "They are played after block is successful but before combat. Acting player plays his cards first, in this case playing claiming the body, which ends the action so defending player doesn't get opportunity to play any reaction cards since there is no action any more.\n\nI was 99.99% sure this is how it plays out, but wanted an official word to settle the matter for good.\n\n1, Acting blood brother bleeds for 1\n2. Larger cap Malkavian attempts to block\n3. Blood brother declares block successful\n4. Blood brother plays claiming the body on superior, ending the action before combat. Defending player doesn't get opportunity to play any non-cancel cards.\n\nClaiming the body is similar to card \"change of target\" except the blocker stays locked.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103085"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 10, 2021, 10:02\u202FAM",
+      "Body": "> Bloodartist wrote:\n> They are played after block is successful but before combat. Acting player plays his cards first, in this case playing claiming the body, which ends the action so defending player doesn't get opportunity to play any reaction cards since there is no action any more.\n>\n> I was 99.99% sure this is how it plays out, but wanted an official word to settle the matter for good.\n>\n> 1, Acting blood brother bleeds for 1\n> 2. Larger cap Malkavian attempts to block\n> 3. Blood brother declares block successful\n> 4. Blood brother plays claiming the body on superior, ending the action before combat. Defending player doesn't get opportunity to play any non-cancel cards.\n>\n> Claiming the body is similar to card \"change of target\" except the blocker stays locked.\n>\nThanks for the explanation... i was as you pretty sure how it should play out but wanted to get confirmation as your scenario caused me doubt\n\nJust to make it crystal clear....\nIn step 1 the acting blood brother gets locked.\nThen in step 4 which is before block resolution the opposing larger cap. Malkavian gets locked because of Claiming the Body\u00B4s effect and the acting blood brother gets unlocked because of the effect of superior Claiming the Body. The supporting blood brother that plays Claiming the Body to modify the action of the acting blood brother isn't locked when playing an action modifier (if not stated in the card/effect).",
+      "Id": "103086"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 10, 2021, 10:39\u202FAM",
+      "Body": "You got it right.\n\nI can see where the problem is....\nChange of target says it is played before block resolution, apparently before the blocking minion even locks. Thats why the blocking minion stays unlocked.\n\nClaiming the body SHOULD read specifically that it locks the blocking minion (see Ankhas post), otherwise it behaves similarly. I guess the cardtext will be updated soon.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103088"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 10, 2021, 11:34\u202FAM",
+      "Body": "> Bloodartist wrote:\n> 1, Acting blood brother bleeds for 1\n> 2. Larger cap Malkavian attempts to block\n> 3. Blood brother declares block successful\n> 4. Blood brother plays claiming the body on superior, ending the action before combat. Defending player doesn't get opportunity to play any non-cancel cards.\n>\nCorrect.\n\n> Bloodartist wrote:\n> Claiming the body SHOULD read specifically that it locks the blocking minion (see Ankhas post), otherwise it behaves similarly. I guess the cardtext will be updated soon.\n>\nIt will.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103090"
+    }
+  ]
+}

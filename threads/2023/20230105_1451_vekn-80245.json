@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-80245",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80245-raptor-and-nar-sheptha-hand-size-effect",
+  "Title": "Raptor and Nar-Sheptha hand size effect",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Jan 5, 2023, 2:51\u202FPM",
+      "Body": "Question from the discord\n\nIf Vamp A with 1 Raptor block Vamp B with Nar-Sheptha, what happens? Does Vamp B gains +2 hand size, and then gets -1 hand size, having to discard? Or both effects resolve at the same time and Vamp B gets +1 hand size?\n\nRaptor\n\nCardtype: Retainer\nCost: 2 blood\nDiscipline: Animalism\nAnimal with 1 life.\nThe minion with this retainer gets +1 intercept.\nAs above, and when the minion with this retainer is in combat, the opposing minion's controller gets -1 hand size.\n\nNar-Sheptha\n\nCardtype: Retainer\nClan: Banu Haqim\nCost: 1 pool\nUnique wraith with 1 life.\nWhile this vampire is in combat, you get +2 hand size, and the opposing minion is considered the acting minion.",
+      "Id": "107136"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2023, 3:32\u202FPM",
+      "Body": "Both effects take place at the same time, so the vampire gets +2-1=+1 hand size.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107137"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 5, 2023, 4:58\u202FPM",
+      "Body": "Could you please explain why ordering isn\u2019t relevant here but is during the unlock phase when having eg a Vessel and an Anarch Revolt is in play?",
+      "Id": "107141"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2023, 6:04\u202FPM",
+      "Body": "> inm8 wrote:\n> Could you please explain why ordering isn\u2019t relevant here but is during the unlock phase when having eg a Vessel and an Anarch Revolt is in play?\n>\nContinuous effects that start at the same time are not ordered.\n\nIf you use a Vessel, you have to resolve the effect entirely before moving on (you can't \"use\" the Anarch Revolt at the same time), so you have to choose an order.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107143"
+    }
+  ]
+}

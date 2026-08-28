@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-82379",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82379-what-is-the-timing-of-a-queued-combat",
+  "Title": "What is the timing of a queued combat?",
+  "Messages": [
+    {
+      "Author": "blackday",
+      "Date": "Jun 6, 2025, 10:30\u202FAM",
+      "Body": "Sorry if this seems weird im asking about a card thats not yet here.\n\nI know the card isnt out yet but some players have asked what is the timing of this.\nI assumed it was after the action resolves (succeeds or gets blocked and failed) then the queued combat gets to resolve next. Otherwise why use queued instead of begin a combat? But im not an English major so im asking these just to be sure.\n\nThis is in relation to the Hedonism action modifier card. Sorry the card isnt out yet and is just spoiled so i didnt post the card details here.",
+      "Id": "114630"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 6, 2025, 12:14\u202FPM",
+      "Body": "Works the same way of Siren Lure, for us non english speaking people seens the same, maybe for english speaking people the new text/wording is more clear\n\nName: Siren's Lure\n[BL:R1, LoB:R, POD:DTC]\nCardtype: Action Modifier\nDiscipline: Melpominee/Celerity\n[cel] Burn 2 blood to get +1 stealth.\n[mel] Only usable by a ready unlocked vampire other than the acting minion if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion. After the action resolution, this vampire and the blocking minion enter combat.\n[MEL] As [mel] above, but do not lock this modifying vampire.\nArtist: Steve Prescott\n\nDavid Resende - Prince of Teresina",
+      "Id": "114633"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 6, 2025, 12:34\u202FPM",
+      "Body": "Combat always happens during action resolution by default, so I don't see why \"queue\" should happen \"after action resolution\".\n\nIMHO it should therefore work the following:\naction resolution:\n- effect resolution (e.g. bleed resolution, referendum)\n- after effect resolution window (e.g. cards \"after referendum\")\n- queued combat after action resolution (e.g. Freak Drive)",
+      "Id": "114634"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Jun 6, 2025, 2:35\u202FPM",
+      "Body": "> Oracle.kid wrote:\n> Combat always happens during action resolution by default, so I don't see why \"queue\" should happen \"after action resolution\".\n>\n> IMHO it should therefore work the following:\n> action resolution:\n> - effect resolution (e.g. bleed resolution, referendum)\n> - after effect resolution window (e.g. cards \"after referendum\")\n> - queued combat after action resolution (e.g. Freak Drive)\n>\nwww.vekn.net/rulebook\n>\n> 3. Resolve the Action\n>\n> If the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place.\n>\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat). If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs. The effects of the action do not take place when the action is blocked. Note that the action\u2019s cost, if any, is only paid if the action succeeds; the cost is not paid if the action is blocked. The costs of action modifiers and reaction cards are always paid when the cards are played, regardless of the success of the action.\n>\n...\n\n> ... If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs. ...\n>\nIs queue effect instant or delayed if tied to minions being locked? Are there multiples or it is always queue of 1? Can there be multiple queues from separate effects? What is queue anyway in VTES?  Who is this Que Ue?\n\nTrust in Jan Pieterzoon.",
+      "Id": "114636"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 6, 2025, 3:33\u202FPM",
+      "Body": "With this as baseline combat is only during action resolution.\n\n> Ankha wrote:\n> Here are the general guidelines:\n> 1/ combats happen only during action resolution\n> 2/ combats can be chained (extending the resolution)\n> 3/ there's a window between combat to play \"after combat\" non-combat effects (such as Hidden Lurker (action modifier), but also Obedience (reaction))\n> 4/ if the action is ending by a game state check (readiness), combats cannot added to the chain, but also it cannot be continued (even if you fix the state with Warsaw Station typically)\"\n>\nDiscord Hidden Lurker Thread\n\n> Ankha wrote:\n> If the action is blocked, then the action resolves with a \"lock+enter combat\" thing called \"block resolution\". That's the start of it. The action resolution can then be extended with more combats.\n>\nDiscord Hidden Lurker Thread\n\n> We figured that `after bleed resolution` is a part of `action resolution`, similar to `after combat` for Hidden Lurker. And that Voter Captivation would still be in the Freak Drive window, since it refers to `resolution of a political **action** whose referendum passed`. (Cards which refer to political actions would need to be `after referendum` for political actions to be in the same window.\n>\n> Ankha: it looks right\n>\nDiscord Guardian Thread\n\nSo a queue extends the action resolution window. My take is it there can be multiple combats queued with multiple minions. E.g. Psyche! can still be played to start a new combat during a rush / block combat, and after all combats with the acting minion are resolved, Hedonism 1 combat and Hedonism 2 combat are resolved.",
+      "Id": "114638"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Jun 7, 2025, 11:29\u202FPM",
+      "Body": "I guess we have to wait for Ankha to rule on this since we have two different opinions regarding how the queued events happen. Although i agree with Oracle kid.\nCan you please give us a ruling, Ankha?",
+      "Id": "114646"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 8, 2025, 8:44\u202FAM",
+      "Body": "In due time, of course.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114649"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Jun 13, 2025, 5:11\u202FAM",
+      "Body": "So from the rules posted, Queued combat happens after the action.\nBut can i ask a follow up question to this Ankha?\nIf the action was eventually blocked and combat resulted, can the opposing minion still play a psyche to have a new combat if there is already a queued combat due to a card effect like hedonism?",
+      "Id": "114680"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Jun 13, 2025, 5:21\u202FAM",
+      "Body": "I looked it up further and there was a ruling where psyche cant be played if there is already a combat queued. I just need to confirm if this is true, thank you.",
+      "Id": "114681"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2025, 5:30\u202FAM",
+      "Body": "See www.vekn.net/forum/rules-questions/82396-queued-combats\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114682"
+    }
+  ]
+}

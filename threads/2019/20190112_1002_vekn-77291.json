@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-77291",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77291-canceling-a-bleed-modifier",
+  "Title": "Canceling a bleed modifier",
+  "Messages": [
+    {
+      "Author": "ResurrectioN",
+      "Date": "Jan 12, 2019, 10:02\u202FAM",
+      "Body": "During a bleed action a bleed modifier has been canceled.\n(eg: DI played on Conditioning)\n\nCan a 2nd bleed modifier, with different name, be played?\n(eg: play Threats after Conditioning has been canceled)\n\nThis (old) thread suggests yes:\nwww.vekn.net/forum/rules-questions/35003-conditioning-di-sos-answer-needed?start=0\n\nRulebook entry for cancel a card suggests yes:\n>\n> \u201CCancel a card\u201D: A \"canceled\" card has no effect, but it is still considered played. Unless explicitly written, cost for the card is paid. If the card was a strike card, the minion who played it must choose a strike, which might come from another strike card. If the card was an action card, the minion doesn\u2019t lock (he doesn\u2019t pay for the action card), and can play the same action card again.\n>\nBut the confustion comes from this entry in the rulebook under 6.1.1 Bleed\n>\n> A minion cannot use more than one action modifier card to increase a bleed during a bleed action. Some bleed action modifiers explicitly state that they do not count against this limit; those can be played before or after modifiers that count against the limit. This rule is reminded on some cards by the \"(limited)\" card text.\n>\nIs use action modifier different then play action modifier?\n\neg: Is it allowed to play non-Conditioning bleed modifier after Conditionin has been canceled since it's limited keword has been canceled implicitly?\n\n> Conditioning\n> [Action Modifier] Action Modifier\n> [Dominate] Dominate\n> [1 Blood]\n> You cannot play another action modifier to increase this bleed amount.\n> [dom] +2 bleed.\n> [DOM] +3 bleed.\n>\n> Threats\n> [Action Modifier] Action Modifier\n> [Dominate] Dominate\n> After playing this card, you cannot play another action modifier to further increase the bleed for this action.\n> [dom] +1 bleed.\n> [DOM] +2 bleed.\n>",
+      "Id": "92784"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 12, 2019, 11:04\u202FAM",
+      "Body": "> A minion cannot use more than one action modifier card to increase a bleed during a bleed action.\n>\nWell the canceled modifier didn't increase the bleed since it was canceled, so the answer should be yes? You can use a different action modifier to increase the bleed?\n\n(Would be nice to see if I actually get these rules right. Trying to learn VTES rules is impossible since there is no underlying logic)\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "92787"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 12, 2019, 1:39\u202FPM",
+      "Body": "> ResurrectioN wrote:\n> Is use action modifier different then play action modifier?\n>\nYes.\n\n> ResurrectioN wrote:\n> eg: Is it allowed to play non-Conditioning bleed modifier after Conditionin has been canceled since it's limited keword has been canceled implicitly?\n>\nYes, as long as only one action modifier is used to increased the bleed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92797"
+    }
+  ]
+}

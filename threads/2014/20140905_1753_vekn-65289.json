@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-65289",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/65289-wormwood-and-barrenness",
+  "Title": "Wormwood and Barrenness",
+  "Messages": [
+    {
+      "Author": "M.Schumacher",
+      "Date": "Sep 5, 2014, 5:53\u202FPM",
+      "Body": "Consider Wormwood has 6 counters.\nI have a 10 cap vampire who is treated as a 6 cap.\nI now play Barreness on that vampire.\nI see 2 possiblites now:\n\n1. The vampires capacity is reduced from 10 to 8, and Worwood treats him as a 6-cap. (Wormwood does not actually reduce that vamps capacity, it just treats it as a 6-cap.)\n2. Wormwood treats the vamp as a 6-cap for all purposes, and Barreness reduces the capacity to 4.\n\nIm not sure which one is correct.\n\nBarrenness\n[Action] Action\n[Burn Option]\n[Maleficia] Maleficia\n\n+1 stealth action.\n[mal]  Put this card on a vampire and untap this acting vampire. This vampire is sterile and his or her capacity decreases by 2 (to a minimum of 1.) [mal] is not a Discipline.\n[MAL]  Burn a vampire whose capacity is 1.\n\nWormwood\n[Event] Event\n\nGehenna. Do not replace until your next discard phase.\nRequires at least one other Gehenna card in play. Put 10 counters on this card. Burn 1 counter whenever another Gehenna card is put in play. A vampire whose capacity is greater than X is treated as if his or her capacity is X (minimum of 1), where X is the number of counters on this card.",
+      "Id": "65289"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 5, 2014, 6:38\u202FPM",
+      "Body": "Answer 1.\nWormwood states \"A vampire whose capacity is greater than X is treated as if his or her capacity is X\". It doesn't reduce the capacity.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "65291"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 5, 2014, 6:44\u202FPM",
+      "Body": "vekn.net/card-rulings/card-rulings-p-to-z\n\n> That wrote:\n> Wormwood snags the vampire's actual capacity (complete with any effects that have changed that actual capacity) and clamps it to X. Orun will add to that X (or to the vampire's real capacity if it is less than X) for cards played by other players. [LSJ 20051205]\n>\nBarrenness is a proper capacity affecter (unlike the weirdness of Orun), so the vampire's actual capacity is 8. Then Wormwood means that it's treated as 6.",
+      "Id": "65292"
+    }
+  ]
+}

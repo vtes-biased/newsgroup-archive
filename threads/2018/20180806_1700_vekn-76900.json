@@ -1,0 +1,356 @@
+{
+  "ThreadId": "vekn-76900",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/card-balance-strategy-discussion/76900-trap-rewording",
+  "Title": "Trap rewording",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Aug 6, 2018, 5:00\u202FPM",
+      "Body": "At BCP, we are considering changing the text of Trap to:\n\n> Only usable before range is determined during the first round of combat.\n> Put this card in play with 3 counters. Each time a card is played this combat, add counters to this card until it has 3 counters. During the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat.\n>\nThe behavior is the same except that the card stays in play for the duration of the combat (not a big difference).\n\nDo you find it clearer this way? If not why?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89698"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Aug 6, 2018, 5:13\u202FPM",
+      "Body": "With \"during X, do Y\" you could only play 1 Trap though. The current wording \"Only usable before range is determined on the first round of combat.\" allows playing multiple copies if you happen to have those in hand, right?\n\nWhether the wording would be any clearer, I am not sure if there would be big difference. The bigger change would be the one mentioned above preventing cycling of multiple Traps on the first round of combat.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "89699"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Aug 6, 2018, 5:19\u202FPM",
+      "Body": "This is what I almost suggested a couple of times, but never got around to writing the post.\n\nThis simplifies the card quite a bit. I already demonstrate it with counters on.\n\nSo, yes, full-heartedly yes.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89700"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Aug 6, 2018, 5:26\u202FPM",
+      "Body": "Ooh yes...sorry I actually paid more attention to the bolded part than the rest of the adjustment. The counter option would make the function of the card clearer, although just for the sake of how many combat cards combat decks usually need to stuff in I would like to leave open the option of cycling multiple Traps during the first round of combat.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "89701"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Aug 6, 2018, 6:03\u202FPM",
+      "Body": "Yes, this is a very good clarification of the workings and intent of the original card.\n\nHas \"during X, do Y\" ever interfered with the playing of the same card with 'during' as its text? Will this wording prohibit the playing of more than one? Will another card with the same exact wording be stopped from being played after this one? I'm having a feeling that the answer to all of these is probably 'No' and Khalid can rest easy but I could've missed something.",
+      "Id": "89703"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Aug 6, 2018, 6:14\u202FPM",
+      "Body": "> Robert wrote:\n> Has \"during X, do Y\" ever interfered with the playing of the same card with 'during' as its text? Will this wording prohibit the playing of more than one? Will another card with the same exact wording be stopped from being played after this one? I'm having a feeling that the answer to all of these is probably 'No' and Khalid can rest easy but I could've missed something.\n>\nTo be honest I am not 100% sure about this but the possibility came to my mind because multiple vampire abilities limit their usage to once per action or turn. If I'm wrong then indeed I guess there's no worry but if change of wording would limit number of playable cards then it's worth of considering whether the effect is negative or positive.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "89704"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 6, 2018, 6:32\u202FPM",
+      "Body": "Long term game state should be represented by cards and/or counters. This helps everyone keep proper track of the game state and allows a judge, who encounters the game state at some future point, to clearly understand what is happening.\n\nThis is a great change and we should look for more opportunities like this in the future.",
+      "Id": "89706"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 6, 2018, 7:36\u202FPM",
+      "Body": "Is there going to be a similar rewording of Undead Persistence?",
+      "Id": "89711"
+    },
+    {
+      "Author": "DJHedgehog",
+      "Date": "Aug 6, 2018, 7:53\u202FPM",
+      "Body": "I think you're doing it backwards. Should start at 0.\n\nOnly usable before range is determined during the first round of combat.\nPut this card into play. During the press step of each round this combat, this Trap gains 1 counter and provides 1 press to continue combat (either combatant can press to end combat). Each time a card is played during this combat, remove all counters from this card. Burn this card if it would receive its 4th counter or when combat ends.\n\nFewer words, seems a bit more clear. Maybe it's just me? Seems fiddly to have to put counters on at the onset and have to reset them when cards are played.",
+      "Id": "89712"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Aug 6, 2018, 8:03\u202FPM",
+      "Body": "> DJHedgehog wrote:\n> I think you're doing it backwards. Should start at 0.\n>\n> Only usable before range is determined during the first round of combat.\n> Put this card into play. During the press step of each round this combat, this Trap gains 1 counter and provides 1 press to continue combat (either combatant can press to end combat). Each time a card is played during this combat, remove all counters from this card. Burn this card if it would receive its 4th counter or when combat ends.\n>\n> Fewer words, seems a bit more clear. Maybe it's just me? Seems fiddly to have to put counters on at the onset and have to reset them when cards are played.\n>\nCounting down is more intuitive in that it's clearer that something 'ends' when things get to zero. It's semantic, for sure, but I see the point in it. Like instead of having the 'burn at 4' at the end, the 'place 3' reads at the top; we know that there's '3 something'.\n\nLess words, for sure. There's that. Either would work. I feel counting down makes it clearer for the user at first glance.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89713"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 6, 2018, 8:07\u202FPM",
+      "Body": "> Ankha wrote:\n> Each time a card is played this combat, add counters to this card until it has 3 counters.\n>\nI think this could use some clarity. \"Each time a card is played this combat, add as many counters (if any) to this card that are needed to reach, but not exceed, 3 counters.\"",
+      "Id": "89714"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Aug 6, 2018, 8:35\u202FPM",
+      "Body": "Three shalt be the number thou shalt\ncount, and the number of the counting\nshalt be three.\n\nFour shalt thou not count,\nnor either count thou two, excepting that\nthou then proceed to three.\n\nWill conquer the beast get the same treatment? (you know, the card that does basically the same as trap, but requires a discipline, but also prevents you using equipment)\n\nName: Conquer the Beast [Jyhad:R, VTES:R] Cardtype: Combat Discipline: Animalism Only usable before range is determined during the first round of combat. [ani] This vampire cannot use equipment this combat. During the press step of each round this combat, if any Methuselah has played a card earlier in the current round or during the 2 previous rounds, this vampire gets 1 press, only usable to continue combat. [ANI] As above, but the presses are optional.",
+      "Id": "89716"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 6, 2018, 8:58\u202FPM",
+      "Body": "> Ankha wrote:\n> At BCP, we are considering changing the text of Trap to:\n>\n> > Only usable before range is determined during the first round of combat.\n> > Put this card in play with 3 counters. Each time a card is played this combat, add counters to this card until it has 3 counters. During the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat.\n> >\n> The behavior is the same except that the card stays in play for the duration of the combat (not a big difference).\n>\n> Do you find it clearer this way? If not why?\n>\nYes, but I initially read it and said: \"But trap doesn't work like that,\" so it's still confusing. I get the idea of counting down to something but the wording used feels super clunky to me. I'd prefer this:\n\nOnly usable before range is determined during the first round of combat.\nPut this card into play. Trap provides an automatic press to continue during the press step each round of combat if it has two or less counters. At the end of each round of combat, put a counter on trap if neither combatant played a card during that round. Burn all counters on Trap if either combatant plays a card. Burn Trap at the end of combat.\n\nThat feels far more concise to me, because it states what the card does first and the conditions it does its thing, Then everything flows logically from there.",
+      "Id": "89717"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 6, 2018, 9:31\u202FPM",
+      "Body": "I prefer the add counter approach also; what about this variation:\n\nOnly usable before range is determined during the first round of combat.\nIf this card has less than 3 counters it automatically provides a press to continue combat. Add a counter at end of each round. When a combat card is played this combat, remove all counters from this card. Burn this card at the end of combat.\n\nIt's less wordy and has simple behaviour: Add counter at end of round, remove all counters when card played.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "89718"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Aug 6, 2018, 11:34\u202FPM",
+      "Body": "> Original wrote:\n> During the press step, if any Methuselah has played a card earlier in the current round or during the two previous rounds, the Trap automatically provides a press to continue (either combatant can press to end).\n>\n> Proposed wrote:\n> Put this card in play with 3 counters. Each time a card is played this combat, add counters to this card until it has 3 counters. During the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat.\n>\nMy rewording:\nOnly usable before range is determined during the first round of combat.\nPut this card in play with 3 counters. Each time a combat card is successfully played, add 2 counters to this card (max 3 counters). During the press step of each round, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat or if it has no more counters.\n\n- Adding 2 always bring it back do max since with zero counters it burns and is simple to track\n- No need to repeat that the press is during this combat since it burns at the end of the combat\n- You forgot to burn at the end of the counters to avoid that a new card after 3 press steps fill the trap again with 3 more counters.\n- Changed the text to combat cards successfully played, instead of \"cards\" so direct intevention and others Out of Turn masters and even reflex cards can be playbed during combat but not trigger trap, this enable that you ( if not acting ) or a crosstable cancel a card to avoid the trap refill.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "89721"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Aug 6, 2018, 11:44\u202FPM",
+      "Body": "> Sambomb wrote:\n>\n> > Original wrote:\n> > During the press step, if any Methuselah has played a card earlier in the current round or during the two previous rounds, the Trap automatically provides a press to continue (either combatant can press to end).\n> >\n> - Changed the text to combat cards successfully played, instead of \"cards\" so direct intevention and others Out of Turn masters and even reflex cards can be playbed during combat but not trigger trap, this enable that you ( if not acting ) or a crosstable cancel a card to avoid the trap refill.\n>\nIs the goal not to keep it the same?",
+      "Id": "89724"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 7, 2018, 12:03\u202FAM",
+      "Body": "> Kraus wrote:\n> Counting down is more intuitive in that it's clearer that something 'ends' when things get to zero.\n>\nProblem is: Trap only counts one way. It resets the other way, so it is easier to put the reset on the 0 side rather than have to define an upper bound.",
+      "Id": "89725"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Aug 7, 2018, 1:10\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Kraus wrote:\n> > Counting down is more intuitive in that it's clearer that something 'ends' when things get to zero.\n> >\n> Problem is: Trap only counts one way. It resets the other way, so it is easier to put the reset on the 0 side rather than have to define an upper bound.\n>\nDefinitely agree. Dreams counts up anyway, we can manage that card fine.\nI like Ke's wording the most:\n\nOnly usable before range is determined during the first round of combat.\nIf this card has less than 3 counters it automatically provides a press to continue combat. Add 1 counter at end of each round <of combat>. When any combat card is played this combat, remove all counters from this card. Burn this card at the end of combat.\n\nid change 'a' to 1, specify each round 'of combat', and make sure it gets counters wiped by all cards, not just combat cards.",
+      "Id": "89726"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 7, 2018, 5:52\u202FAM",
+      "Body": "Thanks for the feedback.\nA few comments:  \"Only usable before range is determined during the first round of combat.\" does not follow a \"during X do Y\" template: there is no \"do Y\" here (see also the other cards that are only usable during the first round) When the Trap has provided its last press, it can \"reactivate\" later on. For instance, you press once using a Mob Connection, then in the following round play a combat card. It is corner-case, but burning the card would require more text anyway, so it's probably better to keep it the way it works right now The main problem with this card is that it is difficult to know how many presses the Trap provide. That is why I prefer to start with 3 counters, each of them representing a press. Doing it the other way may offer a slightly shorter text, but I feel we lose the intent.\nPlease continue to provide feedback, nothing is settled yet.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89728"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 7, 2018, 6:22\u202FAM",
+      "Body": "> Ankha wrote:\n> At BCP, we are considering changing the text of Trap to:\n>\n> > Only usable before range is determined during the first round of combat.\n> > Put this card in play with 3 counters. Each time a card is played this combat, add counters to this card until it has 3 counters. During the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat.\n> >\n> The behavior is the same except that the card stays in play for the duration of the combat (not a big difference).\n>\n> Do you find it clearer this way? If not why?\n>\nPretty ingenious wording. B) I am definitely in favor of using counters to count the number of rounds the trap works. We should try to use counters whenever there is some game state that needs to be tracked for a longer period of time. I would be willing to accept this wording as it is.\n\nI am also in favor of the \"count down\" approach, as it is intuitive and simpler in the probably the most common situation: nobody plays combat cards after the first round. Once you are down to zero, just put trap to ash heap and move on with your life.\n\n> Ankha wrote:\n> When the Trap has provided its last press, it can \"reactivate\" later on. For instance, you press once using a Mob Connection, then in the following round play a combat card. It is corner-case, but burning the card would require more text anyway, so it's probably better to keep it the way it works right now\n>\nI agree. The possibility of resetting the trap yourself later on is definitely important. I have been playing with combat decks that utilize trap for a while now (Matasuntha among other things), and I often wait for the trap to work couple rounds, then reset the trap myself with taste of vitae. Using counters to count the number of presses would definitely be useful, as my opponents often have resigned to their fate and just want to shortcut to the end, while I want to maximize the effectiveness of taste and still following the actual game rules (play taste as late as possible but still get maximum amount of blood possible).\n\nAttempting to shortcut to the end can sometimes lead to confusing situations where we are unsure how many rounds have we done or how many does it actually require for the opponent to get torporized. Any help tracking this situation is appreciated (I also play drawing out the beast which further confuses the combat math, as the extra 1 damage happens in press step. Confuses in the sense that I feel obligated to mention it aloud).\n\n> The main problem with this card is that it is difficult to know how many presses the Trap provide. That is why I prefer to start with 3 counters, each of them representing a press. Doing it the other way may offer a slightly shorter text, but I feel we lose the intent. [/ul]\n>\n> Please continue to provide feedback, nothing is settled yet.\n>\nI think its ok for the text to be slightly longer, as long as it cannot be misunderstood (at least easily). This is a really good attempt at rewording one of the more confusing cards in VTES.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89729"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 7, 2018, 7:34\u202FAM",
+      "Body": "\"Each time a card is played this combat, add counters to this card until it has 3 counters.\"\n\nUh, so this changes it a bit as Trap doesn't reset but will provide just one press instead. No good.\n\nSome of the \"add counters and when you have three\" methods would work better.\n\nAfter all we are trying to make a way to count the remaining turns Trap is in effect, not change the card, right?\n\nI've mostly just counted the number of rounds that have gone without cards being played (with sticking my fingers up). Has worked great.\n\nFinnish  Politics!",
+      "Id": "89730"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 7, 2018, 8:11\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> After all we are trying to make a way to count the remaining turns Trap is in effect, not change the card, right?\n>\nCorrect.\n\n> L\u00F6nkka wrote:\n> \"Each time a card is played this combat, add counters to this card until it has 3 counters.\"\n>\n> Uh, so this changes it a bit as Trap doesn't reset but will provide just one press instead. No good.\n>\nPlease detail how you understand that sentence, and the whole card as it is worded. I am interested in knowing why you understand it wrongly.\n\nEDIT: I suppose that you read it this way: \"Add a counter for each card played (until it has 3 counters)\" whereas the sentence means: \"If you play a card, fill the card back up to 3 counters\".\n\nAt some point, I wanted to write \"Each time a card is played this combat, put back the counters you removed from this card on this card.\" Would it be clearer?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89731"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 7, 2018, 9:41\u202FAM",
+      "Body": "I read it as \"Whenever you play a card add one counter per card played (until it has 3 counters)\".\n\nSince there has been some confusion about the wording already I think the possible rewrite needs as much clarity as possible as to achieve what is sought with it. And certainly not get even more confusing\n\nLike said earlier, I think some of the approaches from other direction (\"add counters and when you have three\") seem to be clearer.\n\nIs there a particular reason you want to counters to be removed and the effect end when the card is empty? Other cards use the same template etc?\n\nFinnish  Politics!",
+      "Id": "89736"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 7, 2018, 10:00\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> I read it as \"Whenever you play a card add one counter per card played (until it has 3 counters)\".\n>\n> Since there has been some confusion about the wording already I think the possible rewrite needs as much clarity as possible as to achieve what is sought with it. And certainly not get even more confusing\n>\nSince every counter represents a press, yes, it does reset. The wording does made it work identically as before. Its just simpler to track with every counter being a press. (And this being more intuitive compared to counting upwards with the counters).\n\nEDIT:\nMaybe a wording\n\"When a card is played this combat, add counters to this card until it has 3 counters\"\nmight be better, to avoid the wording 'each time' which people might mistake the way L\u00F6nkka did above, to think that you only add one counter per card played.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89738"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Aug 7, 2018, 10:28\u202FAM",
+      "Body": "> narpassword wrote:\n>\n> > Non-existant user wrote:\n> >\n> > > Kraus wrote:\n> > > Counting down is more intuitive in that it's clearer that something 'ends' when things get to zero.\n> > >\n> > Problem is: Trap only counts one way. It resets the other way, so it is easier to put the reset on the 0 side rather than have to define an upper bound.\n> >\n> Definitely agree. Dreams counts up anyway, we can manage that card fine.\n> I like Ke's wording the most:\n>\n> Only usable before range is determined during the first round of combat.\n> If this card has less than 3 counters it automatically provides a press to continue combat. Add 1 counter at end of each round <of combat>. When any combat card is played this combat, remove all counters from this card. Burn this card at the end of combat.\n>\n> id change 'a' to 1, specify each round 'of combat', and make sure it gets counters wiped by all cards, not just combat cards.\n>\nCount one more vote for this wording - I think resetting to 0 is simpler.\n\nBTW, either version will change functionality in a few cornercases: since Trap would not go to the ash heap until the end of combat, it cannot be retrieved during the combat. This would affect Chiram's Hold, Erciyes Fragment, Reality Mirror, Spiritual guidance, etc - ie, mostly useless combos.",
+      "Id": "89739"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 7, 2018, 10:35\u202FAM",
+      "Body": "> skimflux wrote:\n> Count one more vote for this wording - I think resetting to 0 is simpler.\n>\nI consider it simpler to explain with \"You have as many presses as this card has counters\".\n\n> BTW, either version will change functionality in a few cornercases: since Trap would not go to the ash heap until the end of combat, it cannot be retrieved during the combat. This would affect Chiram's Hold, Erciyes Fragment, Reality Mirror, Spiritual guidance, etc - ie, mostly useless combos.\n>\nSince trap cannot be played during any other combat round beside the first, this would not have an effect to the current combat, even if there is a cornercase discrepancy.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89741"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 7, 2018, 11:30\u202FAM",
+      "Body": "> Ankha wrote:\n> EDIT: I suppose that you read it this way: \"Add a counter for each card played (until it has 3 counters)\" whereas the sentence means: \"If you play a card, fill the card back up to 3 counters\".\n>\n> At some point, I wanted to write \"Each time a card is played this combat, put back the counters you removed from this card on this card.\" Would it be clearer?\n>\nI originally read it as Lonkka did.\n\nI still think further clarity is needed. I've suggested something similar to this previously: \"Each time a card is played this combat, add as many counters to this card that are needed (if any) to reach, but not exceed, 3 counters.\"",
+      "Id": "89748"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Aug 7, 2018, 11:37\u202FAM",
+      "Body": "The original version's plural (counters) should clarify that it's one or more (to reach 3) counters per card played. Technically it works. If some people misread it however, of course there could be more clarity.\n\n> \"Each time a card is played this combat, add as many counters that are needed (if any) to reach, but not exceed, 3 counters.\"\n>\nWhy is \"but not exceed\" necessary? When you 'reach' 3, you're at 3. Nothing implicates that you should ever go beyond 3.\n\nThe same goes for \"if any\". \"Reach\" is a nifty word in that it makes both clarifications already explicit. At least it should be.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89749"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 7, 2018, 12:00\u202FPM",
+      "Body": "> Kraus wrote:\n> The original version's plural (counters) should clarify that it's one or more (to reach 3) counters per card played. Technically it works. If some people misread it however, of course there could be more clarity.\n>\n> > \"Each time a card is played this combat, add as many counters that are needed (if any) to reach, but not exceed, 3 counters.\"\n> >\n> Why is \"but not exceed\" necessary? When you 'reach' 3, you're at 3. Nothing implicates that you should ever go beyond 3.\n>\n> The same goes for \"if any\". \"Reach\" is a nifty word in that it makes both clarifications already explicit. At least it should be.\n>\nBecause it provides explicit, clear guidelines on exactly how many counters should be on the card. If you remove \"if any\" or \"not to exceed\", people are likely to ask, \"what if there are already 3 counters\" and \"can I put more than 3 on the card,\" respectively.",
+      "Id": "89751"
+    },
+    {
+      "Author": "LivesByProxy",
+      "Date": "Aug 7, 2018, 12:23\u202FPM",
+      "Body": "TIL that I had been playing Trap wrong.\n\nI've been reading it as: For the next three rounds (including this round), if any combat cards were played, the Trap provides an automatic press to continue combat.\n\nBut now I'm learning the Trap effect can remain active for dozens of rounds, and grant dozens of potential presses.\n\nBut I don't like the proposed wording. Combat cards are supposed to be one-time-use>play>do-the-effect>go-to-ash-heap-cards. Combat cards should never sit in play or have counters. (Blah blah WWS blah blah.) VTES has always ignored the purpose of card types which is suppose to be rules for timing, play, and permanence. We've got Locations that are Equipment but aren't, Combat cards that act like Equipment but aren't, Master cards that are played as Combat cards, and now the idea is to make a Combat card sit in play with counters like its a Master card.\n\nThe result of proposed wording is inelegant (more card text) and fiddly (moving counters on and off for an indeterminate amount of rounds, back and forth.) No thanks.\n\nGangrel. Noddist. Camarilla. Once each turn, LivesByProxy may burn 1 blood to lose Protean  until the end of the turn and gain your choice of superior Auspex , Obfuscate , or Potence  for the current action.",
+      "Id": "89753"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 7, 2018, 12:36\u202FPM",
+      "Body": "> LivesByProxy wrote:\n> TIL that I had been playing Trap wrong.\n>\n> I've been reading it as: For the next three rounds (including this round), if any combat cards were played, the Trap provides an automatic press to continue combat.\n>\n> But now I'm learning the Trap effect can remain active for dozens of rounds, and grant dozens of potential presses.\n>\n> But I don't like the proposed wording. Combat cards are supposed to be one-time-use>play>do-the-effect>go-to-ash-heap-cards. Combat cards should never sit in play or have counters. (Blah blah WWS blah blah.) VTES has always ignored the purpose of card types which is suppose to be rules for timing, play, and permanence. We've got Locations that are Equipment but aren't, Combat cards that act like Equipment but aren't, Master cards that are played as Combat cards, and now the idea is to make a Combat card sit in play with counters like its a Master card.\n>\n> The result of proposed wording is inelegant (more card text) and fiddly (moving counters on and off for an indeterminate amount of rounds, back and forth.) No thanks.\n>\nAs you state, VTES has a precedence for including cards with \"fiddly\" effects and long, inelegant text. That's not going away. In this context, I'd much rather have card with a \"fiddly\" effect and long, clear text that appropriately describes what should happen (like the new Trap, or Mask of 1,000 Faces as another example) than a \"fiddly\" effect with insufficient description (like the old Trap, or Madness Network). If one finds long card text inelegant, one can choose not to play with those cards (I never actually use Mask of 1,000 Faces for this reason even though I like how it is written).",
+      "Id": "89756"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 7, 2018, 12:46\u202FPM",
+      "Body": "> Ankha wrote:\n> At BCP, we are considering changing the text of Trap to:\n> ...\n> Do you find it clearer this way? If not why?\n>\nIrrespective of the specifics of the text, I fear that this would be a text change that a lot of the time people wouldn't actually follow to the letter, because fiddling with counters can be faffsome, especially when they're only round for a very short amount of time.",
+      "Id": "89759"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Aug 7, 2018, 1:02\u202FPM",
+      "Body": "I sorta wish On the Qui Vive came with a counter... 'cuz the cheating phase (*ahem* \"I forgot,\" \"innocent mistake\" phase) never ends!\n\nAs for Trap, confusing but sorta the best you can do as is. Counters, and multiples of them, bring their own meta-gaming combo seeking, atop already bewildering players. Side me partial to counting fingers (attached ones!  ) instead.",
+      "Id": "89763"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 7, 2018, 1:16\u202FPM",
+      "Body": "> LivesByProxy wrote:\n> Combat cards are supposed to be one-time-use>play>do-the-effect>go-to-ash-heap-cards.\n>\nNot really. We already have weighted walking sticks, disarms, pulled fangs, guns being equipped midcombat and whatever. There is nothing inherently wrong in the proposed wording in my opinion.\n\n> TwoRazorReign wrote:\n> Because it provides explicit, clear guidelines on exactly how many counters should be on the card. If you remove \"if any\" or \"not to exceed\", people are likely to ask, \"what if there are already 3 counters\" and \"can I put more than 3 on the card,\" respectively.\n>\nThe wording is already explicit. Assuming people understand english, that is.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89766"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 7, 2018, 5:09\u202FPM",
+      "Body": "> Azel wrote:\n> I sorta wish On the Qui Vive came with a counter... 'cuz the cheating phase (*ahem* \"I forgot,\" \"innocent mistake\" phase) never ends!\n>\n> As for Trap, confusing but sorta the best you can do as is. Counters, and multiples of them, bring their own meta-gaming combo seeking, atop already bewildering players. Side me partial to counting fingers (attached ones!  ) instead.\n>\nI've totally been blocked by the Same minion on the Q'ing multiple times, at a tournament years back, but probably could have pushed harder for judge intervention.\n\nI appreciate the clarity added by visual aid, but I don't know a way to declutter wording.\n\nIf it had only 2 rounds of presses, it could come into play locked, then unlock, then burn the round it was already unlocked st the end.\nSince we dont have 3 states of locked, unlocked, locked backwards, there isn't a \"turn the card\" way of timing it, but we need a less cluttered counter explanation.\n\nSo maybe:\nOnly usable before range is determined during the first round of combat.\nPut this card in play with 3 counters. It cannot have more than 3 counters.Each time a card is played this combat, add 3 counters. During the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat.\n\nOr\nOnly usable before range is determined during the first round of combat.\nPut this card into play. Each time a card is played this combat(including trap), add counters to this card until it has 3 counters. During the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat). Burn this card at the end of combat.",
+      "Id": "89777"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 7, 2018, 6:11\u202FPM",
+      "Body": "> Bloodartist wrote:\n> The wording is already explicit. Assuming people understand english, that is.\n>\nExcept that two people who understand English misunderstood the current wording. I do think the current wording needs to take into account what happens when 3 counters are already on the card, or if you play more than one combat card in a round. I guarantee people will wonder what happens if you can't put any counters on the card, or if they must put excess counters on the card for multiple combat cards played in the round.",
+      "Id": "89782"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 8, 2018, 9:27\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> I still think further clarity is needed. I've suggested something similar to this previously: \"Each time a card is played this combat, add as many counters to this card that are needed (if any) to reach, but not exceed, 3 counters.\"\n>\nDING! DING! DING!\n\nWe have a winner!\nClear, unambiguous, wording.\n\nOtherwise we'll have people typing questions about how to play this card from here 'till eternity. Again.\n\nSInce we have space in the card to use enough wrds to make it crystal clear, why don't we?\n\nFinnish  Politics!",
+      "Id": "89796"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 8, 2018, 10:49\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> Except that two people who understand English misunderstood the current wording. I do think the current wording needs to take into account what happens when 3 counters are already on the card, or if you play more than one combat card in a round. I guarantee people will wonder what happens if you can't put any counters on the card, or if they must put excess counters on the card for multiple combat cards played in the round.\n>\n\"Add,  UNTIL  it has three.\" -> If it has three, don't add.\nWhat is so complicated?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89798"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 8, 2018, 11:40\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > TwoRazorReign wrote:\n> > Except that two people who understand English misunderstood the current wording. I do think the current wording needs to take into account what happens when 3 counters are already on the card, or if you play more than one combat card in a round. I guarantee people will wonder what happens if you can't put any counters on the card, or if they must put excess counters on the card for multiple combat cards played in the round.\n> >\n> \"Add,  UNTIL  it has three.\" -> If it has three, don't add.\n> What is so complicated?\n>\nTo you nothing. To people unfamiliar with the game, I forsee 2 questions with the current wording:\n\n\"What if the card already has 3 counters? I can't put any on there. What happens? Does the card have no effect?\"\n\nAnd\n\n\"But, 3 combat cards were played this round. Should I put 9 counters on the card instead of 3?\"\n\nThese are questions people unfamiliar with the game will ask. Guaranteed. Adding a few characters to clarify exactly how many counters should be on the card at a given time may not seem necessary to you, a person I assume who is familiar with the game and how Trap works. But it's really necessary for people reading the card for the first time and trying to understand how it works.",
+      "Id": "89801"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Aug 8, 2018, 4:01\u202FPM",
+      "Body": "> During the press step, if any Methuselah has played a card earlier in the current round or during the two previous rounds, the Trap automatically provides a press to continue (either combatant can press to end).\n>\n> Put 3 counters on this card. Each card played adds 3 counters to this card, maximum 3 counters. During the press step, burn 1 counter on this card to provide a press to continue (either combatant can press to end). Burn this card at the end of the combat.\n>\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "89807"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Aug 8, 2018, 7:43\u202FPM",
+      "Body": "This is an interesting case study. Kudos to Vincent.....for demonstrating why BCP should not crowd source card text.\n\nNonetheless, I'll pile on, breaking down comments on the proposal line by line. And let me say up front - VIncent's proposal is already FAR superior to the existing text.\n\nTrap\nOnly usable before range is determined during the first round of combat.\nEstablished templating = good\n\nPut this card in play with 3 counters.\nHuge improvement to visualize the number of presses (and therefore additional rounds) coming. Adding, instead of removing, counters seems less intuitive to me - the number of additional rounds is not sitting right there on the card if you count up.\n\nEach time a card is played this combat, add counters to this card until it has 3 counters.\nI like \"when a card is played during this combat\" for this line, because I think \"when\" is more consistent with existing templates than \"each time.\" Might be wrong, as templates are changing, but I think \"when\" is still more common than \"each time.\" Nitpick: It is also grammatically preferred to have that \"during\" to establish the duration of the effect.\n\nI approve of the notion that \"add counters to this card (if needed) until it has 3 counters\" pretty explicitly handles what to do if Trap already has 3 counters.....meaning nothing with respect to that sentence on the card. I seldom like parenthetical text, but here it might be merited.\n\nDuring the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 press to continue combat (either combatant can press to end combat).\nSeems clumsy...burning a counter from itself. Nothing else I can think of does that.\n\nWe recently defined \"environmental damage\" with cards like Carrion Crows. Could Trap introduce an \"environmental press to continue\" to simplify the text?\n\nI propose: \"During the press step each round this combat, burn a counter from Trap and this round gains 1 environmental press to continue.\"\n\nHere's a place where the current template of \"gains 1\" is maybe more ambiguous than \"gains a(n)\" - but it should be clear that presses from stacked Traps are cumulative because each Trap burns a counter and feeds the round 1 press independently.\n\nYou no longer need the parenthetical \"(either combatant can press to end combat)\" because it's clear neither pressed in the first place, it's environmental. But if the extra text makes things more clear, sure, include it.\n\nBurn this card at the end of combat.\nPerfectly clear in templating and more reflective of the way Trap works now than using \"Burn this card when it has no counters\" - since Taste of Vitae and Telepathic Tracking would both reset Trap now.",
+      "Id": "89811"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 9, 2018, 6:20\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> To you nothing. To people unfamiliar with the game, I forsee 2 questions with the current wording:\n>\n> \"What if the card already has 3 counters? I can't put any on there. What happens? Does the card have no effect?\"\n>\nYou answered your own question. You cannot put any there, therefore you don't put any there.\n\nAnd\n\n> \"But, 3 combat cards were played this round. Should I put 9 counters on the card instead of 3?\"\n>\nCard says you put up to 3, so you put 3.\n\n> These are questions people unfamiliar with the game will ask. Guaranteed. Adding a few characters to clarify exactly how many counters should be on the card at a given time may not seem necessary to you, a person I assume who is familiar with the game and how Trap works. But it's really necessary for people reading the card for the first time and trying to understand how it works.\n>\nI don't see how these questions are related to the game, and thus would plague players unfamiliar with the game. The text already answers this, and you can understand what happens even if you have only passing knowledge of VTES or even ccg's in general.\n\nThe problem as I see it is understanding the sentence and basic logic. Original suggested wording is a case of simple \"if - then\" logic sentence. Treat each card played as an individual case. If a card is played during combat, keep adding counters to this card, then stop when you reach 3. (If there is already 3 counters, stop (don't add)).\n\nIf people cannot understand this simplest of logic sentences, I don't see how some obtuse extra wording is going to change things, except for the worse.\n\nI am sure there is some meme image waiting to be posted here but I cannot be bothered since its morning and I need to fix decks for todays weekly games. Walls of text on cards is already an issue with VTES cards (especially when those walls of text fail at providing us with meaningful card mechanics), and we should strive toward having simplest possible card texts that still explain the card adequately.\n\n> TwoRazorReign wrote:\n>\n> Except that two people who understand English misunderstood the current wording.\n>\nI am not convinced that said people understand english. I know L\u00F6nkka doesn't speak it as native language. Not sure about others.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89817"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 9, 2018, 6:29\u202FAM",
+      "Body": "I've used a deck that centers around it and features some 10 copies of trap. During a the years I didn't have problem using it or counting the pressed (visually with fingers) but plenty of people were unclear how it worked during those games.\n\nTo some smartasses certain wordings might be crystal clear but often Joe Average, let alone Joe Sub-Average or Jos\u00E9 Promedio who isn't that fluent in english, will have a trckload of problems with such cards. Therefore adding some certain phrases to make it absolutely clear how a card works is not a bad thing if the card has room for extra text.\n\nFinnish  Politics!",
+      "Id": "89819"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Aug 9, 2018, 6:40\u202FAM",
+      "Body": "> Bloodartist wrote:\n> I am not convinced that said people understand english. I know L\u00F6nkka doesn't speak it as native language. Not sure about others.\n>\nA reminder of the forum guidelines:\n\n> Forum wrote:\n> English is the main language of the forums (but we do have a Spanish subsection). However, not everyone is a native English speaker, so:\n> \u2022 Write easy to understand English\n> \u2022 Do not correct others for their English\n>\nMake sure this doesn't get out of hand, everyone.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89822"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 9, 2018, 9:46\u202FAM",
+      "Body": "> Bloodartist wrote:\n> I am not convinced that said people understand english. I know L\u00F6nkka doesn't speak it as native language. Not sure about others.\n>\nI am one of the people who read the current language and interpreted multiple possible meanings. Not only am I a native English speaker, I'm also an editor. So I am reading the current text with my editor hat on, and, again, I see multiple possible interpretations. My proposed wording is to ensure only the correct meaning can be interpreted to the extent possible. In my experience, extra clarity is not a bad thing, even if it means adding a few extra words.",
+      "Id": "89826"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 9, 2018, 12:05\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > Bloodartist wrote:\n> > I am not convinced that said people understand english. I know L\u00F6nkka doesn't speak it as native language. Not sure about others.\n> >\n> I am one of the people who read the current language and interpreted multiple possible meanings. Not only am I a native English speaker, I'm also an editor. So I am reading the current text with my editor hat on, and, again, I see multiple possible interpretations. My proposed wording is to ensure only the correct meaning can be interpreted to the extent possible. In my experience, extra clarity is not a bad thing, even if it means adding a few extra words.\n>\nAs an experiment, once Black Chantry decides on a new wording, I may run the thing by multiple people who speak English as a second (or third, or 5th) language and compare it to a group of people who speak English as a primary language.\nThe catch will be that it will be people of varying ages who are probably unfamiliar with TCGs as a whole. (Which will require some non-trap dry runs of basic strikes and presses.)\nMy hypothesis is that native English speakers will get caught up skimming words, which will put them in roughly the same place as people with less grasp on written English who therefore have to put more thought into how something is worded.\nWhat I for sure will not do is use current wording Trap, because I'll spend more time explaining it than conducting any sort of anything.",
+      "Id": "89828"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 9, 2018, 12:44\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n> As an experiment, once Black Chantry decides on a new wording, I may run the thing by multiple people who speak English as a second (or third, or 5th) language and compare it to a group of people who speak English as a primary language.\n> The catch will be that it will be people of varying ages who are probably unfamiliar with TCGs as a whole. (Which will require some non-trap dry runs of basic strikes and presses.)\n> My hypothesis is that native English speakers will get caught up skimming words, which will put them in roughly the same place as people with less grasp on written English who therefore have to put more thought into how something is worded.\n>\nI think the opposite will happen: both groups will read the card very, very closely and may interpret things that seem out of left field but are really just a product of overthinking things. For example, \"I can't put any counters on the card because there is already 3 counters, so I can't do what the card says. Does the press still happen?\" If you see the myriad rules questions on this website, most are a product of overthinking and interpreting things that are false. This tends to happen more with text that is unclear, but still happens even if the text is very clear. It's obviously prudent to ensure the text is as clear as possible to reduce the amount of misinterpretations. It's not really a function of one's English skills (although that does play a role), it's more about human behavior.\n\n> TryDeflectingThisGrapple wrote:\n> Each time a card is played this combat, add counters to this card until it has 3 counters.\n> I like \"when a card is played during this combat\" for this line, because I think \"when\" is more consistent with existing templates than \"each time.\"\n>\nSo, the existing templates are being changed for a reason. \"When a card is played during this combat\" can be interpreted as \"The first time a card is played during this combat,\" or \"during X, do Y.\" Having \"each time\" instead of \"when\" clarifies adding counters happens each time a card is played.\n\nPeople are already misinterpreting a \"during X, do Y\" template being used in the updated text (that template really, really needs a better explanation in the rulebook, but that's another post for another time), and having \"when\" there may further perpetuate (falsely) that such a template was used.\n\nModedit\\\\ Please do not double post. Add separate quotes into the same post.",
+      "Id": "89831"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 1:30\u202FPM",
+      "Body": "The main goal of the rewording is to provide an easy tracking of the numbers of presses granted by the Trap, which is the current problem. That is why I prefer to start with 3 counters even if it may look more elegant to start with 0 and add 1 for each press.\nIf people struggle with the new wording, then probably they were already struggling before (and struggling for other cards).\nThe only thing that buggers me is that people may read the card too quickly as L\u00F6nkka did.\n\nI like the idea of environmental press.\n\nWhat about (changes underlined):\n\nOnly usable before range is determined during the first round of combat.\nPut this card in play with 3 counters. At the start of the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 environmental press to continue combat (either combatant can press to end combat). Each time a card is played this combat, put back all counters that were burned this way on this card. Burn this card at the end of combat.\n\nI changed \"During the press step\" to \"At the start of the press step\" to indicate that the automatic press happens before players can press (which required a ruling before).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89835"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 9, 2018, 1:39\u202FPM",
+      "Body": "> Ankha wrote:\n> What about (changes underlined):\n>\n> Only usable before range is determined during the first round of combat.\n> Put this card in play with 3 counters. At the start of the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 environmental press to continue combat (either combatant can press to end combat). Each time a card is played this combat, put back all counters that were burned this way on this card. Burn this card at the end of combat.\n>\nWhat is an environmental press? A press without a source or recipient? Without explanation, this is likely not a good idea to add to the card. I would strongly suggest defining the concept first, then add it to cards.\n\nAs for \"put back all counters that were burned this way on this card,\" this could potentially be interpreted as put back more than 3 counters, if more than 3 were burned during the combat (ie, people will wonder if the number of counters burned are cumulative). Hence why I was suggesting \"not to exceed 3 counters.\"",
+      "Id": "89838"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 2:01\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> What is an environmental press? A press without a source or recipient? Without explanation, this is likely not a good idea to add to the card. I would strongly suggest defining the concept first, then add it to cards.\n>\nIt is already defined for damage in the rulings: \"Damage from other effects is considered \"environmental,\" and has no particular source.\"\n\nIt could be easily extended to the press provided by the Trap (a press not provided by either combatant).\n\n> TwoRazorReign wrote:\n> As for \"put back all counters that were burned this way on this card,\" this could potentially be interpreted as put back more than 3 counters, if more than 3 were burned during the combat (ie, people will wonder if the number of counters burned are cumulative). Hence why I was suggesting \"not to exceed 3 counters.\"\n>\nNo it can't. You don't create counters, you burn them and put them back.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89839"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 9, 2018, 2:02\u202FPM",
+      "Body": "> Ankha wrote:\n> .\n>\n> What about (changes underlined):\n>\n> Only usable before range is determined during the first round of combat.\n> Put this card in play with 3 counters. At the start of the press step of each round this combat, this Trap automatically burns 1 counter from itself to provide 1 environmental press to continue combat (either combatant can press to end combat). Each time a card is played this combat, put back all counters that were burned this way on this card. Burn this card at the end of combat.\n>\n> I changed \"During the press step\" to \"At the start of the press step\" to indicate that the automatic press happens before players can press (which required a ruling before).\n>\nthis is better than the previous versions.\n\nI think it comes down to the fact that while trap counting down certainly provides a much better visualization of how many more rounds are getting presses, doing so requires wording and templating that makes how trap resets not as clear as we'd probably like.\n\nA template that counts up similar to the one i suggested doesn't do a great job helping visualize how many presses are remaining, but is easier to word and template the reset condition. Honestly its a toss up. I prefer the clearer wording over the visualization, but mileage may vary for others.\n\nTo that end, perhaps this is a line can be used?\n\n\"If a minion plays a card, restore trap to its original three counters.\"",
+      "Id": "89840"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 9, 2018, 2:23\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > TwoRazorReign wrote:\n> > What is an environmental press? A press without a source or recipient? Without explanation, this is likely not a good idea to add to the card. I would strongly suggest defining the concept first, then add it to cards.\n> >\n> It is already defined for damage in the rulings: \"Damage from other effects is considered \"environmental,\" and has no particular source.\"\n>\n> It could be easily extended to the press provided by the Trap (a press not provided by either combatant).\n>\nDamage is not the same thing as a press. It's a new concept that is not really needed. I would avoid it unless adding a new definition of \"environmental\" as it relates to presses somewhere.\n\n> > TwoRazorReign wrote:\n> > As for \"put back all counters that were burned this way on this card,\" this could potentially be interpreted as put back more than 3 counters, if more than 3 were burned during the combat (ie, people will wonder if the number of counters burned are cumulative). Hence why I was suggesting \"not to exceed 3 counters.\"\n> >\n> No it can't. You don't create counters, you burn them and put them back.\n>\nI'm not disputing that. I'm saying your proposed re-wording is confusing to those who are not quite clear on the concept of \"you don't create counters.\"\n\n> self wrote:\n> \"If a minion plays a card, restore trap to its original three counters.\"\n>\nThis works. I would add \"(if needed)\" just in case. When a card says to do something, and you can't do it, that's when I see a lot of new players pause and think \"oh, what happens now?\"",
+      "Id": "89843"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 9, 2018, 3:07\u202FPM",
+      "Body": "> Ankha wrote:\n> I like the idea of environmental press.\n>\nIt may be good to note somewhere that environmental presses can stack, even though they may not all be used. This is different from the way minion-based presses work. Two Traps provide two environmental presses to continue each round.\n\nTo be honest, I think this opens up good design space for other environmental based combat effects that aren't damage.",
+      "Id": "89844"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2018, 3:25\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > self wrote:\n> > \"If a minion plays a card, restore trap to its original three counters.\"\n> >\n> This works. I would add \"(if needed)\" just in case. When a card says to do something, and you can't do it, that's when I see a lot of new players pause and think \"oh, what happens now?\"\n>\nYeah, but it would be the first time such a wording is used... I need to think about it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89845"
+    },
+    {
+      "Author": "LivesByProxy",
+      "Date": "Aug 9, 2018, 4:59\u202FPM",
+      "Body": "I was giving it some more thought, and I guess the proposed wording is OK. I had thought of the Trap as 'a thing that happened to the opposing vampire' i.e. a situation in which people lie in wait to make a surprise attack. But proposed wording makes Trap seem like an object or place itself that is the Trap, which works.\n\nI still wonder if all this business about counters and trying to make the Trap work as you intend, if it would just be better off being hard errata'ed away like Fame, Misdirection, Pulled Fangs, or Fourth Tradition: Hospitality. Just change the way it works completely...\n\nGangrel. Noddist. Camarilla. Once each turn, LivesByProxy may burn 1 blood to lose Protean  until the end of the turn and gain your choice of superior Auspex , Obfuscate , or Potence  for the current action.",
+      "Id": "89849"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 9, 2018, 8:42\u202FPM",
+      "Body": "> LivesByProxy wrote:\n> I was giving it some more thought, and I guess the proposed wording is OK. I had thought of the Trap as 'a thing that happened to the opposing vampire' i.e. a situation in which people lie in wait to make a surprise attack. But proposed wording makes Trap seem like an object or place itself that is the Trap, which works.\n>\n> I still wonder if all this business about counters and trying to make the Trap work as you intend, if it would just be better off being hard errata'ed away like Fame, Misdirection, Pulled Fangs, or Fourth Tradition: Hospitality. Just change the way it works completely...\n>\nNo. It doesn't reward torping your own minion, tap out a player, inflict excessive agg with no discipline ...\nJust no. It's where it needs to be in function, just not as clear as it could be.\n\nI like the putting back counters bit, but would possibly word it as \"return all counters burned this way\".\nBut there are better grammar smiths out there than I.",
+      "Id": "89862"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 10, 2018, 9:51\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> My hypothesis is that native English speakers will get caught up skimming words, which will put them in roughly the same place as people with less grasp on written English who therefore have to put more thought into how something is worded.\n>\nI believe you are right. I have noticed a tendency of skimming card text and assuming how a card works based on person's prior experience with other cards.\n\nHowever, I still don't believe we can fix this tendency with LONGER card text. I think people would be even more likely to skim longer text than they would short one.\n\n> TwoRazorReign wrote:\n> What is an environmental press? A press without a source or recipient? Without explanation, this is likely not a good idea to add to the card. I would strongly suggest defining the concept first, then add it to cards.\n>\nThe question of enviromental press has arisen in my recent games with my Matasuntha deck. The issue is that when minion A uses trap, and minion B uses a card that says \"opposing minion cannot use presses\" (target vitals, etc). What happens is that the combat will still continue, as its the trap itself that provides the press, not the minion. Here is where the concept of \"enviromental press\" comes from. Its not yet a valid game term, but it might become one since presses provided by trap are already 'enviromental' in nature. Question has arisen in my local games at least three times this year. Target vitals and trap are both pretty common combat cards...\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89876"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 10, 2018, 10:14\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > ReverendRevolver wrote:\n> > My hypothesis is that native English speakers will get caught up skimming words, which will put them in roughly the same place as people with less grasp on written English who therefore have to put more thought into how something is worded.\n> >\n> I believe you are right. I have noticed a tendency of skimming card text and assuming how a card works based on person's prior experience with other cards.\n>\n> However, I still don't believe we can fix this tendency with LONGER card text. I think people would be even more likely to skim longer text than they would short one.\n>\nI think this tendency exists only among those who are familiar with how Trap works. Hence they skim the text because of familiarity with the card's effect. The solution there is easy: read the card more closely. Now, for those unfamiliar with how the card works, I highly, highly doubt people will skim the card and assume to know how it functions. These people will read the card very, very closely and will need extremely clear directions, or they will misinterpret what the card is directing them to do. Card text should not be written in short hand for the veteran players, it should be written for those who are not initiated into the game (preferably without a wall of text).\n\n> > TwoRazorReign wrote:\n> > What is an environmental press? A press without a source or recipient? Without explanation, this is likely not a good idea to add to the card. I would strongly suggest defining the concept first, then add it to cards.\n> >\n> The question of enviromental press has arisen in my recent games with my Matasuntha deck. The issue is that when minion A uses trap, and minion B uses a card that says \"opposing minion cannot use presses\" (sympathetic agony, whistling up the beast, etc). What happens is that the combat will still continue, as its the trap itself that provides the press, not the minion. Here is where the concept of \"enviromental press\" comes from. Its not yet a valid game term, but it might become one since presses provided by trap are already 'enviromental' in nature. Question has arisen in my local games at least three times this year.\n>\nI like the idea of environmental presses. What I don't like is adding a concept on card text that is \"not yet a valid game term.\" Make environmental presses a valid game term, define how they work differently than regular presses, confirm that this definition will work through testing, and then add it to the card text. It's an idea that should be fleshed out before introduction into the game.",
+      "Id": "89878"
+    }
+  ]
+}

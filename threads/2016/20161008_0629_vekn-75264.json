@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-75264",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/75264-date-format-in-archon-1-5e",
+  "Title": "Date format in Archon 1.5e",
+  "Messages": [
+    {
+      "Author": "Ashur",
+      "Date": "Oct 8, 2016, 6:29\u202FAM",
+      "Body": "How should the date be written in Archon 1.5e? The instruction say \"DD-MON-YY\", but when i write \"08-10-16\" or \"08-OCT-16\", it corrects me to \"16- okt 08\", which give me the funny due date 24- okt 08. If I write anything else I get error.\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "78608"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 8, 2016, 8:20\u202FAM",
+      "Body": "> Ashur wrote:\n> How should the date be written in Archon 1.5e? The instruction say \"DD-MON-YY\", but when i write \"08-10-16\" or \"08-OCT-16\", it corrects me to \"16- okt 08\", which give me the funny due date 24- okt 08. If I write anything else I get error.\n>\nCould you please indicate if you're using Excel or LibreOffice, the language of your operating system (Windows or whatever) and the language of Excel or LibreOffice.\nAlso, I assume you're talking about the event data, am I correct?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78611"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 9, 2016, 8:21\u202FAM",
+      "Body": "> Ankha wrote:\n> Could you please indicate if you're using Excel or LibreOffice, the language of your operating system (Windows or whatever) and the language of Excel or LibreOffice.\n> Also, I assume you're talking about the event data, am I correct?\n>\nI use Excel and WIndows 10. The language of my Excel is Swedish. Yes, it\u00B4s line 4 of the Tournament Info tab.\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "78619"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2016, 8:54\u202FAM",
+      "Body": "> Ashur wrote:\n>\n> > Ankha wrote:\n> > Could you please indicate if you're using Excel or LibreOffice, the language of your operating system (Windows or whatever) and the language of Excel or LibreOffice.\n> > Also, I assume you're talking about the event data, am I correct?\n> >\n> I use Excel and WIndows 10. The language of my Excel is Swedish. Yes, it\u00B4s line 4 of the Tournament Info tab.\n>\nExcel uses the default format for dates based on your language. In your case, it's YYYY-MM-DD, so you should write 2016-10-08 or 16-10-08.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78622"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 9, 2016, 5:51\u202FPM",
+      "Body": "> Ankha wrote:\n> Excel uses the default format for dates based on your language. In your case, it's YYYY-MM-DD, so you should write 2016-10-08 or 16-10-08.\n>\nGreat, thanks. Then I guess it\u00B4s a good idea removing the instruction to write it DD-MON-YY in the next version.\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "78632"
+    }
+  ]
+}

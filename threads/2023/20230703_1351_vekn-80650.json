@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-80650",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80650-lucian-the-perfect-clarification",
+  "Title": "Lucian, the Perfect (clarification)",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jul 3, 2023, 1:51\u202FPM",
+      "Body": "This is a clarification of Lucian, the Perfect cardtext regarding strikes in different situations (minion A vs Lucian).\n\nNB: the strike must be effective against Lucian to have its cost increased, for instance a hand strike at long range doesn't cost extra.\n\nNB: if the strike is \"modified\" by Target Retainer in order to strike against a retainer, its cost is not increased.\n\n1.a/ if A uses a strike card during the \"choose strike\" step to strike against Lucian, the card and the strike are the same thing, and it costs 1 more. This is subject to card cost reduction (for instance, Jan Berger playing a Roundhouse will pay 0).\n\n1.b/ if A uses a strike provided by a card in play (a weapon for instance, or a strike provided by its own cardtext) during the \"choose strike\" step to strike against Lucian, the strike costs 1 more. This is not subject to card cost reduction since there's no strike card played.\n\n1.c/ if A uses the default hand strike during the \"choose strike\" step to strike against Lucian, same as 1.b/\n\n2.a/ if A uses a strike card before the \"choose strike\" step (eg. uses the maneuver from a Thrown Gate during the \"determine range\" step), the card's cost is unchanged. The vampire is committed to use the strike. During the \"choose strike\" step, the cost of the strike is increased by 1 if the strike is effectively made against Lucian (not a retainer on Lucian for instance). This is not subject to card cost reduction (the card, if any has been played long ago). The vampire cannot choose not to strike with it (they are committed to use it), unless they cannot pay (in which case, they \"lose\" their strike and cannot choose another).\n\n2.b/ if A uses a strike provided by a card in play before the \"choose strike\" step (eg. uses the maneuver of a .44 Magnum during the \"determine range\" step), the vampire is committed to use the strike. During the \"choose strike\" step, using that strike costs 1 more if the strike is effectively made against Lucian (not a retainer on Lucian for instance). This is not subject to card cost reduction (no strike card has been played). The vampire cannot choose not to strike with it (they are committed to use it), unless they cannot pay (in which case, they \"lose\" their strike and cannot choose another).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "108538"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jul 3, 2023, 3:10\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> 1.b/ if A uses a strike provided by a card in play (a weapon for instance, or a strike provided by its own cardtext) during the \"choose strike\" step to strike against Lucian, the strike costs 1 more. This is subject to cost reduction since there's no strike card played.\n>\nThe bolded part seems off to me.\n\nI guess it is a typo and it is NOT subject to cost reduction ?\n\nBy the way, I guess when you talk about \"cost reduction\", you talk about \"card cost reduction\" ?\n\nIf it is the case, this clarification could be made clearer by stating it. I can't found any relevant interaction right now but it could just means that I don't find it or maybe in the future, a vampire will have a text saying \"strike cost him 1 less blood\" or something similar.",
+      "Id": "108543"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 3, 2023, 3:32\u202FPM",
+      "Body": "> Timo wrote:\n>\n> > Ankha wrote:\n> >\n> > 1.b/ if A uses a strike provided by a card in play (a weapon for instance, or a strike provided by its own cardtext) during the \"choose strike\" step to strike against Lucian, the strike costs 1 more. This is subject to cost reduction since there's no strike card played.\n> >\n> The bolded part seems off to me.\n>\n> I guess it is a typo and it is NOT subject to cost reduction ?\n>\n> By the way, I guess when you talk about \"cost reduction\", you talk about \"card cost reduction\" ?\n>\n> If it is the case, this clarification could be made clearer by stating it. I can't found any relevant interaction right now but it could just means that I don't find it or maybe in the future, a vampire will have a text saying \"strike cost him 1 less blood\" or something similar.\n>\nCorrect, fixed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "108544"
+    }
+  ]
+}

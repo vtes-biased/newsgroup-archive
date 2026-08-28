@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-76487",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76487-pre-range-disarm",
+  "Title": "Pre-Range Disarm",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Mar 30, 2018, 4:38\u202FAM",
+      "Body": "Okay, I did find a couple of related posts in the forum that shed some light on this question and related timing issues, but there's still a little room for doubt, so here goes..\n\nScenario A: Synesios has the Eye of Hazimel. As an action, he enters combat with Spider Killer (SK). Before range is determined, he plays Outside the Hourglass at superior, dealing two damage that is not prevented. SK then plays Alpha Glint at superior to end combat pre-range.\n\nQ A-1: May Synesios now play Disarm?\nQ A-2: If yes to A-1, is there still a window left in combat for Synesios to follow it with superior Decapitate? And Ritual OTBR, Taste of Vitae, etc?\n\nIf the answer to A-1 was no, then we needn't continue. If it was yes, then please consider the following scenarios:\n\nScenario B: Same as A, but instead of playing Alpha Glint, SK plays Illusions of the Kindred.\n\nQ B-1: May Synesios now play Disarm on SK?\nQ B-2: If yes to B-1, does Synesios still end up fighting the illusory kindred?\n\nScenario C: Same as B, but Synesios is the one who plays Illusions of the Kindred. (He does have Eye of Hazimel, after all.) Assume he plays it immediately after SK resolves the OTH damage.\n\nQ C-1: May Synesios now play Disarm on SK?\n\nScenario D: Same as A, but Synesios also has the Textbook Damnation (giving him DAI), and before he played OTH, he had first played Fear of the Void Below, causing the round to default to long range.\n\nQ D-1: May Synesios now play Disarm?\nQ D-2: Would the answer to D-1 change if Synesios had played Fear OTVB AFTER playing OTH (but still before SK played Alpha Glint)?\n\nBonus Question If NO to D-1: If Synesios plays OTH and Spider Killer possessed the Textbook, could SK respond with Fear OTVB prior to the round ending pre-range (from someone playing superior Alpha Glint or Illusions) ensuring that the round was ending at long, thus keeping himself safe from Disarm? Even if the pre-range combat-ending card was being immediately played by Synesios after playing OTH?\n\nThanks for reading!\n\nHere are the important card texts:\n\nOutside the Hourglass\nCombat\n[obf] Strike: dodge.\n[tem] Maneuver, or strike: dodge, with an optional maneuver.\n[TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n\nAlpha Glint\nCombat [1 Blood]\nNot usable in combat with an ally or an older vampire.\n[ani] [for] Strike: combat ends.\n[ANI] [FOR] Only usable before range is determined. Combat ends.\n\nDisarm\nCombat\n[pot] Only usable at close range at the end of a round of combat in which this vampire successfully inflicted more damage than the opposing vampire. Not usable by a vampire being burned or going into torpor. Put this card on the opposing vampire and send that vampire into torpor. The vampire with this card has -1 strength. He or she may burn this card by burning 3 blood. A vampire can have only one Disarm.\n[POT] As above, but the vampire with this card has -2 strength.\n\nIllusions of the Kindred\nCombat [2 Blood]\nOnly usable before range is determined.\n[chi] Combat ends. Move the bottom card of your crypt to your ready region. He or she does not contest any other minions or titles in play. The vampire has an amount of blood equal to half of his or her capacity (round down). Combat begins between the vampire and the opposing minion. Remove the crypt card from the game at the end of combat.\n[CHI] As above, but the vampire has an amount of blood equal to his or her capacity.\n\nFear of the Void Below\nCombat [1 Blood]\nA vampire may play only one Fear of the Void Below each combat.\n[obf] Maneuver.\n[dai] Only usable before range is determined. Each round of this combat defaults to long range, and this vampire gets an optional press each round, only usable to end combat.\n[DAI] As [dai] above, and the opposing minion's controller discards one card at random from his or her hand during the initial strike resolution phase of each round.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "86088"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 1, 2018, 2:45\u202FPM",
+      "Body": "> Killiam wrote:\n> Scenario A: Synesios has the Eye of Hazimel. As an action, he enters combat with Spider Killer (SK). Before range is determined, he plays Outside the Hourglass at superior, dealing two damage that is not prevented. SK then plays Alpha Glint at superior to end combat pre-range.\n>\n> Q A-1: May Synesios now play Disarm?\n> Q A-2: If yes to A-1, is there still a window left in combat for Synesios to follow it with superior Decapitate? And Ritual OTBR, Taste of Vitae, etc?\n>\nYes. When combat ends (Alpha Glint), the round ends. Cards that are playable when the round ends can be used.\n\n> Killiam wrote:\n> Scenario B: Same as A, but instead of playing Alpha Glint, SK plays Illusions of the Kindred.\n>\n> Q B-1: May Synesios now play Disarm on SK?\n>\nIn what way do you envisage this being different to Alpha Glint? A combat ends effect ends combat on both cards.\n\n> Killiam wrote:\n> Q B-2: If yes to B-1, does Synesios still end up fighting the illusory kindred?\n>\nI can't see any reason why not. The card's been played. The fact that SK goes to torpor doesn't seem very relevant to anything.\n\n> Killiam wrote:\n> Scenario C: Same as B, but Synesios is the one who plays Illusions of the Kindred. (He does have Eye of Hazimel, after all.) Assume he plays it immediately after SK resolves the OTH damage.\n>\n> Q C-1: May Synesios now play Disarm on SK?\n>\nIn what way do you envisage this being different to the first two times? Combat is ending from a combat ends effect. Combat ends, and the round ends. Why do you believe it differs based on who played the combat ending effect?\n\n> Killiam wrote:\n> Scenario D: Same as A, but Synesios also has the Textbook Damnation (giving him DAI), and before he played OTH, he had first played Fear of the Void Below, causing the round to default to long range.\n>\n> Q D-1: May Synesios now play Disarm?\n>\nNo. Range is currently long, because Fear of the Void Below has swapped the default (whereas previously it was close). Disarm cannot be played at long range, from explicit card text: \"Only usable at close range\"\n\n> Killiam wrote:\n> Q D-2: Would the answer to D-1 change if Synesios had played Fear OTVB AFTER playing OTH (but still before SK played Alpha Glint)?\n>\nNo. Disarm cares not one iota what range the damage was dealt at. It cares what range it is when Disarm is played.\n\n> Killiam wrote:\n> Bonus Question If NO to D-1: If Synesios plays OTH and Spider Killer possessed the Textbook, could SK respond with Fear OTVB prior to the round ending pre-range (from someone playing superior Alpha Glint or Illusions) ensuring that the round was ending at long, thus keeping himself safe from Disarm? Even if the pre-range combat-ending card was being immediately played by Synesios after playing OTH?\n>\nAfter playing Outside the Hourglass, the impulse for playing the next card or effect goes to the acting Methuselah (Synesios's controller). So Synesios can play Alpha Glint. In the timing window opened for round ends cards (and then combat ends cards), the impulse for playing the next card or effect goes to the acting Methuselah (Synesios's controller). So Synesios can play Disarm, before SK gets the opportunity to play FOTVB.\n\nIf after playing OTH, Synesios passes the impulse, SK can play Alpha Glint (or someone else can tap Mariel or whatever). In the timing window for round ends cards, the impulse for playing the next card or effect goes to the acting Methuselah (Synesios's controller). So Synesios can play Disarm before SK gets the opportunity to play FOTVB. In that situation, SK would do better to play FOTVB before playing Alpha Glint - although in the situation where SK draws FOTVB to replace Alpha Glint, that's just bad luck.",
+      "Id": "86110"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 1, 2018, 8:01\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> After playing Outside the Hourglass, the impulse for playing the next card or effect goes to the acting Methuselah (Synesios's controller). So Synesios can play Alpha Glint. In the timing window opened for round ends cards (and then combat ends cards), the impulse for playing the next card or effect goes to the acting Methuselah (Synesios's controller). So Synesios can play Disarm, before SK gets the opportunity to play FOTVB.\n>\n> If after playing OTH, Synesios passes the impulse, SK can play Alpha Glint (or someone else can tap Mariel or whatever). In the timing window for round ends cards, the impulse for playing the next card or effect goes to the acting Methuselah (Synesios's controller). So Synesios can play Disarm before SK gets the opportunity to play FOTVB. In that situation, SK would do better to play FOTVB before playing Alpha Glint - although in the situation where SK draws FOTVB to replace Alpha Glint, that's just bad luck.\n>\nThinking about this some more...\n\nDisarm cares about successful infliction, so can't be played until damage prevention has passed.\n\nPlaying OTH inflicts damage, which opens a damage prevention window. It's possible for Synesios's controller to play Alpha Glint in it too, but the damage is still there to be handled, and combat can't end until that's happened. In the damage prevention window, arbitrary effects can be played, so during the damage prevention window, SK's controller can play FOTVB. Only when SK's controller passes on playing damage prevention can we say that the damage was successfully inflicted (and - stupid setups aside - SK's controller might also be playing FOTVB to fish for some actual damage prevention, because 2 damage is still 2 lost blood).\n\nThen Synesios can play Disarm, because the damage has been successfully inflicted - except it's now long range, so Disarm's card text kicks in.\n\nI think.",
+      "Id": "86113"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Apr 1, 2018, 10:19\u202FPM",
+      "Body": "Sorry, I\u2019m replying with my phone and I don\u2019t know how to do the whole quoting thing well on mobile. Great answer James, very informative! I agree with everything you said except one thing. If FOTVB is played before outside the hourglass, or some \u201Cset range\u201D card like Selective Silence is played before OTH, then the range is long when OTH is played, and then the damage from OTH would be ineffective, right? It is \u201C2 damage\u201D, not \u201C2r damage\u201D or \u201C2 ranged damage\u201D, so it is only effective at close. I\u2019m pretty sure that all damage that doesn\u2019t say that it is R damage or ranged or effective at close and/or long range (old card texts) is only effective at close range. So if Range is long when OTH is played, then no damage is successfully inflicted and Disarm could only be played if, later in the round, range ended up back at close at the end of the round, and the minion playing Disarm successfully inflicted more damage than the opposing minion. OTH is close range damage only, right?",
+      "Id": "86114"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 2, 2018, 4:05\u202FAM",
+      "Body": "Pre-range damage is inflicted regardless of the default range of the combat.",
+      "Id": "86115"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Apr 2, 2018, 4:25\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Killiam wrote:\n> > Scenario B: Same as A, but instead of playing Alpha Glint, SK plays Illusions of the Kindred.\n> >\n> > Q B-1: May Synesios now play Disarm on SK?\n> >\n> In what way do you envisage this being different to Alpha Glint? A combat ends effect ends combat on both cards.\n>\nI made this distinction to help cover my bases with respect to an old misunderstanding in the Denver playgroup.\n\nSome years ago, it had been ruled that you cannot play superior Psyche in response to an Illusions of the Kindred. While I believe that today the ruling would stand due to not being able to start a new combat when there is already one queued up, at the time, word had spread in Colorado that the reason was that you were hurried into a new combat, closing windows for playing cards in the old combat (which in this case, could include Disarm). I heard this point made on multiple occasions.\n\nBy asking both questions, I close the door on that line of argumentation.\n\nThat said, thank you for taking the time to answer redundant cases; it makes a difference!\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "86125"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Apr 2, 2018, 4:28\u202FPM",
+      "Body": "> kschaefer wrote:\n> Pre-range damage is inflicted regardless of the default range of the combat.\n>\nIs there a rule/ruling for this? I was about to ask the same question regarding playing Fear of the Void Below prior to Outside the Hourglass -- whether or not the damage even connects if the round is defaulting to long range.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "86126"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 2, 2018, 4:42\u202FPM",
+      "Body": "Damage that is done prior to the determination of range happens irrespective of the default range. It simply doesn't care what the range is (it's pre-range damage).\n\nThat being said, I did find a post where  LSJ says :\n> If Fear of the Void Below (dai/DAI) would've been played earlier,\n> would Outside the Hourglass then trigger the Improvised Flamethrower?\nYes. (And Disarm would not be playable, since the range is long)",
+      "Id": "86127"
+    },
+    {
+      "Author": "Viper",
+      "Date": "Sep 11, 2018, 7:33\u202FAM",
+      "Body": "So, playing a pre-range combat ends doesn't have priority over other effects like a normal strike:combat ends?",
+      "Id": "90541"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Sep 11, 2018, 11:21\u202FAM",
+      "Body": "I believe that if you play superior Alpha Glint, combat ends immediately and no more combat cards can be played except 'end of round' ones.",
+      "Id": "90544"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Sep 11, 2018, 12:49\u202FPM",
+      "Body": "A rather tiny thing bugs me in all this... The acting vamp has the impulse to play 'before range' cards... I thought that impusle is not passed until the acting vamp says so... Am i in the wrongs here?\n\nExample: Both vamps has ANI. Can the acting vamp play all his \"before range\" cards in order to avoid the blocking minion's Terror Frenzy?\n\nNC of Hungary\n\n///",
+      "Id": "90545"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 11, 2018, 12:56\u202FPM",
+      "Body": "Please create new topics for new questions.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90546"
+    },
+    {
+      "Author": "Viper",
+      "Date": "Sep 11, 2018, 4:39\u202FPM",
+      "Body": "> Ankha wrote:\n> Please create new topics for new questions.\n>\nSorry, but the whole Outside the Hourglass + Disarm vs Alpha Glint got me to the doubt.\n\nI was under the assumption that a Combat Ends takes precedence over other effects, so Outside the Hourglass shouldn't inflict damage.\n\nBut, from the points exposed on this topic, it seems that a pre-range combat ends is just another effect that takes place along everything else.\n\nExample: Under this assumption, an acting vampire Dawn Operation + Outside the Hourglass should sent a blocking vampire to torpor, regardless of a pre-range combat ends.\n\nCould you clarify?",
+      "Id": "90552"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Sep 11, 2018, 5:15\u202FPM",
+      "Body": "Combat ends on its own as an effect does not take precedence over anything (see Anaesthetic touch as an example), it is just that Strike: Combat Ends specifically happens before other strikes (except dodges) as defined by the rules. Any kind of other effect that happens to end combat but isn't specificaly Strike: Combat Ends, works just like any other effect of same timing.",
+      "Id": "90555"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 11, 2018, 5:57\u202FPM",
+      "Body": "> Viper wrote:\n> I was under the assumption that a Combat Ends takes precedence over other effects, so Outside the Hourglass shouldn't inflict damage.\n>\nIf damage has been inflicted, it has to be handled before combat can actually end. So if I play Outside the Hourglass and then end combat during damage prevention (by e.g. Alpha Glint, tapping Mariel, Elysium: the Arboretum etc.), the damage still needs to be handled.\n\nOne common thing that causes combat to end is a vampire going to torpor. So consider this situation:\n\nTwo vampires, A and B.\nA chooses to strike with Rowan Ring (or any other go to torpor strike).\nB chooses to strike with hands.\nStrike resolution:\nThe strikes resolve simultaneously. B goes to torpor, and A takes 1 hand damage.\nA doesn't immediately burn blood, because there is a damage prevention window for that. But B immediately goes to torpor, which ends combat because one of the combatants is not ready. However, because damage was inflicted on A, the handling of the damage needs to be finished before combat actually finally ends.\n\nOther things that need to be handled before combat actually finally ends are cards like Taste of Vitae, Disarm etc. (and other end of round/end of combat effects), if they're playable.\n\n> Viper wrote:\n> Example: Under this assumption, an acting vampire Dawn Operation + Outside the Hourglass should sent a blocking vampire to torpor, regardless of a pre-range combat ends.\n>\nIf that combo is played, the opposing vampire has two damage to handle. If someone then follows up with Alpha Glint (or whatever) during damage prevention, the damage doesn't evaporate - it has to be handled.",
+      "Id": "90559"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 11, 2018, 10:56\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Killiam wrote:\n> >\n> > Q A-1: May Synesios now play Disarm?\n> > Q A-2: If yes to A-1, is there still a window left in combat for Synesios to follow it with superior Decapitate? And Ritual OTBR, Taste of Vitae, etc?\n> >\n> Yes. When combat ends (Alpha Glint), the round ends. Cards that are playable when the round ends can be used.\n>\nReturning to the original question..\n\nAre you sure? Disarm is only playable at close range. Since in the topic scenario you never proceed to determine range step, I don't believe disarm is playable?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "90562"
+    },
+    {
+      "Author": "1uck",
+      "Date": "Sep 12, 2018, 12:34\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Are you sure? Disarm is only playable at close range. Since in the topic scenario you never proceed to determine range step, I don't believe disarm is playable?\n>\nI think the range is close by default, and the determine range step is merely the phase in which maneuvers can be played.",
+      "Id": "90563"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Sep 12, 2018, 1:46\u202FAM",
+      "Body": "> 1uck wrote:\n>\n> > Bloodartist wrote:\n> > Are you sure? Disarm is only playable at close range. Since in the topic scenario you never proceed to determine range step, I don't believe disarm is playable?\n> >\n> I think the range is close by default, and the determine range step is merely the phase in which maneuvers can be played.\n>\nCorrect.\n\nSo, the disarm majesty trick doesn't work if range was set to long (Fear the void below, sniper rifle, selective silence, high ground with flight, brick by brick, cold aura, shadow step, that Assamite retainer, etc). I mean, if they're acting they typically make it agg, but there's always penitent resilience, Jau vena, skin of night, armor of terra, elemental stoicism, repair the undead flesh, etc.\nI think the fact that SCE takes precedent over everything else makes it feel like a hard stop, but combat ending still goes to the stage where its ending. You cant press, but tasting and disarming and decapitating and cycling all those Jua Vema you put into a deck while drunk can still be played.",
+      "Id": "90564"
+    }
+  ]
+}

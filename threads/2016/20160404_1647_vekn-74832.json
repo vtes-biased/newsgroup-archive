@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-74832",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/74832-the-capuchin-goes-to-ash-heap",
+  "Title": "The Capuchin goes to ash heap?",
+  "Messages": [
+    {
+      "Author": "M.Schumacher",
+      "Date": "Apr 4, 2016, 4:47\u202FPM",
+      "Body": "I was just wondering if the Capuchin goes to your uncontrolled reagion via the ash heap or not.\nHis card text states that he is moved to the uncontrolled region when he is burned but not if he is moved there from the ash heap or the ready region\nThis implies the second question: If the Capuchin is burned with blood counters on him (for example by Judgement: Camarilla Segregation), do they stay on him on his way to the uncontrolled region?\n\nCard text:\nIndependent: If The Capuchin is burned move him to your uncontrolled region and get 3 transfers during your next influence phase. +2 hand size. +1 bleed. +1 intercept.",
+      "Id": "76235"
+    },
+    {
+      "Author": "chrisn101",
+      "Date": "Apr 4, 2016, 5:23\u202FPM",
+      "Body": "Q1: Path to the Ash Heap\nIt goes straight to the uncontrolled region (avoiding the ash heap altogether) and, assuming you are the owner and have the normal four transfers, you can move 7 pool to it (text is \"If The Capuchin is burned, move him to your uncontrolled region and you get +3 transfers during your next influence phase\").\n\nQ2: interaction with Judgement: Camarilla Segregation\n\nCard text:\nJudgement: Camarilla Segregation\n[Action] Action\n[1 Blood]\nRequires a ready prince or justicar. +1 stealth action.\nPut this card in play. Each Methuselah controlling a non-Camarilla vampire burns 1 pool during his or her untap phase. Any Methuselah may burn this card by burning a non-Camarilla vampire he or she controls during his or her master phase.\n\nGood question. I can't find any rulings. If this came up in a local game, my instinct would say to treat it like a self-imposed Banishment rather than being burnt (I'm guessing that the intended narrative is that The Capuchin finds itself in the underworld and simply reforms a body in the skinlands to escape again - the effort expended is the pool cost to bring it out again). If The Capuchin is full or you fill it up (11 blood) using a Vessel and/or Hunting Ground effect during the untap phase, then burn the vampire during your Master Phase to remove the Judgement (or use up to seven pool to fill it back up to starting capacity), then yeah, it'd come back out again at the end of your influence phase.\n\nI'd be interested in an official ruling too now\n\nCard text:\nBanishment\n[Political Action] Political Action\nChoose a younger ready vampire. Successful referendum means that the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects). The vampire is uncontrolled. Any cards and counters on that vampire stay with him or her (but they are out of play as long as the vampire remains uncontrolled).",
+      "Id": "76236"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 4, 2016, 9:57\u202FPM",
+      "Body": "> M.Schumacher wrote:\n> I was just wondering if the Capuchin goes to your uncontrolled reagion via the ash heap or not.\n>\nContrary to Byzar for instance, Capuchin doesn't say it goes to the uncontrolled region \"instead\".\nIf the Capuchin is burned, he is burned for real. He goes to the ash heap, and all the cards and counters on him are burned as well.\nThen, it's special kicks in: he is moved to your uncontrolled region and you get +3 transfers during your next influence phase.\n\n> M.Schumacher wrote:\n> This implies the second question: If the Capuchin is burned with blood counters on him (for example by Judgement: Camarilla Segregation), do they stay on him on his way to the uncontrolled region?\n>\nNo.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76244"
+    },
+    {
+      "Author": "chrisn101",
+      "Date": "Apr 5, 2016, 8:07\u202FPM",
+      "Body": "Ah, so the slight difference of \"If The Capuchin is burned\" versus \"If Byzar would be burned\" produces very different effects.\n\nSo in M.Schumacher 's play example, what you could do is  Villein (as it's a trifle) to move the blood on The Capuchin to your pool, burn the vampire to burn the J:CS, then (if lucky with the hand draw) play  Zillah's Valley to get four pool (at the cost of five) back on The Capuchin, and then transfer the other seven to it during the Influence phase to bring it out again effectively at end of turn.",
+      "Id": "76269"
+    }
+  ]
+}

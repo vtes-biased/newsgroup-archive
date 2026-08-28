@@ -1,0 +1,272 @@
+{
+  "ThreadId": "vekn-76447",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76447-rules-team-rulings-rtr-03-03-2018",
+  "Title": "Rules Team Rulings - RTR 03/03/2018",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Mar 4, 2018, 10:29\u202FAM",
+      "Body": "Fellow Methuselahs,\n\nAfter feedback of the community, and in order to remove unnecessary complexity to the game, the following rules with be effective as for April 02, 2018 (as always, changes contained herein do not go into effect for santioned tournaments for 30 days.)\n\nRule change #1: Timing during the Influence phase\n\nVampires (or Imbued) are no longer automatically moved to the ready region at the end of the influence phase. Instead, they are actively moved to the ready region by the player.\n\nAs a consequence, you cannot self-contest a unique vampire or imbued anymore (per rule 4.1. Contested Cards): the crypt card has to stay in the uncontrolled region. Minions that have a replacement effect as they would come into play (eg., Anarch Convert) or that cannot be contested (eg., Jimmy Dunn) can still be played as before.\n\nAlso, the number of transfers a player receives each turn is determined at the start of the influence phase. Cards that provide transfers upon use can still be triggered during the influence phase to get more transfers.\n\nEg., Alice controls Information Highway (+2 transfers) and Ennoia's Theater (lock to get +1 transfer), and has Ingrid Rossler (9 capacity, +2 transfers if ready) with 7 blood in her uncontrolled region.\n\nAlice receives 6 transfers at the start of her influence phase. She uses 2 transfers to move 2 pool to Ingrid Rossler (+2 transfers if ready) and decides to move her to the ready region. Alice doesn't get the +2 transfers granted by Ingrid Rossler, but can lock Ennoia's Theater to get 1 more transfer. She does so and uses her 5 remaining transfers to move 5 pool to another uncontrolled vampire, and declares the end of her influence phase.\n\nNote: The abilities of vampires or Imbued such as Angela Preston or Paul \"Sixofswords29\" Moreton can now be used the turn they are put into play.\n\nUpdated rulebook text:\n\nIV. Influence phase\nAt the start of her influence phase, the player gets 4 transfers, except the first three turns of the game, where players get one, two, and three transfers on the first, second, and third turn, respectively.\nLike master phase actions, transfers can be spent for different effects, and transfers that have not been spent are lost when proceeding to the next phase.\nThese effects are:\n- Spend 1 transfer: move one blood counter from her pool to a vampire in her uncontrolled region\n- Spend 2 transfers: move one blood counter from a vampire in her uncontrolled region to her pool\n- Spend 4 transfers and pay 1 pool: draw a crypt card.\n- Spend 4 transfers and pay 1 pool: merge a base and an advanced version of a vampire.\nSome cards allow spending transfers to produce other effects. Some cards also grant additional transfers.\nAt any time during this phase, if a vampire has at least as many blood counters as his capacity, the player can move that vampire to the ready region. The blood counters on the vampire stay on him and become his blood. Blood counters in excess to his capacity are burned (see sec. H.1. Crypt cards). If the vampire grants additional transfers, those can\u2019t be used on this turn because transfers are gained at the start of the influence phase.\n\nRule change #2: Recruiting allies\n\nAllies that are recruited are now moved to the ready region instead of the uncontrolled region, but cannot take actions the turn they are recruited. (This applies only to allies that are recruited, not allies that are put into play by other means.)\n\nAllies that previously were moved to the ready region when recruited (Nocturn, Infernal Servitor) are not restricted by this rule. They read now: \"This ally can act the turn it is recruited.\"\n\nThis doesn't change anything in the count of ready minions controlled by a Methuselah but makes it more intelligible than a ready minion in the uncontrolled region.\n\nThis implies a few changes:\n- an ally that has been recruited this turn can now block a vampire controlled by another Methuselah that is acting out-of-turn during the same turn.\n- an ally that has been recruited this turn can now be burned by cards such as Abomination.\n\nRule change #3: Caitiff as a clan\n\nCaitiff is now a clan. When choosing a clan, Caitiff is now a valid choice (eg., Consanguineous Boon, Clan Impersonation etc.)\n\nNote: Clanless vampires are still considered as vampires without a clan, not Caitiff.\n\nThe rule stating that Caitiff are clanless, while true to the canon, has had negligible impact on games of V:tES, but adds an unnecessary complexity to the game.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85536"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 4, 2018, 2:54\u202FPM",
+      "Body": "Self-contesting.\n\nI assume that the crypt card that is at full capacity or more will still needs to come out of the uncontrolled during the influence phase, right? (you now just get to apply possible effect that coming to controlled might trigger/enable)\n\nYou just can't leave your minions in the uncontrolled even if you don't want to bring them out for some reason (going to be torporized, Baltimore Purged or whatever), right?\n\nWhat happens when you notice that you have a minion at full capacity, or more, in your uncontrolled and it would self-contest?\n\nSay, you've Governed down and for some reason don't have enough transfers to move excess pool away from the minion that you already have in ready region to make it less than full cap? You get to keep that minion as a bonus storage for pool or what happens? (say, an empty four cap gets to be recipient two Govern superiors bringing the pool on it to 6 and the player, for some reason doesn't use transfers to transfer the counters to his pool)\n\nFinnish  Politics!",
+      "Id": "85543"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 4, 2018, 3:03\u202FPM",
+      "Body": "> Ankha wrote:\n> At any time during this phase, if a vampire has at least as many blood counters as his capacity, the player can move to the ready region that vampire.\n>\nEmphasis mine. The player chooses if and when to move the vampire into play. A player may also not self-contest.\n\n> L\u00F6nkka wrote:\n> I assume that the crypt card that is at full capacity or more will still needs to come out of the uncontrolled during the influence phase, right?\n>\nNo. You can just leave a vampire in your uncontrolled region the entire game even if they have enough blood on them.",
+      "Id": "85545"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 4, 2018, 5:06\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> Self-contesting.\n>\n> I assume that the crypt card that is at full capacity or more will still needs to come out of the uncontrolled during the influence phase, right? (you now just get to apply possible effect that coming to controlled might trigger/enable)\n>\nNo. It doesn't move any longer automatically to the ready region. It's now an action of the player.\n\n> L\u00F6nkka wrote:\n> You just can't leave your minions in the uncontrolled even if you don't want to bring them out for some reason (going to be torporized, Baltimore Purged or whatever), right?\n>\nYou can leave them, even if they have enough blood to move to the ready region.\n\n> L\u00F6nkka wrote:\n> What happens when you notice that you have a minion at full capacity, or more, in your uncontrolled and it would self-contest?\n>\nNothing.\n\n> L\u00F6nkka wrote:\n> Say, you've Governed down and for some reason don't have enough transfers to move excess pool away from the minion that you already have in ready region to make it less than full cap? You get to keep that minion as a bonus storage for pool or what happens? (say, an empty four cap gets to be recipient two Govern superiors bringing the pool on it to 6 and the player, for some reason doesn't use transfers to transfer the counters to his pool)\n>\nYou can keep it in your uncontrolled region.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85549"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 4, 2018, 5:20\u202FPM",
+      "Body": "> Ankha wrote:\n> Eg., Alice controls Information Highway (+2 transfers) and Ennoia's Theater (lock to get +1 transfer), and has Ingrid Rossler (+2 transfers if ready) with 6 blood in her uncontrolled region.\n>\n> Alice receives 6 transfers at the start of her influence phase. She uses 2 transfers to move 2 pool to Ingrid Rossler (+2 transfers if ready) and decides to move her to the ready region.\n>\nUh-oh, this occurred during the cheating phase.\n\n(Change the setup to 7 blood.)",
+      "Id": "85550"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 4, 2018, 10:04\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Uh-oh, this occurred during the cheating phase.\n>\n> (Change the setup to 7 blood.)\n>\nYup, Ingrid is 9-cap.\n\nI like this change. It makes sense from both game mechanics point of view and flavor point of view. Less obligatory triggers that players have to keep track of will mean less awkward moments when players play sloppy and make mistakes. Now its an option for example to say \"oops I forgot\" rather than force the game to be backtracked. Its not uncommon in our local casual games that a player accidentally transfers to the wrong vampire for example (happened last week).\n\nAlso from flavor point of view, blood to full capacity would mean you have managed to gain full control of a vampire. But you shouldn't be forced to put that vampire in danger, say, a baltimore purge, or a rush-happy enemy.\n\nI also like the ally change. Now the official way of recruiting allies becomes the same as the way we have always played and what is intuitive . The amount of people who correctly used to use the uncontrolled region is about the same as those who say \"lock\" instead of \"tap\".\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "85556"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 5, 2018, 1:51\u202FAM",
+      "Body": "Some suggested changes to the new rulebook text for grammar and clarity:\n\n> At the start of her influence phase, the player gets 4 transfers, except on the first turn of the game where the first player gets 1 transfer, the second player gets 2 transfers, and the third player gets 3 transfers.\n>\nWhat if there are only two players in the game? Consider changing to \"except the first three turns of the game, where players get one, two, and three transfers on the first, second, and third turn, respectively.\"\n\n> Like master phase actions, transfers can be spent for different effects, and transfers that don't have been spent are lost when proceeding to the next phase.\n>\nConsider changing \"don't have been spent\" to \"have not been spent\"\n\n> These effects are:\n> - Spend 1 transfer: move one blood counter from her pool to a vampire in her uncontrolled region\n> - Spend 2 transfers: move one blood counter from a vampire in her uncontrolled region to her pool\n> - Spend 4 transfers and pay 1 pool: draw a crypt card.\n> - Spend 4 transfers and pay 1 pool: merge a base and an advanced version of a vampire.\n> Some cards allow to spend transfers to produce other effects. Some cards also grant additional transfers.\n>\nConsider changing \"allow to spend transfers\" to \"allow spending transfers\"\n\n> At any time during this phase, if a vampire has at least as many blood counters as his capacity, the player can move to the ready region that vampire.\n>\nConsider changing \"the player can move to the ready region that vampire\" to \"the player can move that vampire to the ready region\"\n\n> The blood counters on the vampire stay on him and become his blood. Blood counters in excess to his capacity are burned (see sec. H.1. Crypt cards). If the vampire grants additional transfer, those can\u2019t be used on this turn as transfers are gained at the start of the influence phase.\n>\nConsider changing \" If the vampire grants additional transfer, those can\u2019t be used on this turn as transfers are gained at the start of the influence phase.\" to \" If the vampire grants additional transfers, those can\u2019t be used on this turn because transfers are gained at the start of the influence phase.",
+      "Id": "85558"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 5, 2018, 9:07\u202FPM",
+      "Body": "> Ankha wrote:\n> If the vampire grants additional transfers, those can\u2019t be used on this turn because transfers are gained at the start of the influence phase.\n>\nIsn't this just an unnecessary complexity / rule?\n\nIf you've changed the influence sequencing rules so you can now order it how you like; wouldn't it also make sense to allow for such benefits.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "85567"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 6, 2018, 1:40\u202FAM",
+      "Body": "Well now. The rules changes make sense (no more tourney transfer phase shenanigans where certain players would accidentally end their turn by moving vamps from uncontrolled to controlled while still having transfers left.\n\nThis does, however, make an entirely new combo possible. Honour the elders, effective management and Kaymakli nightmares is now a completely broken combo",
+      "Id": "85571"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Mar 6, 2018, 4:02\u202FAM",
+      "Body": "How so? The new rule would only make the difference from the 8th (!) Honor the Elders, and all the combo does is give the table to a random other big cap deck crosstable.",
+      "Id": "85573"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 6, 2018, 5:22\u202FAM",
+      "Body": "> Non-existant user wrote:\n> How so? The new rule would only make the difference from the 8th (!) Honor the Elders, and all the combo does is give the table to a random other big cap deck crosstable.\n>\nOne big cap rushed out, embrace, 3rd/bamba/etc, call many, many honours. Bring one or two out to maintain vote lock and meantime keep the effective managements flowing with ashur tablets. By the time you kaymalkli you gain mebbe 40-60 pool\n\nGG unoustable",
+      "Id": "85574"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 6, 2018, 9:43\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > L\u00F6nkka wrote:\n> > Self-contesting.\n> >\n> > I assume that the crypt card that is at full capacity or more will still needs to come out of the uncontrolled during the influence phase, right? (you now just get to apply possible effect that coming to controlled might trigger/enable)\n> >\n> No. It doesn't move any longer automatically to the ready region. It's now an action of the player.\n>\n> > L\u00F6nkka wrote:\n> > You just can't leave your minions in the uncontrolled even if you don't want to bring them out for some reason (going to be torporized, Baltimore Purged or whatever), right?\n> >\n> You can leave them, even if they have enough blood to move to the ready region.\n>\n> OK, thanks!\n>\n> Bloating just became somewhat more easy.\n> Let's see if that causes problems later on...\n>\nFinnish  Politics!",
+      "Id": "85579"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2018, 9:51\u202FAM",
+      "Body": "> Blooded wrote:\n>\n> > Non-existant user wrote:\n> > How so? The new rule would only make the difference from the 8th (!) Honor the Elders, and all the combo does is give the table to a random other big cap deck crosstable.\n> >\n> One big cap rushed out, embrace, 3rd/bamba/etc, call many, many honours. Bring one or two out to maintain vote lock and meantime keep the effective managements flowing with ashur tablets. By the time you kaymalkli you gain mebbe 40-60 pool\n>\n> GG unoustable\n>\nHow is it easier than just playing Consanguineous Boon?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85582"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Mar 7, 2018, 5:45\u202FPM",
+      "Body": "Descend Into Darkness is going to be a lot of fun.",
+      "Id": "85614"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 7, 2018, 8:10\u202FPM",
+      "Body": "Cons boon provides continuous payout, and has a potential maximum cap. With these new rules, I can put an unlimited amount of blood on an uncontrolled, play kaymalkli and gain literally over a hundred pool, in a single master.",
+      "Id": "85616"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 7, 2018, 8:23\u202FPM",
+      "Body": "And your prey will have taken the rest of table while you set up your amazing pool gain.\n\nAnd what happens if your once per game master is in your opening hand? Are you going to play with 6 cards all game? Do you remove other masters to put extra copies in?\n\nNothing is preventing a Brutal Influence deck from doing what you're suggesting even before the rules change. But, no one's done it...because it won't get you a win.",
+      "Id": "85618"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Mar 7, 2018, 9:11\u202FPM",
+      "Body": "> Blooded wrote:\n> Cons boon provides continuous payout, and has a potential maximum cap. With these new rules, I can put an unlimited amount of blood on an uncontrolled, play kaymalkli and gain literally over a hundred pool, in a single master.\n>\nsure, if you got to that point uncontested.\n\nhow many actions can you see yourself taking to get 100 pool thouhg?\n\nand how does con boon have a 'potential max cap', but for some reason your actions to govern down are 'unlimited'?",
+      "Id": "85620"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Mar 8, 2018, 6:28\u202FAM",
+      "Body": "> ResurrectioN wrote:\n> Descend Into Darkness is going to be a lot of fun.\n>\nThis rule does not affect it though. It's face down, not uncontrolled.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "85627"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Mar 9, 2018, 7:40\u202FAM",
+      "Body": "Ooooh... It's out of play non in uncontrolled.\nThanks for the correction.",
+      "Id": "85637"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 9, 2018, 8:31\u202FAM",
+      "Body": "> Blooded wrote:\n> Cons boon provides continuous payout, and has a potential maximum cap. With these new rules, I can put an unlimited amount of blood on an uncontrolled, play kaymalkli and gain literally over a hundred pool, in a single master.\n>\nWhat do you mean \"unlimited\"?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "85638"
+    },
+    {
+      "Author": "LSJ",
+      "Date": "Mar 11, 2018, 9:51\u202FPM",
+      "Body": "Perhaps pinning this post/thread (and optionally unpinning older RTRs) would be in order.",
+      "Id": "85679"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 13, 2018, 6:21\u202FPM",
+      "Body": "> LSJ wrote:\n> Perhaps pinning this post/thread (and optionally unpinning older RTRs) would be in order.\n>\nHoly necro from torpor batman!\n\nWassup Scott, how's life?",
+      "Id": "85718"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Mar 13, 2018, 7:30\u202FPM",
+      "Body": "NC Russia",
+      "Id": "85720"
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Apr 2, 2018, 12:11\u202FPM",
+      "Body": "Another consequence of the change in rulings is for allies that give an effect by locking (such as Brigitte Gebauer), if I'm not mistaken they now can use their special right away (necrothanks for that).\n\nWhy was the 4th planned changed dropped down ?\n\nAnd hey LSJ, toldja you couldn't stay away from the game forever.",
+      "Id": "86119"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 2, 2018, 12:36\u202FPM",
+      "Body": "> Orpheus wrote:\n> Another consequence of the change in rulings is for allies that give an effect by locking (such as Brigitte Gebauer), if I'm not mistaken they now can use their special right away (necrothanks for that).\n>\nYou could already do it before.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86120"
+    },
+    {
+      "Author": "talonz",
+      "Date": "May 16, 2018, 11:33\u202FPM",
+      "Body": "Allies in the ready region. Please confirm;\n\n1-allies can now tap for their effect if any the turn they come into play\n2-allies recruited this turn DO change the ready minion count that turn (certain votes) because they are a ready minion.",
+      "Id": "87018"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 16, 2018, 11:48\u202FPM",
+      "Body": "> talonz wrote:\n> allies can now tap for their effect if any the turn they come into play\n>\nAllies could always use tap, er lock, effects the turn they came into play. That's not new.",
+      "Id": "87020"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "May 17, 2018, 12:05\u202FAM",
+      "Body": "> talonz wrote:\n> Allies in the ready region. Please confirm;\n> 2-allies recruited this turn DO change the ready minion count that turn (certain votes) because they are a ready minion.\n>\nIs that different to how it is already?\n\n\"If the action is successful, the ally is placed in your\nuncontrolled region, even though it is controlled, to indicate that\nit cannot act this turn (and the cost, if any, is paid).\"\n\nit already is controlled, thus presumably ready?",
+      "Id": "87021"
+    },
+    {
+      "Author": "talonz",
+      "Date": "May 17, 2018, 12:50\u202FAM",
+      "Body": "Well well...I think we've just found why this change was made...thanks.\n\nOne minor erratta to make to the online rulebook;\n\n\"6.1.5. Recruit Ally (+1 stealth)\nAllies are action cards that become minions in their own right, capable of acting and blocking independently of the minion that recruits them. The recruit ally action has a default +1 stealth.\n\nTo recruit an ally from your hand, play the card and lock the acting minion. If the action is successful, the ally is placed in your REGION region, but it cannot act this turn\"\n\nText in caps should say ready.",
+      "Id": "87022"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "May 17, 2018, 1:08\u202FAM",
+      "Body": "Speaking of errata to the rulebook - i read in a thread recently that 'allies are recruited, whereas retainers are employed'\n\nWhich is true to the rulebook if you look at the section headers:\n6.1.4. employ retainer (+1 stealth)\n6.1.5. recruit ally (+1 stealth)\n\nHowever: The employ Retainer sections says this:\n\nUnlike\nequipment, a retainer is loyal to the minion that *recruited* it and\ncannot be transferred.",
+      "Id": "87023"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 17, 2018, 5:03\u202FAM",
+      "Body": "> narpassword wrote:\n> However: The employ Retainer sections says this:\n>\n> Unlike\n> equipment, a retainer is loyal to the minion that *recruited* it and\n> cannot be transferred.\n>\nBecause who bothers proofreading the rulebook, right? ;P\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87026"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 17, 2018, 5:13\u202FAM",
+      "Body": "> kschaefer wrote:\n> Allies could always use tap, er lock, effects the turn they came into play. That's not new.\n>\nOnly after influence phase, right? Not during minion phase? How could they, if they were in uncontrolled region? (Not that this has any importance anymore after the change but..)\n\nIf they could tap for an ability during the minion phase they are recruited, well that's confusing af.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87029"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 17, 2018, 7:17\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > narpassword wrote:\n> > However: The employ Retainer sections says this:\n> >\n> > Unlike\n> > equipment, a retainer is loyal to the minion that *recruited* it and\n> > cannot be transferred.\n> >\n> Because who bothers proofreading the rulebook, right? ;P\n>\nWhich can be VERY tedious a job when you do it properly.\nBeen there, done that.\n\nBut it is a chore that needs to be done with an ultrafine comb.\n\nSloppy rules will cause humongous problems.\n\nFinnish  Politics!",
+      "Id": "87037"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2018, 7:50\u202FAM",
+      "Body": "> talonz wrote:\n> Allies in the ready region. Please confirm;\n>\n> 1-allies can now tap for their effect if any the turn they come into play\n> 2-allies recruited this turn DO change the ready minion count that turn (certain votes) because they are a ready minion.\n>\n1. That was already the case before, because allies never check whether they are ready or not (at least for non-Imbueds). The only exception I can think of is Abomination that burns a ready werewolf. You could already use a Vagabond Mystique for instance (the same way you can lock Marciana Giovanni, Investigator in torpor to use her special)\n2. The ally is now ready (previously controlled but not ready). Most votes that count minions (Ancilla Empowerment) count controlled minions (ready or not) though, so it has very little impact.\n\n> Bloodartist wrote:\n>\n> > kschaefer wrote:\n> > Allies could always use tap, er lock, effects the turn they came into play. That's not new.\n> >\n> Only after influence phase, right? Not during minion phase? How could they, if they were in uncontrolled region? (Not that this has any importance anymore after the change but..)\n>\n> If they could tap for an ability during the minion phase they are recruited, well that's confusing af.\n>\nNo, they can be locked during the minion phase, as before. Apparently, it's clearer with the rule change since people discover possibilities that have always been there.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87041"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2018, 8:07\u202FAM",
+      "Body": "Thanks, both mistakes were fixed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87046"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 17, 2018, 2:05\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n>\n> > Bloodartist wrote:\n> >\n> > > narpassword wrote:\n> > > However: The employ Retainer sections says this:\n> > >\n> > > Unlike\n> > > equipment, a retainer is loyal to the minion that *recruited* it and\n> > > cannot be transferred.\n> > >\n> > >\n> > Because who bothers proofreading the rulebook, right? ;P\n> >\n> Which can be VERY tedious a job when you do it properly.\n> Been there, done that.\n>\nAm there, do that for my day job (though, with technical/medical/scientific manuscripts and documents, not game rulebooks)\n\n> But it is a chore that needs to be done with an ultrafine comb.\n>\n> Sloppy rules will cause humongous problems.\n>\nI agree with this. I have tried to give the rulebook a cold read (basically a close read to catch gross errors such as the \"recruit retainers\" thing), but every time I start, I decide it's better to just rewrite the rulebook. I've been at about 1/16 of the way through rewriting it for a year now. (It's hard to find time). I may just decide to plow ahead with the cold read for now, as I guarantee I will find many other gross errors that could use fixing.",
+      "Id": "87063"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 17, 2018, 2:28\u202FPM",
+      "Body": "> Ankha wrote:\n> No, [allies] can be locked during the minion phase, as before. Apparently, it's clearer with the rule change since people discover possibilities that have always been there.\n>\nAgreed that this is much more clear for people, which is why this is a good rules change. Thank you.",
+      "Id": "87066"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "May 29, 2018, 1:26\u202FAM",
+      "Body": "At any time during this phase, if a vampire has at least as many blood counters as his capacity, the player can move that vampire to the ready region. The blood counters on the vampire stay on him and become his blood. Blood counters in excess to his capacity are burned (see sec. H.1. Crypt cards). If the vampire grants additional transfers, those can\u2019t be used on this turn because transfers are gained at the start of the influence phase.\n\nHermana Hambrienta Menor\nClan: Blood Brother (group 4)\nCapacity: 2\nDisciplines: pot san\nSabbat. Mexico City Circle: Hermanas are not unique. When moved to the ready region in your influence phase, this vampire burns 2 blood or is burned.\n\nDoes the change to the influence phase allow you to transfer MORE blood then the capacity of the Hermana, then allow you to order the effects in the influence phase so that the text of the Hermana happens before the burn excess blood from the rulebook happens?",
+      "Id": "87643"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 29, 2018, 2:00\u202FAM",
+      "Body": "> XZealot wrote:\n> At any time during this phase,\n>\nThat is the only thing that changes in the new rule. Why would it have any impact on Hermana Menor?",
+      "Id": "87645"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2018, 6:10\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > XZealot wrote:\n> > At any time during this phase,\n> >\n> That is the only thing that changes in the new rule. Why would it have any impact on Hermana Menor?\n>\nCorrect, it doesn't change anything for Hermana.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87652"
+    },
+    {
+      "Author": "carneggy",
+      "Date": "Jun 12, 2018, 10:33\u202FPM",
+      "Body": "Regarding allies:\n\n> Ankha wrote:\n> Rule change #2: Recruiting allies\n>\n> Allies that are recruited are now moved to the ready region instead of the uncontrolled region, but cannot take actions the turn they are recruited. (This applies only to allies that are recruited, not allies that are put into play by other means.)\n>\n> Allies that previously were moved to the ready region when recruited (Nocturn, Infernal Servitor) are not restricted by this rule. They read now: \"This ally can act the turn it is recruited.\"\n>\nWhat does this rule change do Heaven's gate (or to other cards that move allies to your uncontrolled region in a non-recruit fashion?) Can they even be there? Or should they just be moved to your ready region (and if so, can they act?)",
+      "Id": "88138"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Jun 13, 2018, 6:43\u202FAM",
+      "Body": "\"As a consequence, you cannot self-contest a unique vampire or imbued anymore (per rule 4.1. Contested Cards): the crypt card has to stay in the uncontrolled region. Minions that have a replacement effect as they would come into play (eg., Anarch Convert) or that cannot be contested (eg., Jimmy Dunn) can still be played as before.\"\n\nJust to make sure I understand this correctly:\n\nSay I have Vampire A (unique) in play (ready), and another copy of A in the uncontrolled region. If I transfer or otherwise move counters to the copy of A in the uncontrolled region equal to or in excess of A's capacity, I cannot move A to ready region (which would self-contest), but can/must choose to keep A in the uncontrolled region with all the counters the card has. If I understand things correctly, the excess counters do not burn.\n\nSo I can theoretically accumulate an unlimited number of counters on the A copy.\n\nIs this correct?",
+      "Id": "88139"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2018, 6:54\u202FAM",
+      "Body": "> PetriWessman wrote:\n> \"As a consequence, you cannot self-contest a unique vampire or imbued anymore (per rule 4.1. Contested Cards): the crypt card has to stay in the uncontrolled region. Minions that have a replacement effect as they would come into play (eg., Anarch Convert) or that cannot be contested (eg., Jimmy Dunn) can still be played as before.\"\n>\n> Just to make sure I understand this correctly:\n>\n> Say I have Vampire A (unique) in play (ready), and another copy of A in the uncontrolled region. If I transfer or otherwise move counters to the copy of A in the uncontrolled region equal to or in excess of A's capacity, I cannot move A to ready region (which would self-contest), but can/must choose to keep A in the uncontrolled region with all the counters the card has. If I understand things correctly, the excess counters do not burn.\n>\n> So I can theoretically accumulate an unlimited number of counters on the A copy.\n>\n> Is this correct?\n>\nYes, even if A wouldn't contest another vampire in play.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88140"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2018, 8:08\u202FAM",
+      "Body": "> carneggy wrote:\n> Regarding allies:\n>\n> > Ankha wrote:\n> > Rule change #2: Recruiting allies\n> >\n> > Allies that are recruited are now moved to the ready region instead of the uncontrolled region, but cannot take actions the turn they are recruited. (This applies only to allies that are recruited, not allies that are put into play by other means.)\n> >\n> > Allies that previously were moved to the ready region when recruited (Nocturn, Infernal Servitor) are not restricted by this rule. They read now: \"This ally can act the turn it is recruited.\"\n> >\n> What does this rule change do Heaven's gate (or to other cards that move allies to your uncontrolled region in a non-recruit fashion?) Can they even be there? Or should they just be moved to your ready region (and if so, can they act?)\n>\nNew text:\n\nName: Heaven's Gate\n[LoB:C]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Obeah/Necromancy\nOnly usable by an unlocked vampire not involved in the current combat.\n[nec] Prevent 1 damage to an ally in combat.\n[obe] Only usable when an ally would be burned in combat. That ally and any cards and counters on them are put out of play instead (breaking any temporary control effects). Move that ally to the ready region with the cards and counters on them during the next discard phase, with 1 life if they have no life.\n[OBE] As [obe] above, but with 2 life if they have no life, not to exceed their starting life.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88141"
+    }
+  ]
+}

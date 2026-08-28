@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-73098",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/73098-first-tradition-clarification",
+  "Title": "First tradition clarification",
+  "Messages": [
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 14, 2015, 5:34\u202FAM",
+      "Body": "Masika goes Malkavian via Clan Impersonation. Madness network is in play. Masiak plays a First tradition on my turn, and every turn thereafter. At the start of my turn there are 5 First Traditions in play. Does the check for \"burnt 6 from this effect\" stack independently for each copy?",
+      "Id": "73098"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 14, 2015, 7:03\u202FAM",
+      "Body": "> Blooded wrote:\n> Masika goes Malkavian via Clan Impersonation. Madness network is in play. Masiak plays a First tradition on my turn, and every turn thereafter. At the start of my turn there are 5 First Traditions in play.\n>\nNote that Masika must have become a Prince or Justicar somehow also, such as through merging or a vote. Also that none of this setup is germane to the actual question.)\n\n> Blooded wrote:\n> Does the check for \"burnt 6 from this effect\" stack independently for each copy?\n>\nYes - First Tradition A remembers how many times you've skipped your turn because of First Tradition A, and how much pool you've burned because of First Tradition A.\n\n[FZD 20130818]\n>\n> Pascal wrote:\n> Each First Tradition \"remembers\" how many times you've skipped your turn or how much pool you burned to it. \"This effect\" refers to the effect a given copy of First Tradition introduces.\n>\n> With 2 First Traditions in play under your control, you can very much have skipped your turn twice to First Tradition A, and then skipped twice your turn to First Tradition B.\n>",
+      "Id": "73103"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 14, 2015, 9:51\u202FAM",
+      "Body": "SO if i have 1dt trad A, B and C in play, I skip turn with A, b and C don't even trigger, do they?",
+      "Id": "73108"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 14, 2015, 1:17\u202FPM",
+      "Body": "> Blooded wrote:\n> SO if i have 1dt trad A, B and C in play, I skip turn with A, b and C don't even trigger, do they?\n>\nCorrect. If you skip your turn with A, this will count as \"1 turn skipped\" for A, but B and C will stay in the same state.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73118"
+    }
+  ]
+}

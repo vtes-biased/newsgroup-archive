@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-79297",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79297-reminder-text-in-bounce-cards",
+  "Title": "Reminder text in bounce cards.",
+  "Messages": [
+    {
+      "Author": "Timo",
+      "Date": "Aug 29, 2021, 8:02\u202FPM",
+      "Body": "Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).\n\nthe part between brackets is meant to be a reminder text.\n\nBut a reminder of which part of the rulebook ?\n\nwhere is it stated that for bounced bleeds, the new target (who by card text has already declined to block) can make new attempts ?",
+      "Id": "102990"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Aug 29, 2021, 9:26\u202FPM",
+      "Body": "> Timo wrote:\n> Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).\n>\n> the part between brackets is meant to be a reminder text.\n>\n> But a reminder of which part of the rulebook ?\n>\n> where is it stated that for bounced bleeds, the new target (who by card text has already declined to block) can make new attempts ?\n>\nblackchantry.com/Vampire%20The%20Eternal%20Struggle%20Fifth%20Edition%20rulebook%20ENG.pdf\n\nPage 45.\n>\n> What happens when a bleed I redirected to another Methuselah is redirected to me again? Can I attempt to block?\n>\n> Yes, this opens a new blocking window.\n>\nFor more generic online uses, I believe the previous iteration of the rulebook confirmed this and LSJ has ruled on it as well for example here;  groups.google.com/g/rec.games.trading-cards.jyhad/c/1TfQivzihxs/m/nfU6pqhstlQJ\n>\n> > The way I see it is that you aren't actually \"passing on blocking\n> > attempts\" but rather *cannot* attempt to block any more *at this time*\n> > due to lack of intercept or valid blockers.\n>\n> More precisely, you are declining to block (\"passing on blocking attempts\")\n> before you play Deflection.\n>\n> > For example, if the bleed\n> > gets bounced back to you somehow, a kind-hearted, yet self-interested\n> > Meth might then lend you intercept from a location, to prevent you from\n> > being ousted by said bleed, *after* you showed your bounce.\n>\n> Correct, since changing the target opens a new block window.\n>\nOverall it falls into category of targeted methuselah being able to attempt a block. If a card wished to get past that it would include unblockable in some fashion or another as some cards do.\n\nTrust in Jan Pieterzoon.",
+      "Id": "102991"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Aug 30, 2021, 5:08\u202FAM",
+      "Body": "These are not \"rules\" but rulings / clarification (even if the first is in the printed rulebook it is not presented as a rule but a FAQ).\n\nAs I see it, the new block window is here because the card says it and the ruling confirm that. Not the other way around.",
+      "Id": "102992"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 1, 2021, 6:58\u202FAM",
+      "Body": "> Timo wrote:\n> These are not \"rules\" but rulings / clarification (even if the first is in the printed rulebook it is not presented as a rule but a FAQ).\n>\n> As I see it, the new block window is here because the card says it and the ruling confirm that. Not the other way around.\n>\nThen that is faulty use of a reminder text, which by definition should not have authority. Reminder text can only remind of an existing rule. A card should work just the same if the reminder text was removed from the card. It cannot \"add\" new rules.\n>\n> 2. Resolve Any Block Attempts Who May Attempt to Block If the action targets one or more other Methuselahs or things controlled by other Methuselahs, then the action is called directed, and only the Methuselahs who are targeted may use their ready unlocked minions to attempt to block the action. If more than one Methuselah has been targeted by the action, blocking attempts are made in a clockwise order. If the action is not directed at another Methuselah or at something controlled by another Methuselah, then the action is called undirected and can be blocked by the acting Methuselah\u2019s prey or predator, with the prey getting the first opportunity to block. A minion can attempt to block as many times as they wish as long as another minion is not already blocking. If one attempt to block fails, another can be made as often as the blocking Methuselah wishes. Once a Methuselah decides not to make any further attempts to block, that decision is final.\n>\nThere are couple issues here. One is with the definition of a directed action, which could be improved by including the words \"or chooses cards controlled by other methuselahs\". There have been examples of cards which were ruled as directed actions even if they do not target. (condemn the sins of the father as an example). It might be also worth noting that a directed action can target multiple players at the same time, since that is not very intuititive.\n\nThe more pressing issue is that if a player declines to block before bouncing the bleed, they have declined to block that action. Where does it say they get a new attempt if the bleed is bounced back at them?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103017"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 1, 2021, 8:15\u202FAM",
+      "Body": "Actually, before a bounce card could be played, everyone at the table should have declined to block. So the new target of the bleed has already decline the block and per the rule : \"Once a Methuselah decides not to make any further attempts to block, that decision is final.\" should not be able to block.\n\nLet's be clear, I perfectly know how a bounce works. What I am trying to say is that I don't find in the rulebook which part I should use to know that after the target of a directed action has been changed everybody get a new opportunity to block.\nOr maybe it is only the new target of the bleed per card text but this specific bit of cardtext is right now only a reminder text and some bounce cards don't have it (redirection, lost in translation and my enemy's enemy)",
+      "Id": "103019"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 1, 2021, 3:49\u202FPM",
+      "Body": "> Timo wrote:\n> Actually, before a bounce card could be played, everyone at the table should have declined to block. So the new target of the bleed has already decline the block and per the rule : \"Once a Methuselah decides not to make any further attempts to block, that decision is final.\" should not be able to block.\n>\nBut they need Eagle to can block,but when bleed change target,new target can block bleed as D action on him,not need Eagle",
+      "Id": "103026"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 2, 2021, 8:34\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Timo wrote:\n> > Actually, before a bounce card could be played, everyone at the table should have declined to block. So the new target of the bleed has already decline the block and per the rule : \"Once a Methuselah decides not to make any further attempts to block, that decision is final.\" should not be able to block.\n> >\n> But they need Eagle to can block,but when bleed change target,new target can block bleed as D action on him,not need Eagle\n>\nI understand that. It is just that per the rules (as I read it), when the bounce is played, everybody have declined to block. And per the rules again, this decision is final.",
+      "Id": "103030"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 2, 2021, 8:56\u202FAM",
+      "Body": "> Timo wrote:\n> These are not \"rules\" but rulings / clarification (even if the first is in the printed rulebook it is not presented as a rule but a FAQ).\n>\n> As I see it, the new block window is here because the card says it and the ruling confirm that. Not the other way around.\n>\nThe rule \"Changing the target of an action opens a new blocking window\" will be added to the next version of the rulebook.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103031"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 17, 2021, 9:25\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Timo wrote:\n> > These are not \"rules\" but rulings / clarification (even if the first is in the printed rulebook it is not presented as a rule but a FAQ).\n> >\n> > As I see it, the new block window is here because the card says it and the ruling confirm that. Not the other way around.\n> >\n> The rule \"Changing the target of an action opens a new blocking window\" will be added to the next version of the rulebook.\n>\nI assume this doesn\u2019t mean that the action is considered a new one which makes the limitation of a minion not being allowed to play the same reaction card more than once during a single action still relevant.\nIf the bleed somehow is bounced back to a previously targeted methuselah then that methuselah can\u2019t have a previously used minion play an additional copy of the same previously played by that minion reaction card to bounce it again\u2026correct?",
+      "Id": "103152"
+    },
+    {
+      "Author": "lip",
+      "Date": "Sep 19, 2021, 7:23\u202FAM",
+      "Body": "Correct - it's still the same action.",
+      "Id": "103167"
+    }
+  ]
+}

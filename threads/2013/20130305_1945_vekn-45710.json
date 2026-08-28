@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-45710",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45710-playing-if-blocked-cards-after-blocks-have-been-declined",
+  "Title": "Playing \"...If Blocked\" cards after blocks have been declined.",
+  "Messages": [
+    {
+      "Author": "fredsct",
+      "Date": "Mar 5, 2013, 7:45\u202FPM",
+      "Body": "Mind of the Wilds states, \"If this action is blocked, this vampire gets an optional maneuver in the first round of the resulting combat, and the blocking minion cannot strike to end combat.\"\n\nIf a vampire with animalism and auspex takes an action and all opponents decline to block, can its controller still choose to play Mind of the Wild before resolving the action? One obvious reason to do this would be to get the card out of his hand even though he'd been saving it use for its superior version, which grants a point of stealth and which couldn't be used unless someone had tried to block.\n\nIn general, is there anything in the game which states that you cannot play a card with an \"...if blocked\" clause after blocks have already been declined. I don't recall any rule or ruling like that but it never hurts to ask.\n\nMind of the Wilds\nAction Modifier\n\n(ani)(aus): If this action is blocked, this vampire gets an optional maneuver in the first round of the resulting combat, and the blocking minion cannot strike to end combat.\n\n(ANI)(AUX): As above, with +1 stealth.",
+      "Id": "45710"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Mar 5, 2013, 7:50\u202FPM",
+      "Body": "I'd have to say \"Yes\" MotW can be played after blocks are declined.\n\nDuring a bleed action, there is clearly an opportunity for reactions to be played after blocks are declined. I'd assume such a timing window exists for non-bleed actions, though I'm not sure necessarily what extant reactions would qualify to be played at that time.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "45712"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 6, 2013, 12:58\u202FAM",
+      "Body": "There was something that I cannot now find about Mind Tricks not being playable in the circumstance which is being described here, but Pascal will have find that and tell us if it has any meaning here.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "45728"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Mar 6, 2013, 1:55\u202FAM",
+      "Body": "> Mind Tricks, Action Modifier, 1 blood\n> [dem] +1 stealth.\n> [DEM] As above, with an optional maneuver or press if combat occurs.\n>\nWhich reads...\n\nMind Tricks, Action Modifier, 1 blood\n[dem] +1 stealth.\n[DEM] +1 stealth, with an optional maneuver or press if combat occurs.\n\nIt's not really pertinent, to the inferior mind of the wilds question. Day Operation or Daring the Dawn seem like better comparisons.",
+      "Id": "45731"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2013, 6:42\u202FAM",
+      "Body": "> fredsct wrote:\n> If a vampire with animalism and auspex takes an action and all opponents decline to block, can its controller still choose to play Mind of the Wild before resolving the action?\n>\nYes. It's not \"only usable when the action is blocked\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "45741"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2013, 7:08\u202FAM",
+      "Body": "> KevinM wrote:\n> There was something that I cannot now find about Mind Tricks not being playable in the circumstance which is being described here, but Pascal will have find that and tell us if it has any meaning here.\n>\nProbably \"Mind of the Wilds\"\n\nSuperior Mind of the Wilds can't be played when stealth is not needed, that is correct.\n\nBase, on the other side, can be played after blocks have been declined.\n\nAction modifiers can be played after all blocks have been declined (with usual restrictions: can't gain stealth when not needed, can't gain +bleed on non-bleed actions, etc). The usual example is Daring the Dawn, but there are others (base Domain of Evernight, Dawn Operation, base Mind of the Wilds, ..)\n\nThat window is usually used to play Conditionings. \"Oh, so you don't block my bleed for 1? Let's make it a bleed for 4 then.\"",
+      "Id": "45744"
+    }
+  ]
+}

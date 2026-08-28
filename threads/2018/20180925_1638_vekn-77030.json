@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-77030",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77030-is-guardian-vigil-playable-after-the-block-succeeds",
+  "Title": "Is Guardian Vigil playable after the block succeeds?",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Sep 25, 2018, 4:38\u202FPM",
+      "Body": "Anarch vampire attempts to block and is successful. Can I play Guardian Vigil before combat?\n\nName: Guardian Vigil\n[AU:C]\nCardtype: Reaction\nDiscipline: Auspex/Celerity/Fortitude\nRequires an anarch. More than one discipline can be used when playing this card. This anarch attempts to block.\n[aus] +1 intercept, even if intercept is not yet needed.\n[cel] This anarch gets 1 optional maneuver in the resulting combat if he or she blocks.\n[for] This anarch does not lock for the block.\nArtist: Carmen Cornet",
+      "Id": "90759"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Sep 25, 2018, 6:00\u202FPM",
+      "Body": "Maybe this thread helps:\nwww.vekn.net/forum/rules-questions/76321-can-a-vampire-use-multiple-attempt-to-block-effects?start=0",
+      "Id": "90760"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 25, 2018, 8:40\u202FPM",
+      "Body": "The short answer from that thread is: yes.",
+      "Id": "90762"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 25, 2018, 10:04\u202FPM",
+      "Body": "i would say that the quoted thread doesn't answer the OP\n\nOnce the block is successfull, there is no place for another block attempt",
+      "Id": "90765"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Sep 25, 2018, 10:44\u202FPM",
+      "Body": "> Timo wrote:\n> i would say that the quoted thread doesn't answer the OP\n>\n> Once the block is successfull, there is no place for another block attempt\n>\nThis is exactly the point of confusion for many. A minion attempting to block and a minion who successfully blocks are actually the same thing, per the rulebook glossary definition of \"blocking minion.\" This is what the later pages of the other thread are explaining.\n\nSo Guardian Vigil can be played after a successful block, even though the card says \"this minion attempts to block.\" Because, again, per the rulebook glossary, an attempt to block and a successful block are the same. Even though the rest of the rulebook and the actual game mechanics would have one think otherwise (the rulebook does not equate a successful block with an attempt to block anywhere else other than the glossary).",
+      "Id": "90766"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 26, 2018, 6:49\u202FAM",
+      "Body": "> XZealot wrote:\n> Anarch vampire attempts to block and is successful. Can I play Guardian Vigil before combat?\n>\nYou can't play it once the block is successful, you must play it before.\nHowever, the following scenario is possible:\n\nActing Meth: A bleeds\nYou: B attempts to block.\nActing Meth: Blocked*\nYou: B plays Guardian Vigil\nActing Meth: Still blocked**\nYou: ok, combat then\n\n*: when he says \"blocked\", he should say \"no more stealth\" or \"no more effects\".\n**: he could play stealth at this point.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90768"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 26, 2018, 3:18\u202FPM",
+      "Body": "Thanks, for adding the clarity. I read \"successful block\" in the colloquial way that it gets used in lieu of \"I'm not adding more stealth, so you got me.\"",
+      "Id": "90774"
+    }
+  ]
+}

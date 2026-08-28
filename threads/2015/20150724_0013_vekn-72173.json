@@ -1,0 +1,176 @@
+{
+  "ThreadId": "vekn-72173",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/72173-twda-clan-breakdown",
+  "Title": "TWDA Clan Breakdown",
+  "Messages": [
+    {
+      "Author": "brettscho",
+      "Date": "Jul 24, 2015, 12:13\u202FAM",
+      "Body": "Hello! I've recently awaken from torpor and am just in the process of getting back into the game. I'm a frequent reader of ICLee's excellent gaming blog ( which you can find here ), and I noticed that in one of his posts, he lamented that TWDA no longer separated decks by clan. I agreed that this was a shame, and thought that I could start to put together a google sheet in which I could track clan wins. The URL for that google doc is included at the end, for those who want to skip down to it.\n\nSo the first thing I had to do was to figure out how to display all of the information. I tried a couple of different formats, and while I'm not 100% sold on the one I'm currently using, I think it is fairly workable. Each clan is given a pair of columns, one of which tracks the number of participants at the tournament in question, the second which states the name of the winner, the Crypt Groups used, and the country where the event took place. The information in this second column also provides a link to TWDA to the specific deck in question. Finally, the decks with no clan affiliation have a 1-2 word descriptor next to them to indicate the type of deck I think it is (Tupdog, Weenie Vote, MMPA, etc). These are simply included so that somebody can search those decks for an archetype of interest. They aren't meant to be a firm analysis of the deck, just a guide.\n\nOn a separate tab, I have tracked the number of events for each year (well, 2013, 14, 15 - I'll work on earlier years over time), the number of attendees, and the average tournament attendance.\n\nFinally, on a third tab, I have kept track of how many wins each clan accumulated during the course of a given year, and which Crypt Groups were used by those winning decks. This gives some very interesting information that I could see somebody wanting to run statistical analysis on at a later time. For example, 2013-2015 have featured 22 Tzimisce decks, but only 2 of those have not used the original group 2/3 crypt.\n\nOk, so that's what the information looks like, and how it's organized, but how did a deck end up with a specific Clan affiliation? Well, I know that the Lasombra previously kept TWDA separated by clan, but I don't know what criteria he used to assign a deck an affiliation. So, by my logic, a deck can only be considered to be part of a specific clan if >50% of the Crypt cards belong to the same clan, and if there are at least 2 different vampires of that clan in the Crypt. A Tupdog deck would easily meet the first criteria, but it clearly isn't a Gargoyle Clan deck, it's a Tupdog deck, so the second criterion is there to prevent star vampire decks from being listed as belonging to the clan of their star vampire.\n\nOk, without further ado, here's the link:\n\nTWDA Clan Breakdown Google Doc\n\nNow, I intend to keep this google doc up to date. As new decks are added to TWDA, I'll add them here. But I'm curious if anybody has feedback for me on how to make this a more useful resource to the community. That's really what I'm hoping to do here - make something that people will use to generate deck ideas, refine their own decks, and perhaps spark some good conversations about how Clan X is doing (for example, I notice that almost every winning Gangrel deck is a Stanislava deck with a few Gangrel buddies, what does that say about Clan Gangrel?). So I welcome feedback and suggestions for improving this google doc into a better and better resource community. Thanks for your comments, hope you enjoy!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72173"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Jul 24, 2015, 10:20\u202FAM",
+      "Body": "Nice work!\nOnly comment I have right now is that under these rules the scarce bloodlines have a real hard time getting a clan based entry. Not that winning with say Abominations is that easy to begin with.",
+      "Id": "72177"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Jul 24, 2015, 12:03\u202FPM",
+      "Body": "> brettscho wrote:\n> Well, I know that the Lasombra previously kept TWDA separated by clan, but I don't know what criteria he used to assign a deck an affiliation.\n>\nLasombra Jeff's criteria were:\n\n- at least 5 members of a given clan\n- not more than the representation of any other clan\n\nOne could \"double dip\" by having 5 vampires of one clan and 5 of another, getting credit for both.\n\nGreat work, btw!",
+      "Id": "72178"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jul 24, 2015, 4:57\u202FPM",
+      "Body": "Hi Ben - Thanks for letting me know! With all of the massive amount of respect that is due to Lasombra Jeff and the awesome work that he did, I don't think that allowing a deck to count as two different clans is a good idea for a couple of reasons. First, as it stands, the google doc I'm putting together allows you to do some statistics on how many people attend VTES events each year, which crypt groups are most popular, etc. These statistics won't work out if certain decks are represented twice in the spreadsheet. That's the practical concern. From a philosophical perspective, I'm a little uncomfortable with a deck proclaiming multiple clan affiliations in the same way I'd be uncomfortable with a deck claiming multiple sect affiliations (assuming we wanted to track sect). You can have a Camarilla deck, a Sabbat deck, or a mixed deck, but you can't have a deck that simultaneously owes allegiance to the Camarilla and to the Sabbat. Perhaps I'm just over thinking it.\n\nPoint is - Jeff's previous criteria sound fine, but I don't think I'd be interested in continuing with that tradition.\n\n> Whisker wrote:\n> Only comment I have right now is that under these rules the scarce bloodlines have a real hard time getting a clan based entry. Not that winning with say Abominations is that easy to begin with.\n>\nThank you! I agree that I wouldn't expect the scarce bloodlines to have any decks. Imagine my surprise when the Salubri pulled off two wins in 2013! And neither deck included Saulot! So it certainly can be done, but I agree that I wouldn't expect to see any Abombination or Nagaraja decks. What's interesting to me is that there haven't been any Blood Brothers decks at least since 2013. But thanks for your comments!\n\nDoes anybody have any suggestions on how to improve this resource? Would anybody actually use it? Thanks again!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72181"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jul 26, 2015, 7:40\u202FAM",
+      "Body": "> BenPeal wrote:\n>\n> > brettscho wrote:\n> > Well, I know that the Lasombra previously kept TWDA separated by clan, but I don't know what criteria he used to assign a deck an affiliation.\n> >\n> Lasombra Jeff's criteria were:\n>\n> - at least 5 members of a given clan\n> - not more than the representation of any other clan\n>\n> Great work, btw!\n>\nDoes having 50 copies of shalmath, and another 10 vamps, count?",
+      "Id": "72195"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jul 26, 2015, 4:20\u202FPM",
+      "Body": "> Blooded wrote:\n> Does having 50 copies of shalmath, and another 10 vamps, count?\n>\nIt looks like such a deck would have counted as a True Brujah deck using the old criteria. However, my current system would categorize that as an unaligned deck because that isn't really a True Brujah deck, it's just a Shalmath deck. Now, you could get tricksy and have one of those other 10 vampires be True Brujah, and then BAM - your deck is now a True Brujah deck. But at least that way you have a chance of having 2 True Brujah on the table at the same time. Close enough for me\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72204"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 26, 2015, 7:55\u202FPM",
+      "Body": "I disagree with the assertion that it's not a Trujah deck. Most Trujah decks will revolve around a single vampire (Shalmath, Krassimir, Al-Muntathir etc) due to their special abilities and the scarce penalty. Seems odd omitting them as a clan entry.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "72231"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jul 27, 2015, 2:23\u202FAM",
+      "Body": "> Ke. wrote:\n> I disagree with the assertion that it's not a Trujah deck. Most Trujah decks will revolve around a single vampire (Shalmath, Krassimir, Al-Muntathir etc) due to their special abilities and the scarce penalty. Seems odd omitting them as a clan entry.\n>\nReally, the main reason that I have for not dropping the 2+ different vampire of the same clan requirement is that dropping it wouldn't really help the scarce clans. There are only a few decks that feature a superstar vampire in large numbers. Tupdogs, Anarch Converts, and Cybele (with Etrius' gem) are the only that spring to mind. Most normal \"star vampire\" decks have 5-ish copies of their star vampire. So what is really stopping Trujah star decks from being considered Trujah clan decks (with my definition) is not that they run only 1 Trujah, but that only 5/12 of their Crypt cards are Trujah. If the 2+ different vampire requirement was waved, no scarce clan would actually gain any entries (at least, not with the decks I've categorized thus far). Dropping the requirement would simply add a bunch of Gargoyle and Baali decks to the list (Tupdogs win a couple of times every year, and Etrius's Gem Cybele seems moderately popular). And frankly, I don't see that as a good thing.\n\n*shrug* Maybe I'll run into a bunch of non-tupdog, non-Cybele star vampire decks with 7+/12 crypt cards being the star vampire and that will force me to re-evaluate my definition. As for the scarce clans - yeah, they might not be doing awesome, but Salubri and True Brujah both have entries since 2013!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72232"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Jul 27, 2015, 2:52\u202FAM",
+      "Body": "I get the sense that Lasombra Jeff's rules were pretty well established as the rules to judge clanniness. It's your project, of course, so feel free to use whatever criteria you like, but I suspect you'll run into at least a bit of resistance to convincing people to see your criteria as superior. The TWDA's clan criteria were kind of an institution...",
+      "Id": "72234"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jul 27, 2015, 3:29\u202FAM",
+      "Body": "> Kushiel wrote:\n> I get the sense that Lasombra Jeff's rules were pretty well established as the rules to judge clanniness. It's your project, of course, so feel free to use whatever criteria you like, but I suspect you'll run into at least a bit of resistance to convincing people to see your criteria as superior. The TWDA's clan criteria were kind of an institution...\n>\nAn institution that died when Lasombra Jeff stopped hosting TWDA, which was... what? 2+ years ago? I mean no disrespect or offense, but it seems that nobody has been willing to step into Jeff's massive shoes and carry on his traditions. So at the moment, the options appear to be to continue to have no collection of clan decks, or to go with mine which features a slightly different (and I think more logical for the many reasons listed in previous posts) definition of what constitutes a clan deck. I'm a little shocked at the insinuation that the community would rather go without than slightly tweak a definition. Of course, if somebody else wants to take up this torch and carry on Lasombra Jeff's work with his definitions, then I'm more than happy to fade into the background.\n\nI must confess myself a bit amused / disappointed that the only thing that people want to discuss is what constitutes a clan deck, and not what the data show. Perhaps that's just an indication that the community has little / no need to organize TWDA by clan, or to track world-wide attendance, or to see how many winning decks utilize which crypts. But I find such an idea to be a little surprising.\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72235"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Jul 27, 2015, 4:57\u202FPM",
+      "Body": "Thanks for your work, it's nice to see it. I appreciate it, probably some other not so vocal people around there appreciate it too.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "72275"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jul 27, 2015, 7:31\u202FPM",
+      "Body": "I appreciate the time dedicated to this. Im also quite fond of showing grouping concentrations (you know, so I can easily prove G2 Samedi are superior and such).\n\nHowever you feel is appropriate to decide clan is your call, and I like a system that doesnt show gargolyes winning 200 times, when 197 of those are tupdogs. Also, storyline legal decks may not technically fall into this system, which I find interesting. Many great decks simply arent mono-clan oriented, and theres no reason to pretend otherwise.\n\nLooks cool so far.",
+      "Id": "72276"
+    },
+    {
+      "Author": "ICL",
+      "Date": "Jul 27, 2015, 9:51\u202FPM",
+      "Body": "> Kushiel wrote:\n> I get the sense that Lasombra Jeff's rules were pretty well established as the rules to judge clanniness. It's your project, of course, so feel free to use whatever criteria you like, but I suspect you'll run into at least a bit of resistance to convincing people to see your criteria as superior. The TWDA's clan criteria were kind of an institution...\n>\nHuh?\n\nThere might have been a system, but \"rules\"? When I looked at someone's five copies of one dude plus some other stuff, I didn't think clan deck. When I saw 12 copies of the same dude, I didn't think clan deck. When I saw 5/5/1/1, 5/5/2, 6/6, I didn't think clan deck. I didn't argue about it because someone was doing a ton of work to support the game, and I wasn't going to start my own project to do it differently.\n\nWhen one of my decks showed up under Toreador because it had 7 Toreador ... out of 21 vampires, I just thought it was an amusing consequence of an arbitrary system devised to try to put some sort of meaning to raw data.\n\nEvery system is going to be one of opinion. Is a deck with 7 vampires of one clan and 5 others that plays zero of the clan's disciplines and zero clan requiring cards a clan deck? Not in my mind. But, to put in some criterion so awkward that it accounts for this case just wastes time, so we live with lumping these things under a clan.\n\nTwo things of value can come out of slicing the data by clan. One is fun. Some people like to check off the clans or whatever. I played certain clans for a long time because they lacked any wins under Jeff's system, though I used my own criteria for what constituted a deck of a particular clan. The second is that we have nothing else to give us any sense of what is good or not than the TWDA. I used to track wins by clan each year because I thought it was interesting how what people seemed to be saying was at odds with reality or because how history changed dramatically over time and trying to determine what caused the trends in the data might give a clue as to what matters in making something better.\n\nIf you were going to base decisions on what to create to help at the clan level, dearth of victories could help with prioritization. Danse Macabre seemed to aim for helping worse Sabbies, though it seemed to also identify !Gangrel as one of those when !Gangrel have done really well in stretches (where Pander constantly get shafted). KoT certainly did a lot for Brujah, who historically have sucked in an apples to apples comparison, gave Nosferatu Dominate. And, so on.\n\nAnyway, it's entirely possible to come to some sort of majority view on these things, but to assume something has to be the way it is because it has always been that way leads to such things as not addressing fundamental flaws in game play.\n\nTraveller Card Game",
+      "Id": "72278"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jul 28, 2015, 3:33\u202FAM",
+      "Body": "I also think that this is a more satisfying way to define the concept of a \"clan deck\". A superstar deck is not a clan deck, because a clan is a group, and a superstar is an individual.\n\nThat said, I'm not sure I see the use of tracking the success of clan decks against each other. I think archetypes, like those discussed on the VTES ONE blog, are more relevant for the game. It happens that most archetypes, for example, Triple AAA, Venture Law Firm, and Renegade Garou, end up classifying as clan decks. But not all do, like most weenie decks, Inner Circle Vote, or many superstar decks. Do the clan TWDs represent known \"archetypes\" or a more general \"clan deck\"? I think of a clan deck as one that uses all three clan disciplines, features two or more clan cards, and includes vampires with a range of capacities from that clan.\n\nThis information seems useful for either one, tracking archetypes that we know go with certain clans and groupings or two, seeing what groupings in the clans lend themselves to archetype status.\n\nOne problem is that decks that focus on a Camarilla clan and its Sabbat counterpart will not be considered a clan deck, even though they essentially function as such. My OBF POT deck from 2013 that is in the Unaligned column had only three vampires out of 12 vampires that were neither  or  It sure felt like a clan deck to me.\n\nTechnical question: Why are there stats for 2015 and 2012, but not 2013 and 2014?",
+      "Id": "72279"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jul 28, 2015, 2:27\u202FPM",
+      "Body": "Hi Aaron - Thanks for your comments! I actually agree with you regarding tracking archetypes rather than clan decks (or perhaps in addition to), and I've tried to do this a little bit by tagging the unaligned decks with a short descriptor of what they are. Frankly, many of these tags (like \"Star Vampire\") aren't useful, but a few (like \"DOM bleed\" and \"Weenie Vote\") are. But my simple attempt to tag the unaligned decks reveals the real problem with this system: what criteria should be used to have a deck fit into one archetype or another? How tightly should a deck adhere to the \"core\" of the archetype, or how much should they be allowed to stray? And even if we could create some solid criteria, the problem then becomes my judgement, and how accurately it can assign archetypes to decks. Trust me when I say that we don't want me categorizing all the decks. I think I'm getting better as I go back in time, but a lot of my early tags are just horribly inaccurate.\n\nAll of that having been said, I will continue to refine those tags and try to make them more useful. Maybe I should start tracking them separately....\n\nAs to your comment about Cam clans and their antitribu counterparts, again, I completely agree with you! I've always thought of the Nos and !Nos as being the same clan, albeit with different allegiances. I remember seeing your deck (names I know stand out to me), and a bunch of Tremere / !Tremere decks and even a few Malk / !Malk decks and being a little disappointed that these were getting categorized as \"unaligned\" when their creators had clearly had a clan-like theme in mind. Perhaps that is a fault of my definition. But for better or worse, the game considers the antitribu to be separate clans, and if I'm going to track clan decks, I'm not sure it's appropriate to put those decks in with the \"pure\" clan decks. What do people think - is it better to consider the antitribu as the same clan, or as a different clan?\n\nOh, and finally, about the stats - the front tab only contains win stats for years that I'm currently working on (so I'm still transposing 2012 decks, and 2015 obviously isn't over yet). All the completed years can be found on the second tab (\"Clan Statistics\"). Once I finish a year, those stats get moved to this page and deleted from the first page (so that it doesn't get overly cluttered. The separate tab is really much better for tracking statistics. And finally, the over all attendance is tracked in a third tab. Interesting to see how the average number of attendees is pretty much the same from 2013 to present, but the number of events is steadily going down.... The last analysis that I might do for attendance is to track individual events like National Championships, or something. Might be interesting to see how those numbers have changed over time.\n\nAnyway, hope all that rambling helped! Hope to see you in Nor Cal soon (and / or we'll just have to come down to one of your tournaments)!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72283"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Jul 28, 2015, 7:18\u202FPM",
+      "Body": "For those interested - I just finished cataloging 2012. Also, I got rid of the \"Attendance\" tab, and simply integrated that information into the statistics page. I'll start on 2011 sometime in the near(-ish) future.\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72288"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Aug 10, 2015, 4:40\u202FPM",
+      "Body": "Does anybody know how often the TDWA gets updated these days? I'm trying to decide if I should start adding entries for decks that have been posted on the forums, but haven't yet made it to the TDWA. It looks like there are about a month worth of tournaments that haven't made it up yet. Thanks!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72446"
+    },
+    {
+      "Author": "Asnek",
+      "Date": "Aug 10, 2015, 6:03\u202FPM",
+      "Body": "> brettscho wrote:\n> Does anybody know how often the TDWA gets updated these days? I'm trying to decide if I should start adding entries for decks that have been posted on the forums, but haven't yet made it to the TDWA. It looks like there are about a month worth of tournaments that haven't made it up yet. Thanks!\n>\nit's simple... now quite often. reason is simple. closing of EC means lot of older tournaments are entered in and as well there are few tournaments for last moment qualification\n(we do hold our national championship week before EC  )\n\nassholepopulation.com/\nDid u saw one today?",
+      "Id": "72447"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 11, 2015, 4:32\u202FAM",
+      "Body": "> brettscho wrote:\n> Does anybody know how often the TDWA gets updated these days? I'm trying to decide if I should start adding entries for decks that have been posted on the forums, but haven't yet made it to the TDWA. It looks like there are about a month worth of tournaments that haven't made it up yet. Thanks!\n>\nI update it approximatively once a month, as well as the Hall of Fame. There are currently 12 TWD waiting to be added.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72453"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Aug 11, 2015, 4:19\u202FPM",
+      "Body": "> Ankha wrote:\n> I update it approximatively once a month, as well as the Hall of Fame. There are currently 12 TWD waiting to be added.\n>\nHi Ankha - thanks for the information! I honestly didn't know how the system worked, and was just curious. Didn't mean to poke or bother you. Thanks for keeping the system updated! I'll keep putting those into my google doc as they get added to TWDA, then!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72466"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Aug 12, 2015, 7:35\u202FPM",
+      "Body": "For those interested - 2011 is now completely included in my document, and 2015 has been updated and is current. Is there any interest in getting this thread (or a link to this google doc) stickied? Hope you all enjoy!\n\nP.S. Poor Nos Anti's - they're not doing much better than Catiff or Pander\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72488"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 13, 2015, 6:39\u202FAM",
+      "Body": "> brettscho wrote:\n> For those interested - 2011 is now completely included in my document, and 2015 has been updated and is current. Is there any interest in getting this thread (or a link to this google doc) stickied? Hope you all enjoy!\n>\n> P.S. Poor Nos Anti's - they're not doing much better than Catiff or Pander\n>\nI can host it with the TWDA:  www.veknfrance.com/decks/TWDA Clan Breakdown.xlsx\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72492"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Aug 13, 2015, 1:22\u202FPM",
+      "Body": "Ankah - that looks good, but since this is a living document that is being updated frequently (I still have so many years to add to it!), perhaps it would be best to simply include a link to it (like in my sig). But thank you - I think it will get much more attention from the TWDA than from my sig\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72497"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 13, 2015, 2:03\u202FPM",
+      "Body": "> brettscho wrote:\n> Ankah - that looks good, but since this is a living document that is being updated frequently (I still have so many years to add to it!), perhaps it would be best to simply include a link to it (like in my sig). But thank you - I think it will get much more attention from the TWDA than from my sig\n>\nYou're right, I'll add a link on the vekn.net website.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72498"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Aug 23, 2015, 3:27\u202FAM",
+      "Body": "2010 has been added to my document. Hope you enjoy!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "72657"
+    },
+    {
+      "Author": "Erol",
+      "Date": "Sep 1, 2015, 7:19\u202FAM",
+      "Body": "Nice work, I am big fan of statistics!\n\n- Prince of Karlsruhe, Germany",
+      "Id": "72859"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Sep 1, 2015, 2:25\u202FPM",
+      "Body": "me too!\n\nLurking in the underground of Bologna, Italy",
+      "Id": "72866"
+    },
+    {
+      "Author": "brettscho",
+      "Date": "Oct 7, 2015, 4:44\u202FPM",
+      "Body": "The google doc has been updated to include all the new tournaments entered into TWDA. It is now complete all the way back to 2007. Hope you enjoy!\n\nCheck out my VTES blog:  Gaming with BS\n\nI also host a  google doc which separates the TWDA into clans . That means I track how often clans win, which crypt groups get used, and how many people attend events. You can access all of that info here:",
+      "Id": "73555"
+    }
+  ]
+}

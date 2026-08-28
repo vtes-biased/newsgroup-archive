@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-31594",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/31594-target-xyz-and-non-damage-strikes",
+  "Title": "Target:XYZ and Non-Damage Strikes",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 2, 2012, 4:48\u202FAM",
+      "Body": "Do Target:XYZ cards actually stack with non-damage strikes?\ne.g. Would Target: Head deal damage with a Tongue of the Serpent or Coma?\n\nFor example:\n\nTarget Head\nType: Combat\nAim. Play when choosing a strike.\nThe strike does +2 damage. The opposing minion may discard a combat card [COMBAT] to cancel this card. If any damage from this strike is successfully inflicted on the opposing minion, he or she cannot use any additional strikes or presses this round, and you may set the range for the next round. A minion may play only one aim each strike.\n\nTarget Vitals\nType: Combat\nAim. Play when choosing a strike.\nIf any damage from this strike is successfully inflicted on the opposing minion, he or she takes an additional 2 damage from this strike, and he or she cannot press this round. The opposing minion may discard two combat cards [COMBAT] to cancel this card. A minion may play only one aim each strike.\n\nTheft of Vitae\nType: Combat\nRequires: Thaumaturgy\n[tha] Strike: ranged. Steal 1 blood.\n[THA] Strike: ranged. Steal 2 blood.\n\nTongue of the Serpent\nType: Combat\nRequires: Serpentis\n[ser] Strike: steal 1 blood.\n[SER] Strike: steal 2 blood.\n\nComa\nType: Combat\nRequires: Dementation\nCost: 3 blood\n[dem] Strike: opposing vampire goes into torpor.\n[DEM] As above, and that vampire does not untap as normal during his or her controller's next untap phase.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "31594"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jun 2, 2012, 6:48\u202FAM",
+      "Body": "A ruling specified that you cannot increase damage on non damage dealing strike. It traces back to the questions about Reverend Blackwood who inflicts +1 damage with strike that requires , but of course doesn't work with the thefts of vitae.\nYou can play the aim cards to cycle though.\nHopefully somebody will come with a link providing LSJ's answer\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "31597"
+    },
+    {
+      "Author": "hardyrange",
+      "Date": "Jun 2, 2012, 7:00\u202FAM",
+      "Body": "I think card text gives an explanation here:\n\nThe Traget: XYZ cards state \"If any damage from this strike is successfully inflicted on the opposing minion,\"...\n...which means that the Target: XYZ card does excatly nothing if the underlying strike does not deal damage in the first place.\n\n\"It was a perfect plan - until it had contact with reality\"\n---\nHardy Range\nPlaygroup Tradition Compliance Manager",
+      "Id": "31598"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jun 2, 2012, 7:15\u202FAM",
+      "Body": "> hardyrange wrote:\n> I think card text gives an explanation here:\n>\n> The Traget: XYZ cards state \"If any damage from this strike is successfully inflicted on the opposing minion,\"...\n> ...which means that the Target: XYZ card does excatly nothing if the underlying strike does not deal damage in the first place.\n>\nyour explanation would be perfect if target head did not feature the text \"This strike does +2 damage\"\n\nThere's a ruling however... Let's wait for the link-providing rulemongers\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "31600"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 2, 2012, 8:43\u202FAM",
+      "Body": "You can play it, like you can play Lucky Blow on a Rowan Ring strike (though it has no effect to add damage to a non-damaging strike).\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/635fc1ba3c4e602e/49b498fd16876054?hl=fr&lnk=gst&q=rowan+lucky+blow+lsj#49b498fd16876054\nand\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/255ce15c5dbcf004/d70abf55abd6a79b?hl=fr&lnk=gst&q=vitals+theft#d70abf55abd6a79b\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "31603"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 3, 2012, 4:54\u202FPM",
+      "Body": "> Ankha wrote:\n> You can play it, like you can play Lucky Blow on a Rowan Ring strike (though it has no effect to add damage to a non-damaging strike).\n>\n> groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/635fc1ba3c4e602e/49b498fd16876054?hl=fr&lnk=gst&q=rowan+lucky+blow+lsj#49b498fd16876054\n> and\n> groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/255ce15c5dbcf004/d70abf55abd6a79b?hl=fr&lnk=gst&q=vitals+theft#d70abf55abd6a79b\n>\nSemi-correct.\n\"You can play it, like you can play Lucky Blow on a Rowan Ring strike. It won't add any damage, but if you use, say, Target Vitals on a Rowan Ring strike, the opponent can discard 2 cards to cancel it as it is played.\"",
+      "Id": "31669"
+    }
+  ]
+}

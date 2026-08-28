@@ -1,0 +1,140 @@
+{
+  "ThreadId": "vekn-35604",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/35604-anarch-ing-parmenides",
+  "Title": "Anarch-ing Parmenides",
+  "Messages": [
+    {
+      "Author": "js_vtes",
+      "Date": "Aug 30, 2012, 1:47\u202FAM",
+      "Body": "When you influence out Parmenides, is there an opportunity to make him Anarch using, for example, Anarch Convert or Twilight Camp, before he slides over to your predator?\n\nOr might one be better off just using Seattle Committee after he comes back to your control?\n\nThanks!\n\nParmenides\nCardtype: Vampire\nClan: Assamite\nGroup: 2\nCapacity: 4\nDiscipline: qui CEL\nIndependent: When you move Parmenides from your uncontrolled region to your ready region, your predator takes control of Parmenides until your next untap phase. +1 strength. Blood cursed.\n\nAnarch Convert\nCardtype: Vampire\nClan: Caitiff\nGroup: ANY\nCapacity: 1\nDiscipline: -none-\nIndependent. Anarch: When the convert enters play, you may remove him from the game to make a non-titled vampire you control anarch and either gain 1 pool or draw a card from your crypt.\n\nTwilight Camp\nCardtype: Master\nMaster.\nPut this card in play with 4 counters. When you put a non-titled, non-anarch vampire in play from your uncontrolled region, you may burn a counter from this card to make that vampire anarch (and independent). You may burn a counter from this card to add a blood to an anarch as a master phase action. Burn this card when it has no counters.",
+      "Id": "35604"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 30, 2012, 5:06\u202FAM",
+      "Body": "> js_vtes wrote:\n> When you influence out Parmenides, is there an opportunity to make him Anarch using, for example, Anarch Convert or Twilight Camp, before he slides over to your predator?\n>\nTwilight Camp: Yes. He's moved in play from your uncontrolled area during your influence phase.\n\nAnarch Convert: No. When Parmenides is influenced out, your predator takes control of him. Then, other vampires might move to your ready region during that influence phase, but you won't be controlling Parmenides anymore.\n\n> js_vtes wrote:\n> Or might one be better off just using Seattle Committee after he comes back to your control?\n>\nSeattle Committe is only usable if Parmenides didn't become an anarch, which is something that might occur during your predator's turn",
+      "Id": "35610"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Aug 30, 2012, 9:16\u202FAM",
+      "Body": "What happens if you \"Chain of Command\" Parmenides?\n\nChain of Command\n+1 stealth action.\n[dom] Put X younger vampires from your uncontrolled region in play with 1 blood from the blood bank each (in addition to any blood they already have). You cannot choose any unique vampires already in play. Those vampires must bleed. When one of them bleeds successfully, or when all that can bleed have, move them all to the bottom of your crypt.\n[DOM] As above, but move X+1 younger vampires.",
+      "Id": "35629"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 30, 2012, 10:47\u202FAM",
+      "Body": "Card text suggests that he would bleed you.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "35632"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Aug 30, 2012, 11:28\u202FAM",
+      "Body": "> wesile wrote:\n> What happens if you \"Chain of Command\" Parmenides?\n>\n> Chain of Command\n> +1 stealth action.\n> [dom] Put X younger vampires from your uncontrolled region in play with 1 blood from the blood bank each (in addition to any blood they already have). You cannot choose any unique vampires already in play. Those vampires must bleed. When one of them bleeds successfully, or when all that can bleed have, move them all to the bottom of your crypt.\n> [DOM] As above, but move X+1 younger vampires.\n>\nParmenides goes to your predator, if he can bleed (you do chain of command during your predator's turn with enkil cog or with a malkavian under malkavian madness network) he bleeds, if he can't (the normal case scenario) tha part of Chain of command cardtext \"When one of them bleeds successfully, or when all that can bleed have, move them all to the bottom of your crypt\" applies and Parmenides is shuffled back in your crypt.",
+      "Id": "35634"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 30, 2012, 11:51\u202FAM",
+      "Body": "> wesile wrote:\n> What happens if you \"Chain of Command\" Parmenides?\n>\nLet's look at it in slow-mo, in two different cases:\n\n* Case 1: Parmenides is the only guy in your Chain. He moves to your predator. Can he bleed? 99% of the time, the answer will be \"no\" (other cases are: someone turned him Malkavian and there's the Madness Network in play, or you are playing Malkavians and acting during your predator's turn - in these cases, he must bleed). So, since he can't bleed, CoC returns him under your crypt.\n\n* Case 2: Parmenides is brought with other chaps. He moves to your predator. I'll suppose he can't bleed. Those who can bleed (the other CoC'd fellows) must bleed. When one successfully bleeds, or when all that can bleed (this doesn't include Parmenides) have, move all (this includes Parmenides) to your crypt.\n\n@acbishop: No shuffling with Chain of Command",
+      "Id": "35636"
+    },
+    {
+      "Author": "js_vtes",
+      "Date": "Aug 31, 2012, 1:55\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > js_vtes wrote:\n> > When you influence out Parmenides, is there an opportunity to make him Anarch using, for example, Anarch Convert or Twilight Camp, before he slides over to your predator?\n> >\n> Twilight Camp: Yes. He's moved in play from your uncontrolled area during your influence phase.\n>\nCool. To confirm, Twilight Camp would also work thusly if Parm is brought into play during the minion phase by Undue Influence at [qui], correct?\n\nUndue Influence\n[KMW:C]\nCardtype: Action\nDiscipline: Chimerstry/Presence/Quietus\n+1 stealth action. Requires a ready anarch. Choose a vampire in your uncontrolled region.\n[chi]  Move 1 blood from an uncontrolled minion in any uncontrolled region to the chosen vampire.\nBleed. If the bleed is successful, put 1 blood counter on the chosen vampire.\n[qui] Put 1 blood counter on the chosen vampire. If the number of counters equals or exceeds his or her capacity, move that vampire to your ready region.\n\n> Pascal wrote:\n> Anarch Convert: No. When Parmenides is influenced out, your predator takes control of him. Then, other vampires might move to your ready region during that influence phase, but you won't be controlling Parmenides anymore.\n>\nAh, OK. I thought I'd seen something somewhere that said everybody's technically influenced up at the same time, but the one-at-a-time sequencing makes more sense to my simple brain.\n\n> Pascal wrote:\n>\n> > js_vtes wrote:\n> > Or might one be better off just using Seattle Committee after he comes back to your control?\n> >\n> Seattle Committe is only usable if Parmenides didn't become an anarch, which is something that might occur during your predator's turn\n>\nIndeed. Though it would be a pretty benign predator that would choose to enable their prey's strategy rather than just bleeding or trying to get Parm killed somehow.",
+      "Id": "35653"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 31, 2012, 4:59\u202FAM",
+      "Body": "> js_vtes wrote:\n> To confirm, Twilight Camp would also work thusly if Parm is brought into play during the minion phase by Undue Influence at [qui], correct?\n>\nIndeed correct.\n\n> js_vtes wrote:\n> Ah, OK. I thought I'd seen something somewhere that said everybody's technically influenced up at the same time, but the one-at-a-time sequencing makes more sense to my simple brain.\n>\nIt's also simpler to remember that you can't bypass the scarce rule by influencing out two scarce vampires in the same influence phase, hoping there would be no scarce penalty to pay.",
+      "Id": "35658"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Aug 31, 2012, 6:53\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > wesile wrote:\n> > What happens if you \"Chain of Command\" Parmenides? Let's look at it in slow-mo, in two different cases:\n> >\n> > * Case 1: Parmenides is the only guy in your Chain. He moves to your predator. Can he bleed? 99% of the time, the answer will be \"no\" (other cases are: someone turned him Malkavian and there's the Madness Network in play, or you are playing Malkavians and acting during your predator's turn - in these cases, he must bleed). So, since he can't bleed, CoC returns him under your crypt.\n> >\n> Thought so... but I was troubled by the change of controller. So you have a vampire that is out of your control but its still under influence of a card that you have played.\n>\n> Does the other player have the windows to use heidelberg or similar effects?\n>",
+      "Id": "35671"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 31, 2012, 7:24\u202FAM",
+      "Body": "> wesile wrote:\n>\n> > wesile wrote:\n> > What happens if you \"Chain of Command\" Parmenides {alone}?\n> >\n> Does the other player have the windows to use heidelberg or similar effects?\n>\nHmm, triggered vs impulse. Good question. I would tend to say No, but I need to check that one.",
+      "Id": "35676"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Aug 31, 2012, 6:04\u202FPM",
+      "Body": "I'm confused - is there any scenario where Parmenide's control is any different than:\nA. Like Spirit Marionette in reverse, so yes - temporary controller can use Heidelberg Castle.\nB. Longer than A so there's even more time to use it.\n\nIf your question is about using it yourself, thus during the resolution of an action, I would say you can't.\n\nGood one Eliseu.\nYou're getting people confused. In a good way, I guess.\n\nTiago",
+      "Id": "35698"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 31, 2012, 6:21\u202FPM",
+      "Body": "The same question can also arise with Rabbat, and in that case the situation is a bit simpler since only one player is involved.",
+      "Id": "35699"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 3, 2012, 9:07\u202FAM",
+      "Body": "Here's the only reference I could find:\n\n[LSJ 20040518]  wrote:\n>\n> > #8. A. If Chain of Command is played to bring out a single vampire (with 1\n> > blood) and you then Heidelburg the blood off, the Chained vampire is stuck,\n> > right? (must hunt and must bleed so can't do anything). Assuming that he\n> > remains in this state, does he stay in play indefinitely then?\n>\n> No. Chain of Command's card text handles this: \"when all that can bleed\n> have\".\n>\n> > B. Similarly, if you Chain of Command 4 Aabt Kindred's into play and you never\n> > bring out Nefertiti, these little critters stay around, correct? (Though they\n> > can't take any actions, even undirected, now).\n>\n> No, as above.\n>\nMy answer here is: Since we have that \"Freak Drive\" window, let's use it.\nIn that window, Rabbat (or a Pentex'd guy) would be moved back to your crypt.\nAabbt Kindred (provided you have no Nefertiti) are moved back to your crypt.\nParmenides would be moved back to your crypt, if his controller can't have him act.\n\nThis means Heidelberg is not usable to move the blood from Parmenides / Rabbat to a minion you control.",
+      "Id": "35813"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 4, 2012, 6:45\u202FPM",
+      "Body": "> Pascal wrote:\n> Here's the only reference I could find:\n>\n> [LSJ 20040518]  wrote:\n> >\n> > > #8. A. If Chain of Command is played to bring out a single vampire (with 1\n> > > blood) and you then Heidelburg the blood off, the Chained vampire is stuck,\n> > > right? (must hunt and must bleed so can't do anything). Assuming that he\n> > > remains in this state, does he stay in play indefinitely then?\n> >\n> > No. Chain of Command's card text handles this: \"when all that can bleed\n> > have\".\n> >\n> > > B. Similarly, if you Chain of Command 4 Aabt Kindred's into play and you never\n> > > bring out Nefertiti, these little critters stay around, correct? (Though they\n> > > can't take any actions, even undirected, now).\n> >\n> > No, as above.\n> >\n> My answer here is: Since we have that \"Freak Drive\" window, let's use it.\n> In that window, Rabbat (or a Pentex'd guy) would be moved back to your crypt.\n> Aabbt Kindred (provided you have no Nefertiti) are moved back to your crypt.\n> Parmenides would be moved back to your crypt, if his controller can't have him act.\n>\n> This means Heidelberg is not usable to move the blood from Parmenides / Rabbat to a minion you control.\n>\nI thought the mechanism was the same as Spirit Marionette:\nA. get a vampire into a ready region, that must bleed right away.\nB. window to use Heidelberg.\nC. checks are made to see if said vampire actually can bleed (where he is, if it has any blood and therefore must hunt, etc.)\nD. vampire acts (or not)\nE. checks are made to see where the vampire goes next, according to D. (in case of SP, a minion with Pentex stays put until the end of the next action, in case of CoC the vampire goes to it's owner's uncontrolled region, etc).\n\nBy your previous post, this is obviously wrong.\nCan you please elaborate?\n\nThanks,\nTiago",
+      "Id": "35948"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 4, 2012, 7:48\u202FPM",
+      "Body": "> Spirit Marionette\n> [BL:C2, LoB:C]\n> Cardtype: Action\n> Discipline: Obeah/Dominate\n> [dom]  Bleed at +1 bleed.\n> [obe]  Bleed at +1 bleed and tap a ready minion controlled by your prey (even if the target of the bleed is changed).\n> [OBE] +1 stealth action.  Take control of a ready untapped minion until the end of the next action. That minion must bleed your prey unless he or she must hunt.\n>\n> Chain of Command\n> [Gehenna:C, KoT:C]\n> Cardtype: Action\n> Cost: X blood\n> Discipline: Dominate\n> +1 stealth action.\n> [dom] Put X younger vampires from your uncontrolled region in play with 1 blood from the blood bank each (and with any blood they already have). You cannot choose any unique vampires already in play. Those vampires must bleed. When one of them bleeds successfully, or when all that can bleed have, move them all to the bottom of your crypt.\n> [DOM] As above, but move X+1 younger vampires.\n>\nDifferent effects here, due to different wordings.\n\nSpirit Marionnette waits till the end of the next action. This includes the window to use Heidelberg Castle (\"only between actions\").\nChain of Command returns the vampire(s) to the crypt if they can't bleed. Immediately. This is a permanent check (\"when\"), which is performed as soon as the action is resolved, which is before its very end (after which Heidelberg can be used).",
+      "Id": "35957"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 4, 2012, 8:06\u202FPM",
+      "Body": "Sorry to be extra annoying, but I want to clear this:\n\nQ1. CoC on one vampire that can try to bleed. You can use Heilderberg?\nA. No\nB. Yes, but only after the bleed\nC. Yes, between CoC and the attempt to bleed, 'cause they are two different actions; and also after the bleed\n\nQ2. CoC on a vampire that from the start cannot bleed. Floppy's ruling above clearly states that the check is done immediately.\nDoes the vampire return to the uncontrolled area still during CoC's resolution?\n\nMaybe Eliseu's  is getting to me.\n\nThanks,\nTiago",
+      "Id": "35959"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 4, 2012, 8:27\u202FPM",
+      "Body": "> Brum wrote:\n> Sorry to be extra annoying, but I want to clear this:\n>\n> Q1. CoC on one vampire that can try to bleed. You can use Heilderberg?\n> A. No\n> B. Yes, but only after the bleed\n> C. Yes, between CoC and the attempt to bleed, 'cause they are two different actions; and also after the bleed\n>\nYes, and only right after the Chain of Command.\nNotice that afterwards, if the vampire is empty, he/she can't bleed, and is return to your crypt.\nEDIT: After the bleed, the vampire is returned to your crypt. Whether he can Freak Drive is probably moot, but I'll try to get an answer.\n\n> Brum wrote:\n> Q2. CoC on a vampire that from the start cannot bleed. Floppy's ruling above clearly states that the check is done immediately.\n> Does the vampire return to the uncontrolled area still during CoC's resolution?\n>\n> Maybe Eliseu's  is getting to me.\n>\n> Thanks,\n> Tiago\n>\nThe vampire returns to the crypt after Chain of Command's resolution (which places the vampire from the uncontrolled area to the ready area) and before its end (where Heidelberg Castle would be usable).",
+      "Id": "35964"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 4, 2012, 8:42\u202FPM",
+      "Body": "So, CoC checks if the vampire can bleed before the vampire actually has a chance to try?\n\nTryphosa is on the table.\nActing Methuselah does CoC targeting Marciana Giovanni, turned Malkavian. Her bleeds cost 2 blood.\nShe goes to the uncontrolled region before Heilderberg can give her the blood she needs.\n\nIt's like CoC can predict if a vampire can bleed before he actually gets the chance to do so.\n\nI assume the Acting Methuselah can use the Coven so Marciana can bleed...?\nIf not, we have just found VtES fastest effect.",
+      "Id": "35966"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 5, 2012, 6:16\u202FAM",
+      "Body": "> Brum wrote:\n> If not, we have just found VtES fastest effect.\n>\nIndeed, there's nothing fastest than something that happens immediately.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "35992"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 5, 2012, 6:37\u202FAM",
+      "Body": "> Brum wrote:\n> So, CoC checks if the vampire can bleed before the vampire actually has a chance to try?\n>\nNo, it constantly checks.\n\n> Brum wrote:\n> Tryphosa is on the table.\n> Acting Methuselah does CoC targeting Marciana Giovanni, turned Malkavian. Her bleeds cost 2 blood.\n> She goes to the uncontrolled region before Heilderberg can give her the blood she needs.\n>\nCorrect.\n\n> Brum wrote:\n> It's like CoC can predict if a vampire can bleed before he actually gets the chance to do so.\n>\nIt checks, there is no prediction involved here. If it were about foreseeing, you could argue that Heidelberg being usable, Marcianna could bleed.\n\n> Brum wrote:\n> I assume the Acting Methuselah can use the Coven so Marciana can bleed...?\n> If not, we have just found VtES fastest effect.\n>\nSure you can. You can use the Coven whenever you want (except in the \"as played\" window, but that's in the rulebook).\nSee also: Arika with 2 blood bleeds with Govern + Conditioning. Tap Coven. Play Freak Drive.",
+      "Id": "35995"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Sep 5, 2012, 8:09\u202FAM",
+      "Body": "Just one more thing...\n\nInstead of one vampire I bring 2 with CoC.\n\nThe first can bleed so it does bleed...\n\nBefore the second bleed can I use coven, heidelberg or other effects?\n\nI am asking this because now I think there is a \"between actions windows\"... is that so?",
+      "Id": "36002"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 12, 2012, 6:12\u202FAM",
+      "Body": "> wesile wrote:\n> Just one more thing...\n>\n> Instead of one vampire I bring 2 with CoC.\n>\n> The first can bleed so it does bleed...\n>\n> Before the second bleed can I use coven, heidelberg or other effects?\n>\nYou can use the Coven during actions, but, yes, you can also use it outside of actions.\nYou can use the Heidelberg Castle here.\nOther effects that are usable before a mandatory action are usable.\n\n> wesile wrote:\n> I am asking this because now I think there is a \"between actions windows\"... is that so?\n>\nYes. It's the impulse that is used when you want to tap the Heidelberg Castle because you want to move those Raven Spies and the .44 Magnum from the minion who got Mind Numbed to the other untapped guy.",
+      "Id": "36543"
+    }
+  ]
+}

@@ -170,8 +170,19 @@ rulings citing it keep working.</p>
 """
 
 
+def source_name(url: str) -> str:
+    """What to call the place a thread was read from."""
+    if "web.archive.org" in url:
+        return "the page as the Wayback Machine kept it"
+    if "vekn.net" in url:
+        return "the topic on the V:EKN forum"
+    if "/c/" in url:
+        return "original thread on Google Groups"
+    return "source archive"
+
+
 class Thread:
-    """One newsgroup thread, loaded from its JSON dump."""
+    """One thread, newsgroup or forum, loaded from its JSON dump."""
 
     def __init__(self, path: pathlib.Path):
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -210,17 +221,21 @@ class Thread:
                 else ""
             )
             + f'<br><a class="source" href="{html.escape(self.source_url)}">'
-            + (
-                "original thread on Google Groups"
-                if "/c/" in self.source_url
-                else "source archive"
-            )
+            + source_name(self.source_url)
             + "</a></p>",
         ]
         for index, message in enumerate(self.messages):
             stamp = self.dates[index]
+            #: A forum post keeps the number the forum gave it, so that a link
+            #: written against the forum keeps its fragment when the rest of
+            #: the URL is swapped for ours: `...#117641` still lands here.
+            alias = (
+                f'<a class="alias" id="{html.escape(message["Id"])}"></a>\n'
+                if message.get("Id")
+                else ""
+            )
             parts.append(
-                f'<article class="msg" id="m{index}">\n'
+                f'<article class="msg" id="m{index}">\n{alias}'
                 f'<h2 class="who">{html.escape(message["Author"])}'
                 f'<a class="permalink" href="#m{index}" '
                 f'aria-label="permalink to message {index + 1}">#</a></h2>\n'
@@ -332,7 +347,8 @@ out in public from 1994 to 2010, and where its rules directors answered
 questions one post at a time. This is a preserved copy of every thread one of
 those directors took part in &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
-along with a few discussions from elsewhere that the rulings depend on.</p>
+together with the topics the rules director has answered on the V:EKN forum
+ever since, which is where the rulings went when Usenet ended.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
 they will point here instead, because this copy is not going anywhere.</p>
@@ -366,11 +382,15 @@ answers.</p>
 too, marked with the group they came from, so that the rulings citing them have
 somewhere to point.</p>
 
-<p>For the same reason a handful of threads are not from Usenet at all. Rulings
-did not stop when the newsgroup did; they moved to the
-<a href="https://www.vekn.net/forum">V:EKN forum</a>, which drops topics of its
-own accord. A cited topic that the forum has lost is copied here, marked with
-where it came from, rather than left to a link that has already broken once.</p>
+<p>Several thousand threads are not from Usenet at all. Rulings did not stop
+when the newsgroup did &mdash; they moved to the
+<a href="https://www.vekn.net/forum">V:EKN forum</a>, where
+<strong>Ankha</strong> has answered them since. Every topic he has posted in is
+here too, marked with the forum it came from, on the same rule that decided
+which newsgroup threads to keep. The forum drops topics of its own accord: the
+one a Baltimore Purge ruling rests on returns a 404 today and survives only
+because the Wayback Machine happened to keep it, which is reason enough not to
+wait and see which goes next.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
@@ -403,6 +423,12 @@ translated mechanically:</p>
 <p>Within a thread, <code>#m0</code> is the first message, <code>#m1</code> the
 second, and so on. The <span class="permalink">#</span> beside each author name
 is that message's own link.</p>
+<p>A forum topic keeps its own number, and every post keeps the number the forum
+gave it, so a link into the forum keeps its fragment too and still lands on the
+post it was pointing at:</p>
+<pre class="rewrite">vekn.net/forum/rules-questions/<b>75512</b>-raptor-obedience<b>#80020</b>
+        &darr;
+    usenet.krcg.org/t/vekn-<b>75512</b>/<b>#80020</b></pre>
 
 <h2>Searching it</h2>
 <p><a href="../search/">Search</a> covers every word of every message, and the
@@ -412,9 +438,10 @@ downloads the words it needs rather than the whole archive &mdash; it works on a
 phone, and it works with no server behind it.</p>
 
 <h2>Provenance</h2>
-<p>The threads come from Google Groups' copy of the newsgroups, filled out from
+<p>The newsgroup threads come from Google Groups' copy, filled out from
 the <a href="https://archive.org/details/usenet-rec">Internet Archive</a>'s copy
-where Google's had gaps. The JSON the pages were rendered
+where Google's had gaps; the forum topics were read from the forum itself. The
+JSON the pages were rendered
 from is committed alongside the site generator in the
 <a href="https://github.com/vtes-biased/newsgroup-archive">newsgroup-archive</a>
 repository, so they can be rebuilt, re-styled, or re-purposed without going back

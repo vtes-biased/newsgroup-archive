@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-81311",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81311-is-envorinmental-damage-that-is-dealt-during-strike-resolution-affected-by-rang",
+  "Title": "Is envorinmental Damage, that is dealt during Strike resolution affected by rang",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 22, 2024, 7:38\u202FPM",
+      "Body": "We found several asnwers to that form several eras and several Rules directors:\n>\n> Rulebook wrote:\n> 2. Determine Range\n> Each round of combat is fought at either close\n> range or long range. Close range is the default\n> for each round. The range determines which\n> strikes and other strike resolution step effects\n> can be used. Some effects can only be used at\n> close range, some only at long range, and the\n> rest at either close or long range.\n>\nThis seems to imply yes.\n\n> LSJ20020104 wrote:\n> Halcyan 2 wrote:\n> >\n> > >> Thoughts Betrayed [DS, SW, FN]\n> > >> Do opposing minion takes 1 additional damage during strike resolution on\n> > >> inferior even if the combat is at long range?\n> > >\n> > >No.\n> >\n> > I know that it follows the Wolf Companion text, but is there any particular\n> > reason why Thoughts Betrayed doesn't inflict damage at long? Similarly, would\n> > Drawing out the Beast inflict damage at long range?\n>\n> As a strike resolution effect, it is affected by range (it functions similarly\n> to Retainer damage in that regard).\n>\n> DotB's damage is not a \"during strike resolution\" effect.\n>\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/FinHO99QB3k/m/HcVxu9N6D9IJ\nLSJ confirming yes in 2002.\n\n> LSJ20090906 wrote:\n> Quoting unofficial card text doesn't help, since then I still have to look up\n> the official text (and may actually hinder, depending on the degree of\n> difference from the official card text and whether or not I notice that the\n> quoted text is not official).\n>\n> Name: Bestial Vengeance\n> Cardtype: Combat\n> Discipline: Animalism\n> Requires a Laibon.\n> [ani] Only usable before range is determined. Choose a retainer on this Laibon.\n> This combat, this Laibon is immune to frenzy cards and the opposing minion takes\n> 1 damage during strike resolution if the retainer is ready. A vampire can play\n> only one Bestial Vengeance each combat.\n> [ANI] As above, but for 2 damage.\n>\n> It works regardless of range. Like Darkling Trickery.\n>\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/MKJghrVVAMw/m/UCh2_EbE9AEJ\nLSJ ruling no on Bestial Vengence (and darkling trickey, which has the exact wording as thought betrayed at the time) in 2009\n\n> ANK20210929 wrote:\n> >Thetmes wrote:\n> >Playing a game in which vampire A has a ghoul retainer, in combat with vampire B.\n>\n> >Vampire B is long and strikes with his magnum. Vampire A wants his ghoul retainer to inflict 1 damage at long as in cardtext, the mention \"inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range\" doesnt exists like with other retainers of that type (Wolf Companion, ...).\n>\n> >On the other hand all other retainers inflincting damage at long range specify clearly that they do ranged damages (Murder of Crows)...\n>\n> >Is a Ghoul retainer able to inflict damages at long range without any weapons?\n>\n> No, it inflicts 1 damage during the strike resolution, which has no effect at long range.\n>\nwww.vekn.net/forum/generic-v-tes-discussion/75623-ghoul-retainer?start=12#103386\nAnnkha ruling yes in 2021\n\nNone of the four cards mention to deal R damage at the time the ruling was amde (Darkling trickery does now) 2 each have basically the same wording.\n\nBeatial Vengance (ruled working on all ranges) has the same woridng as Ghoul retainer (ruled to work only close)\n\nDarkling Trickery (Ruled at the time to work at any range, now reworded to deal R damage) had, at the time of the ruling, the same wording as Thougts betrayed (ruled to work only on close)\n\nI think we need a clarification here how this is supposed to work.\n\nThoughts Betrayed\n\nOnly usable before range is determined on the first round.\nOpposing minion takes 1 additional damage in the first round of combat during normal strike resolution.\nOpposing minion cannot play any strike cards for the duration of this combat.\n\nDarkling Trickery\n\nPress, only usable to end combat.\nManeuver or press.\nOnly usable if the opposing minion strikes with a weapon that inflicts ranged damage. That weapon inflicts no damage. The opposing minion takes 1R environmental damage during normal strike resolution.\n\nBestial Vengeance\n\nRequires a Laibon.\nOnly usable before range is determined. Choose a retainer on this Laibon. This combat, this Laibon is immune to frenzy cards and the opposing minion takes 1 damage during strike resolution if the retainer is ready. A vampire can play only one Bestial Vengeance each combat.\nAs above, but for 2 damage.\n\nGhoul Retainer\n\nGhoul with 2 life. 1 strength.\nDuring the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon.",
+      "Id": "110981"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 31, 2024, 1:36\u202FPM",
+      "Body": "a ruling/clarification would be appreciated.",
+      "Id": "111043"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 2, 2024, 7:20\u202FAM",
+      "Body": "There will be a clarification in the next few days.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111071"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Apr 6, 2024, 9:14\u202FPM",
+      "Body": "I feel like there's an easy way to rule this, and that's: \"Card text.\"\n\nStrikes (that aren't Dodge or Combat Ends) are only effective at short range. Environmental damage is not a strike, and will deal its damage regardless of range. QED.\n\nIf an Environmental effect deals damage that's restricted to a particular range like Hatch the Viper or Wolf Companion, that should be determined by card text.\n\nThis is why i've been braying about getting rid of (R) Damage. it makes other things clearer if strikes are the only things that are inherently affected by range without card text. having Environmental damage be R damage or not unnecessarily muddies the waters. Every Gun should be reprinted as \"Ranged Strike: Damage\" instead of \"Strike: R Damage,\" and we can get rid of an exception to a rule and legacy holdover that we've been clutching to for decades.\n\n> Hatch the Viper.\n> Retainer with 1 life.\n> The employer can prevent 1 damage each combat. Hatch the Viper inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range.\n> As above, but it inflicts 2 damage.\n>\n> Wolf Companion\n> Animal with 2 life.\n> When the minion with this retainer is in combat, the opposing minion takes 1 damage during strike resolution at close range.\n> As above, but Wolf Companion has 3 life.\n>",
+      "Id": "111122"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "May 30, 2024, 2:50\u202FPM",
+      "Body": "Seconding self biased's point, especially since there are even cards which deal enviromental damage when a range is determined, but after strike resolution step (like Drawing out the Beast). If enviromental damage would care about range, imo Drawing out the Beast would need to work only at short range - as range is set for the entire round.\n\nCombat and its various substeps are hard to learn already, and I don't see that enviromental damage working on any range would cause any loss of tactical depth\n\nWarning: Spoiler!\n\nani: Only usable before range is determined on the first round. Frenzy.\nDuring this combat, opposing vampire gets +1 strength, but he or she cannot use maneuvers to maneuver to long range, cannot use presses to end combat and cannot use equipment. A vampire may play only one Drawing Out the Beast each combat.\nANI: As above, and the opposing vampire takes 1 unpreventable damage during the press step each round.",
+      "Id": "111563"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 30, 2024, 9:09\u202FPM",
+      "Body": "> Ankha wrote:\n> There will be a clarification in the next few days.\n>\nIt takes more time than expected, but it's still on my list.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111567"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 1, 2024, 10:22\u202FAM",
+      "Body": "I tru to find that,maybe is time for answer. (just want to remind)",
+      "Id": "112486"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 6, 2024, 5:25\u202FAM",
+      "Body": "(removed)\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "112533"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 23, 2025, 11:12\u202FPM",
+      "Body": "As something related was recently brought up it reminded me about this thread.\n\nCould we please get an answer to this long-overdue topic.",
+      "Id": "115856"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 24, 2026, 6:36\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Ankha wrote:\n> > There will be a clarification in the next few days.\n> >\n> It takes more time than expected, but it's still on my list.\n>\nBump",
+      "Id": "116254"
+    }
+  ]
+}

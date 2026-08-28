@@ -1,0 +1,128 @@
+{
+  "ThreadId": "vekn-81584",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81584-dam-the-heart-s-river-and-target-vitals",
+  "Title": "Dam the Heart's River and Target Vitals",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Jul 3, 2024, 1:40\u202FPM",
+      "Body": "Question: Does Target Vitals count as a \"damaging effect\" as far as Dam the Heart's River is concerned? (In other words, does it add +3 to a damaging strike when played under a Dam?)\n\nPlease bear in mind that although the damage from T.V. augments the strike itself and does not count as a separate SOURCE of damage from the strike, the card text of DtHR does not explicitly concern itself with sources, but does concern itself with effects.\n\nYes, there is already a thread called \"Dam the Heart's + River Target Vitals\" at this location:\nwww.vekn.net/forum/rules-questions/68345-dam-the-heart-s-river-target-vitals\n\nOne would expect to find the answer made clear there, but it is not. Jamesatzephyr makes the \"source\" argument, citing the following LSJ ruling for Nephandus:\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/_IwgQEvViWQ/m/1g36C5Y2BSoJ?pli=1\n\nSince Nephandus's special uses the same \"strike or damaging effect\" text as DtHR, it would appear that they should both affect (or not affect) the same set of cards and effects. Moreover, LSJ did rule that TV damage is not reduced by Nephandus's special, so it's reasonable to assume (if abiding by that ruling) that TV will not be increased by DtHR.\n\nHere's the thing, though.. it really just looks like a brain fart from LSJ. He makes no explanation or why or how \"sources\" of damage are relevant to the conversation. There are many, many cases of multiple damaging effects contributing to a single source of damage in the game. Sources and and effects are most definitely not the same thing, and they are both important technical game terms with clearly separate meanings.\n\nShould I assume that DtHR is just considered by the rules team to be incorrectly worded for its desired effect, or is there a new ruling that clarifies the matter? Perhaps it's simply the case that damage-augmenting cards such as TV should not count as a damaging effects (which could be a fine ruling, just not one that's been explicitly stated anywhere)?\n\nThanks very much,\n-Billy\n\nName: Target Vitals\nCardtype: Combat\nAim. Only usable as this minion chooses a strike. A minion can play only one aim each strike.\nIf any damage from this strike is successfully inflicted on the opposing minion, they take +2 damage from this strike, and they cannot press this round. They can discard two combat cards to cancel this card as it is played.\n\nName: Dam the Heart's River\nCardtype: Combat\nDiscipline: Quietus\nFrenzy. Only usable before range is determined. A vampire can play only one Dam the Heart's River each combat.\n[qui] This combat, each strike or damaging effect made against the opposing minion inflicts +1 damage.\n[QUI] As above, and this combat, strikes cost the opposing minion 1 additional blood or life, and they can choose not to strike.\n\nName: Nephandus\nAKA: Nephandus (Mage)\nCardtype: Ally\nClan: Tremere antitribu\nCost: 2 pool\nMage with 2 life. 0 strength, 1 bleed.\nNephandus can strike: 1R damage. Nephandus gets 1 optional press each combat. Nephandus can burn a vampire in torpor to gain 1 life as a  action. Each strike or damaging effect made by the opposing minion against Nephandus in combat inflicts 1 less damage.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111900"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Jul 3, 2024, 6:36\u202FPM",
+      "Body": "IANALSJ but it's been a while since I've thought about the game so here goes.\n\nDam the Heart's River and Nephandus (Mage) modify the output of a strike or effect, which is a source of damage to the target. The output of a damage-dealing strike is damage inflicted. TV modifies the input, not the output, which means it is not a damaging effect itself.\n\nOr put another way:\n\n> Perhaps it's simply the case that damage-augmenting cards such as TV should not count as a damaging effects (which could be a fine ruling, just not one that's been explicitly stated anywhere)?\n>\nNo ruling needed. TV and other damage-augmenting cards are not damaging effects by definition. The card is augmenting the damaging effect (in this case, a strike).",
+      "Id": "111903"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 3, 2024, 6:43\u202FPM",
+      "Body": "Is it not damaging to increase damage, by definition? Ruling needed.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111904"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Jul 3, 2024, 6:57\u202FPM",
+      "Body": "What is a damaging effect?",
+      "Id": "111905"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jul 3, 2024, 9:11\u202FPM",
+      "Body": "> Killiam wrote:\n> Is it not damaging to increase damage, by definition?\n>\nIMO not in this context, because DtHR looks for discrete sources of damage, not increased magnitude from a single instance of damage.\n\nSeveral sources might resolve at the same time (e.g., multiple Murder of Crows) and each will trigger DtHR - but only because each represents a discrete packet of damage.\n\nThe \"effect\" part is on the card so that non-strike, environmental sources receive the buff. The prime example which includes a specific ruling for DtHR is Dagon's Call\n\nDagon's Call [Quietus]\nA vampire can play only one Dagon's Call each combat.\n[qui] Strike: hand strike, and the opposing minion takes 1 unpreventable environmental damage during the press step each round this combat (only effective if this strike was made at close range).\n[QUI] As above, and this hand strike is at +1 damage.\n\nRULING: Both the strike and the environmental damage would get boosted by Dam the Heart's River. [PIB 20150520]\n\nSo...two discrete damage sources even from the same card = two triggers for DtHR.\nOne damage packet of increased magnitude even with multiple cards = one DtHR increase.\n\nAlso note, there is no DtHR ruling on the \"aim-like\" Strike at the True Flesh. Each application of SatTF only modifies one source of damage and should not interact with DtHR.\n\nStrike at the True Flesh [Quietus]\nOnly usable before resolution of a melee weapon's strike.\n[qui] Non-aggravated damage from this weapon's strikes cannot be prevented except by equipment or by other strikes this round.\n[QUI] As above, and this weapon's strikes inflict +1 damage this round.",
+      "Id": "111909"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 3, 2024, 11:26\u202FPM",
+      "Body": "This is a good question.\n(Replying to: \"What is a damaging effect?\")\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111910"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 3, 2024, 11:31\u202FPM",
+      "Body": "Nowhere in the text of DtHR does it mention \"sources\" of damage nor \"instances\" of damage. The term in question is \"damaging effects.\" Effects and sources are distinct concepts in game terms. That is why a ruling is needed and not more opinions.\n\nBased on the LSJ ruling for Nephandus, I expect it will come out as you say, but the real ask here is for clarity on that ruling.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111911"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Jul 4, 2024, 4:14\u202FPM",
+      "Body": "A damaging effect would be like Outside the Hourglass, that just inflicts damage.\n\nTarget Vitals however modifies the strike. It does not deal damage by itself, it says \"this strike deals +2 damage\". There is no additional damaging effect, simply a modification of a strike. It's the same reason why the additional damage from Target Vitals is aggravated if the strike itself dealt aggravated damage.\n\nPrince of Bonn, Germany",
+      "Id": "111917"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 5, 2024, 5:34\u202FAM",
+      "Body": "Yes, it modifies the strike... with damage. That's its effect.\nLook, I know how the ruling will come out (I think we all know), but you can't tell me there's no room for reasonable, conflicting interpretation; there clearly is. That's why I have asked for an official ruling; so we don't have to have this conversation in the middle of a tournament.\nThere's really nothing to be gained by further discussion.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111926"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jul 5, 2024, 7:04\u202FAM",
+      "Body": "There's a difference between \"deal X damage\" and \"increase damage by X\" - the first one is an effect dealing the damage, the other is an effect enhancing other damage dealing effect. Target Vitals, or e.g. Increased Strength enhance other effects. Yes, with more damage, but are not dealing damage themselves.\n\nIf it's easier for you can ask yourself if TV or IS will give you anything if played without the effect they modify? They won't, meaning they don't deal the damage themselves.",
+      "Id": "111927"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 7, 2024, 6:32\u202FPM",
+      "Body": "You're not saying anything that everyone doesn't already know. You're also not saying anything relevant until we can get a ruling that says that damage-augmenting effects don't count as damaging effects. That ruling is what I'm asking for. Please note that to \"deal\" damage is not relevant to the inquiry. The inquiry is about the technical definition of \"damaging effects.\" DtHR does not mention \"damage dealing effects,\" which is a separate matter unless and until the rules team collapses those terms into one OFFICIALLY.\n\nThe ruling I'm asking for extends beyond Target Vitals, and in fact would include (or rather, exclude) Dam the Heart's River itself with respect to other cards concerned with \"damaging effects\" (e.g., Valerie Diaz, Nephandus).\n\nThe value of getting official rulings (which at this point I'm believing are actively discouraged by in-thread conversation) is having a place to point to for quickly settling debates that soak up clock time during tournaments. To that end, if you are not a member of the rules team, PLEASE STOP COMMENTING ON THIS THREAD. Thanks.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111959"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 7, 2024, 7:18\u202FPM",
+      "Body": "> Killiam wrote:\n> The inquiry is about the technical definition of \"damaging effects.\" DtHR does not mention \"damage dealing effects,\" which is a separate matter unless and until the rules team collapses those terms into one OFFICIALLY.\n>\n\"damaging effect\": an effect that inflicts damage.\nIt includes effect that inflict damage explicitly (by card text) or implicitly (for instance a strike).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111960"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 19, 2024, 3:39\u202FPM",
+      "Body": "Oh, wow. So it sounds like Target Vitals DOES get a boost from DtHR then, since it is, by card text, an effect that explicitly inflicts damage. That was not the answer I was expecting, thanks.\n(I thought the answer would be that effects that augment existing damage do not count as damage dealing effects.)\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "112073"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 19, 2024, 3:47\u202FPM",
+      "Body": "It's also worth noting that this may overturn the current LSJ ruling:\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/_IwgQEvViWQ/m/1g36C5Y2BSoJ?pli=1\n\nSince Target Vitals counts as a damage dealing card under Ankha's new ruling, that would imply that Nephandus's special reduces the damage from TV.\n\nName: Nephandus\nAKA: Nephandus (Mage)\nCardtype: Ally\nClan: Tremere antitribu\nCost: 2 pool\nMage with 2 life. 0 strength, 1 bleed.\nNephandus can strike: 1R damage. Nephandus gets 1 optional press each combat. Nephandus can burn a vampire in torpor to gain 1 life as a  action. Each strike or damaging effect made by the opposing minion against Nephandus in combat inflicts 1 less damage.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "112074"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jul 19, 2024, 4:13\u202FPM",
+      "Body": "> Killiam wrote:\n> Oh, wow. So it sounds like Target Vitals DOES get a boost from DtHR then, since it is, by card text, an effect that explicitly inflicts damage. That was not the answer I was expecting, thanks.\n> (I thought the answer would be that effects that augment existing damage do not count as damage dealing effects.)\n>\nI don\u00B4t understood this way, the damaging effect will be the strike fromthe vampire with .. that will doing +1 damage because of DtHR, let\u00B4s say hand strike for 2 (1+1), the blocking nephandus reduce to 1 by his special text, the quietus vampire play target vitals for +2 damage and no press, nephandus don\u00B4t cancel but on the heal and prevention step play a glancing blow wasting the target vital because all damage was prevented, correct?\n\ntarget vital isn\u00B4t a damaging effect, is a enhancer, alone don\u00B4t do any damage, so not affected by DtHR\n\nDavid Resende - Prince of Teresina",
+      "Id": "112076"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jul 19, 2024, 7:19\u202FPM",
+      "Body": "> Killiam wrote:\n> Oh, wow. So it sounds like Target Vitals DOES get a boost from DtHR then, since it is, by card text, an effect that explicitly inflicts damage. That was not the answer I was expecting, thanks.\n> (I thought the answer would be that effects that augment existing damage do not count as damage dealing effects.)\n>\nHow do you come to this conclusion? The card text of Target Vitals says\n\n\"If any damage from this strike is successfully inflicted on the opposing minion, they take +2 damage from this strike,\n\n> Killiam wrote:\n> It's also worth noting that this may overturn the current LSJ ruling:\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/_IwgQEvViWQ/m/1g36C5Y2BSoJ?pli=1\n>\n> Since Target Vitals counts as a damage dealing card under Ankha's new ruling, that would imply that Nephandus's special reduces the damage from TV.\n>\nIt does not count as a damage-dealing effect, it makes the opposing minion take +2 damage from the strike post its resolution (damage handling inlcuded) if the strike enhanced with Target Vitals successfully inflicted any damage on the opposing minion.\n\nNote that it doesn\u00B4t say \"inflict 2 damage\".\n\nAnkha\u00B4s answer doesn\u00B4t support your statements.\n\n> Ankha wrote:\n> \"damaging effect\": an effect that inflicts damage.\n> It includes effect that inflict damage explicitly (by card text) or implicitly (for instance a strike).\n>",
+      "Id": "112078"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Jul 19, 2024, 10:46\u202FPM",
+      "Body": "> Killiam wrote:\n> It's also worth noting that this may overturn the current LSJ ruling:\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/_IwgQEvViWQ/m/1g36C5Y2BSoJ?pli=1\n>\n> Since Target Vitals counts as a damage dealing card under Ankha's new ruling, that would imply that Nephandus's special reduces the damage from TV.\n>\n> Name: Nephandus\n> AKA: Nephandus (Mage)\n> Cardtype: Ally\n> Clan: Tremere antitribu\n> Cost: 2 pool\n> Mage with 2 life. 0 strength, 1 bleed.\n> Nephandus can strike: 1R damage. Nephandus gets 1 optional press each combat. Nephandus can burn a vampire in torpor to gain 1 life as a  action. Each strike or damaging effect made by the opposing minion against Nephandus in combat inflicts 1 less damage.\n>\nPlease don't jump to conclusions as there's been no reversals made to existing rulings in the reply and per  ANK 20230825 \"BTW, all LSJ/Floppy rulings are valid, unless there's a more recent official ruling saying otherwise. I'm not sure why we would need a further confirmation.\"\n\nIf you wish to see what reversal looks like, see  www.vekn.net/forum/rules-questions/80984-haqim-s-law-retribution-efect-during-combat?start=12#109917 for reversal of answer and  www.vekn.net/forum/rules-questions/78568-the-capuchin-burns-temporary-control?start=18#99620 for reversal of a ruling.\n\nNow the point of rules questions is to get quick answers to questions and as Ankha is the one who can issue the reversal of the previous LSJ ruling you linked before his answer on this thread and chose *not* to do it, should be obvious answer to whether or not there is a reversal. I could even be so bold as to claim there's really nothing to be gained by further discussion.\n\nMore seriously speaking, I respect your aim at getting clear and short answer for tidy topic but I disaprove the twisting done during the interpretation of said short answer afterwards. I hope this reply with links shows why I feel that way and if you've done it unintentionally no harm no foul.\n\nNow if Ankha decides to make reversals after this reply, I'm all in for the crazy train that follows, get a leg up by just searching cardlist.txt for \"from this\" to see how many cards will see changes...\n\nTrust in Jan Pieterzoon.",
+      "Id": "112083"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 22, 2024, 7:14\u202FPM",
+      "Body": "If some of my previous posts came off as caustic, please accept my apologies. I was, in fact, off my meds. That said, I think my conclusions are reasonable -- here is my reasoning:\n\nAkha's ruling defines the \"damaging effect\" game term as follows:\n\"damaging effect\": an effect that inflicts damage.\nIt includes effect that inflict damage explicitly (by card text) or implicitly (for instance a strike).\n\nSo the strike is a damaging effect; that's not in dispute. Target Vitals is/has an effect; that's not in dispute. Is the effect of Target Vitals one that inflicts damage, either explicitly or implicitly? That's the question to answer, based on the ruling.\n\nin\u00B7flict /in\u02C8flik(t)/\nverb\ncause to be suffered by someone or something\n\nSo if Target Vitals causes the +2 damage that is added to the strike and the damage is suffered, then Target Vitals has inflicted damage. That is unambiguous in the English language.\n\nLooking at the explicit card text of Target Vitals, I strongly believe it creates two damage that gets suffered. It's not like Fists of Death, which creates additional strength. The card says damage, explicitly. It's damage that wouldn't be there without playing the card, so if anything created the damage, I would say it was the effect of the card. By the dictionary definition of \"inflict,\" the damage is \"inflicted\" by X if X both creates the damage and if the damage is suffered by someone or something.\n\nSo by my reading, Target Vitals unambiguously meets the criteria for inflicting damage, hence my honest interpretation of Ankha's ruling. I'm glad to hear if there is some slip in my reasoning (it wouldn't be the first time).\n\nInm8 makes an interesting point by emphasizing the phrase \"from this strike\" on Target Vitals. I think that what they are reading is that if the damage is \"from\" the strike, then it cannot also be \"from\" Target Vitals. As such, it might be read that the strike is still what counts as \"creating\" the +2 damage. I think that's a compelling interpretation and would set a reproducible (and useful) precedent if Ankha weighs in that we should read it that way.\n\nKilrauko makes a great point that ruling reversals must be explicit, so nothing has been overturned. Whether or not a reversal falls out of this ruling has yet to be seen. Thank you for that!\n\nWith respect to whether or not a crazy-town-level chain of rulings might fall from my interpretation of this one, it's worth noting that only four cards currently use the term \"damaging effect\". It's enough to warrant an in-game definition of the term, but probably won't make huge waves just yet. Those four cards are: Dam the Heart's River, Nephandus, Valerie Diaz (Antigen Commander), and Walks-With-Might. Cheers!\n\nBest,\n-Billy\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "112129"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 22, 2024, 7:41\u202FPM",
+      "Body": "..and I do already see a potential slip in my reasoning (thank you, meds!) To meet the definition of inflicting, it might not be sufficient that the effect causes the damage and that the damage is suffered. \"Inflict\" might be better interpreted as causing the suffering as opposed to causing the damage itself, i.e. as being the delivery mechanism of the damage rather than as being the source of the damage. I see both interpretations as viable -- asking for clarification.\nThanks again!\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "112130"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 23, 2024, 5:52\u202FAM",
+      "Body": "Card text:\n\nName: Target Vitals\nCardtype: Combat\nAim. Only usable as this minion chooses a strike. A minion can play only one aim each strike.\nIf any damage from this strike is successfully inflicted on the opposing minion, they take +2 damage from this strike, and they cannot press this round. They can discard two combat cards to cancel this card as it is played.\n\nThe strike is inflicting damage, not Target Vitals. Target Vitals increases the damage inflicted by the strike, it does not inflict damage by itself.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112132"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-46164",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/46164-catatonic-fear-and-loving-agony",
+  "Title": "Catatonic Fear and Loving Agony",
+  "Messages": [
+    {
+      "Author": "wesile",
+      "Date": "Mar 19, 2013, 1:02\u202FPM",
+      "Body": "Clarifying...\nPlease validate:\n\nYou can use TV with Catatonic as well as with Loving Agony.\nYou can dodge both strikes.\n\nYou can use Dawn operation with CF and LA.\n\nI think that you can also use Amaranth...\n\nAmaranth, Combat, U\n\nOnly usable by a vampire who can commit diablerie. Only usable when the opposing vampire should go to torpor. Diablerize the opposing vampire instead. Not usable by a vampire going to torpor.\n\nThou shalt not slay thy sire\nand drink his heart's blood.\n-The Book of Nod",
+      "Id": "46164"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 19, 2013, 1:18\u202FPM",
+      "Body": "> wesile wrote:\n> You can use TV with Catatonic as well as with Loving Agony.\n>\nYes, for an added 2 damage in both case.\n\n> wesile wrote:\n> You can dodge both strikes.\n>\nYes, taking no damage in both case.\n\n> wesile wrote:\n> You can use Dawn operation with CF and LA.\n>\nYou can play Dawn Operation before the combat and it affects only damage dealt during the combat.\nDamage from CF and LA won't be aggravated since inflicted after the combat.\n\nName: Dawn Operation\nCardtype: Action Modifier\nDiscipline: Fortitude\n[for] If this action is blocked, all damage inflicted to vampires in the resulting combat is aggravated. Any vampire attempting to block may now choose not to block.\n[FOR] As above, but vampires attempting to block cannot back out.\n\n> wesile wrote:\n> I think that you can also use Amaranth...\n>\nNo, Amaranth is a combat card. You must play it during the combat. If the vampire goes to torpor after the combat, you can't play Amaranth.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "46166"
+    },
+    {
+      "Author": "wesile",
+      "Date": "Mar 19, 2013, 1:26\u202FPM",
+      "Body": "Thanks, that was the clarification that I was looking for.",
+      "Id": "46167"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 19, 2013, 1:29\u202FPM",
+      "Body": "> wesile wrote:\n> Clarifying...\n> Please validate:\n>\n> You can use TV with Catatonic as well as with Loving Agony.\n> You can dodge both strikes.\n>\n> You can use Dawn operation with CF and LA.\n>\n> I think that you can also use Amaranth...\n>\n> Amaranth, Combat, U\n>\n> Only usable by a vampire who can commit diablerie. Only usable when the opposing vampire should go to torpor. Diablerize the opposing vampire instead. Not usable by a vampire going to torpor.\n>\n> Thou shalt not slay thy sire\n> and drink his heart's blood.\n> -The Book of Nod\n>\nI'm not sure what \"use\" means. I'm also not sure what the question is, so I'll have to guess.\n\nTarget Vitals can be played on Catatonic Fear's strike. Target Vitals can be played on Loving Agony's strike. Also note that Target Vitals could also be played on Dodge or Majesty.\n\nNow, if Catatonic Fear / Loving Agony's damage is successfully inflicted, Target Vital would indeed add an extra 2 damage.  [PIB 20130314] .\n\nBoth Catatonic Fear and Loving Agony can be dodged. Even Majesty can be dodged.\n\nNow, if I Dodge Catatonic Fear / Loving Agony, is there damage inflicted? No, in both cases.\nRulebook  wrote:\n>\n> Dodge. A dodge strike deals no damage, but it protects the dodging minion and his possessions (cards on him) from the effects of the opposing strike.\n>\nDawn Operation can be played before Catatonic Fear or before Loving Agony (it is an action modifier, thus is played before combat).\n\nNow, is Catatonic Fear / Loving Agony's damage aggravated if Dawn Operation was played previously during the blocked action? No, due to Dawn Operation's cardtext.Catatonic Fear and Loving Agony's damage is triggered after the end of combat.\n>\n> Name: Dawn Operation\n> Cardtype: Action Modifier\n> Discipline: Fortitude\n> [for] If this action is blocked, all damage inflicted to vampires in the resulting combat is aggravated. Any vampire attempting to block may now choose not to block.\n> [FOR] As above, but vampires attempting to block cannot back out.\n>\nCan you use Amaranth? Well, if the opposing minion is going to torpor at the end of the round, yes, you can.\n\nNow, is Catatonic Fear / Loving Agony's damage applied before the end of combat? No. All \"Strike: End combat and do X\" effects have X happen after the end of combat - the only exception being when \"do X\" is untapping one (or two) minion(s).\nSo, no, you cannot play Amaranth when striking with Catatonic Fear against a vampire with 0 blood.",
+      "Id": "46168"
+    }
+  ]
+}

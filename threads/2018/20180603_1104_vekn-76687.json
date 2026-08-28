@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-76687",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76687-retainers-inflicting-damage-environmental",
+  "Title": "Retainers inflicting damage =/= Environmental?",
+  "Messages": [
+    {
+      "Author": "Kraus",
+      "Date": "Jun 3, 2018, 11:04\u202FAM",
+      "Body": "The Lost kindred cards introduced Environmental damage, but Vengeful Spirit \"inflicts\" damage as a retainer, not Environmental.\n\n> Name: Vengeful Spirit\n> Cardtype: Retainer\n> Clan: Harbinger of Skulls\n> Cost: 1 blood\n> Wraith with 2 life.\n> The employer gets +1 bleed. Vengeful Spirit inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range.\n> Artist: Gin\u00E9s Qui\u00F1onero\n>\nWolf Companion has the following text:\n\n> Name: Wolf Companion\n> [Jyhad:U2, VTES:U, Sabbat:U, SW:PT, KMW:PG, Third:PTz2]\n> Cardtype: Retainer\n> Cost: 1 blood\n> Discipline: Animalism\n> Animal with 2 life.\n> [ani] When the minion with this retainer is in combat, the opposing minion takes 1 damage during strike resolution (if the range is close).\n> [ANI] As above, but Wolf Companion has 3 life.\n> Artist: Zina Saunders; Melissa Benson\n>\nEmphasis mine.\n\nWhat is the source of damage on Wolf Companion? Is it Wolf Companion (inflicts) or Environmental?\n\nI'm trying to figure out what are the niche scenarios where Environmental and retainer damage have different interactions. Neither are inflicted by the opposing minion (Disarm, Pulled Fangs), and there are as of yet no cards that would, for example, prevent damage from Environmental only.\n\nWhere does the wording matter, and why isn't Vengeful Spirit Environmental damage?\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "87870"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 3, 2018, 1:47\u202FPM",
+      "Body": "> Kraus wrote:\n> What is the source of damage on Wolf Companion? Is it Wolf Companion (inflicts) or Environmental?\n>\nAnything not from a minion is environmental.\n\nwww.vekn.net/general-rulings\nDamage is only considered to have come from a minion if the damage is from a strike or if an effect specifically states that the damage is dealt by the minion. Damage from other effects is considered \"environmental,\" and has no particular source. [RTR 19970630]",
+      "Id": "87871"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jun 3, 2018, 4:35\u202FPM",
+      "Body": "Shouldnt the cards use that template then? The retainers could just as well all say \"environmental damage\". Just to make it idiot proof. Ya?\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "87873"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 3, 2018, 6:04\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Kraus wrote:\n> > What is the source of damage on Wolf Companion? Is it Wolf Companion (inflicts) or Environmental?\n> >\n> Anything not from a minion is environmental.\n>\n> www.vekn.net/general-rulings\n> Damage is only considered to have come from a minion if the damage is from a strike or if an effect specifically states that the damage is dealt by the minion. Damage from other effects is considered \"environmental,\" and has no particular source. [RTR 19970630]\n>\nThis has changed (implicitely through card text). The damage inflicted by Vengeful Spirit is inflicted by the retainer: this means that a vampire who is immune to damage dealt by wraiths, or retainers, would take no damage from the Vengeful Spirit. (Wolf Companion will be changed accordingly).\nDamage from minions hasn't changed.\nEnvironmental damage is now reserved to effects that have no specific source (Carrion Crows).\n\nI've edited the General Ruling section.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87874"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 4, 2018, 4:43\u202FPM",
+      "Body": "> Ankha wrote:\n> This has changed (implicitely through card text).\n>\nExcept, the same card text existed at the time the ruling was made. See Murder of Crows, V:TES edition: vtes.pl/card/Vampire-the-Eternal-Struggle/Murder-of-Crows/39363\n\nYou are, of course, entitled to make any ruling you want. If the justification is based on changes introduced by card text, though, it would help if that were true, rather than not true.",
+      "Id": "87908"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Jun 4, 2018, 6:12\u202FPM",
+      "Body": "Just to be sure:\n\nNephandi will reduce the damage coming from the minion.\nDamage inflicted by retainer is not from the minion thus no reducing.\nDamage from other sources (carrion crows) is environmental thus no reducing.\n\nIs that right?\n\nLurking in the underground of Bologna, Italy",
+      "Id": "87911"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 4, 2018, 6:33\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Except, the same card text existed at the time the ruling was made. See Murder of Crows, V:TES edition: vtes.pl/card/Vampire-the-Eternal-Struggle/Murder-of-Crows/39363\n>\n> You are, of course, entitled to make any ruling you want. If the justification is based on changes introduced by card text, though, it would help if that were true, rather than not true.\n>\n> jamesatzephyr wrote:\n> Except, the same card text existed at the time the ruling was made. See Murder of Crows, V:TES edition: vtes.pl/card/Vampire-the-Eternal-Struggle/Murder-of-Crows/39363\n>\nThere are other cards that reference damage from retainers - for example: Eyes of Blade or Carolina V\u00E1lez\n>\n> Non-existant user wrote:\n> Strike: dodge, and this vampire may prevent 1 damage from a retainer.\n> Only usable before range is determined. This round, this vampire cannot strike, and strikes and damage from retainers have no effect on this vampire and any non-retainer cards on him or her.\n>\n> Carolina wrote:\n> Carolina is immune to damage from allies and retainers.\n>\nClarifying exactly which effects apply for these cases seems sensible.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "87914"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 4, 2018, 8:26\u202FPM",
+      "Body": "> drnlmza wrote:\n> There are other cards that reference damage from retainers - for example: Eyes of Blade or Carolina V\u00E1lez\n> ...\n> Clarifying exactly which effects apply for these cases seems sensible.\n>\nEnvironmental damage generated by a retainer card could easily be distinguished from environmental damage generated by a combat card (Carrion Crows), a master card (Spawning Pool), while still both being environmental.\n\nAs I say, Ankha is entitled to make any ruling he wants. However, I would prefer rulings were made from a position of understanding what the ruling actually achieved, rather than knee-jerk re-writing of card text based on facts which aren't true.",
+      "Id": "87918"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2018, 6:11\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > drnlmza wrote:\n> > There are other cards that reference damage from retainers - for example: Eyes of Blade or Carolina V\u00E1lez\n> > ...\n> > Clarifying exactly which effects apply for these cases seems sensible.\n> >\n> Environmental damage generated by a retainer card could easily be distinguished from environmental damage generated by a combat card (Carrion Crows), a master card (Spawning Pool), while still both being environmental.\n>\nThey could be distinguished, but using the same word for two different things is not what I am aiming at. I find it clearer to distinguish explicitly damage that have no source (\"environmental\") from damage that come from a source, including a retainer.\nThat's why all damage-dealing retainers (such as Wolf Companion \"When the minion with this retainer is in combat, the opposing minion takes 1 damage...\") has been changed to indicate the damage come from the retainer explicitely.\n\n> jamesatzephyr wrote:\n> As I say, Ankha is entitled to make any ruling he wants. However, I would prefer rulings were made from a position of understanding what the ruling actually achieved, rather than knee-jerk re-writing of card text based on facts which aren't true.\n>\nThere will be \"disruptive\" changes at some point, for the better. In that case, it still works how it used to work.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87936"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 27, 2021, 8:43\u202FAM",
+      "Body": "> Ankha wrote:\n> 1/ This has changed (implicitely through card text). The damage inflicted by Vengeful Spirit is inflicted by the retainer: this means that a vampire who is immune to damage dealt by wraiths, or retainers, would take no damage from the Vengeful Spirit. (Wolf Companion will be changed accordingly).\n> 2/ Damage from minions hasn't changed.\n> 3/ Environmental damage is now reserved to effects that have no specific source (Carrion Crows).\n>\n> I've edited the General Ruling section.\n>\nREVERSAL: 1/ is still true, but considered environmental (as before): it's environmental damage with a non-minion source\n3/ is not true anymore: \"Environmental\" means \"not inflicted by a minion\" (as before)\n\nReasons: www.vekn.net/forum/rules-questions/79506-clarifying-environmental-damage#104016\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104017"
+    }
+  ]
+}

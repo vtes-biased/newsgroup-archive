@@ -1,0 +1,164 @@
+{
+  "ThreadId": "vekn-76356",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76356-illusions-of-the-kindred-vs-outside-the-hourglass",
+  "Title": "Illusions of the Kindred VS Outside the Hourglass",
+  "Messages": [
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 3, 2018, 9:33\u202FPM",
+      "Body": "Acting minion A enter combat with opposing minion B ( 3 blood ).\n\nA play Outside the Hourglass at , impulse move to B.\nB try to play Illusions of the Kindred at\n\nWhat happen?\n\nA - Illusion of kindred combat ends resolves first then outside the hourglass, B only pay the cost.\nB - B take the damage, then check for cost of the Illusion, no blood then the card fizzle\nC - B pay the cost, take the damage and go to torpor before resolve the combat ends effect.\nD - B pay the cost, take the damage, resolve the new combat of the illusion, and then go to torpor.\n\nIf B is the acting minion, what changes?\n\nIllusions of the Kindred  Combat  Chimerstry 2\n\nOnly usable before range is determined.\nCombat ends. Move the bottom card of your crypt to your ready region. He or she does not contest any other minions or titles in play. The vampire has an amount of blood equal to half of his or her capacity (round down). Combat begins between the vampire and the opposing minion. Remove the crypt card from the game at the end of combat.\nAs above, but the vampire has an amount of blood equal to his or her capacity.\n\nOutside the Hourglass  Combat  Temporis  Obfuscate\n\n: Strike: dodge.\nManeuver, or strike: dodge, with an optional maneuver.\nOnly usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84709"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 3, 2018, 10:46\u202FPM",
+      "Body": "If minion A is acting:\nMinion takes 2 points of damage from Outside the Hourglass immediately and can no longer afford to play Illusions of the Kindred. Combat continues as normal.\n\nIf minion B is acting (and assuming B wants to play IotK at first impulse):\nMinion B plays Illusions of the Kindred. Minion A can choose to play Outside the Hourglass during the IotK combat. There is, however, no opportunity to play it in the original combat because combat has ended. You cannot play a combat card outside of combat.",
+      "Id": "84711"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jan 4, 2018, 12:57\u202FAM",
+      "Body": "> kschaefer wrote:\n> If minion A is acting:\n> Minion takes 2 points of damage from Outside the Hourglass immediately and can no longer afford to play Illusions of the Kindred. Combat continues as normal.\n>\n> If minion B is acting (and assuming B wants to play IotK at first impulse):\n> Minion B plays Illusions of the Kindred. Minion A can choose to play Outside the Hourglass during the IotK combat. There is, however, no opportunity to play it in the original combat because combat has ended. You cannot play a combat card outside of combat.\n>\nVery succinctly put.",
+      "Id": "84712"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 2:14\u202FAM",
+      "Body": "Thanks for the reply, I think that the correct option is C, at the damage resolution step of Outside the Hourglass, B can play any viable card, including Illusions of the Kindred, pay the cost and resolve each card as needed, but the damage still had to be resolved and therefore B goes to torpor ending the combat and the action.\n\nI hope the rulemonger could clarify that.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84714"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2018, 10:32\u202FAM",
+      "Body": "Based on the previous clarification www.vekn.net/forum/rules-questions/76197-still-confused-about-multiple-outside-the-hourglasses#83682\n\n1/ A plays Outside the Hourglass.\n2/ A passes the impulse.\n3/ B plays Illusions of the Kindred (now 0 blood). Combat ends but there's still 2 damage to handle (groups.google.com/d/msg/rec.games.trading-cards.jyhad/UIFzsu-Zips/fafEXIwVn08J)\n4/ B handles the 2 damage by not preventing them and going to torpor.\n\nAt step 3, an effect has been queued after the combat ends. So B is in torpor, and a combat between A and the top crypt card occurs.\nThe fact that B goes to torpor doesn't disrupt a combat between A and another vampire and doesn't end the action right away.\n\nIf B is the acting minion, and plays Illusions of the Kindred before A plays Outside the Hourglass, then combat ends due to IotK and A doesn't have the opportunity to play OtH against B.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84724"
+    },
+    {
+      "Author": "Kuruc",
+      "Date": "Jan 4, 2018, 11:26\u202FAM",
+      "Body": "Hi,\nI'm confused, I thought the strike: combat end is being evaluated immediately when it's played and therefore prior to the Outside the Hourglass.",
+      "Id": "84725"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 12:05\u202FPM",
+      "Body": "What resolve first, can A play amaranth before the new combat start therefore be burned at the bloodhunt referendum and stopping the new combat?\nCan A play a Telepathic Tracking preventing the new combat ? If possible, the combat ends immediately because the opposing minion isn\u2019t ready anymore or there is a timing to play cards like taste of vitae, disarm, amaranth?\n>\n> Ankha wrote:\n> Based on the previous clarification www.vekn.net/forum/rules-questions/76197-still-confused-about-multiple-outside-the-hourglasses#83682\n>\n> 1/ A plays Outside the Hourglass.\n> 2/ A passes the impulse.\n> 3/ B plays Illusions of the Kindred (now 0 blood). Combat ends but there's still 2 damage to handle (groups.google.com/d/msg/rec.games.trading-cards.jyhad/UIFzsu-Zips/fafEXIwVn08J)\n> 4/ B handles the 2 damage by not preventing them and going to torpor.\n>\n> At step 3, an effect has been queued after the combat ends. So B is in torpor, and a combat between A and the top crypt card occurs.\n> The fact that B goes to torpor doesn't disrupt a combat between A and another vampire and doesn't end the action right away.\n>\n> If B is the acting minion, and plays Illusions of the Kindred before A plays Outside the Hourglass, then combat ends due to IotK and A doesn't have the opportunity to play OtH against B.\n>\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84728"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2018, 2:06\u202FPM",
+      "Body": "> Kuruc wrote:\n> Hi,\n> I'm confused, I thought the strike: combat end is being evaluated immediately when it's played and therefore prior to the Outside the Hourglass.\n>\nIt is, but there's still 2 damage to resolve.\nSee also the precedent with Weather Control + Elysium: The Arboreteum (or Alpha Glint, or Illusions of the Kindred)\ngroups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/UIFzsu-Zips/fafEXIwVn08J\n\n> >So vamp A plays a Weather Control and vamp B plays a Illusions of the\n> >Kindred or Alpha Glint, does vamp B still take the damage?\n> Both vampire A and vampire B (and any retainers) take the damage.\n>\n> # Weather Control's damage will occur even if combat is subsequently\n> ended before range (by Mariel or Elysium: Arboretum, e.g.) [LSJ\n> 19971110]\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84731"
+    },
+    {
+      "Author": "Kuruc",
+      "Date": "Jan 4, 2018, 2:24\u202FPM",
+      "Body": "Oh, so when the damage comes from a retainer or it's environmental damage, it still applies even if the opposing vampire take strikes: combat end? So the strike: combat end will only be protected from other damage from strikes (hand damage/ melee damage/gun/etc...)? Does it work in the case of the carrion crows?",
+      "Id": "84732"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 2:41\u202FPM",
+      "Body": "None of these cards are strikes.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84733"
+    },
+    {
+      "Author": "Kuruc",
+      "Date": "Jan 4, 2018, 3:03\u202FPM",
+      "Body": "So if damage is taken sooner than normal strike, it is still applied after the strike: combat end. Out of the fight. So Carrion crows isn\u00B4t enviromental damage?",
+      "Id": "84734"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 4:17\u202FPM",
+      "Body": "Only if the damage is originated from a strike or is explicit, the damage is from the minion, everything else is environmental.\n\nThe carrion damage is at press step that never happen if a strike combat ends occurs.\n\nThe OtH damage happen before maneuver, the impulse move to the opposing minion to resolve the damage, any viable card/effect can be used then including ItK that ends the combat but the damage still have to be resolved.\n@Ankha after ItK ( combat ends ) can B play a combat card to prevent the damage since the combat already ended?\n\nDon\u2019t mix the steps of combat, each one occur in sequence and each card is resolved as played.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84737"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 4, 2018, 5:08\u202FPM",
+      "Body": "Not that I disagree with Ankha's resolution, but Kuruc's misunderstanding is a common problem with VtES combat. There are phases and steps and sort-of, kind-of phases that go before or after those. Each with slightly different rules about how damage or combat ends can play out. It can be very confusing to sort out.\n\nThe rulebook also doesn't really cover pre-range Combat Ends, which makes this all the harder to parse if you don't \"follow the rulings\" closely.\n\n> Non-existant user wrote:\n> Combat Ends. This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike, and it ends combat before other strikes or other strike resolution effects are resolved. Combat ends is effective at any range. Combat ends is not affected by a dodge, since dodge only cancels effects that are directed at the dodging minion.\n>\n> Rules wrote:\n> Combat Ends: A strike that ends combat before any damage or other strike effects happen.\n>\nCan we get some clarification in the rulebook about this? It seems that we've established a system over the years for handling this without ever codifying it.",
+      "Id": "84738"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2018, 5:19\u202FPM",
+      "Body": "> Kuruc wrote:\n> Oh, so when the damage comes from a retainer or it's environmental damage, it still applies even if the opposing vampire take strikes: combat end?\n>\nNo. These damage are inflicted during the normal strike resolution. But since \"Strike: Combat Ends\" resolves before that, the damage isn't \"queued\" and is not applied.\n\n> Kuruc wrote:\n> So the strike: combat end will only be protected from other damage from strikes (hand damage/ melee damage/gun/etc...)? Does it work in the case of the carrion crows?\n>\nNo, strike: combat ends avoids this kind of damage to be taken.\n\n> Kuruc wrote:\n> So if damage is taken sooner than normal strike, it is still applied after the strike: combat end. Out of the fight.\n>\nIt would require damage that is applied between the strike declaration and the strike resolution. I can't think of any card doing that.\n\n> Kuruc wrote:\n> So Carrion crows isn\u00B4t enviromental damage?\n>\nYes it is, in the sense that it is damage that is not inflicted by a minion.\n\n> Sambomb wrote:\n> The carrion damage is at press step that never happen if a strike combat ends occurs.\n>\nNo, it is inflicted during the normal strike resolution (before any additional damage for instance).\n\n> Sambomb wrote:\n> @Ankha after ItK ( combat ends ) can B play a combat card to prevent the damage since the combat already ended?\n>\nThat is an interesting question. If B can prevent the damage, then B can lock a Barrens to draw prevent cards. That would mean that B could also play Outside the Hourglass. That would mean that A could play more cards after B has played Illusions of the Kindred.\nI need to sort this out.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84740"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 4, 2018, 6:41\u202FPM",
+      "Body": "> Ankha wrote:\n> 1/ A plays Outside the Hourglass.\n> 2/ A passes the impulse.\n>\nThat sounds inaccurate.\nA plays Outside the Hourglass. Outside the Hourglass resolves, B suffers 2 damage which opens a prevent phase. Since that is a new phase, A still gets the impulse by default. Only after A declines to play does B get the impulse. If B can tap the Barrens in the prevent phase, so can A.\n>\n> 3/ B plays Illusions of the Kindred (now 0 blood). Combat ends but there's still 2 damage to handle (groups.google.com/d/msg/rec.games.trading-cards.jyhad/UIFzsu-Zips/fafEXIwVn08J)\n>\nI would not bundle those 2 together. In the Weather Control/Mariel case, combat ends before the damage is applied. In the Outside the Hourglass case, combat ends in the prevent phase, after damage has been applied but before it has been resolved. Timing-wise, they are not the same thing.",
+      "Id": "84743"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 7:08\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > The carrion damage is at press step that never happen if a strike combat ends occurs.\n> >\n> No, it is inflicted during the normal strike resolution (before any additional damage for instance).\n>\nI swapped the effect with drawing out the beast, my bad\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84747"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 7:13\u202FPM",
+      "Body": "> Sambomb wrote:\n> What resolve first, can A play amaranth before the new combat start therefore be burned at the bloodhunt referendum and stopping the new combat?\n> Can A play a Telepathic Tracking preventing the new combat ? If possible, the combat ends immediately because the opposing minion isn\u2019t ready anymore or there is a timing to play cards like taste of vitae, disarm, amaranth?\n>\nAny clarification about that?\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84749"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 4, 2018, 9:59\u202FPM",
+      "Body": "> Sambomb wrote:\n> What resolve first, can A play amaranth before the new combat start therefore be burned at the bloodhunt referendum and stopping the new combat?\n>\nThe pending damage still has to be resolved before the combat ends, as per the various precedents Ankha cites (Elysium, Alpha Glint etc.). If that results in a minion going to torpor, being burned etc., then that happens.\n\n> Sambomb wrote:\n> Can A play a Telepathic Tracking preventing the new combat ?\n>\nOnce the damage is resolved, the combat will finally end. If both minions are still ready, you can play Telepathic Tracking at superior, meaning that the combat doesn't end.\n\n> Sambomb wrote:\n> If possible, the combat ends immediately because the opposing minion isn\u2019t ready anymore or there is a timing to play cards like taste of vitae, disarm, amaranth?\n>\nIf the opposing minion isn't ready anymore, you can't play Telepathic Tracking in the first place.\n\nOnly usable at the end of a round when both combatants are still ready and combat is about to end.\n\nIf you haven't finished handling the damage, combat can't end yet - and you could sneak in, for example, playing Skin of Night or Skin of Rock or whatever, and since those are combat cards, you have to still be in combat. Then after finally tidying up the damage, combat ends. Then you play Telepathic Tracking if (and only if) both minions are still ready.",
+      "Id": "84752"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 4, 2018, 10:14\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Kuruc wrote:\n> > So if damage is taken sooner than normal strike, it is still applied after the strike: combat end. Out of the fight.\n> >\n> It would require damage that is applied between the strike declaration and the strike resolution. I can't think of any card doing that.\n>\nHave Alexandra untap a Toreador Prince who has The Treatment on them and is in combat.\n\n(Then set fire to the players involved.)",
+      "Id": "84754"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 4, 2018, 10:33\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > @Ankha after ItK ( combat ends ) can B play a combat card to prevent the damage since the combat already ended?\n> >\n> That is an interesting question. If B can prevent the damage, then B can lock a Barrens to draw prevent cards. That would mean that B could also play Outside the Hourglass. That would mean that A could play more cards after B has played Illusions of the Kindred.\n> I need to sort this out.\n>\nThis is fairly easy to resolve based on the current rules.\n\nConsider the normal situation of two vampires in combat, no freak-ass weird timing issues. We exchange normal speed strikes, but one of them is damage, and one of them isn't damage. The effect of the non-damage strike is therefore applied prior to damage handling. Simplest example is a Theft of Vitae vs hand damage. Strike resolution means that the blood for Theft moves immediately, and the hand damage strike is applied at the same time but you still have the opportunity to prevent damage and then heal damage/burn blood to prevent destruction etc.\n\nAt the point that the Theft of Vitae moves the blood, this can unready the opponent. For example, you might be in combat with an ally who burns immediately from being empty. Alternatively, you might be facing a vampire with Anathema on them and so is burned when they become empty. Instead of Theft of Vitae, you might be facing a Rowan Ring or another \"strike: go to torpor\" effect. Again, the \"go to torpor\" resolves before damage handling kicks in.\n\nBecause one of the minions is no longer ready, combat ends. But the other combatant still, utterly uncontroversially, plays damage prevention such as Skin of Rock to prevent the hand damage, even though combat is trying to end.",
+      "Id": "84755"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 4, 2018, 11:33\u202FPM",
+      "Body": "James, ankha ruled in this topic that the combat ends, a new combat with the next vampire of the cript start and the B minion goes to torpor.\nAnd he isn\u2019t sure yet about combat prevention cards after ItK is played at prevention step since it ends the combat.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84756"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2018, 10:29\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Ankha wrote:\n> > 1/ A plays Outside the Hourglass.\n> > 2/ A passes the impulse.\n> >\n> That sounds inaccurate.\n> A plays Outside the Hourglass. Outside the Hourglass resolves, B suffers 2 damage which opens a prevent phase. Since that is a new phase, A still gets the impulse by default. Only after A declines to play does B get the impulse. If B can tap the Barrens in the prevent phase, so can A.\n>\nThat was the scenario I chose, not a detailed structure of all possible scenarios.\n\n> Non-existant user wrote:\n>\n> > 3/ B plays Illusions of the Kindred (now 0 blood). Combat ends but there's still 2 damage to handle (groups.google.com/d/msg/rec.games.trading-cards.jyhad/UIFzsu-Zips/fafEXIwVn08J)\n> >\n> I would not bundle those 2 together. In the Weather Control/Mariel case, combat ends before the damage is applied. In the Outside the Hourglass case, combat ends in the prevent phase, after damage has been applied but before it has been resolved. Timing-wise, they are not the same thing.\n>\nI did not introduce any bundle. The result is the same: there are pending damage that must be handled before combat ends.\n\n> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> >\n> > > Sambomb wrote:\n> > > @Ankha after ItK ( combat ends ) can B play a combat card to prevent the damage since the combat already ended?\n> > >\n> > That is an interesting question. If B can prevent the damage, then B can lock a Barrens to draw prevent cards. That would mean that B could also play Outside the Hourglass. That would mean that A could play more cards after B has played Illusions of the Kindred.\n> > I need to sort this out.\n> >\n> This is fairly easy to resolve based on the current rules.\n>\n> <snip>\n> Because one of the minions is no longer ready, combat ends. But the other combatant still, utterly uncontroversially, plays damage prevention such as Skin of Rock to prevent the hand damage, even though combat is trying to end.\n>\nWe agree, but what unsettles me is that that damage prevention window allows to play effects that would not have been possible to play otherwise.\nFor instance:\n\nA plays nothing before range.\nB plays Illusions of the Kindred.\nA can't play Torn Signpost (combat has ended)\n\nA plays Outside the Hourglass.\nB plays Illusions of the Kindred.\nThere are 2 damage to prevent.\nA passes the impulse. B plays Skin of Rock. A gets back the impulse and plays Torn Signpost. Etc.\n\nThe combat ends that was previously instantaneous now opens a step that is long enough to play other cards.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84760"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jan 5, 2018, 2:30\u202FPM",
+      "Body": "As a judge I would rule that the effect of combat ends occur after damage resolution so any combat cards that could handle the damage are still valid and all cards are fully handled in order.\n\nIn my example:\nA play OtH, damage resolution step, impulse goes to B.\nB play ItK, impulse goes to A.\nA pass the impulse.\nB still have to resolve the damage, don\u2019t have any other cards to play, goes to torpor, impulse come back to A.\nA play amaranth, taste or whatever.\nCombat ends.\n\nBy ankha rulling, the lingering effects of ItK kicks in starting a new combat. I personally don\u2019t agree with this because since B isn\u2019t ready before the resolution of ItK the lingering effect should be canceled, similar to steal blood of a ally ( or first strike) vs hand strike of the opposing minion.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "84763"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 5, 2018, 2:34\u202FPM",
+      "Body": "> Ankha wrote:\n> We agree, but what unsettles me is that that damage prevention window allows to play effects that would not have been possible to play otherwise.\n> For instance:\n>\n> A plays nothing before range.\n> B plays Illusions of the Kindred.\n> A can't play Torn Signpost (combat has ended)\n>\n> A plays Outside the Hourglass.\n> B plays Illusions of the Kindred.\n> There are 2 damage to prevent.\n> A passes the impulse. B plays Skin of Rock. A gets back the impulse and plays Torn Signpost. Etc.\n>\n> The combat ends that was previously instantaneous now opens a step that is long enough to play other cards.\n>\nTorn Signpost is not playable in the second sequence because you are no longer before range. The Combat Ends prematurely aborts the combat and alters the current step.",
+      "Id": "84764"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2018, 8:37\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > Ankha wrote:\n> > We agree, but what unsettles me is that that damage prevention window allows to play effects that would not have been possible to play otherwise.\n> > For instance:\n> >\n> > A plays nothing before range.\n> > B plays Illusions of the Kindred.\n> > A can't play Torn Signpost (combat has ended)\n> >\n> > A plays Outside the Hourglass.\n> > B plays Illusions of the Kindred.\n> > There are 2 damage to prevent.\n> > A passes the impulse. B plays Skin of Rock. A gets back the impulse and plays Torn Signpost. Etc.\n> >\n> > The combat ends that was previously instantaneous now opens a step that is long enough to play other cards.\n> >\n> Torn Signpost is not playable in the second sequence because you are no longer before range. The Combat Ends prematurely aborts the combat and alters the current step.\n>\nThen replace Torn Signpost by Apparition.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84767"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2018, 8:41\u202FPM",
+      "Body": "> Sambomb wrote:\n> By ankha rulling, the lingering effects of ItK kicks in starting a new combat. I personally don\u2019t agree with this because since B isn\u2019t ready before the resolution of ItK\n>\nIt doesn't matter, because the combat induced by IotK doesn't care about B.\n\n> Sambomb wrote:\n> the lingering effect should be canceled, similar to steal blood of a ally ( or first strike) vs hand strike of the opposing minion.\n>\nThis is a contradictory example since you still resolve the strike of an ally that is dying because of a blood theft. This illustrates that effects that are waiting to resolve don't get canceled because the source of the effect no longer exists.\n(First strike is another matter, because first strike explicitely resolves before resolving a regular strike.)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84768"
+    }
+  ]
+}

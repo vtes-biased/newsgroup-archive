@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-9093",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/9093-darkness-within-s-ce",
+  "Title": "Darkness within + S:CE",
+  "Messages": [
+    {
+      "Author": "TorranceCircle",
+      "Date": "Aug 27, 2011, 2:25\u202FAM",
+      "Body": "If Darkness Within has been played and a minion stikes to end combat, does the minion with Darkness Within in play put a blood on it (during strike resolution) from the other minion? and then do they get that blood?\n\nDarkness Within [SW:U, Third:U, HttB:PKia2]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Obtenebration\n[obt] Put this card into play before range is determined. Once each round, during strike resolution, move 1 blood or life from the opposing minion to this card (even at long range). When combat ends, move half the blood (rounded up) on this card to this vampire and burn this card. A minion can play only one Darkness Within each combat.\n[OBT] As above, with an optional maneuver.\nArtist: William O'Connor\n\nShadow Body [Sabbat:C, SW:PL2]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Obtenebration\n[obt] Strike: combat ends.\n[OBT] As above, and if this vampire was blocked while performing an action other than a political action or bleeding, the action continues as if unblocked.\nArtist: Mike Dringenberg",
+      "Id": "9093"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 27, 2011, 2:43\u202FAM",
+      "Body": "No because s:ce happens before the normal strike resolution.",
+      "Id": "9095"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Aug 27, 2011, 2:59\u202FAM",
+      "Body": "Hi Andy.\n\nI don't see why S:CE would prevent any of the effects of Darkness Within from happening.\n\nDuring strike resolution, you have three steps:\na.Order the strikes.\nb.Apply effects of strike(s).\nc.Prevent damage and then resolve any unprevented damage.\n\nYou could choose to have the blood be lost before the effects of the strikes are applied, since the card doesn't say when during strike resolution it has to happen. The card even tells you, the player, to move the blood, which implies you have active control of the process. When the effect of S:CE is applied, you go to end of the round, then the end of combat. During the combat ends step of combat, the blood from Darkness Within is moved to the vampire and the card burns.\n\nEDIT/ADD: To Klaital: Darkness Within is not itself a strike, so the order in which strikes are applied is irrelevant.\n\nRAW, you should be able to use Darkness Within and Shadow Body together to remove a blood from a blocking vampire at the same time you do your Shadow Body sneakiness.",
+      "Id": "9096"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Aug 27, 2011, 3:23\u202FAM",
+      "Body": "I did a little quick research about effects that occur \"during strike resolution\". All the other effects I found were damage dealing effects, such as Carrion Crows or Murder of Crows.\n\nS:CE protects a minion from such damage because the rules say \"Damage isn't handled until step c.\", and S:CE makes sure step c. never happens.\n\nSince Darkness Within is moving blood and not damage, it shouldn't have to wait until step c.",
+      "Id": "9099"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Aug 27, 2011, 3:35\u202FAM",
+      "Body": "I did a little digging and found  this ruling from LSJ.\n>\n> DW's effect is applied during normal strike resolution. If\n> combat ends before that (First Strike sending someone to torpor,\n> S:CE, etc.), then DW doesn't happen.\n>\n> DW's effect has the same timiing window as Carrion Crows.\n>\nI think that if something is said to occur \"during strike resolution\" it means \"during normal strike resolution\" unless it specifically says otherwise.",
+      "Id": "9101"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Aug 27, 2011, 4:17\u202FAM",
+      "Body": "Oh, I was certain there was a ruling that was against what I just said.\n\nLSJ \"virtually\" changed the card text, then, because RAW, you should be able to apply the blood movement whenever you want.",
+      "Id": "9103"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 27, 2011, 5:12\u202FAM",
+      "Body": "> TorranceCircle wrote:\n> If Darkness Within has been played and a minion stikes to end combat, does the minion with Darkness Within in play put a blood on it (during strike resolution) from the other minion? and then do they get that blood?\n>\n> Darkness Within [SW:U, Third:U, HttB:PKia2]\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Obtenebration\n> [obt] Put this card into play before range is determined. Once each round, during strike resolution, move 1 blood or life from the opposing minion to this card (even at long range). When combat ends, move half the blood (rounded up) on this card to this vampire and burn this card. A minion can play only one Darkness Within each combat.\n> [OBT] As above, with an optional maneuver.\n>\nThe move blood effect happens during strike resolution, and S:CE resolved first. So you won't move the blood.\n\nEDIT: didn't see the answer given just above (which is correct and provides a link).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "9107"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 29, 2011, 8:06\u202FAM",
+      "Body": "> Mael wrote:\n> I did a little digging and found  this ruling from LSJ.\n> >\n> > DW's effect is applied during normal strike resolution. If\n> > combat ends before that (First Strike sending someone to torpor,\n> > S:CE, etc.), then DW doesn't happen.\n> >\n> > DW's effect has the same timiing window as Carrion Crows.\n> >\n> I think that if something is said to occur \"during strike resolution\" it means \"during normal strike resolution\" unless it specifically says otherwise.\n>\nYou are correct.",
+      "Id": "9193"
+    }
+  ]
+}

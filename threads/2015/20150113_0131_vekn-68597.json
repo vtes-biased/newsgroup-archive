@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-68597",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68597-awake-with-evening-freshness-and-fast-reaction",
+  "Title": "Awake With Evening Freshness and Fast Reaction",
+  "Messages": [
+    {
+      "Author": "dabbler",
+      "Date": "Jan 13, 2015, 1:31\u202FAM",
+      "Body": "Can a vampire use AWEF after another vampire has finished combat to use Fast Reaction? Or is there a way to pull the maneuver off?",
+      "Id": "68597"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jan 13, 2015, 7:36\u202FAM",
+      "Body": "Wake and wake-like cards allow to play reaction cards as if untapped.\n\nFast reaction is a reaction card.\n\nI don't see anything preventing a vampire to play fast reaction with a wake.",
+      "Id": "68600"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 13, 2015, 9:36\u202FAM",
+      "Body": "> dabbler wrote:\n> Can a vampire use AWEF after another vampire has finished combat to use Fast Reaction? Or is there a way to pull the maneuver off?\n>\nYes, you can play Fast Reaction with a Wake With Evening's Freshness played after combat.\n\nThe reason why it's yes isn't entirely straightforward. I cite the relevant rules over here: www.vekn.net/forum/6-rules-questions/61715-when-when-not-where\n\nBriefly:\n- by default, due to 6.2 of the rulebook, action modifiers and reactions must be played prior to the resolution of an action. Obviously, quite a few action modifiers and reactions can be played later, such as Freak Drive, due to their explicit card text\n\n- Wake-like effects don't have card text breaking the default rule, but they're allowed anyway, by a ruling cited in that thread:  [LSJ 20091123]\n\n(Honestly, I wish Wake-like cards were their own card type, or a reaction with a keyword. But they're not.)",
+      "Id": "68602"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 13, 2015, 11:56\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> (Honestly, I wish Wake-like cards were their own card type, or a reaction with a keyword. But they're not.)\n>\nIf we ever go back to prints, Vincent and I have quite a bunch of cardtext updates.\nOne of these updates is to have all wake-like cards and effects (and only them) read \"even though tapped\" instead of \"as if untapped\". It's not panacea (I'm not sure we want a \"superfast-as-played-interruption\" cardtype), but it'll make identification of these effects easier.",
+      "Id": "68604"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 13, 2015, 12:35\u202FPM",
+      "Body": "> Pascal wrote:\n> One of these updates is to have all wake-like cards and effects (and only them) read \"even though tapped\" instead of \"as if untapped\". It's not panacea (I'm not sure we want a \"superfast-as-played-interruption\" cardtype),\n>\nWe already have one of those - Reflex cards. They're not (currently) suitable for Wakes due to their rules though it's entirely conceivable that a definition could exist that allowed current Reflex effects (targetting the minion) and Wake-like effects. Then Reflex cards don't have the same \"must be played before resolution\" that reactions and action modifiers have...\n\nNote that the Rulebook text for Reflex cards currently is:\nA minion can play a reflex card to cancel a specified kind of card played against him as it is played.\n\nAnd Wakes obviously don't have to be played in response to a specified kind of card. However, most of that rules text is actually restated on most Reflex cards, such as:\n\nDevil-Channel: Back: ... Cancel a frenzy card played on this vampire as it is played.\n\nFae Contortion: ... Cancel a grapple card played on this vampire as it is played (no cost is paid).\n\nAnd the actual Reflex rule is adding almost nothing - unlike, say, the rulebook text on how action modifiers work adds a whole heap of info on top of Lost in Crowds saying: +1 stealth.\n\n> Pascal wrote:\n> but it'll make identification of these effects easier.\n>\nUh, how? Looking for \"can play reaction cards as if untapped\" and looking for \"can play reactions cards even though tapped\" is the exact same thing. That doesn't change the fact that the cards break the rules all over the place on how reactions work without explicit card text (or rules text) allowing them to be played, even though other reactions require that text. Nor are they esoteric cards played once in 1995 by a bad Setite deck, but pretty central cards that form a central part of a lot of decks.\n\nEven without turning them into Reflex cards (which, while possible, isn't necessary), a simple keyword like \"Wake\" on them, with an explanation in the rulebook, would be melt people's brains a lot, lot less.",
+      "Id": "68605"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 13, 2015, 3:34\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Even without turning them into Reflex cards (which, while possible, isn't necessary), a simple keyword like \"Wake\" on them, with an explanation in the rulebook, would be melt people's brains a lot, lot less.\n>\nThis is the way to go. There's a few things to sort, such as whether use \"wake\" as a verb (for non-reaction cards such as Aye or Gracetius), and if this the case, whether the keyword is used as a verb and a keyword on reaction cards.\n\nFor instance:\n\nWake with Evening's Freshness\nWake. Only usable by a tapped vampire. Do not replace until your untap phase.\nThis vampire can play reaction cards and attempt to block even though tapped until the current action is concluded.\n\nor\n\nWake with Evening's Freshness\nWake. Only usable by a tapped vampire. Do not replace until your untap phase.\nThis vampire wakes (he or she can play reaction cards and attempt to block even though tapped until the current action is concluded).\n\nso we can use:\n\nAye\nTrifle.\nPut this card on a Laibon. This Laibon can tap this card to cancel a frenzy card played on him or her as it is played. This Laibon can burn 1 blood and tap three of his or her Aye to wake (he or she can play reaction cards and attempt to block even though tapped for the current action). If this Laibon burns a minion, equipment, or location, he or she burns one Aye. Burn this card if this Laibon has more Orun and Aye than his or her capacity.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68609"
+    },
+    {
+      "Author": "direwolf",
+      "Date": "Jan 13, 2015, 8:40\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jamesatzephyr wrote:\n> > Even without turning them into Reflex cards (which, while possible, isn't necessary), a simple keyword like \"Wake\" on them, with an explanation in the rulebook, would be melt people's brains a lot, lot less.\n> >\n> This is the way to go. There's a few things to sort, such as whether use \"wake\" as a verb (for non-reaction cards such as Aye or Gracetius), and if this the case, whether the keyword is used as a verb and a keyword on reaction cards.\n>\nWhy is it that when I suggest adding a keyword to the game, everyone gets up in arms on how it's a bad idea, but when someone else does it...\n\nI am for adding the keyword \"Wake\" to cards that have the effect of allowing a vampire to act as if untapped. We do it already, might as well make it official.\n\nIndependent Futurist. Contrarian (titled, X votes where X is the number of votes as the acting minion.) Target Vitals is always the better combat card.",
+      "Id": "68614"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 13, 2015, 8:57\u202FPM",
+      "Body": "> direwolf wrote:\n>\n> > Ankha wrote:\n> >\n> > > jamesatzephyr wrote:\n> > > Even without turning them into Reflex cards (which, while possible, isn't necessary), a simple keyword like \"Wake\" on them, with an explanation in the rulebook, would be melt people's brains a lot, lot less.\n> > >\n> > This is the way to go. There's a few things to sort, such as whether use \"wake\" as a verb (for non-reaction cards such as Aye or Gracetius), and if this the case, whether the keyword is used as a verb and a keyword on reaction cards.\n> >\n> Why is it that when I suggest adding a keyword to the game, everyone gets up in arms on how it's a bad idea, but when someone else does it...\n>\nNothing personal, but it was on the todo list for a while\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68615"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 13, 2015, 9:32\u202FPM",
+      "Body": "> direwolf wrote:\n>\n> > Ankha wrote:\n> >\n> > > jamesatzephyr wrote:\n> > > Even without turning them into Reflex cards (which, while possible, isn't necessary), a simple keyword like \"Wake\" on them, with an explanation in the rulebook, would be melt people's brains a lot, lot less.\n> > >\n> > This is the way to go. There's a few things to sort, such as whether use \"wake\" as a verb (for non-reaction cards such as Aye or Gracetius), and if this the case, whether the keyword is used as a verb and a keyword on reaction cards.\n> >\n> Why is it that when I suggest adding a keyword to the game, everyone gets up in arms on how it's a bad idea, but when someone else does it...\n>\n> I am for adding the keyword \"Wake\" to cards that have the effect of allowing a vampire to act as if untapped. We do it already, might as well make it official.\n>\nman, way to steal my thunder, direwolf.\n\ni had actually been slowly piecing together a post over the course of the day that really let my inner hyperbolic pedant out to play. it included a delightful rant that used  this post to warn everyone of the dangers of possibly adding a keyword to the game, and you beat me to it you rapscallion.\n\nGoofball pedantry aside, I am one thousand percent for standardizing wording templates. I don't know how many cards out there have Wake like effects other than Wake with Evening's freshness, Forced Awakening, Aye, and on the Qui Vive. Ubiquitous as though they are, i'm hesitant to lead the charge and advocate for yet another mechanic that will go undersupported in the future. How many different variations on the theme are there that would justify a keyword with a rule, no matter how simple?\n\nand while we're on the subject, why don't we add a keyword in for the phrase \"After playing this card, you cannot play another action modifier to further increase the bleed for this action.\" surely that would also see some use, too?\n\nI don't know if anyone else plays Warhammer 40,000, but a few editions ago they added in \"Universal Special Rules\" to the main rulebook. at first they were doled out singly and sparingly (eg: \"This model has the Fearless USR\"). Eventually Universal Special Rules tended to show up in a \"Like this, but different\" format (eg: \"this model has the 'Indomitable' rule, and has the \"Feel No Pain\" USR, but on a 4+ instead of a 5+\").\n\nIf we're going to take certain common phrases, standardize them, and represent them with keywords, wonderful. I'm all for it, but there's also a few inherent traps with that as well.",
+      "Id": "68616"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 13, 2015, 10:15\u202FPM",
+      "Body": "> direwolf wrote:\n> Why is it that when I suggest adding a keyword to the game, everyone gets up in arms on how it's a bad idea, but when someone else does it...\n>\nIt depends on the nature of the keyword or rule term.\n\nIf a keyword is used regularly, it's probably fine. Things like \"stealth\" and \"bleed\" and \"unique\" are fine. When we had a small number of regularly-seen titles, they were generally fine - though now we have a lot of them, some players do trip over themselves as to exactly what a Magaji or Regent is or means.\n\nIf a keyword or rules term is much more rarely seen, but has a mountain of subtlety behind it, things become problematic. Paralyse probably falls into that category - it was way too subtle for too little benefit on too few cards. Vulnerability is quite corner case, but way less subtle and also gets away with it for another reason.\n\nKeywords that go on cards that are rarely seen and subtle and other people have to care about them are problematic. Gun basically doesn't mean anything until you play a card requiring a gun. When you play such a card (e.g. ammo, Suppressing Fire), I can read the card and it tells me what it does. Similarly, location doesn't mean a lot without card text. \"Trophy\", however, would be a borderline case, as might \"Red List\" - I might very rarely see a Red List vampire played, but when I do, there's this whole rush-y thing that I can do, and Trophies are similarly a bit weird. We got rid of the cardless contested city rush, which was probably simpler than the Red List implementation. So when you use lesser known keywords that you have to care about, there's rarely a problem - but when other people have to remember exactly how they work, it's less workable. That's partly why Vulnerability as a keyword is actually not too bad - yes, the term turns up on your card, but it's activated by the term on my card, so I probably know what Cold Iron on my poker means, or at least there's a strong clue that I might need to pay attention when something Cold Iron comes into contact with something with Cold Iron Vulnerability.\n\nThe issue with Wake cards is another one again, which is basically: we already have a keyword (or, rather, a key phrase), we're just not openly acknowledging it. The cards say \"can play reaction cards as if untapped\". What they actually mean is \"magic happens here\". The suggestion is simply to formalize something that is already going on - that this phrase implies several magical rules exceptions - and make it more obvious.",
+      "Id": "68617"
+    },
+    {
+      "Author": "direwolf",
+      "Date": "Jan 15, 2015, 4:55\u202FAM",
+      "Body": "TL:DR Keywords aren't trivial, even if adding \"Wake\" to the lexicon seems trivial.\n\nThe whole point of keywords is to make it easier to create other cards to interact with them.\n\nAdding the keyword \"Wake\" in this case, would make it so the design of future cards could include phrases such as \"cancel a Wake card as it is played\" or \"remove a Wake card from the game\" or \"vampires may not play Wake cards during this action\" etc.\n\nThere are in general very few uses of some keywords. Look at \"Investment.\" Aside from the cards that are investments, there is one vampire (two if you count advanced versions separate) and one library card that utilize investments directly.\n\nHaving a keyword for bleed modifiers would shorten the wording on many cards, as well as the examples presented above under \"Wake.\" Having a keyword for Voter Captivation would simplify making cards alternative to Voter Captivation that are exclusive. (There was a whole thread about that one, look it up  )\n\nIndependent Futurist. Contrarian (titled, X votes where X is the number of votes as the acting minion.) Target Vitals is always the better combat card.",
+      "Id": "68648"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 15, 2015, 6:53\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> The issue with Wake cards is another one again, which is basically: we already have a keyword (or, rather, a key phrase), we're just not openly acknowledging it. The cards say \"can play reaction cards as if untapped\". What they actually mean is \"magic happens here\". The suggestion is simply to formalize something that is already going on - that this phrase implies several magical rules exceptions - and make it more obvious.\n>\nCare to elaborate on the specific magicks? Of the last half dozen people I've taught how to play, the biggest hurdle with Wake with Evening's Freshness is that Wake doesn't actually untap the vampire.",
+      "Id": "68664"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 15, 2015, 7:42\u202FPM",
+      "Body": "> self wrote:\n>\n> > jamesatzephyr wrote:\n> > The issue with Wake cards is another one again, which is basically: we already have a keyword (or, rather, a key phrase), we're just not openly acknowledging it. The cards say \"can play reaction cards as if untapped\". What they actually mean is \"magic happens here\". The suggestion is simply to formalize something that is already going on - that this phrase implies several magical rules exceptions - and make it more obvious.\n> >\n> Care to elaborate on the specific magicks? Of the last half dozen people I've taught how to play, the biggest hurdle with Wake with Evening's Freshness is that Wake doesn't actually untap the vampire.\n>\nWake cards are usable whenever you could play any reaction card, whatever its window (as long it's during an action, excluding for instance Rewind Time).\nFor instance, they are the only other reaction cards that can be played in the \"as another card is played\" window, alongside with cancellation cards.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68667"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 15, 2015, 8:03\u202FPM",
+      "Body": "> self wrote:\n> Care to elaborate on the specific magicks? Of the last half dozen people I've taught how to play, the biggest hurdle with Wake with Evening's Freshness is that Wake doesn't actually untap the vampire.\n>\nTwo have already been indicated:\n\n1) Wakes go in the as-played window. It is often difficult to explain to people why a Wake-like card (enabling the play of a reaction like Power of All, for example) can be played in this fashion, but a card that untaps you (which would also enable the play of such a card) is not.\n\n2) Wakes can be played at any point during the action (including after resolution), despite the fact that the rulebook indicates that that can't happen, and no Golden Rule of Cards text is present on such cards.\n\nOthers:\n\n3) If you play an action card and it is cancelled (e.g. by Direct Intervention), there is no action. The action doesn't start and then end -  There is no action. Since there is no action, action modifiers and reactions cannot be played (unless they have card text enabling this). Wakes can be played at this point, even though there is no action. e.g.  [LSJ 20021024]\n\n4) Reaction cards cannot be played in combat, because:\nNote: The only minion cards that can be played during combat are combat cards (unless a card states otherwise, of course).\n\nWakes can:\n[LSJ 20100527]\n>\n> LSJ wrote:\n> > * Legacy of Power\n> > Suppose Michael Luther is rushed.\n> > Can a justicar / inner circle controlled by his controller play Wake\n> > (drawn from entering combat with Michael) + Legacy of Power?\n> Yes.\n>\nLegacy of Power is played inside combat because its card text - \"Only usable when another vampire you control enters combat.\" - requires that. Wakes don't require that. Michael Luther's controller also draws the card when he \"enters combat\" (i.e. in combat), so the Wake is being played in combat, despite no enabling text.",
+      "Id": "68668"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 15, 2015, 11:27\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> [LSJ 20021024]\n>\nthanks for the info, I really appreciate it!\n\nreading it, it seems like LSJ had the ragingest of exception-to-the-rule boners for Wake*, what with being unable to use a true Untap effect (like Rat's Warning) to untap and do something that one would be able to Wake* and do. at least that's what I took away from it. I don't quite understand his thought process on why Wake has to function in the manner it does, but i can accept it. that is probably the strongest case that i can think of that merits changing the card-type for Wake* so that everything else stays consistent.\n\n*and wake-like effects.",
+      "Id": "68669"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 16, 2015, 8:35\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> 3) If you play an action card and it is cancelled (e.g. by Direct Intervention), there is no action. The action doesn't start and then end -  There is no action. Since there is no action, action modifiers and reactions cannot be played (unless they have card text enabling this). Wakes can be played at this point, even though there is no action. e.g.  [LSJ 20021024]\n>\nPlease note that this one is tricky, as there is an *acting* minion, but no action\n[LSJ 20100503]\n\n> LSJ wrote:\n> Someone said:\n> > Pending question :\n> > c- If there is an acting minion, shouldn't there be an action around?\n> There should be, yes. Except that it (the action card) gets canceled\n> as it is played. So the action that should have been ... isn't.\n>",
+      "Id": "68672"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 16, 2015, 8:40\u202FAM",
+      "Body": "> self wrote:\n> I don't quite understand his thought process on why Wake has to function in the manner it does, but i can accept it.\n>\nThe philosophy is: whenever you'd like to play a reaction card with a tapped minion (whatever its window of play), you are able to use a wake card to allow you to play that card.\n\nThere's two exceptions to this rule: you can't play Wake + Rewind Time superior (to cancel a master card as it is played) nor a wake in torpor (since playing reaction cards requires to be ready).\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/Imri5XBC-Fc/CZJgqs8mFqQJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68673"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 16, 2015, 8:43\u202FAM",
+      "Body": "\"Fun\" part now: Wakes are reaction cards, that, per the Rulebook, are usable in response to an action taken.\nThe philosophical question is: in the sequence \"Govern; Wake; Evil Eye sup\", how can Wake be played if there is no action (and not be playable in ToGP + Wake + Rewind Time invalid scenario, where there also is no action) ?",
+      "Id": "68674"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 16, 2015, 9:06\u202FAM",
+      "Body": "> Pascal wrote:\n> \"Fun\" part now: Wakes are reaction cards, that, per the Rulebook, are usable in response to an action taken.\n> The philosophical question is: in the sequence \"Govern; Wake; Evil Eye sup\", how can Wake be played if there is no action (and not be playable in ToGP + Wake + Rewind Time invalid scenario, where there also is no action) ?\n>\nLess philosophically and more \"trying to make the existing rules coherent\", if 6.2 were modified from:\nAction modifiers and reaction cards can be played at any time before resolution during an action (unless otherwise noted on card text), with the acting Methuselah getting the opportunity to play first.\nso that instead of being \"during an action\" it hinged on there being an acting minion, that might help. Which is sort of hinted at here:\n\n[LSJ 20090929]\n>\n> LSJ, wrote:\n> > If Conrad Adoula is blocked by an Assamite with a contract naming her,\n> > and is burned in the resulting combat, if the Assamite plays\n> > Provisions of the Silsila, will that card's cost be increased ?\n> > I don't think so.\n> Yes. Reaction cards can only be played when another Methuselah's minion is acting.\n>\nExcept you then have to also account for the existing situation where an acting minion is burned (or otherwise got rid of somehow e.g. out of play), but where another minion might be entitled to play Cats' Guidance. Which, conveniently, is mentioned in the same ruling:\n\n> LSJ, wrote:\n> > Finally, if the blocking minion burns the acting in combat, can he\n> > play Cats' Guidance inf' ?\n> > I'd say he can.\n> Yes.\n>\nBut since he's been exploded, there is no acting minion, so if you were just to say \"When there is an acting minion...\", things are trickier.\n\nThough none of this really addresses why Wakes can be played in combat. Most of their weird specialness seems to inherit from their ability to enable card cancellers. Except reaction-based card cancellers (e.g. Power of All) can't be played in combat:\n\n[LSJ 20080618]\n>\n> LSJ wrote:\n> >>> Can Power of All be played during combat ?\n> [...]\n> >> Yes, just as DI can be played in combat, despite lacking the same wording.\n> >\n> > Master cards aren't prohibited from being played in combat though.\n> > Minion cards are, and Power of All is a minion card.\n> >\n> > 6.4: Note: The only minion cards that can be played during combat are\n> > combat cards (unless a card states otherwise, of course).\n> Ah, OK.\n>\n> REVERSAL: Power of All cannot be played during combat.\n>",
+      "Id": "68676"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 17, 2015, 2:24\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > self wrote:\n> > I don't quite understand his thought process on why Wake has to function in the manner it does, but i can accept it.\n> >\n> The philosophy is: whenever you'd like to play a reaction card with a tapped minion (whatever its window of play), you are able to use a wake card to allow you to play that card.\n>\n> There's two exceptions to this rule: you can't play Wake + Rewind Time superior (to cancel a master card as it is played) nor a wake in torpor (since playing reaction cards requires to be ready).\n>\n> groups.google.com/d/msg/rec.games.trading-cards.jyhad/Imri5XBC-Fc/CZJgqs8mFqQJ\n>\nRewind Time at superior probably ought to be a reflex, as it fits the current criteria of Reflexes. using a reaction to interact with something that isn't an action is super weird to me. it's also baffling that one can use a Wake where one can not use something that actually untaps a minion. but hey, at least we can always play Wake with Evening's freshness, right?",
+      "Id": "68693"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Jan 17, 2015, 3:50\u202FPM",
+      "Body": "I never quite understood that ruling of Power of All, as I thought the one and only golden rule of cardgames (If a card breaks the rules, card prevails over rules) applied there.",
+      "Id": "68702"
+    }
+  ]
+}

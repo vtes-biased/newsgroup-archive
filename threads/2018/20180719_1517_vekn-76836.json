@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-76836",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76836-orun-barrenness-rtr",
+  "Title": "Orun + Barrenness [RTR]",
+  "Messages": [
+    {
+      "Author": "Emaranhado",
+      "Date": "Jul 19, 2018, 3:17\u202FPM",
+      "Body": "Hey all!\n\nI've a doubt about rullings regarding Orun vs Barrenness. There are three cases, where two of them happened during the game and the third one didn't happened because I didn't wanted to spend another 30 minutes discussing rules without knowing the facts.\nSo, let's get on it!\n\nFirst and foremost, the texts:\n\n[Orun]\nMaster: Triffle\nPut this card on a Laibon. For non-Orun cards played by Methuselahs other than this Laibon's controller, this Laibon is considered to have 2 additional capacity. A Laibon gets an additional vote for every three Orun he or she has. If this Laibon successfully bleeds for more than 2 or successfully performs a  action against a non-mortal minion, he or she burns one Orun. Burn this card if this Laibon has more Orun and Aye than his or her capacity.\n\n[Barrenness]\nAction. Burn Option. Maleficia\n+1 stealth action.\n[mal]  Put this card on a vampire and untap this acting vampire. This vampire is sterile and his or her capacity decreases by 2 (to a minimum of 1.) [mal] is not a Discipline.\n[MAL]  Burn a vampire whose capacity is 1.\n\nWhat happened was:\n\n1)\n- I had [Lucian, the Perfect] on my ready region, with one [Orun].\n- My prey played [Barrenness] on him.\n- I explain that, for non-Orun cards played by other players than me, this laibon is considered having 2 additional capacity.\n- We scratch our heads when calculating Lucian's actual capacity.\n- What we defined after some time was:\n\"When played, Lucian had (illusory?) a capacity of 13. So now, [Barrenness] makes me go to 11 (which I already had).\" So, no changes for me (Lucian's controller).\n\nThis is the first thing I wanted to confirm.\nIf any laibon has more than one [Orun] on him, one Barrenness shouldn't make a difference for the controller of the affected minion, because [Orun] has this weird thing where only I know the real capacity of the vampire, and I surely don't control the [Barrenness] played on him.\n\n2)\n- I had [Nana Buruku] on my ready region, without any [Orun] on her.\n- My prey played [Barrenness] on Nana. Nana is now at 6-capacity and loses 2 blood (because she was full).\n- On my turn, I play [Orun] on her.\n- What we defined was:\n\"Since the [Barrennes] was already in play, the declared amount of capacity would remain reduced, since [Orun] does not increase the capacity of the laibon.\"\n\nThis is easy to understand but, again, is kinda nice to know the rule.\n\n3)\nThis is purely hypothetical now, but I had Orun enough on my hand to make it happen:\n\n- I have [Nana Buruku] on my ready reagion with 0 [Orun] cards and 1 [Barrenness]\n- I play 3 [Orun] cards on her.\n- My prey plays [Barrenness] again.\n\nNow, using the first argument, I would say that, for non-Orun cards played by other methuselahs, Nana is considered a 12-capacity vampire. When the controller of [Barrenness] tells me the actual capacity of the vampire, he tells me \"10\" capacity.\nFor me, nothing has changed, since my prey tells me the capacity of [Nana Buruku] has been \"decreased to 10\".\nBut, for some reason, I have this creeping feeling that [Nana Buruku] should be at least at 8 capacity again or, at most, a 10-capacity (and [Barrenness] would effectively increase my capacity, because it is a card that effectivelly changes the capacity of a vampire).\nFor this exact reason I did not played any other Orun on her. I wouldn't be able to tell what the hell would happen in this case.\n\nI really do enjoy the Orun/Aye mechanics, but this aspect of the mechanic still eludes me.\n\nHave a good one, ppl!",
+      "Id": "89045"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 19, 2018, 3:54\u202FPM",
+      "Body": "Only the superior effect checks the capacity of the target vampire and that is the only effect subject to Orun's \"extra\" capacity.",
+      "Id": "89048"
+    },
+    {
+      "Author": "Emaranhado",
+      "Date": "Jul 19, 2018, 3:58\u202FPM",
+      "Body": "> kschaefer wrote:\n> Only the superior effect checks the capacity of the target vampire and that is the only effect subject to Orun's \"extra\" capacity.\n>\nCould you explain it a bit more? Because I see the check when the text says \"To a minimum of one\".\nAlso, does that mean that the affected minion loses blood?",
+      "Id": "89049"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jul 19, 2018, 4:01\u202FPM",
+      "Body": "Assuming designer intent, Barrenness should ignore Orun on basic and only be affected on superior.\nAnything else would be madness, no?\nI gotta hand it to you: good question.",
+      "Id": "89050"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 19, 2018, 4:11\u202FPM",
+      "Body": "> Emaranhado wrote:\n>\n> > kschaefer wrote:\n> > Only the superior effect checks the capacity of the target vampire and that is the only effect subject to Orun's \"extra\" capacity.\n> >\n> Could you explain it a bit more? Because I see the check when the text says \"To a minimum of one\".\n> Also, does that mean that the affected minion loses blood?\n>\nThat is a parenthetical and can be removed. It's reminder text that you cannot reduce a vampires capacity below 1. It doesn't cause a check, just reminds you of the minimum result possible.",
+      "Id": "89051"
+    },
+    {
+      "Author": "Emaranhado",
+      "Date": "Jul 19, 2018, 4:18\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > Emaranhado wrote:\n> >\n> > > kschaefer wrote:\n> > > Only the superior effect checks the capacity of the target vampire and that is the only effect subject to Orun's \"extra\" capacity.\n> > >\n> > >\n> > Could you explain it a bit more? Because I see the check when the text says \"To a minimum of one\".\n> > Also, does that mean that the affected minion loses blood?\n> >\n> That is a parenthetical and can be removed. It's reminder text that you cannot reduce a vampires capacity below 1. It doesn't cause a check, just reminds you of the minimum result possible.\n>\nWhat about possible blood losses?\nI mean, if it doesn't cause a check, on my mind that means that every object in play remains unchanged. That would not cause the capacity (actual or virtual) to be calculated (until the need for a check) and would not cause blood to be lost.\nSorry for being too insistent on it, but I when I look at it, I correlates it with receiving a Master Discipline, for example, where you the card tells you that your capacity increases and you have another slot for blood.\nIt does not require a check to apply the effect of the new capacity (or at least, I don't see how it does).",
+      "Id": "89052"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 19, 2018, 4:26\u202FPM",
+      "Body": "The check of blood to vampire capacity would occur after the card is attached. That check is looking for: is blood greater than capacity.\n\nAt this point Barrenness is attached to the vampire. The is no \"other Methuselah\" at that point to kick in Orun's (badly written) text.",
+      "Id": "89053"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 19, 2018, 4:31\u202FPM",
+      "Body": "Barrenness at basic gives -2 capacity and doesn't care about the vampire's capacity. The blood in excess of the capacity drains off because of the rules, not because of Barrenness. So Orun has no interaction with Barrenness at basic.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89054"
+    },
+    {
+      "Author": "Emaranhado",
+      "Date": "Jul 19, 2018, 4:33\u202FPM",
+      "Body": "> Ankha wrote:\n> Barrenness at basic gives -2 capacity and doesn't care about the vampire's capacity. The blood in excess of the capacity drains off because of the rules, not because of Barrenness. So Orun has no interaction with Barrenness at basic.\n>\nOn superior, would it be affected?\n\nAlso:\n10 [Orun] and 10 [Barrenness] on a [Lucian, the Perfect]. A third methuselah plays [Golconda, Inner Peace] on Lucian. I receive, then 11 pool (10*2 + 10*(-2) + 11)?",
+      "Id": "89056"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 19, 2018, 8:05\u202FPM",
+      "Body": "> Emaranhado wrote:\n>\n> > Ankha wrote:\n> > Barrenness at basic gives -2 capacity and doesn't care about the vampire's capacity. The blood in excess of the capacity drains off because of the rules, not because of Barrenness. So Orun has no interaction with Barrenness at basic.\n> >\n> On superior, would it be affected?\n>\nYes, for instance you couldn't play Maleficia at superior on a cap 5 vampire with 2 Barrenness attached to him (because the vampire would be of capacity 1, +2 for the Orun, and wouldn't meet the requirement of being a 1-cap). But if the vampire at 3 Barrenness on him, you could (because 5 - 6 + 2 = 1)\n\n> Emaranhado wrote:\n> Also:\n> 10 [Orun] and 10 [Barrenness] on a [Lucian, the Perfect]. A third methuselah plays [Golconda, Inner Peace] on Lucian. I receive, then 11 pool (10*2 + 10*(-2) + 11)?\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89073"
+    }
+  ]
+}

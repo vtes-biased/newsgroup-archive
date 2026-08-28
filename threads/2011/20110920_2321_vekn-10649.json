@@ -1,0 +1,248 @@
+{
+  "ThreadId": "vekn-10649",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/10649-impulse-the-as-played-window-and-you",
+  "Title": "Impulse, The As Played Window and You...",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 20, 2011, 11:21\u202FPM",
+      "Body": "EDIT FROM ANKHA: This topic contains erroneous information.\n\nThis is based on my own understanding, but I am more than happy to edit this with feedback from Pascal Bertrand. (Please keep a close eye on the thread and feel free to make comments).\n\nThis post will be all about Impulse, the \"As Played\" or \"As announced\" window and you!\n\nSo far it includes:  Impulse & As Announced Impulse & Enkil Cog Impulse & Madness Network  I will include more scenarios as people request since I would like this to basically become a FAQ for Impulse.\nImpulse & \"As Announced\"\n\nThe \"As Announced\" Window are cards that have the text: \"Only usable as the action is announced\" (see: Approximation of Loyalty, Seduction, Day Operation, Loose Cannon). I'm going to refer to that as \"As Announced\" or \"is Announced\"\n\nWhen you declare an action:  All cards you must play when an action \"is Announced\" are also played before drawing cards back to your hand size (in the game's terms they were played simultaneously) You cannot play any other cards than those \"Only usable Only usable as the action is announced\" Other players cannot play cards until you are done playing cards \"As Announced\" You should wait for players to respond before asking for block attempts.\nExample:\nMethuselah X has tapped Banjoko and wants to play a Govern the Unaligned at  and also play Seduction at  targeting Cock Robin. Methuselah X needs to play both cards from their hand at the same time. After playing these cards, Methuselah X draws two cards to replace the Govern the Unaligned and the Seduction. Now Methuselah X waits for anyone to declare they would want to play a card in the \"As Announced\" window of the action; this is effectively passing the Impulse around the table. When nobody responds, Methuselah X asks Methuselah Y to declare any blockers. This passes the Impulse to Methuselah Y. Methuselah Y declares a block attempt with Casino Reeds; this passes the Impulse back to Methuselah X so they can play stealth or declare Banjoko to be blocked.\n\nImpulse & Malkavian Madness Network/Enkil Cog\n\nBoth of these cards allow a Methuselah to have their minions acting in someone else's Minion Phase. However, you can't declare an Action without first having the Impulse. You can be given the Impulse by the Methuselah that is currently having their turn; they aren't ending their minion phase by doing this.\n\nImpulse & Enkil Cog\nDuring your turn, you may ask a player who controls a minion with Enkil Cog if they wish to use the Enkil Cog. When you ask that question, or explicitly give them the opportunity you are giving them the Impulse. This gives them the chance to declare an action, they don't have to take an action at that time. If they decline to declare an action then you may continue to declare actions or end your Minion Phase. At the end of your Minion Phase, the Impulse automatically is passed to each Methuselah giving them the opportunity to use effects like Enkil Cog. Even at this stage, you may still declare an action when the Impulse has returned to you.\n\nExample:\nMethuselah X has Cock Robin ready with an Enkil Cog. It is currently Methuselah Y's Minion Phase (Y is the prey of X). Methuselah Y has declared a number of actions and now has finished declaring actions or effects in their Minion Phase. The Impulse then passes to Methuselah Z (who is the prey of Y) and continues around the table until it comes to Methuselah X (Y's predator). Methuselah X declines to tap the Enkil Cog so that Cock Robin can declare an action. The impulse passes to Methuselah Y who ends their Minion Phase. Methuselah X cannot declare an action with Enkil Cog until they gain the Impulse during Methuselah Z's Minion Phase.\n\nImpulse & Malkavian Madness Network\nThis works similarly to the Enkil Cog scenario with this exception: A player may declare any number of actions using the Malkavian Madness Network before passing the Impulse to the next player.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "10649"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 20, 2011, 11:44\u202FPM",
+      "Body": "Some notes:\n\nin  [LSJ 15032003] Scott makes the distinction between \"As card is played\" and \"as action is announced\".\n\nFunny how they use the same example that I used in the other thread.\nMust of been residual memory from reading this in the past...\n\nIn  [LSJ 13022004] Scott explains that you can draw a Seduction from playing an action and use it IF nobody uses DI on the action.\n\nSo, in Impulse terms:\n\nActing Player plays an action. He gives Impulse so players can use \"As card is played\" effects. Like DI. Everybody passes Impulse.\n\nActing Player plays an action modifier \"as action is announced\".\nHe gives Impulse so players can use \"As card is played\" (like DI the Action Modifier) or \"\"as action is announced\" effects (for the action itself).\nBecause now we actually have an action resolving.",
+      "Id": "10651"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 21, 2011, 12:03\u202FAM",
+      "Body": "I put this in a different post because I think that it is a different subject (but not topic).\n\nI also disagree with something you said about the Madness / Cog.\nSorry, mate.\n\nIn  [LSJ 25112008] Scott clarifies that the Acting Player declares all the action that he wishes to do.\nThen he gives away impulse.\nIf nobody uses it, the Acting Player proceeds to Influence Phase even if he still had actions he could do.\n\nThink of it as combat:\n\nPlayer A: Carrion Crows (he has a Torn Signpost in hand, but doesn't know if Players B will play Flesh of Marble, so he chooses not to play it yet).\nHe gives the Impulse away (yes there was the \"as card was played\" thing, but we are ignoring that part here).\n\nPlayer B: Declines to use \"before range\" cards.\n\nPlayer A must proceed for Maneuver stage.",
+      "Id": "10652"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 5:03\u202FAM",
+      "Body": "Brum's answers are correct.\n\nThis post (and the following) explicit rule 1.6.1.5 (Sequencing) of the  Rulebook .\n\nWhen playing an action card\n\nHere's a list of steps we go through when playing an action card:  Play the action card and declare terms (if any). (\"play\" means \"move the card from your hand to the limbo\"). \"as played\" window. Players get the opportunity to use \"as played\" cards. (Nota: except from \"as played\" cards, Wake-likes can be played in this window, as they allow \"as played\" cards to be played -  Rulebook 1.6.1 ). If the action is canceled, do not continue (but replace the action card). Note that cards are NOT replaced in this window. Tap the acting minion and replace the action card. This means he isn't tapped if the action card was DI'd. Play Approximation of Loyalty [inf], announce targets. \"As played\" window for Approximation of Loyalty. Pay for the action modifier. Replace Approximation of Loyalty if Approximation of Loyalty wasn't canceled, it's effect triggers. Rinse and repeat 4-8 for each \"as announced\" action modifier you have.\nNote that sequencing is used in three places in this list:\nIn step 2: targets get the first opportunity to play DI (or prey/pred if action is undirected).\nIn step 5: targets get the first opportunity to play DI (or prey/pred, if action is undirected).\nIn step 9: if you don't pass [the impulse], you can still play \"as announced\" action modifiers.",
+      "Id": "10662"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 5:39\u202FAM",
+      "Body": "Resolving block attempts\n\nHere, we suppose the acting Methuselah has the impulse. There is an undirected action ongoing, currently at 0 stealth.\nI'm not going to describe the fact that, after each card is played, there is an \u00E4s played\" window that follows steps 5-8 above.\nActing Methuselah may play action modifiers as desired (sup' I am Legion, for instance). Stealth can't be added unless necessary ( Rulebook 6.2.2.2 ). Acting Methuselah passes. Prey either declares a block attempt [goto step 4] or passes. If prey passes, predator either declares a block attempt [goto step 4] or passes. If predator passes, grand prey either declares a block attempt [goto step 4] or passes. If grand prey passes, grand predator either declares a block attempt [goto step 4] or passes [goto step 9]. If a player declines to block, their decision is final [unless the target of the action changes] A block attempt was made. The acting Methuselah gets the Impulse back. Acting Methuselah may play action modifiers (loop on step 5). If stealth > intercept, Acting Methuselah can't play stealth cards (but could play \"block attempt fails\" cards). If acting Methuselah passes on using the impulse, blocking methuselah gets the impulse (rather than prey/pred/grand prey/grand pred). Reacting Methuselahs can't gain intercept if their attempt to block has at least the same amount of intercept than the action has stealth. If blocking Methuselah declines using the impulse (for doing things such as tapping the KRCG, playing Enhanced Senses, ...) then we follow the usual path (prey / pred / grand prey / grand pred). If one of these players uses the Impulse (taps KRCG, plays Babble, uses Maris' special ability, plays a Wake, ...), the Impulse goes back to the acting Methuselah [goto step 5]. Otherwise, when everyone has passed, if stealth > intercept, block attampt fails [goto step 3], or if stealth <= intercept, block attempt is successful [goto step 7]. Block attempt is successful. Acting Methuselah gets the Impulse. She may played \"when blocked\" // \"about to enter combat\" cards. When she's done with these, blocking Methuselah gets the Impulse [goto step 8]. Blocking Methuselah may play 1 \"when blocks\" / \"about to enter combat\" effect / card. If she passes, follow the usual prey/pred/grand prey/grand pred flow. If one of these players uses \"when blocks\" / \"about to enter combat\" effects, Impulse goes back to the acting Methuselah [goto step 7]. If all pass, continue with combat [which will be another section, it would be a complete mess if I try to integrate it here ] All players declined to declare block attempts. Acting Methuselah gets the Impulse. She may play action modifiers at will (Conditioning, ..). When she passes the impulse, targets get the Impulse [goto step 10]. Prey gets the impulse to play reaction cards / use effects. If she uses the impulse (plays a card, uses an effect, ..), acting methuselah gets it [goto step 9]. Otherwise, pred gets the impulse. If she uses it, Acting gets it back [got step 9]. Otherwise, grand prey gets the impulse. If she uses it, acting gets it back [goto step 9]. Else, grand pred gets the impulse. If she uses it, acting gets it back [goto step 9]. Else, everyone has passed, and we're about to resolve the action: [goto step 11]. Note that, if the impulse is used to change the target(s) of the action, we go back to step 1) Resolve action (finally!)",
+      "Id": "10665"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 5:43\u202FAM",
+      "Body": "It would probably be easier for me to write the FSM...",
+      "Id": "10666"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 5:58\u202FAM",
+      "Body": "Enkil Cog / Madness Network etiquette\n\nAt least this one is simpler.\nDuring her minion phase, the Methuselah whose turn it is can declare actions (loop on 1) or pass (goto 2). She may not pass if she has pending mandatory actions. Prey gets the Impulse. If she has an Enkil Cog / Malkavian / Ankou, she may declare an action. After that action, go back to 1. Else, goto 3. Grand prey gets the impulse. If she has an Enkil Cog / Malkavian / Ankou, she may declare an action. After that action, go back to 1. Else, goto 4. Grand predator gets the impulse. If she has an Enkil Cog / Malkavian / Ankou, she may declare an action. After that action, go back to 1. Else, goto 5. Predator gets the impulse. If she has an Enkil Cog / Malkavian / Ankou, she may declare an action. After that action, go back to 1. Else, goto 6. Minion phase ends.\n\nThis means that, if the Methuselah whose turn it is passes, and if everyone else passes, the minion phase ends. Either do your actions when you can, or be very confident when you pass the impulse, with expectations that it'll come back.",
+      "Id": "10667"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 21, 2011, 6:25\u202FAM",
+      "Body": "It may be worth editing this whole thread, or maybe creating some standing Stickies to these sorts of things in the Rules Thread (they can then become a reference point for people especially if they are in PLAIN English where possible... I'm sure it makes it easier to translate into other languages without getting too many crossed wires).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "10670"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 6:42\u202FAM",
+      "Body": "That's something I'm considering.\n\nHowever, I'm afraid plain English might be too wordy, when it comes to precisely describing things, with no omission.\nThe other possibility is that it would be confusing. The current statements in the rulebook / outline are sufficient. What I wrote above is explicit, but I didn't create anything. All these steps can be found in either the Rulebook or the Outline.",
+      "Id": "10674"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 21, 2011, 10:33\u202FAM",
+      "Body": "I think its the \"If Then Else\" type statements that bother me. It doesn't feel like English rules, it feels like Computer-Programmer. Maybe that's just me, but not all CCGers are \"Gamers\".\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "10684"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Sep 21, 2011, 11:08\u202FAM",
+      "Body": "It may be worth just deleting the whole thread as the initial post is incorrect on both accounts.\n\nBrum's and Pascal's rulings are of course correct, but when I came here to read this thread, which is obviously meant as a way to explain some of the more obscure and confusing rules to people, I was like \"ummm... no?\" I appreciate the effort, but don't make these threads if you are not 100% sure how it works. It took me 20 seconds to find the relevant rulings one Usenet.\n\nThat said, the \"as announced\" rule is actually pretty straighforward and shouldn't need any clarification.\n\n1) You play a card. You replace it.\n2) You announce the action and play any 'as announced' stuff along with it.\n\nDI and stuff says \"as it is played\". Not as it is announced.\n\nI don't see why this is so confusing for people. Especially with the majority of the action cards having multiple effects it seems pretty trivial playing the card is not the same as announcing the action.",
+      "Id": "10690"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 11:16\u202FAM",
+      "Body": "Well, the tricky part is that \"Govern the Unaligned\" isn't an action. \"Inferior Govern the Unaligned\" or \"Superior Govern the Unaligned on this vampire\" are.\n\"Bum's Rush\" isn't an action. \"Bum's Rush that guy\" is.\n\"Sudario Refraction\" isn't an action, but \"Sudario on Sudario, OtQV and Delaying Tactics\" is.\n\nDeclaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.",
+      "Id": "10691"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Sep 21, 2011, 1:16\u202FPM",
+      "Body": "Then again, the action card is also replaced before DI gets to be played making most of this discussion moot anyway.\n\nYou last post makes me wonder though. You imply here that you first play the card and go like \"superior Govern\". Then people get to DI and everything and after that you decide which guy it's on which is the actual action announcement. This is not be the way people play cards in practice. You go like \"superior Govern to this guy here\". I'd assume this is how it's supposed to work?\n\nOr, can you -theoretially- put a Bum's Rush on the table, have it not DI'd immediately and when you point at a crosstable minion (after giving everyone a reasonable time to decide if they want to DI or not) nobody can DI the card now because you went into the announcing the action phase.\n\nThat seems an awfully confusing timing window that is there just because of, like, 3 cards that cancel cards as they are being played.",
+      "Id": "10699"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 21, 2011, 1:39\u202FPM",
+      "Body": "No, Izaak.\nPlease Pascal's last sentence:\n\n> Pascal wrote:\n> Declaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.\n>\nYou declare where you're going to put the blood from  Govern or the cards you're fetching with Sudario Refraction, or where you target Bum's Rush.\nYou replace and people can DI your action.\n\nFollowup questions for mr. Bertrand:\nI tap Enkil Cog on Arika and play Mind Rape at .\nI say who's mind Arika rapes and somebody plays a DI.\nMy replace was Sudden Reversal.\n\nQ1 - Can I play Sudden to cancel DI?\n\nQ2 - If I choose not to or can't play Sudden, is the tapping of Enkil Cog considered a cost of the action, therefore DI also untaps it? (I think not, but it doesn't hurt to ask)",
+      "Id": "10707"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 21, 2011, 1:54\u202FPM",
+      "Body": "> Brum wrote:\n> Followup questions for mr. Bertrand:\n> I tap Enkil Cog on Arika and play Mind Rape at .\n> I say who's mind Arika rapes and somebody plays a DI.\n> My replace was Sudden Reversal.\n>\n> Q1 - Can I play Sudden to cancel DI?\n>\nNo, you replace after the window for DI has been closed.\n\n> Brum wrote:\n> Q2 - If I choose not to or can't play Sudden, is the tapping of Enkil Cog considered a cost of the action, therefore DI also untaps it? (I think not, but it doesn't hurt to ask)\n>\nLSJ: \"The Cog is still tapped, but as the vampire hasn't yet attempted an action (the\ncanceled action card's action isn't attempted), you can still attempt an action.\n\nOr you may choose not to (since there is no default action) and let the Cog's\n\"attempt action\" effect fizzle.\"\n\ngames.groups.yahoo.com/group/vtes-rules/message/311?var=1\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "10712"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 2:13\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Brum wrote:\n> > Followup questions for mr. Bertrand:\n> > I tap Enkil Cog on Arika and play Mind Rape at .\n> > I say who's mind Arika rapes and somebody plays a DI.\n> > My replace was Sudden Reversal.\n> >\n> > Q1 - Can I play Sudden to cancel DI?\n> >\n> No, you replace after the window for DI has been closed.\n>\nWell, to be a bit more precise, I'll quote the rulebook:\nRulebook 1.6.1.1 wrote:\n>\n> Some effects can cancel a card \"as it is played.\" These effects (and effects that grant the ability to play them, like Forced Awakening) are the only effects allowed during the \"as played\" time period of another card. Even drawing to replace cards comes after this time period.\n>\nThe Enkil Cog link is correct.",
+      "Id": "10714"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 21, 2011, 2:40\u202FPM",
+      "Body": "Thanks. Then, another followup Q:\n\nWhat is the difference between...\n\n\"Tap this card to attempt an action\" - Enkil Cog, not a cost.\n\nand\n\n\"Burn to bleed at +1 bleed as a  action.\" - Strike with Conviction, a cost.\n\n?\n\nI'm rather tired and sleepy, so there might be something obvious I'm overlooking.",
+      "Id": "10717"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Sep 21, 2011, 3:38\u202FPM",
+      "Body": "> No, you replace after the window for DI has been closed.\n>\nOh wow. That's actually in the rulebook too.\n\nYa know, in all fairness judges and players in general should be very aware of this. It means that people that are considering to DI should make this very clear very fast. Because, ya know, when the card is replaced the window for DI closed. DI gets played a LOT after some discussion on a certain play. Since it's impractical to ask for a DI after every card you play, it's up to the guy playing the DI to play the card properly.\n\nI've been in or witnessed many a situation where a, say, Parity Shift was put on the table and excessive discussion took place -before block attempts- who and why would potentially be the target and where the pool would go-. Then when the discussion isn't going in someone's favor (long, long after replacing the card) he goes like \"ah whatever I'll just DI it\". This is clearly illegal play, but I've seen it happen in the finals continental qualifiers and national championships so clearly players and judges are not aware of this.\n\nOr, ya know, just ban DI and DI2",
+      "Id": "10727"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Sep 21, 2011, 3:45\u202FPM",
+      "Body": "> Izaak wrote:\n>\n> > No, you replace after the window for DI has been closed.\n> >\n> Oh wow. That's actually in the rulebook too.\n>\n> Ya know, in all fairness judges and players in general should be very aware of this. It means that people that are considering to DI should make this very clear very fast. Because, ya know, when the card is replaced the window for DI closed. DI gets played a LOT after some discussion on a certain play. Since it's impractical to ask for a DI after every card you play, it's up to the guy playing the DI to play the card properly.\n>\n> I've been in or witnessed many a situation where a, say, Parity Shift was put on the table and excessive discussion took place -before block attempts- who and why would potentially be the target and where the pool would go-. Then when the discussion isn't going in someone's favor (long, long after replacing the card) he goes like \"ah whatever I'll just DI it\". This is clearly illegal play, but I've seen it happen in the finals continental qualifiers and national championships so clearly players and judges are not aware of this.\n>\n> Or, ya know, just ban DI and DI2\n>\nNot really illegal play. There is no specific time frame for each window.\nIf someone asks to pause the game for discussion immediately after the card is played, the 'as played' window can stay open for several minutes.",
+      "Id": "10728"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Sep 21, 2011, 3:47\u202FPM",
+      "Body": "> Pascal wrote:\n> Declaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.\n>\nThis means that you declare terms before you replace your card, because you play D.I. before you replace the card. Wow. I guess a lot of people are going to have to start changing how we announce actions.",
+      "Id": "10730"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 21, 2011, 3:58\u202FPM",
+      "Body": "> Aaron wrote:\n>\n> > Pascal wrote:\n> > Declaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.\n> >\n> This means that you declare terms before you replace your card, because you play D.I. before you replace the card. Wow. I guess a lot of people are going to have to start changing how we announce actions.\n>\nYep, although this was always like this.\nFor masters too. You declare how much you Minion Tap or where Pentex Subversion is going before replacing.\nSo people play Wash / Sudden Reversal before you replace (like in my question about DI VS Sudden).",
+      "Id": "10732"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 4:06\u202FPM",
+      "Body": "> Aaron wrote:\n>\n> > Pascal wrote:\n> > Declaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.\n> >\n> This means that you declare terms before you replace your card, because you play D.I. before you replace the card. Wow. I guess a lot of people are going to have to start changing how we announce actions.\n>\nWell, I don't think people actually play Govern without saying \"inferior\" / \"superior on this vampire\".\n\n(Also note that terms of referendums of political actions are only set when the action is successful)",
+      "Id": "10733"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 4:09\u202FPM",
+      "Body": "> Brum wrote:\n> Thanks. Then, another followup Q:\n>\n> What is the difference between...\n>\n> \"Tap this card to attempt an action\" - Enkil Cog, not a cost.\n>\n> and\n>\n> \"Burn to bleed at +1 bleed as a  action.\" - Strike with Conviction, a cost.\n>\n> ?\n>\n> I'm rather tired and sleepy, so there might be something obvious I'm overlooking.\n>\nTo be honest, the change I see is that the second one has a ruling ( [LSJ 20060421] ), and the first one doesn't.\n\nHowever, I'm putting the wording of SwC to the list of things to monitor.",
+      "Id": "10734"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Sep 21, 2011, 4:21\u202FPM",
+      "Body": "I think the issue is that you have to be very careful about when you replace your card: after you announce terms of the action. But I guess people do that more or less already.\n\nSo: I bleed with Govern the Unaligned / replace with Seduction / I seduce so-and-so.",
+      "Id": "10735"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 21, 2011, 5:44\u202FPM",
+      "Body": "> Brum wrote:\n>\n> > Aaron wrote:\n> >\n> > > Pascal wrote:\n> > > Declaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.\n> > >\n> > >\n> > This means that you declare terms before you replace your card, because you play D.I. before you replace the card. Wow. I guess a lot of people are going to have to start changing how we announce actions.\n> >\n> Yep, although this was always like this.\n> For masters too. You declare how much you Minion Tap or where Pentex Subversion is going before replacing.\n> So people play Wash / Sudden Reversal before you replace (like in my question about DI VS Sudden).\n>\nIt means also that if you replace your Vessel, it's too late to choose and burn a Blood Doll.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "10742"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 21, 2011, 5:45\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > Brum wrote:\n> > Thanks. Then, another followup Q:\n> >\n> > What is the difference between...\n> >\n> > \"Tap this card to attempt an action\" - Enkil Cog, not a cost.\n> >\n> > and\n> >\n> > \"Burn to bleed at +1 bleed as a  action.\" - Strike with Conviction, a cost.\n> >\n> > ?\n> >\n> > I'm rather tired and sleepy, so there might be something obvious I'm overlooking.\n> >\n> To be honest, the change I see is that the second one has a ruling ( [LSJ 20060421] ), and the first one doesn't.\n>\n> However, I'm putting the wording of SwC to the list of things to monitor.\n>\nI thank you for you honesty.\n\nThere are Rulings on both cards as \"being or not cost\" is concerned.\n\nFor this specific point (if the effect of the card in question is \"cost\" or not), I think both have the same type of wording and opposite rulings.\nBoth state something along the format \"do X to attempt Y\".\nI assume every action starts with its \"attempt\", ie fulfilling a set of prerequisites in order for the Action to start (tapping a minion, clan/sect/title/etc. restrictions, being able to pay, etc)\n\nwow! While writing this, the following hit me:\nYou pay every cost -after- the Action resolves without block.\nTherefore, regardless of Rulings, neither use of those cards should count as cost, just as prerequisite.\n\nYou tap Enkil Cog before you declare the Action. If it is Lucinde playing Parity Shift, you have 3 prerequisites there: Enkil Cog, Prince or Justicar and less pool then someone else.\nIf someone DI's it, she'll still be Justicar and Enkil Cog will still let her act.\n\nIF you burn Strike with Conviction when you declare the action, again it should be a prerequisite for that action.\nIf you only burn it after the action is completed, then it is cost.\nAs simple as that, I think.\n\nSo:\n\nQ3: Do you tap Enkil Cog in the same stage in-between-actions that people can use Heidelberg Castle?\nI would say no. I would go as far as saying nobody gets Impulse until the Player using the Cog declares the Action.\n\nQ4: When exactly do you burn Strike with Conviction (assuming the Action is not blocked)?",
+      "Id": "10743"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 6:01\u202FPM",
+      "Body": "> Brum wrote:\n> wow! While writing this, the following hit me:\n> You pay every cost -after- the Action resolves without block.\n> Therefore, regardless of Rulings, neither use of those cards should count as cost, just as prerequisite.\n>\nNo. Pay cost of the action when it is successful, before resolution.\nExample: Pay 1 blood for Torrent Fleetness before entering combat. Pay 3 pool for Veles' Hunt before choosing terms.\n\n> Brum wrote:\n> You tap Enkil Cog before you declare the Action. If it is Lucinde playing Parity Shift, you have 3 prerequisites there: Enkil Cog, Prince or Justicar and less pool then someone else.\n> If someone DI's it, she'll still be Justicar and Enkil Cog will still let her act.\n>\n> IF you burn Strike with Conviction when you declare the action, again it should be a prerequisite for that action.\n> If you only burn it after the action is completed, then it is cost.\n> As simple as that, I think.\n>\nOne side-effect of the current wording is that, if you tap the Ambulance after a combat in which the Imbued burned the SwC to have the Imbued's SwC continue, it will fizzle.\n\n> Brum wrote:\n> So:\n>\n> Q3: Do you tap Enkil Cog in the same stage in-between-actions that people can use Heidelberg Castle?\n> I would say no. I would go as far as saying nobody gets Impulse until the Player using the Cog declares the Action.\n>\nCorrect.  [LSJ 20090209]\n\n> Brum wrote:\n> Q4: When exactly do you burn Strike with Conviction (assuming the Action is not blocked)?\n>\nRight before resolution, when action is successful.  [LSJ 20070831]\nIt works just like Bomb.",
+      "Id": "10744"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 21, 2011, 6:29\u202FPM",
+      "Body": "> Pascal wrote:\n> No. Pay cost of the action when it is successful, before resolution.\n> Example: Pay 1 blood for Torrent before entering combat. Pay 3 pool for Veles' Hunt before choosing terms.\n>\nSorry that's what I meant.\nAnd I don't think you mean Torrent, I think you mean Fleetness.\n\nWe're both over this for a long time today.\n\nBetter call it a night.\n\nEDIT:\n\n> Pascal wrote:\n> One side-effect of the current wording is that, if you tap the Ambulance after a combat in which the Imbued burned the SwC to have the Imbued's SwC continue, it will fizzle.\n>\nJust like a vampire with one  declaring a Govern and using a Elder Impersonation during block attempts.\nGovern fizzels if there is no block.\n\nSo, once again, SwC is cost and Enkil Cog is prerequisite.\n\nGoodnight people!\nMy pElvis has left the building.",
+      "Id": "10752"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 21, 2011, 7:20\u202FPM",
+      "Body": "> Pascal wrote:\n> Resolving block attempts\n>\n> 6. Reacting Methuselahs can't gain intercept if their attempt to block has at least the same amount of intercept than the action has stealth. If blocking Methuselah declines using the impulse (for doing things such as tapping the KRCG, playing Enhanced Senses, ...) then we follow the usual path (prey / pred / grand prey / grand pred). If one of these players uses the Impulse (taps KRCG, plays Babble, uses Maris' special ability, plays a Wake, ...), the Impulse goes back to the acting Methuselah [goto step 5]. Otherwise, when everyone has passed, if stealth > intercept, block attampt fails [goto step 3], or if stealth <= intercept, block attempt is successful [goto step 7].[/li]\n>\nIt should be mentioned that, as long as stealth <= intercept, the target of the action can't be changed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "10757"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 7:26\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Pascal wrote:\n> > Resolving block attempts\n> >\n> > 6. Reacting Methuselahs can't gain intercept if their attempt to block has at least the same amount of intercept than the action has stealth. If blocking Methuselah declines using the impulse (for doing things such as tapping the KRCG, playing Enhanced Senses, ...) then we follow the usual path (prey / pred / grand prey / grand pred). If one of these players uses the Impulse (taps KRCG, plays Babble, uses Maris' special ability, plays a Wake, ...), the Impulse goes back to the acting Methuselah [goto step 5]. Otherwise, when everyone has passed, if stealth > intercept, block attampt fails [goto step 3], or if stealth <= intercept, block attempt is successful [goto step 7].[/li]\n> >\n> It should be mentioned that, as long as stealth <= intercept, the target of the action can't be changed.\n>\nWell, that's quite incorrrect. It happens with Deflection and bleed redirecters because of explicit cardtext. However, it is still perfectly legal to steal someone's vampire via Temptation and, thus, change the targets of the action.\nWhat's missing is that you can't back out.",
+      "Id": "10759"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 23, 2011, 6:36\u202FAM",
+      "Body": "> Aaron wrote:\n>\n> > Pascal wrote:\n> > Declaring terms is done before DI gets to be played. Hence, I suppose, the confusion of the OP.\n> >\n> This means that you declare terms before you replace your card, because you play D.I. before you replace the card. Wow. I guess a lot of people are going to have to start changing how we announce actions.\n>\nThe actual terms are declared after the Political Action (PS) is succesful.\n\nBUT people tend to want to discuss terms beforehand as to know whether they should just DI Parity Shift immediately or not (or intercept the political action). Just for safety's sake.\n\nIn such discussions you could claim that you're not going to pick the player who is pondering DIing as a target (in order, well, not to get the PS DI'd). And if no-one intercepts and voting ensues, you could pick that player as the target of the PS and it would be well too late for her to DI or intercept the action. This is called deal breaking and in some countries is considered bad form and elsewhere clever play...\n\nFinnish  Politics!",
+      "Id": "10842"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 23, 2011, 8:45\u202FAM",
+      "Body": "Let me tell you that in general, you shouldn't break deals in Australia if they don't get you a VP immediately... If you break deals, some players will never make a deal with you again.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "10845"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 23, 2011, 9:31\u202FAM",
+      "Body": "In Portugal is completely frowned upon too.\nTo the extent of people denying to cross table rescue the vamps of deal breakers. Or cross table vote.\n\nWe had a deal breaker once...\nI ate his liver with some fava beans and a nice Chianti. B)",
+      "Id": "10847"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Mar 26, 2012, 6:34\u202FAM",
+      "Body": "This is a nice FAQ for impulse but there is still a few questionmarks, mostly related to older LSJ discussions like:\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/302cefbf5d7ac0f2/1bda0f3a3fe14367?lnk=gst&q=impulse#1bda0f3a3fe14367\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/b772619ad0f15e91/e150f3edc062d01f?lnk=gst&q=impulse#e150f3edc062d01f\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/302cefbf5d7ac0f2/82e5ddb07d73307d?lnk=gst&q=impulse#82e5ddb07d73307d\n\nAccording to these older discussions, passing the impulse can be a deadly mistake. If the enkil cog/madness network methuselah decides to pass instead of taking an action the minion phase is over.\n\nShould this be added to the FAQ or do impulse return to original methuselah regardless what happens?",
+      "Id": "26617"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 26, 2012, 7:39\u202FAM",
+      "Body": "If everyone passes on using the impulse to declare actions, we move on to the next step (minion phase ends, enter the influence phase).",
+      "Id": "26623"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 26, 2012, 10:06\u202FAM",
+      "Body": "> Izaak wrote:\n> It may be worth just deleting the whole thread as the initial post is incorrect on both accounts.\n>\n> Brum's and Pascal's rulings are of course correct, but when I came here to read this thread, which is obviously meant as a way to explain some of the more obscure and confusing rules to people, I was like \"ummm... no?\" I appreciate the effort, but don't make these threads if you are not 100% sure how it works. It took me 20 seconds to find the relevant rulings one Usenet.\n>\n+1. The initial post not being updated and containing obvious errors such as :\n\n> Juggernaut1981 wrote:\n> When you declare an action:  All cards you must play when an action \"is Announced\" are also played before drawing cards back to your hand size (in the game's terms they were played simultaneously)\n> Example:\n> Methuselah X has tapped Banjoko and wants to play a Govern the Unaligned at [dom] and also play Seduction at [DOM] targeting Cock Robin. Methuselah X needs to play both cards from their hand at the same time.\n>\nThis is wrong (I wonder where you got that from). You play the \"as the action is announced\" cards/effects one by one, replacing them one after the other.\n\nI think Floppy is the most adequate person to produce a faq.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "26626"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 26, 2012, 11:14\u202FAM",
+      "Body": "It also states that you go from as announced to declare blockers, and that doing so passes the impulse.\n\nThis isn't true, and causes issues for - in particular - Blessing of Chaos. If I can't play other action modifiers in the 'as announced' window, and then I go straight to passing the impulse to my prey (or whoever) to declare blockers, then I can't escape Blessing of Chaos. Which I currently can, by playing Conditioning before blockers are announced.\n\nIn most cases, you would prefer to wait until later, but this can matter here - you don't get to play the card at all, or you don't get to play it hoping to draw into a Lost in Crowds, or what have you.",
+      "Id": "26627"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 26, 2012, 11:38\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> It also states that you go from as announced to declare blockers, and that doing so passes the impulse.\n>\n> This isn't true, and causes issues for - in particular - Blessing of Chaos. If I can't play other action modifiers in the 'as announced' window, and then I go straight to passing the impulse to my prey (or whoever) to declare blockers, then I can't escape Blessing of Chaos. Which I currently can, by playing Conditioning before blockers are announced.\n>\n> In most cases, you would prefer to wait until later, but this can matter here - you don't get to play the card at all, or you don't get to play it hoping to draw into a Lost in Crowds, or what have you.\n>\nOr Daring the Dawn before blocks are declared to prevent your prey from playing 2nd Trad.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "26629"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 24, 2018, 8:26\u202FAM",
+      "Body": "> Ankha wrote:\n> +1. The initial post not being updated and containing obvious errors such as :\n>\nForum admin could update it in OP's place, or at least put a warning in red on top of that post saying \"this information is not an official ruling, please check the rest of the thread\"\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87419"
+    },
+    {
+      "Author": "Millicent",
+      "Date": "Mar 3, 2025, 5:41\u202FPM",
+      "Body": "I would like to know if there is currently a memorandum like the one in the initial post but updated.",
+      "Id": "113863"
+    }
+  ]
+}

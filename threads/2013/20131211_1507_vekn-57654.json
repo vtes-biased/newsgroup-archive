@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-57654",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/57654-walk-through-arcadia-questions",
+  "Title": "Walk through Arcadia Questions",
+  "Messages": [
+    {
+      "Author": "Mateusz",
+      "Date": "Dec 11, 2013, 3:07\u202FPM",
+      "Body": "I have some \"timing\" questions regarding this card\n\nWalk through Arcadia\nType: Action Modifier\nRequires: Malkavian antitribu\nCost: 1 blood\nFlip a coin. If it comes up heads, this action is unblockable. If it comes up tails, the Malkavian antitribu takes one damage. This damage is not preventable.\n\n1. The card itself does not state that you have to play it as the action is announced, but i guess you can play it at that point (or at least shortly after), correct? In other words, no block is required to play it at all?\n\n2. Assume i perform an action that has stealth already (hunt f.e.) and i get blocked, can i modify the action to (at a chance of 50%) get past the blocker? In case the coinflip fails, can i simply add another stealtmodifier afterwards(maybe one i have drawn to replace WTA)?\n\n3. Can i still play it after blocks are declined by my prey or predator or the target of my action, similar to playing a bleed modifier?\n\nThx for help here!\n\n\"Renegade Garou, can do!\"",
+      "Id": "57654"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2013, 3:59\u202FPM",
+      "Body": "> Mateusz wrote:\n> I have some \"timing\" questions regarding this card\n>\n> Walk through Arcadia\n> Type: Action Modifier\n> Requires: Malkavian antitribu\n> Cost: 1 blood\n> Flip a coin. If it comes up heads, this action is unblockable. If it comes up tails, the Malkavian antitribu takes one damage. This damage is not preventable.\n>\n> 1. The card itself does not state that you have to play it as the action is announced, but i guess you can play it at that point (or at least shortly after), correct? In other words, no block is required to play it at all?\n>\nYou can't play it \"as the action is announced\" but you can play it anytime after. It has an importance if you plan to play another action modifier \"as the action is announced\" (like Approximation of Loyalty) in case you'd lose the flip. You can't.\n\n> Mateusz wrote:\n> 2. Assume i perform an action that has stealth already (hunt f.e.) and i get blocked, can i modify the action to (at a chance of 50%) get past the blocker?\n>\nSure, but you play it before you get blocked. If you say \"I'm blocked\" and then play the card, it doesn't cancel the block. If your prey (for instance) says \"I attempt to block with 1 intercept\", you can play the card to make the block attempt fail (in case you're lucky of course).\n\n> Mateusz wrote:\n> In case the coinflip fails, can i simply add another stealtmodifier afterwards(maybe one i have drawn to replace WTA)?\n>\nSure, we're still in the \"attempt to block\" window.\n\n> Mateusz wrote:\n> 3. Can i still play it after blocks are declined by my prey or predator or the target of my action, similar to playing a bleed modifier?\n>\nSure. But you can't play it after the action has resolved (the window where you'd play a Freak Drive for instance).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "57656"
+    },
+    {
+      "Author": "Mateusz",
+      "Date": "Dec 11, 2013, 4:17\u202FPM",
+      "Body": "Ok, that matches mostly with what i assumed. Thanks for help!\n\n\"Renegade Garou, can do!\"",
+      "Id": "57657"
+    }
+  ]
+}

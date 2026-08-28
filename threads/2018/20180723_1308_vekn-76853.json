@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-76853",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76853-mata-hari-call-the-great-beast",
+  "Title": "Mata Hari + Call the Great Beast",
+  "Messages": [
+    {
+      "Author": "Whisker",
+      "Date": "Jul 23, 2018, 1:08\u202FPM",
+      "Body": "Assuming I have somehow increased Mata's capacity to 11, what happens when she plays Call the Great Beast? Confusion cause Mata's special sees her as Baali for playing the card, but not for other effects once the card is in play (e.g. can't add ritual counters).\n1. Specifically does she burn or not?\n2. If not, can rest of the card trigger or is it tied to 'burning this Baali'?\n\nAnd please no snarky, I know this can be done much easier with Soul Gem and real Baali I'm just curious how this works from rules perspective.\n\ncard texts:\n\nCall the Great Beast\n[Action] Action\n[Baali] Baali\n[1 Blood]\n+1 stealth action.\nPut this card on the acting Baali and put X ritual counters on it, where X is the capacity of this Baali. This Baali may put a ritual counter on this card as a +1 stealth action. When this card has more than 10 ritual counters, burn this Baali and choose three Disciplines. This card becomes a unique clanless independent infernal vampire with 9 capacity, 4 strength and 3 bleed. The Great Beast has the chosen three Disciplines at superior. Move 9 blood to him from the blood bank. The Great Beast can enter combat with any ready minion controlled by another Methuselah as a  action and can prevent 1 damage each combat.\n\nMata Hari\n[aus]\n[for]\n[qui]\n[CHI]\n[OBF]\n[Ravnos] Ravnos\nCapacity: 7\nGroup: 4\nIndependent. Red List: Mata Hari has 2 votes (titled). You and she may play cards that require a sect and/or clan as if she were of that required sect and/or clan.",
+      "Id": "89228"
+    },
+    {
+      "Author": "cordovader",
+      "Date": "Jul 23, 2018, 2:02\u202FPM",
+      "Body": "IMHO she burns like an ordinary Baali since she\u2019s considered as such till the action is concluded.\n\nCheck the effects of Ahrimane Protectorate.",
+      "Id": "89230"
+    },
+    {
+      "Author": "Thin_Blood",
+      "Date": "Jul 23, 2018, 2:03\u202FPM",
+      "Body": "Myself, I would say that Mata Hari can add ritual counters to Call the Great Beast as the card theoretically references that the Baali that put it into play is the one that can add the ritual counters. This also means that once it has 10 ritual counters and becomes The Great Beast that Mata Hari does indeed burn.\n\nSo...you need not bring her capacity to 11 to play the card as she can put ritual counters on it. The idea was pretty solid though that you bring her capacity to 11, play Call the Great Beast and Mata Hari would not burn.\n\nI could be wrong though. Also I have no authority over rules calls so my reply is purely discussion related.\n\n\u201CI don\u2019t have cross table buddies. I have a prey I haven\u2019t gotten around to yet.\u201D \u2014 Shockwave (English VtES Player).",
+      "Id": "89231"
+    },
+    {
+      "Author": "DJHedgehog",
+      "Date": "Jul 23, 2018, 3:10\u202FPM",
+      "Body": "Based on the card texts, I would say that she cannot add counters and cannot burn to create the great beast. If I were writing CtGB and specified Baali, it would be to avoid loopholes like this.\n\nMata can play cards, but she does not meet the requirements of being Baali for the purposes of the card text \"check\".\n\nThis is my interpretation, and will most likely not be correct",
+      "Id": "89237"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Jul 23, 2018, 5:48\u202FPM",
+      "Body": "> Thin_Blood wrote:\n> Myself, I would say that Mata Hari can add ritual counters to Call the Great Beast as the card theoretically references that the Baali that put it into play is the one that can add the ritual counters.\n>\nThat second part is correct, which is why the first one isn't. Since adding counters requires the Baali who put it into play, and Mata Hari ceases to be that Baali as soon as the action resolves, she can't add counters to it.\n\n> Thin_Blood wrote:\n> This also means that once it has 10 ritual counters and becomes The Great Beast that Mata Hari does indeed burn.\n>\nWell, 11 counters, but otherwise correct.\n\nHere's what LSJ had to say about this topic, though he didn't answer the question about adding counters to the card after it's in play:\nLSJ on Mata Hari playing Call the Great Beast: newsgroups.derkeiler.com/Archive/Rec/rec.games.trading-cards.jyhad/2005-11/msg01470.html",
+      "Id": "89243"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 23, 2018, 6:17\u202FPM",
+      "Body": "With 11 counters, LSJ's ruling stands: Mata Hari plays the card as a Baali, and burns because she is capacity 11 during the resolution of the action.\n\nIf she is less than 11, the card comes with counters, but she won't be able to add counters since she plays the card as a Baali, but is unable to use it as a Baali.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89244"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 23, 2018, 6:24\u202FPM",
+      "Body": "> cordovader wrote:\n> IMHO she burns like an ordinary Baali since she\u2019s considered as such till the action is concluded.\n>\nCareful. That's not quite how it works. That card considers her as a Baali for three purposes, but not a fourth:\n\na) For playing the card - that card sees her as a Baali\nb) For resolving the card - that card sees her as a Baali\nc) For lingering effects not dependent on the card being in play - that card sees her as a Baali\nd) For effects based on the card being in play - that card does not see her as a Baali\n\nShe's not considered to be a Baali by anything else. So you can, for example, have Mata Hari play CtGB, and then modify the action with Stiff Contempt (Samedi) and Uncontrolled Impulse (Ishtarri).",
+      "Id": "89246"
+    }
+  ]
+}

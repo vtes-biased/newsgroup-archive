@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-79753",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79753-walk-of-caine-cost",
+  "Title": "Walk of Caine cost",
+  "Messages": [
+    {
+      "Author": "Raven",
+      "Date": "Apr 29, 2022, 9:03\u202FAM",
+      "Body": "Hello,\n\nWalk of Caine\n\nChoose X ready Blood Brothers you control who belong to the same circle as this acting vampire (including this acting vampire). Each chosen vampire must burn a blood, or this card has no effect.\n\ng Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed (limited).\n\nG As g above, but usable any time before the action is resolved.\n\nIn order to play this card I must choose X vampires and burn 1 blood from each of them to get any effect (bold text).\n\nThen I choose (for example) inferior effect. Must I again choose X vampires and again burn 1 blood from each of them or this cost is already satisfied during resolve of bold text?",
+      "Id": "105109"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 29, 2022, 9:39\u202FAM",
+      "Body": "> Raven wrote:\n> Hello,\n>\n> Walk of Caine\n>\n> Choose X ready Blood Brothers you control who belong to the same circle as this acting vampire (including this acting vampire). Each chosen vampire must burn a blood, or this card has no effect.\n>\n> g Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed (limited).\n>\n> G As g above, but usable any time before the action is resolved.\n>\n> In order to play this card I must choose X vampires and burn 1 blood from each of them to get any effect (bold text).\n>\n> Then I choose (for example) inferior effect. Must I again choose X vampires and again burn 1 blood from each of them or this cost is already satisfied during resolve of bold text?\n>\nBlood must be burned only once.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105110"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 29, 2022, 6:10\u202FPM",
+      "Body": "Does the card really need to be written like it is?\nWhy does the \"Choose X...\" need to be there twice?\n\nWould the below not work exactly the same but without causing confusion?\n(removed the second \"Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood to give this Blood Brother\")\n\n> Name: Walk of Caine\n> Cardtype: Action Modifier\n> Discipline: Sanguinus\n> Choose X ready Blood Brothers you control who belong to the same circle as this acting vampire (including this acting vampire). Each chosen vampire must burn a blood, or this card has no effect.\n> {Only usable as a bleed action is announced. +X bleed (limited).}\n> As  above, but usable any time before the action is resolved.\n>\nWalk of Caine\n\nCardtype: Action Modifier\nDiscipline: Sanguinus\nChoose X ready Blood Brothers you control who belong to the same circle as this acting vampire (including this acting vampire). Each chosen vampire must burn a blood, or this card has no effect.\n{Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed (limited).}\nAs  above, but usable any time before the action is resolved.",
+      "Id": "105115"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Apr 29, 2022, 6:12\u202FPM",
+      "Body": "I agree the cardtext is confusing or even straightforward wrong. Bold part should be removed, and \"obligatory blood burn or no effect\" part should be moved to inferior version.",
+      "Id": "105116"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 30, 2022, 5:35\u202FAM",
+      "Body": "Even better\n\n> Name: Walk of Caine\n> Cardtype: Action Modifier\n> Discipline: Sanguinus\n> {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood, or this card has no effect, to give this Blood Brother +X bleed (limited).}\n> As  above, but usable any time before the action is resolved.\n>",
+      "Id": "105119"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 30, 2022, 7:01\u202FAM",
+      "Body": "Looks like someone fumbled the ball when rewording the card to its current text\u2026below is what it used to be when last printed which isn\u2019t ambiguous at all.",
+      "Id": "105120"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 1, 2022, 12:17\u202FPM",
+      "Body": "> inm8 wrote:\n> Looks like someone fumbled the ball when rewording the card to its current text\u2026below is what it used to be when last printed which isn\u2019t ambiguous at all.\n>\nThe bold part in the official cardtext should not be there anymore, it's a duplicate that I forgot to remove when I moved it to the [san] effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105134"
+    },
+    {
+      "Author": "emime",
+      "Date": "May 2, 2022, 12:01\u202FPM",
+      "Body": "Unrelated, but even the [san] effect as newly worded could be misinterpreted, no?\n\nAlthough ludicrous, \"Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed\" could also be interpreted to mean that each BB burning a blood gives +X bleed to the acting BB, so that the total would be +X^2 bleed!\n\nMaybe the original text was better in the end...\n\nEmiliano \"Sans Terre\" - Wandering Player - Prince of Brussels",
+      "Id": "105148"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 2, 2022, 12:25\u202FPM",
+      "Body": "> emime wrote:\n> Unrelated, but even the [san] effect as newly worded could be misinterpreted, no?\n>\n> Although ludicrous, \"Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed\" could also be interpreted to mean that each BB burning a blood gives +X bleed to the acting BB, so that the total would be +X^2 bleed!\n>\n> Maybe the original text was better in the end...\n>\nMaybe \"Each chosen Blood Brother burns 1 blood to give this Blood Brother +1 bleed (each)\" would be better.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105149"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 2, 2022, 4:35\u202FPM",
+      "Body": "Name: Walk of Caine\nCardtype: Action Modifier\nDiscipline: Sanguinus\n{Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood, or this card has no effect.\n+X bleed (limited).}\nAs  above, but usable any time before the action is resolved.",
+      "Id": "105154"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 2, 2022, 5:04\u202FPM",
+      "Body": "> inm8 wrote:\n> Name: Walk of Caine\n> Cardtype: Action Modifier\n> Discipline: Sanguinus\n> {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood, or this card has no effect.\n> +X bleed (limited).}\n> As  above, but usable any time before the action is resolved.\n>\nYou need parentheses around \"including this Blood Brother\" or you'll end up with a functional change.",
+      "Id": "105155"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 2, 2022, 5:52\u202FPM",
+      "Body": "Not my text, i just changed the last portion of the text, but happy to amend it for the sake of the suggestion\n\nName: Walk of Caine\nCardtype: Action Modifier\nDiscipline: Sanguinus\n{Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother (including this Blood Brother). Each chosen Blood Brother burns 1 blood, or this card has no effect.\n+X bleed (limited).}\nAs  above, but usable any time before the action is resolved.",
+      "Id": "105156"
+    }
+  ]
+}

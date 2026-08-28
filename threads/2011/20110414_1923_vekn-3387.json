@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-3387",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3387-enkil-cog",
+  "Title": "Enkil cog",
+  "Messages": [
+    {
+      "Author": "Kar-Chee",
+      "Date": "Apr 14, 2011, 7:23\u202FPM",
+      "Body": "\"During any Methuselah's minion phase, this vampire may tap this card to attempt an action\"\n\nCan i choose when to tap it? Or do i have to wait till that Methuselah finishes all his actions?",
+      "Id": "3387"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 14, 2011, 7:29\u202FPM",
+      "Body": "It has to follow the \"impulse\" sequencing order (think about combat sequencing).\nTo make it short, you have to wait that the \"acting\" Methuselah says \"I'm done with my actions during my minion phase\" before you can use the Enkil Cog.\nAnd after you use it and perform your action, you give the opportunity back to the acting Methuselah to start actions again with his remaining minions.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "3388"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 14, 2011, 7:36\u202FPM",
+      "Body": "> Kar-Chee wrote:\n> \"During any Methuselah's minion phase, this vampire may tap this card to attempt an action\"\n>\n> Can i choose when to tap it? Or do i have to wait till that Methuselah finishes all his actions?\n>\nIt follows the sequencing rule.\n\nBasically, the player whose turn it is is allowed to take any amount of actions.\nWhenever she doesn't want to take any actions anymore, she passes the impulse (basically saying \"I'm done\").\n\nIn that case, the prey gets the impulse to declare actions, and can use her Enkil Cog.\n\nExample: the situation is A => B => C => D => E, and it's A's turn, A performs 3 actions, and says \"I'm done doing actions.\"\nB then gets an opportunity to declare an action. Tap Enkil Cog, do your stuff, and then, A gets the impulse to declare actions.\n\nThis means, A can say \"Ok, I'm done\", watch B tap her last minion with Enkil Cog, and then restart taking bleed actions against B.\n\nNow, trickier : Madness Network is in play, and B and C have Malkavians.\n\nA declares she's done.\nB gets the impulse to declare an action. If B performs ONE action, A gets the impulse right after THAT action (B doesn't get to declare several actions in a row).\nIf B passes, then C gets the impulse. If C declares ONE action, A gets the impulse. And then, A can either declare actions, or pass. If A passes, impulse goes to B, who can then either declare or pass. As above.\n\nWhen impulse reaches E, if E declares an action, A gets the impulse after that. Otherwise, if E passes (most of the time because E doesn't have a Malkavian / Enkil Cog), then A's minion phase is over.\nThis means that, if A says \"OK, I'm going to let you do your Enkil Cog action, and if I don't like it, I'll play this Govern at inferior, instead of the superior I plan to play after your action. Go ahead.\" and all pass, then A can't play her Govern at all.",
+      "Id": "3389"
+    },
+    {
+      "Author": "Kar-Chee",
+      "Date": "Apr 15, 2011, 4:50\u202FAM",
+      "Body": "Thank you guys",
+      "Id": "3392"
+    }
+  ]
+}

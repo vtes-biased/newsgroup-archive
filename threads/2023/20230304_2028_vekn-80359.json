@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-80359",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80359-newbee-question",
+  "Title": "Newbee Question",
+  "Messages": [
+    {
+      "Author": "DaLurka",
+      "Date": "Mar 4, 2023, 8:28\u202FPM",
+      "Body": "Hello Dear kindred,\nmy question on the Card Deep Song (Superior):\nWhat does Frenzy mean on this Card? Has it any effect or restriction?\nI havent found anything on the Rules or here in this forum.\nIs Frenzy a Keyword?\ncheers and thanks",
+      "Id": "107527"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Mar 4, 2023, 11:32\u202FPM",
+      "Body": "It is a keyword, just look for \"Frenzy\" on vdb.im to see how it interacts with other cards using it. Note that not only library cards use it, but also crypt cards.",
+      "Id": "107528"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 5, 2023, 9:52\u202FAM",
+      "Body": "Correct, it's just a label. Some vampires can't have Frenzy cards played on them for instance.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107529"
+    },
+    {
+      "Author": "DaLurka",
+      "Date": "Mar 5, 2023, 1:06\u202FPM",
+      "Body": "I have a 3 more questions:\n\nAction Modifier:\n1. I have heard that a Bleed Action can only be modified once.\nSo i cant play Bonding and Conditioning on the same Action. Correct?\nBut with different minions i could.\nI havent read this in the rules. Or have i missed it?\nAre there more exceptions?\n\n2. If an action is successful (after all blocks are failed) can i play a Action Modifier directly before resolving the Action?\n\n3. Is decline a block and failed block the same?\ni.e. to Play Deflection.\nIf i try to block and raise my intercept +1 my pred increase stealth +2. I declare the block is failed. Can i then play Deflection?\n\nThx for helping.",
+      "Id": "107532"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Mar 5, 2023, 3:47\u202FPM",
+      "Body": "1. Correct, you cannot play two (limited) bleed modifiers. There's no way to play bleed modifiers with multiple minions on the same action (under normal circumstances). Only the acting minion can modify the action.\n\n2. An action is not necessarily successful just because there are no blockers. A bleed can be bounced (e.g. with Deflection), and the next target could block it. But you *can* play modifiers after blocks are declined or are unsuccessful - which I suspect is what you were wondering.\n\n3. Yes, they are essentially the same. You never \"stop\" blocking - you just decline to increase intercept further to make it succeed. Note that some other player could force you to gain intercept, causing you to succeed even though you didn't want or intend to.",
+      "Id": "107533"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Mar 5, 2023, 3:50\u202FPM",
+      "Body": "To be clear on 2, this is a common sequence:\n\nA bleeds.\nB attempts to block.\nA modifies for +stealth.\nB declines to block.\nA modifies for +bleed.\nB plays Deflection.\nC is now being bled for lots, with stealth.",
+      "Id": "107534"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 7, 2023, 7:02\u202FAM",
+      "Body": "> Snodig wrote:\n> 1. Correct, you cannot play two (limited) bleed modifiers.\n>\nThere few odd cards that enable you to bypass this.\n\nSuch as:\n\nCommand of the Beast\n\"Only usable during a bleed action.\ndom +1 bleed (limited).\nDOM +1 bleed that does not count against the limit.\"\n\n> Snodig wrote:\n> Only the acting minion can modify the action.\n>\nAgain there are a few cards to bypass this.\n\nSome of the very limited number of such cards are:\n\nEmpowering the Puppet King\n\"Only usable during a bleed action by a ready unlocked vampire other than the acting minion.\ndom The acting minion gets +1 bleed (limited).\nDOM As above, but usable by a ready locked vampire.\"\n\nCloak the Gathering:\n\"obf: +1 stealth.\nOBF Only usable by a ready vampire other than the acting minion. The acting minion gets +1 stealth.\"\n\nTouch of Clarity:\n\"Usable by an acting minion or any ready unlocked minion.\ndem: Cancel a non-combat card requiring Dementation , Dominate or Presence as it is played, and its cost is not paid. Lock this vampire.\nDEM: As above, but do not lock this vampire.\n\nFinnish  Politics!",
+      "Id": "107555"
+    }
+  ]
+}

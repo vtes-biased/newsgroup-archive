@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-79720",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79720-daring-the-dawn-and-mirror-walk",
+  "Title": "Daring the Dawn and Mirror Walk",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Mar 31, 2022, 7:26\u202FAM",
+      "Body": "If a vampire bleeds and plays Daring the Dawn and superior Mirror Walk and then gets blocked by an ally does the vampire need to deal with the damage from Daring the Dawn?\n\nDaring the Dawn\n\nCardtype: Action Modifier\nDiscipline: Fortitude\nVampires cannot block this action. This vampire takes 2 unpreventable environmental aggravated damage after action resolution.\nAs above, but this vampire takes 1 unpreventable environmental aggravated damage.\n\nMirror Walk\n\nCardtype: Action Modifier\nDiscipline: Thaumaturgy\nDo not replace until your discard phase.\n+1 stealth.\nAs above, and if this action is blocked, lock the blocking minion and end the action before block resolution.",
+      "Id": "104915"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 31, 2022, 7:58\u202FAM",
+      "Body": "> inm8 wrote:\n> If a vampire bleeds and plays Daring the Dawn and superior Mirror Walk and then gets blocked by an ally does the vampire need to deal with the damage from Daring the Dawn?\n>\nYes, they will. The action was blocked, so the action reached action resolution. Block Resolution is just part of action resolution (see the rulebook section \"Resolve an Action\"), so skipping that step doesn't stop \"after action resolution\" consequences.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "104917"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 31, 2022, 9:43\u202FAM",
+      "Body": "Fully agree with you (and is how I interpret the logic as well) but not everyone sees it as such and therefore it is good for us to get an official ruling on it",
+      "Id": "104918"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 31, 2022, 9:43\u202FAM",
+      "Body": "> drnlmza wrote:\n>\n> > inm8 wrote:\n> > If a vampire bleeds and plays Daring the Dawn and superior Mirror Walk and then gets blocked by an ally does the vampire need to deal with the damage from Daring the Dawn?\n> >\n> Yes, they will. The action was blocked, so the action reached action resolution. Block Resolution is just part of action resolution (see the rulebook section \"Resolve an Action\"), so skipping that step doesn't stop \"after action resolution\" consequences.\n>\nCorrect, pending \"after resolution\" effects must be resolved if the action has reached resolution, even if the action is ended.\n\nSee Change of Target vs Daring the Dawn: groups.google.com/g/rec.games.trading-cards.jyhad/c/35vszszGZOA/m/GXrurZ9Rw-oJ\n\n> LSJ wrote:\n> > \"Only usable when this acting minion is blocked (play before combat, if\n> > any). Untap the acting minion, do not tap the blocking minion, and end the\n> > current action. (It is not successful.) This minion cannot perform the same\n> > action again this turn.\"\n> >\n> > It used to say cancel the action or something similar to that instead of\n> > \"end the current action.\" To me that suggests that CoT doesn't remove any\n> > side effects of playing a card such as Force of Will.\n> Exactly.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104919"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Mar 31, 2022, 5:36\u202FPM",
+      "Body": "And how about daring damage after Tangle Antropos' Hand?\n\nOnly usable if a minion attempts to block.\n[pot] Cancel the action and unlock this vampire. (The action is not blocked. Do not lock the blocking minion.)\n[tem] As [pot] above, and take the action card, if any, back in your hand (discard down afterward).\n[TEM] As [tem] above, and this vampire gets +1 stealth on their next action this turn.\n\nNC of Hungary\n\n///",
+      "Id": "104923"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 31, 2022, 7:01\u202FPM",
+      "Body": "Tangle Atropos' Hand \"cancels the action\" which closes the window for playing more modifiers/reactions and triggering effects\nThere is no \"end of action\", the action cannot reach resolution as it is canceled before it\nand any \u201Dafter resolution\u201D delayed effects do not resolve.\n\nIn other words, the damage of Daring the Dawn is not done.",
+      "Id": "104924"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 1, 2022, 7:17\u202FAM",
+      "Body": "> Malachy wrote:\n> And how about daring damage after Tangle Antropos' Hand?\n>\nSince the action is canceled before resolution, it never reaches resolution and therefore effects that would apply \"after action resolution\" are not.\n\n> LSJ wrote:\n> > >First of all, does the Red Herring still cause the Force of\n> > >Will's agg damage to happen? Judge ruled \"no\", since the\n> > >action was canceled, not blocked.\n> Correct - but because the damage happens after the \"action or combat\"\n> is resolved by card text (which never happens).\n>\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/mBvIyoAfuSk/m/hGlG-71CroUJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104927"
+    },
+    {
+      "Author": "johnpaul",
+      "Date": "Apr 26, 2022, 10:18\u202FAM",
+      "Body": "No, the Vampire only needs to deal with the damage when the reaction happens. The assault is still on the stack and the reaction can still happen. So, when the reaction is triggered, the vampire takes damage from daring the dawn and has only one opportunity to block the attacking ally.",
+      "Id": "105082"
+    }
+  ]
+}

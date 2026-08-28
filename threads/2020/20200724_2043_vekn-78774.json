@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-78774",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78774-does-a-methuselah-lose-3-or-4-pool-when-the-vampire-with-fame-enter-torpor-dur",
+  "Title": "Does a Methuselah lose 3 or 4 pool when the Vampire with \"fame\" enter Torpor dur",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jul 24, 2020, 8:43\u202FPM",
+      "Body": "> Fame\n>\n> Put this card on a ready vampire. The controller of this vampire burns 3 pool after this vampire goes to torpor. During each Methuselah's unlock phase, if this vampire is in torpor, that Methuselah burns 1 pool.\n>\nIf a vampire enters Torpor from any effect during the unlock phase, does the controlling player take 3 or 4 total pool damage during the Unlock Phase?",
+      "Id": "100431"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Jul 24, 2020, 9:10\u202FPM",
+      "Body": "\u00BBAny cards or effects that require or allow you to do something during your unlock phase take effect after you have unlocked your cards.\u00AB [Rulebook]\n\nAs long as you have any \"during your unlock phase\" effects lingering, you will have to resolve them.\nIf you have multiple of those effects, you can choose the order of resolution.\n\nIf something happens that adds a \"during your unlock phase (you may)\" effect during your unlock phase, you will have (the option) to resolve it as well.\n[Edit: Otherwise the Emerald Legionnaires chain could not work.]\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "100432"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jul 25, 2020, 9:15\u202FAM",
+      "Body": "My interpretation was, that \"Fame\" checks once per unlock if its bearer is in Torpr or not, and if so, \"inflicts one pool damage\". Under the rule that the active player can order any effect as they see fit, I argued, that you would be able to order fame before \"mercy of seth\" triggers and therefore avoid the 1 pool damage during unlock.\n\n> Mercy for Seth\n> Type: Combat\n> Cost:1 Blood\n> [nec] Strike: put this card on the opposing minion. If this minion is a mortal, he or she is burned. During his or her unlock phase, the minion with this card takes 1 unpreventable damage. The minion with this card may burn it as a +1 stealth action.\n> [NEC] As above, and this strike inflicts 1 damage as well.\n>\nthe question becomes therefore: is the Fame Check always there, regardless of it being in Torpor, or is it added the moment the fame enters torpor.",
+      "Id": "100433"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 25, 2020, 4:09\u202FPM",
+      "Body": "If during your unlock phase, the vampire with Fame is not in torpor, the condition of being in torpor is not met so the Fame effect does not trigger. You cannot consider it to have trigger since the condition is not met.\nBut if at some point during your unlock phase, the vampire with Fame goes to torpor, then the condition is now met and you have 1 pool to burn during your unlock phase. You can't get pass to the next phase until you have burned a pool (unless the vampire leaves torpor during the same phase).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100434"
+    }
+  ]
+}

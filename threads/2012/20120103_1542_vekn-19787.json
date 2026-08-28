@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-19787",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/19787-anesthetic-touch-and-prevention",
+  "Title": "Anesthetic Touch and prevention",
+  "Messages": [
+    {
+      "Author": "Steinar",
+      "Date": "Jan 3, 2012, 3:42\u202FPM",
+      "Body": "Hi!\nI have a question about anesthetic touch at OBE. I know minions can dodge this strike and similar strikes, but is the damage possible to prevent by e.x fortitude?\n\nAnesthetic Touch [BL:C1, LoB:C]\nCardtype: Combat\nDiscipline: Obeah/Auspex\nOnly usable at close range.\n[aus] Strike: dodge.\n[obe] Strike: hand strike. Combat ends immediately after the resolution of this strike.\n[OBE] As [obe] above, with first strike.",
+      "Id": "19787"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 3, 2012, 3:50\u202FPM",
+      "Body": "Yes you can prevent the damage w/ fortitude card (except some strange card restriction that I don't know of). Why wouldn't you ?\n\nThe only case where I have a doubt would be with strike card that prevent damage. I don't know if you can prevent the damage from a first strike strike with a strike that prevent. But I don't know any strike that prevent damage (Bundi, maybe ?)",
+      "Id": "19788"
+    },
+    {
+      "Author": "Steinar",
+      "Date": "Jan 3, 2012, 3:58\u202FPM",
+      "Body": "I just wondered because the combat ends immediately after the strike",
+      "Id": "19789"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 3, 2012, 4:01\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Yes you can prevent the damage w/ fortitude card (except some strange card restriction that I don't know of). Why wouldn't you ?\n>\n> The only case where I have a doubt would be with strike card that prevent damage. I don't know if you can prevent the damage from a first strike strike with a strike that prevent. But I don't know any strike that prevent damage (Bundi, maybe ?)\n>\nNightstick and Forearm Block provide strikes that prevents damage. They don't work against strike with first strike, since they are declared at the same time but resolve after the strike with First strike.\n(Similary, when playing a Theft of Vitae against a First strike, you'll steal the blood once the First strike have resolved.)\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/343cea02b636ce5a?pli=1\n\nName: Nightstick\n[LotN:U]\nCardtype: Equipment\nCost: 1 pool\nMelee weapon.\nStrike: strength+1 damage. Or strike: prevent 3 damage {to this striking minion} from the opposing minion's next hand or melee weapon strike this round (including any currently-resolving hand or melee weapon strike). Only usable once each round.\n\nName: Forearm Block\n[LotN:C]\nCardtype: Combat\nStrike: prevent 2 damage from the opposing minion's next hand strike this round (including any currently-resolving hand strike). If another round of combat occurs, this minion gets first strike on his or her initial strike that round.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "19790"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 3, 2012, 4:04\u202FPM",
+      "Body": "> Steinar wrote:\n> I just wondered because the combat ends immediately after the strike\n>\nEven if the combat ends after the strike, you still have to resolve the strike (including any burn blood due to damage or prevention of that damage.)\nSince \"combat ends\" moves you to the end of the round, you can also play a Disarm right after resolving Anesthetic Touch.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "19791"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Jan 3, 2012, 4:22\u202FPM",
+      "Body": "> Ankha wrote:\n> Nightstick and Forearm Block provide strikes that prevents damage. They don't work against strike with first strike, since they are declared at the same time but resolve after the strike with First strike.\n> (Similary, when playing a Theft of Vitae against a First strike, you'll steal the blood once the First strike have resolved.)\n>\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/343cea02b636ce5a?pli=1\n>\n> Name: Nightstick\n> [LotN:U]\n> Cardtype: Equipment\n> Cost: 1 pool\n> Melee weapon.\n> Strike: strength+1 damage. Or strike: prevent 3 damage {to this striking minion} from the opposing minion's next hand or melee weapon strike this round (including any currently-resolving hand or melee weapon strike). Only usable once each round.\n>\n> Name: Forearm Block\n> [LotN:C]\n> Cardtype: Combat\n> Strike: prevent 2 damage from the opposing minion's next hand strike this round (including any currently-resolving hand strike). If another round of combat occurs, this minion gets first strike on his or her initial strike that round.\n>\nInterestingly enough, although Nightstick and Forearm Block work too late to prevent the damage from the opponent's First Strike, the damage prevention effect is still around and may end up functioning if the opposing minion tries to take any additional strikes (since those would then count as the opposing minion's *next hand strike*).\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "19795"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 3, 2012, 4:37\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Steinar wrote:\n> > I just wondered because the combat ends immediately after the strike\n> >\n> Even if the combat ends after the strike, you still have to resolve the strike (including any burn blood due to damage or prevention of that damage.)\n> Since \"combat ends\" moves you to the end of the round, you can also play a Disarm right after resolving Anesthetic Touch.\n>\nCorrect (however, playing Disarm with Anaesthetic Touch is a pain that was not worth it, when the only options were Matthias + Eye of Hazimel).",
+      "Id": "19796"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Jan 3, 2012, 5:09\u202FPM",
+      "Body": "Somewhat related: how does Autonomic Mastery at DOM fit into all this?\n\nOnly usable at close range.\n[dom] Strike: burn the opposing non-wraith ally or a non-wraith retainer on the opposing minion.\n[DOM] Strike: hand strike. Damage from this strike is reduced to zero. Combat ends immediately after this strike resolves, unless it is dodged. Only usable in combat with a non-wraith ally or a younger vampire.\n\nIs it\n\na) A somewhat restricted way to have a combat ends effect available at dominate, as in that you hit for zero and assuming it's close range and you don't get dodged, combat ends before you're being beaten up.\n\nor\n\nb) Do you still have to deal with being hit for a lot, making the card a very elaborate and confusing way to say that the opposing younger vampire cannot use additional strike or presses this combat?",
+      "Id": "19798"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Jan 3, 2012, 5:37\u202FPM",
+      "Body": "> Steinar wrote:\n> I just wondered because the combat ends immediately after the strike\n>\nThe card says that combat ends immediately after the resolution of the strike. There is a difference.",
+      "Id": "19801"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 3, 2012, 5:42\u202FPM",
+      "Body": "> Izaak wrote:\n> b) Do you still have to deal with being hit for a lot, making the card a very elaborate and confusing way to say that the opposing younger vampire cannot use additional strike or presses this combat?\n>\nI believe it's b). The card mainly serve to burn imbued or other ally with inf dominate, the sup being useful once in a while (or with quick jab or Elimelech)",
+      "Id": "19802"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 3, 2012, 8:28\u202FPM",
+      "Body": "You can't use it with Quick Jab since they ar eboth Strike cards.",
+      "Id": "19821"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 3, 2012, 8:41\u202FPM",
+      "Body": "> Izaak wrote:\n> Somewhat related: how does Autonomic Mastery at DOM fit into all this?\n>\n> Only usable at close range.\n> [dom] Strike: burn the opposing non-wraith ally or a non-wraith retainer on the opposing minion.\n> [DOM] Strike: hand strike. Damage from this strike is reduced to zero. Combat ends immediately after this strike resolves, unless it is dodged. Only usable in combat with a non-wraith ally or a younger vampire.\n>\n> Is it\n>\n> a) A somewhat restricted way to have a combat ends effect available at dominate, as in that you hit for zero and assuming it's close range and you don't get dodged, combat ends before you're being beaten up.\n>\n> or\n>\n> b) Do you still have to deal with being hit for a lot, making the card a very elaborate and confusing way to say that the opposing younger vampire cannot use additional strike or presses this combat?\n>\nb).\n\"Combat ends after resolution of this strike\" means the strike is resolved. As both strike resolve simultaneously (if noone is using Dodge, S:CE or first strike), you get to deal with the opponent's punch before combat actually ends.",
+      "Id": "19825"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Jan 3, 2012, 9:12\u202FPM",
+      "Body": "Kay\n\nOne more card for on the wall.",
+      "Id": "19829"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Jan 4, 2012, 8:13\u202FAM",
+      "Body": "> Izaak wrote:\n> Kay\n>\n> One more card for on the wall.\n>\nSaw it the first time, put it right on the wall.\n\npckvtes.wordpress.com",
+      "Id": "19864"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Jan 4, 2012, 8:50\u202FAM",
+      "Body": "Yeh\n\nThe sad part is that if it actually did what it intuitively should do (ie, end combat before being beaten up) it would be a decently playable card. Still not anything like a real combat ends, but it might actually see some play alongside proper combat ends because of the anti-ally effect at inferior.\n\nI mean, what on earth was LSJ smoking when he made the cardtext for the superior up?",
+      "Id": "19866"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 4, 2012, 9:44\u202FAM",
+      "Body": "> Izaak wrote:\n> The sad part is that if it actually did what it intuitively should do (ie, end combat before being beaten up) it would be a decently playable card.\n>\nAn hand strike combat end ? Yep, playable. Depending on the meta can range from as good as staredown to the better S:CE.",
+      "Id": "19868"
+    }
+  ]
+}

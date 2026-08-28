@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-78553",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/78553-vtes-db-announcement",
+  "Title": "VTES DB - Announcement",
+  "Messages": [
+    {
+      "Author": "smeeag",
+      "Date": "Mar 31, 2020, 10:42\u202FPM",
+      "Body": "Hi fellow Methuselah,\n\nI want to announce new web card search tool I have done for me and yours:\nvtes-db.smeea.casa/crypt\nvtes-db.smeea.casa/library\n\nWhat it is:\n- Another option to search cards.\n- Clean and simple interface, created by practicing Methuselah for the Kindred.\n- Desktop (that is how I mostly use it) and mobile friendly (optimised for hi-resolution mobile).\n- Free (as in 'liberty', MIT licensed). You literally can modify/run it within minutes at home server, sources are available with permissive license.\n\nWhat it is NOT:\n- Full deck building suite. One day maybe, but so far it is just a card search tool. But nevertheless, it is aimed to be the tool at a search.\n- Production grade software. It is still under development, meaning it works, but there are bugs around. Please report it and I'll do my best to fix it.\n\nSupport:\n- It runs on my home server which is limited with bandwidth/power. Most likely it will work fine, but if you crave for minimal latency you may want self-hosting options for you local computer (described in  Github ). There are no hidden downsides (i.e. spyware / bitcoin miners / other malware).\n- I can help you via   , but please try to first contact in this thread / Github to minimize doubles.\n\nFor lazy antideluvians screenshots (resized to barely visible by forum engine, unfortunately) in the attachments.\n\nHave a good deck-building holidays!",
+      "Id": "99477"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 1, 2020, 7:34\u202FAM",
+      "Body": "After 2 minutes of testing it looks like a very nice substitute for Secret Library. Finally!\n\nCryptvise it might also be nice to be able to choose how the results are organized:\n-by capacity\nor\n-by group\nor\n-alphabetically\n\nFinnish  Politics!",
+      "Id": "99480"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 1, 2020, 7:42\u202FAM",
+      "Body": "I noticed that you've apparently used the latest card text for the text version (I checked just Parity Shift). Nice!\n\nHowever, at least Parity Shift still had the VTES version as the picture. Which might be problematic as some people might not check both.\n\nBTW When I went through and reorganized my cards during winter I noticed that in the later sets White Wolf had started to use larger font when it was possible. IIRC, the change started with Legacies of Blood. So everything that was reprinted since had noticeably larger font (compared to previous editions of those cards) which was way clearer and easier to read.\n\nSimilarly Final Nights experimented all card having miniscule font which tends to be pain in the rear end to read!\n\nFinnish  Politics!",
+      "Id": "99481"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 1, 2020, 7:54\u202FAM",
+      "Body": "The code is very neat, and it works well! Thanks!\nOf course, there's always room for improvement, but since you shared the code, I'm sure there will be some contributors to help\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99482"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 1, 2020, 11:22\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> Cryptvise it might also be nice to be able to choose how the results are organized:\n> -by capacity\n> or\n> -by group\n> or\n> -alphabetically\n>\nNow default sorting for Crypt is done the the following order:\nCapacity -> Group -> Clan -> Name\n\nAnd for Library:\nDiscipline -> Clan -> Type -> Name\n\nI really like to implement other sorting options (and it will be done), but I still have some doubts how to handle it best way (e.g. straight group sorting sounds simple and good, but since it will miss neighbor groups result output is not too useful).\n\n> L\u00F6nkka wrote:\n> I noticed that you've apparently used the latest card text for the text version (I checked just Parity Shift). Nice!\n>\nCard text public available from VEKN: www.vekn.net/card-lists in CSV (which is trivial for conversion to JSON, used in the service), so I assume there will be no problem keeping all card text updated in the future. This text is used for search.\n>\n> L\u00F6nkka wrote:\n> However, at least Parity Shift still had the VTES version as the picture. Which might be problematic as some people might not check both.\n>\nThis part is more tricky. At my disposal I only have outdated pictures and I have no idea where to get it updated. I manually added several missing new crypt cards from Black Chantry site announces, but it is pretty time consuming to keep all base updated this way (especially without reliable source of images).\nWe must either wait for the workaround from BCP... or kindred fellows can contribute and share updated cards with me to be inlcuded",
+      "Id": "99486"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Apr 1, 2020, 2:48\u202FPM",
+      "Body": "a quick source for OFFICIAL text is always welcome\n\nLurking in the underground of Bologna, Italy",
+      "Id": "99488"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Apr 2, 2020, 1:48\u202FPM",
+      "Body": "> smeeag wrote:\n>\n> > L\u00F6nkka wrote:\n> > I noticed that you've apparently used the latest card text for the text version (I checked just Parity Shift). Nice!\n> >\n> Card text public available from VEKN: www.vekn.net/card-lists in CSV (which is trivial for conversion to JSON, used in the service), so I assume there will be no problem keeping all card text updated in the future. This text is used for search.\n> >\n> > L\u00F6nkka wrote:\n> > However, at least Parity Shift still had the VTES version as the picture. Which might be problematic as some people might not check both.\n> >\n> This part is more tricky. At my disposal I only have outdated pictures and I have no idea where to get it updated. I manually added several missing new crypt cards from Black Chantry site announces, but it is pretty time consuming to keep all base updated this way (especially without reliable source of images).\n> We must either wait for the workaround from BCP... or kindred fellows can contribute and share updated cards with me to be inlcuded\n>\nSeems you use images from old version of Lackey/FELD I've created based in revised beta cards text CSV.\n\nSince revised CSV Beta was discontinued, I revert back to official CSV (04/NOV/2019) and recreate all card images.\n\nYou can download all images pack here\nwww.vekn.net/forum/v-tes-inventory-deckbuilding-programs/78088-feld-update-2-71-with-first-blood\n\n*You can use FELD as inspiration to add more features to you project. I like your site.\n\nAnd about CSV, I'm waiting Vincent (Ankha) update official CSV with latest promo cards (Boleslaw Gutowski and Gabriel Tremblay) and Assamite cards reflecting DriveThru release updates.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "99493"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 2, 2020, 3:38\u202FPM",
+      "Body": "> Sydnelson wrote:\n> Seems you use images from old version of Lackey/FELD I've created based in revised beta cards text CSV.\n>\n> Since revised CSV Beta was discontinued, I revert back to official CSV (04/NOV/2019) and recreate all card images.\n>\n> You can download all images pack here\n> www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/78088-feld-update-2-71-with-first-blood\n>\nThat's fantastic!\nBase updated with all your images, thanks a lot!",
+      "Id": "99494"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 2, 2020, 5:02\u202FPM",
+      "Body": "> Sydnelson wrote:\n> And about CSV, I'm waiting Vincent (Ankha) update official CSV with latest promo cards (Boleslaw Gutowski and Gabriel Tremblay) and Assamite cards reflecting DriveThru release updates.\n>\nBoleslaw Gutowski and Gabriel Tremblay have not been released yet, so they won't be included. Assamite cards should be included pretty soon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99497"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 3, 2020, 7:56\u202FAM",
+      "Body": "To mangle a quot from Lando:\n\n\"This deal is getting better all the time!\"\n\nFinnish  Politics!",
+      "Id": "99499"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 13, 2020, 7:03\u202FPM",
+      "Body": "Today it is updated with icons (in addition to text) in some select forms:\n- Crypt+Library > Clan\n- Library > Discipline\n- Library > Card Type\n\nUnfortunately, I cannot implement it for mobile native full-screen select forms, but I belive icons are more important (and for other forms it still works).\n\nAdditionally, there were was a problem for some laptop resolutions showing mobile version (though full-hd display presented), but now it must work. If you experience problems - especially on lower screens - please report and I'll try to fix it.\n\nThere were also several minor fixes/improvements, but not really worth mentioning.\n\nAlso I am open to proposals (except result sorting & preservance of previously chosen search options, both are necessary but I'm still figuring out how to do it).",
+      "Id": "99576"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 14, 2020, 3:54\u202FPM",
+      "Body": "Kudos for this beautiful work smeeag !\n\nThe code looks awesome too.\n\nFor what it's worth, if you'd like to stay up-to-date with card text updates, I opted for downloading the CSV file from VEKN directly on bootstrap for  KRCG , the small tool I wrote for the Codex site.\n\nIt's in Python/Flask too, do not hesitate to copy the parts you like if you want, or to run it directly on your side, independently or as a library (its  available on Pypi ).\n\nIf you'd like to work together on a common tool, I'd be up for it.",
+      "Id": "99585"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Apr 14, 2020, 11:37\u202FPM",
+      "Body": "Smeeag do you code in python? If yes, maybe you can help me in a project. I try to update OCTGN (another online play engine like lackey), but I'm stuck when they change the code to python.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "99588"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 15, 2020, 4:31\u202FAM",
+      "Body": "> lip wrote:\n> For what it's worth, if you'd like to stay up-to-date with card text updates, I opted for downloading the CSV file from VEKN directly on bootstrap for  KRCG , the small tool I wrote for the Codex site.\n>\n> It's in Python/Flask too, do not hesitate to copy the parts you like if you want, or to run it directly on your side, independently or as a library (its  available on Pypi ).\n>\nI just tried 'krcg' (in terminal) and it is very useful ('affinity' feature is super neat). I will definetely start to use it my usual deckbuilding workflow. Thanks for the job!\nAnd I'll take a look how to utilize your existing code to avoid manual database updates (existing solution) to improve VTES DB.\n>\n> Sydnelson wrote:\n> Smeeag do you code in python? If yes, maybe you can help me in a project. I try to update OCTGN (another online play engine like lackey), but I'm stuck when they change the code to python.\n>\nVTES DB is in python, but I'm not like real developer (this is my first/only 'program' and sole purpose to learn python), so my capabilities are very limited. Though, if the task is not big I'll give it a try.\n\nCould you create new thread about this project (with task description)?\nMaybe there will be other fellows ready to help other than me (I never used OTCGN so it could take time just to understand what is happening there).",
+      "Id": "99589"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 15, 2020, 7:36\u202FAM",
+      "Body": "> lip wrote:\n> Kudos for this beautiful work smeeag !\n>\n> The code looks awesome too.\n>\n> For what it's worth, if you'd like to stay up-to-date with card text updates, I opted for downloading the CSV file from VEKN directly on bootstrap for  KRCG , the small tool I wrote for the Codex site.\n>\n> It's in Python/Flask too, do not hesitate to copy the parts you like if you want, or to run it directly on your side, independently or as a library (its  available on Pypi ).\n>\n> If you'd like to work together on a common tool, I'd be up for it.\n>\nYour API should probably include retrieving a card with its unique id too\n\nBasically, anything using the card names is prone to error because of the variations (Heidelberg/Heidelburg), the use of accents, or things such as the base or advanced version of a vampire.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99590"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 15, 2020, 9:00\u202FAM",
+      "Body": "Oh, good point \u263A\uFE0E I added an issue an will try to add that ASAP: github.com/lionel-panhaleux/krcg/issues/14\n\nYou can now retrieve cards by ID in KRCG\n\nFWIW, note the API can handle a bit of misspelling (like missing accents), and advanced vampires can be fetched just by adding the (ADV) text after the name (like most do).\n\nGood bleeding all !",
+      "Id": "99600"
+    }
+  ]
+}

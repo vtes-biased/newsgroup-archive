@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-43471",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43471-petra-resonance-is-a-d-action-right",
+  "Title": "Petra Resonance is a D action, right?",
+  "Messages": [
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Dec 30, 2012, 5:55\u202FPM",
+      "Body": "During the \"shadow finals\" of today's tournament we were starting to wonder whether Petra Resonance was a D action vs all each of the other Methusalah's or not.\n\nMainly for whether you can use Eyes of Argus, and the like, against the player who played Petra Resonance (since AoA gives intercept only against D actions targeting you)\n\nWe thought that since it targets everyone's crypt it must be a D action vs everyone.\n\nPetra Resonance\n+1 stealth action. Not usable if any Methuselah's crypt is empty.\nEach Methuselah reveals the top card of his or her crypt. If there is a tie for highest or lowest cost among the revealed cards, every Methuselah burns 1 pool. Otherwise, the Methuselah revealing the highest cost steals 3 pool from the Methuselah revealing the lowest cost. All Methuselahs shuffle their crypts afterward.\n\nFinnish  Politics!",
+      "Id": "43471"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Dec 30, 2012, 6:01\u202FPM",
+      "Body": "EDITED cause I misread the question",
+      "Id": "43472"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Dec 30, 2012, 9:57\u202FPM",
+      "Body": "I don't think it's a  action. Compare Poison the Well of Life, which explicitly states that every one with a HG can block. I think, because Petra's Resonance lacks a similar cardtext, the action is undirected.\n\n> Name: Poison the Well of Life\n> [LotN:R]\n> Cardtype: Action\n> Discipline: Quietus\n> +1 stealth action.\n> [qui]  Burn a hunting ground.\n> [QUI] Burn all hunting grounds controlled by other Methuselahs. Ready minions controlled by controllers of the hunting grounds may attempt to block as if this were a  action (instead of the usual blockers).\n> Artist: Becky Jollensten\n>",
+      "Id": "43475"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 30, 2012, 10:05\u202FPM",
+      "Body": "Petra Resonance is a D action against all Methuselahs indeed.",
+      "Id": "43477"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Dec 30, 2012, 10:56\u202FPM",
+      "Body": "ok, i was actually going with extrala on this one as undirected but since you said its a D action against all Meths. Can i clarify with this ruling and the use of Pulse of the Cannaile?\n+1 stealth action.\n[aus] For the remainder of this turn, you may look at all Methuselahs' hands.\n[AUS] Put this card on the acting vampire. The vampire with this card gets +2 bleed. A vampire can have only one Pulse of the Canaille.\n\nSo its basic use would be a D action on all meths? Since its related to the above ruling.",
+      "Id": "43478"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Dec 31, 2012, 8:04\u202FAM",
+      "Body": "At least the one we based our reasoning on was from General Rulings:\n\nDirected Actions:\nActions which target another player's hand, uncontrolled region, crypt, or library (or cards therein) are directed at that player. (Actions which target another player's ash heap are undirected by default). [LSJ 20010924] [LSJ 20010926]\n\nSince Petra Resonance targets all player's crypts it must be a D action against each of player.\n\nFinnish  Politics!",
+      "Id": "43482"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Dec 31, 2012, 8:49\u202FAM",
+      "Body": "In an somewhat old post LSJ also stated:\n>\n> The presence of absence of a  symbol has no bearing on the directedness of an action. An action is directed if it targets another Methuselah (which includes the stuff the Methuselah controls). It is undirected if it is not directed (that is, if it targets the controller of the acting minion or targets more than one Methuselah).\n>\n.. and the rules in section 6.2.2.1 state:\n>\n> 6.2.2. Resolve Any Block Attempts\n> 1. Who May Attempt to Block: If the action targets one or more other Methuselahs (or things controlled by other Methuselahs), then the action is called directed, and only the Methuselahs who are targeted (or control the targets) may use their ready untapped minions to attempt to block the action (going clockwise from the acting Methuselah, as usual).\n>\nAnd so I reverse my earlier statement that PR is undirected.",
+      "Id": "43484"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 31, 2012, 11:27\u202FAM",
+      "Body": "Directedness of actions was changed when Keepers of Traditions came out.\n\n> Directed actions. An action is directed if it targets one or more other Methsuelahs, even if it also targets yourself. Directed actions can be blocked by the ready minions controlled by any of the target Methuselahs (going clockwise, as usual).\n>",
+      "Id": "43487"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 31, 2012, 12:28\u202FPM",
+      "Body": "> Pascal wrote:\n> Directedness of actions was changed when Keepers of Traditions came out.\n>\n> > Directed actions. An action is directed if it targets one or more other Methsuelahs, even if it also targets yourself. Directed actions can be blocked by the ready minions controlled by any of the target Methuselahs (going clockwise, as usual).\n> >\nI think there's a typo.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "43488"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Jan 7, 2013, 12:17\u202FPM",
+      "Body": "So what about Seeds of Corruption? If anyone tries to burn it, it is a +1 stealth D action against the Methuselah who has it (who would not block it anyway)?\n\nSeeds of Corruption\n[AH:U5, CE:PTr2]\nCardtype: Action\nCost: 2 blood\nDiscipline: Thaumaturgy\n+1 stealth action.\n[tha]  Put this card on one of your prey's vampires. If the vampire is a Follower of Set, he or she burns 2 additional blood when attempting an action; otherwise, he or she burns 1 additional blood when attempting an action. The vampire's special abilities cannot be used. Any vampire(s) may burn this card with two +1 stealth actions.\n[THA] As above, but the vampire burns 2 additional blood when attempting an action; Followers of Set burn 3 additional blood.\n\nNC of Hungary\n\n///",
+      "Id": "43719"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 7, 2013, 12:55\u202FPM",
+      "Body": "> Malachy wrote:\n> So what about Seeds of Corruption? If anyone tries to burn it, it is a +1 stealth D action against the Methuselah who has it (who would not block it anyway)?\n>\nIt would be a +1 stealth D action for all other Methuselahs than the one with the Seeds. It would be a +1 stealth undirected action for that Methuselah.",
+      "Id": "43727"
+    }
+  ]
+}

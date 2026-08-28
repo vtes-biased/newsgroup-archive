@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-74835",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/74835-pre-tag",
+  "Title": "PRE tag",
+  "Messages": [
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 6, 2016, 7:49\u202FAM",
+      "Body": "Would it be possible to disable rendering the [ pre ] tag on the forum? It breaks people who are copying card text that includes a Presence level. Example: www.vekn.net/forum/rules-questions/72635-dam-the-heart-s-river-and-catatonic-fear\n\nAs far as I know, it worked the right way (for V:TES) on the old forum, so I'm assuming there's a setting somewhere that can be tweaked/modified/overridden.",
+      "Id": "76275"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Apr 10, 2016, 10:15\u202FAM",
+      "Body": "I can't seem to find the way to do it.\n\nIf anyone does, please let me know.\n\nV:EKN Website Coordinator",
+      "Id": "76337"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 16, 2016, 7:21\u202FPM",
+      "Body": "I don't know what the best way to do this is, but looking at the most recent code on www.kunena.org/ there's a file called \"bbcode.php\" which maps each of the tags to the corresponding html. There's this:\n\n'pre' => array(\n'simple_start' => \"<pre>\",\n'simple_end' => \"</pre>\",\n'class' => 'block',\n'allow_in' => array('listitem', 'block', 'columns'),\n'plain_start' => \"<i>\",\n'plain_end' => \"</i>\",\n),\n\nWhich appears to be the code which controls that [ pre ] goes to <pre>. I suspect that commenting it all out (preceding each line with //) or deleting it would do the trick.\n\nWith the current code, it would probably look a bit like:\n\n...\n'tt' => array(\n'simple_start' => \"<tt>\",\n'simple_end' => \"</tt>\",\n'class' => 'inline',\n'allow_in' => array('listitem', 'block', 'columns', 'inline', 'link'),\n'plain_start' => \"<i>\",\n'plain_end' => \"</i>\",\n),\n\n// 'pre' => array(\n// 'simple_start' => \"<pre>\",\n// 'simple_end' => \"</pre>\",\n// 'class' => 'block',\n// 'allow_in' => array('listitem', 'block', 'columns'),\n// 'plain_start' => \"<i>\",\n// 'plain_end' => \"</i>\",\n// ),\n\n'font' => array(\n'mode' => BBCODE_MODE_LIBRARY,\n'allow' => array('_default' => '/^[a-zA-Z0-9._ -]+$/'),\n'method' => 'DoFont',\n'class' => 'inline',\n'allow_in' => array('listitem', 'block', 'columns', 'inline', 'link'),\n),\n...\n\nOr possibly just changing the \"pre\" to something else, like \"preformat\":\n\n'preformat' => array(\n'simple_start' => \"<pre>\",\n'simple_end' => \"</pre>\",\n'class' => 'block',\n'allow_in' => array('listitem', 'block', 'columns'),\n'plain_start' => \"<i>\",\n'plain_end' => \"</i>\",\n),\n\nDisclaimer: completely untested.",
+      "Id": "76462"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 17, 2016, 12:39\u202FPM",
+      "Body": "Thanks. There's probably a little more to do (so that the \"pre\" button in the editor bar uses the new keyword), but that's one idea. (There's a minor nuisance: the change must be done each time the kunena component is updated).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76476"
+    }
+  ]
+}

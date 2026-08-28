@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-75002",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/75002-player-registry-general-rankings-bug",
+  "Title": "Player Registry / General Rankings bug",
+  "Messages": [
+    {
+      "Author": "Pascek",
+      "Date": "Jun 8, 2016, 1:22\u202FAM",
+      "Body": "Hello Gines, Vincent,\n\nAfter the national event in Brazil, we submitted the archons and the RTP were creditted on each player individual profile, but the general rankings page is not adding it up.\n\nCan you please check and advise what happened?\n\nThank you.\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "77135"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 8, 2016, 8:53\u202FAM",
+      "Body": "> Pascek wrote:\n> Hello Gines, Vincent,\n>\n> After the national event in Brazil, we submitted the archons and the RTP were creditted on each player individual profile, but the general rankings page is not adding it up.\n>\n> Can you please check and advise what happened?\n>\n> Thank you.\n>\nThe cron agent that updates the ratings each hour isn't running anymore. I ran the update manually, so it should be ok at the time I write this.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "77136"
+    }
+  ]
+}

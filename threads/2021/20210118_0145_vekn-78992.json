@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-78992",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78992-infernal-servitor-plays-daring-the-dawn",
+  "Title": "Infernal Servitor Plays Daring the Dawn",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Jan 18, 2021, 1:45\u202FAM",
+      "Body": "Here is the scenario:\n\nAn Infernal Servitor who was somehow burned from play (perhaps in combat while blocking an action) is brought back using inferior Pressing Flesh, and so it now has 2 life and may play cards that require basic Fortitude as a vampire. The Servitor bleeds and plays Daring the Dawn. The action resolves successfully.\n\nQuestion:\n1. Does the Servitor (who is scheduled to take 2 agg damage from Daring the Dawn) end up removed from the game or in the ash heap, or may the acting Methuselah choose where it ends up between those two destinations by ordering effects?\n\nSimilar, related questions:\n2. If a Servitor successfully rushes another minion, is it removed from the game prior to combat? (I would presume not, since the combat is part of the action.) 3. If not, and if the Servitor loses all its life during that combat, does it end up in the ash heap, removed from the game, or acting Methuselah's choice?\n\nCard text pasted below.\n\nThanks much!\n-Bill Troxel / Killiam\n\nName: Infernal Servitor\nCardtype: Ally\nCost: 1 pool\nDiscipline: Daimoinon\nUnique demon with 2 life. 1 strength, 3 bleed. Requires an infernal vampire.\n[dai] Infernal Servitor can act the turn it is recruited. Remove it from the game if you control no infernal vampires, or after it performs a successful action.\n[DAI] As above, and the Servitor can play cards requiring basic Daimoinon [dai] {and/or} Obfuscate [obf] as a vampire.\n\nName: Pressing Flesh\nCardtype: Action\nDiscipline: Thanatosis\n+1 stealth action.\n[thn] Move an ally in any ash heap who was burned from play to your ready region with this card and life equal to its starting life. This ally is a zombie instead of what it used to be, gets -1 bleed, cannot gain life, and can play cards requiring basic Fortitude [for] as a vampire.\n[THN] As above, but with 1 additional life.\n\nName: Daring the Dawn\n[Sabbat:R, SW:R/PV, FN:PR, LoB:PI, Third:R, FB:PV1, V5:PV1]\nCardtype: Action Modifier\nDiscipline: Fortitude\n[for] Vampires cannot block this action. This vampire takes 2 unpreventable environmental aggravated damage after action resolution.\n[FOR] As above, but this vampire takes 1 unpreventable environmental aggravated damage.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "101451"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 18, 2021, 8:22\u202FAM",
+      "Body": "Hoho, that's a good question. You definitely need Ankha on that one \u263A\uFE0E\n\nIn my very humble opinion, I'd say:  Taking aggravated damage and removing from the game happen in the same window (after action is resolved). So the acting player decides the order of effects If he decides to take the damage first, then the Servitor goes to the ash heap, where it stays, as the \"Remove from game\" effect won't find it there.\nBut I'm only making inferences from other rulings here - I have no ruling for this specific interaction \u263A\uFE0E",
+      "Id": "101457"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Jan 18, 2021, 9:33\u202FAM",
+      "Body": "Not the same timing window, but the same underlying mechanic is present f\u00F6r illusions of the kindred:\n\n\"If the illusionary vampire is burned in combat, the acting Methuselah chooses whether he is sent to the ash heap or removed from the game. [RTR 20001020]\"\n-  CotD\n\nLackeyname: Kris",
+      "Id": "101459"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 18, 2021, 6:58\u202FPM",
+      "Body": "> lip wrote:\n> Hoho, that's a good question. You definitely need Ankha on that one \u263A\uFE0E\n>\n> In my very humble opinion, I'd say:  Taking aggravated damage and removing from the game happen in the same window (after action is resolved). So the acting player decides the order of effects If he decides to take the damage first, then the Servitor goes to the ash heap, where it stays, as the \"Remove from game\" effect won't find it there.\n> But I'm only making inferences from other rulings here - I have no ruling for this specific interaction \u263A\uFE0E\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101465"
+    }
+  ]
+}

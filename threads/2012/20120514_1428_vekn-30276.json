@@ -1,0 +1,236 @@
+{
+  "ThreadId": "vekn-30276",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/30276-extrala-is-wrong-did-you-know-that-part-91",
+  "Title": "Extrala is wrong (Did you know, that ... (Part 91))",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2012, 2:28\u202FPM",
+      "Body": "Before wrong ruling spread over the internet (and the weak mind of ancillae), I want to correct what is said in:\n\nextrala.blogspot.fr/2012/05/did-you-know-that-part-91.html\n\nI'll quote myself:\n>\n> Ankha wrote:\n> You cannot play Disarm in that case if you've maneuvered to long range. Check your link:\n>\n> \"What if the opposing minion B is not sent to torpor and someone sets\n> the round to long afterward?\n> Can A play Pulled Fangs since A dealt more damage at close range\n> (before range was determined)?\n> Or are the damage from Outside the Hourglass considered to be dealt at\n> long range?\"\n>\n> LSJ's answer:\n>\n> > Or are the damage from Outside the Hourglass considered to be dealt at\n> > long range?\n> Sure.\n>\n> The reason is that the range is by default close, but is set (\"really known\") during the set range step. So damage dealt before range is set is considered to be dealt at the \"real\" range once the range is set. In that case, since range has been resolved as \"long\", the damage of OtHG are considered to have been dealt at long range.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30276"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "May 14, 2012, 2:55\u202FPM",
+      "Body": "Seems like Outside the Hourglass situation is super complicated. Could somebody answer to these to make it clear:\n\nWhen I can play Disarm/Pulled Fangs? There are minion A and B. All discplines uses superior version.\n\nOutside the Hourglass (A) + Majesty (A) close range?\n\nOutside the Hourglass (A) + Majesty (A) long range?\n\nOutside the Hourglass (A) + Selective Silence long (B) + Majesty (A) long range?\n\nSelective Silence long (B) + Outside the Hourglass (A) + Majesty (A) long range?\n\nOutside the Hourglass (A) + Thrown Gate (B) long range?\n\nOutside the Hourglass (A) + Aid from Bats (B) long range?",
+      "Id": "30284"
+    },
+    {
+      "Author": "extrala",
+      "Date": "May 14, 2012, 3:13\u202FPM",
+      "Body": "For some reason, I was looking at this post when writing my post: vekn.net/index.php/forum/6-rules-questions/15687-old-ruling-on-outside-the-hourglass-range#15698\n\nWhat I hadn't notice is that Pascal didn't respond to the statements of IslandOfYiaros, and I didn't read LSJs post Ankha refers to closely enough.\n\nBut the question still stands (although I think Ankha is right here), can Disarm be played after Outside the Hourglass have been played and range has been determined to be set to long?",
+      "Id": "30287"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2012, 3:31\u202FPM",
+      "Body": "With LSJ's answer, it is rather easy\n>\n> Surreal wrote:\n> Outside the Hourglass (A) + Majesty (A) close range?\n>\nRange is close -> yes.\n\n> Outside the Hourglass (A) + Majesty (A) long range?\n>\n> Outside the Hourglass (A) + Selective Silence long (B) + Majesty (A) long range?\n>\n> Selective Silence long (B) + Outside the Hourglass (A) + Majesty (A) long range?\n>\n> Outside the Hourglass (A) + Thrown Gate (B) long range?\n>\n> Outside the Hourglass (A) + Aid from Bats (B) long range?\n>\nRange is long -> no.\n\nIt does not matter how or when the range was set. Selective Silence could allow you to go to long range to avoid being disarmed after a Alpha Glint, though. Yeah 4 discipline + older condition combo",
+      "Id": "30290"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "May 14, 2012, 3:42\u202FPM",
+      "Body": "Ok, one more\n\nOutside the Hourglass (A) + Selective Silence long (B) + Alpha Glint (A)",
+      "Id": "30294"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "May 14, 2012, 5:36\u202FPM",
+      "Body": "I'll skip pithy comments and jump straight to this.\n\nLSJ reversed course from the excerpt being used as the basis for this argument. Please see below.\n> > > What if the opposing minion B is not sent to torpor and someone sets\n> > > the round to long afterward?\n> > > Can A play Pulled Fangs since A dealt more damage at close range\n> > > (before range was determined)?\n> > No.\n> > > Or are the damage from Outside the Hourglass considered to be dealt at\n> > > long range?\n> > Sure.\n>\n> If minion B would've had an Improvised Flamethrower equipped, would xe\n> take 2 aggravated damage as soon as the range was set to long in the\n> above case?\n>\nNo.\n(Making the \"sure\" above an \"I guess not -- but the point is that the\nrange is long\")\n\"I guess not\" sure seems to imply that the OtH damage is accumulated from the range at which it was played (close, unless a set range card determined range before the OtH was played).\n\nI'll skip all the cases in which it might follow (or not follow) that OtH and Disarm might (might not) work. I will point out, however, that Disarm does NOT include the text \"only playable at close range\" - it only checks for damage totals accumulated at close. This likely leads to a thematic/intent conflict with our typical \"card text\" rules definitions.\n\nD.",
+      "Id": "30308"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2012, 7:27\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> I'll skip pithy comments and jump straight to this.\n>\n> LSJ reversed course from the excerpt being used as the basis for this argument. Please see below.\n> > > > What if the opposing minion B is not sent to torpor and someone sets\n> > > > the round to long afterward?\n> > > > Can A play Pulled Fangs since A dealt more damage at close range\n> > > > (before range was determined)?\n> > > No.\n> > > > Or are the damage from Outside the Hourglass considered to be dealt at\n> > > > long range?\n> > > Sure.\n> >\n> > If minion B would've had an Improvised Flamethrower equipped, would xe\n> > take 2 aggravated damage as soon as the range was set to long in the\n> > above case?\n> >\n> No.\n> (Making the \"sure\" above an \"I guess not -- but the point is that the\n> range is long\")\n> \"I guess not\" sure seems to imply that the OtH damage is accumulated from the range at which it was played (close, unless a set range card determined range before the OtH was played).\n>\n> I'll skip all the cases in which it might follow (or not follow) that OtH and Disarm might (might not) work. I will point out, however, that Disarm does NOT include the text \"only playable at close range\" - it only checks for damage totals accumulated at close. This likely leads to a thematic/intent conflict with our typical \"card text\" rules definitions.\n>\n> D.\n>\nIn the same thread, we can read:\n\n> LSJ wrote:\n> > > > Pulled fangs cannot be played if Outside the Hourglass hits and then\n> > > > range is determined to be long.\n> Pulled Fangs cannot be played at long range, correct.\n>\nAnd yet, Pulled Fangs states nothing about close/long range except for the damage inflicted:\n\n> Name: Pulled Fangs\n> [Jyhad:R2, VTES:R, SW:PB, CE:R2, Anarchs:PAG]\n> Cardtype: Combat\n> Only usable at the end of a round of combat in which this minion inflicted more damage at close range than the opposing vampire. Not usable by a {minion being burned or going into torpor}.\n> Put this card on the opposing vampire, and this minion inflicts 1 point of damage. The victim cannot hunt until this card is removed. Any vampire(s) may burn this card with two +1 stealth actions. If the victim must hunt and cannot, he or she goes into torpor. A vampire can have only 1 Pulled Fangs.\n>\nThere's nothing that prevents the card from being played at long range. So LSJ must be refering to the \"more damage at close range\" part which is common with Disarm:\n\n> Name: Disarm\n> [Sabbat:R, SW:R, CE:PB, BH:PN, KMW:PAl, Third:R]\n> Cardtype: Combat\n> Discipline: Potence\n> [pot] Only usable at the end of a round of combat in which this vampire successfully inflicted more damage at close range than the opposing vampire. Not usable by a vampire being burned or going into torpor. Put this card on the opposing vampire and send that vampire into torpor. The vampire with this card has -1 strength. He or she may burn this card by burning 3 blood. A vampire can have only one Disarm.\n> [POT] As above, but the vampire with this card has -2 strength.\n>\nLSJ's statement \"Making the \"sure\" above an \"I guess not -- but the point is that the range is long\" is confusing, but it states clearly before and after that statement that Pulled Fangs (or Disarm which has the same wording) doesn't work when range is determined to be long.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30331"
+    },
+    {
+      "Author": "extrala",
+      "Date": "May 14, 2012, 7:31\u202FPM",
+      "Body": "No offense (to anyone), but I'd like to hear Pascal's verdict here.",
+      "Id": "30332"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2012, 7:31\u202FPM",
+      "Body": "> Surreal wrote:\n> Ok, one more\n>\n> Outside the Hourglass (A) + Selective Silence long (B) + Alpha Glint (A)\n>\nRange has been set to long, therefore the damage of Outside the Hourglass are considered to have been dealt at long range (making Disarm/Pulled Fangs not playable).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30334"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "May 14, 2012, 7:37\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Surreal wrote:\n> > Ok, one more\n> >\n> > Outside the Hourglass (A) + Selective Silence long (B) + Alpha Glint (A)\n> >\n> Range has been set to long, therefore the damage of Outside the Hourglass are considered to have been dealt at long range (making Disarm/Pulled Fangs not playable).\n>\nI just then don't understand how minion with Improvised Flamethrower can't take 2 aggravated damage from Outside the Hourglass.",
+      "Id": "30335"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2012, 8:05\u202FPM",
+      "Body": "Because the range is close when OtH deals damage, and when the range is set to long it is too late to trigger the Improvised flamethrower? There is a timing difference: you play Disarm at the end of a round and look back on what happened in that round. Improvised Flamethrower resolves as soon as the damage is inflicted.\n\nHowever it sounds so cheesy that it would probably be easier to just consider OtH deals damage at the current range when it is played (generally close, unless someone played a set rage to long before).",
+      "Id": "30343"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "May 14, 2012, 11:13\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Surreal wrote:\n> > Ok, one more\n> >\n> > Outside the Hourglass (A) + Selective Silence long (B) + Alpha Glint (A)\n> >\n> Range has been set to long, therefore the damage of Outside the Hourglass are considered to have been dealt at long range (making Disarm/Pulled Fangs not playable).\n>\nPlease folks, stop confounding what is happening. There is no LIFO queue. A card is played. It resolves. Play the next card, or pass the impulse. Rinse, repeat.\n\nIn the order described, OtH first, the damage is done at default range (close). Then Silence sets the range to long, Alpha Glint ends combat...all in that order. The 2 damage event happened at close range.\n\nReverse the SS and OtH and you get ranged damage. Likewise, if you do that at a minion with an Imp Flamethrower, you get the ImpFT explosion effect, cause the range was at long range.\n\nIf you OtH and then maneuver in the \"Set Range Step\", OtH damage has ALREADY happened, at predefined conditions (close).\n\nThe only question that really exist is if Disarm and Pulled Fangs, which lack \"Only playable at close range\" are indeed really playable at long, if you managed to pull of prerange damage at close.\n\nFor that, we need Pascal.",
+      "Id": "30368"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 4:30\u202FAM",
+      "Body": "EDIT: I didn't see the latest post above.\n\n> Surreal wrote:\n>\n> > Ankha wrote:\n> >\n> > > Surreal wrote:\n> > > Ok, one more\n> > >\n> > > Outside the Hourglass (A) + Selective Silence long (B) + Alpha Glint (A)\n> > >\n> > Range has been set to long, therefore the damage of Outside the Hourglass are considered to have been dealt at long range (making Disarm/Pulled Fangs not playable).\n> >\n> I just then don't understand how minion with Improvised Flamethrower can't take 2 aggravated damage from Outside the Hourglass.\n>\nBecause it's not retroactive. As LSJ stated:\n\n> LSJ wrote:\n> ImpF doesn't go back and check all previously-inflicted damage,\n> correct.\n> It looks at damage as it occurs.\n>\nBut if you play it the other way round: Selective Silence long (A) + Outside the Hourglass (B) then the ImpF will \"explode\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30381"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "May 15, 2012, 7:16\u202FAM",
+      "Body": "More ammo against Outside the hourglass, badly tested and written card...\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "30401"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 7:34\u202FAM",
+      "Body": "> Reyda wrote:\n> More ammo against Outside the hourglass, badly tested\n>\nHow can you assert that?\n\n> Reyda wrote:\n> and written card...\n>\nThe text is crystal clear. The rules are more a culprit.\n\nYou can't blame a card that does something never done before for \"breaking\" the rules, because it's precisely what they're meant to (thus the Golden Rule).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30402"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "May 15, 2012, 8:02\u202FAM",
+      "Body": "Nope, the text is not so clear regarding the rules of this game.\nthe \"inflict 2 damage\" part had to be interpreted as \"this vampire inflicts\". Many people thought it was environmental damage at first glance.\nDon't forget that this card had to be clarified the first week it went on the market...\n\nCards can break the rules, no problem with that, but it should be easy to understand its interactions with other cards -go ahead and tell me disarm is not a common occurence in combat...\nThe very creation of a step where \"range is not yet known but ...\" is the perfect example of the failure of wording this card properly.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "30404"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "May 15, 2012, 8:44\u202FAM",
+      "Body": "> Reyda wrote:\n> The very creation of a step where \"range is not yet known but ...\" is the perfect example of the failure of wording this card properly.\n>\nOh, yes, because nothing happen before range. I will remeber that the next time I tore a signpost.\n\nI don't know for you, but Outside the hourglass was worded exactly like a regular strike, while environmental card was not. Outside the hourglass is ... crystal clear, it's more a case of Disarm being here from day one and alway having a strange wording.",
+      "Id": "30410"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "May 15, 2012, 8:52\u202FAM",
+      "Body": "There hasn't be any hard questions about Disarm before Outside the Hourglass. Problem is the rules. Adding this to rules would do a lot: Combat doesn't have a range until Determine Range part is over (or skipped). Any damage done before this is considered to done without range.\n\nOr you could change Disarm and Pulled Fangs to work only close range.",
+      "Id": "30411"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 9:45\u202FAM",
+      "Body": "> Reyda wrote:\n> The very creation of a step where \"range is not yet known but ...\" is the perfect example of the failure of wording this card properly.\n>\nWe don't have the same definition of wording, it seems. Wording is the way things are expressed through the choice and order of words. I can't see how \"before range is determined\" is badly worded.\nOutside the Hourglass only highlights a foggy part in the rules concerning the range of a round before range is determined.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30423"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "May 15, 2012, 10:58\u202FAM",
+      "Body": "Could we move this thread to the \"rules questions\"?\nThanks ^^\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "30448"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "May 15, 2012, 11:11\u202FAM",
+      "Body": "> Hakuron wrote:\n> Could we move this thread to the \"rules questions\"?\n> Thanks ^^\n>\nMoved!\n\nV:EKN Website Coordinator",
+      "Id": "30449"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 15, 2012, 1:22\u202FPM",
+      "Body": "One case remains obscure - Fear of the void below + Outside the hourglass + Maneuver to close range + Majesty + Disarm.\n\nI'll issue a ruling by the end of the week - LSJ's rulings seem to indicate Disarm is only usable at close range, and that's where I think the cheapest / best fix would be",
+      "Id": "30459"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 1:29\u202FPM",
+      "Body": "> Pascal wrote:\n> One case remains obscure - Fear of the void below + Outside the hourglass + Maneuver to close range + Majesty + Disarm.\n>\nAccording to the current ruling, setting the default range to long through Fear of the Void Below then maneuvering to close results in a \"close range\" round. Therefore, damage of OtH are considered to have been dealt at close range (since it's the \"real\" range), thus you can play Disarm.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30460"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "May 15, 2012, 6:26\u202FPM",
+      "Body": "> Pascal wrote:\n> I'll issue a ruling by the end of the week - LSJ's rulings seem to indicate Disarm is only usable at close range, and that's where I think the cheapest / best fix would be\n>\nI agree with the most simple fix being to say \"at close range at the end of the round of combat\", but I would like to emphasise that I very much like the idea of Temporis fighters knowing WHEN to disarm or pull the fangs, not WHERE ...\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "30516"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "May 15, 2012, 6:46\u202FPM",
+      "Body": "> Pascal wrote:\n> One case remains obscure - Fear of the void below + Outside the hourglass + Maneuver to close range + Majesty + Disarm.\n>\n> I'll issue a ruling by the end of the week - LSJ's rulings seem to indicate Disarm is only usable at close range, and that's where I think the cheapest / best fix would be\n>\nThe way I've interpreted it is that a) range doesn't exist before the determine range step, b) damage from Outside the Hourglass isn't done at close or long range and c) Disarm is playable when sufficient damage has been inflicted and the range has been close this round, whether the damage was inflicted at long, close or no range. This is probably wrong but it seems to make the most sense without errata.",
+      "Id": "30517"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 16, 2012, 6:07\u202FAM",
+      "Body": "Here's a quick list of the rulings:\nOtH stands for Outside the Hourglass\nUnless written, no other cards are played. Cards are played in the order they are written (from left to right)\n\n- OtH + Majesty + Disarm => Valid.\n- OtH + Maneuver to long + Majesty Disarm => Not valid.\n- OtH + Alpha Glint + Disram => Valid.\n- OtH + Selective Silence + Disarm => Not valid.\n- Selective Silence + OtH + Disarm => Not valid.\n- OtH + Fear of the Void Below + Majesty + Disarm => Valid.\n- Fear of the Void Below + OtH + Majesty + Disarm => Not valid\n- OtH when opposing has a Improvised Flamethrower + Maneveur/set range to long => Improvised Flamethrower does not explode.\n\nBasically, Disarm isn't playable at long range (all the Disarm points), and damage is resolved when it is inflicted - we don't retro-check it (last point).\n\nI'm under the impression that slightly changing Disarm from this:\n>\n> Only usable at the end of a round of combat in which this vampire successfully inflicted more damage at close range than the opposing vampire.\n>\nto this:\n>\n> Only usable at close range at the end of a round of combat in which this vampire successfully inflicted more damage than the opposing vampire.\n>\nwould be enough. Pulled Fangs would follow the same pattern.",
+      "Id": "30550"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 16, 2012, 6:21\u202FAM",
+      "Body": "> Pascal wrote:\n> - OtH + Selective Silence + Disarm => Not valid.\n> - Selective Silence + OtH + Disarm => Not valid.\n>\nAssuming Selective Silence is used to set the range to long.\n\n> Pascal wrote:\n> Here's a quick list of the rulings:<snip>\n> - OtH + Fear of the Void Below + Majesty + Disarm => Valid.\n> - Fear of the Void Below + OtH + Majesty + Disarm => Not valid\n>\nSource? I haven't seen this ruling before. In fact, I read the opposite from  LSJ :\n\n> > If Fear of the Void Below (dai/DAI) would've been played earlier,\n> > would Outside the Hourglass then trigger the Improvised Flamethrower?\n> Yes. (And Disarm would not be playable, since the range is long)\n>\nOrder here as no impact (just as setting the range before or after through Selective Silence has no impact). The general ruling stated by LSJ is that if the range is long in the end, then damage from OtH has been dealt at long (even if dealt before any range setting effect).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30552"
+    },
+    {
+      "Author": "Pendargon",
+      "Date": "May 16, 2012, 6:32\u202FAM",
+      "Body": "Just a question : Would it not be easier, for simplicity sake, to just say that damage from OtH is environmental damage (like carrion crows), and be done with the whole complications?",
+      "Id": "30553"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "May 16, 2012, 6:34\u202FAM",
+      "Body": "> Pendargon wrote:\n> Just a question : Would it not be easier, for simplicity sake, to just say that damage from OtH is environmental damage (like carrion crows), and be done with the whole complications?\n>\nIt may be easier, but it would lower the interest of the card, which is being uncommon like a lot of temporis card.",
+      "Id": "30554"
+    },
+    {
+      "Author": "extrala",
+      "Date": "May 16, 2012, 6:46\u202FAM",
+      "Body": "Can you tell me why the first two are *not* valid in comparison of the third?\n>\n> - OtH + Maneuver to long + Majesty Disarm => Not valid.\n> - OtH + Selective Silence + Disarm => Not valid.\n> - OtH + Fear of the Void Below + Majesty + Disarm => Valid.\n>",
+      "Id": "30555"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "May 16, 2012, 7:09\u202FAM",
+      "Body": "> extrala wrote:\n> Can you tell me why the first two are valid in comparison of the third?\n> >\n> > - OtH + Maneuver to long + Majesty Disarm => Not valid.\n> > - OtH + Selective Silence + Disarm => Not valid.\n> > - OtH + Fear of the Void Below + Majesty + Disarm => Valid.\n> >\nI'd love to hear this too. Fear of the Void Below defaults the range to long, and I'm thinking long is long - you can't play Disarm if the range is long.\n\nThis baffels me somewhat.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "30556"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "May 16, 2012, 11:07\u202FAM",
+      "Body": "> Ohlmann wrote:\n>\n> > Reyda wrote:\n> > The very creation of a step where \"range is not yet known but ...\" is the perfect example of the failure of wording this card properly.\n> >\n> Oh, yes, because nothing happen before range. I will remeber that the next time I tore a signpost.\n>\n> I don't know for you, but Outside the hourglass was worded exactly like a regular strike, while environmental card was not. Outside the hourglass is ... crystal clear, it's more a case of Disarm being here from day one and alway having a strange wording.\n>\nthen if it's so clear, why does this thread exist ? When a card summons a lot of questions from players everywhere, it's either badly worded or badly designed, or both. That's a basic principle of game design. Sorry if you don't understand the \"range is not yet known but...\" It has nothing to do with \"before range step\", but has something to do with the timing where the damage is dealt. Weather control does not need to know about range. It does not \"combo\" with long/short range cards. OtH has to know because it has been decided (ruled ?) that the vampire inflicts the damage. Thus it has a possible combo with disarm/pulled fangs...\n\nIt's not a strike. It's not evironmental either. It's not related to strength... The proposed solution (making it environmental \u00E0 la Weather control) certainly avoids most of those problems...\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "30563"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "May 16, 2012, 11:13\u202FAM",
+      "Body": "> Reyda wrote:\n> When a card summons a lot of questions from players everywhere, it's either badly worded or badly designed, or both. That's a basic principle of game design.\n>\nWhich is also a false basic principle. It can be the rule who are badly designed, or simply badly explained.\n\nFor the rest of your post, it boil down to \"I would not have ruled this this way, so the ruling is stupid\". Fine, I get it, you disagree with current ruling. And by the way the card change to disarm-like card proposed by Pascal Bertrand also avoid most of thoses problem, without removing the \"damage done by the vampire\" part.",
+      "Id": "30565"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 16, 2012, 11:17\u202FAM",
+      "Body": "> Reyda wrote:\n>\n> > Ohlmann wrote:\n> >\n> > > Reyda wrote:\n> > > The very creation of a step where \"range is not yet known but ...\" is the perfect example of the failure of wording this card properly.\n> > >\n> > >\n> > Oh, yes, because nothing happen before range. I will remeber that the next time I tore a signpost.\n> >\n> > I don't know for you, but Outside the hourglass was worded exactly like a regular strike, while environmental card was not. Outside the hourglass is ... crystal clear, it's more a case of Disarm being here from day one and alway having a strange wording.\n> >\n> then if it's so clear, why does this thread exist ? When a card summons a lot of questions from players everywhere, it's either badly worded or badly designed, or both. That's a basic principle of game design. Sorry if you don't understand the \"range is not yet known but...\"\n>\nThe card is clear, the rules are not.\nChanging OtH damage to environmental damage would not change the base \"flaw\" of the rules.\nChanging Disarm and Pulled Fangs will not change it neither (though things maybe clearer and easier to play right).\nOnly a clear definition (or ruling) will resolve durably the confusion.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30566"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 16, 2012, 11:27\u202FAM",
+      "Body": "A possible clarification in the rules would be:\n\n> 6.4.2. Determine Range\n>\n> Each round of combat is fought at either close range or long range. Close range is the default for each round. The range determines which strikes and other strike-resolution-phase effects can be used. Some effects can only be used at close range, some only at long range, and some at either close or long range (see below). Once the range has been determined, it applies to the whole round (including effects that have happened before range has been determined, such as damage that would have been dealt during the round before the Determine Range step).\n>\nThough not necessary, this wouldn't prevent Disarm and Pulled Fangs from being reworded for clarity.\n\nRegarding interaction with Improvised Flamethrower, nothing is retroactive in the game so there's no issue here, merely a possible clarification.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30568"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "May 16, 2012, 12:26\u202FPM",
+      "Body": "> Ohlmann wrote:\n>\n> > Reyda wrote:\n> > When a card summons a lot of questions from players everywhere, it's either badly worded or badly designed, or both. That's a basic principle of game design.\n> >\n> Which is also a false basic principle. It can be the rule who are badly designed, or simply badly explained.\n>\nWhat you say may make perfect sense when designing a game from ground up.\nBut when you add a card to a 15 years old game that have rules which works with all tons of other cards already printed, then you must take those rules and those cards in account. Failure in doing so does not mean that the rules are flawed : it means that the card itself is badly designed/ badly worded or both. Just as I said above.\nSo I beg to differ.\n\n> Ohlmann wrote:\n> For the rest of your post, it boil down to \"I would not have ruled this this way, so the ruling is stupid\". Fine, I get it, you disagree with current ruling. And by the way the card change to disarm-like card proposed by Pascal Bertrand also avoid most of thoses problem, without removing the \"damage done by the vampire\" part.\n>\nNo, it's not really \"this ruling is stupid\". It's more \"There should be no ruling if the card was made while having the rules and interaction with other cards in mind.\" Which is completely different. The suggestion of weather control is just here to propose something. that's all.\nAgain, a card that suggest mandatory change on already printed and played cards is ... well, you guessed, badly designed/worded or both. Again\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "30588"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "May 16, 2012, 12:43\u202FPM",
+      "Body": "I would not go that far to call a card badly designed, but I must say that it affects the game play very much, and that some rulings that resulted from usage of this card are illogical ( like, you determine range of the damage dealing effect after you dealt it, or you can play cards in that \"before range\" step before you prevent the damage from OtH or WC - while this game does not have \"stack\" )\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "30592"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 19, 2012, 11:53\u202FAM",
+      "Body": "> extrala wrote:\n> Can you tell me why the first two are *not* valid in comparison of the third?\n> >\n> > - OtH + Maneuver to long + Majesty Disarm => Not valid.\n> > - OtH + Selective Silence + Disarm => Not valid.\n> > - OtH + Fear of the Void Below + Majesty + Disarm => Valid.\n> >\nBrainfart.Disarm isn't playable as Fear of the Void Below is played (see ruling from LSJ quoted by Ankha).\n\nI'll change Disarm and Pulled Fangs to get this clear. They'll only be usable at close range.\nThis should answer all the questions:\n\n* Set range to long + OtH : Disarm can't be played (as range is set to long)\n* OtH + set range to long : Disarm can't be played (as range is set to long)\n* Fear of the Void Below + OtH + set range to close: range can be played (as range is set to close at the end of the round).\n\n> Name: Disarm\n> [Sabbat:R, SW:R, CE:PB, BH:PN, KMW:PAl, Third:R]\n> Cardtype: Combat\n> Discipline: Potence\n> [pot] Only usable at close range at the end of a round of combat in which this vampire successfully inflicted more damage than the opposing vampire. Not usable by a vampire being burned or going into torpor. Put this card on the opposing vampire and send that vampire into torpor. The vampire with this card has -1 strength. He or she may burn this card by burning 3 blood. A vampire can have only one Disarm.\n> [POT] As above, but the vampire with this card has -2 strength.\n>\n> Name: Pulled Fangs\n> [Jyhad:R2, VTES:R, SW:PB, CE:R2, Anarchs:PAG]\n> Cardtype: Combat\n> Only usable at close range at the end of a round of combat in which this minion inflicted more damage than the opposing vampire. Not usable by a minion being burned or going into torpor.\n> Put this card on the opposing vampire, and this minion inflicts 1 point of damage. The victim cannot hunt until this card is removed. Any vampire(s) may burn this card with two +1 stealth actions. If the victim must hunt and cannot, he or she goes into torpor. A vampire can have only 1 Pulled Fangs.\n>\nAnd for the Improvised Flamethrower question, this Disarm / Fear of the Void Below change doesn't affect anything.\nIf OtH is played at long range (either because range has been set to long or because the default range is long and we're in the \"before range is set\" step), the Flamethrower explodes.",
+      "Id": "30748"
+    }
+  ]
+}

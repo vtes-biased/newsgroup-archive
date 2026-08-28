@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-78700",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78700-arika-special-order",
+  "Title": "Arika special order",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Jun 27, 2020, 8:50\u202FPM",
+      "Body": "Arika\nCamarilla Ventrue Inner Circle: If Arika is ready during your prey's unlock phase, your prey chooses which locations he or she keeps in play. For each location he or she controls, your prey burns 1 pool or burns the location. +2 bleed.\n\nCan Arika prey chose to gain benefits (Blood from Hunting Ground example) from locations if chose to burn this location?",
+      "Id": "100199"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Jun 27, 2020, 10:37\u202FPM",
+      "Body": "Yes.\n\nThe acting player gets to choose order in which he resolves everything in his unlock phase.",
+      "Id": "100200"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Jun 28, 2020, 9:46\u202FAM",
+      "Body": "Related question:\nCan Arika's special be forgotten?\nI guess not, as it is not a may clause.\n\nBaron of Frankfurt",
+      "Id": "100201"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Jun 28, 2020, 10:18\u202FAM",
+      "Body": "> Joscha wrote:\n> Related question:\n> Can Arika's special be forgotten?\n> I guess not, as it is not a may clause.\n>\nNo, it cannot be forgotten.\n\nAny \"if A is valid during X, do Y\" clauses have to be resolved.\nTake \"Anarch Revolt\" as the maybe most prominent example:\n>\n> Name: Anarch Revolt\n> Cardtype: Master\n> Master.\n> Put this card in play. A Methuselah who does not control a ready anarch burns 1 pool during his or her unlock phase.\n>\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "100202"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Jun 28, 2020, 8:45\u202FPM",
+      "Body": "Dear all,\n\nJust to confirm.\nMy predator has ready Arika, I control Elder Library and I have played\nWake with evening freshness during my predator s turn.\nIf i don't pay for arika s hability, Elder Library is burn.\n\nDo I have to draw to replace the wake or can i choose not to do it since my hand size has been reduced by one?\n\nCard text\nName: Elder Library\nCardtype: Master\nCost: 1 pool\nMaster: unique location.\n+1 hand size.\n\nName: Wake with Evening's Freshness\nCardtype: Reaction\nOnly usable by a locked vampire. Do not replace until your unlock phase.\nThis vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action).\n\nThanks in advance,\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "100205"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jun 29, 2020, 12:25\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> My predator has ready Arika, I control Elder Library and I have played\n> Wake with evening freshness during my predator s turn.\n> If i don't pay for arika s hability, Elder Library is burn.\n>\n> Do I have to draw to replace the wake or can i choose not to do it since my hand size has been reduced by one?\n>\nAt the start of your unlock phase, your hand size is 7 because it is 7 normally + 1 for EL - 1 for WWEF DNR clause. If you do not pay for the Elder Library, it burns, leaving you with a hand size of 6 (7 normal - 1 for WWEF DNR). You must then discard a card immediately before addressing any other effects. Once that is complete, you can then redraw the Wake.\n\nBasically, it doesn't matter what order you draw a card to replace the Wake and burn the Elder Library to Arika's special, you will still have to discard a card.",
+      "Id": "100208"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 29, 2020, 7:56\u202FAM",
+      "Body": "> beslin wrote:\n> Can Arika prey chose to gain benefits (Blood from Hunting Ground example) from locations if chose to burn this location?\n>\nYes.\n\n> Joscha wrote:\n> Related question:\n> Can Arika's special be forgotten?\n>\nNo.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100211"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 29, 2020, 8:00\u202FAM",
+      "Body": "> kschaefer wrote:\n>\n> > R\u00E9mi wrote:\n> > My predator has ready Arika, I control Elder Library and I have played\n> > Wake with evening freshness during my predator s turn.\n> > If i don't pay for arika s hability, Elder Library is burn.\n> >\n> > Do I have to draw to replace the wake or can i choose not to do it since my hand size has been reduced by one?\n> >\n> At the start of your unlock phase, your hand size is 7 because it is 7 normally + 1 for EL - 1 for WWEF DNR clause. If you do not pay for the Elder Library, it burns, leaving you with a hand size of 6 (7 normal - 1 for WWEF DNR). You must then discard a card immediately before addressing any other effects. Once that is complete, you can then redraw the Wake.\n>\nWrong.\nYou replace the Wake before the unlock phase starts (see www.vekn.net/forum/rules-questions/78701-replace-during-unlock-and-other-unlock-effects).\nYou have a hand size of 8 cards when your unlock phase starts.\nThen if the Elder Library burns, you have to discard a card.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100212"
+    }
+  ]
+}

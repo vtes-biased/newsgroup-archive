@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-82796",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82796-damage-resolution-and-going-through-steps-and-phases",
+  "Title": "Damage resolution and going through steps (and phases)",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 27, 2026, 10:11\u202FPM",
+      "Body": "Scenario:\n- Vampire A enters combat with Vampire B\n- Vampire A plays Weather Control\n- Vampire A chooses to resolve Weather Control's effect\n- Damage resolution sub-step opens within the before range step\n- Vampire B plays Alpha Glint\n\nCan Vampire A now play Call the Wild Hunt?\nMore generically, does playing Alpha Glint, while there is still damage to be handled,  move the game state to the \"end of round\" step before damage is handled, or create a pending effect that moves the game state to the \"end of round\" step after all damage has been handled?\n\nWeather Control\n\nCardtype: Combat\nDiscipline: Thaumaturgy\nOnly usable before range is determined during the first round. A vampire can play only one Weather Control each combat.\n[tha] Both combatants and each retainer on them take 1 unpreventable environmental damage before range is determined each round this combat.\n[THA] As above, but the amount of damage inflicted is increased by 1 in each subsequent round.\nArtist: Richard Thomas; Brian LeBlanc\n\nAlpha Glint\n\nCardtype: Combat\nCost: 1 blood\nDiscipline: Animalism & Fortitude\nNot usable in combat with an ally or an older vampire.\n[ani][for] Strike: combat ends.\n[ANI][FOR] Only usable before range is determined. Combat ends.\nArtist: Peter Bergting\n\nCall the Wild Hunt\n\nCardtype: Combat\nDiscipline: Animalism & Protean\nOnly usable before range is determined.\n[ani][pro] For the remainder of combat, this vampire is immune to frenzy cards. A vampire may play only one Call the Wild Hunt each combat.\n[ANI][PRO] As above, and during the initial strike resolution phase of this round, you may burn X animals from your hand to inflict X ranged damage on the opposing minion.\nArtist: Matt Mitchell\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116286"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jan 28, 2026, 11:31\u202FAM",
+      "Body": "rullings for Weather Control:\nRulings\nThe damage is environmental. [RTR 19970630] \uF328\nThe damage is applied even if the combat ends prematurely (eg. by Mariel, Lady Thunder , Alpha Glint ). [LSJ 19971110] [ANK 20190725] \uF328\nBoth minions have the opportunity to play prevention and non-prevention pre-range effects before mending the damage. If another pre-range damaging effect is played then, all damages are prevented and mended together. [ANK 20170930] \uF328\n\nthis respond the question 1\nfor question 2, no, combat ended\n\nDavid Resende - Prince of Teresina",
+      "Id": "116289"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 28, 2026, 11:55\u202FAM",
+      "Body": "Unfortunately, there is only 1 question and that's not the question\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116290"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 28, 2026, 9:21\u202FPM",
+      "Body": "My two cents, under the current existing rulings the combat end doesn\u00B4t immediately move the game state to End of Round as there is a delayed effect that inflicts damage and thereby opening up a damage prevention window which has to be handled first  \"during which you can play plenty of effects\" ....ie option nr 2ish (ish because the delayed effect having to be handled doesnt really make the combat end a delayed effect, but we are probably splitting hairs here), Call of the Wild could be played as the damage prevention window is opened as a sub-window in the before range window.",
+      "Id": "116291"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 28, 2026, 10:26\u202FPM",
+      "Body": "That's my opinion too but there's nothing concrete out there either way\nHoping to get Ankha's interpretation either way\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116292"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 29, 2026, 10:04\u202FAM",
+      "Body": "> the1andonlime wrote:\n> Scenario:\n> - Vampire A enters combat with Vampire B\n> - Vampire A plays Weather Control\n> - Vampire A chooses to resolve Weather Control's effect\n> - Damage resolution sub-step opens within the before range step\n> - Vampire B plays Alpha Glint\n>\n> Can Vampire A now play Call the Wild Hunt?\n>\nNo, because the combat has moved to the \"end of round/end of combat\" step.\n\nThe damage resolution window is still opened though.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116293"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 29, 2026, 11:24\u202FAM",
+      "Body": "Thanks for the answer\nTo clarify, does this also extend to pending effects?\n\nFor example\n- Vampire A plays Outside the Hourglass\n- Damage resolution window opens\n- Controller of Vampire A passes impulse\n- Vampire B plays Weather Control\n- Vampire A plays Alpha Glint\n- Game moves to \"end of round\" step\n- Controller of Vampire A passes impulse\n\nCan the controller of Vampire B now resolve the effect of the Weather Control from earlier?\n\nWhat if this is the second round of combat and controller of Vampire B has a Wether Control effect from the first round?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116294"
+    }
+  ]
+}

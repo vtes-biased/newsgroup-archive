@@ -1,0 +1,188 @@
+{
+  "ThreadId": "vekn-79432",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79432-rotschreck-and-non-strike-agravated-damage",
+  "Title": "Rotschreck and non-strike Agravated Damage",
+  "Messages": [
+    {
+      "Author": "William_Feitosa",
+      "Date": "Oct 26, 2021, 3:17\u202FPM",
+      "Body": "Greeting Fellow Mathuselah,\n\nWe had a discussion in our playgroup abbout Rotschreck and non-strike agravated damage.\n\nAs i read the card in its current Writting i undestood that you could use it in the following situation:\n\nDuring your predator turn he bleeds you, you manage to block it but he uses a Dawn Operation.\n\nIn the First round of combat you use Outside the Hourglass and try to use Rotschreck.\n\nBut as i searched the rulings i found :\nCannot be played in response to aggravated damage done from \"environmental\" sources. [RTR 19961113]\n\nBut as you open the link to that rulling you read:\n\"QUESTION: 7/01/96: Why can't you play Rotschreck in response to\naggaravated damage dealt by non-strike cards (like DBR, Pulled Fangs,\netc.)?\n\nANSWER: You can play Rotschreck in response to aggaravated damage dealt\nby non-strike cards.\"\n\nSo i need a clarification, is it possible to use Rotschreck when a non-strike source, like Outside the Hourglass, is the source dealing it?\n\nName: R\u00F6tschreck\n[Jyhad:U, CE:U, Anarchs:PG, BH:PTr2, KMW:PB, LoB:PA, Third:PTz]\nCardtype: Master\nMaster: out-of-turn. Frenzy.\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. During this vampire's next unlock phase, burn this card.\nArtist: Mike Danza\n\nName: Outside the Hourglass\n[HttB:C/B2]\nCardtype: Combat\nDiscipline: Temporis/Obfuscate\n[obf] Strike: dodge.\n[tem] Maneuver, or strike: dodge, with 1 optional maneuver.\n[TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\nArtist: Jim Di Bartolo\n\nName: Dawn Operation\n[Jyhad:U, VTES:U, CE:U, Anarchs:PG2, LoB:PA2, KoT:U, HttB:PSal2]\nCardtype: Action Modifier\nDiscipline: Fortitude\n[for] If this action is blocked, all damage inflicted to vampires in the resulting combat is aggravated. Any vampire attempting to block may now choose not to block.\n[FOR] As above, but vampires attempting to block cannot back out.\nArtist: Christopher Rush; Brian LeBlanc",
+      "Id": "103668"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 26, 2021, 3:54\u202FPM",
+      "Body": "Cardtext, important parts in bold:\n>\n> William_Feitosa wrote:\n>\n> Name: R\u00F6tschreck\n> [Jyhad:U, CE:U, Anarchs:PG, BH:PTr2, KMW:PB, LoB:PA, Third:PTz]\n> Cardtype: Master\n> Master: out-of-turn. Frenzy.\n> Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. During this vampire's next unlock phase, burn this card.\n> Artist: Mike Danza\n>\n> Name: Outside the Hourglass\n> [HttB:C/B2]\n> Cardtype: Combat\n> Discipline: Temporis/Obfuscate\n> [obf] Strike: dodge.\n> [tem] Maneuver, or strike: dodge, with 1 optional maneuver.\n> [TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n> Artist: Jim Di Bartolo\n>\nSince the vampire playing OtHG inflicts 2 (aggravated due to Dawn Operation) damage, R\u00F6tschreck can be played.\nThis has been reverted: www.vekn.net/forum/rules-questions/79432-rotschreck-and-non-strike-agravated-damage?start=18#104475\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103671"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 26, 2021, 4:30\u202FPM",
+      "Body": "Damage from Outside the Hourglass are damage from vampire,not enviromental damage.\nAfter DBR R\u00F6tschreck can be played,because is that strike damage.",
+      "Id": "103675"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 13, 2022, 8:03\u202FAM",
+      "Body": "Oh, can I get confirmation that this ruling reverts  [RTR 20041202] ? Or had that been reverted already at an earlier point? Or did I misunderstood the RTR? Thanks in advance.\n\n> R\u00F6tschreck (Rotschreck) is only usable during strike declaration when a\n> strike that deals aggravated damage targets a vampire (may still be played\n> after both minions have announce their strikes). In particular, it is not\n> usable for effects that resolve when played (which includes most non-strike\n> effects), like Pulled Fangs under a Dawn Operation.\n>",
+      "Id": "104457"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 13, 2022, 8:43\u202FAM",
+      "Body": "> lip wrote:\n> Oh, can I get confirmation that this ruling reverts  [RTR 20041202] ? Or had that been reverted already at an earlier point? Or did I misunderstood the RTR? Thanks in advance.\n>\n> > R\u00F6tschreck (Rotschreck) is only usable during strike declaration when a\n> > strike that deals aggravated damage targets a vampire (may still be played\n> > after both minions have announce their strikes). In particular, it is not\n> > usable for effects that resolve when played (which includes most non-strike\n> > effects), like Pulled Fangs under a Dawn Operation.\n> >\nAt that time, there were no other way a minion could inflict damage during combat than by using a strike.\nThe RTR points out that R\u00F6tschreck doesn't work with damage not inflicted by the minion, such as Pulled Fangs.\n\nSo the whole R\u00F6tschreck section of the RTR is outdated and should be ignored.\nSee: www.vekn.net/forum/rules-questions/79432-rotschreck-and-non-strike-agravated-damage?start=18#104475\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104458"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 13, 2022, 9:29\u202FAM",
+      "Body": "> Ankha wrote:\n> Cardtext, important parts in bold:\n> >\n> > William_Feitosa wrote:\n> >\n> > Name: R\u00F6tschreck\n> > [Jyhad:U, CE:U, Anarchs:PG, BH:PTr2, KMW:PB, LoB:PA, Third:PTz]\n> > Cardtype: Master\n> > Master: out-of-turn. Frenzy.\n> > Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. During this vampire's next unlock phase, burn this card.\n> > Artist: Mike Danza\n> >\n> > Name: Outside the Hourglass\n> > [HttB:C/B2]\n> > Cardtype: Combat\n> > Discipline: Temporis/Obfuscate\n> > [obf] Strike: dodge.\n> > [tem] Maneuver, or strike: dodge, with 1 optional maneuver.\n> > [TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n> > Artist: Jim Di Bartolo\n> >\n> Since the vampire playing OtHG inflicts 2 (aggravated due to Dawn Operation) damage, R\u00F6tschreck can be played.\n>\nI don't think R\u00F6tschreck can be played on the basis that R\u00F6tschreck is an out-of-turn master and thereby is only playable by the non-acting player which means that if the non-acting player plays Outside the Hourglass while under the effect of Dawn Operation (played by the acting player) the impulse goes back to the acting player to either take the damage or prevent it not giving the non-acting player the opportunity to play R\u00F6tschreck. (in the scenario given)\n\nI could be wrong in my understanding of the priority system, but if I'm not this means that technically the only time R\u00F6tschreck can be played is when the non-acting player has the impulse which means:\n1)while at pre-range if and when the impulse is given to the non-acting player which earlier in the pre-range step has played a damage (sourced from the minion) inflicting effect and the acting player hasn\u00B4t yet taken or prevented the damage.\n2)before the non-acting player announces/declares his minion\u00B4s strike but after that the acting player has announced/declared his minion's strike.\n3)after both players have had their minions announce/declare their strikes and after the acting player plays an effect that modifies the damage to aggravated.\n\nNow if the acting player for example played OtH as a response to the OtH of the non-acting player then the impulse would go back to the non-acting player and in this case (whenever the acting player does anything else in the pre-range step than taking the damage or preventing it) R\u00F6tschrek would be playable.\n\n> Ankha wrote:\n>\n> > lip wrote:\n> > Oh, can I get confirmation that this ruling reverts  [RTR 20041202] ? Or had that been reverted already at an earlier point? Or did I misunderstood the RTR? Thanks in advance.\n> >\n> > > R\u00F6tschreck (Rotschreck) is only usable during strike declaration when a\n> > > strike that deals aggravated damage targets a vampire (may still be played\n> > > after both minions have announce their strikes). In particular, it is not\n> > > usable for effects that resolve when played (which includes most non-strike\n> > > effects), like Pulled Fangs under a Dawn Operation.\n> > >\n> > >\n> >\n> At that time, there were no other way a minion could inflict damage during combat than by using a strike.\n> The RTR points out that R\u00F6tschreck doesn't work with damage not inflicted by the minion, such as Pulled Fangs.\n>\n> So the whole R\u00F6tschreck section of the RTR is outdated and should be ignored.\n>\nI don\u00B4t think the RTR stands any longer in regards to R\u00F6tschreck and a new ruling and reversal of the RTR seems relevant.",
+      "Id": "104459"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 13, 2022, 11:21\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > lip wrote:\n> > Oh, can I get confirmation that this ruling reverts  [RTR 20041202] ? Or had that been reverted already at an earlier point? Or did I misunderstood the RTR? Thanks in advance.\n> >\n> > > R\u00F6tschreck (Rotschreck) is only usable during strike declaration when a\n> > > strike that deals aggravated damage targets a vampire (may still be played\n> > > after both minions have announce their strikes). In particular, it is not\n> > > usable for effects that resolve when played (which includes most non-strike\n> > > effects), like Pulled Fangs under a Dawn Operation.\n> > >\n> > >\n> >\n> At that time, there were no other way a minion could inflict damage during combat than by using a strike.\n> The RTR points out that R\u00F6tschreck doesn't work with damage not inflicted by the minion, such as Pulled Fangs.\n>\n> So the whole R\u00F6tschreck section of the RTR is outdated and should be ignored.\n>\nI don't get your answer. Pulled Fangs damage is inflicted by the minion (card text) is it not?\n\n> Only usable at close range at the end of a round of combat in which this minion successfully inflicted more damage than the opposing vampire. Not usable by a minion being burned or going into torpor.\n>\n> Put this card on the opposing vampire, and this minion inflicts 1 point of damage on them. The attached vampire cannot hunt. Any vampire(s) can burn this card with two +1 stealth actions. If the attached vampire must hunt and cannot, they go into torpor. A vampire can have only 1 Pulled Fangs.\n>\nAFAICT the card text was already that at the time of the RTR (2004), and has not changed since.",
+      "Id": "104460"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 13, 2022, 11:52\u202FAM",
+      "Body": "Digging a little bit more, it seems that Pascal ruled already in 2011 that you can play Rotschreck on OtH ( www.vekn.net/forum/rules-questions/9048-domain-of-evernight-outside-the-hourglass-vs-carrion-crows-rotschreck?start=6#9123 ), but this was already a direct contradiction of the 2004 RTR, which carefully errated Rotschreck to do the exact opposite... Not sure if this was intended or a lapse.\n\nIf the 2004 Errata is reverted, and you can play Rotschreck on non-strikes, that's okay. Just want to make it clear for future searches \u263A\uFE0E",
+      "Id": "104461"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 13, 2022, 3:49\u202FPM",
+      "Body": "> lip wrote:\n>\n> If the 2004 Errata is reverted, and you can play Rotschreck on non-strikes, that's okay. Just want to make it clear for future searches \u263A\uFE0E\n>\nI don't understand why you couldn't, since the cardtext itself makes no mention of strikes. All that matters is that the damage is inflicted by the minion and is not environmental.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104462"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 13, 2022, 4:15\u202FPM",
+      "Body": "> inm8 wrote:\n>\n> > Ankha wrote:\n> > Cardtext, important parts in bold:\n> > >\n> > >\n> > > William_Feitosa wrote:\n> > >\n> > > Name: R\u00F6tschreck\n> > > [Jyhad:U, CE:U, Anarchs:PG, BH:PTr2, KMW:PB, LoB:PA, Third:PTz]\n> > > Cardtype: Master\n> > > Master: out-of-turn. Frenzy.\n> > > Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. During this vampire's next unlock phase, burn this card.\n> > > Artist: Mike Danza\n> > >\n> > > Name: Outside the Hourglass\n> > > [HttB:C/B2]\n> > > Cardtype: Combat\n> > > Discipline: Temporis/Obfuscate\n> > > [obf] Strike: dodge.\n> > > [tem] Maneuver, or strike: dodge, with 1 optional maneuver.\n> > > [TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n> > > Artist: Jim Di Bartolo\n> > >\n> > >\n> > Since the vampire playing OtHG inflicts 2 (aggravated due to Dawn Operation) damage, R\u00F6tschreck can be played.\n> >\n> I don't think R\u00F6tschreck can be played on the basis that R\u00F6tschreck is an out-of-turn master\n>\nThis is irrelevant.\n\n> inm8 wrote:\n> and thereby is only playable by the non-acting player which means that\n>\nThis is wrong. If the vampire is acting during another Methuselah's turn, you can control the acting minion and still play a master OOT.\n\n> inm8 wrote:\n> if the non-acting player plays Outside the Hourglass while under the effect of Dawn Operation (played by the acting player) the impulse goes back to the acting player to either take the damage or prevent it not giving the non-acting player the opportunity to play R\u00F6tschreck. (in the scenario given)\n>\nEven in that scenario, if the acting player has nothing to play in the \"attempt to inflict damage\" window, the impulse goes to the other player so they can play their card in that window.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104463"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 13, 2022, 4:21\u202FPM",
+      "Body": "> lip wrote:\n> Digging a little bit more, it seems that Pascal ruled already in 2011 that you can play Rotschreck on OtH ( www.vekn.net/forum/rules-questions/9048-domain-of-evernight-outside-the-hourglass-vs-carrion-crows-rotschreck?start=6#9123 ), but this was already a direct contradiction of the 2004 RTR, which carefully errated Rotschreck to do the exact opposite... Not sure if this was intended or a lapse.\n>\nR\u00F6tschreck was reprinted since then, but the errata doesn't appear, so let's consider the 2004 RTR about it is no longer valid.\nSee www.vekn.net/forum/rules-questions/79432-rotschreck-and-non-strike-agravated-damage?start=18#104475\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104465"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 13, 2022, 6:00\u202FPM",
+      "Body": "Just to be clear, when playing R\u00F6tschreck on Outside the Hourglass, the damage of Outside the Hourglass is not inflicted then?",
+      "Id": "104466"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 13, 2022, 7:59\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> >\n> > > Ankha wrote:\n> > > Cardtext, important parts in bold:\n> > > >\n> > > >\n> > > > William_Feitosa wrote:\n> > > >\n> > > > Name: R\u00F6tschreck\n> > > > [Jyhad:U, CE:U, Anarchs:PG, BH:PTr2, KMW:PB, LoB:PA, Third:PTz]\n> > > > Cardtype: Master\n> > > > Master: out-of-turn. Frenzy.\n> > > > Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. During this vampire's next unlock phase, burn this card.\n> > > > Artist: Mike Danza\n> > > >\n> > > > Name: Outside the Hourglass\n> > > > [HttB:C/B2]\n> > > > Cardtype: Combat\n> > > > Discipline: Temporis/Obfuscate\n> > > > [obf] Strike: dodge.\n> > > > [tem] Maneuver, or strike: dodge, with 1 optional maneuver.\n> > > > [TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n> > > > Artist: Jim Di Bartolo\n> > > >\n> > > >\n> > > Since the vampire playing OtHG inflicts 2 (aggravated due to Dawn Operation) damage, R\u00F6tschreck can be played.\n> > >\n> > >\n> >\n> > I don't think R\u00F6tschreck can be played on the basis that R\u00F6tschreck is an out-of-turn master\n> >\n> This is irrelevant.\n>\nDon\u00B4t agree with you because it limits who can play it and when...obviously if you twist the scenario for it to be incorrect so you get to be right...would have been better to expand on it ...but anyway\n\n> Ankha wrote:\n>\n> > inm8 wrote:\n> > and thereby is only playable by the non-acting player which means that\n> >\n> This is wrong. If the vampire is acting during another Methuselah's turn, you can control the acting minion and still play a master OOT.\n>\n...sure in the above scenario you are correct\n\n> Ankha wrote:\n>\n> > inm8 wrote:\n> > if the non-acting player plays Outside the Hourglass while under the effect of Dawn Operation (played by the acting player) the impulse goes back to the acting player to either take the damage or prevent it not giving the non-acting player the opportunity to play R\u00F6tschreck. (in the scenario given)\n> >\n> Even in that scenario, if the acting player has nothing to play in the \"attempt to inflict damage\" window, the impulse goes to the other player so they can play their card in that window.\n>\nThe above insinuates that priority is followed and impulse is/can be passed back and forth, which I think is great, but was as many others under the impression damage had to be handled before passing impulse...happy to be wrong and see this align with the strike/damage handling.\n\nAm I understanding it correctly that the pre-range damage and prevention is handled exactly the same as one would with the strikes?\nmeaning that there are 2 sub-steps to the pre-range step\n1) play and resolve pre-range cards/effects (excluding damage) following priority and pass impulse per normal back and forth.\n2) resolve damage if any is inflicted during the pre-range sub-step 1, again following priority and pass impulse per normal back and forth.",
+      "Id": "104469"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 13, 2022, 8:18\u202FPM",
+      "Body": "> lip wrote:\n> Just to be clear, when playing R\u00F6tschreck on Outside the Hourglass, the damage of Outside the Hourglass is not inflicted then?\n>\nThe ruling on KRCG is worded as damage is applied even if combat is ended prematurely and that insinuates that prevention isn\u00B4t possible to be played,  [ANK 20180104]\n\nMight need to review the other OtH rulings to make it all clear.\n\n> KRCG wrote:\n> The damage is applied even if the combat ends prematurely (eg. Illusions of the Kindred)\n>\nAfter reading the forum post it is unclear to me if that is what Ankha actually is saying there or not...it isn't clear whether prevention is not chosen or not possible...also seems no final conclusion and ruling was reached in regards to whether prevention can be played or not after a combat end is played in the pre-range step for the OtH damage.\n\nI would say no damage is inflicted if it is to align with how it is handled during strikes which seem to be the ruling we are getting. (a good one I think)\nOn the other hand, this would mean that a combat end resolves differently for OtH than it does for Weather Control and would mean that the pending damage inflicted wouldn\u00B4t be handled and ignored.",
+      "Id": "104470"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Jan 13, 2022, 10:41\u202FPM",
+      "Body": "Regarding R\u00F6tschreck being an out of turn master and it might be difficult to play it with dawn operation and outside the hourglass: keep in mind that R\u00F6tschreck doesn't care about who controlls the vampire that attempts to inflict aggravated damage. It might be played by the methuselah controlling the vampire that would take the aggravated damage, or by a methuselah who doesn't controll a vampire involved in the combat at all.\n\nConcerning why the damage of outside the hourglass mght be inflicted: the difference to strikes is that the card resolves immediately. Strikes do not resolve until the strike resolution phase. However, since R\u00F6tschreck ends the combat before the strike resolution phase, strike damage is not applied (but attempted since the strike was chosen). Outside the Hourglass creates a more complicated situation, since the \"attempt\" is carried out immediately and not delayed like a strike. That's why it's handled in the way for ending the combat prematurely with Illusions of the Kindred in the post you linked, and that's why it might be handled the same way for R\u00F6tschreck, but I guess we need to hear Ankha on this.\n\nPrince of Bonn, Germany",
+      "Id": "104471"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 14, 2022, 8:12\u202FAM",
+      "Body": "> Ankha wrote:\n> This is wrong. If the vampire is acting during another Methuselah's turn, you can control the acting minion and still play a master OOT.\n>\nI think there are some possible cases to consider here.\n\n1.)\nPlayer A does an action and plays dawn operation.\nPlayer B blocks and in prerange plays Ooth and r\u00F6tschreck\n\n2.) Third player plays the r\u00F6tschreck\n\n3.) player A does an enkil cog rush, plays dawn operation, Ooth and r\u00F6tschreck.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104473"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 14, 2022, 8:23\u202FAM",
+      "Body": "> inm8 wrote:\n>\n> The ruling on KRCG is worded as damage is applied even if combat is ended prematurely and that insinuates that prevention isn\u00B4t possible to be played,  [ANK 20180104]\n>\nI think you misread the post you are referring to. That was a specific scenario meant to highlight the issue with illusions of kindred. It doesn't imply that Ooth damage is unpreventable. Just that the vampire in that case chose not to prevent it.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104474"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2022, 9:01\u202FAM",
+      "Body": "After a good night's sleep, I've decided to reconsider:\nThe 2004 RTR says:\n>\n> R\u00F6tschreck (Rotschreck) is only usable during strike declaration when a strike that deals aggravated damage targets a vampire (may still be played after both minions have announce their strikes). In particular, it is not usable for effects that resolve when played (which includes most non-strike effects), like Pulled Fangs under a Dawn Operation.\n>\nThe idea behind is that non-strike cards that inflict damage resolve immediately and inflict their damage immediately. \"Attempting\" to inflict damage with those cards is somehow meaningless since they always succeed.\nOn the other hand, damage-dealing strikes are played then resolved is another step. \"Attempting\" to inflict damage with those cards has a meaning: since there's a gap between the declaration and the resolution, and since the strike may not resolve (because the opponent plays a strike: combat ends etc.), the minion is attempting to inflict damage and may not be succesful.\n\nSo \"attempting\" implies (and that's what the RTR says) that a strike is involved. I don't want to introduce the notion that damage that is inflicted right away (Outside the Hourglass, Pulled Fangs) goes through an \"attempt to inflict damage\" window which brings nothing but complexity.\n\nTherefore, R\u00F6tschreck will have from now on the following clarification/errata:\n\nR\u00F6tschreck\nCardtype: Master\nOut-of-turn. Frenzy.\nPut this card on a vampire in combat when an opposing minion attempts to inflict aggravated damage on him or her {with a strike} (whether the damage would be successfully inflicted or not). Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. Burn this card during this vampire's unlock phase.\n\nThe consequence is that the 2004 RTR is still valid, and I revert both Floppy's and my ruling:\nwww.vekn.net/forum/rules-questions/9048-domain-of-evernight-outside-the-hourglass-vs-carrion-crows-rotschreck?start=6#9123\nwww.vekn.net/forum/rules-questions/9048-domain-of-evernight-outside-the-hourglass-vs-carrion-crows-rotschreck?start=0#9050\n\nIt doesn't change other rulings about how to handle damage from Outside the Hourglass.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104475"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 14, 2022, 9:29\u202FAM",
+      "Body": "What the actual fuck\n\n> Ankha wrote:\n> So \"attempting\" implies (and that's what the RTR says) that a strike is involved. I don't want to introduce the notion that damage that is inflicted right away (Outside the Hourglass, Pulled Fangs) goes through an \"attempt to inflict damage\" window which brings nothing but complexity.\n>\nYou mean you introducing a new case that is different from the norm somehow REDUCES complexity? It would be SIMPLER if the damage from ooth followed the same sequence of events as normal strikes! I dont agree with this at all!\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104479"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2022, 11:01\u202FAM",
+      "Body": "> Bloodartist wrote:\n> What the actual fuck\n>\n> > Ankha wrote:\n> > So \"attempting\" implies (and that's what the RTR says) that a strike is involved. I don't want to introduce the notion that damage that is inflicted right away (Outside the Hourglass, Pulled Fangs) goes through an \"attempt to inflict damage\" window which brings nothing but complexity.\n> >\n> You mean you introducing a new case that is different from the norm somehow REDUCES complexity? It would be SIMPLER if the damage from ooth followed the same sequence of events as normal strikes! I dont agree with this at all!\n>\nStrikes are declared then resolved in another step. \"Attempting\" to deal damage is reserved for this case, and the usage of that verb will not be used in that case* without indicating \"with a strike\" from now on (I don't know yet if there are other cards involved).\n\n(\"attempt to block\" is a different case)\n\nOther effects are declared and resolved at the same time.\n\nIt doesn't affect how damage are handled. Both damage from strikes and from OotH are handled following the same sequence once they are inflicted.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104480"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jan 14, 2022, 11:08\u202FAM",
+      "Body": "(I suspect the \"attempting\" might've been included in the text so that it doesn't matter if the damage is prevented or not.)\n\nFinnish  Politics!",
+      "Id": "104481"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2022, 11:10\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> (I suspect the \"attempting\" might've been included in the text so that it doesn't matter if the damage is prevented or not.)\n>\nYes, and it was also implying that it was made by a strike (which is not trivial at all). I made that part explicit by adding it to the cardtext.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104482"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 14, 2022, 7:34\u202FPM",
+      "Body": "Well, thanks for reconsidering. I was working on a large post about the \"attempting to inflict\" part of Rotschreck that OtH did not provide an opportunity for.\n\nIn doing so, I noted that the rulebook, never clearly specifies when damage is inflicted, only when it is successfully inflicted. There may be an opportunity to clean up some rulebook language here as well.",
+      "Id": "104486"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Jan 21, 2022, 9:26\u202FAM",
+      "Body": "Dear all,\n\nSorry for being confused.\n\nIs it OK to say that Rotschreck is only playable after a strike that would make a minion inflicts aggravated damage on the opposing minion is announced?\n\nIf not, I'll have a new read on all this conversation.\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "104548"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 21, 2022, 9:58\u202FAM",
+      "Body": "Remi it is correctly understood...R\u00F6tschreck can only be played on a vampire when an opposing minion attempts to inflict aggravated damage on him or her. The \"attempts\" part has been ruled to tie it to the strike, meaning it can only be used during the announcements of strikes (where a damage inflicting strike is announced) but before the resolution of them.\n\n> Ankha wrote:\n>\n> So \"attempting\" implies (and that's what the RTR says) that a strike is involved. I don't want to introduce the notion that damage that is inflicted right away (Outside the Hourglass, Pulled Fangs) goes through an \"attempt to inflict damage\" window which brings nothing but complexity.\n>\n> Therefore, R\u00F6tschreck will have from now on the following clarification/errata:\n>\n> R\u00F6tschreck\n> Cardtype: Master\n> Out-of-turn. Frenzy.\n> Put this card on a vampire in combat when an opposing minion attempts to inflict aggravated damage on him or her {with a strike} (whether the damage would be successfully inflicted or not). Combat ends. This vampire is locked and sent to torpor. This vampire does not unlock as normal. Burn this card during this vampire's unlock phase.\n>",
+      "Id": "104550"
+    },
+    {
+      "Author": "Velocet",
+      "Date": "Apr 9, 2022, 9:37\u202FPM",
+      "Body": "So... A third player can play Rotschreck??\n\nAnd Does it exist any priority when playing Rotschreck?\n\nThanks!",
+      "Id": "104970"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Apr 9, 2022, 10:12\u202FPM",
+      "Body": "yes, a third player can play it.\nAbout priority, just follow normal ABC sequencing. Acting, Blocking, Clockwise\n\nLurking in the underground of Bologna, Italy",
+      "Id": "104971"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Apr 10, 2022, 12:46\u202FAM",
+      "Body": "Meh, nevermind.",
+      "Id": "104973"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Apr 10, 2022, 11:41\u202FAM",
+      "Body": "> inm8 wrote:\n> Remi it is correctly understood...R\u00F6tschreck can only be played on a vampire when an opposing minion attempts to inflict aggravated damage on him or her. The \"attempts\" part has been ruled to tie it to the strike, meaning it can only be used during the announcements of strikes (where a damage inflicting strike is announced) but before the resolution of them.\n>\nAs far as I understand, if you play r\u00F6tschreck yourself: you choose your strike and then immediately play r\u00F6tschreck because thats how playing cards works in VTES. You play the cards you intend to play together. Then the other player gets opportunity to play their cards and effects, etc.\n\nSure, you cant play r\u00F6tschreck as an active player unless you're playing on someone elses turn, (OOT master) but there exists a scenario where this might save the opponent a strike card (enkil cog rush, perhaps).\n\nI am not entirely sure how the sequencing works in a case where a third player is playing r\u00F6tschreck. Is it played roughly similarly as DI or do the acting and defending player choose their strikes first?\n\n> Velocet wrote:\n> So... A third player can play Rotschreck??\n>\nThis has always been the case. Its an out-of-turn master card.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "104979"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 10, 2022, 11:53\u202FAM",
+      "Body": "> Bloodartist wrote:\n> I am not entirely sure how the sequencing works in a case where a third player is playing r\u00F6tschreck. Is it played roughly similarly as DI or do the acting and defending player choose their strikes first?.\n>\nThe latter, both players have to choose thier strikes first as sequence goes from acting to blocking to rest of the players clockwise (similar to how Eagle\u2019s Sight is played).",
+      "Id": "104980"
+    }
+  ]
+}

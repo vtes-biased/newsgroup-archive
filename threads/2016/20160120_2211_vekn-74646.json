@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-74646",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/74646-the-red-question-timing",
+  "Title": "The Red Question - Timing",
+  "Messages": [
+    {
+      "Author": "2wayspeaker",
+      "Date": "Jan 20, 2016, 10:11\u202FPM",
+      "Body": "The red Question\nAction Modifier + Burn option\n\nRequires an untitled non anarch vampire\n\ncosts 1 blood\n\nPut this card on this vampire. This vampire is considered anarch.\n\nLet's say I have a 4Cap that decided to \"Go Anarch (rules)\" by paying 2 blood.\nI play this action modifier, what happens?\n\nMy vampire has become anarch through \"Go Anarch (rules)\". The vampire gets banished and comes back, is it still an anarch?\n\nMy vampire is an anarch through \"The Red Question\". The vampire gets banished and comes back, is it still an anarch?\n\nMy Vampire begins to bleed, it plays \"The Red Question\" can it play \"Monkey Wrench\"/\"Power of One\" immediatly after?\n\nMy vampire attempts an action and played this modifier, however, the action is blocked. Can my vampire play \"Groundfighting\"?",
+      "Id": "75077"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 21, 2016, 2:23\u202FAM",
+      "Body": "> 2wayspeaker wrote:\n> Let's say I have a 4Cap that decided to \"Go Anarch (rules)\" by paying 2 blood.\n> I play this action modifier, what happens?\n>\nBefore action resolution, the acting vampire is not anarch, so you can play The Red Question. Then if the action is not blocked, it will fizzle at resolution because the vampire does not fill the requirement of being non-Anarch.\n>\n> My vampire has become anarch through \"Go Anarch (rules)\". The vampire gets banished and comes back, is it still an anarch?\n>\nYes: www.vekn.net/card-rulings/card-rulings-a-to-f\n>\n> My vampire is an anarch through \"The Red Question\". The vampire gets banished and comes back, is it still an anarch?\n>\nYes (banishment card text: The Red Question stays on the vampire).\n>\n> My Vampire begins to bleed, it plays \"The Red Question\" can it play \"Monkey Wrench\"/\"Power of One\" immediatly after? My vampire attempts an action and played this modifier, however, the action is blocked. Can my vampire play \"Groundfighting\"?\n>\nYes: action modifiers resolve when played.",
+      "Id": "75083"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 21, 2016, 7:05\u202FAM",
+      "Body": "Please note that you can't play The Red Question before \"as the action is announced\" action modifiers.\nFor instance, an non-anarch can't play The Red Question to become anarch in order to play Ni Dieu ni Ma\u00EEtre when announcing an action.\n\n> Ni wrote:\n> Action Modifier\n> /  /\n> Requires an anarch.\n> Only usable as the action is announced. More than one discipline can be used when playing this card.\n> If this action is blocked, the opposing minion cannot use maneuvers in the resulting combat.\n> Vampires must burn 1 blood to attempt to block this action.\n> If this action is blocked, this anarch gets +1 strength in the resulting combat.\n>\n[/quote]\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "75085"
+    },
+    {
+      "Author": "Micha\u0142",
+      "Date": "Feb 17, 2016, 1:39\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > 2wayspeaker wrote:\n> > Let's say I have a 4Cap that decided to \"Go Anarch (rules)\" by paying 2 blood.\n> > I play this action modifier, what happens?\n> >\n> Before action resolution, the acting vampire is not anarch, so you can play The Red Question. Then if the action is not blocked, it will fizzle at resolution because the vampire does not fill the requirement of being non-Anarch.\n>\nBut will he still have to pay 2 blood for the action?",
+      "Id": "75476"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 17, 2016, 3:51\u202FPM",
+      "Body": "> Micha\u0142 wrote:\n> But will he still have to pay 2 blood for the action?\n>\nNo. An action that fizzles because Something Has Changed so that the action is no longer legal has no cost paid. For example, this can include: trying to Ambush a tapped target who untaps during the action, losing a Bomb which you were using to take a  action etc.\n\nIf the action is otherwise legal and you don't have enough blood/pool to meet the cost, you pay as much as you can, then it fizzles.\n\n[LSJ 20090224]\n>\n> LSJ wrote:\n> > All actions check their required conditions, including vampire state,\n> > blood cost and pool cost, at the point of resolving the action. If the\n> > required conditions are not met at that point, the action fizzles.\n>\n> Well, first check targets and such to see if the action's cost should be paid.\n> If not, it fizzles with no cost paid.\n>\n> Then pay the cost. If it cannot be paid, then as much as can be paid is paid,\n> and the action fizzles.\n>",
+      "Id": "75477"
+    }
+  ]
+}

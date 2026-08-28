@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-15615",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/15615-nocturn-how-does-it-work",
+  "Title": "Nocturn - how does it work ?",
+  "Messages": [
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 23, 2011, 11:05\u202FAM",
+      "Body": "The nocturn is a card that look very promising, but can be really confusing too. I have not found any extended faq on how it work (contrary to Mask of a thousand face for exemple), so I have some question.\n\nFirst, the card :\n\nNocturn [SoC:C, HttB:PKia2]\nCardtype: Ally\nCost: 1 blood\nDiscipline: Obtenebration\nDemon with 1 life. 1 strength, 1 bleed.\n[obt] Move Nocturn to the ready region when recruited. If this is this vampire's first successful recruit action this turn, he or she untaps. Nocturn can play non-ally cards that require basic Obtenebration as a vampire. Burn Nocturn during your untap phase.\n[OBT] As above, and this vampire may perform this action again this turn, with the cost increased by 1 blood.\nArtist: Leif Jones\n\n1 - If a vampire recruiting Nocturn have superior [OBT], must I have another Nocturn in hand to perform the action again ? Or can I just create another nocturn from thin air ?\n\n2 - If a vampire recruit a nocturn again in the same turn, does the vampire untap ? I suppose not, but I have seen threads with people talking about a nocturn that cost 7.\n\n3 - If I use a compel the spirit on a nocturn, will the nocturn burn at my next untap ? Will the vampire untap ? Same question with others ally-retrieving card like Pressing Flesh, etc, or, with alternate way to play ally, like Summon history.\n\nCompel the Spirit [DS:U2, FN:PG, LotN:PG]\nCardtype: Action\nCost: 1 blood\nDiscipline: Necromancy\n+1 stealth action.\n[nec] Move an ally or retainer that was burned from play since your last turn from your ash heap to your hand.\n[NEC] As above, but move it to your ready region (ignore requirements and cost) with X life from the blood bank, where X is the starting life of the ally or retainer. If it is a retainer, place it on the acting minion.\nArtist: Stuart Beel; Eric Deschamps\n\nLast thing, if I want stratefic advice on a card, in which section should I make a thread ? Deck clinic ? I have found some deck lists with nocturn, but without explanation on how they are supposed to be used nocturn is more or less a proxy of computer hacking.\n\nThanks.",
+      "Id": "15615"
+    },
+    {
+      "Author": "V\u00E4in\u00E4m\u00F6inen",
+      "Date": "Nov 23, 2011, 11:15\u202FAM",
+      "Body": "> Ohlmann wrote:\n> 1 - If a vampire recruiting Nocturn have superior [OBT], must I have another Nocturn in hand to perform the action again ? Or can I just create another nocturn from thin air ?\n>\nyou must have another Nocturn card in hand.\n\n> Ohlmann wrote:\n> 2 - If a vampire recruit a nocturn again in the same turn, does the vampire untap ? I suppose not, but I have seen threads with people talking about a nocturn that cost 7.\n>\nno. it says explicitly in the card text that it untaps after first successful recruit.",
+      "Id": "15616"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 23, 2011, 11:47\u202FAM",
+      "Body": "> V\u00E4in\u00E4m\u00F6inen wrote:\n>\n> > Ohlmann wrote:\n> > 1 - If a vampire recruiting Nocturn have superior [OBT], must I have another Nocturn in hand to perform the action again ? Or can I just create another nocturn from thin air ?\n> >\n> you must have another Nocturn card in hand.\n>\nCorrect. The superior effect of Nocturn allows to bypass the NRA rule that states that you can't perform more than once the same action with the same vampire in the same turn.\n\n> V\u00E4in\u00E4m\u00F6inen wrote:\n>\n> > Ohlmann wrote:\n> > 2 - If a vampire recruit a nocturn again in the same turn, does the vampire untap ? I suppose not, but I have seen threads with people talking about a nocturn that cost 7.\n> >\n> no. it says explicitly in the card text that it untaps after first successful recruit.\n>\nCorrect. To play other Nocturns, you'll have to untap using Freak Drive for example.\n\n> Ohlmann wrote:\n> 3 - If I use a compel the spirit on a nocturn, will the nocturn burn at my next untap ?\n>\nYes, because of the Nocturn's card text.\n\n> Ohlmann wrote:\n> Will the vampire untap ?\n>\nNo, because Compel the Spirit isn't a recruit action.\n\n> Ohlmann wrote:\n> Same question with others ally-retrieving card like Pressing Flesh, etc, or, with alternate way to play ally, like Summon history.\n>\nCheck the presence of the verb \"recruit\" on those cards. If it's not present, it's not a recruit action and therefore Nocturn doesn't provide any untap effect.\n\n> Ohlmann wrote:\n> Last thing, if I want stratefic advice on a card, in which section should I make a thread ? Deck clinic ? I have found some deck lists with nocturn, but without explanation on how they are supposed to be used nocturn is more or less a proxy of computer hacking.\n>\nDeck clinic is the right place.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "15617"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 11:56\u202FAM",
+      "Body": "These answers are correct.",
+      "Id": "15619"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 23, 2011, 12:05\u202FPM",
+      "Body": "One last question. Does superior nocturn allow only additional nocturn recruit, or any other ally recruit, like a war ghoul ? In other word, the same action refer to the \"recruit an ally\" or to \"recruit an ally playing the nocturn card\" ?",
+      "Id": "15621"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 23, 2011, 12:30\u202FPM",
+      "Body": "> Ohlmann wrote:\n> One last question. Does superior nocturn allow only additional nocturn recruit, or any other ally recruit, like a war ghoul ? In other word, the same action refer to the \"recruit an ally\" or to \"recruit an ally playing the nocturn card\" ?\n>\nA vampire can recruit two different allies in a turn anyway, without any special text. (Obviously, they need to untap somehow.)\n\nA vampire is prevented from taking the following actions more than once per turn (with the restricting 'taint' kicking in when the action resolves, successfully or not):  any bleed any political action the same action card by name (e.g. you can't play two Govern the Unaligneds, one for inferior one for superior; you can't employ two Wolf Companions) an action from a card in play (e.g. my Arika has a single Haven Uncovered on her - your Theo Bell can't use it twice to rush her in the same turn, but if Arika had two Haven Uncovereds on her, you could use each separetely; my Wynn has a built-in rush action on him, which he can take once per turn) the 'built-in' Red List rushes if you mark the vampire (by the text in section 11)\nA vampire can employ Nocturn + War Ghoul in one turn. Or Shambling Horde + Nocturn. Or Renegade Garou + Nocturn + War Ghoul + Shambling Horde.\n\nBut not two Shambling Hordes or two War Ghouls, because that's the same action card by name. (Like playing two Governs.)\n\nNocturn + Nocturn is, of course, allowed by Nocturn's own text.\n\nThe tournament floor rules, many years ago, did restrict actions by type e.g. only one hunt per turn, only one recruit per turn. Those rules don't exist now. (And strictly only applied to tuornaments, though were common in home games.)",
+      "Id": "15626"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 12:34\u202FPM",
+      "Body": "The superior Nocturn recruit allows you to perform this action again.\nIf you recruited the Nocturn the normal way (play it from hand), you can do another Nocturn action.\n\nIf you recruited it via The Summoning, then you can perform another The Summoning action again this turn.\n\nYou can always perform the following:\nRecruit ally A (for instance, Carlton Van Wyk), untap (Freak Drive), recruit ally B (for instance, Mylan Horseed).\n\nThe NRA limits you to one inferior Nocturn action per turn.",
+      "Id": "15627"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 23, 2011, 12:42\u202FPM",
+      "Body": "Thank for the clarification in the NRA rule.\n\nAnother last two questions : if with superior Obtenetration a vampire do a compel the spirit or a summon history on a nocturn, can he do an additional compel the spirit / summon history the same turn if he untap ?\n\nAlso, if a vampire make a \"the summoning\" for a nocturn (with obtenetration superior), the next *the summoning* cost 1 more blood, but the next *nocturn* is at the same price, am I right ? (assuming the same vampire, of course)",
+      "Id": "15628"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 12:50\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Another last two questions : if with superior Obtenetration a vampire do a compel the spirit or a summon history on a nocturn, can he do an additional compel the spirit / summon history the same turn if he untap ?\n>\nNo. In this case, the Nocturn isn't recruited, and its cardtext doesn't apply. {plus, you only get inferior Nocturn when you put it in play with no recruit happening}\n\n> Ohlmann wrote:\n> Also, if a vampire make a \"the summoning\" for a nocturn (with obtenetration superior), the next *the summoning* cost 1 more blood, but the next *nocturn* is at the same price, am I right ? (assuming the same vampire, of course)\n>\nCorrect: the Nocturn's \"this action\" would refer to the Summoning if the Ncoturn was recruited with the Summoning.",
+      "Id": "15629"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 23, 2011, 12:53\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Another last two questions : if with superior Obtenetration a vampire do a compel the spirit or a summon history on a nocturn, can he do an additional compel the spirit / summon history the same turn if he untap ?\n>\nno, CtS and SH put the Nocturn into play in a non-recruit way, meaning you won't untap and you will ignore the card text refering to the recruit action.\nFurthermore, since CtS and SH are not recruit action, they always use the inferior level of the ally (if any).\n\n> Ohlmann wrote:\n> Also, if a vampire make a \"the summoning\" for a nocturn (with obtenetration superior), the next *the summoning* cost 1 more blood, but the next *nocturn* is at the same price, am I right ? (assuming the same vampire, of course)\n>\nCorrect, the \"same action\" is The Summoning (which cost is increased). The Nocturn fetched with it is at his normal cost.\n\nEDIT: Floppy was faster, dang\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "15630"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 23, 2011, 12:57\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Another last two questions : if with superior Obtenetration a vampire do a compel the spirit or a summon history on a nocturn, can he do an additional compel the spirit / summon history the same turn if he untap ?\n>\nNo. You get the basic version of Nocturn.\n\n[LSJ 20071016]\n>\n> LSJ wrote:\n> Orpheus wrote:\n> > Ok, that I knew. Now, I'd like to know if the \"starting life\" on a Shambling\n> > now means overseeds \"normal version\" and that a compelled Shambling will\n> > have 4 lives if it first came into the game with NEC ?\n>\n> No. Compelled doesn't look at requirements, so it always uses the basic version.\n>\n> Ohlmann wrote:\n> Also, if a vampire make a \"the summoning\" for a nocturn (with obtenetration superior), the next *the summoning* cost 1 more blood, but the next *nocturn* is at the same price, am I right ? (assuming the same vampire, of course)\n>\nYes.\n\n[LSJ 20070407]\n>\n> LSJ wrote:\n> >>>>> Since in this case, \"this action\" was The Summoning, can Iniko then\n> >>>>> play The Summoning again, to recruit a different ally?\n>\n> > Ok, but could iniko play another nocturn via the second (or third..or\n> > fourth) summoning ?\n> > thanks\n>\n> Yes, if he or she finds another way to untap between each.\n>\n> And the cost of the second Summoning is 1 blood (plus the cost of the Nocturn).\n> The cost of the third Summoning is 2 blood. And the cost of the fourth Summoning\n> is 3 blood.\n>",
+      "Id": "15631"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Nov 23, 2011, 5:55\u202FPM",
+      "Body": "Just to get it right:\nIf I recruit a Nocturn on  from my hand, do it a second time on  and play Freak Drive afterwards, and then play the third Nocturn, this third recruit will cost the acting vampire 3  ?\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "15664"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2011, 6:05\u202FPM",
+      "Body": "Correct.  [LSJ 20070710] for an example.",
+      "Id": "15666"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 23, 2011, 6:44\u202FPM",
+      "Body": "The ruling seem to imply that \"increasing a cost\" and \"adding X to a cost\" is two separate kind of effect. Is that true ?\n\nTo explain, if \"increased by one\" was an addition, in the link the 7th nocturn should cost ((1/2) - 3 + 6 ) = 3 and not ((7 / 2) - 3) = 0, since the base cost of the nocturn remain at 1.\n\nIt seem pretty counter-intuitive, or maybe I miss some specifics rules.",
+      "Id": "15675"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Nov 27, 2011, 4:59\u202FPM",
+      "Body": "> Ohlmann wrote:\n> The ruling seem to imply that \"increasing a cost\" and \"adding X to a cost\" is two separate kind of effect. Is that true ?\n>\n> To explain, if \"increased by one\" was an addition, in the link the 7th nocturn should cost ((1/2) - 3 + 6 ) = 3 and not ((7 / 2) - 3) = 0, since the base cost of the nocturn remain at 1.\n>\n> It seem pretty counter-intuitive, or maybe I miss some specifics rules.\n>\nJust bumping this because the above question is interesting and looks like it may have been missed by Pascal.\nIn the quoted example, why is the maths\n7 (7th Nocturn) divided by 2 (Ankara) = 3 - 1 (Charisma) - 1 (Drink the Blood of Ahriman) - 1 (Path of Night) = 0\nInstead of\n1 (base cost) divided by 2 (Ankara) = 0 + 6 (7th Nocturn) - 1 (Charisma) - 1 (Drink the Blood of Ahriman) - 1 (Path of Night) = 3\n\nThis was marked as correct by LSJ, but seems to be contrary to the usual rule about multiplying/dividing before adding/subtracting.",
+      "Id": "16183"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 29, 2011, 12:47\u202FAM",
+      "Body": "You are correct. 7th Nocturn costs indeed 3 blood.",
+      "Id": "16397"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 1, 2011, 5:14\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > V\u00E4in\u00E4m\u00F6inen wrote:\n> >\n> > > Ohlmann wrote:\n> > > 1 - If a vampire recruiting Nocturn have superior [OBT], must I have another Nocturn in hand to perform the action again ? Or can I just create another nocturn from thin air ?\n> > >\n> > you must have another Nocturn card in hand.\n> >\n> Correct. The superior effect of Nocturn allows to bypass the NRA rule that states that you can't perform more than once the same action with the same vampire in the same turn.\n>\nThis apparently lead to misunderstandings.\n\nIn order to play a second Nocturn, you must have a second Nocturn in your hand when you would play a second Nocturn. You don't need it in your hand when you play the first Nocturn.\n\nThe original question was: Can I get my second Nocturn \"from thin air\", as if the first Nocturn would provide extra copies of itself per cardtext?\nThe answer to this question is: No. Nocturn allows you to play a second Nocturn from your hand (which would otherwise be forbidden by NRA).",
+      "Id": "16675"
+    }
+  ]
+}

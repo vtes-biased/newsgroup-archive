@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-76844",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76844-some-questions",
+  "Title": "Some Questions",
+  "Messages": [
+    {
+      "Author": "manituan",
+      "Date": "Jul 21, 2018, 5:05\u202FPM",
+      "Body": "Recenty we played our first VTES session in years and a lot of rule questions came up.\n\n- If I steal an equipment, ally, location or vampire and the original controller of those cards is ousted before me, do I keep them until the end of the game?\n\n- Can \"Unleash Hell\u00B4s Fury\" block a  action targeting a vampire/location I control? The card says \"only against you\".\n\n- If I reduce the capacity of a vampire with Barrenness and I\u00B4m ousted, does the affected vampire get his or her capacity back?\n\n- How do I know in general if a card played by an ousted player stays in the table?\n\nThank you.",
+      "Id": "89152"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 21, 2018, 5:58\u202FPM",
+      "Body": "> manituan wrote:\n> - If I steal an equipment, ally, location or vampire and the original controller of those cards is ousted before me, do I keep them until the end of the game?\n>\nYes. Use proxies if the player must pack up and leave.\n>\n> - Can \"Unleash Hell\u00B4s Fury\" block a  action targeting a vampire/location I control? The card says \"only against you\".\n>\nYes. See the rulebook section 6.2.2 on  actions: the (or a card you control) part is just a redundant clarification, a  action against one of your cards is always a  action against you.\n>\n> - If I reduce the capacity of a vampire with Barrenness and I\u00B4m ousted, does the affected vampire get his or her capacity back?\n>\n> - How do I know in general if a card played by an ousted player stays in the table?\n>\nSee question 1. Barrenness is put on vampire. Attached minion cards are controlled by the minion's controller, so they stay in play after you are ousted.\n\nThe general rule is: cards you control burn when you are ousted. You control:\n1) All unattached cards in your controlled region,\n2) All minion cards attached to your cards, no matter who played them,\n3) Master cards you play, no matter what they are attached to.\n\n1 covers you first question about stealing. 2 means: you Disarm someone, you get ousted, Disarm stays in play. 3 means: you Pentex someone, you get ousted, Pentex burns. That is also why burning the Pentex is a  action against the Methuselah who played it, while burning a Pulled Fangs is an undirected action.",
+      "Id": "89156"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 21, 2018, 6:08\u202FPM",
+      "Body": "> manituan wrote:\n> - If I steal an equipment, ally, location or vampire and the original controller of those cards is ousted before me, do I keep them until the end of the game?\n>\nWhen a player is ousted, cards they control are removed from the game. Any cards controlled by someone else stay with them. If the control is temporary (e.g. Mind Rape), then it's burned when it would be returned to them.\n\n> manituan wrote:\n> - Can \"Unleash Hell\u00B4s Fury\" block a  action targeting a vampire/location I control? The card says \"only against you\".\n>\nActions against something you control are also against you.  [LSJ 20090324]\n\n> manituan wrote:\n> - If I reduce the capacity of a vampire with Barrenness and I\u00B4m ousted, does the affected vampire get his or her capacity back?\n>\nFrom the rulebook, 1.6.3:\nBy default, a minion card in play is controlled by the controller of the minion it is on.\n\nBarrennness card text:\n[mal]  Put this card on a vampire and unlock this acting vampire. This vampire is sterile and his or her capacity decreases by 2 (to a minimum of 1.) [mal] is not a Discipline.\n\nSo it's a minion card, so by default the controller is whoever it's on. When you're ousted, Barrenness stays in play on another Methuselah's minion, because you don't control it.\n\n> manituan wrote:\n> - How do I know in general if a card played by an ousted player stays in the table?\n>\nWork out who controls it. If it's the ousted player, it goes with them.\n\nRulebook, 1.6.2:\nA master card in play is, by default, controlled by the Methuselah who played it, even if it is played on a card controlled by another Methuselah.\n\nRulebook, 1.6.3\n\"By default, a minion card in play is controlled by the controller of the minion it is on. If a minion card is just in play and not on another controlled card, then it is, by default, controlled by the Methuselah who played it.\"\n\nRulebook, 1.6.4\nAn event card is controlled by the Methuselah who played it, by default.\n\nThen check for explicit card text like \"You still control this card\" (e.g. Temptation). Or for explicit change of control effects that have been played.",
+      "Id": "89159"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jul 21, 2018, 6:37\u202FPM",
+      "Body": "about master card,if you play discipline card or vesel on minion of another player,who is counted as controler?",
+      "Id": "89161"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 21, 2018, 8:50\u202FPM",
+      "Body": "> beslin wrote:\n> about master card,if you play discipline card or vesel on minion of another player,who is counted as controler?\n>\nRulebook, 1.6.2:\nA master card in play is, by default, controlled by the Methuselah who played it, even if it is played on a card controlled by another Methuselah.\n\nNote that using Vessel doesn't care about who Vessel's controller it, it looks at the controller of the vampire.",
+      "Id": "89171"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 10, 2018, 7:39\u202FAM",
+      "Body": "I'm interested in whether it's a rule for Mind Rape changed? if read post from LSJ and jamesatzephyr we get diferent answers:\n\nLSJ\n\nHardyRange wrote:\n> Hello,\n>\n> couldn't find an answer to this situation that happend yesterday:\n>\n> A vampire I control successfully has played Mind Rape on one of my\n> prey's minions.\n> However, before my next turn comes around, I am ousted.\n>\n> I ruled that Mind Rape, as a minion card, is controlled by the player\n> of the vampire it is on.\n> Since I am out of the game, I do never get another minion phase,\n> therefore the condition to burn Mind Rape never triggers, and the card\n> just stays in play - so the poor vamp can never untap as normal for the\n> rest of the game.\n>\n> Was this correct?\nYes.\nGoogle: \"Mind Rape ousted author:LSJ\"\n\ngroups.google.com/forum/#!searchin/rec.games.trading-cards.jyhad/mind$20rape$20author$3Alsj%7Csort:date/rec.games.trading-cards.jyhad/jSJxgmDEAm8/Un0SLO8ycd8J\n\njamesatzephyr:\n\nWhen a player is ousted, cards they control are removed from the game. Any cards controlled by someone else stay with them. If the control is temporary (e.g. Mind Rape), then it's burned when it would be returned to them.",
+      "Id": "91771"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 10, 2018, 10:42\u202FAM",
+      "Body": "> beslin wrote:\n> I'm interested in whether it's a rule for Mind Rape changed? if read post from LSJ and jamesatzephyr we get diferent answers:\n>\nLSJ's ruling was valid until he changed the cardtext in KoT. Mind Rape now says: \"you still control this card.\"\nThis means that James is correct.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "91774"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 10, 2018, 11:30\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > beslin wrote:\n> > I'm interested in whether it's a rule for Mind Rape changed? if read post from LSJ and jamesatzephyr we get diferent answers:\n> >\n> LSJ's ruling was valid until he changed the cardtext in KoT. Mind Rape now says: \"you still control this card.\"\n> This means that James is correct.\n>\nI was talking about the period of temporary control of the vampire, not the time when Mind Rape is in play. The temporary control of the vampire occurs when Mind Rape is burned. I temporarily control your copy of Sheldon. Mind Rape isn't in play, because I burned it to get Sheldon. I then oust you. I still temporarily control Sheldon. At the end of my turn, my temporary control ends - so Sheldon goes poof.",
+      "Id": "91775"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 10, 2018, 12:29\u202FPM",
+      "Body": "Indeed, there is no correlation between the two questions, my mistake. Strip the \"This means that\" part\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "91778"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-75053",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/75053-accessing-the-site",
+  "Title": "Accessing the site",
+  "Messages": [
+    {
+      "Author": "Kimpan",
+      "Date": "Jul 8, 2016, 2:08\u202FAM",
+      "Body": "I have had lots of trouble to access the vekn.net after the maintenance. Get a error when trying. Only way to access it is by going direct to forum via web browser.\n\nIs it only me?\n\nNational Coordinator of Sweden",
+      "Id": "77333"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 8, 2016, 6:05\u202FAM",
+      "Body": "> Kimpan wrote:\n> I have had lots of trouble to access the vekn.net after the maintenance. Get a error when trying. Only way to access it is by going direct to forum via web browser.\n>\n> Is it only me?\n>\nHave you checked the address? It should be www.vekn.net, not vekn.net.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "77334"
+    },
+    {
+      "Author": "Kimpan",
+      "Date": "Jul 8, 2016, 3:02\u202FPM",
+      "Body": "Found the problem, my browser removes www, due to history. Works when I type in the whole adress.\n\nThank you.\n\nNational Coordinator of Sweden",
+      "Id": "77337"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 11, 2016, 4:10\u202FAM",
+      "Body": "It would be prudent to set up a DNS record for vekn.net with a redirect to www.vekn.net\n\nI had just assumed the site was down again after being unable to access under vekn.net (the default for years). A redirect will also ensure any old links are not broken.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "77340"
+    }
+  ]
+}

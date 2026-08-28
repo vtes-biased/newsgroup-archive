@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-82875",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82875-superior-bauble-timing-confirmation-needed",
+  "Title": "Superior Bauble: Timing confirmation needed",
+  "Messages": [
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Mar 10, 2026, 11:21\u202FAM",
+      "Body": "Dear all,\n\nSuperior Bauble offers the option to burn both Bauble and the weapon at any time. If the weapon lives play by any other means, Bauble will not be able to burn by its own card text until the end of the game.\n\n3 Specific cases:\nMy minion is in combat, has just announced a strike with a \"Superior Baubled\" Weapon.\n1/ If I burn the Bauble before Damage Prevention Window, could you please confirm that my minion' strike is then canceled and therefore will not resolved?\n2/ If I burn the Bauble before after Damage Prevention Window and before actually resolving the strikes, could you please confirm that my minion' strike is then canceled and therefore will not resolved?\n3/ Could you please confirm that there is no window to burn the Bauble between Strike Resolution and the trigger of \"Burn after use\" clause of the \"Superior Baubled\" equiment?\n\nRelevant cards' text:\nBauble\n[Vicissitude]Put this card on this vampire, search your library for a non-unique non-location equipment card, and put it on another minion you control (ignore requirements and cost; shuffle afterward). This vampire cannot perform actions, block or cast votes or ballots. You can burn this card and the chosen equipment during your unlock phase or after the minion with the chosen equipment leaves the controlled region.\n[Superior Vicissitude] As above, but you can burn this card and the chosen equipment at any time.\n\nGrenade\nWeapon. 3R damage as a strike. If Grenade is used at close range, the minion with this weapon takes 1 damage. Burn after use.\n\nThanks in advance,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116607"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Mar 10, 2026, 5:22\u202FPM",
+      "Body": "Good question.\n\n\"Burn after use\" is done in strike resolution step.\n\nWhile \"Burn at any time\" moves this in the same window.\n\nThe question is of timing.\n\nThis is under \"Resolve Strike\" of combat step, as am aware, there should be no barrier for you to declare that you are burning it at that time, so part of the damage declaration of the strike, and rest of the effect, you should be able to declare in same step that you are burning it.\n\nBut do wait on official statement.",
+      "Id": "116616"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 11, 2026, 7:48\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> 1/ If I burn the Bauble before Damage Prevention Window, could you please confirm that my minion' strike is then canceled and therefore will not resolved?\n>\nStrike resolution is before damage prevention, so I don't understand your question.\n\n> R\u00E9mi wrote:\n> 2/ If I burn the Bauble before after Damage Prevention Window and before actually resolving the strikes, could you please confirm that my minion' strike is then canceled and therefore will not resolved?\n>\nI don't understand \"before after\".\n\n> R\u00E9mi wrote:\n> 3/ Could you please confirm that there is no window to burn the Bauble between Strike Resolution and the trigger of \"Burn after use\" clause of the \"Superior Baubled\" equiment?\n>\nBurning the Grenade is part of the strike resolution, so either you resolve the strike fully (damage + burn after use), or you burn the Grenade with Bauble before strike resolution, in which case you don't inflict the damage.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116631"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Mar 11, 2026, 1:34\u202FPM",
+      "Body": "Hi Vincent,  Strike speed:\n\n0: Combat End and Doge\n1: First Strike\n2: Strike and Steal blood\nJust to be sure:\n\nThe Grenada example is Strike, burn it on start of \"Strike\" resolution, \"after use\", after declaration, and after Combat end, and First Strike (not counting Doge)?\n\nThus if you burn it before \"Strike\" resolution, you need to select new strike?",
+      "Id": "116635"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 12, 2026, 7:38\u202FAM",
+      "Body": "> mipopo3 wrote:\n> Thus if you burn it before \"Strike\" resolution, you need to select new strike?\n>\n1. Choose strikes\n2. Resolve strikes (your \"strike speed\" list only tells the order in which strikes resolve.)\n\nIf you have chosen to strike with grenade, then decide to burn it before it fully resolves, you don't strike at all. Choosing a strike makes you committed to that strike. Only if the strike is somehow canceled(by a card) can you choose a different strike.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "116638"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 12, 2026, 7:58\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > mipopo3 wrote:\n> > Thus if you burn it before \"Strike\" resolution, you need to select new strike?\n> >\n> 1. Choose strikes\n> 2. Resolve strikes (your \"strike speed\" list only tells the order in which strikes resolve.)\n>\n> If you have chosen to strike with grenade, then decide to burn it before it fully resolves, you don't strike at all. Choosing a strike makes you committed to that strike. Only if the strike is somehow canceled(by a card) can you choose a different strike.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116640"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Apr 24, 2026, 12:54\u202FPM",
+      "Body": "Dear Vincent, thanks for your pacience. I wrote it too fast\n\n> Ankha wrote:\n> I don't understand \"before after\".\n>\n> > R\u00E9mi wrote:\n> > 3/ Could you please confirm that there is no window to burn the Bauble between Strike Resolution and the trigger of \"Burn after use\" clause of the \"Superior Baubled\" equiment?\n> >\n> Burning the Grenade is part of the strike resolution, so either you resolve the strike fully (damage + burn after use), or you burn the Grenade with Bauble before strike resolution, in which case you don't inflict the damage.\n>\nThis is the point I really need to confirm\n-> I cannot burn the Bauble in the middle of the Strike Resolution in order to deal damage with the grenade and to be able to burn the Bauble.\n\nAlright then!\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116904"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Apr 25, 2026, 10:06\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> -> I cannot burn the Bauble in the middle of the Strike Resolution in order to deal damage with the grenade and to be able to burn the Bauble.\n>\nAlso relevant: in order to burn the Bauble, you need to have the impulse\nNobody has the impulse when strikes resolve (which includes damage resolution) so you don't have a window of opportunity to do what you are thinking of\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116919"
+    }
+  ]
+}

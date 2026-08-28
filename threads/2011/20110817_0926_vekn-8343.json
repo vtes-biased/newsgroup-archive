@@ -1,0 +1,122 @@
+{
+  "ThreadId": "vekn-8343",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/8343-new-topic-default-section",
+  "Title": "New topic - default section",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Aug 17, 2011, 9:26\u202FAM",
+      "Body": "Hi,\nIf one use the New Topic button while browsing the section 'A' section, the default section is always 'News And Announcement'. If one forget to set it, it goes to the wrong section. Could it be automatically changed to go by default to section 'A' (the section can still be changed in the form) ?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8343"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 17, 2011, 9:33\u202FAM",
+      "Body": "This is strange.. It is always properly set for me.",
+      "Id": "8346"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Aug 17, 2011, 10:44\u202FAM",
+      "Body": "> Ankha wrote:\n> Hi,\n> If one use the New Topic button while browsing the section 'A' section, the default section is always 'News And Announcement'. If one forget to set it, it goes to the wrong section. Could it be automatically changed to go by default to section 'A' (the section can still be changed in the form) ?\n>\nI can't replicate the problem; as for Pascal, also for me \"new topic\" is always defaulted to the current section opened\n\nWhat's your Browser ?\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "8367"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 17, 2011, 12:45\u202FPM",
+      "Body": "> nc-italy wrote:\n>\n> > Ankha wrote:\n> > Hi,\n> > If one use the New Topic button while browsing the section 'A' section, the default section is always 'News And Announcement'. If one forget to set it, it goes to the wrong section. Could it be automatically changed to go by default to section 'A' (the section can still be changed in the form) ?\n> >\n> I can't replicate the problem; as for Pascal, also for me \"new topic\" is always defaulted to the current section opened\n>\n> What's your Browser ?\n>\nChrome.\nI tried to reproduce it, but to no avail. Maybe it is when I browse a certain way (from Recent Topics to the topic itself, then somewhere else?)\n\nI happened twice so I guess there's a way to reproduce it. I'll tell you then.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8389"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 19, 2011, 7:50\u202FAM",
+      "Body": "Here's the scenario:\n\nClick on \"Recent Topics\"\nClick on the link \"Expansion Sets & Card Ideas\" located under \"Card idea: Trust No One\", right to \"by Ankha in\"\nClick \"New Topic\".\nThe default category is News and Announcements.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8561"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 23, 2011, 8:04\u202FPM",
+      "Body": "> Ankha wrote:\n> Here's the scenario:\n>\n> Click on \"Recent Topics\"\n> Click on the link \"Expansion Sets & Card Ideas\" located under \"Card idea: Trust No One\", right to \"by Ankha in\"\n> Click \"New Topic\".\n> The default category is News and Announcements.\n>\nAnyone else manages to reproduce this scenario?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8875"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Aug 23, 2011, 8:09\u202FPM",
+      "Body": "No, I tried twice, with two different older topics from the Recent Topics and the Default was always \"Expansion Sets & Card Ideas\"\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "8876"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 24, 2011, 7:54\u202FAM",
+      "Body": "> Vlad wrote:\n> No, I tried twice, with two different older topics from the Recent Topics and the Default was always \"Expansion Sets & Card Ideas\"\n>\nMaybe it's chrome then. What browser do you use??\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8899"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Aug 24, 2011, 9:05\u202FAM",
+      "Body": "Can't replicate this one with any of my browsers: Firefox 4.0.1, Chrome 13.0.782.112 m, Internet Explorer 8.0.7600.16385, Opera 10.63.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "8906"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Aug 24, 2011, 11:09\u202FAM",
+      "Body": "It was on FireFox but at work so I don't know which version...\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "8915"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 14, 2012, 10:04\u202FAM",
+      "Body": "Up. I still have the problem.\nI go in a subsection, eg. www.vekn.net/index.php/forum/6-rules-questions\n\nI click on \"New topic\".\n\nMy default post section is \"News and Announcements\".\n\nI try to reload the page, I still have the problem.\n\nUsing Chrome 17.0.963.79 m\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25810"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 14, 2012, 10:51\u202FAM",
+      "Body": "Weird, it doesn't do it with me\nChrome 17.0.963.79 (Windows)\n\nFirefox isn't having the issue either.",
+      "Id": "25811"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 14, 2012, 11:06\u202FAM",
+      "Body": "It's a feature of the Forum software, not an actual bug. If you click on the \"New Topic\" link at the Forum navigation bar in the very top, it defaults to the first forum (News and Announcements). However, if you click on the red \"+ New Topic\" button when viewing a Forum, it defaults to the Forum currently viewed.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "25812"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 14, 2012, 12:33\u202FPM",
+      "Body": "> jhattara wrote:\n> It's a feature of the Forum software, not an actual bug. If you click on the \"New Topic\" link at the Forum navigation bar in the very top, it defaults to the first forum (News and Announcements). However, if you click on the red \"+ New Topic\" button when viewing a Forum, it defaults to the Forum currently viewed.\n>\nI understand.\nI think it should be changed:\n1/ how many times does one want to post in the \"News and announcements\" subsection instead of the current subsection? Never. => it's a useless and confusing feature.\n2/ I have deactivated all images while browsing. I can't see the \"+New topic\" button and therefore can't use it.\n\nBoth \"New topic\" and \"+New topic\" links/buttons should have the same functionality.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25819"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 14, 2012, 12:52\u202FPM",
+      "Body": "> Ankha wrote:\n> I understand.\n> I think it should be changed:\n> 1/ how many times does one want to post in the \"News and announcements\" subsection instead of the current subsection? Never. => it's a useless and confusing feature.\n> 2/ I have deactivated all images while browsing. I can't see the \"+New topic\" button and therefore can't use it.\n>\n> Both \"New topic\" and \"+New topic\" links/buttons should have the same functionality.\n>\nUnfortunately the behavior of New Topic link at the top is controlled by the Forum software and won't be easy to change. The \"+New Topic\" button should be visible even if you have disabled images (although without the + in front). Best I can do is remove the link completely, but that would break some functionality of the forum.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "25820"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 14, 2012, 1:07\u202FPM",
+      "Body": "> jhattara wrote:\n>\n> > Ankha wrote:\n> > I understand.\n> > I think it should be changed:\n> > 1/ how many times does one want to post in the \"News and announcements\" subsection instead of the current subsection? Never. => it's a useless and confusing feature.\n> > 2/ I have deactivated all images while browsing. I can't see the \"+New topic\" button and therefore can't use it.\n> >\n> > Both \"New topic\" and \"+New topic\" links/buttons should have the same functionality.\n> >\n> Unfortunately the behavior of New Topic link at the top is controlled by the Forum software and won't be easy to change. The \"+New Topic\" button should be visible even if you have disabled images (although without the + in front). Best I can do is remove the link completely, but that would break some functionality of the forum.\n>\nWould it be possible to change the label of the first link to \"New announcement\" ?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25823"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 14, 2012, 1:11\u202FPM",
+      "Body": "> Ankha wrote:\n> Would it be possible to change the label of the first link to \"New announcement\" ?\n>\nNo, because you can still use the link to make new forum posts, they only default to the announcements category. There's a dropdown with all the categories on that page.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "25824"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 14, 2012, 2:11\u202FPM",
+      "Body": "> jhattara wrote:\n>\n> > Ankha wrote:\n> > Would it be possible to change the label of the first link to \"New announcement\" ?\n> >\n> No, because you can still use the link to make new forum posts, they only default to the announcements category. There's a dropdown with all the categories on that page.\n>\nI know that. The purpose of changing the name is to avoid mistakes and make people use the other link \"+ New topic\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25828"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 14, 2012, 6:30\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jhattara wrote:\n> >\n> > > Ankha wrote:\n> > > Would it be possible to change the label of the first link to \"New announcement\" ?\n> > >\n> > >\n> > No, because you can still use the link to make new forum posts, they only default to the announcements category. There's a dropdown with all the categories on that page.\n> >\n> I know that. The purpose of changing the name is to avoid mistakes and make people use the other link \"+ New topic\".\n>\nThen it should read \"New Topic (defaults to news and announcements)\". Unless someone gives a really good solution it stays as it is, as it would require too much work to make it work as you'd like it to work, and advertising it with a false label is not an option.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "25849"
+    }
+  ]
+}

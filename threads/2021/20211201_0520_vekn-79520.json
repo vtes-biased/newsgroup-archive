@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-79520",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79520-lay-low-vs-carlton",
+  "Title": "Lay Low vs. Carlton",
+  "Messages": [
+    {
+      "Author": "MarcG",
+      "Date": "Dec 1, 2021, 5:20\u202FAM",
+      "Body": "Lay Low\nAction Modifier\nCombat\nRequires an anarch. Only usable when a blood hunt referendum passes and would burn this anarch. Move this anarch to the uncontrolled region (breaking any temporary control effects). Any cards and counters on this vampire remain with him or her (but are out of play as long as the vampire remains uncontrolled).\n\nIf a vampire plays Lay Low, is there a window before the effect resolves in which Carlton Van Wyck can burn them?",
+      "Id": "104068"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 1, 2021, 7:43\u202FAM",
+      "Body": "> MarcG wrote:\n> If a vampire plays Lay Low, is there a window before the effect resolves in which Carlton Van Wyck can burn them?\n>\nNo, Lay Low is played and resolved during the combat or action that triggered the blood hunt while Carlton\u00B4s ability to burn a vampire who has committed diablerie since your last turn can only be triggered/used during your discard phase\n\nLay Low\n\nCardtype: Action Modifier/Combat\nCost: 1 blood\nRequires an anarch.\nOnly usable when a blood hunt referendum passes and would burn this anarch. Move this anarch to the uncontrolled region (breaking any temporary control effects). Any cards and counters on this vampire remain with him or her (but are out of play as long as the vampire remains uncontrolled).\n\nCarlton Van Wyk\n\nCardtype: Ally\nCost: 2 pool\nUnique mortal with 2 life. 0 strength, 0 bleed.\nCarlton can strike: 1R damage. Once each combat, he can strike: dodge. Carlton gets +1 intercept against vampires. During your discard phase, you can burn Carlton to burn a vampire who has committed diablerie since your last turn.",
+      "Id": "104069"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 1, 2021, 8:03\u202FAM",
+      "Body": "You should also know that if the vampire playing Lay Low has since come back from the uncontrolled region, Carlton could burn itself to burn the diablerizing vampire.\n\n(the game \"remember\" which vampire went to the uncontrolled and back again to the controlled region)",
+      "Id": "104070"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Dec 1, 2021, 8:50\u202FAM",
+      "Body": "Yes, if Carlton is in play or you suspect someone is gonna play him next turn, you better lay low one full turn.",
+      "Id": "104073"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Dec 1, 2021, 4:49\u202FPM",
+      "Body": "Is there a reference for that rulling(game remembering vampires)?\n\nMany thanks in advance\n\nEDIT: made the question more clear",
+      "Id": "104081"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 1, 2021, 10:51\u202FPM",
+      "Body": "Here is the ruling  [LSJ 20090505] saying that you can still burn a vampire that has committed diablerie that has passed through the uncontrolled region and gotten back into play within the time window of Carlton\u00B4s ability.\n\nI couldn't find an explicit ruling saying that the game remembers vampires but the above is an implicit ruling of the same. Here is another ruling  [LSJ 20001213] about remembering things given to a vampire in play that is banished and then returns into play.\n\n> LSJ wrote:\n> > What if\n> > the anarch was influenced out again the same turn he went to the\n> > uncontrolled due to Lay Low? I looked under Carlton sixth tradition,\n> > sixth tradition banishment, Carlton banishment, etc. My guess is that\n> > he is not burnable by Carlton while uncontrolled('out of play'), but\n> > would be if he returns to play the same turn.\n>\n> Correct. He'd be burnable if he were in play during Carlton's controller's next\n> discard phase.\n>",
+      "Id": "104084"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Dec 2, 2021, 10:16\u202FAM",
+      "Body": "Just typing without thinking deeper here...\n\nWhat would happen regarding Carlton if Vampire X committed a diablerie, then got contested and yielded that contest to another copy of the same vampire?\n\nWould Carlton be able to burn the NEW Vampire X?\n(Is Carlton's ability directed against a _certain_ copy of a vampire and not against a vampire of a certain name?).\n\nHmmm, probably not. Would probably apply to non-unique vampires too and that would be a horrible can of worms. So it must be against a certain specific vampire.\n\nAnd because of [LSJ 20001213]:\n\"Contested is out of play for most purposes.\nHowever contested cards remember the stuff applied to them (when they are\nrecontrolled).\"\n\nFinnish  Politics!",
+      "Id": "104089"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 2, 2021, 12:13\u202FPM",
+      "Body": "Actually, it would be the same with a vampire being banished /laid low and another copy of the same vampire being brought in play.\n\nCarlton \"sees\" it as another vampire altogether.",
+      "Id": "104090"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2021, 1:07\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> Just typing without thinking deeper here...\n>\n> What would happen regarding Carlton if Vampire X committed a diablerie, then got contested and yielded that contest to another copy of the same vampire?\n>\n> Would Carlton be able to burn the NEW Vampire X?\n>\nNo, it's not the same (copy of the) vampire\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104091"
+    }
+  ]
+}

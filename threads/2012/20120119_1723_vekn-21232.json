@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-21232",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/21232-misattributed-artwork",
+  "Title": "Misattributed Artwork",
+  "Messages": [
+    {
+      "Author": "echiang",
+      "Date": "Jan 19, 2012, 5:23\u202FPM",
+      "Body": "I was just working on updating the VTES Artwork Database and encountered another interesting mistake in card attribution.\n\nFee Stake: Los Angeles was originally done by Jeff Holt in the Anarchs expansion (who also did Fee Stake: Corte) which can be seen on the Anarchs version of the card. In the newer promo version, the attribution is now to Brian LeBlanc (who did do Fee Stakes: Perth and Seattle).\n\nFee Stake: Los Angeles definitely looks more similar in style to Corte than to Perth and Seattle. And remember that back in the NAC 2006, it was part of the series of \"Jeff Holt originals\" given as tournament prizes by Jeff Thompson.\n\nThis isn't the first time they've made mistakes (Camarilla Charming Lobby was initially attributed to Brian LeBlanc, though they corrected it to Steve Prescott in later printings).\n\nJust an interesting tidbit to share. (And maybe Pascal can change the official card text list with the correct artist!).\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "21232"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Feb 2, 2012, 6:52\u202FAM",
+      "Body": "Two additional details I discovered while recently updating the Artwork Database:\n\n1. The official card list only lists a single artist (Corey Macourek) for Bribes. Corey Macourek did the version that was first introduced in Sabbat, but there was also a Jyhad version with artwork by Mark Poole.\n\n2. Stake / Wooden Stake was done by David Roach & Pete Burges. At some point, the art attribution was changed to only Pete Burges. The Black Hand version has both artists, but the Third Edition and KoT versions do not credit David Roach's contribution. Also, I see that the official card list has a semicolon \";\" between the two artists when it should probably be an ampersand \"&\".\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "22232"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 2, 2012, 10:55\u202FAM",
+      "Body": "If you can give me a list of \"Artist listed in the csv // Real artist\" (including the \"Larry Schnelly\" stuff), I'll gladly update the csv.",
+      "Id": "22236"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Feb 2, 2012, 3:38\u202FPM",
+      "Body": "> Pascal wrote:\n> If you can give me a list of \"Artist listed in the csv // Real artist\" (including the \"Larry Schnelly\" stuff), I'll gladly update the csv.\n>\nThanks Pascal.\n\nI imagine it will be an \"ongoing project\" (because there's plenty of it) that will take some time, but I can send occasional updates.\n\nI also wonder whether it is worth streamlining cases where an artist is attributed in different ways \"Lawrence Snelly\" vs \"Larry Snelly,\" and \"Matthew Mitchell\" vs \"Matt Mitchell.\" It looks like things have already been adjusted (in the official card list) for \"Rebecca Guay Mitchell,\" and \"Jeff el jefe Holt\".\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "22241"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 2, 2012, 10:44\u202FPM",
+      "Body": "> echiang wrote:\n> I also wonder whether it is worth streamlining cases where an artist is attributed in different ways \"Lawrence Snelly\" vs \"Larry Snelly,\" and \"Matthew Mitchell\" vs \"Matt Mitchell.\" It looks like things have already been adjusted (in the official card list) for \"Rebecca Guay Mitchell,\" and \"Jeff el jefe Holt\".\n>\nArtists on the official card list should be attributed EXACTLY as they are printed on the actual card, otherwise the list is worthless.\n\nIf you, Eric, want to make another list somewhere that equates misspelled/odd/funny artist names with their actual, RL counterparts, feel free.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "22263"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Feb 3, 2012, 12:24\u202FAM",
+      "Body": "> KevinM wrote:\n> Artists on the official card list should be attributed EXACTLY as they are printed on the actual card, otherwise the list is worthless.\n>\nWhat happens if different versions of the same card attribute things differently? Should it have both versions? The earlier one? The latest one?\n\nAs mentioned, the official card list already does not include variations like Rebecca Guay Mitchell or Jeff \"el Jefe\" Holt.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "22267"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 9, 2012, 10:03\u202FAM",
+      "Body": "> echiang wrote:\n>\n> > KevinM wrote:\n> > Artists on the official card list should be attributed EXACTLY as they are printed on the actual card, otherwise the list is worthless.\n> >\n> What happens if different versions of the same card attribute things differently? Should it have both versions? The earlier one? The latest one?\n>\nPerhaps something in the 'Artist' field like \"FirstName LastName\"/\"FirstName LastName\" ?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "22594"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 9, 2012, 10:31\u202FAM",
+      "Body": "> KevinM wrote:\n>\n> > echiang wrote:\n> > I also wonder whether it is worth streamlining cases where an artist is attributed in different ways \"Lawrence Snelly\" vs \"Larry Snelly,\" and \"Matthew Mitchell\" vs \"Matt Mitchell.\" It looks like things have already been adjusted (in the official card list) for \"Rebecca Guay Mitchell,\" and \"Jeff el jefe Holt\".\n> >\n> Artists on the official card list should be attributed EXACTLY as they are printed on the actual card, otherwise the list is worthless.\n>\nSorry but... why?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "22595"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 9, 2012, 11:05\u202FAM",
+      "Body": "Quick question: Who are the artists for Whispers of the Dead?",
+      "Id": "22596"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Feb 9, 2012, 4:35\u202FPM",
+      "Body": "> Pascal wrote:\n> Quick question: Who are the artists for Whispers of the Dead?\n>\nThe original AH version shows three artists: Dave Roach, Peter Burges, and John Kent. Roach & Burges worked together on a lot of cards, so I imagine maybe they had a third collaborator on this one (Kent).\n\nAll three are also listed on the Final Nights version, but the Lords of the Night version seems to have dropped John Kent.\n\nI don't know if the LotN version was a mistake (more likely) or if it simply had corrected a mistake that had existed since AH (possible but less likely).\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "22612"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 9, 2012, 8:15\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > KevinM wrote:\n> > Artists on the official card list should be attributed EXACTLY as they are printed on the actual card, otherwise the list is worthless.\n> >\n> Sorry but... why?\n>\nBecause then the card list doesn't represent the actual reality of the cards being listed, and I'd like accuracy when looking at data.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "22635"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Apr 5, 2012, 4:20\u202FPM",
+      "Body": "I own the Phaedyme & Bestial Vengeance Original Sketches...\n\na5.sphotos.ak.fbcdn.net/hphotos-ak-prn1/533399_10150700644701839_688411838_9024065_116370048_n.jpg\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "27387"
+    },
+    {
+      "Author": "GreenO",
+      "Date": "Apr 22, 2012, 2:15\u202FPM",
+      "Body": "Strained Vitae Supply should be attributed to Lee Fields rather than Stuart Beel (check signature in bottom right- Beel sub-contracted the piece). I still own the original artwork for Beel's Compel the Spirit, BTW.\n\nIt is better to fail in originality than to succeed in imitation.\n-Herman Melville",
+      "Id": "28352"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Apr 22, 2012, 2:48\u202FPM",
+      "Body": "> Vlad wrote:\n> I own the Phaedyme & Bestial Vengeance Original Sketches...\n>\n> a5.sphotos.ak.fbcdn.net/hphotos-ak-prn1/533399_10150700644701839_688411838_9024065_116370048_n.jpg\n>\nUpdated.\n\nV:EKN Website Coordinator",
+      "Id": "28355"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Apr 22, 2012, 3:03\u202FPM",
+      "Body": "> GreenO wrote:\n> Strained Vitae Supply should be attributed to Lee Fields rather than Stuart Beel (check signature in bottom right- Beel sub-contracted the piece). I still own the original artwork for Beel's Compel the Spirit, BTW.\n>\nThat is correct. The cardlist.txt has been updated accordingly.\n\nV:EKN Website Coordinator",
+      "Id": "28357"
+    }
+  ]
+}

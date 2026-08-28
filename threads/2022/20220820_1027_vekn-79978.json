@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-79978",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79978-reactions-and-action-modifiers-timing",
+  "Title": "Reactions and action modifiers timing",
+  "Messages": [
+    {
+      "Author": "Raven",
+      "Date": "Aug 20, 2022, 10:27\u202FAM",
+      "Body": "Hello,\n\nI found that text on rulebook\n\n\"Action modifiers and reaction cards can be played at any time before resolution during an action, with the acting Methuselah getting the opportunity to play first. \"\n\nAnd\n\n\"3. Resolve the Action\n\nIf the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place.\n\nIf the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat). If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs. The effects of the action do not take place when the action is blocked. Note that the action\u2019s cost, if any, is only paid if the action succeeds; the cost is not paid if the action is blocked. The costs of action modifiers and reaction cards are always paid when the cards are played, regardless of the success of the action.\"\n\nDoes it mean that all action modifiers like Zephyr of Freak Drive should be played before combat?\n\nIf no, can player play Eyes of Argus after combat?",
+      "Id": "106057"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Aug 20, 2022, 12:42\u202FPM",
+      "Body": "Acting player cannot play Eyes of Argus because 1st\n- it's a reaction card and acting player cannot play reaction card during his own actions. And 2nd:\n\n- all players cannot play reaction cards after action resolution (if they don't contain text that explicitly allows to do so), but they play Wake cards (Can be played after action resolution to use a reaction card LSJ ruling)\n\nZephyr and Freak Drive can be played ONLY after action resolution because both have a card's text 'Only usable after action resolution'",
+      "Id": "106058"
+    },
+    {
+      "Author": "Raven",
+      "Date": "Aug 21, 2022, 1:43\u202FPM",
+      "Body": "Ok,\n\nbut should Zephyr or Freak Drive be played before or after combat?\n\nIs combat a part of action resolution?\n\nSame with Cat's Guidance.",
+      "Id": "106062"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 21, 2022, 1:46\u202FPM",
+      "Body": "> Raven wrote:\n> Ok,\n>\n> but should Zephyr or Freak Drive be played before or after combat?\n>\n> Is combat a part of action resolution?\n>\n> Same with Cat's Guidance.\n>\nCombat is the resolution of the (blocked) action.\nSo those cards must be played after.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106063"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 22, 2022, 5:36\u202FPM",
+      "Body": "If you have further question, do not hesitate to check the cards rulings on VDB or on the Codex. They often list the answers to most common questions like this one, with links to the relevant discussions and explanations on the official boards. (see for example for Freak Drive codex-of-the-damned.org/en/card-search.html?card=Freak+Drive , first ruling)",
+      "Id": "106077"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 22, 2022, 10:46\u202FPM",
+      "Body": "> Legion wrote:\n> Zephyr and Freak Drive can be played ONLY after action resolution because both have a card's text 'Only usable after action resolution'\n>\nIts still counterintuitive and unclear whether there is any \"action\" left to play action modifiers after an action has resolved. After it has resolved, that means its over, right?\n\nAt least, my brain can't quite grasp the concept. I know a ruling exists, but I keep forgetting it because the whole situation is illogical.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106079"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 23, 2022, 5:50\u202FAM",
+      "Body": "An action exists until it ends. There is a timing window between \"action resolution\" and \"action end\" that the cards which are \"only playable after resolution\" uses.",
+      "Id": "106082"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 23, 2022, 8:02\u202FAM",
+      "Body": "Yes, first it resolves, then it ends. It's not illogical to me that stuff can happen in between.",
+      "Id": "106092"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 23, 2022, 8:11\u202FAM",
+      "Body": "> lip wrote:\n> Yes, first it resolves, then it ends. It's not illogical to me that stuff can happen in between.\n>\nIt is to me. Stuff has ended after it has resolved. Otherwise there is still something left to resolve.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106095"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 23, 2022, 9:01\u202FAM",
+      "Body": "I see where you're coming from, but for me resolving the effects of an action does not necessarily means it is ended. Especially if there are other effects (not from the action itself) yet to be resolved themselves. After all, the course of the action is larger than just its resolution (no-one argues the action starts before its resolution, to me symmetry here at then end of it feels natural: it ends after its resolution. If there's space before, why not space after).\n\nAnyway, this sounds like a vocabulary/cognition/personal internal imaging issue, so I'm not sure it makes sense to argue about it - different people, different perceptions of abstract concepts.",
+      "Id": "106098"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 23, 2022, 7:22\u202FPM",
+      "Body": "Note that I have always been against using phrases such as \"before X\" or \"after X\" in cardtext. Things should happen at exact moment X and not before or after which is vague.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106113"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 24, 2022, 8:33\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Note that I have always been against using phrases such as \"before X\" or \"after X\" in cardtext. Things should happen at exact moment X and not before or after which is vague.\n>\n\"before\" and \"after\" are defining that exact moment. They are not vague as they indicate the exact moment compared to X.\n\nThere are three cases:\n1) two effects should happen at the same time, in which case you have to order them\n2) effect A should happen before effect B\n3) effect A should happen after effect B\n\nCase 1) the effects Vessel and Anarch Revolt have the same timing window \"during your unlock phase\". So you can order them.\n\nCase 2) When a minion is blocked, there is normally a combat. But some cards have effects that happen before (for instance, Change of Target or Power of One)\n\nCase 3) and some cards have effects that happen after (Cats' Guidance).\n\nIn cases 2 and 3, \"when X is blocked\" would be ambiguous because you wouldn't know if the effects happens before or after. So your \"exact moment X\" is defined using before/after.\n\nCards\n\nChange of Target: Only usable if this minion is blocked, before block resolution. Unlock this minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nPower of One: [obt] Only usable if this Anarch is blocked, before block resolution. The blocking minion burns 2 blood or life.\n\nCats' Guidance: [ani] Only usable by a locked vampire who has blocked, after block resolution. Unlock this vampire.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106116"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 25, 2022, 6:16\u202FAM",
+      "Body": "> Ankha wrote:\n> \"before\" and \"after\" are defining that exact moment. They are not vague as they indicate the exact moment compared to X.\n>\nHard disagree. Last year is also \"before X\". Next week is also \"after X\"\n\nMy brain cannot fathom anyone thinking that these are exact.\n\nI am happy that you added the new official time window so immortal grapple is no longer played in a time window that doesn't exist. That was one of the most egregious examples of \"before\"-timing. Now we just need to expunge this illogicality from all cards.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106143"
+    },
+    {
+      "Author": "alf",
+      "Date": "Aug 25, 2022, 7:03\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Hard disagree. Last year is also \"before X\". Next week is also \"after X\".\n>\nIn a game with a rules set the term \"before X\" clearly doesn't relate to \"last year\". Dunno where you get that idea from.\nLet's say sequencing is W, then X.\n\"before X\" seems to perfectly fit in between.\nSo \"W\", then \"before X\", then \"X\" seems perfectly clear to me.\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "106146"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 25, 2022, 3:49\u202FPM",
+      "Body": "the timing windows are effectively immediately before or after the trigger, with the exception of \"play before range is determined,\" which should really be \"play before maneuvers,\" but we love our legacy holdovers here.",
+      "Id": "106151"
+    }
+  ]
+}

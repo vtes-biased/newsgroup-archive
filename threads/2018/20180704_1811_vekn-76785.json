@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-76785",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76785-simple-blocking-question",
+  "Title": "Simple Blocking Question",
+  "Messages": [
+    {
+      "Author": "CaptCastle",
+      "Date": "Jul 4, 2018, 6:11\u202FPM",
+      "Body": "Howdy Kindred,\n\nApologies for the simple question, I did search but didn\u2019t find anything. I am new to the game (well, I played a lot in the mid 90s and have just found all my cards and grabbed a few more in a trade) and after re-reading the rules I am confused about something.\n\nSince the rules state the same minion can attempt to block again each time it fails, does that make stealth 0 actions pretty much impossible to sneak through with +Stealth action modifier cards? The blocking minion can fail, try again, fail, try again, fail, try again, until the acting minion eventually runs out of +Stealth cards.",
+      "Id": "88557"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 4, 2018, 6:22\u202FPM",
+      "Body": "Hello there, and welcome back!\n\nEach time a minion attempts to block, you have to compare his intercept with the stealth of the acting minion. If the intercept is inferior to the stealth, the block fails (unless the blocking minion adds some intercept). When there is no more block attempts, the action resolves successfully.\nThe stealth bonuses and intercept bonuses last for the duration of the action, so attempting to block with someone else wouldn't reset the stealth to 0.\n\nHere is an example:\n\nKrid bleeds for 1. The action is at 0 stealth. Lupo, controlled by his prey Brad, attempts to block. Krid adds 1 stealth with a Lost in Crowd at inferior. Lupo is still attempting to block, but since his controller can't (or wouldn't) add intercept, Brad declines to block and the action resolves successfully. Brad loses 1 pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88559"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Jul 4, 2018, 6:26\u202FPM",
+      "Body": "CaptCastle, I think your confusion stems from this misunderstanding: Once a minion gains stealth, that stealth remains until the action has resolved. So while the blocking minion and make as many attempts as they want to try (and fail) to block, the action minion doesn't need to keep re-adding stealth for each block attempt - the stealth they added the first time is still there.",
+      "Id": "88560"
+    },
+    {
+      "Author": "CaptCastle",
+      "Date": "Jul 4, 2018, 6:26\u202FPM",
+      "Body": "Thanks.\n\nI think what I was missing was the fact that the Stealth of the action doesn\u2019t reset to 0 after each failed block. Therefore if the first blocking minion fails, its unlikely an further minions will succeed!\n\nI\u2019ve made some (probably rubbish) decks and hope to rope some people into playing soon",
+      "Id": "88561"
+    },
+    {
+      "Author": "CaptCastle",
+      "Date": "Jul 4, 2018, 6:27\u202FPM",
+      "Body": "> Kushiel wrote:\n> CaptCastle, I think your confusion stems from this misunderstanding: Once a minion gains stealth, that stealth remains until the action has resolved. So while the blocking minion and make as many attempts as they want to try (and fail) to block, the action minion doesn't need to keep re-adding stealth for each block attempt - the stealth they added the first time is still there.\n>\nJinx!",
+      "Id": "88562"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 5, 2018, 10:35\u202FAM",
+      "Body": "> CaptCastle wrote:\n> Thanks.\n>\n> I think what I was missing was the fact that the Stealth of the action doesn\u2019t reset to 0 after each failed block. Therefore if the first blocking minion fails, its unlikely an further minions will succeed!\n>\n> I\u2019ve made some (probably rubbish) decks and hope to rope some people into playing soon\n>\nAlso remember that intercept and other effects gained during an action also stay until the action is over, similarly to stealth.\n\nThis is relevant with cards that \"allow to continue action as if unblocked\", like  shadow body and form of mist.\nIf vampire A gets blocked by vampire B that was locked but used a wake (able to block as if unlocked),\nvampire A plays shadow body (action continues as if unblocked but doesn't add stealth).\nVampire B still benefits from wake for the duration of this action (able to block as if unlocked) and can thus simply block again since there was no stealth added.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "88577"
+    }
+  ]
+}

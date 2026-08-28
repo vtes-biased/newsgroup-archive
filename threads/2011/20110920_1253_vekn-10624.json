@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-10624",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/10624-two-q-s",
+  "Title": "Two Q's",
+  "Messages": [
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 20, 2011, 12:53\u202FPM",
+      "Body": "First question:\n\nIs there any difference between wordings \"equipment card\" and \"equipment\"? More clearly - is there any difference between \"Destroy/find/steal equipment\" and \"Destroy/find/steal equipment card\"? Since not all equipment cards are equipment in game terms.\n\nSecond question:\n\nWhat is the term you use for a period in which all players take their turns proceeding clockwise, returning to the first player?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10624"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 20, 2011, 1:32\u202FPM",
+      "Body": "> Megabaja wrote:\n> First question:\n>\n> Is there any difference between wordings \"equipment card\" and \"equipment\"? More clearly - is there any difference between \"Destroy/find/steal equipment\" and \"Destroy/find/steal equipment card\"? Since not all equipment cards are equipment in game terms.\n>\nNot practically. Do you have a concrete example in mind?\n\n> Megabaja wrote:\n> Second question:\n>\n> What is the term you use for a period in which all players take their turns proceeding clockwise, returning to the first player?\n>\nThere is no term.\nCards use \"until your next untap phase\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "10627"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 20, 2011, 2:51\u202FPM",
+      "Body": "> Arcanum Investigator\n> Type: Ally\n> Cost: 2 pool\n> Mortal with 2 life. 1 strength, 0 bleed.\n> As a  action, Arcanum Investigator can burn an equipment card possessed by a minion controlled by your predator or prey.\n>\n> Canine Horde\n> Type: Combat\n> Requires: Animalism\n> [ani] Strike: 1R damage.\n> [ANI] Strike: ranged; destroy equipment with first strike.\n>\n> Dartmoor, England\n> Type: Equipment\n> Cost: 2 blood\n> This equipment card represents a unique location and does not count as equipment while in play.\n> The vampire with this location gets +1 stealth on any action requiring Animalism or Protean.\n>\nSee... now - you cannot destroy Dartmoor with Canine Horde, because of the text, but can you destroy it with Arcanum Investigator?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10632"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 20, 2011, 3:53\u202FPM",
+      "Body": "Dartmoor (and other loquipments) are equipments while not in play, and are locations while in play.  [LSJ 19971020] .\n\"Equipment\" and \"equipment card\" are synonyms. I'll add it to the Review, in order to have cardtext coherence.\n\nRegarding the second question: This lapse of time has no name in VTES. Cards use \"until your untap phase\", mostly.",
+      "Id": "10634"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 20, 2011, 8:21\u202FPM",
+      "Body": "Yes they are locations while in play, but above example considers type of card ( action, equipment, retainer, reaction) rather then type of equipment ( weapon, location, vehicle). In cases where actions are not supposed to work with loquipments, card text states that clearly. Thats why I bolded Dartmoor text - that text makes difference between equipment and equipment card stating that locquipment stays equipment card type, but loses equipment status. Pnly Living Manse has different type of text.\n\nThere are many confusing examples.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10643"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 20, 2011, 8:36\u202FPM",
+      "Body": "Here's the quote from LSJ I linked above:\n\n> LSJ wrote:\n> Loquipment is just equipment when it isn't in play (and is just\n> location when it is in play).\n>\nDartmoor isn't an equipment while in play. It's a location. (also notice: it isn't an action card neither). You therefore can't burn it with Arcane Apraiser (which can only burn equipments [== equipment cards], not locations.)",
+      "Id": "10645"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 21, 2011, 6:49\u202FAM",
+      "Body": "Then what type of card location in play is? And what about master card locations, they are not master card type?\n\nThink a bit on it.\n\n> This equipment card represents a unique location and does not count as equipment while in play.\n>\nThis sentence states that location stays equipment card type, but represents something else.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10675"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 21, 2011, 7:15\u202FAM",
+      "Body": "> Megabaja wrote:\n> Then what type of card location in play is?\n>\nA location.\n\n> Megabaja wrote:\n> And what about master card locations, they are not master card type?\n>\nThey are. They are also locations. And library cards.\n\n> Megabaja wrote:\n> Think a bit on it.\n>\n> > This equipment card represents a unique location and does not count as equipment while in play.\n> >\n> This sentence states that location stays equipment card type, but represents something else.\n>\nThoughts have been given on this point. Questions have been asked. Rulings have been made. And I'm not going to reverse these antediluvian points.\n\nAsk yourself: do you retrieve the Ankara Citadel when you diablerize the vampire it is on? (answer is: \"no\"  [LSJ 20030607] )\nCan you transfer locations with Heidelberg Castle? (answer is: \"no\"  [LSJ 20020411] ).\n\nThis last post also reads this:\n\n[LSJ 20020411] wrote:\n>\n> [..] \"equipment card\" means, for a card in play, a \"card that represents equipment\".\n>\nIn this game, \"represents\" (and \"is considered as\") is an equivalent to \"is\".",
+      "Id": "10676"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Sep 21, 2011, 9:52\u202FAM",
+      "Body": "Ok, then.\n\nI have a slight barrier with english grammar, that's making a lot of confusion to me. Sorry for wasting your time.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "10682"
+    }
+  ]
+}

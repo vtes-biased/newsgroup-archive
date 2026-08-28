@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-82826",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82826-cat-s-guidance-timing",
+  "Title": "Cat's Guidance Timing",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Feb 13, 2026, 9:51\u202FPM",
+      "Body": "With the current definition of of the block definition window, are cards playable \"after block resolution\" explicitly played before cards playable \"after action resolution\"?\n\ni.e. are the timing windows:\n- block resolution\n- after block resolution\n- after action resolution\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116407"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 15, 2026, 10:54\u202FPM",
+      "Body": "See www.vekn.net/forum/rules-questions/82396-queued-combats?start=0\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116439"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 16, 2026, 5:32\u202FPM",
+      "Body": "that doesnt answer the question, as it isn't about queued combats nor the conclusion of the block resolution window which extends to all combats of the action.",
+      "Id": "116444"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 16, 2026, 7:49\u202FPM",
+      "Body": "> the1andonlime wrote:\n> With the current definition of of the block definition window, are cards playable \"after block resolution\" explicitly played before cards playable \"after action resolution\"?\n>\nNo, there is no special priority. Sequencing rule applies.\nThe diagram is relevant but confusing on that point, I've updated it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116446"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 17, 2026, 7:19\u202FAM",
+      "Body": "just to have the referenced diagram in the thread\n\n> Ankha wrote:\n>",
+      "Id": "116450"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Feb 17, 2026, 10:44\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > the1andonlime wrote:\n> > With the current definition of of the block definition window, are cards playable \"after block resolution\" explicitly played before cards playable \"after action resolution\"?\n> >\n> No, there is no special priority. Sequencing rule applies.\n> The diagram is relevant but confusing on that point, I've updated it.\n>\nHow would this work with cards like Form of Mist?\nIf Cat's Guidance (\"after block resolution\") is played in the same window as Freak Drive (\"after action resolution\"), does that mean that:\n1. you can play \"after action resolution\" cards and effects before continuing the action, or\n2. \"after block resolution\" cards and effects can be played both \"after block resolution\" but before \"after action resolution\" AND \"after action resolution\", or\n3. you cannot play \"after block resolution\" cards and effects before action continues?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116452"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 18, 2026, 11:35\u202FAM",
+      "Body": "> the1andonlime wrote:\n>\n> > Ankha wrote:\n> >\n> > > the1andonlime wrote:\n> > > With the current definition of of the block definition window, are cards playable \"after block resolution\" explicitly played before cards playable \"after action resolution\"?\n> > >\n> > No, there is no special priority. Sequencing rule applies.\n> > The diagram is relevant but confusing on that point, I've updated it.\n> >\n> How would this work with cards like Form of Mist?\n> If Cat's Guidance (\"after block resolution\") is played in the same window as Freak Drive (\"after action resolution\"), does that mean that:\n>\nI moved the \"after combat\" and \"after block resolution\" (previously in the \"resolution\" block) to the \"after resolution\" block, but it's not always true, I'll have to fix the diagram again.\n\nBasically, if the action is over (not continued), Freak Drive, Cats' Guidance, Hidden Lurker etc. are played in the same window, following sequencing rule, because their timing match.\n\nIf the action is continued, then Cat's Guidance and Hidden Lurker can still be played still the condition and timing is met, but not Freak Drive since the action is continuing.\n\nWith that in mind:\n\n> the1andonlime wrote:\n> 1. you can play \"after action resolution\" cards and effects before continuing the action\n>\nYes, but in that order only. For instance, Freak Drive then Momentary Delay, but not the other way round.\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/reXyybyIYX8/m/jeCyjdiZ5T4J\n\n> the1andonlime wrote:\n> 2. \"after block resolution\" cards and effects can be played both \"after block resolution\" but before \"after action resolution\" AND \"after action resolution\", or\n>\nBoth. You can play Freak Drive, the opponent Cats' Guidance.\nOr the opponent plays Cats' Guidance (because you pass the impulse), then you play Freak Drive (since you get the impulse back).\n\n> the1andonlime wrote:\n> 3. you cannot play \"after block resolution\" cards and effects before action continues?\n>\nWhether the action continues or not has no impact on \"after block resolution\" cards: the block took place, one can play the card as soon as they get the impulse.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116453"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 18, 2026, 12:50\u202FPM",
+      "Body": "Is this flowchart clearer?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116454"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Feb 20, 2026, 10:10\u202FPM",
+      "Body": "Huge thank you for taking the time to break this down!\nI need to digest this when I'm in the right headspace\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116473"
+    }
+  ]
+}

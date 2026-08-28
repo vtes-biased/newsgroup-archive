@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-57081",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/technical-matters/57081-welcome",
+  "Title": "Welcome :)",
+  "Messages": [
+    {
+      "Author": "acbishop",
+      "Date": "Nov 25, 2013, 8:59\u202FAM",
+      "Body": "Hi to everyone,\n\nThis is the forum section dedicated to the rules test for players.\nThe main section 'Rules test for players' is open to everybody, like that we can collect data from the community for feeding the tests.\n\nI'm quite busy lately but I think we can do something good for the community toguether.\nThis section is about all the technical matters, organisation, work methodology, ...\n\nI have some ideas about the subject, but I want everybody to feel important on this task, so I prefer to gather first your opinion about how we should work.\n\nI think that the most important step it's to define what it's technically possible for generating the questions.\nD-dennis sent me a mail about an application for generating the test. We can start discussing about it.\n\nHave a nice week guys",
+      "Id": "57081"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 25, 2013, 10:57\u202FAM",
+      "Body": "Can you share the link?\nI think a tool should allow to:\n- tag questions (by difficulty level; by theme)\n- generate random quizz from these questions, given a level and/or theme\n\nWe should also define some conventions, such as Methuselah \"A\" is always the acting Methuselah.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "57092"
+    },
+    {
+      "Author": "D-dennis",
+      "Date": "Nov 26, 2013, 5:52\u202FPM",
+      "Body": "> Ankha wrote:\n> Can you share the link?\n> I think a tool should allow to:\n> - tag questions (by difficulty level; by theme)\n> - generate random quizz from these questions, given a level and/or theme\n>\n> We should also define some conventions, such as Methuselah \"A\" is always the acting Methuselah.\n>\nI sent a demo to Gines (see  here )\nIt is made in Articulate Storyline.\nA random quiz from a pool of questions is possible (and can be combined from different pools, say a pool per difficulty level).\nMy initial idea was to set up the framework and that we could then go retrieve the questions from a database (that would be easier to update). But it appears that each question gets its own file in flash-format. The way around that is to update the whole lot in Storyline (drawback is: 1. you need a license 2. you need to know quite a bit about the software).\n\nwww.facebook.com/groups/vtes.belgium/",
+      "Id": "57142"
+    },
+    {
+      "Author": "Stone",
+      "Date": "Dec 15, 2013, 11:03\u202FPM",
+      "Body": "my 2 cents:\n-make it simple. Getting into lengthy discussion about which question should be level 1 of difficulty or level 2 won't make things simple and is pretty much useless in the big picture, to be honest. The point is to get payers more knowledgeable about rules, and these players will know they know rules better simply because they will know rules better, not because of a'omg I've score 90%to a lvl 5 quizz dude' post. So forget about difficulty level.\n\n-not wanting to discourage any fellow with programming skills out there, but I doubt the notion of \"score\" is meaningful. I mean, we're not targetting 10k different questions and I'm not sure the whole point of the quizz is to have the equivalent of 'VtES TOEIC'. I'd see more two channels for delivering the quizz :\n1/ one online. You get for instance a short quizz of 10 questions and that's it (since the reason why some players aren't good with rules in the first place is that they're not willing to read page after page of boring rulings-so this kind of quizz should be quickly done with likean appetizer and it'll educate them in the long run), or the whole batch of questions for the rulemongers who have the time.\n2/ one on plain paper, that could be handed over to players during tournaments. Say you have a pool of 100 questions and 4 tournaments a year in your community, hand them a batch of 25 questions at each tournament. Or if you have a webzine, put 25 questions in one issue of the webzine. You could also have one printed on your tournament err...paper stuff that you use to advertise your tournament (can't remember the english name of \"affiche\". stuff advertisment board or whatsnot)\n\nI strongly agree with the convention (especially since I've been using them for over a decade ). But also make it simple. For instance, Meth A and vamp A should refer to an acting vamp controlled by the same player. \"B\" doesn't need to be blocking by convention, it should be clarified by the text in the quizz (the quizz should be as self-explanatory as possibly without resorting to a \"convention compendium\" of 100 pages so as to not discourage any casual player from doing the quizz.",
+      "Id": "57760"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Dec 28, 2013, 11:44\u202FAM",
+      "Body": "Hi,\n\nI mainly agree with Stone's post.\n\nSorry for being a bit out lately, this is my last month working for my current company and I'm gonna move shortly to UK, so personal matters are taking more time, letting me less time to think about Rules Questions or Judge's Guide Revision.\n\nBut don't worry I'll come back soon with lot of energy to dedicate to VTES.\n\nMerry Christmas and Happy New Year to everyone!",
+      "Id": "58078"
+    }
+  ]
+}

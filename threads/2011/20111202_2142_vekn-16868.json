@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-16868",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16868-question-on-life-boon",
+  "Title": "Question on \"Life Boon\"",
+  "Messages": [
+    {
+      "Author": "Hakuron",
+      "Date": "Dec 2, 2011, 9:42\u202FPM",
+      "Body": "This might be a trivial one:\n\nLife Boon\nMaster: out-of-turn. Boon\nGive pool to a Methuselah with no pool to keep him or her in the game; put this card in play.\nDuring each of his or her untap phases, you can collect 1 pool from that Methuselah. The first victory point that the Methuselah wins is given to you (unless you are ousted by then). This Life Boon is then burned.\n\nThe question is: Is a methuselah, who is ousted due to pool damage, always at 0 (zero) pool, or can it be less?\nExample: Peter is at 2 pool. Catherine bleeds Peter successfully for 6. Is Peter then at 0 (zero) pool or at -4 (minus four) pool?\n\nI assume, that a methuselah cannot have less than 0 (zero) pool, so that in the example given above only 1 (one) pool has to be spent via Life Boon to keep Peter in the game.\n\nThanks\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "16868"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 9:47\u202FPM",
+      "Body": "> Hakuron wrote:\n> This might be a trivial one:\n>\n> Life Boon\n> Master: out-of-turn. Boon\n> Give pool to a Methuselah with no pool to keep him or her in the game; put this card in play.\n> During each of his or her untap phases, you can collect 1 pool from that Methuselah. The first victory point that the Methuselah wins is given to you (unless you are ousted by then). This Life Boon is then burned.\n>\n> The question is: Is a methuselah, who is ousted due to pool damage, always at 0 (zero) pool, or can it be less?\n> Example: Peter is at 2 pool. Catherine bleeds Peter successfully for 6. Is Peter then at 0 (zero) pool or at -4 (minus four) pool?\n>\n> I assume, that a methuselah cannot have less than 0 (zero) pool, so that in the example given above only 1 (one) pool has to be spent via Life Boon to keep Peter in the game.\n>\n> Thanks\n>\nCheck the \"All Rulings\" link in the Rules section to the left, go to Life Boon, you'll have your answer.\n\nwww.vekn.net/index.php/all-rulings/card-rulings-g-to-o\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16871"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 9:55\u202FPM",
+      "Body": "> Hakuron wrote:\n> I assume, that a methuselah cannot have less than 0 (zero) pool,\n>\nPhysically, you're right. For the maths, consider he or she has negative pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16878"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Dec 2, 2011, 9:59\u202FPM",
+      "Body": "Thank you, I have not been that much aware of the \"All Rulings\" section ...\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "16880"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Dec 2, 2011, 10:25\u202FPM",
+      "Body": "an easier way to think of it:\nthey're not going down to 0 pool, and then back up. you're giving them pool before they take the hit so they never get to 0 pool. so if player A is at 2 pool and is bled for 3, you have to give them at least 2 pool, which happens before the 3 is subtracted.",
+      "Id": "16890"
+    }
+  ]
+}

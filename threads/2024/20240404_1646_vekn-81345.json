@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-81345",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81345-anna-dictatrix11-suljic-and-heart-of-nizchetus",
+  "Title": "Anna \"Dictatrix11\" Suljic and Heart of Nizchetus",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Apr 4, 2024, 4:46\u202FPM",
+      "Body": "Main question: After I draw cards into my hand without discarding per the first half of Heart of Nizchetus's text, may I use Anna \"Dictatrix11\" Suljic's special to look at the top three cards of my library BEFORE I select and move cards to the bottom of my library per the second half of the Heart's text? (I'm guessing not, but would genuinely like to know for sure.)\n\nFollowup questions: Is there a general rule or principle in V:TES that I could have applied to figure out the answer to the main question on my own? If so, what is that rule or principle, and where is it codified so that I can point it out to other players and make similar rulings going forward?\n\nThanks much!\n-Billy / Killiam\n\nName: Heart of Nizchetus\nCardtype: Equipment\nCost: 1 pool\nUnique.\nIf the bearer is ready during your unlock phase, you can draw up to 3 cards without discarding and then move the same number of cards from your hand to the bottom of your library.\n\nName: Anna \"Dictatrix11\" Suljic\nCardtype: Imbued\nCreed: Martyr\nGroup: 4\nLife: 6\nVirtue: mar red viz\nAnna may move 2 blood from the blood bank to any vampire as a +1 stealth action. During your unlock phase, you may look at the top three cards of your library.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111102"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 4, 2024, 5:21\u202FPM",
+      "Body": "No. It's a single effect.\n\nIt should probably rewritten as a replacement effect to make that more clear.",
+      "Id": "111103"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Apr 4, 2024, 5:33\u202FPM",
+      "Body": "That's how I would have ruled were I judging, but would like to know where \"single effect\" vs \"compound effects\" are codified, and if there is a template for telling them apart.\n\nI understand that there exist some game mechanics that can take place in the middle of card effects. For example, if you are decked and under your hand size while executing Sudario Refraction's text, you draw up to hand size in the middle of the effect (after adding to library), before executing the second part of the effect (discarding randomly). The existence of some mechanics being \"fast enough\" to take place in the middle of other effects/mechanics begs for some clarity on the topic of atomic effects and preferably a clear, official ruling.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "111104"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 4, 2024, 6:21\u202FPM",
+      "Body": "I think there is a difference between a continuous effect (drawing up to hand size) that (per ruling) gets in between a \"single\" effect (between x and y) where the effect is worded \"do x and then y\" and a player triggered effect that doesn\u00B4t have explicit text allowing the triggering of it in the middle of another effect.\n\nIf anyone knows of a player triggered effect from a card in play or card in hand that by ruling or otherwise is playable in the middle of another effect please share it, non comes to mind for me at least.",
+      "Id": "111105"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 5, 2024, 7:22\u202FAM",
+      "Body": "> Killiam wrote:\n> Main question: After I draw cards into my hand without discarding per the first half of Heart of Nizchetus's text, may I use Anna \"Dictatrix11\" Suljic's special to look at the top three cards of my library BEFORE I select and move cards to the bottom of my library per the second half of the Heart's text? (I'm guessing not, but would genuinely like to know for sure.)\n>\nNo. You fully resolve the effect of Heart of Nizchetus before using other effects.\n\n> Killiam wrote:\n> Followup questions: Is there a general rule or principle in V:TES that I could have applied to figure out the answer to the main question on my own? If so, what is that rule or principle, and where is it codified so that I can point it out to other players and make similar rulings going forward?\n>\nI'd say Sequencing.\n\"If two or more Methuselahs want to play a card or effect, the acting Methuselah plays first. At every stage, the acting Methuselah always has the opportunity (called \"impulse\") to play the next card or effect. So after playing one effect, they may play another and another.\"\n\nAnna's effect doesn't have a timing that allows her to sneak in the middle of another effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111109"
+    }
+  ]
+}

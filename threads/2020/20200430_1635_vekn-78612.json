@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-78612",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78612-timing-of-cost-paying-for-actions-and-the-scope-of-the-action-resolving-phase",
+  "Title": "Timing of cost paying for actions and the scope of the \"action resolving\" phase.",
+  "Messages": [
+    {
+      "Author": "cauecoraini",
+      "Date": "Apr 30, 2020, 4:35\u202FPM",
+      "Body": "Hello gents.\n\nI have a question about the timing of cost paying for actions. Is the event \"pay the cost of the action\" part of the \"action resolution\", or does it occurs before the \"action resolution\" phase?\n\nWhat is the correct flux of events:\n\nA) successful unblocked action -> Begin \"action resolution\" -> pay costs -> resolve the effects -> end \"action resolution\"\n\nOr\n\nB) successful unblocked action -> pay costs -> only then Begin \"action resolution\" -> resolve the effects -> end \"action resolution\"?",
+      "Id": "99722"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Apr 30, 2020, 7:46\u202FPM",
+      "Body": "As per Detailed play summary (you can find it in the rules section on the left sidebar)\n\nComplete action.\nIf the action is one that cannot be repeated (bleed, political action, action card, or card in play), the acting minion now becomes unable to perform this action again this turn. [6.1.1][6.1.6][6.1.7]\nIf action was not blocked, then the action is successful. [6.2.3]\nPay cost of the action.\nResolve action.\n\nLurking in the underground of Bologna, Italy",
+      "Id": "99724"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 1, 2020, 2:57\u202FPM",
+      "Body": "> thelonius wrote:\n> As per Detailed play summary (you can find it in the rules section on the left sidebar)\n>\n> Complete action.\n> If the action is one that cannot be repeated (bleed, political action, action card, or card in play), the acting minion now becomes unable to perform this action again this turn. [6.1.1][6.1.6][6.1.7]\n> If action was not blocked, then the action is successful. [6.2.3]\n> Pay cost of the action.\n> Resolve action.\n>\nSo i can play Mask of a Thousand Faces after pay the cost and before resolution?\nExample: Nergal use basic Legal Manipulations and reduce the cost to 0.\nAfter the cost is paid, a Horde use Mask of Thousand Faces to make the bleed.\n\nSame example as above, but without Nergal use his card text to avoid any \"other effects have been used that could not have been used if this vampire were the acting vampire\"\n\nThe time frame to play cards between successful action and card cost exist in Forger's Hammer, but I didnt know about anything between pay cost and resolve the action.\n\nMask of a Thousand Faces\n\nName: Mask of a Thousand Faces\n[Jyhad:U, VTES:U, CE:U, KMW:PB2, LotN:PA, KoT:U, HttB:PSam2]\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\nArtist: Jeff Menges; Leif Jones\n\nNergal\n\nName: Nergal\n[Promo-20051001, Promo-20190804]\nCardtype: Vampire\nClan: Baali\nGroup: 5\nCapacity: 10\nDiscipline: AUS DAI FOR OBF PRE THA\nIndependent: Once each turn, Nergal can reduce the cost of a card he plays by 1 blood. Infernal. +2 bleed.\nArtist: Mark Poole\n\nLegal Manipulations\n\nName: Legal Manipulations\n[Jyhad:C, VTES:C, SW:PB2, CE:C/PB, BH:PTo2, KMW:PB5, LoB:PI3, FB:PTo2]\nCardtype: Action\nCost: 1 blood\nDiscipline: Presence\nBleed with +2 bleed.\nAs above, and gain 1 pool if the bleed is successful (for 1 or more).\nArtist: Stuart Beel\n\nForger's Hammer\n\nName: Forger's Hammer\n[Third:U, LotN:PG]\nCardtype: Action Modifier\nDiscipline: Potence\nOnly usable when an action to equip a non-unique melee weapon from your hand is successful.\n[pot] Put this card on the weapon. This weapon inflicts +1 damage each strike.\n[POT] As above, and the cost of this weapon is reduced by 1 blood or 1 pool.\nArtist: Brian LeBlanc\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "99726"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 2, 2020, 8:45\u202FAM",
+      "Body": "> cauecoraini wrote:\n> I have a question about the timing of cost paying for actions. Is the event \"pay the cost of the action\" part of the \"action resolution\", or does it occurs before the \"action resolution\" phase?\n>\nIt's part of the action resolution.\n\nRulebook:\n6.2.3. Resolve the Action\nIf the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place.\n\n> Sambomb wrote:\n> So i can play Mask of a Thousand Faces after pay the cost and before resolution?\n>\nNo. You either play action modifiers before the action resolution, or after if the card allows it (eg. Freak Drive can be played after resolution).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99732"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 2, 2020, 12:02\u202FPM",
+      "Body": "> Ankha wrote:\n> It's part of the action resolution.\n>\nLSJ expressly ruled that it's not.\n\n[LSJ 20090312]\n\n> LSJ wrote:\n> Action cards' costs are paid when the action succeeds (reaches resolution\n> unblocked) but before resolution (you have to pay the cost in order to resolve\n> the action's effect).\n>\n> Ankha wrote:\n> Rulebook:\n> 6.2.3. Resolve the Action\n> If the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place.\n>\ni.e. the cost is paid when the action is successful, but before resolution (application of the effects).\n\nThis is also shown in the Summary of the Course of an Action:\nIf no more attempts are made, then the action is successful, and the cost of the action is paid. If a block attempt is successful, then the blocking minion locks and enters combat with the acting minion.\n\ni.e. its timing is linked to success, not the ensuing resolution.\n\nThe fact that the cost is mentioned in \"Resolve the action\" appears mostly just to be a weird artefact of the way the rulebook tries to group things into several broad categories, but then explains things that come before and after them. e.g. \"before range is determined\" is before Determine Range, but is explained in Determine Range anyway.",
+      "Id": "99736"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 2, 2020, 3:12\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > It's part of the action resolution.\n> >\n> LSJ expressly ruled that it's not.\n>\n> [LSJ 20090312]\n>\nIndeed, sorry for the mistake.\n\nThe answer to the second question stands however.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99737"
+    }
+  ]
+}

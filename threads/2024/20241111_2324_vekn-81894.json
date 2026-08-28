@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-81894",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/judge-exam-contribution/81894-bleed-modifier-after-a-reduction",
+  "Title": "Bleed Modifier after a reduction",
+  "Messages": [
+    {
+      "Author": "acbishop",
+      "Date": "Nov 11, 2024, 11:24\u202FPM",
+      "Body": "Vampire VA controlled by player A is bleeding for 1 player B.\nVampire VB controlled by player B plays Telepathic Counter at superior to reduce the bleed by 2.\n\nCan vampire VA play a Conditioning at inferior now?\n1) Yes, the total of the bleed is 2\n2) Yes, the total of the bleed is 1 (CORRECT)\n3) No, the bleed has already been modified by other card and Conditioning has the (limited) text\n\nRelevant cardtexts:\nName: Telepathic Counter\nCardtype: Reaction\nDiscipline: Auspex\n[aus] Reduce a bleed against you by 1.\n[AUS] Reduce a bleed against you by 2.\n\nName: Conditioning\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Dominate\nOnly usable during a bleed action.\n[dom] +2 bleed (limited).\n[DOM] +3 bleed (limited).",
+      "Id": "113073"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 12, 2024, 6:28\u202FAM",
+      "Body": "Answer 2)\nTotal = 1 - 2 + 2 = 1\n\nThe limited rule applies only to action modifier cards that increase the bleed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113074"
+    },
+    {
+      "Author": "Arnau Diez Sans",
+      "Date": "Nov 13, 2024, 10:35\u202FAM",
+      "Body": "Thanks!",
+      "Id": "113094"
+    }
+  ]
+}

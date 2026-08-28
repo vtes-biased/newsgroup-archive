@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-77187",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77187-dam-the-heart-s-river-and-weather-control",
+  "Title": "Dam the Heart's River and Weather Control",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Nov 26, 2018, 5:54\u202FPM",
+      "Body": "Hi\n\nI have a doubt regarding interaction between Dam the Heart's River and Weather Control: is damage just increased for my oponent or for both of us? The part of \"made against the opposing minion\" makes me doubt.\n\nmany thanks in advance and sorry if it was asked before, I couldn't find precedent other than that ambiromental damage works with Dam.\n\nDam the Heart's River\n[Combat] Combat\n\n[Quietus] Quietus\n\nFrenzy. Only usable before range is determined. A vampire can play only one Dam the Heart's River each combat.\n[qui] This combat, each strike or damaging effect made against the opposing minion inflicts +1 damage.\n[QUI] As above, and this combat, strikes cost the opposing minion 1 additional blood or life, and the opposing minion can choose not to strike.\n\nWeather Control\n[Combat] Combat\n\n[Thaumaturgy] Thaumaturgy\n\nOnly usable before range is determined on the first round.\n[tha] Both combatants and each of their retainers take 1 unpreventable damage before range is determined each round. A vampire may play only one Weather Control each combat.\n[THA] As above, but the amount of damage inflicted increases by 1 in each subsequent round.",
+      "Id": "92024"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 26, 2018, 7:03\u202FPM",
+      "Body": "Damage from Dam the Heart's River is inflicted only against oposing minion,never vs minion who played this card",
+      "Id": "92029"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Nov 27, 2018, 8:03\u202FPM",
+      "Body": "Interesting question relating to how \"environmental\" is interpreted now that it is actually appearing on cards. I think this wasn't the question you're asking, but might be the one you should be asking\n\nConsider: Weather Control, Carrion Crows, Murder of Crows are classified as environmental damage (along with a host of other effects not listed here).\n\nAlso consider: environmental effects do FULL damage against Nephandus precisely because they are not attributed to the minion playing the card and therefore not subject to the text \" Each strike or damaging effect made by the opposing minion against the Nephandus during combat inflicts 1 less damage.\"\n\nReference on Nephandus and environmental damage:\ngroups.google.com/forum/#!searchin/rec.games.trading-cards.jyhad/rule$20question$20-$20nephandus%7Csort:date/rec.games.trading-cards.jyhad/tkCRUBRp82E/AjrTJ8HZNWsJ\n\nBy extension, it would seem that Dam the Heart's River's affects only strikes and (non-environmental) effects directly attributed to the minion playing the card - since the language is almost identical between Nephandus and DtHR: This increase/decrease effect shouldn't work in different ways with such similar text.\n\nEach strike or damaging effect made against the opposing minion inflicts +1 damage\nvs.\nEach strike or damaging effect made by the opposing minion against the Nephandus\n\nIt therefore seems logical that DtHR does not affect Weather Control damage taken BY EITHER MINION (again, it's not \"made\" by the minion playing it per old rulings). Pulled Fangs and Twisting the Knife do extra damage though  If you can get [TEM][qui], Outside the Hourglass would also hit for 3.\n\nIf the OP has a rules citation for DtHR increasing environmental damage, we should probably ask for a consolidation of rulings in one direction or the other.",
+      "Id": "92053"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Nov 28, 2018, 5:49\u202FAM",
+      "Body": "This is the reference on DtRH working on enviromental but I don't know if design intent works as rulling, I know the catatonic-fear-part was reversed.\n\nwww.vekn.net/forum/rules-questions/75247-dam-the-heart-s-river?start=0",
+      "Id": "92062"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 28, 2018, 10:08\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> By extension, it would seem that Dam the Heart's River's affects only strikes and (non-environmental) effects directly attributed to the minion playing the card - since the language is almost identical between Nephandus and DtHR: This increase/decrease effect shouldn't work in different ways with such similar text.\n>\n> Each strike or damaging effect made against the opposing minion inflicts +1 damage\n> vs.\n> Each strike or damaging effect made by the opposing minion against the Nephandus\n>\n> It therefore seems logical that DtHR does not affect Weather Control damage taken BY EITHER MINION (again, it's not \"made\" by the minion playing it per old rulings).\n>\nThey don't have a similar text. One says \"made by ...\", the other doesn't.\n\nTo answer the OP's question, Dam the Heart's River increases the damage of Weather Control made against the opposing minion.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92076"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 28, 2018, 10:30\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> By extension, it would seem that Dam the Heart's River's affects only strikes and (non-environmental) effects directly attributed to the minion playing the card - since the language is almost identical between Nephandus and DtHR: This increase/decrease effect shouldn't work in different ways with such similar text.\n>\nI'm not sure how you come to that conclusion. I think this situation is relatively straightforward once its deciphered. Enviromental damage is still damage against the opposing minion (and the acting minion) and thus buffed by dam the hearts river, but it is not dealt by the acting minion because its enviromental,\n\n> [qui] This combat, each strike or damaging effect made against the opposing minion inflicts +1 damage.\n>\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "92079"
+    }
+  ]
+}

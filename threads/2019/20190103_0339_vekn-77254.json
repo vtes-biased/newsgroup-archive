@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-77254",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77254-canceling-cards-and-bold-text",
+  "Title": "Canceling cards and bold text",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Jan 3, 2019, 3:39\u202FAM",
+      "Body": "Hi\n\nWe had a disagreement with a friend over what happens with bold text over cards. Card in question was an Ammo but I suppose it applies to all of them: What happens with bold text? Is bold text part of text? Let's say I cancel an Ammo card, could my oponent play another? Or Stely tenacity, does it go to my hand if canceled?\nMany thanks in advance\n\n-\n\nDragon's Breath Rounds\n[Combat] Combat\n\nAmmo.\nOnly usable before resolution of a gun's strike. This gun inflicts +2 aggravated damage each strike for the remainder of this combat. Burn the gun after strike resolution. No more than one ammo card can be used on a gun each combat.\n\nSteely Tenacity\n[Action] Action\n[Combat] Combat\n\n[Animalism] Animalism\n[Dominate] Dominate\n[Quietus] Quietus\n\n[1 Blood]\n\nRequires an anarch. Do not replace until after this action. When you would replace this card, you may take this card from your ash heap instead.\n[ani] [COMBAT] Strike: hand strike or use a melee weapon strike. This strike is at +1 damage, with an optional press.\n[dom] [ACTION]  Bleed at +1 bleed.\n[qui] [ACTION] +1 stealth action.  Enter combat with a ready minion.",
+      "Id": "92624"
+    },
+    {
+      "Author": "nergalmcl",
+      "Date": "Jan 3, 2019, 9:09\u202FAM",
+      "Body": "When a card is canceled still count as played. So if the card has some rule like just one can be played for round/combat/game, you still need to follow this rule.\n\nIf the card is canceled they go to your ash heap, then you can use the rule from Steely Tenacity to get her back to your hand.\nAbout the bold argument, everything that are in the description of the card is part of it, except some sentences that comes after the card rules.\n\nTake Animal Magnetism as example (the new one from Lackey or Black Hand Edition):\n\n(Card rules)\nOnly usable during a referendum.\n[ani][obf] This vampire gets +1 vote.\n[ANI][OBF] This vampire gets +3 votes.\n(Card rules)\n\n(This is not part of the card rules)\nI am no orator, as Brutus is; But, as you know me all, a plain blunt man, William Shakespeare, Julius Ceasar, act III scene 2\n(This is not part of the card rules)",
+      "Id": "92625"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 3, 2019, 10:04\u202FAM",
+      "Body": "> Nac wrote:\n> Hi\n>\n> We had a disagreement with a friend over what happens with bold text over cards. Card in question was an Ammo but I suppose it applies to all of them: What happens with bold text? Is bold text part of text?\n>\nYes. If a card is cancelled, all its cardtext is cancelled (including bold parts).\n>\n> Rulebook wrote:\n> \u201CCancel a card\u201D: A \"canceled\" card has no effect, but it is still considered played. Unless explicitly written, cost for the card is paid. If the card was a strike card, the minion who played it must choose a strike, which might come from another strike card. If the card was an action card, the minion doesn\u2019t lock (he doesn\u2019t pay for the action card), and can play the same action card again.\n>\n> Nac wrote:\n> Let's say I cancel an Ammo card, could my oponent play another?\n>\nIt depends what the other ammo card says (since the first ammo card has no effect).\nFor instance:\n\nName: Dragon's Breath Rounds\nCardtype: Combat\nAmmo.\nOnly usable before resolution of a gun's strike. This gun inflicts +2 aggravated damage each strike for the remainder of this combat. Burn the gun after strike resolution. No more than one ammo card can be used on a gun each combat.\n\n(Emphasis mine). Since the first ammo was not used (which is different from \"played\"), you can play a Dragon's Breath Round after another ammo card has been cancelled.\n\n> Nac wrote:\n> Or Stely tenacity, does it go to my hand if canceled?\n>\nNo, the card has no effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92626"
+    },
+    {
+      "Author": "LivesByProxy",
+      "Date": "Jan 3, 2019, 10:14\u202FAM",
+      "Body": "Is it possible we will ever see a card that cancels a \"card effect\", rather than just cancels a card?\n\nFor example, Super Direct Intervention which \"cancels a minion card effect?\" the difference being the minion who played it is still locked if it was an action, cost is still payed, if strike card, they technically played a strike and don't get another, etc.\n\nGangrel. Noddist. Camarilla. Once each turn, LivesByProxy may burn 1 blood to lose Protean  until the end of the turn and gain your choice of superior Auspex , Obfuscate , or Potence  for the current action.",
+      "Id": "92627"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jan 3, 2019, 10:37\u202FAM",
+      "Body": "> (Emphasis mine). Since the first ammo was not used (which is different from \"played\"), you can play a Dragon's Breath Round after another ammo card has been cancelled.\n>\nSo it is still true that a played card that is cancelled, that has a text 'only one player per X', cannot be replayed in the instance, even if the whole text box of the card is cancelled and ignored once cancelled by DI or whatever?\n\n> Name: Carrion Crows\n> [Sabbat:C, SW:C/PT2, CE:PN2, Anarchs:PG2, BH:PN3, LoB:PA2, Third:C, LotN:PR3, KoT:C]\n> Cardtype: Combat\n> Discipline: Animalism\n> Only usable before range is chosen.\n> [ani] The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\n> [ANI] As above, but for 2R damage.\n> Artist: Michael Dixon; Richard Thomas\n>\nHow does this work with Reins of Power or Giant's Blood?\n\n> Name: Giant's Blood\n> [Jyhad:R, VTES:R, CE:R, LoB:PG, Third:R, LotN:PG, KoT:R/PM]\n> Cardtype: Master\n> Master.\n> Fill a vampire to full capacity with blood from the blood bank. Only one Giant's Blood can be played in a game.\n> Artist: Richard Thomas; Edward Beard, Jr.\n>\n> Name: Reins of Power\n> [Anarchs:C, KMW:PAn, Third:PTr, KoT:C/PV]\n> Cardtype: Political Action\n> Successful referendum means each Methuselah may choose a ready vampire he or she controls. Each Methuselah gains 6 pool. Each Methuselah also burns an amount of pool equal to the capacity of his or her predator's chosen vampire. Only one Reins of Power can be played or called in a game.\n> Artist: Christopher Shy\n>\nSo 'played' is different from 'used'. A cancelled card is still 'played' for all purposes, even if it wasn't 'used', ie. its effect never happened?\n\nJust making sure I got this right.\n\nHow many cards are there, roughly, where this is relevant? Ammos are one, of course, but I can't think of others from the top of my head.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "92628"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 3, 2019, 12:47\u202FPM",
+      "Body": "I can say about cards(Carrion Crows,Reins of Power or Giant's Blood) from my personal gaming experience:\nCarrion Crows;\"A vampire can play only one Carrion Crows each combat\",so if be canceled,you cannot play again.\nsame rule for Reins of Power or Giant's Blood,text in card said : Only one XXXX can be played in a game.",
+      "Id": "92629"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 3, 2019, 1:34\u202FPM",
+      "Body": "> LivesByProxy wrote:\n> Is it possible we will ever see a card that cancels a \"card effect\", rather than just cancels a card?\n>\nWe already have one. Delaying tactics cancels the referendum of a political action, not the card itself.\n\n> Ankha wrote:\n> It depends what the other ammo card says (since the first ammo card has no effect).\n> For instance:\n>\n> Name: Dragon's Breath Rounds\n> Cardtype: Combat\n> Ammo.\n> Only usable before resolution of a gun's strike. This gun inflicts +2 aggravated damage each strike for the remainder of this combat. Burn the gun after strike resolution. No more than one ammo card can be used on a gun each combat.\n>\n> (Emphasis mine). Since the first ammo was not used (which is different from \"played\"), you can play a Dragon's Breath Round after another ammo card has been cancelled.\n>\nContradictory VTES rules part 12312231:\nCard text of a canceled card doesn't have effect, EXCEPT if its restrictive (\"only one immortal grapple can be played per round\")\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "92630"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jan 3, 2019, 5:28\u202FPM",
+      "Body": "> Bloodartist wrote:\n> Contradictory VTES rules part 12312231:\n> Card text of a canceled card doesn't have effect, EXCEPT if its restrictive (\"only one immortal grapple can be played per round\")\n>\nWrong !\n\nActually, this is no exception.\n\nThe card text of a cancelled card \"as it is played\" as NO effect.\n\nFor Immortal Grapple or Giant's Blood, it is the card text of the second one which is NOT cancelled who make it an illegal play. It reads \"A vampire may play only one Immortal Grapple each round.\" and so if you would play a second IG, it would be the second one (the first as been cancelled \"as it is PLAYED\" and so have been PLAYED).\n\nAnd there is no contradiction, you can't play a card which is illegal per card text.",
+      "Id": "92633"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 3, 2019, 5:56\u202FPM",
+      "Body": "> Kraus wrote:\n>\n> > (Emphasis mine). Since the first ammo was not used (which is different from \"played\"), you can play a Dragon's Breath Round after another ammo card has been cancelled.\n> >\n> So it is still true that a played card that is cancelled, that has a text 'only one player per X', cannot be replayed in the instance, even if the whole text box of the card is cancelled and ignored once cancelled by DI or whatever?\n>\nThe game knows that you played a card with that card name and what the card type was (e.g. action modifier, combat). But the card text beyond that is blank.\n\nWhat happens next depends on the card text of the card you're playing/using.\n\n1) If the card says something like \"You cannot play another...\", such as on most bleed modifiers before the change to the \"(limited)\" card text, then that card text on the first card doesn't apply. When you come to play another one of that card, or that class of card, nothing is stopping you from playing it from card text. But if the cancelled card was an action modifier (or reaction), the game remembers that you played one and stops you from playing the same one. But you always could, for example, play Conditioning, have it cancelled, and then play Threats instead - the card text on the earlier Conditioning is blank, so it didn't stop you playing Threats.\n\n2) If the card says something along the lines of \"Only one X can be played per Y\" (e.g. Carrion Crows: \"A vampire can play only one Carrion Crows each combat.\"). Then the game remembers that you played a Carrion Crows, even though it was cancelled - and then when you try to play another copy of it, the card text from the second Carrion Crows kicks in and stops itself being played. See also: once per game referendums. \"Only one Ancient Influence can be played in a game.\" The card text of a second Ancient Influence will see the earlier, cancelled Ancient Influence was played, and so stop itself being played.",
+      "Id": "92634"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 3, 2019, 6:02\u202FPM",
+      "Body": "> Ankha wrote:\n> Yes. If a card is cancelled, all its cardtext is cancelled (including bold parts).\n>\n> ...\n>\n> (Emphasis mine). Since the first ammo was not used (which is different from \"played\"), you can play a Dragon's Breath Round after another ammo card has been cancelled.\n>\nI'm not sure why you're drawing this distinction - it doesn't seem necessary. The word \"ammo\" on the earlier ammo card was cancelled. When DBR is being played, its card text looks for other ammo cards that have been played and/or used - and there aren't any, because the word \"ammo\" was cancelled.\n\nIf the game is going to remember some of the card text on cards but not other text, that seems likely to cause problems.",
+      "Id": "92635"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jan 4, 2019, 10:25\u202FAM",
+      "Body": "> LivesByProxy wrote:\n> Is it possible we will ever see a card that cancels a \"card effect\", rather than just cancels a card?\n>\n> For example, Super Direct Intervention which \"cancels a minion card effect?\" the difference being the minion who played it is still locked if it was an action, cost is still payed, if strike card, they technically played a strike and don't get another, etc.\n>\nRight off the bat without pondering, cancelling card effects might actually be more clear and easy to understand way to take care of cancelling.\n\nFinnish  Politics!",
+      "Id": "92639"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2019, 10:39\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > Yes. If a card is cancelled, all its cardtext is cancelled (including bold parts).\n> >\n> > ...\n> >\n> > (Emphasis mine). Since the first ammo was not used (which is different from \"played\"), you can play a Dragon's Breath Round after another ammo card has been cancelled.\n> >\n> I'm not sure why you're drawing this distinction - it doesn't seem necessary. The word \"ammo\" on the earlier ammo card was cancelled. When DBR is being played, its card text looks for other ammo cards that have been played and/or used - and there aren't any, because the word \"ammo\" was cancelled.\n>\n> If the game is going to remember some of the card text on cards but not other text, that seems likely to cause problems.\n>\nThe game remembers everything that occurred previously. Cancelling an effect doesn't mean that history about it is erased, it just means it has no effect.\n\nIf you play an aim card that is cancelled, you still can't play another one because it was indeed an aim card (even if it was cancelled).\n\nName: Target Vitals\nCardtype: Combat\nAim. Only usable when choosing a strike. A minion can play only one aim each strike.\nIf any damage from this strike is successfully inflicted on the opposing minion, they take +2 damage from this strike, and they cannot press this round. They can discard two combat cards [COMBAT] to cancel this card as it is played.\n\nThe game remembers that a card named Target Vitals, which has the \"aim\" label, that is played when choosing a strike, that has a given effect, etc. was played.\n\nIf a card says \"Not usable if another card usable when choosing a strike was played this combat.\", it would remember that Target Vitals who meets that criteria was played (with no effect).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92640"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Dec 21, 2021, 11:22\u202FAM",
+      "Body": "Bold replacement effects similar to Steely Tenacity occurs even if the card is not played but discarded for example via Constant Revolution?\n\nLurking in the underground of Bologna, Italy",
+      "Id": "104255"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 21, 2021, 12:13\u202FPM",
+      "Body": "> thelonius wrote:\n> Bold replacement effects similar to Steely Tenacity occurs even if the card is not played but discarded for example via Constant Revolution?\n>\nNo. The cardtext only applies if the card is played by default.\n\nName: Steely Tenacity\n[TR:C, POD:DTC]\nCardtype: Action/Combat\nCost: 1 blood\nDiscipline: Animalism/Dominate/Quietus\nRequires an Anarch. Do not replace until after this action. If you would replace this card, instead you can take this card from your ash heap.\n[ani] [COMBAT] Strike: hand strike or use a melee weapon strike. This strike is at +1 damage, with 1 optional press.\n[dom] [ACTION]  Bleed with +1 bleed.\n[qui] [ACTION] +1 stealth action.  Enter combat with a minion.\nArtist: Peter Bergting\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104256"
+    }
+  ]
+}

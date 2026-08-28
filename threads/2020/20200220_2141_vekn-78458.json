@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-78458",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78458-strix-daring-the-dawn-and-much-more",
+  "Title": "Strix, Daring the Dawn and much more...",
+  "Messages": [
+    {
+      "Author": "filavander",
+      "Date": "Feb 20, 2020, 9:41\u202FPM",
+      "Body": "Hello,\nHere comes my question regarding Strix, which posted on Facebook forum.\n\nwww.facebook.com/groups/512493665865136/post_tags/?post_tag_id=513860442395125\n\nVincent Ripoll would like to answer the question here rather on facebook, so I copy/paste my question below..\nVincent feel free to comment and give us a hope for new rulebook, which will answer all not answered questions .\n\nHi Creatures of Darkness .\nHere comes a question regarding Daring the Dawn and Strix.\n1. A player declares bleed with Flurry of Action (Superior), then plays Daring the Dawn.\n2. Bleed is not blocked, not reduced, not bounced, in other words successful, I assume, that acting player gets the Edge and may untap.\nMy assumption comes from the post below.\n(www.vekn.net/forum/rules-questions/17899-strix-superior-and-the-edge\u2026).\n3. Then superior Strix comes in to play and mess begins. What happens next?\na. A combat between acting and playing Strix vampire begins and aggravated damage from Daring takes effect after combat?\nb. Aggravated damage from Daring takes an effect before combat?\nIf b. is correct, does the vampire playing Strix taps? Does she/he enter combat with vampire in torpor (impossible), maybe she/he gets an opportunity for diablerie? Is vampire in torpor a legal target? Maybe it's impossible to play Strix in this situation?\n4. When the bleed action window ends?\nKeep in mind that you are giving a helping hand to quite new, just little educated in dark matter group of monsters.\nP.S. 1\nAdvices like 'don't play Strix' are not welcome .\nP.S. 2\nWhen a vampire playing Strix \"enters combat\" with the acting minion, who plays cards first in the combat, acting player or the player who enters combat? Assume that acting player.\nThanks for help in advance.",
+      "Id": "99029"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 21, 2020, 12:23\u202FAM",
+      "Body": "To add my comment:\n\nI'd advise mild caution about following Pascal's ruling on this. The current text from the V:EKN cardlist is:\n\n\"[STR] Only usable when a bleed against you would be successful. The bleed burns no pool. Instead, this vampire locks and enters combat with the acting minion.\"\n\nAn \"X would happen... instead...\" effect means that X does not happen.\nwww.vekn.net/forum/rules-questions/76594-lost-kindred-faq\n\n\"when X would happen... Y happens instead: replacement effects take place when X is going to happen, but before it happens. X does not happen at all, and Y happens instead. \"\n\nHere, X is the bleed being successful. Something happens instead. X does not happen, so - based on card text and the detailed description of what the current templating means - the bleed is not successful.",
+      "Id": "99032"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 21, 2020, 9:48\u202FAM",
+      "Body": "Since \"would... instead\" is now a well-known pattern, I updated the cardtext of Strix:\n\nwww.vekn.net/forum/rules-questions/17899-re-strix-superior-and-the-edge?start=36#99035\n\n> filavander wrote:\n> Hello,\n> Here comes a question regarding Daring the Dawn and Strix.\n> 1. A player declares bleed with Flurry of Action (Superior), then plays Daring the Dawn.\n> 2. Bleed is not blocked, not reduced, not bounced, in other words successful, I assume, that acting player gets the Edge and may untap.\n> My assumption comes from the post below.\n> (www.vekn.net/forum/rules-questions/17899-strix-superior-and-the-edge\u2026).\n> 3. Then superior Strix comes in to play and mess begins. What happens next?\n> a. A combat between acting and playing Strix vampire begins and aggravated damage from Daring takes effect after combat?\n> b. Aggravated damage from Daring takes an effect before combat?\n> If b. is correct, does the vampire playing Strix taps? Does she/he enter combat with vampire in torpor (impossible), maybe she/he gets an opportunity for diablerie? Is vampire in torpor a legal target? Maybe it's impossible to play Strix in this situation?\n> 4. When the bleed action window ends?\n> <snip>\n> When a vampire playing Strix \"enters combat\" with the acting minion, who plays cards first in the combat, acting player or the player who enters combat? Assume that acting player.\n> Thanks for help in advance.\n>\nThe course of the action is:\n1. A declares bleed against B with Flurry of Action (Superior), then plays Daring the Dawn.\n2. Bleed is not blocked, not reduced, not bounced. The action is successful, its effects are now applied.\n3. B plays Strix since B is about to be successfully bled.\n4. B burns no pool, but the bleed is still successful (since the bleed amount is > 0), A gets the Edge, and unlocks the acting vampire (Flurry of Action)\n5. B's vampire is locked and enters combat with A's (A is acting and plays cards first)\n6. After combat, A's vampire takes aggravated damage from the Daring the Dawn.\n7. The bleed action ends.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99036"
+    }
+  ]
+}

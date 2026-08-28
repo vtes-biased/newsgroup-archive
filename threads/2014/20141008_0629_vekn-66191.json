@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-66191",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/66191-illusory-resources",
+  "Title": "Illusory resources",
+  "Messages": [
+    {
+      "Author": "Whisker",
+      "Date": "Oct 8, 2014, 6:29\u202FAM",
+      "Body": "Hi!\nWhen adding counters to Illusory resources during untap, does the blood can from the vampire or from blood bank?\n\n+1 stealt action. unique\nPut this card in play with one counter. During your untap phase a ready vampire with  you control can move 1 blood to this card. You can burn x counters from this card to reduce a bleed against you by x.",
+      "Id": "66191"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 8, 2014, 6:37\u202FAM",
+      "Body": "> Whisker wrote:\n> Hi!\n> When adding counters to Illusory resources during untap, does the blood can from the vampire or from blood bank?\n>\n> +1 stealt action. unique\n> Put this card in play with one counter. During your untap phase a ready vampire with  you control can move 1 blood to this card. You can burn x counters from this card to reduce a bleed against you by x.\n>\nI guess the designer intent his from himself but yeah, it is not clearly stated...",
+      "Id": "66193"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 8, 2014, 6:55\u202FAM",
+      "Body": "It comes from the vampire, otherwise there would be no point in specifying the vampire it comes from but it would just say 'during your untap move 1 blood to this card from the blood bank'",
+      "Id": "66195"
+    },
+    {
+      "Author": "Serazahr",
+      "Date": "Oct 8, 2014, 7:55\u202FAM",
+      "Body": "> Klaital wrote:\n> It comes from the vampire, otherwise there would be no point in specifying the vampire it comes from but it would just say 'during your untap move 1 blood to this card from the blood bank'\n>\nNot really. Even if the blood came from the blood bank, the amount that goes onto it in the untap phase would be the number of vampires with Chimestry.\n\nHowever given that it would be really overpowered if that were the case, I am assuming that the Vampires have to use their own blood.\n\nEdit: Nevermind. I think the during X do Y rule overrides this anyway.",
+      "Id": "66196"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 8, 2014, 8:42\u202FAM",
+      "Body": "> Whisker wrote:\n> Hi!\n> When adding counters to Illusory resources during untap, does the blood can from the vampire or from blood bank?\n>\nIt comes from the vampire.",
+      "Id": "66197"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 8, 2014, 9:02\u202FAM",
+      "Body": "(Un-striking for readability.)\n\n> Serazahr wrote:\n> Not really. Even if the blood came from the blood bank, the amount that goes onto it in the untap phase would be the number of vampires with Chimestry.\n>\nEven in the situation where that happened (which as you note, it doesn't), you wouldn't expect the current phrasing with \"a ready vampire... can move\" if the blood came from the blood bank. It would more likely be something like \"During your untap phase, put 1 blood on this card from the blood bank for each [blah] you control.\" There'd be no need for it to be phrased as the vampire moving it.",
+      "Id": "66200"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 8, 2014, 10:35\u202FAM",
+      "Body": "> Whisker wrote:\n> Hi!\n> When adding counters to Illusory resources during untap, does the blood can from the vampire or from blood bank?\n>\n> +1 stealt action. unique\n> Put this card in play with one counter. During your untap phase a ready vampire with  you control can move 1 blood to this card. You can burn x counters from this card to reduce a bleed against you by x.\n>\nFrom the vampire. Some cards such as Jar of Skin Eaters, Mustafa, The Heir... use the same wording.\nNevertheless, the card should always state \"from\" when using \"move\", so this should be changed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66206"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Oct 15, 2014, 8:24\u202FPM",
+      "Body": "Can as many ready vamps that you have with chimerstry add counters to eat each untap phase or just one?",
+      "Id": "66650"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 15, 2014, 9:00\u202FPM",
+      "Body": "> mjasper521 wrote:\n> Can as many ready vamps that you have with chimerstry add counters to eat each untap phase or just one?\n>\nThe phrasing \"During X, you may do Y....\" and similar phrasing (the key word to look for is \"during\") restricts you to once. From the rulebook:\n\n\u201CDuring X, do Y\u201D: The \u201Cduring X do Y\u201D template is used in several cards. When this template is used, only one Y can be done per X with this card. For instance, you may move blood from your vampire to your pool with Vessel only once per untap phase.\n\nSo during your untap phase, one of your Chimerical vampires can put one blood on it.",
+      "Id": "66651"
+    },
+    {
+      "Author": "delangen",
+      "Date": "Oct 16, 2014, 6:50\u202FPM",
+      "Body": "Hi,\n\nquick questions re: illusory resources and suspension of disbelief\n\nif I have an illusory resource in play and am being bled by supension of disbelief does it require extra counter to be burned? It is stil considered a minion card n'est pas? but dooesn't cost blood or life?\n\nthank you in advance\n\nRjdLts",
+      "Id": "66681"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 16, 2014, 7:08\u202FPM",
+      "Body": "> delangen wrote:\n> if I have an illusory resource in play and am being bled by supension of disbelief does it require extra counter to be burned?\n>\nNo. It increases the cost of cards by one blood or life. The cost of a card is only really relevant when you're playing it (or possibly at certain other times, like Kindred Segregation or Peace Treaty). You're not playing a card when you're burning a counter, so the cost of the card is irrelevant.",
+      "Id": "66682"
+    }
+  ]
+}

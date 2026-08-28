@@ -1,0 +1,122 @@
+{
+  "ThreadId": "vekn-82396",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82396-queued-combats",
+  "Title": "Queued combats",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2025, 5:37\u202FAM",
+      "Body": "From: www.blackchantry.com/2025/06/12/new-sabbat-rules-terms-and-errata/\n\nQueue a combat: set up a future combat during the resolution of an action.  If a combat is queued during another combat, the queued combat will start after the current combat ends. If a combat is queued before action resolution, the queued combat will start after resolving the action, but still as part of the action resolution:  if the action is blocked, the queued combat will start after the block resolution, that is after the combat resulting from the block ends (if any) if the action is successful, the queued combat will start after the effects of the action have taken place.    Combats always occur during the action resolution. It is not possible to queue a combat after the action resolution, and it is not possible to queue more than one combat.\n\nQ: If a combat is \"queued\" by Hedonism and the action is blocked, when is it possible to play Cats' Guidance (or Truth in Darkness)?\nA: The queued combat occurs right after the combat induced by the block. Cats' Guidance can be played once all combats are over.\n\nQ: Let's assume there is no combat queued. The combat induced by a block ends, and Psyche! is played to start a new combat, can I play Cats' Guidance before the new combat?\nA: No. The combat started by Psyche! uses the same queue of combats. So, you will have to wait for all the combats to be over.\n\nQ: Can I play Psyche! if there is a pending combat due to Hedonism?\nA: No, since there is already a combat queued. You could play Telepathic Tracking or Hunting the Quarry to extend the combat though.\n\nQ: Can I play Hidden Lurker if there is a pending combat due to Hedonism?\nA: No, for the same reason. And you cannot play it after the Hedonism combat neither because the requirements are not met (the Hedonism combat does not involve the blocking minion).\n\nQ: If I play Form of Mist at superior, can I burn a blood to continue the action if there is a pending combat due to Hedonism?\nA: No, actions cannot be continued while there is a pending combat.\n\nQ: Let's say there is no combat queued. I play Form of Mist at superior, what happens if Psyche! is played?\nA: The action does not continue. A new combat starts.\n\nQ: What if my vampire was blocked, a Psyche! was played. Could I play Form of Mist at superior to continue the action at some point?\nA: Yes, but only in the final combat (if all conditions are met).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114683"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jun 13, 2025, 7:13\u202FAM",
+      "Body": "Sirens lure says by card text:\n>\n> Only usable by a ready unlocked vampire other than the acting minion if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion. After the action resolution, this vampire and the blocking minion enter combat.\n>\nIs Sirens lure, which is already avaible on POD, going to be changed to reflect this this?",
+      "Id": "114684"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jun 13, 2025, 9:05\u202FAM",
+      "Body": "> Q: If I play Form of Mist at superior, can I burn a blood to continue the action if there is a pending combat due to Hedonism?\n> A: No, actions cannot be continued while there is a pending combat. You could however play Form of Mist during the last combat, and continue the action.\n>\nWith Hedonism specifically (as in the question), why would Form of Mist be usable to continue the action during the last queued combat? It is specifically Vampire C (if A is acting and B queued to be entered combat with) that participates in the \"final combat\" and Form of Mist specifies that the action can only continue if \"this vampire was blocked while performing an action\". C is not performing an action, nor were they blocked.\n\n\"Strike: combat ends. After combat ends, if this vampire was blocked while performing an action, they can burn 1 blood to continue the action with +1 stealth as if unblocked, even if stealth is not yet needed. A vampire can play only one Form of Mist at superior each action.\"\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "114685"
+    },
+    {
+      "Author": "TheLich",
+      "Date": "Jun 13, 2025, 2:48\u202FPM",
+      "Body": "I am going to agree with Kraus here, and offer a suggestion, as well as a reasoned argument for why.\n\nAs it stands right now you have produced a timing issue with cards like Form of Mist because you are arguing that there is something else to do. However, you really didn't have to choose this method of resolution and it is a method that creates a flavor fail and more unwanted rules complexity.\n\nFlavor first. If I have my friend jump down from a tree and start fighting with the person who tried to stop me from setting fire to Methuselah Inc, my fire is not going to happen first and effect their fight. Let's say I was bleeding with Feast of Soul Secrets, so before the fight starts my friend gains the benefits of something I haven't quite done yet?\n\nNow let's look at it mechanically. You have now created a window that exists outside of the actual window for continuing the action. However, it is an irrational window because these two combats are not, by your current flow chart, the same.\n\nEasy fix to both problems, though. Have queued combats have to resolve before action resolution (or block resolution) is applied. This then actually opens up the design space for future cards. If you already going to interrupt the action mechanics, then why not interrupt them in a way that makes you not have to create more complicated rules and that feels right from a flavor perspective? It also creates additional design space for future card timing.",
+      "Id": "114686"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2025, 2:53\u202FPM",
+      "Body": "> Kraus wrote:\n>\n> > Q: If I play Form of Mist at superior, can I burn a blood to continue the action if there is a pending combat due to Hedonism?\n> > A: No, actions cannot be continued while there is a pending combat. You could however play Form of Mist during the last combat, and continue the action.\n> >\n> With Hedonism specifically (as in the question), why would Form of Mist be usable to continue the action during the last queued combat? It is specifically Vampire C (if A is acting and B queued to be entered combat with) that participates in the \"final combat\" and Form of Mist specifies that the action can only continue if \"this vampire was blocked while performing an action\". C is not performing an action, nor were they blocked.\n>\nSorry, the example is a bad one. Replace Hedonism with Psyche!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114687"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2025, 2:57\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> Sirens lure says by card text:\n> >\n> > Only usable by a ready unlocked vampire other than the acting minion if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion. After the action resolution, this vampire and the blocking minion enter combat.\n> >\n> Is Sirens lure, which is already avaible on POD, going to be changed to reflect this this?\n>\nProbably, but this is not a rule question.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114688"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Jun 13, 2025, 11:51\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> Warning: Spoiler!\n>\n> From: www.blackchantry.com/2025/06/12/new-sabbat-rules-terms-and-errata/\n>\n> Queue a combat: set up a future combat during the resolution of an action.  If a combat is queued during another combat, the queued combat will start after the current combat ends. If a combat is queued before action resolution, the queued combat will start after resolving the action, but still as part of the action resolution:  if the action is blocked, the queued combat will start after the block resolution, that is after the combat resulting from the block ends (if any) if the action is successful, the queued combat will start after the effects of the action have taken place.    Combats always occur during the action resolution. It is not possible to queue a combat after the action resolution, and it is not possible to queue more than one combat.\n>\n> Q: If a combat is \"queued\" by Hedonism and the action is blocked, when is it possible to play Cats' Guidance (or Truth in Darkness)?\n> A: The queued combat occurs right after the combat induced by the block. Cats' Guidance can be played once all combats are over.\n>\n> Q: Let's assume there is no combat queued. The combat induced by a block ends, and Psyche! is played to start a new combat, can I play Cats' Guidance before the new combat?\n> A: No. The combat started by Psyche! uses the same queue of combats. So, you will have to wait for all the combats to be over.\n>\n> Q: Can I play Psyche! if there is a pending combat due to Hedonism?\n> A: No, since there is already a combat queued. You could play Telepathic Tracking or Hunting the Quarry to extend the combat though.\n>\n> Q: Can I play Hidden Lurker if there is a pending combat due to Hedonism?\n> A: No, for the same reason. And you cannot play it after the Hedonism combat neither because the requirements are not met (the Hedonism combat does not involve the blocking minion).\n>\n> Q: If I play Form of Mist at superior, can I burn a blood to continue the action if there is a pending combat due to Hedonism?\n> A: No, actions cannot be continued while there is a pending combat.\n>\n> Q: Let's say there is no combat queued. I play Form of Mist at superior, what happens if Psyche! is played?\n> A: The action does not continue. A new combat starts.\n>\n> Q: What if my vampire was blocked, a Psyche! was played. Could I play Form of Mist at superior to continue the action at some point?\n> A: Yes, but only in the final combat (if all conditions are met).\n>\nThanks for the chart, how does Strix SUP work with active Hedonism queued combat?\n\nName: Strix [HttB:R] Cardtype: Reaction Cost: 1 blood Discipline: Striga Burn Option [str] +1 intercept, even if intercept is not yet needed. If this vampire successfully blocks this action, he or she unlocks at the end of the action. [str] is not a Discipline. [STR] Only usable when a bleed against you {is about to} be successful. The bleed burns no pool {(but is still successful),} this vampire {is locked} and enters combat with the acting minion. Artist: Justin Norman\n\nTrust in Jan Pieterzoon.",
+      "Id": "114692"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jun 14, 2025, 8:06\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Hobbesgoblin wrote:\n> > Sirens lure says by card text:\n> > >\n> > > Only usable by a ready unlocked vampire other than the acting minion if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion. After the action resolution, this vampire and the blocking minion enter combat.\n> > >\n> > >\n> > Is Sirens lure, which is already avaible on POD, going to be changed to reflect this this?\n> >\n> Probably, but this is not a rule question.\n>\nI think it is.\n\nThe concrete question would be:\n\nSirens lure contradicts this FAQ by card text.\nDoes this Post constitute a Ruling on Sirens Lure, or does Sirens Lures card text take precedent via the \"golden rule\"?",
+      "Id": "114693"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2025, 8:11\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > Ankha wrote:\n> >\n> > > Hobbesgoblin wrote:\n> > > Sirens lure says by card text:\n> > > >\n> > > > Only usable by a ready unlocked vampire other than the acting minion if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion. After the action resolution, this vampire and the blocking minion enter combat.\n> > > >\n> > > >\n> > > Is Sirens lure, which is already avaible on POD, going to be changed to reflect this this?\n> > >\n> > Probably, but this is not a rule question.\n> >\n> I think it is.\n>\n> The concrete question would be:\n>\n> Sirens lure contradicts this FAQ by card text.\n> Does this Post constitute a Ruling on Sirens Lure, or does Sirens Lures card text take precedent via the \"golden rule\"?\n>\nThe latter.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114696"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 14, 2025, 8:59\u202FPM",
+      "Body": "> Ankha wrote:\n> Q: Let's assume there is no combat queued. The combat induced by a block ends, and Psyche! is played to start a new combat, can I play Cats' Guidance before the new combat?\n> A: No. The combat started by Psyche! uses the same queue of combats. So, you will have to wait for all the combats to be over.\n>\nDoes this, by the same rationale as above, extend to mean that now Obedience is no longer able to get in between two combats, i.e. a reversal of  [LSJ 19991025] ?\n\nIf not, what makes the handling of Obedience different to the one of Cat\u00B4s Guidence (they both have explicit text that allows them to get in between two combats, see below)???\n\n> Only usable if this vampire is about to enter combat with an acting younger vampire.\n>\n> Only usable by a locked vampire who has blocked, after block resolution.\n>",
+      "Id": "114698"
+    },
+    {
+      "Author": "TheLich",
+      "Date": "Jun 15, 2025, 4:02\u202FAM",
+      "Body": "To confirm then, you are basing this production off of the rule [LSJ 20021121]. So all cards that conceptually queued before Hidden Lurker, Psyche, Fast Reaction, Siren's Lure will be included as part of the queued domain space for the purposes of this official naming?\n\nI am also really confused on this timing about Form of Mist. Form of Mist says at the end of Combat, and on your tree you show it being plausible to continue the action after the Queued combat. In the same manner can a Fast Reaction be played in that same timing window?",
+      "Id": "114699"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 26, 2025, 7:06\u202FPM",
+      "Body": "Bump",
+      "Id": "114797"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jul 8, 2025, 11:17\u202FAM",
+      "Body": "Bump again.",
+      "Id": "114902"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 10, 2025, 7:16\u202FAM",
+      "Body": "> inm8 wrote:\n>\n> > Ankha wrote:\n> > Q: Let's assume there is no combat queued. The combat induced by a block ends, and Psyche! is played to start a new combat, can I play Cats' Guidance before the new combat?\n> > A: No. The combat started by Psyche! uses the same queue of combats. So, you will have to wait for all the combats to be over.\n> >\n> Does this, by the same rationale as above, extend to mean that now Obedience is no longer able to get in between two combats, i.e. a reversal of  [LSJ 19991025] ?\n>\nNo, this applies to \"usable after block resolution\" cards. Such cards have to wait until all chained combats are over.\n\nObedience is \"usable if this vampire is about to enter combat\" and doesn't fall in the same category. It is playable when a certain criteria is met, rather than a window.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114910"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jul 10, 2025, 11:49\u202FAM",
+      "Body": "\"block resolution\" is (was at least) by definition -> the locking of the minion + enter combat (resulting from blocking)\n\nthe above ruling now tells us that \"block resolution\" is -> the locking of the minion + enter combat (resulting from blocking) + any other combat + x (potentially)\n\nhow is one to know what is included or not in \"block resolution\"???\n\nwe shouldnt need to learn rulings to be able to understand when a card is playable or not.\n\nthe original wording \"play after combat, if any\" which was replaced with \"useable after block resolution\" was much clearer and makes the introduced change the opposite of an improvement.",
+      "Id": "114913"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 16, 2025, 8:13\u202FAM",
+      "Body": "> Ankha wrote:\n> No, this applies to \"usable after block resolution\" cards. Such cards have to wait until all chained combats are over.\n>\nIts probably a good idea to avoid using \"block resolution\" as the defining factor, as combat can result also without any blocking involved. Such as resolution of a rush combat action, Fast Reaction, Follow the Blood, etc. And combat extending cards such as psyche can also be played in such a case (unless they conflict with queued combats).\n\nI would suggest we try to figure out a new wording for cards that are supposed to be played after the whole queue of combats is finished, to make it clearer. The problem is that the word \"combat\" is used in two different contexts. Both for individual combat steps, and for the whole sequence of queued combats. Obviously this creates problems and confusion.\n\nIt is also important that we define when does a combat end, because of cards that apply effects to the whole combat duration, such as carrion crows. I've already had arguments with some Brazilians online who refused to believe that Horrid form was still in effect after I used telepathic tracking to start a new round. To that person \"new round starts\" meant \"new combat starts\". That game ended prematurely because of the argument and I dont wish to repeat the experience. I remember having an argument (which did not resolve satisfactorily) when I said that a combat must end before a new combat begins. I was argued that this was not the case. I assume it was related to this wording confusion (two separate contexts).\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "114959"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 16, 2025, 9:08\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > No, this applies to \"usable after block resolution\" cards. Such cards have to wait until all chained combats are over.\n> >\n> Its probably a good idea to avoid using \"block resolution\" as the defining factor, as combat can result also without any blocking involved. Such as resolution of a rush combat action, Fast Reaction, Follow the Blood, etc. And combat extending cards such as psyche can also be played in such a case (unless they conflict with queued combats).\n>\nIf there's no block, you cannot play cards \"usable after block resolution\" at all.\n\n> Bloodartist wrote:\n> I would suggest we try to figure out a new wording for cards that are supposed to be played after the whole queue of combats is finished, to make it clearer.\n>\nIt exists, and is called \"after (action) resolution\".\n\n> Bloodartist wrote:\n> The problem is that the word \"combat\" is used in two different contexts. Both for individual combat steps\n>\nWhere?\n\n\"Combat Sequence\nCombat occurs in a series of one or more rounds. Each round of combat has seven steps:\n\n1. Before Range: Play cards before range is chosen.\n2. Determine Range: Use maneuvers to change the range to close or long.\n3. Before Strikes: Play cards before strikes are chosen.\n4. Strike: Announce and resolve strikes.\n5. Damage Resolution: Prevent and mend damage.\n6. Press: Use presses to continue into another round or to end combat.\n7. End of Round: End of round cards and effects are played here.\"\n\n> Bloodartist wrote:\n> , and for the whole sequence of queued combats. Obviously this creates problems and confusion.\n>\nHow? A combat is a single unit, \"queued combats\" (plural) are multiple instances of combat, usage is consistent.\n\n> Bloodartist wrote:\n> It is also important that we define when does a combat end\n>\nIt's described in the rulebook.\n\n> Bloodartist wrote:\n> , because of cards that apply effects to the whole combat duration, such as carrion crows. I've already had arguments with some Brazilians online who refused to believe that Horrid form was still in effect after I used telepathic tracking to start a new round. To that person \"new round starts\" meant \"new combat starts\"\n>\nProbably due to a misunderstanding of English, or a bad translation.\n\n> Bloodartist wrote:\n> . That game ended prematurely because of the argument and I dont wish to repeat the experience. I remember having an argument (which did not resolve satisfactorily) when I said that a combat must end before a new combat begins. I was argued that this was not the case. I assume it was related to this wording confusion (two separate contexts).\n>\nSince the first context (\"Both for individual combat steps\") doesn't exist, I don't think confusion comes from there.\nOf course, if some players think that round = combat, it's going to be hard for them to understand exactly how it works.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114968"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 3, 2025, 9:36\u202FPM",
+      "Body": "For clarification:\ncan you use the slave rule after queuing a combat with hedonism?",
+      "Id": "115704"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 3, 2025, 10:06\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> For clarification:\n> can you use the slave rule after queuing a combat with hedonism?\n>\nYes.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/gKCchgvcN4I/m/EeHh5bi4zH4J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115705"
+    }
+  ]
+}

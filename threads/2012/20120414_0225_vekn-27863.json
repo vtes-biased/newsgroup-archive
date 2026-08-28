@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-27863",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/27863-disarm-vs-combat-ends",
+  "Title": "Disarm vs. Combat ends",
+  "Messages": [
+    {
+      "Author": "shornbuck1",
+      "Date": "Apr 14, 2012, 2:25\u202FAM",
+      "Body": "Question- Vampire 1 strikes for 2 hand damage. Vampire 2 in combat plays combat ends. Can Vampire 1 play disarm? Put another way, has vampire 1 \"successfully inflicted\" more damage than vampire 2?",
+      "Id": "27863"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 14, 2012, 2:35\u202FAM",
+      "Body": "Nope since strike combat ends resolves first so the 2 damage is never dealt (unless the combat ends is done as an additional strike in which case yes)",
+      "Id": "27865"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Apr 14, 2012, 3:37\u202FAM",
+      "Body": "www.vekn.net/index.php/complete-rules-reference\n\nVI.C.2 for reference\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "27866"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 14, 2012, 10:39\u202FAM",
+      "Body": "Correct.",
+      "Id": "27886"
+    },
+    {
+      "Author": "shornbuck1",
+      "Date": "Apr 25, 2012, 9:34\u202FPM",
+      "Body": "Thanks for the reply.\n\nOne related question. What if Vampire 1 in the same hypothehical used Outside the Hourglass to inflict 2 damage before range is determined. Vampire 2 played combat ends.\n\nCan Vampire 1 play disarm based on the 2 damage inflicted using Outside the Hourglass?\n\nThanks in advance.",
+      "Id": "28708"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 25, 2012, 9:43\u202FPM",
+      "Body": "> shornbuck1 wrote:\n> Thanks for the reply.\n>\n> One related question. What if Vampire 1 in the same hypothehical used Outside the Hourglass to inflict 2 damage before range is determined. Vampire 2 played combat ends.\n>\n> Can Vampire 1 play disarm based on the 2 damage inflicted using Outside the Hourglass?\n>\nYes.\n[LSJ 20100630]",
+      "Id": "28709"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Apr 26, 2012, 6:30\u202FAM",
+      "Body": "Just to get it right:\n\nIf there are no other effects triggered in the \"pre determine range step\" and \"Outside the Hourglass\" is played on  , then the damage from \"Outside the Hourglass\" is \"close range damage\", regardless to what happens later in the actual round of combat?\n\nSo I could play \"Outside the Hourglass\" (hopefully successfully) for 2 damage (at close range), maneuver to long, play a S:CE and finish up with \"Disarm\"?\n\nThanks in advance!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "28721"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 26, 2012, 6:58\u202FAM",
+      "Body": "So Outside the Hourglass is not environmental damage???\n\nHow is this different to Carrion Crows then? Since both cards state that they deal/inflict damage on the opposing minion I can't see why I can Disarm after Outside the Hourglass but can't do the same (if combat is close) with Carrion Crows.\n\nOR\n\nIf I play the following sequence...\nOutside the Hourglass before range.\nMajesty\nStreet Cred (since I did deal 2 damage at close and Majesty just shoves the combat to \"end of round\")\n\nStreet Cred\nType: Combat\nRequires: Potence\nCost: 1 blood\nOnly usable at the end of a round of combat in which this vampire successfully inflicted more damage than the opposing minion.\n[pot] Move 1 blood from the blood bank to a younger vampire in your uncontrolled region. A vampire can play only 1 Street Cred each turn.\n[POT] As above, but move 2 blood.\n\nOutside the Hourglass\nType: Combat\nRequires: Temporis / Obfuscate\n[obf] Strike: dodge.\n[tem] Maneuver, or strike: dodge, with an optional maneuver.\n[TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n\nCarrion Crows\nType: Combat\nRequires: Animalism\nOnly usable before range is chosen.\n[ani] The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\n[ANI] As above, but for 2R damage.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "28724"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 26, 2012, 8:00\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> So Outside the Hourglass is not environmental damage???\n>\nAnd it's never been. \"Inflict 2 damage\" is different from \"The opposing minion takes 1R damage\".\n\n> Juggernaut1981 wrote:\n> How is this different to Carrion Crows then?\n>\nGrammatically, the actor is the vampire inflicting damage, on OtH. Consequently, the vampire is inflicting damage.\n>\n> Juggernaut1981 wrote:\n> Since both cards state that they deal/inflict damage on the opposing minion I can't see why I can Disarm after Outside the Hourglass but can't do the same (if combat is close) with Carrion Crows.\n>\nCarrio Crows doesn't read \"Deal X damage\" or \"Inflict X damage\". It reads \"The opposing minion takes XR damage\", with no precision on the source. Thus, it is environmental.\n\n> Juggernaut1981 wrote:\n> If I play the following sequence...\n> Outside the Hourglass before range.\n> Majesty\n> Street Cred (since I did deal 2 damage at close and Majesty just shoves the combat to \"end of round\")\n>\nValid.",
+      "Id": "28739"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 26, 2012, 8:18\u202FAM",
+      "Body": "So we can have \"close range\" before the \"Determine Range Step\" has completed, but calling 10,000 birds to attack your enemy on your behalf in not caused by the opposing minion, even though the opposing minion had to play a card to make it happen???\n\nHonestly, other than \"LSJ said so\", I am yet to see a good argument for why \"Subject takes X damage\" from a card played by the opposing minion.\n\nFrom a more 'real world' perspective, why should there be a difference between me remote-controlling a gun and me just firing the same thing? Under VTES rulings, it would seem that the remote-controlled gun would be counted as caused by some mystery 3rd-person which doesn't exist... but me shooting the gun counts and damage from me. Without my usage of the remote control the damage is not done. Similarly, without playing the Carrion Crows the damage is not done.\n\nI'm not saying that Environmental Damage should not exist, but that it should be clearly, both thematically and by explicit card text, not as a direct result of actions taken by a minion in combat.\n\ne.g. Ghoul Retainer damage should be \"damage not caused by a minion\". Wolf Companion should be \"damage not caused by a minion\". Calling a swarm of birds to attack your opponent should be \"caused by a minion\", since it seems fairly clear that in a combat between two vampires that being swarmed by birds in the middle of the night would be the result of that other vampire you are currently fighting.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "28742"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 26, 2012, 8:21\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> So Outside the Hourglass is not environmental damage???\n>\nCorrect.\n\nAs you understood here: www.vekn.net/index.php/forum/6-rules-questions/9091-damage-caused-by-the-other-minion",
+      "Id": "28743"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 26, 2012, 8:22\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> So we can have \"close range\" before the \"Determine Range Step\" has completed\n>\nYes, as was explained to you here:\n\nwww.vekn.net/index.php/forum/6-rules-questions/20807-combat-range-always-close-by-default-close-range-effects-available",
+      "Id": "28744"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 26, 2012, 9:58\u202FPM",
+      "Body": "James, I am not saying that there aren't \"rulings on this stuff\" but I honestly still find them to contain internal logic faults. So I will probably continually agitate against them. For example, the 'colours' black and white do not exist (I can prove it easily enough via simple methods) but yet in day to day life is to assume they are colours. Just because they are a certain way, doesn't mean they always MUST be a certain way and doesn't necessarily mean that it is 'right'.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "28778"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Apr 26, 2012, 10:03\u202FPM",
+      "Body": "Jugg, sometimes you have to choose your battles, and make judgement calls as to what is worth fighting against.\n\nIs this really worth fighting against?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "28780"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 26, 2012, 10:28\u202FPM",
+      "Body": "Are we talking about \"Worth it to get the win\" or \"Worth it for the struggle\"?\n\nI know what you're saying, but even if I don't 'win'... for me it's not always about the win and more about having people detail and explain their position.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "28781"
+    },
+    {
+      "Author": "1up20x6",
+      "Date": "Apr 26, 2012, 10:35\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> James, I am not saying that there aren't \"rulings on this stuff\" but I honestly still find them to contain internal logic faults. So I will probably continually agitate against them.\n>\nJust to use your example of carrion crows from earlier....\n\nFrom The Eternal Struggle: A Player's Guide to the Jyhad, \"When a servant loses blood points in a block or a direct combat, it does not always mean she has been physically injure. Instead, it represent a tangible loss in her personal resources. [...] Only when a servant is actually burnt is the block considers to have been lethal combat.\"\n\nSo, the internal logic isn't the vampire sending 10,000 crows to attack the victim, but that she's merely destroying her resources, such as sending 10,000 crows to perch outside the victim's business, causing it to lose money and eventually go bankrupt as less people want to shop while being examined by a murder of crows.\n\nSo, since the vampire and the crows aren't even actively doing anything, I'd say it logically and thematically qualifies as environmental damage.\n\nAny deck can win, whether you're using stealth bleed, rush combat, or Soul Gem combos. It doesn't matter if your minions use Auspex, Thaumaturgy, or Melpominee. What matters is the Methuselah uses Presence. That is how deals are made. That is how games are won.\n\nNo, you misunderstand. I don't want...",
+      "Id": "28782"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 27, 2012, 4:38\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> but I honestly still find them to contain internal logic faults.\n>\nWhich are? In your previous post, you talk about \"real world\" and rpg considerations, which have nothing to do in a rule section.\n\nUsing a passive form to identify environmental damage seems quite logical (no acting subject, the \"victim\" takes X damage from environmental source).\nUsing an active form on the other hand (with an acting subject) defines clearly the source of damage.\n\nWhen player A in combat with player B loses 1 pool from a Tension in the Ranks played by player C, do you consider player C is dealing the pool damage? Isn't it an \"environmental\" pool loss?\n\n(As for RPG considerations, I also see a difference between the two. Outside the Hourglass: the True Brujah stops time and punches the opposing minion before the combat really starts. Easy to imagine he can snatch his arm off. Carrion Crows: an uncontrollable swarm of birds attacks the opposing minion but the vampire has no control on it and can't tell them to attack some part of the body. You could find a thousand different RPG explanations anyway, and it's really not a rule subject).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "28789"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 27, 2012, 5:27\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Are we talking about \"Worth it to get the win\" or \"Worth it for the struggle\"?\n>\n> I know what you're saying, but even if I don't 'win'... for me it's not always about the win and more about having people detail and explain their position.\n>\nWhen it's already happened, repeatedly, it's not about other people explaining their position because they've already done it.\n\nIf you just want to repeatedly dredge up the same arguments, again and again, without contributing anything even slightly useful, please don't clutter up genuine rules questions threads with your obsessive-compulsive need to do so. Thanks.",
+      "Id": "28793"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 27, 2012, 6:23\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Calling a swarm of birds to attack your opponent should be \"caused by a minion\", since it seems fairly clear that in a combat between two vampires that being swarmed by birds in the middle of the night would be the result of that other vampire you are currently fighting.\n>\nHmmm,\nperhaps dem birdies are independent sub-contractors?\n\n\"Will maim for birdseeds\"\n\nFinnish  Politics!",
+      "Id": "28799"
+    },
+    {
+      "Author": "Surreal",
+      "Date": "Apr 27, 2012, 6:58\u202FAM",
+      "Body": "Easiest way would be if Carrion Crows and other environmental damage cards would have said \"opposing minion takes 1ER damage\". E meaning environmental damage. Then just add rule book: E = environmental damage is normal damage but it is not never counted to caused by a minion.\n\nEDIT\nFor me it would had make sense also that combat doesn't have range until after Determine Range step is over or skipped. Nobody can realize Outside Hourglass + Disarm shennanigans just by reading rule book.",
+      "Id": "28802"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Apr 27, 2012, 3:16\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> please don't clutter up genuine rules questions threads with your obsessive-compulsive need to do so. Thanks.\n>\nOh, thank you internet police !\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "28821"
+    }
+  ]
+}

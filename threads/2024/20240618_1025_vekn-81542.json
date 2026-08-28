@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-81542",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81542-mind-rape-descent-into-darkness-again",
+  "Title": "Mind Rape + Descent into Darkness (again)",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Jun 18, 2024, 10:25\u202FAM",
+      "Body": "I have read the ruling about this combo but my doubt refers about the text change.\n\nOriginal text was \"put this card on him or her\"\n\nthe new text is\n\nName: Descent into Darkness\n[Gehenna:C, POD:DTC]\nCardtype: Action\nCost: 1 blood\nDiscipline: Obtenebration\n+1 stealth action.\n[obt] Put this vampire and any cards and counters on them out of play (breaking any temporary control effects) and put this card in play. During your influence phase, this vampire can gain 2 blood, and you can choose to burn this card to return the vampire to play (in the same region as they were before), locked.\n[OBT] As above, but the vampire is unlocked as they return to play.\n\nBold on relevant.\n\nI see I didn't set this clear. The scenario is after a minion has been stolen by the mind rape. And the Methuselah that stole it, use it to play a Descent into darkness. What happens when the minion returns to his original controller.\n.  Player A plays mind rape on minion X of player B Player B plays his turn normally. Minion X remains locked Player A burns mind rape and gets minion X unlocked Player A plays Descent into darkness with minion X Minion X returns to player B (DiD breaks temporary control)  If you put DiD in play (like army of rats) and not on the minion (like the original text) then when the minion change controls back to his original controller DID doesn't change of controller and therefor the original player choose to burn it or not.\n\nSo with the change of text also changes completely the synergy with mind rape.\n\nIs my reasoning correct?\n\nActually I guess that the new text tried to avoid the problem that, as a card on a permanent out of play is also out of play, technically DiD could not be used to bring back the vampire to play as it also out of play (and it could not be used)\n\nIn that case, I would recommend adding something like this so it's online with LSJ's rulling.\n\n\"put this card in play (this vampire's controller controls this card)\"\n\nMind rape\n\nName: Mind Rape\n[Sabbat:R, SW:R, KoT:R]\nCardtype: Action\nCost: 2 blood\nDiscipline: Dominate\n[dom]  Bleed with +2 bleed.\n[DOM]  Lock a younger vampire and put this card on that vampire; you still control this card. This vampire does not unlock as normal. During your next minion phase, burn this card to unlock this vampire and take control of him or her until the end of your turn.\nArtist: Scott M. Bakal; Brian LeBlanc",
+      "Id": "111735"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 18, 2024, 12:15\u202FPM",
+      "Body": "Descent into Darkness work like the rack, stays in play \"targeting and remembering\" the out of play vampire, the controller of the vampire chooses when he come back, and the mind rape (out of play with the vampire that was nurturing on the shadows of abyss) come back when the vampire comes back and trigger on the next minion phase of his controller, no?\n\nDavid Resende - Prince of Teresina",
+      "Id": "111736"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jun 18, 2024, 1:02\u202FPM",
+      "Body": "Descent into Darkness breaks immediately the temporal control from Mind rape. So as soon as you play DiD the vampire returns to his permanent controller. (the scenario is about when the Vampire has been temporarily stolen. Not before.)\n\nAnd the controller of the vampire doesn't decide when the vampire returns.\nThe controller of DiD decide. That's the point. If DiD is on the vampire, the controller of the vampire is the controller of DiD. If DiD is on play, the player that played DiD is the controller.",
+      "Id": "111737"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jun 19, 2024, 7:32\u202FAM",
+      "Body": "I agree with Coyote's remarks. Well, unless allowing this powerful combo is intentional.",
+      "Id": "111743"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 19, 2024, 1:26\u202FPM",
+      "Body": "> Coyote wrote:\n> Descent into Darkness breaks immediately the temporal control from Mind rape. So as soon as you play DiD the vampire returns to his permanent controller. (the scenario is about when the Vampire has been temporarily stolen. Not before.)\n>\n> And the controller of the vampire doesn't decide when the vampire returns.\n> The controller of DiD decide. That's the point. If DiD is on the vampire, the controller of the vampire is the controller of DiD. If DiD is on play, the player that played DiD is the controller.\n>\nwait a minute, let\u00B4s see if i understood:\nPlayer A's turn: use one of his minions to play mind rape on a vampire of player B, that vampire lock and don\u00B4t unlock as normal\nPlayer's B turn: mind raped vampire don't unlock, Player B uses something to unlock him, then use DiD with the mind raped vampire, removing mind rape, is it? before mind rape trigger is already considered a temporary control effect?\n\nif Player do nothing and on player A turn the mind rape trigger and player A play a DiD i understand the control go back to player B and by the rullings the control of DiD go to player B too... you cant permanent isolate the vampire on the abyss with this...\n\nDavid Resende - Prince of Teresina",
+      "Id": "111747"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jun 19, 2024, 2:50\u202FPM",
+      "Body": "Player A plays mind rape on minion X of player B\nPlayer B plays his turn normally. Minion X remains locked\nplayer A burns mind rape and get minion X unlocked\nPlayer A plays Descent into darkness with minion X\nMinion X returns to player B\n\nOld text says that DiD is put on the minion. So when minion returns to player B, he controls DiD and can choose to burn it to return minion X to play.\n\nNew text puts DiD on play. So when Minion X returns to player B DiD is still controlled by player A and he can choose not to burn DiD forever so minion X is permanently out of play\n\nI hope this clear it.",
+      "Id": "111749"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 9, 2024, 12:35\u202FPM",
+      "Body": "@Ankha\n\nCould you clarify this point? Thanks.",
+      "Id": "111982"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 14, 2024, 5:07\u202FPM",
+      "Body": "Yes, this is an issue. It should read (errata):\n\nName: Descent into Darkness\n[Gehenna:C, POD:DTC]\nCardtype: Action\nCost: 1 blood\nDiscipline: Obtenebration\n+1 stealth action.\n[obt] Put this card on this vampire, then put this vampire and any other cards and counters on them out of play (breaking any temporary control effects; this card remains in play). During your influence phase, this vampire can gain 2 blood, and you can choose to burn this card to return the vampire to play (in the same region as they were before), locked.\n[OBT] As above, but the vampire is unlocked as they return to play.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112024"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 15, 2024, 7:17\u202FAM",
+      "Body": "Thanks Ankha\n\nAs a judge, I have now a doubt.\nIf I find this issue in a tournament and the text is still not corrected in the card list, how should I proceed?\n\nIf I stick to the rules, I should rule according to the actual text from the card list (and allowing this issue).\n\nI know this is an extremely rare case, but I am thinking in a more general view. I understand the card list from VEKN is official to rule changes, updates and erratas from cards.\n\nSo if a card is errated but still not corrected in the card list (like it is Descent now) I understand that I should still rule using the official text.\n\nCorrect?",
+      "Id": "112030"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 15, 2024, 7:27\u202FAM",
+      "Body": "And to make it shorter, I would delete the part of \"and any other cards and counters on them\". Cards and counters on a card out of play are implicitly out of play. So this line is almost redundant.\n\n\"this card remains in play\" is enough to override the general rule.\n\nIt just my opinion.\n\nName: Descent into Darkness\n[Gehenna:C, POD:DTC]\nCardtype: Action\nCost: 1 blood\nDiscipline: Obtenebration\n+1 stealth action.\n[obt] Put this card on this vampire, then put this vampire and any other cards and counters on them out of play (breaking any temporary control effects; this card remains in play). During your influence phase, this vampire can gain 2 blood, and you can choose to burn this card to return the vampire to play (in the same region as they were before), locked.\n[OBT] As above, but the vampire is unlocked as they return to play.",
+      "Id": "112031"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 15, 2024, 5:51\u202FPM",
+      "Body": "> Ankha wrote:\n> Yes, this is an issue. It should read (errata):\n>\n> Name: Descent into Darkness\n> [Gehenna:C, POD:DTC]\n> Cardtype: Action\n> Cost: 1 blood\n> Discipline: Obtenebration\n> +1 stealth action.\n> [obt] Put this card on this vampire, then put this vampire and any other cards and counters on them out of play (breaking any temporary control effects; this card remains in play). During your influence phase, this vampire can gain 2 blood, and you can choose to burn this card to return the vampire to play (in the same region as they were before), locked.\n> [OBT] As above, but the vampire is unlocked as they return to play.\n>\nTo be clear: this errata was issued on July 14, 2024 and therefore goes into effect August 13, 2024, correct?",
+      "Id": "112036"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 15, 2024, 9:39\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > Ankha wrote:\n> > Yes, this is an issue. It should read (errata):\n> >\n> > Name: Descent into Darkness\n> > [Gehenna:C, POD:DTC]\n> > Cardtype: Action\n> > Cost: 1 blood\n> > Discipline: Obtenebration\n> > +1 stealth action.\n> > [obt] Put this card on this vampire, then put this vampire and any other cards and counters on them out of play (breaking any temporary control effects; this card remains in play). During your influence phase, this vampire can gain 2 blood, and you can choose to burn this card to return the vampire to play (in the same region as they were before), locked.\n> > [OBT] As above, but the vampire is unlocked as they return to play.\n> >\n> To be clear: this errata was issued on July 14, 2024 and therefore goes into effect August 13, 2024, correct?\n>\nSince it's the correction of an error on the printed version (rather than a new effect), it takes effect as soon as the official list is updated (which should be done in the next days).\n\n> Coyote wrote:\n> Thanks Ankha\n>\n> As a judge, I have now a doubt.\n> If I find this issue in a tournament and the text is still not corrected in the card list, how should I proceed?\n>\n> If I stick to the rules, I should rule according to the actual text from the card list (and allowing this issue).\n>\n> I know this is an extremely rare case, but I am thinking in a more general view. I understand the card list from VEKN is official to rule changes, updates and erratas from cards.\n>\n> So if a card is errated but still not corrected in the card list (like it is Descent now) I understand that I should still rule using the official text.\n>\n> Correct?\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112041"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 15, 2024, 9:42\u202FPM",
+      "Body": "> Coyote wrote:\n> And to make it shorter, I would delete the part of \"and any other cards and counters on them\". Cards and counters on a card out of play are implicitly out of play. So this line is almost redundant.\n>\n> \"this card remains in play\" is enough to override the general rule.\n>\n> It just my opinion.\n>\n> Name: Descent into Darkness\n> [Gehenna:C, POD:DTC]\n> Cardtype: Action\n> Cost: 1 blood\n> Discipline: Obtenebration\n> +1 stealth action.\n> [obt] Put this card on this vampire, then put this vampire and any other cards and counters on them out of play (breaking any temporary control effects; this card remains in play). During your influence phase, this vampire can gain 2 blood, and you can choose to burn this card to return the vampire to play (in the same region as they were before), locked.\n> [OBT] As above, but the vampire is unlocked as they return to play.\n>\nYou are missing the \"other\" part (otherwise the Descent into Darkness card itself would be out of play).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112042"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 15, 2024, 10:01\u202FPM",
+      "Body": "Thanks",
+      "Id": "112043"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 15, 2024, 10:09\u202FPM",
+      "Body": "Not looking to argue, but I feel that the line \"this card remains in play\" is enough to keep Descent in play, although the vampire is out of play. Making the other line unnecessary. That is what I was meaning. I think that shorter text in cards are better for the game.",
+      "Id": "112044"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 16, 2024, 5:54\u202FAM",
+      "Body": "> Coyote wrote:\n> Not looking to argue, but I feel that the line \"this card remains in play\" is enough to keep Descent in play, although the vampire is out of play. Making the other line unnecessary. That is what I was meaning. I think that shorter text in cards are better for the game.\n>\nExcept that it's between parentheses, so reminder text.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112045"
+    },
+    {
+      "Author": "M\u00E5rten",
+      "Date": "Jul 31, 2024, 1:19\u202FPM",
+      "Body": "> Coyote wrote:\n> Player A plays mind rape on minion X of player B\n> Player B plays his turn normally. Minion X remains locked\n> player A burns mind rape and get minion X unlocked\n> Player A plays Descent into darkness with minion X\n> Minion X returns to player B\n>\n> Old text says that DiD is put on the minion. So when minion returns to player B, he controls DiD and can choose to burn it to return minion X to play.\n>\n> New text puts DiD on play. So when Minion X returns to player B DiD is still controlled by player A and he can choose not to burn DiD forever so minion X is permanently out of play\n>\n> I hope this clear it.\n>\nSo in this case the vamp can be out of play for the rest of the game, but IF Player A for some reason decide to take it back it goes back Player B?",
+      "Id": "112213"
+    }
+  ]
+}

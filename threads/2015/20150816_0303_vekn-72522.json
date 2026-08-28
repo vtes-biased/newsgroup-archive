@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-72522",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/72522-blocking-and-redirecting-bleeds",
+  "Title": "blocking and redirecting bleeds",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Aug 16, 2015, 3:03\u202FAM",
+      "Body": "Hi\n\nWhen a player makes an attempt to block, is he/she bound to it?\n\ngame situation:\n\nvamp a bleeds, vamp b attemts to block, vamp a plays a non-stealth modificator, like a dawn operation or a conditioning and says: \"i've no intercept, I'm blocked\", can vamp b redirect it? we know that playing a card opens a window for effect being played but we were not clear on how does it affect a successful block attemt.\n\nMany thanks in advance.",
+      "Id": "72522"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 16, 2015, 5:31\u202FAM",
+      "Body": "If B attempts to block and A doesn't play that would make the block ineffective (stealth, Daring the Dawn, \"block fail\" effect), then B succeeds the block. He can't choose not to block.\n\nThis means that B can't play a Redirection (or Deflection or any card that redirect the bleed) in that case, because it says \"only usable... after blocks are declined\".\n\nThis also means that if B attempts to block and A plays Dawn Operation at superior, he can't choose not to block. Only inferior effect of Dawn Operation gives the opportunity to B to choose not to block.\n\nDawn Operation:\n[for] If this action is blocked, all damage inflicted on vampires in the resulting combat is aggravated. Any vampire attempting to block can now choose not to block.\n[FOR] As above, but vampires attempting to block cannot back out.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72528"
+    }
+  ]
+}

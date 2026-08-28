@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-77543",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77543-strike-restriction-and-dog-pack",
+  "Title": "Strike restriction and Dog Pack",
+  "Messages": [
+    {
+      "Author": "Ratadin",
+      "Date": "Apr 9, 2019, 2:31\u202FPM",
+      "Body": "I have a question regarding strike timing, restrictions and Dog Pack.\n\nThe question is, a card that prohibits a minion from doing a certain type of strike stops them only from choosing that strike, from resolving that strike, or both?\n\nIn this case, if a minion had a Dog Pack employed, could the opposing minion choose a combat end (and so, cycling it), even though they could not resolve it? If not, could I play a Dog Pack through Summon Spirit Beast after they declare their strike:combat end to stop it from resolving?\n\nA similar case that comes to mind is immortal grapple and an strike with optional maneuvers (like magnum or aid from bat): If I understand it correctly, a minion would declare a strike with optional maneuver during the range phase to use the maneuver, then the immortal would be played and, as the strike was chosen, they won't be able to use it. Use being the key card here as immortal specifies \"Use\", but Dog pack doesn't.\n\nSo, what is the exact ruling for strikes, strikes with maneuvers and strike restrictions?\n\nSummon Spirit Beast [LoB:R]\n\nCardtype: Combat/Reaction\nCost: X blood\nDiscipline: Spiritus/Animalism\n[ani] [COMBAT] Discard X cards.\n[spi] [COMBAT][REACTION] Move X animal retainers from your ash heap to this vampire, with life from the blood bank equal to their starting amounts. After this minion phase ends, burn those retainers.\n[SPI] As [spi] above, but the retainers are not burned until after the end of your next minion phase.\n\nDog Pack [AH:R2, Anarchs:PG]\n\nCardtype: Retainer\nClan: Gangrel\nCost: 2 pool\nAnimal with 1 life.\nMinions opposing the minion with this retainer cannot end combat as a strike.\n\nImmortal Grapple [Jyhad:R2, VTES:R, Sabbat:U, SW:U/PB, FN:PG, CE:U/PB2, Third:U, LotN:PG2, KoT:U/PB3, HttB:PGar3]\n\nCardtype: Combat\nDiscipline: Potence\nOnly usable at close range before strikes are chosen. Grapple.\n[pot] Strikes that are not hand strikes may not be used this round (by either combatant). A vampire may play only one Immortal Grapple each round.\n[POT] As above, with an optional press. If another round of combat occurs, that round is at close range; skip the determine range step for that round.",
+      "Id": "94459"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Apr 9, 2019, 2:41\u202FPM",
+      "Body": "To make matters even worse, i have two conflicting rulings:\nLSJ\ngroups.google.com/d/topic/rec.games.trading-cards.jyhad/CUiFanzq42k/discussion\nPascal\nwww.vekn.net/forum/rules-questions/11078-cannot-use-equipment-and-summon-spirit-beast\n\nSo... Who's right?",
+      "Id": "94460"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Apr 10, 2019, 9:31\u202FAM",
+      "Body": "I am not a judge, but I am fairly certain that in VTES dog pack prevents you from playing a combat end card. As a rule of thumb in VTES, you cannot play cards that would have an illegal effect. You must be able to apply it, similarly that you have to be able to pay the cost of a card. It's bit iffy, but at least its pretty consistent in VTES.\n\nedit: Dog pack says that opponent cannot \"Choose combat end as a strike\". You play the card as you choose the strike. You cannot choose the strike, you cannot play the card.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "94477"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 10, 2019, 5:21\u202FPM",
+      "Body": "> Bloodartist wrote:\n> edit: Dog pack says that opponent cannot \"Choose combat end as a strike\".\n>\nNo it doesn't.\n\nwww.vekn.net/images/stories/downloads/cardlist.txt\n\nMinions opposing the minion with this retainer cannot end combat as a strike.",
+      "Id": "94485"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Apr 11, 2019, 2:47\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Bloodartist wrote:\n> > edit: Dog pack says that opponent cannot \"Choose combat end as a strike\".\n> >\n> No it doesn't.\n>\n> www.vekn.net/images/stories/downloads/cardlist.txt\n>\n> Minions opposing the minion with this retainer cannot end combat as a strike.\n>\nSo the answer to the topic question is...?\n\nps. The card probably should have the text I posted, because my text is clearer.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "94494"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Apr 12, 2019, 7:21\u202FAM",
+      "Body": "> Ratadin wrote:\n> I have a question regarding strike timing, restrictions and Dog Pack.\n>\n> The question is, a card that prohibits a minion from doing a certain type of strike stops them only from choosing that strike, from resolving that strike, or both?\n>\nBoth, plus you cannot play a card (to cycle) that gives you S:CE, because you have to play a card that gives a valid strike.\nIf by any way you have already defined your strike as S:CE, you don't have a strike at all.\n\nNote: Dog Pack cannot prevent R\u00F6tschreck, because it is not a strike.",
+      "Id": "94496"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 12, 2019, 8:53\u202FAM",
+      "Body": "I have asked Pascal if his ruling was meant to overrule LSJ's, which was not the case.\n\nSo LSJ's ruling stands.\n\nIf there is a Dog Pack on the opposing minion, you cannot declare a strike: combat ends.\nIf you have already declared a strike: combat ends and the opposing minion plays Pack Alpha to get a Dog Pack, your strike fizzles, just like in the Aid from Bats vs Immortal Grapple scenario.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94497"
+    }
+  ]
+}

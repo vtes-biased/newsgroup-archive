@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-72391",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/72391-kinda-stupid-question-but",
+  "Title": "kinda stupid question but.. .",
+  "Messages": [
+    {
+      "Author": "blackday",
+      "Date": "Aug 8, 2015, 11:25\u202FPM",
+      "Body": "I know this maybe kinda noob question but i couldnt find the ruling...\nAnyways two vamps are in combat at close range. Vamp A strikes vamp B for 1 damage. During damage prevention vamp B plays armor of vitality preventing damage. Vamp A plays blur for two additional strikes. Does the armor of vitality played in the first strike resolution still apply to the additional strikes since its in the same round? We ruled it did.",
+      "Id": "72391"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 9, 2015, 12:30\u202FAM",
+      "Body": "It doesn't. The card would have to be worded \"This minion can prevent 3 damage this round\" for it to work.",
+      "Id": "72392"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Aug 9, 2015, 2:21\u202FAM",
+      "Body": "Thats what i thought but couldnt find the relevant rulings regarding it.",
+      "Id": "72393"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2015, 8:36\u202FAM",
+      "Body": "There's a damage resolution step each time a vampire takes damage. The cards played to prevent damage doesn't carry over that step (unless stated otherwise).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72409"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 9, 2015, 8:58\u202FAM",
+      "Body": "> Ankha wrote:\n> There's a damage resolution step each time a vampire takes damage. The cards played to prevent damage doesn't carry over that step (unless stated otherwise).\n>\nIs there relevant text in the rulebook about this or a relevant ruling?",
+      "Id": "72411"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Aug 9, 2015, 9:07\u202FAM",
+      "Body": "So if a vamp gets hit with outside the hourglass for 2 damage and the opposing vamp plays armor of vitality to prevent 3. The extra 1 damage prevention doesnt carry over the strike resolution? So he cant use it to prevent hand strike damage for example.\nIs there an official ruling where we can cite this?",
+      "Id": "72412"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 9, 2015, 1:32\u202FPM",
+      "Body": "There is no need for a ruling, this is just the rules: a combat card is played, resolves, then goes to the ash heap. Any lasting effect must be explicitly stated on the card, if only to specify the exact duration.\n\nOtherwise, when does it stop? Why remember the prevent effect for one round only? Why not the whole combat, the whole turn, forever until used,...?",
+      "Id": "72415"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2015, 1:47\u202FPM",
+      "Body": "The relative section in the rulebook is:\n\n> 6.4.6. Damage Resolution\n>\n> Damage resolution has two steps: prevent damage and heal damage.\n> First, the minion taking damage can play damage prevention cards (such as the combat card Skin of Rock) if he is able to do so. These damage prevention cards are played one at a time until all the damage is prevented or until the minion chooses not to play any more.\n> Any remaining damage (damage that was not prevented) is successfully inflicted. The damage is then healed (if the victim is a vampire) or causes a loss of life points (if the victim is an ally or retainer).\n>\nThere's nothing in there that also the unused prevention to linger until the end of combat. Once you've resolved the damage resolution, it's over and you move to the next step.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72416"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 9, 2015, 2:24\u202FPM",
+      "Body": "If you really want a \"ruling\", you can find  [LSJ 20001114]\n>\n> Simple prevention cards (like Skin of Rock) don't even carry into the\n> additional strike phase. If you were hit for 1 and your opponent played Blur\n> for 2 additional strikes and struck for 1 each time, you would have to play\n> 3 Skin of Rocks to prevent it all (1 during the strike phase, 1 during the\n> first additional strike phase, and another 1 during the second additional\n> strike phase.)\n>",
+      "Id": "72417"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 9, 2015, 3:52\u202FPM",
+      "Body": "> Ankha wrote:\n> The relative section in the rulebook is:\n>\n> > 6.4.6. Damage Resolution\n> >\n> > Damage resolution has two steps: prevent damage and heal damage.\n> > First, the minion taking damage can play damage prevention cards (such as the combat card Skin of Rock) if he is able to do so. These damage prevention cards are played one at a time until all the damage is prevented or until the minion chooses not to play any more.\n> > Any remaining damage (damage that was not prevented) is successfully inflicted. The damage is then healed (if the victim is a vampire) or causes a loss of life points (if the victim is an ally or retainer).\n> >\n> There's nothing in there that also the unused prevention to linger until the end of combat. Once you've resolved the damage resolution, it's over and you move to the next step.\n>\nIt's really strange that this is not explained in the rulebook. This is not readily apparent to new players.",
+      "Id": "72424"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Aug 9, 2015, 3:54\u202FPM",
+      "Body": "Thank you everybody for taking the time to explain it. This makes it much clearer for us.",
+      "Id": "72425"
+    }
+  ]
+}

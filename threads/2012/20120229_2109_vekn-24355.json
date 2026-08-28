@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-24355",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/24355-sutekh-0-8-1-released",
+  "Title": "Sutekh 0.8.1 released!",
+  "Messages": [
+    {
+      "Author": "hodgestar",
+      "Date": "Feb 29, 2012, 9:09\u202FPM",
+      "Body": "Greetings\n\nOn behalf of the Sutekh development team I'm delighted to announce the release of Sutekh 0.8.1.\n\nThis is a minor update and bugfix release for Sutekh 0.8. In particular, Sutekh 0.8.1 fixes a critical issue with updating the card list from the vekn.net website caused by a change in the character encoding used by vekn.net.\n\nSutekh is available for Windows and Linux systems (with RPMs for Fedora and a PPA for Ubuntu).\n\nInstructions for installing Sutekh can be found at:  sourceforge.net/apps/trac/sutekh/wiki/InstallInstructions  Sutekh can be downloaded from Sourceforge at:  sourceforge.net/projects/sutekh/files/sutekh/  Ubuntu packages may be obtained from Sutekh's Launchpad PPA:   launchpad.net/~sutekh/+archive/ppa   Issues may be reported by emailing .\n\nIf you're new to Sutekh or want to read about what Sutekh can do, you might want to start with the online manual at:  sourceforge.net/apps/trac/sutekh/wiki/SutekhManual_0_8  Sutekh aims to be the swiss army knife of VTES card management applications -- we hope you'll give the release a try.\n\nRegards\nThe Sutekh development team (Neil and Simon)",
+      "Id": "24355"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 1, 2012, 12:21\u202FPM",
+      "Body": "Using your link\nUsing win7 64bits\nInstalling everything but the images and icons.\nRunning the program for the first time (and the second etc.):\n\nSutekh reported an unhandled exception:\n'<< None >>'\n\nTraceback (most recent call last):\nFile \"SutekhGui.py\", line 224, in <module>\nFile \"SutekhGui.py\", line 209, in main\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 168, in setup\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 247, in restore_from_config\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 361, in replace_with_physical_card_list\nFile \"sutekh\\gui\\PhysicalCardFrame.pyc\", line 37, in __init__\nFile \"sutekh\\gui\\CardListFrame.pyc\", line 90, in add_parts\nFile \"sutekh\\gui\\FilteredView.pyc\", line 63, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 296, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 197, in lookup_icons\nFile \"sutekh\\gui\\IconManager.pyc\", line 240, in get_info\nFile \"protocols\\interfaces.pyc\", line 298, in __call__\nFile \"protocols\\interfaces.pyc\", line 208, in __call__\nFile \"protocols\\api.pyc\", line 72, in adapt\nFile \"protocols\\interfaces.pyc\", line 183, in __adapt__\nFile \"sutekh\\core\\SutekhObjects.pyc\", line 648, in __new__\nFile \"sutekh\\core\\Abbreviations.pyc\", line 50, in canonical\nKeyError: '<< None >>'\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "24424"
+    },
+    {
+      "Author": "hodgestar",
+      "Date": "Mar 1, 2012, 6:31\u202FPM",
+      "Body": "> Ankha wrote:\n> Using your link\n> Using win7 64bits\n> Installing everything but the images and icons.\n> Running the program for the first time (and the second etc.):\n>\n> Sutekh reported an unhandled exception:\n> '<< None >>'\n>\nThanks for the bug report. It's not immediately obvious what's happened but we're looking into it.",
+      "Id": "24457"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 1, 2012, 8:05\u202FPM",
+      "Body": "I'm following the standard installation except:\n- download icons: no\n- images: cancel\n\nI've reproduced exactly the same error on another computer (windows 7 also)\n\nTraceback (most recent call last):\nFile \"SutekhGui.py\", line 224, in <module>\nFile \"SutekhGui.py\", line 209, in main\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 168, in setup\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 247, in restore_from_config\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 361, in replace_with_physical_card_list\nFile \"sutekh\\gui\\PhysicalCardFrame.pyc\", line 37, in __init__\nFile \"sutekh\\gui\\CardListFrame.pyc\", line 90, in add_parts\nFile \"sutekh\\gui\\FilteredView.pyc\", line 63, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 296, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 197, in lookup_icons\nFile \"sutekh\\gui\\IconManager.pyc\", line 240, in get_info\nFile \"protocols\\interfaces.pyc\", line 298, in __call__\nFile \"protocols\\interfaces.pyc\", line 208, in __call__\nFile \"protocols\\api.pyc\", line 72, in adapt\nFile \"protocols\\interfaces.pyc\", line 183, in __adapt__\nFile \"sutekh\\core\\SutekhObjects.pyc\", line 648, in __new__\nFile \"sutekh\\core\\Abbreviations.pyc\", line 50, in canonical\nKeyError: '<< None >>'\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "24470"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 1, 2012, 8:12\u202FPM",
+      "Body": "The trouble is that:\n- it crashed everytime I launch it\n- if I uninstall it (the C:\\Program Files (x86)\\Sutekh-0.8.0\\ folder is deleted) and reinstall it, I don't have the installation choices available anymore (I have to go and delete manually AppData\\Roaming\\Sutekh\\ which is non trivial for a standard user).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "24472"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 1, 2012, 8:20\u202FPM",
+      "Body": "I tried again and downloaded everything.\nI still have the error.\nDid you take into account the latest card CSV format?\n\nTraceback (most recent call last):\nFile \"SutekhGui.py\", line 224, in <module>\nFile \"SutekhGui.py\", line 209, in main\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 168, in setup\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 247, in restore_from_config\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 361, in replace_with_physical_card_list\nFile \"sutekh\\gui\\PhysicalCardFrame.pyc\", line 37, in __init__\nFile \"sutekh\\gui\\CardListFrame.pyc\", line 90, in add_parts\nFile \"sutekh\\gui\\FilteredView.pyc\", line 63, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 296, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 197, in lookup_icons\nFile \"sutekh\\gui\\IconManager.pyc\", line 240, in get_info\nFile \"protocols\\interfaces.pyc\", line 298, in __call__\nFile \"protocols\\interfaces.pyc\", line 208, in __call__\nFile \"protocols\\api.pyc\", line 72, in adapt\nFile \"protocols\\interfaces.pyc\", line 183, in __adapt__\nFile \"sutekh\\core\\SutekhObjects.pyc\", line 648, in __new__\nFile \"sutekh\\core\\Abbreviations.pyc\", line 50, in canonical\nKeyError: '<< None >>'\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "24473"
+    },
+    {
+      "Author": "hodgestar",
+      "Date": "Mar 1, 2012, 8:40\u202FPM",
+      "Body": "> Ankha wrote:\n> The trouble is that:\n> - it crashed everytime I launch it\n> - if I uninstall it (the C:\\Program Files (x86)\\Sutekh-0.8.0\\ folder is deleted) and reinstall it, I don't have the installation choices available anymore (I have to go and delete manually AppData\\Roaming\\Sutekh\\ which is non trivial for a standard user).\n>\nWhy does it say Sutekh-0.8.0? I would have thought it would say Sutekh-0.8.1 for Sutekh 0.8.1? Sutekh 0.8.0 does not work with the latest VEKN card texts. Sutekh 0.8.1 should.\n\nAfter you've installed Sutekh you can re-download data by going to the File menu. We intentionally don't automatically delete the AppData since that might cause people to lose their card database.",
+      "Id": "24474"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 2, 2012, 6:13\u202FAM",
+      "Body": "> hodgestar wrote:\n>\n> > Ankha wrote:\n> > The trouble is that:\n> > - it crashed everytime I launch it\n> > - if I uninstall it (the C:\\Program Files (x86)\\Sutekh-0.8.0\\ folder is deleted) and reinstall it, I don't have the installation choices available anymore (I have to go and delete manually AppData\\Roaming\\Sutekh\\ which is non trivial for a standard user).\n> >\n> Why does it say Sutekh-0.8.0? I would have thought it would say Sutekh-0.8.1 for Sutekh 0.8.1? Sutekh 0.8.0 does not work with the latest VEKN card texts. Sutekh 0.8.1 should.\n>\n> After you've installed Sutekh you can re-download data by going to the File menu. We intentionally don't automatically delete the AppData since that might cause people to lose their card database.\n>\nThis must be the cause.\n\nOn page: sourceforge.net/projects/sutekh/files/sutekh/\n\nthe link states: \"Looking for the latest version? Download sutekh-0.8.0.exe (18.6 MB)\"\n\nI guess that's why I downloaded the wrong version.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "24494"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 2, 2012, 8:56\u202FAM",
+      "Body": "> Ankha wrote:\n> This must be the cause.\n>\n> On page: sourceforge.net/projects/sutekh/files/sutekh/\n>\n> the link states: \"Looking for the latest version? Download sutekh-0.8.0.exe (18.6 MB)\"\n>\nI was sure I'd updated that link when we uploaded the new version, but clearly I didn't. My apologies. This should be fixed now.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "24503"
+    },
+    {
+      "Author": "hodgestar",
+      "Date": "Mar 2, 2012, 9:10\u202FAM",
+      "Body": "> Ankha wrote:\n> This must be the cause.\n>\n> On page: sourceforge.net/projects/sutekh/files/sutekh/\n>\n> the link states: \"Looking for the latest version? Download sutekh-0.8.0.exe (18.6 MB)\"\n>\n> I guess that's why I downloaded the wrong version.\n>\nAh! Thanks for picking that up. Link updated.",
+      "Id": "24506"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2012, 3:50\u202FPM",
+      "Body": "Ok, I tried to install v. 0.8.1 this time and had some errors:\n- it couldn't find \"Jo\u00E3o Bile\". I had to look for it in the left list and found \"JoXXXo Bile\" with XXX being strange characters (looking like unicode)\n- it couldn't find '.44 Magnum [Osebo starter]' (I'm not sure about the starter). I found the .44 in the category \"none\" instead of equipment as expected.\n- I had an error with Meno Ngari\n\nIn the end, I had the following error:\n\nTraceback (most recent call last):\nFile \"SutekhGui.py\", line 224, in <module>\nFile \"SutekhGui.py\", line 209, in main\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 168, in setup\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 247, in restore_from_config\nFile \"sutekh\\gui\\MultiPaneWindow.pyc\", line 361, in replace_with_physical_card_list\nFile \"sutekh\\gui\\PhysicalCardFrame.pyc\", line 37, in __init__\nFile \"sutekh\\gui\\CardListFrame.pyc\", line 90, in add_parts\nFile \"sutekh\\gui\\FilteredView.pyc\", line 63, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 296, in load\nFile \"sutekh\\gui\\CardListModel.pyc\", line 197, in lookup_icons\nFile \"sutekh\\gui\\IconManager.pyc\", line 240, in get_info\nFile \"protocols\\interfaces.pyc\", line 298, in __call__\nFile \"protocols\\interfaces.pyc\", line 208, in __call__\nFile \"protocols\\api.pyc\", line 72, in adapt\nFile \"protocols\\interfaces.pyc\", line 183, in __adapt__\nFile \"sutekh\\core\\SutekhObjects.pyc\", line 648, in __new__\nFile \"sutekh\\core\\Abbreviations.pyc\", line 50, in canonical\nKeyError: '<< None >>'\n\nMy Windows 7 and my display language are in English, but my culture is in French.\n\n> v. 0.8.1 works after deleting the Local folder containing data from the previous version.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25009"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2012, 4:06\u202FPM",
+      "Body": "I want to build a deck and I'm a bit confused.\n1/ How do I initiate a new deck list?\n2/ What is the fastest way to add Valerius Maior to the deck list?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25011"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 6, 2012, 5:15\u202FPM",
+      "Body": "> Ankha wrote:\n> Ok, I tried to install v. 0.8.1 this time and had some errors:\n> - it couldn't find \"Jo\u00E3o Bile\". I had to look for it in the left list and found \"JoXXXo Bile\" with XXX being strange characters (looking like unicode)\n>\nOK, so we're definately encoding something incorrectly on your system. I'm not quite sure where we're going wrong, but my first guess is that we're not setting the database encoding correctly. Could you send me a copy of the database so I can check that, please?\n\nI suspect the other errors are symptons of the same problem.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "25019"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 6, 2012, 5:25\u202FPM",
+      "Body": "> Ankha wrote:\n> I want to build a deck and I'm a bit confused.\n> 1/ How do I initiate a new deck list?\n>\nFrom the Card Set List pane, select Actions->Create New Card Set.\n\n> 2/ What is the fastest way to add Valerius Maior to the deck list?\n>\nI generally go with dragging and dropping from the main cardlist - you can search for the cards by name by starting to type the name - so \"Vale<enter>\" should get you to Valerius quickly.\n\nAlternatively, you can set the new card set to \"show all cards\" mode (either by creating a custom card set profile via Edit->Edit Profiles or temporarily by using Edit->Edit Local Profile), and then you can enter the numbers for the cards using 1-9 and +-.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "25020"
+    }
+  ]
+}

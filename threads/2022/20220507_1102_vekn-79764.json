@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-79764",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79764-enkil-cog-and-mask-of-a-thousand-faces",
+  "Title": "Enkil Cog and Mask of a thousand faces",
+  "Messages": [
+    {
+      "Author": "Oshi",
+      "Date": "May 7, 2022, 11:02\u202FAM",
+      "Body": "I suspect the answer is going to be \"No\" but it's worth getting it in black and white.\n\nCan a out-of-turn Enkil cog action be modified by Mask of a thousand faces?\n\nIs being able act during the current turn part of being \"capable of performing the action\"",
+      "Id": "105201"
+    },
+    {
+      "Author": "Legion",
+      "Date": "May 7, 2022, 12:25\u202FPM",
+      "Body": "I think the card's text is pretty clear. If you have a ready, unlocked vampire who is other than the acting minion and who is capable of performing the action. the answer would be yes. In all other cases the answer is NOT.",
+      "Id": "105203"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 7, 2022, 2:25\u202FPM",
+      "Body": "> Legion wrote:\n> I think the card's text is pretty clear. If you have a ready, unlocked vampire who is other than the acting minion and who is capable of performing the action. the answer would be yes. In all other cases the answer is NOT.\n>\nCorrect, Enkil Cog provides an effects that could not have been used if the masking vampire were the acting vampire.",
+      "Id": "105204"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "May 7, 2022, 11:30\u202FPM",
+      "Body": "Folloup question, for more edgcecases: If there is a \"Malkavian Madness network\" in play, could a Malkavian (of the same controller) take over the action with mask of a thousand faces, of a minion acting via enkil cog?",
+      "Id": "105205"
+    },
+    {
+      "Author": "lip",
+      "Date": "May 8, 2022, 5:23\u202FAM",
+      "Body": "Good question. These standing rulings make it tricky:\n>\n> Cannot be used to mask an action if the masking vampire is not capable of taking that action, nor if any effect (modifier, reaction, {Aching Beauty}, inherent stealth), has been played on this action that could not have been played if the masking minion were the acting minion (not counting blood spent).  [RTR 19980623]  [RTR 20030519]  [LSJ 20030520]  [RTR 20041202]\n>\nI would say that locking Enkil Cog to be able to act is not \"an effect played on this action that could not have been played if the masking vampire was acting\", because it's locked before the action, and answer this with a yes, the Malkavian can take over. But this is, I think debatable - you could say Enkil Cog is an effect played on the action (and not transferable, since you need to be the vampire with Enkil Cog to use its effect), so no masking.",
+      "Id": "105207"
+    },
+    {
+      "Author": "Oshi",
+      "Date": "May 8, 2022, 7:29\u202FAM",
+      "Body": "If you wanted to be pedantic you could argue that no vampires are capable of performing an action while another vamp is acting. \"able to currently act\" as a condition would render mask non functional.\nIm just saying that theres room for interpretation on what being \"capable\" means.\n\nbut the implication would be: madness network spreads to anyone with obf. for the health of the game perhaps rule against that.",
+      "Id": "105208"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 8, 2022, 8:02\u202FAM",
+      "Body": "Possible scenarios (i think it cover all);\n\nEnkil Cog (only on the acting vampire) action + Mask of a Thousand Faces\nCannot be masked because;  Enkil Cog only provides the ability to act on another Methuselah's minion phase to the vampire it is on by card text \"this vampire can lock this card to take an action\". Mask of a Thousand Faces isn\u00B4t playable as the effect of Enkil Cog doesn't carry over to the masking vampire who fails the condition \"Only usable by a ... vampire ... who is capable of performing the action.\".   Enkil Cog (both vampires having one) action + Mask of a Thousand Faces\nCannot be masked because;  Same reasons as for nr 1 Enkil Cog cannot be used during another action as it declares an action.  ** overlooked Enkil Cog is unique. Enkil Cog (only on the acting non-Malkavian vampire) action + Mask of a Thousand Faces (by a Malkavian while Madness Network is in play)\nCannot be masked because;  Enkil Cog only provides its effect to the vampire it is on by card text \"this vampire can ...\". Mask of a Thousand Faces isn\u00B4t playable as the effect of Enkil Cog doesn't carry over to the masking vampire who fails the condition \"Not usable if any ... effects have been used that could not have been used if this vampire were the acting vampire.\". Even though Enkil Cog and Madness Network provide a similar ability to act during other Methuselah\u00B4s minion phase they are NOT the same effect in regards to the condition of Mask of a Thousand Faces.   Madness Network (only acting is Malkavian) action + Mask of a Thousand Faces\nCannot be masked because;  Madness Network while in play only grant Malkavians the ability to act during other Methuselahs minion phase by card text \"Malkavians can take actions in any Methuselah's minion phase\". Mask of a Thousand Faces isn\u00B4t playable as the effect of Madness Network doesn't carry over to the masking vampire who fails the condition \"Only usable by a ... vampire ... who is capable of performing the action.   Madness Network (only acting is Malkavian) action + Mask of a Thousand Faces (by a vampire with Enkil Cog)\nCannot be masked because;  Same reasons as for nr 4. Enkil Cog cannot be used during another action as it declares an action.   Madness Network (both being Malkavian) action + Mask of a Thousand Faces\nCan be masked because;  Madness Network while in play provides all Malkavians the inherent ability to be allowed to act during other Methuselah\u00B4s minion phases. The conditions of Mask of a Thousand Faces can be fully met.\n\nEnkil Cog\n\nCardtype: Action Modifier\nUnique. Requires a vampire with capacity 10 or more. Only usable after resolution of a successful bleed against your prey.\nPut this card on this vampire. This vampire gets +1 bleed. During any Methuselah's minion phase, this vampire can lock this card to take an action.\n\nMadness Network\n\nCardtype: Master\nClan: Malkavian\nUnique master.\nPut this card in play. Unlocked Malkavians can take actions in any Methuselah's minion phase (follow normal sequencing rules). Any minion can burn this card as an action that any unlocked Malkavian (in addition to the normally eligible blockers) can attempt to block.\n\nMask of a Thousand Faces\n\nCardtype: Action Modifier\nDiscipline: Obfuscate\nOnly usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\nAs above, with +1 stealth.",
+      "Id": "105209"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 8, 2022, 8:12\u202FAM",
+      "Body": "> Oshi wrote:\n> If you wanted to be pedantic you could argue that no vampires are capable of performing an action while another vamp is acting. \"able to currently act\" as a condition would render mask non functional.\n> .\n>\nThe text \"Only usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action.\" only refers to the ability to be able to perform the action it would modify and doesn\u00B4t make any reference about acting during another action which is enabled by the nature of that the card is an action modifier... that would lead not to taking a new action during another action but to take over the modified action.",
+      "Id": "105210"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 8, 2022, 8:45\u202FAM",
+      "Body": "> inm8 wrote:\n> Possible scenarios (i think it cover all);\n> Enkil Cog (both vampires having one) action + Mask of a Thousand Faces\n>\nEnkil Cog is unique.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105211"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 8, 2022, 8:57\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > Possible scenarios (i think it cover all);\n> > Enkil Cog (both vampires having one) action + Mask of a Thousand Faces\n> >\n> Enkil Cog is unique.\n>\nOverlooked the obvious, updated the scenarios",
+      "Id": "105213"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 8, 2022, 11:48\u202FAM",
+      "Body": "> Oshi wrote:\n> I suspect the answer is going to be \"No\" but it's worth getting it in black and white.\n>\n> Can a out-of-turn Enkil cog action be modified by Mask of a thousand faces?\n>\nNo. No other vampire can make usage of Enkil Cog.\n\n> Is being able act during the current turn part of being \"capable of performing the action\"\n>\nYes.\n\n> Hobbesgoblin wrote:\n> Folloup question, for more edgcecases: If there is a \"Malkavian Madness network\" in play, could a Malkavian (of the same controller) take over the action with mask of a thousand faces, of a minion acting via enkil cog?\n>\nNo. It's an action permitted by Enkil Cog. Only the vampire attached to Enkil Cog can use it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105215"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 8, 2022, 11:52\u202FAM",
+      "Body": "> inm8 wrote:\n> Possible scenarios (i think it cover all);\n> 6. Madness Network (both being Malkavian) action + Mask of a Thousand Faces\n>\nYes, that's the only scenario where a vampire can mask another vampire's out-of-turn action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105216"
+    }
+  ]
+}

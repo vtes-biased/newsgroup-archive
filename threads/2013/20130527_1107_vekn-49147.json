@@ -1,0 +1,158 @@
+{
+  "ThreadId": "vekn-49147",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/49147-outdated-rulings",
+  "Title": "Outdated rulings",
+  "Messages": [
+    {
+      "Author": "drnlmza",
+      "Date": "May 27, 2013, 11:07\u202FAM",
+      "Body": "The Mehemet ruling, discussed  here , is still on the list of rulings.\n\nThere's also this rather interesting ruling on Dragos:\n\n> LSJ wrote:\n> If Dragos's opponent plays superior Terror Frenzy, Dragos has to burn one blood for each combat card he plays in that combat.\n>\nHowever, Terror Frenzy now explicitly changes card cost (as mentioned under the rulings under Terror Frenzy), so I can't see how this ruling applies anymore (and if it does, some new justification is needed, I feel).\n\nPsyche's now played in combat, so the \"The superior is played after combat ends, even though the card is a combat card.\" ruling looks outdated.\n\nLikewise, the \"the superior can be played before or after replacing any \"Do Not Replace Until After Combat\" cards.\" ruling on Psyche no longer applies.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "49147"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "May 27, 2013, 4:39\u202FPM",
+      "Body": "Pascal: Can you confirm this so that I can update the files?\n\nV:EKN Website Coordinator",
+      "Id": "49154"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 31, 2013, 11:08\u202FAM",
+      "Body": "I was without Internet this week, but fixing the Rulings is part of what I started doing before (some rulings from this website have been added to the list).",
+      "Id": "49305"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Jul 29, 2013, 1:10\u202FPM",
+      "Body": "Hello Pascal,\n\nIs the Terror Frenzy / Dragos ruling still active?\n\nHe still needs to pay 1 blood for the cards in this case?\n\nAnd Claudio Severino? If he learns superior Animalism, and plays TF at superior,\nWould Dragos need to pay 2 blood for each combat card?\n\nThank you!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "52448"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 29, 2013, 1:17\u202FPM",
+      "Body": "> Roberto wrote:\n> Hello Pascal,\n>\n> Is the Terror Frenzy / Dragos ruling still active?\n>\n> He still needs to pay 1 blood for the cards in this case?\n>\n> And Claudio Severino? If he learns superior Animalism, and plays TF at superior,\n> Would Dragos need to pay 2 blood for each combat card?\n>\n> Thank you!\n>\nSee latest cardtext.\n\nName: Terror Frenzy\n[Sabbat:R, SW:R, FN:PR, CE:PN, LoB:PG]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Animalism\nFrenzy.\n[ani] Only usable before range is determined on the first round. During this combat, the opposing minion cannot use maneuvers to maneuver to close range, cannot use presses to continue combat and cannot use equipment.\n[ANI] Only usable before range is determined. Combat cards cost the opposing vampire an additional blood this combat. A vampire may play only one Terror Frenzy at superior each combat.\n\nName: Dragos\n[Sabbat:V, SW:PT]\nCardtype: Vampire\nClan: Tzimisce\nGroup: 2\nCapacity: 7\nDiscipline: vic ANI AUS\nSabbat: Dragos does not have to burn blood to pay the cost of combat cards he plays.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "52453"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Jul 29, 2013, 1:52\u202FPM",
+      "Body": "So he doesn't pay...\n\nThank you!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "52456"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Jul 29, 2013, 4:55\u202FPM",
+      "Body": "Pascal can you give us a final reply about Dragos and Terror Frenzy or modify/delete the old rules?\n\nWe have a player that can't accept the fact of the Terror Frenzy text changes and want to play based on old rules.\n\nThanks\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "52470"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 29, 2013, 5:27\u202FPM",
+      "Body": "> Sydnelson wrote:\n> Pascal can you give us a final reply about Dragos and Terror Frenzy or modify/delete the old rules?\n>\nThe ruling was declared obsolete in 2009, though LSJ didn't get round to updating the rulings file. (It appeared that after the White Wolf website moved to a PHP driven thing, LSJ no longer had the direct ability to update the website, so updates were much slower.)\n\n[LSJ 20090107]\n>\n> LSJ wrote:\n> > {Dragos:\n> > If Dragos's opponent plays superior Terror Frenzy, Dragos has to burn\n> > one blood for each combat card he plays in that combat. [LSJ\n> > 19990223] }\n> >\n> > And since\n> >\n> > {Terror Frenzy:\n> > Superior Terror Frenzy affects card costs. [LSJ 20070829] }\n> >\n> > Dragos no longer (again) has to pay the combat cards cost or\n> > additional card costs...\n> >\n> ...\n> I'll remove the obsolete ruling above. Let me know if you find any other\n> obsolete rulings there.\n>\nLSJ also ruled on this in 2007.  [LSJ 20070829]\n>\n> LSJ wrote:\n> > If so, Dragos, for example, won't have to pay the extra blood of\n> > Terror Frenzy (as explicited in the 7/7/7 RTR), but he still has to\n> > burn blood for effects like superior Chiropteran Marauder.\n> Correct.\n>",
+      "Id": "52471"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 31, 2013, 1:44\u202FPM",
+      "Body": "Correct answers from Ankha and jamesatzephyr.\n\nIf Dragos plays Telepathic tracking, the cost of that card is 0 blood, regardlessly of whether the opposing vampire played a Terror Frenzy or not.",
+      "Id": "52561"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Jul 31, 2013, 1:52\u202FPM",
+      "Body": "Perfect , thank you Pascal.\n\nRegards!\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "52562"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Jul 31, 2013, 2:09\u202FPM",
+      "Body": "> Pascal wrote:\n> Correct answers from Ankha and jamesatzephyr.\n>\n> If Dragos plays Telepathic tracking, the cost of that card is 0 blood, regardlessly of whether the opposing vampire played a Terror Frenzy or not.\n>\nThanks for reply, I will forward this to local list.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "52563"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 31, 2013, 4:30\u202FPM",
+      "Body": "> Pascal wrote:\n> Correct answers from Ankha and jamesatzephyr.\n>\n> If Dragos plays Telepathic tracking, the cost of that card is 0 blood, regardlessly of whether the opposing vampire played a Terror Frenzy or not.\n>\nDoes it really reduce the card cost? How many blood would Watenda have to pay to cancel it?\n\nName: Watenda\nCardtype: Vampire\nClan: Malkavian\nGroup: 2\nCapacity: 3\nDiscipline: obf\nCamarilla: Once each combat, Watenda can cancel the effect of a combat card the opposing minion plays by burning an amount of blood equal to the blood or pool cost of the card. If the card is a strike card, the opposing minion chooses a new strike.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "52567"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Aug 2, 2013, 8:25\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Pascal wrote:\n> > Correct answers from Ankha and jamesatzephyr.\n> >\n> > If Dragos plays Telepathic tracking, the cost of that card is 0 blood, regardlessly of whether the opposing vampire played a Terror Frenzy or not.\n> >\n> Does it really reduce the card cost? How many blood would Watenda have to pay to cancel it?\n>\nTerror Frenzy increases the cost, so Telepathic Tracking would have a cost of 2 blood, which Dragos would not pay.\n\nWatenda would have to pay the 2 blood to cancel the card.",
+      "Id": "52634"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 2, 2013, 9:58\u202FAM",
+      "Body": "I know, but Pascal wrote the opposite:)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "52639"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 7, 2013, 3:49\u202FAM",
+      "Body": "Ah, yes, sorry for that. I was looking a bit in the future.\nTelepathic Tracking's cost would, in this case, be 2 blood, of which Dragos pays none.",
+      "Id": "52813"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Aug 7, 2013, 5:31\u202FPM",
+      "Body": "> Adonai wrote:\n>\n> > Ankha wrote:\n> >\n> > > Pascal wrote:\n> > > Correct answers from Ankha and jamesatzephyr.\n> > >\n> > > If Dragos plays Telepathic tracking, the cost of that card is 0 blood, regardlessly of whether the opposing vampire played a Terror Frenzy or not.\n> > >\n> > Does it really reduce the card cost? How many blood would Watenda have to pay to cancel it?\n> >\n> Terror Frenzy increases the cost, so Telepathic Tracking would have a cost of 2 blood, which Dragos would not pay.\n>\n> Watenda would have to pay the 2 blood to cancel the card.\n>\nMoot point given Watenda don't have  anyway.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "52845"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 8, 2013, 3:39\u202FAM",
+      "Body": "> Lech wrote:\n> Moot point given Watenda don't have  anyway.\n>\nNot even with two Animalism skills?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "52859"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Aug 8, 2013, 9:43\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Lech wrote:\n> > Moot point given Watenda don't have  anyway.\n> >\n> Not even with two Animalism skills?\n>\nIf skill cards (and equivalent) and clan impersonation (mostly to malkavian) hadn't existed, ruling would have been boring...\n\n(just asking : is \"didn't existed\" correct?)",
+      "Id": "52865"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 8, 2013, 10:33\u202FAM",
+      "Body": "> Timo wrote:\n> If skill cards (and equivalent) and clan impersonation (mostly to malkavian) hadn't existed, ruling would have been boring...\n>\nAlso, Madness Network ruining all your assumptions about whose turn it is.\n\n> Timo wrote:\n> (just asking : is \"didn't existed\" correct?)\n>\nAssuming you mean grammatically...\n\n\"If skill cards didn't exist\" - perfectly normal English.\n\"If skill cards hadn't existed\" - perfectly normal English, though may suggest they don't exist anymore. (e.g. \"If the Romans hadn't existed, then Europe would have...\")\n\"If skill cards didn't existed\" - not English like what she is spoked by natives (and the Queen), but everyone should understand you.",
+      "Id": "52866"
+    },
+    {
+      "Author": "alf",
+      "Date": "Aug 9, 2013, 3:34\u202FAM",
+      "Body": "sorry\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "52915"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Jun 12, 2014, 7:55\u202FPM",
+      "Body": "> drnlmza wrote:\n> The Mehemet ruling, discussed  here , is still on the list of rulings.\n>\n> There's also this rather interesting ruling on Dragos:\n>\n> > LSJ wrote:\n> > If Dragos's opponent plays superior Terror Frenzy, Dragos has to burn one blood for each combat card he plays in that combat.\n> >\n> However, Terror Frenzy now explicitly changes card cost (as mentioned under the rulings under Terror Frenzy), so I can't see how this ruling applies anymore (and if it does, some new justification is needed, I feel).\n>\n> Psyche's now played in combat, so the \"The superior is played after combat ends, even though the card is a combat card.\" ruling looks outdated.\n>\n> Likewise, the \"the superior can be played before or after replacing any \"Do Not Replace Until After Combat\" cards.\" ruling on Psyche no longer applies.\n>\nThis cost isn't retroactive for Terror Frenzy at ANI is it? If I play flesh of marble and then my opponent plays Terror Frenzy, I don't have to pay for flesh of marble do I?\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "63118"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 12, 2014, 8:20\u202FPM",
+      "Body": "> brandonsantacruz wrote:\n>\n> > drnlmza wrote:\n> >\n> > > LSJ wrote:\n> > > If Dragos's opponent plays superior Terror Frenzy, Dragos has to burn one blood for each combat card he plays in that combat.\n> > >\n> > >\n> > However, Terror Frenzy now explicitly changes card cost (as mentioned under the rulings under Terror Frenzy), so I can't see how this ruling applies anymore (and if it does, some new justification is needed, I feel).\n> >\n> This cost isn't retroactive for Terror Frenzy at ANI is it? If I play flesh of marble and then my opponent plays Terror Frenzy, I don't have to pay for flesh of marble do I?\n>\nIt's not, and never has been.\n\nUnder the old wording, you played a card, and that card might have a cost (which Dragos didn't pay). Then you also burned a blood, which Dragos did do, like everyone else. But that applied only to cards that were played after Terror Frenzy had been played. So, Dragos (acting) played Carrion Crows, and passed the impulse to the opponent who played Terror Frenzy, and then the impulse goes back to Dragos who thinks \"Bugger\" and plays Pack Alpha, for which he burns one blood (due to Terror Frenzy). No-one burns any additional burn for the earlier Carrion Crows.\n\nUnder the newer wording, acting vampire plays Carrion Crows and passes the impulse. Reacting vampire plays Terror Frenzy. Acting vampire Pack Alpha, and Pack Alpha now costs 1 blood. If that vampire is Dragos, he ignores the cost (and so plays it for free). Other vampires would pay 1 blood for it. No-one would burn any blood to pay for the earlier Carrion Crows.",
+      "Id": "63119"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 13, 2014, 9:45\u202FAM",
+      "Body": "I note that all these obselete rulings are still listed here. It would be really nice if we could get that cleaned up a bit.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "63120"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jun 15, 2014, 9:31\u202FAM",
+      "Body": "I'm sure that if you list each of these someone is bound to remove them way quicker that way...\n\nFinnish  Politics!",
+      "Id": "63135"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 15, 2014, 10:34\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> I'm sure that if you list each of these someone is bound to remove them way quicker that way...\n>\nPlease see the post that started this thread.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "63137"
+    }
+  ]
+}

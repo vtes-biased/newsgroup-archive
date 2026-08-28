@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-82903",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82903-psyche-and-telepathic-tracking-the-sequel",
+  "Title": "Psyche and Telepathic Tracking - the sequel",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Mar 18, 2026, 1:26\u202FAM",
+      "Body": "With the new wording on Psyche, does the current ruling that \"would end\" (TT) comes before \"is about to end\" still stand?\nref: www.vekn.net/forum/rules-questions/76990-correct-order-impulse-for-combat-cards-after-combat?start=0#90516 specifically the bit at the end, both the unstruck and sturck out bits\n\nI am looking at the clarification of Freak Drive vs Cat's Guidance vs continue action, where they are all within the same window and as card effects change game state, certain cards become playable/unplayable by card text\n\nWould that same logic extend to the \"end of round\" combat step?\ni.e. \"would end\" and \"is about to end\" are both in the \"end of round\" step and playing TT would preclude Psyche but playing Psyche would not preclude TT?\n\nref: Discord discussion on Psyche vs Telepathic Tracking (discord.com/channels/887471681277399091/1437495305317912748 and discord.com/channels/887471681277399091/1483606840506843166)\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116697"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 18, 2026, 6:51\u202FAM",
+      "Body": "> the1andonlime wrote:\n> With the new wording on Psyche, does the current ruling that \"would end\" (TT) comes before \"is about to end\" still stand?\n>\n? Psyche is still played \"when combat is about to end\".\n\n> the1andonlime wrote:\n> I am looking at the clarification of Freak Drive vs Cat's Guidance vs continue action, where they are all within the same window and as card effects change game state, certain cards become playable/unplayable by card text\n>\n> Would that same logic extend to the \"end of round\" combat step?\n> i.e. \"would end\" and \"is about to end\" are both in the \"end of round\" step and playing TT would preclude Psyche but playing Psyche would not preclude TT?\n>\n\"if X would happen, Y happens instead\" is a replacement effect.\nSince it replaces X with Y, a) it is played before X \"is about to\" happen and b) X never happens.\nThat's why Telepathic Tracking (replacement effect) is played before Psyche! and prevents Psyche! from being played.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116701"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Mar 18, 2026, 9:21\u202FAM",
+      "Body": "I understand but taking into consideration that most players are unlikely to spot the implications of \"would\" vs \"is about to\", would you consider changing the ruling so that they are both played in the same window (and have game state dictate the situation) rather than having them effectively in 2 separate micro-windows?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "116702"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 18, 2026, 6:00\u202FPM",
+      "Body": "To second this: The \"gamestate approach\" would also make it easier to understand / more logical, why you can play Taste before or after Telepathic Tracking / Psyche - but those two cards are restricting each other.",
+      "Id": "116704"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 20, 2026, 4:45\u202FAM",
+      "Body": "Am I the only person who thinks that trying to separate \"about to end\" from \"would end\" as individual timing steps is completely idiotic? And all the other myriad sentence structures that are part of natural speech but are supposed to be used for defining ruling purposes? Meanwhile the game is translated to languages other than english? Idiotic.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "116714"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 20, 2026, 8:43\u202FAM",
+      "Body": "> the1andonlime wrote:\n> I understand but taking into consideration that most players are unlikely to spot the implications of \"would\" vs \"is about to\", would you consider changing the ruling so that they are both played in the same window (and have game state dictate the situation) rather than having them effectively in 2 separate micro-windows?\n>\nNo, as it would break a lot of things.\nThe game uses a lot of replacement effects.\nThe game uses a lot of trigger effects.\nThe former must have precedence over the latter, otherwise it just doesn't work.\n\nAn option would be to change Psyche! or TT so they both use replacement effects, but that's not how the cards were designed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116717"
+    }
+  ]
+}

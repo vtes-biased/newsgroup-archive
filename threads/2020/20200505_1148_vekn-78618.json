@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-78618",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78618-draba-0-stealth-action",
+  "Title": "Draba 0 stealth action",
+  "Messages": [
+    {
+      "Author": "hayakawa74",
+      "Date": "May 5, 2020, 11:48\u202FAM",
+      "Body": "Hi there,\n\nI have a question about Draba. I cannot play Draba for an action with 0 stealth, because I am not reducing. Is it correct?\n\nRelevant Card Text\n\nName: Draba\n[FN:C2]\nCardtype: Action/Reaction\nCost: 1 blood\nDiscipline: Chimerstry\n[CHI] Reduce the acting minion's stealth to 0. The minion may still increase his or her stealth.",
+      "Id": "99753"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 5, 2020, 1:47\u202FPM",
+      "Body": "groups.google.com/d/msg/rec.games.trading-cards.jyhad/NOBWXWrd-vA/6GQiKEEhppUJ\n\n> Draba or Veiled Sight vs. Mask of a Thousand Faces (REVERSAL): The stealth\n> reduction of Draba and Veiled Sight carries over at the same level as before\n> the mask. The two effects can be treated as equivalent to \"-X stealth\" where\n> X is (was) the current amount of stealth of the action, with the X unchanged\n> by the play of the mask.\n>\nYou can always play Draba.\n\nYou can play it to give the acting minion -0 stealth (leaving it unchanged).\n\nHowever, Draba will not increase the stealth (if the acting minion had negative stealth to start with).\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/-J07wvmidOA/gPQ5ngEZ6HcJ\n\n> LSJ wrote:\n> Draba followed by Ignis results in the minion having -1 stealth (unless\n> he had less than 0 stealth to start with, so that Draba had no effect).\n>\n> Ignis followed by Draba results in the minion having 0 stealth (unless he\n> had 0 or less stealth to start with, so that the Draba had no effect and just\n> left him with negative stealth).\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99754"
+    }
+  ]
+}

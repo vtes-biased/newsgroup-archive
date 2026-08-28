@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-79689",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79689-peacemaker-vs-talbot-s-chainsaw",
+  "Title": "Peacemaker vs. Talbot's Chainsaw",
+  "Messages": [
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 10, 2022, 6:27\u202FAM",
+      "Body": "If a vampire successfully blocks a minion using Talbot's Chainsaw to enter combat and plays Peacemaker at , what happens now that the acting minion is unable to use weapons?\n\nTalbot's Chainsaw\n\nWarning: Spoiler!\n\nCardtype: Equipment\nCost: 3 pool\nUnique weapon.\nStrike: 3 damage. If the bearer is ready during your unlock phase, this weapon inflicts 3 unpreventable damage on a ready minion you control. The bearer cannot hunt. The bearer can enter combat with a minion as a +1 stealth  action. The bearer gets 1 press (mandatory), only usable to continue combat during the first round, and can prevent 1 damage each combat.\n\nPeacemaker\n\nWarning: Spoiler!\n\nCardtype: Reaction\nDiscipline: Obeah/Presence\nOnly usable by a vampire who successfully blocks a  action directed at you (play before combat).\nCancel combat. The action continues as if unblocked. For the remainder of this action, all minions get -1 bleed and -1 strength.\nAs  above, and unlock this blocking vampire at the end of the action.\nAs  above, but all minions get -2 bleed and -2 strength and cannot use weapons.",
+      "Id": "104777"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 10, 2022, 7:12\u202FAM",
+      "Body": "The action to enter combat with the minion that played Peacemaker \"continues\" and the Talbot's Chainsaw cannot be used to strike, to press nor to prevent damage and the acting minion has -2 bleed and -2 strength.\n\nThe action being able to continue is not dependent on the usage of the weapon as the action is already played/declared.",
+      "Id": "104778"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 10, 2022, 8:13\u202FAM",
+      "Body": "Actually, it seems not so simple :\n\nif you enter combat with a nose of the hound at  and the target plays a reaction to unlock, the action fizzle.\n\nName: Nose of the Hound\n\nWarning: Spoiler!\n\n[BL:C2, LoB:C]\nCardtype: Action\nDiscipline: Spiritus/Auspex\n+1 stealth action.\n[aus]  Enter combat with a ready locked minion controlled by another Methuselah. This acting minion gets an optional maneuver in that combat.\n[spi] As [aus] above, with an additional optional maneuver during that combat.\n[SPI] As [spi] above, but enter combat with any ready minion controlled by another Methuselah.\nArtist: Mike Danza\n\nI agree that the case is not the same because it is not the target which became illegal but the action itself.\n\nSimilarly, we could imagine a sabbat vampire who have a writ of acceptance and a praxis of any city and the writ is no longer on them before the resolution of a parity shift. (for example a block, a canine horde to burn the writ and a form of mist)\n\nName: Writ of Acceptance\n\nWarning: Spoiler!\n\n[AH:C2, Tenth:B]\nCardtype: Equipment\nEquipment.\nThe vampire with this equipment is considered a Camarilla vampire.\nArtist: Steve Casper\n\nI would rule that the parity shift now fizzle.\n\nBut there could be some hidden interaction with the way action are done.\n\nAnkha ?\n\nEDITH :\nI went here to check if it was answered and it was :\nwww.vekn.net/forum/rules-questions/79001-the-question-of-the-month-action-fizzles#104680\n\n> An action that fizzles is a successful action (= not blocked) whose effects cannot be applied because:\n> 1/ the target (or ALL the targets) has become illegal during the course of the action\n> 2/ things happened during the course of the action that prevent the action from happening*\n> 3/ the cost of the action cannot be paid anymore\n>\n> So, if the action is successful, one needs to check points 1 and 2. If the action fizzles because of 1/ or 2/, the action is not paid.\n> If the action fizzles because of 3/, the acting minion must pay as much as possible, and the action fizzles.\n>\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/V3uIITe1wug/m/P-WH48zhoc8J\n>\n> *: for instance, the minion with a Bomb uses the Bomb action to burn a location, but doesn't have the Bomb anymore upon resolution.\n>\nthe bomb parallel make it so IMO.",
+      "Id": "104779"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 10, 2022, 8:18\u202FAM",
+      "Body": "The continued action fizzles (assuming it isn't blocked again) at action resolution as the weapon providing the action cannot be used.\n\nI'm equating the inability to use the equipment to the equipment have been destroyed.\n[LSJ 20050805]\n[RTR 19960221]",
+      "Id": "104780"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 10, 2022, 5:07\u202FPM",
+      "Body": "My assumption was \"fizzle,\" but I couldn't find a compelling corollary example. I think your [LSJ 20050805] link is a good base case for this.\n\nI'd still like to get Ankha's confirmation. Just to be sure.",
+      "Id": "104791"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Mar 10, 2022, 7:56\u202FPM",
+      "Body": "Sorry, but I didn\u2019t get a question. If someone uses Talbot Chainsaw  ability, blocking minion cannot use pacemaker because action was directed to the minion and not you.\n\nAnd assuming hypothetical situation when minion can use pacemaker, I don\u2019t remember anything in the rules preventing minion use hand strikes in combat in that case.",
+      "Id": "104792"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 10, 2022, 9:13\u202FPM",
+      "Body": "> Legion wrote:\n> Sorry, but I didn\u2019t get a question.\n>\nThe question is whether the D action to enter combat can be continued or not and or if it fizzles after that superior Peacemaker has been played\n\n> Legion wrote:\n> If someone uses Talbot Chainsaw  ability, blocking minion cannot use pacemaker because action was directed to the minion and not you.\n>\nPeacemaker can be used. An action against you, something of yours or a minion controlled by you is all considered against \u201Cyou\u201D. See the thread www.vekn.net/forum/rules-questions/79629-ponticulus-d-actions-vs-you#104614\n\n> Legion wrote:\n> And assuming hypothetical situation when minion can use pacemaker, I don\u2019t remember anything in the rules preventing minion use hand strikes in combat in that case.\n>\nQuestion isn\u2019t about if the minion can strike with hands. It\u2019s about whether it gets to combat at all.",
+      "Id": "104795"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Mar 11, 2022, 7:08\u202FAM",
+      "Body": "Thanks, Now I got it.",
+      "Id": "104796"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 23, 2022, 1:39\u202FPM",
+      "Body": "> inm8 wrote:\n> The continued action fizzles (assuming it isn't blocked again) at action resolution as the weapon providing the action cannot be used.\n>\n> I'm equating the inability to use the equipment to the equipment have been destroyed.\n> [LSJ 20050805]\n> [RTR 19960221]\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104852"
+    }
+  ]
+}

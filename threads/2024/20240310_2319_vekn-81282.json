@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-81282",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81282-valerius-maior-hell-s-fool",
+  "Title": "Valerius Maior, Hell's Fool",
+  "Messages": [
+    {
+      "Author": "Bhobbit",
+      "Date": "Mar 10, 2024, 11:19\u202FPM",
+      "Body": "Evening, guys.\n\nLucian, the Perfect, for example, bleeds his prey and uses +2 stealth. The bleed is redirected to me (Lucian's methuselah predator). I have two vampires available for blocking, but only one of them has enough intercept to do it. One of my vampires is Valerius Maior, Hell's Fool. On purpose, I say that Valerius tries to block, even without having or playing any intercept on him during the action, just to activate his power. He announces trying to block, but fails, leaving Lucian unable to increase stealth with Obfuscation, correct? So, I can block with the other vampire without any problems.\n\nThe question is: If an action already has stealth, does Valerius must have/play intercept on him for his \"attempts to block\" text to work?\n\nThanks.",
+      "Id": "110866"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Mar 11, 2024, 5:41\u202FAM",
+      "Body": "You don't block with both minion at the same time. The moment you start blocking with another minion Valerius is not attempting anymore.",
+      "Id": "110867"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 11, 2024, 7:19\u202FAM",
+      "Body": "> Bhobbit wrote:\n> Evening, guys.\n>\n> Lucian, the Perfect, for example, bleeds his prey and uses +2 stealth. The bleed is redirected to me (Lucian's methuselah predator). I have two vampires available for blocking, but only one of them has enough intercept to do it. One of my vampires is Valerius Maior, Hell's Fool. On purpose, I say that Valerius tries to block, even without having or playing any intercept on him during the action, just to activate his power. He announces trying to block, but fails, leaving Lucian unable to increase stealth with Obfuscation, correct? So, I can block with the other vampire without any problems.\n>\nInteresting use of Valerius, per card text the effect \"cannot play action modifiers [...] \" is not worded to only apply while Valerius is the one attempting to block...\n\nAnkha please confirm that Valerius\u00B4 effect continues to affect the acting even after Valerius fails the attempt to block, thanks.\n\n> Bhobbit wrote:\n> The question is: If an action already has stealth, does Valerius must have/play intercept on him for his \"attempts to block\" text to work?\n>\nNo, a block being attempted is its own effect which doesn\u00B4t depend on stealth and intercept levels.",
+      "Id": "110868"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 11, 2024, 9:01\u202FAM",
+      "Body": "> Bhobbit wrote:\n> Evening, guys.\n>\n> Lucian, the Perfect, for example, bleeds his prey and uses +2 stealth. The bleed is redirected to me (Lucian's methuselah predator). I have two vampires available for blocking, but only one of them has enough intercept to do it. One of my vampires is Valerius Maior, Hell's Fool. On purpose, I say that Valerius tries to block, even without having or playing any intercept on him during the action, just to activate his power. He announces trying to block, but fails, leaving Lucian unable to increase stealth with Obfuscation, correct?\n>\nCorrect.\nValerius' effect triggers as soon as he is attempting to block, and lasts until the end of the action (his cardtext is not \"while Valerius is attempting to block...\", it's a trigger).\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/vet0HGRxtXQ/m/gRJalPv4lLoJ\n\n> Bhobbit wrote:\n> The question is: If an action already has stealth, does Valerius must have/play intercept on him for his \"attempts to block\" text to work?\n>\nNo. You can attempt to block with minions lacking intercept (otherwise, you wouldn't be able to add intercept). And you MUST declare block attempts before adding intercept.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110869"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Mar 11, 2024, 10:52\u202FAM",
+      "Body": "> Ankha wrote:\n> Correct.\n> Valerius' effect triggers as soon as he is attempting to block, and lasts until the end of the action (his cardtext is not \"while Valerius is attempting to block...\", it's a trigger).\n>\nEffect triggers as soon as he is attempting to block, but why doesn't it de-trigger when another minion start attempting and Valeruis subsequently not blocking anymore?\nRulebook:\nA minion can attempt to block as many times as they wish as long as another minion is not already blocking.",
+      "Id": "110870"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 11, 2024, 1:02\u202FPM",
+      "Body": "> smeeag wrote:\n>\n> > Ankha wrote:\n> > Correct.\n> > Valerius' effect triggers as soon as he is attempting to block, and lasts until the end of the action (his cardtext is not \"while Valerius is attempting to block...\", it's a trigger).\n> >\n> Effect triggers as soon as he is attempting to block, but why doesn't it de-trigger when another minion start attempting and Valeruis subsequently not blocking anymore?\n>\nWhy would it \"de-trigger\"? The effect is not conditional on the fact that Valerius is currently blocking.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110873"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 11, 2024, 1:44\u202FPM",
+      "Body": "> Ankha wrote:\n> Why would it \"de-trigger\"? The effect is not conditional on the fact that Valerius is currently blocking.\n>\nFurthermore, the effect is applied on the acting minion (that remains the same for the current action) and not on Valerius himself",
+      "Id": "110874"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Mar 11, 2024, 7:44\u202FPM",
+      "Body": "Then why does not effect stay on until the end of the turn / game?\nUnless duration is specified it seems reasonable to read \"if TEMPORARY CONDDITION then TEMPORARY EFFECT\" to last until temporary condition is present and not for some very arbitrary duration like action/turn/game.\n\nImo Valerius need text improvement or this template deserve standard explanation in the rulebook (like \"during x do y\").",
+      "Id": "110877"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Mar 11, 2024, 9:07\u202FPM",
+      "Body": "Valerius is still trying to block the action till a card played would say the block attempt fails and that minion cannot attempt to block again.\n\nSo, action at +1 stealth, Valerius tries to block at 0 intercept, minion B of Valerius' controller tries to block adding intercept. Note that Valerius hasn't declined to block or any card made his attempt to block to fail, technically he is still trying to block",
+      "Id": "110878"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Mar 11, 2024, 9:37\u202FPM",
+      "Body": ">Valerius is still trying to block\n\nNo he does not. Per rulebook I cited above you can try to attempt as many times as you want, even if you don't have enough cept, but you MUST (temporary) stop attempting by one minion to attempt to block with another one and that open the window if we assume Valerius special only work while he is attempting to block.\nAnd if we assume his special triggers once and works indefinitely even after he's not blocking, then my question is why it won't last until the end of the game and only until the end of the action.",
+      "Id": "110879"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 12, 2024, 6:52\u202FAM",
+      "Body": "> smeeag wrote:\n> Then why does not effect stay on until the end of the turn / game?\n>\nThe effect lasts for as long as the target is the acting vampire which is only as long as the duration of a given action.\n\n\"If Valerius attempts to block, the acting minion cannot play action modifier [...]\"",
+      "Id": "110881"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 12, 2024, 9:54\u202FAM",
+      "Body": "> smeeag wrote:\n> Then why does not effect stay on until the end of the turn / game?\n> Unless duration is specified it seems reasonable to read \"if TEMPORARY CONDDITION then TEMPORARY EFFECT\" to last until temporary condition is present and not for some very arbitrary duration like action/turn/game.\n>\n> Imo Valerius need text improvement or this template deserve standard explanation in the rulebook (like \"during x do y\").\n>\nI asked myself this same question and I thought about the +1 bleed modifier or +1 stealth/+1 intercept.\n\nNone of them says \"until end of action\" but it is still the case.\n\nWhen it is not, it is explicitely written :\n\n> Independent: During your unlock phase, you may burn a Caitiff you control to give Al-Muntaquim +1 bleed for the remainder of the game.\n>",
+      "Id": "110882"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Mar 12, 2024, 10:58\u202FAM",
+      "Body": "> Timo wrote:\n> I asked myself this same question and I thought about the +1 bleed modifier or +1 stealth/+1 intercept.\n>\n> None of them says \"until end of action\" but it is still the case.\n>\nRulebook tells action modifier effect lasts until the end of the action.\n>\n> Timo wrote:\n> The effect lasts for as long as the target is the acting vampire\n>\nIf effect is limited by acting minion being acting, then why doesn't it limited by Valerius being blocked? Valerius special has two requirements: him attempting to block (this is temporary status) and target being acting (also temporary status). Then why the first temporary status (attempting to block) duration does not matter (trigger once work even if status is not presented anymore), but for some reason second temporary status (being active) matters and remove the effect?\n\nI completely get the idea that this may be how the card is intended to work. My take is that card text does not reflect it in the clear way (to be read from card text and rulebook).",
+      "Id": "110883"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 12, 2024, 11:38\u202FAM",
+      "Body": "That the text could be more elaborate and more explicit it always can, but imo that doesn\u00B4t mean it isn\u00B4t clear as it currently is worded.\n\n> If Valerius attempts to block, the acting minion cannot play action modifier or combat cards that require Chimerstry or Obfuscate .\n>\n\"If Valerius attempts to block\" = condition when the effect would trigger, it is not a continues check kind of activation as for that it would need to be worded eg \"while Valerius attempts to block\"\n\n\"the acting minion cannot play action modifier or combat cards that require Chimerstry or Obfuscate .\" = the actual effect (that is a modifier type effect) applied on the acting minion, like all modifier effects they only last for the duration of the action that is being affected if not explicitly stated otherwise.",
+      "Id": "110889"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Mar 12, 2024, 1:08\u202FPM",
+      "Body": "> inm8 wrote:\n> that is a modifier type effect) applied on the acting minion, like all modifier effects\n>\nThat is not modifier type effect. That is effect without specified duration and that is why I assume it duration must be either limited by duration of triggering condition (\"while Valerius is attempting to block\") or it will last as long as we want it to be (end of action, turn, game...).\nSee Arnulf text which is similar:\n: If Arnulf attempts to block, the acting minion cannot play action modifier cards requiring Dementation, Dominate, Necromancy or Presence\nuntil the end of the action.",
+      "Id": "110890"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 12, 2024, 7:30\u202FPM",
+      "Body": "Whether you agree with it being a modifier type effect or not doesn\u00B4t change that it is, this because it affects the action as a whole and what can be done during the action by the acting and non-acting, the effect is similar to/no different than making an action eg unblockable.\n\nHere you have a ruling that makes it clear that modifier type effect can be sourced from other card types than action modifiers.\nwww.vekn.net/forum/rules-questions/80984-haqim-s-law-retribution-efect-during-combat?start=12#109917\n\nWith regards to the wording that you provide (\"until the end of the action.\") is part of the newer templating that has been added to be more explicit about how it works but is in no way changing the effect which was rules the same by LSJ,back at 2005, with the same reasoning that the card text doesn't state \"while Valerius is attempting to block\".\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/vet0HGRxtXQ/m/gRJalPv4lLoJ\n\nBelow is a card that uses the \"while\" format and functions as you are expecting.\n\nLibertas\n\nCardtype: Master\nCost: 1 pool\nRequires an Anarch.\nPut this card on an Anarch. Allies cannot block this Anarch. Cards requiring Dominate [dom] or Presence  cost other minions +1 blood while this Anarch is acting, attempting to block or in combat.",
+      "Id": "110896"
+    }
+  ]
+}

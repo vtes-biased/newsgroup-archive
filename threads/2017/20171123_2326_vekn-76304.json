@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-76304",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76304-question-about-timing-of-force-of-will-damage-and-heidelberg",
+  "Title": "Question about timing of Force of Will damage and Heidelberg",
+  "Messages": [
+    {
+      "Author": "mjvtes521",
+      "Date": "Nov 23, 2017, 11:26\u202FPM",
+      "Body": "How does the timing work for the agg damage from Force of Will and/or Daring the Dawn? Can you lock Heidelberg to move blood, etc. from an acting vampire after a Force of Will bleed resolves, right before you take the damage?\n\nFor example: Vamp A with 3 blood (and Soul Gem, obviously) bleeds with Force of Will at superior and plays Daring the Dawn at inferior. The bleed is successful, he pays 1 for Force of Will, the bleed resolves, leaving Vamp A with 2 blood and 3 unpreventable agg damage coming to him/her. Is there a window to lock Heidelberg to move the 2 blood (and retainers, equipment, etc.) from Vamp A to another ready vamp controlled by the same Methusaleh, BEFORE he/she takes and resolves the agg damage (effectively burning vamp A and triggering Soul Gem instead of sending him/her to torpor)? Here is relevant card text. Thanks for the help.\n\nForce of Will\nAction\n\nFortitude\n[1 Blood]\n\nOnly usable by a tapped vampire.\n[for]  Bleed with +1 bleed. After resolution, this vampire takes 2 unpreventable aggravated damage even if the action is blocked.\n[FOR] As above, but with +2 bleed, and the acting vampire takes only 1 unpreventable aggravated damage.\n\nDaring the Dawn\nAction Modifier\n\nFortitude\n\n[for] Vampires cannot block this action. The acting vampire takes 2 unpreventable aggravated damage after the action resolves.\n[FOR] As above, but the acting vampire takes 1 unpreventable aggravated damage.\n\nHeidelberg Castle, Germany\nMaster: unique location.\nTap to move blood, equipment cards and/or retainers between any two ready vampires you control. (You choose the amount of blood you move and which cards you transfer.) Cannot be used during an action.\n\nSoul Gem of Etrius\nEquipment\n\nUnique equipment.\nIf this vampire is burned, draw the top card from your crypt. If it is younger, put the Soul Gem on him or her and move him or her to your ready region with blood from the blood bank equal to his or her capacity; otherwise, move that card to your uncontrolled region (and burn the Soul Gem). If bearer is diablerized, the diablerizing vampire cannot take the Soul Gem.",
+      "Id": "84347"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Nov 24, 2017, 2:30\u202FAM",
+      "Body": "i would think the castles \"Cannot be used during an action\" would mean no.\n\nUntil the action is completely resolved, your'e still 'during the action' right?",
+      "Id": "84348"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Nov 24, 2017, 3:07\u202FAM",
+      "Body": "But you take the damage after action resolution, so I'm not sure if that is still during the action. Freak Drive is worded differently, (\"at the end of the action [after resolution]) for example. So it isn't entirely clear to me if the damage is taken during the action or after.\n\nFreak Drive\n\n[for] Only usable at the end of a successful action (after action resolution). Unlock this vampire.\n[FOR] As above, but usable even if the action is blocked, after combat (if any).",
+      "Id": "84349"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 24, 2017, 9:13\u202FAM",
+      "Body": "The damage is inflicted during the action. Heidelberg Castle can't be used during an action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84354"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 24, 2017, 10:26\u202FAM",
+      "Body": "> mjvtes521 wrote:\n> But you take the damage after action resolution, so I'm not sure if that is still during the action.\n>\nAction resolution is not the last part of an action. Think for example freak drive. It says its played after action resolution but its an action modifier, meaning its played during an action. There is this timing window after action resolution (not sure whats the official name) where these kind of cards are played.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "84355"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Nov 24, 2017, 5:10\u202FPM",
+      "Body": "You can play freak drive before taking the Force of Will damage though, right?",
+      "Id": "84356"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 25, 2017, 9:54\u202FAM",
+      "Body": "> mjvtes521 wrote:\n> You can play freak drive before taking the Force of Will damage though, right?\n>\nYes.  [LSJ 20010715]\n\nThe fact that you can isn't generally that crucial, because an acting vampire in torpor can still play action modifiers (e.g. someone trying to leave torpor can play Lost in Crowds). However, if you want to pay the blood for Freak Drive before taking the damage from FoW, you can, which may be useful in situations where you have effects that trigger on burning, such as Soul Gem.",
+      "Id": "84361"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 25, 2017, 12:22\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > mjvtes521 wrote:\n> > You can play freak drive before taking the Force of Will damage though, right?\n> >\n> Yes.  [LSJ 20010715]\n>\n> The fact that you can isn't generally that crucial, because an acting vampire in torpor can still play action modifiers (e.g. someone trying to leave torpor can play Lost in Crowds).\n>\nYep. If you go to torpor at the end of the action (or as a result of combat because you were blocked), you can still unlock with freak drive and try to come out of torpor on your own.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "84362"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Nov 25, 2017, 6:43\u202FPM",
+      "Body": "It's crucial in this example because if I play freak drive before taking the agg damage I burn instead of going torpor and the soul gem saves the day. Thanks guys!",
+      "Id": "84363"
+    }
+  ]
+}

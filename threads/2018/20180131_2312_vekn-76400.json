@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-76400",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76400-question-about-false-resonance",
+  "Title": "Question about False Resonance",
+  "Messages": [
+    {
+      "Author": "mjvtes521",
+      "Date": "Jan 31, 2018, 11:12\u202FPM",
+      "Body": "I apologize if this has been addressed already, or if it is just obvious, but I couldn't find an answer to it and it isn't obvious to me. My question is, if you play False Resonance at Superior in response to a reaction card that requires auspex being played, can you get the stealth and cancel that auspex card that was just played, or do you get +1 stealth now, and can only cancel an auspex reaction card played later in the action? In other words, do you need to play it at inferior to cancel a reaction card requiring auspex that was just played? Thanks.\n\nFalse Resonance\nAction Modifier\nChimerstry\n\n[1 Blood]\n\n[chi] Cancel a reaction card that requires Auspex [aus] or Dementation [dem] as it is played (no cost is paid).\n[CHI] +1 stealth, and once this action, this vampire can burn 1 blood to use the [chi] effect above.",
+      "Id": "85184"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Feb 1, 2018, 11:47\u202FAM",
+      "Body": "You can only play \"False Resonance\" at superior if you need the stealth (since at superior it's just a stealth modifier with an added option later on), so you have to use it at inf. if you want to cancel an auspex card.\n\nOnce you've used it at superior to get +1 stealth, it's too late to cancel auspex cards already played due to the \"as it is played\" window of the inferior effect.\n\n-1 Strength",
+      "Id": "85190"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 1, 2018, 1:43\u202FPM",
+      "Body": "> GreyB wrote:\n> You can only play \"False Resonance\" at superior if you need the stealth (since at superior it's just a stealth modifier with an added option later on), so you have to use it at inf. if you want to cancel an auspex card.\n>\n> Once you've used it at superior to get +1 stealth, it's too late to cancel auspex cards already played due to the \"as it is played\" window of the inferior effect.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85191"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 2, 2018, 2:25\u202FAM",
+      "Body": "You are making the assumption that the auspex card grants intercept. It does not have to be the case. The acting minion could be already needing stealth at the time the auspex card is played.",
+      "Id": "85198"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 2, 2018, 7:54\u202FAM",
+      "Body": "> Non-existant user wrote:\n> You are making the assumption that the auspex card grants intercept. It does not have to be the case. The acting minion could be already needing stealth at the time the auspex card is played.\n>\nDoesn't really matter what the effect is.\n\nAs per the rulebook (1.6.1), there are only two types of effects that can be used when the Auspex card is played - those that say they go in the \"as it is played\" window, and Wakes.\n\nAt inferior, False Resonance is one of those effects.\n\nAt superior, False Resonance is just a normal action modifier, that also happens to give you an effect you can use later as something is played. It isn't (at superior) a card that must go in the \"as it is played\" window like the inferior is, it's just a normal action modifier granting you stealth - and those don't go in the \"as it is played\" window. As such, at superior it can't played in the \"as it is played\" window.",
+      "Id": "85200"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Feb 2, 2018, 10:04\u202FAM",
+      "Body": "> Non-existant user wrote:\n> You are making the assumption that the auspex card grants intercept. It does not have to be the case. The acting minion could be already needing stealth at the time the auspex card is played.\n>\nI did not make this assumption at all\n\nIf the acting minion used the stealth from the superior effect, you cannot use it to cancel an already played auspex card, only an auspex cards that follows.\n\nExample:\n- Minion bleeds\n- Carna (+1 intercept) uses an eyes of argus to untap and block.\n- Acting minion plays False Resonance at superior.\n- Acting minion gets +1 stealth, but can NOT cancel the eyes of argus since it missed the 'as it is played window', acting player chose to get the `+1 stealth and cancel an auspex card later option`.\n- Acting minion is blocked.\n\nIn the above example, you need to play False Resonance at inferior to immediatly cancel Eyes of Argus.\n\n-1 Strength",
+      "Id": "85202"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 2, 2018, 1:18\u202FPM",
+      "Body": "> GreyB wrote:\n> I did not make this assumption at all\n>\nYes you did, when you said this:\n>\n> You can only play \"False Resonance\" at superior if you need the stealth (since at superior it's just a stealth modifier with an added option later on), so you have to use it at inf. if you want to cancel an auspex card.\n>\n\"Needing the stealth\" has nothing to do with timing, (and indeed, nothing to do with the question at hand), it just means that during the action the acting minion has less stealth than the blocking minion's intercept. We know that from the Form of Mist ruling.\n\nMy point is: if the justification was that that you cannot play False Resonance like that because you don't need the stealth, then there would be situations when you can. therefore it is not a valid justification.\n\n> Example:\n> - Minion bleeds\n> - Carna (+1 intercept) uses an eyes of argus to untap and block.\n> - Acting minion plays False Resonance at superior.\n> - Acting minion gets +1 stealth, but can NOT cancel the eyes of argus since it missed the 'as it is played window', acting player chose to get the `+1 stealth and cancel an auspex card later option`.\n> - Acting minion is blocked.\n>\nAgain, that is not a generic example enough, because in the cancel window of Eyes of Argus, Carna is not yet blocking and the acting minion does not need +1 Stealth.\n\nTry this: a random  anarch attempts to block with enough intercept and plays Netwar.\n\nNetwar\nReaction\n\nRequires an anarch.\nLook at the acting Methuselah's hand.\n\nIn that case, the acting minion already needs stealth in the cancel window, so your explanation does not prevent him from playing False Resonance at Superior in the cancel window.\n\nI am not arguing the conclusion, but the explanation must be correct as well to ensure the consistency of the rule system, especially when Ankha quotes it as correct and it becomes official. Again, needing stealth has nothing to do with the question. James provided the correct answer.",
+      "Id": "85204"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Feb 2, 2018, 7:48\u202FPM",
+      "Body": "I'll bite since I need something to do while waiting for a new Big Bang Theory episode...\n\n> Non-existant user wrote:\n> \"Needing the stealth\" has nothing to do with timing,\n>\nThe only reason you would and can play False Resonance at superior is when you need stealth... You simply cannot use it otherwise.\n\n> Non-existant user wrote:\n> (and indeed, nothing to do with the question at hand),\n>\nThe question was about False Resonance at superior.\n\n> Non-existant user wrote:\n> it just means that during the action the acting minion has less stealth than the blocking minion's intercept. We know that from the Form of Mist ruling.\n>\nIt also means that when you play False Resonance as a stealth modifier, the timing window for 'As it is played' has passed.\n\n> Non-existant user wrote:\n> My point is: if the justification was that that you cannot play False Resonance like that because you don't need the stealth, then there would be situations when you can. therefore it is not a valid justification.\n>\nDid you not read the 2nd paragraph of my answer? Which explains why you can't cancel an auspex card already played before False Resonance at superior was played.\n\n> Non-existant user wrote:\n> James provided the correct answer.\n>\nJames had the better answer (rulebook reference and everything), but both where correct\n\n> 1.6.1 wrote:\n> Some effects can cancel a card \"as it is played.\" These effects as well as wake effects (see Special Terms, sec. 11) are the only effects allowed during the \"as played\" time period of another card. Even drawing to replace cards comes after this time period.\n>\nI personally prefer the 'what timing am I at when I use X' approach and explain the steps so people can visualise it. Quoting rulebooks can be absolute but still confusing to some people.\n\n-1 Strength",
+      "Id": "85208"
+    }
+  ]
+}

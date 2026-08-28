@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-60444",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/60444-shakar-the-hunt-provision-of-the-silsila",
+  "Title": "Shakar : the Hunt & Provision of the Silsila",
+  "Messages": [
+    {
+      "Author": "Charos",
+      "Date": "Mar 30, 2014, 12:44\u202FPM",
+      "Body": "Hi!\n\nQuestion about these cards.\n\n1 : I have black hand assamite in game, and play shakar the hunt, does provision of silsila work if i torpor vampire chosen for shakar, as provision talks about naming not chosen for contract.\n2. do i have time to play provision when opposing vampire leaves the play. As provision says : only usable if the opposing minion is not ready. And shakar says burn this card when minion leaves the ready region. So are both played in same phase, and i can choose card played first or not.",
+      "Id": "60444"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Mar 30, 2014, 2:19\u202FPM",
+      "Body": "To get an answer quickly, it always helps to quote the card texts:\n>\n> Name: Shakar: the Hunt\n> [DM:C]\n> Cardtype: Master\n> Master: contract. Trifle. Unique. Requires a Black Hand vampire.\n> Put this card on a ready minion. Every Black Hand vampire is considered chosen for this contract. Any Black Hand vampire can enter combat with this minon as a +1 stealth  action. Burn this card when this minion leaves the ready region.\n> Artist: Javier Santos\n>\n> Name: Provision of the Silsila\n> [FN:R2, LotN:PA]\n> Cardtype: Action Modifier/Reaction\n> Clan: Assamite\n> Usable by a tapped vampire.\n> Only usable after a combat involving this Assamite and a minion with a contract naming this Assamite. Only usable if the opposing minion is not ready and this Assamite is ready. This Assamite gains enough blood from the blood bank to reach full capacity, and the contract is burned if still in play.\n> Artist: Mike Danza\n>\nI'd say yes. Provision can be played. During the combat (as Provision states) there was contract in place, and now the opposing the minion is no longer ready. But I am not Floppy.",
+      "Id": "60447"
+    },
+    {
+      "Author": "TorranceCircle",
+      "Date": "Mar 30, 2014, 2:26\u202FPM",
+      "Body": "I think the answer is yes to both questions. I think naming and chosen mean the same thing. the being ready thing and burning the card, I think you can play both effects at the same time.\n\nShakar: the Hunt\n\nMaster: contract. Trifle. Unique. Requires a Black Hand vampire.\nPut this card on a ready minion. Every Black Hand vampire is considered chosen for this contract. Any Black Hand vampire can enter combat with this minon as a +1 stealth  action. Burn this card when this minion leaves the ready region.\n\nProvision of the Silsila\n\n[Action Modifier] Action Modifier\n[Reaction] Reaction\n[Assamite] Assamite\nUsable by a tapped vampire.\nOnly usable after a combat involving this Assamite and a minion with a contract naming this Assamite. Only usable if the opposing minion is not ready and this Assamite is ready. This Assamite gains enough blood from the blood bank to reach full capacity, and the contract is burned if still in play.\n\nedit: Extrala replied before I could.",
+      "Id": "60448"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Mar 31, 2014, 2:44\u202FAM",
+      "Body": "I'm not so sure - for 2 reasons. The issue isn't \"naming\" vs \"chosen\" which works just fine. It's card text on Shakar and combat timing.\n\nFirst (nitpicky). Being \"considered chosed\" opposed to \"chosen.\"\n\nThe presence of that word on both Shakar: the Hunt and Haqim's Law: Judgement suggests that all minions aren't actually chosen, or the card would be more simply worded with \"are chosen for.\"\n\nSo your Assamite might not be able to play cards that require being named/chosen. It's kinda like \"as is he had the discipline required\" on Inceptor isn't really having the discipline.\n\nSecond (pretty sure this keeps you from playing PotS).\n\nAs soon as the minion opposing your Assamite goes to torpor, the Shakar: the Hunt burns (\"when\" in card text). From there combat proceeds to end of round, then end of combat.\n\nAFTER combat, you try to play the PotS as an action modifier/reaction....but the requisite contract is no longer available on the opposing minion (having burned IN combat) - so the play is invalid.",
+      "Id": "60452"
+    },
+    {
+      "Author": "Pendargon",
+      "Date": "Mar 31, 2014, 2:50\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> I'm not so sure - for 2 reasons. The issue isn't \"naming\" vs \"chosen\" which works just fine. It's card text on Shakar and combat timing.\n>\n> First (nitpicky). Being \"considered chosed\" opposed to \"chosen.\"\n>\n> The presence of that word on both Shakar: the Hunt and Haqim's Law: Judgement suggests that all minions aren't actually chosen, or the card would be more simply worded with \"are chosen for.\"\n>\n> So your Assamite might not be able to play cards that require being named/chosen. It's kinda like \"as is he had the discipline required\" on Inceptor isn't really having the discipline.\n>\n> Second (pretty sure this keeps you from playing PotS).\n>\n> As soon as the minion opposing your Assamite goes to torpor, the Shakar: the Hunt burns (\"when\" in card text). From there combat proceeds to end of round, then end of combat.\n>\n> AFTER combat, you try to play the PotS as an action modifier/reaction....but the requisite contract is no longer available on the opposing minion (having burned IN combat) - so the play is invalid.\n>\nThis Assamite gains enough blood from the blood bank to reach full capacity, and the contract IS BURNED IF STILL IN PLAY.\n\nSo burning shakar:the hunt earlier is not an issue. However chosen vs named thing, i am not so sure.",
+      "Id": "60453"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Mar 31, 2014, 2:59\u202FAM",
+      "Body": "> Pendargon wrote:\n> This Assamite gains enough blood from the blood bank to reach full capacity, and the contract IS BURNED IF STILL IN PLAY.\n>\nAha. Found this supporting Pendargon's point.\n\ngroups.google.com/forum/#!searchin/rec.games.trading-cards.jyhad/provision$20burned/rec.games.trading-cards.jyhad/h6qIVJTFw6g/aCYjUS1syaQJ\n\nI retract that timing issue, since there is a ruling supporting \"OK to play if contract is gone\" and since I clearly can't read for crap",
+      "Id": "60455"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 31, 2014, 11:40\u202FAM",
+      "Body": "\"Chosen\", \"considered chosen\" or \"naming this Assamite\" are the same when it relates to contracts.\nThe wording is wrong on Provision of the Silsila, even though it's no big deal (no other contract card in play uses the term \"naming\", meaning that Provision wouldn't be usable at all if there were some kind of difference)\n\nFor question 2, correct answer and link have been given.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "60463"
+    }
+  ]
+}

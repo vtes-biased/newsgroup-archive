@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-5700",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/5700-preservation-of-formatting",
+  "Title": "Preservation of Formatting",
+  "Messages": [
+    {
+      "Author": "KevinM",
+      "Date": "Jul 1, 2011, 5:47\u202FPM",
+      "Body": "Why does this software not preserve spacing and formatting? If I type something -- a deck, say -- into Notepad, and I intentionally put more than one space on a line, why does the board's software think it knows better than me and remove all those spaces?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "5700"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 1, 2011, 7:11\u202FPM",
+      "Body": "The root is planted deeply into the HTML language that ignores multiple spaces. The board ultimately uses HTML, even if it doesn't necessarily looks so.\n\nThere are ways to insert multiple spaces, such as using code\nsome space is required\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "5707"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jul 1, 2011, 7:44\u202FPM",
+      "Body": "Ankha's answer pretty much covers it. It's a feature of HTML. All white space between two characters is converted into a single space. Also, as the board font is non-monospaced having a number of spaces in between wouldn't make the columns neatly spaced. Using embedded tables or [code] tags is required to align text into multiple columns.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "5708"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 1, 2011, 7:56\u202FPM",
+      "Body": "Ok, thanks for the answers, guys! Seems like it isn't worth the effort on my end to code a post, unless it's absolutely critical.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "5709"
+    },
+    {
+      "Author": "salem",
+      "Date": "Jul 6, 2011, 8:58\u202FPM",
+      "Body": "use tabs instead of spaces? would that work? or would html stuff that too?\n\n--\nsalem",
+      "Id": "5969"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 6, 2011, 9:34\u202FPM",
+      "Body": "You can use these tags:  Line1  Line2\n\nThis was nested  tags.",
+      "Id": "5973"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jul 6, 2011, 10:01\u202FPM",
+      "Body": "A tab is just white space to a browser, and gets shortened.\n\nUL doesn't work very well for a vampire disciplines/clan/title/etc. if you want them on the same line, like an ARDB or Secret Library output file.\n\nworks on single line items. (except for the crappy white background)\n\n1 anarch convert Caitiff:0\n\nIt doesn't work well on multiple line items though, it puts in a double line break.\n\nline one two tabs over\nline two two tabs over",
+      "Id": "5974"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 7, 2011, 6:03\u202FAM",
+      "Body": "You can use a table.\n\nCrypt [12 vampires] Capacity min: 5 max: 10 average: 8.66667  2xAppius Claudius Corvus10    5 2xLuca Italicus10     archbishop4 2xLuna Giovanni10     1 vote5 2xGuillaume Giovanni9    4 2xPherydima8    bishop4 2xGianmaria Giovanni5   5\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "5983"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 7, 2011, 11:19\u202FAM",
+      "Body": "For those who use ARDB, you can modify the phpbb template (deck2phpbb.xsl) like this:\n(search for , [td] and ):\n\n<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?> <xsl:stylesheet version=\"1.0\" xmlns:xsl=\"http://www.w3.org/1999/XSL/Transform\" xmlns:str=\"http://exslt.org/strings\" extension-element-prefixes=\"str\"> <xsl:output method=\"text\" encoding=\"iso-8859-1\"/> <!-- Characters we'll support. We could add control chars 0-31 and 127-159, but we won't. --> <xsl:variable name=\"ascii\"> !\"#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~</xsl:variable> <xsl:variable name=\"latin1\"> \u00A1\u00A2\u00A3\u00A4\u00A5\u00A6\u00A7\u00A8\u00A9\u00AA\u00AB\u00AC\u00AD\u00AE\u00AF\u00B0\u00B1\u00B2\u00B3\u00B4\u00B5\u00B6\u00B7\u00B8\u00B9\u00BA\u00BB\u00BC\u00BD\u00BE\u00BF\u00C0\u00C1\u00C2\u00C3\u00C4\u00C5\u00C6\u00C7\u00C8\u00C9\u00CA\u00CB\u00CC\u00CD\u00CE\u00CF\u00D0\u00D1\u00D2\u00D3\u00D4\u00D5\u00D6\u00D7\u00D8\u00D9\u00DA\u00DB\u00DC\u00DD\u00DE\u00DF\u00E0\u00E1\u00E2\u00E3\u00E4\u00E5\u00E6\u00E7\u00E8\u00E9\u00EA\u00EB\u00EC\u00ED\u00EE\u00EF\u00F0\u00F1\u00F2\u00F3\u00F4\u00F5\u00F6\u00F7\u00F8\u00F9\u00FA\u00FB\u00FC\u00FD\u00FE\u00FF</xsl:variable> <!-- Characters that usually don't need to be escaped --> <xsl:variable name=\"safe\">!*-.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz~</xsl:variable> <xsl:variable name=\"hex\">0123456789ABCDEF</xsl:variable> <xsl:template match=\"/\"> <xsl:text>[size=18][b]Deck Name : </xsl:text><xsl:value-of select=\"deck/name\"/><xsl:text>[/b][/size]&#013;&#010;[b][u]Author :[/u][/b] </xsl:text><xsl:value-of select=\"deck/author\"/><xsl:text>&#013;&#010;[b][u]Description :[/u][/b]&#013;&#010;</xsl:text> <xsl:value-of select=\"deck/description\"/><xsl:text>&#013;&#010;&#013;&#010;&#013;&#010;[size=18][u]Crypt [</xsl:text><xsl:value-of select=\"deck/crypt/@size\"/><xsl:text> vampires] Capacity min: </xsl:text><xsl:value-of select=\"deck/crypt/@min\"/><xsl:text> max: </xsl:text><xsl:value-of select=\"deck/crypt/@max\"/><xsl:text> average: </xsl:text><xsl:value-of select=\"deck/crypt/@avg\"/><xsl:text>[/u][/size]&#013;&#010;</xsl:text> <xsl:text>[table]</xsl:text> <xsl:for-each select=\"/deck/crypt/vampire[not(name=preceding-sibling::vampire/name)]\"> <xsl:sort select=\"@count\" data-type=\"number\" order=\"descending\"/> <xsl:sort select=\"capacity\" data-type=\"number\" order=\"descending\"/> <xsl:sort select=\"name\"/> <xsl:variable name=\"xname\" select=\"string(name)\"/> <xsl:for-each select=\"/deck/crypt/vampire[name=$xname and not(adv=preceding-sibling::vampire[name=$xname]/adv)]\"> <xsl:text>[tr][td]</xsl:text><xsl:call-template name=\"count-vampires\"><xsl:with-param name=\"myname\" select=\"string(name)\" /><xsl:with-param name=\"myadv\" select=\"string(adv)\" /></xsl:call-template><xsl:text>x[/td][td][url=http://www.secretlibrary.info/?crypt=</xsl:text><xsl:call-template name=\"url-encode\"><xsl:with-param name=\"str\" select=\"string(name)\"/></xsl:call-template><xsl:if test=\"adv!=''\">%20(ADV)</xsl:if><xsl:text>] </xsl:text><xsl:value-of select=\"string(name)\"/><xsl:choose><xsl:when test=\"adv != ''\"><xsl:text> Adv </xsl:text></xsl:when><xsl:otherwise><xsl:text> </xsl:text></xsl:otherwise></xsl:choose><xsl:text> [/url][/td][td](</xsl:text><xsl:value-of select=\"capacity\"/><xsl:text>)[/td][td]</xsl:text><xsl:call-template name=\"str:tokenize\"><xsl:with-param name=\"string\" select=\"string(disciplines)\" /><xsl:with-param name=\"delimiters\" select=\"' '\"/></xsl:call-template><xsl:text>[/td][td]</xsl:text><xsl:value-of select=\"string(title)\"/><xsl:text>[/td][td]</xsl:text><xsl:value-of select=\"string(clan)\"/><xls:text>[/td][td]</xls:text>(group <xsl:value-of select=\"group\"/><xsl:text>)[/td][/tr]&#013;&#010;</xsl:text> </xsl:for-each> </xsl:for-each> <xsl:text>[/table]</xsl:text> <xsl:text>&#013;&#010;&#013;&#010;[size=18][u]Library [</xsl:text><xsl:value-of select=\"deck/library/@size\"/><xsl:text> cards][/u][/size]&#013;&#010;&#013;&#010;</xsl:text> <xsl:for-each select=\"/deck/library/card[not(type=preceding-sibling::card/type)]\"> <xsl:sort select=\"type\"/> <xsl:call-template name=\"LIBPART\"> <xsl:with-param name=\"mytype\" select=\"string(type)\" /> </xsl:call-template> </xsl:for-each> <xsl:text>&#013;&#010;Crafted with : </xsl:text><xsl:value-of select=\"//deck/@generator\"/><xsl:text>. [</xsl:text><xsl:value-of select=\"//deck/date\"/><xsl:text>]&#013;&#010;</xsl:text> </xsl:template> <xsl:template name=\"LIBPART\"> <xsl:param name=\"mytype\"/> <xsl:if test=\"//card[type = $mytype]\"> <xsl:text>[b][u]</xsl:text><xsl:value-of select=\"$mytype\"/><xsl:text> [</xsl:text><xsl:value-of select=\"sum (//card[type = $mytype]/@count)\"/><xsl:text>][/u][/b]&#013;&#010;</xsl:text> <xsl:for-each select=\"//card[(type=$mytype) and not(name=preceding-sibling::card/name)]\"> <xsl:sort select=\"name\"/> <xsl:text> </xsl:text><xsl:call-template name=\"count-cards\"><xsl:with-param name=\"myname\" select=\"string(name)\" /></xsl:call-template><xsl:text>x [url=http://www.secretlibrary.info/?lib=</xsl:text><xsl:call-template name=\"url-encode\"><xsl:with-param name=\"str\" select=\"string(name)\"/></xsl:call-template><xsl:text>] </xsl:text><xsl:value-of select=\"string(name)\"/><xsl:text> [/url]&#013;&#010;</xsl:text> </xsl:for-each><xsl:text>&#013;&#010;</xsl:text> </xsl:if> </xsl:template> <xsl:template name=\"count-vampires\"> <xsl:param name=\"myname\"/> <xsl:param name=\"myadv\"/> <xsl:value-of select=\"sum(//@count[../name=$myname and ../adv=$myadv])\"/> </xsl:template> <xsl:template name=\"count-cards\"> <xsl:param name=\"myname\"/> <xsl:value-of select=\"sum(//@count[../name=$myname])\"/> </xsl:template> <xsl:template name=\"longest-string\"> <xsl:param name=\"nodes\"/> <xsl:for-each select=\"$nodes\"> </xsl:for-each> </xsl:template> <xsl:template name=\"url-encode\"> <xsl:param name=\"str\"/> <xsl:if test=\"$str\"> <xsl:variable name=\"first-char\" select=\"substring($str,1,1)\"/> <xsl:choose> <xsl:when test=\"contains($safe,$first-char)\"> <xsl:value-of select=\"$first-char\"/> </xsl:when> <xsl:otherwise> <xsl:variable name=\"codepoint\"> <xsl:choose> <xsl:when test=\"contains($ascii,$first-char)\"> <xsl:value-of select=\"string-length(substring-before($ascii,$first-char)) + 32\"/> </xsl:when> <xsl:when test=\"contains($latin1,$first-char)\"> <xsl:value-of select=\"string-length(substring-before($latin1,$first-char)) + 160\"/> </xsl:when> <xsl:otherwise> <xsl:message terminate=\"no\">Warning: string contains a character that is out of range <xsl:value-of select=\"$first-char\"/>! Substituting \"?\".</xsl:message> <xsl:text>63</xsl:text> </xsl:otherwise> </xsl:choose> </xsl:variable> <xsl:variable name=\"hex-digit1\" select=\"substring($hex,floor($codepoint div 16) + 1,1)\"/> <xsl:variable name=\"hex-digit2\" select=\"substring($hex,$codepoint mod 16 + 1,1)\"/> <xsl:value-of select=\"concat('%',$hex-digit1,$hex-digit2)\"/> </xsl:otherwise> </xsl:choose> <xsl:if test=\"string-length($str) &gt; 1\"> <xsl:call-template name=\"url-encode\"> <xsl:with-param name=\"str\" select=\"substring($str,2)\"/> </xsl:call-template> </xsl:if> </xsl:if> </xsl:template> <xsl:template name=\"str:tokenize\"> <xsl:param name=\"string\" select=\"''\"/> <xsl:param name=\"delimiters\" select=\"' '\"/> <xsl:choose> <xsl:when test=\"not($string)\"/> <xsl:when test=\"not($delimiters)\"> <xsl:call-template name=\"str:_tokenize-characters\"> <xsl:with-param name=\"string\" select=\"$string\"/> </xsl:call-template> </xsl:when> <xsl:otherwise> <xsl:call-template name=\"str:_tokenize-delimiters\"> <xsl:with-param name=\"string\" select=\"$string\"/> <xsl:with-param name=\"delimiters\" select=\"$delimiters\"/> </xsl:call-template> </xsl:otherwise> </xsl:choose> </xsl:template> <xsl:template name=\"str:_tokenize-characters\"> <xsl:param name=\"string\"/> <xsl:if test=\"$string\"> <token><xsl:value-of select=\"substring($string, 1, 1)\"/></token> <xsl:call-template name=\"str:_tokenize-characters\"> <xsl:with-param name=\"string\" select=\"substring($string, 2)\"/> </xsl:call-template> </xsl:if> </xsl:template> <xsl:template name=\"str:_tokenize-delimiters\"> <xsl:param name=\"string\"/> <xsl:param name=\"delimiters\"/> <xsl:variable name=\"delimiter\" select=\"substring($delimiters, 1, 1)\"/> <xsl:choose> <xsl:when test=\"not($delimiter)\"> <xsl:choose> <xsl:when test=\"$string != ''\"> <token>:<xsl:value-of select=\"$string\"/>: </token> </xsl:when> <xsl:otherwise> <token><xsl:value-of select=\"$string\"/></token> </xsl:otherwise> </xsl:choose> </xsl:when> <xsl:when test=\"contains($string, $delimiter)\"> <xsl:if test=\"not(starts-with($string, $delimiter))\"> <xsl:call-template name=\"str:_tokenize-delimiters\"> <xsl:with-param name=\"string\" select=\"substring-before($string, $delimiter)\"/> <xsl:with-param name=\"delimiters\" select=\"substring($delimiters, 2)\"/> </xsl:call-template> </xsl:if> <xsl:call-template name=\"str:_tokenize-delimiters\"> <xsl:with-param name=\"string\" select=\"substring-after($string, $delimiter)\"/> <xsl:with-param name=\"delimiters\" select=\"$delimiters\"/> </xsl:call-template> </xsl:when> <xsl:otherwise> <xsl:call-template name=\"str:_tokenize-delimiters\"> <xsl:with-param name=\"string\" select=\"$string\"/> <xsl:with-param name=\"delimiters\" select=\"substring($delimiters, 2)\"/> </xsl:call-template> </xsl:otherwise> </xsl:choose> </xsl:template> </xsl:stylesheet>\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "6000"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jul 7, 2011, 2:42\u202FPM",
+      "Body": "That seems to work very well, thank you!\n\nARDB for the win!\n\nDeck Name : XZealot is Inspiring\nAuthor : Lasombra\nDescription :\nNorm did Janni/Victor Pelletier Reckless Agitation/Parity Shift and almost won Day 2 of the North American Continental Championship.\nThis isn't that deck, but I did steal the idea of an independent + prince / RA+PS deck.\nHe went for a lot more combat that I feel is necessary in the local metagame, so I've changed that up completely.\nNehemiah will help ensure a good hand for the current turn, moving unneeded cards to the bottom of the deck.\n\nHow do you intend to oust?\n\nLarge damage votes called at stealth.\n\nHow do you intend to keep from being ousted?\n\nGaining pool via Villein and Voter Captivation, and perhaps keeping a little from Parity Shift.\n\nWhat do you want your ready region to look like (ie, how many guys are you planning on getting out)?\n\nNehemiah and Giangaleazzo, The Traitor are the preferred minions. Tobias could go Anarch if necessary to call the Reckless Agitations.\n\nWhat do you want your average turn to look like?\n\nIdeally, G & N will each call a vote, and ensure that it passes.\n\nWhat's your metagame like? How do your opponents play?\n\nWildly varied. Anything from Horde Scobax to Anson/Anneke/Alexandra.\n\nWhat problems have you observed with the deck in play?\n\nHaven't played it yet. Considering taking it to a tournament in South Carolina on the 16th. Looking at lots of deck ideas that are new to me.\n\nCrypt [12 vampires] Capacity min: 4 max: 10 average: 7.75  3x Nehemiah  (9)    2 votesTrue Brujah(g4) 3x Giangaleazzo, The Traitor  (8)   princeLasombra(g4) 2x Melinda Galbraith  (10)     cardinalLasombra(g4) 2x Tobias Smith  (7)   Lasombra(g3) 2x Leila Monroe  (4)  Lasombra(g4)\nLibrary [90 cards]\n\nAction [3]\n3x  Charming Lobby\n\nAction Modifier [20]\n4x  Bewitching Oration\n5x  Iron Glare\n6x  Shadow Play\n5x  Voter Captivation\n\nAlly [2]\n1x  Carlton Van Wyk (Hunter)\n1x  Mylan Horseed (Goblin)\n\nCombat [8]\n8x  Majesty\n\nEquipment [1]\n1x  Heart of Nizchetus\n\nMaster [24]\n1x  Giant's Blood\n1x  Legendary Vampire\n2x  Lilith's Blessing\n3x  Obtenebration\n1x  Parthenon, The\n1x  Power Structure\n1x  Tabriz Assembly\n8x  Villein\n6x  Zillah's Valley\n\nPolitical Action [19]\n1x  Anarchist Uprising\n1x  Ancilla Empowerment\n1x  Cardinal Benediction\n1x  Conservative Agitation\n1x  Domain Challenge\n2x  Kine Resources Contested\n1x  Neonate Breach\n5x  Parity Shift\n5x  Reckless Agitation\n1x  Rumors of Gehenna\n\nReaction [13]\n7x  Deflection\n4x  On the Qui Vive\n2x  Wake with Evening's Freshness\n\nCrafted with : Anarch Revolt Deck Builder. [Thu Jul 07 12:41:30 2011]",
+      "Id": "6008"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 3, 2012, 2:09\u202FPM",
+      "Body": "Corrected the crypt link in my post.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "19782"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 4, 2012, 1:08\u202FAM",
+      "Body": "Can you attach the file instead?",
+      "Id": "19844"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2012, 6:33\u202FAM",
+      "Body": "> Adonai wrote:\n> Can you attach the file instead?\n>\nI tried but couldn't upload a file using the \"+ ADD FILE\" button.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "19858"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jan 4, 2012, 4:39\u202FPM",
+      "Body": "Make it into a zip file first.\nThere are only certain extensions allowed by the forum software.\n\njpg, jpeg, gif, png, txt, rtf, pdf, zip, tar.gz, tgz",
+      "Id": "19884"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Feb 4, 2012, 2:14\u202FAM",
+      "Body": "Zipped up the file.\nBe sure it ends up in your {ARDB exe folder}\\XSL subdirectory.\n\nAttachment deck2phpbb.zip not found\n\n(Windows zip file, anything can extract it.)",
+      "Id": "22317"
+    }
+  ]
+}

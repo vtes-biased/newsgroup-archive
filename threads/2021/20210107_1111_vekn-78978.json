@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-78978",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78978-confirmation-needed-catatonic-fear-vs-disarm",
+  "Title": "Confirmation needed : Catatonic Fear VS Disarm",
+  "Messages": [
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Jan 7, 2021, 11:11\u202FAM",
+      "Body": "Dear all,\n\nCan you point me the reason why Disarm cannot be played after Catatonic Fear at close range please? My not really good English does not allow me to remember the simple reason.\n\nCard Text:\nName: Disarm\nCardtype: Combat\nBasic: Only usable at close range at the end of a round of combat in which this vampire successfully inflicted more damage than the opposing vampire. Not usable by a vampire being burned or going into torpor. Put this card on the opposing vampire and send that vampire into torpor. The vampire with this card has -1 strength. He or she may burn this card by burning 3 blood. A vampire can have only one Disarm.\n\nName: Catatonic Fear\nCardtype: Combat\nBasic: Strike: combat ends.\nSuperior: As above, and inflict 1 damage to the opposing minion once combat ends if the range is close.\n\nThanks in adavance,\nBest Regards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "101379"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jan 7, 2021, 3:12\u202FPM",
+      "Body": "Disarm is played at the end of a round, and cannot be played after combat (no combat cards can).\nDisarm checks for damage done in the round of combat, but Catatonic Fear deals damage after combat (per RTR19970630).\n\nThere, two reasons.",
+      "Id": "101380"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Jan 7, 2021, 6:00\u202FPM",
+      "Body": "Thanks for the second reason, that was the one I was looking for.\n\nBy the way, the first one is wrong for me since you can always play \"end of round cards\" at the end of the last round of any combats.\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "101382"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 7, 2021, 7:32\u202FPM",
+      "Body": "> R\u00E9mi wrote:\n> By the way, the first one is wrong for me since you can always play \"end of round cards\" at the end of the last round of any combats.\n>\nNope, it's correct. You cannot play a combat card _after_ combat. The end of combat is not _after_ combat.",
+      "Id": "101383"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Feb 5, 2021, 12:36\u202FPM",
+      "Body": "Dear all,\n\nI am not sure kschaefer:\nMust be played after the presses are handled and can be played if the round ends prematurely. [RTR 20030519]\n\nSource:\ncodex-of-the-damned.org/en/card-search.html?card=Disarm\n\nFrom the rulebook (of the website)\n\"7. End of Round\n\nIn this step you use the combat cards or other effects that are only usable at the end of a round of combat, after the press step.\n\nNote that this step also occurs even if combat ends prematurely.\"\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "101556"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 5, 2021, 1:12\u202FPM",
+      "Body": "The reason for Disarm not being able to be played is because the time window is skipped by the Strike: Combat Ends of Catatonic Fear. Disarm is to be played at the End of Round step which never happens as the combat is ended prematurely.\n\n> Rulebook says:\n> Combat Sequence\n>\n> Combat occurs in a series of one or more rounds. Each round of combat has seven steps:\n>\n> 1. Before Range: Play cards before range is chosen.\n>\n> 2. Determine Range: Use maneuvers to change the range to close or long.\n>\n> 3. Before Strikes: Play cards before strikes are chosen.\n>\n> 4. Strike: Announce and resolve strikes.\n>\n> 5. Damage Resolution: Prevent and mend damage.\n>\n> 6. Press: Use presses to continue into another round or to end combat.\n>\n> 7. End of Round: End of round cards and effects are played here.\n>\n> Rulebook says:\n> Combat Ends: This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike (see First Strike), and it ends combat before other strikes or other strike resolution effects are resolved. Combat ends is effective at any range. Combat ends is not affected by a dodge, since dodge only cancels effects that are directed at the dodging minion.\n>",
+      "Id": "101557"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Feb 5, 2021, 1:33\u202FPM",
+      "Body": "> R\u00E9mi wrote:\n> Dear all,\n>\n> I am not sure kschaefer:\n> Must be played after the presses are handled and can be played if the round ends prematurely. [RTR 20030519]\n>\n> Source:\n> codex-of-the-damned.org/en/card-search.html?card=Disarm\n>\n> From the rulebook (of the website)\n> \"7. End of Round\n>\n> In this step you use the combat cards or other effects that are only usable at the end of a round of combat, after the press step.\n>\n> Note that this step also occurs even if combat ends prematurely.\"\n>\n> Regards,\n> R\u00E9mi.\n>\nIndeed, S:CE does not skip the \"End of Round\" phase. However, damage from Catatonic Fear does not happen until after that phase has ended. So there is no damage for Disarm to see (unless of course other cards were played). That is the reason, why you can't play Disarm if your only damaging effect is from Catatonic Fear. If there were something else, then you could play Disarm.\n\nAlso, in regard to what kschaefer said: there is a distinction between \"End of Round\", \"End of Combat\" and \"After combat ends\". The first two cases are still in combat, the third one, however, is not. All three things happen always after S:CE, but in the 3rd case combat cards cannot be played anymore, because combat has ended at that point.\n\nPrince of Bonn, Germany",
+      "Id": "101559"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 5, 2021, 2:02\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > R\u00E9mi wrote:\n> > By the way, the first one is wrong for me since you can always play \"end of round cards\" at the end of the last round of any combats.\n> >\n> Nope, it's correct. You cannot play a combat card _after_ combat. The end of combat is not _after_ combat.\n>\n> R\u00E9mi wrote:\n> I am not sure kschaefer:\n> Must be played after the presses are handled and can be played if the round ends prematurely. [RTR 20030519]\n>\n> Source:\n> codex-of-the-damned.org/en/card-search.html?card=Disarm\n>\n> From the rulebook (of the website)\n> \"7. End of Round\n>\n> In this step you use the combat cards or other effects that are only usable at the end of a round of combat, after the press step.\n>\n> Note that this step also occurs even if combat ends prematurely.\"\n>\nBoth are correct.\nYou cannot play combat cards AFTER the end of combat.\nIf the combat ends, you can play cards during the \"end of round\" step (which is NOT after combat).\n\n> inm8 wrote:\n> The reason for Disarm not being able to be played is because the time window is skipped by the Strike: Combat Ends of Catatonic Fear. Disarm is to be played at the End of Round step which never happens as the combat is ended prematurely.\n>\nThis is incorrect. When a combat ends, the round ends, and you can play cards that are played at the end of a round.\nSimilarily, if a vampire in combat is sent to torpor, the combat ends immediately, but the opposing vampire can still play Decapitate.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101562"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 5, 2021, 2:12\u202FPM",
+      "Body": "My mistake for not reading all the text of End of Round and assuming Combat End description of ending the combat immediately was the end of it.\n\nI would like to suggest to add the detail to the rulebook description of the \"Strike Effect - Combat Ends\" that it in effect skips ahead to step \"7 End of Round\" of the combat sequence. Also a mention that Combat End can be invoked as an effect in combat and not only as a \"Strike Effect\" (ie superior Alpha Glint) resulting in the same, skipping ahead to step \"7 End of Round\".",
+      "Id": "101564"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 5, 2021, 6:54\u202FPM",
+      "Body": "> R\u00E9mi wrote:\n> Dear all,\n>\n> I am not sure kschaefer:\n> Must be played after the presses are handled and can be played if the round ends prematurely. [RTR 20030519]\n>\n> ...\n>\n> In this step you use the combat cards or other effects that are only usable at the end of a round of combat, after the press step.\n>\n> Note that this step also occurs even if combat ends prematurely.\"\n>\nYou're missing the point. The Catatonic Fear damage occurs after combat, not during combat. There is a window where end of round effects can be played, but you do not meet the criteria to play Disarm because you've not done any damage (yet).",
+      "Id": "101568"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Feb 7, 2021, 1:46\u202FPM",
+      "Body": "Hi,\n\nThe point is not missed.\nThe catatonic damage is inflicted after combat, that part has been clearly OK since the first answer. There were two questions.\nEverything is fine now.\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "101576"
+    }
+  ]
+}

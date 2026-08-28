@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-43566",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43566-direct-intervention-vs-referendum-vs-nra",
+  "Title": "Direct Intervention vs Referendum vs NRA",
+  "Messages": [
+    {
+      "Author": "galliard",
+      "Date": "Jan 3, 2013, 9:38\u202FAM",
+      "Body": "We know that if action card is cancelled by DI, minion can play same action card (like Computer Hacking)\nIs this the same for Political Actions?\nIs the acting minion considered to have played referendum? Remember than minion can call only one referendum per turn. Please simple answer from the 3 below\n\n1. Minion can play the same referendum from hand\n2. Minion can play different referendum\n3. Minion cant play referendum anymore this turn",
+      "Id": "43566"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 3, 2013, 9:56\u202FAM",
+      "Body": "> galliard wrote:\n> We know that if action card is cancelled by DI, minion can play same action card (like Computer Hacking)\n> Is this the same for Political Actions?\n> Is the acting minion considered to have played referendum? Remember than minion can call only one referendum per turn. Please simple answer from the 3 below\n>\n> 1. Minion can play the same referendum from hand\n> 2. Minion can play different referendum\n> 3. Minion cant play referendum anymore this turn\n>\nPolitical actions *are* actions. If you play Direct Intervention on your predator's Anson's Parity Shift, Anson can play another Parity Shift {action card}. The DI'd Parity Shift {action card} has been considered played (this is a pre-requirement for playing Direct Intervention).\n\nNow, a referendum is called  when the political action is successful. So the DI'd Parity Shift was not called, snice the DI'd Parity Shift never reached resolution.\n\n1 - Yes - the vampire who played the DI'd political action card can play the same political action card.\n2 - Yes - the vampire who played the DI'd political action card can play a different political action card.\n3 - No.",
+      "Id": "43567"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 3, 2013, 12:12\u202FPM",
+      "Body": "> galliard wrote:\n> Remember than minion can call only one referendum per turn.\n>\nNo. A minion can only perform one political action each turn.\n\n> rulebook wrote:\n> 6.1.7. Political Action (+1 stealth)\n>\n> A political action is an action that is used to call a referendum. It has a default +1 stealth and can only be taken by vampires (allies cannot call referendums). A political action is always undirected (see Who May Attempt to Block, sec. 6.2.2.1). A minion cannot perform more than one political action each turn.\n>\nThis means that if the action is DIed, it wasn't performed and the minion can perform another political action; and that if the action was blocked, the minion can't perform another political action (even though the referendum wasn't called).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "43568"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jan 3, 2013, 1:52\u202FPM",
+      "Body": "> Pascal wrote:\n> 1 - Yes - the vampire who played the DI'd political action card can play the same political action card.\n>\nI'd like to add : if it's a \"once per game\" political action like Ancient Influence or Reins of power (retrieved by, say, Sargon fragment or Carlotta), he cannot play that card again. It has been canceled by D.I. but played nonetheless.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "43569"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jan 3, 2013, 2:02\u202FPM",
+      "Body": "(in short, don't confuse \"play\", \"perform\", \"call\", and \"resolve\", which each point to a specific point in the action flow)",
+      "Id": "43570"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Jan 3, 2013, 2:25\u202FPM",
+      "Body": "All of this, of course because the goal of Direct Intervention is to make the game as confusing as possible.\n\nIt's also \"different\" for action modifiers and reaction cards than it is for action cards, so ye.",
+      "Id": "43571"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 3, 2013, 2:31\u202FPM",
+      "Body": "> Izaak wrote:\n> All of this, of course because the goal of Direct Intervention is to make the game as confusing as possible.\n>\n> It's also \"different\" for action modifiers and reaction cards than it is for action cards, so ye.\n>\nI'm not sure what the goal of Direct Intervention is, apart from cancelling a card when it is played.\nIt's \"different\" for action modifiers because the rule for playing action cards doesn't apply to action modifiers.",
+      "Id": "43573"
+    }
+  ]
+}

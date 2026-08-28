@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-45013",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45013-torpor-and-abilities",
+  "Title": "Torpor and abilities",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "Feb 8, 2013, 3:07\u202FPM",
+      "Body": "I know that when a Vampire is in Torpor that he is not READY and if is titled, does not count towards being titled or casting votes. What about other Vampire abilites like \"Bring other Vampires into play cost 1 blood less\" or any other ability for that matter? Do Vampire's inate abilities not work when in Torpor?",
+      "Id": "45013"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Feb 8, 2013, 3:11\u202FPM",
+      "Body": "Some abilities say, \"If/When ready...\" and they are only valid then. Others don't specify, so they are \"always on.\"\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "45014"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 8, 2013, 3:29\u202FPM",
+      "Body": "> Jeff wrote:\n> Some abilities say, \"If/When ready...\" and they are only valid then. Others don't specify, so they are \"always on.\"\n>\nCorrect.\n\nLet's be a bit more specific, with examples:\n>\n> Name: Nana Buruku\n> Cardtype: Vampire\n> Clan: Guruhi\n> Group: 4\n> Capacity: 8\n> Discipline: ANI POT PRE\n> Laibon: While Nana is ready, you get two master phase actions (instead of one) each master phase and +1 hand size.\n>\nAs long as you control Nana and she's ready, you get +1 hand size.\nThis permanent effect lasts as long as she's ready. You would lose it if she got sent to torpor (unprevented damage), burned (Archon Investigation), removed from the game (Golconda), contested (another Nana Buruku), sent back to the uncontrolled area (Banishment, or a hilarious Exile), or something else.\nIf she is ready during your master phase, you get 2 MPAs (instead of 1). If she isn't, her text does nothing, and you only get 1 MPA.\n\n(now, tricky point: if you play Golconda on your Nana Buruku ... you've already received 2 MPAs, and you can play a second master, even though you no longer control a ready Nana Buruku).\n\nNow let's have a look at this girl:\n>\n> Mariel, Lady Thunder\n> Cardtype: Vampire\n> Clan: Malkavian\n> Group: 1\n> Capacity: 7\n> Discipline: aus tha DOM OBF\n> Camarilla: Before range is chosen in a combat that does not involve Mariel, she may tap to end that combat and inflict 1 unpreventable damage on each combatant and any retainers they have after combat ends.\n>\nHer ability says nothing about her having to be ready - you can use it while she is in torpor.\n\nAbout titles: A vampire in torpor is still titled - it really matters for Mounty Coven, if he diablerizes someone in torpor:\n>\n> Name: Monty Coven\n> [LotN:U]\n> Cardtype: Vampire\n> Clan: Assamite\n> Group: 5\n> Capacity: 8\n> Discipline: dom for pre CEL OBF QUI\n> Sabbat: If Monty burns a titled vampire, he may become a bishop. If the burned vampire's title was worth more than two votes, he can become a priscus instead.\n>\nHowever, vampires in torpor cannot contest their title. This means that if you control Dmitra, and someone brings out Jaroslav Pascek, at your untap phase, if Dmitra is in torpor, she must yield, and Jaroslav will receive the title during his controller's untap phase.\nVampires in torpor (actually, \"minions not ready\" is better) cannot cast votes or ballots - they must abstain. That's quite important for people like Alvaro:\n>\n> Name: Alvaro, The Scion of Angelica\n> [Sabbat:V, SW:PL]\n> Cardtype: Vampire\n> Clan: Lasombra\n> Group: 2\n> Capacity: 9\n> Discipline: dom pre OBT POT\n> Sabbat Archbishop of Pittsburgh: If Alvaro abstains during a political action, he gains 2 blood at the end of the action. +1 bleed.\n>\nAlvaro would mandatorily gain 2 blood if someone called the referendum of a political action.",
+      "Id": "45018"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Feb 8, 2013, 4:08\u202FPM",
+      "Body": "To be clear, thucimia still grants plus hand size in torpor, correct?",
+      "Id": "45025"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 8, 2013, 4:39\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n> To be clear, thucimia still grants plus hand size in torpor, correct?\n>\nCardtext? It probably contains the answer...\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "45026"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Feb 8, 2013, 4:55\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > ReverendRevolver wrote:\n> > To be clear, thucimia still grants plus hand size in torpor, correct?\n> >\n> Cardtext? It probably contains the answer...\n>\nSorry, on my phone posting im pretty sure its:\n\n\"Independant, 2 votes. Once each turn, thucimia can reduce your hand size by two to get +1 bleed. +1 hand size. Blood cursed.\"",
+      "Id": "45027"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 8, 2013, 6:03\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n>\n> > Ankha wrote:\n> >\n> > > ReverendRevolver wrote:\n> > > To be clear, thucimia still grants plus hand size in torpor, correct?\n> > >\n> > Cardtext? It probably contains the answer...\n> >\n> Sorry, on my phone posting im pretty sure its:\n>\n> \"Independant, 2 votes. Once each turn, thucimia can reduce your hand size by two to get +1 bleed. +1 hand size. Blood cursed.\"\n>\nIndependent: Thucimia has 1 vote (titled). Once each time she bleeds, she may reduce your hand size by 2 until your next untap phase to get +1 bleed. +1 hand size. Blood cursed.\n\nYes, Thucimia's +1 hand size bonus is in effect if she is controlled, even if she's in torpor.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "45030"
+    }
+  ]
+}

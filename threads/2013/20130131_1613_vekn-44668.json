@@ -1,0 +1,152 @@
+{
+  "ThreadId": "vekn-44668",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/44668-tournament-scoring",
+  "Title": "Tournament Scoring",
+  "Messages": [
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jan 31, 2013, 4:13\u202FPM",
+      "Body": "Moving part of the discussion to a different thread.\n\nFirst, for reference, here are the rules. As has been pointed out, the rules for Tournaments are (necessarily) different from the rules for a single game.\n\nFrom the Rulebook:\n\n> Your goal is to accumulate the most victory points by destroying the influence held by rival Methuselahs.\n>\nand\n\n> At the end of the game, the winner is the player with the most victory points, even if she has been ousted.\n>\nFrom the Tournament Rules:\n\n3.7. Determining a Game Winner\n\nThere are three different types of scoring points in V:TES tournaments:\n\nGame Wins are awarded to the winner of each game.\nVictory Points are awarded when a player's prey is ousted and when a player survives a round (or as otherwise specified in the game rules or by effects of cards played, but with only a half Victory Point awarded for withdrawal).\nTournament Points are awarded based on a player's table ranking at the end of a round.\n\n3.7.1. Game Win Scoring\n\nA player receives a Game Win at the end of a game in which they have received at least two (2) Victory Points and have more Victory Points than any other player in the game. (No game win is awarded in the case of ties.)\n\n3.7.2. Victory Point Scoring\n\nA player receives one Victory Point each time his or her prey is ousted during a game (or as otherwise indicated in the V:TES game rules or by cards played during the game).\n\nUnlike the standard rules, however, a player receives only a half Victory Point for withdrawing, not the full Victory Point the normal rules award.\n\nA player receives a half Victory Point if he or she has not been ousted when the time limit is reached, marking the end of the round, unless that player is the last one surviving at the table, in which case (as indicated in the V:TES game rules) the player receives a full Victory Point, as normal.\n\nWith all the Victory Points recorded, players are then ranked at their table from first through fifth place. The player with the highest total Victory Points places first, and so on.\n\n3.7.3. Tournament Point Scoring\n\nFive-player table: First place receives 60 Tournament Points, second place receives 48 Tournament Points, third place receives 36 Tournament Points, fourth place receives 24 Tournament Points, and fifth place receives 12 Tournament Points.\n\nFour-player table: Players are ranked first, second, fourth, and fifth - third place is taken by the \"table bye\" position, an empty position.\n\nIf more than one player is tied for a particular table ranking, the tournament points are averaged (see section 3.7.4 - Scoring Examples).\n\n3.7.4. Scoring Examples\n\nExample (five-player table): Players A and C ousted one prey each. Players B and D were ousted by A and C, and did not oust any prey during the game. Player E did not oust any prey, but survived the round (along with A and C).\n\nTherefore, Players A and C each receive one and one-half Victory Points - one Victory Point for ousting one prey, and one-half Victory Point for surviving the round. Player E receives one-half Victory Point for surviving the round. Players B and D receive no Victory Points.\n\nPlayers A and C tie for first place (first and second) at the table, so each receives 54 Tournament Points ([60 + 48] / 2 = 54). Since they are tied (and since neither scored at least 2 Victory Points), no Game Win is awarded. Player E is clearly in third place, and receives 36 Tournament Points. Players B and D tie for fourth (fourth and fifth) place, and each receives 18 Tournament Points ([24 + 12] /2 = 18).\n\nExample 2 (four-player table): Player A ousts one prey and survives the round. Player B was ousted by Player A. Players C and D did not oust any prey during the game, but both survived the round.\n\nTherefore, Player A receives one and one-half Victory Points - one Victory Point for ousting one prey, and one-half Victory Point for surviving the round. Player B receives no Victory Points, and Players C and D each receive one-half Victory Points for surviving the round.\n\nPlayer A finishes in first place at the table, and receives 60 Tournament Points. Players C and D tie for second (second and fourth, because third place at the table goes to the \"table bye\"), and each receive 36 Tournament Points ([48 + 24] / 2 = 36). Player B finishes in fifth place with 12 Tournament Points.\n\n3.7.5. Final Round Scoring\n\nThe player with the highest total of Victory Points from the final round only is the tournament winner. In the event of a tie, the players' rankings at the end of the preliminary rounds will be the deciding tiebreaker. The rest of the finalists tie for second, with no additional criteria considered to attempt to break that tie.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "44668"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jan 31, 2013, 4:31\u202FPM",
+      "Body": "I think there must be a better way to encourage Methuselahs to accumulate as many victory points as possible during a tournament game. Due to the multi-round structure, Game Wins take the highest priority when ranking players. But, because a Game Win can be earned with merely 2 VPs (and more than everyone else) or 2.5 VPs (if the game times out), there is only a small marginal incentive to go for additional VPs when you might jeopardize your position. This can lead to all sorts of deal-making for victory points. While such deals are \"part of the game,\" they can lead to convoluted situations such as king-making and withdraw deals which may undermine the fundamental predator-prey relationship of V:TES.\n\nSo, there may be a better way. I hope this thread allows for discussion of changes to the way tournaments are scored, in case they are worth pursuing.\n\nI'll start off with two proposals:\n\n1) A Game Win may be awarded only when the game comes to its conclusion with only one Methuselah left standing.\n\nor\n\n2) When a Methuselah earns a Game Win, it is worth 1 \"Game Point\" plus however many victory points the Methuselah earned as a fraction of the total available, times 0.5.\n\nFor example, in a 5 player-game, M earns 5 VPs. They get 1.5 GPs = 1 + (0.5)*(5/5). If they earned 2.5 VPs, they get 1.25 GPs = 1 + (0.5)*(2.5/5). If they earned 4 VPs, they get 1.4 GPs = 1 + (0.5)*(4/5).\n\nIn a 4-player game, M earns 4 VPs. They get 1.5 GPs = 1 + (0.5)*(4/4). If they earned 2.0 VPs, they get 1.25 GPs = 1 + (0.5)*(2/4). If they earned 2.5 GPs, they get 1.3125 GPs = 1 + (0.5)*(2.5/4).\n\nThis is designed to acknowledge that not all Game Wins are the same. It fully encourages players to earn every VP possible since they all affect their top-level score in the standings. There may be cases where VP deals are possible, but players will truly be giving up something important if they make the deal. That is to say, if you have your Game Win, you still want more.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "44670"
+    },
+    {
+      "Author": "Robba Yaga",
+      "Date": "Jan 31, 2013, 4:53\u202FPM",
+      "Body": "The type of deal making that you're referring to drives me nuts as often happens when someone arbitrarily decides they cannot get a GW and so starts dealing with another player (whom they perceive to be their strongest \"cross-table ally\") to divide up the table long before the table is truly decided.\n\nI strongly approve of the second suggestion you have here as its also notoriously easier to get a GW at a 4-player table rather than a 5 player table and with this system, suddenly not all GWs are created equal.\n\nRobba Yaga",
+      "Id": "44671"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 31, 2013, 5:12\u202FPM",
+      "Body": "> Jeff wrote:\n> 1) A Game Win may be awarded only when the game comes to its conclusion with only one Methuselah left standing.\n>\nThat is a very bad idea. If someone has 2.5VPS, he has ousted two preys already. Had they been the last two on the table, he would have his GW3. He did his job on the table, it is the other players who didn't. Removing his GW would be punishing him for the rest of the table being too slow.\n\nIt gets even worse if someone enters the duel with 3.5 VPs. The guy has his GW already, and you want to remove it from him because he cannot finish the duel in time? If anything, that would only force him to transfer out to make sure the table finishes.\n\n> 2) When a Methuselah earns a Game Win, it is worth 1 \"Game Point\" plus however many victory points the Methuselah earned as a fraction of the total available, times 0.5.\n>\n> (...)\n>\n> This is designed to acknowledge that not all Game Wins are the same. It fully encourages players to earn every VP possible since they all affect their top-level score in the standings. There may be cases where VP deals are possible, but players will truly be giving up something important if they make the deal. That is to say, if you have your Game Win, you still want more.\n>\nI don't think that is needed. VPs are already part of the formula. In lexicographical order instead of a direct sum with GWs, but it doesn't matter. One could rewrite the current system as a weighted sum as you did, the weight on the VPs just has to be small enough for one GW to beat any number of VPs. In a 3-round tournament, anything smaller than 1/7.5 (the maximum number of VPs one can score without a GW) would do. So we are really just talking about tuning one parameter.\n\nThe idea of dividing the VPs by the table size is interesting but I have no clue whether it is fairer than the current system or not. On the one hand, there are fewer VPs on a 4 player table, but on the other hand, players get more turns to play on a 4 player table and the table dynamics make it less prone to deadlocks, so those VPs are easier to fall one way or another. It would take some data crunching to check if it has an influence.",
+      "Id": "44672"
+    },
+    {
+      "Author": "ruiza97",
+      "Date": "Jan 31, 2013, 5:38\u202FPM",
+      "Body": "Off the top of my head, GW is awarded at 3 VPs. Then the game ends. Everyone still in the game gets .5 VP.\n\nFor example, A got B and C and has 2 VPs.\nD and E could work together to prevent a GW for A and probably prevent a GW for anyone else.\nOr D or E could go forward, oust E or D respectively, and also A and get a GW for being last man standing.\nOr A ousts D and both A and E get .5 VP for still being alive when A ended the game when D was ousted.\n\nPrince of Dallas\nToreador Grand Ball: Dallas\nAugust 13, 2022",
+      "Id": "44675"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jan 31, 2013, 9:53\u202FPM",
+      "Body": "> Robba wrote:\n> I strongly approve of the second suggestion you have here as its also notoriously easier to get a GW at a 4-player table rather than a 5 player table and with this system, suddenly not all GWs are created equal.\n>\nThen perhaps the 5p table GW criteria should be changed to \"At least 3VPs and more than anyone else.\" ?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "44686"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 1, 2013, 7:00\u202FAM",
+      "Body": "I think that if two players get at least three VPs at the table, each of them deserves at least a GW - if not two - for breaking the mechanics of the VP awarding\n\nBut giving a GW at 3+ VPs doesn't solve the problem Reyda sees. If you've ousted 3 preys and are in a duel, you'd still be free to withdraw, and \"no longer\" play the game anymore.",
+      "Id": "44691"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Feb 1, 2013, 4:21\u202FPM",
+      "Body": "For your considerations...\n\nV.P.s and T.P.s are only awarded to the game winner.\n\nor\n\nV.P.s are only awarded to the game winner.\n\nSo on a table that fell 3:1:1:0:0 it would be recorded 3:0:0:0:0\n\nThere could be a last man standing clause in the case of ties (i.e. 2: 2: 1 or 0.5)\nIt seems likely that this would increase \"coin flips\" to get into the finals in small tournaments, but I don't necessarily think this is worse then what we now have.",
+      "Id": "44712"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Feb 1, 2013, 4:32\u202FPM",
+      "Body": "It's really nice to see fresh ideas.\nOf course, a first shot at anything being never perfect (i don't count those haiku & tank masters here  ), we'll need some revision and discussion to propose an alternatives who give players an incentive to play the game.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "44713"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 1, 2013, 11:17\u202FPM",
+      "Body": "> Wedge wrote:\n> For your considerations...\n>\n> V.P.s and T.P.s are only awarded to the game winner.\n>\n> or\n>\n> V.P.s are only awarded to the game winner.\n>\n> So on a table that fell 3:1:1:0:0 it would be recorded 3:0:0:0:0\n>\n> There could be a last man standing clause in the case of ties (i.e. 2: 2: 1 or 0.5)\n> It seems likely that this would increase \"coin flips\" to get into the finals in small tournaments, but I don't necessarily think this is worse then what we now have.\n>\nWouldn't VTES as an all-or-nothing game mean that every table would turn into high-risk high-reward decks, because no one likes repetitive play where they are constantly \"losing\"? So every casual game would become like Day1 of a continental championship?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "44736"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Feb 1, 2013, 11:20\u202FPM",
+      "Body": "> KevinM wrote:\n> Wouldn't VTES as an all-or-nothing game mean that every table would turn into high-risk high-reward decks, because no one likes repetitive play where they are constantly \"losing\"? So every casual game would become like Day1 of a continental championship?\n>\nAt least there would be fewer table time outs.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "44737"
+    },
+    {
+      "Author": "direwolf",
+      "Date": "Feb 2, 2013, 6:12\u202FAM",
+      "Body": "I find it can be sometimes contradictory to expect players to maximize their VPs in a given game, when the format they are playing is a tournament consisting of more than one game\n\nThe number of players in the tournament also affects gameplay. In a smaller tournament, 1 game win is often enough to get to the finals. A player may play differently if he or she has a game win already, or knows that another player at his or her table has a game win.\n\nRemember in the recent Olympics, when Badminton teams were throwing games because the tournament structure encouraged it? They eliminated the teams for unsportsmanlike conduct.\n\nI am of two minds on this: yes, it is unsportsman-like to throw a game. But if the game is part of a larger tournament, then the goal is to win the tournament. If you can lose the game and still win the tournament, then that is a problem with the organization of the tournament.\n\nMaybe the V:EKN tournament rules could be improved. I'm not sure how much the proposed changes would affect anything. The math may be harder, but thematically, the second suggestion by Kuta is appropriate. A vampire should never be satiated... even with the game win he or she should always want more... be it blood of victory points.\n\nIndependent Futurist. Contrarian (titled, X votes where X is the number of votes as the acting minion.) Target Vitals is always the better combat card.",
+      "Id": "44739"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 2, 2013, 9:06\u202FAM",
+      "Body": "About timeouts: from my experience, most timeouts happens when there are still 5 players on the table, usually because some players do too much table control, noone dies, and nothing happens.\nA less frequently case is when people starts to play slow, not to keep their GW but to stay in the game and score 0.5 VP (or because the situation is quite complicated and the slightest mistake can be deadly.)\nThe rarest case is when people stall to keep their GW. I haven't seen that very often.\n\nBeing incentive to score the more VP won't resolve case #1.\nBut if you still want to be incentive, why not double VPs if you have the GW?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "44741"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 2, 2013, 9:08\u202FAM",
+      "Body": "> direwolf wrote:\n> I am of two minds on this: yes, it is unsportsman-like to throw a game. But if the game is part of a larger tournament, then the goal is to win the tournament.\n>\n...in a sportsmanlike manner. That is clearly, obviously known to be true.\n\n> direwolf wrote:\n> If you can lose the game and still win the tournament, then that is a problem with the organization of the tournament.\n>\nNo, because at all times, if one acts unsportsmanlike, one deserves the appropriate punishment, and it does not indicate anything wrong with the tournament in any way.\n\nHaving said that, I do tend to agree that the current GW/VP/TP-structure is not completely satisfactory, and I've been advocating the complete abolishment of the 'Withdraw' rule for years as anti-PTW.Kuta often comes up with wacky, untenable rules changes, but they most often lead to interesting discussions, so I am all for hearing what he has to say and even trying some of his ideas out from time to time.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "44742"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 2, 2013, 11:38\u202FAM",
+      "Body": "> Wedge wrote:\n> V.P.s and T.P.s are only awarded to the game winner.\n>\nScoring will be pretty monotonous and in BIG tournaments checking out the qualified players will be difficult as you'll need to draw lots to see who will be the lower quarter of the qualified players from all the people who have 0 points...\n\nNot good.\n\nFinnish  Politics!",
+      "Id": "44745"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Feb 2, 2013, 4:03\u202FPM",
+      "Body": "Kevin, I don't think you meant casual games, rather any tournament may see increased aggression. Any change in meta would be from player perception, not a shift in the rules, we are still required to play to win now.\n\nLonkka, That is one of the reasons I included the other option. To be honest, I don't see the deals Reyda and Souli where talking about anymore. It could be because, no deal is binding, and my play group feels it is bad form to take a death before dishonor attitude when playing \"Vampires\". Or those of us who are skilled at deal making don't it is worth the trouble. Or the % of players who aren't aware of game state is low or high, whatever. All deals should be short term ones, anything else you should not accept.",
+      "Id": "44752"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 2, 2013, 11:59\u202FPM",
+      "Body": "> Wedge wrote:\n> Kevin, I don't think you meant casual games, rather any tournament may see increased aggression. Any change in meta would be from player perception, not a shift in the rules, we are still required to play to win now.\n>\nNo, I meant casual games. There is a difference between the rules saying that one is forced to Play To Win and the rules saying that if you do not win you get a big fat goose egg. That zero, in and of itself, especially for players who aren't that good, is going to make the meta shift towards high(er)-risk high(er)-reward decks simply because players won't wish to obtain goose egg after goose egg after goose egg. Even during a non-tournament session, that's pretty brutal.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "44781"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Feb 3, 2013, 8:38\u202FPM",
+      "Body": "> KevinM wrote:\n> Having said that, I do tend to agree that the current GW/VP/TP-structure is not completely satisfactory, and I've been advocating the complete abolishment of the 'Withdraw' rule for years as anti-PTW.\n>\nWhat Withdrawing were forbidden in the heads-up game but still possible if there were 3 or more Methuselahs playing? That could go a long way toward eliminating table splitting deals, while still allowing people who can \"legitimately\" withdraw to do so.\n\n> KevinM wrote:\n> Kuta often comes up with wacky, untenable rules changes, but they most often lead to interesting discussions, so I am all for hearing what he has to say and even trying some of his ideas out from time to time.\n>\nUnusual and untried does not necessarily equal wacky and untenable. And it is the nature of progress that the new becomes the old and the old fades to history.\n\n> Ankha wrote:\n> But if you still want to be incentive, why not double VPs if you have the GW?\n>\nSure, this could also be a possibility. It certainly encourages the winning Methuselah to be as ruthless as possible in the end game, or at the very least they have to think very carefully about making deals and keeping them.\n\nThe trick of course is getting a sufficient experimental sample size to try out these different ideas before officially requiring any changes. I'd like to see an official set of tournament rules for all events, with an \"optional\" set of scoring rules for smaller (perhaps < 40 players) non-Continental championships. If the organizer wants to try 'em out, then go for it and see how things change. If not, then that's fine too.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "44801"
+    },
+    {
+      "Author": "Robba Yaga",
+      "Date": "Feb 4, 2013, 5:51\u202FPM",
+      "Body": "> Ankha wrote:\n> Being incentive to score the more VP won't resolve case #1. But if you still want to be incentive, why not double VPs if you have the GW?\n>\nA person with a GW always beats a person without a GW regardless of the VPs each has and 2 individuals with same number of GWs often don't have the same number of VPs with the exception of very low numbers(1 or 2) of GWs and then its unlikely the multiplier would create much separation anyway.\n\nSo, what I'm saying is this seems only a workable solution if GWs go away other than to count as a multiplier. This could lead to interesting scenarios where someone that can't manage a GW, but consistently scores numerous VPs might sneak ahead of someone with a single GW, which is not such a terrible notion. Not sure if this would lead to more or less table splitting deals, however.",
+      "Id": "44821"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Feb 4, 2013, 7:23\u202FPM",
+      "Body": "> Robba wrote:\n> So, what I'm saying is this seems only a workable solution if GWs go away other than to count as a multiplier. This could lead to interesting scenarios where someone that can't manage a GW, but consistently scores numerous VPs might sneak ahead of someone with a single GW, which is not such a terrible notion. Not sure if this would lead to more or less table splitting deals, however.\n>\nBack in the day, GWs didn't exist. It was all about VPs. Somewhere along the way, it was decided that someone who earned 3 VPs in two separate games deserved better standing than another who earned 5 VPs in one game and 1 VP in another. Game Wins were born, and the metagame evolved. (It was ridiculous when everyone gamed the system--\"Untap. Discard. Done.\"--to withdraw for a full VP as tables became close to timing out. Fortunately, that went away.)\n\nI think most people would agree that \"not all game wins are equal\", meaning that 5 VP sweeps are much more convincing than 2.5-4.0 VP wins. While VPs as second tie-breaker represent the differences, I don't think they are enough for the \"diminishing returns\" reasons stated previously.\n\nAnother possibility would be to keep track of another statistic, VPs from Game Wins, that would be used as a first tie-breaker beyond Game Wins.\n\nThis doesn't necessitate any multiplier math, but it certainly emphasizes the need to continue earning VPs when a Game Win is secure.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "44832"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 4, 2013, 11:22\u202FPM",
+      "Body": "> Jeff wrote:\n>\n> > KevinM wrote:\n> > Kuta often comes up with wacky, untenable rules changes, but they most often lead to interesting discussions, so I am all for hearing what he has to say and even trying some of his ideas out from time to time.\n> >\n> Unusual and untried does not necessarily equal wacky and untenable.\n>\nI never said that it did.\n\n> And it is the nature of progress that the new becomes the old and the old fades to history.\n>\nThis is an easily disprovable maxim, so I reject it. Some things will change and some (most?) won't. I agree that further testing is necessary in any case.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "44843"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Feb 4, 2013, 11:58\u202FPM",
+      "Body": "> Jeff wrote:\n> And it is the nature of progress that the new becomes the old and the old fades to history.\n>\n> KevinM wrote:\n> This is an easily disprovable maxim, so I reject it. Some things will change and some (most?) won't. I agree that further testing is necessary in any case.\n>\nI think it's more of a tautology. If you progress, you move forward from a previously existing state.\n\nPropose. Debate. Test. Implement. Re-evaluate. Sounds like a good plan.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "44849"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Feb 5, 2013, 4:22\u202FAM",
+      "Body": "This thread is quickly reminding me of a series of \"conversations\" i had witha friend of mine(a vtm player) in high school. A debate upon and debating upon debating.\n\nWhile the circular logic of anargument argument for arguments sake does make me all glittery eyed and nostolgic, im actually interested inthe subject origional subject matter. So, Kevin and Kuta, differing opinions and views abound, but is there eventhe remotest of possibility of a change being thought up that does these things:\n\nFulfills the purpose of points inthe first place, in providing fair and reasonable ranking\n\nIs more fair than the current, i believe almost-but-not-quite-good system for the above\n\nAnd doesnt make heads explode due to math.\n\nThere are alot of smart folks who play this game. Sometimes im even in that demigraphic. But not when trying to assign quantitative values to simething that is often so case by case that its half qualitative data onthefirst level. Too much thinking and toomany opinionsfor me to come up with anything that is all 3 of the above.",
+      "Id": "44852"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 5, 2013, 9:42\u202FAM",
+      "Body": "> Jeff wrote:\n> Another possibility would be to keep track of another statistic, VPs from Game Wins, that would be used as a first tie-breaker beyond Game Wins.\n>\nSo instead of the current GW-VP-TP, GW-VP from GW-VP from rest-TP? That could work, it decreases the incentive for the winner to let VPs go. What worries me a bit is that it favors trick decks that can guarantee a sweep if they get going such a turbos, Una,...",
+      "Id": "44864"
+    }
+  ]
+}

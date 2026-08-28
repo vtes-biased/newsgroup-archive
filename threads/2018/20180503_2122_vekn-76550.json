@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-76550",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/76550-replies-submitted-but-never-gets-confirmed-in-browser",
+  "Title": "Replies submitted, but never gets confirmed in browser",
+  "Messages": [
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 3, 2018, 9:22\u202FPM",
+      "Body": "Is anyone else seeing slightly curious behaviour?\n\nI submit a reply, and my browser (Chrome) submits it and the spinny ball in the V:EKN tab spins round telling me it's submitting the response. And it just stays there doing that. In another tab, I can see the response has been submitted (because the thread has been updated and I can see my reply), but the other tab just continues sitting there looking like it's still submitting without getting a response from the webserver.\n\nI've only seen this behaviour in the last 24 hours or so where, to the best of my knowledge, I haven't changed anything at my end.",
+      "Id": "86423"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 4, 2018, 12:40\u202FAM",
+      "Body": "Getting the same thing. Also using Chrome.",
+      "Id": "86432"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 4, 2018, 1:46\u202FAM",
+      "Body": "*poasts with chrome*",
+      "Id": "86433"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 4, 2018, 1:46\u202FAM",
+      "Body": "works totally fine for me?",
+      "Id": "86434"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 4, 2018, 6:51\u202FAM",
+      "Body": "I will look at it. I have the problem too with Chrome, but not another browser (like IE)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86435"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 4, 2018, 7:16\u202FAM",
+      "Body": "First time ever this happened to me just a second ago.\n\nStopped the endless spinning made pressed \"submit\" again and was told \"Error. A duplicate message\" or something to that effect.\n\nEDIT: Apparently it is a bit random, since a minute later when I posted this, I had zero problems with it. So the above has happened to me only once so far.\n\nUsing Firefox 59.0.3 (64-bit).\n\nFinnish  Politics!",
+      "Id": "86437"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "May 4, 2018, 4:45\u202FPM",
+      "Body": "I made a couple of double posts for this reason. The work-around I'm doing now is to open another window to the same forum and see if it already posted before resubmitting.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "86448"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 4, 2018, 4:55\u202FPM",
+      "Body": "I've posted multiple times today and not had any issues.",
+      "Id": "86450"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 4, 2018, 10:57\u202FPM",
+      "Body": "> Ankha wrote:\n> I will look at it. I have the problem too with Chrome, but not another browser (like IE)\n>\nI've had this problem appear occasionally, ever since the other server issues started surfacing, so did this issue. The posts still get posted, the browser just doesn't get confirmation of it. So if you press submit again, your post might get posted twice. I use chrome.\n\nedit: this post was submitted without problems.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "86452"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "May 6, 2018, 8:55\u202FPM",
+      "Body": "I've been getting this issue for some time now as well.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "86520"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 6, 2018, 9:00\u202FPM",
+      "Body": "I can't do much for now, but wait for a fix from Joomla, or Kunena (the tools we use for this forum).\nThere was an update today that has been installed, hopefully it will fix it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86521"
+    }
+  ]
+}

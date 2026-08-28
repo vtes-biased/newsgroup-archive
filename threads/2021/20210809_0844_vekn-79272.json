@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-79272",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79272-sociopath-and-code-of-samiel-definition-of-in-combat",
+  "Title": "Sociopath and Code of Samiel : definition of \"in combat\"",
+  "Messages": [
+    {
+      "Author": "Timo",
+      "Date": "Aug 9, 2021, 8:44\u202FAM",
+      "Body": "> Name: Code of Samiel\n> [HttB:R/B1]\n> Cardtype: Master\n> Clan: Salubri antitribu\n> Cost: 2 pool\n> Burn Option\n> Unique.\n> Put this card in play. During your unlock phase, a Salubri antitribu you control can gain 1 blood. If a Salubri antitribu burns a ready vampire or sends a vampire to torpor in combat or as a  action, that Salubri antitribu can unlock after the end of the minion phase.\n> Artist: Peter Bergting\n>\n> Name: Sociopath\n> [BH:C/PTr2]\n> Cardtype: Master\n> Master: archetype.\n> Put this card on a Sabbat vampire you control. Once per turn, when this vampire remains ready and burns a minion in combat or sends a vampire to torpor in combat, he or she gains 1 blood from the blood bank. A vampire can have only one archetype.\n> Artist: Fred Harper\n>\nOk here are the card texts. Now, what is the definition of \"in combat\" for these cards. Does it means \"during combat\" or does it means \"due to a combat card or a combat effect\"\n\nI would think it is the first one but it could be argued that a Catatonic Fear triggers these cards.\n\nWhat seals the deal IMO is a card like Cobra Fangs.\n\nA confirmation ?\n>\n> Name: Catatonic Fear\n> [Sabbat:U, SW:U, FN:PS, CE:PTo, LoB:PI2, Third:U]\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Presence\n> Strike: combat ends.\n> As above, and inflict 1 damage to the opposing minion once combat ends if the range is close.\n> Artist: Clint Langley\n>\n> Name: Cobra Fangs\n> [LotN:R, POD:DTC]\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Serpentis\n> [ser] Strike: hand strike. If any damage from this strike is successfully inflicted on an opposing ally, burn that ally after action resolution.\n> [SER] As above, and if any damage from this strike is successfully inflicted on an opposing vampire, the opposing vampire goes to torpor during their next unlock phase.\n> Artist: Mike Chaney\n>",
+      "Id": "102870"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2021, 2:32\u202FPM",
+      "Body": "After combat is no longer \"in combat\". So Catatonic Fear or Cobra Fangs won't trigger The Code of Samiel or Sociopath.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102875"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 9, 2021, 8:26\u202FPM",
+      "Body": "Isn\u2019t the damage from Catatonic Fear done in the step F \u201CCombat Ends\u201D (from the Detailed Play Summary) which is still part of the combat....meaning that if that damage sent a vampire to torpor it has then happened \"in combat\"?",
+      "Id": "102878"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2021, 8:59\u202FPM",
+      "Body": "> inm8 wrote:\n> Isn\u2019t the damage from Catatonic Fear done in the step F \u201CCombat Ends\u201D (from the Detailed Play Summary) which is still part of the combat....meaning that if that damage sent a vampire to torpor it has then happened \"in combat\"?\n>\nNo, it's inflicted after the combat ends. (groups.google.com/g/rec.games.trading-cards.jyhad/c/KireUeOYY3c/m/nb81oLVJRyMJ) You couldn't play Disarm thanks to it for instance.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102879"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 9, 2021, 9:02\u202FPM",
+      "Body": "Guess I found the answer on my own to my question ...  [RTR 19970630] states that the damage is inflicted after combat ends.\n\nIt\u2019s because of what and how the word \u201Conce\u201D means and how it is used...as a non-native english speaker I learned something today....would have been easier for us if \u201Cafter\u201D was used instead of \u201Conce\u201D.",
+      "Id": "102880"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 10, 2021, 6:09\u202FAM",
+      "Body": "> inm8 wrote:\n> Guess I found the answer on my own to my question ...  [RTR 19970630] states that the damage is inflicted after combat ends.\n>\n> It\u2019s because of what and how the word \u201Conce\u201D means and how it is used...as a non-native english speaker I learned something today....would have been easier for us if \u201Cafter\u201D was used instead of \u201Conce\u201D.\n>\nIt will be the case once the card is reprinted (but they mean the same thing indeed).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102881"
+    }
+  ]
+}

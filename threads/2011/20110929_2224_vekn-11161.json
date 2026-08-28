@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-11161",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/11161-khazar-s-diary-endless-night-question",
+  "Title": "Khazar`s Diary (Endless Night) question",
+  "Messages": [
+    {
+      "Author": "Mael",
+      "Date": "Sep 29, 2011, 10:24\u202FPM",
+      "Body": "Hi,\n\nQuick question that came up in today's game.\nMethuselah B has a Khazar's Diary in play with >7 counters.\nMethuselahs A and B both have Giovanni, and both are taking advantage of the diary to create wraiths.\nIf Methuselah B get's ousted, what happens to the wraiths created by Methuselah A?\n\nKhazar`s Diary (Endless Night)\n+1 stealth action. Put the Diary in play, or add a counter to one in play. When a unique minion in play is burned, add another counter. While this card has seven or more counters, Giovanni get [NEC] and may take a +1 stealth action to put a minion from any ash heap into play to represent a wraith ally with 2 life, 0 strength, 1 bleed and +1 stealth.\n\nHow we played it was that they remain in play and still represent wraiths, but no more can be created. I'd just like to confirm that this is correct.\n\nThank you,\n\nSeamus.",
+      "Id": "11161"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 30, 2011, 5:29\u202FAM",
+      "Body": "That's seems to be a coherent handling of the issue.\nI'll add it to the Rulings list.",
+      "Id": "11169"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 30, 2011, 6:51\u202FAM",
+      "Body": "I think we can get inspiration from\n\nName: Absimiliard's Army\n[Gehenna:R]\nCardtype: Event\nGehenna. Do not replace until a Methuselah is ousted.\nRequires at least one other Gehenna card in play. During each Methuselah's untap phase, he or she may put the top card of his or her library in play. That card represents a -{nameless, textless}- ghoul ally with 2 life, 2 strength and 1 bleed. If the ally is burned, it is removed from the game. When a Methuselah is ousted, burn this card. Remove all such allies from the game when this card leaves play.\n\nThe fact that the allies are removed when Absimiliard's Army leaves play is explicitely stated (unless it's a reminded text, but it doesn't look like one). One could deduce that it means that otherwise they would stay in play as allies.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11178"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 30, 2011, 6:56\u202FAM",
+      "Body": "Yes, I checked Absimiliar's Army and Demdemeh first. Absimiliard's Army's text isn't reminder.\n\"They remain in play as allies\" should also imply that they remember their starting life, their strength, bleed, and their +1 strength.\n\nSame goes for allies created via Demdemeh's special, once she's gone (burned / removed from the game / out of play / ..): they remain in play (unless their controller was ousted).\n\nEDIT: I can't think of any other card that generetes minions in that way (i.e. thes minions would not have their cardtext on them).",
+      "Id": "11179"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Sep 30, 2011, 7:11\u202FAM",
+      "Body": "> Pascal wrote:\n> EDIT: I can't think of any other card that generetes minions in that way (i.e. thes minions would not have their cardtext on them).\n>\nSpell of Life, which usually leaves play before the minions are even generated.",
+      "Id": "11182"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 30, 2011, 7:25\u202FAM",
+      "Body": "Well, Spell of Life isn't really an issue, since the card itself isn't there when the minions are created.",
+      "Id": "11184"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Sep 30, 2011, 8:07\u202FAM",
+      "Body": "> Pascal wrote:\n> Well, Spell of Life isn't really an issue, since the card itself isn't there when the minions are created.\n>\nOf course, just adding on to the list of cards with similar phrasing that create tokens with a memory, thus implicitly supporting the given ruling.",
+      "Id": "11186"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Sep 30, 2011, 10:04\u202FAM",
+      "Body": "Thanks all.",
+      "Id": "11199"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-76403",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/76403-issues-with-scheduling-an-event",
+  "Title": "Issues with scheduling an event",
+  "Messages": [
+    {
+      "Author": "Loughman",
+      "Date": "Feb 3, 2018, 5:54\u202FAM",
+      "Body": "As I attempt to schedule a new tournament, the form does not allow me to enter the venue. Am I doing something (very probably) or is there some sort of glitch in the system?\n\nThanks",
+      "Id": "85209"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Feb 3, 2018, 12:36\u202FPM",
+      "Body": "Ankha is working on it.\n\nThat issue has also been reported by other players.\n\nV:EKN Website Coordinator",
+      "Id": "85210"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 6, 2018, 3:50\u202FPM",
+      "Body": "This is a general issue with the latest version of Joomla (3.8.4). Thousands of components (such as the VEKN component) are impacted.\n\nThis will be reverted in the next version (in a few days hopefully) and everything should work again. Until then, please wait to create events, players, or to submit archons.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85229"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-78676",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78676-draba-timing",
+  "Title": "Draba timing",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "Jun 7, 2020, 12:18\u202FPM",
+      "Body": "Situation: A \u2192 B \u2192 C\nA plays Magic of the Smith  at 3 stealth, B has a locked Prince and a Second Tradition: Domain in hand.\n\nMust B declare wether he attempts (using Second Tradition) or declines to block before C has a chance to play Draba  ? Can he wait to see if C plays Draba and only use his Second Tradition in this case ?\n\nRelevant ruling (maybe):  [PIB 20150820] .\n\nBonus questions:\n- Does the same timing apply for C to use an inferior  Draba on A's vampire ?\n- Does the same timing apply to Ignis Fatuus at inferior  and superior  ?\n\nThe situation happened in game and we were curious to see if B had to commit and trust the Ravnos player, which is not the same as waiting for after he plays the card.\n\nDraba\n\n[Action/Reaction][1B]\n+1 stealth action. \u24B9 Put this card on a ready minion. You still control this card. Burn this card to reduce that minion's stealth to 0. The minion may still increase his or her stealth.\nReduce the acting minion's stealth to 0. The minion may still increase his or her stealth.\n\nSecond Tradition: Domain\n\n[Reaction]\nRequires a prince or justicar.\n+2 intercept. Also usable by a locked prince or justicar, even if intercept is not yet needed, to burn 1 blood to unlock and attempt to block with +2 intercept.\n\nIgnis Fatuus\n\n[Reaction][1B]\nThe acting minion gets -1 stealth for the remainder of the turn.\nReduce a bleed against any Methuselah by 1.\n\nMagic of the Smith\n\n[Action][1B]\n+1 stealth action.\nSearch your library for an equipment card and equip this acting vampire with it (requirements and cost apply as normal). Shuffle afterward.\nAs above, but this is a +3 stealth action.",
+      "Id": "100041"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 7, 2020, 2:40\u202FPM",
+      "Body": "If B declines to block, the decision is final, unless the action changes targets.\nSo B needs to attempt to block first. Impulse goes back to A, then B (who is lacking the intercept but still attempting to block), then C who can play Draba.\nWhether the action is blocked or not (by comparing stealth and intercept) is determined only when everyone has passed the impulse.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100043"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 16, 2021, 12:34\u202FPM",
+      "Body": "So in teory :\nSituation: A \u2192 B \u2192 C\nA plays Magic of the Smith  at 3 stealth, B has unlocked minion,0 intercept,B can ask player C do you have Draba to help me,if C say: yes I have and want to play,B can declare atempt to block even with 0 intercept and him expect to C play Draba when C get impulse?",
+      "Id": "101444"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jan 18, 2021, 7:50\u202FAM",
+      "Body": "Yes. There is nothing stopping you from declaring an attempt to block while you do not have enough intercept. Technically, you do this all the time. You cannot play intercept you do not need, so in order to meet that requirement you must attempt to block with insufficient intercept.",
+      "Id": "101454"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-79087",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79087-damage-immunity",
+  "Title": "Damage Immunity",
+  "Messages": [
+    {
+      "Author": "deslaure",
+      "Date": "Mar 23, 2021, 11:20\u202FAM",
+      "Body": "Hi,\n\nI do not see anywhere how to handle the fact that a vampire / ally is immune to X.\n\nWhere can I found the information in the rulebook?\n\nThanks",
+      "Id": "101921"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 23, 2021, 12:19\u202FPM",
+      "Body": "It is not in the rulebook AFAIK.\n\nIt is an english word meaning that X as no effect on the vampire / ally in question.\n\nYou can find rulings made for specific cases :\n\nfor example :\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/MhHKBY7II78/m/EyI_ise9M-kJ",
+      "Id": "101922"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 23, 2021, 1:40\u202FPM",
+      "Body": "If a card is immune to X, then X has no effect on that card.\n\nAs the cards are getting reprinted, only \"immune to damage\" will be kept. Other effects such as \"immune to frenzy cards\" are being reworded.\n\nDamage has no effect on a minion who is immune to damage.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101923"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Mar 23, 2021, 9:14\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> Damage has no effect on a minion who is immune to damage.\n>\ndoes it still count as being inflicted for cards that might check that sort of thing? (Taste and Disarm have language that makes the point moot) is the damage prevented completely? or is it reduced to 0? I'm sure there's some kind of corner case that may apply...",
+      "Id": "101925"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Mar 23, 2021, 10:03\u202FPM",
+      "Body": "Found a corner case where it might be relevant:\n\nWeighted Walking Stick\n\nOnly usable before range is determined during the first round of combat.\nPut this card with 5 counters on it on this minion; it becomes a melee weapon equipment that can strike: strength+1 damage. For each damage inflicted by this strike (even if prevented), burn 1 counter from this card. Burn this card if it has no counters. A minion can have only one Weighted Walking Stick.\n\nSo if e.g. Mictlantecuhtli, who is immune to damage from weapons is hit with a Weighted Walking Stick, does it burn counters?\n\nPrince of Bonn, Germany",
+      "Id": "101926"
+    },
+    {
+      "Author": "lip",
+      "Date": "Mar 23, 2021, 10:19\u202FPM",
+      "Body": "Damage has no effect - means it is not inflicted.\n\nCheck the Codex when you find an example with cards. i.e. on Miclantecuhtli:\n\nImmune means damage is not inflicted, even if non-preventable or outside combat. [LSJ 20010627](groups.google.com/d/msg/rec.games.trading-cards.jyhad/NhNCVCCDyU0/I5Yph3-UUPsJ) [LSJ 20010629](groups.google.com/g/rec.games.trading-cards.jyhad/c/MhHKBY7II78/m/EyI_ise9M-kJ) [LSJ 20090304-1](groups.google.com/d/msg/rec.games.trading-cards.jyhad/B7EQiAVOr1Q/gg-GkqQBRp8J)\n\nSo, no, you don\u2019t burn WWS counters.\n\nEdit: So, it if inflicted with no effect, WWS counter burn. Thanks Ankha for the correction (see later on), I'll update the Codex rulings to reflect that. Thanks Yomyael fro the great corner case!",
+      "Id": "101927"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Mar 24, 2021, 8:24\u202FAM",
+      "Body": "Looking through the links I don't really see the answer there. The first link only states that it is not succesfully inflicted, not that it is not inflicted at all. The second link says, that unpreventable damage against someone who is immune is still unpreventable, but will simply be ignored for the minion. The third talks about whether the unlock damage from Talbot's Chainsaw in fact comes from the chainsaw.\n\nAll these links do not state that damag is not inflicted at all, only that it is not succesfully inflicted. Which is not what is questioned here, as Weighted Walking Stick only cares about inflicted damage and not if it is succesfully inflicted. This might be nitpicking, but I'd like to have an explicit answer to this. If I've missed something, feel free to quote the answer directly\n\nPrince of Bonn, Germany",
+      "Id": "101928"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Mar 24, 2021, 8:59\u202FAM",
+      "Body": "After reading said rulings, I agree with Yomyael !\n\nThe quote from the ruling is :\n\n\"Damage that is prevented, dodged, or immunized away is not successfully inflicted.\"\n\nAnd the parallel done with prevented damage make it clear there IS a difference (at least for WWS)",
+      "Id": "101929"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 24, 2021, 9:33\u202FAM",
+      "Body": "I\u00B4m also with Timo and Yomyael on this.\n>\n> [ LSJ 20010629] LSJ wrote:\n>\n> The damage is unpreventable and is not\n> prevented. It is then ignored.\n>\n.\nThe above means the damage is inflicted and not prevented and is then ignored because of immunity to that damage, i.e. making the damage inflicted but not successfully inflicted...difference being that the latter results in damage needing to be handled as it is not ignored.\n\nFurthermore the definition of the word \"immunity\" makes it clear that it is about how something is handled and doesn't prevent exposure/infliction. In this case i would apply nr 4 (the liability being the need to deal with the damage inflicted) exempting the need to deal with the damage inflicted.\n.\n>\n> dictonary.com says:\n>\n> immunity [ ih-myoo-ni-tee ]noun, plural im\u00B7mu\u00B7ni\u00B7ties.  the state of being  immune from or insusceptible to a particular disease or the like. the condition that permits either natural or acquired resistance to disease. the ability of a cell to react immunologically in the presence of an antigen. exemption from any natural or usual liability. exemption from obligation, service, duty, or liability to taxation, jurisdiction, etc.:The ambassador claimed diplomatic immunity when they arrested him for reckless driving. Law. exemption from criminal prosecution or legal liability or punishment on certain conditions. special privilege.\n>",
+      "Id": "101930"
+    },
+    {
+      "Author": "Facilier",
+      "Date": "Mar 24, 2021, 9:39\u202FAM",
+      "Body": "\"The first link only states that it is not succesfully inflicted, not that it is not inflicted at all.\"\n\nI think you are trying to wedge in a distinction here that does not exist within the language, and would create a dangerous misalignment between the dictionary definition and the game term, where anything can then be questioned, and run the risk of having a completely unintuitive rulings.\n\nIf I did not successfully open the door, it is not open through my actions. The distinction you reference can only exist with words like \"attempt\" that do not carry with them information about a particular result.\n\nObviously not a rules guru, but it\u2019s very important to have linguistic integrity within a game that relies on words to communicate.\n\nNC, Ireland",
+      "Id": "101931"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Mar 24, 2021, 9:58\u202FAM",
+      "Body": "> Facilier wrote:\n> \"The first link only states that it is not succesfully inflicted, not that it is not inflicted at all.\"\n>\n> I think you are trying to wedge in a distinction here that does not exist within the language, and would create a dangerous misalignment between the dictionary definition and the game term, where anything can then be questioned, and run the risk of having a completely unintuitive rulings.\n>\n> If I did not successfully open the door, it is not open through my actions. The distinction you reference can only exist with words like \"attempt\" that do not carry with them information about a particular result.\n>\n> Obviously not a rules guru, but it\u2019s very important to have linguistic integrity within a game that relies on words to communicate.\n>\nBut we know the distinction already exists in the game. Take for example Target vitals: \"If any damage from this strike is succesfully inflicted\" means: it is inflicted and not prevented. However, in the earlier quote from the text of WWS: \"For each damage inflicted by this strike (even if prevented)\" meaning damage can be inflicted unsuccesfully if it is prevented, but it is inflicted nonetheless.\n\nPrince of Bonn, Germany",
+      "Id": "101932"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 24, 2021, 12:57\u202FPM",
+      "Body": "> lip wrote:\n> Check the Codex when you find an example with cards. i.e. on Miclantecuhtli\n>\nI understand the intent with this reply was to indicate that this rulings exist outside the official rulebook, and to simply point people in that direction. But there's still too many threads post-rulebook revision where someone quotes a 20-year-old ruling and is like \"would you check the rulings before posting, you dumb player?\" (again, likely not your intention with your reply, but it may come across that way to the people asking for clarification).\n\nThe rulebook was heavily revised recently, and immune and inflict weren't defined. There may be a reason for that, but this \"rulesmonger has spoken/already spoken\" approach to communicating rules historically prevalent on this forum the past decade and the newsgroup 1994-2010 is really not a good look in 2021, in my opinion. Especially with the rulebook being recently revised.",
+      "Id": "101934"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 24, 2021, 1:27\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > Ankha wrote:\n> >\n> > Damage has no effect on a minion who is immune to damage.\n> >\n> does it still count as being inflicted for cards that might check that sort of thing? (Taste and Disarm have language that makes the point moot) is the damage prevented completely? or is it reduced to 0? I'm sure there's some kind of corner case that may apply...\n>\nYes. Damage is inflicted, but has no effect.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/30BOLorrsjA/m/MGHFmBtWRt0J\n\nThe minion who is immune to damage may choose to prevent any of it. Any damage that is not prevented is inflicted unsuccessfully (it's not automatically prevented, nor reduced to 0). So the minion won't burn blood or life to mend the damage or to prevent destruction, nor become wounded because of damage.\n>\n> Yomyael wrote:\n> Found a corner case where it might be relevant:\n>\n> Weighted Walking Stick\n>\n> Only usable before range is determined during the first round of combat.\n> Put this card with 5 counters on it on this minion; it becomes a melee weapon equipment that can strike: strength+1 damage. For each damage inflicted by this strike (even if prevented), burn 1 counter from this card. Burn this card if it has no counters. A minion can have only one Weighted Walking Stick.\n>\n> So if e.g. Mictlantecuhtli, who is immune to damage from weapons is hit with a Weighted Walking Stick, does it burn counters?\n>\nIt does.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101937"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 24, 2021, 3:34\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > lip wrote:\n> > Check the Codex when you find an example with cards. i.e. on Miclantecuhtli\n> >\n> I understand the intent with this reply was to indicate that this rulings exist outside the official rulebook, and to simply point people in that direction. But there's still too many threads post-rulebook revision where someone quotes a 20-year-old ruling and is like \"would you check the rulings before posting, you dumb player?\" (again, likely not your intention with your reply, but it may come across that way to the people asking for clarification).\n>\n> The rulebook was heavily revised recently, and immune and inflict weren't defined. There may be a reason for that, but this \"rulesmonger has spoken/already spoken\" approach to communicating rules historically prevalent on this forum the past decade and the newsgroup 1994-2010 is really not a good look in 2021, in my opinion. Especially with the rulebook being recently revised.\n>\nThe rulebook will be updated.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101938"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 24, 2021, 5:06\u202FPM",
+      "Body": "> Ankha wrote:\n> The minion who is immune to damage may choose to prevent any of it. Any damage that is not prevented is inflicted unsuccessfully (it's not automatically prevented, nor reduced to 0). So the minion won't burn blood or life to mend the damage or to prevent destruction, nor become wounded because of damage.\n>\ndoes that mean, that an immune minion is still subject to effects that only care aoubt \"inflicted damage\" wich is not necessarily sucessful?\n\nie, could Mictlantecuhtli's fangs be pulled if he would hit a lot by a weapon? (since it does not mention \"sucessfully\")\n\nPulled Fangs\n\nOnly usable at close range at the end of a round of combat in which this minion inflicted more damage at close range than the opposing vampire. Not usable by a minion being burned or going into torpor.\nPut this card on the opposing vampire, and this minion inflicts 1 point of damage. The victim cannot hunt until this card is removed. Any vampire(s) may burn this card with two +1 stealth actions. If the victim must hunt and cannot, he or she goes into torpor. A vampire can have only 1 Pulled Fangs.\n\nOther notably moreedge-casey cards that are affected by this question:\n\nDrink the Blood of Ahriman\n\n+1 stealth action.\nPut this card on this Lasombra. This Lasombra gets +1 strength and cards requiring Obtenebration [obt] cost them 1 fewer blood. During your unlock phase, this Lasombra burns 1 blood or this card is burned. Burn this card if any ranged aggravated damage is inflicted on this vampire (even if prevented).\n\nRevelation of Wrath\n\nOnly usable at the end of a round of combat in which the opposing minion inflicted 2 or more damage or any aggravated damage (even if prevented). A vampire can play only one Revelation of Wrath each round.\n[ser] Put 1 corruption counter on the opposing minion.\n[SER] As above, and put 1 additional corruption counter if the opposing minion inflicted 3 or more damage or 2 or more aggravated damage this round.",
+      "Id": "101939"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 24, 2021, 5:20\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > Ankha wrote:\n> > The minion who is immune to damage may choose to prevent any of it. Any damage that is not prevented is inflicted unsuccessfully (it's not automatically prevented, nor reduced to 0). So the minion won't burn blood or life to mend the damage or to prevent destruction, nor become wounded because of damage.\n> >\n> does that mean, that an immune minion is still subject to effects that only care aoubt \"inflicted damage\" wich is not necessarily sucessful?\n>\n> ie, could Mictlantecuhtli's fangs be pulled if he would hit a lot by a weapon? (since it does not mention \"sucessfully\")\n>\nThis is a mistake since the rulings mention that the damage must be inflicted successfully. I'll update the official cardtext.\n>\n> Hobbesgoblin wrote:\n> Other notably moreedge-casey cards that are affected by this question:\n>\n> Drink the Blood of Ahriman\n>\n> +1 stealth action.\n> Put this card on this Lasombra. This Lasombra gets +1 strength and cards requiring Obtenebration [obt] cost them 1 fewer blood. During your unlock phase, this Lasombra burns 1 blood or this card is burned. Burn this card if any ranged aggravated damage is inflicted on this vampire (even if prevented).\n>\nThe damage is inflicted (even if the minion is immune to it) so Drink the Blood of Ahriman would burn.\n>\n> Hobbesgoblin wrote:\n>\n> Revelation of Wrath\n>\n> Only usable at the end of a round of combat in which the opposing minion inflicted 2 or more damage or any aggravated damage (even if prevented). A vampire can play only one Revelation of Wrath each round.\n> [ser] Put 1 corruption counter on the opposing minion.\n> [SER] As above, and put 1 additional corruption counter if the opposing minion inflicted 3 or more damage or 2 or more aggravated damage this round.\n>\nThe damage is inflicted (even if the minion is immune to it) so you could use Revelation of Wrath to add corruption counters.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101940"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 24, 2021, 6:38\u202FPM",
+      "Body": "> Ankha wrote:\n> The rulebook will be updated.\n>\nThanks for this, I appreciate the reply. These terms have been in the game for at least 25 years. It's odd to me that the rulebook has been heavily revised, but 25-year-old language still isn't defined and is causing interpretation issues among players (as evidenced by this thread; someone went as far as to look up immune in the dictionary and paste the definition). Seems simple enough to add formal in-game definitions for inflict and immune, and a note that older cards may misuse immune. I understand other things may have taken priority during revision, but, again, in my view, not much else would take priority than defining decades-old terms that have generated decades-old rulings.",
+      "Id": "101941"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-75849",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/75849-the-csv-files-have-been-updated-with-anthology",
+  "Title": "The CSV files have been updated with Anthology",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2017, 10:08\u202FAM",
+      "Body": "www.vekn.net/card-lists\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82044"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 29, 2017, 11:50\u202FAM",
+      "Body": "have these also been updated to use the new terminology and templating?",
+      "Id": "82045"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2017, 11:57\u202FAM",
+      "Body": "The changes are minimal, that is:\n- tap/untap replaced by lock/unlock\n- updated the reprints from the Anthology set\n- added the new cards from the Anthology set\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82046"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "May 29, 2017, 12:47\u202FPM",
+      "Body": "Thanks for this.\n\nOen error I noticed - Loius Fortier's base version has been marked as printed in the Anthology set, rather than the advanced version (in both the csv and text files).\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "82049"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2017, 2:00\u202FPM",
+      "Body": "> drnlmza wrote:\n> Thanks for this.\n>\n> Oen error I noticed - Loius Fortier's base version has been marked as printed in the Anthology set, rather than the advanced version (in both the csv and text files).\n>\nFixed, thanks!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82050"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "May 30, 2017, 11:13\u202FPM",
+      "Body": "I know Imbued aren't well liked around here, and most people would like to pretend they don't exist, but have noticed something while parsing.\n\nVision and Visceratika share the same discipline code of 'vis'.\n\nInternally I've been replacing Vision's use with 'vsn' to avoid clashes, also added the columns for their disciplines as well.\n\nIs this of any use to anyone else?",
+      "Id": "82060"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Jun 1, 2017, 8:30\u202FAM",
+      "Body": "Just a quick question.\n\nI notice a few cards have lost their accented characters. For example:\n\nL'\u00C9puisette\nSacr\u00E9-C\u0153ur Cathedral, France\n\nIs this intentional or an artifact of conversion?",
+      "Id": "82082"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 1, 2017, 8:39\u202FAM",
+      "Body": "This is because the printed version don't have them. The accents on those cards are only present in the Revised version of the CSV which is in progress and hasn't been updated recently on the website.\n\nWhich files did contain these diacritics and don't contain them anymore?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82083"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Jun 1, 2017, 11:17\u202FAM",
+      "Body": "I just checked my code history, at some point for reasons unknown to me now ( maybe this was the version that some wording was cleaned up in... ) I had used the revised csv as my base data, which does have the accented names.\n\nI had just noticed Carlton Van Wyk had the \"( Hunter )\" part dropped, which got me looking at other name changes just to check\n\nIf revised is meant to be a work in progress, I'll leave it off my list for the time being, and stick with the standard UTF-8 csv\n\nSorry to be a pain, I appreciate all the work you do.",
+      "Id": "82084"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 1, 2017, 3:32\u202FPM",
+      "Body": "No worry, there could have been some loopholes. The \"(Hunter)\" on Carlton was dropped because it has a pseudo-purpose that has always been unclear (especially on Bane Mummies). Long ago, it was used to indicate the ally type, but now that piece of information has moved to the textbox, so it's no longer required. Other allies will be updated accordingly.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82085"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 28, 2017, 10:33\u202FAM",
+      "Body": "Something I just noticed:\nBrunhilde 's base version is marked as being in the Anthology set as well as the advanced version in both the csv and txt files.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "82384"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 28, 2017, 9:03\u202FPM",
+      "Body": "> drnlmza wrote:\n> Something I just noticed:\n> Brunhilde 's base version is marked as being in the Anthology set as well as the advanced version in both the csv and txt files.\n>\nI think it was fixed some time ago.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82397"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 29, 2017, 7:54\u202FAM",
+      "Body": "> Ankha wrote:\n> I think it was fixed some time ago.\n>\nIt's still wrong in the cardlist.txt I just downloaded from the vekn.net site, though.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "82398"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 29, 2017, 3:54\u202FPM",
+      "Body": "The text file has been fixed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82403"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Jul 26, 2017, 12:40\u202FAM",
+      "Body": "Hey Ankha,\n\nVillein has a find-and-replace type error in the text regarding minion tap costs.\n\n'Minion Lock cards cost you an additional pool'\n\nIn both the text file, and CSV versions.\n\nCheers",
+      "Id": "82785"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 26, 2017, 8:16\u202FAM",
+      "Body": "> ShanDow wrote:\n> Hey Ankha,\n>\n> Villein has a find-and-replace type error in the text regarding minion tap costs.\n>\n> 'Minion Lock cards cost you an additional pool'\n>\n> In both the text file, and CSV versions.\n>\n> Cheers\n>\nThanks! It has been fixed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82786"
+    }
+  ]
+}

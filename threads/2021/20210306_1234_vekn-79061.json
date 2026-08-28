@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-79061",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/news-and-announcements/79061-official-cardlists-update",
+  "Title": "Official cardlists update",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2021, 12:34\u202FPM",
+      "Body": "The cardlists have been updated with the latest cardtext of the last batch of POD cards.\nwww.blackchantry.com/2021/01/22/300-legacy-vampire-the-eternal-struggle-cards-now-on-drivethrucards-com/\n\nYou can find them there: www.vekn.net/card-lists\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101776"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Mar 7, 2021, 2:13\u202FPM",
+      "Body": "I found some errors on latest CSV.\n\nMasquer is missing the old name in aka column \"Masquer (Wraith)\"\n\nRequires column of Protected District is missing requires \"primogen\"\n\nRequires column of Shakar: the Hunt is missing requires \"black hand\"\n\nBanned column is missing latest cards \"Gypsies, Rom Gypsy, Terrorists, Tsigane, Tarbaby Jack\"\n\nHive Mind and Slake the Thirst artists are correct? Jami Waggoner...\n\nPatagia: Flaps Allowing Limited Flight artists list is in wrong order\n\nAsanbonsam Ghoul text is not updated\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "101783"
+    },
+    {
+      "Author": "lip",
+      "Date": "Mar 8, 2021, 1:13\u202FPM",
+      "Body": "static.krcg.org has been updated yesterday, including those modifications.",
+      "Id": "101793"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 9, 2021, 7:54\u202FAM",
+      "Body": "> Sydnelson wrote:\n> I found some errors on latest CSV.\n>\n> Masquer is missing the old name in aka column \"Masquer (Wraith)\"\n>\n> Requires column of Protected District is missing requires \"primogen\"\n>\n> Requires column of Shakar: the Hunt is missing requires \"black hand\"\n>\n> Banned column is missing latest cards \"Gypsies, Rom Gypsy, Terrorists, Tsigane, Tarbaby Jack\"\n>\n> Hive Mind and Slake the Thirst artists are correct? Jami Waggoner...\n>\n> Patagia: Flaps Allowing Limited Flight artists list is in wrong order\n>\n> Asanbonsam Ghoul text is not updated\n>\nA new version is available with the errors listed above fixed, except for Hive Mind and Slake the Thirst.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101804"
+    },
+    {
+      "Author": "lip",
+      "Date": "Mar 13, 2021, 5:00\u202FPM",
+      "Body": "static.krcg.org back up and running this morning, updated to latest CSV and FELD releases",
+      "Id": "101845"
+    }
+  ]
+}

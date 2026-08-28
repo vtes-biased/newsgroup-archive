@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-82217",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82217-anathema-zero-blood-vampire-and-steal-blood-strike",
+  "Title": "Anathema, zero blood vampire and steal blood strike",
+  "Messages": [
+    {
+      "Author": "Palamedes",
+      "Date": "Apr 11, 2025, 1:20\u202FPM",
+      "Body": "Vampire A has zero blood and \"Anathema\" attached.\nVampire B enters combat with vampire A.\nVampire B plays \"Theft of Vitae\" to steal 1 blood.\nVampire A stikes hand strike for 1.\n\nQuestion: Will this situation trigger Anathema?\n\nWarning: Spoiler!\n\nAnathema\nRequires a prince or justicar.\nChoose a ready vampire. Successful referendum means this card is put on the chosen vampire. If the attached vampire's blood is reduced to 0 in combat, the attached vampire is burned and the Methuselah controlling the opposing minion gains pool equal to the attached vampire's capacity.\n\nTheft of Vitae\ntha - Ranged strike: steal 1 blood or life (becoming blood).\nTHA - Ranged strike: steal 2 blood or life (becoming blood).",
+      "Id": "114185"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Apr 11, 2025, 1:56\u202FPM",
+      "Body": "> Palamedes wrote:\n> Vampire A has zero blood and \"Anathema\" attached.\n> Vampire B enters combat with vampire A.\n> Vampire B plays \"Theft of Vitae\" to steal 1 blood.\n> Vampire A stikes hand strike for 1.\n>\n> Question: Will this situation trigger Anathema?\n>\n> Warning: Spoiler!\n>\n> Anathema\n> Requires a prince or justicar.\n> Choose a ready vampire. Successful referendum means this card is put on the chosen vampire. If the attached vampire's blood is reduced to 0 in combat, the attached vampire is burned and the Methuselah controlling the opposing minion gains pool equal to the attached vampire's capacity.\n>\n> Theft of Vitae\n> tha - Ranged strike: steal 1 blood or life (becoming blood).\n> THA - Ranged strike: steal 2 blood or life (becoming blood).\n>\nShort. No.\n\nLong. Per  groups.google.com/g/rec.games.trading-cards.jyhad/c/tSpd9dtTElc/m/-CuHJF54_n0J\n\n> Anathema:\n> Burns the target vampire when the target is reduced to zero blood in combat,\n> regardless of the source of the loss of blood (card text). Still won't\n> burn a vampire just for entering a combat with zero blood, however - there\n> must be an actual \"reduction\" in blood.\n>\nan actual reduction is needed.\n\nGoing from 0 to 0 is not a reduction in blood. The Vampire A was at 0 blood with Anathema when the combat started, they were not burned and then they remained at 0 blood as Theft of Vitae steal effect per rulebook  www.vekn.net/rulebook#strike-effects\n\n> Steal Blood: This effect moves blood counters or life counters from the target to the striking minion. This does not count as damage, so the effect cannot be prevented with damage prevention effects. This effect occurs before the mend damage step of damage resolution, so the stolen blood can be used to mend damage even if the damage is inflicted simultaneously. If the stolen blood causes the striking vampire to have more blood than their capacity, the excess drains off immediately.\n>\ndid not move blood counters or life from the target to the striking minion (as there were nothing to move). If you reduce nothing from nothing it remains the same.\n\nIf you wish to avoid 0 blood cheesy Anathema non-burns, include\nName: Mercy for the Weak [AH:C2] Cardtype: Combat Cost: 2 blood Strike: combat ends. Only usable if this vampire has more blood than the opposing vampire. Opposing vampire gains 1 blood (even at long range). Artist: Ron Spencer\nand\nName: Telepathic Tracking [SW:U, LoB:PO2, Third:U, SP:DoF3, NB:PTr2] Cardtype: Combat Cost: 1 blood Discipline: Auspex [aus] Press, only usable to continue combat. If another round of combat occurs, this vampire gets 1 optional maneuver that round. [AUS] Only usable if both combatants are still ready and combat would end. Instead, start a new round. Artist: Mike Danza\n\nto your deck...\n\nTrust in Jan Pieterzoon.",
+      "Id": "114186"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 11, 2025, 5:08\u202FPM",
+      "Body": "The question would make more sense if A is the one stealing blood, and B the one hand-striking (in which case, A would burn).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114188"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Apr 11, 2025, 5:56\u202FPM",
+      "Body": "> Ankha wrote:\n> The question would make more sense if A is the one stealing blood, and B the one hand-striking (in which case, A would burn).\n>\nThat's clear, but I'm not sure if I understand correctly this an actual \"reduction\" in blood.\n\nWhat if:\nVampire A has zero blood and \"Anathema\" attached.\nVampire B strikes him with hand strike for 1.\n\nWill this trigger Anathema or Vampire A goes to torpor?",
+      "Id": "114189"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Apr 11, 2025, 7:37\u202FPM",
+      "Body": "> Palamedes wrote:\n>\n> > Ankha wrote:\n> > The question would make more sense if A is the one stealing blood, and B the one hand-striking (in which case, A would burn).\n> >\n> That's clear, but I'm not sure if I understand correctly this an actual \"reduction\" in blood.\n>\n> What if:\n> Vampire A has zero blood and \"Anathema\" attached.\n> Vampire B strikes him with hand strike for 1.\n>\n> Will this trigger Anathema or Vampire A goes to torpor?\n>\nTorpor, per rulebook and handling damage  www.vekn.net/rulebook/4-detailed-turn-sequence#damage-resolution\n\n> For each point of damage successfully inflicted on a vampire, they must burn 1 blood to mend the damage. A vampire can burn all of their blood if needed, and doing so does not have any other negative effects on the vampire. If a vampire cannot mend all the damage (that is, more damage is successfully inflicted than they have blood with which to mend), they burn blood to mend what damage they can, and the unmended damage leaves them wounded.\n>\nthe vampire becomes wounded (as there's no blood to burn to mend the damage). Becoming wounded is not a reduction in blood, after all, nothing reduced from nothing is still the same.\n\nEDIT: All this nothing reminded me of some lyrics that somewhat fit, aka how hard it is to trigger Anathema if opponent enters with zero blood and does not wish to give you pool.\n\n\"... How can you defeat that which finds\nNourishment in your attack?\nHow can you kill that which\nFinds sanctuary in your blade?\nHow can you hinder that which\nEmbraces the strategies against it?\nYou can take nothing from not ...\"\n\nTrust in Jan Pieterzoon.",
+      "Id": "114190"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 12, 2025, 10:30\u202FAM",
+      "Body": "> Palamedes wrote:\n>\n> > Ankha wrote:\n> > The question would make more sense if A is the one stealing blood, and B the one hand-striking (in which case, A would burn).\n> >\n> That's clear, but I'm not sure if I understand correctly this an actual \"reduction\" in blood.\n>\n> What if:\n> Vampire A has zero blood and \"Anathema\" attached.\n> Vampire B strikes him with hand strike for 1.\n>\n> Will this trigger Anathema or Vampire A goes to torpor?\n>\nReduction means you go from X to Y, where X is strictly greater than Y (for instance from 1 to 0. 0 to 0 doesn't work).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114193"
+    }
+  ]
+}

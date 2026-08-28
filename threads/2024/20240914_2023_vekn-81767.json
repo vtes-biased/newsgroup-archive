@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-81767",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/event-reports-and-twd/81767-contributing-to-the-twd",
+  "Title": "Contributing to the TWD",
+  "Messages": [
+    {
+      "Author": "Ceemitere",
+      "Date": "Sep 14, 2024, 8:23\u202FPM",
+      "Body": "TWD - A investiga\u00E7\u00E3o dos Arcontes\n\nPetropolis, Brazil\n07 July 2024, 10:00 \u2013 18:00\n2R+F\n16 jogadores\nLeonardo Villela 6130006\nwww.vekn.net/event-calendar/event/11509\n\nNome do deck: Sacha monta m\u00E3o\nAutor: Leonardo Villela\n\nDeck Name: Sascha monta m\u00E3o\nAuthor: Leo Villela\nFile Attachment:\nFile Name: Saschamont...ext2.txt\nFile Size:2 KB\n\nCrypt (12 cards; Capacity min=2 max=8 avg=5.125)\n==================\n1x Elizabeth Westcott 5 ani cel vic AUS Tzimisce:3\n1x Ana Rita Montaia 5 aus dom obf VIC Tzimisce:3\n1x Horatio 2 vic Tzimisce:2\n1x Lolita Houston 4 aus VIC Tzimisce:2\n1x Rose, The 5 aus PRE VIC Tzimisce:3\n5x Sascha Vykos, The Angel of Caine (ADV2)8 ani dom AUS THA VIC Tzimisce:2\n1x Caliban 6 ANI AUS VIC Tzimisce:2\n1x Corine Marcon 6 ani AUS VIC Tzimisce:2\n\nLibrary: 77 cards\n\nMaster (20 cards)\n==================\n1x Papillon\n6x Ashur Tablets\n1x Powerbase: Montreal\n1x Rack, The\n3x R\u00F6tschreck\n1x Smiling Jack, The Anarch\n4x Vessel\n2x Villein\n1x Wider View\n\nAction (10 cards)\n==================\n5x Fiendish Tongue\n1x Graverobbing\n3x Magic of the Smith\n1x Abbot\n\nAction Modifier (5 cards)\n==================\n5x Changeling\n\nAction Modifier/Combat (2 cards)\n==================\n2x Plasmic Form\n\nCombat (13 cards)\n==================\n2x Meld with the Land\n3x Breath of the Dragon\n8x Chiropteran Marauder\n\nEquipment (6 cards)\n==================\n1x Heart of Nizchetus\n1x Ivory Bow\n1x Kevlar Vest\n1x Living Manse\n1x Sniper Rifle\n1x Bowl of Convergence\n\nReaction (21 cards)\n==================\n2x Enhanced Senses\n6x Eyes of Argus\n2x My Enemy's Enemy\n2x On the Qui Vive\n6x Telepathic Misdirection\n3x Eagle's Sight",
+      "Id": "112604"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 14, 2024, 8:47\u202FPM",
+      "Body": "Thanks for contributing!\nHowever, for clarity:\n1/ the subject title should be the \"TWD - <the event name>\", not \"Contributing to the TWD\"\n2/ the green tick shouldn't be set, otherwise the TWD will not be processed (as the green tick is used to mark TWD that have already been processed)\n\nCould you fix your post? Thanks!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112605"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Sep 15, 2024, 7:34\u202FAM",
+      "Body": "Also an 11-card-crypt could be an issue\n\nNC of Hungary\n\n///",
+      "Id": "112607"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 15, 2024, 9:20\u202FAM",
+      "Body": "> Malachy wrote:\n> Also an 11-card-crypt could be an issue\n>\nGood catch!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112608"
+    },
+    {
+      "Author": "Ceemitere",
+      "Date": "Sep 15, 2024, 3:31\u202FPM",
+      "Body": "corrected! Thanks.",
+      "Id": "112611"
+    },
+    {
+      "Author": "Ceemitere",
+      "Date": "Oct 5, 2024, 12:05\u202FPM",
+      "Body": "Good afternoon, I had made the requested changes. But the list hasn't gone up on TWD yet, is there something wrong? www.vekn.net/event-calendar/event/11509",
+      "Id": "112736"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 5, 2024, 6:50\u202FPM",
+      "Body": "Expect it to be picked up by Ankha scripts the next time he runs them and does the work. If you want it in the TWDA faster, submit a pull request to the Github repo yourself.",
+      "Id": "112741"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 6, 2024, 8:46\u202FAM",
+      "Body": "> Ankha wrote:\n> Thanks for contributing!\n> However, for clarity:\n> 1/ the subject title should be the \"TWD - <the event name>\", not \"Contributing to the TWD\"\n> 2/ the green tick shouldn't be set, otherwise the TWD will not be processed (as the green tick is used to mark TWD that have already been processed)\n>\n> Could you fix your post? Thanks!\n>\nThis hasn't been done. If there's a green tick on the post, it is ignored by the script collecting new TWDs.\n\nThese changes can be done by editing your first post.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112744"
+    }
+  ]
+}

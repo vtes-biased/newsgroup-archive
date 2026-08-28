@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-71020",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/71020-priority-contract-and-provision-of-the-silsila",
+  "Title": "Priority Contract and Provision of the Silsila",
+  "Messages": [
+    {
+      "Author": "mjvtes521",
+      "Date": "May 10, 2015, 8:30\u202FPM",
+      "Body": "If your Assamite has a priority contract naming the opposing minion and sends him to torpor in combat (and is still ready at the end of the combat) can you burn the priority contract to gain 3 pool and play provision of the Silsila to gain blood to capacity? I can't seem to find a ruling on this.\n\nProvision of the Silsila\nAction Modifier\nReaction\n\nAssamite\n\nUsable by a tapped vampire.\nOnly usable after a combat involving this Assamite and a minion with a contract naming this Assamite. Only usable if the opposing minion is not ready and this Assamite is ready. This Assamite gains enough blood from the blood bank to reach full capacity, and the contract is burned if still in play.\n\nPriority Contract\nMaster\n\nAssamite\n\nUnique contract. Trifle.\nPut this card on a minion controlled by your prey and choose a ready Assamite you control. The chosen Assamite can enter combat with this minion as a +1 stealth  action. If this minion would leave the ready region, you can burn this card to gain 3 pool.",
+      "Id": "71020"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 11, 2015, 12:08\u202FAM",
+      "Body": "The hint is in Provision of the Silsila's text:\n\n\"and the contract is burned if still in play.\"\n\nBoth are playable. Same rules apply as this:\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/h6qIVJTFw6g/vvKo6XJsnBIJ\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71021"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 12, 2015, 9:49\u202FPM",
+      "Body": "Correct.",
+      "Id": "71053"
+    },
+    {
+      "Author": "erewego",
+      "Date": "Sep 23, 2018, 4:24\u202FPM",
+      "Body": "Does this include Black Throne?",
+      "Id": "90725"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 27, 2019, 10:05\u202FAM",
+      "Body": "> erewego wrote:\n> Does this include Black Throne?\n>\nYes.\n\nThe minion with the contract leaves the ready region (even if at some point after this condition is met the contract is burned).\n\nName: The Black Throne\n[LotN:R]\nCardtype: Master\nClan: Assamite\nCost: 1 pool\nMaster: unique location.\nLock during a referendum to gain 2 votes. Lock when a minion with a contract leaves the ready region (only usable if an Assamite you control had been chosen for that contract) to gain 1 pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "93726"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Apr 22, 2019, 6:39\u202FPM",
+      "Body": "Sorry to re-re-necro this topic, but I came across this thread while looking for a ruling about the interaction between Black Throne and Priority Contract, and I'm hoping for a bit more clarity on this from Ankha.\n\nI understand why you can use Provision after a combat that results in burning a Priority Contract to gain pool. Provision's relevant requirement is \"Only usable after a combat involving this Assamite and a minion with a contract naming this Assamite,\" and this can be met even if a Priority Contract is burned as the contract's target would leave the ready region, because the combat leading up to the burning of the Contract already involved a contract regardless of what happens (and when it happens) to the contract - the combat involved the target and contracted Assamite as soon as that combat began, so even if there was some effect that burned the contract during, e.g., the maneuver step, you could still play Provision.\n\nHowever, Black Throne's wording is totally different: \"Lock when a minion with a contract leaves the ready region...\" I can't understand how it could be used after a combat that results in the burning of a Priority Contract to gain pool, because it seems like one of these two exclusive chains of effects has to occur:\n\n1a) Assamite torporizes Priority Contract target\n1b) Assamite's controller chooses to burn Contract as the Contract target would be leaving the ready region\n1c) Contract target leaves the ready region\n1d) Assamite's controller checks to see if there is a minion with a contract leaving the ready region\n1e) There isn't (Priority Contract has already been burned), so Black Throne can't be locked\n\nor\n\n2a) Assamite torporizes Priority Contract target\n2b) Contract target leaves the ready region\n2c) Assamite's controller checks to see if there is a minion with a contract leaving the ready region; there is, so Black Throne is locked to gain a pool\n2d) Assamite's controller checks to see if there is a minion with a contract who would be leaving the ready region\n2e) There isn't (that minion has already left the ready region)\n2f) Priority Contract can't be burned to gain pool, as the window to do so has already closed\n\ntl; dr Are \"would leave\" and \"leaving\" synonymous in VTES-speak?",
+      "Id": "94615"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 22, 2019, 8:37\u202FPM",
+      "Body": "Cardtexts for the three cards will be slightly updated to be closer to how they work, but it doesn't change anything in the timing of the cards. I just mention it here for clarity:\n\nPriority Contract\nOfficial cardtext\nUnique contract. Trifle.\nPut this card on a minion controlled by your prey and choose a ready Assamite you control. The chosen Assamite can enter combat with this minion as a +1 stealth  action. If this minion would leave the ready region, you can burn this card to gain 3 pool.\n\nRevised cardtext\nUnique contract. Trifle.\nChoose a ready Assamite you control, and put this card on a minion controlled by your prey. The chosen Assamite can enter combat with the attached minion as a +1 stealth  action. If the attached minion is about to leave the ready region, you can burn this card to gain 3 pool.\n\nExplanation: \"would\" is only used for replacement effects. Gaining 3 pool is not a replacement effect. The only change is that if someone plays Minor Boon to prevent the minion from leaving the ready region, you cannot burn the Priority Contract.\n\nProvision of the Silsila\nOfficial cardtext\nUsable by a locked vampire.\nOnly usable after a combat involving this Assamite and a minion with a contract naming this Assamite. Only usable if the opposing minion is not ready and this Assamite is ready. This Assamite gains enough blood from the blood bank to reach full capacity, and the contract is burned if still in play.\n\nRevised cardtext\nOnly usable after a combat involving this ready Assamite and an opposing minion who is not ready with a contract for which this Assamite has been chosen. Usable by a locked vampire.\nFill this Assamite to full capacity with blood from the blood bank, and the contract is burned if still in play.\n\nNo change.\n\nBlack Throne\nOfficial cardtext\nLock during a referendum to gain 2 votes. Lock when a minion with a contract leaves the ready region (only usable if an Assamite you control had been chosen for that contract) to gain 1 pool.\n\nRevised cardtext\nUnique location.\nLock during the polling step of any referendum to get +2 votes. Lock after a minion with a contract and chosen for that contract by an Assamite you control leaves the ready region to gain 1 pool.\n\nExplanation: Black Throne is used after resolution of the effect that makes the minion leave the ready region. This was already the case before (general use of \"when\").\n\nNow, back to the question (who was already answered  here by the way)\n\n> Kushiel wrote:\n> 1a) Assamite torporizes Priority Contract target\n> 1b) Assamite's controller chooses to burn Contract as the Contract target would be leaving the ready region\n> 1c) Contract target leaves the ready region\n> 1d) Assamite's controller checks to see if there is a minion with a contract leaving the ready region\n> 1e) There isn't (Priority Contract has already been burned), so Black Throne can't be locked\n>\nIncorrect at 1d). The condition for the Black Throne is \"did a minion with a contract ... leave the ready region\"? It was the case (same as for Provision of the Silsila), so you can lock the Black Throne after the \"leave the ready region\" effect has occurred to gain 1 pool.\n\nor\n\n> Kushiel wrote:\n> 2a) Assamite torporizes Priority Contract target\n> 2b) Contract target leaves the ready region\n> 2c) Assamite's controller checks to see if there is a minion with a contract leaving the ready region; there is, so Black Throne is locked to gain a pool\n> 2d) Assamite's controller checks to see if there is a minion with a contract who would be leaving the ready region\n> 2e) There isn't (that minion has already left the ready region)\n> 2f) Priority Contract can't be burned to gain pool, as the window to do so has already closed\n>\nIncorrect. The correct course of events is:\n3a) Assamite torporizes Priority Contract target\n3b) No replacement effect prevent it, the target \"is about to leave the ready region\"\n3c) Assamite's controller burns the Priority Contract to gain 3 pool.\n3d) Assamite's controller can play Provision of the Silsila (if 3a occurred during a combat)\n3d')Assamite's controller can lock Black Throne\n\n3d and 3d' both happen after resolution so they can be played in any order. In both case, the condition is met (a vampire with a contract... left the ready region)\n\n> Kushiel wrote:\n> tl; dr Are \"would leave\" and \"leaving\" synonymous in VTES-speak?\n>\nWe are trying to clarify that and make it consistent. The relevant order is:\n\n- \"would leave\" step (last call to for replacement effect)\n- \"is about to leave\" step (you can't replace the effect anymore)\n- leave (not a step, nothing \"interrupts\" it, you simply resolve the effect)\n- \"after\" he leaves\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94622"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Apr 22, 2019, 10:05\u202FPM",
+      "Body": "Thank you for the detailed explanation! And...\n\n> Ankha wrote:\n> Now, back to the question (who was already answered  here by the way)\n>\nSorry, I didn't see this when searching.",
+      "Id": "94624"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 23, 2019, 6:45\u202FAM",
+      "Body": "> Kushiel wrote:\n> Thank you for the detailed explanation! And...\n>\n> > Ankha wrote:\n> > Now, back to the question (who was already answered  here by the way)\n> >\n> Sorry, I didn't see this when searching.\n>\nBy default, the search time period extends to one year, don't forget to change it to \"any date\" to search thoroughly.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94626"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Apr 23, 2019, 2:22\u202FPM",
+      "Body": "> Ankha wrote:\n> ... a minion with a contract and chosen for that contract by an Assamite you control ....\n>\nThis is terrible.\n\nNC Russia",
+      "Id": "94632"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 23, 2019, 3:56\u202FPM",
+      "Body": "> elotar wrote:\n>\n> > Ankha wrote:\n> > ... a minion with a contract and chosen for that contract by an Assamite you control ....\n> >\n> This is terrible.\n>\nProbably. It's syntaxically correct but too complicated. It's work in progress.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94636"
+    }
+  ]
+}

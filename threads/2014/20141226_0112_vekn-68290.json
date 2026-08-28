@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-68290",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68290-julius-and-fame",
+  "Title": "Julius and Fame",
+  "Messages": [
+    {
+      "Author": "erewego",
+      "Date": "Dec 26, 2014, 1:12\u202FAM",
+      "Body": "I tried finding the answer and except for a couple of references citing the \"julius and fame\" issue I couldn't find the actual ruling.\n\nJulius\nCamarilla: If Julius goes into torpor, burn him.\n\nIf Julius with fame goes to torpor, does the fame trigger? Do I lose 3 pool?",
+      "Id": "68290"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 26, 2014, 7:58\u202FAM",
+      "Body": "Julius goes to torpor prior being burned, so the Fame triggers (there's no \"instead\" in his cardtext).\ngroups.google.com/forum/m/#!msg/rec.games.trading-cards.jyhad/7gxYdOVC_Uc/Kcfpy7cQIZEJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68294"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Dec 26, 2014, 6:55\u202FPM",
+      "Body": "> Fame\n> Master\n> Unique master.\n> Put this card on a ready vampire. If this vampire goes to torpor, his or her controller burns 3 pool. While this vampire is in torpor, each Methuselah burns 1 pool during his or her untap phase.\n>\nThis is really a timing question.\n\nBoth Fame and Julius's special activate at the same time: \"If this vampire/Julius goes to/into torpor\", according to text.\n\nThe acting player should be able to order these effects.\n\nJulius goes to torpor.\nPlayer A chooses to burn Julius before burning 3 pool.\nThe Fame is no longer in play. Does Player burn 3 pool?\n\nThe answer is \"Yes\", not because Fame triggers before Julius burns, but because Fame's text was in play when the triggering effect occurred.",
+      "Id": "68296"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Dec 27, 2014, 2:37\u202FPM",
+      "Body": "Both effects key off of \"if this vampire/Julius goes to torpor, do (something).\" In that case I would say that the controller should be able to order the effects. With no Julius in play for Fame you should not have to resolve Fame. This could be seen as similar to effects that \"fizzle\" because they have no valid target. In this case Fame would even be burned before it would have a chance to resolve.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "68305"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 27, 2014, 4:57\u202FPM",
+      "Body": "> brandonsantacruz wrote:\n> With no Julius in play for Fame you should not have to resolve Fame.\n>\nWhy, since the effect has been triggered? The Fame being there or not is no longer relevant, just as an ally that would burn during strike resolution would still inflict his strike damage.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68306"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 30, 2014, 1:21\u202FPM",
+      "Body": "> Ankha wrote:\n> The Fame being there or not is no longer relevant, just as an ally that would burn during strike resolution would still inflict his strike damage.\n>\nThat's the right answer by inappropriate reasoning - strikes are handled simultaneously, so the ally has inflicted the damage even though he is then exploding himself. Once damage has been applied, it then doesn't disappear just because a combatant is unreadied.  [LSJ 20070409]\n\nOther effects (at least, the vast majority of other effects) aren't simultaneous in that way.\n\nThe issue here is that the two effects are both triggered on entering torpor, but are not simultaneously handled. Those two effects have to be ordered, because they don't happen simultaneously (like the strikes did). And the answer is that if a thing is triggered, it still happens, even if the source of the thing leaves play. Setting the order of effects can change the overall outcome (e.g. \"using up\" an effect on a player who is then ousted, vs ousting the player and still having that second effect to apply), so it can be important.\n\nExamples:\n\n[LSJ 20080219]\n>\n> LSJ wrote:\n> >>> 1) There is a Tension in the ranks in play. Player B, who controls FBI\n> >>> Special Affairs, is down to 1 pool. Player A's minion is acting and\n> >>> burns one of player B's allies in combat.\n> >>> How are Tension 's and FBI's effects ordered ?\n> >> However A orders them. But both occur, regardless of order.\n> >>\n> >\n> > That is : if A chooses to apply Tension damage fisrt, ousting B (and\n> > causing the FBI to disappear), then his minion will still take FBI's\n> > damage ?\n> Yes.\n>\n> > If FBI's damage torporizes or burns the acting minion and A had 1 pool\n> > left, does he gain 6 pools (for ousting B through Tension) before\n> > losing 1 pool to Tension ?\n> Assuming he chooses to order it that way, yeah.\n>\n[LSJ 20090115]\n>\n> LSJ wrote:\n> If Lutz is in play to trigger the effect, the effect will happen, even if he is\n> no longer in play when the effect is to be applied.\n>\nAnd referenced by that ruling:\n[LSJ 20080619]\n>\n> LSJ wrote:\n> >> Player A has 1 Pool and NRA PAC in play. Player E's minion equips\n> >> with a Flak Jacket. Then Player E ousts Player A. Does Player E's\n> >> minion that equipped with a Flak Jacket untap at the end of E's turn?\n> >>\n> >> I'm not sure what the answer is, because NRA PAC might setup an effect\n> >> that occurs at the end of the turn. If I had to guess, I'd say Yes\n> >> for that reason.\n> >>\n> >> Thanks,\n> >> Ira\n> >>\n> >> NRA PAC\n> >> Card Text:\n> >> Government.\n> >> Any minion who successfully performs an equip action untaps at the end\n> >> of the turn.\n> >\n> > The minions untaps at the end of the turn. NRA PAC sets up an effect\n> > that is triggered by the successful resolution of an equip action,\n> > rather that checking at the end of the turn if any have been\n> > completed. This is the reason that an NRA PAC played during a discard\n> > phase does not retroactively untap any minions that equipped earlier\n> > that turn.\n> Correct.\n>",
+      "Id": "68369"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 30, 2014, 2:06\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> The issue here is that the two effects are both triggered on entering torpor, but are not simultaneously handled.\n>\nThey are triggered simultaneously, then handled in order; that's what I meant by making a parallel with the strikes (they are resolved simultaneously, then damage is handled in order) + the fact that the source isn't there anymore doesn't prevent an effect triggered from resolving. Maybe the parallel wasn't that good  Your examples are quite clear anyway.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68371"
+    }
+  ]
+}

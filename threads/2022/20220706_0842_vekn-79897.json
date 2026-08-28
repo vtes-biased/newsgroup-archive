@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-79897",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/79897-archon-question-help-needed",
+  "Title": "Archon question / help needed",
+  "Messages": [
+    {
+      "Author": "Uffdaa",
+      "Date": "Jul 6, 2022, 8:42\u202FAM",
+      "Body": "Hi, in the Event for the Grand Prix Malm\u00F6 event I entered in Type: Grand Prix\n\nHowever now when I try to upload the Archon the following message appears:\n\nTournament level 'Standard Constructed' of level 'Constructed' inserted in archon does not match with the type 'Grand Prix' inserted on calendar: please check and modify tournament level accordingly, then upload your archon again.\n\nA bit lost here in what to do, so any help would be appreciated.",
+      "Id": "105640"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 6, 2022, 1:34\u202FPM",
+      "Body": "> Uffdaa wrote:\n> Hi, in the Event for the Grand Prix Malm\u00F6 event I entered in Type: Grand Prix\n>\n> However now when I try to upload the Archon the following message appears:\n>\n> Tournament level 'Standard Constructed' of level 'Constructed' inserted in archon does not match with the type 'Grand Prix' inserted on calendar: please check and modify tournament level accordingly, then upload your archon again.\n>\n> A bit lost here in what to do, so any help would be appreciated.\n>\nThis is a known bug.\nYou need to hack the archon to be able to submit a GP result for now by replacing for instance \"Demo\" by \"Grand Prix\" in the hidden columns.\nOr send the archon to\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105653"
+    }
+  ]
+}

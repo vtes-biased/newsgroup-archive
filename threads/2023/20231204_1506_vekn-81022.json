@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-81022",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81022-deflection",
+  "Title": "Deflection",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Dec 4, 2023, 3:06\u202FPM",
+      "Body": "Came across the below ruling that says playing Deflection implicitly means one has declined to block, this is from a time when the card text of it and other bounce cards didn\u00B4t have \"after blocks are declined\".\n\nPlease confirm that the ruling is no longer relevant/applicable to Deflection.\n\n[LSJ 20000507]",
+      "Id": "110004"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Dec 5, 2023, 6:09\u202FAM",
+      "Body": "Why should it no longer be relevant? As you note, the card nowadays says \"after blocks are declined\", so playing one implicitly (still) means that no block attempt will be done. It's a small bit redundant now, sure, but it's still relevant & applicable imho.\n\nIt removes option to try to take back a Deflection and block instead, claiming that \"I could not have played that since I have not declined to block yet\". Clarity is always good and less judge headaches is even better\n\nOr is there something in this ruling that causes confusion with modern wordings? Maybe I'm missing something here.",
+      "Id": "110010"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2023, 7:51\u202FAM",
+      "Body": "> PetriWessman wrote:\n> Why should it no longer be relevant? As you note, the card nowadays says \"after blocks are declined\", so playing one implicitly (still) means that no block attempt will be done. It's a small bit redundant now, sure, but it's still relevant & applicable imho.\n>\n> It removes option to try to take back a Deflection and block instead, claiming that \"I could not have played that since I have not declined to block yet\". Clarity is always good and less judge headaches is even better\n>\n> Or is there something in this ruling that causes confusion with modern wordings? Maybe I'm missing something here.\n>\nCorrect. Playing Deflection is a shortcut for \"I don't block, I assume you have no effects to play before I bounce\".\nOf course, since you're denying the impulse to the acting player after declining the block, that player can halt the reacting Methuselah and say: \"wait, I want to play something after you decline to block, and before you get the impulse back\" if it matters.\n\nIt's similar to someone who says \"I punch for 1\" at the start of the combat. It doesn't prevent the opposing Methuselah to play combat cards if they wish.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110011"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 5, 2023, 7:56\u202FAM",
+      "Body": "The reason why is because of the changed wording, it cannot be played until \"after blocks are declined\" and therefore Deflection can no longer be played before declining to block\n\nIn the past it was playable in the default window of reactions and thus the ruling was made that if it was played before \"declining to block\" it was to be considered an implicit \"declining to block\".\n\nThe only valid time to play bounces that are having the wording \"after blocks are declined\" is after the last bleed modifier window \"after blocks are declined\" (table state not the just the targeted Methuselah).",
+      "Id": "110012"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2023, 8:07\u202FAM",
+      "Body": "> inm8 wrote:\n> In the past it was playable in the default window of reactions and thus the ruling was made that if it was played before \"declining to block\" it was to be considered an implicit \"declining to block\".\n>\nThus it was considered to play after block attemps are declined, which is precisely the case. Bounces are played in C.2, and C is \"C - blocks have been declined\".\nThe ruling just says that if you're playing a Deflection, you've moved to C (skipping some impulse opportunity in the process).\n\n> inm8 wrote:\n> The only valid time to play bounces that are having the wording \"after blocks are declined\" is after the last bleed modifier window \"after blocks are declined\" (table state not the just the targeted Methuselah).\n>\nIsn't that C?\n\n> A - there is no current block attempt\n> 1. the sequencing rule applies as normal\n> 2. in addition to any effect that can be used during an action (playing an action modifier or reaction card, using effects of cards in play etc.), a Methuselah who can block (see Who May Attempt to Block) can declare a block attempt, switching to B - there is a current block attempt\n> 3. if a Methuselah passes, that Methuselah cannot declare any block attempt until the end of the action unless the target of the action changes.\n> 4. once every Methuselah has passed, switch to C - blocks have been declined\n>\n> B - there is a current block attempt\n> 1. the sequencing rule applies as normal\n> 2. the target of the action cannot be changed\n> 3. the Methuselah who has declared the current block attempt may use effects that force the currently blocking to attempt to block (no other minion can attempt to block until this block attempt is resolved)\n> 4. once every Methuselah has passed, the block attempt is resolved: if it is successful, the action is unsuccessful and blocked. Otherwise, switch back to A - there is no current block attempt\n>\n> C - blocks have been declined\n> 1. the sequencing rule applies as normal\n> 2. if the target of the action is changed, switch to A - there is no current block attempt\n> 3. once every Methuselah has passed, the action is successful and resolves\n>\nwww.vekn.net/forum/rules-questions/80792-declining-blocks-impulse-conditioning-and-eagle-s-sight?start=18#109200\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110013"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 5, 2023, 8:16\u202FAM",
+      "Body": "There is a difference between the steps A1 and C1, with the old text Deflection was playable in A1 and thus the ruling... this is no longer the case\nToday's wording means we need to pass by A4 and get to C1 before it can be played.\n\nCard Text\nDeflection\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Dominate\nOnly usable if a minion is bleeding you, after blocks are declined.\n[dom] Lock this reacting vampire. Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).\n[DOM] As above, but do not lock this vampire.",
+      "Id": "110014"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 8, 2023, 10:31\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > In the past it was playable in the default window of reactions and thus the ruling was made that if it was played before \"declining to block\" it was to be considered an implicit \"declining to block\".\n> >\n> Thus it was considered to play after block attemps are declined, which is precisely the case. Bounces are played in C.2, and C is \"C - blocks have been declined\".\n> The ruling just says that if you're playing a Deflection, you've moved to C (skipping some impulse opportunity in the process).\n>\nAre you saying that one can play it in A1 but consider it played in C1?\nit would be an illegal play in my opinion.\n\n> Ankha wrote:\n> [\n> >\n> > inm8 wrote:\n> > The only valid time to play bounces that are having the wording \"after blocks are declined\" is after the last bleed modifier window \"after blocks are declined\" (table state not the just the targeted Methuselah).\n> >\n> Isn't that C?\n>\nOne has to \"decline to block\" or pass without attempting to block to move to C which means Deflection cannot be played in A1 as an implicit \"decline to block\" and therefore it can only be played in C1 where it is no longer an \"implicit decline to block\" as one only move to C when \"blocks are declined\" (tables state)....this is why in my opinion the ruling is no longer relevant\n\nWarning: Spoiler!\n\n> Ankha wrote:\n>\n> > A - there is no current block attempt\n> > 1. the sequencing rule applies as normal\n> > 2. in addition to any effect that can be used during an action (playing an action modifier or reaction card, using effects of cards in play etc.), a Methuselah who can block (see Who May Attempt to Block) can declare a block attempt, switching to B - there is a current block attempt\n> > 3. if a Methuselah passes, that Methuselah cannot declare any block attempt until the end of the action unless the target of the action changes.\n> > 4. once every Methuselah has passed, switch to C - blocks have been declined\n> >\n> > B - there is a current block attempt\n> > 1. the sequencing rule applies as normal\n> > 2. the target of the action cannot be changed\n> > 3. the Methuselah who has declared the current block attempt may use effects that force the currently blocking to attempt to block (no other minion can attempt to block until this block attempt is resolved)\n> > 4. once every Methuselah has passed, the block attempt is resolved: if it is successful, the action is unsuccessful and blocked. Otherwise, switch back to A - there is no current block attempt\n> >\n> > C - blocks have been declined\n> > 1. the sequencing rule applies as normal\n> > 2. if the target of the action is changed, switch to A - there is no current block attempt\n> > 3. once every Methuselah has passed, the action is successful and resolves\n> >\n> www.vekn.net/forum/rules-questions/80792-declining-blocks-impulse-conditioning-and-eagle-s-sight?start=18#109200\n>",
+      "Id": "110027"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 18, 2023, 10:32\u202FAM",
+      "Body": "Ankha could you please provide an answer to the above, thanks.",
+      "Id": "110102"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 18, 2023, 2:40\u202FPM",
+      "Body": "> Ankha wrote:\n> Correct. Playing Deflection is a shortcut for \"I don't block, I assume you have no effects to play before I bounce\".\n> Of course, since you're denying the impulse to the acting player after declining the block, that player can halt the reacting Methuselah and say: \"wait, I want to play something after you decline to block, and before you get the impulse back\" if it matters.\n>\n> It's similar to someone who says \"I punch for 1\" at the start of the combat. It doesn't prevent the opposing Methuselah to play combat cards if they wish.\n>\nI am pretty sure that this answer your question :\nBy the book you have to decline to block and give the impulse to everybody who would each one decline to block etc etc to play deflection.\nBut, in a real game, in the same way that you replace your cards without asking for each one of them if A, B, C and D want to cancel this one.\nSometimes, you play deflection too soon.\nIt is an illegal play because you deny your opponents a bunch of impulse. But it is still often played like that without (most of the time) any big bad consequences for your opponents. Most of the time, you just skipped the phase when your predator would have played a bleed increase effect and your predator is glad for the intel that you intend to play deflection and therefore keep his conditionning for the one bleed which will not be bounced.\nAnd for the times when it is relevant (for whatever reasons), it is kind of easy to roll back.\n\nTl dr : it is an illegal move but most of the time, there is no bad consequences for your opponents and so it is often played like that.",
+      "Id": "110104"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 18, 2023, 3:33\u202FPM",
+      "Body": "> Timo wrote:\n>\n> > Ankha wrote:\n> > Correct. Playing Deflection is a shortcut for \"I don't block, I assume you have no effects to play before I bounce\".\n> > Of course, since you're denying the impulse to the acting player after declining the block, that player can halt the reacting Methuselah and say: \"wait, I want to play something after you decline to block, and before you get the impulse back\" if it matters.\n> >\n> > It's similar to someone who says \"I punch for 1\" at the start of the combat. It doesn't prevent the opposing Methuselah to play combat cards if they wish.\n> >\n> I am pretty sure that this answer your question :\n>\nI disagree with the above being a valid answer\n\nHow an illegal play out of sequence is handled has nothing to do with the ruling being questioned.\nThe ruling is from a time when the card text allowed it to be played before declining to block which is no longer the case, as it now isn't legally playable until blocks are declined the ruling is no longer relevant... the shortcut is no longer legally possible",
+      "Id": "110106"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 18, 2023, 5:08\u202FPM",
+      "Body": "I guess you should read this thread :\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/h3onVZ1NqpQ/m/-o6GxslIQF8J\n\nIt gives a lot of insight about what is behind the above ruling which seems to me that it already was an illegal play to play a deflection without giving the impulse to players C D and E to let them block.\n\nNotably that :\n>\n> LSJ\n> 12 d\u00E9c. 2006, 17:45:51\n> \u00E0\n> sutekh_23 wrote:\n> > LSJ wrote:\n> >> Jeroen Rombouts wrote:\n> >>> \"LSJ\" <> schreef in bericht\n> >>> news:BFifh.6764$...\n> >>>> Jeroen wrote:\n> >>>>> I was searching the NG and I found this:\n> >>>>> groups.google.be/group/rec.games.trading-cards.jyhad/msg/f4e7d18691d047b3?dmode=source&hl=nl\n> >>>>> \"Declaring that one is not blocking is implicit in playing Deflection\n> >>>>> (unlike playing Telepathic Counter). [LSJ 30-AUG-1999]\n> >>>>>\n> >>>>> I can't find that ruling on the the clarifications and rulings page.\n> >>>> Yes.\n> >>> Is there any reason in particular it's not on the rulings page? It seems we\n> >>> were not the only people who played it wrong.\n> >> No reason at all. It simply hadn't been added, since the confusion over the\n> >> issue had not been raised until now, as far as I know.\n> >>\n> >> I'm adding it now (and adding clarifications to the bounce cards' texts).\n> >\n> > My 2 cents, for what it's worth\n> >\n> > When you announce the action \"I'm going to bleed you for X\" you ask\n> > your prey (assuming no kindred spirits/night moves) are you going to\n> > block (NOT are you going to redirect the bleed), if they say no, you\n> > then ask if anyone else wishes to block (via eagles sight or Anneke).\n> > After this the block window on the action is closed.\n> Or other reactions can be played before the Methuselah says \"I don't block\".\n> For instance, he can play Telepathic Counter (maybe hoping to cycle into some\n> intercept, for example).\n>\n> Of course, per the ruling, Deflection is not among the reactions that fit in\n> that window. Deflection is played only after declining to block.\n>",
+      "Id": "110109"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 19, 2023, 7:23\u202FPM",
+      "Body": "Thanks for finding the thread Timo\n\nThe ruling makes even less sense now\u2026 Deflection was implicitly illegal to play before blocks are declined and is now explicitly illegal to play before blocks are declined\u2026\n\nwhen was/would one legally be able to benefit from the implied \u201Cdeclining to block\u201D when playing Deflection?\n\nDoes this ruling make the illegal play allowed? If not, what purpose does it serve?",
+      "Id": "110129"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 20, 2023, 6:25\u202FAM",
+      "Body": "Well, LSJ was not FzD nor Ankha.\n\nAnd so, the wordings of a lot of ruling are not very precise.\n\nIt means in the present case that it needed a long back and forth discussion in order to understand this one which could have been read :\nDeflection is played after blocks are declined. Therefore, playing it means that you have already declined to block.\n\nIt does not have a lot of sense because it is now excplicit on the card text but it is still valid. (And still have a little value if someone is playing with an old version).",
+      "Id": "110131"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Dec 22, 2023, 9:32\u202FAM",
+      "Body": "> inm8 wrote:\n> Thanks for finding the thread Timo\n>\n> The ruling makes even less sense now\u2026 Deflection was implicitly illegal to play before blocks are declined and is now explicitly illegal to play before blocks are declined\u2026\n>\n> when was/would one legally be able to benefit from the implied \u201Cdeclining to block\u201D when playing Deflection?\n>\n> Does this ruling make the illegal play allowed? If not, what purpose does it serve?\n>\nPlaying out of sequence is always illegal, but in practice cards aren't played out of sequence. People simply shortcut through the steps where they assume nobody will play any cards. If someone wants to play cards, players will backtrack to that point.\n\nPlaying a deflection immediately after someone announces a bleed is thus not out of sequence as such; it just shortcuts a whole lot of steps, is kinda bad form, and also bad play since the bleeder might have played a bleed modifier after blocks are declined which would benefit the bleed bouncer.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "110154"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-80208",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80208-burst-of-sunlight",
+  "Title": "Burst of sunlight",
+  "Messages": [
+    {
+      "Author": "LucasLinard",
+      "Date": "Dec 11, 2022, 11:11\u202FPM",
+      "Body": "Hi everyone. There has been a little discussion on our play group about the nature of the Last part of the burst of sunlight damage. It is clear that it is environmental damage, but the current text mentions two types of damage. 1R aggravated, AND this striking vampire ALSO TAKES ONE DAMAGE.\nIt is also clearly different from the Breath of the Dragon. The breath of the dragon only mentions one kind of damage that is applied to both minions, and makes an exception: if it is at long range. The cards a differences are below with our marks.\n```\nName: Burst of Sunlight\n[Jyhad:R2, VTES:R, CE:U, BH:PTr2, KMW:PB3, Third:U, KoT:U]\nCardtype: Combat\nDiscipline: Thaumaturgy\n[tha] Strike: 1R aggravated damage. This striking vampire also takes 1 aggravated damage.\n[THA] Strike: 2R aggravated damage. This striking vampire also takes 2 aggravated damage.\nArtist: Heather Hudson; Andrew Trabbold\n```\n\nName: Breath of the Dragon\n[Sabbat:R, SW:PT, Third:PTz, SP:DoF3]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Vicissitude\n[vic] Strike: 1R aggravated damage. If this strike is used at close range, this vampire also takes the damage.\n[VIC] As above, but for 2R aggravated damage.\nArtist: Pete Venters\n\nThey are pretty different scenarios, since one clearly states two different types of damage 1R to the opposing minion and 1 damage (environmental) to the striking minion, And the other one only mentions a Ranged damage, that the striking minion also takes if it is at close range.\n\nThe rulebook also states that damage that is not R damage, does not affect the minion.\n\u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage, or is a defensive strike such as dodge or combat ends. Ranged strikes and strikes that do \u201CR\u201D damage can be used at any range, close or long.\n\nSo, the 1 aggravated from burst (to the striking minion) should occur only at close range right?\n\nAlso, from",
+      "Id": "106993"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Dec 12, 2022, 7:46\u202FAM",
+      "Body": "> LucasLinard wrote:\n> ...\n> So, the 1 aggravated from burst (to the striking minion) should occur only at close range right?\n> ...\n>\nNo.\n\n\"\"Damage from a strike\" only includes damage done to the opposing target. Side effect damage is not counted as \"damage from a strike\". Therefore, self-inflicted damage from Zip Gun, Grenade, Burst of Sunlight, Body of Sun, etc. is side effect damage and is not preventable by \"prevent damage from a strike\" effects like Skin of Steel, Leather Jacket, etc. [LSJ 19970108] [ ]\"  www.vekn.net/general-rulings\n\nAs the Side effect damage is not counted to be from the strike, it also ignores to usual (R) requirements on close-long range part of the equation. Burst will deal 1-2 (preventable) aggravated damage to striking minion from any distance.\n\nTrust in Jan Pieterzoon.",
+      "Id": "106994"
+    },
+    {
+      "Author": "LucasLinard",
+      "Date": "Dec 12, 2022, 7:56\u202FAM",
+      "Body": "Not talking about preventing damage from strike as quoted on LSJ ruling.\nAlso, it is pretty clear that the damage done to the striking minion IS environmental, an s\u00F3 cannot be prevented by cards thar that \"prevent damage from strike\". That's not the point here.\nWhat I am arguing here is that I could not find ANY definition on the rulebook that states that ENVIRONMENTAL \"normal\" damage does not diferenciate from \"R type DAMAGE\". So if it is an environmental NOT \"R\" damage, it should not be taken at long range because is pretty clear that 1 damage is different than 1R damage, evironmental or not.",
+      "Id": "106995"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Dec 12, 2022, 8:43\u202FAM",
+      "Body": "> LucasLinard wrote:\n> Not talking about preventing damage from strike as quoted on LSJ ruling.\n> Also, it is pretty clear that the damage done to the striking minion IS environmental, an s\u00F3 cannot be prevented by cards thar that \"prevent damage from strike\". That's not the point here.\n> What I am arguing here is that I could not find ANY definition on the rulebook that states that ENVIRONMENTAL \"normal\" damage does not diferenciate from \"R type DAMAGE\". So if it is an environmental NOT \"R\" damage, it should not be taken at long range because is pretty clear that 1 damage is different than 1R damage, evironmental or not.\n>\nLet's ponder a moment a situation where range determines whether or not side effect damage occurs to a minion.\n\nHow in that situation Bear-Baiting and similar cards would work as the range only exists inside combat and thus the 1 damage cannot be applied? How does \"this anarch takes 1 unpreventable damage\" and \"This striking vampire also takes 1 aggravated damage.\" differ with the exception of 1) one being unpreventable per card text and 2) one being aggravated?\n\nAre you suggesting they've included the part of 1 damage to bear baiting for just giggles as there's no way to enforce it as there's no range and therefore no ability to inflict damage?\n\nName: Bear-Baiting [Anarchs:R] Cardtype: Action Modifier Cost: 1 blood Requires a ready anarch. Only usable when an older non-{A}narch vampire successfully blocks. Compare the costs of the top cards in your crypt and the blocker's crypt and shuffle both. If yours is younger, this anarch takes 1 unpreventable damage (and combat occurs as normal). Otherwise, cancel the combat and place this card on the acting anarch. This anarch gets +2 bleed when bleeding the blocking vampire's controller. Artist: Steve Prescott\n\nMy point is as per the first reply, range is only used to determine whether or not the opposing minion's strike can connect. See also how R\u00F6tschreck can be played on aggravated strikes that would attempt succesfully deal damage against a minion. The General Rulings quote is to highlight the difference between \"strike damage\" and \"side effect damage.\" If they're different, and one is affected by range (as explicitly said by rules) that does not mean the other one is as well. There has to be wording to say it. If it does not exist, then the minion takes the damage.\n\nThis goes to as far as the case where Zip gun being used by Ghoul retainer does it's 1 damage to the vampire, irrelevant of range, just because the card mentions \"bearer takes\" instead \"user takes\".\n\nName: Zip Gun [Jyhad:U2, VTES:U, SW:PV, CE:U] Cardtype: Combat Before range is determined, put this card on this minion. This card represents an equipment card and doesn't count as a combat card while in play. This equipment is a weapon, gun. Ammo cards cannot be used with this gun. It does 1R damage each strike, with an optional maneuver each combat. Bearer takes 1 damage during strike resolution when striking with this gun, but only once each combat. This card is kept as normal equipment and is not discarded after combat. Artist: Kaja Foglio Name: Ghoul Retainer [Jyhad:R2, VTES:R, CE:R2, KoT:U/R] Cardtype: Retainer Cost: 2 pool Ghoul with 2 life. 1 strength. During the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon. Artist: L. A. Williams; Richard Thomas\n\n> The Ghoul is never the \"bearer\" of the weapon that it uses. Any side-effect of using the weapon (e.g. Zip Gun, Grenade) is applied to the employing minion, as normal. [TOM 19951114]\n>\nTrust in Jan Pieterzoon.",
+      "Id": "106996"
+    },
+    {
+      "Author": "LucasLinard",
+      "Date": "Dec 12, 2022, 8:56\u202FAM",
+      "Body": "There are plenty examples of environmental damage being described EXPLICITLY as \"R\" damage.\nMy question is. If there are environmental damages (e.g. Carrion Crows), that are not even from strike and are EXPLICITLY defined as \"R\" damage, others environmental \"normal\" damages that are resolved during strike resolution, should be taken only at close range.\n\nName: Carrion Crows\n[Sabbat:C, SW:C/PT2, CE:PN2, Anarchs:PG2, BH:PN3, LoB:PA2, Third:C, LotN:PR3, KoT:C, SP:DoF5, FB:PN5, V5:PN2, V5A:PG6, NB:PN2]\nCardtype: Combat\nDiscipline: Animalism\nOnly usable before range is determined. A vampire can play only one Carrion Crows each combat.\n[ani] The opposing minion takes 1R environmental damage each round this combat during normal strike resolution.\n[ANI] As above, but for 2R environmental damage.\nArtist: Michael Dixon; Richard Thomas",
+      "Id": "106997"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Dec 12, 2022, 9:19\u202FAM",
+      "Body": "To make the answers more logical - the minion playing Burst of Sunlight is always in close range with himself - no need for 'R' damage. It's the opposing minion that's at range and needs 'R' damage to affect him.",
+      "Id": "106998"
+    },
+    {
+      "Author": "LucasLinard",
+      "Date": "Dec 12, 2022, 9:33\u202FAM",
+      "Body": "Close range with himself? This makes absolutely no sense.\n\n2. Determine Range\n\nEach round of combat is fought at either close range or long range. Close range is the default for each round.\n\nThe range is either close to both, or long to both.\n\n\u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage\n\nI stand by my point. Burst of sunlight is a strike that does two types of damage. One type is R damage (from strike) and the other one is an environmental \"regular\" damage that, is subject to the range of the Combat. There is no \"close range with himself\" anywhere.\n\nI have been away for a few years, but who can examine this question \"offi ialy\", like LSJ did in the past? Who has the official saying in this kind of questions?",
+      "Id": "106999"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 12, 2022, 9:34\u202FAM",
+      "Body": "> LucasLinard wrote:\n> So, the 1 aggravated from burst (to the striking minion) should occur only at close range right?\n>\nNo, range only matters for applying the effect of the strike to the opposing minion.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107000"
+    },
+    {
+      "Author": "LucasLinard",
+      "Date": "Dec 12, 2022, 9:53\u202FAM",
+      "Body": "Carrion Crows for example uses the R damage definition and it has nothing to do with the choose strike step.",
+      "Id": "107001"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 12, 2022, 10:31\u202FAM",
+      "Body": "> LucasLinard wrote:\n> Carrion Crows for example uses the R damage definition and it has nothing to do with the choose strike step.\n>\nWhat is the \"choose strike step\" doing here?\n\nRange matters only during the strike resolution, and only towards the opposing minion.\n\nCarrion Crows inflict 1R or 2R damage during the strike resolution on the opposing minion.\n\nBurst of Sunlight inflicts 1R or 2R agg damage during the strike resolution on the opposing minion.\nThe damage inflicted to the striking minion during the strike resolution is not done on the opposing minion, so the range does not matter.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107002"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Dec 13, 2022, 7:46\u202FAM",
+      "Body": "OK just forget my answer, Ankha answered it better. By \"close range with himself\" I meant \"at long range\" means there's a distance between your minion and opposing minion. On the other hand, the effects played by your minion happen \"near him\", so no need for \"R\" requirement.\nThis was just to help you imagine / understand it better, it has nothing to do with the rules and rulebook.",
+      "Id": "107012"
+    }
+  ]
+}

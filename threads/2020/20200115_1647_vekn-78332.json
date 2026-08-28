@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-78332",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78332-undead-persistence-vs-amaranth-and-decapitate",
+  "Title": "Undead Persistence vs Amaranth and Decapitate",
+  "Messages": [
+    {
+      "Author": "Dante1991",
+      "Date": "Jan 15, 2020, 4:47\u202FPM",
+      "Body": "About the following three cards bellow:\n\nUndead Persistence;\n\nAmaranth;\n\nDecapitate.\n\nThese three cards recently have the same SPECIFIC REQUIREMENT text to be played:\n\n\"When the (opposing) vampire WOULD GO (to) TORPOR.\"\n\nThe question is: Does Undead Persistence effect prevent the wounded vampire to be burnt by Decapitate and Amaranth?",
+      "Id": "98602"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 15, 2020, 6:05\u202FPM",
+      "Body": "> Dante1991 wrote:\n> The question is: Does Undead Persistence effect prevent the wounded vampire to be burnt by Decapitate and Amaranth?\n>\nIt prevents the vampire from going to torpor, so the requirements for playing either Decapitate or amaranth cannot be met. They simply aren't playable. Note that the combat ends before the vampire playing persistence goes to torpor, so there is no point where decap and amaranth are playable, since you cant play combat cards after combat has ended.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "98604"
+    },
+    {
+      "Author": "Dante1991",
+      "Date": "Jan 15, 2020, 7:43\u202FPM",
+      "Body": "Some players believe that due to the requirement text are the same, both the effects work at the same moment:\n\nWhich brings other questions:\n\n1 Is there preference of play for the acting or blocking vampires?\n\n2 Does Undead Persistence prevent the vampire from going to torpor by playing this card at the strike resolution, regardless the vampire being acting or blocking?",
+      "Id": "98605"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jan 15, 2020, 8:04\u202FPM",
+      "Body": "> Dante1991 wrote:\n> Some players believe that due to the requirement text are the same, both the effects work at the same moment:\n>\n> Which brings other questions:\n>\n> 1 Is there preference of play for the acting or blocking vampires?\n>\nYes. From the detailed play summary (found in site map on the left):\n>\n> PLAYING CARDS AND OTHER EFFECTS [1.6]\n> Order of play (Sequencing). If more than one player wants to use an effect at the same time, the ABC rule is used: Acting/active player goes first, then Blocking/defending player, then others Clockwise from the acting player. [1.6.1.5]\n>\nSecond question\n>\n> 2 Does Undead Persistence prevent the vampire from going to torpor by playing this card at the strike resolution, regardless the vampire being acting or blocking?\n>\nThis I'm not 100% sure. As seen above, there is an order for playing cards, but the wording on the cards is slightly different (because no quality control ruleswise I guess). Decapitate says: \"is going to torpor\", persistence says \"should go to torpor\". I am not sure if this is the same window.\n\nAssuming they would be played in the same window, and active player plays decapitate, I think that undead persistence would no longer be playable, because the vampire is burning instead of going to torpor? VTES does not have \"response\" like Magic does, the order of play matters a great deal more in these matters. Also I've learned that you cannot \"stack\" replacements.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "98606"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 15, 2020, 9:37\u202FPM",
+      "Body": "Since the timings are the same (\"when the vampire would go to torpor\"), the acting minion gets the first chance to play whichever one is his. Either one will preclude the opposing minion from playing his.\n\nwww.vekn.net/history-of-vtes-rules/445-rules-team-rulings-11-july-2001\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98608"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 15, 2020, 10:02\u202FPM",
+      "Body": "> Ankha wrote:\n> Since the timings are the same (\"when the vampire would go to torpor\"), the acting minion gets the first chance to play whichever one is his. Either one will preclude the opposing minion from playing his.\n>\n> www.vekn.net/history-of-vtes-rules/445-rules-team-rulings-11-july-2001\n>\nAnkha I will use one example(can be from practice game)\nA inflict 5 damage on B. B have only 1 blood. first A solve his damage(as acting),B get impulse,him will burn this blood and after play Undead Persistence,without give impulse to A,all players play on this way,I beleive you also have some experience with Undead Persistence. I must say long time dint see this card.\nWhat you say on this?",
+      "Id": "98610"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 15, 2020, 11:12\u202FPM",
+      "Body": "> beslin wrote:\n> Ankha I will use one example(can be from practice game)\n> A inflict 5 damage on B. B have only 1 blood. first A solve his damage(as acting),B get impulse,him will burn this blood and after play Undead Persistence,without give impulse to A\n>\nThe effects of the strikes are resolved simultaneously, not sequentially. The unprevented damage, and any subsequent going to torpor from excess damage, happens at the same time for both players.\n\nAnd player B can't choose not to give the impulse back - that's not how sequencing works. In any timing window, the acting player always has the first opportunity to use an effect. Another player can't choose to not give the impulse back to the acting player - it was theirs to start with. Once anyone does anything, the impulse goes back to the acting player. See 1.6.1.5:\n\nIf two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect.\n\nIf the acting Methuselah wants to play something first during the \"would go to torpor\" timing window, they automatically can.\n\nSimilarly, in an entirely separate situation, we're pre-range in combat.\n\nMe (acting): No pre-range from me.\nYou have two cards you want to play, Carrion Crows and Drawing Out the Beast.\nYou (opposing): I play Carrion Crows.\nThe impulse returns to me as the acting player. You cannot 'keep' the impulse.\nMe (acting): Holy crap, I wasn't expecting you to hit me in this combat. Hmm. I play Terror Frenzy at superior, to increase the cost of your cards.\nYou (opposing): Damn, I can't play Drawing out the Beast now, as I'm on zero blood.\n\nBecause the impulse always returns to the acting player, you can't force through both cards at the same time.",
+      "Id": "98611"
+    },
+    {
+      "Author": "Dante1991",
+      "Date": "Jan 16, 2020, 6:23\u202FPM",
+      "Body": "If Player A plays Undead Persistence and Player B plays Amaranth, will the wounded vampire burn?",
+      "Id": "98620"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 16, 2020, 9:15\u202FPM",
+      "Body": "> Dante1991 wrote:\n> If Player A plays Undead Persistence and Player B plays Amaranth, will the wounded vampire burn?\n>\nAs Ankha said in www.vekn.net/forum/rules-questions/78332-undead-persistence-vs-amaranth-and-decapitate?start=0#98608 , either one precludes the other.\n\nWhen player A plays Undead Persistence, their vampire stops going to torpor. When player B wants to play Amaranth immediately afterwards, player A's vampire is not going to torpor.\n\nWhen combat ends, player A's vampire goes to torpor after combat. You can't play Amaranth outside combat.",
+      "Id": "98621"
+    },
+    {
+      "Author": "Dante1991",
+      "Date": "Jan 16, 2020, 10:57\u202FPM",
+      "Body": "Does it mean that Amaranth doesn't work against a vampire under the effect of Undead Persistence at all?\n\nNeither Decapitate?",
+      "Id": "98622"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 16, 2020, 11:04\u202FPM",
+      "Body": "> Dante1991 wrote:\n> Does it mean that Amaranth doesn't work against a vampire under the effect of Undead Persistence at all?\n>\n> Neither Decapitate?\n>\nYou can only play those when the vampire should be going to torpor - you then leap in and either diablerize them or burn them.\n\nA vampire who is protected by Undead Persistence is not going to torpor, and can't go to torpor until combat ends (after combat). So the criteria for Amaranth and Decapitate aren't met, and so they can't be played.",
+      "Id": "98623"
+    }
+  ]
+}

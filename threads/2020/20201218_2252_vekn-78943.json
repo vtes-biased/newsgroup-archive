@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-78943",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78943-unsuccesful-block-of-banishment-after-forced-awakening",
+  "Title": "Unsuccesful Block of Banishment after forced awakening",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Dec 18, 2020, 10:52\u202FPM",
+      "Body": "> POLITICAL ACTION\n> Banishment\n> Choose a ready younger vampire. Successful referendum means the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects); any cards and counters on the chosen vampire stay with them but are out of play as long as the chosen vampire remains uncontrolled.\n>\n> REACTION\n> Forced Awakening\n> Only usable by a locked vampire.\n> This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action). If they do not block this action, they burn 1 blood before action resolution.\n>\nif a vampire that waked via Forced Awakening and unsucesfully tried to block a banishment, and is then declared the target of the Banishment (and the vote is sucessful), do they burn a blood before they are banished?",
+      "Id": "101272"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 18, 2020, 11:28\u202FPM",
+      "Body": "Yes, the Forced Awakening card text states that the burning of 1 blood happens if failing to block and that it is to happen before action resolution. The action resolution of the political action Banishment is the referendum itself...no matter who the target is nor if the referendum passes or not the vampire failing to block when waking with Forced Awakening has to burn 1 blood.",
+      "Id": "101273"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Dec 19, 2020, 11:47\u202FAM",
+      "Body": "\"burn 1 blood before action resolution\"\n\nI guess this depends on when is the action considered resolved. Does it happen before or after the vote? As in: is the referendum part of action or not. I can't remember and I've learned to not apply logic to VTES rules.\n\nEDIT: I think the above means that the blocker would pay the blood before you BEGIN to resolve the action, so when all blocks have failed but before you have started the referendum.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "101274"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 19, 2020, 12:26\u202FPM",
+      "Body": "Action resolution is what plays out as a result of a successful action. In the case of a political action the referendum is the resolution of the action which has one of two possible outcomes ie. it either passed or it doesn\u2019t. Another example the bleed action... the resolution of it is that your prey/target loses pool...this in turn can be reduced to zero pool loss which doesn\u2019t change the fact that it was a successful action with a resolution ...this is then an unsuccessful bleed but still a successful action.",
+      "Id": "101276"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Dec 19, 2020, 12:32\u202FPM",
+      "Body": "> inm8 wrote:\n> Action resolution is what plays out as a result of a successful action. In the case of a political action the referendum is the resolution of the action which has one of two possible outcomes ie. it either passed or it doesn\u2019t. Another example the bleed action... the resolution of it is that your prey/target loses pool...this in turn can be reduced to zero pool loss which doesn\u2019t change the fact that it was a successful action with a resolution ...this is then an unsuccessful bleed but still a successful action.\n>\nThe thing is, the action isn't actually resolved until the referendum is concluded, since referendum is part of the action resolution. So \"before action is resolved\" would be a lot more vague timeframe since it covers the entire action.\n\nEverything SHOULD be fine since the card says \"before action resolution\" which I interpret to mean before you even begin to resolve the action.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "101277"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 19, 2020, 3:17\u202FPM",
+      "Body": "What i was trying to convey was that the action resolution of the political action is the\nreferendum being called, which is to say that when the card text say \"before the action resolution\" it means before the calling of the referendum, declaring of conditions and voting.\n\nPlaying a political action card or triggering a political action by a card in play is the action.\nIf the action is successful the referendum is what is called as the resolution/result of the successful action.\n\nHopefully Ankha can confirm and explain better than i have.",
+      "Id": "101278"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 19, 2020, 5:00\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > POLITICAL ACTION\n> > Banishment\n> > Choose a ready younger vampire. Successful referendum means the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects); any cards and counters on the chosen vampire stay with them but are out of play as long as the chosen vampire remains uncontrolled.\n> >\n> > REACTION\n> > Forced Awakening\n> > Only usable by a locked vampire.\n> > This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action). If they do not block this action, they burn 1 blood before action resolution.\n> >\n> if a vampire that waked via Forced Awakening and unsucesfully tried to block a banishment, and is then declared the target of the Banishment (and the vote is sucessful), do they burn a blood before they are banished?\n>\nIf the action is not blocked, |*| then it resolves successfully.\nThe vampire burns 1 blood when everyone has declined to block, before resolving the action (marked as |*| above).\nResolving a political action means (6.3.2. The Referendum): choosing the terms (if any), polling, and resolving the referendum.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101279"
+    }
+  ]
+}

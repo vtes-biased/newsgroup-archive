@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-70217",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/70217-vtesdb-an-online-responsive-vtes-database",
+  "Title": "VtESDB - An online responsive VtES database",
+  "Messages": [
+    {
+      "Author": "SmoiZ",
+      "Date": "Apr 4, 2015, 12:18\u202FPM",
+      "Body": "Hi everyone!\n\nI have decided to share my simple online VtES database with you guys.\nThe goal was to create a simple and fast experience with a modern looking interface. Its main use at this moment is as fast and easy card look-up. The site is compatible with modern smartphone browsers.\n\nCurrent features:\n- Searching\n- Inventory\n- Tagging/deck building\n\nSo feel free check it out at vtes.gartner.io.\n\nFor you developers out there here is a quick rundown.\nThe site is a web app written in NodeJS running Meteor. It currently is hosted on free servers which is why the app is suspended after prolonged inactivity. This adds an extra loading on the first request if the app is suspended.\n\nI well come any feedback here but please redirect all feature requests / bug reports to: bitbucket.org/smoiz/vtesdb/\n\n/smz",
+      "Id": "70217"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 4, 2015, 1:39\u202FPM",
+      "Body": "It doesn't work offline which is sad.\nI was working some time ago on a similar tool but that would work offline; unfortunately the performances were not very good.\n\nHow is it better or different than the existing websites, such as Secret library?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70220"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Apr 4, 2015, 2:37\u202FPM",
+      "Body": "Why al-ashrad adv show basic version ? Overall, while i support new tools, i'd rather use secret library.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "70221"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 5, 2015, 7:31\u202FAM",
+      "Body": "> Ankha wrote:\n> It doesn't work offline which is sad.\n> I was working some time ago on a similar tool but that would work offline; unfortunately the performances were not very good.\n>\n> How is it better or different than the existing websites, such as Secret library?\n>\nApart of that, the interface is nice.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70224"
+    },
+    {
+      "Author": "SmoiZ",
+      "Date": "Apr 5, 2015, 8:55\u202FAM",
+      "Body": "> Why al-ashrad adv show basic version ? Overall, while i support new tools, i'd rather use secret library.\n>\nAh, apparently the image database had the wrong card. I'll look into it and see if I can't find the right image.\n\n> How is it better or different than the existing websites, such as Secret library?\n>\nThe main difference compared to many other I've seen is that this web app is responsive and adapts well to mobile browsers. Though it should be noted that my main purpose was \"because I felt like it\".",
+      "Id": "70226"
+    }
+  ]
+}

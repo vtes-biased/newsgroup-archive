@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-78805",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78805-form-of-mist-vs-deflection",
+  "Title": "Form of Mist vs Deflection",
+  "Messages": [
+    {
+      "Author": "Yipe",
+      "Date": "Aug 16, 2020, 4:40\u202FAM",
+      "Body": "Old player here returning to the game after 20 years and relearning some of the card interactions after being away for so long. I have a few questions about Form of Mist which seems like a fairly complex card:\n\n1. Form of Mist vs Deflection\n- Player A declares a bleed against Player B.\n- Player B plays Deflection so the bleed is now targeting Player C.\n- Player C successfully blocks Player A's vampire.\n- Player A's and Player C's vampires enter combat.\n- Player A plays superior Form of Mist and the combat ends.\n- Player A's vampire burns 1 blood and continues the action at +1 stealth.\n\nIs the target of the bleed still Player C, or does it revert back to the original target of the bleed action which is Player A?\n\n2. When using the superior effect of Form of Mist to continue the action at +1 stealth, does all the previous stealth/intercept used for that action prior to combat still apply, or is it reset back to 0?",
+      "Id": "100547"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 16, 2020, 7:48\u202FAM",
+      "Body": "> Yipe wrote:\n> Old player here returning to the game after 20 years and relearning some of the card interactions after being away for so long. I have a few questions about Form of Mist which seems like a fairly complex card:\n>\n> 1. Form of Mist vs Deflection\n> - Player A declares a bleed against Player B.\n> - Player B plays Deflection so the bleed is now targeting Player C.\n> - Player C successfully blocks Player A's vampire.\n> - Player A's and Player C's vampires enter combat.\n> - Player A plays superior Form of Mist and the combat ends.\n> - Player A's vampire burns 1 blood and continues the action at +1 stealth.\n>\n> Is the target of the bleed still Player C, or does it revert back to the original target of the bleed action which is Player A?\n>\nStill C.\n\n> Yipe wrote:\n> 2. When using the superior effect of Form of Mist to continue the action at +1 stealth, does all the previous stealth/intercept used for that action prior to combat still apply, or is it reset back to 0?\n>\nThey still apply.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100548"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Aug 16, 2020, 8:24\u202FAM",
+      "Body": "It does precisely what it promises; it negates the block. All other properties of the action remain the same (as it\u2019s still the same action).",
+      "Id": "100550"
+    },
+    {
+      "Author": "Yipe",
+      "Date": "Aug 16, 2020, 4:10\u202FPM",
+      "Body": "Thank you for the replies!\n\nIn the case of the stealth/intercept still applying, I imagine if the blocking minion (who is now locked) can play a reaction card such as Wake With Evening's Freshness they can attempt to block again and they only need +1 intercept to match the acting vampire's stealth? Otherwise, a new unlocked minion must attempt to block the continuing action?",
+      "Id": "100554"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Aug 16, 2020, 5:05\u202FPM",
+      "Body": "> Yipe wrote:\n> Thank you for the replies!\n>\n> In the case of the stealth/intercept still applying, I imagine if the blocking minion (who is now locked) can play a reaction card such as Wake With Evening's Freshness they can attempt to block again and they only need +1 intercept to match the acting vampire's stealth?\n>\nYes. If the blocking minion was already locked and has played a wake (not an untap) to block, that still applies and you do not need to wake again.\n\n> Yipe wrote:\n> Otherwise, a new unlocked minion must attempt to block the continuing action?\n>\nIf you do not have a wake, yes.\n\nPrince of Bonn, Germany",
+      "Id": "100555"
+    },
+    {
+      "Author": "Yipe",
+      "Date": "Aug 16, 2020, 6:05\u202FPM",
+      "Body": "Thank you for the clarification on having previously played a wake during the action and how that still applies.",
+      "Id": "100556"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 17, 2020, 8:08\u202FAM",
+      "Body": "Greetings @Yipe and welcome back,\n\nDo not hesitate to check out  the Codex for questions about cards interactions and rulings. It also gives the links to the original Rules Directors posts with the whole discussion around the subject.\n\nFarewell !",
+      "Id": "100557"
+    },
+    {
+      "Author": "Yipe",
+      "Date": "Sep 12, 2020, 4:24\u202FAM",
+      "Body": "Coming back to this topic briefly... we've picked up more players for our VtES group and we're getting in some regular games (or as much as possible considering the moratorium on in-person gaming and then wildfires hitting our area pretty hard right now).\n\nPlayers are digging into some of their older cards/clans and building new decks to spice things up, which of course has led to further rules questions. The card in question this time around is Mirror Image, which functions in a similar capacity to Form of Mist (hence why I'm adding it to this discussion thread).\n\nMIRROR IMAGE\n[Chi] Action Modifier: +1 stealth\n[CHI] Combat: Strike: combat ends. If this vampire was blocked while performing an action other than bleeding, the action continues as if unblocked.\n\nThe question is how to play Mirror Image at the superior level as it doesn't increase the acting minion's stealth like Form of Mist? If the blocking minion's previous intercept still applies, wouldn't combat end and then the action would be immediately blocked again and both minions would go right back into a new combat?\n\nIs the purpose here to cycle your hand and hunt for more stealth? What are we missing? Our Ravnos player is looking for guidance to continue with their mind-altering shenanigans!",
+      "Id": "100751"
+    },
+    {
+      "Author": "Rynkle",
+      "Date": "Sep 12, 2020, 5:11\u202FAM",
+      "Body": "Something like this maybe :\n\nPlayer A bleed\nPlayer B block with an unlocked vampire\nCombat -> player B lock his blocking vampire\nPlayer A play mirror image sup\nPlayer B need a wake or another unlocked vampire to block",
+      "Id": "100752"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 12, 2020, 6:31\u202FAM",
+      "Body": "> Rynkle wrote:\n> Something like this maybe :\n>\n> Player A bleed\n> Player B block with an unlocked vampire\n> Combat -> player B lock his blocking vampire\n> Player A play mirror image sup\n> Player B need a wake or another unlocked vampire to block\n>\nmirror image sup dont continue bleed action,so wake or another unlocked minion is right,just need another action than bleed",
+      "Id": "100753"
+    },
+    {
+      "Author": "Yipe",
+      "Date": "Sep 12, 2020, 6:37\u202FAM",
+      "Body": "Huh, I guess I misunderstood how this works. When the initial blocking minion locks to block, and then the acting minion plays Mirror Image (or Form of Mist) to end combat, the blocking minion is no longer considered blocking?\n\nBut earlier in this thread, someone posted that if the blocking minion had played a wake (e.g. Wake with Evening's Freshness) to block the action, then they are still able to block this action because it hasn't been completed yet. That's a pretty complex and subtle distinction.\n\nWhat if the initially blocking minion plays a wake card after the Mirror Image? Is all of the intercept they played to block in the first place still applicable here?",
+      "Id": "100754"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Sep 12, 2020, 7:20\u202FAM",
+      "Body": "Since it is still the same action, any modifiers and reactions (and others effects, like tap-for-stealth/int) still apply. This includes wakes already played by the blocker(s).",
+      "Id": "100755"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Sep 12, 2020, 3:31\u202FPM",
+      "Body": "Yipe, here is the scenario with Wake and Mirror Image:\n\nVamp A is trying to hunt;\nLocked Vamp B plays Wake, tries to block, then plays +1 intercept, and the block is successful;\nCombat begins, and Vamp A plays sup Mirror Image to continue the action;\nSince it is the same action, all effects still applies, the Vamp B is still awake and have 1 intercept, so he tries to block again;\nSince Vamp A have no new stealth cards to play, the block is successful, and new combat begins.",
+      "Id": "100757"
+    },
+    {
+      "Author": "Yipe",
+      "Date": "Sep 12, 2020, 5:28\u202FPM",
+      "Body": "Gotcha. To clarify, if a minion blocked the initial declaration of the action then they would no longer be blocking the continued action unless:\n\nA) They had previously played a wake card to block the action as it was started.\nB) Play a wake card in response to the continuing action.\n\nWhew, thanks!",
+      "Id": "100758"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Sep 12, 2020, 6:20\u202FPM",
+      "Body": "> Yipe wrote:\n> Gotcha. To clarify, if a minion blocked the initial declaration of the action then they would no longer be blocking the continued action unless:\n>\n> A) They had previously played a wake card to block the action as it was started.\n> B) Play a wake card in response to the continuing action.\n>\n> Whew, thanks!\n>\nYou are correct, but remember, a minion blocked the initial declaration of the action does not tries to block the continued action automatically if he played wake before. You can make a new block attempt with that or any other minion.",
+      "Id": "100759"
+    },
+    {
+      "Author": "Yipe",
+      "Date": "Sep 12, 2020, 8:34\u202FPM",
+      "Body": "> Palamedes wrote:\n> You are correct, but remember, a minion blocked the initial declaration of the action does not tries to block the continued action automatically if he played wake before. You can make a new block attempt with that or any other minion.\n>\nOkay, based on what you just wrote I'm not sure I have this correct then.\n\nAre you saying that the minion who initially blocked using a wake (and locked because the block was successful) can't automatically block the continued action? Is that because the minion is locked? But it's still the same action. This is really confusing. Here's an example:\n\n1. Minion A takes the hunt action.\n2. Minion B is locked and plays a wake.\n3. Minion B plays enough intercept to successfully block and locks.\n4. Minion A and B enter combat.\n5. Minion A plays Form of Mist/Mirror Image as their strike. The action continues as if unblocked.\n\nWhat can Minion B do now?\n\nA) Minion B doesn't need to do anything new to block the continued action. They played a wake, this is the same action, and all intercept/stealth modifiers carry over. They simply declare they are blocking again even though they are locked and the 2 minions enter combat once more unless Minion A can gain more stealth.\n\nB) Minion B must find a way to unlock or play another wake card to block the continued action. If they can, all intercept/stealth modifiers remain in place. Go to combat.\n\nC) Minion B must find a way to unlock or play another wake card to block the continued action. No intercept/stealth modifiers carry over to this continued action.\n\nD) None of the above? Something else? It's not really clear to me at all anymore.",
+      "Id": "100760"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Sep 12, 2020, 8:57\u202FPM",
+      "Body": "> Yipe wrote:\n>\n> > Palamedes wrote:\n> > You are correct, but remember, a minion blocked the initial declaration of the action does not tries to block the continued action automatically if he played wake before. You can make a new block attempt with that or any other minion.\n> >\n> Okay, based on what you just wrote I'm not sure I have this correct then.\n>\n> Are you saying that the minion who initially blocked using a wake (and locked because the block was successful) can't automatically block the continued action? Is that because the minion is locked? But it's still the same action. This is really confusing. Here's an example:\n>\n> 1. Minion A takes the hunt action.\n> 2. Minion B is locked and plays a wake.\n> 3. Minion B plays enough intercept to successfully block and locks.\n> 4. Minion A and B enter combat.\n> 5. Minion A plays Form of Mist/Mirror Image as their strike. The action continues as if unblocked.\n>\n> What can Minion B do now?\n>\n> A) Minion B doesn't need to do anything new to block the continued action. They played a wake, this is the same action, and all intercept/stealth modifiers carry over. They simply declare they are blocking again even though they are locked and the 2 minions enter combat once more unless Minion A can gain more stealth.\n>\n> B) Minion B must find a way to unlock or play another wake card to block the continued action. If they can, all intercept/stealth modifiers remain in place. Go to combat.\n>\n> C) Minion B must find a way to unlock or play another wake card to block the continued action. No intercept/stealth modifiers carry over to this continued action.\n>\n> D) None of the above? Something else? It's not really clear to me at all anymore.\n>\nOption A is correct.\n\nedit: Keep in mind that Form of Mist adds one stealth, so the blocker might have to gain more intercept. But you probably realized that",
+      "Id": "100761"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Sep 13, 2020, 8:43\u202FAM",
+      "Body": "> Yipe wrote:\n> A) Minion B doesn't need to do anything new to block the continued action. They played a wake, this is the same action, and all intercept/stealth modifiers carry over. They simply declare they are blocking again even though they are locked and the 2 minions enter combat once more unless Minion A can gain more stealth.\n>\nAs Snoding says, option A is correct.\n\nI just wanted to point that after Wake, the block attempt is not made automatically, but you can declare new block attempt, exactly like you describe in option A.",
+      "Id": "100762"
+    }
+  ]
+}

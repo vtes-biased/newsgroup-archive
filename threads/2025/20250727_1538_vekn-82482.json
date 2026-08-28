@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-82482",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82482-clarifications-on-blood-weakens-and-infernal-pursuit",
+  "Title": "Clarifications on Blood Weakens and Infernal Pursuit",
+  "Messages": [
+    {
+      "Author": "Khalid1988",
+      "Date": "Jul 27, 2025, 3:38\u202FPM",
+      "Body": "This situation happened in a tournament today and ended up causing lots of chatter, so I thought it is best to bring it up for discussion here as well.\n\nName: Infernal Pursuit [Jyhad:U2, VTES:U, CE:U/PB, LoB:PO] Cardtype: Combat Discipline: Celerity [cel] Press. [CEL] For the remainder of the combat, each time you replace a card (including when you draw to replace this card), draw an additional card and discard down to your hand size. Artist: Ron Spencer\n\nName: Blood Weakens [Gehenna:R, KoT:R, EoG:1] Cardtype: Event Gehenna. Do not replace until a vampire commits diablerie. During an action, cards minions play requiring 1 or more Disciplines are not replaced until the end of that action or until a Methuselah's hand is empty (whichever comes first). Vampires who commit diablerie ignore this effect until a Gehenna event is played. Artist: Jeff Holt\n\nName: Stanislava [DS:V, Anarchs:PG, 25th:4] Cardtype: Vampire Clan: Gangrel Group: 2 Capacity: 11 Discipline: ANI CEL DOM FOR PRO Camarilla Gangrel Inner Circle: Retainers employed by minions opposing Stanislava in combat lose their abilities. Allies cannot block her. +2 bleed. Artist: Max Shade Fellwalker\n\nName: Branimira [V5C:PTz2] Cardtype: Vampire Clan: Tzimisce Group: 6 Capacity: 6 Discipline: dom pre pro ANI Anarch Baron of Sofia: While you have 9 or fewer pool, Branimira gets +1 intercept. Artist: Mark Kelly\n\nStanislava controlled by Bob enters combat with Timmy's Branimira. At the start of the combat, Stanislava plays Infernal Pursuit. However, Timmy has also played on the previous round Blood Weakens, which prevents vampires from replacing cards that require 1 or more Disciplines. At the same time, Stanislava's Infernal Pursuit says that Bob should draw an extra card and then discard down once.\n\nSo the questions in this above situation are:\n\n1. Does the Blood Weakens effect of preventing replacing cards still apply for the duration of whole action and Bob should wait until the end of the action to replace all the played cards?\n\n2. If so, what is the correct order of starting to replace and discard cards after Infernal Pursuit has been played after the action ends?\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "115063"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 27, 2025, 7:54\u202FPM",
+      "Body": "The scenario doesn't require specifically Stanislava or Branimira, so to keep it simple, let's just use vampires A and B.\nThanks for posting the cardtext of the relevant cards though.\n\n> Khalid1988 wrote:\n> Infernal Pursuit says that Bob should draw an extra card and then discard down once.\n>\nIt's not what the card says. It says \"each time you replace a card, draw an additional card\".\n\nSince Blood Weakens prevents cards from being replaced, the condition to draw an additional card is not met.\n\n> Khalid1988 wrote:\n> 1. Does the Blood Weakens effect of preventing replacing cards still apply for the duration of whole action and Bob should wait until the end of the action to replace all the played cards?\n>\nI'm confused by the use of the word \"still\". Blood Weakens is an event that is in play and is active. It prevents cards requiring 1 or more Disciplines from being replaced for the duration of the action, which includes the combat.\n\n> Khalid1988 wrote:\n> 2. If so, what is the correct order of starting to replace and discard cards after Infernal Pursuit has been played after the action ends?\n>\nYou just replace the cards but don't draw any additional ones since combat is over. It's handled differently if A empties their hand during combat => groups.google.com/g/rec.games.trading-cards.jyhad/c/H6Jm74N0v7k/m/zPi11g24bBUJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115064"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 28, 2025, 7:05\u202FAM",
+      "Body": "Additional question regarding Infernal pursuit and blood weakens:\n\nDoes blood weakens reduce handsize or are cards simply not replaced and the handsize is still regular 7?\n\nExample of what I mean:\nBlood weakens is at table, we are in combat and player A plays Infernal pursuit and 2 other discipline cards. (not replaced)\n\nPlayer A cards in hand: 4.\nPlayer A plays taste of vitae, not a discipline card so IP affects this.\nPlayer A draws 2 cards.\nDo they discard a card or not?\n\nInfernal pursuit doesnt make your discard cards, you are simply meant to discard to handsize if you are over it, but now the question is: what is the handsize? Is it 4 (blood weakens changes handsize) or is it the default 7?\n\nIf its the default, then player A does not discard and has 6 cards in hand. Correct?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "115067"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 28, 2025, 7:19\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Additional question regarding Infernal pursuit and blood weakens:\n>\n> Does blood weakens reduce handsize or are cards simply not replaced and the handsize is still regular 7?\n>\nRulebook: \"The number of cards in your hand should always match your hand size (cards that are replaced later reduce your hand size for the duration of the effect).\"\n\n> Bloodartist wrote:\n> Blood weakens is at table, we are in combat and player A plays Infernal pursuit and 2 other discipline cards. (not replaced)\n>\n> Player A cards in hand: 4.\n> Player A plays taste of vitae, not a discipline card so IP affects this.\n> Player A draws 2 cards.\n> Do they discard a card or not?\n>\nThey discard since they have one card too many in hand.\n\n> Bloodartist wrote:\n> Infernal pursuit doesnt make your discard cards, you are simply meant to discard to handsize if you are over it\n>\nCorrect.\n\n> Bloodartist wrote:\n> , but now the question is: what is the handsize? Is it 4 (blood weakens changes handsize) or is it the default 7?\n>\nSee rulebook: cards that are not replaced count against the handsize.\n\n> Bloodartist wrote:\n> If its the default, then player A does not discard and has 6 cards in hand. Correct?\n>\nWrong.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115068"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Jul 28, 2025, 8:54\u202FAM",
+      "Body": "Thank you for the clarifications. So based on this it sounds like Blood Weakens is pretty much the perfect anti-card against Infernal Pursuit.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "115074"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 28, 2025, 9:29\u202FAM",
+      "Body": "> Ankha wrote:\n> See rulebook: cards that are not replaced count against the handsize.\n>\nThis was the critical info. Thank you.\n\nHowever, Id like to point out that since IP does affect taste of vitae and thus the cards you draw are replacement cards, these cards would increase the functional handsize. The new handsize by this ruling would be 6 (both cards are replacement cards so they increase the handsize) and there still wouldn't be any discards. After playing taste of vitae the new handsize is 6 and IP itself does not force you to discard.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "115075"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jul 29, 2025, 12:27\u202FAM",
+      "Body": "No, the new handsize is 5\nIP does not let you replace with 2 cards - the rules lets you replace the Taste and IP lets you draw an additional (critically not a replacement of Taste, just an additional card draw triggered by the replacement)\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "115087"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 29, 2025, 5:44\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > See rulebook: cards that are not replaced count against the handsize.\n> >\n> This was the critical info. Thank you.\n>\n> However, Id like to point out that since IP does affect taste of vitae and thus the cards you draw are replacement cards,\n>\nThe extra card drawn with IP is not a replacement card. Replacement cards are drawn when the condition to replace them is met. Until then, cards waiting to be replaced count against your hand size.\nLet's say you've played 2 cards that are not replaced yet. You have 5 cards in hand, and 2 \"slots\" are taken by the cards not replaced yet.\nYou play Taste of Vitae. You are down to 4 cards, replace it => back to 5, then you draw an extra card from IP. You have 6 cards in hands, which is too much since you still have those 2 cards waiting to be replaced. You have to discard down to 5 cards so that you're back to your hand size.\n\n> Bloodartist wrote:\n> these cards would increase the functional handsize. The new handsize by this ruling would be 6 (both cards are replacement cards so they increase the handsize) and there still wouldn't be any discards. After playing taste of vitae the new handsize is 6 and IP itself does not force you to discard.\n>\nNo, see above.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115092"
+    }
+  ]
+}

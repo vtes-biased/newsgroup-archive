@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-79239",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79239-no-repeat-action-question",
+  "Title": "no repeat action question",
+  "Messages": [
+    {
+      "Author": "gymim",
+      "Date": "Jul 22, 2021, 8:36\u202FPM",
+      "Body": "is there a detailed rule area on vekn that i can look up the full details of the \"no repeat action\" rule that details what vampires can do, in regards to multiple actions?",
+      "Id": "102759"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 23, 2021, 6:25\u202FAM",
+      "Body": "Page 20 of the rulebook:\n\nA minion cannot perform an action with the same action card more than once each turn, even if they unlocks.\nA minion cannot perform each action via the same card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock.\n\nThis limitation kicks in when the action reaches resolution, that is when it is either blocked (unsuccessful) or not (successful).\n\nIn some rare cases (Tangle Atropo's Hand), the action is canceled before resolution and can be performed again.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102760"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jul 23, 2021, 2:09\u202FPM",
+      "Body": "I would add that some types of action add another kind of NRA :\nRulebook p 20 :\n\nA minion cannot perform more than one bleed action each turn.\n\nRulebook p 23 :\nA vampire cannot perform more than one political action each turn.",
+      "Id": "102761"
+    },
+    {
+      "Author": "gymim",
+      "Date": "Jul 23, 2021, 3:30\u202FPM",
+      "Body": "thank you!",
+      "Id": "102762"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 23, 2021, 11:19\u202FPM",
+      "Body": "> Timo wrote:\n> I would add that some types of action add another kind of NRA :\n> Rulebook p 20 :\n>\n> A minion cannot perform more than one bleed action each turn.\n>\n> Rulebook p 23 :\n> A vampire cannot perform more than one political action each turn.\n>\nIt might be useful to call all of these out in a special reminder block in the next version of the rulebook. Having the answers spread out over multiple pages is harder.",
+      "Id": "102764"
+    }
+  ]
+}

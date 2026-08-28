@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-38906",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/38906-joseph-digiaccomo-untaping",
+  "Title": "Joseph DiGiaccomo & Untaping",
+  "Messages": [
+    {
+      "Author": "extrala",
+      "Date": "Oct 11, 2012, 6:40\u202FPM",
+      "Body": "> Joseph DiGiaccomo [KoT:V]\n> Cardtype: Vampire\n> Clan: Ventrue\n> Group: 5\n> Capacity: 6\n> Discipline: aus dom for PRE\n> Camarilla: Joseph untaps whenever any Methuselah puts a master: location in play.\n>\nDoes Jospeh untap when a Master: location (in the narrow sense) is put into play, or does his special ability also includes Master: unique locations?\n\nI guess the former, but I want to make sure.",
+      "Id": "38906"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Oct 11, 2012, 6:44\u202FPM",
+      "Body": "Unique locations are a subset of locations.\n\nI assume you're waiting for Pascal to answer this - but you can see how 'location' applies equally with Arika or Therbold Realty to 'Unique' and non-unique locations.",
+      "Id": "38909"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Oct 11, 2012, 7:10\u202FPM",
+      "Body": "I agree on the subset relation between general locations and unique locations. But both Arika and Therbold Realty use only the word \"locations\", while Joseph explicitly uses the term \"Master: location\".\n\nSo let's wait what the official rules monger has to say about this ..",
+      "Id": "38911"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 11, 2012, 7:33\u202FPM",
+      "Body": "> extrala wrote:\n> I agree on the subset relation between general locations and unique locations. But both Arika and Therbold Realty use only the word \"locations\", while Joseph explicitly uses the term \"Master: location\".\n>\n> So let's wait what the official rules monger has to say about this ..\n>\nBecause Arika affects Palatial Estate, whereas Joseph ignores it.\nAnyway, a Master: unique location is a location + a master + a unique card, so if it's a least a Master + location, Joseph is happy and untaps.\nThink also of Path of Typhoon that reduce the cost of cards that require Serpentis and that work on Typhonic Beast that require Serpentis + Potence.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "38912"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 11, 2012, 9:55\u202FPM",
+      "Body": "> Squidalot wrote:\n> Unique locations are a subset of locations.\n>\nCorrect - which means the answer to the initial question is \"Yes, Joseph untaps when Secure Haven (or other similar Master: unique location) are put in play\".\n\nFor some reason, non-master unique locations have beene reworded to \"location. unique.\" but no the master cards. I'll see to have this checked for the next RTR.",
+      "Id": "38921"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Oct 12, 2012, 8:38\u202FAM",
+      "Body": "Might I submit a request that non-master locations be addressed in RTR by the loving community sobriquet of 'locquipment'? It'd be a truly groundbreaking CCG keyword.",
+      "Id": "38959"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 12, 2012, 9:11\u202FAM",
+      "Body": "> Azel wrote:\n> Might I submit a request that non-master locations be addressed in RTR by the loving community sobriquet of 'locquipment'? It'd be a truly groundbreaking CCG keyword.\n>\nEven though the coining is awesome and I love it, it would just mess with all the cards/rules.\nEither Conceal would have to be reworded \"Equipment, location, or locquipment\", or the Rulebook should have an entry for \"Locquipment: \"location when in play, equipment the rest of the time\", but locquipments would still have the equipment symbol.\n\nI'll add that to my suggestion list",
+      "Id": "38963"
+    }
+  ]
+}

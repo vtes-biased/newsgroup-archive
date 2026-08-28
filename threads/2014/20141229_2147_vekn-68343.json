@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-68343",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68343-jabba-jabba-jabba",
+  "Title": "Jabba Jabba Jabba",
+  "Messages": [
+    {
+      "Author": "delangen",
+      "Date": "Dec 29, 2014, 9:47\u202FPM",
+      "Body": "Just a quick verification do/does quick jab, immortal grapple and blood rage all work nice and copacetically. I just saw the card text for the QJ has been errated... the make a hand strike has been taken out.\n\nQJ\nDo not replace until after combat.\nStrike: hand strike (at strength damage) with first strike. If more than 1 damage is inflicted with this strike, ignore the excess.\nIG\nStrikes that are not hand strikes may not be used this round (by either combatant). A vampire may play only one Immortal Grapple each round.\n[POT] As above, with an optional press. If another round of combat occurs, that round is at close range; skip the determine range step for that round.\nBR\nOnly usable at close range.\n[tha] Strike: hand strike. This damage cannot be prevented by cards that require Fortitude [for] . If the opposing vampire attempts to strike with a weapon this round, he or she does no damage.\n[THA] As above, but for strength+1 damage.\n\nthank you kindle",
+      "Id": "68343"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Dec 30, 2014, 2:18\u202FAM",
+      "Body": "Quick jab is a strike, so no blood rage\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "68344"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Dec 30, 2014, 2:06\u202FPM",
+      "Body": "> brandonsantacruz wrote:\n> Quick jab is a strike, so no blood rage\n>\ndoesn't any strike that does strength + damage also count as a hand strike? So if QJ does S damage, and no more than one, it's still a hand strike. I'm on my phone, so it's cumbersome to verify in the rulebook for me right now.",
+      "Id": "68370"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 30, 2014, 2:12\u202FPM",
+      "Body": "> self wrote:\n>\n> > brandonsantacruz wrote:\n> > Quick jab is a strike, so no blood rage\n> >\n> doesn't any strike that does strength + damage also count as a hand strike? So if QJ does S damage, and no more than one, it's still a hand strike. I'm on my phone, so it's cumbersome to verify in the rulebook for me right now.\n>\nYes, a strike that does strength damage, that isn't provided by a weapon and that isn't ranged is considered to be a hand strike.\n\nBut it's not the problem here. The problem is that both Quick Jab and Blood Fury are strikes on their own, and you can't combine two strikes in one strike.\n\nTo achieve what you want, you'd need some card such as Blood of the Cobra:\n\nName: Blood of the Cobra\nCardtype: Combat\nDiscipline: Quietus\n[qui] Strike: 1R damage.\n[QUI] Strike: ranged. Play a non-ranged strike that requires Quietus [qui] from your hand and use that strike as if it were ranged (if the chosen strike is a hand strike, the hand strike's damage is not ranged and this strike is not a hand strike).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68372"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 30, 2014, 2:16\u202FPM",
+      "Body": "> self wrote:\n>\n> > brandonsantacruz wrote:\n> > Quick jab is a strike, so no blood rage\n> >\n> doesn't any strike that does strength + damage also count as a hand strike?\n>\nAlmost, but not quite. The definition of a hand strike is:\nHand Strike: any non-ranged, non-weapon strike that deals damage based on the striking minion's strength, or any minion's non-ranged damage-dealing innate strike.\n\nThe non-ranged is important for (for example) Earthshock. The \"minion's non-ranged damage-dealing innate strike\" part is, I think, now redundant, as it was basically there for allies who didn't know about strength, having been printed before it was invented. I think pretty much everything there has been errata-ed or MRP-ed into the current template.\n\nIn the case of Quick Jab, there is no difference between \"Strike: make a hand strike at strength damage...\", though - it's the same with or without.\n\nLSJ went back and forth on the templating. At one point, he used \"Strike: strength damage\" to indicate a hand strike. In other sets, he used \"Strike: make a hand strike at strength damage...\" I vaguely remember him saying that he thought the first version was clear enough, but that he got feedback from players which caused him to use the latter as being slightly clearer.",
+      "Id": "68373"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Dec 30, 2014, 2:32\u202FPM",
+      "Body": "thanks, I knew there were a few exceptions to the rule.",
+      "Id": "68375"
+    }
+  ]
+}

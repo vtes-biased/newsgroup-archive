@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-78398",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78398-the-rack-vs-changing-control",
+  "Title": "The Rack vs changing control",
+  "Messages": [
+    {
+      "Author": "Raven",
+      "Date": "Jan 30, 2020, 8:31\u202FAM",
+      "Body": "Hello,\n\nLet's say vampire has The Rack targeted at her.\nThen she goes to torpor and other player plays Graverobbing at her and takes control.\n\nHow The Rack works from this moment? Does it give blood to targeted vampire regardless of player who controls vampire?\n\nSimilar situation but this vampire is Capuchin. Capuchin is somehow burned.\nWhat happens then? Does he uses his ability and returns under the control of his owner or stays under the control of recent controller in uncontrolled region?",
+      "Id": "98815"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Jan 30, 2020, 9:57\u202FAM",
+      "Body": "Ahoi,\n\nfirst: you should post relevant card text along with the rules question, it makes it a lot easier to just look at the question and answer it, instead of first searching for the card text.\n\nRack\n\nName: The Rack\n[Jyhad:U, VTES:U, CE:U, Third:U, KoT:U/PT, SP:DoF1]\nCardtype: Master\nUnique location.\nAs this card is played or the controller of this card changes, the controller chooses a ready vampire they control. During the controller's unlock phase, the chosen vampire can gain 2 blood. A vampire controlled by another Methuselah can steal this location as a  action.\nArtist: Quinton Hoover; Steve Prescott\n\nFor the first question, I'm not 100% sure if this answer is correct. The card text references \"the controller\", from context I deduce it is the controller of the rack. So it would happen during the unlock phase. It sais \"the vampire can gain 2 blood\". The question in my opinion boils down to: who chooses if this can effect is used? I'd say the controller of the Rack chooses. Therefore the vampire would gain 2 blood, no matter who controls the vampire, if the controller of he rack chooses it to be so.\n\nCapuchin\n\nName: The Capuchin\n[Promo-20150219, Promo-20181004:HB2, Promo-20190804]\nCardtype: Vampire\nClan: Harbinger of Skulls\nGroup: 5\nCapacity: 11\nDiscipline: AUS DOM FOR NEC THA THN\nIndependent: If The Capuchin is burned, move him to your uncontrolled region and you get +3 transfers at the start of your next influence phase. +1 bleed. +2 hand size. +1 intercept.\nArtist: Gin\u00E9s Qui\u00F1onero\n\nFor the second question: Again, not 100% sure, but I assume that a vampire cannot move to the uncontrolled region of a player who is not the owner of the card (same as Ash Heap, Library, etc.). But if this implies the Capuchin is moved to his owners uncontrolled or is simply burned, I do not know.\n\nPrince of Bonn, Germany",
+      "Id": "98818"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 30, 2020, 10:13\u202FAM",
+      "Body": "> Raven wrote:\n> Let's say vampire has The Rack targeted at her.\n> Then she goes to torpor and other player plays Graverobbing at her and takes control.\n>\n> How The Rack works from this moment? Does it give blood to targeted vampire regardless of player who controls vampire?\n>\nA controls the Rack. B controls the vampire chosen by the Rack.\nDuring A's unlock phase, B can choose to add 2 blood the chosen vampire, because the Rack reads \"the chosen vampire can\", not \"you can\" or \"the controller of the Rack\".\n\n> Raven wrote:\n> Similar situation but this vampire is Capuchin. Capuchin is somehow burned.\n> What happens then? Does he uses his ability and returns under the control of his owner or stays under the control of recent controller in uncontrolled region?\n>\nIf B was controlling the Capuchin when it burned, the Capuchin goes to B's uncontrolled region.\n\nREVERSAL : The Capuchin goes to his owner's uncontrolled region. See www.vekn.net/forum/rules-questions/78568-the-capuchin-burns-temporary-control?start=12#99616\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98819"
+    },
+    {
+      "Author": "Raven",
+      "Date": "Jan 31, 2020, 1:23\u202FPM",
+      "Body": "Thank You for all answers,\n\none more thing:\n\nIf I take control over vampire until my next untap phase using Malkavian Dementia.\n\nMalkavian Dementia\nMaster.\nYou control a ready Malkavian that another Methuselah controls until your next untap phase.\n\nAnd before my next untap phase owner of this vampire is ousted, what will happen with this vampire in my next untap phase?",
+      "Id": "98829"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 31, 2020, 1:55\u202FPM",
+      "Body": "> Raven wrote:\n> And before my next untap phase owner of this vampire is ousted, what will happen with this vampire in my next untap phase?\n>\nYou return the vampire to their previous controller, and since that player has been ousted, the vampire is removed from the game.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98830"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 15, 2021, 7:32\u202FPM",
+      "Body": "What about Rack impulse?\nFor exaple A control Rack,B control vampire,i beleive A must resolve all mandatory stuff,and when pass impulse to B,B can gain from Rack,correct?\nAnd for example if is anarch Revolt in play,and A is in one pool without anarch,A die before give chance to B gain bloods from Rack,correct?",
+      "Id": "101858"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 15, 2021, 9:46\u202FPM",
+      "Body": "> beslin wrote:\n> What about Rack impulse?\n> For exaple A control Rack,B control vampire,i beleive A must resolve all mandatory stuff,and when pass impulse to B,B can gain from Rack,correct?\n>\nCorrect.\n\n> beslin wrote:\n> And for example if is anarch Revolt in play,and A is in one pool without anarch,A die before give chance to B gain bloods from Rack,correct?\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101860"
+    }
+  ]
+}

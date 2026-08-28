@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-28814",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/28814-if-combat-occurs-condition",
+  "Title": "'if combat occurs' condition",
+  "Messages": [
+    {
+      "Author": "Louhi",
+      "Date": "Apr 27, 2012, 1:12\u202FPM",
+      "Body": "Just noticed how the wording on smoke and mirrors and mind tricks differ from the vast majority of similar cards like skullduggery and skin of the chameleon. SnM and mind tricks don't specify 'if this action is blocked' but merely 'if combat occurs'. It seems like one would get an optional maneuver if SnM is used to stealth a rush action through, is this correct?\n\nSmoke and Mirrors\nType: Action Modifier\nRequires: anarch Chimerstry/Obfuscate/Obtenebration\nRequires an anarch.\n[chi] +1 stealth with an optional maneuver if combat occurs.\n[obf] +2 stealth. Not usable during a bleed or political action.\n[obt] The blocking vampire gets -1 intercept.\n\nSkin of the Chameleon\nType: Action Modifier\nRequires: Visceratika/Thaumaturgy\nCost: 1 blood\n[tha] Only usable as an action is announced. If this action is blocked, this vampire gets an optional maneuver or press in the resulting combat.\n[vis] +1 stealth. If this action is blocked, this acting vampire gets an optional maneuver or press in the resulting combat.\n[VIS] As [vis] above, but with +2 stealth.\n\nOn a similar note (but incredibly cornercase), if I play the deadliest sin and then familial bond against a diablerie action and the action succeeds, would I still have +2 strength in the resulting combat? The deadliest sin does not specify that the block must be successful. I would say no in this case however since familial bond allows you to enter combat after resolution (at which point any reaction card effects should no longer have effect).\n\nDeadliest Sin, The\nType: Reaction\nRequires a ready vampire. Only usable when a vampire attempts to commit diablerie.\nThis reacting vampire gets +2 intercept. If combat occurs, this reacting vampire gets +2 strength until the end of combat.\n\nFamilial Bond\nType: Reaction\nRequires: laibon\nCost: 1 blood\nRequires a Laibon.\nOnly usable on an action directed at another Laibon you control or on a bleed against you. +1 intercept. If this block fails, the acting minion may choose to make the action fail. If the action succeeds, this Laibon may tap (after resolution) to enter combat with the acting minion.\n\nLiding\u00F6 Scourge",
+      "Id": "28814"
+    },
+    {
+      "Author": "Randy",
+      "Date": "Apr 30, 2012, 9:33\u202FAM",
+      "Body": "Hmmm, perhaps Pascal can answer?\n\nPrince of Liding\u00F6",
+      "Id": "29018"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 30, 2012, 9:57\u202FAM",
+      "Body": "Weird. I didn't get the first email notification.\nAnyways: All these cards should read \"*if this action is blocked,* in the *resulting* combat\"",
+      "Id": "29024"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Apr 30, 2012, 1:43\u202FPM",
+      "Body": "Why? How is Smoke and Mirrors' wording an issue at any level?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "29045"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 30, 2012, 2:06\u202FPM",
+      "Body": "> KevinM wrote:\n> Why? How is Smoke and Mirrors' wording an issue at any level?\n>\nI guess it's a matter of consistency.\nAll \"if combat occur\" cards really refer to the combat created by a successful block attempt.\nSmoke and Mirrors wasn't designed to give you a maneuver on an unblocked \"enter combat\" action.\n\nBut this is just a wild guess from Floppy's answer.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "29046"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 30, 2012, 2:13\u202FPM",
+      "Body": "> KevinM wrote:\n> Why? How is Smoke and Mirrors' wording an issue at any level?\n>\nArguably, it's in line with RTR-1999-07-12, www.thelasombra.com/rules/RTR7-12.htm :\n\n> RTR wrote:\n> Question: Do you get the maneuver from Guard Dogs even if you fail to block the action? (i.e., untap with Guard Dogs, block with a different vampire, and then use Fast Reaction)?\n>\n> Answer: No. You only get the maneuver if you successfully block the bleed (errata).\n>\nFor reference, the equivalent card text for Guard Dogs was:\nvtes.pl/card/40053\n\nOnly usable by a tapped vampire after a bleed has been declared against you. Untap this reacting vampire.\nAs above, with an optional maneuver if combat occurs.\nNOT CURRENT CARD TEXT",
+      "Id": "29047"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "ThreadId": "vekn-655",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/expansion-sets-card-ideas/655-mage-the-ascension-variant",
+  "Title": "Mage: the Ascension variant",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jan 19, 2011, 3:24\u202FPM",
+      "Body": "I'll try to playtest it some day, it is supposed to be an \"mage\" expansion.\nIt requires playtesting, tweaking and so on so feel free to try it or comment.\n\nAdditional general rules:  If there are 10 or more paradox counters in play, the paradox limit is reached. Burn all cards with paradox counters on them and each Methuselah burns 1 pool for each card burned this way he or she controls. [PARADOX] or [X PARADOX] is the cost for some effects. It means : \"Put a (or X) paradox counter(s) on this card to...\" As long as a minion has a number of paradox counters that equals or exceeds his or her capacity or cost, he or she can't pay paradox costs. Nephandus (Mage) can't pay paradox costs (though it may gain paradox counters through other means). When a mage provides an [ACTION MODIFIER] or [REACTION] effect, this effect can only be used once per action. [COMBAT] effects can be used only once per combat. Agenda cards are put into play at the start of the game. They're not part of your library or crypt. You may play only one Agenda.\nSpheres are not requirements, but may interact with other cards.\n\nJune 2011 updates\nMay 2012 updates\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "655"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 19, 2011, 3:24\u202FPM",
+      "Body": "Agenda\n>\n> Name: Mage: The Ascension\n> Cardtype: Master\n> Agenda.\n> Vampires you control have -1 stealth. When a vampire would come into play during your influence phase, you may remove him or her from the game instead and search your hand, ash heap or library (shuffle afterwards) for a mage ally that vampire could recruit and whose cost is not greater than his or her printed capacity. Put that mage into play at no cost and you may remove 1 paradox [PARADOX] counter in play.\n>\nAlly\n>\n> Name: Akashic Brother\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Mind.\n> Mage ally with 3 life. 2 strength, 0 bleed.\n> While the Brother is in combat, the opposing minion's controller plays with an open hand.\n> [COMBAT][PARADOX] Only usable if the Brother is acting after the opposing minion has chosen his or her strike. Cancel the Brother's strike and choose a new one.\n> [COMBAT][PARADOX] Strike: dodge.\n>\n> Name: Dreamspeaker\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Spirit.\n> Mage ally with 1 life. 1 strength, 0 bleed, +1 stealth.\n> The Dreamspeaker may strike for 1R damage. He gets an optional maneuver each combat. Cards of the Spirit sphere cost him 1 less [PARADOX] paradox. Your vampires have -1 bleed until this mage's controller changes.\n>\n> Name: Follower of Euthanatos\n> Cardtype: Ally\n> Cost: 2 pool\n> Sphere: Entropy.\n> Mage ally with 2 life. 1 strength, 1 bleed.\n> Each time you replace a card the Follower plays, increase your hand size by 1 until the current action is concluded.\n>\n> Name: Mystic of the Celestial Chorus\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Prime.\n> Mage ally with 3 life. 1 strength, 0 bleed.\n> [ACTION MODIFIER][REACTION][COMBAT] [PARADOX] Once each action, the Mystic may copy the effect of an action modifier, reaction or combat card he played this action. (Pay cost as normal).\n>\n> Name: Order of Hermes Elementalist\n> Cardtype: Ally\n> Cost: 2 pool\n> Sphere: Forces.\n> Mage ally with 2 life. 0 strength, 1 bleed.\n> The Elementalist may strike for 1R aggravated damage. He is immune to non-strike damage.\n> [COMBAT] [PARADOX] Only usable before range is determined on the first round. Both combatants and each of their retainers take 1 unpreventable damage before range is determined each round.\n>\n> Name: Primordial Witch of Verbena\n> Cardtype: Ally\n> Cost: 3 pool\n> Sphere: Life.\n> Mage ally with 4 life. 1 strength, 1 bleed.\n> [COMBAT] Burn 1 life to gain a maneuver, a press, an additional strike or +1 strength for the round.\n> [COMBAT] [PARADOX] If the Witch has less than 4 life, she gains 1 life.\n>\n> Name: Seer of Ecstasy\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Time.\n> Mage ally with 1 life. 0 strength, 0 bleed.\n> [ACTION MODIFIER][REACTION] Only usable if the Seer is not acting. Tap to give another mage +1 stealth or +1 bleed or +1 intercept.\n> [COMBAT] Only usable if the Seer is not involved in combat. Tap to give another mage a maneuver or a press or to allow another mage to strike: dodge.\n> [ACTION MODIFIER][REACTION][PARADOX] Untap the Seer of Ecstasy. He can't untap until your next master phase.\n>\n> Name: Son of Ether\n> Cardtype: Ally\n> Cost: 2 pool\n> Sphere: Matter.\n> Mage ally with 4 life. 1 strength, 1 bleed.\n> Equipment costs the Son of Ether 1 less pool or blood. Equipments can't be moved or stolen from him. Your vampires cannot act until this mage's controller changes.\n> [ACTION MODIFIER] [PARADOX] The Son of Ether may prevent 1 damage this action.\n>\n> Name: Virtual Adept\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Correspondence.\n> Mage ally with 1 life. 0 strength, 0 bleed, +1 stealth.\n> Your vampires have -1 bleed until this mage's controller changes.\n> [ACTION MODIFIER] [PARADOX] +1 bleed for the current action.\n> [REACTION] [PARADOX] Once this turn, if the Adept is tapped, he can play reaction cards and attempt to block as though untapped until the current action is concluded.\n>\nMaster\n>\n> Name: Mystic Powerstation\n> Cardtype: Master\n> Cost: 1 pool\n> Sphere: Forces. Life.\n> Master: location. Requires a ready mage.\n> Tap this card and a mage you control during your master phase to gain 1 pool.\n>\n> Name: Lariboisi\u00E8re Emergency Department\n> Cardtype: Master\n> Master: unique location.\n> Any imbued, mage or mortal ally may gain 1 life as a +1 stealth action (that costs 1 conviction [1 CONVICTION] for imbued), not to exceed starting life.\n>\n> Name: Noon Protocol\n> Cardtype: Master\n> Unique master.\n> Put this card into play. Vampires get -1 intercept when attempting to block mages. Mages get -1 intercept when attempting to block vampires. Any minion may burn this card as a  action that costs 1 pool. Mages get +1 intercept when attempting to block that action.\n>\n> Name: Path of the Magus\n> Cardtype: Master\n> Cost: 1 pool\n> Unique master. Requires a ready mage.\n> Put this card in play. Unique mages have +1 bleed and may pay 1 less paradox [PARADOX] cards they play once each turn. Any minion may burn this card as a  action; if that minion is a vampire, he or she takes one damage (damage not preventable) when this card is burned.\n>\nEvent\n>\n> Name: Paradox Breach\n> Cardtype: Event\n> When Paradox Breach comes into play, put 2 paradox [2 PARADOX] counters on it.\n>\nAction\n>\n> Name: Appease the Paradox\n> Cardtype: Action\n> Sphere: Prime.\n> +2 stealth action. Requires a ready mage.\n> Remove all paradox [PARADOX] counters from this mage and from all cards on him or her. This mage untaps during the next discard phase.\n>\n> Name: Call the Light\n> Cardtype: Action\n> Sphere: Entropy. Forces.\n> +1 stealth action. Requires a ready mage from the Forces sphere.\n> Tap X ready mages you control from the Forces sphere to inflict X+1 damage on any ready vampire, or X aggravated damage on a vampire in torpor.\n>\n> Name: Gas Leak Disaster\n> Cardtype: Action\n> Sphere: Entropy. Matter.\n> +1 stealth action. Requires a ready mage.\n> Burn a location or [PARADOX] burn a location and a retainer controlled by the same Methuselah.\n>\n> Name: Network Failure\n> Cardtype: Action\n> Sphere: Correspondance. Entropy. Matter.\n> +1 stealth action. Requires a ready mage.\n> Burn 1 pool from another Methuselah or [PARADOX] burn 2 pool from another Methuselah.\n>\n> Name: Taint of Paradox\n> Cardtype: Action\n> Sphere: Prime.\n> +1 stealth action. Requires a ready mage. Only usable if there is at least 1 paradox [PARADOX] counter in play.\n> Put a paradox counter on an ally, equipment or retainer.\n> All power corrupts and absolute power corrupts absolutely.\n> Niccol\u00F2 Machiavelli, \"\"The Prince\"\"\n>\n> Name: Nightmare approaches\n> Cardtype: Action\n> Sphere: Life. Matter. Mind.\n> +2 stealth action. Requires a ready mage.\n> Put this card on a minion. If this minion plays a card that untaps him or her, he or she cannot take actions nor block actions until the end of the turn.\n> I am dreaming, I'm screaming\n> but making no sound\n> I'm the nightmare from upstairs\n> And I'm coming down.\n> Wolfsheim, \"\"Upstairs\"\"\n>\n> Name: See Through the Tides of Time\n> Cardtype: Action\n> Sphere: Mind. Time.\n> +2 stealth action. Requires a ready mage.\n> Look at the top 10 cards of your predator's or prey's library or [PARADOX] look at the top 10 cards of your predator's and prey's library. Shuffle these cards back on the top of their owner's library afterwards.\n> I am the eye in the sky / Looking at you\n> I can read your mind\n> I am the maker of rules / Dealing with fools\n> I can cheat you blind.\n> The Alan Parsons Projet, \"\"Eye in the Sky\"\"\n>\n> Name: High-speed Travel\n> Cardtype: Action\n> Sphere: Correspondance.\n> +2 stealth action. Requires a ready mage from the Correspondance sphere.\n> Move an ally you control from the uncontrolled region to the ready region.\n> In Vienna we sit in a late-night caf\u00E9\n> Straight connection, T.E.E.\n> Kraftwerk, \"\"Trans Europe Express\"\"\n>\n> Name: One Day Before\n> Cardtype: Action\n> Sphere: Time.\n> +1 stealth action. Requires a ready mage from the Time sphere.\n> [3 PARADOX] Tap all untapped minions controlled by your prey and predator, and untap all other minions controlled by your prey and predator. Only one One Day Before can be played in a game.\n>\n> Name: Sleeping Nightmare\n> Cardtype: Action\n> Sphere: Prime.\n> +1 stealth action. Requires a ready mage. Unique.\n> Put this card in play. When the paradox limit is reached, put an Awaken counter on it. While it has an Awaken counter on it, this card represents an unique ally with X+1 life, X strength, X bleed, where X is continually the number of paradox [PARADOX] counters in play. When it enters combat, its life returns to its maximum. It may enter combat with any monster or imbued as a +1 stealth  action. It is immune to control changing effects and damage dealt by minions. If a non-damaging effect would burn it or remove it from the game, burn the Awaken counter instead.\n>\n> Name: Mage Meddling\n> Cardtype: Action\n> Sphere: Correspondance. Time.\n> Requires a ready mage.\n> [PARADOX] Put this card into play with a paradox [PARADOX] counter on it. Your prey burns this card and 3 pool when he or she plays a master card that is not put on a vampire. Only 1 Mage Meddling may be burned this way for each master card. Burn this card if there is no paradox counter on it.\n>\nAction modifier\n>\n> Name: Delayed Past\n> Cardtype: Action modifier\n> Sphere: Prime. Time.\n> Requires a mage. Only usable as the action is announced.\n> [PARADOX] If the action succeeds, it has no effect; instead put this card into play on this mage with the action card on it (if any). You may burn this card and any card on it during your minion phase to apply the effects of the action (this is not an action). A minion can have only one Delayed Past.\n>\n> Name: Night Sun\n> Cardtype: Action modifier\n> Sphere: Correspondence. Forces. Time.\n> Requires a mage.\n> [2 PARADOX] Vampires cannot block this action. Put this card on this acting mage. A minion can have only one Night Sun.\n>\n> Name: Ubiquity\n> Cardtype: Action modifier\n> Sphere: Correspondence.\n> Requires a mage. Only usable at the end of an action (after resolving the action or after combat, if any).\n> This mage untaps. If this action was blocked, put 1 paradox [PARADOX] counter on this mage. A mage may play only one Ubiquity each turn.\n>\n> Name: Undead Outside\n> Cardtype: Action modifier\n> Sphere: Life. Spirit.\n> Requires a mage. Only usable when an action is announced.\n> This acting mage is treated as a clanless independent vampire with capacity equal to its life for the duration of the action. This mage's life represents his or her blood while he or she is a vampire. Only usable on an action that doesn't cost life or require an ally.\n>\n> Name: Nitro\n> Cardtype: Action modifier\n> Sphere: Correspondence. Matter.\n> Requires a mage with a vehicle. Only usable when a minion attempts to block.\n> +2 stealth or [PARADOX] the block fails, burn the vehicle and the blocking minion takes 4 damage as a strike that can be dodged or prevented using combat cards (even though there is no combat).\n> She sucks nitro... with Phase 4 heads! 600 horsepower through the wheels! She's meanness set to music and the bitch is born to run!\n> \"\"Mad Max\"\"\n>\n> Name: Escape!\n> Cardtype: Action modifier\n> Sphere: Correspondence. Matter.\n> Requires a mage. Only usable when a minion attempts to block.\n> Burn any vehicle on this mage. This mage equips with the first vehicle he or she can equip and use that you find in your library (working down from the top; ignore cost). This mage gains X paradox [PARADOX] counters where X is the cost of the vehicle. If the number of paradox counters on this mage exceeds his or her cost, burn the excess, burn the vehicle and this mage takes an amount of damage equal to the excess burned.\n>\nReaction\n>\n> Name: Call of Blood\n> Cardtype: Reaction\n> Sphere: Life. Spirit.\n> Requires a ready mage. Only usable when a vampire with blood announces a hunt action. Debt.\n> That vampire enters combat with a vampire with blood controlled by another Methuselah as a +1 stealth  action instead, and put this card on the acting vampire; you still control this card. You may burn this card to move 1 blood from the vampire to this mage (becoming 1 life). The acting vampire's controller may choose to cancel this card as it is played.\n>\n> Name: Heavy Storm\n> Cardtype: Reaction\n> Sphere: Force. Matter.\n> Requires a ready mage. Only usable during a  action directed at a mage.\n> The action fails or [PARADOX] the action fails and the acting minion takes 1 damage.\n>\n> Name: Satellite Mind\n> Cardtype: Reaction\n> Sphere: Correspondence. Mind.\n> Requires a ready mage. Only usable if the acting minion's stealth is 1 or more.\n> The action minion gets -1 stealth or [PARADOX] reduce the acting minion's stealth to 0. The minion may still increase his or her stealth.\n> When I'm bored I send vibrations in your direction\n> Through the satellite mind.\n> Metric, \"\"Satellite Mind\"\"\n>\n> Name: Mage Assistance\n> Cardtype: Reaction\n> Sphere: Correspondence. Entropy.\n> Requires a ready mage. Only usable when a minion attempts to block a vampire. Debt.\n> That minion cannot block this action, and put this card on the acting vampire; you still control this card. Once the action resolves, this mage enters combat with that minion. You may burn this card to move 1 pool from the vampire's controller pool to your pool. The acting vampire's controller may choose to cancel this card as it is played.\n>\n> Name: Debt towards the Syndicate\n> Cardtype: Reaction\n> Requires a ready mage. Only usable when a bleed from a vampire would be successful. Debt.\n> Put this card on the acting vampire; you still control this card. The bleed burns no pool and the acting vampire's controller gains 2 pool. During any minion phase, you may burn this card to untap that vampire and take control of him or her until the end of the minion phase. The acting vampire's controller may choose to cancel this card as it is played.\n>\n> Name: Voidnet Notification\n> Cardtype: Reaction\n> Sphere: Correspondance.\n> Requires an untapped ready mage.\n> Choose a tapped ready minion you control (or [PARADOX] controlled by another Methuselah). The chosen minion can play reaction cards and attempt to block as though untapped until the current action is concluded. If the chosen minion's block attempt fails, tap this mage.\n>\n> Name: D.R.E. Voting Machine\n> Cardtype: Reaction\n> Sphere: Correspondance. Mind.\n> Requires a ready mage. Only usable when resolving a successful referendum. Debt.\n> Tap X ready mages you control where X is the number of votes by which the referendum passed to put this card on a vampire who cast votes against this referendum; you still control this card; this vampire's controller may change the terms of this referendum (if any) before they are applied (they must still be legal). During any referendum, you can force the vampire with this card to cast his or her votes as you choose. This vampire's controller may choose to cancel this card as it is played.\n>\nCombat\n>\n> Name: Distrust the Weapons\n> Cardtype: Combat\n> Sphere: Entropy. Matter.\n> Requires a mage. Only usable before range is determined.\n> Weapons possessed by the opposing minion inflict no damage on this mage for the duration of combat or [PARADOX] burn a non-unique weapon possessed by the opposing minion.\n>\n> Name: Hidden Kevlar\n> Cardtype: Combat\n> Sphere: Entropy. Matter.\n> Requires a mage.\n> Prevent 1 damage or [PARADOX] prevent 3 damage.\n>\n> Name: Last Resort\n> Cardtype: Combat\n> Sphere: Entropy. Matter.\n> Requires a mage. Only usable before range is determined.\n> This mage equips with a non-unique weapon card from your hand (requirements apply as normal). Pay half the cost (round down) of the weapon and put a number of paradox [PARADOX] counters on the weapon equal to half the cost (round up). The weapon cannot cost more 3 or more pool or inflict (with a regular strike) aggravated damage or 4 or more damage.\n>\n> Name: Walk through Walls\n> Cardtype: Combat\n> Sphere: Correspondence. Matter.\n> Requires a mage.\n> Press, only usable to end combat or [PARADOX] Strike: combat ends.\n>\n> Name: Ghost Form\n> Cardtype: Combat\n> Sphere: Spirit.\n> Requires a mage. Only usable before range is determined.\n> [PARADOX] This mage is immune to non-aggravated damage and deals 1 less damage each strike against non-wraith minions this combat. Damage he or she deals against wraiths is aggravated.\n>\n> Name: Backlash\n> Cardtype: Combat\n> Sphere: Prime.\n> Requires a mage. Only usable at close range before strike resolution.\n> [PARADOX] The opposing monster and this mage both take an amount of damage equal to the number of paradox [PARADOX] counters on this mage. If this mage is burned, he or she is removed from the game instead.\n>\n> Name: Destroy Flesh\n> Cardtype: Combat\n> Sphere: Prime. Force.\n> Requires a mage.\n> Strike: 5 damage (or [PARADOX] Strike: 5 damage with first strike). The opposing minion can burn 1 blood to prevent all damage from this strike.\n>\n> Name: Living Weapon\n> Cardtype: Combat\n> Sphere: Life. Matter.\n> Requires a mage. Only usable by a ready mage not involved in combat. Only usable when an ally you control is burned in combat.\n> The opposing minion takes 1 damage or put this card in play and put a weapon equiped by the burned ally on it (not equiped). Any minion you control may equip with this weapon as a +1 stealth action. This weapon inflicts an additional damage each strike.\n>\nAction modifier/Reaction/Combat\n>\n> Name: Wings of the Angel\n> Cardtype: Action modifier/Reaction/Combat\n> Sphere: Life. Spirit.\n> Requires a ready mage.\n> Put this card on this mage. This mage may play cards that require flight [FLIGHT]. The first card requiring flight this mage plays during a turn costs him or her an additional paradox [PARADOX]. A mage may only have 1 Wings of the Angel.\n> God knows I don't want to be an angel.\n> Rammstein, \"\"Engel\"\"\n>\nAlly\n>\n> Name: True Dragon\n> Cardtype: Ally\n> Cost: 3 pool\n> Sphere: Forces. Life. Matter. Mind. Prime.\n> Requires a ready mage. Unique dragon with 5 life. 2 strength, 1 bleed, flight [FLIGHT].\n> The True Dragon comes into play with 3 paradox [3 PARADOX] counters on it. It may enter combat with a ready minion controlled by another Methuselah as a +1 stealth  action. It may strike for 2R aggravated damage once each combat. When it leaves play, burn a location at random.\n>\n> Name: Umbra Sphinx\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Mind. Prime. Spirit.\n> Requires a ready mage. Changeling with 2 life. 2 strength, 0 bleed.\n> The Umbra Sphinx may burn the top card of any Methuselah's library as a +1 stealth  action. Choose a card by name when announcing the action. If the card burned is a copy of that card, that Methuselah burns 2 pool. The Sphinx may play action modifier cards requiring superior Obfuscate [OBF] as a vampire.\n>\n> Name: Sukiko Fujihara\n> Cardtype: Ally\n> Cost: 1 pool\n> Sphere: Forces. Matter. Prime.\n> Unique mage with 2 life. 1 strength, 0 bleed.\n> You may spend 3 transfers to search your library for an equipment card and move it to your research area, or to move any card from your research area to your hand. If Sukiko is burned, remove all cards in your research area from play.\n>\n> Name: Federica Rafastio\n> Cardtype: Ally\n> Cost: 3 pool\n> Sphere: Life.\n> Unique ghoul with 3 life. 1 strength, 1 bleed.\n> Federica and Rafastio Ghouls are mages in addition to their traits, gain an additional life when they enter play and can play cards requiring basic Thaumaturgy [tha], basic Animalism [ani] and basic Auspex [aus] as vampires with a capacity of 3.\n>\nRetainer\n>\n> Name: Mage Familiar\n> Cardtype: Retainer\n> Sphere: Life. Prime. Spirit.\n> Animal with 3 life. Requires a ready mage.\n> During your untap phase, you may move 1 paradox [PARADOX] counter from this mage to the familiar. The mage with this retainer may play cards requiring basic Chimerstry [chi] or Thaumaturgy [tha] as a vampire.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "656"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 10, 2011, 7:01\u202FAM",
+      "Body": "May update.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4288"
+    },
+    {
+      "Author": "Karo",
+      "Date": "May 10, 2011, 10:42\u202FAM",
+      "Body": "wow awesome work, do you have some cards already made and if any is it possible to see them somewhere?// design of the spheres would they be placed same as disciplines/virtues etc.\nI love the idea about paradox and I must say good work. I'm gonna try it in my play group and gonna report back!\n\nklubtitanatlas.hr/\n\nformer NC for Croatia",
+      "Id": "4290"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 10, 2011, 11:28\u202FAM",
+      "Body": "I'm eagerly looking for feedback. Proxy cards can be done quickly with Damnans' tool, I'll post clean cards later.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4292"
+    },
+    {
+      "Author": "Count Orlok",
+      "Date": "May 10, 2011, 2:24\u202FPM",
+      "Body": "This all looks great. Much better concept and mechanics than the imbued!\n\nBaron of Berkeley",
+      "Id": "4294"
+    },
+    {
+      "Author": "glaswanderer",
+      "Date": "May 11, 2011, 3:52\u202FAM",
+      "Body": "LOVE the concept and cards.\n\nWhat's the point of the Event? Doesn't seem to really do anything.\n\nWith only 2 (I believe) cards that place Paradox counters, it'll be hard to play many Paradox abilities. That's a lot of cards to devote to a deck just to get Paradox. I want more...\n\nAlready developed cards for changelings, mages, werewolves, and wraiths myself...this has just inspired me more.\n\nKeep up the good work.\n\nPrince of Puyallup",
+      "Id": "4307"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "May 11, 2011, 4:09\u202FAM",
+      "Body": "> glaswanderer wrote:\n> LOVE the concept and cards.\n>\n> What's the point of the Event? Doesn't seem to really do anything.\n>\n> With only 2 (I believe) cards that place Paradox counters, it'll be hard to play many Paradox abilities. That's a lot of cards to devote to a deck just to get Paradox. I want more...\n>\n> Already developed cards for changelings, mages, werewolves, and wraiths myself...this has just inspired me more.\n>\n> Keep up the good work.\n>\nRead the rules part. When a card \"costs\" Paradox the mage who plays the card gets a Paradox counter. When there are 10 Paradox counters in play all cards with Paradox counters are burned and each Methuselah burns 1 pool for each such card burned.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "4308"
+    },
+    {
+      "Author": "Karo",
+      "Date": "May 11, 2011, 5:44\u202FAM",
+      "Body": "One question tho: How does an Agenda card come in play? As a Master phase card /Discard phase or you can put her into play any time?\n\nklubtitanatlas.hr/\n\nformer NC for Croatia",
+      "Id": "4309"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2011, 7:31\u202FAM",
+      "Body": "> jhattara wrote:\n>\n> > glaswanderer wrote:\n> > LOVE the concept and cards.\n> >\n> > What's the point of the Event? Doesn't seem to really do anything.\n> >\n> > With only 2 (I believe) cards that place Paradox counters, it'll be hard to play many Paradox abilities. That's a lot of cards to devote to a deck just to get Paradox. I want more...\n> >\n> > Already developed cards for changelings, mages, werewolves, and wraiths myself...this has just inspired me more.\n> >\n> > Keep up the good work.\n> >\n> Read the rules part. When a card \"costs\" Paradox the mage who plays the card gets a Paradox counter. When there are 10 Paradox counters in play all cards with Paradox counters are burned and each Methuselah burns 1 pool for each such card burned.\n>\nExactly. Paradox \"costs\" put paradox counters in play (that's paradoxal )\nThe Event is there either in a \"blow paradox tech\" (with Taint of Paradox to corrupt the allies, retainers and equipment of other methuselahs) or if you plan to play against mages (like Break the Code against Imbued).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4314"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2011, 7:31\u202FAM",
+      "Body": "> Karo wrote:\n> One question tho: How does an Agenda card come in play? As a Master phase card /Discard phase or you can put her into play any time?\n>\nYou start the game with it. I'll update the rule section.\n\nBTW, thank you all for your comments!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4315"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2011, 8:17\u202FAM",
+      "Body": "You can download a first version of the cards to print and play:\n\nwww.veknfrance.com/site/article.php3?id_article=255\n\nI'm still working on it to make them look prettier (and add the missing icons).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4376"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2011, 9:40\u202FAM",
+      "Body": "As a quicknote, I used a custom tool I made to create the cards. I'll put it on googlecode soon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4381"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "May 13, 2011, 10:13\u202FAM",
+      "Body": "Nice. What system does the tool work on?\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "4383"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2011, 11:01\u202FAM",
+      "Body": ".NET Framework. At least Windows, didn't try other OS.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4388"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "May 13, 2011, 4:13\u202FPM",
+      "Body": "The Akashic Brother design looks weird, in the rpg Akashic Brothers are mainly kung-fu monks, so it should be a combat ally.",
+      "Id": "4396"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2011, 5:12\u202FPM",
+      "Body": "I confess I'm not an expert in Mage lore. Mage Allies were more design according to their sphere than to the background. I'll redesign it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4397"
+    },
+    {
+      "Author": "Randy",
+      "Date": "May 13, 2011, 11:55\u202FPM",
+      "Body": "I can already see an awesome Mage leech potance deck\n\nPrince of Liding\u00F6",
+      "Id": "4412"
+    },
+    {
+      "Author": "Randy",
+      "Date": "May 14, 2011, 12:24\u202FAM",
+      "Body": "I really like the Agenda cards, liked it in the storylines like it here. Make more of them\n\nAlso i have a few comments on the cards you have made.\n\nYou mean with ability the Mystic of celestial chorus is to alow you to bypass the one action modifier/reaction rule or do you make an \"invisible\" copy that has the same effect(Mouthpiece conditioning conditioning is the second one a card played or does it just happen?).\n\nParadox Breach, perhaps make it an action? Event are only playable once per game, but maybe that was the idea.\n\nThree paradox counters feels to cheap for the dragon.\n\nCan the Umbra Sphinx use inferior obf cards?\n\nThere should be alot of balacing done but you need that with all new cards and systems\n\nPrince of Liding\u00F6",
+      "Id": "4413"
+    },
+    {
+      "Author": "salem",
+      "Date": "May 14, 2011, 12:48\u202FAM",
+      "Body": "I like it. Integrates with vtes a lot nicer than the Imbued rules I think.\n\nJust a few questions about the design though, are the mages supposed to be balanced against existing mage allies? or are you basing off the fact that existing mages are a bit under powered (except Nephandus) and trying to bump them up a bit?\n\nAlso, with the spheres, you say they're not requirements but they're traits to interact with other cards. I can't see any cards in your set that have that interaction, is that right? they're just there to provide future expansion options?\n\nedit: ooh, and I just thought, if you combine your 'agenda' card with the alternate edge cards Juggernaut was working on (I think it was Jugger, anyway), it could be something like this as a card that starts in play and replaces the normal effect for holding the edge.\n\nEdge.\nVampires you control have -1 stealth. When a\nvampire would come into play during your\ninfluence phase, you may remove him or her\nfrom the game instead and search your hand,\nash heap or library (shuffle afterwards) for a\nmage ally that vampire could recruit and whose\ncost is not greater than his or her capacity. Put\nthat mage into play at no cost. During your untap phase, if you control the Edge, you may remove 1 paradox [PARADOX] counter in play to gain 1 pool.\n\nSo you can't meddle in Vampire politics with the edge if you're mages, and you can only get pool if there's paradox to clear.\n\n--\nsalem",
+      "Id": "4414"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2011, 1:08\u202FAM",
+      "Body": "If the goal of the -1 Stealth in the agenda is to avoid messing with the existing cards, it is not enough. Weenie rush decks would love a reliable Nephandus to clean the torpor region...",
+      "Id": "4415"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "May 14, 2011, 5:47\u202FAM",
+      "Body": "I've got the Power-Edge Variation up here if people are interested... I'll probably post it as a new thread. It still needs testing. The JPG should be configured to print out at 300dpi, so just take it to Officeworks/Kinkos/etc and they should appear at the right size for sliding into a sleeve.\n\nsites.google.com/site/juggernaut1981svtesdownloads/home/power-edge-variation\n\nPlus a possible Edge Variation for your own Mage Expansion.\nArcane Edge\nEdge Variation.\nDuring your untap you may give 2 Mage Allies 1 life (but not more than their starting life).\nYou may burn the Edge to prevent any amount of damage from a single source inflicted on a Mage you control.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "4420"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2011, 8:58\u202FAM",
+      "Body": "Thanks for all the feedback\n>\n> Randy wrote:\n> I really like the Agenda cards, liked it in the storylines like it here. Make more of them\n> Also i have a few comments on the cards you have made.\n> You mean with ability the Mystic of celestial chorus is to alow you to bypass the one action modifier/reaction rule or do you make an \"invisible\" copy that has the same effect(Mouthpiece conditioning conditioning is the second one a card played or does it just happen?). Paradox Breach, perhaps make it an action? Event are only playable once per game, but maybe that was the idea. Three paradox counters feels to cheap for the dragon. Can the Umbra Sphinx use inferior obf cards?  There should be alot of balacing done but you need that with all new cards and systems\n>\nThe effect is duplicated. So yes, you could play Mouthpiece (whoa!) to make the Mage play Conditioning and bleed for 4. Event by design. It's unique, 3 Paradox are quite a lot. To playtest anyway. Sure Yeah\n>\n> salem wrote:\n> I like it. Integrates with vtes a lot nicer than the Imbued rules I think.\n>\n> Just a few questions about the design though,  are the mages supposed to be balanced against existing mage allies? or are you basing off the fact that existing mages are a bit under powered (except Nephandus) and trying to bump them up a bit? Also, with the spheres, you say they're not requirements but they're traits to interact with other cards. I can't see any cards in your set that have that interaction, is that right? they're just there to provide future expansion options?\n> edit: ooh, and I just thought, if you combine your 'agenda' card with the alternate edge cards Juggernaut was working on (I think it was Jugger, anyway), it could be something like this as a card that starts in play and replaces the normal effect for holding the edge.\n>\n> Edge.\n> Vampires you control have -1 stealth. When a\n> vampire would come into play during your\n> influence phase, you may remove him or her\n> from the game instead and search your hand,\n> ash heap or library (shuffle afterwards) for a\n> mage ally that vampire could recruit and whose\n> cost is not greater than his or her capacity. Put\n> that mage into play at no cost. During your untap phase, if you control the Edge, you may remove 1 paradox [PARADOX] counter in play to gain 1 pool.\n>\n> So you can't meddle in Vampire politics with the edge if you're mages, and you can only get pool if there's paradox to clear.\n>\nThey are meant to be balanced with the whole game Indead most of the mages are overcosted. They will get a boost though with all the cards they can now use. See Dreamspeaker. But there will be others. Making Spheres requirements didn't fit in the gameplay. Some Mages could be forbidden some spheres though, by cardtext. And yeah, they open the door to future interaction ideas. Could be an option, though the Agenda was meant to create a drawback to avoid \"autoinclude\" effects. See next question\n>\n> Non-existant user wrote:\n> If the goal of the -1 Stealth in the agenda is to avoid messing with the existing cards, it is not enough. Weenie rush decks would love a reliable Nephandus to clean the torpor region...\n>\nTo recruit a Nephandus usign the Agenda, you'll need a !Tremere to remove, so it doesn't fit well with a weenie tech. And if you remove a !Tremere, you could simply influence it, buy 1 or more Nephandus and avoid the -1 stealth penalty (which is annoying on hunts for weenie pot decks).\n\n> Juggernaut1981 wrote:\n> I've got the Power-Edge Variation up here if people are interested... I'll probably post it as a new thread. It still needs testing. The JPG should be configured to print out at 300dpi, so just take it to Officeworks/Kinkos/etc and they should appear at the right size for sliding into a sleeve.\n>\n> sites.google.com/site/juggernaut1981svtesdownloads/home/power-edge-variation\n>\n> Plus a possible Edge Variation for your own Mage Expansion.\n> Arcane Edge\n> Edge Variation.\n> During your untap you may give 2 Mage Allies 1 life (but not more than their starting life).\n> You may burn the Edge to prevent any amount of damage from a single source inflicted on a Mage you control.\n>\nI think it deserves another thread. You'll be able to use my tool if you want to generate them a pdf files (no print resolution hasle, better text quality). The Edge is a good idea anyway as an addition to the Agenda (not replacing the Agenda).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4425"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 14, 2011, 10:24\u202FAM",
+      "Body": "> Ankha wrote:\n> To recruit a Nephandus usign the Agenda, you'll need a !Tremere to remove, so it doesn't fit well with a weenie tech.\n>\nHow does it not mix well? Just add 3 or 4 small !Tremere to the crypt, and if you expect to get more than 4 minions out, add a couple of Wider View to flush the excess. Wider View is a Trifle and pool gain, so it can mix well with pretty much anything.\n\n> And if you remove a !Tremere, you could simply influence it, buy 1 or more Nephandus, and avoid the -1 stealth penalty (which is annoying on hunts for weenie pot decks).\n>\nFirst, this costs more pool as you have to pay for the !Tremere and the Nephandus. Second, how do you get the recruit action trough? Even Nephandus decks do not recruit them  Third and most important, you need the Nephandus in hand to recruit it, so you can't have only 1 in the deck and it messes with your card flow. As for hunting, Glancing blow + Taste of Vitae is all the stealth a weenie pot needs and it's already in the deck.\n\nDon't take my word for it, test it.\n\nYour cards also solve the Ponticulus problem for a rush deck: just go fetch an Elementalist.",
+      "Id": "4430"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2011, 9:00\u202FPM",
+      "Body": "Pdf was updated, I guess no symbol is missing (except the spheres, but i don't know if it's good to add 9 new symbols).\n\nwww.veknfrance.com/site/article.php3?id_article=255\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4446"
+    },
+    {
+      "Author": "salem",
+      "Date": "May 15, 2011, 12:36\u202FAM",
+      "Body": "I really doubt this agenda will do anything significant to weenie rush decks. just give them another option around how to be built. it's all extra moving parts, which as we've all seen when playing means things can and will go wrong.\n\nBut the best point made is to play it and see.\n\nedit: and on the pdf the paradox symbol is very hard to see unless really zoomed in. it might need to be simplified, or go inside a shape (hexagon? squares are for disciplines, circles are for virtues...so it'd have to be something else) or have it's internal bits set as white instead of clear or something. :/ but it's a cool symbol.\n\nedit2: this might be simpler and be more distinct on a card? www.optical-illusion-pictures.com/images/icon4.jpg it'd be it's own shape not used before in vtes as far as i can recall at the moment.\n\n--\nsalem",
+      "Id": "4450"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2011, 7:11\u202FPM",
+      "Body": "> salem wrote:\n> edit: and on the pdf the paradox symbol is very hard to see unless really zoomed in\n>\nHow does it look like when printed?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4468"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 16, 2011, 7:15\u202FPM",
+      "Body": "Source code and download for the vtes card maker (vcm) are available there:\ncode.google.com/p/ankha-vcm/\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4482"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 16, 2011, 8:27\u202FPM",
+      "Body": "Ankha-vcm.exe doesn't seem to do anything.\n(Other than open up a DOS window and disappear.)\n\nWhat are the usage instructions/expectations?",
+      "Id": "4486"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "May 16, 2011, 9:25\u202FPM",
+      "Body": "> Adonai wrote:\n> Ankha-vcm.exe doesn't seem to do anything.\n> (Other than open up a DOS window and disappear.)\n>\n> What are the usage instructions/expectations?\n>\nIf you run it from a cmd shell, you get a pretty clear explanation:\n\nC:\\Ankha-VCM>Ankha-vcm.exe Invalid number of arguments. Expected arguments: <filename>.csv <outputname>.pdf [<csv column delimiter>] The default column delimiter is: ,",
+      "Id": "4490"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "May 17, 2011, 3:18\u202FAM",
+      "Body": "Yeah but we're still missing all of the information to be included in the CSV.\nWhat are the columns?\nEtc,etc,etc\n\nI mean I've got something for Inkscape that can basically do the same job, BUT I don't use it much because I hate dealing with the various bits and pieces.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "4493"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2011, 4:50\u202FAM",
+      "Body": "BTW, code is ugly as hell (that's for me) and the csv file must contain a \"sphere\" column (that's for you, see the associated mages.csv file).\nThe tool isn't finished yet because I have a few corrections/improvements to do:\n- add support for crypt cards\n- add support for classical csv files (= ignore the requirement of the sphere column)\n- add the pictures\n- adjust the size of the cards for printing\n- support conviction costs\n- add \"event\" symbol on event cards\n- clever handling of card text carriage returns (whatever ) (guess \"unbreakable\" spaces)\n- and so on\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4494"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2011, 4:53\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Yeah but we're still missing all of the information to be included in the CSV.\n> What are the columns?\n> Etc,etc,etc\n>\n> I mean I've got something for Inkscape that can basically do the same job, BUT I don't use it much because I hate dealing with the various bits and pieces.\n>\nI took the csv files from ARDB. I think they are the csv files that can be downloaded from vekn.net (didn't check).\nThe best way to use it would be to create your cards using a spreadsheet like Excel and export the data as a csv file.\n\nI generated a pdf files of all the existing cards using my tool without worries. You'll have to include an empty \"sphere\" column though. Work is still under progress.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4495"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "May 17, 2011, 6:54\u202FAM",
+      "Body": "Ankha,\nBefore you go coding your heart out...\nTry see if this extension for Inkscape is what you're trying to replicate:\nwww.boardgamegeek.com/guild/950\n\nIt takes an input csv, uses a prebuilt template and then outputs a sheet of 'counters' that can be printed from Inkscape. I think it will at least do 90% of what you're trying to do.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "4497"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2011, 7:03\u202FAM",
+      "Body": "Didn't know that tool. I don't thnik it can do exactly what I want (at least the 10% missing), and my tool is only 2 days work, so it's really a big matter.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4498"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2011, 7:46\u202FPM",
+      "Body": "A new download is available here: code.google.com/p/ankha-vcm/downloads/list. As a sample, here's what I get for the vteslib file (attached file).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4505"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 17, 2011, 8:11\u202FPM",
+      "Body": "Your link must not have a period at the end.\n\ni.e. this is correct:\n\ncode.google.com/p/ankha-vcm/downloads/list\n\nwhile this fails:\n\ncode.google.com/p/ankha-vcm/downloads/list.",
+      "Id": "4506"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2011, 9:14\u202FAM",
+      "Body": "Update.\nC:\\fakepath\\mages.pdf\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "4677"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 29, 2011, 3:15\u202FPM",
+      "Body": "June updates on first page (rules + cards).\nYou may found the updated pdf file there: www.veknfrance.com/site/article.php3?id_article=255\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "5601"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Jun 29, 2011, 4:00\u202FPM",
+      "Body": "Nice, nice, nice. Keep up the formidable work. Have to print it out as soon as all artwork is done  .\n\nBaron of Frankfurt",
+      "Id": "5602"
+    },
+    {
+      "Author": "Serazahr",
+      "Date": "Jun 30, 2011, 3:30\u202FAM",
+      "Body": "I am really liking this, even though I doubt I can get the guys here in Tokyo to playtest.\n\nOne thing though: Do you later plan on putting the spheres as disci symbols? because they are a bit distracting when on top of the cad text. You mentioned this in the thread but not sure what your final decision was...",
+      "Id": "5622"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 15, 2011, 5:05\u202FPM",
+      "Body": "PDF file has been updated. There's still a few art missing (if anyone could find something suitable, I'd be grateful).\n\nwww.veknfrance.com/site/IMG/pdf/mages.pdf\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8219"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 14, 2012, 9:48\u202FAM",
+      "Body": "February 2012 updates:\n\nChanged Delayed Past type from action to action modifier.\nUpdated card text template.\nAdded Destroy Flesh and Living Weapon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "22994"
+    },
+    {
+      "Author": "Pullen",
+      "Date": "Feb 15, 2012, 8:58\u202FAM",
+      "Body": "See Through the Tides of Time has no requirement and therefor can be played by anything, even with the paradox? Is that right and if so, isn't that a little to powerful for anyone to be able to play?",
+      "Id": "23076"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 15, 2012, 9:02\u202FAM",
+      "Body": "> Pullen wrote:\n> See Through the Tides of Time has no requirement and therefor can be played by anything, even with the paradox? Is that right and if so, isn't that a little to powerful for anyone to be able to play?\n>\nI've checked on the first page, it does have a requirement (\"Requires a ready mage.\")\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23077"
+    },
+    {
+      "Author": "mousnich",
+      "Date": "Feb 15, 2012, 5:19\u202FPM",
+      "Body": "some cards has \"it can be canceled as it is played\".\n\nHow ??\n\nYou don't say anything about how to cancel the card.\n\n2nd, when a card has a \"paradox\" symnol, it means it's the cost of the cards ? if yes, the mage spend it or gain it ?\n\nAnd by the way, nice word, i just discover this.",
+      "Id": "23209"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 15, 2012, 9:09\u202FPM",
+      "Body": "> mousnich wrote:\n> some cards has \"it can be canceled as it is played\".\n>\n> How ??\n>\nBy choosing to do so (which is implicit).\n\n> mousnich wrote:\n> 2nd, when a card has a \"paradox\" symnol, it means it's the cost of the cards ? if yes, the mage spend it or gain it ?\n>\nsee the first post of this topic. Basically, mages gain paradoxe counters as a cost.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23264"
+    },
+    {
+      "Author": "mousnich",
+      "Date": "Feb 16, 2012, 8:09\u202FAM",
+      "Body": "I don't get it\n\nthe opponent will always chose to cancel it. He has nothing to fear to cancel it.\n\nI mean, the choice is easy, there is no bad effect that will apply if you chose to cancel the card.",
+      "Id": "23305"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 16, 2012, 8:21\u202FAM",
+      "Body": "Which card are you talking about?\n\nAll debts work the same way: you help another Methuselah and he'll be in debt with you while the card is in play. He may choose to cancel it though when it's played, so you can't force him or her to be in debt with you.\n\nTypical case:\n\nName: Call of Blood\nCardtype: Reaction\nSphere: Life. Spirit.\nRequires a ready mage. Only usable when a vampire with blood is hunting. Debt.\nPut this card on the acting vampire and that vampire enters combat with a vampire with blood controlled by another Methuselah instead. You may burn this card to move 1 blood from the vampire to this mage. The acting vampire's controller may cancel this card as it is played.\n\nMeth A: \"I can't back rush, I don't have a rush card in hand\".\nMeth B (playing mages): \"Well, I can provide a rush if you want, you just have to hunt with your vampire\"\nMeth A \"Ok. Hunt\"\nMeth B \"I play Call of Blood; do you want to cancel it?\"\nMeth A \"no, I'll enter combat with Dolphin Black\"\n\n(I have to change the wording. The card is only usable as the action is announced and becomes a  action)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23306"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 16, 2012, 9:14\u202FAM",
+      "Body": "\"the acting vampire's controller may choose to cancel this card as it is played\" would be clearer",
+      "Id": "23320"
+    },
+    {
+      "Author": "mousnich",
+      "Date": "Feb 16, 2012, 3:26\u202FPM",
+      "Body": "mode french on\n\nMouais...\n\nmode french off.\n\nI didn't get the fact that it was to help other metusela. Don't really think it's ok. In most case, i would cancel the card.",
+      "Id": "23333"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 16, 2012, 3:50\u202FPM",
+      "Body": "> Ankha wrote:\n> Meth A: \"I can't back rush, I don't have a rush card in hand\".\n> Meth B (playing mages): \"Well, I can provide a rush if you want, you just have to hunt with your vampire\"\n> Meth A \"Ok. Hunt\"\n> Meth B \"I play Call of Blood; do you want to cancel it?\"\n> Meth A \"no, I'll enter combat with Dolphin Black\"\n>\nIf you want A to be able to set the terms of the card, you probably also need to make the wording allow that. As things stand, the playing Methuselah sets the terms of the card before it's cancelled (e.g. I tell you how much I play Minion Tap for, before you play Sudden Reversal). A different Methuselah choosing the term after the cancellation window has passed isn't immediately apparent from the wording.",
+      "Id": "23334"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 16, 2012, 8:17\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > Meth A: \"I can't back rush, I don't have a rush card in hand\".\n> > Meth B (playing mages): \"Well, I can provide a rush if you want, you just have to hunt with your vampire\"\n> > Meth A \"Ok. Hunt\"\n> > Meth B \"I play Call of Blood; do you want to cancel it?\"\n> > Meth A \"no, I'll enter combat with Dolphin Black\"\n> >\n> If you want A to be able to set the terms of the card, you probably also need to make the wording allow that. As things stand, the playing Methuselah sets the terms of the card before it's cancelled (e.g. I tell you how much I play Minion Tap for, before you play Sudden Reversal). A different Methuselah choosing the term after the cancellation window has passed isn't immediately apparent from the wording.\n>\nI've reworded it prior to your comment, I don't know if your remark still applies:\n\n> Name: Call of Blood\n> Cardtype: Reaction\n> Sphere: Life. Spirit.\n> Requires a ready mage. Only usable when a vampire with blood announces a hunt action. Debt.\n> Put this card on the acting vampire and that vampire enters combat with a vampire with blood controlled by another Methuselah as a +1 stealth  action instead. You may burn this card to move 1 blood from the vampire to this mage. The acting vampire's controller may choose to cancel this card as it is played.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23344"
+    },
+    {
+      "Author": "Pullen",
+      "Date": "Feb 17, 2012, 8:53\u202FPM",
+      "Body": "To add on to the debt card conversation, I believe you need the \"you still control this card\" text on them in order to burn them for the benefit. Also on \"Call of Blood\" blood counters can't turn into life counters, so it would be more of \"Burn this card to burn one blood off this vampire and to add one life to the mage that played this card.\" in order for it to work as intended.\n\nAlso the debt cards are an awesome way to screw with the table, great job on thous.",
+      "Id": "23427"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 22, 2012, 1:29\u202FPM",
+      "Body": "Updated card text.\nAdded Mage Meddling and Escape!,\n\n> Name: Mage Meddling\n> Cardtype: Action\n> Sphere: Correspondance. Time.\n> Requires a ready mage.\n> [PARADOX] Put this card into play with a paradox [PARADOX] counter on it. Your prey burns this card and 3 pool when he or she plays a master card that is not put on a vampire. Only 1 Mage Meddling may be burned this way for each master card. Burn this card if there is no paradox counter on it.\n>\nA disguised bleed for 3 that triggers later in the game (or never if you prey gives up playing master cards.) The action is directed at your prey.\n\n> Name: Escape!\n> Cardtype: Action modifier\n> Sphere: Correspondence. Matter.\n> Requires a mage. Only usable when a minion attempts to block.\n> Burn any vehicle on this mage. This mage equips with the first vehicle it can equip and use that you find in your library (working down from the top; ignore cost). This mage gains X paradox [PARADOX] counters where X is the cost of the vehicle. If the number of paradox counters on this mage exceeds its cost, burn the excess, burn the vehicle and this mage takes an amount of damage equal to the excess burned.\n>\nA combo card with Nitro, but can be also a way of equipping vehicles (a theme in this expansion). Basically, the mage steals a vehicle, but if its too big to be true (hmm, let's steal that helicopter), a paradox backlash may be induced.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23856"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 15, 2012, 6:45\u202FAM",
+      "Body": "May 2012 updates\nLast Resort: Made clear where the paradox counter go (the weapon, not the mage)\nBacklash: Now the damage is dealt to both minions in combat.\n\nAdded:\n\nAction modifier/Reaction/Combat\n>\n> Name: Wings of the Angel\n> Cardtype: Action modifier/Reaction/Combat\n> Sphere: Life. Spirit.\n> Requires a ready mage.\n> Put this card on this mage. This mage may play cards that require flight [FLIGHT]. The first card requiring flight this mage plays during a turn costs him or her an additional paradox [PARADOX]. A mage may only have 1 Wings of the Angel.\n> God knows I don't want to be an angel.\n> Rammstein, \"\"Engel\"\"\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30398"
+    }
+  ]
+}

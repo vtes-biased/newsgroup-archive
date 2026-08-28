@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-82794",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82794-forward-momentum-and-failed-canceled-actions",
+  "Title": "Forward momentum and failed/canceled actions",
+  "Messages": [
+    {
+      "Author": "Oshi",
+      "Date": "Jan 27, 2026, 10:49\u202FAM",
+      "Body": "\"Forward Momentum\nUnique.\nPut this card in play. After a vampire who follows the Path of Cathari you control bleeds, if the bleed is successful (for 1 or more), add 1 counter to this card; otherwise, burn 1 counter from this card. After a vampire who follows the Path of Cathari you control performs an action, you can burn 2 counters from this card to unlock them.\"\n\nAt which point does \"After a vampire who follows the Path of Cathari you control bleeds\" trigger?\n\nIs it at the point a bleed action is announced? Or after the bleed action is successful? Or somewhere in between?\n\nFor clarities sake which if the following would cause forward momentum to lose a counter:  bleed reduced to 0 bleed is blocked action ends to change of target bleed action card is cancelled by DI bleed action is cancelled by tangle atropos' hand",
+      "Id": "116276"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 27, 2026, 2:08\u202FPM",
+      "Body": "> Oshi wrote:\n> \"Forward Momentum\n> Unique.\n> Put this card in play. After a vampire who follows the Path of Cathari you control bleeds, if the bleed is successful (for 1 or more), add 1 counter to this card; otherwise, burn 1 counter from this card. After a vampire who follows the Path of Cathari you control performs an action, you can burn 2 counters from this card to unlock them.\"\n>\n> At which point does \"After a vampire who follows the Path of Cathari you control bleeds\" trigger?\n>\nAfter resolution of the action.\n\n> Oshi wrote:\n> For clarities sake which if the following would cause forward momentum to lose a counter:  bleed reduced to 0 bleed is blocked action ends to change of target bleed action card is cancelled by DI bleed action is cancelled by tangle atropos' hand\n>\n1. burn (the bleed was not succesful)\n2. burn (the bleed action was not succesful)\n3. burn (idem)\n4. Don\u2019t burn (the action didn't reach resolution)\n5. Don't burn (idem)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116280"
+    }
+  ]
+}

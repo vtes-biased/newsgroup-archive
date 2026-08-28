@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-71592",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/71592-best-optimal-seating-for-10-players-in-3r-f",
+  "Title": "\"Best\" optimal seating for 10 players in 3R+F",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jun 9, 2015, 9:57\u202FAM",
+      "Body": "The current seating is:\n\nR2: 10 1 9 8 2 | 5 6 4 3 7\nR3: 4 7 10 3 1 | 9 2 5 8 6\n\nThat seating violates rule 6 (\"No pair of players repeat the same relative position[*], when possible.\"), rule 7 (\"A player doesn't play in the same seat position, if possible.\") and has the following transfer distribution: 1,04 => 1, 6 have 7 transfers | 2, 4, 5, 7, 9, 10 have 8 transfers | 3, 8 have 11 transfers\n\nOn the other hand, the proposed seating is:\n\nR2: 8 6 4 1 3 | 9 5 2 10 7\nR3: 10 4 9 6 1 | 5 3 7 2 8\n\nThat seating doesn't violate rule 6 or 7, has a better transfers distribution: 0,72 => 1, 2, 3, 4, 7, 10 have 9 transfers | 5, 6 have 7 transfers | 8, 9 have 8 transfers\n\nThe thing is that the first proposition has 18 couples of players that meet once, 18 that meet twice and only 2 that meet three times.\n\nThe second proposition has 3 couples of players that meet three times (5 and 2, 9 and 10, 1 and 4, each time in a different configuration).\n\nWhich one is better?\n\nIs it better to have some players repeating the same relative position but one less player meeting the same player through the 3 rounds?\n\nIs it better to never repeat the same relative position, at the expense of having one more player meeting the same player through the 3 rounds (each time in a different relative position)?\n\nAs the rule were made, rule 2 is more important than the following rules. But does it balance the fact that rule 6 and 7 are violated, and that the starting transfer distribution is worse?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71592"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 11, 2015, 10:14\u202FAM",
+      "Body": "Noone has an opinion about this?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71649"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Jun 11, 2015, 11:05\u202FAM",
+      "Body": "> Ankha wrote:\n> As the rule were made, rule 2 is more important than the following rules.\n>\nNC Russia",
+      "Id": "71651"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 12, 2015, 6:58\u202FAM",
+      "Body": "Ok, we'll stick to the old seating.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71678"
+    }
+  ]
+}

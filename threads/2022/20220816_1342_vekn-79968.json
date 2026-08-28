@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-79968",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79968-interaction-between-lady-scarlet-churchill-and-toreador-grand-ball",
+  "Title": "interaction between Lady Scarlet Churchill and Toreador Grand ball",
+  "Messages": [
+    {
+      "Author": "estelmatiazi",
+      "Date": "Aug 16, 2022, 1:42\u202FPM",
+      "Body": "Hello,\nLady Scarlet Churchill, from the new Fall of London set, says 'You and lady scarlett can play cards requiring a Toreador as if she were a Toreador'\n\nToreador Grand ball says 'Choose two ready Toreador you control, put this card in play, and lock one of the two. The locked Toreador does not unlock as normal. The other Toreador's non-bleed actions cannot be blocked. '\n\nThere has been some discussion about the interaction and wording of the cards in the discord server. My understanding is that she can be designated as the target of a Grand ball and be locked by it, making another minion unblockable, but on the next unlock phase she will unlock normally as she is no longer considered a Toreador for the effects of the card (similarly to how Mata Hari works). Is this correct?\n\nLasombra Archbishop of S\u00E3o Jos\u00E9, SC, Brazil.",
+      "Id": "106001"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 16, 2022, 1:55\u202FPM",
+      "Body": "Adding a question:\n\nIs a vampire that provides the Methuselah the ability to play cards as if they control a vampire of a specific sect/clan/title considered to be of that sect/clan/title for the resolution of that master cards effect?\n\nAdding Mata Hari for future searches, the same scenario could be done with her.\n\nMata Hari\n\nCardtype: Vampire\nClan: Ravnos\nGroup: 4\nCapacity: 7\nDiscipline: aus for qui CHI OBF\nIndependent. 2 votes (titled): You and Mata Hari can play cards requiring a sect and/or clan as if she were of that required sect and/or clan. Red List.\n\nToreador Grand Ball\n\nCardtype: Master\nClan: Toreador\nCost: 1 pool\nChoose two ready Toreador you control, put this card in play, and lock one of the two. The locked Toreador does not unlock as normal. The other Toreador's non-bleed actions cannot be blocked. Minions can burn this card as a  action; Nosferatu get -1 stealth during that action.",
+      "Id": "106002"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 16, 2022, 1:58\u202FPM",
+      "Body": "> estelmatiazi wrote:\n> Hello,\n> Lady Scarlet Churchill, from the new Fall of London set, says 'You and lady scarlett can play cards requiring a Toreador as if she were a Toreador'\n>\n> Toreador Grand ball says 'Choose two ready Toreador you control, put this card in play, and lock one of the two. The locked Toreador does not unlock as normal. The other Toreador's non-bleed actions cannot be blocked. '\n>\n> There has been some discussion about the interaction and wording of the cards in the discord server. My understanding is that she can be designated as the target of a Grand ball and be locked by it, making another minion unblockable, but on the next unlock phase she will unlock normally as she is no longer considered a Toreador for the effects of the card (similarly to how Mata Hari works). Is this correct?\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106003"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 16, 2022, 1:59\u202FPM",
+      "Body": "> inm8 wrote:\n> Adding a question:\n>\n> Is a vampire that provides the Methuselah the ability to play cards as if they control a vampire of a specific sect/clan/title considered to be of that sect/clan/title for the resolution of that master cards effect?\n>\nYes, I think there are already plenty of rulings about this topic.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106004"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 16, 2022, 2:07\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > Adding a question:\n> >\n> > Is a vampire that provides the Methuselah the ability to play cards as if they control a vampire of a specific sect/clan/title considered to be of that sect/clan/title for the resolution of that master cards effect?\n> >\n> Yes, I think there are already plenty of rulings about this topic.\n>\nSorry, its from the perspective of the card and its effect that considers \"as if\" for its full resolution....for some reason, I was thinking who played the card mattered.",
+      "Id": "106005"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 16, 2022, 2:07\u202FPM",
+      "Body": "I was sure that LSJ answered this question at some point, but couldn't find it. Here's the rubric on how \"play as-if\" abilities mimic requirements.\n\n1. Does the card have a requirement?\n2. Does the vampire's play as-if ability allow them to mimic that requirement?\n3. The card will see that vampire as meeting the requirement while it is played, but not while it is in play.\n\nToreador Grand Ball has a Toreador requirement.\nLady Scarlet can play card as-if she were a Toreador.\nThe TGB will see her as a Toreador if you use her to meet the requirements.\n\nThis means that Lady Scarlet is a valid choice when \"choosing two ready Toreador\" because if she were used to meet the requirement, she can be chosen to be one of the Toreador because TGB sees her as a Toreador. You can then choose to lock her (making her the host) or not.\n\nIn either case, once the card is in play it stops seeing Lady Scarlet as Toreador. If she were chosen as the host, she would unlock as normal because she is not seen as a Toreador when she unlocks. If she were chosen to be the guest, (you wasted the card because) she will not be seen as a Toreador and all of her actions would still be blockable.\n\nIdeally, you play TGB with Lady Scarlet to make one Toreador's actions unblockable and ignore the long-term effects of hosting.",
+      "Id": "106006"
+    }
+  ]
+}

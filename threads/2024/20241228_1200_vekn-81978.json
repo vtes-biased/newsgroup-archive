@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-81978",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/judge-exam-contribution/81978-sniper-rifle-drawing-out-the-beast",
+  "Title": "Sniper Rifle + Drawing Out the beast",
+  "Messages": [
+    {
+      "Author": "acbishop",
+      "Date": "Dec 28, 2024, 12:00\u202FPM",
+      "Body": "Player A bleed with Enkidu, player B blocks with Lernean with no blood and equipped with a Sniper Rifle.\nPlayer A doesn't play any before range card or effect.\nPlayer B sets the range for the combat to long using the Sniper Rifle.\nPlayer A plays Drawing of The Beast at Superior:\n\nChoose the correct answer:\n1) Combat is still at long range, Lernean can't strike at all loosing the strike with the Sniper Rifle. Then Lernean gets 1 unpreventable damage during press step and goes to torpor. CORRECT\n2) Combat is still at long range, as Lernean can't use the strike provided by the Sniper Rifle, Lernean can choose a different strike.\n3) Range is not determined as Lernean can't use the Sniper Rifle, so players need to still determine range for the combat.\n4) Player A is not allowed to play Drawing out of the Beast as they stated no pre-range card or effects before player B used the Sniper Rifle\n\nRelevant cardtexts:\nName: Sniper Rifle\nCardtype: Equipment\nCost: 2 pool\nWeapon: gun.\nStrike: 2R damage, only usable at long range. If the bearer blocks, they can, before range is determined, set the range for the first round of the resulting combat to long, and their initial strike that round must be with this weapon.\n\nName: Drawing Out the Beast\nCardtype: Combat\nDiscipline: Animalism\nOnly usable before range is determined on the first round. Frenzy.\n[ani] During this combat, opposing vampire gets +1 strength, but he or she cannot use maneuvers to maneuver to long range, cannot use presses to end combat and cannot use equipment. A vampire may play only one Drawing Out the Beast each combat.\n[ANI] As above, and the opposing vampire takes 1 unpreventable damage during the press step each round.\n\nName: Enkidu, The Noah\nCardtype: Vampire\nClan: Gangrel antitribu\nGroup: 4\nCapacity: 11\nDiscipline: for ANI CEL OBF POT PRO\nSabbat. Red List: Enkidu can enter combat with any minion as a  action. If Enkidu successfully performs an action to employ a retainer, he unlocks at the end of the turn. He cannot have or use equipment. +2 strength.\n\nName: Lernean\nCardtype: Vampire\nClan: Tremere antitribu\nGroup: 4\nCapacity: 10\nDiscipline: for pro AUS CEL DOM THA\nSabbat cardinal: Once each round, Lernean may burn 1 blood to get an additional strike {(limited)}.",
+      "Id": "113358"
+    },
+    {
+      "Author": "yesferatu",
+      "Date": "Dec 29, 2024, 2:26\u202FPM",
+      "Body": "Sure, I'll bite but I'm probably wrong. I guess I'm a bad judge. I just disagree with the ruling.\n\nI gotta go with 4. The window for the acting minion to play DotB is before range is determined. If player A passes that impulse window, they've allowed player B to set range. Once range has been set, we're no longer in the \"before range is determined\" step. Range is set to long. Player A can no longer play DotB. You can't retroactively negate the effect that allowed player B to set range after range has been set.\n\nAs the acting minon's controller, player A has the first opportunity to play a card, if they decline, they've passed the impulse to player B. Once player B sets the range, it's too late. Similarly, if the acting minion had the ability to set range, but declined, they couldn't play Shadow Step or Selective Silence to \"reset\" the range or play any further \"before range is determined\" effects (Increased Strength/Torn Signpost).\nOnce you pass the window, range has been determined, you can't go back.\n\nI don't see how a \"before range is determined\" effect is playable after range has been set.\nIt's by definition - after range has been determined. When does the determine range step end? If it's not after someone sets range, I don't know when it is.\n\n\"The acting minion always gets first opportunity to use cards or effects before the opposing minion at every stage of combat.\n\n1. Before Range\nSome cards or effects will be played before range is determined. This is clearly stated upon those cards.\n\nNote: Effects that are played \u201Cbefore range is determined\u201D must be played before the acting minion decides whether or not to play a maneuver.\"",
+      "Id": "113365"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Dec 29, 2024, 5:09\u202FPM",
+      "Body": "> yesferatu wrote:\n> Sure, I'll bite but I'm probably wrong. I guess I'm a bad judge. I just disagree with the ruling.\n>\n> I gotta go with 4. The window for the acting minion to play DotB is before range is determined. If player A passes that impulse window, they've allowed player B to set range. Once range has been set, we're no longer in the \"before range is determined\" step. Range is set to long. Player A can no longer play DotB. You can't retroactively negate the effect that allowed player B to set range after range has been set.\n>\n> As the acting minon's controller, player A has the first opportunity to play a card, if they decline, they've passed the impulse to player B. Once player B sets the range, it's too late. Similarly, if the acting minion had the ability to set range, but declined, they couldn't play Shadow Step or Selective Silence to \"reset\" the range or play any further \"before range is determined\" effects (Increased Strength/Torn Signpost).\n> Once you pass the window, range has been determined, you can't go back.\n>\n> I don't see how a \"before range is determined\" effect is playable after range has been set.\n> It's by definition - after range has been determined. When does the determine range step end? If it's not after someone sets range, I don't know when it is.\n>\n> \"The acting minion always gets first opportunity to use cards or effects before the opposing minion at every stage of combat.\n>\n> 1. Before Range\n> Some cards or effects will be played before range is determined. This is clearly stated upon those cards.\n>\n> Note: Effects that are played \u201Cbefore range is determined\u201D must be played before the acting minion decides whether or not to play a maneuver.\"\n>\neach time the blocking minion plays a card the impulse goes back to the acting minion, who can at that moment play a card.\n\nif the blocking minion dediced not to set the range with the sniper rifle, then combat goes to determine step range and acting minion won't have the possibility to play Drawing out the beat anymore",
+      "Id": "113366"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Dec 29, 2024, 5:11\u202FPM",
+      "Body": "note that using the Sniper Rifle only will skip the determine range step, but not the pre-range step, that's the reason the acting minion can still play cards or effects\n\nsee a post from rules with Pascal validating the case stated by Jussi\n\nwww.vekn.net/forum/rules-questions/29239-drawing-vs-sniper#29243\n\nonce the range is set, you cannot play a card to set the range differently, you are right on that, but you can still play cards",
+      "Id": "113367"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Dec 29, 2024, 10:48\u202FPM",
+      "Body": "Name: Drawing Out the Beast\nCardtype: Combat\nDiscipline: Animalism\nOnly usable before range is determined on the first round. Frenzy.\n[ani] During this combat, opposing vampire gets +1 strength, but he or she cannot use maneuvers to maneuver to long range, cannot use presses to end combat and cannot use equipment. A vampire may play only one Drawing Out the Beast each combat.\n[ANI] As above, and the opposing vampire takes 1 unpreventable damage during the press step each round.\n\nset the range on \"before deteermine range\" step is not use maneuvers to manuever to long range, this already solve the question, no maneuver card was played\n\nDavid Resende - Prince of Teresina",
+      "Id": "113369"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 30, 2024, 7:43\u202FAM",
+      "Body": "> yesferatu wrote:\n> Once range has been set, we're no longer in the \"before range is determined\" step.\n>\nWrong.\n\n> acbishop wrote:\n> note that using the Sniper Rifle only will skip the determine range step, but not the pre-range step, that's the reason the acting minion can still play cards or effects\n>\n> see a post from rules with Pascal validating the case stated by Jussi\n>\n> www.vekn.net/forum/rules-questions/29239-drawing-vs-sniper#29243\n>\n> once the range is set, you cannot play a card to set the range differently, you are right on that, but you can still play cards\n>\nCorrect.\n\nI agree that the name of the step can be confusing, but nothing in the rules indicates that this step is over once the range is set by an effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113370"
+    },
+    {
+      "Author": "yesferatu",
+      "Date": "Dec 31, 2024, 4:33\u202FPM",
+      "Body": "This isn't my personal crusade (i.e. Army of Rats should have a superior) and I understand the ruling. Admittedly, I would have made this call incorrectly in the past. Thanks for the reminder.\n\nI'm unclear on when the \"determine range\" step actually ends.\n- Is it after range has been determined (i.e. set with sniper rifle)?\n- Is it after both players decline to play cards with a \"before range is determined\" requirement?\n- Is it before players begin to play manuevers?\n- Is it after both players decline to play additional manuevers?\n- Is it whenever the either minion's controller says it is?\n\nIn the original example, after player B sets the range to long, could either player still use something like Carrion Crows or Increased Strength, even though both cards have a \"before range is determined\" requirement?\n\nIf that's the case, couldn't the acting minion wait for the blocking minion to manuever (or not) before playing additional \"BRID\" cards? How is that not \"after range is determined\"?\n\nFor example, keeping the same vampires from the example above...\n1. Player A bleeds with Enkidu\n2. Player B blocks with Lernean\n3. Player A declines to play any \"BRID\" cards.\n4. Player B maneuvers to long range with whatever\n5. Player A declines to maneuver and range is long\n6. Player A then decides to play Carrion Crows & Increased Strength or Drawing out the Beast once they know the range is long.\n\n- Could Lernean wait until he knows the range before playing Shotgun Ritual?\n- Have I been playing Torn Signpost wrong for 30 years?\n\nDoes this rule only affect cards that set range or can you still play BRID cards after the opposing minion has maneuvered? Is that considered \"during\" the manuver step, but before range has been determined? When has range been determined?\nYou can see why there might be some confusion.",
+      "Id": "113389"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Dec 31, 2024, 7:42\u202FPM",
+      "Body": "There are two important steps\n\nBefore range is determine step: where you can play Drawing out the Beast, Set the range with Sniper Rifle, Increased strenght...\n\nDetermine range step: where you play manoeuvre, and at this point, it is too late to play Drawinf, torn signpost...\n\nFor example, keeping the same vampires from the example above...\n1. Player A bleeds with Enkidu\n2. Player B blocks with Lernean\n3. Player A declines to play any \"BRID\" cards.\n4. Player B maneuvers to long range with whatever --> player B doesn't have the impulse to play/use any maneuvers, if player B declines to use any BRID card/effect then Player A will have the impulse to start the playing/using maneuvers\n5. Player A declines to maneuver and range is long\n6. Player A then decides to play Carrion Crows & Increased Strength or Drawing out the Beast once they know the range is long. --> too late for these cards as they must played before the range would be set (if you prefer, before any minion could play/use any maneuver)",
+      "Id": "113393"
+    },
+    {
+      "Author": "Xto316",
+      "Date": "Jan 29, 2026, 12:22\u202FPM",
+      "Body": "My answer was 2).\n\nIs the same thing as Immortal Grapple when you played Aid from Bats. You lose you strike because you are using Sniper Rifle. But the range is still long.",
+      "Id": "116297"
+    }
+  ]
+}

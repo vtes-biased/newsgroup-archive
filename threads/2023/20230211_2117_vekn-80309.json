@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-80309",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80309-uncoiling-and-dragonbound",
+  "Title": "Uncoiling and Dragonbound",
+  "Messages": [
+    {
+      "Author": "Thalco",
+      "Date": "Feb 11, 2023, 9:17\u202FPM",
+      "Body": "Howdy, folks.\n\nI'm just wondering about timing on Dragonbound. If a player has The Uncoiling in hand, can they play The Uncoiling and blow up Dragonbound before losing the pool? Or are they unable to play a card until they've resolved existing effects? I'm on the assumption that Dragonbound counts as mandatory.\n\n. Prince of Liverpool and UK NC",
+      "Id": "107371"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 11, 2023, 9:30\u202FPM",
+      "Body": "It's always better with the cardtexts.\n\nName: Dragonbound\n[Gehenna:R, LotN:PA, HttB:PSal, SP:DoF1]\nCardtype: Event\nGehenna. Do not replace as long as this card is in play.\nDuring each Methuselah's discard phase, that Methuselah burns 1 pool for each vampire in torpor they control.\n\nName: The Uncoiling\n[SoC:R]\nCardtype: Event\nEvent. Do not replace as long as this card is in play.\nDuring your discard phase, burn one other event at random. Any other Methuselah may use a discard phase action and burn X pool to burn this card, where X is the number of other events in play.\n\nBoth effects happen \"during the discard phase\", so you can order them the way to want and burn an event at random first, then resolve the effect of Dragonbound if it's still in play (if not, there's nothing left to resolve).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107372"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 11, 2023, 11:12\u202FPM",
+      "Body": "Sorry if it is me being thick here,\n\nThe question is about whether The Uncoiling can be played from hand to then use its effect to burn Dragonbound that is in play (assuming it is the only other event in play for it to be a certainty) and avoid the need to burn pool for vampires in torpor (all in the same discard phase)....not sure that this was the question that was answered?!?!\n\nDoes the above ruling mean that playing a card (an event) and dealing with the \"during discard phase\" effects are orderable?",
+      "Id": "107376"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Feb 12, 2023, 12:43\u202FAM",
+      "Body": "Always has been.\n\nIt is the same as in the master phase, you can use your blood doll, and then use the newly gained pool to pay for a mater card.\n\neven better example: you can play a blood doll and immedeatly use it. liek you can play uncoiling and immideatly use it.\n\nplaying an Event is a discard pahse action, discard pahse actions are taken during the discard phase, and this is therefore ordable inside other effects during the discard phase\n\nfor an effect to be \"non-orderable\" it must have explicit language like \"at the beginning of\" or \"at the end of\"\n\nand even then, if you have several effects at these specific windows, these are then orderable within that time frame.",
+      "Id": "107377"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 12, 2023, 8:14\u202FAM",
+      "Body": "> inm8 wrote:\n> Sorry if it is me being thick here,\n>\n> The question is about whether The Uncoiling can be played from hand to then use its effect to burn Dragonbound that is in play (assuming it is the only other event in play for it to be a certainty) and avoid the need to burn pool for vampires in torpor (all in the same discard phase)....not sure that this was the question that was answered?!?!\n>\n> Does the above ruling mean that playing a card (an event) and dealing with the \"during discard phase\" effects are orderable?\n>\nYes, they both follow the sequencing rule:\n\n\"At every stage, the acting Methuselah always has the opportunity to play the next card or effect.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107379"
+    }
+  ]
+}

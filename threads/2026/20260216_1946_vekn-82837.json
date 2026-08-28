@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-82837",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82837-parijat-special-order",
+  "Title": "Parijat special order",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Feb 16, 2026, 7:46\u202FPM",
+      "Body": "Parijat, the Dark Oracle\n\nIndependent: While Parijat is ready, minions must burn the top card of their library to attempt to block wraith or zombie allies.\n\nhow she special work,if you play reaction card to block ally,did you 1st replace and then burn,or 1st burn top library?\n1) if you play wake\n2) if you play card to force you to block (example 2nd tradition)",
+      "Id": "116445"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 16, 2026, 7:55\u202FPM",
+      "Body": "> beslin wrote:\n> Parijat, the Dark Oracle\n>\n> Independent: While Parijat is ready, minions must burn the top card of their library to attempt to block wraith or zombie allies.\n>\n> how she special work,if you play reaction card to block ally,did you 1st replace and then burn,or 1st burn top library?\n> 1) if you play wake\n>\nPlay wake, replace. Wakes don't force you to attempt to block.\n\n> beslin wrote:\n> 2) if you play card to force you to block (example 2nd tradition)\n>\nIn order to attempt to block, you have to burn the top card.\nSo play Second Tradition and burn the top card as part of the cost \"to attempt to block\", then replace.\n\nCORRECTION: In order to attempt to block, you have to be able to burn the top card (as part of the cost).\nSo play Second Tradition (can be cancelled), then replace, then pay its cost (including burning the top card of your library as part of the cost \"to attempt to block\") and resolve its effect.\n\nIf your library is empty, you cannot play Second Tradition.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116447"
+    },
+    {
+      "Author": "meneran",
+      "Date": "Mar 2, 2026, 9:30\u202FPM",
+      "Body": "Does this mean that (except obvious cases like action cards) you pay costs of a card before you replace the card?",
+      "Id": "116535"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 13, 2026, 5:58\u202FPM",
+      "Body": "If in scenario 2,someone cancel Second Tradition,do you still need to burn top library before replace Second Tradition?\n\nIf that can be compared with this scenario,i beleive you need to burn top library before replace www.vekn.net/forum/rules-questions/82835-eagle-sight-cancelled-by-i-am-legion-while-tenebrous-form-is-in-play",
+      "Id": "116649"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 15, 2026, 5:54\u202FPM",
+      "Body": "Yes, you need to burn the top library card. Burning the top library card is part of the cost to play Second Tradition, which happens before the \"as played\" window, where a cancelation effect can be played.",
+      "Id": "116655"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 16, 2026, 7:51\u202FAM",
+      "Body": "> beslin wrote:\n> If in scenario 2,someone cancel Second Tradition,do you still need to burn top library before replace Second Tradition?\n>\nNo, since you're not attempting to block, since the Second Tradition card was canceled as played.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116656"
+    },
+    {
+      "Author": "meneran",
+      "Date": "Mar 17, 2026, 12:45\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > beslin wrote:\n> > Parijat, the Dark Oracle\n> >\n> > Independent: While Parijat is ready, minions must burn the top card of their library to attempt to block wraith or zombie allies.\n> >\n> > how she special work,if you play reaction card to block ally,did you 1st replace and then burn,or 1st burn top library?\n> > 1) if you play wake\n> >\n> Play wake, replace. Wakes don't force you to attempt to block.\n>\n> > beslin wrote:\n> > 2) if you play card to force you to block (example 2nd tradition)\n> >\n> In order to attempt to block, you have to burn the top card.\n> So play Second Tradition and burn the top card as part of the cost \"to attempt to block\", then replace.\n> If your library is empty, you cannot play Second Tradition.\n>\nJust to clarify, is this the order of effects happening with Parijat in play and Second Tradition (used for unlock) played during zombie/wraith action ?\n\n'as played' for Second Tradition (next steps are assuming no cancels)\nburn top card of the library\nreplace Second Tradition\npay 1 blood the Second Tradition and resolve second tradition (unlock and start the block attempt with +2 intercept) at the same time",
+      "Id": "116673"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 17, 2026, 6:40\u202FAM",
+      "Body": "> meneran wrote:\n> Just to clarify, is this the order of effects happening with Parijat in play and Second Tradition (used for unlock) played during zombie/wraith action ?\n>\n> 'as played' for Second Tradition (next steps are assuming no cancels)\n> burn top card of the library\n> replace Second Tradition\n> pay 1 blood the Second Tradition and resolve second tradition (unlock and start the block attempt with +2 intercept) at the same time\n>\nNo, see above:\n\n> Ankha wrote:\n> So play Second Tradition and burn the top card as part of the cost \"to attempt to block\", then replace.\n> If your library is empty, you cannot play Second Tradition.\n>\nIn order to play Second Tradition, you have to pay its cost before replacing.\n\nCORRECTION:\n1. Announce Second Tradition terms and effects, and play the card. You must be able to pay its cost (including additional costs such as burning the top card of your library since the card makes the vampire attempt to block).\n2. Other Methuselahs can cancel the card.\n3. Replace the card\n4. Pay its cost (including additional costs such as burning the top card of your library) and resolve its effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116674"
+    }
+  ]
+}

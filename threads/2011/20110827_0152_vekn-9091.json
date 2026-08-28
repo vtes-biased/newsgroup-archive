@@ -1,0 +1,122 @@
+{
+  "ThreadId": "vekn-9091",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/9091-damage-caused-by-the-other-minion",
+  "Title": "Damage Caused by the Other Minion",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 27, 2011, 1:52\u202FAM",
+      "Body": "After reading the Rotschreck + Domain of Evernight + Outside the Hourglass thread... I have a question for the Rules Team as a group.\n\nCould there be a global and game-wide definition for \"Damage dealt by the opposing minion\"?\n\nThere seems to be no significant text-based difference between the following two situations to explain why they would be treated differently.\n\nAt the moment, Rotschreck will count damage from Carrion Crows (combined with Domain of Evernight or Dawn Operation) as \"damage from the opposing minion\".\nStreet Cred will NOT count damage from Carrion Crows as \"damage from the opposing minion\".\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "9091"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Aug 27, 2011, 3:11\u202FAM",
+      "Body": "IMNF, but Carrion Crows is never considered damage from the opposing minion.\nIt does not allow the use of R\u00F6tschreck (even assuming it is aggravated damage).\n\nThere is a difference in wording (at least I found one).\n\nOutside the Hourglass:\n\"Inflict 2 damage on the opposing minion.\" - damage done by the opposing minion.\n\nVS.\n\nCarrion Crows:\n\"The opposing minion takes 1R damage...\"\nWeather Control:\n\"Both combatants and each of their retainers take 1 unpreventable damage...\"\nGroaning Corpse:\n\"The opposing minion takes 1 damage...\"\n\n\"Inflict X damage\" - Minion inflicting damage on opposite minion. Counts for Street Cred. If aggravated counts for R\u00F6tschreck.\n\n\"The opposing minion takes X damage\" - Environmental. No source. Doesn't count for either Street Cred of R\u00F6tschreck.\n\nI don't belong to the rules team (that's Floppy), but I found this pattern in the wordings and I think it is consistent with other cards too.",
+      "Id": "9097"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Aug 27, 2011, 3:15\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> After reading the Rotschreck + Domain of Evernight + Outside the Hourglass thread... I have a question for the Rules Team as a group.\n>\n> Could there be a global and game-wide definition for \"Damage dealt by the opposing minion\"?\n>\n> There seems to be no significant text-based difference between the following two situations to explain why they would be treated differently.\n>\n> At the moment, Rotschreck will count damage from Carrion Crows (combined with Domain of Evernight or Dawn Operation) as \"damage from the opposing minion\".\n> Street Cred will NOT count damage from Carrion Crows as \"damage from the opposing minion\".\n>\n(I am not in any way part of the rules team, but)\n>\n> Environmental damage is not considered to have been \"caused\" by a minion.\n>\nLSJ again , actually in a reply to you oddly enough.\nThe point being made (mostly by me I think) in the other thread is that Outside the Hourglass does not do environmental damage, damage from it is \"damage from the opposing minion\". Damage from Carrion Crows is not.\nSorry if that was unclear.",
+      "Id": "9098"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 27, 2011, 3:32\u202FAM",
+      "Body": "I know that, but after reading that thread, I'd honestly like a \"General Ruling\" about what exactly constitutes \"Damage from the Opposing Minion\". It would be best if Pascal could either directly rule on it, or take it to the Rules Team for consideration.\n\nOne of the things I would like is that cards should have as close to a 'plain English' interpretation as possible. Keywords are good, and important, but when two phrases have very little distinction and neither really has a 'keyword' then I don't really see why they should function differently.\n\nBecause in 'plain English' the phrase \"Inflict 2 damage\" and \"the opposing minion takes 1R damage\" doesn't seem to explain why they should be different.\n\nSo using just these below as a sample list, why and which are 'from the opposing minion' for the purposes of cards like Street Cred and/or Rotschreck?\n\nCarrion Crows\nType: Combat\nRequires: Animalism\nOnly usable before range is chosen.\n[ani] The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\n[ANI] As above, but for 2R damage.\n\nOutside the Hourglass\nType: Combat\nRequires: Temporis / Obfuscate\n[obf] Strike: dodge.\n[tem] Maneuver, or strike: dodge, with an optional maneuver.\n[TEM] Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n\nGroaning Corpse\nType: Combat\nRequires: Thanatosis\nCost: X blood\nOnly usable before range is determined.\n[thn] X is the number of Groaning Corpses already played this combat. The opposing minion takes 1 damage each round of combat during strike resolution if the range is close.\n[THN] As above, but for 2 damage. A vampire may play only one Groaning Corpse at superior each combat.\n\nDrawing Out the Beast\nType: Combat\nRequires: Animalism\nOnly usable before range is determined on the first round. Frenzy.\n[ani] During this combat, opposing vampire gets +1 strength, but he or she cannot use maneuvers to maneuver to long range, cannot use presses to end combat and cannot use equipment. A vampire may play only one Drawing Out the Beast each combat.\n[ANI] As above, and the opposing vampire takes 1 unpreventable damage during the press step each round.\n\nBestial Vengeance\nType: Combat\nRequires: laibon Animalism\nRequires a Laibon.\n[ani] Only usable before range is determined. Choose a retainer on this Laibon. This combat, this Laibon is immune to frenzy cards and the opposing minion takes 1 damage during strike resolution if the retainer is ready. A vampire can play only one Bestial Vengeance each combat.\n[ANI] As above, but for 2 damage.\n\nBlood of Acid\nType: Combat\nRequires: Vicissitude\nCost: 2 blood\n[vic] Only usable at close range before strikes are chosen. During each strike resolution this round, the opposing minion takes an amount of damage equal to the damage he or she successfully inflicts. A vampire may play only one Blood of Acid each round.\n[VIC] As above, but the damage is aggravated.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "9100"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Aug 27, 2011, 4:24\u202FAM",
+      "Body": "Well, in plain English a sentence must have a subject. If no subject is grammatically within the sentence than the subject is implied. An imperative sentence (which covers the matter that is being referred to now) implies the subject 'you':\n\nWash the car\nGo to the store\nInflict 2 damage\n\nAll the other examples from the cards you cite have the subject 'the opposing minion' which, since the subject is not 'you' does not come directly from the other minion. In this game that translates to environmental damage, not damage from the minion. An exception can occur:\n\n'You' make a hand strike, if it is successful the opposing minion takes an additional 2 damage.\n\nBut, as can be seen, the subject is still implied as the 'other minion', hence not environmental.",
+      "Id": "9104"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 27, 2011, 5:06\u202FAM",
+      "Body": "To make things clear for future reference.\n>\n> Juggernaut1981 wrote:\n> At the moment, Rotschreck will count damage from Carrion Crows (combined with Domain of Evernight or Dawn Operation) as \"damage from the opposing minion\".\n>\nNo.\n\n> Juggernaut1981 wrote:\n> So using just these below as a sample list, why and which are 'from the opposing minion' for the purposes of cards like Street Cred and/or Rotschreck?\n>\nOnly Outside the Hourglass is dealt by the minion. The other are environment damage as explained by Robert Scythe\n\n> Juggernaut1981 wrote:\n> Carrion Crows\n> The opposing minion takes 1R damage...\n>\n> Outside the Hourglass\n> Inflict 2 damage on the opposing minion.\n>\n> Groaning Corpse\n> The opposing minion takes 1 damage\n>\n> Drawing Out the Beast\n> the opposing vampire takes 1 unpreventable damage\n>\n> Bestial Vengeance\n> the opposing minion takes 1 damage\n>\n> Blood of Acid\n> the opposing minion takes an amount of damage\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "9106"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 29, 2011, 8:09\u202FAM",
+      "Body": "Ankha's, Robert's and Mael's answers are correct.",
+      "Id": "9194"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 29, 2011, 11:08\u202FAM",
+      "Body": "> Robert wrote:\n> Well, in plain English a sentence must have a subject. If no subject is grammatically within the sentence than the subject is implied. An imperative sentence (which covers the matter that is being referred to now) implies the subject 'you':\n>\n> Wash the car\n> Go to the store\n> Inflict 2 damage\n>\n> All the other examples from the cards you cite have the subject 'the opposing minion' which, since the subject is not 'you' does not come directly from the other minion. In this game that translates to environmental damage, not damage from the minion. An exception can occur:\n>\n> 'You' make a hand strike, if it is successful the opposing minion takes an additional 2 damage.\n>\n> But, as can be seen, the subject is still implied as the 'other minion', hence not environmental.\n>\nActually, the agent is implied in these sentences. They could all easily read \"The opposing minion takes 2 damage [from this minion]\" Since it is not an explicit agent within the sentences. I would have no problem at all if there was a damage category \"environmental\" and Carrion Crows for example said \"The opposing minion takes 2 environmental damage\". With the creation of a damage class of 'environmental damage' there is then a clear reason (not requiring a ruling) for why this damage could NOT come from the 'minion playing the card'.\n\nI understand that the current rulings state that Crows et al. are considered to not come from the opposing minion, but without the ruling there seems to be no particular reason why the damage is not coming from the opposing minion.\n\nI would have thought it would seem obvious from a \"story\" point of view if I begin combat with another vampire and suddenly the entire place is filled with crows circling and attempting to peck my eyes out. It would seem a touch obvious that 'the other guy did it'. And with cards such as Street Cred, it also makes \"story\" sense that being able to summon down flocks of angry birds could lend you some significant Street Cred.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "9237"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Aug 29, 2011, 6:50\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> I would have thought it would seem obvious from a \"story\" point of view if I begin combat with another vampire and suddenly the entire place is filled with crows circling and attempting to peck my eyes out. It would seem a touch obvious that 'the other guy did it'. And with cards such as Street Cred, it also makes \"story\" sense that being able to summon down flocks of angry birds could lend you some significant Street Cred.\n>\nAbandon story - it's only going to get you in trouble if you try to use it to justify how this game works. VTES isn't a roleplaying game.",
+      "Id": "9259"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 29, 2011, 7:03\u202FPM",
+      "Body": "I'm not trying to use it as a primary argument. But if the only argument is \"Because its been ruled that way\", I think there should be an \"environmental\" keyword that gets around this situation permanently.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "9261"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 29, 2011, 7:19\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Actually, the agent is implied in these sentences. They could all easily read \"The opposing minion takes 2 damage [from this minion]\" Since it is not an explicit agent within the sentences.\n>\nThat's not using agents. That's qualifying the damage. If you want to use agents, use passive voice:\n\"2 damage are inflicted by this minion to the opposing minion\" (rather than \"inflict 2 damage to the opposing minion\")\n\n> Juggernqut1981 wrote:\n> I would have no problem at all if there was a damage category \"environmental\" and Carrion Crows for example said \"The opposing minion takes 2 environmental damage\". With the creation of a damage class of 'environmental damage' there is then a clear reason (not requiring a ruling) for why this damage could NOT come from the 'minion playing the card'.\n>\nWell, this \"class\" of damage already exists. It is the class of damage that is inflicted when the source isn't your minion in combat. And the only time when minions inflict damage in combat are with damaging strikes or with cards that read \"inflict ...\"\n\n> Juggernaut1981 wrote:\n> I understand that the current rulings state that Crows et al. are considered to not come from the opposing minion, but without the ruling there seems to be no particular reason why the damage is not coming from the opposing minion.\n>\nLet's not call it a ruling. It's cardtext.",
+      "Id": "9264"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Aug 30, 2011, 12:59\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> I'm not trying to use it as a primary argument. But if the only argument is \"Because its been ruled that way\", I think there should be an \"environmental\" keyword that gets around this situation permanently.\n>\nSure, I know that you had an actual rules question based on cardtexts rather than backstory considerations. My suggestion is that you don't bother bringing up story-related justifications in the context of rules questions, ever, for any reason, as they'll do nothing but muddy the waters. Any time you write the word \"story\" in this subforum, go back and delete that section of your post before posting.",
+      "Id": "9317"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 30, 2011, 1:19\u202FPM",
+      "Body": "I'm also adding that I know very very little background. OK, Malkavians are mad, and the Tzimisce and Lasombra created the Sabbat. Tremeres aren't vampires (but Carna can still Govern down to Selena).\n\nSometimes, background can help understanding cards, but remember that, most of the time, the game had to be adapted, and now has its own keywords and mechanics, which sometimes are incompatible with the WoD (yes, Igo can torporize Enkidu with a Rowan Ring, and Amaranth him.)",
+      "Id": "9320"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 30, 2011, 7:14\u202FPM",
+      "Body": "Well the point about this is more so that it seems obvious that Street Cred is intended to reward combat (being a  card, checking for damage dealt) but it counts less damage than Taste of Vitae and costs more. Outside some kind of Weenie-Pot-For deck that can guarantee its own safety, there is little reason to play Street Cred. By amending either Street Cred or to allow \"environmental\" damage to come from the minion playing the card but still only be prevented as non-strike damage this card will rarely if ever see play and not in anything intended to be Tier 1 Competitive.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "9346"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 30, 2011, 7:47\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Well the point about this is more so that it seems obvious that Street Cred is intended to reward combat (being a  card, checking for damage dealt)\n>\nThat point is obvious.\n>\n> Juggernaut1981 wrote:\n> but it counts less damage than Taste of Vitae and costs more. Outside some kind of Weenie-Pot-For deck that can guarantee its own safety, there is little reason to play Street Cred. By amending either Street Cred or to allow \"environmental\" damage to come from the minion playing the card but still only be prevented as non-strike damage this card will rarely if ever see play and not in anything intended to be Tier 1 Competitive.\n>\nBut I don't get the point here.",
+      "Id": "9349"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 30, 2011, 8:28\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> By amending either Street Cred or to allow \"environmental\" damage to come from the minion playing the card but still only be prevented as non-strike damage this card will rarely if ever see play and not in anything intended to be Tier 1 Competitive.\n>\nLots of cards rarely see play, or don't see competitive play. Who cares? This doesn't grant them status to be discussed as possibly having their text redone.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "9354"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 31, 2011, 12:19\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Well the point about this is more so that it seems obvious that Street Cred is intended to reward combat (being a  card, checking for damage dealt) but it counts less damage than Taste of Vitae and costs more. Outside some kind of Weenie-Pot-For deck that can guarantee its own safety, there is little reason to play Street Cred. By amending either Street Cred or to allow \"environmental\" damage to come from the minion playing the card but still only be prevented as non-strike damage this card will rarely if ever see play and not in anything intended to be Tier 1 Competitive.\n>\nBecause potence has so much acceess to environmental damage, right?\n\nMore seriously though, I have had quite a lot of success with Street Cred in my !Brujah rush deck.",
+      "Id": "9359"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 31, 2011, 12:54\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Well the point about this is more so that it seems obvious that Street Cred is intended to reward combat (being a  card, checking for damage dealt) but it counts less damage than Taste of Vitae and costs more. Outside some kind of Weenie-Pot-For deck that can guarantee its own safety, there is little reason to play Street Cred. By amending either Street Cred or to allow \"environmental\" damage to come from the minion playing the card but still only be prevented as non-strike damage this card will rarely if ever see play and not in anything intended to be Tier 1 Competitive.\n>\nIt goes both ways: your opponent's Carrion doesn't count either, so it's a rather good deal.",
+      "Id": "9362"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 31, 2011, 4:22\u202FAM",
+      "Body": "Street Cred seems like it was a card designed to help out Nos and Brujah by giving them other ways to convert blood into pool. Since  King Hit is moderately viable technique (\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "9368"
+    }
+  ]
+}

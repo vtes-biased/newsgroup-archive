@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-81154",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81154-blood-cult-awareness-network-and-feast-of-the-soul-s-secrets",
+  "Title": "Blood Cult Awareness Network and Feast of the Soul's Secrets",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Jan 17, 2024, 9:38\u202FPM",
+      "Body": "Questions came up in FB per below\n\n1) If Blood Cult Awareness Network is in play, does the new card Feast of the Soul's Secrets at superior cost 2 blood and gets -1 stealth?\n\nAssume below ruling is applicable and the answer is yes?!\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/Kok_AGc9i68/m/tiI176IwHKkJ\n\n2) If the FotSS action succeeds but the bleed amount is reduced to zero, does it still incur an additional cost since it doesn't meet the criteria stated on BCAN?\n\nI would say it still meets the criteria of BCAN as the superior FotSS action doesn't stop being an action that adds counters to an uncontrolled vampire just because the conditional requirement isn't met to allow the effect to resolve in full and thus the cost with the addition of BCAN is to be paid.\n\nBlood Cult Awareness Network\n\nCardtype: Event\nInquisition.\nRequires a ready imbued in play. Whenever there are any ready imbued in play, any action to put a vampire or ghoul in play or to add counters to an uncontrolled vampire gets -1 stealth and costs an additional blood or life.\n\nFeast of the Soul's Secrets\n\nCardtype: Action\nCost: 1 Blood\nDiscipline: Dominate\n[dom]  Bleed with +2 bleed.\n[DOM] As above, and if the bleed is successful, add 2 blood to a younger vampire you control or in your uncontrolled region.",
+      "Id": "110395"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 18, 2024, 7:30\u202FAM",
+      "Body": "> inm8 wrote:\n> Questions came up in FB per below\n>\n> 1) If Blood Cult Awareness Network is in play, does the new card Feast of the Soul's Secrets at superior cost 2 blood and gets -1 stealth?\n>\n> Assume below ruling is applicable and the answer is yes?!\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/Kok_AGc9i68/m/tiI176IwHKkJ\n>\nIndeed. It is an action that \"add counters to an uncontrolled vampire\".\n\n> inm8 wrote:\n> 2) If the FotSS action succeeds but the bleed amount is reduced to zero, does it still incur an additional cost since it doesn't meet the criteria stated on BCAN?\n>\nYes, it still costs 1 additional blood.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110399"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jan 18, 2024, 12:05\u202FPM",
+      "Body": "If the player choose to use FotSS basic effect while BCAN are in play he avoid the extra blood cost and stealth penalty, correct?\n\nDavid Resende - Prince of Teresina",
+      "Id": "110406"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 18, 2024, 2:45\u202FPM",
+      "Body": "Yes as that is not an action that add counters to an uncontrolled vampire",
+      "Id": "110407"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 18, 2024, 4:15\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > 1) If Blood Cult Awareness Network is in play, does the new card Feast of the Soul's Secrets at superior cost 2 blood and gets -1 stealth?\n> >\n> > Assume below ruling is applicable and the answer is yes?!\n> > groups.google.com/g/rec.games.trading-cards.jyhad/c/Kok_AGc9i68/m/tiI176IwHKkJ\n> >\n> Indeed. It is an action that \"add counters to an uncontrolled vampire\".\n>\nI think the original ruling is partially complete and the we never addressed the resolution end of the action. It's clear that the questions was about declaration.\n\nWhen you declare the action of Feast of Soul's Secrets at superior, it will get -1 stealth and cost an additional blood, meaning you have to have enough available blood when you announce the action to cover the additional cost. The superior affect _could_ add blood to the uncontrolled, so we must account for that.\n\nWhen the action resolves, you know if the bleed is successful and if so, what vampire will be targeted. Since payment and resolution are atomic and we check costs twice (once when announcing and again when paying), the additional cost for Blood Cult Awareness Network may no longer be applicable.\n\nThe original ruling is clear the the cards, like Undue Influence and Feast of the Soul's Secrets, need to start with the Blood Cult Awareness Network modifications, but it unclear to me from that too short of a ruling that if should _always_ affect an action, even if at resolution time, there is no blood given to uncontrolled vampires.",
+      "Id": "110409"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 19, 2024, 4:05\u202FAM",
+      "Body": "Assume you want an answer from Ankha but here is my take on it.\n\nThe referenced ruling of LSJ for Undue Influence which was confirmed here to be applicable was about whether the action though conditional on the success of the bleed still counts as an action that add counters to an uncontrolled vampire\u2026.which it does.\n\nThe second question here (which at least I was unable to find an old ruling for) which Ankha has ruled on answers that BCAN\u2019s effect Is applicable independently from whether the condition that allows the adding of counters is met or not as that doesn\u2019t change what kind of action it is, BCAN cares about the kind of action it is and not whether the effect is applied successfully when increasing the cost of the action (which is only paid if the action reaches resolution successfully).\n\n\u201C[\u2026] any action [\u2026] to add counters to an uncontrolled vampire [\u2026] costs an additional blood or life.\u201D\n\nTo be dependent on the successful application of the effect it would need to say\n\n\u201C[\u2026] any action [\u2026] that successfully adds counters to an uncontrolled vampire [\u2026] costs an additional blood or life.\u201D",
+      "Id": "110410"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 19, 2024, 11:01\u202FAM",
+      "Body": "> inm8 wrote:\n> Assume you want an answer from Ankha but here is my take on it.\n>\n> The referenced ruling of LSJ for Undue Influence which was confirmed here to be applicable was about whether the action though conditional on the success of the bleed still counts as an action that add counters to an uncontrolled vampire\u2026.which it does.\n>\n> The second question here (which at least I was unable to find an old ruling for) which Ankha has ruled on answers that BCAN\u2019s effect Is applicable independently from whether the condition that allows the adding of counters is met or not as that doesn\u2019t change what kind of action it is, BCAN cares about the kind of action it is and not whether the effect is applied successfully when increasing the cost of the action (which is only paid if the action reaches resolution successfully).\n>\nYes, by definition, an action requires to be successful to have its effect applied.\nSo BCAN gives the action -1 stealth, even though the action could be unsuccessful (it could be blocked), solely based on the effect the action card would have if it successful.\nThis extends to additional conditions such as \"the action must be successful AND the bleed must be greater than 0\".\nWhether all conditions are met or not in the end doesn't change how BCAN interacts with it.\n\n> inm8 wrote:\n> \u201C[\u2026] any action [\u2026] to add counters to an uncontrolled vampire [\u2026] costs an additional blood or life.\u201D\n>\n> To be dependent on the successful application of the effect it would need to say\n>\n> \u201C[\u2026] any action [\u2026] that successfully adds counters to an uncontrolled vampire [\u2026] costs an additional blood or life.\u201D\n>\nPerhaps, but we'd better avoid making that distinction.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110416"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 19, 2024, 6:13\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > The referenced ruling of LSJ for Undue Influence which was confirmed here to be applicable was about whether the action though conditional on the success of the bleed still counts as an action that add counters to an uncontrolled vampire\u2026.which it does.\n> >\n> Yes, by definition, an action requires to be successful to have its effect applied.\n> So BCAN gives the action -1 stealth, even though the action could be unsuccessful (it could be blocked), solely based on the effect the action card would have if it successful.\n> This extends to additional conditions such as \"the action must be successful AND the bleed must be greater than 0\".\n> Whether all conditions are met or not in the end doesn't change how BCAN interacts with it.\n>\nWhen we declare the action, like Feast of the Soul's Secrets, the card is in a quantum state where it adds counters to an uncontrolled vampire. I have no issue with this. It should cost an additional blood to declare and receive -1 stealth. That means that you need to be able to pay for that additional cost when declaring the action. (Though we know that costs can be altered at resolution.)\n\nWhen the quantum state collapses and we know at resolution what is actually happening, why do we continue to apply the additional blood cost if the action no longer adds blood to an uncontrolled vampire? We allow cost reevaluation for other effects, such as High Orun, which alters the declared action's cost at resolution.\n\nWhat is the rubric for knowing what effects allow for a reevaluation of the cost and what effects do not? Why can some affects, which alter the cost, be applied only at declaration and are fixed, while other can apply at resolution and are not? What I'd like to have clearly spelled out is that guideline because right now it seems unclear why some effects can be applied at resolution time and other cannot. And conversely, why things that are no longer applicable at resolution are still applied given the reevaluation of costs for other effects.",
+      "Id": "110418"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 19, 2024, 6:29\u202FPM",
+      "Body": "Here's a non-BCAN example:\nThe Slow Withering is in play.\n\nVampire A plays Feast of the Soul's Secrets at superior, declaring the bleed with the additional blood cost. Gets blocked and Amaranths in combat to diablerize the opposing vampire. Then continues the action using Momentary Delay. The action is successful.\n\nThey are now immune to The Slow Withering's effect. Does vampire A pay 1 or 2 blood at resolution time? By your BCAN statements, it would seem the answer would be 2. Is that, in fact, the case?",
+      "Id": "110419"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 20, 2024, 1:12\u202FAM",
+      "Body": "> kschaefer wrote:\n> When the quantum state collapses and we know at resolution what is actually happening, why do we continue to apply the additional blood cost if the action no longer adds blood to an uncontrolled vampire?\n>\nBCAN cares about the \u201Ctype\u201D of action and not the outcome\u2026.the \u201Ctype\u201D doesn\u2019t change because the condition for the effect isn\u2019t met.\n\nSimilarly a minion is only allowed to perform one bleed (\u201Ctype\u201D) action per turn which even if unsuccessful (bleed amount = 0) it doesn\u2019t allow the minion to bleed again.",
+      "Id": "110421"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 20, 2024, 1:35\u202FAM",
+      "Body": "> kschaefer wrote:\n> Here's a non-BCAN example:\n> The Slow Withering is in play.\n>\n> Vampire A plays Feast of the Soul's Secrets at superior, declaring the bleed with the additional blood cost. Gets blocked and Amaranths in combat to diablerize the opposing vampire. Then continues the action using Momentary Delay. The action is successful.\n>\n> They are now immune to The Slow Withering's effect. Does vampire A pay 1 or 2 blood at resolution time? By your BCAN statements, it would seem the answer would be 2. Is that, in fact, the case?\n>\nThe cost in this scenario at the time of successfully reaching action resolution would be 1 blood because of card text explicitly saying that the effect of TSW is to be ignored at the time when the cost is actually paid.\n\nThe Slow Withering\n\nCardtype: Event\nGehenna. Requires 1 or more other Gehenna events in play. Do not replace until a vampire commits diablerie.\nCards requiring 1 or more Disciplines at the superior level cost +1 blood. Vampires who commit diablerie ignore this effect until a Gehenna event is played.\n\nFeast of the Soul's Secrets\n\nCardtype: Action\nCost: 1 Blood\nDiscipline: Dominate\n[dom]  Bleed with +2 bleed.\n[DOM] As above, and if the bleed is successful, add 2 blood to a younger vampire you control or in your uncontrolled region.\n\nAmaranth\n\nCardtype: Combat\nOnly usable by a vampire who can commit diablerie. Only usable when the opposing vampire should go to torpor. Diablerize the opposing vampire instead. Not usable by a vampire being burned or going to torpor.\n\nMomentary Delay\n\nCardtype: Action Modifier\nRequires a vampire with capacity 7 or more. Only usable after resolution of an action blocked by an ally or a vampire with capacity 5 or less. Not usable if, during this action, more than 1 round of combat has occurred or{} this vampire has lost 3 or more blood or ended combat before the press step.\nThe action continues as if unblocked.",
+      "Id": "110422"
+    }
+  ]
+}

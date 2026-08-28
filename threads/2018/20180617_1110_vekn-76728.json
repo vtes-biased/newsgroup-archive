@@ -1,0 +1,164 @@
+{
+  "ThreadId": "vekn-76728",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76728-stealing-life-from-tunnel-runner",
+  "Title": "Stealing life from Tunnel Runner",
+  "Messages": [
+    {
+      "Author": "Khalid1988",
+      "Date": "Jun 17, 2018, 11:10\u202FAM",
+      "Body": "Hi,\n\nIn a recent game there came up the topic of whether a vampire stealing life from a Tunnel Runner will first steal life and then take damage?\n\nSo, to provide an example a vampire with 1 blood is blocked by a Tunnel Runner. The Tunnel Runner hit's the vampire for 1 damage, and the vampire tries to steal 2 life from the Tunnel Runner.\n\nWill the vampire go to torpor for taking 1+2 damage or will he or she be left with 0 blood because all strikes unless they are first strikes or combat ends resolve simultaneously?\n\nRelevant card text:\n>\n> Name: Tunnel Runner\n> [EK:C]\n> Cardtype: Ally\n> Clan: Akunanse\n> Cost: 4 pool\n> Werewolf with 3 life. 1 strength, 1 bleed.\n> The Runner may play cards that require Animalism [ani] as a vampire and may burn 1 life to get +1 stealth. If he successfully bleeds, you may look at the target Methuselah's hand. A vampire stealing life from the Runner takes 1 damage for each point stolen. If the Runner has 2 or fewer life during your unlock phase, he gains 1 life.\n> Artist: Brian LeBlanc\n>\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "88213"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 17, 2018, 11:36\u202FAM",
+      "Body": "> Khalid1988 wrote:\n> In a recent game there came up the topic of whether a vampire stealing life from a Tunnel Runner will first steal life and then take damage?\n>\n> So, to provide an example a vampire with 1 blood is blocked by a Tunnel Runner. The Tunnel Runner hit's the vampire for 1 damage, and the vampire tries to steal 2 life from the Tunnel Runner.\n>\n> Will the vampire go to torpor for taking 1+2 damage or will he or she be left with 0 blood because all strikes unless they are first strikes or combat ends resolve simultaneously?\n>\nSo, the damage Tunnel Runner inflicts isn't from a strike but let's assume similar timing.\n\nStrikes that aren't first strike or combat ends happen simultaneously, yes. The effect of a steal blood strike is to take the counters. The effect of a damage-dealing strike is to apply the damage to you. You do not burn the relevant amount of blood immediately. Why? Because damage prevention can happen.\n\nLeave Tunnel Runner alone. You are on full blood, and I am on some blood (irrelevant). I hit you with a hand strike for one damage, and you steal 2 blood from with superior Theft of Vitae. What happens? You steal the two blood, the excess drains off, and then you burn 1 blood from the hand strike, leaving you at one below capacity. From the rulebook:\n\nCohn Rose enters combat with a mage ally. Cohn has a capacity of 5 and has 4 blood. The mage has 2 life. After determining range, Cohn steals 3 blood as his strike. The mage strikes for 2R damage. Two life counters are moved to Cohn from the mage, and Cohn sustains 2 damage. Cohn has 6 blood, but his capacity is only 5, so 1 blood is moved to the blood bank. The mage has no life counters remaining, so he is burned. Cohn has 2 damage to deal with and doesn't prevent any, so he burns 2 blood to heal the damage, leaving him with 3 blood.",
+      "Id": "88215"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 17, 2018, 11:42\u202FAM",
+      "Body": "Upon strike resolution:\nThe vampire steals 2 blood and takes 2 damage.\nThen the vampire takes 1 damage from the Tunnel Runner's strike. The vampire ends up with 0 blood.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88216"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Jun 17, 2018, 11:44\u202FAM",
+      "Body": "Thought so as well. Thanks for confirming the hazy memory.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "88217"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Jun 18, 2018, 8:54\u202FAM",
+      "Body": "> Ankha wrote:\n> Upon strike resolution:\n> The vampire steals 2 blood and takes 2 damage.\n> Then the vampire takes 1 damage from the Tunnel Runner's strike. The vampire ends up with 0 blood.\n>\nWhile the end result is the same, this sequence is wrong and a frequent cause of confusion.\n\n6.4.3 (...) The effects of the strikes from both minions are resolved simultaneously.\n\nThe steal blood and taking damage all happen at the same time. However, the 'burn blood to heal damage' phase only happens after damage is applied, so the correct sequence is:\n\n1. Minions declares strikes (acting minion first)\n2. Both strikes resolve at the same time:\n- vampire steals 2 blood (move 2 counters to the vampire, remove 2 counters from Tunnel Runner) and takes 2 damage\n- Tunnel Runner strike deals 1 damage to the vampire\n(note that the vampire has accumulated 3 damage at this point, but burned no blood yet)\n3. Minions plays damage prevention cards (lets assume no damage prevention is played)\n4. Minions burns blood/life for each non-prevented damage (3 blood from the vampire, 0 from the Tunnel Runner)\n\nIME, this has been one of the most frequent questions in VtES games since the Jyhad days (along with 'Did I gain pool from the edge?')",
+      "Id": "88240"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jun 18, 2018, 9:40\u202FAM",
+      "Body": "Theft of Vitae vs Shambling Hordes is the stack in a stackless game.\n'How much strength does Shambling Hordes hits the Tremere with?'\n\nName: Shambling Hordes\n\n[FN:C2, LotN:PG4]\nCardtype: Ally\nCost: 3 blood\nDiscipline: Necromancy\nZombie with 3 life. 0 strength, 0 bleed.\n[nec] When Shambling Hordes enters play, remove an ally or vampire in your ash heap from the game or burn the Hordes. The Hordes gets +1 strength for each life counter it has. It can never gain life; any life it gains goes to the blood bank instead. The Hordes can enter combat with any minion as a  action.\n[NEC] As above, with 4 life.\nArtist: Steve Ellis",
+      "Id": "88244"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 18, 2018, 12:01\u202FPM",
+      "Body": "> skimflux wrote:\n>\n> > Ankha wrote:\n> > Upon strike resolution:\n> > The vampire steals 2 blood and takes 2 damage.\n> > Then the vampire takes 1 damage from the Tunnel Runner's strike. The vampire ends up with 0 blood.\n> >\n> While the end result is the same, this sequence is wrong and a frequent cause of confusion.\n>\n> 6.4.3 (...) The effects of the strikes from both minions are resolved simultaneously.\n>\n> The steal blood and taking damage all happen at the same time. However, the 'burn blood to heal damage' phase only happens after damage is applied, so the correct sequence is:\n>\n> 1. Minions declares strikes (acting minion first)\n> 2. Both strikes resolve at the same time:\n> - vampire steals 2 blood (move 2 counters to the vampire, remove 2 counters from Tunnel Runner) and takes 2 damage\n> - Tunnel Runner strike deals 1 damage to the vampire\n> (note that the vampire has accumulated 3 damage at this point, but burned no blood yet)\n> 3. Minions plays damage prevention cards (lets assume no damage prevention is played)\n> 4. Minions burns blood/life for each non-prevented damage (3 blood from the vampire, 0 from the Tunnel Runner)\n>\n> IME, this has been one of the most frequent questions in VtES games since the Jyhad days (along with 'Did I gain pool from the edge?')\n>\nThank you, but why are you saying the sequence is not correct?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88245"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Jun 18, 2018, 12:16\u202FPM",
+      "Body": "> Brum wrote:\n> Theft of Vitae vs Shambling Hordes is the stack in a stackless game.\n> 'How much strength does Shambling Hordes hits the Tremere with?'\n>\n> Name: Shambling Hordes\n>\n> [FN:C2, LotN:PG4]\n> Cardtype: Ally\n> Cost: 3 blood\n> Discipline: Necromancy\n> Zombie with 3 life. 0 strength, 0 bleed.\n> [nec] When Shambling Hordes enters play, remove an ally or vampire in your ash heap from the game or burn the Hordes. The Hordes gets +1 strength for each life counter it has. It can never gain life; any life it gains goes to the blood bank instead. The Hordes can enter combat with any minion as a  action.\n> [NEC] As above, with 4 life.\n> Artist: Steve Ellis\n>\nA good question, which would almost warrant it's own topic. Thanks for bringing it up!\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "88246"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 18, 2018, 1:11\u202FPM",
+      "Body": "> Khalid1988 wrote:\n>\n> > Brum wrote:\n> > Theft of Vitae vs Shambling Hordes is the stack in a stackless game.\n> > 'How much strength does Shambling Hordes hits the Tremere with?'\n> >\n> > Name: Shambling Hordes\n> >\n> > [FN:C2, LotN:PG4]\n> > Cardtype: Ally\n> > Cost: 3 blood\n> > Discipline: Necromancy\n> > Zombie with 3 life. 0 strength, 0 bleed.\n> > [nec] When Shambling Hordes enters play, remove an ally or vampire in your ash heap from the game or burn the Hordes. The Hordes gets +1 strength for each life counter it has. It can never gain life; any life it gains goes to the blood bank instead. The Hordes can enter combat with any minion as a  action.\n> > [NEC] As above, with 4 life.\n> > Artist: Steve Ellis\n> >\n> A good question, which would almost warrant it's own topic. Thanks for bringing it up!\n>\nThere is no stack involved, unless you see two consecutive events as a stack (but don't blame the rules if you see stacks where there are none!)\nThe two consecutive events are:\nMinion A announces his strike (let's say: steat 2 blood).\nMinion B announces his strike (let's say: hand strike for 4 damage).\nStrikes resolve simultaneously: A steals 2 blood from B, B inflicts 4 damage on A\nA decides to prevent or to heal damage.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88247"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Jun 18, 2018, 1:17\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > skimflux wrote:\n> >\n> > > Ankha wrote:\n> > > Upon strike resolution:\n> > > The vampire steals 2 blood and takes 2 damage.\n> > > Then the vampire takes 1 damage from the Tunnel Runner's strike. The vampire ends up with 0 blood.\n> > >\n> > >\n> > While the end result is the same, this sequence is wrong and a frequent cause of confusion.\n> > (...)\n> >\n> Thank you, but why are you saying the sequence is not correct?\n>\nBecause you wrote 'Then the vampire takes 1 damage(...)', implying a sequence.",
+      "Id": "88248"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jun 18, 2018, 1:47\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Khalid1988 wrote:\n> >\n> > > Brum wrote:\n> > > Theft of Vitae vs Shambling Hordes is the stack in a stackless game.\n> > > 'How much strength does Shambling Hordes hits the Tremere with?'\n> > >\n> > > Name: Shambling Hordes\n> > >\n> > > [FN:C2, LotN:PG4]\n> > > Cardtype: Ally\n> > > Cost: 3 blood\n> > > Discipline: Necromancy\n> > > Zombie with 3 life. 0 strength, 0 bleed.\n> > > [nec] When Shambling Hordes enters play, remove an ally or vampire in your ash heap from the game or burn the Hordes. The Hordes gets +1 strength for each life counter it has. It can never gain life; any life it gains goes to the blood bank instead. The Hordes can enter combat with any minion as a  action.\n> > > [NEC] As above, with 4 life.\n> > > Artist: Steve Ellis\n> > >\n> > >\n> > A good question, which would almost warrant it's own topic. Thanks for bringing it up!\n> >\n> There is no stack involved, unless you see two consecutive events as a stack (but don't blame the rules if you see stacks where there are none!)\n> The two consecutive events are:\n> Minion A announces his strike (let's say: steat 2 blood).\n> Minion B announces his strike (let's say: hand strike for 4 damage).\n> Strikes resolve simultaneously: A steals 2 blood from B, B inflicts 4 damage on A\n> A decides to prevent or to heal damage.\n>\nI understand the sequence.\n\nThe issue is when does the Total Strength of the Minion counts for the damage.\nIt is not really clear for new players. Between strike declaration and damage resolution the Horde looses strength. (if it dies, that's a whole different point).\nBut that's ok, 'cause the strike's original strength is previously saved in a 'you might call it a stack or paralymbus or Azoressaurus or anything else'.",
+      "Id": "88249"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Jun 18, 2018, 1:49\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Khalid1988 wrote:\n> >\n> > > Brum wrote:\n> > > Theft of Vitae vs Shambling Hordes is the stack in a stackless game.\n> > > 'How much strength does Shambling Hordes hits the Tremere with?'\n> > >\n> > > Name: Shambling Hordes\n> > >\n> > > [FN:C2, LotN:PG4]\n> > > Cardtype: Ally\n> > > Cost: 3 blood\n> > > Discipline: Necromancy\n> > > Zombie with 3 life. 0 strength, 0 bleed.\n> > > [nec] When Shambling Hordes enters play, remove an ally or vampire in your ash heap from the game or burn the Hordes. The Hordes gets +1 strength for each life counter it has. It can never gain life; any life it gains goes to the blood bank instead. The Hordes can enter combat with any minion as a  action.\n> > > [NEC] As above, with 4 life.\n> > > Artist: Steve Ellis\n> > >\n> > >\n> > A good question, which would almost warrant it's own topic. Thanks for bringing it up!\n> >\n> There is no stack involved, unless you see two consecutive events as a stack (but don't blame the rules if you see stacks where there are none!)\n> The two consecutive events are:\n> Minion A announces his strike (let's say: steat 2 blood).\n> Minion B announces his strike (let's say: hand strike for 4 damage).\n> Strikes resolve simultaneously: A steals 2 blood from B, B inflicts 4 damage on A\n> A decides to prevent or to heal damage.\n>\nAgreed, there is no need for a stack here.\n\nHowever you are missing the window 'before strike resolution' in your example, so I would clarify it like this:\n1. Choose strike:\n1.a Minion A announces his strike (steal 2 blood)\n1.b Minion B (Shambling Hordes) announces his strike (hand strike for damage equals to his life - 4)\n2. 'Before strike resolution' window can modify strike effects (eg, if Blood to Water is played the SH burns and combat ends)\n3. Resolve Strike (both strikes resolve at the same time):\n3.a. Determine strike effects (for both strikes: so the SH are hitting for 4, and Minion A is stealing 2 blood)\n3.b. Apply strike effects\n4. (If damage exists) Resolve damage\n4.a Play/use damage prevention\n4.b Heal/apply damage\n\nNote that 3.a and 3.b are atomic (meaning no effects can change the game state between them) and not in the rulesbook, but I would argue that this breakdown exists implicitly, otherwise the results of the SH strike are undetermined/ambiguous (because during the Strike Resolution they will be both at 4 and 2 life)",
+      "Id": "88250"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Jun 18, 2018, 2:13\u202FPM",
+      "Body": "> Brum wrote:\n> The issue is when does the Total Strength of the Minion counts for the damage.\n> It is not really clear for new players. Between strike declaration and damage resolution the Horde looses strength. (if it dies, that's a whole different point).\n> But that's ok, 'cause the strike's original strength is previously saved in a 'you might call it a stack or paralymbus or Azoressaurus or anything else'.\n>\nA stack means that you have a last-in-first-out (LIFO) logic - this is not the case here (I think you'd have a much stronger case arguing for the existence of stacks in VtES when discussing Sudden Reversal/Direct Intervention).\n\nThere is a 'memory register' for this effect, yes, but this is neither a stack nor at all strange in VtES - all action cards work on the same principle, where you play the card to have an effect at a later point in the play sequence and this effect can be modified between those two points.",
+      "Id": "88251"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jun 18, 2018, 3:17\u202FPM",
+      "Body": "> skimflux wrote:\n>\n> > Brum wrote:\n> > The issue is when does the Total Strength of the Minion counts for the damage.\n> > It is not really clear for new players. Between strike declaration and damage resolution the Horde looses strength. (if it dies, that's a whole different point).\n> > But that's ok, 'cause the strike's original strength is previously saved in a 'you might call it a stack or paralymbus or Azoressaurus or anything else'.\n> >\n> A stack means that you have a last-in-first-out (LIFO) logic - this is not the case here (I think you'd have a much stronger case arguing for the existence of stacks in VtES when discussing Sudden Reversal/Direct Intervention).\n>\n> There is a 'memory register' for this effect, yes, but this is neither a stack nor at all strange in VtES - all action cards work on the same principle, where you play the card to have an effect at a later point in the play sequence and this effect can be modified between those two points.\n>\nA Stack in card games can be LIFO and FIFO, depending on the game.\nStacks in VtES are running jokes between some folks.\nEver since Bundi (my big contention with LSJ) even the words 'and' and 'or' have different definitions than in Math or IT.\n\nI've had 2 hours of real life conversation with people who know much more than me of the topics of card game design and VtES, about this particular case (theft vs SH).\nIt led nowhere because the game rules are broken (we enumerated some of the things that make it broken in a consensus).\n\nAnd that's the whole point here. The life total of the SH changes between strike declaration and strike resolution.\n\nVincent's use of the word 'sequence' in the Tunnel Runner example is correct.\nFirst you move the blood or life and then the minion is dealt 2+1 damage.\n\nBTW guys, even if the SH would die as a result of the Theft of Vitae, it would STILL deal its 2 hand damage.\nThe only counter intuitive thing here is if the minion playing superior Theft had no blood.\nThere's 'memory' of what the strike was. But there's no stack.",
+      "Id": "88253"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 18, 2018, 3:27\u202FPM",
+      "Body": "> skimflux wrote:\n> However you are missing the window 'before strike resolution' in your example, so I would clarify it like this:\n> <snip detailed description>\n>\nI appreciate the effort, but the purpose of this thread is to answer the original question in which there is no prevention involved (otherwise, I would say that you are missing the DI window on the Blood to Water ), not to exhaust all possible scenarios for the sake of completeness\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88254"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 18, 2018, 3:43\u202FPM",
+      "Body": "> skimflux wrote:\n>\n> > Ankha wrote:\n> >\n> > > skimflux wrote:\n> > >\n> > > >\n> > > >\n> > > > Ankha wrote:\n> > > > Upon strike resolution:\n> > > > The vampire steals 2 blood and takes 2 damage.\n> > > > Then the vampire takes 1 damage from the Tunnel Runner's strike. The vampire ends up with 0 blood.\n> > > >\n> > > >\n> > > While the end result is the same, this sequence is wrong and a frequent cause of confusion.\n> > > (...)\n> > >\n> > Thank you, but why are you saying the sequence is not correct?\n> >\n> Because you wrote 'Then the vampire takes 1 damage(...)', implying a sequence.\n>\nGood catch. I'm well aware of the strike resolution being simultaneous, but is the damage from the Tunnel's Runner special ability added to the batch of damage of the hand strike, or not? That is the question. For instance, damage inflicted by Blood of Acid isn't (although it's a consequence of the strike). I think it should be added (making the 3 damage preventable with a single Soak), but I have to think about other scenarios (including the infamous: \"what if the blood is stolen before range is determined, and the Tunnel Runner somehow manages to play an Outside the Hourglass at superior?\")\n\n> Brum wrote:\n> Vincent's use of the word 'sequence' in the Tunnel Runner example is correct.\n> First you move the blood or life and then the minion is dealt 2+1 damage.\n>\nThe \"then\" is ambiguous because both sources of damage would be inflicted at the same time.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88255"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Jun 18, 2018, 4:18\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > skimflux wrote:\n> > However you are missing the window 'before strike resolution' in your example, so I would clarify it like this:\n> > <snip detailed description>\n> >\n> I appreciate the effort, but the purpose of this thread is to answer the original question in which there is no prevention involved (otherwise, I would say that you are missing the DI window on the Blood to Water ),\n>\nOf course, I forgot about DI! Which opens up a window for Sudden Reversal, which is then countered by Wash...\n\n> not to exhaust all possible scenarios for the sake of completeness\n>\nGiven the complexity of some scenarios, I find it is sometimes necessary to explore them quite extensively in order to be clear on why a certain result is achieved.\n\nNo need to bring up Blood to Water here though, I'll give you that.",
+      "Id": "88257"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jun 18, 2018, 5:14\u202FPM",
+      "Body": "> Brum wrote:\n> A Stack in card games can be LIFO and FIFO, depending on the game.\n>\nCan you give an example of a fifo stack in a card game? I am not aware of such. As far as I know, the concept of \"stack\" as a LIFO data type is relatively universal.\n\n> Ever since Bundi (my big contention with LSJ) even the words 'and' and 'or' have different definitions than in Math or IT.\n>\n> It led nowhere because the game rules are broken (we enumerated some of the things that make it broken in a consensus).\n>\nThat VTES rules are 'broken' we can agree on..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "88258"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jun 18, 2018, 6:17\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > skimflux wrote:\n> > However you are missing the window 'before strike resolution' in your example, so I would clarify it like this:\n> > <snip detailed description>\n> >\n> I appreciate the effort, but the purpose of this thread is to answer the original question in which there is no prevention involved (otherwise, I would say that you are missing the DI window on the Blood to Water ), not to exhaust all possible scenarios for the sake of completeness\n>\nyes, but what if I'm wearing red socks at the time?",
+      "Id": "88260"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jun 19, 2018, 11:47\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > skimflux wrote:\n> > The \"then\" is ambiguous because both sources of damage would be inflicted at the same time.\n> >\n> Hello Can-O-Worms!\n>\n> Some simultaneous effects are part of the evils in sequencing in this game, imo.\n> E.g.: The Eternals of Sirius at 4 pool.\n>\n> Can the Theft of Vitae vamp prevent the strike with a card and only after the 2 damage via the replacement?\n> 98% sure yes.\n>",
+      "Id": "88282"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 19, 2018, 4:01\u202FPM",
+      "Body": "> Brum wrote:\n>\n> > Ankha wrote:\n> >\n> > > skimflux wrote:\n> > > The \"then\" is ambiguous because both sources of damage would be inflicted at the same time.\n> > >\n> > >\n> > Hello Can-O-Worms!\n> >\n> > Some simultaneous effects are part of the evils in sequencing in this game, imo.\n> > E.g.: The Eternals of Sirius at 4 pool.\n> >\n> > Can the Theft of Vitae vamp prevent the strike with a card and only after the 2 damage via the replacement?\n> > 98% sure yes.\n> >\n> It's all at the same time, in paralel.\n> You can play eternals at 4 pool and gain 5. There isn't a game state chech between.\n> Theft goes:\n> Acting minion declares strikes, then other guy.\n> Theft at  and hands 4.\n> 2 beads move and 4 are burned in parallel, there is no time when the blood on  dude is +6/-6. Strikes happen, so if he started at 2, he gains 2 burns 4 all at once.\n> Prevention is outside of this, and I don't understand the question. Prevention is played when you are going to take damage the card can prevent. Obviously, you can't draw Charismatic Aura off of Soak and cancel the strike you soaked, it's out of sequence as the strike was resolved/resolving when the CA was drawn. Cancels should also happen before strike addons are played, so Death Seeker goes before Target Vitals, or less often seen, it would need to cancel  disguised weapon before the flamethrower is played, but that's typically a fault on the  player playing both at once (and again, it's only legal in you have the weapon in hand when you play disguised weapon, but if you draw ivory bow off DW you aren't obligated to play flamethrower since you now have another option. )\n>\n> What was the draw to replace confusion?\n>\n> Also, if Matthias plays Anaesthetic Touch while opposing minion has out crows/Groaning Corpse, he takes no damage, correct?\n> Strike: hand strike. Combat ends immediately after the resolution of this strike.\n> As [obe] above, with first strike.\n>\n> Same thing with Ruth Mcginley shooting a DBR Saturday night Special at someone? (First Strike Agg)\n>",
+      "Id": "88289"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 20, 2018, 7:48\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n>\n> Also, if Matthias plays Anaesthetic Touch while opposing minion has out crows/Groaning Corpse, he takes no damage, correct?\n> Strike: hand strike. Combat ends immediately after the resolution of this strike.\n> As [obe] above, with first strike.\n>\nAt superior Obeah, he takes no damage because Groaning Corpse inflicts its damage during the \"normal strike resolution\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88304"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Jun 20, 2018, 9:54\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> Cancels should also happen before strike addons are played, so Death Seeker goes before Target Vitals, or less often seen, it would need to cancel  disguised weapon before the flamethrower is played, but that's typically a fault on the  player playing both at once (and again, it's only legal in you have the weapon in hand when you play disguised weapon, but if you draw ivory bow off DW you aren't obligated to play flamethrower since you now have another option. )\n>\nOh, is this correct as well? I was under impression that you couldn't try to be lucky with drawing a weapon if you didn't already have a weapon in your hand when Disguised/Concealed Weapon is played? This opens card cycling opportunities.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "88308"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jun 20, 2018, 10:57\u202FAM",
+      "Body": "Pay attention, young prince: the quote says:\n\n\"--and again, it's only legal in you have the weapon in hand when you play disguised weapon, but if you draw ivory bow off DW you aren't obligated to play flamethrower since you now have another option.\"\n\nYou do need A weapon, but you don't need to equip with THE weapon.  No tricky cycling.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "88309"
+    },
+    {
+      "Author": "Khalid1988",
+      "Date": "Jun 20, 2018, 11:02\u202FAM",
+      "Body": "> Kraus wrote:\n> Pay attention, young prince: the quote says:\n>\n> \"--and again, it's only legal in you have the weapon in hand when you play disguised weapon, but if you draw ivory bow off DW you aren't obligated to play flamethrower since you now have another option.\"\n>\n> You do need A weapon, but you don't need to equip with THE weapon.  No tricky cycling.\n>\nHehe, ok! I guess it was wishful thinking.  Certainly would make relieving your hand of unnecessary CWs and DWs when you already have enough weapons easier.\n\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "88311"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 20, 2018, 12:19\u202FPM",
+      "Body": "> Kraus wrote:\n> Pay attention, young prince: the quote says:\n>\n> \"--and again, it's only legal in you have the weapon in hand when you play disguised weapon, but if you draw ivory bow off DW you aren't obligated to play flamethrower since you now have another option.\"\n>\n> You do need A weapon, but you don't need to equip with THE weapon.  No tricky cycling.\n>\nThis in incorrect.\n\n> LSJ wrote:\n> > So you could play concealed weapon w/ lets say a poker in hand\n> > and play the .44 magnum that you draw to replace CW.\n> So you would have to declare the CW: \"I CW to equip a Poker from my\n> hand\" before drawing the .44, and thus end up equipping the Poker.\n>\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/X8Uu7Sk56P4/twUvR4ZnBBkJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88314"
+    }
+  ]
+}

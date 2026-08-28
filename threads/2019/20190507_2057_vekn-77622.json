@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-77622",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77622-faceless-night-after-elder-impersonation",
+  "Title": "faceless night after elder impersonation",
+  "Messages": [
+    {
+      "Author": "nath",
+      "Date": "May 7, 2019, 8:57\u202FPM",
+      "Body": "Hi.\nif i block with a vampyre A, and the acting vampire uses Elder Impersonation at superior and i try to block with vampyre B and the acting uses superior faceless night which vampyre is locked?, both or only B?.\nthanks.\n\nElder Impersonation\n[obf] +1 stealth.\n[OBF] Only usable when a minion attempts to block. The attempt fails (do not tap that blocking minion). That minion cannot attempt to block this action again.\n\nFaceless Night\n[obf] +1 stealth.\n[OBF] +1 stealth, and any minion who attempts to block this action and fails becomes tapped when the action is resolved (before resolving the action).",
+      "Id": "94822"
+    },
+    {
+      "Author": "ur_vampire",
+      "Date": "May 8, 2019, 1:37\u202FPM",
+      "Body": "Only B is locked",
+      "Id": "94827"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "May 9, 2019, 7:51\u202FAM",
+      "Body": "Both, all minions that attempt and fail to block are locked after the action resolves, including the target of elder impersonation, since it still counts as an attempt.\n\n-1 Strength",
+      "Id": "94844"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "May 9, 2019, 8:37\u202FAM",
+      "Body": "Only B because A stop to block before Faceless Night is played,so Faceless Night dont have efect on vampire A",
+      "Id": "94846"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 9, 2019, 9:13\u202FAM",
+      "Body": "> GreyB wrote:\n> Both, all minions that attempt and fail to block are locked after the action resolves, including the target of elder impersonation, since it still counts as an attempt.\n>\nIncorrect in the OP scenario.\n\n> beslin wrote:\n> Only B because A stop to block before Faceless Night is played,so Faceless Night dont have efect on vampire A\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94847"
+    }
+  ]
+}

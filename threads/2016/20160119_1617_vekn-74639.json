@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-74639",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/74639-i-can-t-read-topics-cont",
+  "Title": "I can't read topics (cont)",
+  "Messages": [
+    {
+      "Author": "elotar",
+      "Date": "Jan 19, 2016, 4:17\u202FPM",
+      "Body": "So next \"developments\":\n\nI can read them if I logout.\n\nIt works this way both at firefox and IE, both at work and at home (win7 in both cases).\n\nScreenshot is not added either.\n\nNC Russia",
+      "Id": "75036"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Jan 19, 2016, 6:20\u202FPM",
+      "Body": "O, but it seems I can do it from phone\n\nNC Russia",
+      "Id": "75039"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Jan 19, 2016, 6:21\u202FPM",
+      "Body": "I steel got error about impossible redirect, but after the post is submitted.\n\nNC Russia",
+      "Id": "75040"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Jan 19, 2016, 6:29\u202FPM",
+      "Body": "no, problem still persists on phone too, but I think got to the root of it - I got the error when trying to read topic with \"New\" sign.\n\nNC Russia",
+      "Id": "75041"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Mar 6, 2016, 12:40\u202FPM",
+      "Body": "I also get this problem whenever I try to read threads with new posts, when I'm logged in.\n\nThe error I get is\n>\n> The www.vekn.net page isn\u2019t working\n>\n> www.vekn.net redirected you too many times.\n> ERR_TOO_MANY_REDIRECTS\n>\nIt doesn't seem to happen when browsing old topics, and only happens when I'm logged in.\nIt also prevents me from seeing any reply I make without first logging out.\nThe only way I've found that I can post and reply to topics is by logging out, reading the threads, and logging in when I've got the comment open I want to reply to.\n\nUsing chrome. Haven't tested it on other browsers.",
+      "Id": "75825"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2016, 12:52\u202FPM",
+      "Body": "> Mael wrote:\n> I also get this problem whenever I try to read threads with new posts, when I'm logged in.\n>\n> The error I get is\n> >\n> > The www.vekn.net page isn\u2019t working\n> >\n> > www.vekn.net redirected you too many times.\n> > ERR_TOO_MANY_REDIRECTS\n> >\n> It doesn't seem to happen when browsing old topics, and only happens when I'm logged in.\n> It also prevents me from seeing any reply I make without first logging out.\n> The only way I've found that I can post and reply to topics is by logging out, reading the threads, and logging in when I've got the comment open I want to reply to.\n>\n> Using chrome. Haven't tested it on other browsers.\n>\nAre you using a proxy (typically when at work) or not (typically at home)?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "75828"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Mar 6, 2016, 5:53\u202FPM",
+      "Body": "> Ankha wrote:\n> Are you using a proxy (typically when at work) or not (typically at home)?\n>\nNo proxy. Normal home user setup. Only thing slightly odd is that my internet is via a 3g wireless doohickey, but I can't see that having any effect.",
+      "Id": "75833"
+    },
+    {
+      "Author": "kinjo",
+      "Date": "Jan 28, 2017, 1:12\u202FPM",
+      "Body": "Here\u2019s the mail I got recently for my problem\n\nI suggest you restart your PC and try again. If it wont help then try to clear chache and cookies.\nShould work. there is no magic. is just another website.\nOr otherwise try this\nwww.deskdecode.com/err_too_many_redirects-solutions-encyclopedia/",
+      "Id": "80416"
+    }
+  ]
+}

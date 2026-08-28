@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-82404",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82404-does-not-lock-for-the-block-vs-rulebook",
+  "Title": "\"Does not lock for the block\" vs rulebook",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jun 18, 2025, 10:50\u202FAM",
+      "Body": "There are five cards that say that the vampire does not lock for a successful block  Atonement Read the Winds Guardian Vigil Justine, Elder of Dallas Durga Syn\nThe problem now is, the rulebook states since 2019\n>\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat). If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs.\n>\nOn a very strict reading of the rulebook, that would mean that these three cards also stop combat from happening.\nI think I've read this question before, but I can't find the thread anymore.\nBut I think we all can agree that these cards do not, in fact, stop the block combat from happening. I just want RD confirmation\u2014be it anew or from an old thread\u2014and the reasoning why the rulebook does not apply here.",
+      "Id": "114719"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 18, 2025, 12:49\u202FPM",
+      "Body": "On the rulerbook in the \"important terms in the game\" have this:\n\nThe Golden Rule for Cards: Whenever the cards contradict the rules, the cards take precedence.\n\nthis is why these cards avoid the lock part of blocking combat\n\nDavid Resende - Prince of Teresina",
+      "Id": "114723"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jun 18, 2025, 1:48\u202FPM",
+      "Body": "> DavidR wrote:\n> On the rulerbook in the \"important terms in the game\" have this:\n>\n> The Golden Rule for Cards: Whenever the cards contradict the rules, the cards take precedence.\n>\n> this is why these cards avoid the lock part of blocking combat\n>\nThere is no contradiction. As quoted by Hobbes, the rulebook explicitly states \"If an effect ends (...) one of these two consequences (such as entering combat locking the blocker), neither consequence occurs.\n\nTo apply golden rule, the cards would have to read \"do not lock for the block, combat still ensues\".",
+      "Id": "114724"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jun 18, 2025, 3:24\u202FPM",
+      "Body": "humm i see, lets put mirror walk on the talk too then, that card adress only one of the consequences too\n\nthe \"neither consequences occurs\" must be there for some other reason that i cant see right now\n\nDavid Resende - Prince of Teresina",
+      "Id": "114725"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jun 20, 2025, 9:03\u202FAM",
+      "Body": "> DavidR wrote:\n> humm i see, lets put mirror walk on the talk too then, that card adress only one of the consequences too\n>\n> the \"neither consequences occurs\" must be there for some other reason that i cant see right now\n>\nThis sentence is there because of the 2019 rewording of mirror walk.\n\nThe ruleboook was deliberatly changed so Block resolution is not interrupted anymore by some cards.\n\nAs a consequence Obedience, Mirror walk and Change of target where changed in their wordings regarding to if the blocker is locked or not.",
+      "Id": "114741"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jul 10, 2025, 10:25\u202FPM",
+      "Body": "In essence, the question is if we have to understand / interpret the rulebook as:\n\n> If an effect ends the action before the block resolution or prevents one of these two consequences (such as entering combat), neither consequence occurs.\n>\nor alternatively\n\n> if an effect ends the action before the block resolution OR if an effect ends the action before one of these two consequences occurs\n>",
+      "Id": "114921"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 28, 2025, 7:29\u202FAM",
+      "Body": "> Oracle.kid wrote:\n> In essence, the question is if we have to understand / interpret the rulebook as:\n>\n> > If an effect ends the action before the block resolution or prevents one of these two consequences (such as entering combat), neither consequence occurs.\n> >\n> or alternatively\n>\n> > if an effect ends the action before the block resolution OR if an effect ends the action before one of these two consequences occurs\n> >\nThe latter.\nThe correct and expected way to parse it is :\n\"If an effect ends the action before >>the block resolution or one of these two consequences (such as entering combat)<<\"\n\nOr, to make it clear:\n\nIf an effect ends the action either before the block resolution or one of these two consequences (such as entering combat)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115072"
+    }
+  ]
+}

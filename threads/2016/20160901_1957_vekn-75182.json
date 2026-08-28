@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-75182",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75182-can-you-use-bollix-tha-as-defense-against-long-range-strike",
+  "Title": "Can you use Bollix [tha] as defense against long range strike?",
+  "Messages": [
+    {
+      "Author": "BogusMagus",
+      "Date": "Sep 1, 2016, 7:57\u202FPM",
+      "Body": "Hello, I have a question.\n\nCan a vampire play\nBollix [tha]\nat long range to protect him/herself from a Gun strike?\n\nBollix\nType: Combat\nRequires: anarch Celerity/Presence/Thaumaturgy\nRequires an anarch.\n[cel] Maneuver or press.\n[ pre] Cancel the opposing minion's aim, frenzy, or grapple card as it is played, and its cost is not paid.\n[tha] Strike: hand strike at +1 damage. This damage cannot be prevented by cards requiring Fortitude [for]. The opposing vampire's strikes with weapons inflict no damage on this vampire this round.",
+      "Id": "78102"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Sep 2, 2016, 1:18\u202FPM",
+      "Body": "> BogusMagus wrote:\n> Hello, I have a question.\n>\n> Can a vampire play\n> Bollix [tha]\n> at long range to protect him/herself from a Gun strike?\n>\n> Bollix\n> Type: Combat\n> Requires: anarch Celerity/Presence/Thaumaturgy\n> Requires an anarch.\n> [cel] Maneuver or press.\n> [ pre] Cancel the opposing minion's aim, frenzy, or grapple card as it is played, and its cost is not paid.\n> [tha] Strike: hand strike at +1 damage. This damage cannot be prevented by cards requiring Fortitude [for]. The opposing vampire's strikes with weapons inflict no damage on this vampire this round.\n>\nno.\n\nThe whole text of  is part of the strike. If in this case the strike does not hit the opposing minion, it's (extra) effect is negated.\n\n-1 Strength",
+      "Id": "78112"
+    },
+    {
+      "Author": "BogusMagus",
+      "Date": "Sep 3, 2016, 4:10\u202FPM",
+      "Body": "Thank you very much, GreyB-san!",
+      "Id": "78123"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Sep 16, 2016, 1:13\u202FPM",
+      "Body": "Of course you can",
+      "Id": "78327"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 16, 2016, 1:39\u202FPM",
+      "Body": "> XZealot wrote:\n> Of course you can\n>\nCould you provide any backing for that?\n\nSoul Burn, for example, has similar text to Bollix:\n\nStrike: 1R damage. This damage cannot be prevented by cards that require Fortitude [for] . If the opposing vampire attempts to strike with a weapon this round, he or she does no damage.\n\nThe anti-weapon clause is ineffective if dodged.\n\n[LSJ 20040929]\n>\n> LSJ wrote:\n> > 2. If soul burn is dodged, does the \"weapon inflict no damage\" thing\n> > take effect or not ? (i believe not)\n>\n> \"Not\" is correct. Dodge protects the dodger from all effects of the\n> strike.\n>\nSince the anti-weapon text of Soul Burn is part of the strike affecting the opponent, the anti-weapon text of Bollix is also part of the strike affecting the opponent.\n\nThen, since Bollix isn't a ranged strike, it doesn't take effect at close range. 6.4.3: \"Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range.\"\n\n(Dodge and Combat Ends are explicitly said to be effective at any range, 6.4.5.)",
+      "Id": "78334"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Sep 18, 2016, 12:42\u202FPM",
+      "Body": "Dodge specifically is ruled in the rulebook\n\nDodge. A dodge strike deals no damage, but it protects the dodging minion and his possessions (cards on him) from the effects of the opposing strike. Retainers are not protected, however. A dodge is effective at any range. A dodge protects even from the effects of a strike done with first strike. (A dodge is a strike, even though it is solely defensive. It represents the activity of the minion during that pair of strikes.)\n\nThere is no such ruling for short range strikes being used at long range.\n\nIt is actually on you to prove that the defensive part of the card is negated by being at long range, which it is not.",
+      "Id": "78363"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 18, 2016, 1:04\u202FPM",
+      "Body": "> XZealot wrote:\n> There is no such ruling for short range strikes being used at long range.\n>\nErr, what?\n\n> Rulebook, wrote:\n> Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range.\n>\nClose range strike, only effective when used at close range. Not effective at long range.\n\n> XZealot wrote:\n> It is actually on you to prove that the defensive part of the card is negated by being at long range, which it is not.\n>\nThat's already been proved by the Dodge ruling.\n\nA dodge will protect from the opponent the anti-weapon text of Soul Burn (and by extension, Bollix). That only happens if it's an effect being launched at the opponent. Thus, not defensive.",
+      "Id": "78364"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Sep 19, 2016, 12:09\u202FPM",
+      "Body": "I know a dodge will protect someone from Bollix.\n\nWhat are you talking about?\n\nI am saying that the anti-weapon part of Bollix is still effective at long range. Is that what you are saying?",
+      "Id": "78382"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 19, 2016, 1:05\u202FPM",
+      "Body": "> XZealot wrote:\n> I am saying that the anti-weapon part of Bollix is still effective at long range. Is that what you are saying?\n>\nNo, that's not what I'm saying, because it's not effective at long range.\n\n1) The anti-weapon text is an offensive part of the strike. We know this because it can be dodged. That is why the dodge ruling is still relevant. It is not a defensive strike. It may have an outcome that 'protects' you from damage you don't want, but the same would true of a Destroy Equipment With First Strike (or Steal Equipment With First Strike) card, and those aren't defensive either - even though the end result might be that you end up not taking the damage from a gun.\n\n2) Strikes that aren't defensive strikes (like Dodge and S:CE) are ineffective at long range by default. This can be overcome by card text, such as \"ranged\" or \"usable at long range\" or \"1R damage\" etc. Bollix lacks this text, so by default its abilities are only effective at close range.\n\nThus, neither part of Bollix takes effect at long range - the hand strike isn't ranged damage, and the anti-weapon effect isn't a ranged effect.",
+      "Id": "78384"
+    },
+    {
+      "Author": "BogusMagus",
+      "Date": "Oct 10, 2016, 7:37\u202FPM",
+      "Body": "Sorry, I had forgotten to comment.\n\nThank you, jamesatzephyr.\nAnd I thank you too, XZealot.",
+      "Id": "78641"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 23, 2023, 10:19\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Then, since Bollix isn't a ranged strike, it doesn't take effect at close range. 6.4.3: \"Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range.\"\n>\n> (Dodge and Combat Ends are explicitly said to be effective at any range, 6.4.5.)\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109132"
+    },
+    {
+      "Author": "alf",
+      "Date": "Aug 23, 2023, 12:14\u202FPM",
+      "Body": "Zombie posts rising again?\nUgh ...\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "109136"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Aug 23, 2023, 7:14\u202FPM",
+      "Body": "wanted on Discord, this get's it in the \"ruling\" log in Codex/KRCG",
+      "Id": "109137"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 24, 2023, 6:46\u202FPM",
+      "Body": "I'll take it, although the current \"correct\" is a bit confusing\n>\n> > Then, since Bollix isn't a ranged strike, it doesn't take effect at close range.\n> >\n> Correct.\n>\nShould be understood as \"long\", I guess",
+      "Id": "109150"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 24, 2023, 8:01\u202FPM",
+      "Body": "> lip wrote:\n> I'll take it, although the current \"correct\" is a bit confusing\n> >\n> > > Then, since Bollix isn't a ranged strike, it doesn't take effect at close range.\n> > >\n> > Correct.\n> >\n> Should be understood as \"long\", I guess\n>\nRight, I read \"long\".\nBollix is effective only at close range, not at long range.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109154"
+    }
+  ]
+}

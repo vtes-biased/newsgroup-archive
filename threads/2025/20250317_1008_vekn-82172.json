@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-82172",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82172-garibaldi-and-jericho-founding",
+  "Title": "Garibaldi and Jericho Founding",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Mar 17, 2025, 10:08\u202FAM",
+      "Body": "Can I use Garibaldi-Meuci Museum to retrieve a copy of Jericho Founding from the ash heap?\n\nI guess the broader question is:\nDoes \"non-Camarilla\" count as\nA) a standalone \"non-Camarilla\" trait, or\nB) a short hand for \"Sabbat, Laibon, Anarch, or Independent\"?\n\nRuling on Vidal seems to suggest (A) but Reckless Agitation being a legal target for Garibaldi suggests (B)\n\nWill post card texts in a bit\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "113966"
+    },
+    {
+      "Author": "Unfair",
+      "Date": "Mar 17, 2025, 10:14\u202FAM",
+      "Body": "Garibaldi card text:\n\n\"You can lock this location and burn 1 pool during your unlock phase to exchange one card from your hand for one card in your ash heap requiring an Anarch. You can lock this location before range is determined to end a combat involving an Anarch you control and another Anarch.\"",
+      "Id": "113967"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Mar 17, 2025, 12:56\u202FPM",
+      "Body": "Jericho Founding\n\nRequires a non-Camarilla vampire.\nSuccessful referendum means all locations are burned. Any Methuselah can keep any locations he or she controls by repaying their pool cost.\n\nReckless Agitation\n\nRequires an Independent or Anarch vampire with capacity 5 or more.\nAllocate 6 points among two or more other Methuselahs. Successful referendum means each Methuselah burns 1 pool for each point allocated.\n\nCardtext of reckless specifiy independent or Anarch, so it can be recover with Garibaldi.\n\nJericho doesn't require an anarch, only non-Camarilla, so it cannot be retrieved",
+      "Id": "113969"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Mar 17, 2025, 11:17\u202FPM",
+      "Body": "Thanks for the card texts\n\nSo the extensive discussion on discord was whether \"non-Camarilla\" is short hand for \"Sabbat, Laibon, Anarch, or Independent\"\n\nReckless Agitation's ruling implies that \"requires Anarch\" being part of a set of requirements fulfils the criteria for Garibaldi Museum\nMathematically, \"non-Camarilla\" is a set of requirements that includes \"Anarch\"\n\nHowever, we also recognise that there is the argument that, in VtES parlance, \"non-Camarilla\" is a distinct trait and mathematical logic may not apply\nThis interpretation arose from  LSJ 20081120-1 but LSJ also explicitly mentioned in that same ruling that this applies to specifically Vidal\n\nI'm really posting this on behalf of the rulings database team to get a RD rules reference we can use to update the rulings database\n\nGaribaldi-Meucci Museum\n\nCardtype: Master\nUnique location.\nYou can lock this location and burn 1 pool during your unlock phase to exchange one card from your hand for one card in your ash heap requiring an Anarch. You can lock this location before range is determined to end a combat involving an Anarch you control and another Anarch.\nArtist: Brian LeBlanc\n\nJericho Founding\n\nCardtype: Political Action\nRequires a non-Camarilla vampire.\nSuccessful referendum means all locations are burned. Any Methuselah can keep any locations he or she controls by repaying their pool cost.\nArtist: Imaginary Friends Studios\n\nReckless Agitation\n\nCardtype: Political Action\nCost: 2 blood\nRequires an Independent or Anarch vampire with capacity 5 or more.\nAllocate 6 points among two or more other Methuselahs. Successful referendum means each Methuselah burns 1 pool for each point allocated.\nArtist: Brian LeBlanc\n\nVidal Jarbeaux\n\nCardtype: Vampire\nClan: Toreador\nGroup: 5\nCapacity: 8\nDiscipline: aus cel obf pot PRE\nCamarilla: Vidal can meet the clan, sect, or non-infernal vampire trait (e.g., {Black Hand}) requirement to play any card. He can meet a given requirement only once each game. +1 bleed.\nArtist: Mike Gaydos\n\nLSJ 20081120-1\n\nAs far as Vidal is concerned, \"non-<trait>\" is also a trait (including other forms like \"untitled\" or \"with no title\").\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/e2PNDpg-l_c/m/zsGPhfQgLL8J\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "113974"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 20, 2025, 7:04\u202FAM",
+      "Body": "> the1andonlime wrote:\n> Can I use Garibaldi-Meuci Museum to retrieve a copy of Jericho Founding from the ash heap?\n>\nNo. (Detailed explanation below.)\n\n> the1andonlime wrote:\n> I guess the broader question is:\n> Does \"non-Camarilla\" count as\n> A) a standalone \"non-Camarilla\" trait, or\n> B) a short hand for \"Sabbat, Laibon, Anarch, or Independent\"?\n>\n> Ruling on Vidal seems to suggest (A) but Reckless Agitation being a legal target for Garibaldi suggests (B)\n>\nAnswer: A)\n\nLogically, \"requires A or B\" does not imply \"requires A\" in the sense that a B vampire (not A) could still play the cards.\n\nHowever, it has been ruled that, by design, effects that can retrieve a card \"requiring A\" work for cards \"requiring A or B\" (explicitly)\n\nFor instance, you can retrieve an Armor of Terra (tha / vis) with a Spirit Summoning Chamber.  [LSJ 20020510]\n\n> From the Bloodlines preview (Daughters):\n> When played, the card counts as requiring the discipline being used (for effects that enhance or restrict cards that require certain disciplines). In the hand (or library or ash heap), the card can be considered to require either discipline (for effects that retrieve\n> cards that require certain disciplines).\n>\nYou can also retrieve cards whose requirement derives directly from another. For instance, a card that \"requires a baron\" can be retrieve by an effect that mentions \"requires an Anarch\" (as baron implies Anarch).\n[LSJ 20081201]\n\nTherefore, Garibaldi-Meucci Museum can be used to retrieve a Reckless Agitation (\"requires an Independant or Anarch vampire\"), but cannot be used to retrieve a Jericho Founding (\"requires a non-Camarilla vampire\") because JF doesn't refer explicitly to an Anarch, and non-Camarilla vampire does not imply Anarch.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113984"
+    }
+  ]
+}

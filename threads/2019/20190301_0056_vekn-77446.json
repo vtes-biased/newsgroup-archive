@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-77446",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77446-change-of-target-changed",
+  "Title": "Change of Target changed?",
+  "Messages": [
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Mar 1, 2019, 12:56\u202FAM",
+      "Body": "Does Change of Target not unlock both the acting and blocking minions anymore?\n\nNew text from Libertine Ball deck:\n\nChange of Target\nOnly usable if this minion is blocked, before block resolution.\nUnlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\nAction Modifier",
+      "Id": "93794"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Mar 1, 2019, 1:30\u202FAM",
+      "Body": "It's never unlocked the blocking minion.\n\nHowever, it is now missing the \"do not [lock] the blocking minion\" text. I assume this is a mistake, since this is a massive buff to the card, and it wasn't mentioned in any of the updated card text announcements I've seen.",
+      "Id": "93795"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 1, 2019, 1:33\u202FAM",
+      "Body": "I think the text was changed because it is before \"block resolution.\" So the blocking minion would not be locked yet when playing the card. Not 100% sure, because \"block resolution\" wasn't really a thing until now.\n\n(And to the rules people who may read this: yes, I understand that resolving block attempts always existed, I'm saying \"block resolution\" as a game term is new and I'm unsure exactly which steps that always existed are involved in \"block resolution\" because it's not defined in the current rulebook (or, at least 6.2.2 does not define it).",
+      "Id": "93796"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Mar 1, 2019, 2:25\u202FAM",
+      "Body": "> Kushiel wrote:\n> It's never unlocked the blocking minion.\n>\nMeh, you know what I meant\n\nAnd yes, this would be a big buff, but decks like Libertine Ball, which can usually only generate +1 stealth, could really use something like this.",
+      "Id": "93797"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 1, 2019, 7:40\u202FAM",
+      "Body": "> Cat_in_Exile wrote:\n> Does Change of Target not unlock both the acting and blocking minions anymore?\n>\n> New text from Libertine Ball deck:\n>\n> Change of Target\n> Only usable if this minion is blocked, before block resolution.\n> Unlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n> Action Modifier\n>\nThe existing rulebook will be updated soon to mention explicitely the terms of \"block resolution\". Currently, the rulebook indicates:\n\n> 6.2.3. Resolve the Action\n> If the action is successful (all block attempts were unsuccessful), then the cost of the action is paid and the effects of the successful action take place. If the action is blocked, then any card played to take the action is burned (it is moved to the ash heap) and the blocking minion is locked and enters combat with the acting minion (see Combat, sec. 6.4). The effects of the action do not take place when the action is blocked. Note that the action's cost, if any, is only paid if the action succeeds; the cost is not paid if the action is blocked. The costs of action modifiers and reaction cards are always paid when the cards are played, regardless of the success of the action.\n>\nThe part in bold is what is now called the block resolution.\n\nSo Change of Target ends the action before the blocking minion \"is locked and enters combat\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "93802"
+    },
+    {
+      "Author": "ruiza97",
+      "Date": "Mar 2, 2019, 7:03\u202FPM",
+      "Body": "I'm constantly reminding my players to just announce who is attempting to block the action but not lock the minion until the action is successfully blocked.\n\nPrince of Dallas\nToreador Grand Ball: Dallas\nAugust 13, 2022",
+      "Id": "93808"
+    }
+  ]
+}

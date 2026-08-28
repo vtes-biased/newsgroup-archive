@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-77331",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/77331-minor-errors-in-the-csv-files",
+  "Title": "Minor errors in the CSV files",
+  "Messages": [
+    {
+      "Author": "drnlmza",
+      "Date": "Jan 29, 2019, 11:14\u202FAM",
+      "Body": "I see that the CSV files have now been updated with the forthcoming starters, which is great.\n\nWhile checking things, I noticed that a few errors have crept in:\n\n(This list is probably not exhaustive)\nCarolina Valez - dropped Christel Espenkrona (DM art) from Artist list Under Siege - dropped Anna Evertsdotter (DM art) from Artist list The Unmasking - dropped Javier Santos (Anthology Art) from Artist list Brunhilde (base) - marked as printed in the Anthology set\nAlso, the text of the vampires printed in the Humble Bundle set have not yet been updated to match the printed versions (the use of \"1 fewer blood\", etc.).\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "93194"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jan 30, 2019, 8:38\u202FAM",
+      "Body": "Thanks for correcting those errors.\n\nSomething which I overlooked earlier, and is somewhat significant, is that the HttB reprint updates don't appear to be included in the current CSV files. The cards reprinted aren't marked as having being reprinted, and the ones I've checked still use the pre-BC printing text (position of \"Black Hand\" for Al-Muntathir and Nicomedes, old text for Cheat the Fates, Spirit Claws and As the Crow).\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "93210"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 30, 2019, 5:50\u202FPM",
+      "Body": "I've been automatizing the process of updates only since the Sabbat starters, so HttB reprints were not included. But I will update them soon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "93226"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 4, 2019, 2:48\u202FPM",
+      "Body": "Everything should be up-to-date now.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "93274"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 4, 2019, 4:06\u202FPM",
+      "Body": "Thanks\n\nThe 2017 round of banned cards aren't marked as such in the CVS file (Seeds of Corruption, Temptation of Greater Power & Anthelios)\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "93275"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 4, 2019, 5:55\u202FPM",
+      "Body": "It would also be nice if the cards being reprinted in the Black Chantry Anthology set were marked in the CSV file.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "93276"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 12, 2019, 3:09\u202FPM",
+      "Body": "Legacy is missing the word \"merge\" in the current CSV file, so it reads:\n\n\"base version and them with it\"\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "93430"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 12, 2019, 4:37\u202FPM",
+      "Body": "Fixed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "93434"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Feb 22, 2019, 1:41\u202FAM",
+      "Body": "Thadius Zho is currently showing up as \"Thadius Zho{}\" in both txt and csv versions",
+      "Id": "93599"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Feb 22, 2019, 2:26\u202FAM",
+      "Body": "> ShanDow wrote:\n> Thadius Zho is currently showing up as \"Thadius Zho{}\" in both txt and csv versions\n>\nAs a matter of course your need to strip out all { } characters \u2014 these denote changes and are a fairly common occurrence.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "93601"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Feb 26, 2019, 12:28\u202FPM",
+      "Body": "Yeah I usually do. However this one seems inconsistent with the other changes this time around which is why I raised it.\n\nHaving said that - big fan of the inclusion of the ID numbers and aliases in the CSV Ankha. Makes porting old card names so much easier.",
+      "Id": "93689"
+    }
+  ]
+}

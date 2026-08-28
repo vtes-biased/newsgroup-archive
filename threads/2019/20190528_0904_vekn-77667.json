@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-77667",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77667-what-exactly-is-block-resolution",
+  "Title": "What exactly is \"Block resolution\"",
+  "Messages": [
+    {
+      "Author": "Tadori",
+      "Date": "May 28, 2019, 9:04\u202FAM",
+      "Body": "Its my first post here so I would like to say Hello to everyone. I'm returning to VETS after a long time in torpor.\n\nI have the following question.\n\nI found ont VEKN.NET in General rulings this rule:\n\n\"Combat occurs as part of the block - not after the block. (So Cats' Guidance and Freak Drive are played after the combat, not before). [RTR 19980623]\"\n\nIn the new print of Change of target we have this statement \"Only usable if this minion is blocked, before block resolution.\"\n\nSo looking on those two rules. You can play change of target after block attempt is successful and blocking vampire is locked.\n\nI know the ruling of change of target is different but in this case what \"Block resolution\" actually mean",
+      "Id": "95092"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 28, 2019, 9:40\u202FAM",
+      "Body": "From the latest newsletter:\n\nwww.vekn.net/2-uncategorised/433-vampire-elder-kindred-network-newsletter-april-2019\n\nQ: What is the \"block resolution\"?\n\nA: If a minion is blocked, the block resolves by locking the blocking minion, and making the acting and blocking minion enter combat with each other. The \"lock + enter combat\" part is called the block resolution, and locking and entering combat happen at the same time.\n\nObedience is played \"if this vampire is about to enter combat with an acting younger vampire\" (that is, right before entering combat). If the \"enter combat\" is part of a block resolution (e.g., the vampire attempts to block and is about to be successful), the card is played and ends the action before the \"lock + enter combat\" block resolution: therefore, the blocking vampire is not locked.\n\nChange of Target is played \"if this minion is blocked, before block resolution.\" Since Change of Target ends the action, the block resolution never happens. Therefore, the blocking minion is not locked for blocking. (It would require explicit card text such as Mirror Walk that says: \"lock the blocking minion and end the action before block resolution\").\n\nI have updated the rulebook.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95094"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "May 28, 2019, 10:09\u202FAM",
+      "Body": "Thanks,\n\nBut to be honest name \"block resolution\" is very confusing, because its indicates (as in every card game I played in 20 year) end of block action.",
+      "Id": "95095"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 28, 2019, 11:31\u202FAM",
+      "Body": "> Tadori wrote:\n> Thanks,\n>\n> But to be honest name \"block resolution\" is very confusing, because its indicates (as in every card game I played in 20 year) end of block action.\n>\n\"Action resolution\" is not the end of the action. \"Block resolution\" is not the end of the block. Unless you mean \"after xxx resolution\"?\nWhat other games are you referring to?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95098"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "May 28, 2019, 12:38\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Tadori wrote:\n> > Thanks,\n> >\n> > But to be honest name \"block resolution\" is very confusing, because its indicates (as in every card game I played in 20 year) end of block action.\n> >\n> \"Action resolution\" is not the end of the action. \"Block resolution\" is not the end of the block. Unless you mean \"after xxx resolution\"?\n> What other games are you referring to?\n>\nHi This are examples form MTG\n\n304.2. When an instant spell resolves, the actions stated in its rules text are followed. Then it\u2019s put into its owner\u2019s graveyard\n\nWhen a sorcery spell resolves, the actions stated in its rules text are followed. Then it\u2019s put into its owner\u2019s graveyard\n\nSo resolution in MTG means you have to play an interrupt before resolution(you build stack) and reaction after resolution\n\nThis is from L5R\n\nEach time a triggering condition occurs, the following sequence is followed: (1) execute any interrupts to that triggering condition, (2) resolve the triggering condition itself, and then, (3) execute any reactions to that triggering condition.\n\nSo looking at this examples. you have sequence of action.\n\n1 play interparts (before [action] happens)\n2 action resolution\n3.reactions (after [action] happens)\n\nSo in our example our action is Block\n\nIts starts with announcing block attempted(you can play interrupts), then we resolve \"block\" and the combat is the part of block action.When the combat ends Block segment resolves.(you can play reactions cards)\n\nI understand your explanation and its ok. but the wording itself is a little not intuitive\n\nMaybe \"Before Block attempt resolution\" would be bether. Then you have:\n\n1.Block Action:\n1.1 declare block attempt\n1.1.1 Play Stealth/Intercept modifiers and card before \u201Cblock attempt resolution\u201D (action window)\n1.2 Block attempt resolution (lock + begin combat)\n1.3 combat\n1.4 Block action resolution",
+      "Id": "95099"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 29, 2019, 10:30\u202FAM",
+      "Body": "> Tadori wrote:\n> So looking at this examples. you have sequence of action.\n>\n> 1 play interparts (before [action] happens)\n> 2 action resolution\n> 3.reactions (after [action] happens)\n>\n> So in our example our action is Block\n>\n> Its starts with announcing block attempted(you can play interrupts), then we resolve \"block\" and the combat is the part of block action.When the combat ends Block segment resolves.(you can play reactions cards)\n>\nBlock attempts are not part of the block resolution.\nAnnouncing the action, playing cards as the action is played, attempting to block etc. are not part of the action resolution.\n\n> Tadori wrote:\n> I understand your explanation and its ok. but the wording itself is a little not intuitive\n>\n> Maybe \"Before Block attempt resolution\" would be bether. Then you have:\n>\n> 1.Block Action:\n> 1.1 declare block attempt\n> 1.1.1 Play Stealth/Intercept modifiers and card before \u201Cblock attempt resolution\u201D (action window)\n> 1.2 Block attempt resolution (lock + begin combat)\n> 1.3 combat\n> 1.4 Block action resolution\n>\nIn VTES, \"resolution\" means the same as in other games, that is \"304.2. When <here action card> resolves, the actions stated in its rules text are followed. Then it\u2019s put into its owner\u2019s graveyard\"\n\nThe (very) basic summary of an action is:\n\n1/ declare the action and lock the minion\n2/ play cards \"as the action is announced\"\n3/ play action modifiers / reaction cards and declare block attempts\n\nIf the action is not blocked:\n3'/ play more action modifiers / reaction cards\n4/ resolve the action successfully (\"action resolution\")\n\nIf the action is blocked:\n4/ resolve the action unsuccessfully => resolve the block (\"block resolution\")\n\nThen in both case:\n5/ play cards \"after action resolution\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95118"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "May 29, 2019, 7:53\u202FPM",
+      "Body": "How does block resolution work with claiming the body? If block ends with tapping and entering combat at same time seems it would not work properly. Is this another case of errata needed?",
+      "Id": "95123"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "May 30, 2019, 6:34\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Tadori wrote:\n> > So looking at this examples. you have sequence of action.\n> >\n> > 1 play interparts (before [action] happens)\n> > 2 action resolution\n> > 3.reactions (after [action] happens)\n> >\n> > So in our example our action is Block\n> >\n> > Its starts with announcing block attempted(you can play interrupts), then we resolve \"block\" and the combat is the part of block action.When the combat ends Block segment resolves.(you can play reactions cards)\n> >\n> Block attempts are not part of the block resolution.\n> Announcing the action, playing cards as the action is played, attempting to block etc. are not part of the action resolution.\n>\n> > Tadori wrote:\n> > I understand your explanation and its ok. but the wording itself is a little not intuitive\n> >\n> > Maybe \"Before Block attempt resolution\" would be bether. Then you have:\n> >\n> > 1.Block Action:\n> > 1.1 declare block attempt\n> > 1.1.1 Play Stealth/Intercept modifiers and card before \u201Cblock attempt resolution\u201D (action window)\n> > 1.2 Block attempt resolution (lock + begin combat)\n> > 1.3 combat\n> > 1.4 Block action resolution\n> >\n> In VTES, \"resolution\" means the same as in other games, that is \"304.2. When <here action card> resolves, the actions stated in its rules text are followed. Then it\u2019s put into its owner\u2019s graveyard\"\n>\n> The (very) basic summary of an action is:\n>\n> 1/ declare the action and lock the minion\n> 2/ play cards \"as the action is announced\"\n> 3/ play action modifiers / reaction cards and declare block attempts\n>\n> If the action is not blocked:\n> 3'/ play more action modifiers / reaction cards\n> 4/ resolve the action successfully (\"action resolution\")\n>\n> If the action is blocked:\n> 4/ resolve the action unsuccessfully => resolve the block (\"block resolution\")\n>\n> Then in both case:\n> 5/ play cards \"after action resolution\"\n>\nExactly you are proving my point. Block resolution is resolution of Block \"action\". And combat is part of this action as general rulings says. This action is not finished(resolved) until combat ends. So in theory if card say \"before block resolution\" it means before combat ends.\n\nI thnik you are talking about this situation:\n\n4/ resolve the action unsuccessfully => Block is resolved and combat begins.\n\nBut in this case combat can't be part of Block so general ruling is not correct.\n\nBecause right now you have this situation: block is resolved before combat and combat is still part of block even after its resolved. As I said confusing.(And not logical  )\n\nAnd if you are treating \"block resolution\" as segment name its even more confusing because it indicates a timing of an action and in reality it's only a name.\n\nyou can see the effects already on one post before mine\n\nIts ok in the rule book:\n\n1. Block action\n1.1 Block declaration\n1.2 Block resolution\n\nBut on the card it indicates timing \"before block[action] resolution\" In this case you need to put indicator to distinguish timing from segment name.\n\nexample on card\n\nBefore\"block resolution\"\nBefore block resolution",
+      "Id": "95127"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jun 3, 2019, 6:40\u202FAM",
+      "Body": "> Tadori wrote:\n>\n> I understand your explanation and its ok. but the wording itself is a little not intuitive\n>\nI agree. The issue is that many things can happen before block resolution, but their relative timing is not well-defined.\n\nJust had an example come up in lackey game last night:\nChange of target vs unleash the hell's fury. Works or no?\n\nWe interpreted that it does work, but the wordings are far from clear. One card says \"if blocked\" another says \"If successfully blocked\". So both should happen?\n\nIn any case, why is \"successful block\" something else than \"successful resolution of a block\"? Seriously. We know there is no combat if unleash blocks, so it's block never resolves according to the newsletter definition. Yet the card refers to \"successful block\". (EDIT: actually successful attempt to block)\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "95153"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 3, 2019, 12:04\u202FPM",
+      "Body": "> Bloodartist wrote:\n> Just had an example come up in lackey game last night:\n> Change of target vs unleash the hell's fury. Works or no?\n>\n> We interpreted that it does work, but the wordings are far from clear. One card says \"if blocked\" another says \"If successfully blocked\".\n>\nOfficial cardtexts:\n\nName: Change of Target\n[Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, LoB:PG2/PI2, KoT:U/PM3, SP:LB4]\nCardtype: Action Modifier\nOnly usable if this minion is blocked, before block resolution.\nUnlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nName: Unleash Hell's Fury\n[HttB:R, Anthology:1]\nCardtype: Action\nCost: 2 pool\nDiscipline: Daimoinon\nBurn Option\n+1 stealth action. Requires an infernal vampire. Unique.\n[dai] Put this card in play. This card can attempt to block a  action against you and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable aggravated damage, and this card is burned.\n[DAI] As above, and unlock this vampire.\n\nUHF doesn't say \"successfully blocks\" (which would be redundant) but takes interest in the block attempt (which can be successful or not).\n\n> Bloodartist wrote:\n> So both should happen?\n>\nYes. The action was blocked. CoT ends the action and unlocks the minion. UHF inflicts 1 aggravated damage and burns.\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/TcUDpHnvW8M/YznjkbV3JLoJ\n\n> Bloodartist wrote:\n> In any case, why is \"successful block\" something else than \"successful resolution of a block\"?\n>\nMoot (only the block attempt can be successful. Considering your EDIT, you realized that). \"successful block\" is redundant and shouldn't appear in any cardtext (except really old ones).\n\n> Bloodartist wrote:\n> . Seriously. We know there is no combat if unleash blocks, so it's block never resolves according to the newsletter definition. Yet the card refers to \"successful block\". (EDIT: actually successful attempt to block)\n>\nThe block never resolves indeed, because UHF inflicts the aggravated damage and burns before.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95156"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Jun 4, 2019, 8:45\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > Tadori wrote:\n> >\n> > I understand your explanation and its ok. but the wording itself is a little not intuitive\n> >\n> I agree. The issue is that many things can happen before block resolution, but their relative timing is not well-defined.\n>\nExactly and in my opinion to clear this situation is to add a clarification to the rules:\n\nFirst action segment 6.1 should be updated with \"Block attempt\" (yes it's an action. Interrupt action to other player action to be precise). Description of this should send you to 6.2.2 \"Resolve Any Block Attempts\" and 6.2.2 should be updated with timing chart. Something like this:\n\nEXAMPLE\n\nIt also eliminates problem with timing because action is call \"Block attempt\" so \"before block resolution\" is not indicating timing of action any more and there is a clear information what card can be played when, Also its creates a set of key words that can be used as standard on cards to indicate timing.",
+      "Id": "95164"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Jun 4, 2019, 1:22\u202FPM",
+      "Body": "> Ankha wrote:\n> Official cardtexts:\n>\n> Name: Change of Target\n> [Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, LoB:PG2/PI2, KoT:U/PM3, SP:LB4]\n> Cardtype: Action Modifier\n> Only usable if this minion is blocked, before block resolution.\n> Unlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n>\n> UHF doesn't say \"successfully blocks\" (which would be redundant) but takes interest in the block attempt (which can be successful or not).\n>\n> Yes. The action was blocked. CoT ends the action and unlocks the minion. UHF inflicts 1 aggravated damage and burns.\n>\n> groups.google.com/d/msg/rec.games.trading-cards.jyhad/TcUDpHnvW8M/YznjkbV3JLoJ\n>\n> The block never resolves indeed, because UHF inflicts the aggravated damage and burns before.\n>\nYes but change of target ends the action and that prevents all kinds of stuff from happening that seems like it should happen. So we play change of target and end the action and then after the action is over the minion takes 1 agg because we remember that if we didn't play change of target it would have been blocked even though there is no longer an action to block? Very messy.",
+      "Id": "95166"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jun 4, 2019, 5:32\u202FPM",
+      "Body": "Are you seriously suggesting reclassifying a Block Attempt as an Action?\nThe implications are not only massive, but adds a world of complexity.\n\nMaybe I\u2019m misunderstanding you.",
+      "Id": "95170"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jun 4, 2019, 8:22\u202FPM",
+      "Body": "No, they are saying to mention block attempts in section 6.1 of the rulebook, where actions are first described. I'm not sure I agree, but then again, I would completely revise that section. The flow chart example they provide is definitely interesting. Not necessarily the information they included in the flow chart, but the more general idea of visual representations of when to play cards has merits.",
+      "Id": "95175"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Jun 4, 2019, 8:31\u202FPM",
+      "Body": "> Snodig wrote:\n> Are you seriously suggesting reclassifying a Block Attempt as an Action?\n> The implications are not only massive, but adds a world of complexity.\n>\n> Maybe I\u2019m misunderstanding you.\n>\nIm suggesting added it as an Interrupt action. And there is no implication because it it's an interrupt action right now. It has initiation and effect to resolve\n\nWhere player is forced to make a decision to akt it's actually an action.\nSo Block right now forces a player to actually decide if you block or not with a ready minion. And if block is successful you resolve its effect - combat.\n\nThe only difference from other action in VTES right now is that this action has a specific trigger (other player making an action) and all other action don't. It doesn't change anything in gameplay it's only explains what actually is happening right now.",
+      "Id": "95176"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jun 4, 2019, 9:24\u202FPM",
+      "Body": "Fine, as long as we agree that it can't be called an \"action\", because that is just too confusing.\nThanks for clearing up the misunderstanding.",
+      "Id": "95179"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 4, 2019, 9:36\u202FPM",
+      "Body": "> Tadori wrote:\n> The only difference from other action in VTES right now is that this action has a specific trigger (other player making an action) and all other action don't. It doesn't change anything in gameplay it's only explains what actually is happening right now.\n>\nA successful block doesn't mean a failed action in V:TES.\n\nThere are cards that continue the action after a successful block.\n\nSo you have a situation where both the block and the action are successful.\n\nYou're not accounting for this in your flow chart / logic.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "95180"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Jun 5, 2019, 3:41\u202FAM",
+      "Body": "> Ke. wrote:\n>\n> > Tadori wrote:\n> > The only difference from other action in VTES right now is that this action has a specific trigger (other player making an action) and all other action don't. It doesn't change anything in gameplay it's only explains what actually is happening right now.\n> >\n> A successful block doesn't mean a failed action in V:TES.\n>\n> There are cards that continue the action after a successful block.\n>\n> So you have a situation where both the block and the action are successful.\n>\n> You're not accounting for this in your flow chart / logic.\n>\nI have simple flow chart for vtes rules.\n\n1) ask karl\n1a) hope karl knows what he is talking about\n\n2) if no karl flip coin\n\n3) if no coin quit game\n\n4) do not use logic under any circumstance",
+      "Id": "95190"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2019, 6:50\u202FAM",
+      "Body": "I don't know what everything after  my last reply in this topic is about, but all I know it's not official (and probably not valid).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95196"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Jun 5, 2019, 7:07\u202FAM",
+      "Body": "> Ke. wrote:\n>\n> > Tadori wrote:\n> > The only difference from other action in VTES right now is that this action has a specific trigger (other player making an action) and all other action don't. It doesn't change anything in gameplay it's only explains what actually is happening right now.\n> >\n> A successful block doesn't mean a failed action in V:TES.\n>\n> There are cards that continue the action after a successful block.\n>\n> So you have a situation where both the block and the action are successful.\n>\n> You're not accounting for this in your flow chart / logic.\n>\nYou are forgetting the golden rule of every CCG/TCG/LCG, cards overrule general rulings.",
+      "Id": "95199"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Jun 5, 2019, 7:10\u202FAM",
+      "Body": "> Ankha wrote:\n> I don't know what everything after  my last reply in this topic is about, but all I know it's not official (and probably not valid).\n>\nAnkha It's only a discussion of course it's not official and maybe the ruling team will find some ideas interesting and take them into consideration in the future nothing more.\n\n/sorry for the double post",
+      "Id": "95200"
+    }
+  ]
+}

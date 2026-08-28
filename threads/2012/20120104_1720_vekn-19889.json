@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-19889",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/19889-action-cards-angel-of-berlin-on-the-qui-vive-and-determine",
+  "Title": "Action Cards, Angel of Berlin, On the Qui Vive, and Determine",
+  "Messages": [
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jan 4, 2012, 5:20\u202FPM",
+      "Body": "Angel of Berlin\nMaster\nMaster: out-of-turn. Requires a ready imbued.\nUntap an imbued, or equip a ready imbued you control with an equipment from your hand (requirements must be met; pay cost as normal). Not usable during combat.\n\nDetermine\nReaction\nVision\n[1 Conviction]\nPlay when a monster controlled by your predator is bleeding you, after blocks are declined. Tap this reacting imbued. The monster is now bleeding your predator's predator.\nOr play when a monster controlled by your predator or prey plays an action card. Tap this reacting imbued and cancel that action card as it is played (no cost is paid, and the monster doesn't tap). That monster cannot play the same action card again this turn.\n\nOn the Qui Vive\nReaction\nOnly usable by a tapped minion. This reacting minion can play reaction cards and attempt to block as though untapped until the current action is concluded. If this minion is an ally, he or she does not untap as normal during his or her next untap phase. A minion may play only one On the Qui Vive between his or her untap phases.\n\nThis has been asked before on r.g.t-c.j, but I just want to see it again here for clarification (or correction).\n\nOnly Methuselah A and Methuselah B remain in the game. Methuselah A controls ready Vampire A. Methuselah B controls ready, tapped Imbued B with Vision and several conviction cards. It is Methuselah A's turn.\n\nVampire A plays an action card.\n\nCan Methuselah B play Angel of Berlin to untap Imbued B, followed by Imbued B playing Determine to cancel the action card?\n\nCan Imbued B play On the Qui Vive, followed by Determine to cancel the action card?\n\nTechnically, when are cards replaced during the above sequences, and what are the names of those subphases?\n\nThanks in advance.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "19889"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2012, 6:31\u202FPM",
+      "Body": "> Jeff wrote:\n> Can Methuselah B play Angel of Berlin to untap Imbued B, followed by Imbued B playing Determine to cancel the action card?\n>\nNo, because Angel of Berlin lacks the text: \"may play reaction cards as if untapped\".\n\n> LSJ wrote:\n> > Then I don't understand the ruling above, why is it not possible with\n> > vigilance, but possible with wake?\n>\n> Presence or absence of \"may play reaction cards as if untapped\" effect.\n> Cards with such effect can be played in the \"as played\" window.\n> Other cards cannot be (unless they have explicit text to do so).\n>\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/9cde8b0e14b03b5e/cf6e07f45fd4b5d4?lnk=gst&q=angel+berlin+determine+-author%3Alsj#cf6e07f45fd4b5d4\n\n> Jeff wrote:\n> Can Imbued B play On the Qui Vive, followed by Determine to cancel the action card?\n>\nYes.\n\n> Technically, when are cards replaced during the above sequences, and what are the names of those subphases?\n>\nYou must have both OtQV + Determine in hand to cancel the card (you can't play OtQV and try to draw a Determine).\nSo both are replaced after the window \"when played\" is closed.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/c2547e56ecd0e9c9?pli=1\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "19892"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jan 4, 2012, 6:32\u202FPM",
+      "Body": "You have a \"as a card is played\" timing, where you declare the card (don't replace it), give impulse to the other players to cancel it (or play \"as a card is played\" effects) and once they all decline, you replace it and the card resolves. Nobody replaces cards during this timing.\nNote that other players cannot declare other effects like block attempts, bounce or combat cards (if you are acting, or in combat).\nIn the case of Actions, after that you enter into the \"as an action is announced\" timing (when you can play Seduction, etc.)\n\nCan Imbued B play On the Qui Vive, followed by Determine to cancel the action card?\n\nYes: \"Do X and Y.\"\n>\n> Determine wrote:\n> Tap this reacting imbued and cancel that action card as it is played...\n>\nNote the difference with \"Do X and Y\" with \"Do X to Y\".\nThe second wording would not allow you to use Determine in the scenario you suggest.\n\n[LSJ 20070405] in Google Groups.\n\nAs a personal note, in Math, Logic and Bolean algebra \"and\" is only True (or fulfilled) if both X and Y are satisfied, so I think the wording is rather counter intuitive.\n\nTiago",
+      "Id": "19893"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 4, 2012, 6:44\u202FPM",
+      "Body": "When a card is played, the \"as played\" window opens. (Rulebook 1.6.1, Complete Rules Reference II.B.3).\nIn the \"as played\" window, only cards that would cancel a card and cards allowing that (\"Wakes\") are allowed to be played (Rulebook 1.6.1, Complete Rules Reference II.B.3.a). Other cards or effects cannot be used at that time (Complete Rules Reference II.B.3.b, but also  [RTR 20040501] ,  [LSJ 20090504] ,  [LSJ 20100512] for cards such as Guard Dogs).\n\nFinally, during this \"as played\" window, cards aren't replaced (Rulebook 1.6.1, Complete Rules Reference II.B.3). This includes the action card, the On the Qui Vive, and any other cards that would be used in that window.\n\nNow, \"Wakes\" isn't really defined in the Rulebook, but there is a pot by LSJ saying that cards with \"can play reaction cards as though untapped\" is required and sufficient text on these cards. I'll try to find it and link to it over here.\n\nFinally, this ruling  [LSJ 20090430] is still valid.\nYou can On the Qui Vive + Determine to cancel an action card as it is played, but you can't Angel of Berlin + Determine to cancel an action card as it is played.\nThe reason for that is that Angel of Berlin doesn't read \"this minion may play reaction cards as though untapped\".",
+      "Id": "19894"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jan 4, 2012, 6:49\u202FPM",
+      "Body": "> LSJ wrote:\n> > Then I don't understand the ruling above, why is it not possible with\n> > vigilance, but possible with wake?\n> Presence or absence of \"may play reaction cards as if untapped\" effect.\n> Cards with such effect can be played in the \"as played\" window.\n> Other cards cannot be (unless they have explicit text to do so).\n>\nI don't understand this ruling. I have nothing but respect and friendship for Scott, but I really don't see why Angel of Berlin doesn't work there.\nYou don't need the \"may play reaction cards as if untapped\" text, because the minion is untapped.\nIt sounds like a \"because it is so\" argument.",
+      "Id": "19895"
+    },
+    {
+      "Author": "Robba Yaga",
+      "Date": "Jan 4, 2012, 6:56\u202FPM",
+      "Body": "This question came up because I was doing this in a JOL game. I disagree with the ruling and I do not see how it makes any logical sense, but that being said ... it is irrelevant. A player will just have to untap their Imbued with Angel of Berlin during the other Methuselah's turn before the action they are concerned about is announced (Spell of Life in this case). Then they can Determine at will. Its inconvenient.",
+      "Id": "19897"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jan 4, 2012, 7:11\u202FPM",
+      "Body": "> Robba wrote:\n> This question came up because I was doing this in a JOL game. I disagree with the ruling and I do not see how it makes any logical sense...\n>\nI agree with you, Rob. I believe in my r.g.t-c.j searches it was eventually just ruled this way \"axiomatically\" and that's that. Live and learn.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "19898"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Jan 4, 2012, 8:38\u202FPM",
+      "Body": "I my opinion, it makes sense to distinguish between \"untap, do X\" and \"as if untapped do X\" (apart from the maths) in the \"as played\" window: it helps keeping the survey of what can be done in that window.\n\nIf untapping were allowed, it would be much harder to hold \"queues\" of in-between effects to a limit, thus reducing manageability.\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "19905"
+    },
+    {
+      "Author": "agzocgud",
+      "Date": "Jan 4, 2012, 8:54\u202FPM",
+      "Body": "> Brum wrote:\n>\n> > LSJ wrote:\n> > > Then I don't understand the ruling above, why is it not possible with\n> > > vigilance, but possible with wake?\n> > Presence or absence of \"may play reaction cards as if untapped\" effect.\n> > Cards with such effect can be played in the \"as played\" window.\n> > Other cards cannot be (unless they have explicit text to do so).\n> >\n> I don't understand this ruling. I have nothing but respect and friendship for Scott, but I really don't see why Angel of Berlin doesn't work there.\n> You don't need the \"may play reaction cards as if untapped\" text, because the minion is untapped.\n> It sounds like a \"because it is so\" argument.\n>\nThe timing is.\n1. someone plays an action card\n2. the \"as played\" windows is open.\n3. nobody plays DI, determine, uses Louhi or similar\n4. the \"as played\" window closes\n5. you play Angel of Berlin\n\nSimilar example: you can\u00B4t fish for DI by tapping the barrens after the action is announced. V:tES tries to avoid stacking of effects.\n\nOverkill is highly underrated. You know, like in computor games and such.",
+      "Id": "19906"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 4, 2012, 9:29\u202FPM",
+      "Body": "Note that there would be a much simpler way to rule with no stack system and no exceptions: not allow wakes either in the \"as played\" window.",
+      "Id": "19909"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jan 4, 2012, 10:26\u202FPM",
+      "Body": "> agzocgud wrote:\n>\n> > Brum wrote:\n> >\n> > > LSJ wrote:\n> > > > Then I don't understand the ruling above, why is it not possible with\n> > > > vigilance, but possible with wake?\n> > > Presence or absence of \"may play reaction cards as if untapped\" effect.\n> > > Cards with such effect can be played in the \"as played\" window.\n> > > Other cards cannot be (unless they have explicit text to do so).\n> > >\n> > >\n> > I don't understand this ruling. I have nothing but respect and friendship for Scott, but I really don't see why Angel of Berlin doesn't work there.\n> > You don't need the \"may play reaction cards as if untapped\" text, because the minion is untapped.\n> > It sounds like a \"because it is so\" argument.\n> >\n> The timing is.\n> 1. someone plays an action card\n> 2. the \"as played\" windows is open.\n> 3. nobody plays DI, determine, uses Louhi or similar\n> 4. the \"as played\" window closes\n> 5. you play Angel of Berlin\n>\n> Similar example: you can\u00B4t fish for DI by tapping the barrens after the action is announced. V:tES tries to avoid stacking of effects.\n>\nWhy can I play wake + Touch of Clarity (in step 3), but not Angel of Berlin + Determine?\nYou guys are missing the point:\nI can play DI (Master Out of Turn), but not AoB (another MOoT).\n\nThere is no stack needed. It the same way there is no stack in any other time in the came when a player plays 2 cards (wake + Enhanced Senses, Carrion Crows + Flesh of Marble, etc.).",
+      "Id": "19917"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 4, 2012, 10:29\u202FPM",
+      "Body": "> Brum wrote:\n> You guys are missing the point:\n> I can play DI (Master Out of Turn), but not AoB (another MOoT).\n>\nOnly because the DI card text explicitely tells you to play it at that time.",
+      "Id": "19918"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jan 5, 2012, 12:21\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Brum wrote:\n> > You guys are missing the point:\n> > I can play DI (Master Out of Turn), but not AoB (another MOoT).\n> >\n> Only because the DI card text explicitely tells you to play it at that time.\n>\nI don't want to be an ass (I'm just trying to understand all the phenomena here), but there are lots of effects that don't specify when they can be used and by default that means you can use them whenever you want.\nRegretfully I only remember effects of things that are on the table, like tapping the Coven or Dreams (put 1 pool on an uncontrolled vampire).\n\nPascal - is this because there's a difference between the timing in using effects on the table and playing cards?",
+      "Id": "19923"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jan 5, 2012, 12:57\u202FAM",
+      "Body": "The \"as played\" window is special: by default, you cannot play anything there (including Coven or Dreams), with 2 exceptions:\n-cancel effects, that all have it on their card text,\n-wakes, because the rulebook 1.6.1 says so without defining properly what \"grant the ability to play\" means.",
+      "Id": "19925"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2012, 6:17\u202FAM",
+      "Body": "> Brum wrote:\n> there are lots of effects that don't specify when they can be used and by default that means you can use them whenever you want.\n>\nWhevever you want, unless the card timings is defined by 1/ the rulebook 2/ the card itself (with the card taking precedence over the rulebook) 3/ the rule clarification\n\nBy default, you can't play reaction cards when there's no action (rulebook). You may play some reaction cards when there's no action (Rewind Time at TEM) because of their card text.\n\nBy default, you can't play cards when another card is played. You may play some cards when another card is played (DI) because of their card text.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "19946"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Jan 11, 2012, 6:57\u202FPM",
+      "Body": "It seems counter intuitive but it works because this game was structures around the time of Magic the Gathering, but before MtG switched to stacking resolution. So there's a bit of legacy mechanics that leaves confusion. Basically it's opening the same arguments about Interrupts and what defines them and when they are playable. VtES being a game sorely lacking keyword terms to simplify this process doesn't help these arguments (but leaves such a colorful display of functioning chaos in its wake).\n\nBasically \"Wakes\" are Interrupts, because the \"as though it were untapped\" clause is an effect that backtracks the state into a targeting allowance window for both Instant and Interrupt effects. Because of this Interrupt opening, Determine's card Cancelling Interrupt effect is allowed to proceed.\n\nAngel of Berlin has no such clause. It clearly provides one effect, but does not Interrupt play to allow other Interrupting effects to enter. It is an Instant effect. So the playing of the Action card has its window open and close without interruption, with Angel of Berlin Instant effect following. And then at that point Determine's Cancelling Interrupt effect has nothing to target.\n\nBetter? Gawd, I miss those befuddling halcyon days of MtG where we'd argue over interrupt timing... Brings back good memories. Probably another reason I still play VtES, its agony nostalgia.",
+      "Id": "20623"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 11, 2012, 7:56\u202FPM",
+      "Body": "I don't think that introducing the interrupt nightmare is going to make things clearer\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "20631"
+    }
+  ]
+}

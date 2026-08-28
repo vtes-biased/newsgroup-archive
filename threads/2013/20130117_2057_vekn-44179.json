@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-44179",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/jol/44179-jol-is-down",
+  "Title": "JOL is down?",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jan 17, 2013, 8:57\u202FPM",
+      "Body": "www.deckserver.net/jol3/beta\n\nOops! Google Chrome could not connect to www.deckserver.net\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "44179"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 17, 2013, 9:22\u202FPM",
+      "Body": "Chatting with George about it right now.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "44180"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 17, 2013, 11:31\u202FPM",
+      "Body": "Now it's back up.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "44187"
+    },
+    {
+      "Author": "Omelet",
+      "Date": "Jan 27, 2013, 12:35\u202FPM",
+      "Body": "I'm getting the same message again now (Jan 27th), Google Chrome could not find deckserver.net",
+      "Id": "44478"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 27, 2013, 4:30\u202FPM",
+      "Body": "George is looking into it.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "44486"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jan 27, 2013, 9:51\u202FPM",
+      "Body": "And JOL is back.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "44496"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 1, 2013, 7:41\u202FPM",
+      "Body": "Seems like it's down again...\n\nHTTP Status 500 -\n\ntype Exception report\n\nmessage\n\ndescription The server encountered an internal error () that prevented it from fulfilling this request.\n\nexception\n\njava.lang.NullPointerException\ndeckserver.rich.PlayerModel.<init>(PlayerModel.java:27)\ndeckserver.rich.AdminBean.getPlayerModel(AdminBean.java:77)\ndeckserver.dwr.Utils.getPlayerModel(Utils.java:49)\ndeckserver.dwr.Utils.checkParams(Utils.java:94)\ndeckserver.dwr.ParamCheck.doFilter(ParamCheck.java:18)\nnote The full stack trace of the root cause is available in the Apache Tomcat/5.5.23 logs.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "46456"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Apr 1, 2013, 8:06\u202FPM",
+      "Body": "JOL is down, some games have been corrupted, George is working on it.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "46457"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jul 9, 2013, 5:34\u202FAM",
+      "Body": "JOL is down for now. George will try to get it back online some time tomorrow.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "51129"
+    }
+  ]
+}

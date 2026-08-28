@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-66086",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/66086-serpent-s-numbing-kiss",
+  "Title": "Serpent's Numbing Kiss",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 6, 2014, 6:09\u202FPM",
+      "Body": "Serpent's Numbing Kiss\npre/ser\ncombat\n0 blood\n\nStrike: combat ends.\nAs above, and if the range is close, this vampire burns 1 blood to put this card on the opposing minion and tap him or her. This minion does not untap as normal during your untap phase. Burn this card during your untap phase.\n\nSome questions have been asked about that card, so here are some answers:\n\n- Superior: Do I have to burn the blood?\nYes. If you don't want to get the numbing effect, simply play it at basic.\n\n- Who is \"this minion\"?\nWhile resolving the strike, \"this vampire\" is the vampire playing the card. Once the strike is resolved and the card is put in play, the card is on a minion, and \"this minion\" is the minion with the card.\n\n- Why does it say \"your untap phase\"?\nLike any other minion card on a minion, SNK is controlled by the minion it is on. So, while in play \"this minion\" on SNK only refers to the minion it is on, and \"you\" refers to the controller of the minion it is on. So, yes, it does work just like \"Strike: combat ends and I Mind Numb you.\"\n\n- What happens if the opponent plays *basic* Majesty (strike: combat ends), and I play SNK at sup?\nCombat ends, and the Majestying minion gets the card on them.\n\n- What happens if the opponent plays *basic* Staredown (Strike: dodge), and I play SNK at sup?\nThey dodge my strike. I must burn 1 blood and nothing else happens. (and combat ends)\n\n- What happens if the opponent plays *superior* Majesty (strike: combat ends and untap before the end of combat), and I play SNK at sup?\nBoth strike: combat ends resolve. Majesty untaps *before* the end of combat, while SNK's sup effect (just like any non-untap \"Strike: combat ends and do ...\" effect) happens *after* the end of combat.\nSo: First, they untap (Majesty). Then the combat ends. Then they tap (SNK) and you put the card on them.",
+      "Id": "66086"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Oct 7, 2014, 4:55\u202FAM",
+      "Body": "Thank you, especially the last bit. I was confused about that myself, and your detailed explanation helped me wrap my head around exactly what happens there and in what sequence.",
+      "Id": "66114"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 7, 2014, 6:04\u202FAM",
+      "Body": "> Pascal wrote:\n> - What happens if the opponent plays *basic* Staredown (Strike: dodge), and I play SNK at sup?\n> They dodge my strike. I burn 1 blood and nothing else happens.\n>\nThough just to point out, combat still ends from the S:CE effect. Dodge doesn't affect the combat ending effect, just the offensive element of it (putting the card on the dude).\n\n(Combat ending is pointed out explicitly in the other two combos, so it not being pointed out here together with \"nothing else happens\" may lead to unintentional confusion.)",
+      "Id": "66120"
+    },
+    {
+      "Author": "Exposer",
+      "Date": "Oct 17, 2014, 1:24\u202FPM",
+      "Body": "What happens if the opponent plays Telepathic Tracking or Psych! after resolution of Serpent's Numbing Kiss superior effect?\n\nNC Belarus",
+      "Id": "66723"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 17, 2014, 1:35\u202FPM",
+      "Body": "> Exposer wrote:\n> What happens if the opponent plays Telepathic Tracking or Psych! after resolution of Serpent's Numbing Kiss superior effect?\n>\nAs with other S:CE+something-that-isn't-untap effects:\n\n- the S:CE resolves\n- Psyche! or Telepathic Tracking or other similar cards are played\n- the rest of the effect from the S:CE+something is lost.\n\nwww.thelasombra.com/rules/RTR512.txt\n\n> RTR wrote:\n> Effects that end combat and then do something else after combat (all in the\n> single resolution of the effect) will fizzle if combat doesn't end or if a\n> new combat is started.\n>",
+      "Id": "66725"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jul 5, 2020, 11:05\u202FAM",
+      "Body": "Can i get confirm for one scenario about Serpent's Numbing Kiss:\nvampire play SNK sup and burn blood.\noposing vampire play psyche or any cards where start new new combat or combat continue.\nso only resolve combat end,SNK is burned and no unlock efect no resolve,but vampire who play SNK sup still need to burn blood,right?",
+      "Id": "100265"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2020, 11:28\u202FAM",
+      "Body": "> beslin wrote:\n> Can i get confirm for one scenario about Serpent's Numbing Kiss:\n> vampire play SNK sup and burn blood.\n> oposing vampire play psyche or any cards where start new new combat or combat continue.\n> so only resolve combat end,SNK is burned and no unlock efect no resolve,but vampire who play SNK sup still need to burn blood,right?\n>\nNo. The effect \"burn 1 blood to put this card on the opposing minion etc.\" should occur after the combat ends, but is lost because of Psyche!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100266"
+    }
+  ]
+}

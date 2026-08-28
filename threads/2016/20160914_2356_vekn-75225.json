@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-75225",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75225-claiming-the-body",
+  "Title": "Claiming the Body",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Sep 14, 2016, 11:56\u202FPM",
+      "Body": "Claiming the Body\nType: Action Modifier\nRequires: same circle Sanguinus\nCost: 1 blood\nRequires a ready untapped Blood Brother of the same circle as another one who has just been blocked.\n[san] Cancel the combat and end the action. (Do not untap the blocking minion.)\n[SAN] As above, and untap the acting Blood Brother.\n\nDoes the acting or the ready untapped Blood Brother of the same circle as another one, who has just been blocked, pay the blood cost of this card?",
+      "Id": "78281"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 15, 2016, 12:54\u202FAM",
+      "Body": "> XZealot wrote:\n> Requires a ready untapped Blood Brother of the same circle as another one who has just been blocked.\n>\nRequires... always refers to the minion playing the card, so in that case it is the non-acting minion who plays it, with all that entails.",
+      "Id": "78285"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Sep 16, 2016, 12:49\u202FPM",
+      "Body": "I understood it to be played by the acting minion, as almost all action modifiers are.\n\nIt requires that you have an untapped blood brother of the same circle, but not that it is usable or playable by the non-acting vampire.",
+      "Id": "78322"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 16, 2016, 1:15\u202FPM",
+      "Body": "> XZealot wrote:\n> I understood it to be played by the acting minion, as almost all action modifiers are.\n>\n\"Requires a ready untapped Blood Brother of the same circle as another one who has just been blocked.\"\n\n\"The acting minion\" and \"a ready untapped Blood Brother of the same circle as another one who has just been blocked\" can't be the same minion, since you must be acting in order to be blocked.\n\nThe \"only acting minions can play action modifiers\" rule is the default. But some cards explicitely states that someone else can play the card (eg. Veil the Legion, superior Cloak the Gathering). This is the case here.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78328"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 16, 2016, 1:26\u202FPM",
+      "Body": "> XZealot wrote:\n> It requires that you have an untapped blood brother of the same circle, but not that it is usable or playable by the non-acting vampire.\n>\nRequirements for minion cards are met by the minion playing the card. 1.6.1.3: \"Only a minion who meets the requirements given on a minion card can play it\"\n\nWhen Parity Shift says: \"Requires a prince or justicar.\", it means the minion playing the card must be a prince or justicar.\n\nWhen Claiming the Body says: \"Requires a ready untapped Blood Brother of the same circle as another one who has just been blocked.\", it means the minion playing the card must be a ready untapped Blood Brother of the same circle as another one who has just been blocked. The Golden Rule of Cards then allows that Blood Brother to play it even though they are not the acting minion, because it contravenes the normal rules on playing action modifiers.",
+      "Id": "78331"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Sep 16, 2016, 2:28\u202FPM",
+      "Body": "I think that makes it better, actually",
+      "Id": "78337"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 18, 2016, 1:21\u202FAM",
+      "Body": "There is another template, \"Only usable by...\", that could make the card clearer.",
+      "Id": "78354"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 19, 2016, 3:15\u202FPM",
+      "Body": "> Non-existant user wrote:\n> There is another template, \"Only usable by...\", that could make the card clearer.\n>\nWhich is the  current revised cardtext :\n\nOnly usable by a ready untapped Blood Brother of the same circle as another one who has just been blocked.\n[san] End the action (combat does not occur; do not untap the blocking minion).\n[SAN] As above, and untap the acting Blood Brother.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78386"
+    }
+  ]
+}

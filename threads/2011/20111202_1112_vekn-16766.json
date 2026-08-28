@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-16766",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16766-vast-wealth-hay-ride",
+  "Title": "vast wealth + hay ride",
+  "Messages": [
+    {
+      "Author": "cmdrKEEN",
+      "Date": "Dec 2, 2011, 11:12\u202FAM",
+      "Body": "when I equip via Vast Wealth and the action is blocked, the weapon I tryed to equip is put in the ash heap. Does that qualify as \"used for the action\" to play Hay Ride or would I have to play the equipment card from the hand and use its inherent equip acton for that?\n\nVast Wealth\nMaster Master.\nPut this card on a ready minion you control. While you\ncontrol this minion, he or she can equip with the first\npiece of equipment you find in your library (working\ndown from the top) as a +1 stealth action\n(requirements and cost apply as normal). Shuffle\nafterward.\n\nHay Ride [HttB:R]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline:Sanguinus\n[san] Only usable after resolving an action (successfully or not). Choose a Blood\nBrother of the same circle as this acting vampire. As your next action, that Blood\nBrother may play the action card used for this action from your ash heap as if\nfrom your hand.\n[SAN ] As above, but the cost of this card is reduced by 1 blood.",
+      "Id": "16766"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Dec 2, 2011, 11:17\u202FAM",
+      "Body": "Vast Wealth allows you to take an action to search for a weapon. If the action is blocked, you don't search your library.\n\npckvtes.wordpress.com",
+      "Id": "16767"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2011, 11:35\u202FAM",
+      "Body": "> Amenophobis wrote:\n> Vast Wealth allows you to take an action to search for a weapon. If the action is blocked, you don't search your library.\n>\nCorrect.\nPlus, there is no action card. So Hay Ride can't be played.",
+      "Id": "16770"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Dec 2, 2011, 5:44\u202FPM",
+      "Body": "> Pascal wrote:\n> Correct.\n> Plus, there is no action card. So Hay Ride can't be played.\n>\nCan't be played? Or has no effect when played?\n\nI mean, \"Only usable after resolving an action (successfully or not)\" seems like it would apply in this case. And, \"As your next action, that Blood\nBrother may\" is clearly both optional and outside the scope of this action.\n\nContrast the case where the chosen Blood Brother is unable to take an action. (They may have a Bauble, or just be tapped.) That would also prohibit the optional clause from being possible, but I wouldn't expect that to prevent the play of Hay Ride.",
+      "Id": "16842"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 10:05\u202FPM",
+      "Body": "> finbury wrote:\n>\n> > Pascal wrote:\n> > Correct.\n> > Plus, there is no action card. So Hay Ride can't be played.\n> >\n> Can't be played? Or has no effect when played?\n>\nCan't be played. There's no action card.\n\n> finbury wrote:\n> I mean, \"Only usable after resolving an action (successfully or not)\" seems like it would apply in this case.\n>\nYou have to read the whole card, you can't just read a bit then conclude anything.\n\nThe card allows you to play an action card again. If there's no action card, you can't play HR.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16883"
+    },
+    {
+      "Author": "cmdrKEEN",
+      "Date": "Dec 2, 2011, 10:41\u202FPM",
+      "Body": "hrmpf  intellectual self-oust\n\nOriginally I was looking for a card that grants a Anonymous-Freight-like effect without being an action itself, but obviously such a card does not exist. And if equiping with Anonymous Freight, Hay Ride probably can only be used for this and not for the equipment.\n\nAnonymous Freight\nAction\n+3 stealth equip action. Requires a vampire.\nEquip this vampire with a non-location equipment card from your hand (requirements and cost apply as normal).",
+      "Id": "16892"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 3, 2011, 1:07\u202FAM",
+      "Body": "> cmdrKEEN wrote:\n> hrmpf  intellectual self-oust\n>\n> Originally I was looking for a card that grants a Anonymous-Freight-like effect without being an action itself, but obviously such a card does not exist. And if equiping with Anonymous Freight, Hay Ride probably can only be used for this and not for the equipment.\n>\nIf you performing (successfully or not) an Anonymous Freight action, Hay Ride can indeed only be used to play Anonymous Freight again (with, maybe, a new target).\n\nWere you looking for a card such as Pier 13, Port of Baltimore?\n>\n> Pier 13, Port of Baltimore\n> [SW:U/PB, Third:U, KoT:U]\n> Cardtype: Equipment\n> Cost: 2 blood\n> This equipment card represents a unique location and does not count as equipment while in play.\n> During your influence phase, this minion may equip with a non-location, non-unique equipment card from your hand (requirements and cost apply as normal). This is not an action and cannot be blocked.\n>\nIn this case, the equipping part is not an action (so you can't play action modifiers - such as Forger's Hammer - on it). It also triggers during the influence phase, where minion cards can't be played.",
+      "Id": "16904"
+    }
+  ]
+}

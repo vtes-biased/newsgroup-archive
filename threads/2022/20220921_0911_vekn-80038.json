@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-80038",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80038-daemonic-possession",
+  "Title": "Daemonic Possession",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Sep 21, 2022, 9:11\u202FAM",
+      "Body": "Name: Daemonic Possession\n[FN:C2, POD:DTC]\nCardtype: Action\nCost: 2 blood\nDiscipline: Necromancy\n[nec] Choose a minion controlled by another Methuselah who has been burned since your last turn. Move the chosen minion from their owner's ash heap to your ready region with 1 blood or life, and lock them.\n[NEC] As above, but do not lock the chosen minion.\nArtist: Mark Nelson\n\nAs far as I know, minions in ash heaps are never controlled. What means that the minion has to be controlled?\n\nThanks.",
+      "Id": "106382"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 21, 2022, 9:58\u202FAM",
+      "Body": "> Coyote wrote:\n> As far as I know, minions in ash heaps are never controlled.\n>\nThis is correctly understood.\n\n> Coyote wrote:\n> What means that the minion has to be controlled?\n>\nThe card text is not the best\u2026 the wording is because of the \u201Csince your last turn.\u201D referring to a past state where \u201Ca minion controlled by another Methuselah\u201D is applicable. Read it as per below, hopefully it makes more sense.\n\n\u201C Choose a minion that was controlled by another Methuselah who has been burned since your last turn. Move the chosen minion from their owner's ash heap to your ready region with 1 blood or life, and lock them.",
+      "Id": "106383"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Sep 21, 2022, 10:08\u202FAM",
+      "Body": "Thanks a lot, inm8\n\nI was looking to use daemonic possession with vampires burned by Gisela Harden, The Winnower, but I see that combo doesn't work. Neither it does with Yong-Sun, Harmonist.\n\nName: Gisela Harden, The Winnower\n[BL:U2]\nCardtype: Vampire\nClan: Harbinger of Skulls\nGroup: 2\nCapacity: 7\nDiscipline: aus dem FOR NEC\nSabbat priscus: Gisela can burn an uncontrolled minion in your prey's uncontrolled region as a  action that costs X blood, where X is the amount of blood on that card, any blood on that card is returned to your prey's pool.\nArtist: Christopher Shy\n\nName: Yong-Sun, Harmonist\n[Sabbat:V, Promo-20040409]\nCardtype: Vampire\nClan: Nosferatu antitribu\nGroup: 2\nCapacity: 10\nDiscipline: aus ANI OBF POT THA\nSabbat cardinal: Yong-Sun may burn the top card of your prey's crypt as a  action.\nArtist: Kevin McCann",
+      "Id": "106384"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 21, 2022, 12:48\u202FPM",
+      "Body": "Yes, in theory this card doesn't even work, cause no such minion as stipulated by its condition can exist. Unfortunately BCP had a policy at some point that they only errata cards that come into print. Since this is necromancy card which won't see reprint (necromancy will be rolled into Oblivion in V5), I have no idea what happens to this.\n\nIt should just say \"minion card from another methuselah's ash heap\".\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106387"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 21, 2022, 12:53\u202FPM",
+      "Body": "> inm8 wrote:\n>\n> > Coyote wrote:\n> > As far as I know, minions in ash heaps are never controlled.\n> >\n> This is correctly understood.\n>\n> > Coyote wrote:\n> > What means that the minion has to be controlled?\n> >\n> The card text is not the best\u2026 the wording is because of the \u201Csince your last turn.\u201D referring to a past state where \u201Ca minion controlled by another Methuselah\u201D is applicable. Read it as per below, hopefully it makes more sense.\n>\n> \u201C Choose a minion that was controlled by another Methuselah who has been burned since your last turn. Move the chosen minion from their owner's ash heap to your ready region with 1 blood or life, and lock them.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106388"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 22, 2022, 10:22\u202FAM",
+      "Body": "> Ankha wrote:\n> Correct.\n>\nSo are we to understand that this card DOES work even though it has had no errata, or that it is always unplayable?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106396"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 22, 2022, 2:34\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > Correct.\n> >\n> So are we to understand that this card DOES work even though it has had no errata, or that it is always unplayable?\n>\nIt does work as if written \"Choose a minion that was controlled\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106397"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 22, 2022, 9:43\u202FPM",
+      "Body": "The text was changed as part of being made available on DTC, unfortunately the wording isn\u2019t as clear as could be. Would be good to update the text if possible (e.g. adding \u201Cthat was\u201D) as it is in print currently, so that is more clear and doesn\u2019t rely on that the \u201Csince your last turn\u201D applies to both when it was \u201Ccontrolled by another Methuselah\u201D and to when the minion \u201Chas been burned\u201D (I doubt if it is grammatically correct for the intended meaning).\n\nThe below is the new text:\n\n> Choose a minion controlled by another Methuselah who has been burned since your last turn. Move the chosen minion from their owner's ash heap to your ready region with 1 blood or life, and lock them.\n> As above, but do not lock the chosen minion.\n>\nThe below is the old text:\n\n> : Only usable when a minion controlled by another Methuselah has been burned since your last turn. Move that minion from his or her owner\u2019s ash heap to your ready region, put 1 blood or life from the blood bank on the minion and tap the minion. You now control the minion.\n> : As above, but the minion is untapped.\n>",
+      "Id": "106400"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 23, 2022, 12:22\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Bloodartist wrote:\n> >\n> > > Ankha wrote:\n> > > Correct.\n> > >\n> > >\n> > So are we to understand that this card DOES work even though it has had no errata, or that it is always unplayable?\n> >\n> It does work as if written \"Choose a minion that was controlled\"\n>\nExcept that is not its official text.\nwww.vekn.net/images/stories/downloads/cardlist.txt\n\nThat is also not its text in DTC.\nwww.drivethrucards.com/product/339343/Library--Daemonic-Possession--Action\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "106404"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 23, 2022, 1:00\u202FPM",
+      "Body": "It is now.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106406"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 23, 2022, 3:09\u202FPM",
+      "Body": "> Ankha wrote:\n> It is now.\n>\nWill the updated text be used on future DTC printed cards?",
+      "Id": "106412"
+    }
+  ]
+}

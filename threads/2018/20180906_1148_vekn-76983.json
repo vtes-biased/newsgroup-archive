@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-76983",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76983-secure-haven-target",
+  "Title": "Secure Haven - \"Target\"",
+  "Messages": [
+    {
+      "Author": "Yomyael",
+      "Date": "Sep 6, 2018, 11:48\u202FAM",
+      "Body": "In our playgroup yesterday the question arose, when a master card \"targets\" a vampire. Does Tend the Flock target the chosen ready Baali?\n\nCardtexts\n\nSecure Haven\nCost: 1 pool\nMaster: unique location. Haven.\nPut this card on a minion you control. This minion cannot be the target of other Methuselahs' actions. Any Methuselah burns an additional pool when playing master cards on (or that target) this minion. Burn this card if this minion enters torpor. A minion may have only one haven.\n\nTend the Flock\nMaster.\nChoose a ready, untapped, infernal Baali you control. Move 3 pool from the bank to a younger infernal vampire in your uncontrolled region.\n\nPrince of Bonn, Germany",
+      "Id": "90459"
+    },
+    {
+      "Author": "markeeuu",
+      "Date": "Sep 6, 2018, 1:32\u202FPM",
+      "Body": "No because the text states \"Choose\" and not target.The reason is that the card's text only works if the uncontrolled vampire is younger, therefore you need to let everyone know that the card is being played by a Baali with capacity X, putting blood on infernal vampire with capacity < X\n\nSo if you didn't have to choose, you could have a 5 cap Baali in play and be able to put 3 counters on a 10 cap infernal vampire.",
+      "Id": "90462"
+    },
+    {
+      "Author": "M.Schumacher",
+      "Date": "Sep 6, 2018, 4:30\u202FPM",
+      "Body": "Thats not correct as per\ngroups.google.com/forum/#!searchin/rec.games.trading-cards.jyhad/secure$20haven$20cost|sort:date/rec.games.trading-cards.jyhad/Fu9bb63ds90/HtMDR-nHBsAJ\n\nSecure haven increases the cost of Tend the flock by 1.",
+      "Id": "90464"
+    },
+    {
+      "Author": "markeeuu",
+      "Date": "Sep 6, 2018, 7:02\u202FPM",
+      "Body": "I guess it could be argued that the Master is not being played on the Secured Heaven minion, but on the uncontrolled vampire. I see how it can also be interpreted in the way your link lists.",
+      "Id": "90470"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 7, 2018, 7:03\u202FAM",
+      "Body": "> markeeuu wrote:\n> No because the text states \"Choose\" and not target.The reason is that the card's text only works if the uncontrolled vampire is younger, therefore you need to let everyone know that the card is being played by a Baali with capacity X, putting blood on infernal vampire with capacity < X\n>\n> So if you didn't have to choose, you could have a 5 cap Baali in play and be able to put 3 counters on a 10 cap infernal vampire.\n>\nThis is irrelevant to the topic though. The topic question is does \"choose\" count as \"targeting\". Apparently in VTES it does.\n\nThe current wording of secure haven has:\n\"Any Methuselah burns an additional pool when playing master cards on (or that target) this minion.\"\n\nPersonally I wouldn't make the tend the flock cost extra since tend the flock doesn't use the word \"target\" nor is it technically played on the vampire (\"Play on an infernal vampire\"). But this is a problem with tend the flock's wording. If you consider how the card is supposed to be used it should cost extra.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "90474"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 7, 2018, 8:46\u202FAM",
+      "Body": "Target: a card is targeted if:\n- it is chosen (\"choose...\")\n- it is the target of a  action, (\"Enter combat with a minion\" -- the minion is the target of the action)\n\ngroups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/clifT98_Zrk/aQ4cGuJnT9wJ\n\n> LSJ wrote:\n> > Choosing is not targetting -none of these cost anything.\n> Incorrect.\n>\nSee also:\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/G1w6TeymEnQ/QS78VbaUmgIJ\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/IdQTvFaLVC0/bqBtMgwFZ18J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90475"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 7, 2018, 12:34\u202FPM",
+      "Body": "Shattering Crescendo vs Secure Haven\n\nShattering Crescendo, Action, 1 blood, Melpominee/Protean, C , [HttB:C/B4]\n\n[pro]  Inflict 1 unpreventable damage on an ally or retainer.\n[mel]  Discard a Shattering Crescendo to inflict 2 unpreventable damage on each of up to 2 minions controlled by a single Methuselah.\n[MEL] As [mel] above, but for 3 unpreventable damage each.\n\nIf we watch part of text Spirit Marionette and Propoganda and LSJ answer:\n\" No. There're both directed actions, so the Secured minion is protected.\"\n\nprobably minion with Secure Haven cannot be target with Shattering Crescendo\n(Melpominee discipline) but i want to someone confirm that.",
+      "Id": "90480"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 7, 2018, 3:05\u202FPM",
+      "Body": "Shattering Crescendo inflicts damage on minions, so yes it targets those minions.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90481"
+    }
+  ]
+}

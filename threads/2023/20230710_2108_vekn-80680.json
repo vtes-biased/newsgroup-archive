@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-80680",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80680-inscription-and-repeating-carded-action",
+  "Title": "Inscription and Repeating Carded Action",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Jul 10, 2023, 9:08\u202FPM",
+      "Body": "Question: \"Can a vampire use an Inscribed Blood Sorcery action if they had already taken that action (without Inscription) during the turn?\" --Assume that the action is not a bleed or political action.\n\nScenario:\nEugenio Estevez plays a Cryptic Mission and unlocks with Freak Drive. He then (during the same turn) plays superior Inscription, which he puts on himself along with a face-up copy of Cryptic Mission, per the Inscription card text. He unlocks again with another Freak Drive.\n\"Can Eugenio now burn the Inscription, even though he has performed Cryptic Mission earlier this turn?\"\n\"If yes, can Eugenio perform the Inscribed Cryptic Mission action, or does the Inscription just burn with no action taken?\"\n\nCard text pasted below.\n\nThanks much,\n-Bill Troxel / Killiam\n\nName: Eugenio Estevez\nCardtype: Vampire\nClan: Tremere\nGroup: 3\nCapacity: 6\nDiscipline: dom for AUS THA\nCamarilla.\n\nName: Cryptic Mission\nCardtype: Action\nDiscipline: Thaumaturgy\n+1 stealth action.\n[tha]  Burn 1 blood on a vampire, or do 1 unpreventable damage to any ally or retainer.\n[THA] As above, and the acting vampire gains 1 blood from the blood bank.\n\nName: Freak Drive\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Fortitude\nOnly usable after action resolution.\n[for] Only usable if the action was successful. Unlock this vampire.\n[FOR] Only usable if the action was blocked. Unlock this vampire.\n\nName: Inscription\nCardtype: Equipment\nDiscipline: Thaumaturgy\nEquipment.\n[tha] Put this equipment on a ready vampire and put a card that requires Blood Sorcery [tha] from your hand on it (face up, out of play; this acting vampire pays the cost of that card). The vampire with this equipment can burn this equipment to use the basic Blood Sorcery ability of that card.\n[THA] As above, but the vampire can use the superior Blood Sorcery [THA] ability of the card.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "108641"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 11, 2023, 4:40\u202FAM",
+      "Body": "This ruling on Inscription with Action Modifier \"repeats\" suggests that you can use it to Cryptic a second time with the same vampire, since the card isn't played, it's used.\n\nwww.vekn.net/forum/rules-questions/76757-inscription-and-mirror-walk#88419\n\nIt is an action provided by a card in play (when it has an action card on it)...by the Inscription. Which means that multiple Inscriptions on the same vampire with the same action on them could be completed on the same turn until all of them are used, since each Inscriptions NRA is limited by instance, cf. burning multiple Creeping Sabotages with the same vampire.",
+      "Id": "108642"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 11, 2023, 12:20\u202FPM",
+      "Body": "> kschaefer wrote:\n> This ruling on Inscription with Action Modifier \"repeats\" suggests that you can use it to Cryptic a second time with the same vampire, since the card isn't played, it's used.\n>\n> www.vekn.net/forum/rules-questions/76757-inscription-and-mirror-walk#88419\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "108646"
+    }
+  ]
+}

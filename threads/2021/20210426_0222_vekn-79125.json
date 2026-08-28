@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-79125",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/lackeyccg/79125-lackey-vulnerabilities",
+  "Title": "Lackey Vulnerabilities",
+  "Messages": [
+    {
+      "Author": "Katricz",
+      "Date": "Apr 26, 2021, 2:22\u202FAM",
+      "Body": "Greetings folks.\n\nI found 05 vulnerabilities in Lackey that I share with all of you.\n\nFirst, I would like to emphasize that the goal is to make it public for everyone and look for a solution for this application and for our beloved game.\n\n01 - Cancel Draw\n\nThe Cancel Draw button returns the leftmost card to the library, if the cards are changed order in your hand, Cancel Draw will return the wrong card.\n\n02 - No Shuffle\n\nIn the main folder of the plugin, which is at:\n(...) \\ LackeyCCG \\ plugins \\ vtes \\\nhas a file called plugininfo.txt with the settings for shuffling the deck, marked as Yes. If you switch to No, the decks will not be shuffled when imported, allowing the user to choose the order of the cards he will draw (order that was placed in the deck creation).\n\n03 - Disconect and Load Game Offline\n\nthe user can disconnect in a match, go offline and use the Load Game. With that he restores the same game table online.\nThat user will be able to see his hands and all his library before resuming to the online game, giving them an unlawful advantage.\n\n04 - Cain Mode\n\nWhen passing the turn, Lackey generates an autosave file in the \\ LackeyCCG \\ plugins \\ vtes \\ saved \\\n\nThis file contains all the information of the table, such as hand, libray, crypta, pool of all players.\nAlthough the card is in code, it is easily possible to make the corresponding name for that code.\n\nIt is not need to map all the cards to have extraneous advantages, just know that the X, Y, Z codes are deflection cards and the T card is Archon, to be able to use that bleed of 07 without worry.\n\nI mapped all cards ID and Names to show how this work, and I will gladly show you.\nAfter start a game and pass turn, I can tell all hand, livrary order, crypt for all players.\n\n05 - Revert to Autosave\n\nThe Autosave file can be changed before using Revert to Autosave. It is possible to change the pool, the cards, the library before using Revert to Autosave.\n\nThis information is already known to several people from different countries.\nI can't say that anyone used that in games, but I'm sure they know it.\n\nRather than trying to solve the problem, people that knew tried to hide these flaws to prevent users from using it.\n\nI prefer to divulge to everyone about them and ask the community for help in finding solutions.\n\nNo further.\n\nKatricz\n\nFile Attachment:  File Name:  LackeyID-Library.zip\nFile Size:55 KB",
+      "Id": "102149"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 26, 2021, 8:49\u202FAM",
+      "Body": "More reason, besides the horrible interface, for me to continue NOT using Lackey!\n\nI HIGHLY recommend that Lackey should NOT be used for any National Championships or higher level games!\n\nFinnish  Politics!",
+      "Id": "102152"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Apr 26, 2021, 9:32\u202FAM",
+      "Body": "Thanks Katricz for taking the time to check this. But honestly Im not surprised at all. Lackey was never intended for competitive play so solutions used in it are as simple as possible.",
+      "Id": "102153"
+    },
+    {
+      "Author": "Katricz",
+      "Date": "Apr 26, 2021, 10:32\u202FAM",
+      "Body": "I know. My point is, if you wanna use Lackey (for fun or champs), you need to know its vunerabilities.",
+      "Id": "102154"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Apr 27, 2021, 7:17\u202FAM",
+      "Body": "Do you know if BCP is aware about those cheating techniques ?\n\nWhatever the answer, the Lackey tournaments MUST be either unrated or rated specifically...\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "102162"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 27, 2021, 8:39\u202FAM",
+      "Body": "Hey Katricz I want to ask about this:\n\n02 - No Shuffle\n\nIn the main folder of the plugin, which is at:\n(...) \\ LackeyCCG \\ plugins \\ vtes \\\nhas a file called plugininfo.txt with the settings for shuffling the deck, marked as Yes. If you , the decks will not be shuffled when imported, allowing the user to choose the order of the cards he will draw (order that was placed in the deck creation).\n\nSo if player switch to No,what happen if you use to shufle his crypt/library,can you shufle it?",
+      "Id": "102165"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 27, 2021, 8:43\u202FAM",
+      "Body": "> Non-existant user wrote:\n> Hey Katricz I want to ask about this:\n>\n> 02 - No Shuffle\n>\n> In the main folder of the plugin, which is at:\n> (...) \\ LackeyCCG \\ plugins \\ vtes \\\n> has a file called plugininfo.txt with the settings for shuffling the deck, marked as Yes. If you , the decks will not be shuffled when imported, allowing the user to choose the order of the cards he will draw (order that was placed in the deck creation).\n>\n> So if player switch to No,what happen if you use to shufle his crypt/library,can you shufle it?\n>\nYou can ask players to reveal their library and crypt to themselves, and then hide & shuffle.\nBoth operations will appear in the log and prove the deck is indeed shuffled.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102166"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 27, 2021, 8:45\u202FAM",
+      "Body": "> Katricz wrote:\n> 01 - Cancel Draw\n>\n> The Cancel Draw button returns the leftmost card to the library, if the cards are changed order in your hand, Cancel Draw will return the wrong card.\n>\n> 03 - Disconect and Load Game Offline\n>\n> the user can disconnect in a match, go offline and use the Load Game. With that he restores the same game table online.\n> That user will be able to see his hands and all his library before resuming to the online game, giving them an unlawful advantage.\n>\n> 04 - Cain Mode\n>\n> When passing the turn, Lackey generates an autosave file in the \\ LackeyCCG \\ plugins \\ vtes \\ saved \\\n>\n> This file contains all the information of the table, such as hand, libray, crypta, pool of all players.\n> Although the card is in code, it is easily possible to make the corresponding name for that code.\n>\n> It is not need to map all the cards to have extraneous advantages, just know that the X, Y, Z codes are deflection cards and the T card is Archon, to be able to use that bleed of 07 without worry.\n>\n> I mapped all cards ID and Names to show how this work, and I will gladly show you.\n> After start a game and pass turn, I can tell all hand, livrary order, crypt for all players.\n>\n> 05 - Revert to Autosave\n>\n> The Autosave file can be changed before using Revert to Autosave. It is possible to change the pool, the cards, the library before using Revert to Autosave.\n> I prefer to divulge to everyone about them and ask the community for help in finding solutions.\n>\nThose don't have solutions. 1/ because changing the card order in the hand doesn't appear in the log, and the other points because offline manipulations can't be controlled.\nOnly 2/ can be circumvented using the technique I exposed before.\n\nLackey is a proprietary program. Its source code is not available and cannot be changed by us.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102167"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Apr 27, 2021, 9:50\u202FAM",
+      "Body": "Thanks Vincent for the Shuffling at the beginning m\u00E9thod.\n\nI will enforce it on my tournaments.\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "102169"
+    },
+    {
+      "Author": "Katricz",
+      "Date": "Apr 28, 2021, 4:29\u202FAM",
+      "Body": "I dont know",
+      "Id": "102179"
+    },
+    {
+      "Author": "mondragon",
+      "Date": "Apr 28, 2021, 8:03\u202FAM",
+      "Body": "I Will try to put suggestion to solve the problems.\n01 - Cancel Draw\n\nThis can be solved by reprograming lackey log messages\nShould appears in log when a player move card position in hand, and diferent message for cancel draw and put choice card from hand to library\n\n02 - No Shuffle\n\nThis can be solved just shufling at start\n\n03 - Disconect and Load Game Offline\n\nHard.\nMaybe can be fixed with reprograming. If only Host get autosaves, at least only one player (or judge in events) can get access to the files.\n\n04 - Cain Mode\n\nSame repply as 03\n\n05 - Revert to Autosave\n\nSame repply as 03",
+      "Id": "102181"
+    },
+    {
+      "Author": "Katricz",
+      "Date": "Apr 28, 2021, 1:47\u202FPM",
+      "Body": "> I Will try to put suggestion to solve the problems.\n> 01 - Cancel Draw\n>\n> This can be solved by reprograming lackey log messages\n> Should appears in log when a player move card position in hand, and diferent message for cancel draw and put choice card from hand to library\n>\n> 02 - No Shuffle\n>\n> This can be solved just shufling at start\n>\n> 03 - Disconect and Load Game Offline\n>\n> Hard.\n> Maybe can be fixed with reprograming. If only Host get autosaves, at least only one player (or judge in events) can get access to the files.\n>\n> 04 - Cain Mode\n>\n> Same repply as 03\n>\n> 05 - Revert to Autosave\n>\n> Same repply as 03\n>\nDo we know who own Lackey? If he can fix the code?\n\nIf no:\n01 - Cancel Draw\nIf someone draws wrong, put a random card in the library and shuffle. He get a warning (maybe).\n\n02 - No Shuffle\nThis can be solved just shufling at start\n\n03 - Disconect and Load Game Offline\nDo not pass the turns.\nCons: The game will not be saved.\n\nHave a non-player who will be the Host to manually save the game and not pass the turns\nCons: Each table will need 1 more person just to do this manual process\n\n04 - Cain Mode\nSame as 03\n\n05 - Revert to Autosave\nSame as 03",
+      "Id": "102183"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Apr 28, 2021, 11:33\u202FPM",
+      "Body": "> Katricz wrote:\n> Do we know who own Lackey? If he can fix the code?\n>\nYes, and he's basically content to only host the server, and that's about it. he's come out and said that there are no plans to further update Lackey.",
+      "Id": "102185"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 29, 2021, 4:42\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > Katricz wrote:\n> > Do we know who own Lackey? If he can fix the code?\n> >\n> Yes, and he's basically content to only host the server, and that's about it. he's come out and said that there are no plans to further update Lackey.\n>\nAnd considering it's been years we've sent requests to him, at least to support non-qwerty keyboards, I think we can assume no change will be ever done.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102187"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 29, 2021, 7:14\u202FPM",
+      "Body": "> Katricz wrote:\n>\n> Do we know who own Lackey? If he can fix the code?\n>\nyes we know,i just checked me old meseges with lackey owner. he promise in end 2019 how will talk with some people to share lackey code to they fix bugs. i remind him some time if he want to do that but him stop to answer on me mesages.\nbecause lackey server be much time down one guy want to donate : a dedicated VPS machine with good connectivity,to help with this problem,lackey admin say he will checked shared topic about this,but never reply.\nidk if make sense ask him to share code again,because some people inform me if him share code him will lose control of lackey.\nwell if want to contact him first need to find again people who want to help about fix bugs,because people who promise that earlier maybe dont have more free time for that.",
+      "Id": "102188"
+    },
+    {
+      "Author": "rolv",
+      "Date": "Feb 9, 2022, 12:58\u202FPM",
+      "Body": "> Katricz wrote:\n> Greetings folks.\n>\n> I found 05 vulnerabilities in Lackey that I share with all of you.\n>\n> First, I would like to emphasize that the goal is to make it public for everyone and look for a solution for this application and for our beloved game.\n>\n> 01 - Cancel Draw\n>\n> The Cancel Draw button returns the leftmost card to the library, if the cards are changed order in your hand, Cancel Draw will return the wrong card.\n>\n> 02 - No Shuffle\n>\n> In the main folder of the plugin, which is at:\n> (...) \\ LackeyCCG \\ plugins \\ vtes \\\n> has a file called plugininfo.txt with the settings for shuffling the deck, marked as Yes. If you switch to No, the decks will not be shuffled when imported, allowing the user to choose the order of the cards he will draw (order that was placed in the deck creation).\n>\n> 03 - Disconect and Load Game Offline\n>\n> the user can disconnect in a match, go offline and use the Load Game. With that he restores the same game table online.\n> That user will be able to see his hands and all his library before resuming to the online game, giving them an unlawful advantage.\n>\n> 04 - Cain Mode\n>\n> When passing the turn, Lackey generates an autosave file in the \\ LackeyCCG \\ plugins \\ vtes \\ saved \\\n>\n> This file contains all the information of the table, such as hand, libray, crypta, pool of all players.\n> Although the card is in code, it is easily possible to make the corresponding name for that code.\n>\n> It is not need to map all the cards to have extraneous advantages, just know that the X, Y, Z codes are deflection cards and the T card is Archon, to be able to use that bleed of 07 without worry.\n>\n> I mapped all cards ID and Names to show how this work, and I will gladly show you.\n> After start a game and pass turn, I can tell all hand, livrary order, crypt for all players.\n>\n> 05 - Revert to Autosave\n>\n> The Autosave file can be changed before using Revert to Autosave. It is possible to change the pool, the cards, the library before using Revert to Autosave.\n>\n> This information is already known to several people from different countries.\n> I can't say that anyone used that in games, but I'm sure they know it.\n>\n> Rather than trying to solve the problem, people that knew tried to hide these flaws to prevent users from using it.\n>\n> I prefer to divulge to everyone about them and ask the community for help in finding solutions.\n>\n> No further.\n>\n> Katricz\n>\n> File Attachment:  File Name:  LackeyID-Library.zip\n> File Size:55 KB\n>\nI've been fiddling with Lackey's commands and macros recently, and I think some solutions can be found, for some of these issues at least. Here are the commands is anyone's interested: lackeyccg.com/tutoriallogcommands.html\n\n01 - Cancel Draw\n\nIn Lackey terms, Cancel Draw moves a card from top of \"Hand\" zone to top of \"Library\" zone. I think that in order to fix that, the order of library would have to be tracked, which is not possible at the moment AFAIK. At the moment, players have to remember what was the last card they've drawn.\n\n02 - No Shuffle\n\nIn my opinion this could be resolved using:\n\n/shuffleseat S Z\n\nWhere S is a player's seat and Z is number of the zone to be shuffled. This, combined with chained commands can give is a command to shuffle All 5 players Library that could be dispatched by the judge, provided that players haven't changed the zone order in plugininfo.txt (I mean, that would result in other horrible bugs, so this is highly unlikely and is a part of a larger problem):\n\n/shuffleseat 1 2;/shuffleseat 2 2;/shuffleseat 3 2;/shuffleseat 4 2;/shuffleseat 5 2\n\n03 - Disconnect and Load Game Offline\n04 - Cain Mode\n05 - Revert to Autosave\n\nWell, that would be basically cheating, so the problem is the insecurities of an adult that is cheating in a card game played for fun, I don't know how to fix that :/ Opinions aside, it's indeed an issue and would require extending Lackey with some encryption capabilities.\n\nSome other ways I can think of in order to prevent it is to have a judge/unbiased player who's handling the game state, i.e. runs /savegame gamefile_name, /loadgame gamefile_name commands. This won't prevent bad intentions though.\n\nAnother one would be that after restoring a saved game, all players have to whisper the checksum of the save file using the \"/checksum LocalPath\" command. This however can get a bit tedious since it's requires a chain of actions to handle, but basically yeah, checking a file sum of a file can indicate whether the file has been tampered with, it won't fix the issue of peeking into the file without making changes though.\n\nAs far as vulnerabilities go, in general, Lackey was not designed to handle malicious intent in my opinion. It's intended for having fun together, at least that's how I try to use this software. For example, if somebody would like to ruin the game, they could just run /shufflealldecks in the chat and boom, every zone of every player gets shuffled (Hand, Library, Crypt etc.), one could exchange hands of players clockwise with a command and so on.\n\nAlso, I agree that online tournament ranking should be a separate category and/or should be calculated differently from real-life tournaments.",
+      "Id": "104660"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 10, 2022, 12:37\u202FPM",
+      "Body": "LOL,\nsuch a system is sure fine and dandy for casual games but especially now during covid there has been official championships organized using Lackey which leaves the tournament wide open to anyone sorry and ruthless enough to exploit these weaknesses :'(\n\nFinnish  Politics!",
+      "Id": "104663"
+    }
+  ]
+}

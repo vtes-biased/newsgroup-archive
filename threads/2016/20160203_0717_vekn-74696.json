@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-74696",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/74696-hackerspace-question",
+  "Title": "Hackerspace Question",
+  "Messages": [
+    {
+      "Author": "Robert Scythe",
+      "Date": "Feb 3, 2016, 7:17\u202FAM",
+      "Body": "Do not know if this has already been asked and/or answered. When an Anarch Convert is influenced up and uses its ability to turn a vampire into an anarch will the Convert trigger Hackerspace as well as the ability for 2 counters?\n\nSorry no texts.",
+      "Id": "75322"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Feb 3, 2016, 8:55\u202FAM",
+      "Body": "Hackerspace\nMaster\nLocation.\nPut this card in play with X counters, where X is the number of anarchs you control. When an anarch comes into play under your control, or when a vampire you control becomes anarch, add 1 counter to this card. When equipping an anarch, you can use the counters on this card to pay some or all of the blood or pool cost of the equipment.\n\nAnarch Convert [TR:U]\nCardtype: Vampire\nClan: Caitiff\nGroup: *\nCapacity: 1\nDiscipline: -none-\nIndependent. Anarch: When the convert enters play, you may remove him from the game to make a non-titled vampire you control anarch and either gain 1 pool or draw a card from your crypt.",
+      "Id": "75323"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 3, 2016, 9:14\u202FAM",
+      "Body": "I'd say yes. The two triggers on Hackspace are not correlated (as would be two triggers on a Dual Form for instance), so the first one triggers when the AC comes into play, then the second trigger is also activated when you turn one of your vampires anarch.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "75324"
+    },
+    {
+      "Author": "Kimpan",
+      "Date": "Feb 5, 2016, 12:22\u202FAM",
+      "Body": "But with that logic the AC would go into contest before using its special rule if there is another AC on the table. And I don't think its ruled that way, but not sure.\n\nNational Coordinator of Sweden",
+      "Id": "75338"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 5, 2016, 7:04\u202FPM",
+      "Body": "> Kimpan wrote:\n> But with that logic the AC would go into contest before using its special rule if there is another AC on the table. And I don't think its ruled that way, but not sure.\n>\nYou handle the \"enters play\" effect of a card, even if the card is about to be contested. So when I have an Anarch Convert out and you bring yours out, you get to use the \"enters play\" effect before contesting - which in the case of Anarch Convert means the contest then doesn't happen.\n\n[LSJ 20080526]\n>\n> LSJ wrote:\n> You do the \"enters play\"/\"is played\" stuff when the card is played (like\n> targeting the Rack or Anarch Convert's conversion). Effects of the\n> to-be-contested card being in play (like Elder Library's +hand size) are not\n> applied.\n>\n> So, yes, you can do the Anarch Convert effect (removing the Convert from the\n> game to make another vampire an anarch) when the card enters play, even if\n> another Anarch Convert is in play and would contest your incoming copy.\n>",
+      "Id": "75351"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 10, 2021, 7:33\u202FAM",
+      "Body": "1. What happen if Anarch Convert when enter in play use his ability to turn vampire to anarch who is already anarch before this(so doing that just for cicle crypt). will Hackerspace get 1 or 2 counters?\n\n2. If you play Field training on anarch vampire to give him discipline will Hackerspace get counter?",
+      "Id": "102016"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 10, 2021, 8:49\u202FAM",
+      "Body": "> Non-existant user wrote:\n> 1. What happen if Anarch Convert when enter in play use his ability to turn vampire to anarch who is already anarch before this(so doing that just for cicle crypt). will Hackerspace get 1 or 2 counters?\n>\n> 2. If you play Field training on anarch vampire to give him discipline will Hackerspace get counter?\n>\n\"becomes Anarch\" means that there is a sect change. So a vampire who is already Anarch does not add a counter to Hackerspace if you choose it with the Anarch Convert or if you put a Field Training on it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102019"
+    }
+  ]
+}

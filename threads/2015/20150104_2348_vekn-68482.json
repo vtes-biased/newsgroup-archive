@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-68482",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68482-topaz-successfully-equips-baby-yaga-successfully-employs",
+  "Title": "Topaz - \"successfully equips\" + Baby Yaga - \"successfully employs\"",
+  "Messages": [
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 4, 2015, 11:48\u202FPM",
+      "Body": "Over here:  [FZD 20141103] , Pascal writes:\n>\n> Pascal wrote:\n> Action modifiers aren't successful or unsuccessful. They happen.\n> The only things that can be successful are actions and referendums. [and bleeds]\n>\nTopaz's card text says:\nWhen Topaz successfully equips from your hand, you may look at your prey's hand, and Topaz may take an equipment from it instead (discard the original equipment card).\n\nIn  [LSJ 20080702] , LSJ states:\n>\n> LSJ wrote:\n> For example, if Topaz plays a Concealed Weapon to get a Grenade and looks at\n> your hand and pulls your Baseball Bat instead, you would also replace the Bat\n> immediately.\n>\nAssuming that combat cards are like [FZD 20141103], Concealed Weapon equips cannot be successful or unsuccessful - it is not an action, referendum or bleed.\n\nWhat's the correct outcome when Topaz plays Concealed Weapon - activate the special ability or no?\n\n[Pretty much every similar piece of card text either explicitly refers to an action (\"When Blah successfully performs a blah action\"), or does something that doesn't have a non-action way of doing it (that I can think of) e.g. \"If Blah successfully bleeds/hunts\".]",
+      "Id": "68482"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 5, 2015, 12:21\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Over here:  [FZD 20141103] , Pascal writes:\n> >\n> > Pascal wrote:\n> > Action modifiers aren't successful or unsuccessful. They happen.\n> > The only things that can be successful are actions and referendums. [and bleeds]\n> >\n> Topaz's card text says:\n> When Topaz successfully equips from your hand, you may look at your prey's hand, and Topaz may take an equipment from it instead (discard the original equipment card).\n>\n> In  [LSJ 20080702] , LSJ states:\n> >\n> > LSJ wrote:\n> > For example, if Topaz plays a Concealed Weapon to get a Grenade and looks at\n> > your hand and pulls your Baseball Bat instead, you would also replace the Bat\n> > immediately.\n> >\n> Assuming that combat cards are like [FZD 20141103], Concealed Weapon equips cannot be successful or unsuccessful - it is not an action, referendum or bleed.\n>\n> What's the correct outcome when Topaz plays Concealed Weapon - activate the special ability or no?\n>\nActivate the ability.\n\nAnd for those who wonder and have dreams about it, Topaz's ability would also be triggered if he played sup' Gift of Bellona.\n\nName: Gift of Bellona\n[BL:R1, LoB:R]\nCardtype: Action Modifier\nDiscipline: Valeren/Auspex\n[aus] If this action is blocked, your hand size is one card larger during the resulting combat.\n[val] Only usable when an action to equip with a weapon is successful. Untap this acting vampire.\n[VAL] Only usable when an action to equip with a weapon from your hand is blocked. Before combat begins, equip this vampire with the weapon instead of placing it in your ash heap (pay cost as normal). During the first round of this combat, that weapon cannot be used.",
+      "Id": "68483"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 2, 2015, 5:37\u202FPM",
+      "Body": "So, based on this:\n\nBaba Yaga\nOnce each turn, Baba Yaga can untap when she successfully recruits an ally or employs a retainer.\nand\nPack Alpha\n[Combat] Combat\nA vampire may play only one Pack Alpha each round.\n[ani] This vampire employs an animal retainer from your hand before range is determined. Pay cost as normal.\n\nFollowing the same logic as Topaz, Baba Yaga + Pack Alpha + Wolf Companion means she untaps.",
+      "Id": "69600"
+    },
+    {
+      "Author": "gandalf78",
+      "Date": "Mar 2, 2015, 7:30\u202FPM",
+      "Body": "I think yes, she untap after a pack alpha (employ with success a retainer).\n\nCamarilla Prince of Milan",
+      "Id": "69602"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 3, 2015, 7:19\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Following the same logic as Topaz, Baba Yaga + Pack Alpha + Wolf Companion means she untaps.\n>\nYes. It was studied during playtest to work like this.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69614"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 3, 2015, 2:07\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jamesatzephyr wrote:\n> > Following the same logic as Topaz, Baba Yaga + Pack Alpha + Wolf Companion means she untaps.\n> >\n> Yes. It was studied during playtest to work like this.\n>\nI know. This thread was originally created in order to verify suspicions about Baba Yaga's card text, by proxy.",
+      "Id": "69624"
+    },
+    {
+      "Author": "alek",
+      "Date": "Mar 3, 2015, 2:49\u202FPM",
+      "Body": "nice, that makes her muuuuch better than I thought at first.",
+      "Id": "69629"
+    }
+  ]
+}

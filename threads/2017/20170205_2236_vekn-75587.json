@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-75587",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75587-correct-way-to-play-strength-equipment",
+  "Title": "Correct way to play +strength equipment.",
+  "Messages": [
+    {
+      "Author": "1muflon1",
+      "Date": "Feb 5, 2017, 10:36\u202FPM",
+      "Body": "Hi guys,\n\nI have a question about a correct way of playing weapons that increase strength together with cards that permit only hand strikes (such as immortal grapple) or increase strength (like undead strength) or general with combat cards that have things to do with a hand strike.\n\nNow, I know that normally strike with a weapon does not count as hand strike, but at the same time, I know that if there are cards that only say they increase the minion's strength (such as heroic might) add damage to hand strike, but I am confused about some weapons.\n\nThe reason why I am a bit confused is that some weapons have card text\n\n\"strike: +1strenght\" like Argent Baton or \"+1strenght as strike..\" as the crimson sentinel\n\nBut then there are weapons that have different card text like:\n\nMeat Cleaver: \"Strength+1 damage each strike.\"\n\nThis seems to me as if the weapon would increase the minion hand strike by +1 strength, but the strike itself still counted as a handstrike.\n\nThanks in advance for clarification",
+      "Id": "80583"
+    },
+    {
+      "Author": "chrisn101",
+      "Date": "Feb 5, 2017, 11:46\u202FPM",
+      "Body": "It's a frequently asked question, because combat and equipment has evolved a fair bit over the years. Basically, Strength is the 'base attack' of the minion. Hand strikes usually use that base strength to determine the hand strike damage, but certain disciplines like Protean enhance it by inflicting aggravated damage. Melee weapons strikes generally impart a bonus to the base attack, usually an additional point, and may have additional effects, but can't be used during an Immortal Grapple.\n\nThis might be helpful, it's from the FAQ written by  The Lasombra :\n\n3.16 What does \"Hand Strike\" mean? Immortal Grapple restricts both minions in the combat to only using \"hand strikes\". What is a \"hand strike\" and what is not? A \"hand strike\" is any non-ranged, non-weapon strike that deals damage based on the striking minion's strength. Example 1: Song in the Dark is not a \"hand strike\" because it doesn't do damage based on a minion's strength. Example 2: Burning Wrath is a \"hand strike\" because it does damage based on the minion's strength. Example 3: The default strike from a Muddled Vampire Hunter is a \"hand strike\" because it is a non-ranged damage-dealing innate strike. Example 4: No strike that says \"Dodge\" or \"Combat Ends\" is a \"hand strike\".\n\nAs far as I can remember, the only melee weapon that also counts as a hand strike is  Bundi .\n\nHope that helps",
+      "Id": "80584"
+    },
+    {
+      "Author": "1muflon1",
+      "Date": "Feb 5, 2017, 11:49\u202FPM",
+      "Body": "And is it possible to use bundi together with another card? or does it counts as a strike?",
+      "Id": "80585"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 6, 2017, 7:10\u202FAM",
+      "Body": "> 1muflon1 wrote:\n> The reason why I am a bit confused is that some weapons have card text\n>\n> \"strike: +1strenght\" like Argent Baton or \"+1strenght as strike..\" as the crimson sentinel\n>\n> But then there are weapons that have different card text like:\n>\n> Meat Cleaver: \"Strength+1 damage each strike.\"\n>\nMeat Cleaver's text must be read as \"Strike: strength+1 damage\". It will be updated.\n\nThe way you must read the card is: \"The melee weapon provides a strike, therefore it's a melee weapon strike. It's based on the minion's strength (so if you play Torn Signpost to get a strength of 3, it will increase the damage of this strike), and adds 1 to the total damage.\"\n\n> 1muflon1 wrote:\n> And is it possible to use bundi together with another card? or does it counts as a strike?\n>\nIn any case, ou can play cards such as Torn Signpost that increase your strength (without being connected to a strike).\n\nBundi\nCardtype: Equipment\nCost: 2 pool\nMelee weapon.\nStrike: hand strike at +1 damage. (This strike is both a hand strike and a melee weapon strike). Bearer may prevent 1 damage from each melee weapon strike made against him or her.\n\nSo the weapon provides a melee weapon strike that counts as a hand strike as well. But it's a melee weapon strike in the first place, so the only cards you could play are cards such as Undead Strenght that let you use a melee weapon strike.\n\nName: Undead Strength\nCardtype: Combat\nDiscipline: Potence\n[pot] Strike: hand strike or use a melee weapon strike. This strike is at +1 damage.\n[POT] Strike: hand strike or use a melee weapon strike. This strike is at +2 damage.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80589"
+    }
+  ]
+}

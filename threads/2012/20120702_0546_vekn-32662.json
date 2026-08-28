@@ -1,0 +1,290 @@
+{
+  "ThreadId": "vekn-32662",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/32662-re-damage-immunity",
+  "Title": "Re: Damage immunity",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Jul 2, 2012, 5:46\u202FAM",
+      "Body": "Greets!\n\nMy vamp is immune to non-aggravated damage. Does the non-aggra damage inflicted to her count \"successfully inflicted\" or not?\n\nMy guess it does, because it isn't reduced or prevented only my vamp ignores its effects (like Deep Song against Gotsdam - successful action with no effect), but correct me if I'm wrong.\n\nNC of Hungary\n\n///",
+      "Id": "32662"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jul 2, 2012, 7:52\u202FAM",
+      "Body": "Not succesfuly inflicted.\ndamage prevented and/or damage that are reduced to 0, inflict no damage.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "32663"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 2, 2012, 2:19\u202FPM",
+      "Body": "> Reyda wrote:\n> Not succesfuly inflicted.\n> damage prevented and/or damage that are reduced to 0, inflict no damage.\n>\nCorrect.",
+      "Id": "32674"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 2, 2012, 2:51\u202FPM",
+      "Body": "> Reyda wrote:\n> Not succesfuly inflicted.\n> damage prevented and/or damage that are reduced to 0, inflict no damage.\n>\nBut where is it written that Immunity to damage does either of those? I haven't found it anywhere on the site.",
+      "Id": "32676"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Jul 2, 2012, 2:57\u202FPM",
+      "Body": "Seems like we're on a trend for these questions....it's certainly not in the rulebook so here it is relying on the usual English sense of Immunity. .",
+      "Id": "32677"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 2, 2012, 3:45\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > Reyda wrote:\n> > Not succesfuly inflicted.\n> > damage prevented and/or damage that are reduced to 0, inflict no damage.\n> >\n> But where is it written that Immunity to damage does either of those? I haven't found it anywhere on the site.\n>\nAs many card games, Vtes is based on two things:\n- words that people know from common usage\n- \"keywords\" (that might also be used in common usage, but mostly with a different meaning).\n\n\"Immune\" is of the first category. Other examples: \"card\", \"next\", \"attempt\", ...\n\n\"Vampire\", \"maneuver\", \"strike\", \"pool\", \"aggravated\", \"equipment\", \"recruit\", \"Prince\", .. are of the second category).\n\nIf you think \"immune\" should be explicitely in the second category, please let me know.",
+      "Id": "32678"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 3, 2012, 6:41\u202FAM",
+      "Body": "First of all, I completely agree that Reyda's answer is the most intuitive one. However one cannot rely on common sense when defining what is successful and what is not because we already have counterintuitive examples of successful bleeds burning no pool (which is the root of all evil if you ask me). What tells you that Immunity effectively changes the damage instead of only nullifying the effect just like Strix prevents burning pool without reducing the bleed amount?\n\nRather than a definition of Immunity, I would rather have a definition of Successful that is consistent across situations, but that would require a reversal on the effect of Strix. If you want to keep Strix as it is, then you need to specify everything because Strix proves that common sense does not work.",
+      "Id": "32692"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 3, 2012, 6:58\u202FAM",
+      "Body": "> Non-existant user wrote:\n> First of all, I completely agree that Reyda's answer is the most intuitive one. However one cannot rely on common sense when defining what is successful and what is not because we already have counterintuitive examples of successful bleeds burning no pool (which is the root of all evil if you ask me).\n>\nThere is Evil in the term \"immune\", but there is no Evil involved in defining bleeds and actions.\n\nA \"bleed action\" is a special type of action, which is clearly, unambiguously defined in 6.1.1.\n\nA bleed action that burns no pool is not a successful BLEED [6.1.1].\n\nA bleed action that is unblocked but burns no pool is a successful ACTION [6].\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32693"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 3, 2012, 7:13\u202FAM",
+      "Body": "> KevinM wrote:\n> A bleed action that burns no pool is not a successful BLEED [6.1.1].\n>\nNot true in general: Strix causes the bleed to burn no pool but the bleed is still successful because the bleed amount does not change:\nwww.vekn.net/index.php/forum/6-rules-questions/17899-strix-superior-and-the-edge",
+      "Id": "32694"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 8:36\u202FAM",
+      "Body": "> Non-existant user wrote:\n> Rather than a definition of Immunity, I would rather have a definition of Successful that is consistent across situations,\n>\nWhy? Combat isn't taking an action. Blocking isn't conducting a referendum. Damage handling isn't bleed resolution.\n\nMany things are treated differently between different aspects of the game. Why the need to crowbar things which are manifestly different into being the same?",
+      "Id": "32696"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 3, 2012, 8:42\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > KevinM wrote:\n> > A bleed action that burns no pool is not a successful BLEED [6.1.1].\n> >\n> Not true in general: Strix causes the bleed to burn no pool but the bleed is still successful because the bleed amount does not change:\n> www.vekn.net/index.php/forum/6-rules-questions/17899-strix-superior-and-the-edge\n>\nIncorrect.\n\nIt is true in general [6.1.1] but not in specific (Strix's card text).\n\nAnd most things in VTES, which are true in general, have specific, card text-based exceptions. Which are fine, since they don't change the rule, just break it. Which means that a player can know what the rule is and quote it (as I did) and be correct.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32697"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 3, 2012, 9:33\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Why? Combat isn't taking an action. Blocking isn't conducting a referendum. Damage handling isn't bleed resolution.\n>\n> Many things are treated differently between different aspects of the game. Why the need to crowbar things which are manifestly different into being the same?\n>\n1) So that it does not take a PhD to learn the game.\n2) So that during a game, less time is spent checking whether a move is valid or not and more time on deciding the right move and, you know, playing the game.\n3) So that common sense can be applied with confidence when faced with a new situation, unlike the current situation where you can find close contradictory rulings everywhere. The game does not need more rulings, it needs more rules. The difference is a rule can be extrapolated.\n\n> KevinM wrote:\n> Incorrect.\n>\n> It is true in general [6.1.1] but not in specific (Strix's card text).\n>\n> And most things in VTES, which are true in general, have specific, card text-based exceptions. Which are fine, since they don't change the rule, just break it. Which means that a player can know what the rule is and quote it (as I did) and be correct.\n>\nThe problem is that Strix is not an exception. Things would be much easier if it was. Strix does not break any written rule. It does break the intuitive but incorrect rule you misquoted as 6.1.1: successful bleeding does not check if any pool is burnt, only if the bleed amount is higher than 1. If you read back the thread I linked, you will see that Pascal first explained that the bleed is still successful, then errated the card text to add it on Strix as a clarification only.\n\nYou got that rule wrong as would 99% of the players. I don't think people enjoy playing Gotcha! more than VTES, so a rule that everyone gets wrong is not a good rule. All I am saying to Pascal is that if he wants to advise the players to use common sense, then he also has the duty to make intuitive rules, otherwise we first need a ruling that tells when common sense can be applied and when it cannot, which defeats the whole point of common sense. And intuition works by applying the same known patterns to different unknown situations.",
+      "Id": "32698"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 9:57\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > jamesatzephyr wrote:\n> > Why? Combat isn't taking an action. Blocking isn't conducting a referendum. Damage handling isn't bleed resolution.\n> >\n> > Many things are treated differently between different aspects of the game. Why the need to crowbar things which are manifestly different into being the same?\n> >\n> 1) So that it does not take a PhD to learn the game.\n>\nTwisting your mind into the universe where a referendum being successful is checked using the same definition as a block being successful? Despite the two things being totally different? That requires a PhD in high-grade stupidity.\n\n> Non-existant user wrote:\n> 2) So that during a game, less time is spent checking whether a move is valid or not and more time on deciding the right move and, you know, playing the game.\n>\nBecause, yes, having an idiotic conversation about whether your block has been voted down or not, because we have to use the same defintion? Completely gonna save time. Totally. About whether your stealth has been prevented? Yep, gonna save loads of time. The vampire who gains no blood from hunting (successful action, unsuccessful hunt) is now somehow handled in the same way as determining a successful block? Super. That's not going to confuse anyone at all. A withdrawal is successful in the same way a referendum is? Yeah, there's a ten minute scream-fest right there.\n\nYour cure is worse than the disease, by an order of magnitude.",
+      "Id": "32700"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 3, 2012, 10:27\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Loads of bullshit and twisting terms on purpose\n>\nI am not going to give you any more respect than you give me. You take back that high stupidity and then we can go on on more civil tone.\n\nPunch face -> burn blood\nBleed -> burn pool\n\nStarting to notice a pattern here or are you too thick for that?\n\nMore generally, it is possible to find a common sense and general definition of \"successful\" and you know what? That is already how the rules are designed for the most part. Stuff is successful when it does what it is supposed to do.\n\nWhat is blocking supposed to do? Prevent an action from resolving. Checked.\nWhat is a referendum supposed to do? Apply the terms of the referendum. Checked.\nWhat is damage supposed to do? There are different cases but it boils down to burn blood or life, wound or burn vampire. Checked, as it seems from Pascal's answer in this thread.\nWhat is a bleed supposed to do? Burn pool. Fails, and even Kevin got trapped in that one. Now do you see the problem?\n\nIt should not matter how how stuff is prevented from happening: as long as something prevents it, it should be unsuccessful. This is generally the case except for the loophole in the bleed rule that is implemented by Strix. Because of that loophole, one cannot just use commone sense to determine when stuff is successful or not.",
+      "Id": "32702"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 10:46\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > jamesatzephyr wrote:\n> > Loads of bullshit and twisting terms on purpose\n> >\n> I am not going to give you any more respect than you give me. You take back that high stupidity and then we can go on on more civil tone.\n>\nErm, you want to re-define terminology. You have to see what happens what the terms are twisted. Why? Because that's what players do . They want to win. They will find the loophole where you are sticking your fingers in your ears going \"Lalalala, this'll be fine\" and they'll do it in the middle of a continental championship and all hell will break loose. So you absolutely, positively need to push terminology hard, to see what collateral damage you're possibly doing.\n\nIf you don't like that, then you shouldn't be attempting to change terminology in a fashion that alters the fundamentals of the game.\n\nThat's not 'bullshit'. If your idea can't withstand robust cricitism, it's not a good idea. If you want to save time because you can't explain the rules already and your idea makes that problem even worse? Then yeah, it's a stupid thing to be doing.\n\n> Non-existant user wrote:\n> Now do you see the problem?\n>\nHoney-bun, sweetie-pie, snukums. The problem of V:TES being complicated isn't fixed by you closing your eyes and pretending really really hard that actions and withdrawals and bleeds and damage and referendums and blocks and hunts all work the same. They don't.\n\nA simpler solution? Identifying a problem and writing a clearer rule, and presenting it more clearly. Or adding a definition to the special terms. Simple things that codify the way things actually are, and make them accessible.\n\nWhy on earth people suddenly feel the need that every time they stumble somewhere in the game they have to throw away great swathes of the rulebook (that they don't understand) and then replace it with some new re-write that lacks any sort of robustness? I have no idea.",
+      "Id": "32704"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jul 3, 2012, 11:30\u202FAM",
+      "Body": "James, your contribution is not interesting. Not at all. You are the members of the gang of old players that always say \"ruling is fine\". Now try to understand people who just want to play a game with clear rules, for a change. Then we'll be pleased.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "32706"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 3, 2012, 11:48\u202FAM",
+      "Body": "> Reyda wrote:\n> Now try to understand people who just want to play a game with clear rules, for a change. Then we'll be pleased.\n>\nClear, or mechanical (MtG-like?) Being \"immune to damage\" is pretty clear for me.\n\nI think the rules are pretty clear, if you know where to find them and if you know that you don't find them, it means there's no loophole (being immune fells in that second category). That's why I think there's a need to present them in a synthetic way. The Complete Rules Reference is for instance not complete at all.\n\nAs for Boris' suggestion, I think the current rules are pretty much already the way he would like them to be.\nThrowing ideas is a good start, but only a start. It lacks an in-depth analysis concerning the pro/cons, how it changes the current rules etc. Maybe Boris don't have time/don't want to do this work, but he can't complain that people strongly criticize \"weak\" suggestions (\"weak\" because quickly written and not very solid compared to rules that have passed the test of time).\n\n> Reyda wrote:\n> James, your contribution is not interesting. Not at all. You are the members of the gang of old players that always say \"ruling is fine\".\n>\nJames' contribution is pertinent, as it reflects the opinion of a portion of players. By showing the weaknesses in Boris' process, he forces Boris to reformulate and rethink ideas that have been obviously quickly written. If he doesn't suggest something that is bullet-proof, it's just wasted energy that will die here.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32710"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 11:52\u202FAM",
+      "Body": "> Reyda wrote:\n> James, your contribution is not interesting. Not at all. You are the members of the gang of old players that always say \"ruling is fine\". Now try to understand people who just want to play a game with clear rules, for a change. Then we'll be pleased.\n>\nHey there. You know how I said \"We could re-write an unclear rule to be clearer and/or add a term to make things clearer and easier to find\"? That's the exact opposite of what you've just claimed I've said.",
+      "Id": "32711"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jul 3, 2012, 11:58\u202FAM",
+      "Body": "Then don't always step in to bash them on the head when they are saying \" I don't understand this\". That would greatly help and would not pass for lip service. Thank you.\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "32712"
+    },
+    {
+      "Author": "Lemmink\u00E4inen",
+      "Date": "Jul 3, 2012, 12:11\u202FPM",
+      "Body": "Well this escalated to a bad place real quick",
+      "Id": "32713"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 12:31\u202FPM",
+      "Body": "> Reyda wrote:\n> Then don't always step in to bash them on the head when they are saying \" I don't understand this\". That would greatly help and would not pass for lip service. Thank you.\n>\nErr, except I objected to someone trying to tear up the rules and write a new uber-rule which pretends that withdrawals are like referendums.\n\nYour trolling is increasingly bizarre. Please stop.",
+      "Id": "32714"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 3, 2012, 1:01\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> A simpler solution? Identifying a problem and writing a clearer rule, and presenting it more clearly. Or adding a definition to the special terms. Simple things that codify the way things actually are, and make them accessible.\n>\nThe general definition \"Stuff is successful if it does what it is supposed to do\" that I wrote earlier is probably too vague to figure in the rulebook as such and I don't think it can be made much clearer, but it is a general design principle that should underline the wording of the actual rules. As I wrote before, it is already mostly the case except for bleeding. Now here comes the suggested wording change with constant rules (or not):\n\n1) Change Rule 6.1.1. to: Additionally, if the action succeeds and the bleed burns at least one pool, then the bleed is successful and ...\n\nI like this wording because it still makes Major Boon follow the general rule. In that sense Major Boon is similar to Brother's Blood: someone else heals the damage but it was still successfully inflicted to the vampire in combat. Otherwise one could specify that the bleed must burn pool from the target and make Major Boon an exception.\n\n2)a) Change the Strix card text to: The bleed is still successful.\n2)b) Revert Strix to the original card text (which now means the bleed is unsuccessful).\n\nIn 2)a), the only change is to remove the parentheses to change the sentence from a clarification to an exception. I tend to prefer 2)b) because it removes an exception and I think that point is too minor to warrant one (and because it goes back to printed card text), but if Pascal does not want to overturn his ruling it is still possible.\n\nWhat is gained in the process is that we changed the rulebook making exception to common sense, which undermines the very idea of common sense, to a card making exception to the rulebook, which is already known and governed by the golden rule. That gives Pascal much more weight when he answers \"just use common sense\" on the damage subject. Now we don't need the fine print anymore and we don't need Pascal to tell us that we don't need the fine print: if you are immune to damage, then you don't take it because that is what Immunity intuitively does and if you don't take it, then it was not successfully inflicted because that's what \"successful\" intuitively means.",
+      "Id": "32715"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jul 3, 2012, 1:21\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Twisting your mind into the universe where a referendum being successful is checked using the same definition as a block being successful? Despite the two things being totally different? That requires a PhD in high-grade stupidity.\n>\n...\n>\n> jamesatzephyr wrote:\n> Because, yes, having an idiotic conversation about whether your block has been voted down or not, because we have to use the same defintion? Completely gonna save time. Totally. About whether your stealth has been prevented? Yep, gonna save loads of time. The vampire who gains no blood from hunting (successful action, unsuccessful hunt) is now somehow handled in the same way as determining a successful block? Super. That's not going to confuse anyone at all. A withdrawal is successful in the same way a referendum is? Yeah, there's a ten minute scream-fest right there.\n>\n> Your cure is worse than the disease, by an order of magnitude.\n>\nOh yes, sure, my trolling is bizarre. Now quit smoking pot when you try to answer and maybe we can discuss this between gentlemen ?\n\nWhat Boris proposes here makes perfect sense. Unless you are still high ?\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "32716"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 2:26\u202FPM",
+      "Body": "> Reyda wrote:\n> Oh yes, sure, my trolling is bizarre. Now quit smoking pot when you try to answer and maybe we can discuss this between gentlemen ?\n>\nSo you accuse me of attacking someone for not understanding the rules, because you haven't even bothered to read what you're trolling. Then when this is pointed out, you just hurl more abuse.\n\nReyda, King Troll, Poisoner of Forums.",
+      "Id": "32717"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 3, 2012, 2:31\u202FPM",
+      "Body": "> Non-existant user wrote:\n> The general definition \"Stuff is successful if it does what it is supposed to do\" that I wrote earlier is probably too vague to figure in the rulebook as such and I don't think it can be made much clearer, but it is a general design principle that should underline the wording of the actual rules.\n>\nI quite agree, it's not at all useful for a rules change, because the things are so different. That's why I objected. That's what you called 'bullshit'. Please don't do that.\n\nConsider: damage is supposed to hurt the opponent (or targeted retainer). But Brother's Blood means that someone else entirely burns blood for it. Successfully inflicted when it didn't do what it was supposed to do? The wider problem is that 'intent' will very much be in the eye of the player.\n\nSee also: many players get confused early on about what happens when a Bum's Rush is blocked, and don't realise the maneuver is lost. From their point of view, they're often still in the combat they wanted.\n\n> Non-existant user wrote:\n> 2)a) Change the Strix card text to: The bleed is still successful.\n>\nIf the design principle is that bleeds must burn pool to be considered successful (as opposed to resolving for a particular amount), this is a strange change to consider.",
+      "Id": "32718"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 3, 2012, 2:40\u202FPM",
+      "Body": "> Non-existant user wrote:\n> 1) Change Rule 6.1.1. to: Additionally, if the action succeeds and the bleed burns at least one pool, then the bleed is successful and ...\n>\nI'm confused. In what general case is a bleed action a successful bleed but not a successful action? If none, as I believe there to be none, then your rule is redundant.\n\nActions are successful if they are not blocked [6].\n\nBleeds -- a sub-type of action -- are always successful if the action is unblocked and if the bleed amount is for 1 or more [6.1.1], excepting very specific card text.\n\nThere is no need to rewrite the rulebook because Strix exists. Strix and other cards like it can be rewritten, or written better in the first place.\n\nThe general rules in [6] and [6.1.1] are exacting, well-written, and well-understood. They aren't the problem.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32719"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 3, 2012, 3:28\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Consider: damage is supposed to hurt the opponent (or targeted retainer). But Brother's Blood means that someone else entirely burns blood for it. Successfully inflicted when it didn't do what it was supposed to do? The wider problem is that 'intent' will very much be in the eye of the player.\n>\nThat one is quite easy: the card itself states that the damage is taken by the vampire in combat, and if unhealed damage happens it is still the vampire in combat that goes to torpor/burns.\n\nMajor Boon/Enkil Cog could be a bit more tricky: are you still bleeding your prey? In that case it is what is not on the card that helps: it goes through a lengthy periphrase to avoid saying that the target of the bleed changes, this is certainly no accident so the target must stay the same.\n\nThe problem is: how can someone who faces a new rule problem be confident in his interpretation of the rules when he does not know/have access to the library of existing rulings or when a ruling does not exist?\n\n> Non-existant user wrote:\n> If the design principle is that bleeds must burn pool to be considered successful (as opposed to resolving for a particular amount), this is a strange change to consider.\n>\nI agree but I just added it to show that the wording can be changed with constant rules. Once again, I think it is better to have cards that provide exceptions to the rules than counter-intuitive rules, the best being intuitive rules and no exception whenever possible (and it is possible here with a minor ruling reversal).\n\n> KevinM wrote:\n> I'm confused. In what general case is a bleed action a successful bleed but not a successful action? If none, as I believe there to be none, then your rule is redundant.\n>\nTrue. I just pasted from the existing rule which has the \"action succeeds\" bit. It still feels clearer like that though: first check the blocks, then the bleed itself. Maybe that's just the habit of the old template, or maybe a bit of redundancy does not hurt to drive the point across.\n>\n> Bleeds -- a sub-type of action -- are always successful if the action is unblocked and if the bleed amount is for 1 or more [6.1.1], excepting very specific card text.\n>\nFor the second time: there is currently no exception to that rule. Strix does not change the bleed amount so the bleed is successful. This is not an exception, only the strict (pun intended) application of the rule.\n\nUnless I forget something, there are currently only 2 cards that prevent the target of a bleed for 1 or more after reduction from burning pool: Strix and Major Boon. Both of them lead to a successful bleed.\n>\n> The general rules in [6] and [6.1.1] are exacting, well-written, and well-understood. They aren't the problem.\n>\nYou got the rule 6.1.1 (and its interaction with Strix) wrong three times in this thread, once in this very post, even after being corrected twice. You still got the ruling right by remembering it though: you got the right result but with two different wrong justifications. With your experience of judging tournaments, that should be enough of a proof that the rule 6.1.1 is not well understood, not well written and that the Strix ruling, although it is only a clarification, is hard to retrieve by reasoning/common sense for someone who does not already know it.\n\nBack to the original topic: if common sense does not work for Strix, then we cannot be asked to rely on it for immunity to damage either.",
+      "Id": "32723"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jul 3, 2012, 3:29\u202FPM",
+      "Body": "> KevinM wrote:\n> There is no need to rewrite the rulebook because Strix exists. Strix and other cards like it can be rewritten, or written better in the first place.\n>\nAnd, indeed, Strix has been changed.\n\n> Strix wrote:\n> [str] +1 intercept, even if intercept is not yet needed. If this vampire successfully blocks this action, he or she untaps at the end of the action. [str] is not a Discipline.\n> [STR] Only usable when a bleed against you would be successful. The bleed burns no pool. Instead, this vampire taps and enters combat with the acting minion.\n>\n--\nNational Coordinator\nSouth Africa",
+      "Id": "32724"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Jul 3, 2012, 3:32\u202FPM",
+      "Body": "> Actions are successful if they are not blocked\n>\nExcept in case of Horrific Countenance, I might add.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "32725"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Jul 3, 2012, 10:12\u202FPM",
+      "Body": "@ megabaja : I clicked on \"thank you\". Because there is no \"high five\" button\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "32734"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 4, 2012, 2:07\u202FPM",
+      "Body": "It's funny that I keep quoting rules correctly, rules that work, rules that are correct and accurate, and people keep pointing to cards as to why I got the rule wrong. Which I didn't.\n\nThe rule I keep quoting -- correctly -- in 6.1.1 isn't un-correct. It's correct. It works. All the time. In every case.\n\nOh, wait. EXCEPT FOR SOME CARD BREAKING IT. Yep, exactly as I stated.\n\nIn other words: If Strix/etc didn't exist, there'd be no discussion about 6.1.1, because 6.1.1 would be accurate and correct in all cases.\n\nNext: \"Actions are successful if they are not blocked.\" Works perfectly. Every time. In every case.\n\nOh, wait. EXCEPT FOR SOME CARD BREAKING IT.\n\nThis is why James is saying what he is saying, because y'all keep wanting the rulebook to reflect every case and every card when you actually have no clue what a rulebook should be, should do, or how to write one.\n\nSee, the rulebook works PERFECTLY, except when some goofy cards, like Strix or Horrific Countenance use wording that breaks the rulebook. Those cards don't dictate that the rulebook be changed. In fact, there is a specific rule that addresses this, as well as our community having a person in place to help us figure these things out.\n\nIn these rare cases, we either read the card is it's easily understood what to do (Horrific Countenance) or we become rightfully confused (Strix, Outside the Hourglas, et.al.) and summon Pascal to help us deal with it. Perhaps the card text needs to be clarified, or it never should've been written that way in the first place.\n\nIf you cannot understand how the rulebook is correct, how it works, how it works quite well, except in certain instances based on card text, then I'd submit that maybe you shouldn't be talking about the rulebook.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32746"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 4, 2012, 3:01\u202FPM",
+      "Body": "> KevinM wrote:\n> The rule I keep quoting -- correctly -- in 6.1.1 isn't un-correct. It's correct. It works. All the time. In every case.\n>\nAre you at least willing to acknowledge that you changed versions between your first post and your third?\n>\n> KevinM wrote:\n> A bleed action that burns no pool is not a successful BLEED [6.1.1].\n>\n> KevinM wrote:\n> Bleeds -- a sub-type of action -- are always successful if the action is unblocked and if the bleed amount is for 1 or more [6.1.1]\n>\nare not the same. One of them is correct, I grant you that\n\n> Oh, wait. EXCEPT FOR SOME CARD BREAKING IT. Yep, exactly as I stated.\n>\nFor the third time, that is wrong. Strix does not break the rule 6.1.1, it follows it. I have already explained how (which was not difficult since it is mostly copy/paste from Pascal's answer in a linked thread) and am not willing to repeat. If you do not agree, please provide a counter-argument instead of switching to caps lock.\n\n\"I'm right, you're wrong.\n-Actually, it does not work as you think because of A, B and C.\n-Let me rephrase: I'M RIGHT, YOU'RE WRONG.\"\n\nDoesn't work.\n\n> In other words: If Strix/etc didn't exist, there'd be no discussion about 6.1.1, because 6.1.1 would be accurate and correct in all cases.\n>\nRule 6.1.1 is correct in all cases as it is now. If Strix didn't exist, the loophole that alows a bleed to be successful without burning pool would most likely have remained unnoticed, but it would still be there, in the rule itself, waiting to be exploited.\n\nThe place for loopholes is not in the core rules but on card texts. You seem to agree with that but still do not realize that Rule 6.1.1 and Strix fail on that point and that the change I propose (but have you even read it?) aims exactly at that: migrate the loophole from Rule 6.1.1 to Strix card text. The golden rule is currently not invoked in the case of Strix because Strix does not break any rule.\n\nThe personal attacks at the end second half of your post do not deserve an answer. Please stop.\n\nEDIT: added citations.",
+      "Id": "32747"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jul 4, 2012, 3:46\u202FPM",
+      "Body": "Outside of personal argument, I must admit that the pro-reform here look like they want to replace something that work actually pretty well with something undefined that may or may not be simpler.\n\nIn any case, smallish incremental change - like the one done on disarm to help with outside the hourglass or the one on trix - seem way more controlable and efficient than \"we should find a way to define successful that work for all different type of stuff that can happen\".",
+      "Id": "32748"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 4, 2012, 3:57\u202FPM",
+      "Body": "> Non-existant user wrote:\n> The personal attacks at the end second half of your post do not deserve an answer. Please stop.\n>\nThere are no personal attacks in my post. I'm discussing the subject at-hand. If your definition of \"personal\" is so broad as to encompass any discussion of the other person then \"personal attacks\" becomes a meaningless term.\n\nI sincerely believe that you do not understand how a rulebook functions. You are free to disagree with that, as you have. That is what discussion is about. I have nothing further to say past my last post.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32749"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 4, 2012, 3:59\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Outside of personal argument, I must admit that the pro-reform here look like they want to replace something that work actually pretty well with something undefined that may or may not be simpler.\n>\n> In any case, smallish incremental change - like the one done on disarm to help with outside the hourglass or the one on trix - seem way more controlable and efficient than \"we should find a way to define successful that work for all different type of stuff that can happen\".\n>\nWell-stated. It is worth noting how that fix involved the card and not the rulebook.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32750"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 4, 2012, 4:01\u202FPM",
+      "Body": "I have posted a complete wording change proposal here:\nwww.vekn.net/index.php/forum/6-rules-questions/32662-damage-immunity?limit=10&start=20#32715\nThe total change is less than 30 words localized in 2 places only (Rule 6.1.1 and Strix text), with several options, one of them being a wording change with constant rules and the other one allowing to go back to the printed text of Strix. It didn't receive any comment so far. How is that my fault?",
+      "Id": "32751"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jul 4, 2012, 4:41\u202FPM",
+      "Body": "[quote=\"Boris The Blade\" post=32751How is that my fault?[/quote]\n\nIt's not your fault, but then and here it seem exactly as complex as before, while needing some additional rules changes. (and I don't have a trix handy, but if the reminder text became false, how it is an improvement in clarity ?).\n\nI believe so because having to know the (relativiely intuitive) rule about bleed being successful that you would add and having to know the (for me intuitive) ruling for trix is equal for me. In both case, if I were to play trix six month from here, it would be reading rulings about trix that would correct me, not knowing the rulebook, simply because it is still an easy to miss subtelety.\n\nIt's common place that the creator of a rule find it perfectly clear ; still, I tend to find most try to be at best equal in complexity, and way too often vague, unclear, and/or difficult to understand.",
+      "Id": "32753"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Jul 5, 2012, 7:23\u202FAM",
+      "Body": "What I notice is that most of discussions on this thread are about unclear texts from HttB edition. This edition's cards are very badly worded thus creating lots of confusion and misunderstanding.\n\n> Only usable when a bleed against you is successful. The bleed burns no pool\n>\nThis construction suggests that there is a window for a reaction card, between bleed being successful and removing counters. Is there a step? Can I play, say, Hide the Heart or Telepathic Counter in that step reducing a bleed to zero, while still making action successful?\n\nLet's say A bleeds B. C plays Major boon on A's bleed burning, say 2 pool, then B's minion plays Strix and enters combat with A's minion. Isn't that a bit confusing situation. I'll remind that Major Boon is master card and it is understandable that it can be played whenever conditions are met. Strix is not...\n\nSee, lots of unnecessary confusion...\n\n> Major Boon\n> Type: Master\n> Master: out-of-turn. Boon.\n> Put this card in play when another Methuselah is successfully bled. Not usable if you control the acting minion. Modifiers to the bleed amount may be played after you play this card. You burn pool for the bleed instead of the target Methuselah (must be at least 1 pool or this card is burned). When you are successfully bled, you may burn this card to have that Methuselah burn pool instead of you.\n>\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "32778"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2012, 7:50\u202FAM",
+      "Body": "> Megabaja wrote:\n> What I notice is that most of discussions on this thread are about unclear texts from HttB edition. This edition's cards are very badly worded thus creating lots of confusion and misunderstanding.\n>\nAnd? What is your conclusion about it?\n\n> Only usable when a bleed against you is successful. The bleed burns no pool\n>\nThis isn't the latest cardtext, so all your following discussion is moot.\n\n> Strix wrote:\n> [STR] Only usable when a bleed against you would be successful.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32779"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Jul 5, 2012, 8:07\u202FAM",
+      "Body": "> This isn't the latest cardtext, so all your following discussion is moot.\n>\nThat not being the latest cardtext only shows how deep problem is. So joke is on you.\nWe're talking here about new players not understanding rules, cardtexts, mechanics, not about crappy text on one out of 150 cards from edition poorly written...\n\nMy point is that you need to adjust rules to some of the card texts so you wouldn't need to rewrite all of them to be understandable to a beginner. Nobody wants to play the game with 200 pages of rulings, well except maybe lawyers.\n\nHave you tried to count how many rulings are written for HttB edition only? Beginning with Striga and Maleficia's unclear definition, over the Pocket out of Time, Outside the Hourglass, to Strix... and who knows what other bizarre situations await us.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "32780"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2012, 8:18\u202FAM",
+      "Body": "> Megabaja wrote:\n>\n> > This isn't the latest cardtext, so all your following discussion is moot.\n> >\n> That not being the latest cardtext only shows how deep problem is. So joke is on you.\n>\nIt shows two things:\n1/ you don't check the latest cardtext and speak out of knowledge\n2/ cardtext are amended when there's an error (which is a good thing)\n\nIt's a normal thing that games get fixed and evolve through rulings (and occasionnaly reprints)\n\n> Megabaja wrote:\n> We're talking here about new players not understanding rules, cardtexts, mechanics, not about crappy text on one out of 150 cards from edition poorly written...\n>\n> My point is that you need to adjust rules to some of the card texts so you wouldn't need to rewrite all of them to be understandable to a beginner. Nobody wants to play the game with 200 pages of rulings, well except maybe lawyers.\n>\nSo instead of correcting errors in cards, you'll adjust the rules so all the cards with their current cardtext fits in it? you'll just move those 200 pages of ruling to the rulebook.\n\n> Have you tried to count how many rulings are written for HttB edition only? Beginning with Striga and Maleficia's unclear definition, over the Pocket out of Time, Outside the Hourglass, to Strix... and who knows what other bizarre situations await us.\n>\nNothing new here. Check the pre-httb rulings (including the infamous Mask of the Thousand Faces). And once again, do you have any conclusions? You seem to blame the HttB edition a lot.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32781"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 5, 2012, 10:55\u202FAM",
+      "Body": "> Ohlmann wrote:\n> It's not your fault, but then and here it seem exactly as complex as before, while needing some additional rules changes. (and I don't have a trix handy, but if the reminder text became false, how it is an improvement in clarity ?).\n>\nThe ruling on Strix (the fact that a bleed that burns no pool can be successful) is counter-intuitive. Nothing can help that except a reversal. My main point is not that. My point is: at least get the core rules clean and simple and move the goofy points as exceptions on cards, so that when people do not find a written rule they can be confident that most simple solution will be the right one.\n>\n> I believe so because having to know the (relativiely intuitive) rule about bleed being successful that you would add and having to know the (for me intuitive) ruling for trix is equal for me. In both case, if I were to play trix six month from here, it would be reading rulings about trix that would correct me, not knowing the rulebook, simply because it is still an easy to miss subtelety.\n>\nThen again, the main point was not the Strix ruling itself but how it hurts common sense and being able to guess a ruling for immunity to damage. Intuitively, it seems obvious that if the target is immune to damage, then it has not been inflicted, and Pascal's ruling is explicitely that intuition is right. But what if someone at the table is not convinced? Then you have to start guessing how it can work (because it is not written anywhere), and that is actually the same as doing Pascal's job if he wanted to specify how it works in the rules.\n\nReyda started to talk about damage prevention/reduction, but does Immunity work like that? Immunity preventing the damage feels wrong because in that case Immunity would be trumped by unpreventable strikes like Blood Sweat. There is currently no irreducible strike but one might get printed someday if Nephandii become enough of a nuisance, so the same guess also applies to Immunity reducing the damage to 0. So Immunity does not seem to act on the damage itself but only on the receiving end. The damage is inflicted as is but somehow not taken. Maybe something like \"this vampire does not need to burn blood to heal damage\" (works for non-aggravated damage only).\n\nSo the question boils down to: if the damage is inflicted but not taken, does it count as successfully inflicted? Once again, the answer is not written anywhere so we have to guess, and when you guess you search for something you can relate to. In that case, the closest known situation is the Strix ruling and for that ruling, the rule 6.1.1 (not Strix card text, the rule itself) states that as long as the bleed amount was not modified, the bleed is still successful. So if the rule to determine whether damage is successfully inflicted is not supposed to work like the rule 6.1.1, it has to be written somewhere: because of the bad wording of the rule 6.1.1, we need a ruling on immunity to tell us that we don't need a ruling  If the rule 6.1.1 was changed to a more simple and intuitive wording and the effect of Strix migrated to its own card text (or scrapped at all), then this problem would not occur: Strix would be one more exception and having an exception does not change the understanding of the general rule.\n\nEveryone here agrees that we want simple and intuitive core rules. The rule 6.1.1 does not live up to these expectations, and the only reason some people fail to acknowledge it is because of the chronological aspect. Rule 6.1.1 was written long before Strix so some primitive part of the brain must tell you that the culprit is always the new guy. It is not the case here. The bad wording is in the rule, it has always been there, just it was not exploited before Strix.\n\n> Ankha wrote:\n> So instead of correcting errors in cards, you'll adjust the rules so all the cards with their current cardtext fits in it? you'll just move those 200 pages of ruling to the rulebook.\n>\nThat is exactly what the rule 6.1.1 currently does: it is twisted so that it can encompass the Strix ruling instead of leaving it aside as an exception. It was not done in that order and not on purpose, but the end result is the same.",
+      "Id": "32782"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2012, 12:25\u202FPM",
+      "Body": "@Boris: You seem right (at least you've convinced me).\n\nRule should be changed from:\n\"Additionally, if the action succeeds and the bleed amount is one or more, then the bleed is successful and the controller of the acting minion gets the Edge, taking it from the Methuselah who has it, if any.\"\nto\n\"Additionally, if the action succeeds and the bleed burns one or more pool, then the bleed is successful and the controller of the acting minion gets the Edge, taking it from the Methuselah who has it, if any.\"\n\nWhich would be more intuitive.\n\nIt affects two cards (please tell if I've missed another one): Strix and Major Boon.\n\nTo preserve the designer intent, card texts must be changed from:\nStrix: \"[STR] Only usable when a bleed against you would be successful. The bleed burns no pool. Instead, this vampire taps and enters combat with the acting minion.\"\n-> \"[STR] Only usable when a bleed against you would be successful. Instead, the bleed is successful but burns no pool and this vampire taps and enters combat with the acting minion.\"\n\nMajor Boon doesn't require any change.\n\nName: Major Boon\n[Jyhad:U, VTES:U, CE:U, KMW:PG, LoB:PA, Third:U, KoT:U/PB2]\nCardtype: Master\nMaster: out-of-turn. Boon.\nPut this card in play when another Methuselah would be successfully bled. Not usable if you control the acting minion. You burn pool for the bleed instead of the target Methuselah (must be at least 1 pool or this card is burned). When you would be successfully bled, you may burn this card to have that Methuselah burn pool instead of you.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32786"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 5, 2012, 1:52\u202FPM",
+      "Body": "> Ankha wrote:\n> @Boris: You seem right (at least you've convinced me).\n>\n> Rule should be changed from:\n> \"Additionally, if the action succeeds and the bleed amount is one or more, then the bleed is successful and the controller of the acting minion gets the Edge, taking it from the Methuselah who has it, if any.\"\n> to\n> \"Additionally, if the action succeeds and the bleed burns one or more pool, then the bleed is successful and the controller of the acting minion gets the Edge, taking it from the Methuselah who has it, if any.\"\n>\nTwo sentences before this sentence which you and Boris wish to modify in the definition of a Bleed's effect:\n\n\"...the target Methuselah burns an amount of pool equal to the bleed amount.\"\n\nSo what you want to change that sentence to would be redundant, because it's already defined.\n\nAgain: Read the rulebook. It works. 6.1.1 works. 1.4 works. And sometimes the cards break things.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32790"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2012, 6:30\u202FPM",
+      "Body": "> KevinM wrote:\n> So what you want to change that sentence to would be redundant, because it's already defined.\n>\nNo, it wouldn't be redundant. Considering the assumptions below, 1/ + 2/ is not redundant, and 1/ + 2'/ is not redundant. 1/ + 2/ + 2'/ would be redundant, but it's not what is proposed.\n\n1/ If the action is successful, the target Methuselah burns an amount of pool equal to the bleed amount.\n2/ Additionally, if the action succeeds and the bleed amount is one or more, then the bleed is successful\n2'/Additionally, if the action succeeds and the bleed burns one or more pool, then the bleed is successful\n\nSo why change 2/ to 2'/? Because it's more intuitive to check if pool is really burned or not (maybe because it's visual to see the pool removed), rather than checking if the bleed amount is 1 or more, even if in the end no pool is burned.\n\n1/ + 2/ was already a bit flawed from the start, because instead of checking the final result (is pool burned?), you had to check an intermediate result (the bleed amount). It wasn't really relevant until now, but changing the rules to reflect the real designer's intent (according to me) would be a little step towards clearer rules.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32819"
+    },
+    {
+      "Author": "deslaure",
+      "Date": "Mar 22, 2021, 10:42\u202FPM",
+      "Body": "And then... What about Damage immunity ? What does \u00ABimmune to\u00BB means?",
+      "Id": "101917"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 23, 2021, 7:27\u202FAM",
+      "Body": "> deslaure wrote:\n> And then... What about Damage immunity ? What does \u00ABimmune to\u00BB means?\n>\nIt's counterproductive to answer to a topic that is more than 9 years old. Please create a new one with as much details as possible (eventually a link to the relevant post in this thread) because I absolutely don't know what you are talking about.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101919"
+    }
+  ]
+}

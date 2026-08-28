@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-76319",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76319-coagulated-entity",
+  "Title": "Coagulated entity",
+  "Messages": [
+    {
+      "Author": "Lasu",
+      "Date": "Nov 29, 2017, 7:50\u202FAM",
+      "Body": "Card text:Choose X other ready Blood Brothers you control who belong to the same circle as this acting vampire.\n[san]  Enter combat with a ready minion controlled by another Methuselah. This acting vampire has +X strength and +X capacity. Before the combat begins, each chosen vampire must move 1 blood to the acting vampire or this action is canceled.\n[SAN] As [san] above, and this vampire may prevent up to X damage this combat.\n\nJust to be sure I understand this card correctly.\nIf a minion playing this card succesfully enters combat with a chosen target minion, with [san] both capacity and strength increases by X, permanently. (since in the sentence there is no reference to \"this\" or \"that\" combat)\nAnd if blocked non of the +X effects apply.\n\nSide question: in rush action cards a special effect, like optional maneuver, applies in \"this combat\" (for example in bums rush) or \"that combat\" (nose of the hound). Do they both refer to a combat from succesful, non-blocked action in a similar way?",
+      "Id": "84391"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 29, 2017, 8:56\u202FAM",
+      "Body": "> Lasu wrote:\n> If a minion playing this card succesfully enters combat with a chosen target minion, with [san] both capacity and strength increases by X, permanently. (since in the sentence there is no reference to \"this\" or \"that\" combat)\n>\nIt's not permanent, no. It's restricted to \"this acting vampire\". When the action's over, it's no longer \"this acting vampire\".\n\n> Lasu wrote:\n> And if blocked non of the +X effects apply.\n>\nIf blocked, none of the effects of the action apply - including the +X, or the enter combat etc.\n\n> Lasu wrote:\n> Side question: in rush action cards a special effect, like optional maneuver, applies in \"this combat\" (for example in bums rush) or \"that combat\" (nose of the hound). Do they both refer to a combat from succesful, non-blocked action in a similar way?\n>\nThe effects of all actions only occur if they're successful (barring particular card text, like Force of Will). The optional manuever from Bum's Rush only occurs if the action is successful. The referendum from Kine Resources Contested only occurs if the action is successful.",
+      "Id": "84393"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2017, 1:23\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Lasu wrote:\n> > If a minion playing this card succesfully enters combat with a chosen target minion, with [san] both capacity and strength increases by X, permanently. (since in the sentence there is no reference to \"this\" or \"that\" combat)\n> >\n> It's not permanent, no. It's restricted to \"this acting vampire\". When the action's over, it's no longer \"this acting vampire\".\n>\nThis explanation doesn't work because Dual Form's capacity reduction is permanent.\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/BD7KIWBI0Cs/g8vJICHAu7oJ\n\n> LSJ wrote:\n>\n> > Jon wrote:\n> > Nadima, an 8 cap vampire, creates a Dual Form at PRO and her capacity is reduced to 7.\n> > Nadima is eventually banished. Dual Form burns.\n> > If Nadima were to be transfered out again would you need 7 or 8 pool to re-influence her to the controlled region?\n> > Assuming that the capcity reduction is permanant and that Dual Form is not a card played on the vampire I think it would be 7, but I've been known to make mistakes now and again\n> >\n> Correct.\n>\nNevertheless, Coagulated Entity bonus lasts until the end of the action (this is a ruling). I'll update the official cardtext to reflect this clearly.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84430"
+    }
+  ]
+}

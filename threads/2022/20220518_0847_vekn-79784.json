@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-79784",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79784-bounce-cards-and-declining-to-block",
+  "Title": "Bounce Cards and \"Declining to Block\"",
+  "Messages": [
+    {
+      "Author": "FineLerv",
+      "Date": "May 18, 2022, 8:47\u202FAM",
+      "Body": "I have a question regarding Bleed Bounce cards such as Deflection and Telepathic Misdirection, which are \"Only usable when a minion is bleeding you, after blocks are declined\".\n\nDoes \"Declining to Block\" mean that you haven't tried to block with anything? Or does it still count as \"Declining to Block\" if you attempt to block but your minion gets out-stealthed?\n\nSorry for the basic question. I thought I understood these cards but after watching some games on YouTube, I'm not so sure anymore.",
+      "Id": "105275"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 18, 2022, 9:13\u202FAM",
+      "Body": "> FineLerv wrote:\n> I have a question regarding Bleed Bounce cards such as Deflection and Telepathic Misdirection, which are \"Only usable when a minion is bleeding you, after blocks are declined\".\n>\n> Does \"Declining to Block\" mean that you haven't tried to block with anything? Or does it still count as \"Declining to Block\" if you attempt to block but your minion gets out-stealthed?\n>\nThe latter is correct, you may attempt to block and later if failing to do so you can make the decision to \"decline to block\" which is final and applies to all your minions, alternatively try to block with a different minion.\n\nIf you decline to block to be able to play for ex. Deflection and it gets canceled by Direct Intervention you will not be able to attempt to block again nor play a new Deflection (with the same minion), the only alternatives would be to either take the bleed, play Deflection with a different minion or play a different bounce card than Deflection (e.g. Telepathic Misdirection) with the same or different minion.\n\nBe conscious that if you attempt to block and don\u00B4t have enough intercept and hope another methuselah will help you for ex. by playing inferior Babble you can\u00B4t \"decline to block\"\n\nDeflection\n\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Dominate\nOnly usable if a minion is bleeding you, after blocks are declined.\nLock this reacting vampire. Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).\nAs above, but do not lock this vampire.\n\nTelepathic Misdirection\n\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Auspex\n+1 intercept.\nOnly usable if a minion is bleeding you, after blocks are declined. Lock this reacting vampire. Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).\n\nBabble\n\nCardtype: Reaction\nDiscipline: Dementation\nGive another ready minion +1 intercept.\nLock this vampire to unlock another ready minion. Not usable by a blocking minion.\n\nDirect Intervention\n\nCardtype: Master\nCost: 1 pool\nOut-of-turn.\nCancel a minion card as it is played, and its cost is not paid. (If it was an action card, the acting minion does not lock. If it was a strike card, the minion chooses another strike.)",
+      "Id": "105276"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "May 18, 2022, 11:48\u202FAM",
+      "Body": "> inm8 wrote:\n> If you decline to block to be able to play for ex. Deflection and it gets canceled by Direct Intervention you will not be able to attempt to block again nor play a new Deflection, the only alternatives would be to either take the bleed or play a different bounce card than Deflection (e.g. Telepathic Misdirection).\n>\nClarification (because it can be misunderstood by new players): you can play another Deflection if the first one is cancelled (or the bleed is bounced back), just not with the same vampire - if you have another unlocked or awake vampire they can still bounce with a second Deflection.",
+      "Id": "105278"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 18, 2022, 1:30\u202FPM",
+      "Body": "Good point, I made an update to my answer to reflect the same.",
+      "Id": "105279"
+    },
+    {
+      "Author": "FineLerv",
+      "Date": "May 19, 2022, 1:10\u202FPM",
+      "Body": "Thank you both very kindly. This helps immensely. Apologies for the amateur formatting; I still haven't quite figured out how to use quotes and so on.\n\nAs a follow up regarding the Babble part of the answer, does that mean you can't play Deflection with a vampire that has attempted to block but failed?",
+      "Id": "105287"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 19, 2022, 2:56\u202FPM",
+      "Body": "> FineLerv wrote:\n> Thank you both very kindly. This helps immensely. Apologies for the amateur formatting; I still haven't quite figured out how to use quotes and so on.\n>\n> As a follow up regarding the Babble part of the answer, does that mean you can't play Deflection with a vampire that has attempted to block but failed?\n>\nYou can.\nWhat inm8 meant is that if you have a minion B attempting to block acting minion A, you're not done with the block attempt while other players have effects to use. C could therefore take advantage of that to make B block even though you'd rather not. But it's a very corner-case scenario that is slightly off-topic. Most of the time, the block fails and you can then play Deflection by declining to block with all your minions.\n\n(Detailed sequence:  A performs bleeds at 0 stealth. B attempts to block. A increases stealth. (-- At that point, B would like to give up and play Deflection but... --) C provides B with intercept using Babble. Usually only the blocking minion's controller can increase their intercept, but a few cards can be used to provide other Methuselahs' minion with intercept. A doesn't increase stealth and is blocked by B.)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105288"
+    },
+    {
+      "Author": "FineLerv",
+      "Date": "May 19, 2022, 4:52\u202FPM",
+      "Body": "Fantastic. I think I understand how the Action process works now. Thanks again.\n\nSo am I right in saying that, when you do bounce a minion, the newly targeted player has to contend with all the Stealth that is still on the acting vampire?",
+      "Id": "105289"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 19, 2022, 7:25\u202FPM",
+      "Body": "> FineLerv wrote:\n> Fantastic. I think I understand how the Action process works now. Thanks again.\n>\n> So am I right in saying that, when you do bounce a minion, the newly targeted player has to contend with all the Stealth that is still on the acting vampire?\n>\nCorrect, as well as any other effects that last for the action (bleed modifiers, among others).\nThat could be a reason why B tried to block in the first place: A increases the stealth, then B bounces to bleed to C who cannot block without getting some intercept.\nIf B had bounced right away, A and C could have come to an agreement to get in combat and avoid damaging each other as much as possible.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105291"
+    }
+  ]
+}

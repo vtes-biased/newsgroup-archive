@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-65880",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/65880-di-wash-di",
+  "Title": "DI, Wash, DI",
+  "Messages": [
+    {
+      "Author": "extrala",
+      "Date": "Sep 29, 2014, 7:33\u202FPM",
+      "Body": "Situation during last weekend's tournament. Looks obvious to me, but I want some confirmation:\n\nPlayer 1 plays War Ghoul.\nPlayer 2 plays DI.\nPlayer 3 plays Wash\nPlayer 4 plays DI.\n\nPlayer 1 now claimed the play of the second DI was not legal play. He reasoned that the window for \"as it is played\" had closed, because the Wash opened another \"as it it played\", which in turn automatically closes the original \"as it played\" window.\n\nMy reasoning on the other hand is, that you need to give all the other players a chance (impulse) to react to the \"as it it played\" window (playing Wash doesn't close that window).\n\n> Name: Direct Intervention\n> Cardtype: Master\n> Cost: 1 pool\n> Master: out-of-turn.\n> Cancel a minion card as it is played. No cost is paid. (If it was an action card, the acting minion doesn't tap. If it was a strike card, the minion chooses another strike.)\n>",
+      "Id": "65880"
+    },
+    {
+      "Author": "Desso Alastor",
+      "Date": "Sep 29, 2014, 11:24\u202FPM",
+      "Body": "I think the second DI is valid.\n\nDesso Alastor\nOrganized Play Coordinator VEKN\nPrince of S\u00E3o Paulo / Brazil ID#706",
+      "Id": "65882"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 30, 2014, 4:37\u202FAM",
+      "Body": "> extrala wrote:\n> Player 1 now claimed the play of the second DI was not legal play. He reasoned that the window for \"as it is played\" had closed, because the Wash opened another \"as it it played\", which in turn automatically closes the original \"as it played\" window.\n>\nBased on what?\n\nSequence must be:\nPlayer 1 plays War Ghoul (don't replace). This opens window \"as played\" A   Player 2 plays DI (don't replace). This opens window \"as played\" B   Player 3 plays Wash on DI (don't replace). This opens \"as played\" C Nobody plays any effect during the \"as played\" C window. This closes the \"as played\" C window. Player 3 would replace if there wasn't a \"Do not replace clause\" on Wash.   DI is cancelled, this closes the \"as played\" B window. Player 2 replaces his DI and recover the pool paid.   \"as played\" A window is still opened. Player 4 can play DI.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "65883"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 30, 2014, 5:34\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > extrala wrote:\n> > Player 1 now claimed the play of the second DI was not legal play. He reasoned that the window for \"as it is played\" had closed, because the Wash opened another \"as it it played\", which in turn automatically closes the original \"as it played\" window.\n> >\n> Based on what?\n>\n> Sequence must be:\n> Player 1 plays War Ghoul (don't replace). This opens window \"as played\" A   Player 2 plays DI (don't replace). This opens window \"as played\" B   Player 3 plays Wash on DI (don't replace). This opens \"as played\" C Nobody plays any effect during the \"as played\" C window. This closes the \"as played\" C window. Player 3 would replace if there wasn't a \"Do not replace clause\" on Wash.   DI is cancelled, this closes the \"as played\" B window. Player 2 replaces his DI and recover the pool paid.   \"as played\" A window is still opened. Player 4 can play DI.\n>\nYour sequence is OK but there is no \"recover the pool paid\" because you don't pay before closing the \"as played windows\".",
+      "Id": "65885"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Sep 30, 2014, 11:32\u202FAM",
+      "Body": "> Timo wrote:\n>\n> > Ankha wrote:\n> >\n> > > extrala wrote:\n> > > Player 1 now claimed the play of the second DI was not legal play. He reasoned that the window for \"as it is played\" had closed, because the Wash opened another \"as it it played\", which in turn automatically closes the original \"as it played\" window.\n> > >\n> > Based on what?\n> >\n> > Sequence must be:\n> > Player 1 plays War Ghoul (don't replace). This opens window \"as played\" A   Player 2 plays DI (don't replace). This opens window \"as played\" B   Player 3 plays Wash on DI (don't replace). This opens \"as played\" C Nobody plays any effect during the \"as played\" C window. This closes the \"as played\" C window. Player 3 would replace if there wasn't a \"Do not replace clause\" on Wash.   DI is cancelled, this closes the \"as played\" B window. Player 2 replaces his DI and recover the pool paid.   \"as played\" A window is still opened. Player 4 can play DI.\n> >\n> Your sequence is OK but there is no \"recover the pool paid\" because you don't pay before closing the \"as played windows\".\n>\nYou sure about that? Because not all cards that cancel cards as it is played have text saying no cost is paid.\n\nMarko, Prince of Helsinki",
+      "Id": "65904"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 30, 2014, 11:44\u202FAM",
+      "Body": "> a-e wrote:\n>\n> > Timo wrote:\n> > Your sequence is OK but there is no \"recover the pool paid\" because you don't pay before closing the \"as played windows\".\n> >\n> You sure about that? Because not all cards that cancel cards as it is played have text saying no cost is paid.\n>\nYes I am sure. And it is so since the  RTR 20030519 which states :\n\n> Canceling cards and retrieving costs: Cards that cancel other cards as they\n> are played and retrieve the cost (resulting in a loss as the cost is paid and\n> then a gain as the cost is retrieved) instead cancel the card and nullify the\n> cost (no cost is paid for the canceled card). The Anarchs version of Sudden\n> Reversal has the new \"(no cost is paid)\" wording, and other cancel cards are\n> to be handled similarly. Those other cards are Contingency Planning, Denial\n> of Aphrodite's Favor, Direct Intervention, Iron Heart, The Jones, and Rewind\n> Time.\n>",
+      "Id": "65905"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Sep 30, 2014, 11:57\u202FAM",
+      "Body": "So no cost is paid just reminder text then.\n\nMarko, Prince of Helsinki",
+      "Id": "65907"
+    },
+    {
+      "Author": "hodgestar",
+      "Date": "Sep 30, 2014, 12:02\u202FPM",
+      "Body": "\"no cost is paid\" is not reminder text. See this 2010 ruling by LSJ: rec.games.trading-cards.jyhad.narkive.com/a1q8F2la/lsj-retrieving-cost-of-cancelled-cards.\n\nThis part of the complete rules reference could use cleaning up though, because it mostly suggests otherwise or at best is very confusing.",
+      "Id": "65908"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 30, 2014, 12:53\u202FPM",
+      "Body": "> a-e wrote:\n> So no cost is paid just reminder text then.\n>\nNot at all ! What the RTR states that you don't pay cost before the end of the \"as played\" window. And when his window is closed, if the card is not cancelled, you pay, if it is cancelled, you also pay except if stated otherwise by the card canceller.",
+      "Id": "65914"
+    }
+  ]
+}

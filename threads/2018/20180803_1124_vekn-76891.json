@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-76891",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76891-clan-sect-requirements-and-changing-allegiance",
+  "Title": "Clan/Sect requirements and changing allegiance",
+  "Messages": [
+    {
+      "Author": "avgrund",
+      "Date": "Aug 3, 2018, 11:24\u202FAM",
+      "Body": "Good day fellow cold corpses.\n\nCards requiring a certain discipline/clan/sect must be played by a minion/vampire which have/fulfill these; but can these cards be stolen or acquired by minions not fulfilling the same?\n\nFor example a clan specific weapon on a vampire which is diablerized by another. Or a laibon retainer already on a vampire which changes sects.\n\nAny special circumstance where this would be feasible (or not)?\n\nThanks for your help!",
+      "Id": "89590"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Aug 3, 2018, 11:30\u202FAM",
+      "Body": "Hello!\n\nSome clan specific cards have the requirement only in the initial equip action/occasion. They are free to be used by others however. For example, Blade of Bellona can be used by anyone but has to be equipped initially by a  .\n\nSome cards specify that a certain requirement be met to be able to use it. Sword of Judgement is an example for these kinds of equipment.\n>\n> Name: Blade of Bellona\n> [LK:4]\n> Cardtype: Equipment\n> Clan: Salubri antitribu\n> Melee weapon.\n> Strike: strength +1 damage, with 1 optional maneuver each combat, only usable to maneuver to close range.\n> Artist: Gin\u00E9s Qui\u00F1onero\n>\n> Name: Sword of Judgment\n> [Sabbat:R, SW:R/PB, Third:R]\n> Cardtype: Equipment\n> Clan: Brujah antitribu\n> Cost: 2 pool\n> Unique melee weapon.\n> Strength+1 damage each strike, with an optional additional strike each round. Only usable by Brujah antitribu.\n> Artist: Richard Thomas\n>\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89591"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 3, 2018, 11:32\u202FAM",
+      "Body": "> avgrund wrote:\n> Cards requiring a certain discipline/clan/sect must be played by a minion/vampire which have/fulfill these; but can these cards be stolen or acquired by minions not fulfilling the same?\n>\nIn general terms, yes - requirements are only important for playing the card. A Raven Spy requires Animalism, but once it's in play, you could move it to another vampire without any Animalism using Heidelberg Castle.\n\nYou might have a card, however, like Sword of Judgment which also includes the text: \"Only usable by Brujah antitribu.\" And while a minion who is not a Brujah antitribu could have it, they couldn't use it.",
+      "Id": "89592"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 3, 2018, 12:09\u202FPM",
+      "Body": "Some cards also use the following pattern:\n\"Requires a Sabbat vampire.\nThis Sabbat vampire can...\"\n\nIf the card is moved to another vampire who is not Sabbat, that vampire cannot use the card.\n\nThere is a third way restrictions in use can be written such as Bowl of Convergence:\n\n\"If the bearer is a vampire who has Auspex [aus], the bearer gets +1 intercept. ...\" which is the same as \"The bearer with Auspex [aus] gets +1 intercept.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89596"
+    }
+  ]
+}

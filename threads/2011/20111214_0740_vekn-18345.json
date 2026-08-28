@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-18345",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/18345-form-of-mist-vs-blissful-agony-morphean-blow",
+  "Title": "Form of Mist vs Blissful Agony / Morphean Blow",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Dec 14, 2011, 7:40\u202FAM",
+      "Body": "Heys again, I try not be frequent here but another question occured...\n\nActing vampire plays Form of Mist, the blocking playes Morphean Blow or Blissful Agony... What happens?\n>\n> Morphean Blow\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Valeren / Celerity\n> Only usable at close range.\n> [cel] Strike: combat ends.\n> [val] Strike: combat ends and put this card on the opposing minion. This minion cannot take actions or block. Burn this card at the end of the turn.\n> [VAL] As [val] above, and if this vampire was blocked while performing an action other than bleeding, the action continues as if unblocked.\n>\n> Blissful Agony\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Valeren/Animalism\n> [ani] Strike: hand strike at +1 damage.\n> [val] Only usable at close range before strikes are chosen. Opposing minion takes 1 unpreventable damage during strike resolution each round this combat when the range is close. A vampire may play only one Blissful Agony at [val] each combat.\n> [VAL] Strike: combat ends. Choose a minion controlled by a Methuselah other than the opposing vampire's controller. The opposing vampire enters combat with that minion.\n>\n> Form of Mist\n> Cardtype: Combat\n> Discipline: Protean\n> [pro] Strike: dodge.\n> [PRO] Strike: combat ends. If this vampire is acting [and needs stealth when this strike resolves], he or she may burn 1 blood after combat ends to continue the action at +1 stealth as if unblocked. A vampire may play only one Form of Mist at superior each action.\n>\nNC of Hungary\n\n///",
+      "Id": "18345"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 14, 2011, 8:04\u202FAM",
+      "Body": "Vampire A (acting, blocked) plays Form of Mist.\nVampire B (non-acting) plays Morphean Blow [val].\nCombat ends and Vampire A continues to take the action they were taking. Continuing an action that's already in progress doesn't have the same checks as starting an action anew.\n\n[LSJ 20100221]\n>\n> LSJ wrote:\n> On Feb 21, 12:43 pm, botipeti <> wrote:\n>\n> > Let's say vamp A blocks vamp B and in combat vamp B plays Torrent to\n> > continue the action and vamp A plays Morphean Blow inferior. Can vamp\n> > B continue the action or continueing is the same as taking an action\n> > which he cannot do because of Morphean Blow?\n>\n> He can continue. Similarly, if he lost a single blood in combat and\n> was then empty, he could still continue the non-hunt action, eve\n> though empty vampires cannot take non-hunt actions.\n>\nOn Form of Mist (or Torrent etc.) vs Blissful Agony, I'm reasonably certain that the Blissful Agony \"enter combat\" effect would end up disrupting the Form of Mist continue action. (Following the usual precedent of Psyche! et al.) However, I can't find a specific ruling that squarely addresses the two.",
+      "Id": "18351"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 14, 2011, 8:22\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Vampire A (acting, blocked) plays Form of Mist.\n> Vampire B (non-acting) plays Morphean Blow [val].\n> Combat ends and Vampire A continues to take the action they were taking. Continuing an action that's already in progress doesn't have the same checks as starting an action anew.\n>\n> [LSJ 20100221]\n> >\n> > LSJ wrote:\n> > On Feb 21, 12:43 pm, botipeti <> wrote:\n> >\n> > > Let's say vamp A blocks vamp B and in combat vamp B plays Torrent to\n> > > continue the action and vamp A plays Morphean Blow inferior. Can vamp\n> > > B continue the action or continueing is the same as taking an action\n> > > which he cannot do because of Morphean Blow?\n> >\n> > He can continue. Similarly, if he lost a single blood in combat and\n> > was then empty, he could still continue the non-hunt action, eve\n> > though empty vampires cannot take non-hunt actions.\n> >\n> On Form of Mist (or Torrent etc.) vs Blissful Agony, I'm reasonably certain that the Blissful Agony \"enter combat\" effect would end up disrupting the Form of Mist continue action. (Following the usual precedent of Psyche! et al.) However, I can't find a specific ruling that squarely addresses the two.\n>\nCorrect.\nRegarding the last point, we have this:\nAll Rulings  wrote:\n>\n> Any effect that starts a new combat after the combat that was ended by (or continues the combat that was ended by) a \"combat ends and the action continues as if unblocked\" will nullify the \"continue action\" part. This includes Psyche (superior), Fast Reaction, Hidden Lurker, and Telepathic Tracking.  [LSJ 19980109]\n>\nwhich lacks up-to-date examples, but it still correct.",
+      "Id": "18355"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 14, 2011, 8:24\u202FAM",
+      "Body": "> Malachy wrote:\n> Heys again, I try not be frequent here but another question occured...\n>\n> Acting vampire plays Form of Mist, the blocking playes Morphean Blow or Blissful Agony... What happens?\n>\nMorphean Blow: I suppose at [val]: the vampire cannot take actions anymore, but I don't think it affects the current action which has already been taken and is now being performed.\n\nBlissful Agony: the new combat disrupts the action (such as Psyche!, Telepathic Tracking etc. would do).  groups.google.com/group/rec.games.trading-cards.jyhad/msg/f878c5f356e883b8\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "18356"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Dec 18, 2011, 2:07\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Vampire A (acting, blocked) plays Form of Mist.\n> Vampire B (non-acting) plays Morphean Blow [val].\n> Combat ends and Vampire A continues to take the action they were taking. Continuing an action that's already in progress doesn't have the same checks as starting an action anew.\n>\n> [LSJ 20100221]\n> >\n> > LSJ wrote:\n> > On Feb 21, 12:43 pm, botipeti <> wrote:\n> >\n> > > Let's say vamp A blocks vamp B and in combat vamp B plays Torrent to\n> > > continue the action and vamp A plays Morphean Blow inferior. Can vamp\n> > > B continue the action or continueing is the same as taking an action\n> > > which he cannot do because of Morphean Blow?\n> >\n> > He can continue. Similarly, if he lost a single blood in combat and\n> > was then empty, he could still continue the non-hunt action, eve\n> > though empty vampires cannot take non-hunt actions.\n> >\nThis brings up a question I hadn't considered before, if the acting minion plays superior Form of Mist and is simultaneously sent to torpor by the blocking vampires Catatonic Fear or Loving Agony, does the action continue?\nI can't actually find anything in the rulebook that checks if the vampire is still ready at the end of the action, and  this post by LSJ seems to suggest it would work, but it seems odd (and contrary to what I would expect).\n>\n> LSJ wrote:\n> > I can't think of how to interrupt anything with Diablerie\n> > at all. Amaranth can always be played if one's opponent is\n> > going to torpor but what could it interrupt?\n>\n> Form of Mist's continuance ....\n>",
+      "Id": "18778"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 18, 2011, 2:26\u202FPM",
+      "Body": "> Mael wrote:\n> This brings up a question I hadn't considered before, if the acting minion plays superior Form of Mist and is simultaneously sent to torpor by the blocking vampires Catatonic Fear or Loving Agony, does the action continue?\n> I can't actually find anything in the rulebook that checks if the vampire is still ready at the end of the action, and  this post by LSJ seems to suggest it would work, but it seems odd (and contrary to what I would expect).\n> >\n> > LSJ wrote:\n> > > I can't think of how to interrupt anything with Diablerie\n> > > at all. Amaranth can always be played if one's opponent is\n> > > going to torpor but what could it interrupt?\n> >\n> > Form of Mist's continuance ....\n> >\nIf the acting minion is no longer ready, the action can't continue.\n[LSJ 19980511] / [TOM 19951001]  wrote:\n>\n> If the (ready) acting vampire goes to torpor, the action cannot continue\n>\n[LSJ 20090325]  wrote:\n>\n> The (ready-minion-requiring) action continually checks the acting minion's readiness. If that check ever fails, the action fizzles.\n>\nForm of Mist vs Amaranth is a special case. \"Diablerie is too disruptive to have the action continue beyond that point\":  [LSJ 19980819] and  [LSJ 20031207] . Note that the disruptive part is the blood hunt referendum. If you manage to burn the opposing minion during combat (Decapitate, ...), you can continue the action afterwards.",
+      "Id": "18780"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Dec 18, 2011, 2:44\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > Mael wrote:\n> > This brings up a question I hadn't considered before, if the acting minion plays superior Form of Mist and is simultaneously sent to torpor by the blocking vampires Catatonic Fear or Loving Agony, does the action continue?\n> > I can't actually find anything in the rulebook that checks if the vampire is still ready at the end of the action, and  this post by LSJ seems to suggest it would work, but it seems odd (and contrary to what I would expect).\n> > >\n> > >\n> > > LSJ wrote:\n> > > > I can't think of how to interrupt anything with Diablerie\n> > > > at all. Amaranth can always be played if one's opponent is\n> > > > going to torpor but what could it interrupt?\n> > >\n> > > Form of Mist's continuance ....\n> > >\n> > >\n> >\n> If the acting minion isn't ready, the action can't continue.\n>\nWhat if the action is one takeable by a vampire in torpor?\n\nBaron Dieudonne is in torpor and rescues himself. During the block attempt, you use Warsaw Station to move him to your ready region. He is blocked, plays Form of Mist to continue the action, but is sent to torpor (Loving Agony, Outside the Hourglass + Disarm).\n\nSince the action to leave torpor is performable by a vampire in torpor, why can't he continue the action? (Assume that he can pay for it due to Coven or Blood Tears of Kephran).\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "18782"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Dec 19, 2011, 2:08\u202FAM",
+      "Body": "> echiang wrote:\n>\n> > Pascal wrote:\n> >\n> > > Mael wrote:\n> > > This brings up a question I hadn't considered before, if the acting minion plays superior Form of Mist and is simultaneously sent to torpor by the blocking vampires Catatonic Fear or Loving Agony, does the action continue?\n> > > I can't actually find anything in the rulebook that checks if the vampire is still ready at the end of the action, and  this post by LSJ seems to suggest it would work, but it seems odd (and contrary to what I would expect).\n> > > >\n> > > >\n> > > > LSJ wrote:\n> > > > > I can't think of how to interrupt anything with Diablerie\n> > > > > at all. Amaranth can always be played if one's opponent is\n> > > > > going to torpor but what could it interrupt?\n> > > >\n> > > > Form of Mist's continuance ....\n> > > >\n> > > >\n> > >\n> > >\n> > If the acting minion isn't ready, the action can't continue.\n> >\n> What if the action is one takeable by a vampire in torpor?\n>\n> Baron Dieudonne is in torpor and rescues himself. During the block attempt, you use Warsaw Station to move him to your ready region. He is blocked, plays Form of Mist to continue the action, but is sent to torpor (Loving Agony, Outside the Hourglass + Disarm).\n>\n> Since the action to leave torpor is performable by a vampire in torpor, why can't he continue the action? (Assume that he can pay for it due to Coven or Blood Tears of Kephran).\n>\nIf a vampire leaving torpor is blocked there is no combat but the blocker either diablerizes the vampire or the action just ends and the vampire stays in torpor.",
+      "Id": "18803"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 19, 2011, 8:01\u202FAM",
+      "Body": "Hm, I forgot about Crypt's Sons.\n[LSJ 20080611] shows the action taken from torpor can continue, if blocked (and, of course, if the acting vampire is still around).\nHowever, a minion in torpor cannot continue an action that can't be performed in torpor (per LSJ's previously quoted rulings).",
+      "Id": "18812"
+    },
+    {
+      "Author": "echiang",
+      "Date": "Dec 19, 2011, 3:17\u202FPM",
+      "Body": "> Klaital wrote:\n>\n> > What if the action is one takeable by a vampire in torpor?\n> >\n> > Baron Dieudonne is in torpor and rescues himself. During the block attempt, you use Warsaw Station to move him to your ready region. He is blocked, plays Form of Mist to continue the action, but is sent to torpor (Loving Agony, Outside the Hourglass + Disarm).\n> >\n> > Since the action to leave torpor is performable by a vampire in torpor, why can't he continue the action? (Assume that he can pay for it due to Coven or Blood Tears of Kephran).\n> >\n> If a vampire leaving torpor is blocked there is no combat but the blocker either diablerizes the vampire or the action just ends and the vampire stays in torpor.\n>\nThat's interesting. Because even though the action is technically to \"leave torpor\" at the time of blocking, the vampire is not actually in torpor (he's ready). Can he still really be diablerized even though he's ready? (I also assume that the action doesn't \"fizzle\" immediately, since it would only check his valid torpor status at the start of the action and at the end of the action and he would be in torpor during both periods, just not continuously during the middle).\n\n(Well, that's one of the problems with Warsaw Station being able to be used at any time, unlike say, Heidelberg which can't be used during an action).\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "18833"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 19, 2011, 3:33\u202FPM",
+      "Body": "> echiang wrote:\n> (Well, that's one of the problems with Warsaw Station being able to be used at any time, unlike say, Heidelberg which can't be used during an action).\n>\nI guess Warsaw Station has to be like that to be functional in the opponent's turn. If it was like Heidelberg, once your blocking Nosferatu got torporized while blocking, he would have to wait for the active player to finish his turn (and diablerize him...) before being able to use the WS.",
+      "Id": "18834"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Dec 19, 2011, 4:19\u202FPM",
+      "Body": "> Non-existant user wrote:\n>\n> > echiang wrote:\n> > (Well, that's one of the problems with Warsaw Station being able to be used at any time, unlike say, Heidelberg which can't be used during an action).\n> >\n> I guess Warsaw Station has to be like that to be functional in the opponent's turn. If it was like Heidelberg, once your blocking Nosferatu got torporized while blocking, he would have to wait for the active player to finish his turn (and diablerize him...) before being able to use the WS.\n>\nOr he could just wait until the action was over and use it before the next action was announced? If it were to work like Heidelberg.\n(Unless  this ruling has been reversed or changed somehow.)\n\n> LSJ wrote:\n> > I see. But I could block an action with Doll Face who's driving a\n> > Sport Bike, and after combat is over(and before the next action is\n> > announced) I could tap Heidelberg Castle to give the Sport Bike to\n> > Dancing Dana, right?\n>\n> Right.\n>",
+      "Id": "18837"
+    }
+  ]
+}

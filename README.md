@@ -1,24 +1,31 @@
 # newsgroup-archive
 
-A preserved copy of the Usenet newsgroup **`rec.games.trading-cards.jyhad`**,
-published as a static website so that the
-[VTES rulings database](https://github.com/vtes-biased/vtes-rulings) can cite it
-instead of Google Groups.
+A preserved copy of the Usenet newsgroup **`rec.games.trading-cards.jyhad`**
+and of the **V:EKN forum** that succeeded it, published as a static website so
+that the [VTES rulings database](https://github.com/vtes-biased/vtes-rulings)
+can cite it instead of Google Groups and instead of a forum that loses topics.
 
 **[Browse the archive →](https://usenet.krcg.org/)**
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 10,723 threads, 132,182
-messages, 1994 to 2010. This is every thread in which one of the game's rules
-directors posted: Thomas R. Wylie (from December 1994), Shawn F. Carnes (July
-1996), Jon Wilkie (October 1996) and L. Scott Johnson (June 1998 onward).
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 13,584 threads, 168,903
+messages, 1994 to today. Two sources, one rule: every discussion in which one
+of the game's rules directors took part.
 
-A few threads are not from that newsgroup, and carry a `Group` naming where
-they came from: several hundred from `rec.games.deckmaster`, where Jyhad was
-discussed before its own group existed, and — from 2021, well after Usenet —
-one topic off the V:EKN forum, which the forum has since dropped and a ruling
-still rests on. `import_mbox.py` and `import_forum.py` are what put those here.
+- **The newsgroup**, 1994 to 2010, where Thomas R. Wylie (from December 1994),
+  Shawn F. Carnes (July 1996), Jon Wilkie (October 1996) and L. Scott Johnson
+  (June 1998 onward) answered. Several hundred of these threads are from
+  `rec.games.deckmaster`, where Jyhad was discussed before it had a group of
+  its own.
+- **The V:EKN forum**, from 2010 on: 2,862 topics Ankha has posted in,
+  close to half of them rules questions. The forum drops topics of its own accord —
+  the one the Baltimore Purge ruling rests on returns a 404 today, and survives
+  only because the Wayback Machine kept it.
+
+A thread from anywhere but the newsgroup carries a `Group` saying where it came
+from. `import_mbox.py`, `import_forum.py` and `sync_forum.py` are what put them
+here.
 
 Each file is one thread:
 
@@ -60,6 +67,16 @@ anywhere in the scrape and cannot be recovered offline, so they do not map to
 anchors. A citation that used one resolves to the thread, and the right message
 has to be identified by author and date.
 
+A forum topic keeps its number the same way, prefixed so it can never be taken
+for one of Google's, and every forum message keeps the number the forum gave it
+in an `Id` — which the page carries as a second anchor. A link into the forum
+therefore keeps its fragment too:
+
+```
+vekn.net/forum/rules-questions/75512-raptor-obedience#80020
+    → usenet.krcg.org/t/vekn-75512/#80020
+```
+
 ## Building the site
 
 ```sh
@@ -81,19 +98,39 @@ characters, each line `word threads gap,gap,gap` — how many threads hold the
 word, then their positions in `threads.json`, written as gaps so the numbers
 stay short.
 
-Whole, the index is 17 MB (4.7 MB over the wire), which is more than a phone
+Whole, the index is 17 MB (6.3 MB over the wire), which is more than a phone
 should have to fetch to search at all. Split this way, a query downloads only
-the files its words fall in: a few KB for most of them, 167 KB for `co.txt`,
-the worst of the 1,331. Words are matched by prefix, which a sorted file gives
+the files its words fall in: a few KB for most of them, 202 KB for `co.txt`,
+the worst of the 1,332. Words are matched by prefix, which a sorted file gives
 for nothing — the matches are consecutive lines. A prefix that starts more than
 ten words is cut to the ten commonest, because `ra` starts 906 of them and
 unioning all 906 helps nobody. Accents come off on both sides, so Rötschreck and
 Rotschreck are one word; the group spelled it both ways.
 
+## Keeping the forum copy current
+
+```sh
+python3 sync_forum.py --list   # say what would be fetched, fetch nothing
+python3 sync_forum.py          # fetch what the archive has not got
+python3 sync_forum.py --refresh   # fetch every topic again, replies and all
+```
+
+The forum publishes no listing of a member's topics — the one on their profile
+shows the six most recent — so its search does the enumerating instead:
+`searchuser=ankha` returns every post they wrote, newest first, a hundred to a
+page, and each result names the topic it is in. Sixty requests give the whole
+list; the topics are then fetched one a second. The first run took two hours
+for 2,861 topics, a run that finds nothing new takes a minute.
+
+What a plain run cannot see is a reply written after that member's last post in
+a topic; `--refresh` is for that. `--user` takes any member: the rulings
+database also cites Pascal Bertrand, the rules director before Ankha, and 47 of
+the topics it cites have no post by Ankha in them at all.
+
 ## Provenance and rights
 
-The threads were scraped from Google Groups' copy of the newsgroup. Posts are
-the property of their authors and are reproduced here for reference and
+The newsgroup threads were scraped from Google Groups' copy; the forum topics
+were read from the forum itself. Posts are the property of their authors and are reproduced here for reference and
 preservation. Author e-mail addresses arrived already partly obscured by Google
 (`someone...@example.com`).
 

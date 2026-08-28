@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-67985",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/67985-warning-signal-and-thougths-betrayed",
+  "Title": "Warning Signal and Thougths Betrayed",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Dec 8, 2014, 2:23\u202FAM",
+      "Body": "How does the optional strike from Warning Sirens interact with Thoughts Betrayed? On another level of abstraction: what is a strike card?\n\nWarning Sirens\nMaster: out-of-turn.\nPlay on a minion targeted by a  action to give that minion +1 intercept. Alternatively, play on a minion in combat. That minion gets an optional strike: dodge this round.\n\nThoughts Betrayed\nOnly usable before range is determined on the first round.\nDominate Opposing minion takes 1 additional damage in the first round of combat during normal strike resolution.\nDominate Opposing minion cannot play any strike cards for the duration of this combat.\n\n(many thanks in advance)",
+      "Id": "67985"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 8, 2014, 7:51\u202FAM",
+      "Body": "> Nac wrote:\n> How does the optional strike from Warning Sirens interact with Thoughts Betrayed?\n>\nTB prevents the opposing minion playing cards (card text). M:OOTs are played by Methuselahs only, not minions.\n\n> Rulebook, wrote:\n> Playing Cards. There are four main types of library cards: convictions, master cards, minion cards and event cards. Convictions are put in play during the untap phase (see details in the Imbued Rules appendix); master cards are played by Methuselahs; minion cards are played by the minions (vampires and allies) the Methuselahs control;\n>\n> Nac wrote:\n> On another level of abstraction: what is a strike card?\n>\nMoot, for this question. I don't recall a specific description of it.\n\nA more relevant card for these purposes might be Mythic Form or Liquefy the Mortal Coil, or similar minion-card-based strike granters.",
+      "Id": "67999"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 8, 2014, 8:13\u202FAM",
+      "Body": "> Nac wrote:\n> On another level of abstraction: what is a strike card?\n>\nA card that provides a strike and is used for this effect.\n\nFor instance, Sideslip used at [cel] is a strike card (\"Strike: ...\"). Sideslip used at [CEL] isn't.\n\nName: Sideslip\nCardtype: Combat\nDiscipline: Celerity\n[cel] Strike: dodge.\n[CEL] Prevent 1 damage. A vampire can play only one Sideslip at superior each round.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68000"
+    }
+  ]
+}

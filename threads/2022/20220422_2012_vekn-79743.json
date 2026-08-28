@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-79743",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79743-glutton-when-no-blood-to-burn",
+  "Title": "Glutton when no blood to burn",
+  "Messages": [
+    {
+      "Author": "Zerato",
+      "Date": "Apr 22, 2022, 8:12\u202FPM",
+      "Body": "Hi,\n\nI wanna know what will happen when using Glutton targeting an empty vamp.\n\nGlutton\nUnique master.\n\nThis card costs X pool, where X is the number of Gluttons in your ash heap. Put this card in play. You may lock this card to unlock a ready Ishtarri you control. That Ishtarri burns 1 blood. Any vampire may burn this card as a \u24B9 action.\n\nAccording to the text as a first step we can unlock a ready Ishtarri. After the unlock the Ishtarri needs to burn blood.\nSo, as per my understanding, the vamp cant blood burn he/she doesnt have. Similarly to stolen blood, a minion cannot stole more blood than the target has.\n\nComparing with Stealth Ritus, Glutton doesnt have a restriction about burning blood.\n\nStealth Ritus\nRequires a ready Sabbat vampire. Only usable when the action is announced.\n\nChoose another ready Sabbat vampire you control. The chosen vampire burns 1 blood, or this card has no effect. This action gets +1 stealth, even if stealth is not yet needed.\n\nE.G.\nVamp A has Glutton and locks it to unlock vamp B. Vamp B unlocks and has zero blood, so no blood to burn.\n\nIs this right?\n\nThanks",
+      "Id": "105061"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 23, 2022, 7:12\u202FAM",
+      "Body": "> Zerato wrote:\n> Vamp A has Glutton and locks it to unlock vamp B. Vamp B unlocks and has zero blood, so no blood to burn.\n>\nGlutton is not attached to a vampire.\n\nIf you have a Glutton in play, you can unlock an Ishtarri with no blood (the \"burn blood\" part does nothing since they don't have blood).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105064"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 23, 2022, 7:15\u202FAM",
+      "Body": "> Zerato wrote:\n> Hi,\n>\n> I wanna know what will happen when using Glutton targeting an empty vamp.\n>\n> ...\n>\n> E.G.\n> Vamp A has Glutton and locks it to unlock vamp B. Vamp B unlocks and has zero blood, so no blood to burn.\n>\n> Is this right?\n>\nYou are correct in that an empty vampire ignores \"burn blood\" effects... i.e. what will happen when using Glutton on a locked empty ready Ishtarri is that it will be unlocked and will ignore the need to burn 1 blood, then the Ishtarri will have to take a mandatory hunt action.\nSee ruling for reference  [LSJ 19970707]\n\nNo vampire has Glutton, it is a card that is put into play similar to Dreams of the Sphinx.\nIt is you as a Methuselah that use it to unlock one of your ready Ishtarri vampires.",
+      "Id": "105065"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Apr 23, 2022, 7:30\u202FPM",
+      "Body": "It's a less a matter of the steps order, more important is the difference between \"Burn blood.\" and \"Burn blood to do X.\". In the former case, you simply move on with the card text resolution since you do not have the blood to burn. In the later - X won't happen if you do not have the blood to burn.",
+      "Id": "105069"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 23, 2022, 7:44\u202FPM",
+      "Body": "> KoRneeshon wrote:\n> It's a less a matter of the steps order, more important is the difference between \"Burn blood.\" and \"Burn blood to do X.\". In the former case, you simply move on with the card text resolution since you do not have the blood to burn. In the later - X won't happen if you do not have the blood to burn.\n>\nYou are absolutely correct in highlighting the difference.\n\nalso\n\n\u201CBurn blood\u201D = effect\n\u201CBurn blood to X\u201D = cost",
+      "Id": "105070"
+    }
+  ]
+}

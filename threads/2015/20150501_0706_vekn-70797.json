@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-70797",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/70797-dance-macabre-the-unaligned-storyline-rewards-2005-pdf-print-sheets",
+  "Title": "Dance Macabre, The Unaligned & Storyline rewards 2005 PDF print sheets",
+  "Messages": [
+    {
+      "Author": "a-e",
+      "Date": "May 1, 2015, 7:06\u202FAM",
+      "Body": "So I finally got access to decent color laser printer, but now I faced a new problem on printing. Opening print sheets is really slow. As I only have some few mins available here and there during work day for printing, I really can't print at all because of slow loading of pages.\n\nWould it be possible to get print sheets that only contains pages with nine copies of same card? I assume that opening pdf with 47 pages would be a bit faster than opening pdf with 423 pages on it (The Unaligned crypt sheet).\n\nMarko, Prince of Helsinki",
+      "Id": "70797"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 1, 2015, 11:11\u202FAM",
+      "Body": "I don't know if it will help, as the 423-pages document is about the same size in MB than would be a 9-copies only document.\nThat is because each card is present only once in the file, then is cloned by the viewer.\n\nYou can use the \"goto page\" command of the viewer. Pages with 9 copies are located on the multiple of 9.\n\nTo avoid navigating in the document, you can also stay on the first page, and launch the print command by indicating the page number. This should be faster than navigating on the page, and printing \"the current page\".\n\nHope it helps.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70804"
+    }
+  ]
+}

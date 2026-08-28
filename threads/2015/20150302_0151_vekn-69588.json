@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-69588",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/69588-story-line-cards-update",
+  "Title": "Story line cards update",
+  "Messages": [
+    {
+      "Author": "Ke.",
+      "Date": "Mar 2, 2015, 1:51\u202FAM",
+      "Body": "Hello, any idea when the card list files will be updated with the new story line cards?\n\nvekn.net/card-lists\n\nWill help with building decks etc...\n\nThanks\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "69588"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 7, 2015, 8:43\u202FPM",
+      "Body": "I was waiting for the last card (the artwork will arrive shortly), but that link has been updated to feature the current list of available card s (without that last storyline promo).\n\nThe .zip file with the csvs has also been updated.",
+      "Id": "69742"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 8, 2015, 1:43\u202FAM",
+      "Body": "Thanks, much appreciated.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "69743"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Mar 8, 2015, 8:20\u202FAM",
+      "Body": "Thanks for the update\n\nI try to update my ARDB using the update database function and I obtain this result:\n\nDownloading...\nImporting file vtescrypt.csv...\nImporting file vteslib.csv... .....................\nImporting file vtessets.csv...\nERROR -> UPDATE ABORTED (ROLLBACK)\nDatabase update has ended.\nYou may need to restart ARDB.\n\nuntil yesterday it works fine. The same if I download the file and try to manually update it\n\nmaybe you change the name of the file?\n\nciao\nWalt\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "69746"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 8, 2015, 1:04\u202FPM",
+      "Body": "> Walt wrote:\n> Thanks for the update\n>\n> I try to update my ARDB using the update database function and I obtain this result:\n>\n> Downloading...\n> Importing file vtescrypt.csv...\n> Importing file vteslib.csv... .....................\n> Importing file vtessets.csv...\n> ERROR -> UPDATE ABORTED (ROLLBACK)\n> Database update has ended.\n> You may need to restart ARDB.\n>\n> until yesterday it works fine. The same if I download the file and try to manually update it\n>\n> maybe you change the name of the file?\n>\n> ciao\n> Walt\n>\nI've updated the file, ARDB doesn't like when the crypt file header line contains quotes.\nBut it wouldn't make the update crash, so check that you've got the latest version of ARDB (I have the 3.1.2Beta) and try again wih the updated file.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69749"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Mar 8, 2015, 9:22\u202FPM",
+      "Body": "I'm using the 3.2.1, Built Jul 9 2013 (I'm using windows 7)\n\nI try to use the 3.2 version (built jan 21 2013) and I've the same problem\n\nIt's works with 3.1.0 (built feb 20 2010)\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "69761"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 8, 2015, 10:35\u202FPM",
+      "Body": "I've found 3.1.1 to be the most stable / reliable. Rest I've found unusable.\n\nThankfully that version does everything needed and can be updated so no issues there.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "69762"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Mar 9, 2015, 9:42\u202FPM",
+      "Body": "well maybe this isn't the right place to discuss this but I'm having fun with some tests so here are my results\n\nWindows 7 Pro service pack 1\n\nARDB 3.1.0 (FEB 20 2010)\n- update from internet function: Failed to get: www.white-wolf.com/VTES/download/vtescsv.zip\n- update from file function: it's work and I can see new cards from storyline rewards but after the update all the references to disciplines change.\nNow disciplines under mail list are shown as \"FO \"ce \"au and inside the select function discipline's symbols disappears replaced by \"Auspex\" or \"Fortitude\" text\n\nARDB 3.1.1Beta2 (FEB 27 2010)\n- update from internet function: Failed to get: www.white-wolf.com/VTES/download/vtescsv.zip\n- update from file function:\nOpening D:\\Giochi\\Vtes\\ARDB\\vtescsv_utf8.zip\nImporting file vtescrypt.csv... ..............\nImporting file vteslib.csv...\nImporting file vtessets.csv...\nERROR -> UPDATE ABORTED (ROLLBACK)\nDatabase update has ended.\nYou may need to restart ARDB.\n\nmmhh it's seems to me that using version after version of ARDB create some problems\n\nit's better to delete all files under \"c/users/user name/Anarch Revolt Deck Builder\" directory before launch a new versions of ARDB\n\ndoing so\n3.1.1Beta2 update from file (disciplines have the problem of \"Au and disciplines symbols disappears from select function\n\n3.2.1 still don't update\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "69781"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 10, 2015, 8:34\u202FAM",
+      "Body": "Ive updated the files yesterday (including remarks from Jussi as some were missing text).\nThe uploaded files have no quotes on the first line.",
+      "Id": "69790"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Mar 11, 2015, 8:41\u202FPM",
+      "Body": "Thanks a lot\n\nnow ARDB version 3.1.1Beta 2 works fine updating it from the file\n\n3.2.1 have still and error opening the file, just as note\n\nthanks again\nStefano\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "69816"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 12, 2015, 9:03\u202FAM",
+      "Body": "Please note that ARDB 3.1.2 doesn't support UTF-8 correclty, so Z\u00F6e has her name garbled. If you wish to have the proper name displayed, either fix ARDB, or convert your csv files to ANSI.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69827"
+    },
+    {
+      "Author": "drstrange26",
+      "Date": "Mar 15, 2015, 4:57\u202FAM",
+      "Body": "I just wanted to note that UTF-8 is broken less because of a problem with the code. It is a problem with the version of SQLite that is being used. ARDB needs a major overhaul on the DB storage side.\n\nI also wanted to note that ARDB may disappear from Google Code.\nI am not really active with the code anymore. Its been almost 3 years since I even compiled it. I have the ARDB 3.1.2beta code and I am willing to turn it over to anyone who asks. I have it set up in an IDE called Code::Blocks and I am able to compile and make changes pretty readily because I still have my laptop that I worked on 3 years ago. I am willing to help anyone who is wishing to modify and ad features to the code.",
+      "Id": "69860"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 15, 2015, 2:58\u202FPM",
+      "Body": "> drstrange26 wrote:\n> I just wanted to note that UTF-8 is broken less because of a problem with the code. It is a problem with the version of SQLite that is being used. ARDB needs a major overhaul on the DB storage side.\n>\n> I also wanted to note that ARDB may disappear from Google Code.\n> I am not really active with the code anymore. Its been almost 3 years since I even compiled it. I have the ARDB 3.1.2beta code and I am willing to turn it over to anyone who asks. I have it set up in an IDE called Code::Blocks and I am able to compile and make changes pretty readily because I still have my laptop that I worked on 3 years ago. I am willing to help anyone who is wishing to modify and ad features to the code.\n>\nI'd like to give a try, though I haven't written a single C++ line since a long time (I'm working almost exclusively in C#).\nIs there any problem in hosting the project on GitHub for instance?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69864"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Apr 10, 2015, 4:14\u202FAM",
+      "Body": "Anybody know when Jussi will add the storyline reward cards to secret library? Not so many cards to add. Would help a lot for deck building. Thanks!",
+      "Id": "70449"
+    }
+  ]
+}

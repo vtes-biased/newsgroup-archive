@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-31040",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/31040-unleash-hells-fury-vs-burn-x-blood-to-attempt-to-block",
+  "Title": "Unleash Hells Fury vs \"Burn X blood to attempt to block\"",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "May 23, 2012, 9:04\u202FAM",
+      "Body": "Can an Unleash Hell's Fury successfully attempt to block a vampire with a \"burn X blood to attempt to block\" clause?\n\nUnleash Hell's Fury\nType: Action\nRequires: infernal Daimoinon\nCost: 2 pool\n+1 stealth action. Requires an infernal vampire. Unique.\n[dai] Put this card in play. This card may attempt to block a  action against you and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable aggravated damage, and this card is burned.\n[DAI] As above, and untap this vampire. Burn option.\n\nDominion\nType: Master\nMaster.\nPut this card on a Black Hand vampire. Vampires must burn 1 blood to attempt to block this Black Hand vampire. A vampire can have only one Dominion.\n\nForce of Personality\nType: Action Modifier / Combat\nRequires: Presence\nCost: 1 blood\n[COMBAT] Strike: combat ends.\n[ACTION MODIFIER] Only usable as the action is announced. Vampires must burn a blood to attempt to block this action. Non-zombie allies cannot block this action.\n\nArchon\nType: Political Action\nRequires: prince,justicar\nRequires a prince or justicar.\nChoose a Camarilla vampire. If this referendum is successful, put this card on the chosen vampire. This vampire may enter combat with a vampire controlled by another Methuselah as a +1 stealth  action. Any vampire attempting to block this vampire burns 1 blood. Blood hunts cannot be called on this vampire. Any Camarilla vampire can call a referendum to burn this card as a +1 stealth political action.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "31040"
+    },
+    {
+      "Author": "Oskar",
+      "Date": "May 23, 2012, 9:15\u202FAM",
+      "Body": "I think no since it is a vampire at that time and can not fulfill the burn blood requirement.",
+      "Id": "31042"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 23, 2012, 9:33\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Can an Unleash Hell's Fury successfully attempt to block a vampire with a \"burn X blood to attempt to block\" clause?\n>\nIt depends on the wording.\n\nIf it's \"burn a blood to attempt to block\", or similar, then the UHF will be unable to block. Dominion and Force of Personality are in that category.\n\nHowever, Archon is simply \"burn 1 blood\", and not a cost. Similarly, Camarilla Exemplary.\n\nArchon: Any vampire attempting to block this vampire burns 1 blood.\nCamEx: for the remainder of the game, any vampire attempting to block that vampire burns 1 blood.\n\nIn both cases, empty vampires can block an Archon or Camarilla Exemplary. It's just a burn blood effect that they ignore. (Like an empty vampire simply ignores Blood to Water.)\n\nDonal O' Connor would also be ignored by a UHF, as he would be by an empty vampire.\n\nAlso, Crocodile's Tongue against a UHF cannot be cancelled (using CT's built-in cancel), because the UHf has no blood.",
+      "Id": "31043"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 23, 2012, 12:34\u202FPM",
+      "Body": "Well, I still have to check a few things.\nThe card that declares a block attempt isn't a vampire, so effects that affect vampires' block attempt declarations wouldn't affect it. I think I remember something from LSJ about this.",
+      "Id": "31068"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 23, 2012, 12:42\u202FPM",
+      "Body": "> Pascal wrote:\n> Well, I still have to check a few things.\n> The card that declares a block attempt isn't a vampire, so effects that affect vampires' block attempt declarations wouldn't affect it. I think I remember something from LSJ about this.\n>\nIt doesn't matter, I don't think. If it's a vampire, it's prohibited. If it's a card and then pseudo-becomes a vampire, it hasn't met the cost to attempt, and the attempt is ongoing. An ongoing attempt where the vampire is ineligible is then terminated.\n\n[LSJ 20100312]\n>\n> LSJ wrote:\n> > It seems that many block fail cards cause\n> > the block to fail outright and then prohibit additional block\n> > attempts. Many use the text \"That minion cannot attempt to block this\n> > action again\". So some questions arises in how does this text\n> > interact with the timing of when UHF is a minion and a non-minion.\n>\n> The card is played. The minion that is UHF is the target. The UHF card\n> may or may not be able to block again, but it is moot, since if it can\n> block, then it finds itself to be a minion who is prohibited from\n> blocking and so the attempt immediately ends itself.\n>\nAnd the fact that the prohibition is aimed at all vampires, or just this vampire, or whatever, would seem to be irrelevant.\n\nAdded several minutes later:\nAlong similar lines, a vampire who is attempting to block finds that the acting minion plays Mask. There isn't a period there where the would-be blocker has to attempt to block anew and, indeed, they can't back out (unless an effect allows it) - so you can find yourself going into combat with someone else, if you're still successfully blocking.\n\nBut if Giotto comes in, you have to burn a pool for your attempt, even though you didn't attempt anew - you just got the acting minion playing switcheroo on you.\n\n[LSJ 20020626]\n>\n> LSJ wrote:\n> The vampire must burn a blood to attempt to block Giotto.\n> If he doesn't burn a blood, he isn't atempting to block.\n>\nAnd earlier in that thread:\n>\n> LSJ wrote:\n> If he plays the mask before the block is successful, the blocking minion\n> must then either pay a pool or not block him (i.e., he can decide not to\n> burn the blood and fail to block), thanks to the \"to\" wording on Giotto.\n>\nSo I'd argue that if the blocker 'becomes' a vampire, the criteria are met, just as if the acting minion becomes Giotto part-way through.\n\nSpecifically, it's not just a check at the \"I declare that I am attempting a block\" moment.",
+      "Id": "31070"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Feb 26, 2023, 4:37\u202FPM",
+      "Body": "Can we get a ruling on this?",
+      "Id": "107482"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 26, 2023, 6:54\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Can an Unleash Hell's Fury successfully attempt to block a vampire with a \"burn X blood to attempt to block\" clause?\n>\nNo, for the reasons given above.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107484"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Feb 26, 2023, 6:59\u202FPM",
+      "Body": "Thanks!\n\nI was under the impression that the lack of response by the rules director implies that the answer is correct but there are skeptics out there.",
+      "Id": "107486"
+    }
+  ]
+}

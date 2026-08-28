@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-80616",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80616-mask-of-a-thousand-faces-and-venenation",
+  "Title": "Mask of a Thousand Faces and Venenation",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Jun 21, 2023, 6:56\u202FPM",
+      "Body": "Is the below ruling that Mask of a Thousand Faces can be played after being blocked before block resolution valid?\nIn my opinion, it comes across as incorrect and contradicts the rules.\n\nModifiers are if not stated by explicit text only playable any time before action resolution. When the action is blocked the action has reached resolution and \"before action resolution\" doesn't include when being \"at\" or \"after\" action resolution.\nCards that are playable after reaching action resolution but before block resolution need to have the explicit text \"Only usable if this minion is blocked, before block resolution.\" which MoaTF doesn\u00B4t.\n\nThe needed text at the time of the ruling used to be \"Only usable when this acting minion is blocked, before combat begins.\" which doesn\u00B4t change anything for MoaTF\n\n> [LSJ 20010803]\n> KRCG text:\n> Can be used after the action is blocked and before the block resolution (eg. Venenation can be played both before and after).\n>\n> [LSJ 20060828]\n> LSJ wrote:\n> Action Modifiers and Reaction cards generally can be played\n> only before action resolution. Explicit card text (\"after blocking\" or\n> \"during a referendum\") is needed to overcome that. (Or being a Wake).\n>\n> Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution. A minion cannot play the same action modifier card more than once during a single action (even if using a different Discipline level).\n>\n> 3. Resolve the Action\n> [...]\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat). If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs.\n>\n*underlining by me\n\nMask of a Thousand Faces\n\nCardtype: Action Modifier\nDiscipline: Obfuscate\nOnly usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\nAs above, with +1 stealth.\n\nVenenation\n\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Serpentis\nOnly usable if this minion is blocked, before block resolution.\nPut 1 corruption counter on the blocking minion. If the number of your corruption counters on the minion equals or exceeds their capacity or cost, you can burn those counters to steal the blocking minion (combat does not occur).\nAs above, but this card costs 1 fewer blood.",
+      "Id": "108418"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 19, 2023, 9:12\u202FAM",
+      "Body": "any thoughts?",
+      "Id": "109091"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 21, 2023, 7:54\u202FPM",
+      "Body": "I am not sure what is the question here exactly?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "109119"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 22, 2023, 4:11\u202FAM",
+      "Body": "I\u2019m questioning the ruling that says Mask of a Thousand Faces is allowed to be played after Venenation has been played.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/s1lJEsLMf-8/m/3CwIMglRboIJ\n\nMask of a Thousand Faces\n\nCardtype: Action Modifier\nDiscipline: Obfuscate\nOnly usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\nAs above, with +1 stealth.\n\nVenenation\n\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Serpentis\nOnly usable if this minion is blocked, before block resolution.\nPut 1 corruption counter on the blocking minion. If the number of your corruption counters on the minion equals or exceeds their capacity or cost, you can burn those counters to steal the blocking minion (combat does not occur).\nAs above, but this card costs 1 fewer blood.",
+      "Id": "109120"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 22, 2023, 6:56\u202FAM",
+      "Body": "> inm8 wrote:\n> I\u2019m questioning the ruling that says Mask of a Thousand Faces is allowed to be played after Venenation has been played.\n>\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/s1lJEsLMf-8/m/3CwIMglRboIJ\n>\nYes, action modifiers can be played if the action is blocked, before (block) resolution.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109121"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 22, 2023, 9:52\u202FAM",
+      "Body": "What about that the rulebook says?\n\n\"Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution\"\n\nmy understanding is that when an action is blocked it has reached action resolution (I could be wrong of course) and if this is the case then it should be too late to play MoaTF as it doesn't have the explicit text \"usable if this minion is blocked, before block resolution.\" that allows it to be played when being blocked which isn't before action resolution.\n\nIf im wrong when does the \"before action resolution\" end?",
+      "Id": "109123"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 24, 2023, 8:00\u202FAM",
+      "Body": "> inm8 wrote:\n>\n> If im wrong when does the \"before action resolution\" end?\n>\nThe combat that results from blocking is part of the resolution of an action. Keep in mind when do you play freak drive or cat's guidance? Its after the combat. Neither can be played if there is no action. If there is an action then it hasn't resolved yet. (although there is a window to play said cards even after the resolution, because vtes)\n\nPersonally I have always been against using words \"before\" or \"after\" because of their inexact nature. The time window is vague and uncertain and can create timing windows that are outside the defined timing windows. When do you come back to work? Oh after I've finished this cup of coffee. When have you finished your cup of coffee? Maybe year 2060.\n\nEven the current black chantry rulebook continues the trend of poorly defining game terms. The rulebook does not clearly state whether or not block resolution is part of the action resolution. Yet it is (it has been ruled that way in the past). Yet another case where rulebook explains nothing and you just need to know these things.\n\n3. Resolve the Action\nIf the action is successful (all block attempts\nwere unsuccessful), then the cost of the action is paid and the effects of the successful\naction take place.\nIf the action is blocked, then any card played\nto perform the action is burned and the\nblock is resolved with these two simultaneous consequences: the blocking minion is\nlocked and enters combat with the acting\nminion (see Combat p. 28). If an effect ends\nthe action before the block resolution or one\nof these two consequences (such as entering\ncombat), neither consequence occurs. The effects of the action do not take place when the\naction is blocked. Note that the action\u2019s cost,\nif any, is only paid if the action succeeds; the\ncost is not paid if the action is blocked. The\ncosts of action modifiers and reaction cards\nare always paid when the cards are played,\nregardless of the success of the action.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "109140"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 24, 2023, 7:04\u202FPM",
+      "Body": "if I'm not mistaken there is a distinction between reaching \"action resolution\" and an \"action being resolved\".\nreaching \"action resolution\" is the point in the course of an action where it is determined to be either successful and its effect resolves, or it is blocked and is followed by block resolution.\n\nMy understanding of the rulebook part below where it says \"before action resolution\" refers to the point in time before the action is determined to be either successful or blocked (which is not the end of the action in any way or its resolution).\n\n> \"Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution\"\n>",
+      "Id": "109153"
+    }
+  ]
+}

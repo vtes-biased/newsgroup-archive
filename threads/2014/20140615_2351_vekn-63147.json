@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-63147",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/63147-resolving-agg-damage",
+  "Title": "Resolving Agg Damage",
+  "Messages": [
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Jun 15, 2014, 11:51\u202FPM",
+      "Body": "When you are faced with agg strikes and non-agg environmental damage (i.e. crows) in the following situation what happens?\n\nI am at one blood. Crows are coming at me, which would send me to torpor all by themself. Then there is 1 agg from ivory bow. Do I burn?\n\nI think yes, but an opponent thought that you resolve strike damage before environmental. They also claimed that because the strike was agg they went to torpor, then the two environmental damage just caused them to lose blood.\n\nThe way I understand it regular is resolved first, then agg. The two normal would send someone to torpor. I also believe that the agg would then not be prevented by burning blood, so the vampire would burn. No prevent cards were played this action.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "63147"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jun 16, 2014, 12:01\u202FAM",
+      "Body": "The order is:\n\n1) 1st point of aggravated damage is dealt with by sending the vampire to torpor at the end of the combat. (In rulings called Wounding?? Anyway, is will go to torpor at the end of combat unless there is other intervention).\n\n2) All normal damage is applied and will burn 1 blood for each point of normal damage. Excess normal damage does nothing else because the vampire is already going to torpor.\n\n3) If there is more aggravated damage, then now the minion burns, assuming they reach this state with 0 blood or less blood than the aggravated damage.\n\nSo, you in general need 2 agg damage + X damage of any type where X = the blood on the minion.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "63148"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 16, 2014, 4:47\u202FAM",
+      "Body": "There are two different things:\n1/ strike damage vs \"environmental\" damage\n2/ aggravated damage vs non-aggravated damage\n\nConcerning point 1/, \"environmental\" damage is dealt during the \"normal strike resolution\".\nThat means that you make one batch of strike damage + \"environmental\" damage and you deal with it. That implies that if someone hits you with Aid from Bats + Carrion Crows (1 + 2 damage), you can prevent all damage with one Soak at superior (Prevent 4 damage).\n\nConcerning point 2/, rulebook is clear:\n>\n> rulebook wrote:\n> If both regular damage and aggravated damage are successfully inflicted on a vampire at the same time, the regular damage is handled first. This only applies to unprevented damage; damage prevention effects can be used to prevent the aggravated damage before the normal damage, if the player chooses. If a vampire is wounded, he goes to torpor after all the damage is handled (see Torpor, sec. 6.5). If aggravated damage burns him, he goes directly to the ash heap. He doesn't go through torpor first.\n>\n> brandonsantacruz wrote:\n> When you are faced with agg strikes and non-agg environmental damage (i.e. crows) in the following situation what happens?\n>\n> I am at one blood. Crows are coming at me, which would send me to torpor all by themself. Then there is 1 agg from ivory bow. Do I burn?\n>\nSo yes, since the two damage from the Carrion Crows send you to torpor, and then you handle the aggravated damage: since you can't heal blood to prevent destruction, you burn.\n\n> brandonsantacruz wrote:\n> I think yes, but an opponent thought that you resolve strike damage before environmental. They also claimed that because the strike was agg they went to torpor, then the two environmental damage just caused them to lose blood.\n>\nYou're correct, opponent is wrong.\n\n> brandonsantacruz wrote:\n> The way I understand it regular is resolved first, then agg. The two normal would send someone to torpor. I also believe that the agg would then not be prevented by burning blood, so the vampire would burn. No prevent cards were played this action.\n>\nCorrect, it's in the rulebook.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63155"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 16, 2014, 5:12\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> 1) 1st point of aggravated damage is dealt with by sending the vampire to torpor at the end of the combat. (In rulings called Wounding?? Anyway, is will go to torpor at the end of combat unless there is other intervention).\n>\nNo, the order is normal damage, then aggravated damage. It's written in the rulebook, explicitly, in 6.4.6: \"If both regular damage and aggravated damage are successfully inflicted on a vampire at the same time, the regular damage is handled first.\"\n\nThe first point of aggravated damage is not dealt with by sending the vampire to torpor. The first point of aggravated damage handled by an unwounded vampire is dealt with by sending the vampire to torpor. If the vampire is already wounded (such as by excessive normal damage, or by a go-to-torpor strike from Rowan Ring, say), none of the aggravated damage is used to send the opponent to torpor.\n\n> Juggernaut1981 wrote:\n> 2) All normal damage is applied and will burn 1 blood for each point of normal damage. Excess normal damage does nothing else because the vampire is already going to torpor.\n>\nNormal damage is \"healed\". If you run out of blood to heal, the excess damage sends you to torpor - you don't have blood to heal the damage, so you are wounded. Excess normal damage sends you to torpor in this way when dealing with normal+agg damage, because you are not already going to torpor, because aggravated damage isn't handled first.\n\n> Juggernaut1981 wrote:\n> 3) If there is more aggravated damage, then now the minion burns, assuming they reach this state with 0 blood or less blood than the aggravated damage.\n>\nNo, in the real world, a vampire reaching this point with 0 blood taking a point of agg damage does not necessarily burn. They must be wounded for that to happen.\n\n> Juggernaut1981 wrote:\n> So, you in general need 2 agg damage + X damage of any type where X = the blood on the minion.\n>\nIncorrect.\n\nIn general (without other fun \"go to torpor\" or wounding effects lurking around, or without the fun of Undead Persistence), you need X+2 damage, where at least one of the damage is aggravated.\n\nSo say the vampire has 4 blood. I deal to him 6 damage - 5 normal, 1 agg. Handle the normal first. The first four normal damage are healed. The vampire is now on zero blood. The fifth normal damage cannot be healed, because there is no blood to heal it with. So the vampire is now wounded. The remaining point of agg damage is now handled. Because the vampire is wounded, we immediately ask the vampire to burn a blood to prevent destruction to handle it. Since they have no blood, they can't, so they burn.",
+      "Id": "63157"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Jun 16, 2014, 10:27\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> So say the vampire has 4 blood. I deal to him 6 damage - 5 normal, 1 agg. Handle the normal first. The first four normal damage are healed. The vampire is now on zero blood. The fifth normal damage cannot be healed, because there is no blood to heal it with. So the vampire is now wounded. The remaining point of agg damage is now handled. Because the vampire is wounded, we immediately ask the vampire to burn a blood to prevent destruction to handle it. Since they have no blood, they can't, so they burn.\n>\nAnd, to clarify even more - the vampire doesn't go to torpor before he or she burns. This means, that effects like Fame do not trigger.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "63161"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 16, 2014, 4:47\u202FPM",
+      "Body": "Could almost swear we just had this talk like 5 months back.\n\n\"X+2\" where x is current blood on vamp, and the equation equals \"what i need to burn vampire\" is the incomplete equation. If you have flamethrower and mass realities, its basically that equation, with nothing else involved. Its rare that you ONLY have big agg with no normal. If you target vitals, the damage is done(2 more target damage) then the agg (lets say one). So, 3 blood means two damage, then a,wounded vamp in torpor. One blood means one damage heals, one wounds, then the universe asks the vampire \"would you like to burn blood to stop being burnt, or just burn?\" The vampire is unable to burn blood, so burns.\n\nWe (even, and ESPECIALLY myself) as players get used to \"vampire takes damage, damage knocks off beads if i dont prevent it. If i take more damage than i have beads, torpor. If i take agg, torpor.\"\n\nWhen its really blood spent healing the damage, and the going to torpor is wounding. Frankly, teaching players like this adds even more confusion to a confusing mess.\n\nHell, until i started using repair the undead flesh, i forgot all about those terms. But, i think thats why agg burn math is so hard to grasp.",
+      "Id": "63171"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 17, 2014, 10:09\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> \"X+2\" where x is current blood on vamp, and the equation equals \"what i need to burn vampire\" is the incomplete equation. If you have flamethrower and mass realities, its basically that equation, with nothing else involved. Its rare that you ONLY have big agg with no normal. If you target vitals, the damage is done(2 more target damage) then the agg (lets say one).\n>\nWhat is the Target Vitals being played on? Where is the one agg damage coming from? The Ivory Bow in the initial post, or an aggravated damage hand strike (say, with a claw), or similar?\n\nIf so, there is no normal damage.\n\nvekn.net/general-rulings\n>\n> General wrote:\n> Additional damage inherits all of the properties of the base damage (So the +1 damage from lucky blow is aggravated for Basilia).\n>\n[LSJ 20081230]\n>\n> LSJ wrote:\n> > So if I target Vitals a strike using Wolf claws, does that mean the TV\n> > is agg too as the base dmg is ag? Sorry, my brain is numb from work\n>\n> Correct.\n>",
+      "Id": "63179"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Mar 22, 2015, 4:58\u202FPM",
+      "Body": "not sure if it's the right topic but... taking aggravated damage during an action (either in a combat or after some action modifier) and going to torpor allows me to play freak drive to untap the acting vampire going to torpor?\n\nLurking in the underground of Bologna, Italy",
+      "Id": "69982"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 22, 2015, 5:07\u202FPM",
+      "Body": "If you can pay the cost.\n\nAnd meet the requirements (mainly inferior Freak Drive which needs a successful action).\n\nFinnish  Politics!",
+      "Id": "69984"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 22, 2015, 6:02\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> If you can pay the cost.\n>\n> And meet the requirements (mainly inferior Freak Drive which needs a successful action).\n>\nConfirmed:  [LSJ 20060304]\n>\n> LSJ wrote:\n> >>Say I have advanced beckett and I'm sent to torpor during combat after\n> >>being blocked.\n>\n> [snip some other stuff that doesn't work\n>\n> > On the other hand, you can play a Freak Drive if you get one in the\n> > hand you draw into after discarding, since there's no restriction on\n> > torped vampires playing Action Modifiers.\n> Correct.\n>\nIn general, being in torpor doesn't stop you playing action modifiers if you're the acting minion. So someone in torpor who is taking a \"leave torpor\" action or Movement of the Slow Body or similar can play all manner of action modifiers on it.\n\nvekn.net/general-rulings\n>\n> That wrote:\n> Action modifiers cannot be played by a vampire in torpor unless that vampire is the acting minion. [RTR 19970306]\n>",
+      "Id": "69989"
+    }
+  ]
+}

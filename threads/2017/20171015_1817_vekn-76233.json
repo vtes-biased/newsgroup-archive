@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-76233",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76233-question-about-failing-to-block-faceless-night-and-playing-guard-dogs",
+  "Title": "Question about failing to block, \"Faceless Night\", and playing \"Guard Dogs\".",
+  "Messages": [
+    {
+      "Author": "gymim",
+      "Date": "Oct 15, 2017, 6:17\u202FPM",
+      "Body": "Vampire \"A\" is bleeding. Vampire \"B\" tries to block. Vampire \"A\" plays \"Faceless Night\" at the superior. Vampire \"B\" fails the block (no intercept). Vampire \"B\" then tries to play \"Guard Dogs\", to untap.\n\nCan Vampire \"B\" play the \"Guard Dogs\" after failing the block and taking the effect of \"Faceless Night\" at the superior?\n\nWhat is the timing and how is this resolved?\n\nFaceless Night: [obf] +1 stealth. [OBF] +1 stealth, and any minion who attempts to block this action and fails becomes tapped when the action is resolved (before resolving the action).\n\nGuard Dogs: Only usable by a tapped vampire when you are being bled. [ani] Untap this reacting vampire. [ANI] As above, with an optional maneuver during the resulting combat if this vampire successfully blocks this bleed and combat occurs.",
+      "Id": "83866"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 16, 2017, 6:25\u202FAM",
+      "Body": "> gymim wrote:\n> Vampire \"A\" is bleeding. Vampire \"B\" tries to block. Vampire \"A\" plays \"Faceless Night\" at the superior. Vampire \"B\" fails the block (no intercept). Vampire \"B\" then tries to play \"Guard Dogs\", to untap.\n>\n> Can Vampire \"B\" play the \"Guard Dogs\" after failing the block and taking the effect of \"Faceless Night\" at the superior?\n>\nFaceless Night doesn't lock the vampire immediately. It locks the vampire \"when the action is resolved (before resolving the action)\". In the meantime, if A isn't locked, you can't play Guard Dogs.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83873"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 17, 2017, 1:09\u202FAM",
+      "Body": "And there is no window to play Guard Dogs before resolving the action? The timing is basically the same as Obedience except that in that case the action is successful.",
+      "Id": "83894"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Oct 17, 2017, 4:28\u202FAM",
+      "Body": "The timing id that Guard Dogs looks for when you are being bled. Face less Night in this case would trigger once you have been bled.",
+      "Id": "83897"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 17, 2017, 6:35\u202FAM",
+      "Body": "> Non-existant user wrote:\n> And there is no window to play Guard Dogs before resolving the action?\n>\nYou can play Guard Dogs before resolving the action, but that's still before Faceless Night locks your vampire.\nOnce the actions resolves, your vampire is locked, and it's too late to play Guard Dogs.\n\n> rulebook wrote:\n> Action modifiers and reaction cards can be played at any time before resolution during an action (unless otherwise noted on card text)\n>\n> Non-existant user wrote:\n> The timing is basically the same as Obedience except that in that case the action is successful.\n>\nNo. Obedience is played \"when the reacting vampire is about to enter combat\". \"Is about to X\" is a special timing that happens right before the 'X' trigger, and you can't play Guard Dogs at that time.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83900"
+    }
+  ]
+}

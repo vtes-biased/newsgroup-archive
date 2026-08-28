@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-78081",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78081-eyes-of-the-beast",
+  "Title": "Eyes of the Beast",
+  "Messages": [
+    {
+      "Author": "blackday",
+      "Date": "Nov 8, 2019, 1:06\u202FAM",
+      "Body": "I just want to confirm something.\n\nName: Eyes of the Beast\nType: Reaction\nPoolCost:\nBloodCost:\nCardText: [pro] +1 intercept, and put this card on this reacting vampire. This vampire gets -1 stealth. Burn this card during your next discard phase.\n[PRO] As above, with an optional maneuver during the first round of the resulting combat if this vampire successfully blocks.\n\nDoes the superior version of it gives the vampire an optional maneuver every combat thereafter until the card is burned? Just like the -1 stealth?\nI was under the impression the maneuver like the +1 intercept were only transient and only applies to the first combat that resulted from the block.\nWe were debating it because the amaranth version says \"whenever this vampire blocks\"",
+      "Id": "97708"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 8, 2019, 7:08\u202FAM",
+      "Body": "> blackday wrote:\n> Name: Eyes of the Beast\n> Type: Reaction\n> PoolCost:\n> BloodCost:\n> CardText: [pro] +1 intercept, and put this card on this reacting vampire. This vampire gets -1 stealth. Burn this card during your next discard phase.\n> [PRO] As above, with an optional maneuver during the first round of the resulting combat if this vampire successfully blocks.\n>\nThe red emphasized part is not a part of the text the card applies when being on the vampire (because of the \"with\" instead of \"this vampire\").\n\nThe Amaranth card text tries to clarify things, while unfortunately obscuring others. The reason it sais \"whenever this vampire blocks\" is that you get this maneuver if your vampire blocks the action in which you played this card more than once (e.g. you play Eyes if the Beast, block succesfully, use your maneuver, then the acting minion plays Form of Mist at superior to continue with the action, you wake and block again. In the resulting combat you again have a maneuver in the first round).\n\nPrince of Bonn, Germany",
+      "Id": "97709"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 8, 2019, 9:22\u202FAM",
+      "Body": "> Yomyael wrote:\n>\n> > blackday wrote:\n> > Name: Eyes of the Beast\n> > Type: Reaction\n> > PoolCost:\n> > BloodCost:\n> > CardText: [pro] +1 intercept, and put this card on this reacting vampire. This vampire gets -1 stealth. Burn this card during your next discard phase.\n> > [PRO] As above, with an optional maneuver during the first round of the resulting combat if this vampire successfully blocks.\n> >\n> The red emphasized part is not a part of the text the card applies when being on the vampire (because of the \"with\" instead of \"this vampire\").\n>\n> The Amaranth card text tries to clarify things, while unfortunately obscuring others. The reason it sais \"whenever this vampire blocks\" is that you get this maneuver if your vampire blocks the action in which you played this card more than once (e.g. you play Eyes if the Beast, block succesfully, use your maneuver, then the acting minion plays Form of Mist at superior to continue with the action, you wake and block again. In the resulting combat you again have a maneuver in the first round).\n>\nCorrect on both points.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97710"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Nov 9, 2019, 6:11\u202FAM",
+      "Body": "So wait, what you are saying is that the optional maneuver only applies to that same action?\nSo, if there was a different action by a different vampire and the vampire who played eyes of the beast attempts to block he would not have the +1 intercept nor the optional maneuver.\nJust the -1 stealth until the card is burned?\nRight?",
+      "Id": "97717"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 9, 2019, 1:08\u202FPM",
+      "Body": "Right. Both the +1 intercept and the maneuver only apply during the action in which the card was played. The -1 stealth sticks until the card is burned.\n\nPrince of Bonn, Germany",
+      "Id": "97720"
+    }
+  ]
+}

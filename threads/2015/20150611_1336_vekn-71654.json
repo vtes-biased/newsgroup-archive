@@ -1,0 +1,230 @@
+{
+  "ThreadId": "vekn-71654",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/71654-online-play-by-mail-alternative",
+  "Title": "Online play by mail alternative",
+  "Messages": [
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jun 11, 2015, 1:36\u202FPM",
+      "Body": "After the last downtime of jol, I noticed a number of people said they would be willing to pay a few dollars a month for an alternative.\nPlease post in the thread if you would be willing to subscribe to such a service, and if yes, how much. If I see this as being a worthwhile project I will see if i can get it up and running.\n\nLastly, would you prefer this as a Webbrowser solution, or an app solution, or a seamless solution?\n\nPS: What happened to starting polls?\n\nEDIT: ONGOING NOTES\n\nImproved Help Section\nCard images with tooltip popups for card text\nResponsive design to make mobile use better\nSecurity features for registering account to kill spam bots\nauto 'No Sudden'\nWaiting Room Option\nClick-Based Actions/Cardplay\nInterface options for @work vs @play\nsimplified ability to donate if people want to\nPlay to top OR bottom of library.\nResearch area\nAudio ping, toggleable\nAPI creation\nCrowd sourced card EFFECT_KEY flagging with community review and approval\nEDIT: 11/09/2015 (apologies for not date stamping previous edits, that will happen from now on)\nMultiple chat channels, Game chat, Politics/Bullshitting chat in game, main chat has chatter and game requests. Possibly use IRC client?\nAdmins have ability to hand game away if leaving/going on holiday, with an auto giveaway after 14 days or more afk (14 days is simply for example, but seems a reasonable period)\nEDIT: 11/09/2015 part 2\nDraw STACK, Shuffle STACK buttons.\nEDIT: 13/09/2025\nToggle flags for nb non d, nb, ns, nv, ni\nEDIT: 13/09/2015 part 2\nCustom lists for each player (Black list, prefer to play with, etc)\nQueueing system for joining games, set flag to \"wish to join\" and will be shown to mods as available for games.\nMake game creation not require mod status, only game deletion/closure. Games with only player with any VPs will be auto closed and results stored.\nQueue commands. This is to replace the current method of transferring before your turn, then zeroing out pool at start of a match to expedite the turn process.\nEDIT: 14/09/2015\nFor text interface, allow custom command presets. e.g. play AC, reduce blood to zero, draw vamp. Possibly allow to be tied to specific decks?\nEDIT: 28/09/2015\nmake it able to move cards in specific regions without it flooding main chat, maybe under the separate chat channels\nMAYBE: add rules flowchart(game automation), with a secondary card type encoding (master, action, etc) and a potential secondary level (enter combat, bleed, flick, etc)\nEDIT: 29/09/2015\nflags for statuses, visual indicators of some kind (anarch, Red List, etc)",
+      "Id": "71654"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 12, 2015, 4:32\u202FAM",
+      "Body": "I started to work on a jol-like web application using knockout, but it's just a stub and I don't have time to work on it.\nI think a collaborative project could work if multiple people had time to work on it (the goal being to reproduce something like jol).\nI wouldn't play V:TES by mail.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71675"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jun 12, 2015, 6:06\u202FAM",
+      "Body": "> Blooded wrote:\n>\n> PS: What happened to starting polls?\n>\nThere is a specific forum for polls here:\nwww.vekn.net/forum/40-polling-forum\n\nV:EKN Website Coordinator",
+      "Id": "71677"
+    },
+    {
+      "Author": "Omelet",
+      "Date": "Jun 15, 2015, 1:44\u202FAM",
+      "Body": "I'd be in favor of a very similar interface to jol, easy to use on phones/tablets/work machines.\n\nI don't think the format is broken, just the ability to update the site.\n\nI'm not much of a coder, but I'd be happy to help with idea/testing.",
+      "Id": "71737"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Jun 15, 2015, 2:28\u202FAM",
+      "Body": "How about something good, like Lackey?\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "71738"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jun 15, 2015, 10:30\u202FPM",
+      "Body": "Lackey does not support non real time play, unfortunately.",
+      "Id": "71751"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Jun 17, 2015, 3:22\u202FAM",
+      "Body": "I played JOL for a while, but find Lackey to be more entertaining when I have the time. If I log on to play I may not get a game some of the time, which is OK. Some people coordinate on the facebook page and ask for players to log on.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "71762"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Jul 27, 2015, 2:43\u202FAM",
+      "Body": "Shameless bump due to original post being updated with notes so far",
+      "Id": "72233"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 9, 2015, 7:43\u202FAM",
+      "Body": "All those who have started various replacements for jol, please chime in here. Am now actively developing a new version of jol.\nCurrent Aims:\nResponsive\nRemove the chat length restriction\nMake games that you are ousted in be shown as inactive for you\nAbility to have non standard characters\nAnti-bot account creation\n\nPotential Aims:\nCard images with tooltip popups for card text or vice versa\n\nWould like to collaborate on existing designs and resources, no point in redesigning the wheel",
+      "Id": "72989"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 9, 2015, 8:09\u202FPM",
+      "Body": "If you are looking for feedback on what sort of things might be good for such a game/interface\n\nClick-Based Actions/Cardplay\nClick action card in hand, click minion in play, choose superior or inferior... game responds by tapping minion and doing the basic declaration. \"Midget bleeds with Kindred Spirits\"\nSimilar for cards in play with actions built in, such as PB:Montreal.\n\nWaiting Room Option\nWhen you login you can 'flag' yourself as being interested in a game. That flag stays in place even when you are offline, so people can invite you to games when you are offline. When you are added to a game, the flag is reset. You don't need the flag 'up' to get invited to a game. When players setup games, there would be a list of active players and players looking for games plus maybe a search option for those who are offline.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "72994"
+    },
+    {
+      "Author": "David_Mac",
+      "Date": "Sep 10, 2015, 2:01\u202FAM",
+      "Body": "I'd be happy to chip in ~$15 US a month for a JoL alternative if it were up and running, for at least the first few months. Interested which platform you'd use to go about building it- background in IT development here and hopefully might be able to help out a little.\n\nOne suggestion if you're fishing- auto 'No Sudden'- maybe something hidden a player could toggle. Spent half of my time playing JoL waiting for people to confirm No Sudden on most every stinking Master I played- very tedious process.",
+      "Id": "72997"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 10, 2015, 3:09\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> If you are looking for feedback on what sort of things might be good for such a game/interface\n>\n> Click-Based Actions/Cardplay\n> Click action card in hand, click minion in play, choose superior or inferior... game responds by tapping minion and doing the basic declaration.\n>\nThis is doable, and is something i have wanted to do all along. It is fairly simple as it looks for the ACTION card key. However for cards in play that allows actions it is somewhat more complex as those cards would have to be individually tagged as being \"ACTION\" cards once in play. Doable, but less so.\n\n> Juggernaut1981 wrote:\n> Waiting Room Option\n> When you login you can 'flag' yourself as being interested in a game. That flag stays in place even when you are offline, so people can invite you to games when you are offline. When you are added to a game, the flag is reset. You don't need the flag 'up' to get invited to a game. When players setup games, there would be a list of active players and players looking for games plus maybe a search option for those who are offline.\n>\nExcellent suggestion, goes into the to post edit",
+      "Id": "72998"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 10, 2015, 3:11\u202FAM",
+      "Body": "> David_Mac wrote:\n> I'd be happy to chip in ~$15 US a month for a JoL alternative if it were up and running, for at least the first few months. Interested which platform you'd use to go about building it- background in IT development here and hopefully might be able to help out a little.\n>\nAwesome thanks for the offer. I dont think costs would be that high, but it depends on what size server etc we would require.\n\n> David_Mac wrote:\n> One suggestion if you're fishing- auto 'No Sudden'- maybe something hidden a player could toggle. Spent half of my time playing JoL waiting for people to confirm No Sudden on most every stinking Master I played- very tedious process.\n>\nAdded to top post",
+      "Id": "72999"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 10, 2015, 3:29\u202FAM",
+      "Body": "> David_Mac wrote:\n> One suggestion if you're fishing- auto 'No Sudden'- maybe something hidden a player could toggle. Spent half of my time playing JoL waiting for people to confirm No Sudden on most every stinking Master I played- very tedious process.\n>\nAnd to add to this idea... if the deck doesn't have any cancels in it (i.e. No Wash, Sudden, etc) then the \"No Cancel\" flag is 'default on'.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "73000"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 10, 2015, 4:12\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> And to add to this idea... if the deck doesn't have any cancels in it (i.e. No Wash, Sudden, etc) then the \"No Cancel\" flag is 'default on'.\n>\nThis will make things much more complex, as you will not be able to simply import the card .csv, but will have to then manually flag each card for having a sudden type effect. So it would be sudden, Wash, Rewind time, Synesios, etc. Doable, but adding complexity to the card updating interface, which would need to be maintained for every new expansion.",
+      "Id": "73001"
+    },
+    {
+      "Author": "sor_garcya",
+      "Date": "Sep 10, 2015, 4:28\u202FAM",
+      "Body": "Hi,\nhere, a few comments about the topics in this thread\n1. Interface\nThere are some players that play the game at work. The interface should allow you to choose some kind of \"disguise/at work/easier\" modus to support those players\n\nAlso, the text interface is nice. Maybe supporting both, gestures + text inputs?\n\n2. Fees, Pay plattforms\nTBH, I wouldn't play JOL if the prize is higher than 20 $ pro year, maybe 30 is my max. But also is important the way how you collect the money and show where it goes.\nI do not have any Paypal account and paying with credit card, well, also do not like it. Better offer all those options and here my proposal:\nWhen you develop an Android App, you can \"donate\" to that app. Why do not develop an \"collecting donations app\", that just helps as interface for the donations?\nUsing that interface, I would go up to 5 $/month\n\nAnd also would be nice, if the costs of the site would be public, that everyone can follow where the money goes and how much the site costs the maintainer (I assume, currently is writing red-numbers, but, who knows?)\n\n3. Development/Test\nMaybe you can create an \"open source\" project, using any of the collaborative plattforms available. Lot of JOL players have a professional technical-background and that would help a lot not only in the development phase but also in the testing phase\n\nThat's all by know, I hope this all help!\n\nRegards and many many thanks, Blooded\n\nSor",
+      "Id": "73002"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 10, 2015, 4:34\u202FAM",
+      "Body": "> sor_garcya wrote:\n> Hi,\n> here, a few comments about the topics in this thread\n> 1. Interface\n> There are some players that play the game at work. The interface should allow you to choose some kind of \"disguise/at work/easier\" modus to support those players\n>\n> Also, the text interface is nice. Maybe supporting both, gestures + text inputs?\n>\nAdded to top post, excellent suggestion, will depend on complexity of implementation, but should not be impossible, will mean dual CSS for each type, but maybe only 2 variants to start with will do? Simple and Expressive, for example?\n\n> sor_garcya wrote:\n> 2. Fees, Pay plattforms\n> TBH, I wouldn't play JOL if the prize is higher than 20 $ pro year, maybe 30 is my max. But also is important the way how you collect the money and show where it goes.\n> I do not have any Paypal account and paying with credit card, well, also do not like it. Better offer all those options and here my proposal:\n> When you develop an Android App, you can \"donate\" to that app. Why do not develop an \"collecting donations app\", that just helps as interface for the donations?\n> Using that interface, I would go up to 5 $/month\n>\n> And also would be nice, if the costs of the site would be public, that everyone can follow where the money goes and how much the site costs the maintainer (I assume, currently is writing red-numbers, but, who knows?)\n>\nI will accept donations towards the running and maintenance of the site, but, again, i dont think it will be THAT expensive, will depend entirely on the space/#of Db/bandwidth required. However developing an app JUST for donations seems a bit excessive, paypal and CC is enough i think. In fact, just paypal should be enough.\n\n> sor_garcya wrote:\n> 3. Development/Test\n> Maybe you can create an \"open source\" project, using any of the collaborative plattforms available. Lot of JOL players have a professional technical-background and that would help a lot not only in the development phase but also in the testing phase\n>\ngranted, this will help a lot, but i kind of want to see if i can run this as a side project fr the fun of it.\n\n> sor_garcya wrote:\n> That's all by know, I hope this all help!\n>\nGood suggestions, thanks\n\n> sor_garcya wrote:\n> Regards and many many thanks, Blooded\n>\n> Sor\n>\nPiss off you toxic troll...",
+      "Id": "73003"
+    },
+    {
+      "Author": "stinky_nerd",
+      "Date": "Sep 10, 2015, 9:44\u202FAM",
+      "Body": "One of the best things you can offer, that JOL can't, is a good public API. With that you or anybody else can create all kinds of crazy ways to play the game, including but not limited to:  App alternatives for every device, in-case the browser version isn't good enough for them. Play-by-email - send commands via email, receive board state via email. Good for those wanting to play at work, but have restricted access to sites, but not email. A Google Excel sheet that updates with the game, so you can play inconspicuously at work. ...\n>\n> Blooded wrote:\n> This will make things much more complex, as you will not be able to simply import the card .csv, but will have to then manually flag each card for having a sudden type effect.\n>\nI understand there's thousands of V:TES cards, but what if you were to out-source the importing to the users?\nYou start off with simply importing the card, but you also create a page where a user gets a random card displayed to them, and they have to fill out the extra flags for it correctly.\nThen if X other users review the submission and approve it, the extra flags get automatically added to the database.\n\n> sor_garcya wrote:\n> Maybe you can create an \"open source\" project, using any of the collaborative plattforms available. Lot of JOL players have a professional technical-background and that would help a lot not only in the development phase but also in the testing phase\n>\n+1 from me. Even if nobody collaborate/creates any pull requests, at least you know the developer doesn't have any shoddy coding to hide, before asking for donations.\n\n^This is meant in general and in no way directed towards you Blooded. I would have done the same if I were to start work on this. Taking care of the maintenance costs is the least the users can do for the amount of work ahead of you!\n\n/edit:\n\nQuick suggestion: Along with the *-flag JOL has, maybe also a sound notification that you can enable?",
+      "Id": "73009"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 10, 2015, 12:14\u202FPM",
+      "Body": "Layout question: One option is to retain JOL's very simple layout, which has it's won set of pros and cons, the other option is to use images instead.\n\nMy current thinking is keep the current layout, but use a tooltip popoup with images linked. Users could download the card list images if they want imagery, it would then need some kind of install app, but would allow them to have the images locally, reducing loads and increasing speed. I would prefer NOT to have this from the site, as this will increase the bandwidth requirements overall quite dramatically.\n\nSecond option, and imho the better one, is to have the cards on the site, and have the text for the card as a tooltip popup",
+      "Id": "73012"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 10, 2015, 12:17\u202FPM",
+      "Body": "> stinky_nerd wrote:\n> One of the best things you can offer, that JOL can't, is a good public API. With that you or anybody else can create all kinds of crazy ways to play the game, including but not limited to:  App alternatives for every device, in-case the browser version isn't good enough for them. Play-by-email - send commands via email, receive board state via email. Good for those wanting to play at work, but have restricted access to sites, but not email. A Google Excel sheet that updates with the game, so you can play inconspicuously at work. ...\n>\nSounds great, don't know if i have the chops for that, but my Db and web guy certainly does\n\n> stinky_nerd wrote:\n>\n> > Blooded wrote:\n> > This will make things much more complex, as you will not be able to simply import the card .csv, but will have to then manually flag each card for having a sudden type effect.\n> >\n> I understand there's thousands of V:TES cards, but what if you were to out-source the importing to the users?\n> You start off with simply importing the card, but you also create a page where a user gets a random card displayed to them, and they have to fill out the extra flags for it correctly.\n> Then if X other users review the submission and approve it, the extra flags get automatically added to the database.\n>\nNot a bad solution. Keep going, and you are going to be working on the project. Due and fair warning given....\n\n> stinky_nerd wrote:\n>\n> > sor_garcya wrote:\n> > Maybe you can create an \"open source\" project, using any of the collaborative plattforms available. Lot of JOL players have a professional technical-background and that would help a lot not only in the development phase but also in the testing phase\n> >\n> +1 from me. Even if nobody collaborate/creates any pull requests, at least you know the developer doesn't have any shoddy coding to hide, before asking for donations.\n>\nTrue. yet people have and do donate to JOL, and, well......\nAlso it means i can't hide my shoddy coding. Oh wait",
+      "Id": "73013"
+    },
+    {
+      "Author": "Cooper",
+      "Date": "Sep 10, 2015, 12:30\u202FPM",
+      "Body": "One of the main problems with JOL is having to deal with non-responsive players.\nespecially when it is their turn, and they dont show up for weeks,..you can't end their turn for them.\n\nideas to work around:\n1) someone is ousted once not present for period x. Some way to implement vacations.\n2) if someone does not act/block/react after period x, action is over and concluded.\n\nAnother problem is people not wanting to hear other peoples politics/foulmouthing. A simple \"mute player x\" would suffice? so that you only see their actual plays and not the words.\n\nNot sure what the plans are exactly...i read something about \"click card, do x\" etc. Is the software then going to ask \"do you block? yes/no\" \"do you bounce\" \"do you modify?\" \"do you play adds\"\nIt will be a lot of work i guess, but it is also a good way to avoid arguments over \"you said you leave me at 0 blood\" \"yes, but i didnt mean ce\"\n\nYuo could then maybe implement something that you can set to \"if at stealth, nb\" for a turn, or for always etc...to minimize th waitings.",
+      "Id": "73015"
+    },
+    {
+      "Author": "stinky_nerd",
+      "Date": "Sep 10, 2015, 12:36\u202FPM",
+      "Body": "> Blooded wrote:\n> Not a bad solution. Keep going, and you are going to be working on the project. Due and fair warning given....\n>\nWouldn't mind helping out here and there, provided there's a git repository to use. Whether it's public or not.\n\nBitbucket offers a free private repo for up to 5 people, Gitlab has unlimited, afaik.\n\n> Blooded wrote:\n> True. yet people have and do donate to JOL, and, well...... Also it means i can't hide my shoddy coding. Oh wait\n>\nI was speaking in general. If I was in your shoes I'd do the same. Taking care of the maintenance costs is the least the users can do for the amount of work ahead of you!\n\n> I would prefer NOT to have this from the site, as this will increase the bandwidth requirements overall quite dramatically.\n>\nMight be a way around this, possibly cheekily keeping the cards on a different host (github?) and loading them from there? Or storing them in localStorage? Or making a CSS file that points to \"C:/VTES/Images/...\" and have the users download a zip file from somewhere and extract them there?\n\nWild Suggestion:\nA queue system, where a player queues up his commands (they get verified and previewed to him by the server), then he marks all the points where a block may occur.\n\nThen once the queue is verified and submitted it plays out until the block points. If the blocks are declined, the queue forwards ahead to the next block point. If the block is attempted the queue is cleared and the players resolve the blocks as normal.\n\nQuick suggestion: Along with the *-flag JOL has, maybe also a sound notification that you can enable?\n\n/Edit:\nSome sites also allow for custom CSS files to be manually pasted in by the user. Might be helpful for those who wish the site to look a certain way, and also offers another solution to the image conundrum.",
+      "Id": "73016"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 10, 2015, 9:49\u202FPM",
+      "Body": "> Cooper wrote:\n> One of the main problems with JOL is having to deal with non-responsive players.\n> especially when it is their turn, and they dont show up for weeks,..you can't end their turn for them.\n>\n> ideas to work around:\n> 1) someone is ousted once not present for period x. Some way to implement vacations.\n> 2) if someone does not act/block/react after period x, action is over and concluded.\n>\nA \"force action\" button for the game creator and maybe some power users who can admin a game when the game creator isn't online?\n\n> Another problem is people not wanting to hear other peoples politics/foulmouthing. A simple \"mute player x\" would suffice? so that you only see their actual plays and not the words.\n>\nSounds like you could have a 'game info' channel and a 'chatter' channel. Just block the chatter channel.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "73021"
+    },
+    {
+      "Author": "koko Loco",
+      "Date": "Sep 11, 2015, 2:26\u202FAM",
+      "Body": "I really like the idea of an alternate Jol/Lackey, cheers to Blooded Sand and the input players are giving towards this possible alternate vtes format.\n\nI'd hope that this would be optimised to work on multiple platforms (pc,android/iphone, ipad/tablet ect) With a possible option of graphic card images or text only.\n\nHell I'd be happy with just \"card images\" with just a few \"right click\" options (tap, untap, attached card, remove pool ect )and a room chat. A much more simplified version of Lackey without 1000s of commands, also the option to save games is paramount, while waiting for others who may be offline to declare actions/reactions ect. And of course it is crucial that this is playable on multiple platforms unlike LACKEY.\n\nmake it So number one",
+      "Id": "73022"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 11, 2015, 5:52\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n>\n> > Cooper wrote:\n> > One of the main problems with JOL is having to deal with non-responsive players.\n> > especially when it is their turn, and they dont show up for weeks,..you can't end their turn for them.\n> >\n> > ideas to work around:\n> > 1) someone is ousted once not present for period x. Some way to implement vacations.\n> > 2) if someone does not act/block/react after period x, action is over and concluded.\n> >\n> A \"force action\" button for the game creator and maybe some power users who can admin a game when the game creator isn't online?\n>\n1) not sure that is good, prefer not auto-ousting anyone. However...\n2) ALL admins will be able to do forcible end turn, etc on ALL games. However closing a game by a different admin i am currently thinking of only being possible if Original Admin gives rights to New Admin OR Original Admin is afk for +14 days, then it opens up to most senior admin, who may bump it to next admin in line, iterate\n\n> Juggernaut1981 wrote:\n>\n> > Cooper wrote:\n> > Another problem is people not wanting to hear other peoples politics/foulmouthing. A simple \"mute player x\" would suffice? so that you only see their actual plays and not the words.\n> >\n> Sounds like you could have a 'game info' channel and a 'chatter' channel. Just block the chatter channel.\n>\nGood idea, two separate chat channels are good, with the ability to jump between them.\nWould be useful on main chat as well, one chat stream for chatter, one for game requests, one for queries.\nMight be simpler to just integrate an IRC client then and have that as the chat channel control.",
+      "Id": "73026"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 11, 2015, 5:58\u202FAM",
+      "Body": "> koko wrote:\n> I really like the idea of an alternate Jol/Lackey, cheers to Blooded Sand and the input players are giving towards this possible alternate vtes format.\n>\nBeen wanting to do this for a while, the last few outages and issues have just made me decide to do it without waiting for a data and code copy from George.\n\n> koko wrote:\n> I'd hope that this would be optimised to work on multiple platforms (pc,android/iphone, ipad/tablet ect) With a possible option of graphic card images or text only.\n>\nPartly why I will do it in PHP is that it is a framework I am familiar with, and creating a responsive design is simplicity itself, so instantly platform independent.\n\n> koko wrote:\n> Hell I'd be happy with just \"card images\" with just a few \"right click\" options (tap, untap, attached card, remove pool ect )and a room chat. A much more simplified version of Lackey without 1000s of commands, also the option to save games is paramount, while waiting for others who may be offline to declare actions/reactions ect. And of course it is crucial that this is playable on multiple platforms unlike LACKEY.\n>\nThe goal is something as simple as JOL but as pretty as lackey. This means a LOT of the requests for automation are not going to happen (sorry guys)(some will, just not all by any measure.)\n\n> koko wrote:\n> make it So number one\n>\nRed shirts don't get to give orders.......",
+      "Id": "73027"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 13, 2015, 7:55\u202FAM",
+      "Body": "> Ankha wrote:\n> I started to work on a jol-like web application using knockout, but it's just a stub and I don't have time to work on it.\n> I think a collaborative project could work if multiple people had time to work on it (the goal being to reproduce something like jol).\n> I wouldn't play V:TES by mail.\n>\nDo you have the ERDs still?",
+      "Id": "73069"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 15, 2015, 5:48\u202FAM",
+      "Body": "Bump to highlight multiple updates to OP. Any comments would be appreciated, same for input or requests. These are great BEFORE the start of this kind of project, not so much later once design is baked.",
+      "Id": "73128"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 15, 2015, 6:16\u202FAM",
+      "Body": "> Blooded wrote:\n>\n> > Ankha wrote:\n> > I started to work on a jol-like web application using knockout, but it's just a stub and I don't have time to work on it.\n> > I think a collaborative project could work if multiple people had time to work on it (the goal being to reproduce something like jol).\n> > I wouldn't play V:TES by mail.\n> >\n> Do you have the ERDs still?\n>\nNo. It was more a end-user stub that would connect to a web service to get the job done. I started to write the API contract, but I don't know where it is.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73129"
+    },
+    {
+      "Author": "stinky_nerd",
+      "Date": "Sep 16, 2015, 4:14\u202FAM",
+      "Body": "suggestion: Ability to swap out an inactive/retired player for an active one.\n\nBasically, in the case of someone disappearing for good, an admin can boot the player and get another player to take his place.\n\nCould be an alternative to retconning someone out of the game, instead of abandoning the game, if an active player is willing to sacrifice their time playing someone else's deck.\n\n/Edit:\nThe player's name should reflect the swap...\n\nNerd, previously Noob (Pool: 13)",
+      "Id": "73150"
+    },
+    {
+      "Author": "stinky_nerd",
+      "Date": "Sep 18, 2015, 10:45\u202FAM",
+      "Body": "Double-post incoming..\n\nIf you do decide to use IRC for the main chat, then you can also run a bot that sends private messages to people when it's their turn in a game or if they get pinged.",
+      "Id": "73206"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 28, 2015, 9:23\u202FAM",
+      "Body": "OK< currently am trying to think how to automate VtES for NuJOL. Essentially i will have to create a flow chart of the entire rules set. Might need some help confirming there are no errors, plotting stuff out, etc. Anyone willing to help with this?\n\nAlso, any chance of getting a corner of vekn.net to host it on?",
+      "Id": "73368"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 28, 2015, 9:44\u202FAM",
+      "Body": "> Blooded wrote:\n> OK< currently am trying to think how to automate VtES for NuJOL. Essentially i will have to create a flow chart of the entire rules set. Might need some help confirming there are no errors, plotting stuff out, etc. Anyone willing to help with this?\n>\n> Also, any chance of getting a corner of vekn.net to host it on?\n>\nI can give it a punt... remember that plenty of cards are likely to 'break' the flowchart.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "73369"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 28, 2015, 10:01\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n>\n> > Blooded wrote:\n> > OK< currently am trying to think how to automate VtES for NuJOL. Essentially i will have to create a flow chart of the entire rules set. Might need some help confirming there are no errors, plotting stuff out, etc. Anyone willing to help with this?\n> >\n> > Also, any chance of getting a corner of vekn.net to host it on?\n> >\n> I can give it a punt... remember that plenty of cards are likely to 'break' the flowchart.\n>\nYup, im aware of that, that's why i am at first restricting it to only Action, Reaction, Master, Action modifier and combat cards. Then going to add combo cards\nThen going to add secondary divisions, like bleed, enter combat, etc",
+      "Id": "73371"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Sep 28, 2015, 10:05\u202FAM",
+      "Body": "Oh I was thinking things like...\n\nForm of Mist\nChange of Target\nPsyche!\nTelepathic Tracking\n...\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "73372"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 28, 2015, 12:00\u202FPM",
+      "Body": "> Blooded wrote:\n> OK< currently am trying to think how to automate VtES for NuJOL. Essentially i will have to create a flow chart of the entire rules set. Might need some help confirming there are no errors, plotting stuff out, etc. Anyone willing to help with this?\n>\n> Also, any chance of getting a corner of vekn.net to host it on?\n>\nBefore stepping into a really complicated matter (because it depends more on the game content than the game rules), why not focus on the core?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73376"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Sep 28, 2015, 1:38\u202FPM",
+      "Body": "> Ankha wrote:\n> Before stepping into a really complicated matter (because it depends more on the game content than the game rules), why not focus on the core?\n>\nWell, mostly, because if i want to add automation later, i need to design at the start for it to be added later\n\nIf i design with no automation in mind, i might make design choices that will later on make it impossible to automate certain things\n\nAlso, if we could host this on vekn, it means a central repository for card text and images an be used, negating the need to have a separate server again duplicating all the content",
+      "Id": "73380"
+    }
+  ]
+}

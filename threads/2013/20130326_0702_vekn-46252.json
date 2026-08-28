@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-46252",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/46252-remnant-of-endless-storm",
+  "Title": "Remnant of Endless Storm",
+  "Messages": [
+    {
+      "Author": "galliard",
+      "Date": "Mar 26, 2013, 7:02\u202FAM",
+      "Body": "Hi, i was wondering, how his :ignore excess over 2 damage\" work? Please anybody capable answering. Does it work like Flesh of Marble or rather ignore excess hits first, then you can prevent after.\nOn example, lets say our remnant has 2 Flak Jackets and is hit y Shambling Horde for 4 damage.\nDoes he receive 2 damage or zero?\nregards",
+      "Id": "46252"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 26, 2013, 7:22\u202FAM",
+      "Body": "Remnant of the Endless Storm\nAlly\n6 pool\nUnique werewolf with 5 life. 1 strength, 0 bleed. Requires a magaji.\nThe Remnant gets +1 strength for each life it has. The Remnant may enter combat with any minion as a  action. If any effect does more than 2 damage to the Remnant, ignore the excess. If the Remnant has 4 or fewer life during your untap phase, it gains 1 life from the blood bank.\n\nSo:\n\"ignore the excess\" is a short way of saying \"ignore the rest of the damage from the effect.\"\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "46254"
+    },
+    {
+      "Author": "galliard",
+      "Date": "Mar 26, 2013, 8:36\u202FAM",
+      "Body": "I appreciate you reply very much, but it doesnt really answer my question\nTo make it easier - will it be 2 or 0 damage in my example?\ntake care",
+      "Id": "46257"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 26, 2013, 8:49\u202FAM",
+      "Body": "SH inflict to Remnant 4 damage.\nIf you prevent no damage using the Flak etc., it takes 4 damage that exceeds 2, so it ends taking 2 damage.\nIf you prevent 1 damage using the Flak etc., it takes 3 damage that exceeds 2, so it ends taking 2 damage.\nIf you prevent 2 damage using the Flak etc., it takes 2 damage (no excess is ignored).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "46258"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 26, 2013, 9:22\u202FAM",
+      "Body": "> Ankha wrote:\n> SH inflict to Remnant 4 damage.\n> If you prevent no damage using the Flak etc., it takes 4 damage that exceeds 2, so it ends taking 2 damage.\n> If you prevent 1 damage using the Flak etc., it takes 3 damage that exceeds 2, so it ends taking 2 damage.\n> If you prevent 2 damage using the Flak etc., it takes 2 damage (no excess is ignored).\n>\nCorrect.",
+      "Id": "46260"
+    }
+  ]
+}

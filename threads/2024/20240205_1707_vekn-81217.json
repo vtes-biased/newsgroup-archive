@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-81217",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81217-seating-rules-for-2r-f",
+  "Title": "Seating rules for 2R+F",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "Feb 5, 2024, 5:07\u202FPM",
+      "Body": "Looking for an RD confirmation about seating rules.\nThat's how they're worded in the  original LSJ post :\n>\n> LSJ wrote:\n> Optimal Seating Criteria, with additional previously-unformalized criteria included:  1. No pair of players repeat their predator-prey relationship. This is mandatory, by the VEKN rules. 2. No pair of players share a table through all three rounds, when possible. 3. Available VPs are equitably distributed. 4. No pair of players share a table more often than necessary. 5. A player doesn't sit in the fifth seat more than once. 6. No pair of players repeat the same relative position1, when possible. 7. A player doesn't play in the same seat position, if possible. 8. Starting transfers are equitably distributed. [NOAL] 9. No pair of players repeat the same relative position group2, when possible.\n> 1 \"relative position\" relationship values:\n> A) prey\n> B) predator\n> C) cross-table at a 4-player\n> D) grand-prey at a 5\n> E) grand-predator at a 5\n> Note that repeating A and repeating B is already handled (prohibited) by criterion #1.\n>\n> 2 \"relative position group\" values:\n> i) Adjacent (prey or predator)\n> ii) Not adjacent\n>\nHowever, the Archon XLSX file, under the \"Optimal 2R+F seating\" tab, one finds a slightly different wording for rule 2:\n>\n> 2. No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)\n>\nIs the \"rule 2\" Archon XLSX wording how it should be understood for 2R+F events?\n\nTo provide a bit of context, in the Companion Unleashed online tournament last Sunday, the following optimized seating was provided (they had 18 players on first round, 17 on round 2 because a player dropped out):\nR1: [1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14], [15, 16, 17, 18] R2: [14, 13, 16, 11, 15], [18, 8, 2, 7], [9, 3, 5, 6], [4, 17, 10, 1]\nThere are 8 pairs of players meeting twice in this seating, but it was deemed optimized by the bot because, as they do not meet all three rounds (since there are only two), there are no rule 2 violations, and a very good VP repartition (players 16 and 17 have 8 points, the others 9).\n\nIf I modify the bot to apply the rule as stated in the Archon XLS, it yields this kind of seating instead:\nR1: [1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14], [15, 16, 17, 18] R2: [18, 13, 2, 8, 1], [10, 3, 9, 15], [5, 17, 7, 11], [14, 4, 16, 6]\nWith only two pairs of players meeting twice (the minimum) for rule 2 (1-2 and 9-10), and a worse VP repartition (5 players have 8, 3 players have 10).\n\nI think this seating would have been superior so I would stand for going with the Archon XLS interpretation. Rule 2 general wording/interpretation should be more along the lines of:\n>\n> 2. No pair of players share a table through every single round, when possible.\n>",
+      "Id": "110631"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 6, 2024, 8:49\u202FAM",
+      "Body": "Why are looking for a RD confirmation for this?\n\nThe tournament seating rules are simple: \"The judge must ensure that exact predator-prey relationships are not duplicated from round to round whenever possible\" . Everything else on the list are extra criteria to give a fairer seating, but none of them are required by the rules.\n\nIf you think the later seating is fairer, then use it - there should be no further confirmation required\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "110637"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 7, 2024, 6:57\u202FAM",
+      "Body": "> drnlmza wrote:\n> Why are looking for a RD confirmation for this?\n>\n> The tournament seating rules are simple: \"The judge must ensure that exact predator-prey relationships are not duplicated from round to round whenever possible\" . Everything else on the list are extra criteria to give a fairer seating, but none of them are required by the rules.\n>\n> If you think the later seating is fairer, then use it - there should be no further confirmation required\n>\nOP is not looking for confirmation, but suggesting an improvement, because finding out what is a \"fait\" seating is pretty complex. If there's indeed an improvement, it's a good thing to share so that everyone benefits from it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110648"
+    }
+  ]
+}

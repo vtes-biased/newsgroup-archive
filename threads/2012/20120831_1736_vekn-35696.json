@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-35696",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/35696-arcane-appraiser-vs-palatial-estate",
+  "Title": "Arcane Appraiser vs. Palatial Estate",
+  "Messages": [
+    {
+      "Author": "islandofyiaros",
+      "Date": "Aug 31, 2012, 5:36\u202FPM",
+      "Body": "I understand a Palatial Estate not in play to be equipment (so you can Magic of the Smith for it), while a Palatial Estate in play is not (so you cannot Anarch Troublemaker it.)\n\nArcane Appraiser says:\n\"If a second copy of a unique equipment card you control would enter play, it is burned instead.\"\n\nIs a Palatial Estate which is entering play considered an equipment card? And is it an \"equipment card\", but not \"equipment\"? Not sure if Arcane Appraiser protects me or not...\n\nThanks in advance,\n-- Brian",
+      "Id": "35696"
+    },
+    {
+      "Author": "tarantulus",
+      "Date": "Aug 31, 2012, 5:41\u202FPM",
+      "Body": "the text says \"does not count as equipment while in play\"\n\nSo I would think it counts as equipment until it is played, at which point it becomes a unique location, so I think arcane appraiser is not usable in this case.",
+      "Id": "35697"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 1, 2012, 6:53\u202FAM",
+      "Body": "Name: Palatial Estate\n[DS:C2, FN:PR, Third:PM]\nCardtype: Equipment\nCost: 2 blood\nThis equipment card represents a location and does not count as equipment while in play. Unique.\nDuring your master phase, the vampire with this location gains 1 blood.\n\nPalatial Estate is an unique equipment. It would become something else once in play, but this is after it enters play or become contested.\n\n> islandofyiaros wrote:\n> Arcane Appraiser says:\n> \"If a second copy of a unique equipment card you control would enter play, it is burned instead.\"\n>\n> Is a Palatial Estate which is entering play considered an equipment card? And is it an \"equipment card\", but not \"equipment\"? Not sure if Arcane Appraiser protects me or not...\n>\nYes, it is an unique equipment card that would enter play (and that would become a location if it wasn't contested)\nThe Arcane Appraiser works.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "35708"
+    },
+    {
+      "Author": "Kiddo",
+      "Date": "Sep 1, 2012, 7:57\u202FAM",
+      "Body": "> Ankha wrote:\n> Yes, it is an unique equipment card that would enter play (and that would become a location if it wasn't contested)\n> The Arcane Appraiser works.\n>\nAre you sure? By the time the second unique equipment is trying to enter play (and thus contest), the first one isn't an equipment any more...",
+      "Id": "35714"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 1, 2012, 10:40\u202FAM",
+      "Body": "> Kiddo wrote:\n>\n> > Ankha wrote:\n> > Yes, it is an unique equipment card that would enter play (and that would become a location if it wasn't contested)\n> >\n> Kiddo wrote:\n>\n> > Ankha wrote:\n> > The Arcane Appraiser works.\n> >\n> Are you sure? By the time the second unique equipment is trying to enter play (and thus contest), the first one isn't an equipment any more...\n>\nWell, that is an interesting question. The first quote is valid for sure. See also groups.google.com/forum/?fromgroups=#!msg/rec.games.trading-cards.jyhad/XpZ6F53jK-c/2qcHRJ1UCCMJ\n\nThe second quote about the Arcane Appraiser is tricky.\n\nI would have said that there is currently an [unique(1)][equipment card(2)] called [Palatial Estaste(1)] in play that counts for a [location(1)].\n\n(1): by card text\n(2): because of the symbol on the card. As the rulebook states: \"Equipment cards are action cards that give minions special abilities.\"\n\nThe trick is that though it is an \"equipment card\", it is not an \"equipment\" while in play. Think about the difference between a bleed action and a bleed for instance.\n\nSo yes, there is already a second copy of an unique \"equipment card\" in play (even though the card is no longer seen as an equipment but a location).\n\nI'm a bit bugged by some current cardtexts such as:\n\nName: Conceal\nCardtype: Action\nDiscipline: Obfuscate\n[obf]  Burn an equipment card.\n[OBF]  Burn a location.\n\nWhy on earth does it say \"Burn an equipment card.\" instead of \"Burn an equipment.\" ?\nIt does say \"Burn a location\" and not \"Burn a location card\" for instance.\n\nSame thing for Alexis Sorokin, Arcane Appraiser (it's first special ability), Arcanum Investigator, Heidelberg Castle, Germany, Kiss of Lachesis, Molotov Cocktail, Principia Discordia, Reformation, Tara, The Hollow One (Mage), Tutu the Doubly Evil One (Bane Mummy), Vial of Garou Blood, Zip Gun\n\nIt is correct to refer to equipment cards when search the library (or ash heap, or hand....) for instance.\n\nName: Alastor\nCardtype: Political Action\nRequires a justicar or Inner Circle member.\nChoose a ready Camarilla vampire. If this referendum is successful, search your library for an equipment card and place this card and the equipment on the chosen vampire. Pay half the cost (round down) of the equipment. This vampire may enter combat with any vampire controlled by another Methuselah as a +1 stealth  action. This vampire cannot commit diablerie. A vampire may have only one Alastor.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "35725"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 12, 2012, 5:43\u202FAM",
+      "Body": "> islandofyiaros wrote:\n> I understand a Palatial Estate not in play to be equipment (so you can Magic of the Smith for it), while a Palatial Estate in play is not (so you cannot Anarch Troublemaker it.)\n>\n> Arcane Appraiser says:\n> \"If a second copy of a unique equipment card you control would enter play, it is burned instead.\"\n>\n> Is a Palatial Estate which is entering play considered an equipment card?\n>\nYes, but that doesn't matter. Arcane Appraiser checks if the card you control (the one already in play) is an equipment [card]. That's not the case of an in-play Palatial Estate, which is a (unique) location.\n{this is under review}\n\n> islandofyiaros wrote:\n> And is it an \"equipment card\", but not \"equipment\"? Not sure if Arcane Appraiser protects me or not...\n>\n> Thanks in advance,\n> -- Brian\n>\nI'll check that latter point, but it's possible that \"equipment card\" stands for \"equipment\". This has been added to the list of things to review for the next RTR.",
+      "Id": "36539"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Mar 19, 2013, 8:10\u202FPM",
+      "Body": "This one might be a kind of follow up question:\n\nCan I fetch \"Ankara Citadel\" with the \"Alastor\" vote, and put it on a ready Camarilla vampire?\n\n> Alastor\n>\n> Requires a justicar or Inner Circle member.\n> Choose a ready Camarilla vampire. If this referendum is successful, search your library for an equipment card and place this card and the equipment on the chosen vampire. Pay half the cost (round down) of the equipment. This vampire may enter combat with any vampire controlled by another Methuselah as a +1 stealth  action. This vampire cannot commit diablerie. A vampire may have only one Alastor.\n>\n> Ankara Citadel, Turkey\n>\n> This equipment card represents a location and does not count as equipment while in play. Unique.\n> Cards that cost blood cost this vampire half as much blood to play (round down).\n>\nThanks in advance!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "46175"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 19, 2013, 9:19\u202FPM",
+      "Body": "Yes.",
+      "Id": "46177"
+    }
+  ]
+}

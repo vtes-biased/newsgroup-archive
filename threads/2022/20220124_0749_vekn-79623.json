@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-79623",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/event-reports-and-twd/79623-contributing-to-the-twd",
+  "Title": "Contributing to the TWD",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jan 24, 2022, 7:49\u202FAM",
+      "Body": "I wanted to remind anyone interested they can contribute to the TWD by submitting  pull requests to the TWD repository: github.com/GiottoVerducci/TWD.\n\nPlease insert the link of the TWD post(s) on this forum in the description of the pull request.\n\nPosts that have a green mark have already been added. Only posts without any topic icon should be submitted after verifying they are not already present in the TWD.\n\nThanks for the help.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104564"
+    },
+    {
+      "Author": "IfritBR",
+      "Date": "Jan 24, 2022, 5:08\u202FPM",
+      "Body": "Hey Ankha...\n\nI tried to do the procedure but my inability with codes gave me a \"knot\" in my head...\n\nI couldn't create a \"PULL REQUEST\" but I did an \"ISSUE\"\n\nI believe I did it correctly.\n\nBTW, here's the link for the deck to be added to TWD:\nwww.vekn.net/forum/event-reports-and-twd/79524-twd-torneio-mineiro-2021-belo-horizonte-mg-brazil-27-11-2021\n\nTiago H. C. Ramos\nPrince of Grande Vit\u00F3ria - ES - Brazil\n\nPrince ID# 779\nVEKN# 6040022",
+      "Id": "104572"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 24, 2022, 6:01\u202FPM",
+      "Body": "You need to create a fork of the repository (=> creating your own copy) and submit a pull request from that fork once you've commited (saved) your changes in your fork.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104573"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 25, 2022, 10:10\u202FAM",
+      "Body": "I opened the PR and will use it to write a small guide / do a video on how to contribute to the TWD. github.com/GiottoVerducci/TWD/pull/163",
+      "Id": "104576"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 25, 2022, 1:33\u202FPM",
+      "Body": "I've made a small 5min tutorial video on how to add decks to the TWD:\n\nCheck it out, share and add more decks!\nIt's as straightforward and accessible as possible.",
+      "Id": "104579"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Jan 25, 2022, 5:58\u202FPM",
+      "Body": "Now if only we could nudge TWD reporters to write the post in a proper format so we don't need to hunt down all the info and format it\n\nSame goes for PR naming convention",
+      "Id": "104580"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jan 26, 2022, 6:25\u202FAM",
+      "Body": "Another quick question : how do I know there is no other pull request for the deck I want to add.\n\nIt seems kind of a tedious job so no need to do it multiple times.",
+      "Id": "104582"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Jan 26, 2022, 7:41\u202FAM",
+      "Body": "> Timo wrote:\n> Another quick question : how do I know there is no other pull request for the deck I want to add.\n>\n> It seems kind of a tedious job so no need to do it multiple times.\n>\nIt would be good if PR name contained event id.",
+      "Id": "104583"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 1, 2022, 9:02\u202FPM",
+      "Body": "Can someone pin this post?",
+      "Id": "104745"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Mar 23, 2022, 1:09\u202FPM",
+      "Body": "I believe it would be great to update Archon,\nand all these information for TWD would be generated automatically and correctly as a template for Forum report and for the twd.htm:\n\nTournament name\nCity, Country (or place, City, Country)\nDate\nFormat (2R+F or 3R+F)\n# players\nWinner name\nURL to the TWD",
+      "Id": "104851"
+    },
+    {
+      "Author": "Valas66",
+      "Date": "May 23, 2022, 5:49\u202FPM",
+      "Body": "I attempted to add a deck to the TWDA. Not sure if I done it correct.\n\nwww.vekn.net/event-calendar/event/10072",
+      "Id": "105307"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 23, 2022, 9:06\u202FPM",
+      "Body": "Unfortunately, that event is too small for the TWDA. Events must have 10 participants.",
+      "Id": "105308"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 5, 2022, 4:07\u202FPM",
+      "Body": "The procedure to submit new entries and fixes has changed, please read: github.com/GiottoVerducci/TWD\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106268"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-69168",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/69168-muse-on-art-s-traumatic-essence-wording",
+  "Title": "Muse on Art's Traumatic Essence wording",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Feb 10, 2015, 11:54\u202FAM",
+      "Body": "Name: Art's Traumatic Essence\nCardtype: Action\nDiscipline: Melpominee/Auspex\n+1 stealth action.\n[aus]  Tap any untapped minion.\n[mel]  Tap any untapped minion, and that minion burns 1 blood or life.\n[MEL]  Put this card on any ready untapped minion and tap that minion. The minion with this card burns 1 additional blood or life each time he or she attempts to take an action or block. During his or her master phase, the controller of the minion with this card may tap this minion and burn a pool to burn this card. A minion may have only one Art's Traumatic Essence.\n\nI'm wondering if there is a way to make this card's [MEL] effect clearer and shorter.\n\nKeep in mind that:\n- \"this minion\" can be the acting minion as well as the minion on which this card is put\n- \"the controller of the minion with this card\" is in fact \"you\"\n- but \"you\" can also be the controller of the acting minion.\n\nAll options are opened, here's a few (with a lot of junk in it):\n- use a word to qualify the minion who plays the card: \"this acting\", \"the originator\"...\n- use a word to qualify the minion on which the card is put: \"this minion\", \"that minion\", \"the affected minion\", \"attach this card to... Attached minion...\"\n- use \"the minion's master phase\" instead of \"the minion's controller's master phase\"\n- use a symbol to indicate that \"this minion\" from now on refers explicitely to \"the minion with this card\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69168"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Feb 10, 2015, 1:02\u202FPM",
+      "Body": "The best way is not to invent obscure terms, but to change [MEL] effect for something less idiotic.\n\nFor example (just example!)\n[aus] Tap any untapped minion.\n[mel] As above, and that minion burns 1 blood or life.\n[MEL] As above, and burn 1 pool from that minion controller.\n\nNC Russia",
+      "Id": "69169"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 10, 2015, 2:48\u202FPM",
+      "Body": "> elotar wrote:\n> The best way is not to invent obscure terms, but to change [MEL] effect for something less idiotic.\n>\n> For example (just example!)\n> [aus] Tap any untapped minion.\n> [mel] As above, and that minion burns 1 blood or life.\n> [MEL] As above, and burn 1 pool from that minion controller.\n>\nThat is absolutely not the subject\nBut I agree on the \"obscure\" term, the goal is to see if something clearer/shorter/neater can be written.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69171"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 10, 2015, 8:15\u202FPM",
+      "Body": "[MEL] Put this card on any ready untapped minion and tap that minion. That minion burns 1 additional blood or life when attempting to take an action or block. The controller may tap that minion and burn a pool to burn this card. A minion may have only one Art's Traumatic Essence.",
+      "Id": "69173"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 10, 2015, 8:21\u202FPM",
+      "Body": "Sorry, forgot to add the \"during the master phase\" part:\n\n[MEL] Put this card on any ready untapped minion and tap that minion. That minion burns 1 additional blood or life when attempting to take an action or block. During their master phase, the controller may tap that minion and burn a pool to burn this card. A minion may have only one Art's Traumatic Essence.",
+      "Id": "69174"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Feb 11, 2015, 7:33\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Sorry, forgot to add the \"during the master phase\" part:\n>\n> [MEL] Put this card on any ready untapped minion and tap that minion. That minion burns 1 additional blood or life when attempting to take an action or block. During their master phase, the controller may tap that minion and burn a pool to burn this card. A minion may have only one Art's Traumatic Essence.\n>\nCard with so much text has no right to exist.\n\nNC Russia",
+      "Id": "69186"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Feb 12, 2015, 1:02\u202FAM",
+      "Body": "> elotar wrote:\n> Card with so much text has no right to exist.\n>",
+      "Id": "69189"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 12, 2015, 3:18\u202FAM",
+      "Body": "A big source of ambiguity is that there are two designation conventions: one for effects that occur when the card is played, and one for effects that occur as long as the card is in play. It would help to have a special icon to denote continuous effects.\n\nSomething like:\nTap a ready untapped minion and put this card on him. A minion may have only one Art's Traumatic Essence.\n:linger: This minion burns 1 additional blood or life each time he or she attempts to take an action or block. During your master phase, you may tap this minion and burn a pool to burn this card.\n\nIt doesn't help either that on the current text, target restrictions are split between the first and last sentences.",
+      "Id": "69190"
+    }
+  ]
+}

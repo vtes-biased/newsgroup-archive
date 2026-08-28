@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-72008",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/72008-first-strike-and-enviromental-damage",
+  "Title": "first strike and enviromental damage",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Jul 12, 2015, 1:58\u202FAM",
+      "Body": "hi\n\nhow do first strike and enviromental damage work? Some of it is made during strike resolution, if your strike does not resolve, your damage is lost?\n\nOnly usable before range is chosen.\nAnimalism The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\nAnimalism As above, but for 2R damage.\n\nMany thanks in advance",
+      "Id": "72008"
+    },
+    {
+      "Author": "ruiza97",
+      "Date": "Jul 12, 2015, 2:08\u202FAM",
+      "Body": "The opposing vamp could dodge the strike but still take the environmental damage. If the opposing vamp Strike: Combat Ends, the opposing vamp takes no damage from strike nor environmental damage, as there is no strike resolution phase.\n\nPrince of Dallas\nToreador Grand Ball: Dallas\nAugust 13, 2022",
+      "Id": "72010"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 12, 2015, 4:37\u202FAM",
+      "Body": "> Nac wrote:\n> hi\n>\n> how do first strike and enviromental damage work? Some of it is made during strike resolution, if your strike does not resolve, your damage is lost?\n>\nRoughly speaking, strike resolution looks like this:\n\na) Strike: Combat Ends. If either minion plays S:CE, end combat. Do not go any further down this list. Anything timed to go off in later steps is lost.\n\nDodge will protect the Dodger from offensive elements of the S:CE, such as the damage from  Catatonic Fear . It won't, however, prevent the combat ending - just effects that target the Dodger. (If I play Dodge and you play inferior  Meld with the Land , I don't untap - the Dodge \"protects\" me from that offensive effect targeting me.)\n\nb) First strike. For example, Muddled Vampire Hunter's strike. Resolve that now.\n\nIf the resolution of the first strike(s) is that one of the combatants is no longer ready - having been sent to torpor, burned etc. - then combat ends. Anything timed to go off in the next step is lost.\n\nDodge will protect the dodger from strikes dealt during First Strike.\n\nIf both minions strike with first strike, resolve their strikes simultaneously, as you normally would in normal strike resolution.\n\nYou can face environmental damage during First Strike, but it's relatively rare. For example, if I play  Blood of Acid and you hit me with First Strike, the retaliatory, environmental Blood of Acid damage is dealt before moving on.  [LSJ 20011207]\n\nc) Normal strike resolution. This includes most minions' normal strikes that haven't already been handled. It also includes various \"during strike resolution\" effects, such as the environmental damage from Carrion Crows, Wolf Companion or Ghoul Retainer. There's nothing inherent about environmental damage that means it has to be dealt in this step, it's just that almost all sources of it are.\n\nHandle the strikes and any other effects (Crows, Wolves etc.) simultaneously.\n\nDodge protects the dodger from strikes. It doesn't protect the dodger from things that aren't strikes, such as the environmental damage from Crows, Wolves etc.",
+      "Id": "72011"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 12, 2015, 7:31\u202FAM",
+      "Body": "> Nac wrote:\n> Animalism The opposing minion takes 1R damage each round of combat during strike resolution.\n>\nTo make it brief: \"during strike resolution\" means \"during normal strike resolution\" (which happens after First strike resolution).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72014"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jul 12, 2015, 9:41\u202FAM",
+      "Body": "> Nac wrote:\n> Some of it is made during strike resolution, if your strike does not resolve, your damage is lost?\n>\nNot sure anybody answered your question directly. They're saying yes, the environmental damage is lost.",
+      "Id": "72016"
+    }
+  ]
+}

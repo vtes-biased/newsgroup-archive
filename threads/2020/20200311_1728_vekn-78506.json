@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-78506",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78506-target-retainer-cancelled",
+  "Title": "Target Retainer Cancelled",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Mar 11, 2020, 5:28\u202FPM",
+      "Body": "Situation: Vampire A and vampire B are in combat. Vampire A has a retainer. Vampire B chooses a handstrike and plays Target Retainer on that strike, targeting A's retainer. Target Retainer is cancelled (I don't think it matters if it's cancelled due to its own cardtext or due to some other cancellation effect).\n\nWhat happens to B's strike? Does it default back to targeting A, or fizzle, or something else?\n\nName: Target Retainer\nCardtype: Combat\nAim. Only usable as this minion chooses a strike. A minion can play only one aim each strike.\nYou can target a retainer on the opposing minion with this strike (instead of the opposing minion). Or you can target the opposing minion directly as usual, but if any damage from this strike is successfully inflicted, this strike inflicts +1 damage. The opposing minion can discard two combat cards{} to cancel this card as it is played.",
+      "Id": "99254"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 11, 2020, 5:53\u202FPM",
+      "Body": "If the aim is cancelled, then the strike resolves with the default target (that is the opposing minion in that case).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99256"
+    }
+  ]
+}

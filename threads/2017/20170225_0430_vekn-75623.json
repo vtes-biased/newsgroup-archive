@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-75623",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/75623-ghoul-retainer",
+  "Title": "Ghoul retainer",
+  "Messages": [
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 25, 2017, 4:30\u202FAM",
+      "Body": "Has anybody read the text for Ghoul Retainer lately? It's a real mess:\n\nGhoul Retainer\nGhoul with 2 life. 1 strength.\nDuring the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon.\n\nWouldn't it just be easier if the bolded text above said \"or may inflict an amount of damage that a weapon on the employing minion would inflict\" and call it a day? The current text has the same issues with implementation that Seeds of Corruption had, which was recently banned because of those issues. Ghoul Retainer just brings up way too many convoluted interactions. I realize the rewrite above isn't quite the same as what the card was designed to do, but how else would one fix this mess of card text?",
+      "Id": "80842"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Feb 25, 2017, 12:56\u202FPM",
+      "Body": "Are you sure it's a pressing problem?\n\nObviously you can't go with your solution because it'll allow retainer to use one shot weapons like bomb multiple times.\n\nI think the first step, if it's really needed, will be to remove \"not a strike\" clause.\n\nNC Russia",
+      "Id": "80850"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 25, 2017, 3:03\u202FPM",
+      "Body": "> elotar wrote:\n> Are you sure it's a pressing problem?\n>\n> Obviously you can't go with your solution because it'll allow retainer to use one shot weapons like bomb multiple times.\n>\n> I think the first step, if it's really needed, will be to remove \"not a strike\" clause.\n>\nWell, it's sloppy text that leads to problems with implementation. I consider this to be a problem.\n\nSo, for the ghoul retainer to do 5 environmental damage during strike resolution, you have to employ the ghoul retainer, equip the bomb, and play anti-s:ce to make sure the damage lands. And there's still fortitude to deal with. Not sure I buy that this would be too powerful. Isn't potence combat still more effective than the above scenario?",
+      "Id": "80851"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Feb 25, 2017, 9:12\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > elotar wrote:\n> > Are you sure it's a pressing problem?\n> >\n> > Obviously you can't go with your solution because it'll allow retainer to use one shot weapons like bomb multiple times.\n> >\n> > I think the first step, if it's really needed, will be to remove \"not a strike\" clause.\n> >\n> Well, it's sloppy text that leads to problems with implementation. I consider this to be a problem.\n>\n> So, for the ghoul retainer to do 5 environmental damage during strike resolution, you have to employ the ghoul retainer, equip the bomb, and play anti-s:ce to make sure the damage lands. And there's still fortitude to deal with. Not sure I buy that this would be too powerful. Isn't potence combat still more effective than the above scenario?\n>\nDon't know will it be too powerful or not, but it totally will be stupid.\n\nNC Russia",
+      "Id": "80855"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 25, 2017, 10:07\u202FPM",
+      "Body": "Probably. But the text will make sense. That's important.",
+      "Id": "80856"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Feb 26, 2017, 7:16\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> Probably. But the text will make sense. That's important.\n>\nBy changing effect to stupid one you are not adding much sense to the card.\n\nNC Russia",
+      "Id": "80859"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 26, 2017, 11:32\u202FAM",
+      "Body": "I'd argue that Ghoul Retainer already has a stupid effect. And I concede that the rewrite introduces an equally stupid effect. Please look past whether the effect is stupid or not; there's a deeper issue here than replacing one stupid effect for another. The current text on Ghoul Retainer makes it very difficult to understand all of its interactions. There was a card that was recently banned because of issues with implementation (Seeds of Corruption). I'm arguing that Ghoul Retainer has those same issues with implementation. Having a card that is difficult to implement is a bad idea. That is my reason for the suggested change. I am not suggesting this change to introduce a hot new effect, it's to make the card understandable.",
+      "Id": "80862"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Feb 26, 2017, 2:48\u202FPM",
+      "Body": "Ghoul retainer has nothing to do with Seeds of Corruption and his current effect is not stupid.\n\nNC Russia",
+      "Id": "80865"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 26, 2017, 5:09\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Ghoul Retainer\n> Ghoul with 2 life. 1 strength.\n> During the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon.\n>\n> Wouldn't it just be easier if the bolded text above said \"or may inflict an amount of damage that a weapon on the employing minion would inflict\" and call it a day?\n>\nIt doesn't work for Rowan Ring for instance.\n\n> TwoRazorReign wrote:\n> The current text has the same issues with implementation that Seeds of Corruption had, which was recently banned because of those issues.\n>\nNot quite. Seeds of Corruption refered to \"special abilities\" that are not defined in the rules and can't be easily defined. I don't see the problem here with Ghoul Retainer, there's no ambiguity.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80869"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 26, 2017, 9:21\u202FPM",
+      "Body": "Rowan Ring doesn't inflict damage, so 0 damage.\n\nAs to your second point: \"using\"a weapon is not defined in the rulebook either. If you can't point to a section in the rulebook that clearly explains what \"using\" a weapon is, then ambiguity exists. Just as it did for Seeds of Corruption.",
+      "Id": "80871"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 27, 2017, 7:09\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> Rowan Ring doesn't inflict damage, so 0 damage.\n>\n> As to your second point: \"using\"a weapon is not defined in the rulebook either. If you can't point to a section in the rulebook that clearly explains what \"using\" a weapon is, then ambiguity exists. Just as it did for Seeds of Corruption.\n>\nCan you point out a real example in which the card is ambiguous?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80876"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 2, 2017, 2:01\u202FPM",
+      "Body": "The counters on Weighted Walking Stick would be burned if used by Ghoul Retainer. Therefore, \"using\" a weapon is considered a strike in certain situations. This is ambiguous.\n\nWeighted Walking Stick\nOnly usable before range is determined on the first round.\nPut this card on this minion and put 5 counters on this card. While in play, this card represents a melee weapon (equipment) that does strength +1 damage each strike. For each point of damage inflicted by this strike (even if prevented), remove a counter from this card. Burn this card when it has no counters. A minion can have only one Weighted Walking Stick.\n\nGhoul Retainer\nGhoul with 2 life. 1 strength.\nDuring the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon.",
+      "Id": "80952"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 3, 2017, 8:52\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> The counters on Weighted Walking Stick would be burned if used by Ghoul Retainer. Therefore, \"using\" a weapon is considered a strike in certain situations. This is ambiguous.\n>\nThe designer intent behind the Ghoul Retainer is to use unused weapons in an environmental way, that is:\n- the effect can't be dodged (it's not a strike)\n- the damage can't be prevented by cards that mention damage inflicted \"by the opposing minion\"\n\nOtherwise, using the weapon (that is usually using the strike provided by a weapon) works the same way as if it had been used by the bearer.\n\nI'll see if the cardtext can be made a bit clearer.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80973"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 3, 2017, 12:54\u202FPM",
+      "Body": "I'm aware of the designer intent. There isn't really a way to clarify how Ghoul Retainer should work the way the designers intended it without ambiguity being introduced in certain situations, as exemplified with Weighted Walking Stick. It may be time to start examining areas where some of the original designer intent should be changed or removed from the game, as was done for Seeds of Corruption. I firmly believe that Ghoul Retainer is one of these instances. The effect just doesn't fit into the game elegantly enough. And It's by far not the only example.",
+      "Id": "80981"
+    },
+    {
+      "Author": "Thetmes",
+      "Date": "Sep 29, 2021, 12:54\u202FPM",
+      "Body": "Hi folks,\n\nPlaying a game in which vampire A has a ghoul retainer, in combat with vampire B.\n\nVampire B is long and strikes with his magnum. Vampire A wants his ghoul retainer to inflict 1 damage at long as in cardtext, the mention \"inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range\" doesnt exists like with other retainers of that type (Wolf Companion, ...).\n\nOn the other hand all other retainers inflincting damage at long range specify clearly that they do ranged damages (Murder of Crows)...\n\nIs a Ghoul retainer able to inflict damages at long range without any weapons?\n\nThanks for your help!\n\nGhoul Retainer\nGhoul with 2 life. 1 strength.\n\nDuring the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or may use a weapon not used by the employing minion (or another retainer) that round (either before or after). This is not a strike, although it does count as \"using\" the weapon.\n\nMurder of Crows\nAnimal with 1 life.\n\ni Murder of Crows inflicts 1R damage on the opposing minion each round of combat during normal strike resolution.\n\nI As above, but Murder of Crows has 2 life.\n\nWolf Companion\nAnimal with 2 life.\n\ni When the minion with this retainer is in combat, the opposing minion takes 1 damage during strike resolution (if the range is close).\n\nI As above, but Wolf Companion has 3 life.",
+      "Id": "103381"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 29, 2021, 2:11\u202FPM",
+      "Body": "> Thetmes wrote:\n> Playing a game in which vampire A has a ghoul retainer, in combat with vampire B.\n>\n> Vampire B is long and strikes with his magnum. Vampire A wants his ghoul retainer to inflict 1 damage at long as in cardtext, the mention \"inflicts 1 damage on the opposing minion each round of combat during normal strike resolution at close range\" doesnt exists like with other retainers of that type (Wolf Companion, ...).\n>\n> On the other hand all other retainers inflincting damage at long range specify clearly that they do ranged damages (Murder of Crows)...\n>\n> Is a Ghoul retainer able to inflict damages at long range without any weapons?\n>\nNo, it inflicts 1 damage during the strike resolution, which has no effect at long range.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103386"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 29, 2021, 2:25\u202FPM",
+      "Body": "Damage inflicted as part of a strike resolution effect is affected by range, meaning if it isn\u00B4t explicitly R damage it is only inflicted when at close range. [LSJ 20020104]",
+      "Id": "103387"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 30, 2021, 8:07\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> I'm aware of the designer intent. There isn't really a way to clarify how Ghoul Retainer should work the way the designers intended it without ambiguity being introduced in certain situations, as exemplified with Weighted Walking Stick. It may be time to start examining areas where some of the original designer intent should be changed or removed from the game, as was done for Seeds of Corruption. I firmly believe that Ghoul Retainer is one of these instances. The effect just doesn't fit into the game elegantly enough. And It's by far not the only example.\n>\nHundred percent agreed. Some of the old clunky cards should be removed (either by ban or errata) so they don't cause rules issues in the future.\n\nSuggestion for errata for ghoul retainer:\n\nDuring the initial strike resolution each round, the Ghoul Retainer inflicts 1 damage or X ranged damage, where X is the amount of damage that one of the weapons equipped by the employer can inflict.\n\n(Yes, this would make the retainer strictly better, but I think this is acceptable because it requires equipping both the weapon AND having the retainer in order to do anything. And retainer can't be equipped with concealed weapon.. Its still clunky to use, and requires use of a weapon better than magnum in order to give any actual benefit (since it costs 2 pool). This might make the retainer playable which is a goal in itself.. )\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103396"
+    }
+  ]
+}

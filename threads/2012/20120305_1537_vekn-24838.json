@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-24838",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/24838-elder-kindred-network-and-vox-domini",
+  "Title": "Elder Kindred Network and Vox Domini",
+  "Messages": [
+    {
+      "Author": "Xaddam",
+      "Date": "Mar 5, 2012, 3:37\u202FPM",
+      "Body": "In this situation, what would happen:\n\nMethuselah A calls a vote.\nMethuselah B plays Elder Kindred Network.\nPlayers vote and the referendum is in favor by, say, 10 votes.\nMethuselah B plays Vox Domini.\n\nIt seems to me that Methuselah A burns 11 pool in this situation. Is this correct? Elder Kindred Network says nothing by a positive or negative vote difference. Or is it the case that the referendum is regarded a tie until the votes have been tallied?\n\nVox Domini\nCardtype: Master\nCost: 1 pool\nMaster: out-of-turn.\nOnly usable during the referendum of a political action. Not usable on a referendum that is automatically passing. The referendum fails. Each Methuselah may play only one Vox Domini each game.\n\nElder Kindred Network\nCardtype: Reaction\nClan: Ventrue\nOnly usable during a referendum before any votes {or ballot} are cast.\nIf the referendum fails, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "24838"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 5, 2012, 4:08\u202FPM",
+      "Body": "going on card text as above, you seem to burn as much pool as the vote would have passed by. nasty....",
+      "Id": "24840"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 5, 2012, 6:52\u202FPM",
+      "Body": "Well, both Elder Kindred Network are not too efficient anti-vote tech. Vox Domini is once per game (per methuselah). So, while it does not seem to be intended, it's not very threatening.",
+      "Id": "24856"
+    },
+    {
+      "Author": "Pagan",
+      "Date": "Mar 5, 2012, 7:37\u202FPM",
+      "Body": "Unless something changed votes aren't counted until the referendum is going to resolve. Vox Domini is played before this step is reached.\n\nSee Bribes and Delaying Tactics, no one except the person who plays Bribes gains pool from the Bribes card in that case.",
+      "Id": "24865"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Mar 5, 2012, 7:43\u202FPM",
+      "Body": "\"once per game\" doesn't mean a card or effect can't be powerful. I mean, look at Week of Nightmares.\n\nHere, I think it seems like this trick might be effective in the right deck, but I don't think it's gamebreaking. The ideal situation is something like a Ventrue deck that runs Anarch Revolts and/or Fee Stakes, and uses Elder Kindred Network as a threat to keep them in play. The \"chilling effect\" of nobody wanting to risk pool damage can be more useful than the actual pool damage, and in theory this effect can spike that pool damage.\n\nNaive analysis says that if the Fee Stake's owner has N votes in play, any action that attempts to remove the Fee Stake must require N+1 votes, so if the owner of the Fee Stake turns around and votes for the referendum, and then plays EKN + Vox Domini, then that person will lose 2N+2 pool. For quite reasonable values of N, that's a pretty huge deal. But that's naive analysis. If people see this effect coming, it's a much smaller deal. Recall that EKN is played before votes are cast, so it's clear to everyone that something is going on. If people play cautiously, only announcing positive votes as they are needed to counter \"against\" votes, there's never a huge difference. And when the person who played EKN starts throwing their votes in favor of the referendum, the other players can start voting against.\n\nThe only really unpleasant thing about this trick is the \"gotcha\" effect. It could be a really nasty experience - once - for people who don't follow this forum. It seems like this is a clear case where the card's wording has an effect wildly different from the card designer's intent, and not just that... it's also a case where the impression you'd get from reading the card is dramatically different from its effect in play.\n\nConsider this scenario. I'm playing a Ventrue/!Ventrue political deck and I have Black Forest Base in play. I say to my prey, \"Hey! I could really use some pool here. Will you vote for my Black Forest Base action now if I vote for your Black Forest Base action on your turn?\" Prey accepts, my BFB action and vote succeed, and when my prey starts their BFB referendum, I play EKN, saying \"I want it out of my hand\".\n\nAt this point, looking at the card, and not having read this thread, my prey would have to be REALLY canny to figure out that throwing all of her/his votes in favor would be a bad thing. Anywhere else in the game, winning by a landslide is not worse than winning by a single vote, and is sometimes better. There are cases where voting in favor can hurt - scalpel tongue might tap you, for example - but it's not common. And even reading EKN won't give you much of a hint. Then, suddenly, \"BAM\", there's the Vox Domini, there's the obscure ruling from the newsgroup, and there's your 14 pool damage.\n\n(edit: I had posted this incomplete. Oops!)",
+      "Id": "24868"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 5, 2012, 8:29\u202FPM",
+      "Body": "> finbury wrote:\n> At this point, looking at the card, and not having read this thread, my prey would have to be REALLY canny\n>\nWell, even if he have read the thread it won't help him that much.\n\nEither he vote for the BFB, and you vote for then use vox dominici, or he vote against, and you don't even need the vox dominici.",
+      "Id": "24881"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Mar 6, 2012, 5:40\u202FAM",
+      "Body": "Interesting thread here... The thing is I don't know whether a raferendum influenced by not votes but effects like \"automatically passing\" (Charming Lobby, Cryptic Rider) even allow us to count votes (for the use of Voter on an auto passing referendum, is it even playable?). All referendum failing cards I know of (Yorube Shrine, Fakir al Sidi, Confusion of the Eye) states that they are only usable before any votes are cast. Vox Domini is clearly different because its usage allow us to play any time before the referendum resolves.\n\nCould that mean it is usable with VEKN to cause massive damage? I still do not think so... effects that cause a vote fail or pass overwrite the institution of votes so once the referendum is influenced that way any vote difference should be completely disregarded for further effects.\n\nMy guess only...\n\nNC of Hungary\n\n///",
+      "Id": "24929"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Mar 6, 2012, 7:05\u202FAM",
+      "Body": "Xaddam, without some outside ruling, your interpretation must be correct. That is exactly what the cards say. I couldn't find any rulings or explanations of those two cards that would change it.\n\nOf course, what does that mean? This is a case where I would have bet a small amount of real money that LSJ would not have accepted the literal reading of the cards because the literal interpretation does not match the evident intended effect of VEKN. I think there is a slightly greater chance than not that Pascal will rule against the literal interpretation. Maybe 57% not literal, like \"VD cancels VEKN\" and 43% chance to agree with the literal interpretation.",
+      "Id": "24952"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2012, 7:08\u202FAM",
+      "Body": "> Xaddam wrote:\n> In this situation, what would happen:\n>\n> Methuselah A calls a vote.\n> Methuselah B plays Elder Kindred Network.\n> Players vote and the referendum is in favor by, say, 10 votes.\n> Methuselah B plays Vox Domini.\n>\n> It seems to me that Methuselah A burns 11 pool in this situation. Is this correct? Elder Kindred Network says nothing by a positive or negative vote difference. Or is it the case that the referendum is regarded a tie until the votes have been tallied?\n>\nElder Kindred Network seems to be missing the \"when the results are tallied\" part. Vox Domini has the referendum fail before that point, which means the \"vote difference\" is 0.\n\nI'll fix cardtext this week.\n\n> Malachy wrote:\n> Interesting thread here... The thing is I don't know whether a raferendum influenced by not votes but effects like \"automatically passing\" (Charming Lobby, Cryptic Rider) even allow us to count votes (for the use of Voter on an auto passing referendum, is it even playable?). All referendum failing cards I know of (Yorube Shrine, Fakir al Sidi, Confusion of the Eye) states that they are only usable before any votes are cast. Vox Domini is clearly different because its usage allow us to play any time before the referendum resolves.\n>\nVoter Captivation is usable on an automatically passing vote:  [LSJ 19981221] . Notice that the referendum is passing by 0, so you won't gain any blood / pool from that Voter Captivation.\n\n> Malachy wrote:\n> Could that mean it is usable with VEKN to cause massive damage?\n>\n> Aaron wrote:\n> he literal interpretation does not match the evident intended effect of VEKN\n>\nI suppose that was \"EKN\"",
+      "Id": "24953"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Mar 6, 2012, 6:48\u202FPM",
+      "Body": "To cause massive damage with EKN you need this card:\n\nKindred Coercion [DS:U2, FN:PG, CE:PTr]\nCardtype: Reaction\nCost: X blood\nDiscipline: Dominate\nOnly usable during a referendum.\n[dom] Force X vampires to abstain from voting. This can cancel those vampires' votes. The affected vampires cannot be older than this reacting vampire.\n[DOM] As above, but you may change the votes that the affected vampires cast to votes of your choice instead. (The affected vampires may choose to abstain if they have not already cast their votes.)\nArtist: Stuart Beel\n\nAny deck using big cap Ventrue with titles (say arika) should pack a module of 2x EKN + 2x KC, just for the kicks of being able to do 14 or so damage once in a great while.\n\nI have actually ousted twice using EKN, the unlucky sod both times being my predator.",
+      "Id": "25039"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2012, 8:10\u202FPM",
+      "Body": "You can also use Malkavian Rider Clause + EKN.",
+      "Id": "25055"
+    },
+    {
+      "Author": "jAvel",
+      "Date": "Mar 7, 2012, 5:48\u202FAM",
+      "Body": "> Pascal wrote:\n> Elder Kindred Network seems to be missing the \"when the results are tallied\" part. Vox Domini has the referendum fail before that point, which means the \"vote difference\" is 0.\n>\n> I'll fix cardtext this week.\n>\nNow i'm completely confused.\nCould you please explain this dark game mechanics using game phases from complete ruling reference? Why something should fail referendum breaking some part of it, preventing next phases?\n\nI'm not native english speaker, so could anyone explain what \"results are tallied\" phrase means? Does it mean \"referendum successful\" or \"referendum finished\"?\n\nPS. I don't like the tendency in VtES game of using \"break/interrupt phase\" mechanics. Sorry for agression in this post.",
+      "Id": "25098"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 7, 2012, 9:06\u202FAM",
+      "Body": "Ah.. my message got deleted as I was sending it..\n\nI was saying that maybe this change I proposed wasn't the best.\n\nWhat about the following:\n\na - \"If there are not more votes in favor of the referendum than against the referenum when results are tallied, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\"\n\nb - \"If the referendum fails, the acting Methuselah burns 1 pool per vote missing to have had the referendum succeed\".\n\nc - \"If the referendum fails, the acting Methuselah gains 1 pool per vote in favor of the referendum, and burns 1 pool per vote against the referendum.\"\n\nNotice that option c is missing some words to cover the answer given earlier.\n\nI'm happier with option a.",
+      "Id": "25113"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 7, 2012, 10:17\u202FAM",
+      "Body": "> jAvel wrote:\n> I'm not native english speaker, so could anyone explain what \"results are tallied\" phrase means? Does it mean \"referendum successful\" or \"referendum finished\"?\n>\nMe neither but I'll give the good old college try...\n\n\"when the results are tallied\" means \"when the votes are counted\".\n\nFinnish  Politics!",
+      "Id": "25124"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 7, 2012, 10:18\u202FAM",
+      "Body": "> jAvel wrote:\n>\n> > Pascal wrote:\n> > Elder Kindred Network seems to be missing the \"when the results are tallied\" part. Vox Domini has the referendum fail before that point, which means the \"vote difference\" is 0.\n> >\n> > I'll fix cardtext this week.\n> >\n> Now i'm completely confused.\n> Could you please explain this dark game mechanics using game phases from complete ruling reference? Why something should fail referendum breaking some part of it, preventing next phases?\n>\nComplete rules reference indicates:\n- Resolve the referendum. [6.3.2.3]\na) Determine the outcome of the referendum.\nb) A referendum passes if it has more votes for than against.\nc) A referendum fails if it is tied or has more votes against than it has in favor.\nd) If it passes, apply the effects of the successful referendum.\n\nSo I guess \"votes are tallied\" is part of 6.3.2.3 a).\n\nI don't think it is necessary for the Complete rules reference to be more detailled when the details are brung by the card text (otherwise it should include every possible windows allowed by cards, which would make the whole thing a big mess).\n\nVotes are tallied when everyone who wants to cast votes has done so or abstained.\n\nUntil now, everything that cancels, makes a vote pass or fail automatically considers that the votes are not \"tallied\", that is the final vote count is not reached. Therefore, the number of votes \"in favor\" or \"against\" is unknown and considered to be 0.\n\n> jAvel wrote:\n> I'm not native english speaker, so could anyone explain what \"results are tallied\" phrase means? Does it mean \"referendum successful\" or \"referendum finished\"?\n>\nI'm not a native english speaker neither, I used a dictionary to get the meaning of \"tallied\" . It means \"counted\".\nSuccessful: the referendum passes (automatically or because more votes \"in favor\" were cast than \"against\")\nFinished: ended.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25125"
+    },
+    {
+      "Author": "jAvel",
+      "Date": "Mar 7, 2012, 10:42\u202FAM",
+      "Body": "> Ankha wrote:\n> Until now, everything that cancels, makes a vote pass or fail automatically considers that the votes are not \"tallied\", that is the final vote count is not reached. Therefore, the number of votes \"in favor\" or \"against\" is unknown and considered to be 0.\n>\nThat is the wording I wanted to hear.\nI think something like this should be mentioned in rulebook.\n\nSo if referendum succeedes or fail in normal way (counting votes), in either case \"Bribes\" card's effect is applied.",
+      "Id": "25127"
+    },
+    {
+      "Author": "Xaddam",
+      "Date": "Mar 7, 2012, 2:17\u202FPM",
+      "Body": "> Pascal wrote:\n> Ah.. my message got deleted as I was sending it..\n>\n> I was saying that maybe this change I proposed wasn't the best.\n>\n> What about the following:\n>\n> a - \"If there are not more votes in favor of the referendum than against the referenum when results are tallied, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\"\n>\n> b - \"If the referendum fails, the acting Methuselah burns 1 pool per vote missing to have had the referendum succeed\".\n>\n> c - \"If the referendum fails, the acting Methuselah gains 1 pool per vote in favor of the referendum, and burns 1 pool per vote against the referendum.\"\n>\n> Notice that option c is missing some words to cover the answer given earlier.\n>\n> I'm happier with option a.\n>\nI agree with you, (a) seems the best. It follows normal vtes terminology, it follows what is presumably the designers intent and it's not ambiguous.\n\nAdam Esbj\u00F6rnsson,\nPrince of \u00D6rebro",
+      "Id": "25161"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 7, 2012, 2:40\u202FPM",
+      "Body": "I have to check Vox Domini vs Bribes (or whatever other \"when results are tallied\" effects) first, though. Vox Domini is awkward.",
+      "Id": "25165"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 7, 2012, 4:12\u202FPM",
+      "Body": "> jAvel wrote:\n>\n> > Ankha wrote:\n> > Until now, everything that cancels, makes a vote pass or fail automatically considers that the votes are not \"tallied\", that is the final vote count is not reached. Therefore, the number of votes \"in favor\" or \"against\" is unknown and considered to be 0.\n> >\n> That is the wording I wanted to hear.\n> I think something like this should be mentioned in rulebook.\n>\nThe rulebook doesn't - in general - go into piddly little corner cases that affect only one card. That's what rulings and clarifications are for.",
+      "Id": "25179"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 7, 2012, 8:16\u202FPM",
+      "Body": "> Pascal wrote:\n> a - \"If there are not more votes in favor of the referendum than against the referenum when results are tallied, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\"\n>\nHow about:\n\"When tallying the results, if there are not more votes in favor of the referendum than against, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\"\n\nRemoves grammatical redundancies and gives a lower character count (less text).\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "25208"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 7, 2012, 8:56\u202FPM",
+      "Body": "> Pascal wrote:\n> Ah.. my message got deleted as I was sending it..\n>\n> I was saying that maybe this change I proposed wasn't the best.\n>\n> What about the following:\n>\n> a - \"If there are not more votes in favor of the referendum than against the referenum when results are tallied, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\"\n>\n> b - \"If the referendum fails, the acting Methuselah burns 1 pool per vote missing to have had the referendum succeed\".\n>\n> c - \"If the referendum fails, the acting Methuselah gains 1 pool per vote in favor of the referendum, and burns 1 pool per vote against the referendum.\"\n>\n> Notice that option c is missing some words to cover the answer given earlier.\n>\n> I'm happier with option a.\n>\nFor me, \"If the referendum fails when the results are tallied, the Methuselah calling the referendum burns 1 pool plus 1 additional pool for each vote difference.\" is clear enough. (alternative: \"when the votes are tallied\")\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "25216"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-16775",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16775-pocket-out-of-time-and-timing-rules",
+  "Title": "Pocket out of time and timing rules",
+  "Messages": [
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 2, 2011, 12:27\u202FPM",
+      "Body": "I have a question with the last errata on Pocket out of time : you can play it after a combat, supposedly to be able to restart a new combat.\n\nOr, it seem to me that when a card autorize you to do something during [X], it should be played before [X] and not during [X], i.e. the condition must be met before the \"start\" of the windows where you can play it, not during it.\n\nI have tried to look the complete rules reference for information on that kind of effect, but I failed miserably.\n\nSo...\n\n* What are the rules for conditionnal effect ?\n* for somewhat advanced rules like that, where should rules be seeked ? Maybe stickying a post that link to thoses ressources in this forums ?\n\nPocket Out of Time:\n[TEM] {Playable after a combat.} After any combat this action, this vampire can burn 1 blood to start a new combat with the opposing minion (if both combatants are still ready).",
+      "Id": "16775"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Dec 2, 2011, 12:43\u202FPM",
+      "Body": "If you look to the left, there's a link called All Rulings under the RULES-header. POoT will probably find its way there as well.",
+      "Id": "16776"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 12:47\u202FPM",
+      "Body": "> Ohlmann wrote:\n> I have a question with the last errata on Pocket out of time : you can play it after a combat, supposedly to be able to restart a new combat.\n>\n> Or, it seem to me that when a card autorize you to do something during [X], it should be played before [X] and not during [X], i.e. the condition must be met before the \"start\" of the windows where you can play it, not during it.\n>\nIt's not played \"during something\", it is played \"after something\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16777"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 2, 2011, 12:50\u202FPM",
+      "Body": "> Suoli wrote:\n> If you look to the left, there's a link called All Rulings under the RULES-header. POoT will probably find its way there as well.\n>\nGood idea in general ; in this case, it seem not to be updated yet. POoT is not mentionned, and some modified card like Psyche have old ruling :\n\n> Pascal wrote:\n> Psyche! and Coordinate Attacks have had their cardtexts changed to match the fact that they are combat cards, and should be played inside combat.\n>\nWhile the ruling still have :\n\nThe superior is played after combat ends, even though the card is a combat card. [RTR 19980928]\n\nStill, I will try to remember to look the list up before asking questions.\n\nEdit : Ankha, I suppose it can't be played any time after combat, I.E. you can't play it after resolving one other action. So it's more or less \"after the combat and before finishing the resolution\" or something akin to that I suppose.",
+      "Id": "16778"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 1:12\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Edit : Ankha, I suppose it can't be played any time after combat, I.E. you can't play it after resolving one other action. So it's more or less \"after the combat and before finishing the resolution\" or something akin to that I suppose.\n>\nIt's an action modifier. Therefore you play it during* an action. \"After any combat this action\" refers to that action. And \"after\" means \"after\"...\n\n* nothing to do with the \"During X do Y\" template\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16786"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2011, 1:17\u202FPM",
+      "Body": "The motivation for the update can be found in this ruling:  [LSJ 20091122] .\n(short version: You can't play action modifiers after resolution)\n\nWith previous cardtext, PooT was only playable before any block was successful or before resolution. In 99.9% of the cases that's before any combat (the remaining 0.1% is when your Trujah calls a vote, and someone uses the Yawp Court to enter combat with you, and you want more rounds).\n\nThe intent of the card was to have it playable after a combat. So the cardtext now matches the intent.\n\nThe last RTR will apply starting Jan 01, 2012. Until then, all previous rulings apply. Including Psyche! being played after combat.",
+      "Id": "16787"
+    }
+  ]
+}

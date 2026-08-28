@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-78164",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78164-mirror-walk-change-and-guardian-vigil",
+  "Title": "Mirror Walk change and Guardian Vigil",
+  "Messages": [
+    {
+      "Author": "Snodig",
+      "Date": "Dec 2, 2019, 10:02\u202FPM",
+      "Body": "I believe Mirror Walk has been changed from HttB to Sabbat Precons in a meaningful way.\nDoes the change mean that Mirror Walk now \"wins\" over effects like Guardian Vigil?\n\n> Name: Guardian Vigil\n> [aus] +1 intercept, even if intercept is not yet needed.\n> [cel] This anarch gets 1 optional maneuver during the resulting combat if they block.\n> [for] This anarch does not lock for blocking this action.\n>\n> Mirror Walk (Sabbat Precons)\n> [tha] +1 stealth.\n> [THA] As [tha] above, and if this action is blocked, lock the blocking minion and end the action before block resolution.\n>\n> Mirror Walk (HttB)\n> [tha] +1 stealth.\n> [THA] As [tha] above, and if this action is blocked, the action ends (with no combat).\n>",
+      "Id": "98102"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 2, 2019, 11:27\u202FPM",
+      "Body": "Mirror Walk hasn't been errata'd. Do a search in the rulebook for \"block resolution.\"",
+      "Id": "98103"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 2, 2019, 11:55\u202FPM",
+      "Body": "> Kushiel wrote:\n> Mirror Walk hasn't been errata'd. Do a search in the rulebook for \"block resolution.\"\n>\nBlock resolution is \"lock and combat,\" which Mirror Walk (now) no longer gets to (per card text). Therefore, Guardian Vigil's effect to not lock during block resolution never comes into play. The old version of Mirror Walk simply canceled the combat part of the block resolution, but you actually arrived at block resolution, so GV's effect would come into play.\n\nThis is a significant change to the way MW works.",
+      "Id": "98104"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 2, 2019, 11:59\u202FPM",
+      "Body": "Let's be honest in an attempt to make the game more clear, the rules have changed (intentionally or not). I'm not sure why Mirror Walk couldn't be \"resolve this block without combat.\"",
+      "Id": "98105"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 3, 2019, 1:35\u202FPM",
+      "Body": "> Snodig wrote:\n> I believe Mirror Walk has been changed from HttB to Sabbat Precons in a meaningful way.\n> Does the change mean that Mirror Walk now \"wins\" over effects like Guardian Vigil?\n>\nIt has changed indeed. The block resolution (that is \"lock + enter combat\") does not take place, so Guardian Vigil does not apply.\nThe blocking minion is locked, and the action ended (per cardtext of Mirror Walk).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98117"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 3, 2019, 1:35\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > Kushiel wrote:\n> > Mirror Walk hasn't been errata'd. Do a search in the rulebook for \"block resolution.\"\n> >\n> Block resolution is \"lock and combat,\" which Mirror Walk (now) no longer gets to (per card text). Therefore, Guardian Vigil's effect to not lock during block resolution never comes into play. The old version of Mirror Walk simply canceled the combat part of the block resolution, but you actually arrived at block resolution, so GV's effect would come into play.\n>\n> This is a significant change to the way MW works.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98118"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 3, 2019, 5:08\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Snodig wrote:\n> > I believe Mirror Walk has been changed from HttB to Sabbat Precons in a meaningful way.\n> > Does the change mean that Mirror Walk now \"wins\" over effects like Guardian Vigil?\n> >\n> It has changed indeed. The block resolution (that is \"lock + enter combat\") does not take place, so Guardian Vigil does not apply.\n> The blocking minion is locked, and the action ended (per cardtext of Mirror Walk).\n>\nThis text change should have been called out when the Sabbat starters were released.",
+      "Id": "98125"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 4, 2019, 1:03\u202FPM",
+      "Body": "I have added a page with all the changes made by BCP reprints.\n\nwww.vekn.net/card-rulings/470-bcp-card-changes\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98139"
+    }
+  ]
+}

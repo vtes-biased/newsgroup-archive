@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-82552",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/82552-unable-to-finish-tournament-on-online-archon",
+  "Title": "Unable to finish tournament on online archon",
+  "Messages": [
+    {
+      "Author": "Silvertongue",
+      "Date": "Sep 7, 2025, 4:03\u202FPM",
+      "Body": "Hi,\n\nI'm not sure if this is the right forum but I've been getting an internal server error when I'm trying to finish a tournament in the online archon.\n\nHere is the link to the event in question: archon.vekn.net/tournament/8981bc97-85dc-4f0e-b911-624274185d6d/console.html\n\nThank you!\n\nJoscar Gamaliel Malacaman\nPrince of Taguig\nTaguig, Metro Manila, Philippines",
+      "Id": "115362"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 7, 2025, 4:46\u202FPM",
+      "Body": "> Silvertongue wrote:\n> Hi,\n>\n> I'm not sure if this is the right forum but I've been getting an internal server error when I'm trying to finish a tournament in the online archon.\n>\n> Here is the link to the event in question: archon.vekn.net/tournament/8981bc97-85dc-4f0e-b911-624274185d6d/console.html\n>\n> Thank you!\n>\nI will report it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115367"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 8, 2025, 2:49\u202FPM",
+      "Body": "good to know it wasn't just me this weekend",
+      "Id": "115372"
+    },
+    {
+      "Author": "lip",
+      "Date": "Oct 9, 2025, 6:28\u202FAM",
+      "Body": "The VEKN server reports that an archon file has already been uploaded for the event. That's what prevents closing it from the archon web side.\n\nClosing an event on archon web automatically submits results to vekn.net, but if that fails, it prevents closing the event. We would need a sync _from_ vekn.net when uploading an archon file on an event handled by the archon web to fix that, or prevent the file upload for events managed by archon web somehow.",
+      "Id": "115546"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2025, 1:36\u202FPM",
+      "Body": "> lip wrote:\n> The VEKN server reports that an archon file has already been uploaded for the event. That's what prevents closing it from the archon web side.\n>\n> Closing an event on archon web automatically submits results to vekn.net, but if that fails, it prevents closing the event. We would need a sync _from_ vekn.net when uploading an archon file on an event handled by the archon web to fix that, or prevent the file upload for events managed by archon web somehow.\n>\nRight. It's here and already subimitted + approved: www.vekn.net/event-calendar/event/12637\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115547"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 9, 2025, 5:52\u202FPM",
+      "Body": "We have same problem with this event played in serbia last weekend.\norganizer try to lead tournament with archon web,but something dont work and him lead via archon exel and upload event in vekn,this event www.vekn.net/event-calendar/event/12510\n\nI asked him for judge role on web,and i register all players and put all results in web archon,and when click on finish tournament get same error as autor topic.\nweb link: archon.vekn.net/tournament/f84be467-4fa5-4005-b924-f44960428d2b/display.html",
+      "Id": "115548"
+    }
+  ]
+}

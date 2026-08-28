@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-24186",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/24186-multipliers-and-prisci",
+  "Title": "Multipliers and prisci?",
+  "Messages": [
+    {
+      "Author": "Klaital",
+      "Date": "Feb 27, 2012, 11:26\u202FAM",
+      "Body": "I gather that the 3 votes of the prisci block are not affected by multipliers, but do multipliers apply to the votes of the prisci in the sub-referendum? Like for example I have Orlando Oriundus and Malgorzata out, does Orlando's special double the votes Malgorzata gets in the prisci sub-referendum?",
+      "Id": "24186"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 27, 2012, 11:46\u202FAM",
+      "Body": "> Klaital wrote:\n> I gather that the 3 votes of the prisci block are not affected by multipliers, but do multipliers apply to the votes of the prisci in the sub-referendum? Like for example I have Orlando Oriundus and Malgorzata out, does Orlando's special double the votes Malgorzata gets in the prisci sub-referendum?\n>\nYou're too lazy to quote card texts? Letting other persons do it is not very kind, especially when you're expecting an answer.\nAnyway...\n\n> Name: Orlando Oriundus\n> Cardtype: Vampire\n> Clan: Tremere antitribu\n> Group: 4\n> Capacity: 9\n> Discipline: obf AUS DOM THA\n> Sabbat bishop: During a referendum, if Orlando is ready, your vampires' votes are doubled when results are tallied, and other multipliers may not be played on your vampires. +1 bleed.\n>\nPriscus don't cast votes but ballots.\nEven with the old cardtexts, everything that refered to votes never applied to priscus votes (except when stated otherwise, like Free States Rant)\n\n> Name: Free States Rant\n> Cardtype: Political Action\n> Requires an Independent vampire.\n> Allocate X points among one or more ready vampires, where X is half the capacity of the acting vampire (rounded up). No more than 3 points can be allocated to each vampire. Successful referendum means each vampire burns 1 blood for each point assigned. In this referendum, {non-priscus titles are worth 1 fewer vote each, priscus title is worth 1 less ballot}, and burning the Edge is worth an additional vote.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "24187"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 27, 2012, 11:47\u202FAM",
+      "Body": "Prisci have no votes (unless they play cards that actually give them votes, such as Bewitching Oration).\nThey have ballots.\nWhat affects ballots affects ballots.\nWhat only affects votes only affects votes.\n\nHere's the relevent cardtext and section of the rulebook:\n>\n> Orlando Oriundus\n> Cardtype: Vampire\n> Clan: Tremere antitribu\n> Group: 4\n> Capacity: 9\n> Discipline: obf AUS DOM THA\n> Sabbat bishop: During a referendum, if Orlando is ready, your vampires' votes are doubled when results are tallied, and other multipliers may not be played on your vampires. +1 bleed.\n>\nRulebook 6.3.3 wrote:\n>\n> The Prisci Block. The prisci as a group have 3 votes. During a referendum, the prisci block of 3 votes is cast \"for\" or \"against\" the referendum according to the prisci subreferendum. Each ready priscus provides 1 ballot for this subreferendum, and votes may not be used in this subreferendum. Each ballot cast is either \"for\" or \"against\" the main referendum. Whichever side has the greater number of ballots in the subreferendum gains 3 votes in the main referendum. If the subreferendum is tied, the prisci block abstains from the main vote. As vampires cast their ballots in the subreferendum, the prisci block of 3 votes might shift between \"for\", \"against\", and \"abstain\" (as the majority in the subreferendum changes). A vampire must cast all of his votes and ballots in agreement.\n>",
+      "Id": "24188"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 27, 2012, 11:48\u202FAM",
+      "Body": "> Klaital wrote:\n> I gather that the 3 votes of the prisci block are not affected by multipliers, but do multipliers apply to the votes of the prisci in the sub-referendum?\n>\nNo.\n\nPrisci don't have votes in the sub-referendum. They have ballots. Ballots aren't votes.  [RTR 20111202]\n\n> RTR wrote:\n> A \u201Cballot\u201D is the name of the former\u2019s priscus vote, cast in the prisci subreferendum. A ballot isn\u2019t a vote, so some cardtexts were updated to match the distinction.\n>\nPrior to that change, the answer was still no.\n[RTR 20061019]\n>\n> LSJ wrote:\n> Orlando affects \"votes\" which means only main referendum votes.\n>",
+      "Id": "24189"
+    }
+  ]
+}

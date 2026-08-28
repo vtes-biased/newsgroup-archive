@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-76502",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76502-sequencing-tap-effect-vs-declaring-an-action",
+  "Title": "Sequencing: Tap-Effect vs Declaring an Action",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Apr 9, 2018, 3:43\u202FAM",
+      "Body": "Here is an impulse-related question that has been bugging me for a long time, but let me start by saying this: with respect to my question, everyone plays the same way everywhere as far as I know, and it's not controversial.\n\nI just can't find it in the rules.\n\n(Edit) Please read \"lock\" wherever I wrote \"tap\" if it makes you feel better.\n\nScenario:\nPlayer A takes an action, player B blocks using a vampire with a gun. The combat ends uneventfully, then, once the action concludes, Player B taps Heidelberg to move the gun over to an untapped vampire of his. Then Player A takes his next action..\n\nNothing funny there, right?\n\nBut given the sequencing rules, why should Player B have the opportunity to tap Heidelberg without Player A first passing the impulse for him to do it?\n\nCannot Player A say, \"hold on, you can't tap Heidelberg yet because I want to play this action card first, and I have the impulse\"?\n\nIf, for instance, Player A wanted to tap a location of his own before B tapped Heidelberg, and if the ordering of the taps made a difference, I have little doubt that it would be ruled that A could tap his location before B could tap his. So why is declaring an action different?\n\nI can think of a couple reasons that would make it different, but neither appear in the rulebook as far as I can tell. They would include:\n\n1. There is a \"between actions\" phase during which all Metuselahs have an opportunity to play non-action effects before the acting Methuselah may declare his next action. I think we all play as if this were the case, but it is not made explicit in the rules anywhere I have searched. (E.g, section 6.2.3. \"Resolve the Action\" does not elucidate.)\n\n2. Using a tap effect is somehow \"faster\" than the declaration of an action. I really hope it isn't the case that there is a difference in game-speed for declaring different effects, but am eager to know if it is.\n\nCard text for Heidelberg and Rulebook text for Sequencing pasted below. And yes, I chose Heidelberg for the example because it explicitly is not allowed to be used during an action, which might render the scenario moot.\n\nThanks for Reading!\n\nHeidelberg Castle, Germany\n[2 Pool]\nMaster: unique location.\nTap to move blood, equipment cards and/or retainers between any two ready vampires you control. (You choose the amount of blood you move and which cards you transfer.) Cannot be used during an action.\n\n1.6.1.5:\nSequencing. If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "86194"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 9, 2018, 7:22\u202FAM",
+      "Body": "> Killiam wrote:\n> Player A takes an action, player B blocks using a vampire with a gun. The combat ends uneventfully, then, once the action concludes, Player B taps Heidelberg to move the gun over to an untapped vampire of his. Then Player A takes his next action..\n>\n> Nothing funny there, right?\n>\n> But given the sequencing rules, why should Player B have the opportunity to tap Heidelberg without Player A first passing the impulse for him to do it?\n>\nThe minion phase alternates between \"Take an action\" and \"Do a thing between actions\" timing windows. After the first action concludes, the minion phase switches to \"Between actions\". In that window, A has the first opportunity to do something but cannot declare an action because that happens in the \"take an action\" window. So A doesn't have anything to do, so passes. Then B taps Heidelberg. The \"between actions\" impulse goes back to A (because B did something), who passes. Then B passes. (Then the rest of the table passes.) Then the minion phase switches to \"Take an action\". The impulse is with A, so A declares an action.\n\nFor links to rulings, see www.vekn.net/forum/rules-questions/60304-heidelberg-timing",
+      "Id": "86195"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Apr 9, 2018, 10:52\u202FAM",
+      "Body": "If player A wanted to play Freak Drive, this would happen in the same \"between actions\" window, but before player B taps Heidelberg, correct? Alternatively, player A passes the impulse and player B taps Heidelberg (thus passing the impulse), player A can play Freak Drive here, correct?",
+      "Id": "86197"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 9, 2018, 1:23\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> If player A wanted to play Freak Drive, this would happen in the same \"between actions\" window, but before player B taps Heidelberg, correct?\n>\nNo. Freak Drive is an action modifier. It is played during the action (after the resolution for Freak Drive, per cardtext).\n>\n> TwoRazorReign wrote:\n> Alternatively, player A passes the impulse and player B taps Heidelberg (thus passing the impulse), player A can play Freak Drive here, correct?\n>\nNo (same reason).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86198"
+    }
+  ]
+}

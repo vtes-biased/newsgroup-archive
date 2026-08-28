@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-44753",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/44753-blood-weakens-vs-rumble",
+  "Title": "Blood Weakens vs Rumble",
+  "Messages": [
+    {
+      "Author": "Mael",
+      "Date": "Feb 2, 2013, 4:10\u202FPM",
+      "Body": "Hi,\n\nI just want to confirm how Blood Weakens interacts with effects that increase hand size, in this case the other card used was Rumble.\n\nBlood Weakens, Event, R , [G]\nGehenna. Do not replace until a vampire commits diablerie. Cards that a minion plays that require any Disciplines to play are not replaced until the end of the current action or until any Methuselah`s hand is empty (whichever comes first). Any vampire who commits diablerie is immune to this effect until the next Gehenna card is played.\n\nRumble, Action, Sabbat, C , [Third]\nRequires a Sabbat vampire.  Enter combat with a ready minion controlled by another Methuselah. In that combat, your hand size is increased by one. If this acting vampire is not ready at the end of the action, you burn 1 pool.\n\nThe situation was that Blood Weakens was in play, and Rumble was played and not blocked. During the combat the acting vampire played cards which were not replaced due to Blood Weakens' effect.\nWe ruled that at the end of the combat the player first had to discard a card (when he lost the +1 handsize from Rumble) then the action ended and he could replace the other cards.\n\nWas this correct?",
+      "Id": "44753"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 3, 2013, 12:13\u202FPM",
+      "Body": "Rumble gives you +1 hand size in the combat.\nBlood Weakens lasts until the end of the action, which is after the end of combat (since you could play a Freak Drive after the combat).\nSo you were correct by first discarding a card to decrease hand size, then replace at the end of the action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "44789"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 4, 2013, 10:30\u202FAM",
+      "Body": "Correct indeed.",
+      "Id": "44814"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Feb 4, 2013, 11:47\u202FPM",
+      "Body": "Thanks guys.",
+      "Id": "44848"
+    }
+  ]
+}

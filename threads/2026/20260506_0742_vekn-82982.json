@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-82982",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82982-is-end-of-turn-and-end-of-discard-phase-actually-the-same-thing",
+  "Title": "Is \"End of turn\" and \"End of discard phase\" actually the same thing?",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "May 6, 2026, 7:42\u202FAM",
+      "Body": "I'd like confirmation on this. I've seen older rulings that indicate this is the case, but it seems strange to me.\n\nIs \"End of turn\" and \"End of discard phase\" actually the same thing? And therefore, does what happens at the end of the turn, for all practical purposes, occur within the discard phas\n\nEDIT:Okay, I've been researching in old forums and I see that's the case. Using two different terms to refer to the same thing has led me to make a mistake.",
+      "Id": "116972"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "May 6, 2026, 5:34\u202FPM",
+      "Body": "Sadly, it is even more confusing, as you can discard a card as your discard phase action AFTER you have done \"end of turn\"-effects, for example resetting hand size for Dreams of the Sphinx.\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "116973"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 6, 2026, 6:05\u202FPM",
+      "Body": "> Ashur wrote:\n> Sadly, it is even more confusing, as you can discard a card as your discard phase action AFTER you have done \"end of turn\"-effects, for example resetting hand size for Dreams of the Sphinx.\n>\nNo.\nDiscard phase actions are used during the discard phase. Increased hand size that lasts until the end of the turn (e.g. Dreams of the Sphinx) lasts until the discard phase (and one's turn) is over.\nCards that are not replaced until your next unlock phase (e.g. Wake with Evening's Freshness) are replaced as soon as the unlock phase starts, that is even before unlocking your cards -- as soon as the phase begins, the condition is met and the card needs to be replaced.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116975"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "May 7, 2026, 4:18\u202FAM",
+      "Body": "Thanks. No one is more happy than me about this sudden victory for logic!\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "116981"
+    }
+  ]
+}

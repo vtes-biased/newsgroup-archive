@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-83050",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83050-contraband-and-the-shard",
+  "Title": "Contraband and The Shard",
+  "Messages": [
+    {
+      "Author": "meneran",
+      "Date": "Jun 22, 2026, 10:41\u202FAM",
+      "Body": "Hello,\n\nWhen I use Contraband to equip with AK-47 (5 pool cost equipment), are both of these scenarios correct?\nA: I first reduce the cost (using The Shard) of the AK-47 by 2 pool, then I choose to pay the remaining 3 pool cost by using 1 blood and 2 pool (by Contraband text)\nB: I choose to pay AK-47 by using 2 blood and 3 pool (Contraband text), then I reduce the 3 pool cost by 2 pool (using Shard), resulting in payment of 1 pool and 2 blood.\nCard texts:\n\nContraband\nOnly usable before range is determined. A vampire can play only one Contraband each combat.\n[obf]: Equip this vampire with a non-unique equipment from your hand (requirements and cost apply as normal).\n[OBF]: As above, and this vampire can pay up to half the cost rounded down of that equipment with their blood.\n\nThe Shard\nUnique location.\nIf you have the Edge, you can lock this card to reduce the cost of a card you play by 2 pool or blood. Vampires can steal this location as a \u24B9 action; Ventrue get +1 stealth during that action.",
+      "Id": "117239"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Jun 22, 2026, 7:41\u202FPM",
+      "Body": "> meneran wrote:\n> A: I first reduce the cost (using The Shard) of the AK-47 by 2 pool, then I choose to pay the remaining 3 pool cost by using 1 blood and 2 pool (by Contraband text)\n> B: I choose to pay AK-47 by using 2 blood and 3 pool (Contraband text), then I reduce the 3 pool cost by 2 pool (using Shard), resulting in payment of 1 pool and 2 blood.\n> As I am aware, A and B are valid.\n>",
+      "Id": "117246"
+    },
+    {
+      "Author": "Proteus",
+      "Date": "Jun 30, 2026, 6:13\u202FAM",
+      "Body": "Not sure of it.\nTo me, the Shard reduces the card cost (5 for AK47) not the player's part of Contraband....",
+      "Id": "117296"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jul 1, 2026, 8:17\u202FPM",
+      "Body": "This is not an official response.\nFirst, you need to calculate the cost of the card.\nThen, decide how to pay.\nThe Shard modifies the cost. It's applied first.\nThen you decide how to pay the cost. (with or without blood and how much)",
+      "Id": "117305"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2026, 8:51\u202FPM",
+      "Body": "> meneran wrote:\n> Hello,\n>\n> When I use Contraband to equip with AK-47 (5 pool cost equipment), are both of these scenarios correct?\n> A: I first reduce the cost (using The Shard) of the AK-47 by 2 pool, then I choose to pay the remaining 3 pool cost by using 1 blood and 2 pool (by Contraband text)\n> B: I choose to pay AK-47 by using 2 blood and 3 pool (Contraband text), then I reduce the 3 pool cost by 2 pool (using Shard), resulting in payment of 1 pool and 2 blood.\n>\nA) only.\n\n1. First, you declare the cost of the card. You can use effects such as The Shard to reduce the cost.\n2. When paying for the card, you can choose how to pay.\n\nSince Contraband resolves as played, 1/ and 2/ are done together, in that order.\n\nFor actions cards, 1/ can be done when announcing the action, in order to announce an action that wouldn't be otherwise possible (and 2/ when actually paying for the card, that is at resolution).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117309"
+    }
+  ]
+}

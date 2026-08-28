@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-76363",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76363-remove-from-play-remove-from-the-game-and-contracts",
+  "Title": "Remove from Play/Remove from the Game and contracts",
+  "Messages": [
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 10, 2018, 8:51\u202FPM",
+      "Body": "A couple of interaction questions for contracts effects and removing a vampire from play. The two cards in question:\n\nPriority Contract\nMaster\nAssamite\nUnique contract. Trifle.\nPut this card on a minion controlled by your prey and choose a ready Assamite you control. The chosen Assamite can enter combat with this minion as a +1 stealth  action. If this minion would leave the ready region, you can burn this card to gain 3 pool.\n\nThe Black Throne\nMaster\nAssamite\n1 Pool\nMaster: unique location.\nTap during a referendum to gain 2 votes. Tap when a minion with a contract leaves the ready region (only usable if an Assamite you control had been chosen for that contract) to gain 1 pool.\n\nAnd two effects that remove a vampire from play:\nGolconda: Inner Peace\nMaster.\nChoose a vampire with a capacity 8 or more. Remove that vampire from the game. His or her controller gains pool equal to the vampire's capacity. His or her controller may cancel this card as it is played by burning 2 pool.\n\nRulebook 9.1:\nIf you are ousted, all the cards you control are removed from the game.\n\nAlso in question Life Boon:\nLife Boon\nMaster: out-of-turn. Boon\nGive pool to a Methuselah with no pool to keep him or her in the game; put this card in play. During each of his or her untap phases, you can collect 1 pool from that Methuselah. The first victory point that the Methuselah wins is given to you (unless you are ousted by then). This Life Boon is then burned.\n\nThe setup:\nI have vampire A with a Priority Contract on my prey's vampire B, who is in the ready region.\n\nIf I play Golconda on B and my prey removes B from the game, I can burn the Priority Contract and tap The Black Throne to gain a total of 4 pool.\n\nI think the answer is yes. The vampire is leaving the ready region.\n\nIf I oust my prey with a bleed, which would in turn remove vampire B from the game and therefore from the ready region, can I burn the Priority Contract and tap The Black Throne?\n\nThe Black Throne wording seems like it should work.\n\nFor Priority Contract pool gain, I think the answer is yes based on the wording of Life Boon. There must be some type of window between being potentially ousted and actually being ousted, during which I can burn the contract.\n\nAm I correct?",
+      "Id": "84847"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 29, 2018, 3:42\u202FPM",
+      "Body": "Ankha?",
+      "Id": "85151"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 29, 2018, 3:56\u202FPM",
+      "Body": "follow-up question: if I put Priority Contract on one of my Prey's vampires and then oust my prey, does that count toward \"leaving the ready region?\"\n\nOr, to make the question plain: do effects that remove things from the game count as leaving the ready region?",
+      "Id": "85152"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 29, 2018, 4:33\u202FPM",
+      "Body": "> kschaefer wrote:\n> I have vampire A with a Priority Contract on my prey's vampire B, who is in the ready region.\n>\n> If I play Golconda on B and my prey removes B from the game, I can burn the Priority Contract and tap The Black Throne to gain a total of 4 pool.\n>\n.\nYes (cardtext): you can burn the Priority Contract when the \"minion would leave the ready region,\" for 3 pool, and lock the Black Throne when the \"minion with a contract leaves the ready region\" for 1 pool. The window is not exactly the same, but it changes nothing here.\n\n> kschaefer wrote:\n> If I oust my prey with a bleed, which would in turn remove vampire B from the game and therefore from the ready region, can I burn the Priority Contract and tap The Black Throne?\n>\nYes (same reasons).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85154"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 29, 2018, 4:34\u202FPM",
+      "Body": "> self wrote:\n> follow-up question: if I put Priority Contract on one of my Prey's vampires and then oust my prey, does that count toward \"leaving the ready region?\"\n> Or, to make the question plain: do effects that remove things from the game count as leaving the ready region?\n>\nYes. The minion was in the ready region, and is no longer in the ready region => it has left the ready region.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85155"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 29, 2018, 4:44\u202FPM",
+      "Body": "I thought so, thanks for confirming.\n\nIt seems that a Priority Contract should go in every Assamite deck then, regardless of whether I intend to use the combat effect or not.",
+      "Id": "85156"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Jan 29, 2018, 7:39\u202FPM",
+      "Body": "Priority Contract + Black Throne works with:\n- Banishment\n- Golconda Innerpeace\n- Baltimore Purge (toss in 1 weenie lasombra)\n\nWho needs combat\n\n-1 Strength",
+      "Id": "85161"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 29, 2018, 8:28\u202FPM",
+      "Body": "Can a player play Provision of the Silsila and burn Priority Contract to vampire gains enough blood from the blood bank to reach full capacity and gain 3 pool from Priority Contract?\n\nSo minion A enter combat with minion B with Priority Contract, B minion goes to torpor or be burned,controler minion A play Provision of the Silsila,minion A gain blood,gain 3 pool also work?\n\nName: Provision of the Silsila\n[FN:R2, LotN:PA]\nCardtype: Action Modifier/Reaction\nClan: Assamite\nUsable by a locked vampire.\nOnly usable after a combat involving this Assamite and a minion with a contract naming this Assamite. Only usable if the opposing minion is not ready and this Assamite is ready. This Assamite gains enough blood from the blood bank to reach full capacity, and the contract is burned if still in play.",
+      "Id": "85162"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Jan 29, 2018, 9:05\u202FPM",
+      "Body": "Yea you burn the contract when the minion 'would leave the ready region' and gain 3 pool.\nthe criteria for Provisions of silisa is still met (after a combat involving the assamite and a minion with a contract naming the assamite) that combat happened and is true, whether you burned the contract or not.\n\nit then burns the contract if still in play, but as it's not still in play you need not burn it.\n\nwww.vekn.net/forum/rules-questions/71020-priority-contract-and-provision-of-the-silsila",
+      "Id": "85163"
+    }
+  ]
+}

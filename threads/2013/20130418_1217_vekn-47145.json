@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-47145",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/47145-kiss-of-ra-freak-drive",
+  "Title": "Kiss of Ra + Freak Drive",
+  "Messages": [
+    {
+      "Author": "Aerchangelus",
+      "Date": "Apr 18, 2013, 12:17\u202FPM",
+      "Body": "Hi. The other day, in our gaming session, two rules question arise:\n\n-Vampire A with FOR tried to bleed. Vampire B (controlled by his prey) tried to block. Vampire A played a Kiss of Ra (Kiss of Ra, The. Action Modifier.Fortitude.Only usable when a vampire who does not have Fortitude attempts to block this acting minion. The block attempt is canceled, the blocking vampire burns 2 blood, and the current action is ended (without combat).FOR As above, and send the blocking vampire to torpor.), and Vampire B is sended to torpor. Can Vampire A plays a Freak Drive (Freak Drive. Action Modifier. Fortitude. Only usable at the end of a successful action (after resolving the action). This vampire untaps. FOR. As above, but usable even if the action is blocked (play after combat, if any).) to untap and diablerize Vampire B?. Some of the players said yes, and others players said no because the action to bleed was neither sucessful or unsucessful, just was ended due to Kiss of Ra. I think that it can be played if you have FOR, because the action was unsucessful but blocked.\n\n-If a vampire in combat plays Dawn operation + Anesthetic Touch to make one aggravated damage, and his/her opponent in combat plays a combat ends card (majesty, Earth Meld, etc), the aggravated damage is received or just combat ends with no damage?. I would like to know how the \"First Strike\" ruling is applied in this card.\n\nThank you in advance.",
+      "Id": "47145"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 18, 2013, 12:28\u202FPM",
+      "Body": "> Aerchangelus wrote:\n> -Vampire A with FOR tried to bleed. Vampire B (controlled by his prey) tried to block. Vampire A played a Kiss of Ra and Vampire B is sended to torpor. Can Vampire A plays a Freak Drive to untap\n>\nNo, the action is ended by Kiss of Ra. You can't play action modifiers when an action is ended (because there's no action anymore).\n\n> Aerchangelus wrote:\n> If a vampire in combat plays Dawn operation + Anesthetic Touch to make one aggravated damage, and his/her opponent in combat plays a combat ends card (majesty, Earth Meld, etc), the aggravated damage is received or just combat ends with no damage?. I would like to know how the \"First Strike\" ruling is applied in this card.Thank you in advance.\n>\nIf the opponent plays a strike: combat ends, it's resolved first (before first strike), leading to the end of combat.\nThe Anesthetic Touch doesn't resolve (and does nothing).\n\nSee the rulebook: www.vekn.net/index.php/rulebook\nSection 6.4.5. Strike Effects\n\n> First Strike. A strike done with first strike is resolved before a normal strike. Thus, if the opposing minion is burned or sent to torpor by a strike done with first strike, his strike will not be resolved at all. If the opposing minion was striking with a weapon that is stolen or destroyed with first strike, then the opposing minion simply loses his strike altogether. If both minions strike with first strike, then the strikes are resolved simultaneously. A strike done with first strike will still not resolve before a combat ends effect (which always resolves first), and a dodge still cancels the effects of a strike done with first strike (see below).\n>\n> Combat Ends. This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike, and it ends combat before other strikes or other strike resolution effects are resolved. Combat ends is effective at any range. Combat ends is not affected by a dodge, since dodge only cancels effects that are directed at the dodging minion.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "47147"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 19, 2013, 5:26\u202FAM",
+      "Body": "Correct answers from Ankha.",
+      "Id": "47226"
+    },
+    {
+      "Author": "Aerchangelus",
+      "Date": "Apr 21, 2013, 6:17\u202FPM",
+      "Body": "Thanks to both for the quick answer.",
+      "Id": "47326"
+    }
+  ]
+}

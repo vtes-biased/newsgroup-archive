@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-79952",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79952-when-does-lutz-ability-trigger",
+  "Title": "When does Lutz ability trigger?",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Aug 8, 2022, 6:48\u202FPM",
+      "Body": "Lutz has been originally ruled that if Lutz' was removed by the reult of a passing referendum, that his special would strill trigger.\nLSJ 20090115-2\n\nThis seems to be not the case anymore with the rewording.\n\nSince this has been (mis)interpreted in different ways all the time, I ask for a quotable clarification that Lutz' special does NOT trigger anymore, if he is removed by the effects of a referendum, be it that it was reversed, or that the ruling is moot by new cardtext.\n\nLutz von Hohenzollern",
+      "Id": "105912"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 8, 2022, 8:37\u202FPM",
+      "Body": "With the updated cardtext, the check and the effect are both performed after the referendum passes, that is after resolution.\nIf Lutz is no longer ready at that point (because his controller got ousted by the referendum for instance), then it does not trigger.\nThe ruling provided is moot due to the new cardtext.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105913"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Feb 28, 2026, 10:29\u202FAM",
+      "Body": "Since you write \"both performed after the referendum passes, that is after resolution\" du you mean \"after resolution of the referendum\" or explicetly \"after action resolution\" here?\n\nThe latter would have inplications on order with things like voter cap.\n\nTo make it a card interaction question:\n\nYour pred has Lutz\nyou are at one pool\nYou play a vote (lets say cold war, so it doesnt deal damage to you)\nif passes with a margin of at least 1\n\nCan you play voter cap superior to save yourself?\n\nvoter captivation\n\nOnly usable after resolution of a political action whose referendum passed.\n[Presence]\nThis vampire gains 1 blood for each vote by which the referendum passed.\n[Superior Presence]\nAs above, but move up to 2 of those blood to your pool instead of this vampire.",
+      "Id": "116518"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Mar 1, 2026, 5:54\u202FAM",
+      "Body": "VC is played after the referendum, meaning you can't save yourself if you're ousted by referendum's effects.\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/TXfganI5B2o/m/QYh3AdPNbUwJ",
+      "Id": "116521"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 1, 2026, 4:50\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> du you mean \"after resolution of the referendum\" or explicetly \"after action resolution\" here?\n>\nThey share the same window.\n\n> Hobbesgoblin wrote:\n> Your pred has Lutz\n> you are at one pool\n> You play a vote (lets say cold war, so it doesnt deal damage to you)\n> if passes with a margin of at least 1\n>\n> Can you play voter cap superior to save yourself?\n>\nYes.\n\n> KoRneeshon wrote:\n> VC is played after the referendum, meaning you can't save yourself if you're ousted by referendum's effects.\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/TXfganI5B2o/m/QYh3AdPNbUwJ\n>\nIn the scenario above, the referendum does not damage the Methuselah calling it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116523"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 2, 2026, 2:52\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Hobbesgoblin wrote:\n> > du you mean \"after resolution of the referendum\" or explicetly \"after action resolution\" here?\n> >\n> They share the same window.\n>\nIs that really the case? E.g. if Hedonism on  was played during the action, there is still a queued combat. So I in this case I thought \"after referendum\" would be in-between the two different effects (referendum and combat).\n\nWarning: Spoiler!\n\nHedonism\nOnly usable by a ready unlocked vampire other than the acting minion if a minion attempts to block.\nThat attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion, and queue a combat between them.\n\n(Same as Guardian's ability can queue a combat \"after bleed resolution\", still part of action resolution.)\n\nSo in this case, Lutz' ability should IMO trigger before you can play Voter Cap, not being able to save oneself.",
+      "Id": "116527"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 3, 2026, 6:59\u202FAM",
+      "Body": "> Oracle.kid wrote:\n>\n> > Ankha wrote:\n> >\n> > > Hobbesgoblin wrote:\n> > > du you mean \"after resolution of the referendum\" or explicetly \"after action resolution\" here?\n> > >\n> > They share the same window.\n> >\n> Is that really the case? E.g. if Hedonism on  was played during the action, there is still a queued combat. So I in this case I thought \"after referendum\" would be in-between the two different effects (referendum and combat).\n>\nNo. Handle Hedonism's queued combat first. Then Voter Cap + Lutz as explained above.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116536"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 5, 2026, 12:56\u202FPM",
+      "Body": "thanks for your reply\n\nwhat I still don't understand / confuses me: In the Hidden Lurker discussion, you mentioned there would be different windows for Hidden Lurker and \"after action resolution\" and  pointed to an LSJ ruling .\n\nA summary was that Hidden Lurker then would be played during action resolution, since it only mentions \"after combat\" not \"after action resolution\".\n\n> oracle.kid: We figured that after bleed resolution is a part of action resolution, similar to after combat for Hidden Lurker.\n>\n> And that Voter Captivation would still be in the Freak Drive window, since it refers to resolution of a political **action** whose referendum passed. (Cards which refer to political actions would need to be after referendum for political actions to be in the same window [as Hidden Lurker (clarification by me)].\n>\n> Essentially, we followed the logic that the word \"action\" could be used in card text to distinguish between the windows.\n>\n> So we wanted to confirm whether or not we got the timing window for Guardian right?\n>\n> Ankha: It looks right\n>\nLink Discord convo\n\nThe graph has Hidden Lurker (and Lutz' effect) now in the same window as Voter Cap and Freak Drive.\n\nDoes the ruling you made for Lutz mean that you can now order any of these effects against the other or is there sequencing between the different \"blocks\" from the graph? (after resolution, after combat, after block resolution)\n\nIf there is a predetermined sequencing, which windows are the same and which aren't?",
+      "Id": "116555"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 5, 2026, 4:13\u202FPM",
+      "Body": "> Oracle.kid wrote:\n> thanks for your reply\n>\n> what I still don't understand / confuses me: In the Hidden Lurker discussion, you mentioned there would be different windows for Hidden Lurker and \"after action resolution\" and  pointed to an LSJ ruling .\n>\n> A summary was that Hidden Lurker then would be played during action resolution, since it only mentions \"after combat\" not \"after action resolution\".\n>\nNo, Hidden Lurker is played after action resolution, but it causes a new combat, and combats are resolved as part of the action resolution.\nSo basically, you play HL \"after resolution\", and it brings you back to \"during resolution\" (see the flowchart).\nThen, once that combat is over, we are back in the \"after resolution\" window.\n\nLSJ's link is about \"do I play FD when blocked, or after resolution\". If you play FD first, you can then play HL. If you play HL first, you can play FD only after the combat caused by HL.\n\n> oracle.kid: We figured that after bleed resolution is a part of action resolution, similar to after combat for Hidden Lurker.\n>\nNo, \"after resolution\" is the same thing as \"after bleed resolution\" for bleed actions.\n\n> Oracle.kid wrote:\n> The graph has Hidden Lurker (and Lutz' effect) now in the same window as Voter Cap and Freak Drive.\n>\n> Does the ruling you made for Lutz mean that you can now order any of these effects against the other\n>\nYes.\n\n> Oracle.kid wrote:\n> or is there sequencing between the different \"blocks\" from the graph? (after resolution, after combat, after block resolution)\n>\n> If there is a predetermined sequencing, which windows are the same and which aren't?\n>\nNo, all these effects are played after resolution. But keep in mind that the order in which you play them could matter (and that some cancel others, for instance HL prevents the action from continuing with Form of Mist).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116558"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 6, 2026, 9:01\u202FAM",
+      "Body": "This makes sense\n\non a side note, it might be helpful to unify the wording for consistency where possible, so beginners can understand it more easily.\n\nE.g. Cats Guidance \"after action resolution of a blocked action\" like Go-Getter or Lutz \"after resolution of a political action\"",
+      "Id": "116571"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 6, 2026, 5:00\u202FPM",
+      "Body": "This suggestion:\n>\n> Oracle.kid wrote:\n> Cats Guidance \"after action resolution of a blocked action\" like Go-Getter\n>\nwould nerf Cats' Guidance as you would no longer be able to play it after a block where the acting vampire used Form of Mist.\n\nWhat perhaps the rulebook should be more clear about is that several of these phrases meld into one timing window, but their triggers differ. And they differ because there are also cases, where some of these cards can be played when others cannot.",
+      "Id": "116572"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 6, 2026, 6:12\u202FPM",
+      "Body": "> Ankha wrote:\n> [quote=\"Oracle.kid post=116555\n>\n> > Oracle.kid wrote:\n> > or is there sequencing between the different \"blocks\" from the graph? (after resolution, after combat, after block resolution)\n> >\n> > If there is a predetermined sequencing, which windows are the same and which aren't?\n> >\n> No, all these effects are played after resolution. But keep in mind that the order in which you play them could matter (and that some cancel others, for instance HL prevents the action from continuing with Form of Mist).\n>\nIf I'm not misunderstanding something, Ankha clarified that after action resolution = after block resolution, so the suggested rewording has no impact on timing. It only reduces the possible wording templates.",
+      "Id": "116574"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 9, 2026, 9:49\u202FAM",
+      "Body": "> Oracle.kid wrote:\n> If I'm not misunderstanding something, Ankha clarified that after action resolution = after block resolution, so the suggested rewording has no impact on timing. It only reduces the possible wording templates.\n>\nThe difference is that block resolution can only result from a successful block, whereas all actions have a resolution, even those that arent blocked..\n\nGood question is, do cards need to reference block resolution at all, or is it just rules bloat?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "116591"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 11, 2026, 11:30\u202FPM",
+      "Body": "It seems a (hopefully last) confirmation would be helpful:\n\nIn a Discord convo, we couldn't reach a conclusion on how to understand the quotes  regarding Cats' Guidance and in this thread.\n\n> I moved the \"after combat\" and \"after block resolution\" (previously in the \"resolution\" block) to the \"after resolution\" block, but it's not always true, I'll have to fix the diagram again.\n>\n> Basically, if the action is over (not continued), Freak Drive, Cats' Guidance, Hidden Lurker etc. are played in the same window, following sequencing rule, because their timing match.\n>\n> If the action is continued, then Cat's Guidance and Hidden Lurker can still be played still the condition and timing is met, but not Freak Drive since the action is continuing .\n>\ntogether with\n\n> > Oracle.kid wrote:\n> > The graph has Hidden Lurker (and Lutz' effect) now in the same window as Voter Cap and Freak Drive.\n> >\n> > Does the ruling you made for Lutz mean that you can now order any of these effects against the other\n> >\n> Yes.\n>\n> > Oracle.kid wrote:\n> > or is there sequencing between the different \"blocks\" from the graph? (after resolution, after combat, after block resolution)\n> > If there is a predetermined sequencing, which windows are the same and which aren't?\n> >\n> No, all these effects are played after resolution. But keep in mind that the order in which you play them could matter (and that some cancel others, for instance HL prevents the action from continuing with Form of Mist).\n>\nCurrently, I would think that playing Form of Mist on  gives the option to continue the action during \"after action resolution\". But as long as the effect is not used, other \"after action resolution\" modifiers like Freak Drive can be played. And since there is no mandatory order, I could play FD and then activate FoM to continue the action.\n\nIs that reasoning correct?\n\nAlso, timing to play Cats' Guidance after FoM would still hold true, since impulse would need to pass during \"after action resolution\" before the effect takes place. Is that true?",
+      "Id": "116637"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 12, 2026, 7:56\u202FAM",
+      "Body": "> Oracle.kid wrote:\n> Currently, I would think that playing Form of Mist on  gives the option to continue the action during \"after action resolution\".\n>\nTechnically, \"after combat ends, if this vampire was blocked\", but they are equivalent in this case. So yes. (diagram column \"Action is over\" > after combat (if any)\".\n\n> Oracle.kid wrote:\n> But as long as the effect is not used, other \"after action resolution\" modifiers like Freak Drive can be played.\n>\nCorrect (diagram column \"Action is over\" > \"after resolution\").\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/reXyybyIYX8/m/jeCyjdiZ5T4J\n\n> Oracle.kid wrote:\n> And since there is no mandatory order, I could play FD and then activate FoM to continue the action.\n>\nCorrect. (see above)\n\n> Oracle.kid wrote:\n> Also, timing to play Cats' Guidance after FoM would still hold true, since impulse would need to pass during \"after action resolution\" before the effect takes place. Is that true?\n>\nCorrect, you can play Cats' Guidance after FoM continues the action (diagram column \"Action is continuing\" > \"After block resolution\")\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/ecDUqbSUsNg/m/3W9aOm0MfYEJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116639"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Mar 12, 2026, 11:37\u202FAM",
+      "Body": "Thanks Ankha!",
+      "Id": "116644"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 15, 2026, 9:23\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Oracle.kid wrote:\n> > Also, timing to play Cats' Guidance after FoM would still hold true, since impulse would need to pass during \"after action resolution\" before the effect takes place. Is that true?\n> >\n> Correct, you can play Cats' Guidance after FoM continues the action (diagram column \"Action is continuing\" > \"After block resolution\")\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/ecDUqbSUsNg/m/3W9aOm0MfYEJ\n>\nWhy are we after 30+ years, introducing a new game state/step \"Action Continuing\" where impulse needs to be passed around?\n\nIf im not mistaken all \"continue the action\" effects are sourced from cards whose effects are to be resolved immediately and that should mean that the game state/step is moved to \"block attempts\" and the impulse to be handled as per normal (kept with the acting player if they triggered the effect or passed to the acting player if the effect was triggered by another non-acting player).\nWith regards to \"after combat\" and \"after block resolution\" effects, they would be playable after the action again reaches either of \"after combat\", \"after block resolution\" or \"after action resolution\", this because the game state and what has happened in the course of the action isn\u00B4t forgotten just because the game state/step was moved to \"block attempts\" by a \"continue the action\" effect.",
+      "Id": "116653"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 16, 2026, 7:59\u202FAM",
+      "Body": "> inm8 wrote:\n> Why are we after 30+ years, introducing a new game state/step \"Action Continuing\" where impulse needs to be passed around?\n>\nThe diagram is merely materializing the interactions between different cards based on the existing rulings. There's nothing new here.\n\n> inm8 wrote:\n> If im not mistaken all \"continue the action\" effects are sourced from cards whose effects are to be resolved immediately and that should mean that the game state/step is moved to \"block attempts\" and the impulse to be handled as per normal (kept with the acting player if they triggered the effect or passed to the acting player if the effect was triggered by another non-acting player).\n>\nIf it were the case (moving to block attempts), one could attempt to block, then at some point play Cats' Guidance from a previous successful block. This is not allowed.\nThe other option would be to switch back to block attempts and disallow Cats' Guidance after a \"continue the action\" effect, but this is not the designer's choice.\n\n> inm8 wrote:\n> With regards to \"after combat\" and \"after block resolution\" effects, they would be playable after the action again reaches either of \"after combat\", \"after block resolution\" or \"after action resolution\", this because the game state and what has happened in the course of the action isn\u00B4t forgotten just because the game state/step was moved to \"block attempts\" by a \"continue the action\" effect.\n>\nIndeed, and this rememberance is materialized by the column \"the action is continuing\" during which you can play some cards before switching back to block attempts.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "116657"
+    }
+  ]
+}

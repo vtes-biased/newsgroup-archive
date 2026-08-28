@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-81642",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81642-shattering-crescendo-and-missing-target",
+  "Title": "Shattering Crescendo and missing target",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Jul 23, 2024, 10:51\u202FAM",
+      "Body": "Does Shattering Crescendo fizzle if one of its targets are no longer valid at resolution?\n\nFor example, I play Shattering Crescendo targeting a vampire and an Underbridge Stray, and during the action, the Underbridge Stray is burnt to unlock another minion, does Shattering Crescendo still damage the vampire, or does it fizzle because it no longer has all the targets?\n\nIf yes, does the second copy still need to be discarded?\n\nShattering Crescendo\n\nName: Shattering Crescendo\n[HttB:C/B4, POD:DTC]\nCardtype: Action\nCost: 1 blood\nDiscipline: Melpominee/Protean\n[pro]  Inflict 1 unpreventable damage on an ally or retainer.\n[mel]  Discard a Shattering Crescendo to inflict 2 unpreventable damage on each of up to two minions controlled by a single Methuselah.\n[MEL] As [mel] above, but for 3 unpreventable damage each.\nArtist: Marian Churchland\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "112138"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 24, 2024, 12:44\u202FAM",
+      "Body": "> the1andonlime wrote:\n> Does Shattering Crescendo fizzle if one of its targets are no longer valid at resolution?\n>\nNo, both targets would have to be missing for the action to fizzle.",
+      "Id": "112148"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jul 24, 2024, 4:03\u202FAM",
+      "Body": "> kschaefer wrote:\n> No, both targets would have to be missing for the action to fizzle.\n>\nGiven that you'll need to pick the targets when announcing the action, and the targeting is not dependent on an unknown variable (e.g. Keystone Kine @ obf), why would it resolve with half the chosen targets?\n\nEdit: this link here seems to suggest the action fizzles (this was before fizzle was a thing, I think)\nwww.vekn.net/forum/rules-questions/78475-action-fails-what-happens-exactly\nThe OP mentioned \"(or one of the two targets)\" which was never directly addressed as a different scenario\n\nEdit again: the Detailed Play Summary also says\n>\n> If the action succeeds but the effect (or part of the effect) is no longer valid/legal (because the target leaves play, for example), the cost, if any, is still paid (since the action resolves unblocked) but the invalid portion of the action \"fizzles\" (is not applied).\n>\n(emphasis mine) which would imply that all targets have to be valid or the action fizzzles\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "112149"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 24, 2024, 5:57\u202FAM",
+      "Body": "> kschaefer wrote:\n>\n> > the1andonlime wrote:\n> > Does Shattering Crescendo fizzle if one of its targets are no longer valid at resolution?\n> >\n> No, both targets would have to be missing for the action to fizzle.\n>\nCorrect.\nSee  www.vekn.net/forum/rules-questions/79001-the-question-of-the-month-action-fizzles?start=0#101492 ,  RTR 8-AUG-8\nand  groups.google.com/g/rec.games.trading-cards.jyhad/c/V3uIITe1wug/m/P-WH48zhoc8J\n\n> the1andonlime wrote:\n> Edit: this link here seems to suggest the action fizzles (this was before fizzle was a thing, I think)\n> www.vekn.net/forum/rules-questions/78475-action-fails-what-happens-exactly\n> The OP mentioned \"(or one of the two targets)\" which was never directly addressed as a different scenario\n>\nNo, this ruling is about an effect that explicitely makes the action fail (Secret Passage: \"If this minion is the target of a  action while he or she is ready, you may burn this card to make the action fail.\") and that is usable as soon as the minion with the Secret Passage is one of the targets.\n\n> the1andonlime wrote:\n> Edit again: the Detailed Play Summary also says\n> >\n> > If the action succeeds but the effect (or part of the effect[/b][/color]) is no longer valid/legal (because the target leaves play, for example), the cost, if any, is still paid (since the action resolves unblocked) but the invalid portion of the action \"fizzles\" (is not applied).\n> >\nEmphasis mine: only the invalid part does not apply. The action itself doesn't fizzle however as long as there is still a valid part.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112150"
+    }
+  ]
+}

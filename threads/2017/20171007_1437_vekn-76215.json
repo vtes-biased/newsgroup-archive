@@ -1,0 +1,200 @@
+{
+  "ThreadId": "vekn-76215",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/76215-rules-update-suggestion-pre-range-into-preparation-step",
+  "Title": "Rules update suggestion: Pre-Range into Preparation Step",
+  "Messages": [
+    {
+      "Author": "Kraus",
+      "Date": "Oct 7, 2017, 2:37\u202FPM",
+      "Body": "Rules revamp: Pre-Range into Preparation Step\n\nWe all know of the clause: \"Play before range is determined\".\n\nIt is so well known and widely used templating in cards that it's always asked in combat sequencing. \"Do you have any pre-range?\" However, \"pre-range\" is not something that the rulebook acknowledges, and it's strictly a card text driven mechanic.\n\nThe rulebook only acknowledge three steps in a combat:\n\n1. Determine Range\n2. Strikes\n3. Press\n\nOf course there is the added 'note' of effects played before range, but for demoing, learning the ropes, and streamlining the card texts and rulebook, I'd suggest the following:\n\nAdd another step into combat (as it effectively exists already):\n\n1. Preparation\n2. Determine Range\n3. Strikes\n4. Press\n\nChange all card text from \"Play before range is determined\" into \"Play in Preparation\" or \"Prepare.\", or anything similar.\n\nTapping was already widely changed into Locking, so we're beyond the time when we couldn't make vast changes to wording.\n\nIs this change definitely needed? Probably not, but it does make the whole 'read rules, then read cards, then learn the game' process a bit easier. I can see no fault in this change.\n\nThis has probably been suggested before, but I can't be bothered to search for those exact threads. Also, I think it's a pretty important change.\n\nExamples:\n\nName: Carrion Crows\n[Sabbat:C, SW:C/PT2, CE:PN2, Anarchs:PG2, BH:PN3, LoB:PA2, Third:C, LotN:PR3, KoT:C]\nCardtype: Combat\nDiscipline: Animalism\nPreparation.\n[ani] The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\n[ANI] As above, but for 2R damage.\nArtist: Michael Dixon; Richard Thomas\n\nName: Elysium: The Arboretum\n[Jyhad:U, VTES:U, CE:U/PM, KoT:U/PM]\nCardtype: Master\nMaster: unique location.\nOnly usable when a Camarilla vampire you control is in combat with another Camarilla vampire. You may lock this card in [the] preparation [step] to end combat. Any Camarilla vampire can call a referendum to burn this card as a +1 stealth political action.\nArtist: Brian LeBlanc; Margaret Organ-Kean\n\nName: Outside the Hourglass\n[HttB:C]\nCardtype: Combat\nDiscipline: Temporis/Obfuscate\n[obf] Strike: dodge.\n[tem] Maneuver, or strike: dodge, with an optional maneuver.\n[TEM] Preparation. Inflict 2 damage on the opposing minion [in the Preparation step]. A vampire can play only one Outside the Hourglass at superior each round.\nArtist: Jim DiBartolo\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83748"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Oct 7, 2017, 3:22\u202FPM",
+      "Body": "this would also make it easier to decode the interaction between Pack Alpha and Weather Control, that is, If WC were changed to be played in the Prep step, and do its damage in Range step.",
+      "Id": "83753"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 8, 2017, 12:28\u202FAM",
+      "Body": "I would rather call it the beginning of the round to avoid adding a new keyword.",
+      "Id": "83758"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Oct 8, 2017, 8:10\u202FAM",
+      "Body": "1. Start of round/Preparation (before range is determined)\n2. Determine Range\n2.5 Before strikes/After range is determined\n3. Strikes\n3.5 After strikes/Before press\n4. Press\n4.5. End of round\n5 End of combat\n6 After end of combat\n7? After after end of combat\n\n-1 Strength",
+      "Id": "83759"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 8, 2017, 9:40\u202FAM",
+      "Body": "> Kraus wrote:\n> Rules revamp: Pre-Range into Preparation Step\n>\n> We all know of the clause: \"Play before range is determined\".\n>\n> It is so well known and widely used templating in cards that it's always asked in combat sequencing. \"Do you have any pre-range?\" However, \"pre-range\" is not something that the rulebook acknowledges, and it's strictly a card text driven mechanic.\n>\n> The rulebook only acknowledge three steps in a combat:\n>\n> 1. Determine Range\n> 2. Strikes\n> 3. Press\n>\n> Of course there is the added 'note' of effects played before range, but for demoing, learning the ropes, and streamlining the card texts and rulebook, I'd suggest the following:\n>\n> Add another step into combat (as it effectively exists already):\n>\n> 1. Preparation\n> 2. Determine Range\n> 3. Strikes\n> 4. Press\n>\nThe addition of a new step is being considered, so feel free to write down any idea you may have to make the game easier to understand and to learn.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83763"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 8, 2017, 11:38\u202FAM",
+      "Body": "> Ankha wrote:\n> The addition of a new step is being considered, so feel free to write down any idea you may have to make the game easier to understand and to learn.\n>\nIf the rulebook needs to be made clearer, it would be massively preferable to just have a \"before range\" step spelled out in 6.4.1, rather than renaming it. There are thousands upon thousands of cards out there that say that, and if the aim is to streamline it for new players, them having to learn about the \"preparation step\" and what \"before range is determined\" means because they will see it on cards played by other players all the time - well, that's a whole lot less streamlined and more for them to learn.",
+      "Id": "83767"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Oct 8, 2017, 12:02\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > The addition of a new step is being considered, so feel free to write down any idea you may have to make the game easier to understand and to learn.\n> >\n> If the rulebook needs to be made clearer, it would be massively preferable to just have a \"before range\" step spelled out in 6.4.1, rather than renaming it. There are thousands upon thousands of cards out there that say that, and if the aim is to streamline it for new players, them having to learn about the \"preparation step\" and what \"before range is determined\" means because they will see it on cards played by other players all the time - well, that's a whole lot less streamlined and more for them to learn.\n>\nI don't think the idea is to simply make the rulebook clearer, it's to make the game easier to play. Those are two different things. I agree that just adding a before range step to the rulebook would make things much clearer without any other changes to the game. I also think that, in theory, renaming it to \"preparation step\" would work if the card text could be updated. But all this would be getting too far ahead of things right now. There are so many colloquial rules that the rulebook does not address (eg, environmental damage, bearer and user of equipment). Those things should be codified in the rulebook before anything should be renamed and streamlined.",
+      "Id": "83768"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Oct 9, 2017, 7:52\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> I don't think the idea is to simply make the rulebook clearer, it's to make the game easier to play. Those are two different things. I agree that just adding a before range step to the rulebook would make things much clearer without any other changes to the game. I also think that, in theory, renaming it to \"preparation step\" would work if the card text could be updated. But all this would be getting too far ahead of things right now. There are so many colloquial rules that the rulebook does not address (eg, environmental damage, bearer and user of equipment). Those things should be codified in the rulebook before anything should be renamed and streamlined.\n>\n> Kraus wrote:\n> Of course there is the added 'note' of effects played before range, but for demoing, learning the ropes, and streamlining the card texts and rulebook, I'd suggest the following:\n>\nThink that was quite clearly OP's intent. Adding enviro damage to the rulebook is a good idea, but bearer and user is very clear, as long as you are fluent in the language the cards are written in.",
+      "Id": "83779"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Oct 9, 2017, 10:00\u202FPM",
+      "Body": "> Blooded wrote:\n>\n> > TwoRazorReign wrote:\n> > I don't think the idea is to simply make the rulebook clearer, it's to make the game easier to play. Those are two different things. I agree that just adding a before range step to the rulebook would make things much clearer without any other changes to the game. I also think that, in theory, renaming it to \"preparation step\" would work if the card text could be updated. But all this would be getting too far ahead of things right now. There are so many colloquial rules that the rulebook does not address (eg, environmental damage, bearer and user of equipment). Those things should be codified in the rulebook before anything should be renamed and streamlined.\n> >\n> > Kraus wrote:\n> > Of course there is the added 'note' of effects played before range, but for demoing, learning the ropes, and streamlining the card texts and rulebook, I'd suggest the following:\n> >\n> Think that was quite clearly OP's intent.\n>\nWhat was the OP's intent? Streamlining the rulebook? Because when I read \"streamlining card texts,\" in my opinion, that's more about making the game easier to play than just clarifying what's in the rulebook.\n\n> Adding enviro damage to the rulebook is a good idea, but bearer and user is very clear, as long as you are fluent in the language the cards are written in.\n>\nActually, I just realized bearer is defined in the rulebook. That's probably why you think it's clear.",
+      "Id": "83787"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 9, 2017, 11:35\u202FPM",
+      "Body": "Pre-range and end of round definitely need to be in the rulebook. Those are major phases where pretty much any combat deck is supposed to play something. The immortal grapple timing is also awkward, but it is pretty much the only card to play in that phase, so I am not sure whether it is worth adding it to the rulebook.",
+      "Id": "83789"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 10, 2017, 5:19\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> If the rulebook needs to be made clearer, it would be massively preferable to just have a \"before range\" step spelled out in 6.4.1, rather than renaming it. There are thousands upon thousands of cards out there that say that, and if the aim is to streamline it for new players, them having to learn about the \"preparation step\" and what \"before range is determined\" means because they will see it on cards played by other players all the time - well, that's a whole lot less streamlined and more for them to learn.\n>\nWe must work under the assumption that new players will have easy access to new cards with a cleaned up wording, because otherwise it means that publishing VTES is not economically viable and the whole discussion is moot anyway. So instead of worrying about the cards out there, let us try to make the next edition as good as it can be. Changes of wording and templating are as old as CCGs, and after the mandatory torch and pitchfork phase people get used to them and start seeing the good in the new designs.",
+      "Id": "83791"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 10, 2017, 8:31\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> What was the OP's intent? Streamlining the rulebook? Because when I read \"streamlining card texts,\" in my opinion, that's more about making the game easier to play than just clarifying what's in the rulebook.\n>\nTo be fair, that's kind of irrelevant to the discussion in my opinion.  All I'm saying is the game would ultimately benefit from it.\n\nIn my experience trying to explain the 'play before range is determined' for newer players is more daunting than it would have to be. I'd guess a 'preparation' clause and/or keyword would make it easier and faster to grasp and teach.\n\nThe question of environmental damage is a good one, but kind of beside the point here. FYI I'm all for it if environmental damage gets added into the rulebook, but in that case it should be added to the cards as well. Make Carrion Crows read \"The opposing minion takes 1R environmental damage--\" for example, to differentiate it from damage dealt (considering Disarm and Pulled Fangs). BUT, that could make into another thread altogether.\n\nHowever, the \"Grapple window\" is more in line with the topic at hand, as the whole thread could be broadened to touch the combat round sequence as a whole.\n\nI was thinking if there should be a 'Grapple window' in the rulebook, but effectively it only considers one card: Immortal Grapple. No other 'grapple' card share the same timing. Thin Blood does however. We could've changed Grapple cards to all work in the 'pre strikes' window, and work so that they set the strike for the initial strike phase, but I'm not sure if that's really needed. That would effectively warrant the change of some cards and tinkering with their power level just to add another phase into combat to accomodate the needs of two cards in the game (one of which is pretty good [Thin Blood] and the other meta defining [IG]).\n\nNot really sure what to think here. I guess, if I'd do any changes to that, I'd just change the wording of IG and Thin Blood to \"Play once range has been set to close this round\" (1) to better tie it into the end of a familiar phase (more intuitive). The rulebook doesn't exactly define the terminology for what happens when no more maneuvers are played, but the example in it uses the term 'set to' after no more cards or effects are played. That could solve some corner cases (which I've witnessed actually) where the following happens:\n\nA: I maneuver to close.\nB: Okay, I'm fine with that.\nA: Moving to strikes.\nB: Yeah. I'm striking Maj--\nA: Wait! I have to react before strikes!\n\nWhereas we could have:\n\nA: I maneuver to close.\nB: Okay, I'm fine with that.\nA: Now that we're set close, at the end of the phase I can Grapple you.\nB: Ah, okay. Now, moving to strikes I guess I'll just Slam! you.\n\nAnd so on.\n\nIt's a minor thing and would essentially be the same, but I can see the sequencing being a bit more intuitive.\n\nNow, as for Preparation, I'll try to find some time to rewrite the relevant parts of the rulebook to give an idea of what I'm thinking.\n\nSure, it's a possibility of adding a new paragraph to the rulebook for 'before range'. The continued relevance of old card text is a really important point, but getting a revised and a bit more easily accessible core game or a starter would be even more important I think.\n\nI'll try to get some writing done when I find the time.\n\nKrausedit\\\\ Oh, and sure, 'end of round' should definitely find it's way into the rulebook as well. It's so crucial.\n\nKrausedit\\\\ I do realize that to many this would seem irrelevant and a non-topic. It doesn't really change the game as is. If that's how you feel and can't be bothered, please don't.  These are minor tweaks for better accessability that aims for the next starter release, and doesn't really (or shouldn't) affect veterans.\n\n(1) Card text edit suggestions:\n\nName: Thin Blood\n[FN:C2/PA2]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Quietus\n[qui] Only usable after range is set to close. The opposing vampire burns 1 blood. A vampire may play only one Thin Blood each round of combat.\n[QUI] As above, but the opposing vampire burns 2 blood.\nArtist: Brian LeBlanc\n\nName: Immortal Grapple\n[Jyhad:R2, VTES:R, Sabbat:U, SW:U/PB, FN:PG, CE:U/PB2, Third:U, LotN:PG2, KoT:U/PB3, HttB:PGar3]\nCardtype: Combat\nDiscipline: Potence\nOnly usable after range is set to close. Grapple.\n[pot] Strikes that are not hand strikes may not be used this round (by either combatant). A vampire may play only one Immortal Grapple each round.\n[POT] As above, with an optional press. If another round of combat occurs, that round is set to close range; skip the determine range step for that round.\nArtist: Clint Langley; L. A. Williams; Avery Butterworth\n\nName: Three's a Crowd\n[HttB:C]\nCardtype: Combat\nClan: Blood Brother\nCost: 1 blood\nRequires a ready unlocked Blood Brother of the same circle as another one you control in combat.\nOnly usable before range is determined. The range this round is automatically set to close, and the Blood Brother in combat gets an optional press, only usable to continue combat.\nArtist: Avery Butterworth\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83794"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 10, 2017, 9:03\u202FAM",
+      "Body": "Range for the round can be set during the previous round, so \"after range is set to close\" can be misleading.\nI don't like \"before range is determined\" for the same reason. If my opponent sets the range for the round, does that mean I can't my Torn Signpost anymore?\n\nThere are a few cards that share the same timing as Immortal Grapple: Blissful Agony, Blood of Acid, The Death of My Conscience, King of the Mountain, Sanguinary Wind, Shame, and Thin Blood that you mentioned.\n\nThe window between \"range is determined\" and \"before strikes are chosen\" seems clear enough.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83797"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 11, 2017, 7:56\u202FAM",
+      "Body": "My take on the additions of Preparation and End of Round to the rules summary and rule book.\n\nSee attachment for .rtf files.\n\nFile Attachment:  File Name:  combatoutline.rtf\nFile Size:63 KB\n\nFile Attachment:  File Name:  combatrulebook.rtf\nFile Size:91 KB\n\nQuestion:\n\nIn case something similar would enter the rules, would you rather have it displayed in cards as a keyword or as a part of sentence structure? The latter would probably suit VtES better.\n\n> Name: Trap\n> [Jyhad:C, VTES:C, Sabbat:C, SW:PB2, FN:PR, CE:PB/PTo/PTr3, Anarchs:PAG2, LoB:PO3, Third:C]\n> Cardtype: Combat\n> Preparation. Only usable on the first round of combat.\n> During the press step, if any Methuselah has played a card earlier in the current round or during the two previous rounds, the Trap automatically provides a press to continue (either combatant can press to end).\n> Artist: Peter Kim; Jeff Rebner\n>\n> Name: Trap\n> [Jyhad:C, VTES:C, Sabbat:C, SW:PB2, FN:PR, CE:PB/PTo/PTr3, Anarchs:PAG2, LoB:PO3, Third:C]\n> Cardtype: Combat\n> Play in Preparation of the first round of combat.\n> During the press step, if any Methuselah has played a card earlier in the current round or during the two previous rounds, the Trap automatically provides a press to continue (either combatant can press to end).\n> Artist: Peter Kim; Jeff Rebner\n>\nAlso, capital 'Preparation' or lower case 'preparation'? VtES treats terminology with lower case, like 'maneuver' and 'press'.\n\nKrausedit\\\\ If there's need for this and we'll find an agreement on the formatting, I can take on to myself to rephrase all pre-range cards. I'll need help with collating the full list though. Not anytime soon I know, but I'll just let it out here and now.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83820"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 11, 2017, 1:26\u202FPM",
+      "Body": "\"Only usable during the prep step of the first round of combat.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83826"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Oct 11, 2017, 2:48\u202FPM",
+      "Body": "I'm not huge on mass edits, but as a player base, we have to keep in mind retention while pushing for acquisition in growing our ranks.\n\nSo, adding in new words seems like a way to rub both groups the wrong way, since we will have different wordings on cards.\n\nNow, combat deserves a sequencing sub-section in my opinion.\nFor new players, if we were to invest in a \"starter kit\" I feel a playmat with distinction would help, as would a way to mark the starter set cards for which window they play in. A visualization with a multi-colored bar with letter labels. So blue at the far left with an A is the immidiately after blocking is becoming combat beyond pre-combat action modifiers. This would be acting minion with impulse plays pres, then other minion, etc. B for determining range in green. Yellow for after range, before strikes, orange for chose strikes, red for resolving, purple for press step, each with a letter and markings by phase.\n\nJust for starters of course, regular rules just need clarity in rule book.",
+      "Id": "83831"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 12, 2017, 8:29\u202FPM",
+      "Body": "> Ankha wrote:\n> \"Only usable during the prep step of the first round of combat.\"\n>\nAny input on the rtfs?\n\nAs for the wording issues, lock is doing the same already. This shouldn't be more of a hassle.\n\nOf course it's debatable when whatever is too much for a crowd to handle. And which crowd.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83841"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 13, 2017, 8:03\u202FAM",
+      "Body": "> Kraus wrote:\n>\n> > Ankha wrote:\n> > \"Only usable during the prep step of the first round of combat.\"\n> >\n> Any input on the rtfs?\n>\nI don't use the combat outline, so I won't comment it.\n\nThe work on the rulebook is a nice one. There will be a new rulebook anyway, so the combat section is likely to change anyway.\n\n> Kraus wrote:\n> As for the wording issues, lock is doing the same already. This shouldn't be more of a hassle.\n>\n> Of course it's debatable when whatever is too much for a crowd to handle. And which crowd.\n>\n\"Start of the round\" works fine too, it's one less special term (\"preparation/prep\") to learn.\n\n\"Only usable at the start of the first round of combat.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83845"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 14, 2017, 4:07\u202FAM",
+      "Body": "> Ankha wrote:\n> \"Only usable at the start of the first round of combat.\"\n>\n\"Only usable at the start of combat.\"",
+      "Id": "83853"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 14, 2017, 9:23\u202FAM",
+      "Body": "> Ankha wrote:\n> \"Only usable at the start of the first round of combat.\"\n>\nThat is for Trap.\n>\n> Non-existant user wrote:\n> \"Only usable at the start of combat.\"\n>\nThat is for Torn Signpost.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83857"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 14, 2017, 9:33\u202FAM",
+      "Body": "> Non-existant user wrote:\n> We must work under the assumption that new players will have easy access to new cards with a cleaned up wording, because otherwise it means that publishing VTES is not economically viable and the whole discussion is moot anyway.\n>\nEconomic viability isn't even remotely the point here.\n\nIf an old player turns up a tournament with a deck made of many, many old cards with completely different wording, new players have to learn both the old terminology and the new terminology. \"Preparation\" and \"Before range is determined\" do not bear any relation to each other. It's not like it's just a minor change of templating, where things have been shuffled around a bit but it's fairly clearly the same wording.\n\nV:TES has been heavily criticised for having an endless number of keywords and terminology that new players need to learn, so creating a \"preparation\" step is yet another keyword for the players to learn. Because this is not a tidy-up of some obscure wording on a handful of cards (e.g. the removal and rewording of Paralyze), new players will encounter a lot of cards saying \"Before range is determined\". Not all of those cards will be reprinted immediately, and new players will not have all of those cards. Trap and Carrion Crows get reprinted in an early set? Probably, so new players may have encountered the reprinted text. Are you going to queue up to reprint Abjure or Foresee right now? Pretty unlikely. Yet players may well still encounter the text (both turn up in tournament winning decks, checking SecretLibrary), so they have to know what it means. So it takes one of V:TES's weaknesses - lots and lots of keywords to remember - and it doesn't make things better.",
+      "Id": "83858"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 14, 2017, 11:45\u202FPM",
+      "Body": "@Ankha You misread: I didn't say start of round for trap, I said start of combat. Start of combat = start of the first round.",
+      "Id": "83862"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2017, 5:48\u202FPM",
+      "Body": "> Non-existant user wrote:\n> @Ankha You misread: I didn't say start of round for trap, I said start of combat. Start of combat = start of the first round.\n>\nIndeed, so it's maybe a misleading way of writing the thing\n\n\"on the first round of combat\" echoes with the already existing \"not usable on the first round of combat\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83865"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Oct 16, 2017, 8:27\u202FAM",
+      "Body": "> Non-existant user wrote:\n> Pre-range and end of round definitely need to be in the rulebook. Those are major phases where pretty much any combat deck is supposed to play something. The immortal grapple timing is also awkward, but it is pretty much the only card to play in that phase, so I am not sure whether it is worth adding it to the rulebook.\n>\nI also think that pre-range and end of round need to be added to the rulebook.\n\nI am not fond of the idea of renaming pre-range something else though. For one, 'preparation step' is a much longer word and more difficult to say, which means that people would likely start calling it something else in day-to-day play. Secondly renaming it doesn't seem to achieve anything in particular. In my opinion it should stay \"pre-range step\" to avoid confusion.\n\nWhat is important is that pre-range would defined as a step of its own (obviously needed) and that cards printed after the change would then adhere to the step structure rather than invent additional steps.\n\nEnd of round needs to be defined as a step as well, so that the timing of taste of vitae would be clearer to new players. Its such a common card.\n\nCase Immortal grapple\n\nI think the simplest solution would be to errata the card text of immortal grapple to say that its played at the end of maneuver step if the range is close (after both players have declined to play further maneuvers). If one card is the problem, rather change that card than the entire rules of the game. The actual function and timing of the card wouldn't change (at least its not my intention)\n\nOverall we should consider errata:eing cards that create timing problems to use wording \"at the beginning of\" or \"at the end of\" <step X>. My intention is to keep the functionality and timing in relation to other cards the same, but make the card adhere to the existing step structure. I have cards like Obedience and mental maze in mind, which are theoretically played before pre-range step even....\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "83875"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Oct 16, 2017, 8:30\u202FAM",
+      "Body": "Uhm I accidentally clicked \"delete\" while editing my post here. I did not intend to either delete it or create duplicates, but now my post isn't visible... I have no idea what actually happened.\n\nI think there should be a \"are you sure? yes/no\" prompt when deleting posts so you can't accidentally click one button and delete the post you may have spent a long time writing just like that..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "83876"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 16, 2017, 1:05\u202FPM",
+      "Body": "> Bloodartist wrote:\n> Uhm I accidentally clicked \"delete\" while editing my post here. I did not intend to either delete it or create duplicates, but now my post isn't visible... I have no idea what actually happened.\n>\n> I think there should be a \"are you sure? yes/no\" prompt when deleting posts so you can't accidentally click one button and delete the post you may have spent a long time writing just like that..\n>\nI restored your message.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "83882"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Oct 17, 2017, 3:26\u202FAM",
+      "Body": "When i first started playing (and i learned the game without being taught by an existing player) i thought 'before range is determined was DURING the maneuver steps.\n\nMuch like other reactions / modifiers that arent stealth or intercept can be played before a block is determined successful - i thought those 'pre range' cards that say 'before range is determined' had a chance to be played while going long /close again.\n\nObviously i was wrong when i started getting more into the game, but this conversation reminded me of it.\n\nWhy, in the scenario of 2 vamps chasing each-other down/moving away to long range, there inst an opportunity to pull a singpost out of the ground or summon some crows, im not sure =p\n\n2c. not really helpfull i know",
+      "Id": "83895"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Oct 17, 2017, 4:26\u202FAM",
+      "Body": "> narpassword wrote:\n> not really helpfull i know\n>\nVery helpful, actually. If the new player experience is pre-range, and then some older cards refer to before range is determined, that is not only easier to remember (pre-range, it's snappy) its shorter, makes card text simpler, and is not confusing. This is an eminently sensible suggestion.",
+      "Id": "83896"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 17, 2017, 10:30\u202FAM",
+      "Body": "> narpassword wrote:\n> 2c. not really helpfull i know\n>\nInsanely helpful actually.\n\nThe initial feel, clarity and intuitivity of the rules is what matters. Or, should matter. Older players are a thing, sure, but they'll be playing the game anyways.\n\nBe it anything (preparation, pre-range, start of round (I'd prefer beginning actually)), it would be better than 'before range is determined'. It's wordy, not intuitive at all, clunky and... just no. EVEN if it would be written into the rulebook.\n\nI'd argue most people will not learn the game by the book, and there clarity in card texts without having to ask for help in sequencing is one of the most important things.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83902"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Oct 17, 2017, 12:00\u202FPM",
+      "Body": "> Kraus wrote:\n>\n> > narpassword wrote:\n> > 2c. not really helpfull i know\n> >\n> Insanely helpful actually.\n>\n> The initial feel, clarity and intuitivity of the rules is what matters. Or, should matter. Older players are a thing, sure, but they'll be playing the game anyways.\n>\n> Be it anything (preparation, pre-range, start of round (I'd prefer beginning actually)), it would be better than 'before range is determined'. It's wordy, not intuitive at all, clunky and... just no. EVEN if it would be written into the rulebook.\n>\n> I'd argue most people will not learn the game by the book, and there clarity in card texts without having to ask for help in sequencing is one of the most important things.\n>\nSo, from strictly a copyeditor's perspective, and not a game designer's perspective (I'm not a game designer), I don't think any of the suggestions above are better than \"before range is determined.\" I get that it's wordy and might benefit from a slight wordsmithing, but it's written that way because the words in that step (\"before range is determined)\" is consistent with the wording in the \"determine range\" step outlined in the rulebook. To change the wording to something like, for example, \"pre-range\" is introducing inconsistency in wording, which may cause confusion. Consider that there is such a thing as a ranged strike in this game totally unrelated to determining range. \"Pre-range\" may confuse new players by having them make the incorrect connection that the \"pre-range\" step happens before ranged strikes are chosen. Because the word \"determine\" is not in there, there's nothing connecting it to the \"determine range\" step. I think any \"pre-range\" rewording needs to match the wording used in the \"determine range\" step. Hence \"Play before range is determined\" or \"Play before determining range.\"\n\nI'll probably get a response saying that if people are that dumb, they shouldn't play this game, and that I'm making a specious argument. Fair enough. But the more we think about minor points of confusion brought about by unclear rewriting, the more favors we will be doing ourselves. It's always best to be way too clear than not clear enough.",
+      "Id": "83903"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 17, 2017, 1:07\u202FPM",
+      "Body": "For once I agree with @TwoRazorReign. Not to the point, but in general.\n\nThat is basically the reason why I suggested rewording that part of the game, and suggested Preparation instead of something 'commonly agreed upon' pre-range. I'm more of an editor than game designer as well, and do keep the reader in mind more often than not. Of course we should be consistent with the rulebook as well, but if a reader can figure out what's going on within a piece of text with as little cross referencing as possible, then we're doing something right.\n\nHow to accomplish this is of course of the issue here. It will divide people into camps, for sure, which is only natural, and neither option (retain original, or deviate) is 'worse' per se.\n\nUltimately it's the rules team's decision.\n\nMy argument here is that just defining stuff in the rule book is not sufficient, but changes have to made to the card templating as well for better accessibility. People will rarely cross reference with the rule book anyways when starting, nor should they.\n\nIt's a minor tweak that might have major impact.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83905"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Oct 17, 2017, 8:11\u202FPM",
+      "Body": "My group also had a long discussion about how setting range (eg selective silence) affects 'before range is determined' cards.\n\n(if the range has been 'set' to close, ie determined, sure, you cant maneuver, but, why can you play 'before range is determined' cards when the range has been set?)\n\nGood times. Much confusion.",
+      "Id": "83912"
+    }
+  ]
+}

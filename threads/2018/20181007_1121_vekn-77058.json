@@ -1,0 +1,152 @@
+{
+  "ThreadId": "vekn-77058",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77058-progeny-sect-change",
+  "Title": "Progeny sect change",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Oct 7, 2018, 11:21\u202FAM",
+      "Body": "Greets!\n\nI don't know if I recall correctly, but Gangrel's default sect is independent. So if a camarilla gangrel creates new vampires, via Third Tradition or Embrace, the newly created vampires don't get to be camarilla, right? :/\n\nFollowing on this thread, if I change clan via Clan Impersonation, does the sect follow? For example, a camarilla Ventrue becomes Lasrombra. Does he automacally change sect to sabbat too?\n\nHow about the other way around? If only the sect changes, will the vampire become of a different clan? For example, Fall of the Sabbat is in play, do Gangrel antitribu become Gangrel?\n\n> Name: Third Tradition: Progeny\n> AKA: The Third Tradition: Progeny\n> [Jyhad:U, VTES:U, CE:U, KoT:U]\n> Cardtype: Action\n> Cost: 1 blood\n> +1 stealth action. Requires a ready non-Sterile prince or justicar.\n> Put this card in play; it becomes a non-unique 1-capacity vampire of the same clan as the acting vampire. You may go through your library (shuffle afterward), ash heap or hand to find a Discipline card for this vampire. Move up to 2 blood from the acting vampire to this vampire. This vampire cannot take any actions this turn.\n> Artist: L. A. Williams; Julie Collins\n>\n> Name: The Embrace\n> [Jyhad:R2, VTES:R, CE:R2, KoT:R]\n> Cardtype: Action\n> Cost: 2 blood\n> +1 stealth action. Requires a ready non-Sterile vampire.\n> Put this card in play; it becomes a non-unique vampire with 1 capacity of the same clan as the acting vampire. This vampire must hunt this turn.\n> Artist: Pete Venters; Mark Nelson\n>\n> Name: Clan Impersonation\n> [AH:C2, CE:C]\n> Cardtype: Action\n> Cost: 2 blood\n> +1 stealth action.\n> Choose a clan and put this card on the acting vampire. This vampire is considered to be of the chosen clan instead of his or her original clan (if any). This vampire can burn this card as an action.\n> Artist: Max Shade Fellwalker\n>\nNC of Hungary\n\n///",
+      "Id": "91019"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 7, 2018, 1:19\u202FPM",
+      "Body": "> Malachy wrote:\n> I don't know if I recall correctly, but Gangrel's default sect is independent. So if a camarilla gangrel creates new vampires, via Third Tradition or Embrace, the newly created vampires don't get to be camarilla, right? :/\n>\nUnless a breed card specifies otherwise (as it does with, say, Tumnimos) the newly created vampire takes the default sect for that clan. Which for Gangrel is Independent.\n\n> Malachy wrote:\n> Following on this thread, if I change clan via Clan Impersonation, does the sect follow? For example, a camarilla Ventrue becomes Lasrombra. Does he automacally change sect to sabbat too?\n>\nYes. From the rulebook, 10: \"If a vampire changes clans (by means of a Clan Impersonation card, for example) to a clan that belongs to a different sect, he changes sects as well.\"\n\nNote that the clan must change for that to happen. For example, if Lucita (Lasombra, Independent) plays Clan Impersonation to Lasombra, her clan doesn't change, so she stays independent.\n\n> Malachy wrote:\n> How about the other way around? If only the sect changes, will the vampire become of a different clan? For example, Fall of the Sabbat is in play, do Gangrel antitribu become Gangrel?\n>\nNo. Changing your sect has no effect on your clan. You're still whatever your clan was, but with a different sect. A Camarilla Lasombra is still a Lasombra for the purpose of clan cards etc. A Sabbat Toreador is not a Toreador antitribu.",
+      "Id": "91022"
+    },
+    {
+      "Author": "ulph",
+      "Date": "Nov 9, 2018, 9:57\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Malachy wrote:\n> > I don't know if I recall correctly, but Gangrel's default sect is independent. So if a camarilla gangrel creates new vampires, via Third Tradition or Embrace, the newly created vampires don't get to be camarilla, right? :/\n> >\n> Unless a breed card specifies otherwise (as it does with, say, Tumnimos) the newly created vampire takes the default sect for that clan. Which for Gangrel is Independent.\n>\nIs this referenced somewhere?",
+      "Id": "91760"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 9, 2018, 10:47\u202FPM",
+      "Body": "> ulph wrote:\n> Is this referenced somewhere?\n>\nIt's somewhat inherent in the concept of \"default sect\", specified in section 10 of the rulebook - a vampire created by The Embrace, Third Tradition etc. doesn't say what sect it is, therefore it is the default sect. Similarly, it doesn't specify what its strength is, so it has the default strength (see 6.4.5 of the rulebook).\n\nHowever, rulings have been given on the matter, such as:\n[LSJ 20020326]\n\n> LSJ wrote:\n> > > > If a member of a normally independent Clan/Bloodline becomes a member\n> > > > of the Camarilla through writ of acceptance, or is already Camarilla,\n> > > > then becomes a Prince and creates a Vampire through \"the third\n> > > > tradition, Progeny\" or \"the embrace\", what sect is the new Vampire.\n> > > > Does it follow the normal sect allegiance of the Clan/Bloodline, or is\n> > > > it Camarilla loyal?\n> [...]\n> > The new vampire is the same CLAN as the acting vampire, and belongs\n> > to the default sect of that clan.\n>\n> Thanks for the catch.\n>",
+      "Id": "91761"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Nov 9, 2018, 11:13\u202FPM",
+      "Body": "Something we've (*) considered over the past few years is eliminating default sect. It would require updates to some cards (such as Third Trad) to specify that sect is inherited. There's also the potential for The Eldest Are Kholo to become overpowered.\n\nThe benefits include simplicity (another paragraph from the rulebook removed) as well as making it cleaner to handle changes in the WoD storyline.\n\nOpen question for you all: what potential issues do you see with eliminating default sect?\n\n(*) By \"we've\", I mean the VEKN Design Team and Rules Team as well as Black Chantry Productions.",
+      "Id": "91762"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Nov 10, 2018, 12:08\u202FAM",
+      "Body": "> BenPeal wrote:\n> Open question for you all: what potential issues do you see with eliminating default sect?\n>\nNothing comes to mind, but then again, I don't have an encyclopedic knowledge of rulings and errata.\n\nEliminating the default sect rule does make fact that antitribu clans exist a little more awkward, but if y'all are issuing sweeping changes... *whistles innocently* we could probably just fold them into their non-antitribu counterparts. The concept of SPOOKY OPPOSITE WORLD CLANS was lame when it was introduced.",
+      "Id": "91764"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Nov 10, 2018, 2:03\u202FAM",
+      "Body": "> self wrote:\n>\n> Eliminating the default sect rule does make fact that antitribu clans exist a little more awkward, but if y'all are issuing sweeping changes... *whistles innocently* we could probably just fold them into their non-antitribu counterparts. The concept of SPOOKY OPPOSITE WORLD CLANS was lame when it was introduced.\n>\nI'd prefer to keep this conversation on-topic and only about the rules question asked in the original post and about the ramifications of eliminating the default sect rule.\n\nIf you'd like to talk about merging the Sabbat clans in with their Camarilla counterparts, which is a good conversation to have, please start a new topic.",
+      "Id": "91767"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Nov 10, 2018, 3:42\u202FAM",
+      "Body": "> BenPeal wrote:\n> Open question for you all: what potential issues do you see with eliminating default sect?\n>\nNone that should concern us. Whatever swarm you can think about, the  already pretty much do it and pack bounce on top of it.",
+      "Id": "91768"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 10, 2018, 7:55\u202FAM",
+      "Body": "> BenPeal wrote:\n> Open question for you all: what potential issues do you see with eliminating default sect?\n>\nThe most obvious is it breaks what - I would think - is most people's intuitive understanding of Clan Impersonation. I've just gone to all the trouble of convincing everyone I'm a Lasombra, but I'm still Camarilla? Oops. I guess similar applies technically to Qadir ul-Ghani.\n\nNeither are game-breaking(*) but whereas you can fix Third Tradition with a few words like \"the same sect as the acting vampire\" or whatever, you can't re-implement the current behaviour on Clan Impersonation with a short change. You might get there by rewording it to something like:\nChoose a clan and sect, and put this card on the acting vampire. This vampire is considered to be of the chosen clan and sect instead of his or her original clan and sect (if any). This vampire can burn this card as an action.\nWhich would be a small upgrade on current text. You could become a Laibon Toreador if you wanted to, or a titled vampire could become Anarch without changing clan (by picking their current clan).\n\n(*) I'm pretty much of the view that almost any deck that starts \"First I play Clan Impersonation...\" as a key plank in its strategy is onto a loser. But some people like doing it for fun.",
+      "Id": "91772"
+    },
+    {
+      "Author": "ulph",
+      "Date": "Nov 10, 2018, 8:05\u202FAM",
+      "Body": "The Embrace, Raw Recruit and The Becomming does not mention sect either.\n\nBamba and Third Traditon: Progeny are implicit due to their requirements, but clarity doesnt hurt.\n\nCards that allrady mentions sect are Waters of Duat, Create Gargoyle, Thin Blooded Seer and Tumnimos.\n\nI probably have missed some.",
+      "Id": "91773"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 10, 2018, 3:05\u202FPM",
+      "Body": "> BenPeal wrote:\n> Open question for you all: what potential issues do you see with eliminating default sect?\n>\nMinor errata required to the four Indie sect changing cards, which all currently say \"The [clan] is a Camarilla clan\", which makes no sense in a world where clans don't have sects.",
+      "Id": "91780"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 10, 2018, 4:38\u202FPM",
+      "Body": "You don't necessarily need to eliminate default sect to fix the various baby-makers that lack a sect designation, but it seems like a good idea to make both moves at once. Mostly, let's simplify an already overly complex game.\n\nRemove X is a Camarilla clan from the Cam inclusion votes. The rest of the text is fine.\nRemove Camarilla from Al-Ashrad's special. He still won't be overpowered.\nGive sect of parent to all baby makers that are missing it.\nSet Web of Knives Recruit to use Independent or when it enters play \"choose a sect of an Assamite that you control, this vampire has the same sect\".\nAllow Clan Impersonation to also alter sect, per jamesatzephyr above. (To be honest, the game makes changing sects too hard already.)\n\n> BenPeal wrote:\n> There's also the potential for The Eldest Are Kholo to become overpowered.\n>\nRavnos, Setite, and Gargoyle (all clans with baby-makers that inherit sect) Revolutionary Council decks haven't really torn up the tournament scene since Anarch was made a sect and two of those three have vote push in-clan. Tumnimos and Bamba already make Laibon vampires, so the addition of more Laibon via The Embrace probably isn't going to imbalance anything either, and if it does, errata for The Eldest are Kholo can be accomplished in many different ways.\n\nWe should strive to make the barrier to entry to VtES lower. Adding clarity to the baby-makers and removing default sect will do just that. We need it to be easier to get new players to play.",
+      "Id": "91785"
+    },
+    {
+      "Author": "1uck",
+      "Date": "Nov 12, 2018, 5:14\u202FPM",
+      "Body": "This seems like it would be a strict improvement for anarchs; bestowing sect automatically instead of having to take an action or using another card to change to anarch after the fact.",
+      "Id": "91811"
+    },
+    {
+      "Author": "ulph",
+      "Date": "Nov 12, 2018, 10:10\u202FPM",
+      "Body": "> 1uck wrote:\n> This seems like it would be a strict improvement for anarchs; bestowing sect automatically instead of having to take an action or using another card to change to anarch after the fact.\n>\nThis is the reason I got into researching this actually!\n\nAisha az-Zahra: \"Independent anarch: During a referendum, Aisha can burn 1 blood to get +1 vote for each ready anarch you control. +1 bleed.\"\n\nSalvador Garcia: \"Independent anarch: While Salvador is ready, cards requiring an anarch cost you and anarchs you control 1 less blood or pool.\"\n\nToby: \"Camarilla: Once each action, Toby can burn a blood to give an acting anarch +1 bleed.\" (needs support though, since he is Camarilla)\n\nInheriting sect in The Embrace or The Becoming would open more options for deck building.",
+      "Id": "91820"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Nov 13, 2018, 3:35\u202FAM",
+      "Body": "Many thanks for the feedback and input, everyone!",
+      "Id": "91822"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 3, 2019, 2:43\u202FAM",
+      "Body": "> BenPeal wrote:\n> Open question for you all: what potential issues do you see with eliminating default sect?\n>\nA discussion elsewhere reminded that Derange could also be hit by the change, similar to Clan Impersonation.\n\nThis may or may not be considered a problem overall, but it does change things. For example a !Malk deck can use Derange to destabilize a Parity Shift deck because - under the current rules - becoming !Malk makes you Sabbat, and therefore makes the title inert until you resume being Camarilla. In a world where you could Derange Queen Anne, she becomes !Malk, but stays Camarilla, that can't happen.\n\nThe same is true of !Malks affecting any non-Sabbat title, and Malks affecting any non-Camarilla title. Justicar titles, being clan based as well as sect based, are still inert while you're the wrong clan, though.",
+      "Id": "93813"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 13, 2019, 8:01\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > BenPeal wrote:\n> > Open question for you all: what potential issues do you see with eliminating default sect?\n> >\n> A discussion elsewhere reminded that Derange could also be hit by the change, similar to Clan Impersonation.\n>\n> This may or may not be considered a problem overall, but it does change things. For example a !Malk deck can use Derange to destabilize a Parity Shift deck because - under the current rules - becoming !Malk makes you Sabbat, and therefore makes the title inert until you resume being Camarilla. In a world where you could Derange Queen Anne, she becomes !Malk, but stays Camarilla, that can't happen.\n>\n> The same is true of !Malks affecting any non-Sabbat title, and Malks affecting any non-Camarilla title. Justicar titles, being clan based as well as sect based, are still inert while you're the wrong clan, though.\n>\nSo if you change clan example Ventrue with Derange to !Malk, Ventru titles dont work because him become sabbat,But what if you example change Ventrue clan with derange with title Ventru Justicar or Inner Circle,does these titles work as Malk titles and can contest titles with Malk,example if Lutz play Derange on Arika,does they contest titles,same for Justicar?\nIf they contest titles,and Arika yield,if she move Derange on someone,does she get back his title?\nIf Assamite have contract in play,and him become Malk with Derange,contract probably dont work until him become Assamite again,right?",
+      "Id": "96974"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 13, 2019, 11:40\u202FPM",
+      "Body": "> beslin wrote:\n> So if you change clan example Ventrue with Derange to !Malk, Ventru titles dont work because him become sabbat,\n>\nYes, but also because you're not Ventrue. Having a \"live\" (not inert) Ventrue Justicar title requires you to be Camarilla and Ventrue.\n\n> beslin wrote:\n> But what if you example change Ventrue clan with derange with title Ventru Justicar or Inner Circle,does these titles work as Malk titles and can contest titles with Malk,example if Lutz play Derange on Arika,does they contest titles,same for Justicar?\n>\nWhen you're Ventrue Justicar, you're Ventrue-Justicar-that's-the-title, not merely a Justicar who is Ventrue. Same for Inner Circle. If you change Democritus from being Camarilla and Ventrue, with his Ventrue-Justicar title, to being Camarilla and Malkavian, his Justicar title goes inert for as long as he's Malkavian. Similarly, Arika's IC title goes inert while she's Camarilla and Malkavian.\n\nFrom 10.1 of the Rulebook:\nAdditionally, each clan's justicar and Inner Circle titles are unique (see Contested Titles, sec. 4.2) and can only be held by vampires of that clan.\n\nIf you look at the official card text of, say, Arika at www.vekn.net/images/stories/downloads/cardlist.txt , she says:\nCamarilla Ventrue Inner Circle: If Arika is ready...\n\nThe \"Ventrue\" is there because she's the Ventrue-Inner-Circle. Vampires don't normally have their clan in their card text, just their sect.\n\n> beslin wrote:\n> If they contest titles,and Arika yield,if she move Derange on someone,does she get back his title?\n>\nThey don't contest titles in the situation you describe. But if a vampire ever does yield a title, it's gone forever. It doesn't ever just pop back into existence if it's been yielded.\n\nConsider the situation where Arika is Camarilla and Malkavian, with an inert Ventrue-IC title. Another Methuselah flips out Hardestadt (Ventrue IC). This would contest Arika's title, but because her title is inert, she yields it immediately. (The last sentence of section 10 of the rulebook, just before 10.1, is about a vampire with the wrong clan/sect: \"If he receives a new title, or if his title is contested (see Contested Titles, sec. 4.2), he immediately yields the old title.\") When Arika becomes Ventrue again, she does not regain her title and start contesting it. It's gone.\n\n> beslin wrote:\n> If Assamite have contract in play,and him become Malk with Derange,contract probably dont work until him become Assamite again,right?\n>\nAll the ones I've just looked at that are relevant say things like \"This Assamite may...\" or \"That Assamite may...\", which would mean the action couldn't be taken by a non-Assamite, right.",
+      "Id": "96976"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Sep 16, 2019, 8:34\u202FAM",
+      "Body": "I was recently watching a youtuber review of VTES. He overall loved the game but his major issue was a rulebook. He said there is no clear basic information for player that are not familiar with V:M. There is no icon description of discipline and clans and there is a lot of text without visual presentation. it was hard to read for him.\n\nI think cards that creates vamps should automatically receive the sect from the vampire who created them. IIt will eliminate another \"have to know\" thing in the game.",
+      "Id": "97002"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 16, 2019, 10:18\u202FPM",
+      "Body": "> Tadori wrote:\n> I think cards that creates vamps should automatically receive the sect from the vampire who created them. IIt will eliminate another \"have to know\" thing in the game.\n>\nWhile I agree with you, the default sect stuff is in the rulebook.",
+      "Id": "97016"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 16, 2020, 3:42\u202FPM",
+      "Body": "> kschaefer wrote:\n> Set Web of Knives Recruit to use Independent or when it enters play \"choose a sect of an Assamite that you control, this vampire has the same sect\".\n>\nBased on the preview on Drivethrucards, the reprint of WoKN appears to remain silent on the topic of sect, which seems like a missed opportunity.",
+      "Id": "98617"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 17, 2020, 9:45\u202FAM",
+      "Body": "The default sect rule will change with the V5 release. I had been in the pipes for a long time. Until then, the current rule stands: the WoKR is Independent.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98629"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Dec 11, 2020, 10:34\u202FPM",
+      "Body": "Now that the change of the default sect rule has arrived, what's happening here? What Sect does a Web of Knives Recruit have, and does a Third Tradition or Creation Rites vampire inherit its sires sect?\n\nPrince of Bonn, Germany",
+      "Id": "101248"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 12, 2020, 3:17\u202FPM",
+      "Body": "> Yomyael wrote:\n> Now that the change of the default sect rule has arrived, what's happening here? What Sect does a Web of Knives Recruit have, and does a Third Tradition or Creation Rites vampire inherit its sires sect?\n>\nThe Web of Knives Recruits are being reprinted on POD (there is a small delay), but the updated cardtext will be:\n\n+1 stealth action.\nPut this card in play in your uncontrolled region with 3 training counters. During your unlock phase, burn 1 training counter from this card. You can burn training counters from no more than two Web of Knives Recruit cards each unlock phase. After the last training counter is burned, move this card to your ready region; it becomes a 3-capacity (non-unique) Independent Assamite with Celerity [cel], Obfuscate [obf], Potence [pot], Quietus [qui] and 3 blood who is Blood cursed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101253"
+    }
+  ]
+}

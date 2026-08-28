@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-80239",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80239-move-cards-to-ash-heap-timing",
+  "Title": "Move cards to ash heap timing",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Jan 4, 2023, 10:53\u202FPM",
+      "Body": "The general rule for when moving cards to the ash heap is clear.\n\n> Playing a Card\n>\n> A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap.\n>\nAnd so is the case for action cards when the action is blocked\n\n> 3. Resolve the Action\n>\n> [\u2026]\n>\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat).\n>\nBut when does the action card of a successful action (unblocked) and strike cards (aka limbo cards) go to the ash heap?\nThe detailed play summary (II.D) states that it is at resolution\u2026.which isn\u2019t clear if that means when reaching the resolve step or after the action/combat has ended/concluded.",
+      "Id": "107125"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 5, 2023, 2:36\u202FPM",
+      "Body": "Related question / relevant scenario",
+      "Id": "107135"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2023, 6:14\u202FPM",
+      "Body": "> inm8 wrote:\n> The general rule for when moving cards to the ash heap is clear.\n>\n> > Playing a Card\n> >\n> > A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap.\n> >\n> And so is the case for action cards when the action is blocked\n>\n> > 3. Resolve the Action\n> >\n> > [\u2026]\n> >\n> > If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat).\n> >\n> But when does the action card of a successful action (unblocked) and strike cards (aka limbo cards) go to the ash heap?\n>\nIf the action is successful, the action card is either being put in play or going to ash heap during the resolution. It's effectively in play or in the ash heap once the resolution is over.\n\nSame thing for the strike card: a Serpent's Numbing Kiss at superior would be effectively on the opposing minion once the resolution is over (or in the ash heap at inferior).\n\nAction and strike cards are in limbo between the moment they are played and the moment they resolve.\n\nIf the action is blocked, it is put in the ash heap before the block resolution. You could for instance play a Summon Spirit Beast at [spi] on a blocked Raven Spy.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107144"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 5, 2023, 9:09\u202FPM",
+      "Body": "Apologize but it still not clear to me when exactly the cards are moved to the ash heap, so here goes some follow-on questions\n\n> Ankha wrote:\n> If the action is successful, the action card is either being put in play or going to ash heap during the resolution.\n>\n1) \"during the resolution.\" when exactly is this?\n\n> Ankha wrote:\n> The Sudario Refraction you play cannot be chosen for its own effect, because it doesn't go to the ash heap until the resolution is over.\n>\n2) In another thread you say that the action card \"doesn't go to the ash heap until the resolution is over\", when is it...during or after the resolution?\n\n> Ankha wrote:\n> It's effectively in play or in the ash heap once the resolution is over.\n>\n> Same thing for the strike card: a Serpent's Numbing Kiss at superior would be effectively on the opposing minion once the resolution is over (or in the ash heap at inferior).\n>\n3) When referring to \"the resolution\" in all the 3 quotes above are we talking about the card's effect or the action as a whole? or are they one and the same thing?",
+      "Id": "107147"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2023, 10:12\u202FAM",
+      "Body": "> inm8 wrote:\n> Apologize but it still not clear to me when exactly the cards are moved to the ash heap, so here goes some follow-on questions\n>\n> > Ankha wrote:\n> > If the action is successful, the action card is either being put in play or going to ash heap during the resolution.\n> >\n> 1) \"during the resolution.\" when exactly is this?\n>\nNotice the use of the present continuous, just like \"a vampire go*ing* to torpor\" is not in torpor until the end of combat.\nSo while the effect is *being* resolved, the card is *being* put in play or in the ash heap.\n\nBut what you really want to know is in the part you didn't quote: \"It *is* effectively in play or in the ash heap once the resolution is over.\"\n\n> inm8 wrote:\n>\n> > Ankha wrote:\n> > The Sudario Refraction you play cannot be chosen for its own effect, because it doesn't go to the ash heap until the resolution is over.\n> >\n> 2) In another thread you say that the action card \"doesn't go to the ash heap until the resolution is over\", when is it...during or after the resolution?\n>\n\"Until the resolution is over\" excludes \"during resolution\" by definition. So it's right after.\n\n> inm8 wrote:\n>\n> > Ankha wrote:\n> > It's effectively in play or in the ash heap once the resolution is over.\n> >\n> > Same thing for the strike card: a Serpent's Numbing Kiss at superior would be effectively on the opposing minion once the resolution is over (or in the ash heap at inferior).\n> >\n> 3) When referring to \"the resolution\" in all the 3 quotes above are we talking about the card's effect or the action as a whole? or are they one and the same thing?\n>\nThey are the same thing.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107150"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 6, 2023, 12:21\u202FPM",
+      "Body": "Final question.\n\nWhere is the action card (still in limbo or in the ash heap) when one plays cards like Freak Drive, Spying Mission (both from hand and in play) and Dis Pater?",
+      "Id": "107152"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2023, 2:29\u202FPM",
+      "Body": "> inm8 wrote:\n> Final question.\n>\n> Where is the action card (still in limbo or in the ash heap) when one plays cards like Freak Drive,\n>\nAsh heap, since FD is played after resolution.\n\n> inm8 wrote:\n> Spying Mission (both from hand and in play) and Dis Pater?\n>\nLimbo (before resolution).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107153"
+    }
+  ]
+}

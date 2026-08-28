@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-66579",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/66579-basic-question",
+  "Title": "Basic Question",
+  "Messages": [
+    {
+      "Author": "Eadan",
+      "Date": "Oct 14, 2014, 4:11\u202FPM",
+      "Body": "I started playing VTES when it was released as Jihad. I lost touch with the game in 1998 and only recently started playing again, with the 1995 card set. Most of the game has come back to me, but I have an odd question:\n\nIf I tap to bleed, am I allowed to stack an Action Card on top of that bleed or, is the playing of an Action card its own separate discrete action in the same way that tapping to bleed (as an action) is its own action?\n\nFor example, are we allowed to tap, declare a bleed, and then add Computer Hacking to the bleed action?\n\nThanks in advance for your replies.\n\nEadan",
+      "Id": "66579"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 14, 2014, 4:50\u202FPM",
+      "Body": "Short answer: \"No\".\n\nLonger answer:\nComputer Hacking is an Action Card.\n\nWhen you want to take an action, you can either choose to take a cardless action (such as the default cardless bleed) *or* you can take an action with a card (such as Computer Hacking, Govern the Unaligned, or recruiting Ossian).\n\nAfter you declare a bleed of *any* kind, whether it's cardless or carded, then you can add an *action modifier* such as Conditioning to increase the bleed.",
+      "Id": "66580"
+    },
+    {
+      "Author": "hardyrange",
+      "Date": "Oct 14, 2014, 4:57\u202FPM",
+      "Body": "The (cardless) bleed action and bleed actions like Computer Hacking are two separate actions, and cannot be stacked. You need to declare either one or the other.\n\n\"It was a perfect plan - until it had contact with reality\"\n---\nHardy Range\nPlaygroup Tradition Compliance Manager",
+      "Id": "66582"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Oct 14, 2014, 5:01\u202FPM",
+      "Body": "Actions, like computer hacking, replace the default actions. Action Modifiers, like Conditioning modify the action.\n\nAn important note on action modifiers (and reactions): only one of each card may be played on a given action by a given minion. So you can't play multiple Lost in Crowds for stealth, or multiple Command the Beast for bleed, or multiple enhanced senses for intercept.",
+      "Id": "66583"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Oct 14, 2014, 5:12\u202FPM",
+      "Body": "> Eadan wrote:\n> For example, are we allowed to tap, declare a bleed, and then add Computer Hacking to the bleed action?\n>\nAfter declaring a bleed action (say, with Computer hacking you mentioned) you still can immediately play an action modifier further modifying the bleed (for example, Bonding, Threats of Conditioning).\n\nYou might want to do so if you are cycling your hand to get a stealth card, for example.\n\nFinnish  Politics!",
+      "Id": "66586"
+    },
+    {
+      "Author": "Eadan",
+      "Date": "Oct 14, 2014, 5:36\u202FPM",
+      "Body": "Perfect! This is what I needed to know. What helped was the distinction between a cardless action (bleed, hunt, etc.) and a card Action.\n\nMany thanks! I may have more questions down the road and hope the community won't be bothered by their rudimentary nature.",
+      "Id": "66588"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 14, 2014, 6:41\u202FPM",
+      "Body": "> Eadan wrote:\n> I may have more questions down the road and hope the community won't be bothered by their rudimentary nature.\n>\nBring beer and chocolate and everything will go just fine!",
+      "Id": "66591"
+    },
+    {
+      "Author": "Eadan",
+      "Date": "Oct 15, 2014, 6:54\u202FPM",
+      "Body": "Can action Modifiers be played on cardless actions?\n\nAm I correct: Action Modifiers are allowed only by the player taking the original action?\n\nI know these are basic questions for you guys, but the rules can be a bit vague at times. Any help you can offer would be appreciated.",
+      "Id": "66646"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 15, 2014, 7:01\u202FPM",
+      "Body": "> Eadan wrote:\n> Can action Modifiers be played on cardless actions?\n>\nYep.\n\n> Am I correct: Action Modifiers are allowed only by the player taking the original action?\n>\nCorrect. And usually only by the minion who is acting (except when card text says otherwise, like Cloak the Gathering).",
+      "Id": "66647"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 7:56\u202FPM",
+      "Body": "Here's a quick summary:\n\nAn untapped minion (= vampire or ally) can take an action by tapping and playing an action card, or by taking a default action listed in the rulebook (hunt, bleed, diablerie, etc.)\n\nDuring that action, the now acting minion can play action modifiers, for instance to increase the stealth of the action, or the bleed amount of the bleed action (you can't increase a bleed on a non-bleed action by the way, nor gain stealth if no additional stealth is needed).\n\nDuring that action, minions controlled by the other Methuselahs can play reaction card, typically gain intercept to attempt to block the acting minion (you can't gain intercept if no additional intercept is needed).\n\nAfter the action resolves (= either is blocked or is successful to make it short), another untapped minion you control can take the next action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66649"
+    }
+  ]
+}

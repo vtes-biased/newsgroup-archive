@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-78694",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78694-stealing-storage-annex",
+  "Title": "Stealing storage annex",
+  "Messages": [
+    {
+      "Author": "Bloodartist",
+      "Date": "Jun 25, 2020, 7:49\u202FAM",
+      "Body": "So recently I've started thinking about various 'location' type cards that might produce rules issues if they are stolen by a card like dominate kine. This is one of the most peculiar cases so far.\n\nAnother player has a storage annex and has put a card on it.\nIf I steal the storage annex with dominate kine, can I swap a card on my hand to the other players card and put their handcard into my hand? The rules technically say I could since storage annex works that way, this just seems way too outlandish to be real.\n\nName: Storage Annex\n[SW:C/PB, LoB:PG]\nCardtype: Master\nMaster: location.\nPut a card from your hand face down (out of play) on this card when you play it. You may look at the card at any time. During your master phase, you may exchange a card in your hand for the card on this Storage Annex.\n\nName: Dominate Kine\nAKA: Kine Dominance\n[Jyhad:R, VTES:R, CE:R/PV, Third:PTr, LotN:PG2, KoT:PV, FB:PV2]\nCardtype: Action\nCost: 2 blood\nDiscipline: Dominate\n[dom] +1 stealth action.  Bleed with +1 bleed.\n[DOM]  Steal a location controlled by another Methuselah.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "100172"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jun 25, 2020, 10:01\u202FAM",
+      "Body": "I do not see why not.\nThat is how SA works.\n\nOnly when you play/discard the other player's card it should go to the other player's discard pile as per golden rule of ownership (unless it needs to be burned).\n\nIt is not possible to have a Storage Annex without a card, BTW (hmmm, if the last card a player has in their hand is a Storage Annex I'm guessing that the play would be illegal as you have to put a card on it when you play it. Also, if you are out of cards, the cards on SA are out of your reach).\n\nOne of my favourite cards.\n\nFinnish  Politics!",
+      "Id": "100175"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Jun 25, 2020, 12:22\u202FPM",
+      "Body": "Would this be similar to playing Agaitas and triggering a \"shuffle your hand into your library effect\" while you have your preys cards \"as in your hand\".\n\nLackeyname: Kris",
+      "Id": "100176"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 25, 2020, 2:38\u202FPM",
+      "Body": "I'll put in on the review list, as there is a general ruling by LSJ that states that:\n\n\"the rule is that cards sent to hand (or ash heap or library) are sent to their\nowner's hand (or ash heap or library).\"\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/vhSqnoAt_Bs/j_X1E8cYWhwJ\n\nI couldn't find any ruling relative to a stolen Storage Annex, but I know stories about Storage Annexes + Malkavian Time Auction so I'll have to make some researches.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100178"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jun 25, 2020, 3:19\u202FPM",
+      "Body": "> Ankha wrote:\n> \"the rule is that cards sent to hand (or ash heap or library) are sent to their\n> owner's hand (or ash heap or library).\"\n>\nI think that's a great rule to stick with. It doesn't make sense to allow such interactions.\n\nMight I suggest that we simply avoid this problem with Storage Annex by adding a clause such as: If control of Storage Annex changes, burn any card(s) on it.",
+      "Id": "100180"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Jun 25, 2020, 3:31\u202FPM",
+      "Body": "I would think the earlier rulings are based on principle where players without sleeves should maintain ownership of their cards above various other gameplay mechanics and shenigans, or with sleeved the information problem. Consider what happens if Storage annex -> Dominate Kine -> Heart of Nich suffle to deck happens without sleeves without such ruling on return. If sleeves are used, ownership might be easy to maintain, but the information seen via different colored card sleeve travelling in the deck that should not exist? Does the meth need to unsleeve their library and the opponent's card to ensure there is no unfair advantage over other players as two players in the table know where exactly one specific card is on that library? How is ownership maintained if it's unsleeved game or ruled to unsleeve to maintain information secrecy? Is it fine to receive just similar card and what quality it should be? What if there's argument whether or not there was light played or heavy played Dreams of the Sphinx placed and shuffled away from SA? Who determines what was the original card per the ownership rules 1.3 that logically should supersede 1.4?\n\nImho the current ruling is much more logical when you consider the ownership.\nThe storage annex is stolen, with the card still face down on it. If the card is changed (via SA cardtext) the face down card returns to the owners hand (who is above their hand size and must discard) while the methuselah controlling SA now is suddenly 1 short of their hand size and draw's back up. Even with Heart or other similar abilities there is no danger of losing track of the card and it's ownership or granting unfair information that should not exist from the gamestate.\n\n> kschaefer wrote:\n> Might I suggest that we simply avoid this problem with Storage Annex by adding a clause such as: If control of Storage Annex changes, burn any card(s) on it.\n>\nThat slighly changes the mechanics as stealing the storage annex and never changing the card in it one can \"deny\" that card being returned to the owner. Even if it's burned cards like Ashur or similar graveyard digging tools ensure reach to it that would be prevented with the current iteration of the card. Whether or not that's massive change to the interaction or not I cannot say, but it changes how the card can be used in a game. I think we should stick to the original design as much as possible unless it is somehow harmful to the game. I do not think that is the case here.\n\nTrust in Jan Pieterzoon.",
+      "Id": "100181"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jun 25, 2020, 4:38\u202FPM",
+      "Body": "> Kilrauko wrote:\n> I think we should stick to the original design as much as possible unless it is somehow harmful to the game. I do not think that is the case here.\n>\nPutting non-owned cards into your hand is harmful to the game and game state.\n\nIf the concern is ash heap digging, removed from play is another option.",
+      "Id": "100182"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Jun 25, 2020, 5:14\u202FPM",
+      "Body": "> kschaefer wrote:\n> Putting non-owned cards into your hand is harmful to the game and game state.\n>\n> If the concern is ash heap digging, removed from play is another option.\n>\nYes, we are agreed that any possibility for players to mix card ownership is bad. I hopefully highlighted enough reasons with those questions to ensure there is no change that results in non-owned cards being placed to hand or library or asheap as it opens the doors to can of worms related to physical property ownership due to the physical form those stacks take. With \"placed on table\" the owner can follow their card in a fashion that is lost elsewhere. For example the earlier mentioned Agaitas seems dangerous with hand suffle mechanics, but only if the players do not follow Agaitas \"Put the card drawn face-up in front of you.\" portion and instead place it directly to their hand and then shuffle their hand to the deck. In a sense that action is similar to player taking cards from another player as the game ends and shuffling them to their deck. There's no game mechanic that enables it, only player error. That can never be designed out.\n\nThe removal instead of burn as a proposed fix has it's own caveats of changing how the card behaves. Removing from play on controller change prevents the previous controller (and the card that's placed in SA's owner) gaining access to it if the current SA controlled chooses to use the ability due to whatever reason. Or if the location is burned via some other effect. Currently the card in SA would return to the owner's hand and then they could choose to discard some other card instead to return back to their normal hand size. Timely return of a Wake, Delaying Tactics, Deflection or DI/Sudden etc. in preparation can change the VP situation drastically. Removal from game on control change removes possibility for such interaction and negotations related to it. In the same fashion as burn prevents reverse \"card in hostage\" situation.\n\nBut how many of such interactions actually happen and does it even matter if they do? I'm glad I'm not the one who has to draw the line between the easy to read and understand card text and whether or not some interaction is worth keeping in just because it existed before and might be epic in the future. I know I would argue even one case is enough, but at the same time that's my viewpoint talking and if the card is causing real trouble, perhaps those sacrifices in nuances need to be made.\n\nTrust in Jan Pieterzoon.",
+      "Id": "100183"
+    }
+  ]
+}

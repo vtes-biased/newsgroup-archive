@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-79016",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79016-multiple-clan-impersonation",
+  "Title": "Multiple Clan Impersonation",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Feb 1, 2021, 8:26\u202FPM",
+      "Body": "Scenario:\n\nA Gangrel vampire performs Clan Impersonation (CI) to become Harbinger of Skulls. In a later turn, the same vampire (who still possesses the first CI) performs another CI to become !Toreador.\n\nQuestion 1: Is the vampire now only !Toreador, or both !Toreador and Harbinger? (Note text that reads the new clan is instead of their \"original clan\" but not necessarily instead of their non-original clan.)\n\nQuestion 2: Just for clarity, is the stacking order of the CIs remembered as part of the game state? If the vamp is only considered to be the most recent clan they impersonated, will they become the next most recent clan upon removing the last CI?\n\nQuestion 3. Are the clans of the CIs remembered if the vampire is Banished and comes back out to the ready region, and if so, is the order of those CIs also preserved through such a Banishment cycle?\n\nThanks Much!\n-Killiam\n\nName: Clan Impersonation\n[AH:C2, CE:C]\nCardtype: Action\nCost: 2 blood\n+1 stealth action.\nChoose a clan and put this card on the acting vampire. This vampire is considered to be of the chosen clan instead of his or her original clan (if any). This vampire can burn this card as an action.\n\nName: Banishment\n[DS:U2, FN:PS, CE:PTo/PV, KMW:PAn2, LoB:PG, SP:PoS2, 25th:2]\nCardtype: Political Action\nChoose a ready younger vampire. Successful referendum means the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects); any cards and counters on the chosen vampire stay with them but are out of play as long as the chosen vampire remains uncontrolled.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "101537"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 1, 2021, 9:47\u202FPM",
+      "Body": "> Killiam wrote:\n> Scenario:\n>\n> A Gangrel vampire performs Clan Impersonation (CI) to become Harbinger of Skulls. In a later turn, the same vampire (who still possesses the first CI) performs another CI to become !Toreador.\n>\n> Question 1: Is the vampire now only !Toreador, or both !Toreador and Harbinger? (Note text that reads the new clan is instead of their \"original clan\" but not necessarily instead of their non-original clan.)\n>\n!Toreador, not both.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/7ce899ef663dc3db?hl=fr&lr=&ie=UTF-8&oe=UTF-8\n\n> Killiam wrote:\n> Question 2: Just for clarity, is the stacking order of the CIs remembered as part of the game state? If the vamp is only considered to be the most recent clan they impersonated, will they become the next most recent clan upon removing the last CI?\n>\nYes. Effects are ordered by reverse-chronological order (Most recent applies. [LSJ 28-MAR-2000])\n\n> Killiam wrote:\n> Question 3. Are the clans of the CIs remembered if the vampire is Banished and comes back out to the ready region, and if so, is the order of those CIs also preserved through such a Banishment cycle?\n>\nSure.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101538"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 1, 2021, 11:11\u202FPM",
+      "Body": "lip three to add to the rulings collection, if they are there already i couldn't find them.\n\nAdded the link below to the ruling of LSJ in regards of the ordering\n\n[LSJ 28-MAR-2000]",
+      "Id": "101539"
+    },
+    {
+      "Author": "lip",
+      "Date": "Feb 2, 2021, 8:29\u202FAM",
+      "Body": "Please submit rulings on the Codex website directly. But don't worry, I'm following the latest answers on the rulings section here and try to add them in a timely manner.",
+      "Id": "101541"
+    }
+  ]
+}

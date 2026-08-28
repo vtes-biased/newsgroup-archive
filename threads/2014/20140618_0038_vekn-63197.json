@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-63197",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/63197-hide-the-heart-timing-question",
+  "Title": "Hide the heart, timing question",
+  "Messages": [
+    {
+      "Author": "Jesper",
+      "Date": "Jun 18, 2014, 12:38\u202FAM",
+      "Body": "Vampire A with one blood bleeds with a govern bleed.\nNo one blocks, action is right now sucessfull\nVampire A pays the one blood, due to the action being succesfull\nThe impulse now goes around before damage are taken - this window need to be there to play e.g. Major Boon\nVampire B plays a Hide the heart in this window\nVampire A cannot pay, due to having already paid the one he have\n\nQuestion one, is there anything preventing this play?\n\nQuestion two, if not, what would then happen, is the action succesfull or not?\n\n/Jesper",
+      "Id": "63197"
+    },
+    {
+      "Author": "Ylly",
+      "Date": "Jun 18, 2014, 3:56\u202FAM",
+      "Body": "Inferior valeren says:\nThe action ends (unsuccessfully). The acting minion may burn 1 blood to cancel this card as it is played.\n\nThe vampire A in your example has no blood, cannot burn a blood to cancel Hide the Heart, so according to the card text, the action should be unsuccessful.\n\nIs that correct?",
+      "Id": "63202"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 18, 2014, 4:35\u202FAM",
+      "Body": "> Jesper wrote:\n> Vampire A with one blood bleeds with a govern bleed.\n> No one blocks, action is right now sucessfull\n> Vampire A pays the one blood, due to the action being succesfull\n> The impulse now goes around before damage are taken - this window need to be there to play e.g. Major Boon\n> Vampire B plays a Hide the heart in this window\n>\nIf the action is successful and has resolved (pay cost, apply effect), it's too late to make it fail.\n\nCorrect sequence is:\nA bleeds with Govern the Unaligned\nB declines to block.\nA declines to play modifiers.\nB plays Hide the Heart.\nA can pay 1 blood to cancel Hide the Heart\n- if he does and doesn't gain blood until the end of the action, the action fizzles\n- if he doesn't, action ends unsuccessfully per Hide the Heart's cardtext.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63205"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 18, 2014, 6:43\u202FAM",
+      "Body": "> Jesper wrote:\n> Question one, is there anything preventing this play?\n>\nYes, the rules.\n\n> Rulebook, wrote:\n> Action modifiers and reaction cards can be played at any time before resolution during an action (unless otherwise noted on card text), with the acting Methuselah getting the opportunity to play first.\n>\nIf the action is successful, you are no longer \"before resolution\".",
+      "Id": "63207"
+    }
+  ]
+}

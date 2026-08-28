@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-80197",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80197-clarification-on-using-orun-and-changing-sect",
+  "Title": "Clarification on using Orun and changing sect",
+  "Messages": [
+    {
+      "Author": "miketheknife",
+      "Date": "Dec 5, 2022, 3:01\u202FPM",
+      "Body": "My question is about using cards that require x orun to play and that do not explicitly require the vampire to be Laibon, like Exile or Brutal Influence.\nIt seems to me counterintuitive that a non-laibon could use these cards, but mechanically it seems that you could put any amount of oruns on your laibon, then making him/her change sect and still been able to play Exile or Brutal Influence.\n\nCheers everyone!\n\nName: Orun\n[LoB:C, EK:C\u00BD]\nCardtype: Master\nMaster: trifle.\nPut this card on a Laibon. For non-Orun cards played by Methuselahs other than this Laibon's controller, this Laibon is considered to have 2 additional capacity. A Laibon gets an additional vote for every three Orun he or she has. If this Laibon successfully bleeds for more than 2 or successfully performs a  action against a non-mortal minion, he or she burns one Orun. Burn this card if this Laibon has more Orun and Aye than his or her capacity.\n\nName: Brutal Influence\n[EK:C]\nCardtype: Action\nCost: 1 blood\nDiscipline: Potence\n[pot]  Bleed at +1 bleed. When the action is announced, this vampire may lock X Orun on him or her to get an additional +X bleed.\n[POT] +1 stealth action. Lock X Orun on this vampire to move X blood from the bank to a younger Laibon in your uncontrolled region.\n\nName: Exile\n[EK:C]\nCardtype: Action\nCost: 2 blood\nDiscipline: Presence\n+1 stealth action.\nLock an ally or younger vampire and unlock this acting vampire.\nLock X Orun on this vampire to send a vampire or imbued with capacity or cost 2X or less to his or her owner's uncontrolled region.",
+      "Id": "106924"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2022, 4:03\u202FPM",
+      "Body": "> miketheknife wrote:\n> My question is about using cards that require x orun to play and that do not explicitly require the vampire to be Laibon, like Exile or Brutal Influence.\n> It seems to me counterintuitive that a non-laibon could use these cards, but mechanically it seems that you could put any amount of oruns on your laibon, then making him/her change sect and still been able to play Exile or Brutal Influence.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106925"
+    },
+    {
+      "Author": "miketheknife",
+      "Date": "Dec 5, 2022, 4:37\u202FPM",
+      "Body": "Thx Ankha!\n\nFollow up question:\n\nSince orun grants 3 \"abilities\" to a Laibon (+2 cap for cards played by others meths, +1 vote for every 3 orun, burn 1 orun if bleed for 2 or more or D action against non-mortal minion), does the vampire loses these 3 \"abilities\"?.\n\nFor example: i influence out Arriette Sylla. Next turn, place 3 oruns on her, then Arriete goes anarch, untaps, then bleeds for 5 using brutal influence (locking the 3 oruns). Does she burns an orun if bleeds succesfuly?\n\nThx in advance",
+      "Id": "106926"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2022, 5:02\u202FPM",
+      "Body": "> miketheknife wrote:\n> Thx Ankha!\n>\n> Follow up question:\n>\n> Since orun grants 3 \"abilities\" to a Laibon (+2 cap for cards played by others meths, +1 vote for every 3 orun, burn 1 orun if bleed for 2 or more or D action against non-mortal minion), does the vampire loses these 3 \"abilities\"?.\n>\nAll these effects only work if the vampire is a Laibon:\n\nName: Orun\nCardtype: Master\nMaster: trifle.\nPut this card on a Laibon. For non-Orun cards played by Methuselahs other than this Laibon's controller, this Laibon is considered to have 2 additional capacity. A Laibon gets an additional vote for every three Orun he or she has. If this Laibon successfully bleeds for more than 2 or successfully performs a  action against a non-mortal minion, he or she burns one Orun. Burn this card if this Laibon has more Orun and Aye than his or her capacity.\n\n> miketheknife wrote:\n> For example: i influence out Arriette Sylla. Next turn, place 3 oruns on her, then Arriete goes anarch, untaps, then bleeds for 5 using brutal influence (locking the 3 oruns). Does she burns an orun if bleeds succesfuly?\n>\nNo.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106927"
+    },
+    {
+      "Author": "Poci",
+      "Date": "Dec 7, 2022, 10:16\u202FPM",
+      "Body": "Wait so this means that if I change sect on a with a laibon I basically 'freeze' the amount of Oruns on him permanently...? Sure, I lose the secondary benefits of Orun, but I don't lose them on bleeds and rushes.\n\nAlso, if that's the case, I can still use the both effects of brutal influence freely still after the sect change?",
+      "Id": "106951"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 8, 2022, 7:56\u202FAM",
+      "Body": "> Poci wrote:\n> Sure, I lose the secondary benefits of Orun, but I don't lose them on bleeds and rushes.\n>\n> Also, if that's the case, I can still use the both effects of brutal influence freely still after the sect change?\n>\nYes (cardtext).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106952"
+    }
+  ]
+}

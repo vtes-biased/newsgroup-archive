@@ -1,0 +1,146 @@
+{
+  "ThreadId": "vekn-76982",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76982-forcing-methuselah-to-play-cards-you-cannot-play",
+  "Title": "Forcing Methuselah to play cards you cannot play",
+  "Messages": [
+    {
+      "Author": "Khalid1988",
+      "Date": "Sep 5, 2018, 10:58\u202FPM",
+      "Body": "Is there any ruling on if a card is played, but actually couldn't have, then the Methuselah is forced to choose another target? I was unable to find a Rules Team Ruling or a rulebook entry providing a valid reason why the effect of the card would need to be changed if played wrong.\n\nExample case:\n\nIngrid Rossler plays a Parity Shift. Omaya tries to block and eventually plays an Eyes of Argus for +2 intercept on inferior. Another Methuselah notices after the card is played that Parity Shift is in fact an undirected action. Omaya tries to cancel the playing of card because playing it for intended effect wasn't allowed, but Ingrid Rossler says that the card should be played on superior as a wake on Devin Bisley instead.\n\nName: Devin Bisley\n[Sabbat:V, SW:U/PT]\nCardtype: Vampire\nClan: Tzimisce\nGroup: 2\nCapacity: 5\nDiscipline: vic ANI AUS\nSabbat.\nArtist: Karl Waller\n\nName: Ingrid Rossler\n[DS:V, Anarchs:PG]\nCardtype: Vampire\nClan: Gangrel\nGroup: 2\nCapacity: 9\nDiscipline: dom ANI FOR PRO\nCamarilla Prince of Geneva: If Ingrid is ready at the start of your influence phase, you get +2 transfers.\nArtist: Ron Spencer\n\nName: Omaya\n[SW:C]\nCardtype: Vampire\nClan: Gangrel antitribu\nGroup: 2\nCapacity: 7\nDiscipline: pro ANI AUS FOR\nSabbat: Omaya may prevent one damage each combat.\nArtist: Mike Danza\n\nName: Eyes of Argus\n[KoT:C/B2, HttB:PSal3, Anthology:4]\nCardtype: Reaction\nDiscipline: Auspex\n[aus] Only usable during a  action against you (or a card you control). +2 intercept.\n[AUS] Only usable by a locked vampire. This vampire wakes (they can play reaction cards and attempt to block even though locked until the current action is concluded).\nArtist: Heather Kreiter\n\nEdit: Current general rulings on Playing cards\n>\n> Playing Cards:\n>\n> If a card targets (chooses, selects, is played on, etc.) some target, then the card can only be played if an appropriate target is available. Examples: Strike: Steal/Destroy Equipment/Weapon cannot be used if the opposing minion doesn't have a suitable Equipment/Weapon to be destroyed/stolen. [RTR 19980928] [LSJ 20030408]\u00C2\u00C2 \"Stealing blood\" effects target a minion, not its blood (or life) counters.\n> You cannot play a card whose cost cannot be paid. If, between the time a action card is played (or an action is attempted) and the time the cost of the action is paid, you no longer can pay the cost, then you pay as much as you can and the card is burned without effect (or the action has no effect). [TOM 19960514] [RTR 20010710]\n> A card can be canceled \"as it is played\" (with Sudden Reversal, Direct Intervention, etc.) only as it is played. The only cards that can be played \"as\" another one is played are the ones the players have in their hands at the time. You cannot use the Barrens after a master card is played, for example, to attempt to draw into a Sudden Reversal to cancel it. [RTR 20040501]\n> An effect that allows a minion to play a card that requires a Discipline he doesn't have (e.g., Infernal Familiar, Ian Forestal) can be used to meet one (not both) of the normal Discipline requirements of a multi-Discipline card. [LSJ 20011217]\n>\nPrince of Tikkurila, known as Teemu P in Lackey CCG",
+      "Id": "90452"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Sep 6, 2018, 2:08\u202FAM",
+      "Body": "In a tournament, it's a warning. You showed a part of your hand in a manner not part of a card effect requiring you to.\nMaking Devin play it would be up to.a judge, because your example has that minion, and under certain circumstances (about to be ousted if you dont draw intercept) cycling the card may be optimal.\n\nI've played Kiss of Ra at inferior during a tournament. Started as an oops, but the Ravnos blocking me was at 3 blood, and week of nightmares was in play, about to pop. So, she went to torpor eventually, and the player I did it to (Cashdollar) still brings it up because, you know, I played Kiss of Ra at",
+      "Id": "90453"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 6, 2018, 6:14\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> In a tournament, it's a warning. You showed a part of your hand in a manner not part of a card effect requiring you to.\n> Making Devin play it would be up to.a judge, because your example has that minion, and under certain circumstances (about to be ousted if you dont draw intercept) cycling the card may be optimal.\n>\n> I've played Kiss of Ra at inferior during a tournament. Started as an oops, but the Ravnos blocking me was at 3 blood, and week of nightmares was in play, about to pop. So, she went to torpor eventually, and the player I did it to (Cashdollar) still brings it up because, you know, I played Kiss of Ra at\n>\nIs not problem if him can cycling or not,is problem so him play card by one minion and replace card,after that we will see Omaya cant play eyes,so what now? him can take card back in hand or if posible must chose other target in play(in this example Devin)?",
+      "Id": "90454"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2018, 9:17\u202FAM",
+      "Body": "In this situation: Devin Bisley played the card explicitly to get +2 intercept (\"I play Eyes of Argus at inferior for +2 intercept\") or implicitly (\"+2 intercept\" => the card is played at inferior)\nSince it is not legal, the juge must proceed to a rollback. Considering that Omaya could play the card at a different level is not a rollback.\nThe player should get a penalty following the penalty guide.\n\nNow, in a different situation where Devin is locked. Devin's controller plays a On the Qui Vive, then plays Eyes of Argus saying \"Eyes of Argus\". In that case, Devin's controller is making a mistake since he doesn't indicate whether the card is played at inferior at superior. Since Devin can play it only at superior, the judge shouldn't allow a rollback.\nIf Devin's controller, under On the Qui Vive, had said \"+2 intercept\" while playing Eyes of Argus, then the judge must proceed to a rollback since the card was implicitly played at inferior, which is not legal.\n\nOf course, again, the player should get a penalty following the penalty guide either for not properly announcing the level of the cards he plays, or because he's doing illegal things.\n\nIn the event the player has replaced the card and the judge must rollback, the judge must estimate whether that knowledge gives an important advantage to the player (eg., the next card is a Delaying Tactics, cycling an useless wake allows to draw it), or not, and take measures (eg., shuffling the library)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90458"
+    },
+    {
+      "Author": "Orpheus",
+      "Date": "Sep 6, 2018, 3:30\u202FPM",
+      "Body": "Ok, so :\n\n- first, it was on Lackey, so if I recall you just played the card without announcing anything. Sure you meant it as a +2 Intercept, but that isn't said when the card hits the table. So in that case what would you do Ankha ?\n\n- depending on the cards, the annoucements, the judge etc, it would be ruled either way, and I've seen it ruled differently in tournaments. I think we really need clearer guidelines for tournament rules.",
+      "Id": "90463"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2018, 5:02\u202FPM",
+      "Body": "> Orpheus wrote:\n> Ok, so :\n>\n> - first, it was on Lackey, so if I recall you just played the card without announcing anything. Sure you meant it as a +2 Intercept, but that isn't said when the card hits the table. So in that case what would you do Ankha ?\n>\nEven on Lackey, when you play a card, you have to tell what you do with it, for instance \"+2 intercept\", and who plays it.\nOtherwise, players must ask how the card is played/who plays it. Then you rule in consequence.\n\n> Orpheus wrote:\n> - depending on the cards, the annoucements, the judge etc, it would be ruled either way, and I've seen it ruled differently in tournaments. I think we really need clearer guidelines for tournament rules.\n>\nIndeed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90465"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 6, 2018, 5:38\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Orpheus wrote:\n> > - depending on the cards, the annoucements, the judge etc, it would be ruled either way, and I've seen it ruled differently in tournaments. I think we really need clearer guidelines for tournament rules.\n> >\n> Indeed.\n>\nI'll keep this comment of yours in mind when making judgments in the future, but a key component to my judging has been that a card that is played is played. In other words, if it were possible to have the game state be correct with that card in play, then it should still be played, even if that alters the target of the the effect. In part, it depends on when the misplay is discovered, but many things can transpire or be deduced from a small misplay. Did the DI window pass? Was there talk of DIs? Was there a potential deal asked about DIs? Was there a redraw? Were other cards played after?\n\nIn a situation where I attempt to use Seduction with a dom vampire, but mistakenly target an illegal vampire of my prey what is the right solution? If there is a legal vampire elsewhere on the table? If there is not? Would I have even declared the action if I hadn't misplayed an as-announced card? How should the action declaration be handled? What if that targeting was a mistake because I failed to see a skill card on my prey's vampire? If the game state was not clear to me when beginning the action? How much rewinding is correct?\n\nI know the mountain of tasks before BC is large, but a judge's guide needs more examples of faulty games states and resolutions, so we can establish a clear pattern for all judge's to follow.",
+      "Id": "90467"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 6, 2018, 6:46\u202FPM",
+      "Body": "> kschaefer wrote:\n> In a situation where I attempt to use Seduction with a dom vampire, but mistakenly target an illegal vampire of my prey what is the right solution? If there is a legal vampire elsewhere on the table? If there is not? Would I have even declared the action if I hadn't misplayed an as-announced card? How should the action declaration be handled? What if that targeting was a mistake because I failed to see a skill card on my prey's vampire? If the game state was not clear to me when beginning the action? How much rewinding is correct?\n>\nThe Judges' Guide provides several examples of how to correct game state, specifically about how much to rewind. The basic principle it espouses is that you should always back up to the point of the error, if you reasonably can. If you can't (primarily because too much stuff has happened, and too many cards have been played), the judge fudges it based on the available information.\n\nSee section 200 of www.vekn.net/judges-guide",
+      "Id": "90469"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 6, 2018, 8:15\u202FPM",
+      "Body": "I've read it and it's not good enough.\n\nSpecifically, the misplay has already resulted in some foreknowledge of the game that rewinding can almost never solve.",
+      "Id": "90471"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2018, 9:18\u202FPM",
+      "Body": "If the card replaced is a problem, the judge can decide to shuffle it in the library.\nKnowing that the player has a wake in the hand should not be a problem, except for the player that made the mistake.\n\nWhen a mistake is done and a secret information is revealed, you can never totally undo it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90472"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 6, 2018, 10:10\u202FPM",
+      "Body": "> kschaefer wrote:\n> I've read it and it's not good enough.\n>\nYou asked how much rewinding is correct, and it tells you how much is correct - as much as you can (reasonably) carry out. I'm not sure how telling you the exact answer to your question on rewinding is not good enough?\n\n> kschaefer wrote:\n> Specifically, the misplay has already resulted in some foreknowledge of the game that rewinding can almost never solve.\n>\nAnd that would be true in your \"You must play the card in a legal fashion if it was possible to do so\" situation too. You find out that someone else has played a Wake, or a DI, or whatever.\n\nWhat alternative way of handling this are you suggesting that re-instates mystery?\n\n(Note that if you believe that this wasn't an innocent misplay, but a specific attempt to draw out information, that's cheating and is punished under separate parts of the rules.)",
+      "Id": "90473"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "Sep 7, 2018, 12:25\u202FPM",
+      "Body": "The card's effects are declared when it is played. If the effects declared are illegal, then the card cannot have been played at all - so to rewind before the declaration of effects means that the card goes back to the player's hand. There is no 'after card is played and before the effects are declared' step to rewind to.\n\nThe Judge's Guide establishes as a guiding principle that the player making the mistake should not benefit from it. Some people interpret that as to mean that the player must be punished, however that is not correct - punishment is accomplished through the Cautions/Warnings system, and the game state should simply be returned 'to a fair and playable state'.",
+      "Id": "90479"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Dec 18, 2025, 7:49\u202FPM",
+      "Body": "players in table: A B C\nplayer B have 3 vampires (e f g-only g is locked)\nplayer A play enter combat with locked minion and chose e (unlocked vampire),then we see how is target not legal.\nwhat now,roll back,or player A must chose locked target-g vampire?",
+      "Id": "116017"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Dec 19, 2025, 12:14\u202FPM",
+      "Body": "in a tournament i will sugest to choose a valid target, in a casual play or if he don,t have valid targets ( vamp g in the exemple) he take back his card, put back the replacement card he have draw and shuffle library\n\nDavid Resende - Prince of Teresina",
+      "Id": "116022"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Dec 20, 2025, 10:34\u202FPM",
+      "Body": "> DavidR wrote:\n> in a tournament i will sugest to choose a valid target,\n>\nyea,i think same,but one very respectable judge,in online event,give this player roll back,cancel draw, shufle,and this player can take any other action. i want to hear other opinions here.\nand beter we talk only on tournaments rules,not frendly game.",
+      "Id": "116032"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Dec 27, 2025, 4:53\u202FPM",
+      "Body": "Dear Igor,\n\nPersonnaly, I prefer to avoid as many Roll-Backs as possible.\n\nIf any combats have already started (by block resolution o normal resolution). I would end it right away and see if the non-active player had play any cards that should get back to his hand in order not to disadvantage them. I would then discard at random the number of relevant cards, those cards would be suffled in their Library then put back in his hand any card. Blood cost and damage received would be cancelled on both minions.\nI would unlock the acting minion too.\nThen the game should continue.\n\nIf the action resolution had not yet started, I would ask the acting player to choose any legal target and continue the action.\n\nCheers.\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116071"
+    },
+    {
+      "Author": "alf",
+      "Date": "Dec 27, 2025, 6:01\u202FPM",
+      "Body": "I think roll back is the only correct solution to a wrongly declared card.\n\nImagine B has 3 unlocked vampires and C has a locked vampire,\nA illegally declares enter combat with an unlocked vampire from B.\nWould he now be forced to enter comabt with (one of) a locked vampire of C?\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "116074"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Dec 27, 2025, 6:20\u202FPM",
+      "Body": "Hello,\n\nThe action has been annouced. I would prefer to adjust legal targets than to give the acting player the too great opportunity to redo all their action.\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "116075"
+    },
+    {
+      "Author": "alf",
+      "Date": "Jan 8, 2026, 7:38\u202FPM",
+      "Body": "@ANKHA: Would be nice to get an official clarification, because the switch to a totally different target seems too severe in my book to force a play ...\n\nAlso compare to this: Announcing a Govern The Unaligned at superior, indicating the only vampire in your uncontrolled region, then realizing he's older. Would you now force that vampire to bleed? I don't think so ...\n\nAFAIR LSJ always ruled for a total rollback.\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "116174"
+    },
+    {
+      "Author": "alf",
+      "Date": "Feb 2, 2026, 8:36\u202FAM",
+      "Body": "Umh, any official statement on this available?\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "116313"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Feb 7, 2026, 4:09\u202FPM",
+      "Body": "You roll back - this follows the example form Budapest EC day 2 final a bleed of 1 was declared when it was actually a bleed of 0 as that was a not a correct declare. LSJ made Ferenc rollback and do something else (he could have declared bleed for 0 that would have been legal).\n\nJudges aren't there to mess with a table, forcing someone to rush cross table because that was the only legal correct legal target for example distorts game state.",
+      "Id": "116358"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Feb 8, 2026, 12:51\u202FPM",
+      "Body": "> Squidalot wrote:\n>\n> Judges aren't there to mess with a table, forcing someone to rush cross table because that was the only legal correct legal target for example distorts game state.\n>\nI hope you dint say that because of my example,because my example say how player who is target by rushing,have another legal target,i dint ask if acting player need to rush crosstable.\nand you see how 2 judges have 2 diferent opinions!\nand what in this example,you want to play govern sup,and you have 2 target. but you chose older target,and after resolution,you see that. do judge need to roolback,or you just put 3 blood on another(legal) target?",
+      "Id": "116365"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Feb 11, 2026, 12:06\u202FPM",
+      "Body": "Yes, I would have ruled to do rollback, I have ruled like that several times, like a player announcing Gover the Unaligned Superior when the vampire has only inferior, I am not there to force the player to play it at inferior, but to correct the game state as the declaration wasn't legal, so if you play Ambush targetting an unlocked minion I will perform a rollback as a judge (quite often I have to rule this situation in the JOL tournaments)",
+      "Id": "116387"
+    }
+  ]
+}

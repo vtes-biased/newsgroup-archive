@@ -1,0 +1,194 @@
+{
+  "ThreadId": "vekn-42069",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/jol/42069-time-table-for-every-player",
+  "Title": "Time table for every player",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Nov 30, 2012, 1:36\u202FPM",
+      "Body": "Hi there, I'm setting up a small web app that will allow players to see the other player's availabilities. The goal is to quickly see which players are \"synchronized\" to allow faster games, or to see when a player will be available.\n\nYou can see it on v.ripoll.free.fr/VTES/JOLTZ.html (don't forget to reload the page because your browser may cache it).\n\nFor a start I will manually add players, so just send me a line here or at v.ripoll{at}gmail{dotcom} using the following format:\n\n<player name>, GMT<+-X>, <first time span>, <second time span>, ..., <nth time span>\n\nwith time spans using the <hh:mm-hh:mm> format.\n\nEg. Ankha, GMT+1, 10:00-12:00, 13:00-18:00\nYou can prefix the time span with the letter 'u' to mark it as 'uncertain'.\nYou can also prefix the time span with 'we' to mark it as 'week-end'.\n\nIf you don't prefix any time span with 'we', your time spans are considered valid for the whole week (including week-ends)\nIf you have at least one time span prefixed with 'we', your unprefixed time spans are considered to be valid from monday to friday.\n\nThe time span must use your local time.\n\nHow does it work?\n\nThe red line indicates NOW (in your current time zone).\nPlayers that are available now (given the availability time ranges they gave) are highlighted in green.\n\nEx.\n\nOn the current image, Ankha, Blooded, Klaital and Jhattra are available right now. Cooper's availability is uncertain as he have various availabilities, but we can see that he's GMT+1 by hovering with the cursor over his name.\nThe time displayed is the time of my own time zone.\n\nAs we can see, those players share a large common availability time range, it's probably a good idea they play together\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42069"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 30, 2012, 2:46\u202FPM",
+      "Body": "Thank for the idea and realisation. It could be very useful.\n\nToo bad Silverlight is such a pain to make work",
+      "Id": "42072"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 30, 2012, 3:08\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Thank for the idea and realisation. It could be very useful.\n>\n> Too bad Silverlight is such a pain to make work\n>\nOn Apple devices or?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42073"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Nov 30, 2012, 3:36\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Ohlmann wrote:\n> > Thank for the idea and realisation. It could be very useful.\n> >\n> > Too bad Silverlight is such a pain to make work\n> >\n> On Apple devices or?\n>\nDoesn't work on Android at all and probably not on Linux either.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "42075"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Nov 30, 2012, 3:49\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Ohlmann wrote:\n> > Thank for the idea and realisation. It could be very useful.\n> >\n> > Too bad Silverlight is such a pain to make work\n> >\n> On Apple devices or?\n>\nMac OS works fine with Silverlight.\nwww.microsoft.com/getsilverlight/Get-Started/Install/Default.aspx\nMacintosh OS 10.5.7+ (intel-based)\nFirefox 3.6+\nSafari 4+\n\nMoonlight works on Linux as well.\nwww.mono-project.com/Moonlight\n\nSilverlight has no support for phones or tablets (except Windows based tablets).",
+      "Id": "42076"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Nov 30, 2012, 3:55\u202FPM",
+      "Body": "> Adonai wrote:\n> Moonlight works on Linux as well.\n>\nLast time I checked on linux, it worked badly enough to make the computer crash. And even on windows it was not all that cracked up. It somehow used even more memory than Flash while being a lot less used.\n\nThen again, if it work for enough player, good enough. Ankha is not being paid for this, it's already kind enough to actually do this.",
+      "Id": "42077"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 30, 2012, 4:19\u202FPM",
+      "Body": "Well, the day JOL will work on Android, I'll start to bother to make it work on Android too\n\nOn linux, it should work. I don't use any fancy feature.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42078"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Nov 30, 2012, 5:34\u202FPM",
+      "Body": "JOL works quite well on Android. I'm using it weekly on my phone.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "42081"
+    },
+    {
+      "Author": "Omelet",
+      "Date": "Nov 30, 2012, 6:11\u202FPM",
+      "Body": "JOL actually works on my blackberry in the default browser. Which is surprising, because basically nothing works on it.",
+      "Id": "42082"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 30, 2012, 8:13\u202FPM",
+      "Body": "> jhattara wrote:\n> JOL works quite well on Android. I'm using it weekly on my phone.\n>\nIt doesn't on mine, I can't scroll down in the history window...\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42084"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Nov 30, 2012, 10:23\u202FPM",
+      "Body": "If on iPhone, use two fingers to scroll that area.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "42086"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 1, 2012, 5:12\u202FAM",
+      "Body": "Mine is a bit all over the place, but I can usually guarantee:\n\nGMT+10\nLocal: 1600-1900, 2100-2300\n\nBefore 1600 my work timetable changes day by day, workplace by workplace.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "42091"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 1, 2012, 12:34\u202FPM",
+      "Body": "Hmm... interestingly your site doesn't agree with Firefox.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "42109"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Dec 1, 2012, 4:01\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Hmm... interestingly your site doesn't agree with Firefox.\n>\nI'm having no issues using Firefox 16.0.2 or Firefox 17.0.1 on Windows 8.\n\nv.ripoll.free.fr/VTES/JOLTZ.html\n\nAttachment screenshot.jpg not found",
+      "Id": "42120"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Dec 1, 2012, 5:18\u202FPM",
+      "Body": "> Adonai wrote:\n> ... Windows 8.\n>\nDeeeerail. Awesome. How are you liking it?",
+      "Id": "42137"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Dec 1, 2012, 6:21\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jhattara wrote:\n> > JOL works quite well on Android. I'm using it weekly on my phone.\n> >\n> It doesn't on mine, I can't scroll down in the history window...\n>\nWorks on both Chrome and stock browser in my PadFone with 4.0.4.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "42147"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 1, 2012, 10:25\u202FPM",
+      "Body": "Apparently \"Results may vary\"...\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "42165"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Dec 1, 2012, 11:46\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Apparently \"Results may vary\"...\n>\nYou do have to Install Silverlight, for Silverlight to work.\nThat isn't problem with the site.\nThat's a problem specific to your machine.\n\nwww.microsoft.com/getsilverlight/Get-Started/Install/Default.aspx",
+      "Id": "42185"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2012, 10:12\u202FAM",
+      "Body": "> Adonai wrote:\n>\n> > Juggernaut1981 wrote:\n> > Apparently \"Results may vary\"...\n> >\n> You do have to Install Silverlight, for Silverlight to work.\n> That isn't problem with the site.\n> That's a problem specific to your machine.\n>\n> www.microsoft.com/getsilverlight/Get-Started/Install/Default.aspx\n>\nYes, it's like Flash, you need to install the plugin, which is trivial on Windows Systems (in your case, just click on the \"Install Silverlight\" button, and follow instructions).\n\nAs Silverlight is a Microsoft product, there's absolutely no risk for your computer.\n\nFor other operating systems (Mac or Unix), there are some plugins that make Silverlight applications work, but I'm no specialist in that.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42214"
+    },
+    {
+      "Author": "erewego",
+      "Date": "Dec 2, 2012, 1:12\u202FPM",
+      "Body": "Can't scroll down on my Droid either. If I could I would totally be back into playing.",
+      "Id": "42226"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Dec 2, 2012, 11:50\u202FPM",
+      "Body": "> Ankha wrote:\n> As Silverlight is a Microsoft product, there's absolutely no risk for your computer.\n>\nIt's TOTALLY off-topic, but this statement made me laugh.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "42251"
+    },
+    {
+      "Author": "rehlow",
+      "Date": "Dec 3, 2012, 4:16\u202FAM",
+      "Body": "> erewego wrote:\n> Can't scroll down on my Droid either. If I could I would totally be back into playing.\n>\nReally? I have no problems scrolling on my Droid tablet. Worked in Honeycomb, Icecream Sandwich and Jelly Bean IIRC. That the main page starts on the top and I have to scroll all the way to the bottom is a pain (it is often very far down). Also, typing commands from a virtual keyboard gets old fast.",
+      "Id": "42265"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 3, 2012, 6:48\u202FAM",
+      "Body": "> KevinM wrote:\n>\n> > Ankha wrote:\n> > As Silverlight is a Microsoft product, there's absolutely no risk for your computer.\n> >\n> It's TOTALLY off-topic, but this statement made me laugh.\n>\nWell, if you're using Windows, you already know the risks  But I meant it's not some obscure thrid-party product.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42272"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Dec 3, 2012, 8:28\u202FAM",
+      "Body": "I used to not be able to scroll on android.\n\nI just tried. Seems I can scroll in Firefox, not in Dolphin\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "42274"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2012, 10:09\u202FAM",
+      "Body": "Updates original post.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42390"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Dec 7, 2012, 2:24\u202FPM",
+      "Body": "XZealot, GMT-6, 7:00-16:00",
+      "Id": "42515"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 7, 2012, 3:12\u202FPM",
+      "Body": "Updated first post: added week-end periods\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42519"
+    },
+    {
+      "Author": "cos",
+      "Date": "Jan 26, 2013, 4:57\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jhattara wrote:\n> > JOL works quite well on Android. I'm using it weekly on my phone.\n> >\n> It doesn't on mine, I can't scroll down in the history window...\n>\nAt last a phone that i can use jol, i will be rejoining, using a android 4.1",
+      "Id": "44455"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 16, 2013, 11:26\u202FAM",
+      "Body": "Time table has been updated with ALL players. Enjoy!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "47021"
+    },
+    {
+      "Author": "sor_garcya",
+      "Date": "Jun 26, 2013, 6:42\u202FAM",
+      "Body": "Hi\nsor_garcya, GMT+2, 8:00-18:00, we 0:00-0:00\n(no available during weekends)\n\nThanks!",
+      "Id": "50462"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 26, 2013, 6:29\u202FPM",
+      "Body": "> sor_garcya wrote:\n> Hi\n> sor_garcya, GMT+2, 8:00-18:00, we 0:00-0:00\n> (no available during weekends)\n>\n> Thanks!\n>\nI'll add it!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "50498"
+    }
+  ]
+}

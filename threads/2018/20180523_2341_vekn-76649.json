@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-76649",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76649-ilomba",
+  "Title": "Ilomba",
+  "Messages": [
+    {
+      "Author": "Trigger",
+      "Date": "May 23, 2018, 11:41\u202FPM",
+      "Body": "When playing this retainer, does it go on the acting vampire first, then later uses another action to transfer to a different vampire at +1 stealrh? Or when retaining it, does it immediately go on the other minion?",
+      "Id": "87406"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 24, 2018, 12:03\u202FAM",
+      "Body": "> Name: Ilomba\n> [EK:R]\n> Cardtype: Retainer\n> Animal with 1 life. Requires a Laibon.\n> Put Ilomba on any minion (this is a +1 stealth  action if that minion is controlled by another Methuselah). If Ilomba would burn a life (or would otherwise be burned), this minion burns a blood or life instead. If he or she cannot, he or she is burned. A minion may have only one Ilomba.\n>\nWhen you employ Ilomba, you choose a target minion to place Ilomba on. It does not have a transfer clause. Typically, you'll want to recruit this retainer and target a minion controlled by another Methuselah, unless you want to burn your own minions.",
+      "Id": "87408"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "May 25, 2018, 7:21\u202FAM",
+      "Body": "While we're on the subject of Ilomba:\n\nDoes the effect work for each point of damage (or \"burn life\" effect) done to Ilomba? I.e. if vampire A has Ilomba, vampire B is in combat with A and does 3 ranged damage (from long range) targeting the Ilomba, would vampire A be forced to burn 3 blood?",
+      "Id": "87485"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 8:29\u202FAM",
+      "Body": "> PetriWessman wrote:\n> While we're on the subject of Ilomba:\n>\n> Does the effect work for each point of damage (or \"burn life\" effect) done to Ilomba? I.e. if vampire A has Ilomba, vampire B is in combat with A and does 3 ranged damage (from long range) targeting the Ilomba, would vampire A be forced to burn 3 blood?\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87488"
+    },
+    {
+      "Author": "Trigger",
+      "Date": "May 26, 2018, 2:41\u202FPM",
+      "Body": "In the combat example between vampire A and B, could vampire B use Pack Alpha to employ Ilomba on Vampire A, then do ranged damage and so on?\n\nA vampire can play only one Pack Alpha each round.\n[ani] Only usable before range is determined. This vampire employs an animal retainer from your hand (requirements and cost apply as normal).\n[ANI] Burn an animal retainer employed by this vampire and put this card on this vampire. This minion gets +1 strength. A minion can have only one Pack Alpha.",
+      "Id": "87532"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 26, 2018, 3:02\u202FPM",
+      "Body": "If B uses Pack Alpha at , then B employs Ilomba, per card text of Pack Alpha. Pack Alpha does not give B the opportunity to invoke Ilomba  employ clause.",
+      "Id": "87534"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-76786",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76786-action-sequence-steal-ally",
+  "Title": "Action Sequence, Steal ally",
+  "Messages": [
+    {
+      "Author": "avgrund",
+      "Date": "Jul 4, 2018, 8:51\u202FPM",
+      "Body": "Hello fellow Kindred.\n\nRather new player here. Quick rules/sequence question.\n\nIf I play an action card with the Steal Ally effect; what reactions can the opposing player perform? Can they tap and burn a War Ghoul which is the target of said action? Or is the only legal options to block or play reaction card?",
+      "Id": "88566"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 4, 2018, 9:06\u202FPM",
+      "Body": "Assuming they're attempting to steal an untapped War Ghoul, then that War Ghoul can tap and use his special at any time before resolution of the action. At which point the action fizzles and the acting minion remains tapped.\n\nSo you can attempt to block etc and as a measure of last resort burn the War Ghoul and a Location to prevent him from being stolen.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "88567"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 4, 2018, 9:08\u202FPM",
+      "Body": "That's a little open-ended, but essentially any effect that the reacting player(s) want to play that is legal can be played.\n\nBut, in this case you seem most interested in effects that allies can do that will make the action fizzle.\n\nBurning an unlocked target War Ghoul, yes.\nBurning the last life from a targeted Underbridge Stray, yes.\nBlocking with the targeted ally, yes.\nPlaying reactions cards that cost life, such as Nephran-Ka playing Spectral Divination, yes. With his last life to burn and cause the action to fizzle, yes.\n\nI could go on and on with scenarios because there are a ton of potential options. If you want to narrow the question and ask about specific cases, that might be easier.",
+      "Id": "88568"
+    },
+    {
+      "Author": "avgrund",
+      "Date": "Jul 4, 2018, 9:59\u202FPM",
+      "Body": "So the targeted minion can, during the action, tap to burn itself (war ghoul) and make the action lose its target and fizzle? So this indicates that the action is not instant and an another action can be played/taken to pause the action taken place (steal ally)? So in this case (steal War Ghoul) a player need to steal a tapped War Ghoul to be certain that the targeted minion does not burn itself and destroys a location instead of being stolen?",
+      "Id": "88569"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 4, 2018, 10:21\u202FPM",
+      "Body": "> avgrund wrote:\n> another action can be played/taken to pause the action taken place (steal ally)?\n>\nNo. Lock effects are not actions.",
+      "Id": "88570"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 5, 2018, 6:23\u202FAM",
+      "Body": "> avgrund wrote:\n> So the targeted minion can, during the action, tap to burn itself (war ghoul) and make the action lose its target and fizzle? So this indicates that the action is not instant and an another action can be played/taken to pause the action taken place (steal ally)?\n>\n\"Action\" has a very special meaning in V:TES. Actions are performed by minions using action cards (or cardless actions defined by the rulebook such as bleeding or hunting). You probably meant something like \"effects\".\n\nActions are not \"instant\", contrary to all the other cards that resolve immediately. Actions take in fact a long time to resolve. Once the action is declared, many things can happen: a minion can block the action (resulting in a combat), action modifiers and reactions can be played, or for some actions, the target can be changed... You have plenty of time to burn the War Ghoul (whose effect is instantaneous) during an action that targets her.\n\n> avgrund wrote:\n> So in this case (steal War Ghoul) a player need to steal a tapped War Ghoul to be certain that the targeted minion does not burn itself and destroys a location instead of being stolen?\n>\nIt's safer. But some cards unlocks minions during actions, so you are never completely safe!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88571"
+    },
+    {
+      "Author": "avgrund",
+      "Date": "Jul 5, 2018, 7:43\u202FAM",
+      "Body": "Alright, thanks for all your replies! Apparently we played it wrong during our game yesterday.\n\nA quick follow up question about a similar case/scenario.\n\nA player have one vampire in torpor and one ready vampire. The ready vampire announces the wish to bring the torporized vampire back to the ready region and locks to take the action.\n\nNow (during the above action) another player with a vampire with Enkil Cog locks the Cog to take an action. He wishes to diablerize the enemy vampire in torpor. Can the player with the first two vampire do anything about this diablerie attempt? I assume, as the ready vampire locked for the action, he would need to unlock (Qui Vive / Wake) to block or do anything at all?",
+      "Id": "88572"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 5, 2018, 8:12\u202FAM",
+      "Body": "1. Enkil cog doesn't allow you to take an action during an action (there can only ever be one action under way). So they can't act during your rescue attempt.\n\n2. The Enkil Cog player needs to wait for your permission until they can act (you pass them the impulse), so until you've decided that you've finished your minion phase they can't act. This means you have the right to use your second unlocked minion before they have an opportunity to act.\n\nIf the Enkil cog minion acts you can play wakes or block with any unlocked minions. After that action has resolved (successful or not) you get your minion phase back \u2014 so if you have any unlocked minion they can after the Enkil Cog action.\n\nNote that if you pass the impulse and the Enkil Cog player does not act; then your minion phase ends. So you need to consider this before passing the impulse to other players that can act during your turn.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "88573"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 5, 2018, 9:46\u202FAM",
+      "Body": "As Ke. said above.\n\nHere are some rules of thumb regarding Enkil Cog (the card is quite unique and sort of a special case)\n\n- Player A has a vampire with Enkil cog and both are untapped.\n- It is player B's turn, and Player A wants to act during that turn using Enkil Cog.\n- Player A must wait until Player B says: \"I'm moving to my influence phase\" (ie. finishing minion phase). Then Player A says: \"Wait, I want to act with Enkil Cog\", taps cog and starts the action with that vampire.\n- During Enkil Cog action players can react and block player A's vampire using the normal blocking/reacting rules. It is no different from acting during player A's own turn in this respect, it just takes place during player B's turn.\n- Once Enkil Cog action is over, It is still player B's minion phase, and player B can still act with his own vampire if he/she so chooses. If not, we move to player B's influence phase.\n- Its very easy for other players to rush forward and forget that player A might want to act with Enkil Cog. You need to follow the game sharply as the Enkil Cog player.\n\nps. The practical reason why Enkil Cog is so common, is circumventing  archon investigation . If you bleed for a million during PREY'S OWN TURN with Enkil Cog, they cannot play archon investigation to burn your vampire, since out-of-turn master cards cannot be played during your own turn unless the card specifically allows it. This is something that beginning players might not realize.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "88574"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Jul 5, 2018, 8:10\u202FPM",
+      "Body": "> Bloodartist wrote:\n> ps. The practical reason why Enkil Cog is so common, is circumventing  archon investigation . If you bleed for a million during PREY'S OWN TURN with Enkil Cog, they cannot play archon investigation to burn your vampire, since out-of-turn master cards cannot be played during your own turn unless the card specifically allows it. This is something that beginning players might not realize.\n>\nTo add to this - the other practical reason (if youre not intending to bleed for 4 or more that action) is to enkil bleed at the end of your predators minion phase to gain the edge just before your turrn starts for that sweet 1 pool gain",
+      "Id": "88582"
+    }
+  ]
+}

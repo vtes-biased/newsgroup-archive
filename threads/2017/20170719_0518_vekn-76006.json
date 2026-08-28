@@ -1,0 +1,452 @@
+{
+  "ThreadId": "vekn-76006",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/76006-amaranth-db-2-0-released",
+  "Title": "Amaranth DB 2.0 Released!",
+  "Messages": [
+    {
+      "Author": "Ke.",
+      "Date": "Jul 19, 2017, 5:18\u202FAM",
+      "Body": "Hello all,\n\nAm please to announce the release of Amaranth 2.0:  amaranth.vtes.co.nz\n\nNew versions of the Apps (iOS & Android) are also working there way through the App stores and should be available soon:\n\niOS App\nAndroid App\n\nProbably the most important feature of the release is deck sharing. This enables things like the starter / quick start decks (which you can also submit). It also lays the ground work for deck collaboration which may be a future feature depending on demand.\n\nRelease 2.0\n\nMajor features:  * Deck Sharing\n* Happy Families\n* Deck validation\n* Quickstart decks\n* Persistent sorting\n* Play testing support\n* Import from JOL\n* Added Anthology Set\n\nChanges:  Added Quickstart deck submission\nAdded import from JOL\nAdded /api/cards request\nAdded support for user settings\nAdded support for user profile\nAdded support for author\nAdded automated link URLS for: VEKN, VTES One, Secret Library, TWA, Amaranth (only accepted links)\nAdded /#card/100 route\nAdded comments for decks (mainly for Quickstart decks)\nAdded \"banned\" warning to crypt and library cards\nAdded \"use old cards\" setting\nAdded share button (link, facebook, twitter, email, google)\nAdded icons to buttons\nAdded decks sorting\nAdded decks searching\nAdded sort by oldest & youngest\nAdded Library total to text export\nAdded Quickstart decks\nAdded dice\nAdded happy families\nAdded logged in check when exporting\nAdded read-only deck mode\nAdded handle removed cards gracefully\nFixed edit deck title, desc behaviour\nFixed issue with comment modal\nFixed issue with discipline icons not changing\nFixed issues with mis-matched disciplines\nFixed select menus not closing when discipline menu opened (Crypt & Library)\nApp: Fixed redraw button\nApp: Reworked download function to exporting deck\nApp: Increased session time to 1 year\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "82660"
+    },
+    {
+      "Author": "emime",
+      "Date": "Jul 19, 2017, 7:42\u202FAM",
+      "Body": "Hi Ke, thank you for the update.\n\nOne troubleshooting question: for months now, when I try to print a deck I have got an \"Access not permitted\" modal dialog. What can I do?\n\nEmiliano \"Sans Terre\" - Wandering Player - Prince of Brussels",
+      "Id": "82664"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 19, 2017, 8:06\u202FAM",
+      "Body": "Simply logout and log back in. That bug has been fixed in this release.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "82665"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jul 21, 2017, 11:54\u202FAM",
+      "Body": "I tried with a computer (firefox) and android (chrome), with same results. The site is down, is it?\n\nBtw congratulations on 2.0; Amaranth is my favorite VtES tool alongside Secret Library (former for card search and tools, the latter for deck building and latest texts).\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "82704"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 24, 2017, 12:27\u202FAM",
+      "Body": "Unfortunately the DNS provider messed up the renewal of the domain. Hopefully this will be resolved in a day or two. Sods law \u2014 the absolute worse timing.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "82748"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 28, 2017, 6:19\u202FAM",
+      "Body": "And we're back: amaranth.vtes.co.nz\n\nSorry for the hassle, will be changing DNS providers after this.\n\nA few updates also included:\n\nAdded clanless filter to library search\nAdded \"close modal\" button\nAdded Flight filter to crypt and library\nAdded No Discipline filter to library\n'Done' button on library filters now closes drop-down\nAdded session warning to remote calls\nAdded unmount support to modal\nIgnore unknown cards on test draw\nImbued clan filter now works on library and crypt\nCan view next and prev card using arrow keys\nCan increase of decrease quantity using arrow keys\nMouse-dependent addcard/removecard functions fixed\nChanged dice to D20\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "82813"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Oct 2, 2017, 6:48\u202FPM",
+      "Body": "Exporting Advanced Vampires does not work. Amaranth does not put the (advanced) suffix after them, haven't noticed at first",
+      "Id": "83705"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Oct 3, 2017, 11:00\u202FPM",
+      "Body": "> XZealot wrote:\n> Exporting Advanced Vampires does not work. Amaranth does not put the (advanced) suffix after them, haven't noticed at first\n>\nThis has been fixed; thanks.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "83715"
+    },
+    {
+      "Author": "alf",
+      "Date": "Oct 5, 2017, 6:28\u202FPM",
+      "Body": "Really nice tool and I appreciate all the work so far.\n\nFor some reason I can no longer import a deck from secretlibrary.\nIt worked for me before but now I always get the error: Unable to extract cards.\nSo far I tried\n- logging out and back in\n- emptied browser cash\n- Firefox and Chrome.\nAny hint on that?\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "83732"
+    },
+    {
+      "Author": "alf",
+      "Date": "Oct 6, 2017, 6:57\u202FAM",
+      "Body": "Nevermind.\nWorks again for me.\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "83735"
+    },
+    {
+      "Author": "admiral142",
+      "Date": "Nov 10, 2017, 9:04\u202FPM",
+      "Body": "This tool is really awesome. I just came across it. Thanks to the devs for their hard work on it!",
+      "Id": "84208"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 9, 2018, 4:43\u202FPM",
+      "Body": "How can I reset my password?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84829"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Jan 10, 2018, 3:40\u202FAM",
+      "Body": "Just curious, is the new style card layout considered tournament legal, assuming proxies are allowed? From what I understand, the name of the artist needs to be legible, but I have a hard time making it out when printed.",
+      "Id": "84836"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Jan 10, 2018, 5:13\u202FAM",
+      "Body": "> Ankha wrote:\n> How can I reset my password?\n>\nOr even how to recover my old one. I logged out and back on again, but it stopped accepting my stored password, and I don't remember what it was.",
+      "Id": "84838"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jan 10, 2018, 11:00\u202FAM",
+      "Body": "I'm pretty sure the Amaranth layout is not tournament legal, but is more of an experiment. It is by not means supported officially.\n\nNeverthless, the layout is pretty good, and the peeps behind Amaranth are looking for feedback all the time. It's a work in progress.\n\nPersonally I would much prefer the oval approach to crypt cards. The Amaranth's present look is very 'boxy', even though it is a step in the right direction from a year ago. Also, it could be worthwhile (at some point) to make different layouts to non-minion cards (namely masters and events) to further differentiate them from the rest of the layouts.\n\nBut first and foremost I'd tinker with the vampire layouts (I just love the ovality) to make them more distinct from library cards and reflect the original layout more. That would make the A layout more approachable to older players.\n\nBut that' just me of course.\n\nOverall Amaranth is the best VtES tool at the moment, I feel.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "84843"
+    },
+    {
+      "Author": "Exposer",
+      "Date": "Jan 11, 2018, 9:25\u202FAM",
+      "Body": "> Overall Amaranth is the best VtES tool at the moment, I feel.\n>\nI totally agree with this idea.\nThanks for Amaranth. Well done!\nBtw, is it possible to add vtes rules inside to have everything in one place? Would it be reasonable?\n\nNC Belarus",
+      "Id": "84854"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Jan 11, 2018, 10:20\u202FPM",
+      "Body": "> Cat_in_Exile wrote:\n>\n> > Ankha wrote:\n> > How can I reset my password?\n> >\n> Or even how to recover my old one. I logged out and back on again, but it stopped accepting my stored password, and I don't remember what it was.\n>\n+1\n\nRegistered ages ago, haven't been able to guess the password I used ever since...\n\n-1 Strength",
+      "Id": "84868"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jan 19, 2018, 10:28\u202FAM",
+      "Body": "Suggestion:\n\nAt least on FIREFOX, in card search I cannot double click the my text in search function to highlight it for quick delete.\n\nThis slows down my deck building when I want to include cards I know I need by name.\n\nActually, I'd want the search box to empty itself at click.  It would be even faster. For searches where you need more cards, similar but different name, you'll probably use the sliders and the such anyways.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "84971"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 9, 2018, 6:55\u202FPM",
+      "Body": "A couple of feature requests:\n- Please allow multi-sort. I'd like to be able to sort by group, then by cap ascending, etc.\n- For text export, can you order or have the option to order the vampires by cap or by quantity? Then name for tie-breakers.\n- For online and text export, can you include titles for vampires. For online, immediately after the disciplines (or right-justified on that line), for text after disciplines and before clan.\n- For online and text export, can we group all \"actions\" together: Action, Ally, Equipment, Retainer, PA before action modifiers?\n- A +1 on Kraus's request to clear the search box on click (or tap).\n\nThanks.",
+      "Id": "85279"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Feb 9, 2018, 9:13\u202FPM",
+      "Body": "Well, if this is a good place to give suggestions...\n\nFor the test draw feature, I'd love to be able to simulate increased handsize from cards like Dreams of the Sphinx or Visit From The Capuchin, and then reduce handsize again after. I frequently use test draw for several turns to test deck flow, and this would be a really nice feature to have.\n\nI'd also like to be able to click on a card to read it in the test draw feature also, just like it does in the main deck list.",
+      "Id": "85282"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Feb 26, 2018, 4:42\u202FPM",
+      "Body": "I noticed the crypt card layouts have changed.\n\nDefinitely for the better!\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "85429"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Feb 26, 2018, 9:16\u202FPM",
+      "Body": "> Kraus wrote:\n> I noticed the crypt card layouts have changed. Definitely for the better!\n>\nYeah, happy with the end results there. The crypt cards have lacked the same polish that the library cards have had for a while now \u2014 had a window to revisit the crypt cards and did so.\n\nThere will be updates released to Amaranth soon; addressing a lot of issues mentioned here (reset password, clear search boxes etc) and support for Storylines.\n\nHopefully that will drop in the next week or two.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "85435"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Feb 26, 2018, 9:46\u202FPM",
+      "Body": "awesome work Ke. the crypt ovals really look awesome. looks like they fix some of the 'extended background' weirdness that was on some of the cards (like lorrie dunsirn)",
+      "Id": "85436"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Mar 6, 2018, 8:20\u202FAM",
+      "Body": "Another utility suggestion:\n\nI'd love for the search options tab (that one with three dots) to close with a hot key, say, Esc.\n\n(Using Firefox on latest Windows.)\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "85577"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Mar 14, 2018, 12:16\u202FPM",
+      "Body": "A bit of a layout idea:\n\nI'm really enjoying what you did with the oval layout to differentiate it from library and bring it closer to what VtES has been doing for ages.\n\nI would show a bit more picture, and a bit less skin (har) by widening the oval a bit.\n\nFurthermore, I would do something about the overlap on discipline bar. One idea would be to 'break' the oval layout, as if chipped away. The marble discipline bar would emerge underneath.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "85747"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Mar 14, 2018, 7:37\u202FPM",
+      "Body": "I think the issue with above is that widening the oval window means you have to get more 'picture' from somewhere. a lot of cards dont have that extra picture and ke did some wizardry to create some background.\n\nproblem appears when some cards art (specifically the edge of the head) is right on the edge of that oval.\n\neg carlotta giovani and lorrie dunsirn used to be rather...awkward.\n(carlotta improves now, but is still a little jank)\n\nThe breakaway from clan colour to marble discipline area sounds cool though.",
+      "Id": "85758"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Mar 14, 2018, 9:15\u202FPM",
+      "Body": "I have mixed feelings about this. we have several overlapping layers, but the sense of depth seems like something from M.C. Escher.\n\nWhy not just make the oval bigger and keep the original orientation, and keep the clan background underneath?\n\nAlso, the corners at the top are rounded and appear to be square at the bottom, and while a minor detail in the grand scheme of things, I can't unsee it now and it bothers me.\n\nI like the name box being just above the text box, though.",
+      "Id": "85764"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 15, 2018, 8:14\u202FAM",
+      "Body": "The two marble bars look... just odd\n\nWhat is the point of that annoying red lines that is all over the place?\nTo distract?\n\nFinnish  Politics!",
+      "Id": "85771"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 18, 2018, 10:33\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> What is the point of hat annoying red lines that is all over the place?\n>\nI'm pretty sure it's just Kraus illustrating the shape of frame he'd like to see. They're not on the actual cards.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "85850"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 21, 2018, 4:33\u202FAM",
+      "Body": "Release 2.1 has just hit the app stores:\n\nPassword recovery / resetting Corrected issue flagging banned cards Added support for story lines Added filtering by set Updated crypt design\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "85921"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 21, 2018, 1:12\u202FPM",
+      "Body": "Thanks for the update.\n\nWhy is there a no-cache on the image downloads? For old cards that seems like something that could have infinite caching. For the new ones, I'd guess a week? How often are you actually updating your design?",
+      "Id": "85928"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 21, 2018, 9:05\u202FPM",
+      "Body": "The length of time images are cached is device dependent.\n\nBundling the images with the app is not feasible; compressed the images sit at 3.7GB.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "85935"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 22, 2018, 6:05\u202FPM",
+      "Body": "Another feature request when you have time:\nSort Decks by Most/Least Recently Updated\n\nI often start a deck idea and come back to it later. It'd make those old, but recently touched decks easier to find.",
+      "Id": "85952"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 22, 2018, 9:35\u202FPM",
+      "Body": "> kschaefer wrote:\n> Another feature request when you have time:\n> Sort Decks by Most/Least Recently Updated.\n>\nGood idea\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "85960"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Apr 25, 2018, 7:41\u202FAM",
+      "Body": "The quick start decks are a great idea, and mostly serve as an excellent introductory tool.\n\nBut WHY does the Nosferatu royalty breed deck (already a not-so-powerful deck) have an absolute offender of a card, namely Secret Horde?\n\nShouldn't those two copies be another copy of Warsaw Station, and a Direct Intervention instead?\n\nOr basically any card besides Secret Horde?\n\nAlso, is \"Horde\" in there a typo? I never understood the flavor of it - should it say \"Hoard\" instead?\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "86324"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Apr 25, 2018, 11:33\u202FAM",
+      "Body": "> Kraus wrote:\n> Also, is \"Horde\" in there a typo? I never understood the flavor of it - should it say \"Hoard\" instead?\n>\nThat's not a typo, but you bring up a very interesting point. Horde is an anthropological term meaning a small social group akin to a tribe. A hoard is a secret fund.\n\nI see your point because (1) I'm not sure how a \"Secret Horde\" can be an investment, and (2) the art sure seems to indicate a secret stash like a hoard.\n\nHere's what I believe happened with this card: the designers intended this card to reflect a \"Secret Horde,\" with an effect akin to a Methuselah negotiating resources from his ancient social group. But the artist had \"Hoard\" in mind, and made the artwork accordingly to show a secret stash of things, or understood that \"horde\" was meant but wasn't sure how to depict this to match the effect on the card, and therefore designed a secret stash of anthropological looking things like skulls, texts, and ancient chemicals. To further confuse things, the keyword \"investment\" was added to Camarilla edition.\n\nSo today, we have a card with artwork showing a stash of stuff with the word \"investment.\" So it certainly looks like hoard was meant. But I really think \"Horde\" was meant because a hoard is already secret, so \"Secret Hoard\" would be redundant (\"secret secret fund\"). But who knows?",
+      "Id": "86326"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Apr 25, 2018, 10:30\u202FPM",
+      "Body": "> Kraus wrote:\n> But WHY does the Nosferatu royalty breed deck (already a not-so-powerful deck) have an absolute offender of a card, namely Secret Horde? Shouldn't those two copies be another copy of Warsaw Station, and a Direct Intervention instead?\n>\nSure, some of the decks could be improved. Most are user submitted and providing they meet below the criteria below then they're approved:\n\nDecks should be close to 60 cards in size (less to print) Decks should focus on one or two mechanics only Cards should be fairly simple and not contain walls of text Include deck description and rough overview on how to play\nA lot of decks submitted aren't even legal \u2014 some with 100+ cards, invalid grouping, 20 crypt cards etc... the list goes on. I was torn about having it curated or not initially; however over time and seeing what's been submitted I think it was the right call.\n\nOne thing I would like to expand on in Amaranth is the social side of things. For example there's an experimental feature that allows multiple people to work on the same deck/s \u2014 that is pretty cool. I think public feedback on the quick start decks would also be useful.\n\nAmaranth now has over 1000 registered users (whoot!) so it would be great to build on that further.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "86335"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 16, 2018, 12:51\u202FPM",
+      "Body": "Ke, first i need to mention that I love the app and what you have done.\nThen I must ask, when the Lost Kindred arrives at Amaranth?\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "86970"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 17, 2018, 5:35\u202FAM",
+      "Body": "The Lost Kindred has been on Amaranth for probably six month or so \u2014 but the cards were / are only accessible if you were / are part of the play test group.\n\nIn terms of adding the official release, I need to wait for for the CSV files to be be updated here www.vekn.net/card-lists before much else can happen.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87030"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 17, 2018, 5:22\u202FPM",
+      "Body": "I was on the playtest group ( Samir Sardinha on facebook ), but i think i'm using a different email to access the site or something similar to it...\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87072"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 17, 2018, 9:33\u202FPM",
+      "Body": "Drop an email to amaranth at the vtes.co.nz domain with your username and I can enable it. Hopefully it won't be too long much longer until Lost Kindred is enabled publicly.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87092"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 18, 2018, 4:01\u202FPM",
+      "Body": "> Ke. wrote:\n> Drop an email to amaranth at the vtes.co.nz domain with your username and I can enable it. Hopefully it won't be too long much longer until Lost Kindred is enabled publicly.\n>\nLet me know if it was sent correctly\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87137"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "May 24, 2018, 8:35\u202FPM",
+      "Body": "> Ke. wrote:\n> The Lost Kindred has been on Amaranth for probably six month or so \u2014 but the cards were / are only accessible if you were / are part of the play test group.\n>\n> In terms of adding the official release, I need to wait for for the CSV files to be be updated here www.vekn.net/card-lists before much else can happen.\n>\nAny word on how much longer this might take? My cards have arrived, but I can't construct decks the old fashioned way anymore, without a test draw feature.",
+      "Id": "87457"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 24, 2018, 11:11\u202FPM",
+      "Body": "Currently waiting the CSV file and images until I can do a public release.\n\nDrop me an email with your user name to amaranth at the vtes.co.nz domain and I can enable the play test cards for you (effectively the same I believe).\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87471"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 1, 2018, 8:45\u202FAM",
+      "Body": "Lost Kindred has been added to the web version of Amaranth:\n\namaranth.vtes.co.nz (you may need to do a full refresh)\n\nPlease report any issues with the cards / text. The CSVs were still not available so I had to manually adjust the data to match the supplied images.\n\nI'll update the apps early next week.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87812"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Jun 1, 2018, 11:10\u202FAM",
+      "Body": "Camaraderie has a different text than the one it had on the reveal article.\n\nIs this correct? Is this an upadted version of the card, or an outdated one?\n\nEDIT: The same happened with Inevitability of the Void.",
+      "Id": "87814"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 1, 2018, 11:32\u202FAM",
+      "Body": "Thanks; corrected \u2014 please report any others you see.\n\nOnce the official CSV is available I'll also re-import the card data.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87815"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Jun 1, 2018, 11:34\u202FAM",
+      "Body": "Thank you, because they were quite the nerfs and I was weeping already.",
+      "Id": "87816"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 4, 2018, 3:45\u202FAM",
+      "Body": "New versions of the apps have been released (pending approval from Apple).\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87881"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Jun 14, 2018, 3:44\u202FPM",
+      "Body": "Love Amaranth. Huge thanks!\n\nRequest: would it be possible with a toggle function to disable/enable card previews? I would (sometimes) prefer to just load the csv card text.\n\nLackeyname: Kris",
+      "Id": "88179"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 15, 2018, 7:11\u202FPM",
+      "Body": "There's a small glitch importing from secret library;\nCrypt cards aren't making it over to Amaranth.\nThe trend has been crypts with base and adv versions aren't importing adv or both.\nAlso Beatrice Tremble' in an otherwise vamp crypt didn't show up.\nAlso random midcaps in 3 decks didn't make it.\n\nBut obviously this isn't too crazy to work around, only problem I've found.",
+      "Id": "88199"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Jun 20, 2018, 11:50\u202FAM",
+      "Body": "A small glitch I noticed while constructing a Gargoyle Deck: when filtering Library Cards for cards requiring Tremere, cards like Defender of the Haven (that require either Tremere or !Tremere) do not show up.\n\nAlso, would it be possible to add to the \"print some\" feature not only a toggle option to print all copies of a given card, but to choose how many of those cards should be printed?\n\nPrince of Bonn, Germany",
+      "Id": "88313"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 20, 2018, 11:10\u202FPM",
+      "Body": "Same thing with Ennoias theatre, but the search glitch mattered to me less than the import one.",
+      "Id": "88321"
+    },
+    {
+      "Author": "Hyllan",
+      "Date": "Jul 7, 2018, 10:04\u202FAM",
+      "Body": "The last month I haven't been able to print old style cards with Amaranth, only the Amaranth's own style format. It won't generate the PDF if I choose the old layout option. Anyone else having this problem?",
+      "Id": "88618"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jul 7, 2018, 5:35\u202FPM",
+      "Body": "Yes. All of the old card JPEGs are 404ing.\n\nWonder if this was done to meet Dark Pack compliance?",
+      "Id": "88626"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jul 8, 2018, 8:04\u202FAM",
+      "Body": "Oh, wow, new vampire templates for Amaranth!\n\nI'm liking these way, way more than the previous ones. The oval frame gives the vampires regality and a nice old school touch.\n\nLove it.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "88635"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jul 8, 2018, 4:05\u202FPM",
+      "Body": "huh.I must confess that I'm not a fan of the tilted oval. the shape of the inner frame makes the whole asymmetry of the card even more unbalanced for me, and looks super awkward to me. I really like the name being over the text box, but overall, i think a more straightforward design would be better. I'm working on something now",
+      "Id": "88649"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jul 8, 2018, 4:50\u202FPM",
+      "Body": "I seriously super love a lot of the clan backgrounds he did for Amaranth, so I took his gorgeous Toreador background and simplified the design to be a little less awkward and busy.\n\nlike so:\n\nI also did a slightly darker and less saturated version:",
+      "Id": "88650"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jul 9, 2018, 3:16\u202FAM",
+      "Body": "I like the first one better; harkens back to when Gangrel were green, Torries were pink, and malks had recently spilled blood in someone's shower.....",
+      "Id": "88666"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Jul 9, 2018, 1:40\u202FPM",
+      "Body": "Why people insist on using green bars all over the place ? It's neither pretty nor functional. I'm not a fan of tilted oval frames either, the simple designs were way better than current.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "88678"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jul 31, 2018, 10:39\u202FAM",
+      "Body": "There is (still) one major drawback in the user friendliness of Amaranth:\n\nAt least on the latest Firefox (61.0.1 (64-bit)) I can't double click the search field's text to highlight it. I have to hit backspace to clear it for a new search.\n\nThis slows down deck building quite a bit. I'd actually rather the field blanked itself with just one click, but whatever's fine.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89475"
+    },
+    {
+      "Author": "1uck",
+      "Date": "Jul 31, 2018, 6:28\u202FPM",
+      "Body": "I would love it if when viewing a card it would list which sets it can be found in.",
+      "Id": "89492"
+    },
+    {
+      "Author": "DJHedgehog",
+      "Date": "Jul 31, 2018, 6:30\u202FPM",
+      "Body": "I have seen that you can print the cards in their original format, but I'm unable to find the option on the amaranth website to do so. Can someone walk me through getting the cards in a non-amaranth format?",
+      "Id": "89493"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jul 31, 2018, 6:37\u202FPM",
+      "Body": "> DJHedgehog wrote:\n> I have seen that you can print the cards in their original format, but I'm unable to find the option on the amaranth website to do so. Can someone walk me through getting the cards in a non-amaranth format?\n>\nMake a deck\n\n> Print some\n\n> Use old cards\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "89494"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 31, 2018, 10:44\u202FPM",
+      "Body": "> Kraus wrote:\n> At least on the latest Firefox (61.0.1 (64-bit)) I can't double click the search field's text to highlight it. I have to hit backspace to clear it for a new search\n>\nUse Chrome. You'll even get a little clear button:\n\nAmaranth targets webkit specifically as it's also the engine used for the app versions. Firefox has about 5% of the browser market, so while I'll try to ensure it works I'm not going to invest too much time focusing on it.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "89506"
+    },
+    {
+      "Author": "Yashori",
+      "Date": "Aug 15, 2018, 6:28\u202FPM",
+      "Body": "Hi, seems like the website is down right now, any update about it ?",
+      "Id": "90015"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 15, 2018, 9:43\u202FPM",
+      "Body": "Issues with DNS registrar \u2014 hopefully they will be resolved soon.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "90030"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 16, 2018, 11:22\u202FPM",
+      "Body": "DNS issues still persist. In the short term Amaranth can be accessed with the following temporary URL:  amaranth.zeroloop.com/\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "90054"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 19, 2018, 10:33\u202FPM",
+      "Body": "And Amaranth is back online; DNS issues resolved. Sorry about the hassle all.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "90138"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 1, 2018, 1:03\u202FPM",
+      "Body": "Hey!\n\nI'm hoping you're still accepting feedback.\n\nI would find it highly helpful to set a tag or something to 'not for legal play' or 'story line' cards, so that they would NOT show up in Amaranth's regular search.\n\nFor example, when I'd search for Nephandus, at Neph* it also lists \"Call of the Nephandi\", a story line card, not for legal play. This makes the searches confusing.\n\nIt's great that you have story line cards in there as well, but I'd love them to be in a separate search.\n\nAny opinion on this, @Ke.?\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "90878"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 9, 2018, 8:05\u202FPM",
+      "Body": "Hi Ke,\n\nIf you're open to feature requests, it would be very helpful if it were possible to sort crypts when printing decks to text. Thanks.",
+      "Id": "92310"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Dec 9, 2018, 9:17\u202FPM",
+      "Body": "Vlad Tepes is listed in Amaranth as an 11 cap, but he's actually a 10. This mistake has been in there forever, so I guess no one has mentioned it before?",
+      "Id": "92316"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Dec 9, 2018, 9:48\u202FPM",
+      "Body": "> Kraus wrote:\n> I would find it highly helpful to set a tag or something to 'not for legal play' or 'story line' cards, so that they would NOT show up in Amaranth's regular search.\n>\nThis is a bug. No story line cards should be visible in searching unless a story line is selected.\n\nIt will be fixed in the next release.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "92318"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Dec 14, 2018, 11:40\u202FAM",
+      "Body": "Another error: Chalcedony is listed as an 8-cap in Amaranth, in reality she's a 7-cap.\n\nPrince of Bonn, Germany",
+      "Id": "92381"
+    }
+  ]
+}

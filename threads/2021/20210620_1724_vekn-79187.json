@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-79187",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79187-tournament-rating-system",
+  "Title": "Tournament rating system",
+  "Messages": [
+    {
+      "Author": "gatocion",
+      "Date": "Jun 20, 2021, 5:24\u202FPM",
+      "Body": "Hi!\nRecently I had a discussion with a friend about the tournament rating system and couldn't find anything about it (I look the vekn site, sorry if it was there).\nOn the tournament rules section 3.1 Round Structure states:\n\nWarning: Spoiler!\n\nV:TES tournaments shall consist of a minimum of three rounds. After the preliminary two or more rounds, the players are ranked according to the number of Game Wins (see section 3.7.1). For players with the same number of Game Wins, the players' total accumulated Victory Points from the preliminary rounds are used as a tie-breaker. In the event that ties still exist, Tournament Points (see section 3.7.3) are used. Remaining ties for any of the top five rankings are resolved using any fair random method (e.g., a coin toss or a die roll). The five highest-ranked players advance to the final round.\n\nFrom that it's clear how the 5 final players are chosen (GW, VP and then TPs), but what about the final classification once the final has been played?\n\nI always had understood that the winner of the final table was first, then de following 4 according to their final table results, and the rest of the players according to its GW, VP and TP.\nMy friend stated that he read somewhere that the rating from the 6th player to the last one, is due to TP, so it could be that a player without GW but with more TPs gor on a higher position than a player with 1GW but less TPs as in the following example.\n\nPlayer / Tps / GW / VP\nPlayer F 15615.0\nPlayer G 13215.5\nPlayer H12613.5\nPlayer I 12003.0\nPlayer J 12002.0\nPlayer K 11414.5\nAs I always understood the ranking should be\nPlayer G13215.5\nPlayer F15615.0\nPlayer K11414.5\nPlayer H12613.5\nPlayer I12003.0\nPlayer J12002.0\nCan someone clarify that to me or point me on any direction? I would really appreciate it!\n\nThanks!\n\nVEKN#4200008",
+      "Id": "102524"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jun 20, 2021, 6:50\u202FPM",
+      "Body": "Ranking is done by GW, then VP, then TP as indicated by the rules you quoted, before and after the finals.\n\nFinals winner is first, other finalists are all tied for second, as explained.\n\nMaybe the confusion comes from how the rating points (used for global player rankings across all tournaments) are computed - they are a different thing altogether.",
+      "Id": "102525"
+    },
+    {
+      "Author": "gatocion",
+      "Date": "Jun 22, 2021, 5:02\u202FAM",
+      "Body": "Thanks Lionel!\n\nDo you know if this is stated somewhere?\n\nVEKN#4200008",
+      "Id": "102541"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jun 22, 2021, 6:50\u202FAM",
+      "Body": "From the very tournament rules document you quoted.",
+      "Id": "102542"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 22, 2021, 6:50\u202FAM",
+      "Body": "www.vekn.net/tournament-rules/3-tournament-mechanics\n\n3.1. Round Structure\nV:TES tournaments shall consist of a minimum of three rounds. After the preliminary two or more rounds, the players are ranked according to the number of Game Wins (see section 3.7.1). For players with the same number of Game Wins, the players' total accumulated Victory Points from the preliminary rounds are used as a tie-breaker. In the event that ties still exist, Tournament Points (see section 3.7.3) are used. Remaining ties for any of the top five rankings are resolved using any fair random method (e.g., a coin toss or a die roll). The five highest-ranked players advance to the final round.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102543"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jun 22, 2021, 6:54\u202FAM",
+      "Body": "And if you\u2019re wondering about rating points and global ranking (across tournaments), the system is explained here: www.vekn.net/rating-system\n\nIt has nothing to do with tournament points.",
+      "Id": "102546"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Jul 16, 2021, 12:19\u202FPM",
+      "Body": "I apologize for the offtopic, but I found no way to write direct messages on this forum.\n\n@gatocion, can you share you contacts (email or whatever)?\nI like your one-day-one-deck articles from vtes.info, but site is dead now (i still have articles #4 to #13 saved in RSS) but it's possible with your permission to host them on codex-of-the-damned.org (maintained by @lip).",
+      "Id": "102711"
+    },
+    {
+      "Author": "gatocion",
+      "Date": "Jul 28, 2021, 5:13\u202FAM",
+      "Body": "Hi!\nJust saw this now.\nNo direct message no tagging a user with \"@\" either.\nMy email is .\nThe web is not mine, despite that I help with it, it's owner is Arnau Diez (Spanish NC).\nThe web has been relocated to: elderlibrary.info/\n\nVEKN#4200008",
+      "Id": "102806"
+    }
+  ]
+}

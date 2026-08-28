@@ -1,0 +1,248 @@
+{
+  "ThreadId": "vekn-67154",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/67154-optimal-seatings-changes",
+  "Title": "Optimal seatings changes",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Nov 3, 2014, 8:44\u202FAM",
+      "Body": "Please disregard those results, for some of them are wrong due to a flaw in the validation.\n\nFrom now on, I strongly recommand not to use the version 1.5e but version 1.5f :\n\nExcel: www.vekn.net/images/stories/downloads/thearchon1.5f.xlsx\nLibreOffice: www.vekn.net/images/stories/downloads/thearchon1.5f.ods\n\nI've been working recently on the 2R+F optimal seatings of the archons, and I've found some more \"optimal\" seatings than the current ones. The search has been done through exhaustive computations so I doubt there will be better results.\nOf course, there's more than one seating that is optimal, but they're all equivalent. For instance, for 10 players:\n\nT1: 4 9 2 7 1 T2: 10 3 5 6 8\nand\nT1: 4 8 2 6 1 T2: 10 5 9 3 7\n\nare the same in respect to rules 1 to 8. They both violate rule 2 (2. No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)).\nStarting transfers can't be equitably distributed (rule 8) because there are 28 transfers to divide between 10 players.\n\nNevertheless, in the first case, we have an absolute deviation of 0,72: 1, 2, 3, 4, 6, 10 have 5 transfers | 5, 8 have 7 transfers | 7, 9 have 6 transfers\nIn the second case, an absolute deviation of 0,72 too: 1, 2, 4, 6, 8, 10 have 5 transfers | 3, 9 have 7 transfers | 5, 7 have 6 transfers.\n\nBasically, some players swap their positions. We'll choose arbitrarily one of the optimal seatings as the official one.\n\nThe current optimal seating for 10 players is:\n\nT1: 10 1 4 7 3 T2: 5 6 9 2 8\n\nWhich gives us an absolute deviation of 1,28: 1, 6 have 3 transfers | 2, 7 have 6 transfers | 3, 4, 8, 9 have 7 transfers | 5, 10 have 5 transfers\nwhich is worse (we have 2 players with 3 transfers).\n\nThe optimal seatings will be updated in the next version of the archon, here's the current \"best\" optimal seatings:\n(NB: in some cases, rule \"3. Available VPs are equitably distributed.\" is violated too, when the tables have different sizes. The optimal seating is the one with the smaller absolute deviation on the vps).\n\n10 players: 4 9 2 7 1 | 10 3 5 6 8\nRule 2 KO (player 1 shares a table with player 2): 24 (once), 8 (twice)\nRule 8 KO. Absolute deviation is: 0.72 => 1, 2, 3, 4, 6, 10 have 5 transfers | 5, 8 have 7 transfers | 7, 9 have 6 transfers\n(Current seating has an absolute deviation of 1.28)\n\n11 players: no calculated, it should be avoided anyway\n\n12 players: 4 11 9 5 | 8 3 1 10 | 12 7 2 6  (fixed in 1.5f)\nRule 2 KO (player 1 shares a table with player 3): 30 (once), 3 (twice)\nRule 8 KO. Absolute deviation is: 0.333333333333333 => 1, 4, 6, 7, 8, 9, 10, 11 have 5 transfers | 2, 12 have 6 transfers | 3, 5 have 4 transfers\n(Current seating has an absolute deviation of 0.5)\n\n13 players: 4 13 6 12 7 | 3 8 2 10 | 11 5 9 1  (fixed in 1.5f)\nReverted back to 1.5a seating, until we find a better seating.\n\n14 players: 5 3 12 7 11 | 9 13 2 8 1 | 14 10 4 6  (fixed in 1.5f)\nRule 2 KO (player 1 shares a table with player 2): 42 (once), 5 (twice)\n(Current seating is: 40 once, 6 twice)\nRule 3 KO. Absolute deviation is: 0,476190476190476 => 1, 4, 6, 8, 11, 12, 13, 14 have 9 VP | 2, 3, 5, 7, 9, 10 have 10 VP\n(Current seating has the same absolute deviation)\nRule 8 KO. Absolute deviation is: 0,836734693877551 => 1, 3 have 4 transfers | 2, 12, 14 have 6 transfers | 4, 5, 6, 7, 8, 11, 13 have 5 transfers | 9 have 7 transfers | 10 have 8 transfers\n(Current seating has the same absolute deviation)\n\n15 players: 9 13 7 11 1 | 14 5 12 6 2 | 15 4 10 8 3  (fixed in 1.5f)\nRule 2 KO (player 2 shares a table with player 5): 48 (once), 6 (twice)\nRule 8 KO. Absolute deviation is: 0,72 => 1, 6, 7, 9, 11, 12, 13, 14, 15 have 5 transfers | 2, 4, 5 have 6 transfers | 3, 8, 10 have 7 transfers\n(Current seating has an absolute deviation of 1.09)\n\n16 players: 16 11 6 1 | 12 15 2 5 | 8 3 14 9 | 4 7 10 13\nAll rules are OK!\n(Current seating is OK too!)\n\n17 players: 5 3 7 14 10 | 4 12 15 6 | 9 16 11 1 | 17 13 2 8  (fixed in 1.5f)\nRule 2 KO (player 3 shares a table with player 5): 54 (once), 1 (twice)\n(Current seating is KO, 46 once, 5 twice)\nRule 3 KO. Absolute deviation is: 0,617647058823529 => 1, 2, 4, 7, 10, 14 have 9 VP | 3, 5 have 10 VP | 6, 8, 9, 11, 12, 13, 15, 16, 17 have 8 VP\n(Current seating has a better absolute deviation: 0,5 => 1, 2, 3, 4, 5, 6, 8, 11, 13, 17 have 9 VP | 7, 9, 10, 12, 14, 15, 16 have 8 VP)\nRule 8 KO. Absolute deviation is: 0,311418685121107 => 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 17 have 5 transfers | 8 have 7 transfers | 13 have 6 transfers\n(Current seating has an absolute deviation of 0.93)\n\n18 players: 9 5 7 15 11 | 4 13 16 6 1 | 10 17 12 2 | 18 8 14 3  (fixed in 1.5f)\nRule 2 KO (player 1 shares a table with player 4): 60 (once), 2 (twice)\n(Current seating has 48 once, 8 twice)\nRule 3 KO. Absolute deviation is: 0,555555555555556 => 1, 4, 5, 6, 7, 9 have 10 VP | 2, 3, 8, 10, 11, 13, 15, 16 have 9 VP | 12, 14, 17, 18 have 8 VP\n(Current seating has a better absolute deviation of 0,1111)\nRule 8 KO. Absolute deviation is: 0,518518518518519 => 1, 4, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18 have 5 transfers | 2, 5 have 6 transfers | 3, 14 have 7 transfers\n(Current seating has an absolute deviation of 0.74)\n\n19 players: 4 18 7 11 6 | 19 9 12 3 1 | 15 13 17 2 8 | 14 10 5 16 (fixed in 1.5f)\nRule 2 KO (player 1 shares a table with player 3): 66 (once), 3 (twice)\n(Current seating is: 56 once, 8 twice)\nRule 3 KO. Absolute deviation is: 0,552631578947368 => 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 15 have 10 VP | 5, 10, 14, 17, 18, 19 have 9 VP | 16 have 8 VP\n(Current seating has a better absolute deviation: 0,5)\nRule 8 KO. Absolute deviation is: 0,648199445983379 => 1, 4, 6, 7, 11, 12, 13, 14, 15, 16, 17, 18, 19 have 5 transfers | 2, 9, 10 have 6 transfers | 3, 5, 8 have 7 transfers\n(Current seating has an absolute deviation of 0.69)\n\n20 players: 9 4 12 16 11 | 14 18 7 2 6 | 19 10 17 13 1 | 20 15 5 8 3\nRule 2 KO (player 3 shares a table with player 5): 72 (once), 4 (twice)\n(Current seating is: 58 once, 11 twice)\nRule 8 KO. Absolute deviation is: 0,72 => 1, 6, 7, 9, 11, 12, 14, 16, 17, 18, 19, 20 have 5 transfers | 2, 4, 10, 15 have 6 transfers | 3, 5, 8, 13 have 7 transfers\n(Current seating has an absolute deviation of 0.76)\n\n21 players: 13 20 7 15 1 | 9 16 2 18 | 4 12 19 14 | 21 8 17 10 | 5 3 11 6\nRule 2 KO (player 3 shares a table with player 5): 66 (once), 1 (twice)\n(Current seating is: 58 once, 11 twice)\nRule 3 KO. Absolute deviation is: 0,533333333333333 => 1 have 10 VP | 2, 3, 4, 5, 7, 13, 15, 20 have 9 VP | 6, 8, 9, 10, 11, 12, 14, 16, 17, 18, 19, 21 have 8 VP\n(Current seating has a better absolute deviation: 0.495)\nRule 8 KO. Absolute deviation is: 0,258503401360544 => 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 20, 21 have 5 transfers | 15 have 6 transfers | 17 have 7 transfers\n(Current seating has the same absolute deviation)\n\n22 players: 18 21 16 19 1 | 22 17 12 2 6 | 9 13 7 15 | 4 8 10 11 | 14 5 20 3\nRule 2 KO (player 3 shares a table with player 5): 66 (once), 5 (twice)\n(Current seating is: 60 once, 8 twice)\nRule 3 KO. Absolute deviation is: 0,472727272727273 => 1, 2, 6 have 10 VP | 3, 4, 5, 7, 8, 9, 10, 12, 16, 17, 18, 19, 21, 22 have 9 VP | 11, 13, 14, 15, 20 have 8 VP\n(Current seating has a better absolute deviation: 0,254)\nRule 8 KO. Absolute deviation is: 0,446280991735537 => 1, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 have 5 transfers | 2, 5 have 6 transfers | 3, 10 have 7 transfers\n(Current seating has the same absolute deviation)\n\n23 players: 23 18 21 11 16 | 19 22 17 12 6 | 9 13 7 20 1 | 14 4 2 8 | 15 5 10 3\nRule 2 KO (player 2 shares a table with player 4): 72 (once), 6 (twice)\n(Current seating is 76 once, 4 twice, which is better)\nRule 3 KO. Absolute deviation is: 0,382608695652174 => 1, 6, 7, 9, 11, 12, 13 have 10 VP | 2, 3, 4, 5, 8, 10, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 have 9 VP\n(Current seating has the same absolute deviation)\nRule 8 KO. Absolute deviation is: 0,578449905482042 => 1, 2, 6, 7, 9, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 have 5 transfers | 3, 8, 10 have 7 transfers | 4, 5, 12 have 6 transfers\n(Current seating has an absolute deviation of 0.87)\nNote also that rule 7. \"A player doesn't play in the same seat position, if possible.\" is violated in the current seating (player 3, table 1, position 3)\n\n24 players: 19 23 17 21 16 | 24 18 22 11 6 | 14 20 12 1 7 | 4 9 2 13 8 | 15 10 5 3\nRule 2 KO.\nRule 3 KO. Absolute deviation is: 0,466666666666667 => 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20 have 10 VP | 3, 5, 10, 15, 21, 22, 23, 24 have 9 VP\n(Current seating has the same absolute deviation)\nRule 8 KO. Absolute deviation is: 0,666666666666667 => 1, 2, 4, 6, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24 have 5 transfers | 3, 5, 8, 13 have 7 transfers | 7, 9, 10, 20 have 6 transfers\n(Current seating has an absolute deviation of 0.95)\n\n25 players*: 10 14 22 18 1 | 15 19 2 23 6 | 20 24 7 3 11 | 25 4 12 8 16 | 5 9 17 13 21 (seating was done manually)\nRule 2 OK.\n(Current seating is 84 once, 8 twice)\nRule 8 KO. Absolute deviation is: 0,72 => 1, 2, 4, 6, 9, 11, 12, 15, 16, 17, 19, 21, 22, 23, 24 have 5 transfers | 3, 5, 8, 13, 18 have 7 transfers | 7, 10, 14, 20, 25 have 6 transfers\n(Current seating has an absolute deviation of 0.72)\n\n26 players: 26 21 24 19 11 | 22 25 20 16 12 | 14 17 7 23 | 4 13 2 15 | 18 8 5 6 | 9 3 10 1\nRule 2 KO.\nRule 3 KO. Absolute deviation is: 0,410256410256411 => 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 18, 19, 20, 21, 23, 24, 25, 26 have 9 VP | 12, 13, 14, 16, 17, 22 have 8 VP\n(Current seating has an absolute deviation of 0.51)\nRule 8 KO. Absolute deviation is: 0,390532544378698 => 1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 have 5 transfers | 2, 4 have 6 transfers | 3, 5 have 7 transfers\n(Current seating has an absolute deviation of 1.34)\n\n27 players: 19 26 17 24 11 | 27 22 25 20 1 | 23 18 21 16 6 | 14 9 12 7 | 4 13 2 8 | 15 10 5 3\nRule 2 KO.\nRule 3 KO. Absolute deviation is: 0,111111111111111 => 1, 6, 11 have 10 VP | 2, 3, 4, 5, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 have 9 VP\n(Current seating has an absolute deviation of 0.40)\nRule 8 KO. Absolute deviation is: 0,518518518518518 => 1, 2, 4, 6, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 have 5 transfers | 3, 5, 8 have 7 transfers | 7, 9, 10 have 6 transfers\n(Current seating has an absolute deviation of 1.38)\n\n29 players*: 24 28 22 26 21 | 29 23 27 16 11 | 19 14 17 6 1 | 4 18 12 7 2 | 25 9 20 13 8 | 15 10 5 3\nRule 2 KO.\nRule 3 KO. Absolute deviation is: 0,425287356321839 => 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 have 10 VP | 3, 5, 10, 15, 26, 27, 28, 29 have 9 VP\n(Current seating has an absolute deviation of 0.42)\nRule 8 KO. Absolute deviation is: 0,677764565992866 => 1, 4, 6, 11, 12, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29 have 5 transfers | 2, 7, 9, 10, 14 have 6 transfers | 3, 5, 8, 13, 20 have 7 transfers\n(Current seating has an absolute deviation of 1.33)\n\n30 players*: 24 28 22 26 21 | 29 23 27 16 11 | 19 14 17 6 1 | 4 9 12 7 2 | 30 25 20 18 13 | 15 10 5 8 3\nRule 2 KO.\nRule 8 KO. Absolute deviation is: 0,72 => 1, 4, 6, 11, 12, 15, 16, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 30 have 5 transfers | 2, 7, 9, 10, 14, 25 have 6 transfers | 3, 5, 8, 13, 18, 20 have 7 transfers\n(Current seating has an absolute deviation of 1.52)\n\n31 players: 23 26 29 25 28 | 27 30 21 24 17 | 31 22 19 20 18 | 14 8 12 16 | 4 13 7 11 | 9 5 2 6 | 15 3 10 1\nRule 2 KO.\nRule 3 KO. Absolute deviation is: 0,16589861751152 => 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 have 9 VP | 16 have 8 VP\n(Current seating has an absolute deviation of 0.55)\nRule 8 KO. Absolute deviation is: 0,468262226847034 => 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31 have 5 transfers | 5, 17, 25 have 6 transfers | 10, 18, 19 have 7 transfers\n(Current seating has an absolute deviation of 1.32)\n\nComputing results for 30+ players in progress...\n\n* didn't perform an exhaustive search\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67154"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Nov 3, 2014, 8:52\u202FAM",
+      "Body": "Attachment Work_and.jpg not found",
+      "Id": "67155"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 3, 2014, 1:09\u202FPM",
+      "Body": "Seating for 17 players is interesting: the current archon has a better absolute deviation for VPs, and a worse one for transfers.\nAnd no, you can't have both\n\nQuestion is: would you favor the transfers so they are more equitably distributed, or the VPs (ie: how many times you sit at a 4-players table)?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67170"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Nov 3, 2014, 1:11\u202FPM",
+      "Body": "> Ankha wrote:\n> Question is: would you favor the transfers so they are more equitably distributed, or the VPs (ie: how many times you sit at a 4-players table)?\n>\nI would rather the VPs be more equitably distributed than the transfers.",
+      "Id": "67172"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 3, 2014, 1:23\u202FPM",
+      "Body": "> BenPeal wrote:\n>\n> > Ankha wrote:\n> > Question is: would you favor the transfers so they are more equitably distributed, or the VPs (ie: how many times you sit at a 4-players table)?\n> >\n> I would rather the VPs be more equitably distributed than the transfers.\n>\nI guess you have to balance your data.\n\nBecause going from 0.5 to 0.56 for the VP is no big deal but going from 0.93 to 0.31 for transfers is more important (IMO).",
+      "Id": "67173"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 3, 2014, 1:24\u202FPM",
+      "Body": "> Timo wrote:\n>\n> > BenPeal wrote:\n> >\n> > > Ankha wrote:\n> > > Question is: would you favor the transfers so they are more equitably distributed, or the VPs (ie: how many times you sit at a 4-players table)?\n> > >\n> > >\n> > I would rather the VPs be more equitably distributed than the transfers.\n> >\n> I guess you have to balance your data.\n>\n> Because going from 0.5 to 0.56 for the VP is no big deal but going from 0.93 to 0.31 for transfers is more important (IMO).\n>\nI'll do a test and keep only the best deviation for VPs (0.5) and see what we obtain as transfer deviation.\nAnother thing is: would you like to play your 2 rounds on a 4 players table and have more transfers, or play a 5-players and a 4-players tables with \"slightly\" less transfers (\"slightly\" being the big unknown).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67174"
+    },
+    {
+      "Author": "BenPeal",
+      "Date": "Nov 3, 2014, 1:28\u202FPM",
+      "Body": "> Timo wrote:\n>\n> > BenPeal wrote:\n> >\n> > > Ankha wrote:\n> > > Question is: would you favor the transfers so they are more equitably distributed, or the VPs (ie: how many times you sit at a 4-players table)?\n> > >\n> > >\n> > I would rather the VPs be more equitably distributed than the transfers.\n> >\n> I guess you have to balance your data.\n>\n> Because going from 0.5 to 0.56 for the VP is no big deal but going from 0.93 to 0.31 for transfers is more important (IMO).\n>\nExcept that the score of the game is based on Victory Points, not transfers.",
+      "Id": "67175"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Nov 3, 2014, 7:49\u202FPM",
+      "Body": "> BenPeal wrote:\n> Except that the score of the game is based on Victory Points, not transfers.\n>\nIndeed it is, but getting stuff out one round earlier might make the difference between getting most/more (if any) Victory Points though...\n\nAin't so simple but I kind trust that you guys are way ahead o me thinking these things out...\n\nFinnish  Politics!",
+      "Id": "67191"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2014, 1:38\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> 17 players: 13 16 7 1 6 | 17 3 11 2 | 4 8 15 10 | 5 12 9 14\n> Rule 2 KO.\n> Rule 3 KO. Absolute deviation is: 0,558823529411765 => 1 have 10 VP | 2, 3, 4, 5, 6, 7, 13, 16 have 9 VP | 8, 9, 10, 11, 12, 14, 15, 17 have 8 VP\n> (Current seating has a better absolute deviation 0.5: 1, 2, 3, 4, 5, 6, 8, 11, 13, 17 have 9 VP | 7, 9, 10, 12, 14, 15, 16 have 8 VP)\n> Rule 8 KO. Absolute deviation is: 0.311418685121107 => 1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17 have 5 transfers | 2 have 6 transfers | 9 have 7 transfers\n> (Current seating has an absolute deviation of 0.93)\n>\nEDIT: THERE IS a seating with a VP absolute deviation of 0.5 and a better transfer absolute deviation:\n\n11 8 6 10 7 | 9 4 14 1 | 5 3 15 2 | 12 17 13 16\n\n3. Available VPs are equitably distributed.\nKO. Absolute deviation is: 0,5 =>  1, 2, 3, 4, 5, 6, 7, 8, 10, 11 have 9 VP 9, 12, 13, 14, 15, 16, 17 have 8 VP\n8. Starting transfers are equitably distributed. [NOAL]\nKO. Absolute deviation is: 0,816608996539792 =>  11 have 3 transfers 6, 12, 14 have 4 transfers 1, 3, 4, 5, 8, 10, 15 have 5 transfers 2, 7, 9, 17 have 6 transfers 13, 16 have 7 transfers\nThere's still one player with only 3 transfers which is lame.\n\nWith the seatings that favor transfers:  1, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17 have 5 transfers 2 have 6 transfers 9 have 7 transfers\nThe VP distribution is:  1 have 10 VP 2, 3, 4, 5, 6, 7, 13, 16 have 9 VP 8, 9, 10, 11, 12, 14, 15, 17 have 8 VP\nBasically, we have one more player with 8 VPs, one more player with 10 VPs instead of two players with 9 VPs\n\nThe player with 10 VP has the lowest transfers though (5).\nThe player with the most transfers (7) has the lowest VPs (8).\n\nThoughts?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67266"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 7, 2014, 7:48\u202FAM",
+      "Body": "Seems fair to me.",
+      "Id": "67289"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 7, 2014, 2:04\u202FPM",
+      "Body": "Hmpf. I've rewritten a faster algorithm, and discovered that there was a better seating for\n\n17 players: 9 16 11 6 10 | 13 3 7 1 | 4 8 2 14 | 5 12 17 15\nRule 2 KO.\nRule 3 KO. Absolute deviation is: 0,5 => 1, 2, 3, 4, 5, 6, 9, 10, 11, 16 have 9 VP | 7, 8, 12, 13, 14, 15, 17 have 8 VP\n(Current seating has a the same absolute deviation)\nRule 8 KO. Absolute deviation is: 0,311418685121107 => 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16 have 5 transfers | 15 have 6 transfers | 17 have 7 transfers\n(Current seating has an absolute deviation of 0.93)\n\nSo it's the best of the two worlds.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67306"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 12, 2014, 2:07\u202FPM",
+      "Body": "I was looking for hese famous \"rules\" and was amazed to find that i was not allowed to have a player be twice in the 5th seat but nothing prevented a player to be twice in the 1st seat.\n\nI don't understand he reason behind this rule.\n\nWhat I understand in  here that LSJ considered (back in 2002) that 5th was the worst place.\n\nI disagree ! IMO, 1st is the worst case scenario 1 alone transfer is meaningless in most deck because you can't influence out a meaningfull vampire with only 1 transfer (I mean except in dedicated decks like LOP or DBR).\n\nSo why forbidding a player being 5th twice while allowing a player to be 1st twice.\n\nAnd in the case of a 5 players tournament, we have player 2 being 1st twice and 2nd the 3rd time (for a cumulative total of 4 transfers in his firt turns) while player 4 have 12 transfers being 4th twice and 5th the 3rd time !!\n\nI found this to be strange...\n\nSo what is your view of it ?",
+      "Id": "67367"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 12, 2014, 10:01\u202FPM",
+      "Body": "> Timo wrote:\n> I was looking for hese famous \"rules\" and was amazed to find that i was not allowed to have a player be twice in the 5th seat but nothing prevented a player to be twice in the 1st seat.\n>\nRule 7 prevents it:\n\n7. A player doesn't play in the same seat position, if possible.\n\nInteresting link anyway (I understand at least what \"NOAL\" means, thought it was something like \"no alignment\" )\n\nAnyway, since the goal is to distribute equitably transfers, you can't be first then second for instance.\n\nBeing 5th is worse than being 4th. But I don't know if it's worse than being first. I remember lost game because I was always one turn late vs my predator.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67375"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 13, 2014, 8:36\u202FAM",
+      "Body": "Ok, it is debatable if 5th is better or worse than 1st.\n\nBut actually, it IS debatable... Which also means that there is a criteria which prevent one of those starting place to be duplicated while the other can be (and is).\n\nWhy should it stay like that ?\n\nIs it possible to review these \"rules\" ? (and maybe update them).",
+      "Id": "67381"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 13, 2014, 8:43\u202FAM",
+      "Body": "> Timo wrote:\n> Ok, it is debatable if 5th is better or worse than 1st.\n>\n> But actually, it IS debatable... Which also means that there is a criteria which prevent one of those starting place to be duplicated while the other can be (and is).\n>\nNo. If possible, seating positions can't be duplicated. Or I don't understand what you're saying.\n\n> Timo wrote:\n> Why should it stay like that ?\n>\nMoot because your premise is wrong.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67382"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 13, 2014, 8:49\u202FAM",
+      "Body": "The rules I found in the link above are these ones :\n\n> 1. No pair of players repeat their predator-prey relationship. This is mandatory, by the VEKN rules.\n> 2. No pair of players share a table through all three rounds, when possible.\n>\n> 3. Available VPs are equitably distributed.\n> 4. No pair of players share a table more often than necessary.\n> 5. A player doesn't sit in the fifth seat more than once.\n> 6. No pair of players repeat the same relative position[*], when possible.\n> 7. A player doesn't play in the same seat position, if possible.\n>\n> 8. Starting transfers are equitably distributed. [NOAL]\n> 9. No pair of players repeat the same relative position group[^], when possible.\n>\nAnd we have rule 5 who is considered more important than rule 7 which have an \"if possible\" in it.\n\nI was speacking about that.",
+      "Id": "67383"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 13, 2014, 9:42\u202FAM",
+      "Body": "> Timo wrote:\n> The rules I found in the link above are these ones :\n>\n> > 5. A player doesn't sit in the fifth seat more than once.\n> > 7. A player doesn't play in the same seat position, if possible.\n> >\n> Currently (for seatings up to 23), rule 7 has never been violated: it was always possible to seat the player in another position.\n> This is also enforced by the fact that in order to have the best distribution of transfers, a player can't seat twice at the same position.\n>\n> So, there's no need right now to change rule 7 or 5: rule 7 is a superset of rule 5 and the \"if possible\" clause has never been broken.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67384"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 13, 2014, 10:20\u202FAM",
+      "Body": "You are in your hunt for the best seating for 2R+F tournament.\n\nBut I was speaking of the seatings for 3R+F tournament where for 5 players tournaments, we have player 2 who play 2nd then 1st and 1st.\n\nWithout looking for extreme cases like 5 players tournaments, in 10 players tournaments, players 2 and 7 play twice in the second place and 3 and 8 twice in the 4th place.\n\nEDIT : and in 15-players tournament, 3 and 8 play twice in the 3rd position\n\n(I will not check furher because i is obviously less likely to happen and I do that \"manually\" checking the tables in the archon (1.5c which I downloaded yesterday here in vekn.net)",
+      "Id": "67385"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 13, 2014, 10:33\u202FAM",
+      "Body": "> Timo wrote:\n> You are in your hunt for the best seating for 2R+F tournament.\n>\n> But I was speaking of the seatings for 3R+F tournament where for 5 players tournaments, we have player 2 who play 2nd then 1st and 1st.\n>\n> Without looking for extreme cases like 5 players tournaments, in 10 players tournaments, players 2 and 7 play twice in the second place and 3 and 8 twice in the 4th place.\n>\nYou're speaking about the current seatings. It doesn't mean there isn't a better seating for which rule 7 applies in full.\nWe must first search better seatings that enforce the current rules before thinking of changing them.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67386"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 13, 2014, 10:43\u202FAM",
+      "Body": "Why that ?\n\nIf the rules are to be changed, I guess it is for the best to do it BEFORE looking for better seatings.\n\nI mean : if after review, one decides to change the rules (I am no sure whose role it is to change them), it would be logical to check afterward the current seatings to look for better ones...\n\nWhat I mean is that the rules which FORBID to have a player playing 5th in 2 different rounds could potentially prevent a better VP/transfer repartition while having no good effect.\n\n(I state here what is my opinion that forbiding the repetition of the 5th place while trying to share evenly the transfer and to avoid if possible the repetition of any place is redundant while potentially bad)",
+      "Id": "67387"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 13, 2014, 1:01\u202FPM",
+      "Body": "> Timo wrote:\n> Why that ?\n>\n> What I mean is that the rules which FORBID to have a player playing 5th in 2 different rounds could potentially prevent a better VP/transfer repartition while having no good effect.\n>\nBecause the more constraints we have, the less possibilities we have. And since possibilities are exponentials, having the tighest constraints is essential to achieve computation.\nThe rule \"COULD potentially prevent\" (emphasis mine) some better results. But maybe it doesn't. On 2R it doesn't change anything, I haven't studied 3R yet.\nIf you have some spare time, try to find one seating where the rule prevents a better seating. If it does, okay we may think about dropping it. If it doesn't, it's a easy way to reduce the number of possible seatings.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67389"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 13, 2014, 2:34\u202FPM",
+      "Body": "It is only a constraint of computing time ?\n\nSo you will gain some time when checking your conditions and so deleting this rule which is redundant with the rule 7 every time when you have reach a number of player big enough to avoid infringing rule 7 (always for 2R+F as you have pointed out).\n\nAnd for the few cases where you have to add some odd seatings which would have been already eliminated, I guess the additional compuing time is meaningless compare to the size of the data no ?",
+      "Id": "67390"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 13, 2014, 2:54\u202FPM",
+      "Body": "> Timo wrote:\n> It is only a constraint of computing time ?\n>\n> So you will gain some time when checking your conditions and so deleting this rule which is redundant with the rule 7 every time when you have reach a number of player big enough to avoid infringing rule 7 (always for 2R+F as you have pointed out).\n>\n> And for the few cases where you have to add some odd seatings which would have been already eliminated, I guess the additional compuing time is meaningless compare to the size of the data no ?\n>\nIf you inforce strictly rule 7 (7. A player doesn't play in the same seat position, if possible.), it cuts branches in the tree of possibilities.\n\nFor instance, when I must seat player 4 of a 10-players table, it removes 2 possibilities for 4. Let's say I have 5,6,7,8,9 and 10 to seat afterwards, I'm saving 2 * (5 * 4 * 3 * 2 * 1) possibilities (because there would be 5 possibilities for 5, 4 possibilities for 6, 3 for 7 etc.). A little less in truth because 5, 6, 7... also have constraints, but it's really a huge save.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67391"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 23, 2015, 12:37\u202FPM",
+      "Body": "I'm done with 2R+F computations for up to 31 players. Some computations couldn't have been done exhaustively (the more 5-players tables there is, the more exponential it becomes).\n\nI'm starting to work on 3R+F.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69400"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 24, 2015, 8:09\u202FAM",
+      "Body": "Last tournament we had (10 plrs with 3R+F) two players were on the same table the whole game. Apparently Marko's deck shut down Tom's pretty well in all of those so he wasn't exactly happy about it.\n\nvekn.net/forum/9-event-reports-and-twd/69254\n\nUsed the latest Archon (1,5c) for the first time and I don't reacll if I ever encountered that before with the previous versions.\n\nNot really optimal if you play all three games in the same table as one other player... :/\n\nFinnish  Politics!",
+      "Id": "69420"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 24, 2015, 10:44\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> Last tournament we had (10 plrs with 3R+F) two players were on the same table the whole game. Apparently Marko's deck shut down Tom's pretty well in all of those so he wasn't exactly happy about it.\n>\n> vekn.net/forum/9-event-reports-and-twd/69254\n>\n> Used the latest Archon (1,5c) for the first time and I don't reacll if I ever encountered that before with the previous versions.\n>\n> Not really optimal if you play all three games in the same table as one other player... :/\n>\nArchon 1.5c contains the historical seating. The new seatings for 2R+F will be in the next archon.\nI haven't started to work on 3R+F yet, but with 10 players, there is a high possiblity that you are obliged to have 2 players share the same table the whole 3 rounds.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69425"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 25, 2015, 2:15\u202FPM",
+      "Body": "Haven't checked my old 10 player Archons if the same thing happened there or was this just an isolated case (probably not).\n\nFinnish  Politics!",
+      "Id": "69486"
+    },
+    {
+      "Author": "david.tatu",
+      "Date": "Feb 26, 2015, 1:17\u202FPM",
+      "Body": "I do not think it is possible with 2 tables and 10 players to avoid having at least 1 pair that plays all three games with each other.\nIf you only have two tables, each player has to play on one of them at least twice.\nThe only way to avoid this is more players then 10 so you get more then 2 tables.\n\nDavid Tatu\nV:EKN Scribe",
+      "Id": "69499"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 26, 2015, 2:03\u202FPM",
+      "Body": "It's impossible indeed.\n\nR1: [1 2 3 4 5] and [6 7 8 9 10]\n\n> Consider player 1. On round 2, let's say he must be sitting with noone of the first table, so :\n>\n> R2: [1 6 7 8 9] and the rest: [2 3 4 5 10]\n>\n> Now consider player 6: he must sit with players others than 7, 8 and 9 so:\n>\n> R3: [6 10 3 4 5] which gives as the last table [1 2 7 8 9]\n>\n> So 7, 8 and 9 have shared 3 games.\n>\n> Or let's say he sits with a player from the first round (eg. 2):\n>\n> R2: [1 2 6 7 8] and [3 4 5 9 10]\n>\n> Considering again player 6:\n>\n> R3: [6 9 10 1 3] and [2 4 5 7 8]\n>\n> So 7 and 8 have shared 3 games\n>\n> Or let's say he sits with two players from the first round (eg. 2 and 3):\n>\n> R2: [1 2 3 6 7 ] and [4 5 8 9 10]\n>\n> Considering again player 6:\n>\n> R3: [6 8 9 10 1] and [2 3 4 5 7] (8 and 9, 2 and 3 have shared 3 games)\n> or [6 8 9 10 2] and [1 3 4 5 7] (8 and 9, 3 and 4 have shared 3 games)\n> or [6 8 9 10 3] and [1 2 4 5 7] (8 and 9, 4 and 5 have shared 3 games)\n> or [6 8 9 10 4] and [1 2 3 5 7]\n> etc.\n>\n> Or let's say he sits with three players from the first round (eg. 2, 3 and 4):\n>\n> R2: [1 2 3 4 6 ] and [5 7 8 9 10]\n>\n> Considering again player 6:\n>\n> R3: [6 7 8 9 10] and [1 2 3 4 5] (7, 8, 9 and 10 shared 3 games)\n> etc.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69502"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Feb 26, 2015, 2:42\u202FPM",
+      "Body": "Is it possible to change around seating order in a way that those two that has to sit on same table in all three games would only once be in predator/prey relations?\n\nBecause right now the three games goes like this:\ngame 1: A is prey of B\ngame 2: B is prey of A\ngame 3: A is grand prey of B\n\nI think it would be better as:\ngame 1: A is prey of B\ngame 2: B is grand prey of A\ngame 3: A is grand prey of B\n\n...if possible.\n\nMarko, Prince of Helsinki",
+      "Id": "69504"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 26, 2015, 3:19\u202FPM",
+      "Body": "> a-e wrote:\n> Is it possible to change around seating order in a way that those two that has to sit on same table in all three games would only once be in predator/prey relations?\n>\n> Because right now the three games goes like this:\n> game 1: A is prey of B\n> game 2: B is prey of A\n> game 3: A is grand prey of B\n>\n> I think it would be better as:\n> game 1: A is prey of B\n> game 2: B is grand prey of A\n> game 3: A is grand prey of B\n>\n> ...if possible.\n>\nIt's probably not possible.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69505"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Feb 26, 2015, 3:56\u202FPM",
+      "Body": "This is current optimal seating for 10 player, players 8 and 9 are in same table in all three games.\n\nRound 1\n1,2,3,4,5\n6,7,8,9,10\nRound 2\n10,1,9,8,2\n5,6,4,3,7\nRound 3\n4,7,10,3,1\n9,2,5,8,6\n\nIf on round 2 players 1 and 9 would change places, would it break it?\n\nMarko, Prince of Helsinki",
+      "Id": "69506"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 27, 2015, 12:45\u202FPM",
+      "Body": "> a-e wrote:\n> This is current optimal seating for 10 player, players 8 and 9 are in same table in all three games.\n>\n> Round 1\n> 1,2,3,4,5\n> 6,7,8,9,10\n> Round 2\n> 10,1,9,8,2\n> 5,6,4,3,7\n> Round 3\n> 4,7,10,3,1\n> 9,2,5,8,6\n>\n> If on round 2 players 1 and 9 would change places, would it break it?\n>\nJust check by yourself: 9 and 10 would be prey/predator on table 1, and predator/prey on table 2.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69531"
+    },
+    {
+      "Author": "a-e",
+      "Date": "Feb 27, 2015, 4:17\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > a-e wrote:\n> > This is current optimal seating for 10 player, players 8 and 9 are in same table in all three games.\n> >\n> > Round 1\n> > 1,2,3,4,5\n> > 6,7,8,9,10\n> > Round 2\n> > 10,1,9,8,2\n> > 5,6,4,3,7\n> > Round 3\n> > 4,7,10,3,1\n> > 9,2,5,8,6\n> >\n> > If on round 2 players 1 and 9 would change places, would it break it?\n> >\n> Just check by yourself: 9 and 10 would be prey/predator on table 1, and predator/prey on table 2.\n>\nYes. But the question is, is it better or worse than what we have now? 8 and 9 being predator/prey on first round, then prey/predator on second, same what 9 and 10 would be, and then predator/grand prey on third round. 8 and 9 would still play three games in same table, but only once next to each other. 9 and 10 would play twice next to each other but they don't share table three times.\n\nMarko, Prince of Helsinki",
+      "Id": "69533"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 3, 2015, 1:50\u202FPM",
+      "Body": "Exhaustive search done for 24 players 2R+F, more than a week of computation using distributed computers.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69623"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 14, 2015, 1:11\u202FPM",
+      "Body": "Seatings are being reevaluated as rule 2 was considered less important than rules 3 and 8.\nThe following seatings have already been updated:\n12, 13, 14, 15, 17.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73117"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 15, 2015, 8:14\u202FAM",
+      "Body": "> Ankha wrote:\n> Seatings are being reevaluated as rule 2 was considered less important than rules 3 and 8.\n> The following seatings have already been updated:\n> 12, 13, 14, 15, 17.\n>\n18 has been updated.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73131"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 16, 2015, 7:12\u202FAM",
+      "Body": "19 has been updated.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73153"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 18, 2015, 6:20\u202FAM",
+      "Body": "20, 21 and 22 have been updated.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73196"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 13, 2017, 10:05\u202FAM",
+      "Body": "There was a flaw in the validation of the new results, and some manual mistakes when reporting the results.\nAs a consequence, some of the results displayed here are wrong, and I won't continue to maintain this page: the new results will always be available in the latest version of the archon.\nFrom now on, I strongly recommand not to use the version 1.5e but version 1.5f :\n\nExcel: www.vekn.net/images/stories/downloads/thearchon1.5f.xlsx\nLibreOffice: www.vekn.net/images/stories/downloads/thearchon1.5f.ods\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "81104"
+    }
+  ]
+}

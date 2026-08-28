@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-39079",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/39079-titles-limited-to-60-characters",
+  "Title": "Titles limited to 60 characters",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Oct 14, 2012, 11:16\u202FAM",
+      "Body": "Would it be possible to extend it to more (like 200)?\n60 characters is too short in many cases and leads to truncated titles, especially:\n- in tournament announcements where you must specify the location, date, tournament name in the title\n- card ideas where tags such as \"Submission\" already takes 1/6 of the title, and doesn't leave much space to add tags (such as : Tzimisce master crypt acceleration)\n\nI've already done it on the French forum and haven't seen any abuse.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "39079"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Oct 14, 2012, 1:43\u202FPM",
+      "Body": "I can check where this is limited and if it's feasible to modify forum software in this way. If it requires changes to forum component code, I wouldn't suggest it.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "39084"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Oct 14, 2012, 1:50\u202FPM",
+      "Body": "I have extended this to 90 characters. Further extension would require modifying the database.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "39087"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2013, 11:21\u202FAM",
+      "Body": "> jhattara wrote:\n> I have extended this to 90 characters. Further extension would require modifying the database.\n>\nThis has been apparently reverted, but down to 50 characters\nIs that normal? Can we go back to 90 characters?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "55015"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Oct 9, 2013, 11:34\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > jhattara wrote:\n> > I have extended this to 90 characters. Further extension would require modifying the database.\n> >\n> This has been apparently reverted, but down to 50 characters\n> Is that normal? Can we go back to 90 characters?\n>\nDone : reverted to 90 again\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "55017"
+    }
+  ]
+}

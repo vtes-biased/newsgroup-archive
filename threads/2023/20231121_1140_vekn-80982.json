@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-80982",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80982-does-drawing-out-the-beast-cancels-passive-effects-from-equipment-cards",
+  "Title": "Does Drawing Out the Beast cancels passive effects from equipment cards?",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Nov 21, 2023, 11:40\u202FAM",
+      "Body": "Does the \"cannot use equipment\" from \"Drawing Out the Beast\" cancels passive effects like having [SER] from a \"The Book of Going Forth by Night\" or only effects that require the player to actively use them?\n\nDrawing Out the Beast\n\nName: Drawing Out the Beast\n[Jyhad:C, VTES:C, SW:PT, FN:PR, CE:C, Anarchs:PG2, BH:PN3, Third:PTz3/SKTz2]\nCardtype: Combat\nDiscipline: Animalism\nOnly usable before range is determined on the first round. Frenzy.\n[ani] During this combat, opposing vampire gets +1 strength, but he or she cannot use maneuvers to maneuver to long range, cannot use presses to end combat and cannot use equipment. A vampire may play only one Drawing Out the Beast each combat.\n[ANI] As above, and the opposing vampire takes 1 unpreventable damage during the press step each round.\nArtist: Bryon Wackwitz\n\nThe Book of Going Forth by Night\n\nName: The Book of Going Forth by Night\n[KMW:PB, POD:DTC]\nCardtype: Equipment\nCost: 1 pool\nUnique.\nThis vampire gets superior Serpentis [SER]. If an ally opposing this vampire in combat would be burned, instead steal and lock the ally; if the ally has lost their last life, they gain 1 life.\nArtist: Steve Eidson",
+      "Id": "109884"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 22, 2023, 9:00\u202FAM",
+      "Body": "> Coyote wrote:\n> Does the \"cannot use equipment\" from \"Drawing Out the Beast\" cancels passive effects like having [SER] from a \"The Book of Going Forth by Night\" or only effects that require the player to actively use them?\n>\nThe former.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109892"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 22, 2023, 12:52\u202FPM",
+      "Body": "Not that it is needed, previous  ruling aligned with the above formulated a bit clearer.\n\n> LSJ wrote:\n> > 1. Drawing out the Beast prohibits the opposing vampire from using\n> > equipment.\n> >\n> > 2. Some \"effects\" of equipment can be described as an actual \"event\",\n> > \"action\" or \"individual use\" (such as using a flamethrower as a strike\n> > to deal aggravated damage). Other times, equipment might give a minion\n> > a certain \"passive\" or \"aura\" effect (borrowing terminology from WC3)\n> > that is considered always effective without an actual declaration of\n> > use (such as the Eye of Hazimel's granting of extra disciplines).\n> If it applies to the minion, and is not a restriction (cannot\n> hunt), then it is \"using\" it.\n>",
+      "Id": "109895"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 23, 2023, 6:29\u202FAM",
+      "Body": "> inm8 wrote:\n> Not that it is needed, previous  ruling aligned with the above formulated a bit clearer.\n>\n> > LSJ wrote:\n> > > 1. Drawing out the Beast prohibits the opposing vampire from using\n> > > equipment.\n> > >\n> > > 2. Some \"effects\" of equipment can be described as an actual \"event\",\n> > > \"action\" or \"individual use\" (such as using a flamethrower as a strike\n> > > to deal aggravated damage). Other times, equipment might give a minion\n> > > a certain \"passive\" or \"aura\" effect (borrowing terminology from WC3)\n> > > that is considered always effective without an actual declaration of\n> > > use (such as the Eye of Hazimel's granting of extra disciplines).\n> > If it applies to the minion, and is not a restriction (cannot\n> > hunt), then it is \"using\" it.\n> >\nThanks, I couldn't find it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109905"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 24, 2023, 8:10\u202FPM",
+      "Body": "sorry, about us who don't do well with English,if you play Drawing Out the Beast, will oposing vampire having (SER) with \"The Book of Going Forth by Night\" or not(same for Eye of Hazimel about POT or CHI)?",
+      "Id": "109921"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 25, 2023, 1:22\u202FAM",
+      "Body": "> beslin wrote:\n> sorry, about us who don't do well with English,if you play Drawing Out the Beast, will oposing vampire having (SER) with \"The Book of Going Forth by Night\" or not(same for Eye of Hazimel about POT or CHI)?\n>\nThe opposing vampire would not benefit from the discipline(s) (or other effects) provided by equipment(s) for the duration of the combat that is under the effect of DOtB",
+      "Id": "109923"
+    }
+  ]
+}

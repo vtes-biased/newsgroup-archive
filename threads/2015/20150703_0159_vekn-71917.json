@@ -1,0 +1,152 @@
+{
+  "ThreadId": "vekn-71917",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/ideas-to-develop/71917-new-player-guide-cheatsheet",
+  "Title": "New Player Guide / Cheatsheet",
+  "Messages": [
+    {
+      "Author": "Ke.",
+      "Date": "Jul 3, 2015, 1:59\u202FAM",
+      "Body": "Hello all,\n\nHave had a couple of new players join and one of the things they struggled with the most was turn and combat sequencing. Including things like when to play an action vs an action modifier or even a reaction card.\n\nSo I put together a cheat sheet / new player guide which is clear and doesn't contain too much noise. It's not meant to be a replacement for the rules, but it should be enough for a new player to get up to speed with the core mechanics of the game and when to do what.\n\nAm open to feedback, typos or spelling errors. As previously mentioned not every rule is here and I would expect the play group to fill players in on the finer details of the game. But hopefully these will help.\n\nHigh quality A3 PDF:  db.tt/x8Sp5wdV (11MB \u2014 recommended)\n\nHigh quality A4 PDF:  db.tt/eToTCTHk (11MB \u2014 two sheets)\n\n150 DPI Images:\n\nA3:  db.tt/jxPGZCMh\n\nA4:  db.tt/2GtdDHAz and  db.tt/Tx1dDhdj\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71917"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 3, 2015, 4:36\u202FAM",
+      "Body": "Sheet 1:  I'd write \"You\" rather than \"What you do\", to keep it in line with \"other players\" and to make it more simple. \"Cardless actions: Bleed (1 by default), \" is a bit unclear whereas you can bleed only once with all your minions, or each of your minion. I'd write \"(max: once per minion)\" Cardless actions is missing \"leave torpor\" \"4. Infulence phase\": typo, should be \"Influence\"\nBlock 4. Influence phase. I'd rather write:\n\nYou have 4 transfers to use.\n1 tranfer: move 1 pool to one of your uncontrolled minion\n2 transfers: move 1 pool back from one of your uncontrolled minion\n4 transfers and 1 pool: draw a new crypt card\n\"Cancel Event cards with certain cards\". I'd write \"with cards such as Not to Be\" (just like you did with Sudden Reversal Combat Sequence \"When a minion is blocked or attacked combat occurs\". The term \"attacked\" doesn't exist after Jyhad edition. Use \"A minion enters combat when he or she is blocked, or through cards such as Bum's Rush\" \"Each of the below steps\" => \"of the steps below\" \"Range by default is close (it's either long or close)\" => \"(it can switch between long and close)\" \"(unless steal life / first strike)\" => \"(steal blood and first strike happen first)\" \"A damage empty vampire goes to torpor\" => \"A damaged...\" \"(only 1 set of additional strikes allowed)\" => \"(only 1 source...)\" Minions (vampires and allies): usage of \"they\" when it should be \"he or she\" \"Only ready untapped minions can perform actions\" => add \"(except to leave torpor)\" \"(multiple hunts and rescues allowed)\" => I would add an asterisk to those actions (and diablerie) in the \"3. Minion phase\" block and write \"(except cardless actions marked with *. See 3.)\"\n\n\"The first player only has 1 transfer. This increases by 1 each turn until the 4th player has 4 transfers\" => ambiguous. One could think the first player has 2 transfers on the 2nd turn etc. I'd rather write:\n\n\"On the first turn, the first player has 1 transfer, the second player 2 transfers, the third player 3 transfers. After that, all players have 4 transfers each turn.\"\n\n\"Once the cost has been met the crypt card is flipped...\" => this is wrong, crypt cards are flipped at the end of the influence phase. => \"At the end of the influence phase, each crypt card with enough blood to reach its capacity is moved to the ready region, face up (extra blood wears off).\"\n\"Your prey is to your left \u2013 oust them by reducing their pool to 0 (gain a Victory Point / VP)\" => \"...to 0 in order to gain 1 Victory Point and 6 pool.\" Also replace \"them\" by \"him or her\" \"Your predator is to your right \u2013 prevent them from ousting you.\" => replace \"them\" by \"him or her\" \"A directed action targets another player or a card controlled by them.\" => \"or a card he or she controls\" \"Only the controller targeted by the directed action can block it.\" => \"Only the player...\" \"or 2 hours have passed\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71922"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 3, 2015, 5:42\u202FAM",
+      "Body": "Cool; thanks for the input and taking the time to work through it.\n\nWill work through the comments and see what works space wise (a lot of the text was driven by space constraints).\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71924"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 3, 2015, 7:37\u202FAM",
+      "Body": "Most suggestions implemented (same files).\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71925"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 3, 2015, 8:05\u202FAM",
+      "Body": "The second link directs to the same file as the first link.\n\nV:EKN Website Coordinator",
+      "Id": "71926"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 3, 2015, 8:10\u202FAM",
+      "Body": "Corrected \u2014 thanks.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71927"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "Jul 3, 2015, 8:53\u202FAM",
+      "Body": "I think it's too much text and too in depth on some parts and not enough on other parts.\n\nThings I think are not usefull for new players:\nAll the clans and disciplines. This is not relevant in a well made deck. Instead put focus on card requirements: a minion card with a clan symbol -> need clan vampire in play. Display the distinction between inferior and superior better and focus on ICON matching instead of what all the icons difficult names are. The names are not relevant, but icon matching and the difference between inferior (only inferior) or superior (choice) is important.\n\nYou are also completely missing what action and vampire defaults are.\nYou should make clear that vampires have 1 strength 0 stealth and 0 intercept. Also that bleeds do 1 damage and are at 0 stealth but other actions default to 1 stealth.\n\nAnother thing that isnt highlighted enough is that you do not draw when the turn starts. This contrary to most other games.\n\nI generally like the left side of the A3 and dislike the right side. I think the right side could be better explained with an enlarged and denoted card. This will make it more visually appealing while conveying the relevant information.",
+      "Id": "71928"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 3, 2015, 1:12\u202FPM",
+      "Body": "I'd change the \"Turn order\" diagram.\nKeep it a pentagon, but invert it, and have \"You\" on the bottom circle, \"Prey\" and \"Predator\" on its sides, and \"Grand-prey\", \"Grand predator\" on the opposites",
+      "Id": "71934"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 3, 2015, 8:01\u202FPM",
+      "Body": "> Pascal wrote:\n> I'd change the \"Turn order\" diagram.\n> Keep it a pentagon, but invert it, and have \"You\" on the bottom circle, \"Prey\" and \"Predator\" on its sides, and \"Grand-prey\", \"Grand predator\" on the opposites\n>\nGood idea \u2014 done.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71935"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 3, 2015, 8:10\u202FPM",
+      "Body": "> 2wayspeaker wrote:\n> You are also completely missing what action and vampire defaults are.\n>\nDefault bleed of 1 is mentioned as is default strike of 1.\n\n> 2wayspeaker wrote:\n> Another thing that isn't highlighted enough is that you do not draw when the turn starts. This contrary to most other games.\n>\nDraw immediately when a card is played is mentioned twice.\n\nNew players appear to grasp the concept of stealth and intercept fairly well, which is why it is lightly touched on here. Again this is not meant to replace the rule book, the primary goal is to assist with turn flow ie. when to play certain cards / what to do during your turn. That's why the two flow diagrams are so prominent.\n\nI suspect (hope) after 1 or 2 games the sheet will be redundant for most players.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71936"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jul 6, 2015, 6:52\u202FAM",
+      "Body": "Awesome stuff mate -well done!\n\nFinnish  Politics!",
+      "Id": "71959"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 6, 2015, 10:14\u202FPM",
+      "Body": "So I got some printed and laminated \u2014 they came out really polished looking.\n\nField tested them last night and they were really helpful for the new players. The main thing they used it for was referencing the turn and combat sequencing \u2014 so they hit the make there.\n\nAlso let them keep the cheat sheet, which was a nice \"shiny\" thing to take home and has a lot extra fluff to look at during the day. Also figure it's a good talking point, if any one sees it they're likely to ask \"What's that?\" which could be a good introduction to the game.\n\nIn terms of practicality the A4 version is probably more practical (smaller size and page 1 has the important stuff) \u2014 but it lacks that wow / impressive factor which I think is important in terms of attraction.\n\nHere's some shots printed and of the night...\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71968"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 7, 2015, 4:07\u202FAM",
+      "Body": "It would be great to make the source file available for translation, if you don't mind. What file format is it?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71970"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 7, 2015, 4:55\u202FAM",
+      "Body": "Sure, it was constructed using Omnigraffle (OSX)\n\nHere are the source files:\n\n// A3\nwww.dropbox.com/sh/bwaccrnueblp8hq/AADEvv8sVTXTw6Ry4CiUQ_dsa?dl=0\n\n// A4\nwww.dropbox.com/sh/l8bdo55ojbv4oet/AABhlFvqlwUkOOVqdy2aFH8fa?dl=0\n\nReleased under Creative Commons Licence \u2014 creativecommons.org/licenses/by/4.0/\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71971"
+    },
+    {
+      "Author": "alek",
+      "Date": "Jul 7, 2015, 7:23\u202FAM",
+      "Body": "very nice. Great job.\nAgree with 2wayspeaker that part with clans is not really needed and takes a lot of space",
+      "Id": "71976"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 7, 2015, 8:00\u202FAM",
+      "Body": "> alek wrote:\n> Agree with 2wayspeaker that part with clans is not really needed and takes a lot of space\n>\nYes, I agree to a degree \u2014 however due to the size of the A3 version they don't impact the functional components of the sheet. I think they're important as they show the depth, scope and colour of the V:TES world \u2014and form another basis for conversation / interest (the icons are visually appealing and fairly unique to the game).\n\nThere's nothing stopping people from printing A4 sheet on A3 paper if they prefer not having the clans / disciplines...\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71977"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 7, 2015, 8:08\u202FAM",
+      "Body": "> Ankha wrote:\n> It would be great to make the source file available for translation, if you don't mind. What file format is it?\n>\nYou're also welcome to add them to the Downloads page.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "71978"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 13, 2015, 11:04\u202FAM",
+      "Body": "> Ke. wrote:\n>\n> > Ankha wrote:\n> > It would be great to make the source file available for translation, if you don't mind. What file format is it?\n> >\n> You're also welcome to add them to the Downloads page.\n>\nThey have been added to the Downloads page:\n\nwww.vekn.net/downloads\n\nV:EKN Website Coordinator",
+      "Id": "72022"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 13, 2015, 3:43\u202FPM",
+      "Body": "And here are some suggestions made on Facebook:\n\n> Tom H. R. Vandenberghe Nicely done. If I may give some advice: it would be helpful to new players if it explained somewhere what actions happen at an inherent +1 stealth (such as hunting or equiping).\n>\n> Micha\u0142 Misztal Very goof and helpful sheet, but Tom's idea to add information about stealth is not bad either. Can you add this to the sheet?\n>\nV:EKN Website Coordinator",
+      "Id": "72027"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 13, 2015, 5:54\u202FPM",
+      "Body": "> Damnans wrote:\n> And here are some suggestions made on Facebook:\n>\n> > Tom H. R. Vandenberghe Nicely done. If I may give some advice: it would be helpful to new players if it explained somewhere what actions happen at an inherent +1 stealth (such as hunting or equiping).\n> >\n> > Micha\u0142 Misztal Very goof and helpful sheet, but Tom's idea to add information about stealth is not bad either. Can you add this to the sheet?\n> >\nThanks, have updated with references to stealth and intercept \u2014 main line:\n\nA successful block requires intercept equal or greater than the current level of stealth.\n\nAlso added a flow to cover successful presses.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "72033"
+    },
+    {
+      "Author": "Arnau Diez Sans",
+      "Date": "Jul 14, 2015, 10:23\u202FAM",
+      "Body": "Thx, we will print it!",
+      "Id": "72043"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 16, 2015, 4:18\u202FPM",
+      "Body": "> Ke. wrote:\n>\n> Thanks, have updated with references to stealth and intercept \u2014 main line:\n>\n> A successful block requires intercept equal or greater than the current level of stealth.\n>\n> Also added a flow to cover successful presses.\n>\nThe Downloads section has been updated accordingly.\n\nV:EKN Website Coordinator",
+      "Id": "72072"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jul 17, 2015, 12:09\u202FAM",
+      "Body": "Awesome work Ke!\nTop notch",
+      "Id": "72075"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 26, 2015, 10:52\u202FAM",
+      "Body": "One more suggestion made on Facebook:\n>\n> Sonam Adinolf Under \"cardless actions\", \"Trade Equipment\". I'm pretty sure if you add that the list is complete.\n>\nV:EKN Website Coordinator",
+      "Id": "72200"
+    }
+  ]
+}

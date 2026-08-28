@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-45675",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45675-jar-of-skin-eaters",
+  "Title": "Jar of skin eaters",
+  "Messages": [
+    {
+      "Author": "galliard",
+      "Date": "Mar 5, 2013, 11:30\u202FAM",
+      "Body": "Hi\nDoes the jar burn even if action was blocked?\nI think it does, but need confirmation.\nAlso in combat if minion strikes with jar does it burn only when damage is inflicted or always (despite dodge/combat ends)",
+      "Id": "45675"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 5, 2013, 11:37\u202FAM",
+      "Body": "IIRC, it does not burn if the action is blocked, and you can use it during the resulting combat. That's the same thing as not paying the cost of a blocked action.\n\nIn case of combat end, the combat end before you can use it, so you keep it.\n\nIn case of dodge (or damage prevention), the jar is burned : it have been used, even if it did nothing.",
+      "Id": "45676"
+    },
+    {
+      "Author": "galliard",
+      "Date": "Mar 5, 2013, 11:47\u202FAM",
+      "Body": "but if you use action card to attempt action, it is burn when you use it, even if blocked.\nanybody else to confirm what Ohlmann saying? thanks by the way",
+      "Id": "45677"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 5, 2013, 11:51\u202FAM",
+      "Body": "Please include the cardtext of the cards in the rule forum. You can paste it from the  reference text file in the  downloads section\n\nName: Jar of Skin Eaters\n[HttB:C]\nCardtype: Equipment\nClan: Tremere/Tremere antitribu\nWeapon.\nThe bearer may use this weapon only if it has a blood on it. Strike: 3R aggravated damage. This minion may inflict 3 aggravated damage on another minion as a  action. Burn after either use. Any Gargoyle enslaved to this vampire may move 1 blood to this card as a +1 stealth action.\n\nIn order to burn, the Jar must be used successfully\n-> the action wasn't blocked during the  action\n-> the Jar's strike successfully resolves\n\nDodging the strike doesn't mean the Jar wasn't successfully resolved (but it has no effect on the opposing minion).\n\nEffects may cause the strike not to resolve:\n- the Jar was stolen with first strike by the opposing vampire\n- the opposing minion plays a strike: combat ends.\n\nIt's the same ruling as Bomb btw.\n\nName: Bomb\n[Jyhad:U, VTES:U, CE:PN, Third:U, KoT:U]\nCardtype: Equipment\nCost: 1 pool\nWeapon.\nStrike: 5R damage. If the bomb is used in combat, the bearer takes 5 damage as well. The minion with this weapon may burn a location as a  action. Burn the Bomb after use.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "45679"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 5, 2013, 12:06\u202FPM",
+      "Body": "> galliard wrote:\n> but if you use action card to attempt action, it is burn when you use it, even if blocked.\n>\nIt's not a cost to burn the action card. Also, it's burned when you begin to attempt the action, not after you finish the action",
+      "Id": "45680"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Mar 5, 2013, 12:58\u202FPM",
+      "Body": "> Ohlmann wrote:\n> It's not a cost to burn the action card. Also, it's burned when you begin to attempt the action, not after you finish the action\n>\nOnly if it read \"this minion may attempt to x\". As it is, \"use\" refers to \"this minion may inflict 3 aggravated damage as a D action.\" If the D action is blocked, the minion attempted to inflict damage but didn't actually do it.",
+      "Id": "45681"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 5, 2013, 1:36\u202FPM",
+      "Body": "> Suoli wrote:\n> Only if it read \"this minion may attempt to x\". As it is, \"use\" refers to \"this minion may inflict 3 aggravated damage as a D action.\" If the D action is blocked, the minion attempted to inflict damage but didn't actually do it.\n>\nI don't understand what you are saying and why it relate to what I say.\n\nTo reiterate : what I say is, Jar of skin eater is burn at the resolution, like you pay cost for an action at the resolution, so if the action doesn't resolve, you do not pay/burn anything.\n\nUsed action card, on the other hand, are not burned at the resolution, but immediatly (and they are replaced immediatly too).",
+      "Id": "45685"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2013, 6:38\u202FAM",
+      "Body": "Correct answer from Ankha.",
+      "Id": "45739"
+    }
+  ]
+}

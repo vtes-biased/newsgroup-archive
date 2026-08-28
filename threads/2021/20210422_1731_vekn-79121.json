@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-79121",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79121-burning-byzar-during-combat",
+  "Title": "Burning Byzar during combat",
+  "Messages": [
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Apr 22, 2021, 5:31\u202FPM",
+      "Body": "Dear all,\n\nScenario 1:\nMy vampire plays Amaranth on Byzar. His own ability make the diablerie unsuccessflul.\nCan my vampire play various copies of Amaranth so that Byzar gets many Burn Counters in only 1 combat and maybe burn at the end?\n\nScenario 2 :\nByzar has no blood and receive 3 agravated damages.\nI understand the following:\n=> the first aggraveted damage sends Byzar to torpor.\n=> the second aggraveted damage should burn him so gets a Burn Torken instead.\n=> What happen with the thrid aggravated damage? I would say Byzar is still without any blood so he has to burn. So he gets one more Burn Counter.\nAm I right?\n\nCard Texts:\nName: Byzar\nCardtype: Vampire\nSabbat: If Byzar would be burned, {instead} put 1 burn counter on him and move him to torpor{}. If he has 3 burn counters, remove him from the game. +1 stealth.\n\nName: Amaranth\nCardtype: Combat\nOnly usable by a vampire who can commit diablerie. Only usable when the opposing vampire should go to torpor. Diablerize the opposing vampire instead. Not usable by a vampire being burned or going to torpor.\n\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "102102"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Apr 23, 2021, 12:37\u202FPM",
+      "Body": "I would hazard a guess, that once Byzar's ability kicks in first time, he is no longer in combat and going to torpor, but rather at torpor region itself and can no longer be target of further combat cards. This of course leads to another question if any other end of round combat cards (e.g. taste of vitae) can still be played.\nBut let's see what Vincent and other rules expert say.",
+      "Id": "102121"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 24, 2021, 8:29\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> Dear all,\n>\n> Scenario 1:\n> My vampire plays Amaranth on Byzar. His own ability make the diablerie unsuccessflul.\n> Can my vampire play various copies of Amaranth so that Byzar gets many Burn Counters in only 1 combat and maybe burn at the end?\n>\nYes. Amaranth uses a replacement effect to diablerize a vampire instead of letting go to torpor.\nThen Byzar uses a replacement effect to move him to torpor instead of being burned.\nHowever, going to torpor / not ready / being wounded etc. are all synonyms (www.vekn.fr/forum/viewtopic.php?t=15071#p174247) and all qualify for Amaranth. Byzar being wounded (he is in torpor), you can play another Amaranth to diablerize him.\nByzar's ability doesn't end combat right away. You could play Taste of Vitae for instance after his ability has triggered.\n\n> R\u00E9mi wrote:\n> Scenario 2 :\n> Byzar has no blood and receive 3 agravated damages.\n> I understand the following:\n> => the first aggraveted damage sends Byzar to torpor.\n> => the second aggraveted damage should burn him so gets a Burn Torken instead.\n> => What happen with the thrid aggravated damage? I would say Byzar is still without any blood so he has to burn. So he gets one more Burn Counter.\n> Am I right?\n>\nNo. Extra damage is wasted.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102140"
+    }
+  ]
+}

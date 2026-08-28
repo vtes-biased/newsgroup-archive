@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-73551",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/73551-cardinal-benediction-and-no-valid-targets",
+  "Title": "Cardinal Benediction and no valid targets",
+  "Messages": [
+    {
+      "Author": "Franz",
+      "Date": "Oct 7, 2015, 1:15\u202FPM",
+      "Body": "What happens when a Methuselah calls a Cardinal Benediction and there are no vampires with capacity 6 or more in game, let's say because there is a Wormwood with 4 counters leda only\n\nCan the action even be attempted? if it can, is there a referendum or does the action fizzle?",
+      "Id": "73551"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Oct 7, 2015, 2:19\u202FPM",
+      "Body": "I think referendum can be called and the action deemed successful since the terms aren't set until then. Once it gets to that point the rest of it fizzles because the terms cannot be set.",
+      "Id": "73552"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Oct 7, 2015, 2:30\u202FPM",
+      "Body": "Hi Franz,\n\nTo help people that are not Floppy or Anhka it is usual to copy + paste the card text.\n\nName: Cardinal Benediction\n[Sabbat:U, SW:U, Third:U]\nCardtype: Political Action\nRequires a Sabbat vampire. Title.\nChoose a Sabbat vampire with a capacity over 6. If this referendum passes, put this card on that vampire to represent the Sabbat title of cardinal. Camarilla vampires cannot cast votes or ballots during this referendum.\n\nI Am Not Floppy Nor Ankha (IANFNA), but:\n\nWhen declaring a political action, you must be able to\n1. fulfill the requirement to play the card (Must be used by a Sabbat) and\n2. choose terms legally (choose a Sabbat vampire with capacity over 6).\n\nSince you cannot choose terms legally at the time of attempting the action, you cannot use the card.",
+      "Id": "73553"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 7, 2015, 2:47\u202FPM",
+      "Body": "> Brum wrote:\n> HWhen declaring a political action, you must be able to\n> 1. fulfill the requirement to play the card (Must be used by a Sabbat) and\n> 2. choose terms legally (choose a Sabbat vampire with capacity over 6).\n>\n> Since you cannot choose terms legally at the time of attempting the action, you cannot use the card.\n>\nCitation:  [LSJ 20030407]\n\n> LSJ wrote:\n> >>>I might be mistaking, but if I'm right: you have to have a legal\n> >>>target for your Parity Shift *before* you call the referendum. In\n> >>>other words, if you're at 20 pool,and everybody else at the table is\n> >>>at less than 20, you can't call the Shift, even if you can lower your\n> >>>pool via the Oxford University.\n> >>That is correct.\n>\n> Correct.\n>\n> [...]\n>\n> > And all examples I could find other then parity shift have since been\n> > errata'ed or ruled to specifically state they need or don't need a\n> > target.\n>\n> Citations, please?\n>\n> General ruling (from the online list of rulings):\n>\n> Playing Cards\n> If a card targets (chooses, selects, is played on, etc.) another card,\n> then the card can only be played if an appropriate target is available.\n> [RTR 19980928]\n>\n> > I'm not 100% sure on this.. One could argue that the target has to be\n> > specified only when the terms are to be called/target to be chosen,\n> > and that the action is therefore legal, since there is a timeframe\n> > between choosing the target and playing the action.\n>\n> There must be a legal target when the card is played.\n>\n> If the set of legal targets changes by the time the terms are set, then\n> any of the new legal targets are fair game. If there are no longer any\n> legal targets at that time, then the action fizzles.\n>\nSo when you attempt a political action, you don't have to declare terms - but you do need to be able to show (where necessary) that there exists a possible way of setting the terms that would be legal. So you don't need to select a Methuselah when you announce the Parity Shift action, but there needs to be at least one legal target. You don't need to select a Camarilla Gangrel when you announce the Gangrel Justicar action, but there does need to be at least one ready Camarilla Gangrel. (Note that any Camarilla vampire can call the vote - it doesn't need to be a Gangrel playing the card.) And the same with Cardinal Benediction.",
+      "Id": "73554"
+    },
+    {
+      "Author": "2wayspeaker",
+      "Date": "Oct 14, 2015, 2:46\u202FPM",
+      "Body": "How about:\n>\n> Might of the Camarilla\n> Political Action\n>\n> Requires a justicar or Inner Circle member.\n> If this referendum is successful, each Methuselah burns a vampire (of his or her choosing) in his or her uncontrolled region.\n>\nDo you need a vampire in each players uncontrolled?",
+      "Id": "73654"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 14, 2015, 4:16\u202FPM",
+      "Body": "> 2wayspeaker wrote:\n> How about:\n> >\n> > Might of the Camarilla\n> > Political Action\n> >\n> > Requires a justicar or Inner Circle member.\n> > If this referendum is successful, each Methuselah burns a vampire (of his or her choosing) in his or her uncontrolled region.\n> >\n> Do you need a vampire in each players uncontrolled?\n>\nNo. It's not part of the terms. See also Ancient Influence with no ready vampire.\n\nName: Ancient Influence\n[Jyhad:C, VTES:C, SW:PT/PV, CE:C, LoB:PG]\nCardtype: Political Action\nSuccessful referendum means each Methuselah may choose a ready vampire he or she controls. Each Methuselah gains an amount of pool from the blood bank equal to his or her chosen vampire's capacity. Each Methuselah then burns 5 pool. Only one Ancient Influence can be played in a game.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73658"
+    }
+  ]
+}

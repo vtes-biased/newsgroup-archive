@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-45749",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45749-what-prohibits-from-burning-an-edge-you-don-t-control",
+  "Title": "What prohibits from burning an Edge you don't control?",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2013, 8:42\u202FAM",
+      "Body": "I can't find any rule reference for that matter.\n\nName: Lucinde, Alastor\nCamarilla Ventrue Justicar: Lucinde can enter combat with any ready non-Camarilla vampire controlled by another Methuselah as a  action. During your untap phase, you can burn the Edge to give Lucinde 1 blood from the blood bank.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "45749"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Mar 6, 2013, 8:51\u202FAM",
+      "Body": "I would say, the same thing prevent you from burning an edge you don't control that prevent you from burning pool you don't own.",
+      "Id": "45750"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2013, 9:20\u202FAM",
+      "Body": "> Ankha wrote:\n> I can't find any rule reference for that matter.\n>\n> Name: Lucinde, Alastor\n> Camarilla Ventrue Justicar: Lucinde can enter combat with any ready non-Camarilla vampire controlled by another Methuselah as a  action. During your untap phase, you can burn the Edge to give Lucinde 1 blood from the blood bank.\n>\nI can't find it either.\n\n\"Burn the Edge\" effects are only usable if you control the Edge (unless otherwise specified).\n\nThis applies to: 419 Operation, Alonzo Guillen, Deploy the Hand, Emily Carson, Eric Kressida, Extorsion, Hartmut Stover, High Priestess Angra Mainyu, Isouda de Blaise, Lady Constancia, Leverage, Lucinde, Alastor, Mapatano Utando, Powerbase: Z\u00FCrich, Sabbat Threat, Sarrasine, Shatter the Gate, Soldat, Torvus Bloodbeard, Tragic Love Affair, Victoria and Victorine Lafourcade.",
+      "Id": "45751"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Mar 6, 2013, 10:01\u202FAM",
+      "Body": "1.2.3 defines how one obtains the edge.\n\nAnd 1.1.2 & 6.3.3 define \"burning the edge\" as you must have the edge to burn it.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "45753"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Mar 6, 2013, 11:43\u202FAM",
+      "Body": "It's not about the edge, it is about paying costs. One could imagine a card like that:\n\nReset\n+1 stealth action.\nBurn the edge.\n\nThat would burn the edge no matter where it is on the table. (Please don't print that, we have enough crappy cards with the edge already )\n\nBut IIRC there is currently no such effect. All effects that require edge burning do so as a cost (\"burn the edge to...\"). The general rule should be: you can only pay a cost with resources you own/control.\n\nThe analogy with pool is: your actions can burn someone else's pool, but the cost must be paid from your pool.",
+      "Id": "45757"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2013, 12:30\u202FPM",
+      "Body": "Well, there's always Edge Vitiation:\n\nName: Edge Vitiation\nCardtype: Action\nCost: 1 blood\nDiscipline: Serpentis\n+1 stealth action.\n[ser]  Only usable if your prey controls the Edge. Your prey burns 1 pool and burns the Edge.\n[SER] Put this card in play. Whenever your predator successfully bleeds you, you get the Edge instead of your predator. Any minion can burn this card as a  action.\n\nBut this one does read \"Only usable if your prey controls the Edge.\"",
+      "Id": "45764"
+    }
+  ]
+}

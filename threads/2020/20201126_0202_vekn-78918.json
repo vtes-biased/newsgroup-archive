@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-78918",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78918-can-eagle-sight-be-use-after-playing-black-sunrise",
+  "Title": "Can Eagle sight be use after playing black sunrise?",
+  "Messages": [
+    {
+      "Author": "lordofventrue",
+      "Date": "Nov 26, 2020, 2:02\u202FAM",
+      "Body": "Can Eagle's Sight be used after playing Black Sunrise?\n\nName: Black Sunrise\n[KMW:C, LotN:PA3, POD:DTC]\nCardtype: Reaction\nDiscipline: Quietus\nOnly usable by a locked vampire.\n[qui] Only usable during a  action against you (or a card you control). This vampire unlocks and attempts to block.\n[QUI] As above, but usable during any action.\nArtist: Beth Trott\n\nName: Eagle's Sight\n[Jyhad:U, VTES:U, CE:U, BH:PM3, LoB:PO2, Third:PTz2, KoT:U/PT3, SP:PwN2]\nCardtype: Reaction\nDiscipline: Auspex\n[aus] +1 intercept.\n[AUS] This vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\nArtist: Larry MacDougall; Chris Stevens",
+      "Id": "101153"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 26, 2020, 6:53\u202FAM",
+      "Body": "In principle, yes.\n\nBut: you cannot play Black Sunrise if the vampire is not allowed to block the current action (e.g. because it is directed at someone else), because Black Sunrise would force the vampire to do something that isn't allowed.\n\nPrince of Bonn, Germany",
+      "Id": "101154"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 26, 2020, 8:17\u202FAM",
+      "Body": "Yomyael is correct.\nSo if your vampire is locked and you want to block an action you could not normally block (for instance, your prey is rescuing a vampire from your predator in torpor), you cannot play Black Sunrise in the first place.\n\nBut if your predator were bleeding you, you could play Black Sunrise to attempt to block, and play Eagle Sight at superior to allow you to block (redundantly, but to cycle a card).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101155"
+    },
+    {
+      "Author": "lordofventrue",
+      "Date": "Nov 26, 2020, 2:19\u202FPM",
+      "Body": "What about the Superior, which says any action?",
+      "Id": "101156"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 26, 2020, 2:39\u202FPM",
+      "Body": "The \"any action\" part of Black Sunrise is a bit misleading. It is intended to only override the \"d action\" part, not general restricitions, c.f. www.vekn.net/forum/rules-questions/76748-black-sunrise#88361\n\nAnd because Black Sunrise would force you to block, you cannot play it if you are not allowed to block.\n\nPrince of Bonn, Germany",
+      "Id": "101157"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 26, 2020, 3:13\u202FPM",
+      "Body": "To be clear....the thing that prevents the Black Sunrise (beside the intended design) from being able to be used even if played at superior is the fact that it lacks the explicit text allowing you to overrule the base rule of what you are allowed to react to/block which is there in the Eagle\u00B4s Sight...the any action as mentioned only expands the inferior option without overruling the valid targets set by the base rules.",
+      "Id": "101158"
+    },
+    {
+      "Author": "lordofventrue",
+      "Date": "Nov 26, 2020, 3:26\u202FPM",
+      "Body": "The card only forces you to make the attempt! You would fail! You would be untapped!!",
+      "Id": "101159"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 26, 2020, 3:31\u202FPM",
+      "Body": "> lordofventrue wrote:\n> What about the Superior, which says any action?\n>\nRead it as:\n\n[QUI] This vampire unlocks and attempts to block.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101160"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Nov 26, 2020, 4:18\u202FPM",
+      "Body": "> lordofventrue wrote:\n> The card only forces you to make the attempt! You would fail! You would be untapped!!\n>\nYou cannot attempt what you cannot do. You can't attempt to play a card that costs 2 Pool when you have only one. You can't attempt an action costing 2 Blood when the vampire has only one. Likewise, if you don't have something that specifically allows you to ignore prey-predator or target restrictions when blocking, you may not attempt, because you simply cannot do it. Therefore you cannot play a card forcing you to block.\n\nPrince of Bonn, Germany",
+      "Id": "101161"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 29, 2020, 11:02\u202FAM",
+      "Body": "> inm8 wrote:\n> To be clear....the thing that prevents the Black Sunrise (beside the intended design) from being able to be used even if played at superior is the fact that it lacks the explicit text allowing you to overrule the base rule of what you are allowed to react to/block which is there in the Eagle\u00B4s Sight...the any action as mentioned only expands the inferior option without overruling the valid targets set by the base rules.\n>\nAnd while eagle's sight would grant the vampire the ability to block, you cannot play eagle's sight while locked just like you can't play any reactions locked unless they specify otherwise. (So you cannot play these cards in a different order either)\n\nSo a wake (on the qui vive, wake with evening's freshness, etc) and then eagle's sight would actually work.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "101174"
+    }
+  ]
+}

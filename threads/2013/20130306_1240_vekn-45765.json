@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-45765",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/45765-grey-thorne-and-during-your-untap-phase",
+  "Title": "Grey Thorne and \"during your untap phase\"",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Mar 6, 2013, 12:40\u202FPM",
+      "Body": "How does it work if multiple Methuselah want to use the blood gain effect?\n\nName: Grey Thorne\nCardtype: Ally\nCost: 2 blood\nUnique ghoul with 2 life. 1 strength, 1 bleed. Requires an anarch.\nGrey may play cards that require Celerity [cel] or Potence [pot] as an anarch vampire. During your untap phase, if Grey has only 1 life, any ready anarch may burn a blood to add 1 life to him.\n\nTrouble is that his special can only be used once because of the \"during clause\". And it's unclear who triggers the special: does the Methuselah controlling Grey \"ask\" to other Methuselah to give him blood, or does the Methuselah controlling an anarch vampire trigger the ability when he has the impulse?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "45765"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2013, 12:48\u202FPM",
+      "Body": "Use the Sequencing rule:\n\nA controls Grey Thorne with 1 life.\nAfter A passes on using effects during A's untap phase, A's prey gets the opportunity to do stuff during A's untap phase. \"Stuff\" includes using Grey's ability to gain life.\nIf A's prey passes, we go on with A's grand-prey, etc.\n\nRulebook 1.6.1.5  wrote\n>\n> Sequencing. If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\n>",
+      "Id": "45768"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Mar 6, 2013, 12:50\u202FPM",
+      "Body": "It should work like voting: if timing becomes important, acting player decides first, and then players get the right for the decision clockwise.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "45769"
+    }
+  ]
+}

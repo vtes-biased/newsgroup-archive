@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-23923",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/23923-declining-to-block-deflection-direct-intervention",
+  "Title": "Declining to block (Deflection, Direct Intervention)",
+  "Messages": [
+    {
+      "Author": "henrik",
+      "Date": "Feb 23, 2012, 9:45\u202FAM",
+      "Body": "I always thought that declining to block (without making any attempts at it) was considered \"using\" the impulse (giving it back to the acting methusaleh).\n\nIf player A announces a bleed against me and gives me the impulse, doesn't it go back to A if I announce that I don't attempt to block?\n\n[LSJ 20000814] says that:\n>\n> The \"I don't block\" is implicit in the playing of Deflection, but that doesn't mean that it preceedes the playing of Deflection.\n>\nand\n>\n> (Because you don't \"choose not to block\" until the Deflection is paid).\n>\nDoes this mean that if I play a Deflection and it is cancelled by a Direct Intervention, I am free to declare a block attempt? (Since I don't \"choose not to block\" until the Deflection is paid, which it isn't according to Direct Intervention.)\n\nName: Deflection\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Dominate\n[dom] Only usable when you are being bled, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the controller of the acting minion. The acting minion is now bleeding that Methuselah.\n\nName: Direct Intervention\nCardtype: Master\nCost: 1 pool\nMaster: out-of-turn.\nCancel a minion card as it is played. No cost is paid. (If it was an action card, the acting minion doesn't tap. If it was a strike card, the minion chooses another strike.)",
+      "Id": "23923"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Feb 23, 2012, 9:49\u202FAM",
+      "Body": "Every single bounce card clearly states (in its latest printing at least) that it is only usable AFTER BLOCKS ARE DECLINED. I don't really know how much more clear can that be? You can only play a deflection after you have declined to block, so whether it gets cancelled or not doesn't matter.",
+      "Id": "23924"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 23, 2012, 9:58\u202FAM",
+      "Body": "> Klaital wrote:\n> Every single bounce card clearly states (in its latest printing at least) that it is only usable AFTER BLOCKS ARE DECLINED. I don't really know how much more clear can that be? You can only play a deflection after you have declined to block, so whether it gets cancelled or not doesn't matter.\n>\nDid you even read my post? Or the quotes from the rulings?",
+      "Id": "23925"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Feb 23, 2012, 10:01\u202FAM",
+      "Body": "After a deflect you can only block again if it is bounced back to you.\n\n> If the target of a directed action is reset, a new \"choose blockers\" opportunity results. [RTR 19970630]\n>\nRelated question: Can you deflect and block with Eagle Sight when the minion is bleeding another methuselah (and that methuselah has declined blocks)?",
+      "Id": "23926"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 23, 2012, 10:06\u202FAM",
+      "Body": "> chaitan wrote:\n> After a deflect you can only block again if it is bounced back to you.\n>\n> > If the target of a directed action is reset, a new \"choose blockers\" opportunity results. [RTR 19970630]\n> >\nAgain, the quoted rulings in my post supports that a cancelled (unpaid) Deflection does not force block declination (since the declining to block happens after paying the cost of the Deflection, which isn't done).\n\nThe ruling you quoted has nothing to do with this, since the Deflection in my example was cancelled, so the target was never changed.",
+      "Id": "23928"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Feb 23, 2012, 10:07\u202FAM",
+      "Body": "> henrik wrote:\n>\n> > Klaital wrote:\n> > Every single bounce card clearly states (in its latest printing at least) that it is only usable AFTER BLOCKS ARE DECLINED. I don't really know how much more clear can that be? You can only play a deflection after you have declined to block, so whether it gets cancelled or not doesn't matter.\n> >\n> Did you even read my post? Or the quotes from the rulings?\n>\nYes I read your post. The whole point why LSJ changed all bounce cards to clearly state only usable after blocks are declined was to avoid the whole 'but I didn't decline to block yet!' weaseling after your bounce is cancelled by making it clear that you can only bounce AFTER declining to block.\n\nIt is really clear, you cannot play a bounce card if you haven't declined to block yet, so then even if that card is cancelled, you still have already declined to block. Because a card cannot be canceled before it is played, and you cannot play a bounce card before you have declined to block. I really don't understand what is not clear in that.",
+      "Id": "23929"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Feb 23, 2012, 10:10\u202FAM",
+      "Body": "If you still don't believe me, here is direct quote from LSJ.\n\nDeclaring that one is not blocking is implicit in playing Deflection (unlike playing Telepathic Counter). That is, Deflection (and other bleed bounce cards) are played after blocks are declined. [LSJ 20000507] [LSJ 20061213]",
+      "Id": "23930"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 23, 2012, 10:38\u202FAM",
+      "Body": "> Klaital wrote:\n> Yes I read your post. The whole point why LSJ changed all bounce cards to clearly state only usable after blocks are declined was to avoid the whole 'but I didn't decline to block yet!' weaseling after your bounce is cancelled by making it clear that you can only bounce AFTER declining to block.\n>\n> It is really clear, you cannot play a bounce card if you haven't declined to block yet, so then even if that card is cancelled, you still have already declined to block. Because a card cannot be canceled before it is played, and you cannot play a bounce card before you have declined to block. I really don't understand what is not clear in that.\n>\nWhat's unclear is that, as far as I understood it, the added text to bounce cards about only being usable after declining to block was only added to clarify (the rulings are older than the card text change and still talks about that particular thing, which I think supports this).\nIf the card text changes was just that, card text changes (not rules changes), I don't think it's crystal clear that these rulings shouldn't be in affect. The premise might be wrong though, the card text changes may be due to rules changes. I can't find any support for that though, been searching around for Rules Team Rulings where this would've been brought up but haven't found any.\n\nI don't think those rulings oppose the current card text, they just define when and how the declining of blocks happen.\n\nI'm not saying you're wrong though, as I stated in my first post I've always though of declining to block as a \"use\" of the impulse (or at least a passing of it to the next player in line). Knowing whether old rulings are still active is kinda hard, and I actually do think it's unclear in this case.",
+      "Id": "23932"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 23, 2012, 10:41\u202FAM",
+      "Body": "> Klaital wrote:\n> If you still don't believe me, here is direct quote from LSJ.\n>\n> Declaring that one is not blocking is implicit in playing Deflection (unlike playing Telepathic Counter). That is, Deflection (and other bleed bounce cards) are played after blocks are declined. [LSJ 20000507] [LSJ 20061213]\n>\nThat's no different from the quotes in my first post. It supports that playing Deflection and declining to block can be done simultaneously. If that is possible than either playing or resolving (and paying) should be the point where blocks are actually declined. Direct Intervention would work differently depening on which of these timing windows the decline to block happens in.",
+      "Id": "23933"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Feb 23, 2012, 11:03\u202FAM",
+      "Body": "First, you need to implicitly or explicitely decline block attempts.\n\nAfter that, you can play the bounce card.\nIf the card is DI'ed, you still have already declined to block.\n\nCard text.\n\nReminders in card text are printed in partentheses (like: discard afterward, reshuffle, and other stuff).\n\npckvtes.wordpress.com",
+      "Id": "23934"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Feb 23, 2012, 11:04\u202FAM",
+      "Body": "Even if your Deflection is canceled, it is still 'played' which is evident in for example that you cannot play another deflection with the same vampire on the same action, even if the first one is canceled.\n\nIn conclusion, you have to play a deflection before it can be canceled, and you have to decline to block before you can play deflection, and a canceled deflection has still been played.",
+      "Id": "23935"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 23, 2012, 11:25\u202FAM",
+      "Body": "> chaitan wrote:\n> After a deflect you can only block again if it is bounced back to you.\n>\n> > If the target of a directed action is reset, a new \"choose blockers\" opportunity results. [RTR 19970630]\n> >\n> Related question: Can you deflect and block with Eagle Sight when the minion is bleeding another methuselah (and that methuselah has declined blocks)?\n>\nYou can decline the block, play deflection to another Methuselah X; a new block opportunity arises from the change of bleed target.\nIf X declines, you go clockwise for other Methuselahs' block attempts. You can decide to play Eagle Sight at that time to attempt to block.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23937"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 23, 2012, 11:32\u202FAM",
+      "Body": "> Amenophobis wrote:\n> Reminders in card text are printed in partentheses (like: discard afterward, reshuffle, and other stuff).\n>\nNo.\nFor instance, the \"(No cost is paid)\" part in Direct Intervention is not a reminder because cancelled cards are paid by default.\nSo it's wrong to assume (even if it would be great it were true) that text in parentheses in merely a reminder.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23938"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Feb 23, 2012, 11:42\u202FAM",
+      "Body": "When you played Deflection, even if you play it implicitly without going through all the formal declarations, it is clear that you declared \"Declined to Block.\" Otherwise by card text the card cannot be played.\n\nCasual and Implicit Play\nActor A: Bleed\nReactor B: Deflect\nReactor C: DI\nBleed is moving to resolution unless another relevant card is played. Blocks are still unavailable because they have already been declined.\n\nFormality\nActing vamp A: Bleed\n(Acting player relinquishes the impulse)\nReacting Methuselah being bled: Decline to block\n(Impulse returns to acting player, and is again relinquished)\nMeth being bled: Deflection\n(Impulse returns to acting player, and is again relinquished. Impulse moves to meth being bled, and is relinquished. Going clockwise rest of other meths choose to react; most relinquish.)\nOne Other Reacting Meth: DI the Deflection\n(Impulse returns to the Acting player, and so on...)",
+      "Id": "23939"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 23, 2012, 11:43\u202FAM",
+      "Body": "> henrik wrote:\n> Again, the quoted rulings in my post supports that a cancelled (unpaid) Deflection does not force block declination (since the declining to block happens after paying the cost of the Deflection, which isn't done).\n>\nFor a statement from LSJ that having your Deflection DI'd doesn't allow you to block, see this  2006 post .\n\nAlso, it's worth noting the following sentence in the rulebook, which makes the timing a lot more obvious:\n>\n> Rulebook wrote:\n> Note that moving past the block attempts (when all Methuselahs have declined to block) is an effect and so allows the acting Methuselah (and others) to play more cards and effects.\n>\n--\nNational Coordinator\nSouth Africa",
+      "Id": "23940"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 23, 2012, 12:15\u202FPM",
+      "Body": "LSJ introduced the concept of \"impulse\" quite late.\n\n- Declining a block attempt or declaring you decline to declare block attemps does not give the impulse back to the acting minion.\nThis means the acting minion can't play Conditioning and get his bleed Eagle Sight'd if you declined to block. All block declination are given in a row.\n\nWhen you decline to block, the impulse goes to your prey (or the next eligible blocker), and so on. When everyone player declined to declare block attempts, the impulse goes back to the acting player, and unless the target changes, we're considering an unblocked action. Acting minion can play Conditioning et al, reacting minions can play Telepathic Counter, Wakes, Telepathic Misdirection et al.\n\nDeflection, Redirection, ... are only playable after declining to block the action. This means you first declare you're done with block attempts (and everyone including Anneke says so), then they play Conditioning, you play Deflection.\nIf your Deflection is canceled, well, you still have declined block attempts. Your only options are\n- cancel the DI\n- play Redirection // deflection with another guy\n- enjoy your Protected Resources.\n\n(note that, if the bleed is deflected, *everyone* (and this includes Anneke who previously declined to block) gets a new chance to declare block attempts.",
+      "Id": "23942"
+    }
+  ]
+}

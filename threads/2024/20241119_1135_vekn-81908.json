@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-81908",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81908-when-is-a-discipline-considered-to-have-been-used",
+  "Title": "When is a discipline considered to have been used?",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Nov 19, 2024, 11:35\u202FAM",
+      "Body": "When is a discipline considered to have been used?\n\nWhen is it played?\nWhen does the effect take place?\nIn both cases?\n\nTo make it clearer.\n\nIf an action is played with discipline X and then a vampire takes the place of another with the mask of a thousand faces, who is considered to have played discipline X?\nThe vampire who played the card?\nThe vampire who carried out the effect?\nBoth?\n\nName: Mask of a Thousand Faces\n[Jyhad:U, VTES:U, CE:U, KMW:PB2, LotN:PA, KoT:U, HttB:PSam2]\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\nArtist: Jeff Menges; Leif Jones",
+      "Id": "113127"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Nov 19, 2024, 12:29\u202FPM",
+      "Body": "The vampire playing the action modifier at the time the action modifier was played is the one considered using it taht.\n\nIf you check vdb, this is the rulling that would support that\n\nThe masking vampire can play a modifier already played by the masked minion. He cannot use a limited effect (ie. bleed enhancer) if a limited effect has already been used on the action. [ANK 20190117-1]\n\ncheck also this thread. www.vekn.net/forum/rules-questions/77308-mask-of-a-1000-faces-and-bleed-modifiers#92987",
+      "Id": "113128"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Nov 21, 2024, 8:53\u202FAM",
+      "Body": "I was thinking about actions, not about modifiers.\n\nImagine this scenario\n\n2 vampires with animalism, obfuscate and presence. Both with a dabbler.\n\nVampire A plays Breaking the bonds\nVampire B Plays Mask of a Thousand Faces\n\nWho can use his Dabbler.\n\nDabbler says:\n\nName: Dabbler\n[HttB:R/B1, NB2:PMi2]\nCardtype: Master\nArchetype. Trifle.\nPut this card on a vampire you control. Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards, this vampire can either burn 1 blood to unlock or gain 1 blood. A vampire can have only one archetype.\nArtist: Matt Smith\n\nDepending on the definition of used (played or performed) will define which vampire could use Dabbler in that scenario.\n\nThis afternoon I am going to play a deck with this issue. I hope I get an answer before.\nIf not...\nI will judge that Use=Play (although it would be probably better to my deck Use=Perform and this way I will end with both vampires unlocked. If Use=Play you can only gain 1 blood. The vampire is already unlocked)",
+      "Id": "113151"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Nov 21, 2024, 9:46\u202FAM",
+      "Body": "Editing my answer as it was wrong",
+      "Id": "113154"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 21, 2024, 9:56\u202FAM",
+      "Body": "> Coyote wrote:\n> I was thinking about actions, not about modifiers.\n>\n> Imagine this scenario\n>\n> 2 vampires with animalism, obfuscate and presence. Both with a dabbler.\n>\n> Vampire A plays Breaking the bonds\n> Vampire B Plays Mask of a Thousand Faces\n>\n> Who can use his Dabbler.\n>\nAssuming A played Break the Bonds (not Breaking the Bonds) using three Disciplines, A can gain 1 blood from the Dabbler.\nB cannot as they only played an Obfuscate card (Mask of a Thousand Faces)\n\nName: Break the Bonds\n[V5C:PR8]\nCardtype: Action\nDiscipline: Animalism/Obfuscate/Presence\nRequires an Anarch. More than one Discipline can be used to play this card.  Bleed.\n[ani] The bleed is with +1 bleed.\n[obf] If the bleed is successful, you can lock a minion controlled by the target Methuselah.\n[pre] If the bleed is successful, add 1 blood to a vampire in your uncontrolled region.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113156"
+    }
+  ]
+}

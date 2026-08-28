@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-78044",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78044-about-bleed-modifiers",
+  "Title": "About bleed modifiers",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Oct 23, 2019, 7:06\u202FAM",
+      "Body": "> Non-existant user wrote:\n> No more than one action modifier card can be played to increase a bleed during a bleed action. Some bleed action modifiers explicitly state that they do not count against this limit; those can be played before or after modifiers that count against the limit. Players are reminded of this rule by the \"(limited)\" card text on some cards.\n>\nwww.vekn.net/rulebook/6-minion-phase#6.1.1.bleed\n\nQ: If you play Foreshadowing Destruction at superior on your prey with 9 or fewer pool and it is bounced to another player that has more than 9 pool, foreshadowing does not add to the bleed at all. Is that right? Was it always that way or just with the latest wording?\nA: Yes, and it was always that way. Foreshadowing Destruction provides +3 bleed only if the target has less than 10 pool.\n\nQ: Can I play another bleed modifier such as Conditioning after playing a Foreshadowing Destruction at superior?\nA: You can if the target of the bleed has 10 pool or more since Foreshadowing Destruction does not increase the bleed amount in that case. Please note that it was not the case before since Foreshadowing Destruction used to prevent other action modifiers that increase the bleed to be played per card text. Now the limiting card text has been moved to the rulebook and does not care about the order.\n\nQ: What about the other way round? Can I play Foreshadowing Destruction at superior after playing a Conditioning?\nA: Same answer, you can play Foreshadowing Destruction if the target of the bleed has 10 pool or more since it does not increase the bleed amount in that case.\n\nQ: Foreshadowing Destruction says that it is \"(limited)\". Doesn't it prevent other bleed modifiers from being played?\nA: \"(limited)\" is just a hint to remind players that there is a rule about limits for bleed modifiers in the rulebook. The text has no effect by itself (that is why it is between parenthesis).\n\nQ: A Conditioning is played and cancelled by a Direct Intervention. Can another bleed modifier be played? The rule says \"No more than one action modifier card can be played to increase a bleed during a bleed action.\" and the Conditioning was played, right?\nA: The Conditioning was played, but did not increase the bleed. Therefore it does not count against the limit, and another bleed modifier can be played.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97516"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 23, 2019, 7:25\u202FAM",
+      "Body": "\" Q: Can I play another bleed modifier such as Conditioning after playing a Foreshadowing Destruction?\nA: You can if the target of the bleed has 10 pool or more since Foreshadowing Destruction does not increase the bleed amount in that case. Please note that it was not the case before since Foreshadowing Destruction used to prevent other action modifiers that increase the bleed to be played per card text. Now the limiting card text has been moved to the rulebook and does not care about the order. \"\n\nAnkha what about scenario: A play vs B Foreshadowing Destruction (B has 9 pool),B bounce to C who have more than 10 pool,so I can play Conditioning,after that C bounce back to B,what happen?",
+      "Id": "97517"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Oct 23, 2019, 9:04\u202FAM",
+      "Body": "> beslin wrote:\n> \" Q: Can I play another bleed modifier such as Conditioning after playing a Foreshadowing Destruction?\n> A: You can if the target of the bleed has 10 pool or more since Foreshadowing Destruction does not increase the bleed amount in that case. Please note that it was not the case before since Foreshadowing Destruction used to prevent other action modifiers that increase the bleed to be played per card text. Now the limiting card text has been moved to the rulebook and does not care about the order. \"\n>\n> Ankha what about scenario: A play vs B Foreshadowing Destruction (B has 9 pool),B bounce to C who have more than 10 pool,so I can play Conditioning,after that C bounce back to B,what happen?\n>\nLet's say the conditioning was basic for some reason too.",
+      "Id": "97519"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 24, 2019, 10:10\u202FAM",
+      "Body": "> beslin wrote:\n> \" Q: Can I play another bleed modifier such as Conditioning after playing a Foreshadowing Destruction?\n> A: You can if the target of the bleed has 10 pool or more since Foreshadowing Destruction does not increase the bleed amount in that case. Please note that it was not the case before since Foreshadowing Destruction used to prevent other action modifiers that increase the bleed to be played per card text. Now the limiting card text has been moved to the rulebook and does not care about the order. \"\n>\n> Ankha what about scenario: A play vs B Foreshadowing Destruction (B has 9 pool),B bounce to C who have more than 10 pool,so I can play Conditioning\n>\nAssuming all cards are played at superior: yes, since Foreshadowing Destruction is no longer increasing the bleed at that point.\n\n> beslin wrote:\n> ,after that C bounce back to B,what happen?\n>\nThe minion has +6 bleed (+3 from Conditioning, +3 from Foreshadowing Destruction).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97541"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 24, 2019, 10:14\u202FAM",
+      "Body": "> Mewcat wrote:\n>\n> > beslin wrote:\n> > \" Q: Can I play another bleed modifier such as Conditioning after playing a Foreshadowing Destruction?\n> > A: You can if the target of the bleed has 10 pool or more since Foreshadowing Destruction does not increase the bleed amount in that case. Please note that it was not the case before since Foreshadowing Destruction used to prevent other action modifiers that increase the bleed to be played per card text. Now the limiting card text has been moved to the rulebook and does not care about the order. \"\n> >\n> > Ankha what about scenario: A play vs B Foreshadowing Destruction (B has 9 pool),B bounce to C who have more than 10 pool,so I can play Conditioning,after that C bounce back to B,what happen?\n> >\n> Let's say the conditioning was basic for some reason too.\n>\nEverything above applies to Foreshadowing Destruction played at superior. At inferior, it's a regular bleed modifier. (I've updated the original post).\nPlaying Conditioning at superior or inferior doesn't matter.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97542"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Oct 24, 2019, 2:09\u202FPM",
+      "Body": "I wouldn't have guessed any of this. From the standpoint of mathematical operations +0 or +x, in the case of foreshadowing, is an entirely valid transformation operation.",
+      "Id": "97545"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 24, 2019, 6:52\u202FPM",
+      "Body": "The +0 is not an increase and the rulebook is concerned about that.",
+      "Id": "97547"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Oct 25, 2019, 1:15\u202FAM",
+      "Body": "But not about having 2 limited effects?",
+      "Id": "97554"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 25, 2019, 7:20\u202FAM",
+      "Body": "> Mewcat wrote:\n> But not about having 2 limited effects?\n>\nWhat is a limited effect?\n\n> Ankha wrote:\n> Q: Foreshadowing Destruction says that it is \"(limited)\". Doesn't it prevent other bleed modifiers from being played?\n> A: \"(limited)\" is just a hint to remind players that there is a rule about limits for bleed modifiers in the rulebook. The text has no effect by itself (that is why it is between parenthesis).\n>\nYou're allowed to play only one source of bleed modifier to increase the bleed. You can play other sources of bleed modifier that don't count against the limit, or that don't increase the bleed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97561"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Oct 25, 2019, 9:54\u202FAM",
+      "Body": "Nevertheless we wind up with 2 bleed modifiers increasing a bleed no matter how we got there.\n\nNo more than one action modifier card can be played to increase a bleed during a bleed action.\n\nIt's like catch 22 built into the game.\n\nProlly best to recognize foreshadowing for what it is, a conditional increase.",
+      "Id": "97569"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Oct 25, 2019, 10:51\u202FAM",
+      "Body": "New scenario. Prey at 10. I bleed play superior foreshadowing and stealth. Prey direct intervention on stealth. May I play the conditioning I drew?\n\nPresumably no. It seems we only care if foreshadowing is 'active' when we play the 2nd bleed modifier, not what may have been true in the past or may be true in the future.\n\nP.s.\n\nWhat if prey at 10, I play conditioning and sup foreshadowing and guy di foreshadowing? Does world explode because he burn 1 pool to cancel as I play but then I couldn't play at all...",
+      "Id": "97571"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 25, 2019, 11:21\u202FAM",
+      "Body": "If I play both Conditioning and Foreshadowing Destruction while bleeding at a player with 10 pool, and get bounced to a player with less than 10 pool, are both modifiers active; do I get +6 bleed in total from both cards since it was legal to play them at the time?\n\nSame can be replicated with Aching Beauty; I play Foreshadowing and Aire of Elation with a Toreador with Aching Beauty before blocks, and after block (burn pool from block as per card text) the action is continued with Torrent (for example). If the target is now under 10 pool, do both modifier effects kick in?\n\nName: Aching Beauty\n[Jyhad:U, VTES:U, CE:U, KoT:U]\nCardtype: Master\nClan: Toreador\nCost: 2 pool\nMaster.\nPut this card on a Toreador. If this Toreador is blocked, the controller of the blocking minion burns 1 pool (before combat occurs, if any).\nArtist: Dave Roach & Pete Burges; Chris Stevens\n\nName: Torrent\n[KoT:C/B2]\nCardtype: Combat\nCost: 2 blood\nDiscipline: Celerity\n[cel] Additional strike {(limited)}.\n[CEL] Strike: combat ends. If this vampire was blocked while performing an action, the action continues as if unblocked.\nArtist: John Bridges\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "97572"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 25, 2019, 11:49\u202FAM",
+      "Body": "> Mewcat wrote:\n> New scenario. Prey at 10. I bleed play superior foreshadowing and stealth. Prey direct intervention on stealth. May I play the conditioning I drew?\n>\nNo you can't for the reasons explained before.\n\n> Mewcat wrote:\n> What if prey at 10, I play conditioning and sup foreshadowing and guy di foreshadowing?\n>\nForeshadowing Destruction is canceled and nothing else happens.\n\n> Mewcat wrote:\n> Does world explode because he burn 1 pool to cancel as I play but then I couldn't play at all...\n>\nIt was legal when you played it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97573"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 25, 2019, 11:51\u202FAM",
+      "Body": "> Kraus wrote:\n> If I play both Conditioning and Foreshadowing Destruction while bleeding at a player with 10 pool, and get bounced to a player with less than 10 pool, are both modifiers active; do I get +6 bleed in total from both cards since it was legal to play them at the time?\n>\nYes.\n\n> Kraus wrote:\n> Same can be replicated with Aching Beauty; I play Foreshadowing and Aire of Elation with a Toreador with Aching Beauty before blocks, and after block (burn pool from block as per card text) the action is continued with Torrent (for example). If the target is now under 10 pool, do both modifier effects kick in?\n>\nYes.\n\n(BTW, it has always been the case, but you could play Foreshadowing Destruction only after Conditioning).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97574"
+    },
+    {
+      "Author": "Tzimiakira",
+      "Date": "Dec 10, 2021, 4:07\u202FAM",
+      "Body": "\"No more than one action modifier card can be played to increase a bleed during a bleed action. Some bleed action modifiers explicitly state that they do not count against this limit; those can be played before or after modifiers that count against the limit. Players are reminded of this rule by the \"(limited)\" card text on some cards.\"\n\nI am trying to find the source to quote it. But it is missed. Now I have the question if I can play any bleed modifier at any time during the bleed action. Thanks!",
+      "Id": "104153"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2021, 8:57\u202FAM",
+      "Body": "> Tzimiakira wrote:\n> I am trying to find the source to quote it. But it is missed. Now I have the question if I can play any bleed modifier at any time during the bleed action. Thanks!\n>\nThey follow the standard rule about when one can play action modifiers:\n\n\"Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution. A minion cannot play the same action modifier card more than once during a single action (even if using a different Discipline level).\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104154"
+    }
+  ]
+}

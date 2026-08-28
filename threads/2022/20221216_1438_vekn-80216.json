@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-80216",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80216-nra-pac-and-vast-wealth",
+  "Title": "NRA PAC and Vast Wealth",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Dec 16, 2022, 2:38\u202FPM",
+      "Body": "Heys!\n\nMy question revolves around a Vast Wealth action which finds a vehicle, but the minion performing the action already has a vehicle. I know the ruling that the new vehicle is burned and no cost is paid  [TOM 19950407] , but if NRA PAC is in play, do they get to unlock in this case?\n\n> Name: Vast Wealth\n> [Jyhad:U, VTES:U, CE:PTo, Third:U, KoT:U, FB:PTr1]\n> Cardtype: Master\n> Put this card on a ready minion you control. If you control this minion, they can equip with the first equipment you find in your library as a +1 stealth action (working down from the top; requirements and cost apply as normal; shuffle afterward).\n> Artist: Kaja Foglio; William O'Connor\n>\n> Name: NRA PAC\n> [Third:R, KoT:R]\n> Cardtype: Event\n> Government.\n> Any minion who successfully performs an equip action unlocks at the end of the turn.\n> Artist: Eric Lofgren\n>\nNC of Hungary\n\n///",
+      "Id": "107054"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 16, 2022, 3:06\u202FPM",
+      "Body": "> Malachy wrote:\n> Heys!\n>\n> My question revolves around a Vast Wealth action which finds a vehicle, but the minion performing the action already has a vehicle. I know the ruling that the new vehicle is burned and no cost is paid  [TOM 19950407] , but if NRA PAC is in play, do they get to unlock in this case?\n>\n> > Name: Vast Wealth\n> > [Jyhad:U, VTES:U, CE:PTo, Third:U, KoT:U, FB:PTr1]\n> > Cardtype: Master\n> > Put this card on a ready minion you control. If you control this minion, they can equip with the first equipment you find in your library as a +1 stealth action (working down from the top; requirements and cost apply as normal; shuffle afterward).\n> > Artist: Kaja Foglio; William O'Connor\n> >\n> > Name: NRA PAC\n> > [Third:R, KoT:R]\n> > Cardtype: Event\n> > Government.\n> > Any minion who successfully performs an equip action unlocks at the end of the turn.\n> > Artist: Eric Lofgren\n> >\nThe action was successful anyway, so the minion unlocks.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107055"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 16, 2022, 6:16\u202FPM",
+      "Body": "An attempt to provide an explanation for the ruling.\n\nThe reasoning is that Vast Wealth provides a \"search for a card\" and an \"equip action\" in one.... the provided action if not blocked and reaches resolution is considered successful even if it \"fizzles\" because the requirements/adherence to limitations cannot be met...and as a successful action that \"fizzles\" in its resolution triggers the NRA PAC\u00B4s unlocking effect as it only cares about the status of the action and not about the resolution of the effect.",
+      "Id": "107056"
+    }
+  ]
+}

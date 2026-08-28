@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-78145",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78145-additional-strikes-and-cancel-as-played",
+  "Title": "Additional Strikes and \"Cancel as Played\"",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Nov 26, 2019, 4:16\u202FPM",
+      "Body": "We had a situation come up in play last night and there was some confusion about how to resolve it.\n\nIn combat, Vampire A plays Pursuit to gain an additional strike. Vampire B plays Death Seeker to cancel Pursuit as it's played. Can Vampire A play another card to gain an additional strike?\n\nWe decided that the \"limited\" keyword meant that vampire A couldn't play another card. However, checking this morning to see if I could find a ruling on this, I found a line in the V:TES Official Clarifications, Rulings, and Errata doc on the VEKN France site indicating that they could play another card to gain additional strikes...but that document appears to be from 2004, well before the \"limited\" keyword was introduced to the game.\n\nName: Pursuit\nCardtype: Combat\nDiscipline: Celerity\n[cel] Maneuver.\n[CEL] Additional strike {(limited)}.\n\nName: Death Seeker\nCardtype: Combat\nClan: Salubri antitribu\nCost: 1 blood\nA vampire can play only one Death Seeker each round.\nCancel a combat card played by the opposing minion as it is played, and its cost is not paid.",
+      "Id": "97986"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Nov 26, 2019, 5:58\u202FPM",
+      "Body": "Cancelling a card effectively results a card by that specific name being played with a 'blank' effect. In Action modifiers  this is important since a minion may not play multiple  or  cards of the same name during the same action. That does not apply to combat  cards however.\n\nIn this case a 'blank' Pursuit was played with no effect. The minion did not gain any Additional Strikes, thus they could play another to actually gain the benefits of the cards.\n\nThis is why a minion might not replay a cancelled Conditioning, but might attempt to increase the Bleed amount with Threats (the bleed amount was not factually increased).\n\nHow _Limited_ works was last discussed in the October Newsletter:\nwww.vekn.net/2-uncategorised/465-vampire-elder-kindred-network-newsletter-october-2019\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "97987"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Nov 26, 2019, 8:14\u202FPM",
+      "Body": "Yeah, that makes sense.\n\nIn retrospect, I suspect we were probably confused around cards which specifically state that there can only be one copy played per round (like Immortal Grapple), which still pertains when they're cancelled due to the text on the second copy...",
+      "Id": "97990"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 27, 2019, 4:50\u202FPM",
+      "Body": "> Kraus wrote:\n> Cancelling a card effectively results a card by that specific name being played with a 'blank' effect. In Action modifiers  this is important since a minion may not play multiple  or  cards of the same name during the same action. That does not apply to combat  cards however.\n>\nThere are some important exceptions however, namely the combat cards that restrict themselves. For example you can only play one immortal grapple per round. Canceling a grapple means opponent cannot play another that round and you can combat end or whatever in peace.\n\n(offtopic)\nAlso another important rule is that action cards have to reach resolution in order to count as \"played\" and trigger the no-repeat-actions rule. Ie. resolve either successfully or unsuccessfully (succesful block means the action resolved unsuccessfully) This means that if you cancel an action card, they can play same action card again and attempt that same action again, no matter what it was. Action cards are unique in this sense.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "98003"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 28, 2019, 10:23\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > Kraus wrote:\n> > Cancelling a card effectively results a card by that specific name being played with a 'blank' effect. In Action modifiers  this is important since a minion may not play multiple  or  cards of the same name during the same action. That does not apply to combat  cards however.\n> >\n> There are some important exceptions however, namely the combat cards that restrict themselves. For example you can only play one immortal grapple per round. Canceling a grapple means opponent cannot play another that round and you can combat end or whatever in peace.\n>\nIndeed, and that's because of the cardtext of the second copy, not the one that was cancelled.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98015"
+    },
+    {
+      "Author": "Tendoncutter",
+      "Date": "Nov 28, 2019, 12:23\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Kraus wrote:\n> > (offtopic)\n> > Also another important rule is that action cards have to reach resolution in order to count as \"played\" and trigger the no-repeat-actions rule. Ie. resolve either successfully or unsuccessfully (succesful block means the action resolved unsuccessfully) This means that if you cancel an action card, they can play same action card again and attempt that same action again, no matter what it was. Action cards are unique in this sense.\n> >\n> Which kinda sucks if you try to stay alive against bleed decks through, among other things, Superior Esprit de Corps -_-\n>",
+      "Id": "98020"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 29, 2019, 12:30\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Also another important rule is that action cards have to reach resolution in order to count as \"played\"\n>\nThis isn't true. The action card counts as having been played if it was played. A card such as Ancient Influence, with card text saying \"Only one Ancient Influence can be played or called in a game\", counts as having been played even if it never reached resolution. A second copy of Ancient Influence in anyone's hand will see that it has been played.\n\n> Bloodartist wrote:\n> and trigger the no-repeat-actions rule\n>\nThat's separate from being 'played', and applies to all actions, including actions that don't have a card played (e.g. default bleed, vampire's card text, text from a card in play). A vampire taking an inherent default bleed is not tainted by the repeat action rules if the action terminates early somehow (e.g. Tangle Atropos' Hand) or if the action moves off them (e.g. Mask of a Thousand Faces).",
+      "Id": "98031"
+    }
+  ]
+}

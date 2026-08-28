@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-39391",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/39391-crypt-s-son-timing",
+  "Title": "Crypt's Son Timing",
+  "Messages": [
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Oct 18, 2012, 12:48\u202FAM",
+      "Body": "Crypt's Sons\nType: Retainer\nRequires: anarch\nCost: 1 pool\nUnique mortal with 3 life. Requires an anarch.\nWhenever this anarch is blocked, he or she may burn a life from the Sons to cancel combat and continue the action as if unblocked. The Sons inflict 1R damage each round of combat during normal strike resolution.\n\nPlayer 1 controls Minion A with Crypt's Son.\nPlayer 2 controls Minion X, untapped.\n\nMinion A bleeds Player 2.\nMinion B blocks successfully and taps.\n\nAt this point in time, Crypt's Son's text can be accessed.\nPlayer 1: does not burn blood from Crypt's Son and combat begins.\n\nMinion A: no precombat cards\nMinion B: Drawing Out The Beast, Torn Signpost, Carrion Crows\n\nMinion A: cannot maneuver.\nMinion B: does not maneuver and Immortal Grapple.\n\nMinion A: chooses at this time to burn a blood from Crypt's Son to cancel combat and continue the action.\n\nLegal play?\nI assume so, but wanted to verify before I tried it in a game.\n\nRationale:\n1) The criteria for Crypt's Son's effect has been met and remains valid.\n2) Using Crypt's Son at this point in time is roughly analogous to Delaying Tactics after vote generating modifiers have been played, which is a generally recognized use.\n\nThanks in advance for confirmation",
+      "Id": "39391"
+    },
+    {
+      "Author": "theragnarok",
+      "Date": "Oct 18, 2012, 2:56\u202FAM",
+      "Body": "You do not get the option to cancel combat once combat has begun. You have to use the Crypt's Sons text when blocked, before combat begins, similar to Mental Maze or Obedience.",
+      "Id": "39395"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Oct 18, 2012, 3:33\u202FAM",
+      "Body": "Obedience: specifically states \"about to enter combat\" and ends the action (not canceling combat.)\n\nMental Maze: specifically states \"(play before combat, if any)\" and also ends the action (with no combat), thereby not cancelling it - just avoiding it.\n\nCrypt's Son's includes no language that dictates a \"before combat\" usage - only that the \"is blocked\" criteria be fulfilled.\n\nI am not sure that Obedience and Mental Maze are appropriate analogs for the Son's potential use.\n\nI guess the gist of the matter is \"is blocked\" an event or a condition?",
+      "Id": "39397"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 18, 2012, 6:28\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Minion A: chooses at this time to burn a blood from Crypt's Son to cancel combat and continue the action.\n>\n> Legal play?\n> I assume so, but wanted to verify before I tried it in a game.\n>\n> Rationale:\n> 1) The criteria for Crypt's Son's effect has been met and remains valid.\n> 2) Using Crypt's Son at this point in time is roughly analogous to Delaying Tactics after vote generating modifiers have been played, which is a generally recognized use.\n>\nNo, you have to use the effect *when* the condition if met, not later. It's not a lingering effect such as \"during this action...\" so the \"remains valid\" part in your reasoning is wrong. See also the topic about Horrific Countenance.\n\n\"roughly analogous\" to DT is false because DT states \"during a referendum\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "39406"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Oct 18, 2012, 12:43\u202FPM",
+      "Body": "> Ankha wrote:\n> See also the topic about Horrific Countenance..\n>\nAh, there's a direct analog. Thanks for that reference.\n\nI'll point out that in all those cases, the question for timing of playing cards is the issue - and Crypt's Son isn't playing a card, it's activating an effect already in play. But I don't think there is a practical difference - creating an effect is creating an effect, regardless of mechanism.",
+      "Id": "39421"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 19, 2012, 5:15\u202FAM",
+      "Body": "Correct answer from Ankha. Crypt's Sons is used to continue the blocked action before the combat.",
+      "Id": "39461"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 19, 2012, 7:00\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> I'll point out that in all those cases, the question for timing of playing cards is the issue - and Crypt's Son isn't playing a card, it's activating an effect already in play. But I don't think there is a practical difference - creating an effect is creating an effect, regardless of mechanism.\n>\nIndeed, there is no difference between a card or an effect that uses the same timing condition.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "39465"
+    },
+    {
+      "Author": "Cooper",
+      "Date": "Dec 6, 2012, 3:08\u202FPM",
+      "Body": "Not sure i get the card at all. If it used before the combat, is the blocking vamp tapped?\n\nIf not, can't he just block again?\nW",
+      "Id": "42464"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 6, 2012, 3:23\u202FPM",
+      "Body": "> Cooper wrote:\n> Not sure i get the card at all. If it used before the combat, is the blocking vamp tapped?\n>\nThe block was successful, so the blocking minion taps* for successfully blocking.\n\nThen the combat is cancelled, and the action continues as if unblocked.\n\n* barring cards like Atonement etc.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "42466"
+    }
+  ]
+}

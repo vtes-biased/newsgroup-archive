@@ -1,0 +1,158 @@
+{
+  "ThreadId": "vekn-76264",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/76264-damnans-vtes-online-card-maker",
+  "Title": "Damnans VTES Online Card Maker",
+  "Messages": [
+    {
+      "Author": "scott_kowalczuk",
+      "Date": "Nov 2, 2017, 5:49\u202FAM",
+      "Body": "Does this still work? I can't get it to work dnn.vtes.net/Default.aspx?tabid=853&language=en-US",
+      "Id": "84094"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Nov 2, 2017, 6:36\u202FAM",
+      "Body": "The vtes.net website has been hacked for a few years now. Therefore, it's DotNetNuke modules are not being updated and do not work now.\n\nThe website owner offered me the possibility of migrating the online card-making tool (which I own) to another website of my choice.\n\nHe said I'd need someone who can code in asp.net.\n\nI have been thinking about hosting it on vekn.net, but since vekn.net is running under Linux (and ASP.NET requires a Windows server), it would require to make the website compliant to Mono, which is a .NET runtime for Linux.\n\nAny help on this will be greatly appreciated.\n\nV:EKN Website Coordinator",
+      "Id": "84095"
+    },
+    {
+      "Author": "Rich2986",
+      "Date": "Nov 2, 2017, 6:45\u202FPM",
+      "Body": "What about making it a downloadable folder. Im not well verse in Linux or the .Net but would that work?",
+      "Id": "84102"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 9, 2017, 12:00\u202FPM",
+      "Body": "> Rich2986 wrote:\n> What about making it a downloadable folder. Im not well verse in Linux or the .Net but would that work?\n>\nWhat do you mean by \"downloadable folder\"? The tool is a program that needs to run on the server. If you mean \"download the program and run it on my computer\", it probably won't work because you need to install a web serveur (such as IIS) on your computer.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84173"
+    },
+    {
+      "Author": "Rich2986",
+      "Date": "Nov 9, 2017, 4:27\u202FPM",
+      "Body": "Yes I ment as download the program to your computer, I wasnt 100% on the technical details so I thought id ask the question",
+      "Id": "84177"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Dec 6, 2017, 9:47\u202FAM",
+      "Body": "I can have a play with getting it running if you want.\n\nAnother project that isn't JOL would probably be good for my sanity.\n\nPM me if you are interested.",
+      "Id": "84480"
+    },
+    {
+      "Author": "Enigma",
+      "Date": "Dec 8, 2017, 12:07\u202FPM",
+      "Body": "Would it be possible to get access to that program?\nI have wanted to be able to get it as I am personally using it to create my own cards (grateful to this program btw and you in this case) to make it easier to get an overview when storytelling.\n\nSo if it would be possible to gain access to it somehow it if is not online, then I could have a friend make a private server for me to use it on if nothing else?",
+      "Id": "84496"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Dec 8, 2017, 12:38\u202FPM",
+      "Body": "I should be receiving that program's code next week.\n\nMy intention is to make the Card-maker available to everyone on vekn.net if possible.\n\nV:EKN Website Coordinator",
+      "Id": "84497"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Dec 21, 2017, 7:47\u202FPM",
+      "Body": "> ShanDow wrote:\n> I can have a play with getting it running if you want.\n>\n> Another project that isn't JOL would probably be good for my sanity.\n>\n> PM me if you are interested.\n>\nI just sent you the source code for the Card-Maker.\n\nV:EKN Website Coordinator",
+      "Id": "84642"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Dec 22, 2017, 7:31\u202FAM",
+      "Body": "I'll have you know that I'm very excited for this!\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "84646"
+    },
+    {
+      "Author": "Enigma",
+      "Date": "Jan 14, 2018, 6:19\u202FPM",
+      "Body": "Are we making any progress with this?\nI wouldnt mind a stab at it if it is possible.",
+      "Id": "84902"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Jan 17, 2018, 4:05\u202FAM",
+      "Body": "I got the code just before Xmas and have had a bit of a look, but the work year has started a bit busier than expected and haven't got back into it.\n\nPulling apart the .NET part isn't too hard, it's learning how to turn that into something Joomla can handle that's time consuming.",
+      "Id": "84938"
+    },
+    {
+      "Author": "Enigma",
+      "Date": "Jan 18, 2018, 3:34\u202FPM",
+      "Body": "If it would be allowed I would not mind getting a copy of the code and see what I can do with getting it fixed?\n\nNot sure if emails are shown here, but with Damnans permission (or if he sends himself)\nSend it to:  if so.",
+      "Id": "84961"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jan 18, 2018, 6:34\u202FPM",
+      "Body": "> Enigma wrote:\n> If it would be allowed I would not mind getting a copy of the code and see what I can do with getting it fixed?\n>\n> Not sure if emails are shown here, but with Damnans permission (or if he sends himself)\n> Send it to:  if so.\n>\nFiles sent to your e-mail.\n\nV:EKN Website Coordinator",
+      "Id": "84965"
+    },
+    {
+      "Author": "Brokenangel099",
+      "Date": "Mar 9, 2018, 2:11\u202FPM",
+      "Body": "Hello!,\n\nI just happened to be scrolling through looking for any efforts to mirror the vtes.net card creator (I was quite sad when the site went down, I\u2019d been using it for years), when I noticed this thread.\n\nI was wondering how efforts were going to mirror the utility on v:ekn?\n\nRegardless, I applaud everyone who\u2019s put in effort in resurrecting the utility.\n\nCheers,\n\n~J",
+      "Id": "85650"
+    },
+    {
+      "Author": "Enigma",
+      "Date": "Mar 12, 2018, 1:45\u202FPM",
+      "Body": "So far its not coming along very well on my part sadly, its a jumble of a code and the notes are in spanish, not given up yet but I hope others have greater luck.\n\nIll let you know if things progress further.",
+      "Id": "85687"
+    },
+    {
+      "Author": "alf",
+      "Date": "Mar 12, 2018, 10:03\u202FPM",
+      "Body": "Hola Gines.\nAny information on the technical base for this (e.g. Java/Java Script etc.) and platform it used to work on?\nNot sure wether I could handle it myself but I know a few tech savvy guys due to working in a fairly big IT department >500 and counting.\nRest assured there are a few \u201Ehack0rz\u201C to be found, but depending on the guys I know I might try to find some help.\nSaludos\nAlf\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "85698"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Mar 12, 2018, 11:06\u202FPM",
+      "Body": "> alf wrote:\n> Hola Gines.\n> Any information on the technical base for this (e.g. Java/Java Script etc.) and platform it used to work on?\n> Not sure wether I could handle it myself but I know a few tech savvy guys due to working in a fairly big IT department >500 and counting.\n> Rest assured there are a few \u201Ehack0rz\u201C to be found, but depending on the guys I know I might try to find some help.\n> Saludos\n> Alf\n>\nHallo, Alf.\n\nThe cardmaking took was designed for a dotnetnuke (DNN) website, so I guess it is a DNN module.\n\nAny help you can provide will be much appreciated.\n\nV:EKN Website Coordinator",
+      "Id": "85701"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Mar 12, 2018, 11:08\u202FPM",
+      "Body": "> Enigma wrote:\n> So far its not coming along very well on my part sadly, its a jumble of a code and the notes are in spanish, not given up yet but I hope others have greater luck.\n>\n> Ill let you know if things progress further.\n>\nLet me know if you need any help with the Spanish notes.\n\nV:EKN Website Coordinator",
+      "Id": "85702"
+    },
+    {
+      "Author": "Brokenangel099",
+      "Date": "Mar 13, 2018, 1:33\u202FPM",
+      "Body": "While I can\u2019t code or interpret Spanish,\n\nIf there\u2019s anything I can do to help, please let me know as well.\n\nThe Card Creator module was a wonderful resource for me (and many others, I would presume), and it is sorely missed.\n\nI\u2019d like to thank its original creator, Damnans, and those trying to resurrect it. And I wish you all the best of luck.\n\n~J",
+      "Id": "85714"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 3, 2018, 11:00\u202FPM",
+      "Body": "Damnans could you send me the code? I have a friend who's willing to take a look at things. email is  Thanks!",
+      "Id": "90389"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Sep 4, 2018, 10:09\u202FAM",
+      "Body": "> self wrote:\n> Damnans could you send me the code? I have a friend who's willing to take a look at things. email is  Thanks!\n>\nFiles sent.\n\nV:EKN Website Coordinator",
+      "Id": "90396"
+    },
+    {
+      "Author": "Wannenburg",
+      "Date": "Feb 8, 2019, 3:50\u202FPM",
+      "Body": "Hi guys, there is a fantastic app called Magic set editor which I'm more than happy to create a custom template for VTES. Then everyone can just download the dam thing and run it off their computer like good little vampires.\n\nIf any of you could mail me the images from the old online card maker, then I can get to work.\n\nHere is a link to the app's site with tutorials on how to make custom templates.\nmagicseteditor.sourceforge.net/node/5678\n\nFirst project : True Blood expansion. \"Sookie Sookie Sookie!\"",
+      "Id": "93361"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Feb 10, 2019, 6:01\u202FAM",
+      "Body": "> Wannenburg wrote:\n> Hi guys, there is a fantastic app called Magic set editor which I'm more than happy to create a custom template for VTES. Then everyone can just download the dam thing and run it off their computer like good little vampires.\n>\n> If any of you could mail me the images from the old online card maker, then I can get to work.\n>\n> Here is a link to the app's site with tutorials on how to make custom templates.\n> magicseteditor.sourceforge.net/node/5678\n>\n> First project : True Blood expansion. \"Sookie Sookie Sookie!\"\n>\nI'm not a fan of MSE (it's hot garbage). It's usually quicker and easier to just shoop a card by hand than it is to program something to use for their templates. The output is super low quality, too something like 72dpi.\n\nHere's a folder with most of the card frames.\n\nThere's a font floating around out there that contains all of the V:tes disciplines that I'm sure you can find with some googling, and you can be in business.\n\nGood luck on your quest!",
+      "Id": "93383"
+    },
+    {
+      "Author": "pheno",
+      "Date": "Apr 13, 2020, 4:28\u202FPM",
+      "Body": "Is there any project currently active to bring another tool for making VTES cards?\nI'm a big nostalgic of the old frame and also the full bleed designs I could see some time ago.\n\nAny info?\n\nBy the way: I couldn't find drivethrucards tool (probably due to the pandemy stop).",
+      "Id": "99575"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "ThreadId": "vekn-38556",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/38556-any-progress-on-the-ranking-module",
+  "Title": "Any progress on the ranking module?",
+  "Messages": [
+    {
+      "Author": "wargrim",
+      "Date": "Oct 8, 2012, 7:34\u202FAM",
+      "Body": "So now , you can finally stop whining and get back to work!\n\nWhat about the rank - has the script/piece of code been already completed ? How is that possible that for last 2 years you were unable to create a decent tool for that purpose ?\n\nI'm really disappointed that you're wasting time on pointless discussions instead of doing something creative.\n\nThere are dozens of players looking at YOU (VEKN) and wondering WTF you're doing...\n\nIt would be really nice if you could concentrate on really important current issues (like rank for example). After reading several pages of this \"great\" discussion I have a feeling that the bureaucracy is \"killing you from inside\". Don't forget you're fan based group, as some of you behave as if they were managers of some big private organization. Hold on your horses guys. VTES is not your private toy. VTES is us - the society of players...\n\n\"Iusiurandum patri datum usque ad hanc diem ita servavi\"",
+      "Id": "38556"
+    },
+    {
+      "Author": "Azazel",
+      "Date": "Oct 8, 2012, 8:46\u202FAM",
+      "Body": "Or maybe you should just shut the fuck up!\nIf you want to contribute something useful let them know.\nPeople who have been coding the pages have a ton of other stuff to do also (work, family etc). Maybe they even have been working on the rankings as we speak?\n\nLet the dust settle for now, and stop ranting here!",
+      "Id": "38560"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 8, 2012, 9:48\u202FAM",
+      "Body": "> wargrim wrote:\n> So now , you can finally stop whining and get back to work!\n>\n> What about the rank - has the script/piece of code been already completed ? How is that possible that for last 2 years you were unable to create a decent tool for that purpose ?\n>\nStick to the topic? Start new thread about ranking?\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "38575"
+    },
+    {
+      "Author": "wargrim",
+      "Date": "Oct 8, 2012, 9:55\u202FAM",
+      "Body": "> Azazel wrote:\n> Or maybe you should just shut the fuck up!\n> If you want to contribute something useful let them know.\n> People who have been coding the pages have a ton of other stuff to do also (work, family etc). Maybe they even have been working on the rankings as we speak?\n>\n> Let the dust settle for now, and stop ranting here!\n>\nIt took one of the Polish players a week to create a tool that would collect set of data from Archon sheets amd generate an output file (rank) that is currently being used for VTES Polish League (www.vtes-polska.ugu.pl/rating.php), so don't tell me it's that difficult :). It's been two years now there is no world rank at all...\n\nAnyway - I'm not going to post here any more, as it is a well known fact, that everyone who even tries to write something which is not 100% compatible with VEKN ideas is considered to be an enemy.\n\nRoger out.\n\n\"Iusiurandum patri datum usque ad hanc diem ita servavi\"",
+      "Id": "38577"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Oct 8, 2012, 10:05\u202FAM",
+      "Body": "> wargrim wrote:\n> It took one of the Polish players a week to create a tool that would collect set of data from Archon sheets amd generate an output file (rank) that is currently being used for VTES Polish League (www.vtes-polska.ugu.pl/rating.php), so don't tell me it's that difficult :). It's been two years now there is no world rank at all...\n>\nwell you could have volunteered that or got your NC to volunteer that Wargrim!",
+      "Id": "38578"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Oct 8, 2012, 10:05\u202FAM",
+      "Body": "> wargrim wrote:\n> It took one of the Polish players a week to create a tool that would collect set of data from Archon sheets amd generate an output file (rank) that is currently being used for VTES Polish League (www.vtes-polska.ugu.pl/rating.php), so don't tell me it's that difficult :). It's been two years now there is no world rank at all...\n>\nSo why not offer it up to be used by VEKN?\n\nThat would've been more productive than a negative rant...\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "38579"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Oct 8, 2012, 10:16\u202FAM",
+      "Body": "> It took one of the Polish players a week to create a tool that would collect set of data from Archon sheets amd generate an output file (rank) that is currently being used for VTES Polish League (www.vtes-polska.ugu.pl/rating.php), so don't tell me it's that difficult . It's been two years now there is no world rank at all...\n>\nYe I kinda have to side with wargrim here on this topic, although it's probably not the right thread for it.\n\nSince the Archon (which is Excel) delivers its data in XML quite readily since Office2010, writing a .NET upload is utterly trivial. It's probably slightly more challenging in php, but I believe Joomla! is .NET anyway.\n\nReally, all you need to do is grab the right XML-ids of the fields you want to export (which should be just the results tab in the Archon) and store them in a database somewhere. Add in some reasonably simple queries to pull the data you want to see and then sort it by whatever sorting algorithm you want and voila, it's done.\n\nIt's my understanding that a \"team\" of people was working on it two years ago, those people then abandoned the project, it took ages for them to get replaced and that team \"has been working on the matter\" since I last brought it up, which is about 6-7 months ago.\n\nHow anyone can take more than a few weeks to code something as trivial as the conversion from a few lines of XML to a viewable website is beyond me, but that's where we're at.\n\n> well you could have volunteered that or got your NC to volunteer that Wargrim!\n>\nThat doesn't work, or at least it hasn't until now. I offered exactly that on two occasions. Once immediately (and directly to the newly appointed chairman) after the NC meeting all the way back in Paris (EC2010) and once during the EC in Poland last year. Both times my assistance was not required as \"matters were being taken care of\"\n\nYet here we are.",
+      "Id": "38580"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 8, 2012, 10:25\u202FAM",
+      "Body": "I do agree with Izaak that it is trivially easy (even in PHP, which Joomla is done in AFAIK).\n\nThen again, I think Wargrim took the wrong approach and the wrong thread.\n\n(also, I do have called name Johannes several time without being banned, or even ostracized, so I believe peoples can be critical with the Inner Circle easily enough)",
+      "Id": "38582"
+    },
+    {
+      "Author": "wargrim",
+      "Date": "Oct 8, 2012, 10:56\u202FAM",
+      "Body": "In my opinion it is the right place to talk about it. Once I realised how much energy had been wasted on the PCK issue discussion, I started wondering why it couldn't have been utilized somewhere else...\n\nBTW - I have already volunteered back in 2011, but got the same answer as Izzak, that someone was already working on that .\n\n\"Iusiurandum patri datum usque ad hanc diem ita servavi\"",
+      "Id": "38587"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 8, 2012, 11:13\u202FAM",
+      "Body": "> wargrim wrote:\n> In my opinion it is the right place to talk about it. Once I realised how much energy had been wasted on the PCK issue discussion, I started wondering why it couldn't have been utilized somewhere else...\n>\nThen again, VEKN making sure it won't be sued off is more important than archon, if only because archon is convenient when a botched trial can end VEKN.\n\nAlso, the thread here show that players respond a lot on the issue, not that VEKN officials spent a lot of energy on that. It's the public forum, not the inner circle discussion here.",
+      "Id": "38591"
+    },
+    {
+      "Author": "Santh",
+      "Date": "Oct 8, 2012, 11:42\u202FAM",
+      "Body": "> Ke. wrote:\n>\n> > wargrim wrote:\n> > It took one of the Polish players a week to create a tool that would collect set of data from Archon sheets amd generate an output file (rank) that is currently being used for VTES Polish League (www.vtes-polska.ugu.pl/rating.php), so don't tell me it's that difficult :). It's been two years now there is no world rank at all...\n> >\n> So why not offer it up to be used by VEKN?\n>\n> That would've been more productive than a negative rant...\n>\nvekn.net/index.php/forum/5-generic-vtes-discussion/22895-vtes-rating\n\ni offered it.\n\nVEKN is so lazy, that they don't read topics ? So sad.\n\ni wrote this code on studies, when i have started to learn PHP language and whole code took me 2 weeks.\n\nso i think it's rather easy to write something like that, for experienced admins of this site",
+      "Id": "38592"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Oct 8, 2012, 11:52\u202FAM",
+      "Body": "> wargrim wrote:\n> So now , you can finally stop whining and get back to work!\n>\n> What about the rank - has the script/piece of code been already completed ? How is that possible that for last 2 years you were unable to create a decent tool for that purpose ?\n>\n> I'm really disappointed that you're wasting time on pointless discussions instead of doing something creative.\n>\n> There are dozens of players looking at YOU (VEKN) and wondering WTF you're doing...\n>\n> It would be really nice if you could concentrate on really important current issues (like rank for example). After reading several pages of this \"great\" discussion I have a feeling that the bureaucracy is \"killing you from inside\". Don't forget you're fan based group, as some of you behave as if they were managers of some big private organization. Hold on your horses guys. VTES is not your private toy. VTES is us - the society of players...\n>\nYeah, totally.\n\nTo the VEKN:\n1. Be more professional!\n2. Stop imagining you're professionals, you're just a bunch of fans like everybody else!\n3. Get back to work instead of wasting time on informing the community!\n4. Cut the secrecy, the community deserves to be informed!\n5. Nerf Villein!\n6. Stop making changes to the game!\n7. Wash my dishes!\n\nYou have 1 hour to get down from your ivory tower and comply. Fascist bastards.",
+      "Id": "38593"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Oct 8, 2012, 12:02\u202FPM",
+      "Body": "> wargrim wrote:\n> Anyway - I'm not going to post here any more, as it is a well known fact, that everyone who even tries to write something which is not 100% compatible with VEKN ideas is considered to be an enemy.\n>\n> Roger out.\n>\nBitching, whining and being generally combative won't make friends here or anywhere else.",
+      "Id": "38594"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Oct 8, 2012, 12:03\u202FPM",
+      "Body": "Sincere thanks from the moderator / admin who made this a separate thread.\n\nAlso, I believe that being rude to people that do that on their free time is, well, rude, and more importantly unwarranted. Most thing are obtained more quickly by being polite than by trashing the other party.\n\nMaybe the VEKN is not very efficient on this particular task. Maybe the script is finished, but they have a problem to solve before showing it, like the site admin being busy on other thing, or waiting to have a trusted people verifying the script is not malicious.\n\nIn all cases, I don't believe insult, warranted or not, will make them work faster.",
+      "Id": "38595"
+    },
+    {
+      "Author": "Santh",
+      "Date": "Oct 8, 2012, 12:14\u202FPM",
+      "Body": "but can it be slower? i think not. So we don't have nothing to lose.\n\nPromises, promises, nothing else.",
+      "Id": "38596"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Oct 8, 2012, 12:57\u202FPM",
+      "Body": "Currently the module is being tested by several persons with real Archon data. If you look inside players ranking (i.e from Paris) you can see that it changes. Of course the results are not definite yet.\n\nYes, this took a very long time, but apparently there are complexities:\n\n- Archon is not necessarily a 2010 Office file (because not everyone has Office 2010). Older formats are NOT XML and a bitch to parse.\n- The integration into Joomla requires specific Joomla knowledge. I coded out a few things in PHP back at the time, which was indeed quick. The integration as a proper Joomla module requires a lot more development time and special knowledge.\n- It still took too long, this is a downside when you work with volunteers who sometimes have to stop for months because something happens in their life.\n\n@Santh: well, I honestly overlooked your thread (and apparently everybody else). In case of applying for help sending an email to a NC, IC, prince, anybody is usually better.\n\n@wargrim: My memory is shady when going back to 2011, but did I (personally) turn you down? If yes can you PM me that conversation because it would surprise me. Or tell me who turned you down?",
+      "Id": "38597"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Oct 8, 2012, 12:58\u202FPM",
+      "Body": "P.S: Joomla is not .NET, but PHP so there is no native component to parse Excel. In fact my research back then came up with nothing usable at all so it had to be done more or less from scratch.",
+      "Id": "38598"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Oct 8, 2012, 1:07\u202FPM",
+      "Body": "All criticism of where/how this topic got posted or wargrim's language aside, he struck at a matter close to my heart.\n\nNot having a ranking system in place after 2 years is simply shameful. The organization exists specifically to maintain the tournament system. When you follow the \"V:EKN\" link in the main menu you find the follow:\n\nThe V:EKN is the organization responsible for sanctioning and regulating official V:TES tournaments, recording V:TES players' ratings (and rankings), and sponsoring the creation of monthly Clan Newsletters.\n\nDon't get me wrong, getting VTES back in print is a noble goal, which I support completely. As is design/test/punblish for new cards. And it's likely that none of these efforts use the same resources that coding and testing a ratings system use.\n\nNonetheless, the primary objective of the organization is to administer the ratings system and VEKN has failed miserably here. When an organization (even a volunteer one) can't fulfill it's charter, it should be subject to criticism.\n\nAdd my name to the list of folks disappointed by VEKN's failure to uphold its charter.\n\nDarby",
+      "Id": "38599"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 8, 2012, 1:07\u202FPM",
+      "Body": "> Santh wrote:\n> but can it be slower? i think not. So we don't have nothing to lose.\n>\n> Promises, promises, nothing else.\n>\nIt's the problem when you delegate a task. You can't assign the task to different people at the same time, and you have to trust them that the job will be done.\nPeople proposed to help. They were assigned the task, are working on it, and it takes a long time.\nYou proposed to help when the work was already being done. Talking of promises, who can guarantee you would have kept your own promise? That it would have been quicker?\n\nAnyway, it's always easy to criticize but remember that it's a volunteer job, done on private time, not a company project with someone monitoring and people working on it all day.\n\n> TryDeflectingThisGrapple wrote:\n> Not having a ranking system in place after 2 years is simply shameful.\n> Nonetheless, the primary objective of the organization is to administer the ratings system and VEKN has failed miserably here.\n>\nWas there a deadline? I must admit that it isn't quick (and I'm a bit disappointed too because I love rankings), but I don't consider it to be a failure yet. Sure, if the game dies before they finish it, it will be a failure then.\nYou say two years, but during that time, a new forum was brought up, a player registry and calendar recreated. And it wasn't two years of full time working on it.\n\n(If I seem to take VEKN's defense, it's because I know that personal projects in addition to a full-time job can take a VERY long time).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "38600"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Oct 8, 2012, 1:21\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Nonetheless, the primary objective of the organization is to administer the ratings system and VEKN has failed miserably here. When an organization (even a volunteer one) can't fulfill it's charter, it should be subject to criticism.\n>\nWell, you are right and you should. Certainly one thing that was not done well.\n\nI have pondered long over the reasons for this and I think it is a thing specific for IT. To have enough knowledge to do this properly you need a certain amount of IT skill, when you have that you most likely work in IT. That means, in your spare time, you have to do exactly the same as you do when working (well, probably not exactly but similiar). And given our 25-30+ demographic you are probably not interested in THAT. Just my wild try to find an explanation why it is hard to get a good result here when we had good results in other areas without much of a problem (i.e championships).",
+      "Id": "38601"
+    },
+    {
+      "Author": "Santh",
+      "Date": "Oct 8, 2012, 1:24\u202FPM",
+      "Body": "when i posted it, i have had ready script for ALL types of archons (no mater .xls or .xlsx, and all verions of archon's). As You can see in link that warGrim postet, it works to calculate polish league rating.\n\nYour goal would be only adding .css file, to table.",
+      "Id": "38602"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 8, 2012, 1:33\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Not having a ranking system in place after 2 years is simply shameful. The organization exists specifically to maintain the tournament system. When you follow the \"V:EKN\" link in the main menu you find the follow:\n>\n> The V:EKN is the organization responsible for sanctioning and regulating official V:TES tournaments, recording V:TES players' ratings (and rankings), and sponsoring the creation of monthly Clan Newsletters.\n>\nHow old is that? Lots of things happened since VTES went out of print. The state of the game being what it is, having a place to advertise events and have rules questions answered strikes me as much more critical than the rating system. I for one am very happy that other things came before the rankings. Maybe it is the charter that is outdated.",
+      "Id": "38606"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 8, 2012, 6:39\u202FPM",
+      "Body": "> Non-existant user wrote:\n> The V:EKN is the organization responsible for sanctioning and regulating official V:TES tournaments, recording V:TES players' ratings (and rankings), and sponsoring the creation of monthly Clan Newsletters.\n> How old is that?\n>\nMarch 1998 FAQ\n\nFebruary 1998 FAQ\n\nV:EKN website from 1999\n\nV:EKN Charter December 15, 1997\n\n1998 Ratings Calculator",
+      "Id": "38640"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Oct 8, 2012, 8:41\u202FPM",
+      "Body": "OK, fine, I get it. What I quoted before is old.\n\nIf you want to pick nits about the age of that sentence instead of focusing on the core message, how about something more contemporary so that your concerns are addressed?\n\nThe V:EKN is the organization responsible for sanctioning and regulating official V:TES tournaments, recording V:TES players' ratings (and rankings), monitoring and updating (where necessary) game rules, card text and changes, and sponsoring the organization's website.\n\nSource V:EKN FAQ, live on this website right now, last updated on Tuesday, 23 August 2011 10:08.\n\nMy point remains: V:EKN's chartered function includes maintaining a rating system based on the tournaments it sanctions.\n\nUnless one is drinking copious quantities of kool-aid, it's difficult to refute that a 2 year lapse in that responsibility is disappointing even in the most favorable light. In my opinion, it merits criticism for failure from the player base that V:EKN purports servicing.\n\nAt the same time, I will agree that other parts of the charter (rules maintenance, card text changes, etc) and some things outside the charter (salvaging remaining sealed product, pursuing print on demand) have been executed well enough to exceed expectations. Kudos on those efforts.\n\nContinuing on the ratings issue: It would be interesting to cross reference last 18 months TWDA events against contents of the first data dump. I wonder how many Archons (of 10+ player tournaments) were lost by not having a ratings system - and how that compares to a historical baseline.",
+      "Id": "38651"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 8, 2012, 9:18\u202FPM",
+      "Body": "@Wargrim and others:\n\nIf you think you possess the skills required to establish a database that will data-mine Archon files, store the information in a searchable online DB, dump that information into a number of lists (assuming by Overall Rating, Constructed Ranking, Draft Ranking, By \"VTES Continent\", By Region, By individual) and present that in a nice format that can be easily migrated onto the VEKN site...\n\nThen maybe you should be talking to Jussi and the IC about how you will help. If things aren't meeting your standards (with an obvious issue going on drawing down the resources of the IC and VEKN) then roll up your sleeves and help.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38658"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Oct 9, 2012, 4:57\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Continuing on the ratings issue: It would be interesting to cross reference last 18 months TWDA events against contents of the first data dump. I wonder how many Archons (of 10+ player tournaments) were lost by not having a ratings system - and how that compares to a historical baseline.\n>\nPeople still had the option to stash the Archon away until it works or to send it to Robyn who has been collecting Archons. I think at least the big tournaments will get in.",
+      "Id": "38675"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Oct 9, 2012, 8:02\u202FAM",
+      "Body": "> wargrim wrote:\n> It would be really nice if you could concentrate on really important current issues (like rank for example).\n>\nMyself, I've never considered ranking even remotely important thing.\nObviously people have different opinnions, no probs there.\nI can sure understand why they are interested in ranking, but for me it has always been a \"meh\" thing...\n\nFinnish  Politics!",
+      "Id": "38683"
+    },
+    {
+      "Author": "wargrim",
+      "Date": "Oct 9, 2012, 9:49\u202FAM",
+      "Body": "It is not about the ranking but about keeping promises.\nIntroduction of the new ranking module has been postponed several times so far.\nI have just picked this as an example as from technical perspective it seems to be rather easy task.\nThere are yet several more fields on which VEKN is not effective enough.\n\nBTW - I would be really happy if VEKN was able to finalize at least one of currently pending projects before \"jumping into deep water\" with the new expansion thing.\n\n\"Iusiurandum patri datum usque ad hanc diem ita servavi\"",
+      "Id": "38689"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Oct 9, 2012, 9:56\u202FAM",
+      "Body": "> Myself, I've never considered ranking even remotely important thing.\n> Obviously people have different opinnions, no probs there.\n> I can sure understand why they are interested in ranking, but for me it has always been a \"meh\" thing...\n>\nWhat you, me or anyone else thinks personally is pretty irrelevant in the matter.\n\nThe VEKN charter, last updated a year ago, specificially states that it (the VEKN) will maintain a ranking based on sanctioned tournaments. Which it has failed to deliver.\n\nBesides that, HAVING a ranking will -at worst- not hurt anyone, while NOT having one might *at best* not hurt anyone. At best, HAVING a ranking will draw more competitive-minded (ex)-players in and at worst, NOT having one will make people more likely to stop attending tournaments.\n\nSo again, what you think about ranking doesn't matter in the slightest. What matter is how VEKN thinks about a ranking, which is explicitely stated in the charter.\n\n> People still had the option to stash the Archon away until it works or to send it to Robyn who has been collecting Archons. I think at least the big tournaments will get in.\n>\nYe well... the problem with that is that as a result of how the ranking works (or at least always has worked), that means that (average) players with more pro-active princes will be ranked high and that the players everyone agrees should be top 50 might not be ranked at all. The system as it stands already does a pretty horrible job at properly ranking players in the first place, messing it up even further by uploading only half (if that) the data doesn't sound like an amazing idea to me.\n\nWe might as well not have a ranking system if Joe Casual from \"we have a tournament every monday-town\" ends up being top 10 and the most recent top ~10 finishers of 2011/2012 EC/NAC players are outside the top 100.",
+      "Id": "38691"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Oct 9, 2012, 10:40\u202FAM",
+      "Body": "> wargrim wrote:\n> BTW - I would be really happy if VEKN was able to finalize at least one of currently pending projects before \"jumping into deep water\" with the new expansion thing.\n>\nNone of the people working with the ranking system have had anything to do with the new expansion. Putting the new expansion on hold wouldn't have assisted in the development of the ranking module in any way. I would've agreed if the two projects would've had a major overlap in the people behind them.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "38694"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Oct 9, 2012, 12:49\u202FPM",
+      "Body": "> johannes wrote:\n> People still had the option to stash the Archon away until it works or to send it to Robyn who has been collecting Archons. I think at least the big tournaments will get in.\n>\nThanks for the response Johannes.\n\nHope you don't mind me bending your ear for a second here.\n\nIn June, Robyn and I spoke about the ratings system. I proposed using a hard start date (a complete reboot of ratings) starting the day that the new system goes live.\n\nThis does a few things.\n\nFirst (and most important) - it avoids all potential problems associated with a massive initial data surge into the system. It will contain the scope of roll-out and make final bug-hunts on the live system much easier.\n\nSecond - it circumvents any rating error associated with an incomplete data set from the last 18 months, and puts everyone on an equal footing going forward.\n\nThird - it would allow you to tweak the ratings formula (if desired) without seeing a \"step change\" in ratings as historical data were re-weighted.\n\nThe downside - yes, it penalizes though who have both good past-year tournament performance and responsible organizers. I really hate to see that happen, but the logistical benefits may very well out-weight this (admittedly significant) draw-back.\n\nIn either start-up case, we're probably looking at 12-18 months of post-launch data entry just to get back to ratings values that accurately represent performance. Probably would be useful to recognize that.\n\nJust offering something for you to consider as the roll-out date approaches.\n\nTake care,\nDarby.",
+      "Id": "38720"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 9, 2012, 5:02\u202FPM",
+      "Body": "I'd agree with Darby.\nStart clean for 2013.\nNew tournament rules (if any) and new rankings.\nSound like wonderful end of year/Christmas gifts.",
+      "Id": "38741"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 9, 2012, 6:06\u202FPM",
+      "Body": "From past experiences (dealing with companies doing programming activities), even with the lead up they've had I am skeptical that suddenly changing tack on which tournaments to input will help the system come online in under 2 months.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38743"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 9, 2012, 6:30\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> From past experiences (dealing with companies doing programming activities), even with the lead up they've had I am skeptical that suddenly changing tack on which tournaments to input will help the system come online in under 2 months.\n>\nThe suggestion doesn't change the scope or timing of the project.\nIt simply suggests the best use after implementation.",
+      "Id": "38745"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 9, 2012, 6:37\u202FPM",
+      "Body": "> Adonai wrote:\n>\n> > Juggernaut1981 wrote:\n> > From past experiences (dealing with companies doing programming activities), even with the lead up they've had I am skeptical that suddenly changing tack on which tournaments to input will help the system come online in under 2 months.\n> >\n> The suggestion doesn't change the scope or timing of the project.\n> It simply suggests the best use after implementation.\n>\nThen why mandate a 2013 date when there does not yet seem to be a Beta-Version for limited testing?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38747"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 9, 2012, 7:51\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Then why mandate a 2013 date when there does not yet seem to be a Beta-Version for limited testing?\n>\nBecause current V:EKN local volunteers can't even be bothered to put their events in the calendar before they happen or report results after the events.\n\nDeadlines for the V:EKN:\n\n1) Continental Championship events\n2) Random non-V:TES related dates\n\nIf it wasn't ready for the North American Championship, or the Asian Championship, or the Australian Championship, or isn't ready for the European Championship, then new year with new tournament rules makes sense.\n\nNew tournament rules are historically released at the beginning of December, to take effect January 1. This is the only regularly scheduled event that doesn't tie into a live collection of players all in the same building.\n\nAnnouncements made at live collections of players in the same building are to be preferred, as you can help generate enthusiasm in those predisposed towards attending events and taking action. Choosing to make those announcements as each person reads a forum instead is historically much less effective at generating enthusiasm and participation.\n\nMy \"mandate\" for V:EKN to become active in rankings predates Heirs to the Blood. I recommended replacing rankings, the calendar, and the contact lists almost a year before Oscar left the company.",
+      "Id": "38757"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 9, 2012, 11:28\u202FPM",
+      "Body": "@Adonai:\nSo your beef isn't with the VEKN but Princes who aren't:\n1) On the VEKN Forums\n2) Posting events on the Forums\n3) Posting results on the Forums\n4) Using the Event Calendar\n\nRegarding #1:\nI can't even get all of my playgroup to join the forum. I've tried to nudge them onto here for a year at least... nothing doing. Me and about one other guy from my local playgroup regularly read this, let alone post on it.\n\nRegarding #2:\nI've posted my Events. It's not too hard, it may not be sexy and glamorous but sexy and glamorous requires website design skills. Since I don't have heaps of them, I don't bitch at people about theirs. It would be nice to have a worldwide VEKN Group of Facebook (which seems to have a LARGE amount of the playerbase) and announce things through there... but even then I know at least one of the Princes in AUS is not on Facebook.\n\nRegarding #3:\nSome of my Events have basically been forced to be non-rated since we didn't want to play with horrible numbers like 7. So rather than have people sitting out, we just turned it into a social non-rated tournament. Not much point reporting it if it won't be rated. I've got the Archon files sitting around, but they aren't going to do people much good.\n\nRegarding #4:\nI'd say its about the same as #2. People don't really check the Calendar here, so Events aren't posted here. I'd say Local Groups are being used on things like Facebook (or other web-forums) and then turning up later. I can't account for the goings on of the EC. Not my ballpark. Regarding the AUSNZ/Oceania Championships... I'll hassle Disco Stu to post. Stuart Jaques won in the end, but I haven't got all the details.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38765"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Oct 10, 2012, 4:37\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> In June, Robyn and I spoke about the ratings system. I proposed using a hard start date (a complete reboot of ratings) starting the day that the new system goes live.\n>\nThat is a good suggestion and Robyn as the rating coordinator will make a final decision here.\n\nIf we manage to release well in 2012 we can also use current data to see how it works until the end of the year and then reset to zero at 01.01.2013 (or probably keep the 2012 championship events).",
+      "Id": "38777"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Oct 10, 2012, 5:43\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> but even then I know at least one of the Princes in AUS is not on Facebook.\n>\n*Gasp*\nThe sheer horror of it all!\n\nBut I raise you on that -I know a NC in Finland who isn't on the facebook.\nBut it is OK, he is a stubborn luddite and known troublemaker...\n\nFinnish  Politics!",
+      "Id": "38784"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Oct 10, 2012, 6:02\u202FAM",
+      "Body": "> johannes wrote:\n> If we manage to release well in 2012 we can also use current data to see how it works until the end of the year and then reset to zero at 01.01.2013 (or probably keep the 2012 championship events).\n>\nThis is quite good a suggestion.\n\nThen people in charge of ratings and other relevant personnel should start tweaking with the new and improved ratings formula ASAP! To get the job done on time.\n\nIf we reset the ranking we NEED to tweak the formula for counting the rating points.\n\nPeople who get into finals, and especially finals on larger as well as important tournaments should get better ratings that Joe Average who attends tournaments all the time but doesn't do that well in them (such as yours truly). Getting into finals and winning a tournament should give you way more points that for those that just attended. Doing the same in a BIG tournament should score you some really major points. *\n\nThen again, if you just attend one tournament, or very precious few, during a year you shouldn't rank in the absolute overall top of the rankings. Even if it happened to be a giganormous (EC level) tournament and you won it.\n\nIzaak spoke some words of wisdom earlier on:\n>\n> Izaak wrote:\n> the problem with that is that as a result of how the ranking works (or at least always has worked), that means that (average) players with more pro-active princes will be ranked high and that the players everyone agrees should be top 50 might not be ranked at all. The system as it stands already does a pretty horrible job at properly ranking players in the first place, messing it up even further by uploading only half (if that) the data doesn't sound like an amazing idea to me.\n>\n> We might as well not have a ranking system if Joe Casual from \"we have a tournament every monday-town\" ends up being top 10 and the most recent top ~10 finishers of 2011/2012 EC/NAC players are outside the top 100.\n>\n* Hmmm, should we classify tournaments based on the attendance?\n\nSuch as:\n10-24 minor\n25-49 standard\n50+ major\n\nSuitable multipliers for rating points could be used for standard and major tournaments (say 2x and 3x -or whatever). Probably this is already being done so you can just ignore silly old me...\n\nFinnish  Politics!",
+      "Id": "38786"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 10, 2012, 7:09\u202FAM",
+      "Body": "Why reset the ranking? Isn\u00B4t that rather rude to old players?\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "38794"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 10, 2012, 8:09\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> * Hmmm, should we classify tournaments based on the attendance?\n>\n> Such as:\n> 10-24 minor\n> 25-49 standard\n> 50+ major\n>\n> Suitable multipliers for rating points could be used for standard and major tournaments (say 2x and 3x -or whatever). Probably this is already being done so you can just ignore silly old me...\n>\nThis is already happening in the Formula for finalists. When you submit an Archon it counts the number of players and modifies your finalist ranking bonus based on a logarithm based on 15 (Why seems a little beyond me) so that basically, you get 2log15(Player count) - 1 = multiplier. If you attend a 15 player tournament you'd get 1. If you attended a tournament with 4 players you'd get close to 0. If you attended a tournament with 30 players you'd get about 1.4. If you want to do the calculation on what multiplier you get it isn't too hard.\n\nYou could apply it across the board, but really even at the big tournaments everyone gets handed a few 'easy VPs' just as much as you do if you attend frequent events. If you are worried your rating is slipping, travel more OR hassle your local princes into more events.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38796"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Oct 10, 2012, 10:03\u202FAM",
+      "Body": "> Ashur wrote:\n> Why reset the ranking? Isn\u00B4t that rather rude to old players?\n>\nWell, in the current ranking calculation only the last 18 months of result count. So it doesn\u00B4t matter if you are an \"old\" player if only the last 18 months are relevant.",
+      "Id": "38811"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 10, 2012, 8:27\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> @Adonai:\n> So your beef isn't with the VEKN but Princes who aren't: {doing stuff}\n>\nYou have a false dichotomy there.\n\nAccording to the original  charter , V:EKN is the local volunteers.\nAccording to the current  FAQ , V:EKN is the players.\n\nI'd have outlined much more specific roles and responsibilities if I were going to charter a volunteer organization.\n\ni.e.\nNational Coordinator - must publicize 1 national tournament per year, and coordinate at least 1 tournament per month, though they need not attend or judge the monthly events, remove dis-functional local coordinators from the lists quarterly, i.e. no local volunteer should be in the list if they don't have a working email address listed and if they haven't performed their specific duties, with the national coordinator to be removed if no events have been run in their country in the last 6 months\n\nLocal Coordinator - coordinate at least 1 demo or tournament every 3 months, not necessary to judge or demo themselves, simply to arrange the time/date/location and publicize before and report afterwards\n\nSpecialty volunteers - would have specific tasks with public deadlines.\n\nI'm not of the opinion that ranking/ratings adds any real value to the tournament community. Our most recent Atlanta tournament had 15 players, only 3 of whom weren't in the Hall of Fame (4 visiting HoF players from Ohio were in attendance). Does the ratings of those players matter in the slightest? No. Were the games amazingly tense and good because everyone had a clue and knew how to play at the top level? Absolutely.\n\nIf V:EKN, i.e. the local volunteers, want rankings and ratings, then they should certainly have it, and they should certainly have a deadline promised and delivered upon by the specialty volunteers that commit to it.\n\nI'd be in favor of scrapping that bit of the charter, as it is simply one more area where failure to follow thru occurs. If you were to go back thru the  Usenet newsgroup , you'd find 12 years of complaints about the system, a significant percentage tied to the website, a significant percentage tied to the formula, and a sizable percentage tied to the failure of the local volunteer to finish their task correctly.\n\nAnnouncing/publicizing/advertising the events, getting players to attend, running great events and reporting them are the only items I think local volunteers need to concentrate on.\n\nA touch more random Usenet history:\nJohannes volunteered database hosting and server space in  2009 . He then made a public call for additional volunteers in  January 2010 .",
+      "Id": "38851"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 11, 2012, 10:51\u202FAM",
+      "Body": "I actually had no idea about this. Which may have alot to do with the fact that the ranking hasn\u00B4t been worth following in several years\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "38876"
+    },
+    {
+      "Author": "Santh",
+      "Date": "Oct 11, 2012, 10:41\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> @Wargrim and others:\n>\n> If you think you possess the skills required to establish a database that will data-mine Archon files, store the information in a searchable online DB, dump that information into a number of lists (assuming by Overall Rating, Constructed Ranking, Draft Ranking, By \"VTES Continent\", By Region, By individual) and present that in a nice format that can be easily migrated onto the VEKN site...\n>\n> Then maybe you should be talking to Jussi and the IC about how you will help. If things aren't meeting your standards (with an obvious issue going on drawing down the resources of the IC and VEKN) then roll up your sleeves and help.\n>\nomg.\n\nvtes-polska.ugu.pl/rating.php\nif you click vekn number you will get individual rating\nif you click number above rating points, you will see tournament results\n\ni don't have \"draft\" option, because we don't play such tournaments, but it's so easy like ... You just have to add one field in tournament table, which will contain flag what kind tournament was that.\n\ni count 6 best results from league, you have to exchange it to 8, and make date not from beginning league, but get date and go 18 months back. this is even easier.\n\nContinent? Country? City? the only problem is how you add players to Database when creating vekn number, if you add such information like continent or just make dozens 'if(Country==\"Poland\") Continent=\"Europe\";', there is no problem at all.\n\nas you can see the design is quite nice (if you use normal browser like Opera), but this is only a matter of .css file, that you have ready in old rating system, you have to make only some changes.\n\nIt's about one day of work, to make it done.\n\nwhen i offered my solution nobody wanted it. You prefer attack people that don't like situation in VEKN. So my offer is no more actual, because I don't like you\n\nps. sorry for my english.",
+      "Id": "38925"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 12, 2012, 2:22\u202FAM",
+      "Body": "> Santh wrote:\n> It's about one day of work, to make it done.\n>\n> when i offered my solution nobody wanted it. You prefer attack people that don't like situation in VEKN. So my offer is no more actual, because I don't like you\n>\n> ps. sorry for my english.\n>\nSanth,\nI'm not trying to attack people. It's more of my thought that if you feel enough passion to rage about it on the Forum, then obviously you've got enough energy and passion to do something about it. So why not contribute that energy productively than just rage-on?\n\nI'm really happy to see that there is a nice League Calculator in Poland (even if the colouring system confused me and because I don't read Polish most of the rest of the page was useless to me). I think that the hardest part is probably extracting the information out of the Archon Files, uploading the Archon Files securely and then converting it into a format for the website to use. But please, go talk to Jussi Hattara and Robyn Tatu about how you may be able to help in getting the Ratings Page online. If they don't want the help, then that's their business. But it is better to have tried to channel the energy into fixing things.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "38927"
+    },
+    {
+      "Author": "wargrim",
+      "Date": "Mar 6, 2013, 11:50\u202FAM",
+      "Body": "Just to let you know - The world rank tool for Polish players is already in place and working thanks to Santh.\n\nwww.vtes-polska.ugu.pl/world_rating.php\n\nIn case you need more information on that matter please contact Santh.\n\n\"Iusiurandum patri datum usque ad hanc diem ita servavi\"",
+      "Id": "45758"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 6, 2013, 12:54\u202FPM",
+      "Body": "The ranking module on this site is currently in beta testing with plenty of results already entered. If there are no glitches in the system, it should be finalized rather soon.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "45770"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Mar 6, 2013, 3:40\u202FPM",
+      "Body": "> jhattara wrote:\n> The ranking module on this site is currently in beta testing with plenty of results already entered. If there are no glitches in the system, it should be finalized rather soon.\n>\nIf time permits, please release it to open beta already!\n\nFinnish  Politics!",
+      "Id": "45786"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 6, 2013, 5:35\u202FPM",
+      "Body": "> wargrim wrote:\n> Just to let you know - The world rank tool for Polish players is already in place and working thanks to Santh.\n>\n> www.vtes-polska.ugu.pl/world_rating.php\n>\n> In case you need more information on that matter please contact Santh.\n>\nI think some of the maths on that page isn't correct. Well, it probably is, but the rating point function isn't the right one.\n\nIt should be :\n[90/30/0]*(2*log(NB_PLAYERS)/log(15)-1+coeff) + 8 * NB_GW + 4 * NB_VP + 5\nwhere [90/30/0] works this way: use 90 for the winner, 30 for finalists, and 0 for non-finalists\nNB_PLAYERS is the number of players\nNB_GW is the number of Game Wins of the player\nNB_VP is the number of Victory Points of the player\ncoeff is: 0 for standard tournaments, 0.25 for CCQs and Nationals, 1 for Continentals\n\nWith this evaluation, I get (for tournament #4 of 2013 and for the winner):\n(90 * (2 * log(19) / log(15)) - 1 + 0) + 8 * 3 + 4 * 16 + 5 = 198.7 (should round up to 199).\nThe page displays  170 . Did you get that value from the Archon, or is it calculated by the server?",
+      "Id": "45794"
+    },
+    {
+      "Author": "wargrim",
+      "Date": "Mar 11, 2013, 1:19\u202FPM",
+      "Body": "I will let Santh take a closer look at this.\nit's possible that some of the rating point may be different as we are using other coeff for Polish league purposes.\n\nI will get back to you soon.\n\n\"Iusiurandum patri datum usque ad hanc diem ita servavi\"",
+      "Id": "45976"
+    },
+    {
+      "Author": "johannes",
+      "Date": "Mar 11, 2013, 1:50\u202FPM",
+      "Body": "> wargrim wrote:\n> Just to let you know - The world rank tool for Polish players is already in place and working thanks to Santh.\n> www.vtes-polska.ugu.pl/world_rating.php\n> In case you need more information on that matter please contact Santh.\n>\nWell that is a strange bit of history there. If you scroll down the thread you will see that he offered his help back then but nobody wanted it so his offer wasn\u00B4t valid anymore. Thing is if my memory serves correctly I was trying to make contact between him and current people back then but nothing ever happened on it. So I really don\u00B4t know what\u00B4s what, but putting that history aside, give me his e-mail and I\u00B4ll put him in contact with current people.",
+      "Id": "45977"
+    },
+    {
+      "Author": "Santh",
+      "Date": "Mar 11, 2013, 2:27\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > wargrim wrote:\n> > Just to let you know - The world rank tool for Polish players is already in place and working thanks to Santh.\n> >\n> > www.vtes-polska.ugu.pl/world_rating.php\n> >\n> > In case you need more information on that matter please contact Santh.\n> >\n> I think some of the maths on that page isn't correct. Well, it probably is, but the rating point function isn't the right one.\n>\n> It should be :\n> [90/30/0]*(2*log(NB_PLAYERS)/log(15)-1+coeff) + 8 * NB_GW + 4 * NB_VP + 5\n> where [90/30/0] works this way: use 90 for the winner, 30 for finalists, and 0 for non-finalists\n> NB_PLAYERS is the number of players\n> NB_GW is the number of Game Wins of the player\n> NB_VP is the number of Victory Points of the player\n> coeff is: 0 for standard tournaments, 0.25 for CCQs and Nationals, 1 for Continentals\n>\n> With this evaluation, I get (for tournament #4 of 2013 and for the winner):\n> (90 * (2 * log(19) / log(15)) - 1 + 0) + 8 * 3 + 4 * 16 + 5 = 198.7 (should round up to 199).\n> The page displays  170 . Did you get that value from the Archon, or is it calculated by the server?\n>\nit's fine. it's my point of view, i show i the table whole score on tournament and FVP shows how final was going.\nso to explain Winner before final had 1GW 6VP, he won final with 5VP, so he has at the end 2GW 11VP what you can see.\n=90*(2*LOG(19;15)-1)+8*2+4*11+5=170.71, but i round id down\n\nps. my script calculate it all, its easier then uploading whole archon file, i use only tournament info, maths, rounds, and optimal sitting, and better because some older version of archons have bugs and don't calculate RtP correctly.",
+      "Id": "45983"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 11, 2013, 2:44\u202FPM",
+      "Body": "Ah ok  Thanks",
+      "Id": "45984"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Jul 12, 2013, 9:39\u202FAM",
+      "Body": "How do the results of the uploaded archons reflect the Rankings?\nI've approved an archon and the results do not reflect any change in the Rankings. None of the players had the results change their points.",
+      "Id": "51380"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jul 12, 2013, 10:59\u202FAM",
+      "Body": "The player rankings are updated each night in a batch. So don't worry if your approved archon is not reflected in player rankings immediately, wait for a day or two and only then start worrying.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "51388"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Jul 13, 2013, 11:27\u202FAM",
+      "Body": "There is a little problem : Limited and Constructed rankings are mixed...\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "51455"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jul 13, 2013, 6:41\u202FPM",
+      "Body": "> Vlad wrote:\n> There is a little problem : Limited and Constructed rankings are mixed...\n>\nIf they are mixed, it is most likely because the tournaments have been entered into the database with the wrong type.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "51477"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Jul 18, 2013, 2:40\u202FPM",
+      "Body": "That's because there was no Limited Championship... but we played one in Paris...\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "51847"
+    }
+  ]
+}

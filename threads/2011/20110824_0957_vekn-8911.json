@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-8911",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/8911-form-of-mist-telepathic-tracking-psyche",
+  "Title": "Form of Mist + Telepathic Tracking/Psyche!",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 24, 2011, 9:57\u202FAM",
+      "Body": "We had a possible issue turn up on Monday night regarding Form of Mist and Psyche!. This then turned into a wider debate about how Form of Mist interacts with the \"continue combat cards\".\n\nSo, when Telepathic Tracking is played after Form of Mist, it continues the combat instead of ending the combat. So:\n\na) After the combat, does the action continue at +1 stealth (since TT extended the current combat) OR\nb) TT continues the combat and cancels the 'continue the action' effect of Form of Mist?\n\nWhen Psyche! is played after Form of Mist, it begins a NEW combat. So:\n\na) Does the new combat end the \"continue the action\" OR\nb) Does the action continue after the combat anyway?\n\nI suspect it is a) in both cases but I'd like a confirmation.\n\n(Particularly for the TT, I suspect it should still allow the action after since TT merely continues the current combat and NOT starting a new combat like Psyche!).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "8911"
+    },
+    {
+      "Author": "Pendargon",
+      "Date": "Aug 24, 2011, 10:12\u202FAM",
+      "Body": "* Any effect that starts a new combat after the combat that was\nended by superior Form of Mist will nullify the \"continue action\"\neffect. This includes Psyche (superior), Fast Reaction, and\nHidden Lurker. [LSJ 09-JAN-1998]\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/66083dd155f7e590/6e75210cbc969a33?lnk=gst&q=lsj+%3A+form+of+mist+psyche#6e75210cbc969a33",
+      "Id": "8913"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 24, 2011, 10:23\u202FAM",
+      "Body": "Correct, Pendargon, but this is more extensively written in the  General Rulings :\nAny effect that starts a new combat after the combat that was ended by (or continues the combat that was ended by) a \"combat ends and the action continues as if unblocked\" will nullify the \"continue action\" part. This includes Psyche (superior), Fast Reaction, Hidden Lurker, and Telepathic Tracking.[LSJ 19980109]\n\nIf you continue the combat or start a new combat, you lose whatever was supposed to happen after the first combat.\nLost effects can be (amongst others):\n- sup' Catatonic Fear's damage\n- sup' Torrent / Form of Mist / Toreador's Bane 's \"action continues\"\n- R\u00F6tschreck's \"This vampire is tapped and sent to torpor\" (but the card is still put on him)\n- sup' Unholy Penance's \"put this card..\"\n\nEffects that continue the combat / start a new combat are (amongst others):\n- sup' Psyche!\n- sup' Telepathic Tracking\n- sup' Hidden Lurker / Fast Reaction\n- sup' Blissful Agony",
+      "Id": "8914"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Aug 25, 2011, 4:47\u202FAM",
+      "Body": "Now that was an extensive explanation of a concept that seems to puzzle some players a lot.\n\nThank you!\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "8951"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 25, 2011, 5:06\u202FAM",
+      "Body": "And also, if your S:CE untaps a minion and ends combat (or ends combat and untaps a minion), the untap part is done before the end of combat.\nSo, if you Psyche! / TT / .. a Majestying vampire, that vampire is untapped.\nSimilar with Meld with the Land / Bond with the Mountain.  [LSJ 20030717]\n\nSo, if you TT a Loving Agony, the  guy gets to burn 1 blood to untap (and would untap if he chooses to do so), but you won't take 1 damage after combat.",
+      "Id": "8952"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 25, 2011, 5:29\u202FAM",
+      "Body": "So should I conclude that there is basically no difference between TT and Psyche except that a Psyche would remove things such as Carrion Crows but TT would not?\n\nSo Minion A plays a Carrion Crows, Minion B plays a Weather Control. At the Declare Strike Phase, Minion A plays a Form of Mist. Minion B declares an irrelevant strike (e.g. Hand-strike)\n\nOption 1\nIn response, Minion B plays Telepathic Tracking. So the Weather Control and Carrion Crows would remain in play (since the existing combat is continuing) and the additional text of Form of Mist would be cancelled.\n\nOption 2\nIn response, Minion B plays Psyche. So the Weather Control and Carrion Crows end, the text of Form of Mist is cancelled and a new round of combat starts.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "8953"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 25, 2011, 5:54\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> So should I conclude that there is basically no difference between TT and Psyche except that a Psyche would remove things such as Carrion Crows but TT would not?\n>\nWell, if you're only considering post-combat effects and until the end of combat stuff, yes, that's what cardtext reads.\nPsyche! starts a new combat after the end of this combat.\nTT continues current combat.\n\nSo, if there was something that was lasting till the end of combat (Drawing out the Beast, Torn Signpost, Carrion Crows, Weather Control, ...) they are still there in that new round after TT was played.\nIf there was something that was lasting till the end of combat, they end at the end of combat and Psyche! is played.\n\nEDIT:\nThere are some differences between TT and Psyche!, the major one being that you can't Psyche! if there is already a combat queued (Illusions of the Kindred, sup' Blissful Agony), but you can TT (which cancels the post-combat part). That's a generic ruling - can't queue a combat if there is already one in the queue.  [RTR 20020501]\n\n> Juggernaut1981 wrote:\n> So Minion A plays a Carrion Crows, Minion B plays a Weather Control. At the Declare Strike Phase, Minion A plays a Form of Mist. Minion B declares an irrelevant strike (e.g. Hand-strike)\n>\n> Option 1\n> In response, Minion B plays Telepathic Tracking. So the Weather Control and Carrion Crows would remain in play (since the existing combat is continuing) and the additional text of Form of Mist would be cancelled.\n>\n> Option 2\n> In response, Minion B plays Psyche. So the Weather Control and Carrion Crows end, the text of Form of Mist is cancelled and a new round of combat starts.\n>\nWell, cardtext isn't cancelled, it just doesn't happen. But that's how it works, yes.\nHowever, a few points:\n* Psyche / TT aren't played \"in response\" to a strike declaration. They are played at the end of combat, which happens at Form of Mist's resolution.\n* Carrion Crows and Weather Control aren't in play, they're in the ash heap. Their effect, though, is still there. It is common usage to leave these cards in the play area as long as they have an effect, but you should remember they're in the ash heap (matters for Erciyes Fragment).",
+      "Id": "8954"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 25, 2011, 5:51\u202FPM",
+      "Body": "> Pascal wrote:\n> If you continue the combat or start a new combat, you lose whatever was supposed to happen after the first combat.\n> Lost effects can be (amongst others):\n> - R\u00F6tschreck's \"This vampire is tapped and sent to torpor\" (but the card is still put on him)\n>\nR\u00F6tschreck\nType: Master\nMaster: out-of-turn. Frenzy.\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n\nSo, since the \"put this card\" text comes first, that is why the \"put this card\" effect happens? If so, and the \"This vampire is tapped and sent to torpor\" text doesn't happen, by what logic does the \"This vampire does not untap as normal. During this vampire's next untap phase, burn this card\" manage to stay in place, if it does stay in place?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "9024"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 25, 2011, 7:13\u202FPM",
+      "Body": "> KevinM wrote:\n>\n> > Pascal wrote:\n> > If you continue the combat or start a new combat, you lose whatever was supposed to happen after the first combat.\n> > Lost effects can be (amongst others):\n> > - R\u00F6tschreck's \"This vampire is tapped and sent to torpor\" (but the card is still put on him)\n> >\n> R\u00F6tschreck\n> Type: Master\n> Master: out-of-turn. Frenzy.\n> Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n>\n> So, since the \"put this card\" text comes first, that is why the \"put this card\" effect happens? If so, and the \"This vampire is tapped and sent to torpor\" text doesn't happen, by what logic does the \"This vampire does not untap as normal. During this vampire's next untap phase, burn this card\" manage to stay in place, if it does stay in place?\n>\nIt stays in place because that is the effect of the card (rotschrek) in play, not at all related to the go to torpor part. If you somehow remove the rotschrek from the vampire before their next untap phase then they would untap",
+      "Id": "9029"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 25, 2011, 8:42\u202FPM",
+      "Body": "> Klaital wrote:\n>\n> > KevinM wrote:\n> >\n> > > Pascal wrote:\n> > > If you continue the combat or start a new combat, you lose whatever was supposed to happen after the first combat.\n> > > Lost effects can be (amongst others):\n> > > - R\u00F6tschreck's \"This vampire is tapped and sent to torpor\" (but the card is still put on him)\n> > >\n> > R\u00F6tschreck\n> > Type: Master\n> > Master: out-of-turn. Frenzy.\n> > Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n> >\n> > So, since the \"put this card\" text comes first, that is why the \"put this card\" effect happens? If so, and the \"This vampire is tapped and sent to torpor\" text doesn't happen, by what logic does the \"This vampire does not untap as normal. During this vampire's next untap phase, burn this card\" manage to stay in place, if it does stay in place?\n> >\n> It stays in place because that is the effect of the card (rotschrek) in play, not at all related to the go to torpor part. If you somehow remove the rotschrek from the vampire before their next untap phase then they would untap\n>\nMore precisely, the \"Put this card...\" part happens before combats ends.\nPsyche! and TT nullify only the combat ends and the effects that follow that combat ends.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/399cda7d99025c44\n\nName: R\u00F6tschreck\nCardtype: Master\nMaster: out-of-turn. Frenzy.\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "9031"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 25, 2011, 10:18\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Klaital wrote:\n> >\n> > > KevinM wrote:\n> > >\n> > > >\n> > > >\n> > > > Pascal wrote:\n> > > > If you continue the combat or start a new combat, you lose whatever was supposed to happen after the first combat.\n> > > > Lost effects can be (amongst others):\n> > > > - R\u00F6tschreck's \"This vampire is tapped and sent to torpor\" (but the card is still put on him)\n> > > >\n> > > R\u00F6tschreck\n> > > Type: Master\n> > > Master: out-of-turn. Frenzy.\n> > > Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n> > >\n> > > So, since the \"put this card\" text comes first, that is why the \"put this card\" effect happens? If so, and the \"This vampire is tapped and sent to torpor\" text doesn't happen, by what logic does the \"This vampire does not untap as normal. During this vampire's next untap phase, burn this card\" manage to stay in place, if it does stay in place?\n> > >\n> > >\n> > It stays in place because that is the effect of the card (rotschrek) in play, not at all related to the go to torpor part. If you somehow remove the rotschrek from the vampire before their next untap phase then they would untap\n> >\n> More precisely, the \"Put this card...\" part happens before combats ends.\n> Psyche! and TT nullify only the combat ends and the effects that follow that combat ends.\n>\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/399cda7d99025c44\n>\n> Name: R\u00F6tschreck\n> Cardtype: Master\n> Master: out-of-turn. Frenzy.\n> Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n>\nCorrect.",
+      "Id": "9035"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-11132",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/11132-kunena-failed-to-when-posting-a-new-message",
+  "Title": "Kunena: Failed to ... when posting a new message",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 29, 2011, 9:28\u202FAM",
+      "Body": "Kunena: Failed to save session information!\nKunena Internal Error: Please contact the site administrator to fix this issue!\nKunena Internal Error: Please contact the site administrator to fix this issue!\n-post-: COM_KUNENA_POST_ERROR_SESSIONS\nKunena: Failed to save session information!",
+      "Id": "11132"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 29, 2011, 9:55\u202FAM",
+      "Body": "Same thing for me.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11135"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Sep 29, 2011, 11:57\u202FAM",
+      "Body": "Alterted already Jussi as the main admin, hold on as this will be fixed asap\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "11142"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 29, 2011, 12:33\u202FPM",
+      "Body": "Don't know if it is linked, but now every single post on the forum is marked as unread for me.\n\nEDIT:\n\nYes, it must be the same, now I get the Kunena error too.",
+      "Id": "11143"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Sep 30, 2011, 4:39\u202FAM",
+      "Body": "As all of you may have checked, session problem errors have been solved\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "11167"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 30, 2011, 6:20\u202FAM",
+      "Body": "Not all session problems were.\nIt seems the last visiting date, at least for me, is set to the kunena issue time, and it's not reset each time I read a message or browse the forum.\n\nThus, every message *since* that error appears new to me, even those I posted.",
+      "Id": "11174"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Sep 30, 2011, 6:43\u202FAM",
+      "Body": "> Pascal wrote:\n> Not all session problems were.\n> It seems the last visiting date, at least for me, is set to the kunena issue time\n>\nSure, but that's pretty normal given the error; system was not updating\nany longer the read/post timestamp and thus some posts in-between the\nincident and the fix will result still to be read (but will updated\ncorrecly once readed again, as normal)\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "11177"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 30, 2011, 7:17\u202FAM",
+      "Body": "I think we may have lost subscription feed.",
+      "Id": "11183"
+    },
+    {
+      "Author": "er-principe",
+      "Date": "Sep 30, 2011, 4:47\u202FPM",
+      "Body": "> Pascal wrote:\n> I think we may have lost subscription feed.\n>\nI had not subscribed, so i can't tell that right now\nDouble check and alert me if the case\n\nEmiliano\nvekn.net administrators staff",
+      "Id": "11247"
+    }
+  ]
+}

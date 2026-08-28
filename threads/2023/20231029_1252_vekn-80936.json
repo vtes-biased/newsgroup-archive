@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-80936",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80936-impulse-for-increase-bleed",
+  "Title": "Impulse for increase bleed",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 29, 2023, 12:52\u202FPM",
+      "Body": "Player A anounce bleed with an action card (example: govern). So bleed for 3.\nPlayer B: no block.\nPlayer A : 3.\nPlayer B remove 3 pool.\nPlayer A play now action modifier card (lets say Conditioning),so +3 more.\n\nQ1: can player A play Conditioning after B remove 3 pool?\n\nQ2: if player B all did correct?\nQ3: player B call judge,because A increase bleed after him remove his pool,judge say,is tricky but A can do that,is judge correct?\n\nQ4: if A play correct and can do this,if is bleed 3+3,or for 6,i mean if B can now take his pool back and say: bleed is for 6 i can play Archon Investigation?\n\nQ5: if A play correct can B take 3 pool back and play deflection to redirect bleed for 6?\n\nQ6: if A correct can B take his 3 pool back and play new card:Visions of Zapathasura (sup:Lock this vampire to reduce a bleed against you to 0.)\n\nOr maybe A and B dont play everthign correct? can we get official rule for : Impulse for increase bleed?",
+      "Id": "109693"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 29, 2023, 3:47\u202FPM",
+      "Body": "> beslin wrote:\n> Player A anounce bleed with an action card (example: govern). So bleed for 3.\n> Player B: no block.\n> Player A : 3.\n> Player B remove 3 pool.\n>\nIf no one played anything to give the impulse back to the acting Methuselah, as in this case, the declared bleed was 3, 3 was taken, the action has reached resolution. If reduction was played, Player A could certainly respond by increasing the bleed.\n\n> beslin wrote:\n> Player A play now action modifier card (lets say Conditioning),so +3 more.\n>\nThis is illegal. There is no timing window given for this, since they passed on playing the Conditioning when declaring a bleed of 3.\n\n> beslin wrote:\n> Q1: can player A play Conditioning after B remove 3 pool?\n>\nNo.\n\n> beslin wrote:\n> Q2: if player B all did correct?\n>\nYes.\n\n> beslin wrote:\n> Q3: player B call judge,because A increase bleed after him remove his pool,judge say,is tricky but A can do that,is judge correct?\n>\nThe judge is absolutely wrong. A's play was illegal.\n\n> beslin wrote:\n> Q4: if A play correct and can do this,if is bleed 3+3,or for 6,i mean if B can now take his pool back and say: bleed is for 6 i can play Archon Investigation?\n>\nMoot.\n\n> beslin wrote:\n> Q5: if A play correct can B take 3 pool back and play deflection to redirect bleed for 6?\n>\nMoot.\n\n> beslin wrote:\n> Q6: if A correct can B take his 3 pool back and play new card:Visions of Zapathasura (sup:Lock this vampire to reduce a bleed against you to 0.)\n>\nMoot.\n\n> beslin wrote:\n> Or maybe A and B dont play everthign correct? can we get official rule for : Impulse for increase bleed?\n>\nExplained above when I broke down the initial script.",
+      "Id": "109695"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 29, 2023, 6:27\u202FPM",
+      "Body": "Player A anounce bleed with an action card (example: govern). So bleed for 3.\nPlayer B: no block. (B is declining to block which passes the impulse to the next player.)\n\n**if all other players also decline to block it triggers the impulse to go back to A**\n\nPlayer A : 3. (here is where bleed modifiers can be played which A didn\u00B4t by confirming it is for 3)\nPlayer B remove 3 pool. (here is where B can deflect the bleed but didnt in this case)\nPlayer A play now action modifier card (lets say Conditioning),so +3 more. (illegal play and should have been reversed)\n\nQ1: No, it is too late to modify the bleed.\n\nQ2: No, the modifier was incorrectly played\n\nQ3: No, the judge is wrong and it is unfortunate that they didn\u00B4t know better\n\nQ4/5/6: No, besides the fact that it is an illegal play it would be to late to play AI/bleed reduction/VoZ as it has to be played before action resolution\n\nOfficial answer for your scenario : A1 -> A3 -> A4 -> C1 -> C3 cannot go to A2 as it is an illegal play\n\n> Ankha wrote:\n> If it complies with the following rules, then yes:\n>\n> The action has been announced.\n>\n> A - there is no current block attempt\n> 1. the sequencing rule applies as normal\n> 2. in addition to any effect that can be used during an action (playing an action modifier or reaction card, using effects of cards in play etc.), a Methuselah who can block (see Who May Attempt to Block) can declare a block attempt, switching to B - there is a current block attempt\n> 3. if a Methuselah passes, that Methuselah cannot declare any block attempt until the end of the action unless the target of the action changes.\n> 4. once every Methuselah has passed, switch to C - blocks have been declined\n>\n> B - there is a current block attempt\n> 1. the sequencing rule applies as normal\n> 2. the target of the action cannot be changed\n> 3. the Methuselah who has declared the current block attempt may use effects that force the currently blocking to attempt to block (no other minion can attempt to block until this block attempt is resolved)\n> 4. once every Methuselah has passed, the block attempt is resolved: if it is successful, the action is unsuccessful and blocked. Otherwise, switch back to A - there is no current block attempt\n>\n> C - blocks have been declined\n> 1. the sequencing rule applies as normal\n> 2. if the target of the action is changed, switch to A - there is no current block attempt\n> 3. once every Methuselah has passed, the action is successful and resolves\n>",
+      "Id": "109696"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 30, 2023, 12:05\u202FPM",
+      "Body": "In the OP scenario, the important part is :\n\nPlayer A : 3.\n\nAt this exact moment, the acting player have the impulse and can play an action modifier. When he says \"3\", he is confirming that the bleed is not modified. So we go to the resolution of the action which is the loss of 3 pools.",
+      "Id": "109701"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 1, 2023, 6:01\u202FPM",
+      "Body": "Thanks,kschaefer inm8 and Timo,i think same,im player B in this scenario.\n\nI have 2 questions now for the ruling director.\nQ1) Can the director confirm if the player whose answer is correct?\nQ2) What if the judge is wrong with a decision? What can players do, find a link with the correct answer, or?",
+      "Id": "109718"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 1, 2023, 10:35\u202FPM",
+      "Body": "The exact interaction and exchange, and what players understood on the table, matters.\n\n> Player A: \"bleed with Govern the Unaligned at inferior\"\n> Player B: \"no block.\"\n> Player A : *mumbles*\n> Player B removes 3 pool.\n> Player A: \"wait, Conditioning\"\n>\nmight or might not be legal depending on what was mumbled and what players understood on the table.\n\nAlso:\n\n> Player A: \"bleed with Govern the Unaligned at inferior\"\n> Player B: *mumbles*\n> Player A: It's 3\n> Player B removes 3 pool.\n> Player A: wait, Conditioning\n>\nmight be valid from A's perspective if they think B was asking for the amount, but might be perceived as invalid from B if they were answering \"no block\" in a way that was not understood or in another language.\n\nAnd maybe a harder one for you all to ponder:\n\n> Player A: \"Bleed with Govern the Unaligned at inferior\"\n> Player B: \"no block\"\n> Player A: Well, it's a Govern, so it's 3, pl...\n> Player B quickly removes 3 pool.\n> Player A: wait, I was going to say, it's 3, plus a Conditioning, so 6.\n>\nHow about this one? It's very very close to Igor's scenario, but not as clear cut as it was now, is it?\n\nI think the exact interaction, and good faith, matter. Ultimately, it has to be a judge's call. If the judge's call does not agree with you, you can and should call the head judge. If the head judge's call does not agree with you, sadly you're left with just your tears to cry >_>",
+      "Id": "109725"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 1, 2023, 11:22\u202FPM",
+      "Body": "Given the scenario in the OP. There's only one way to rule it.\n\nFolks trying to sneak in that extra bleed is a long-time, bad habit.\n\nYou might come up with some poorly-worded things as you suggest, but you don't need to muddy the waters for the example at hand because we have it.\n\nThe rulebook defines the actions if any player in the scenario is unclear on the game state, they can ask a player to repeat themselves. Your `*mumbles*` bit is just a bad faith way to take this simple case and make it unnecessarily complex.",
+      "Id": "109726"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 2, 2023, 6:22\u202FAM",
+      "Body": "In my scenario, nobody mumbles.\nWhen I say no block, I watch his face, and he says: 3, Without pl......\nBut in the end, if this player A and judge are correct, what do we do with : Q4, Q5, Q6?\nWe count bleed as 3+3, or bleed as 6. (window for Archon Investigation)?",
+      "Id": "109728"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Nov 2, 2023, 8:40\u202FAM",
+      "Body": "> beslin wrote:\n> But in the end, if this player A and judge are correct, what do we do with : Q4, Q5, Q6?\n> We count bleed as 3+3, or bleed as 6. (window for Archon Investigation)?\n>\nIt is not a matter of the judge and the player being \"correct\" now. The correct way to do it has been stated in the first answers.\n\nBut, if the judge rules the play of the conditioning to be legal, then, you have every opportunity to play as if you didn't burned 3 pools to the bleed.\n\nActually, the state of the game become a not blocked bleed for 6 and no pool loss on the prey part.\n\nSo you can play archon investigation, you can play a bounce or actually any other card which is legal to play after blocks are declined and you are being bled for 6.",
+      "Id": "109731"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 3, 2023, 3:37\u202FPM",
+      "Body": "Can we finally get an official answer from the ruling director? Do players know how to play this, and do judges know how to judge this?\n\nSome people believe that the answers provided by the people on topic are correct, while others believe that the judge is correct.\n\nOn Saturday and Sunday, we play a VTES tournaments. Can we get an answer before tomorrow?",
+      "Id": "109750"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 3, 2023, 5:18\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > beslin wrote:\n> > Player A anounce bleed with an action card (example: govern). So bleed for 3.\n> > Player B: no block.\n> > Player A : 3.\n> > Player B remove 3 pool.\n> >\n> If no one played anything to give the impulse back to the acting Methuselah, as in this case, the declared bleed was 3, 3 was taken, the action has reached resolution. If reduction was played, Player A could certainly respond by increasing the bleed.\n>\n> > beslin wrote:\n> > Player A play now action modifier card (lets say Conditioning),so +3 more.\n> >\n> This is illegal. There is no timing window given for this, since they passed on playing the Conditioning when declaring a bleed of 3.\n>\n> > beslin wrote:\n> > Q1: can player A play Conditioning after B remove 3 pool?\n> >\n> No.\n>\n> > beslin wrote:\n> > Q2: if player B all did correct?\n> >\n> Yes.\n>\n> > beslin wrote:\n> > Q3: player B call judge,because A increase bleed after him remove his pool,judge say,is tricky but A can do that,is judge correct?\n> >\n> The judge is absolutely wrong. A's play was illegal.\n>\n> > beslin wrote:\n> > Q4: if A play correct and can do this,if is bleed 3+3,or for 6,i mean if B can now take his pool back and say: bleed is for 6 i can play Archon Investigation?\n> >\n> Moot.\n>\n> > beslin wrote:\n> > Q5: if A play correct can B take 3 pool back and play deflection to redirect bleed for 6?\n> >\n> Moot.\n>\n> > beslin wrote:\n> > Q6: if A correct can B take his 3 pool back and play new card:Visions of Zapathasura (sup:Lock this vampire to reduce a bleed against you to 0.)\n> >\n> Moot.\n>\n> > beslin wrote:\n> > Or maybe A and B dont play everthign correct? can we get official rule for : Impulse for increase bleed?\n> >\n> Explained above when I broke down the initial script.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109753"
+    }
+  ]
+}

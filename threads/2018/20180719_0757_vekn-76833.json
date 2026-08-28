@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-76833",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76833-once-each-turn",
+  "Title": "Once each turn",
+  "Messages": [
+    {
+      "Author": "Snodig",
+      "Date": "Jul 19, 2018, 7:57\u202FAM",
+      "Body": "Whenever a card text states \u201Conce each turn\u201D, does this apply as \u201Conce each player\u2019s turn\u201D, or generally \u201Conce between each of your start-of-turns\u201D?",
+      "Id": "89013"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 19, 2018, 8:05\u202FAM",
+      "Body": "> Snodig wrote:\n> Whenever a card text states \u201Conce each turn\u201D, does this apply as \u201Conce each player\u2019s turn\u201D, or generally \u201Conce between each of your start-of-turns\u201D?\n>\nThe former.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89014"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Jul 19, 2018, 8:53\u202FAM",
+      "Body": "Does this apply to all limitations of the \u201Cper turn\u201D variety (minion texts, action types and so on)?\nIn other terms, there are four turns per \u201Ccycle\u201D, when there are four players?\nSorry, I should have elaborated in the original post.",
+      "Id": "89016"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Jul 19, 2018, 9:17\u202FAM",
+      "Body": "Yes. A turn start at the unlock phase of a player, and ends at the end of the discard phase of that player. If there are 4 players, there would be 4 turns per round.\n\nThe same applies to \"once each minion phase\", \"once each unlock phase\", \"once each discard phase\"; you could play the effect once in each of those phase on each player's turn. If instead the text said \"once during your turn\", it would imply between the start of your unlock phase, and the end of your discard phase (and so could not be played during your prey minion phase, for instance).\n\nI think that there are little instances in which the concept of \"round\" is taken into account, so I would not think on those terms while playing VTES: effects are confined to specific instances of player based moments (turn or phases). In fact, if you look at most cards, you will find that they use the terms \"until your next X phase\" or \"until your next turn\" instead of talking about cycles or rounds (as cards like Reversal of Fortunes could mess this up).",
+      "Id": "89020"
+    }
+  ]
+}

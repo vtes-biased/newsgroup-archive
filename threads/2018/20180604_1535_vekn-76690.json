@@ -1,0 +1,152 @@
+{
+  "ThreadId": "vekn-76690",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/76690-csv-for-lost-kindred-are-available",
+  "Title": "CSV for Lost Kindred are available",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jun 4, 2018, 3:35\u202FPM",
+      "Body": "They can be found in the  Download > Card lists menu on the left.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87903"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 4, 2018, 8:46\u202FPM",
+      "Body": "Thanks for this\n\nAlthough there are some surprising changes in the cardlist.txt file, such as\n\n> Punish wrote:\n>\n> Cardtype: Action/Combat\n> Discipline: Redemption\n>\n> Non-existant user wrote:\n>\n> Capacity: 6\n> Discipline: mar red vis\n>\nAs someone who refers players to the cardlist.txt file as an official source, I would prefer it if these went back to being Virtue, for clarity.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "87921"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2018, 6:14\u202FAM",
+      "Body": "> drnlmza wrote:\n> Thanks for this\n>\n> Although there are some surprising changes in the cardlist.txt file, such as\n>\n> > Punish wrote:\n> >\n> > Cardtype: Action/Combat\n> > Discipline: Redemption\n> >\n> > Non-existant user wrote:\n> >\n> > Capacity: 6\n> > Discipline: mar red vis\n> >\n> As someone who refers players to the cardlist.txt file as an official source, I would prefer it if these went back to being Virtue, for clarity.\n>\nI will fix it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87937"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 5, 2018, 11:04\u202FAM",
+      "Body": "One more nitpick:\n\nThe vtessets.csv file lists the release date for Lost Kindred as 2018-01-01\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "87946"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 5, 2018, 12:15\u202FPM",
+      "Body": "Also, Legacy appears to have been replaced with a second copy of Legacy of Caine in both the CSV and cardlist.txt files\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "87947"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 6, 2018, 5:41\u202FAM",
+      "Body": "Noticed that the CSVs do not contain the (limited) keywords or the changes required for the new anarch set. ie. Reckless Agitation:\n\nRequires an independent vampire with capacity above 4.\n\nvs\n\nRequires an independent or anarch vampire with capacity above 4.\n\nAny idea when these will be updated?\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87965"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Jun 7, 2018, 11:31\u202FPM",
+      "Body": "> Ke. wrote:\n> Noticed that the CSVs do not contain the (limited) keywords or the changes required for the new anarch set. ie. Reckless Agitation:\n>\n> Requires an independent vampire with capacity above 4.\n>\n> vs\n>\n> Requires an independent or anarch vampire with capacity above 4.\n>\n> Any idea when these will be updated?\n>\nI make those updates to my own use and send it to Vincent for review. If I do it right, maybe he can use it as base to new CSV.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "88016"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 11, 2018, 12:43\u202FPM",
+      "Body": "All CSVs have been updated correctly. Please note that the UTF8 version now has an additional column containing the unique card Id.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88102"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 11, 2018, 3:48\u202FPM",
+      "Body": "> Ankha wrote:\n> All CSVs have been updated correctly. Please note that the UTF8 version now has an additional column containing the unique card Id.\n>\n2 errors in the most recent files.\n\nHesha Ruhadze appears twice, once with the old text and once with the new \"+1 hunt\" text.\n\nMatthew Romans also appears twice with different text versions, but the newer version replaces the Salubri Matthew from HttB in the list.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "88106"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 12, 2018, 12:46\u202FPM",
+      "Body": "> drnlmza wrote:\n>\n> > Ankha wrote:\n> > All CSVs have been updated correctly. Please note that the UTF8 version now has an additional column containing the unique card Id.\n> >\n> 2 errors in the most recent files.\n>\n> Hesha Ruhadze appears twice, once with the old text and once with the new \"+1 hunt\" text.\n>\n> Matthew Romans also appears twice with different text versions, but the newer version replaces the Salubri Matthew from HttB in the list.\n>\nThanks, I am going to fix it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88116"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 12, 2018, 4:12\u202FPM",
+      "Body": "Fixed, the files have been updated.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88127"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Jun 14, 2018, 6:23\u202FAM",
+      "Body": "Hey Ankha,\n\nAre you open to the idea of hosting the CSV / Text files in some sort of Git repo.\n\nIt's already publicly viewable here, and it would allow us to submit Pull requests as a community to fix typos, etc.\n\nThis would hopefully mean less work for you",
+      "Id": "88169"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2018, 8:26\u202FAM",
+      "Body": "> ShanDow wrote:\n> Hey Ankha,\n>\n> Are you open to the idea of hosting the CSV / Text files in some sort of Git repo.\n>\n> It's already publicly viewable here, and it would allow us to submit Pull requests as a community to fix typos, etc.\n>\n> This would hopefully mean less work for you\n>\nI am currently maintaining two sets of CSV: the revised ones (will all the future cardtexts), and the legacy one that contains only the printed cardtexts and official errata.\nBoth are already available on the download page. Which ones would you like to contribute to?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88171"
+    },
+    {
+      "Author": "mtsr",
+      "Date": "Jun 14, 2018, 9:00\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > ShanDow wrote:\n> > Hey Ankha,\n> >\n> > Are you open to the idea of hosting the CSV / Text files in some sort of Git repo.\n> >\n> > It's already publicly viewable here, and it would allow us to submit Pull requests as a community to fix typos, etc.\n> >\n> > This would hopefully mean less work for you\n> >\n> I am currently maintaining two sets of CSV: the revised ones (will all the future cardtexts), and the legacy one that contains only the printed cardtexts and official errata.\n> Both are already available on the download page. Which ones would you like to contribute to?\n>\nWhy not both? The CSV format used can be easily worked with using git, which in turn allows easy cooperation and gives a version control to boot.\n\nAnother thing entirely, in the latest version of both Revised and 'normal' CSV's, there's all manner of {} symbols in the card text, for example for \"Absolution of the Diabolist\":\n\n\"{}{O}ut-of-turn. Requires a ready justicar or Inner Circle member. {Only usable when a vampire {would} be burned by a blood hunt.} {Usable} during your minion phase.{}\nCancel that blood hunt {instead}.\"\n\nIs this on purpose? If so, what are the {}'s for? Are they changes, highlighted keywords, something else entirely?",
+      "Id": "88172"
+    },
+    {
+      "Author": "ShanDow",
+      "Date": "Jun 14, 2018, 9:14\u202FAM",
+      "Body": "I think the current official one ( legacy ) would be the best benefit, as that combined with the card ruling archive is what people are going to refer back to in case of a dispute.\n\nIn theory you can use the same mechanism we would use to propose changes to maintain your revised text too, in the end it's just a merge between a stable master, and a development branch.",
+      "Id": "88173"
+    },
+    {
+      "Author": "mtsr",
+      "Date": "Jun 14, 2018, 9:18\u202FAM",
+      "Body": "Ankha, am I correct assuming you are not familiar with git and/or GitHub?\n\nIn that case, would it be useful if ShanDow and/or I make a proof of concept repository, showing how it would work and what the benefits are?",
+      "Id": "88174"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jun 14, 2018, 9:21\u202FAM",
+      "Body": "> mtsr wrote:\n> \"{}{O}ut-of-turn. Requires a ready justicar or Inner Circle member. {Only usable when a vampire {would} be burned by a blood hunt.} {Usable} during your minion phase.{} Cancel that blood hunt {instead}.\"\n>\n> Is this on purpose? If so, what are the {}'s for? Are they changes, highlighted keywords, something else entirely?\n>\nThe {}'s indicate changed text. Compare that to the current text from secretlibrary, which has not yet updated to the latest CSV file.\n\n> Absolution wrote:\n> Master: out-of-turn.\n> Requires a ready justicar or Inner Circle member. This card is playable during your minion phase. Only usable when a vampire is about to be burned by a blood hunt. Cancel that blood hunt.\n>\n--\nNational Coordinator\nSouth Africa",
+      "Id": "88175"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2018, 9:46\u202FAM",
+      "Body": "> mtsr wrote:\n>\n> > Ankha wrote:\n> >\n> > > ShanDow wrote:\n> > > Hey Ankha,\n> > >\n> > > Are you open to the idea of hosting the CSV / Text files in some sort of Git repo.\n> > >\n> > > It's already publicly viewable here, and it would allow us to submit Pull requests as a community to fix typos, etc.\n> > >\n> > > This would hopefully mean less work for you\n> > >\n> > I am currently maintaining two sets of CSV: the revised ones (will all the future cardtexts), and the legacy one that contains only the printed cardtexts and official errata.\n> > Both are already available on the download page. Which ones would you like to contribute to?\n> >\n> Why not both? The CSV format used can be easily worked with using git, which in turn allows easy cooperation and gives a version control to boot.\n>\nBecause you would need to update both each time there would be a change. It is extra work, with a risk of error.\n\n> mtsr wrote:\n> Another thing entirely, in the latest version of both Revised and 'normal' CSV's, there's all manner of {} symbols in the card text, for example for \"Absolution of the Diabolist\":\n>\n> \"{}{O}ut-of-turn. Requires a ready justicar or Inner Circle member. {Only usable when a vampire {would} be burned by a blood hunt.} {Usable} during your minion phase.{}\n> Cancel that blood hunt {instead}.\"\n>\n> Is this on purpose? If so, what are the {}'s for? Are they changes, highlighted keywords, something else entirely?\n>\nThey indicate changes, such as errata.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88176"
+    },
+    {
+      "Author": "mtsr",
+      "Date": "Jun 14, 2018, 2:07\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > mtsr wrote:\n> > Why not both? The CSV format used can be easily worked with using git, which in turn allows easy cooperation and gives a version control to boot.\n> >\n> Because you would need to update both each time there would be a change. It is extra work, with a risk of error.\n>\n> Ankha wrote:\n> They indicate changes, such as errata.\n>\nThanks, that helps.\n\nSo despite being called version control software, something like git is really about managing changes to text-based files. This would allow for easy overviews of lists of changes between versions and managing multiple related but different versions such as Legacy and Revised.\n\nWith your permission, I'd really like to take the current files (and maybe the previous versions if I can find them) and show how I think version control could help. And then, of course, it's up to you to decide whether it's something you want to use.",
+      "Id": "88177"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2018, 7:33\u202FPM",
+      "Body": "> mtsr wrote:\n>\n> > Ankha wrote:\n> >\n> > > mtsr wrote:\n> > > Why not both? The CSV format used can be easily worked with using git, which in turn allows easy cooperation and gives a version control to boot.\n> > >\n> > Because you would need to update both each time there would be a change. It is extra work, with a risk of error.\n> >\n> > Ankha wrote:\n> > They indicate changes, such as errata.\n> >\n> Thanks, that helps.\n>\n> So despite being called version control software, something like git is really about managing changes to text-based files. This would allow for easy overviews of lists of changes between versions and managing multiple related but different versions such as Legacy and Revised.\n>\n> With your permission, I'd really like to take the current files (and maybe the previous versions if I can find them) and show how I think version control could help. And then, of course, it's up to you to decide whether it's something you want to use.\n>\nThey are already versioned (under SVN, it's an old repo), but it's a private repository. Tracking errata within the text file helps everyone (players and me alike) to know what has changed without using blame tools.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88182"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jun 14, 2018, 7:44\u202FPM",
+      "Body": "> Ankha wrote:\n> They are already versioned (under SVN, it's an old repo), but it's a private repository. Tracking errata within the text file helps everyone (players and me alike) to know what has changed without using blame tools.\n>\nwould setting up a wiki for the cards be possible? That way revisions could easily be tracked.\n\nA wiki would also make it stupid easy to make rulings more accessible.",
+      "Id": "88183"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2018, 8:36\u202FPM",
+      "Body": "> self wrote:\n>\n> > Ankha wrote:\n> > They are already versioned (under SVN, it's an old repo), but it's a private repository. Tracking errata within the text file helps everyone (players and me alike) to know what has changed without using blame tools.\n> >\n> would setting up a wiki for the cards be possible? That way revisions could easily be tracked.\n>\n> A wiki would also make it stupid easy to make rulings more accessible.\n>\nIt looks like a lot of work. Personally, I use vtes.pl that has all the printed versions scanned, except Anthology.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88184"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jun 14, 2018, 9:39\u202FPM",
+      "Body": "> self wrote:\n>\n> > Ankha wrote:\n> > They are already versioned (under SVN, it's an old repo), but it's a private repository. Tracking errata within the text file helps everyone (players and me alike) to know what has changed without using blame tools.\n> >\n> would setting up a wiki for the cards be possible? That way revisions could easily be tracked.\n>\n> A wiki would also make it stupid easy to make rulings more accessible.\n>\nThat would be awesome!\nThe card WIKI link can be attached to the CSV for easier integration with 3rd party apps and all related ruled rules, TWDs with the card and things like that can be linked to it.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "88186"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 14, 2018, 10:53\u202FPM",
+      "Body": "Basically,\n\nVtes needs a \"Gatherer \"\n\nA card database with errata, pictures of each printing, and an idiot proof user interface.\nBut with 0 financial resources available to dump on it, it's not really a \"now\" thing....",
+      "Id": "88191"
+    }
+  ]
+}

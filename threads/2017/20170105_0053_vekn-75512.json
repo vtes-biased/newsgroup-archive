@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-75512",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75512-raptor-obedience",
+  "Title": "raptor - obedience",
+  "Messages": [
+    {
+      "Author": "gameover",
+      "Date": "Jan 5, 2017, 12:53\u202FAM",
+      "Body": "Hi,\n\ni have qrules question i amnot sure about. if a Vampire with a raptor blocks an Action and Plays obedience does the opposing Player gets the -1 handsize and has to discard?\n\nRaptor\n\nRetainer] Retainer\n\n[Animalism] Animalism\n\n[2 Blood]\n\nAnimal with 1 life.\n[ani] The minion with this retainer gets +1 intercept.\n[ANI] As above, and when the minion with this retainer is in combat, the opposing minion's controller gets -1 hand size.\n\nObedience\n\n[Reaction] Reaction\n\n[Dominate] Dominate\n\nOnly usable when this reacting vampire is about to enter combat with an acting younger vampire.\n[dom] Untap the acting vampire, do not tap this reacting vampire, and end the current action (and combat). The acting vampire cannot attempt the same action this turn.\n[DOM] As above, but do not untap the acting vampire.\n\nsince obedience says \"end the Action (and combat)\" i thought there has to be a combat at some point otherwise you couldnt end it. but i am not sure.\n\nThanks in advance!",
+      "Id": "80011"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 5, 2017, 8:09\u202FAM",
+      "Body": "> gameover wrote:\n> i have qrules question i amnot sure about. if a Vampire with a raptor blocks an Action and Plays obedience does the opposing Player gets the -1 handsize and has to discard?\n>\nNo.\n\nObedience is played before combat happens (\"about to enter combat\"), and terminates the action and the combat that would be about to start. But the vampires never actually get into combat, so Raptor's text never activates.",
+      "Id": "80014"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jan 5, 2017, 10:51\u202FAM",
+      "Body": "Is there a reason why the card mentions to end combat? It seems like it should state that the action ends but combat does not occur.",
+      "Id": "80016"
+    },
+    {
+      "Author": "gameover",
+      "Date": "Jan 5, 2017, 3:05\u202FPM",
+      "Body": "Thanks!\n\nthe \"combat ends\" part is a bit confusing though.",
+      "Id": "80019"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 5, 2017, 4:15\u202FPM",
+      "Body": "> gameover wrote:\n> Thanks!\n>\n> the \"combat ends\" part is a bit confusing though.\n>\nYou're not the only one confused, there's a post from LSJ about this subject:\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/lF6-YiKoVjM/_SD-MuP71gAJ\n\n> LSJ wrote:\n>\n> > wumpus wrote:\n> > > At some point the text of Obedience changed. I don't have the old\n> > > text in front of me, but I believe it used to say that it 'cancelled'\n> > > the combat or ended the action without combat (like Voice of Madness,\n> > > Hard Case, and Mental Maze). I thus had it in my one (silly) deck\n> > > that was designed to attempt to withdraw, as entering combat will\n> > > prevent withdrawal.\n> >\n> History of Obedience:\n>\n> 1994 Jyhad printing: Untaps the reacting vampire.\n> 19960708 Doesn't tap the reacting vampire, rather than actively untapping him.\n> 19961001 Sabbat printing: Doesn't cancel combat. Leaves the reacting vampire\n> tapped if he successfully blocked.\n> 19991206 Cancels combat. Says that the reacting vampire is not tapped.\n> 20001031 SW: Cancels combat. Says that the reacting vampire is not tapped.\n>\n> > wumpus wrote:\n> > > The text seems to imply that combat actually occurs, though Obedience\n> > > ends it.\n> >\n> Perhaps, but combat does not occur. Obedience is played before combat (it is not\n> a combat card), and ends the combat before it starts (another way of saying: the\n> combat is canceled).\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80020"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jan 5, 2017, 5:25\u202FPM",
+      "Body": "So there's no reason to state that combat ends, and the current text on Obedience is just sloppy and confusing? Cool. Here's what I think the card was intended to, and probably should, say: \"end the current action (combat does not occur)\"",
+      "Id": "80022"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2017, 6:36\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> So there's no reason to state that combat ends, and the current text on Obedience is just sloppy and confusing? Cool. Here's what I think the card was intended to, and probably should, say: \"end the current action (combat does not occur)\"\n>\nProbably, but we must find out first why this cardtext was dropped at some point.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80023"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jan 6, 2017, 1:54\u202FPM",
+      "Body": "Here's my guess:\n\nThe change to the current text on Obedience happened in Camarilla edition. Back then, tapping from the result of a block and entering combat was one step, so a blocking minion entered combat and tapped at the same time. Since then, tapping resulting from a block was given it's own discreet step before entering combat. Obedience was never changed to reflect this. Perhaps it was an oversight?\n\nComplete Rules Reference v. 3.1 (1998):\n\n\"b. Tap Blocking Minion and either Resolve Combat [6.2.3] or allow\nDiablerie [6.5.2], as appropriate.\"\n\nDetailed Play Summary:\n\n\"b. Tap blocking minion.\nc. If the acting minion was acting from the ready region, he enters combat with the blocking minion (VI)\nd. If the acting minion was acting from torpor and the blocking minion is a vampire, the blocker may diablerize the acting vampire. (VIII) [6.5.2]\"",
+      "Id": "80029"
+    }
+  ]
+}

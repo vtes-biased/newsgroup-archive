@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-73728",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/73728-unleash-hell-s-fury-v-faceless-night",
+  "Title": "Unleash Hell's Fury v. Faceless Night",
+  "Messages": [
+    {
+      "Author": "prestonp",
+      "Date": "Oct 19, 2015, 1:56\u202FAM",
+      "Body": "Can Unleash Hell's Fury become tapped because of Faceless Night? If so, does it untap as normal.\n\nName: Unleash Hell's Fury\n[HttB:R]\nCardtype: Action\nClan:\nCost: 2 pool\nDiscipline: Daimoinon\nBurn Option\n+1 stealth action. Requires an infernal vampire. Unique.\n[dai] Put this card in play. This card may attempt to block a  action against you and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable aggravated damage, and this card is burned.\n[DAI] As above, and untap this vampire.",
+      "Id": "73728"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 19, 2015, 5:53\u202FAM",
+      "Body": "> prestonp wrote:\n> Can Unleash Hell's Fury become tapped because of Faceless Night? If so, does it untap as normal.\n>\n> Name: Unleash Hell's Fury\n> [HttB:R]\n> Cardtype: Action\n> Clan:\n> Cost: 2 pool\n> Discipline: Daimoinon\n> Burn Option\n> +1 stealth action. Requires an infernal vampire. Unique.\n> [dai] Put this card in play. This card may attempt to block a  action against you and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable aggravated damage, and this card is burned.\n> [DAI] As above, and untap this vampire.\n>\nIt Unleash Hell's Fury fails to block, it ceases to fake being a vampire (way before resolution).\nThe non-minion Unleash Hell's Fury card doesn't tap when the Faceless Night action the UHF-vampire failed to block resolves.\n\n[LSJ 20100210]",
+      "Id": "73729"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 19, 2015, 5:54\u202FAM",
+      "Body": "Please note also that if it were tapped, it could still attempt to block. This is because of its cardtext that allows it to block  actions against you (it doesn't use the default \"who can block?\" rule). See LSJ's post.\n\n> prestonp wrote:\n> If so, does it untap as normal.\n>\nIf it were tapped, sure, as any card.\n(It could be tapped by a Remover for instance).\n\n> Rulebook. wrote:\n> At the beginning of your untap phase, you must untap all of your cards (except your infernal cards, see section 11).\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73730"
+    }
+  ]
+}

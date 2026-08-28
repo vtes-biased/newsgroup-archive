@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-81665",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81665-orun-burn-trigger-timing",
+  "Title": "Orun burn trigger timing",
+  "Messages": [
+    {
+      "Author": "Snodig",
+      "Date": "Aug 2, 2024, 3:22\u202FPM",
+      "Body": "If a minion with one or more Orun successfully performs an action to enter combat with a minion, is an Orun burnt before or after combat?\n\n> Orun\n> Master: trifle.\n>\n> Put this card on a Laibon. For non-Orun cards played by Methuselahs other than this Laibon's controller, this Laibon is considered to have 2 additional capacity. A Laibon gets an additional vote for every three Orun he or she has. If this Laibon successfully bleeds for more than 2 or successfully performs an action directed at a non-mortal minion, he or she burns one Orun. Burn this card if this Laibon has more Orun and Aye than his or her capacity.\n>",
+      "Id": "112237"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Aug 5, 2024, 1:46\u202FPM",
+      "Body": "No takers? Educated guesses?",
+      "Id": "112264"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 5, 2024, 2:51\u202FPM",
+      "Body": "Combat is part of resolution. You'll lose the Orun after resolution, so after the combat.",
+      "Id": "112266"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Aug 9, 2024, 7:30\u202FAM",
+      "Body": "Actually \"or successfully performs an action directed at a non-mortal minion\" means that right after the action becomes successful, you loose the Orun.\n\nChecking when an action becomes successful comes before resolution. Even an action could be successful and then not being resolved (either by cards or by fizzle)\n\nFor example, you could perform a direct action to enter combat, become successful (not blocked) and then being prevented to enter combat by an Obedience. You would not enter combat, and anyway you would lose the Orun\n\nFor losing the Orun after combat, the Orun text should read \"After resolution\" instead of \"successfully performs an action\"\n\nObedience\n\nName: Obedience\n[Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U, HttB:PKia3, SP:PoS2]\nCardtype: Reaction\nDiscipline: Dominate\nOnly usable {if} this vampire is about to enter combat with an acting younger vampire.\n[dom] Unlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn.\n[DOM] As above, but do not unlock the acting vampire.\nArtist: Ron Spencer; L. A. Williams; Oliver Meinerding",
+      "Id": "112292"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2024, 10:02\u202FAM",
+      "Body": "> kschaefer wrote:\n> Combat is part of resolution. You'll lose the Orun after resolution, so after the combat.\n>\nCorrect. See also Sargon vs a political action. groups.google.com/g/rec.games.trading-cards.jyhad/c/DlCBJmB2fzY/m/3qDVEnFO0EgJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112293"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 9, 2024, 10:03\u202FAM",
+      "Body": "> Coyote wrote:\n> For losing the Orun after combat, the Orun text should read \"After resolution\" instead of \"successfully performs an action\"\n>\n\"After resolution of a successful action\" and \"after X successfully performs an action\" are the same, VTES-wise\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112294"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Aug 9, 2024, 10:32\u202FAM",
+      "Body": "This confuses me.\n\nI always have in mind that one thing is performing successfully an action. For that, the action has to be not blocked.\n\nAnd another thing is successfully resolved. A successfully performed action can be unsuccessfully resolved (for instance, fizzes because not being able to pay it).\n\nSo I fell that \"after performed\" and \"after resolved\" should be two different things. One related about being blocked or not. The other about resolving the action.\n\nIf not, how would you call an action that is successful, but it is not yet resolved?",
+      "Id": "112303"
+    }
+  ]
+}

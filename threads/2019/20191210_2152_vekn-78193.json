@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-78193",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78193-di-against-a-combat-card-with-infernal-pursuit-active",
+  "Title": "DI against a Combat Card with Infernal Pursuit active",
+  "Messages": [
+    {
+      "Author": "Hakuron",
+      "Date": "Dec 10, 2019, 9:52\u202FPM",
+      "Body": "Maybe very simple question, but I want to be sure ...\n\nName: Infernal Pursuit\n[cel] Press.\n[CEL] For the remainder of the combat, each time you replace a card (including when you draw to replace this card), draw an additional card and discard down to your hand size.\n\nName: Direct Intervention\nCost: 1 pool\nMaster: out-of-turn.\nCancel a minion card as it is played. No cost is paid. (If it was an action card, the acting minion doesn't lock. If it was a strike card, the minion chooses another strike.)\n\nCombat. Player A has superior Infernal Pursuit active. A plays a maneuver card (without any restrictive clauses). B plays DI on that.\nDoes A draw an addititional card with the replacement for the card DI-ed?\n\n(Card texts suppose so, but it feels a bit strange.)\n\nThanks in advance!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "98212"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 10, 2019, 11:32\u202FPM",
+      "Body": "> Hakuron wrote:\n> Combat. Player A has superior Infernal Pursuit active. A plays a maneuver card (without any restrictive clauses). B plays DI on that.\n> Does A draw an addititional card with the replacement for the card DI-ed?\n>\nThe only precedent I can find is this  hyper-weird thread on Watenda , where LSJ rules no, and then there's a really weird discussion of various other cards, with a reversal of a subsequent ruling on Do Not Replace cards. And it's complicated by the fact that play-cancel-replace hasn't been hammered out at the time, and other effects can be fit into the window at that time (they can't now, by explicit rulebook text).\n\nHad I not seen that thread, I'd have said \"Sure, draw an extra card - you're replacing it, even if it's been cancelled.\" But that thread confuses me.",
+      "Id": "98213"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Dec 11, 2019, 1:17\u202FAM",
+      "Body": "Well, the initial question is about canceling the Infernal Pursuit, which means that the LSJ ruling makes sense: you don't get the additional draw.\n\nI don't really see anything on point to the poster's question.\n\nI agree with jamesatzephyr's take though: you would draw a replacement immediately (even for a card with a DNR, such as Groundfighting) when the card is canceled. Per card text on Infernal Pursuit, you would also need to draw an additional card.",
+      "Id": "98214"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2019, 7:54\u202FAM",
+      "Body": "> Hakuron wrote:\n> Combat. Player A has superior Infernal Pursuit active. A plays a maneuver card (without any restrictive clauses). B plays DI on that.\n> Does A draw an addititional card with the replacement for the card DI-ed?\n>\nYes. The maneuver card is replaced after being cancelled, so you draw an additional card.\n\n> kschaefer wrote:\n> Well, the initial question is about canceling the Infernal Pursuit, which means that the LSJ ruling makes sense: you don't get the additional draw.\n>\nAnd this still stands.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98215"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 11, 2019, 10:14\u202FPM",
+      "Body": "> kschaefer wrote:\n> Well, the initial question is about canceling the Infernal Pursuit, which means that the LSJ ruling makes sense: you don't get the additional draw.\n>\nOh, of course. I thought I was missing something, but hadn't clocked that my ability to read the question was completely missing the point.\n\n(I think I had managed to blur Watenda's special having extra text to do with strike cards as being that Watenda only cancels strike cards, which obviously isn't the case, and therefore mis-read the question.)",
+      "Id": "98219"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Dec 12, 2019, 5:41\u202FAM",
+      "Body": "> Hakuron wrote:\n> (Card texts suppose so, but it feels a bit strange.)\n>\nIt does not have to. Infernal Pursuit does not care about cards being played, it cares about them leaving your hand and being replaced. It works on cards played, on weapons equipped with Concealed Weapon, on cards discarded by Barrens or to cancel a Target Vitals,... For DI to mess with it, it would have to put the cancelled card back in your hand, reduce your hand size or do something else that explicitly prevents you from drawing back.",
+      "Id": "98220"
+    }
+  ]
+}

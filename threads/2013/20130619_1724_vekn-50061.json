@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-50061",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/50061-false-resonance",
+  "Title": "False Resonance",
+  "Messages": [
+    {
+      "Author": "Charles_Bronson",
+      "Date": "Jun 19, 2013, 5:24\u202FPM",
+      "Body": "False Resonance\nAction Modifier\nCancel a reaction card that requires Auspex  or Dementation  as it is played (no cost is paid).\n+1 stealth, and once this action, this vampire can burn 1 blood to use the  effect above.\n\nMata Hari is bleeding.\nLambach tries to block.\nMata Hari plays faceless night, giving +1 stealth.\nLambach plays Precognition, giving +1 intercept.\n\n1: Mata Hari can play false resonance at superior, canceling the precognition and continuing to bleed at +2 stealth total now. (+1 faceless, +1 from false resonance).\n\n2: Mata Hari can only play False Resonance at inferior, canceling precognition.\n\nWhich one is correct, and why?\n\nI am death.\nPaul Kersey, Death Wish",
+      "Id": "50061"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jun 19, 2013, 5:49\u202FPM",
+      "Body": "Mata Hari can play the superior effect. The second effect (to be able to burn a blood to cancel a reaction) is not mandatory, and she can play stealth normally, since the blocker already have enough intercept.",
+      "Id": "50063"
+    },
+    {
+      "Author": "Charles_Bronson",
+      "Date": "Jun 19, 2013, 6:17\u202FPM",
+      "Body": "> Ohlmann wrote:\n> Mata Hari can play the superior effect. The second effect (to be able to burn a blood to cancel a reaction) is not mandatory, and she can play stealth normally, since the blocker already have enough intercept.\n>\nI dont get it. You cancel a card  AS ITS PLAYED. How could you gain stealth, and then cancel the card? If you gain stealth, it means the card was in effect. So it was not cancelled as played. Right? Wrong? Why?\n\nI am death.\nPaul Kersey, Death Wish",
+      "Id": "50066"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 19, 2013, 6:20\u202FPM",
+      "Body": "> Charles_Bronson wrote:\n> Mata Hari is bleeding.\n> Lambach tries to block.\n> Mata Hari plays faceless night, giving +1 stealth.\n> Lambach plays Precognition, giving +1 intercept.\n>\nMata Hari can play False Resonance at inferior, cancelling the Precognition.\nMata Hari can play False Resonance at superior, for +1 stealth.\n\nHowever, Mata Hari can't play it at superior *and* cancel Precognition. That would require sup' False Resonance to be a card canceller, which it isn't. Rulebook 1.6.1 defines that only card-cancellers and wakes (basically) can be played in the as-played window. Sup' False Resonance not being a card-canceller (because its effect isn't to cancel a card), it isn't playable in that \"as played\" window.\n\n[EDIT] Note that, if False Resonance read \"As above, with +1 stealth\", that would have done the trick.",
+      "Id": "50067"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Jun 19, 2013, 6:31\u202FPM",
+      "Body": "> Charles_Bronson wrote:\n> I dont get it. You cancel a card  AS ITS PLAYED. How could you gain stealth, and then cancel the card? If you gain stealth, it means the card was in effect. So it was not cancelled as played. Right? Wrong? Why?\n>\nBecause I had misread, and I believed you were asking if you were able to player the sup' effect and cancel a future reaction.",
+      "Id": "50069"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Jun 19, 2013, 7:23\u202FPM",
+      "Body": "> Charles_Bronson wrote:\n> 1: Mata Hari can play false resonance at superior, canceling the precognition and continuing to bleed at +2 stealth total now. (+1 faceless, +1 from false resonance).\n>\n> 2: Mata Hari can only play False Resonance at inferior, canceling precognition.\n>\n> Which one is correct, and why?\n>\nA third option may have been better.\n\nMata Hari may play False Resonance at either...\n\n3a. ...inferior, canceling Precognition;\n\nOR\n\n3b. ...superior, continuing at +2 stealth with the option to cancel a future reaction requiring Aus or Dem (but not the recently played Precognition because it is outside the \"as played\" window).\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "50071"
+    },
+    {
+      "Author": "Charles_Bronson",
+      "Date": "Jun 19, 2013, 8:01\u202FPM",
+      "Body": "Most of people here argue that you could give +1 stealth for the current action AND cancel the auspex card just played.\n\nWe could not reach a consensus.\n\nThanks everyone!\n\nI am death.\nPaul Kersey, Death Wish",
+      "Id": "50073"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 20, 2013, 4:49\u202FAM",
+      "Body": "> Pascal wrote:\n> Mata Hari can play False Resonance at superior, for +1 bleed.\n>\nReally?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "50081"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 20, 2013, 4:52\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Pascal wrote:\n> > Mata Hari can play False Resonance at superior, for +1 bleed.\n> >\n> Really?\n>\nThese aren't the droids you're looking for.",
+      "Id": "50083"
+    }
+  ]
+}

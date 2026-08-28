@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-80925",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80925-wake-timing-effects",
+  "Title": "Wake + timing effects",
+  "Messages": [
+    {
+      "Author": "Charles_Bronson",
+      "Date": "Oct 27, 2023, 9:07\u202FPM",
+      "Body": "Here we go.\n\nI know we have a window to play wake effects to cancel cards \"as played\". From:\n\n\"As played\" (a phrase used by many card-canceling effects) comes after the card in question is fully announced and before the played card is replaced and before the effect the play generates. In general, no card or effect can be used in this window. The only ones that can be are the effects that say so, and Wake-style effects that enable such cards to be played (\"may play reaction cards\" effects, not \"untap self\" or other effects). [RTR]\n\nSo the first sequence is:\n\n1. Tegyrius announce he is playing a Public Trust, and put the card in the table.\nand he will play soon after it a deed's the heart desire on a blocking minion.\n\n2. Blocking minion can play a wake effect to play a touch of clarity and cancel the public trust BEFORE the deed's the heart desire enters play.\n\n3. Everyone then replace the 3 cards played.\n\nSo far so good.\n\nThe new spoiled card, UNLEASHING THE BESTIAL SOUL, says:\nonly usabe as the action is announced\n[dom] choose a minion. the chosen minion cannot play reactions cards this action.\n[DOM] as above, and the next reaction card played this action costs +1 blood or life.\n\nSo, the question is:\n\n1. A new Salubri announces a bleed with govern. He has Unleashing the bestial soul in hand and will play it as soon as it is possible.\n\n2. Can I play wake on my only tapped minion on the cancel as-played- window with no cancel cards in hand just to \"cheat\" the cannot play reactions effect from unleashing the bestial soul? and then block the action?\n\nOr can I ONLY play wake effects on this window if I have a cancelling effect?\n\nthanks!\nAlexandre Costaa\n\nI am death.\nPaul Kersey, Death Wish",
+      "Id": "109672"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 27, 2023, 10:15\u202FPM",
+      "Body": "> Charles_Bronson wrote:\n> 2. Can I play wake on my only tapped minion on the cancel as-played- window with no cancel cards in hand just to \"cheat\" the cannot play reactions effect from unleashing the bestial soul? and then block the action?\n>\nBy the Ruleboook: I think Yes.\nI don't know of any ruling against this.",
+      "Id": "109673"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Oct 27, 2023, 11:09\u202FPM",
+      "Body": "Because of sequencing rules, you (acting minion) get to play as many effects as you want first (in the specified time window).\n\nBTW, AFAIK there's no wake card that is playable during the \"as a card is played\" window - these cards are played later. So, if there's a reaction card that allows you to cancel another card as it is played, you cannot play any wakes before it to use it, as opportunity to play a wake shows up later, when the \"as a card is played\" window is already closed.",
+      "Id": "109674"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2023, 7:02\u202FAM",
+      "Body": "> Charles_Bronson wrote:\n> 1. Tegyrius announce he is playing a Public Trust, and put the card in the table.\n> and he will play soon after it a deed's the heart desire on a blocking minion.\n>\n> 2. Blocking minion can play a wake effect to play a touch of clarity and cancel the public trust BEFORE the deed's the heart desire enters play.\n>\nNot a \"blocking\" minion, but a minion controlled by another Methuselah.\n\n> Charles_Bronson wrote:\n> 3. Everyone then replace the 3 cards played.\n>\nThe Public Trust, the wake, and the Touch of Clarity, correct.\n\n> Charles_Bronson wrote:\n> The new spoiled card, UNLEASHING THE BESTIAL SOUL, says:\n> only usabe as the action is announced\n> [dom] choose a minion. the chosen minion cannot play reactions cards this action.\n> [DOM] as above, and the next reaction card played this action costs +1 blood or life.\n>\n> So, the question is:\n>\n> 1. A new Salubri announces a bleed with govern. He has Unleashing the bestial soul in hand and will play it as soon as it is possible.\n>\n> 2. Can I play wake on my only tapped minion on the cancel as-played- window with no cancel cards in hand just to \"cheat\" the cannot play reactions effect from unleashing the bestial soul? and then block the action?\n>\nSure.\n\n> Charles_Bronson wrote:\n> Or can I ONLY play wake effects on this window if I have a cancelling effect?\n>\nNo.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109683"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2023, 7:03\u202FAM",
+      "Body": "> KoRneeshon wrote:\n> BTW, AFAIK there's no wake card that is playable during the \"as a card is played\" window - these cards are played later. So, if there's a reaction card that allows you to cancel another card as it is played, you cannot play any wakes before it to use it, as opportunity to play a wake shows up later, when the \"as a card is played\" window is already closed.\n>\nWrong, see rulebook:\n\n\"ADVANCED RULES\n\nSome effects can cancel a card \u201Cas it is played.\u201D These effects, as well as wake effects, are the only effects allowed during the \u201Cas played\u201D time period of another card. Even drawing to replace cards, comes after this time period.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109684"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 28, 2023, 7:08\u202FAM",
+      "Body": "Thank for the clarification\n\nPlease consider changing that, as it seems as it would massivly undermine \"can't play reaction cards\" effects, that you can play wakes as a reaction to \"as played\" to such an effect, like Psalm of the damned or Unleash the bestial soul.",
+      "Id": "109685"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2023, 7:15\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n> Thank for the clarification\n>\n> Please consider changing that, as it seems as it would massivly undermine \"can't play reaction cards\" effects, that you can play wakes as a reaction to \"as played\" to such an effect, like Psalm of the damned or Unleash the bestial soul.\n>\nI wouldn't change how wakes work to make two cards slightly better.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109686"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 28, 2023, 7:19\u202FAM",
+      "Body": "we have now two cards with such an effect, and it is more about the future design space, then fixing and immideatly proken combination.",
+      "Id": "109687"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Oct 28, 2023, 8:42\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > KoRneeshon wrote:\n> > BTW, AFAIK there's no wake card that is playable during the \"as a card is played\" window - these cards are played later. So, if there's a reaction card that allows you to cancel another card as it is played, you cannot play any wakes before it to use it, as opportunity to play a wake shows up later, when the \"as a card is played\" window is already closed.\n> >\n> Wrong, see rulebook:\n>\n> \"ADVANCED RULES\n>\n> Some effects can cancel a card \u201Cas it is played.\u201D These effects, as well as wake effects, are the only effects allowed during the \u201Cas played\u201D time period of another card. Even drawing to replace cards, comes after this time period.\"\n>\nGlad to learn something new, wasn't aware of this.",
+      "Id": "109688"
+    },
+    {
+      "Author": "Charles_Bronson",
+      "Date": "Oct 30, 2023, 12:04\u202FAM",
+      "Body": "I don't think the problem is the power level of the card.\n\nThe problem will be to introduce to old and new players why you can do it. It's just counter intuitive and with no offense, a design failure. But VTES is complicated enough, one more rule won't matter much.\n\nAt least i'll have fun explaining this to my players\n\nI am death.\nPaul Kersey, Death Wish",
+      "Id": "109698"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 30, 2023, 9:17\u202FAM",
+      "Body": "That wake-type cards can be played in the \"as it is played\" window has been in the rulebook since December 2008 and the rule nor the cards have any implicit or explicit requirement that they have to be tied to another effect... and similar to cancelation effects the wakes played in the \"as it is played\" window resolve before the effect of the card that is being woken for.\n\nI don\u00B4t see anything to be broken, undermining another effect, or limiting design space...if we want to have cards that are not possible to wake to, or cancel it just needs to be written explicitly on the cards\u00B4 text\n\n> Rulebook_08-Dec wrote:\n> Some effects can cancel a card \"as it is played\". These effects (and effects that grant the ability to play them, like Forced Awakening) are the only effects allowed during the \"as played\" time period of another card. Even drawing to replace cards comes after this time period.\n>\n> Rulebook_17-Apr wrote:\n> Some effects can cancel a card \"as it is played.\" These effects as well as wake effects (see Special Terms, sec. 11) are the only effects allowed during the \"as played\" time period of another card. Even drawing to replace cards comes after this time period.\n>\n> Rulebook_20-Nov wrote:\n> Some effects can cancel a card \u201Cas it is played.\u201D These effects, as well as wake effects, are the only effects allowed during the \u201Cas played\u201D time period of another card. Even drawing to replace cards, comes after this time period.\n>",
+      "Id": "109699"
+    },
+    {
+      "Author": "\u010Caj\u00E1gi",
+      "Date": "Feb 14, 2024, 12:36\u202FPM",
+      "Body": "Still it is no clear what takes precedense. What exactly means \"when it is played\" ? It means that i Play blank card and if nobody reacts then text of the card becomes visible ? OR the efect is already there but another vampire can make it blank with playing for. e.g. Iron Heart ?\n\nActing player plays unleash. The whole card is played (for me that means also the effect). No still in the phase !as it is played\" you can play reaction cards that does not go opposite of the wording of the card.\n\nRules says that \"card text takes precedence to the rules\". So the card text saying that the target vampire can not play reaction cards should be in effect. (that means the advaced wake rule should not apply) But another vampire can cancel the effect so it never took place. That is how it makes sense to me.\n\nI would really like to see how is the correct order off trigering cards and text in this case.",
+      "Id": "110695"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 14, 2024, 4:31\u202FPM",
+      "Body": "> \u010Caj\u00E1gi wrote:\n> Still it is no clear what takes precedense. What exactly means \"when it is played\" ? It means that i Play blank card and if nobody reacts then text of the card becomes visible ? OR the efect is already there but another vampire can make it blank with playing for. e.g. Iron Heart ?\n>\nFrom the rulebook:\n\n> Playing a Card\n>\n> A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap. Sometimes a card will state to put it into play, you should announce its effects and place the card in the play area.\n>\n> ADVANCED RULES\n>\n> Some effects can cancel a card \u201Cas it is played.\u201D These effects, as well as wake effects, are the only effects allowed during the \u201Cas played\u201D time period of another card. Even drawing to replace cards, comes after this time period.\n>\n> \u010Caj\u00E1gi wrote:\n> Acting player plays unleash. The whole card is played (for me that means also the effect). No still in the phase !as it is played\" you can play reaction cards that does not go opposite of the wording of the card.\n>\nSo you play the card, but it can be cancelled before it resolves in the \"as it is played\" window.\nIf it isn't cancelled, then you resolve it.\nHowever, as stated by the rulebook, one can play wake cards in that window, before Unleashing the Bestial Soul resolves. And since the wake effects lasts the whole action, that minion will still be under it's effect once the UtBS has resolved.\n\n> \u010Caj\u00E1gi wrote:\n> Rules says that \"card text takes precedence to the rules\". So the card text saying that the target vampire can not play reaction cards should be in effect.\n>\nSure, once it has resolved, it will prevent further reaction cards from being played.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110698"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 24, 2024, 6:52\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Hobbesgoblin wrote:\n> > Thank for the clarification\n> >\n> > Please consider changing that, as it seems as it would massivly undermine \"can't play reaction cards\" effects, that you can play wakes as a reaction to \"as played\" to such an effect, like Psalm of the damned or Unleash the bestial soul.\n> >\n> I wouldn't change how wakes work to make two cards slightly better.\n>\nI would argue that the rules became like that in the first place just to make a couple of cards slightly better, mainly Rewind Time and Terra Incognita, although it does also affect cards like Touch of Clarity etc... That's not that many cards.\n\nIn 2004 we got an RTR stopping the \"draw a cancel with Barrens\" nonsense.\nI wouldn't mind having a 2024 RTR stopping the \"you can wake to cancel\" nonsense TBH.\nIt is very misleading, as the situation is right now:\n\nYou just published a new card that says:\n>\n> The chosen minion cannot play reaction cards this action.\n>\nAnd the first ruling it's gonna get is:\n>\n> The chosen minion can play a wake as the card is played, before its effects apply.\n>\nTo a fresh player, that's a very unexpected exception, even as aligned as it is with the rulebook.\nA change might have to wait for 1.2 revision of the rulebook, and deserve a more careful analysis, but I would also argue for remedying the situation here.\nThe wake exception in the cancel window is an ugly piece of rule. It's unnecessary, and is just there to make a couple of cards slightly better. Simplifying and removing it sounds sensible.",
+      "Id": "111249"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Apr 25, 2024, 10:22\u202FAM",
+      "Body": "I think it's getting much clearer when you realize that \"Action card is played\" is a separate step before \"Action is announced\" step. Wakes can be played in the \"as card is played\" window, and \"as the action is announced\" cards are, well, self-explanatory.\nI agree it weakens few action mods, but cannot deny it is logical and not that hard to understand.",
+      "Id": "111268"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Apr 26, 2024, 2:35\u202FPM",
+      "Body": "I mean if it were up to me, since Wakes operate so differently I'd make them Reflex cards and change how Reflex cards work in the rulebook.\n\nBut that's just me.",
+      "Id": "111278"
+    }
+  ]
+}

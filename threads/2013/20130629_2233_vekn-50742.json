@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-50742",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/jol/50742-jol-and-ardb",
+  "Title": "JOL and ARDB",
+  "Messages": [
+    {
+      "Author": "Darius",
+      "Date": "Jun 29, 2013, 10:33\u202FPM",
+      "Body": "Hello everyone. I've just discovered JOL and I'm try to work it. How do you build a deck? In the same vein I noticed that Anarch revolt ha an export to JOL option. When it starts it says \"Can't find image files in either '.' or 'vtesicons'!\" and when I try to use the export to JOL feature it says \"An error occurred while saving. Can't open XSL file\" \"An error occured while saving\". Any idea whats wrong?\n\n\"Really, darling, you must not squirm so. It spoils the overall effect.\"",
+      "Id": "50742"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jun 29, 2013, 11:15\u202FPM",
+      "Body": "It seems likely that you are missing the deck2jol.xsl file.\nIn your ARDB 3.1 folder, do you have see ~15 XSL files?\nYou need those to do any sort of export.\n\nThe vtesicons folder will have ~81 xpm files.\nThe CardImages folder will have zip files.\n\nI would recommend re-downloading the file and re-extracting it if you find any of those are missing.\n\ncode.google.com/p/ardb/downloads/list\n\nA JOL deck list looks like this:\n\nEmily Carson\nGraham Gottesman\nGraham Gottesman\nJephta Hester\nJoao Bile\nLodin (Olaf Holte)\nLodin (Olaf Holte)\nLodin (Olaf Holte)\nMustafa, The Heir\nUlrike Rothbart\nVictor Donaldson\nVictor Pelletier\n\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nGovern the Unaligned\nBonding\nBonding\nConditioning\nConditioning\nConditioning\nConditioning\nDaring the Dawn\nDaring the Dawn\nForeshadowing Destruction\nForeshadowing Destruction\nMurmur of the False Will\nCarlton Van Wyk (Hunter)\nHidden Strength\nHidden Strength\nHidden Strength\nHidden Strength\nIndomitability\nIndomitability\nIndomitability\nIndomitability\nIndomitability\nRolling with the Punches\nRolling with the Punches\nUnflinching Persistence\nWeighted Walking Stick\nWeighted Walking Stick\nWeighted Walking Stick\nWeighted Walking Stick\nWeighted Walking Stick\n.44 Magnum\nHeart of Nizchetus\nIvory Bow\nScourge of the Enochians\nUncoiling, The\nAnarch Troublemaker\nBlood Doll\nBlood Doll\nDirect Intervention\nDreams of the Sphinx\nGiant's Blood\nHaven Uncovered\nPentex(TM) Subversion\nSudden Reversal\nUptown Hunting Ground\nVentrue Headquarters\nVessel\nVessel\nAnarchist Uprising\nDeflection\nDeflection\nDeflection\nDeflection\nDeflection\nDeflection\nDeflection\nOn the Qui Vive\nOn the Qui Vive\nRedirection\nSecond Tradition: Domain\nSecond Tradition: Domain\nSecond Tradition: Domain\nSecond Tradition: Domain\nSecond Tradition: Domain\nSecond Tradition: Domain\nSecond Tradition: Domain\nSecond Tradition: Domain",
+      "Id": "50744"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 30, 2013, 9:13\u202FAM",
+      "Body": "> Adonai wrote:\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n> Govern the Unaligned\n>\nYou can simply write 13x Govern the Unaligned\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "50750"
+    },
+    {
+      "Author": "Gangrel-Boy",
+      "Date": "Jul 5, 2013, 6:02\u202FPM",
+      "Body": "Agreed. the 13x makes for less copy/paste action. I usually make my own decks but sometimes 'borrow' ideas for decks at Lasombra's TWDA (Tournament Winning Deck Archive).  TWDA\n\nDon't make me go Aggro... VEKN Prince of Erie, PA (USA)",
+      "Id": "51024"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jul 5, 2013, 8:40\u202FPM",
+      "Body": "The JOL export on ARDB will do it for you, no need to manually type out the deck.\n\nThe .JOL format used by the ARDB export has each card on one line, as originally required.",
+      "Id": "51029"
+    }
+  ]
+}

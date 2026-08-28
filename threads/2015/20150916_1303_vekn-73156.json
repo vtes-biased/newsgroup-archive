@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-73156",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/73156-corner-case-thin-blooded-seer-question",
+  "Title": "Corner-case Thin-Blooded Seer question",
+  "Messages": [
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 16, 2015, 1:03\u202FPM",
+      "Body": "Today in \"someone was unhelpful enough to play awful cards in horrifying combinations\"...\n\nI control Thin-Blooded Seer, who has this relevant bit of text: \"Cards that cost blood cost this vampire twice as much blood to play.\"\n\nI put some discipline masters on it, and put a Succulent Vitae on him: \"When this vampire plays a card that requires Quietus [qui] , he or she may burn this card to reduce the cost of that card by 1 blood.\"\n\nI play a card that requires Quietus that costs 1 blood, such as Taste of Death.\n\nDoes  RTR 2007-07-07 apply, meaning that the doubling happens before I can reduce the cost? Or does it operate on the cost at the end of the ordinary arithmetic? Or something else?\n\nAll cost-affecting cards operate no matter how the card is played (\"as normal\"\nor otherwise). All multiplication and division is handled first, followed by\naddition and subtraction.\n\nNote that pay nothing still means pay nothing, even if something else would add\nto the cost. So costs for cards canceled by Sudden Reversal or Direct\nIntervention are still not paid, for example. And Bauble and Horrid Reality\nstill gets weapons for free. And similar for Helena and Dragos.\n\nWould anything in your answer change if Thin-Blooded Seer used Sunset Strip instead, which affects the cost to recruit, but doesn't specifically say it affects the cost of the card? \"Tap to reduce the cost to recruit a mortal ally or employ a mortal retainer by 1 blood or pool...\"\n\nSucculent Vitae, Action Modifier\n[qui] Only usable when a hunt action is successful. Place this card on this acting vampire. When this vampire plays a card that requires Quietus [qui] , he or she may burn this card to reduce the cost of that card by 1 blood.\n[QUI] As above, and gain an additional blood from this hunt action.\n\nThin-Blooded Seer, Action\n1 Blood\nRequires a ready non-sterile vampire of capacity less than 3.\nPut this card into play; it becomes a 1-capacity vampire. This vampire is clanless and sterile. This vampire is not considered unique, must hunt this turn and is the same sect as the acting vampire. Cards that cost blood cost this vampire twice as much blood to play. During your untap phase, you may tap this vampire to look at the top two cards of any Methuselah's library.\n\nSunset Strip, Hollywood\nMaster, 1 Pool\nMaster: unique location.\nTap to give all vampires +1 stealth on hunt actions until your next untap phase. Tap to reduce the cost to recruit a mortal ally or employ a mortal retainer by 1 blood or pool (but never less than 0 blood or pool).",
+      "Id": "73156"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 16, 2015, 1:12\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> I play a card that requires Quietus that costs 1 blood, such as Taste of Death.\n>\n> Does  RTR 2007-07-07 apply, meaning that the doubling happens before I can reduce the cost?\n>\nCorrect.\nTaste of Death would cost 2, or 1 if you use the Succulent Vitae.\n\n> jamesatzephyr wrote:\n> Would anything in your answer change if Thin-Blooded Seer used Sunset Strip instead, which affects the cost to recruit, but doesn't specifically say it affects the cost of the card? \"Tap to reduce the cost to recruit a mortal ally or employ a mortal retainer by 1 blood or pool...\"\n>\nIt's the same (assuming you're talking about a blood cost of an ally recruited by the Thin-Blooded Seer).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73157"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 17, 2015, 4:15\u202FAM",
+      "Body": "Despite vast inconsistencies by Scott (remember the Nocturn thingy?), let's apply the genric formula indeed : Taste of Death would effectively cost Thin Blooded Seer 2 blood.",
+      "Id": "73166"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Sep 17, 2015, 6:19\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Today in \"someone was unhelpful enough to play awful cards in horrifying combinations\"...\n>\nS\u00E9rgio?\nIs that you?",
+      "Id": "73169"
+    },
+    {
+      "Author": "S\u00E9rgio",
+      "Date": "Sep 17, 2015, 7:51\u202FAM",
+      "Body": "I neither play awful cards in \"horrifying combinations\" nor do I chastise people for doing so.\n\n\u2026ok, the first part is true.",
+      "Id": "73170"
+    }
+  ]
+}

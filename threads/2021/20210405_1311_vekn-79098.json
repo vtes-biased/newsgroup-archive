@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-79098",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-websites-podcasts-blogs/79098-the-deckbuilding-challenge",
+  "Title": "The deckbuilding challenge!",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Apr 5, 2021, 1:11\u202FPM",
+      "Body": "This is a challenge for programmers, whose result may interest a lot of players:\n\nGiven a collection of cards and the decks from the Tournament Winning Deck Archives, write a program that uses the most cards in your collection to build decks!\nA tolerance of 10% of missing cards per deck is acceptable, but the program must minimize the number of missing cards anyway.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101988"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 9, 2021, 7:32\u202FPM",
+      "Body": "Recent update to  VDB brought this feature, thanks for great proposal.\n\nTo use it you must create account, fill inventory with some cards (well with MANY cards if you expect to find any TWD matching it) and turn on Inventory-Mode (it will unlock additional forms in TWD not visible without account/inventory).\n\nAny feedback welcome.",
+      "Id": "102011"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 9, 2021, 8:36\u202FPM",
+      "Body": "I activated it in the TWD tab, but how do I get decks that match? I clicked on \"50 new\", but the first deck proposed has almost no cards matching my inventory...\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102012"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 9, 2021, 8:39\u202FPM",
+      "Body": "Ah, got it! One has to select 90% in the \"In Inventory by Crypt\" and \"In Inventory by Library\" drop down lists.\n\nIs it on a deck-by-deck basis, or does it select as many decks as possible that can be built (with no copies of a card used by more than one deck of course!)? The latter is a must-have.\n\nI am asking because it proposes 4 Dementation bleed with more copies of Kindred Spirit than are available in my inventory.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102013"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 9, 2021, 8:43\u202FPM",
+      "Body": "It goes deck-by-deck and together with other filters.\n\nAs I understand now, it is not exactly what you requested - it does not aim to build as many decks without reusing cards, but may still be useful for somebody.",
+      "Id": "102014"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 10, 2021, 8:51\u202FAM",
+      "Body": "> smeeag wrote:\n> It goes deck-by-deck and together with other filters.\n>\n> As I understand now, it is not exactly what you requested - it does not aim to build as many decks without reusing cards, but may still be useful for somebody.\n>\nSure, it will be useful  I'm just wondering what do to with all the cards in my inventory\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102020"
+    }
+  ]
+}

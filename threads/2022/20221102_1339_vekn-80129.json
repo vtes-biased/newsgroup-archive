@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-80129",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80129-fall-of-london-card-rules-questions",
+  "Title": "Fall of London Card rules questions",
+  "Messages": [
+    {
+      "Author": "Palamedes",
+      "Date": "Nov 2, 2022, 1:39\u202FPM",
+      "Body": "Hi,\nI have some doubts about the card rules from Fall of London:\n\nThe Guardian\nWhen The Guardian is locked to enter combat by special text, who is considered an acting minion (who plays first)?\n\nThe Shard, London\nThe card says \"card you play\", not \"you and your minions\". Since the cost can also be paid in blood, I assume the card interacts with minion's cards as well (not just Master cards)?\n\nMobile HQ, Operation Antigen\nIs locking Mobile HQ to enter combat cost of the successful action, or is it locked when the action is announced?\n\nEnhanced Coagulant\nThe strike works only against vampires? You can't deal 3 damage to an ally, right?\n\nThanks.",
+      "Id": "106686"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 2, 2022, 4:12\u202FPM",
+      "Body": "> Palamedes wrote:\n> Hi,\n> I have some doubts about the card rules from Fall of London:\n>\n> The Guardian\n> When The Guardian is locked to enter combat by special text, who is considered an acting minion (who plays first)?\n>\nName: The Guardian\n[FoL:2]\nCardtype: Vampire\nClan: Nosferatu\nGroup: 6\nCapacity: 4\nDiscipline: ani cel pot\nCamarilla: The Guardian cannot perform directed actions unless you control a ready unique older Nosferatu. The Guardian can lock after resolution of a successful bleed against you to enter combat with the acting minion.\n\nCardtext.\n\n> Palamedes wrote:\n> The Shard, London\n> The card says \"card you play\", not \"you and your minions\". Since the cost can also be paid in blood, I assume the card interacts with minion's cards as well (not just Master cards)?\n>\nCorrect. Minion cards are played both by the Methuselah and the minion.\n\n> Palamedes wrote:\n> Mobile HQ, Operation Antigen\n> Is locking Mobile HQ to enter combat cost of the successful action, or is it locked when the action is announced?\n>\nName: Mobile HQ, Operation Antigen\n[FoL:1]\nCardtype: Master\nCost: 2 pool\nUnique location. Operation Antigen.\nAn Operation Antigen ally you control can lock this location to attempt to enter combat with a vampire as a +1 stealth  action. You can lock this location to add enough life to an Operation Antigen ally you control to reach their starting life. You can lock this location and burn 2 pool to cancel an action card that targets an Operation Antigen card you control as it is played; its cost is not paid.\n\nLock the card in order to announce the action.\n\n> Palamedes wrote:\n> Enhanced Coagulant\n> The strike works only against vampires? You can't deal 3 damage to an ally, right?\n>\nCorrect, there must be an \"opposing vampire\" in order to use the strike.\n\nName: Enhanced Coagulant\n[FoL:2]\nCardtype: Equipment\nCost: 1 pool\nWeapon.\nStrike: 3 unpreventable damage and put this card on the opposing vampire; it becomes a card with \"Cards requiring a Discipline cost this vampire +1 blood. After this vampire successfully hunts, burn this card\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106688"
+    },
+    {
+      "Author": "1muflon1",
+      "Date": "Feb 8, 2023, 2:31\u202FPM",
+      "Body": "this might be dumb question, but does enhanced coagulant work at long range? The card says strike not ranged strike, but as far as I know cards like entombment also have just strike there not ranged strike and they do work at range.",
+      "Id": "107342"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 8, 2023, 2:44\u202FPM",
+      "Body": "> 1muflon1 wrote:\n> does enhanced coagulant work at long range?\n>\nNo\n\n> 1muflon1 wrote:\n> The card says strike not ranged strike, but as far as I know cards like entombment also have just strike there not ranged strike and they do work at range.\n>\nThis is incorrect\n\nFor strikes to work at long range they MUST explicitly say \"ranged\" or use \"R\" (from the rules).\n\n> Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage\n>",
+      "Id": "107343"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Feb 12, 2023, 2:28\u202FPM",
+      "Body": "which is a perfect example of having the exception of \"unless it does \"R\" damage being a confusing thing for some people. we could just as easily make it an \"R\" strike and use the same Circle for the  action reminder.",
+      "Id": "107380"
+    },
+    {
+      "Author": "Xto316",
+      "Date": "Feb 22, 2024, 10:56\u202FPM",
+      "Body": "Can usa The Guardian ability with cards like On the Qui Vive or Wake the Evening\u2019s Fresh for example?",
+      "Id": "110767"
+    },
+    {
+      "Author": "Xto316",
+      "Date": "Jul 6, 2024, 7:02\u202FPM",
+      "Body": "Can i Use The Shard, London with Antoine D\u2019Erlette\u2019s ability with Nephandus ?",
+      "Id": "111940"
+    },
+    {
+      "Author": "Xto316",
+      "Date": "Jul 6, 2024, 7:05\u202FPM",
+      "Body": "Can i Use The Shard, London with Antoine D\u2019Erlette ability when i put a Nephandus in play?",
+      "Id": "111941"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 17, 2024, 9:04\u202FPM",
+      "Body": "> Xto316 wrote:\n> Can usa The Guardian ability with cards like On the Qui Vive or Wake the Evening\u2019s Fresh for example?\n>\nNo. \"Lock this card to do something\" requires the card to be unlocked in the first place, since it is a cost (\"to\").\n\"Lock this card. Do something.\" would be different, but it's not the case here.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112057"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 17, 2024, 9:06\u202FPM",
+      "Body": "> Xto316 wrote:\n> Can i Use The Shard, London with Antoine D\u2019Erlette\u2019s ability with Nephandus ?\n>\nYes, the same way you could use Powerbase: Tshwane (similar cardtext).\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/nbgHtblc8jc/m/vdxPu5hPxGIJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112058"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Jul 18, 2024, 5:10\u202FAM",
+      "Body": "Hi\n\nCould I ask why this work while disguised + vidal jarbeaux doesnt? Both cases you are not playing the card by definition of what played means inside the game, by detailed play summary. There is not an \"as played window\" on both cases but for vidal, it does check while the shard does not check while having played at text: \"If you have the Edge, you can lock this card to reduce the cost of a card you play by 2 pool or blood\"-\nI'm not trying to object a rulling, I'm just confused about when one applies and when it does not\n\nMany thanks in advance",
+      "Id": "112060"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Jul 18, 2024, 7:14\u202FAM",
+      "Body": "Camarilla: Vidal can meet the clan, sect, or non-infernal vampire trait (e.g., Black Hand) requirement to play any card. He can meet a given requirement only once each game. +1 bleed.\n\nDisguised Weapon\nObfuscate\nOnly usable before range is chosen if you have a weapon card in your hand.\nEquip this vampire with that weapon (and pay cost to equip as normal).\nAs above, but usable when choosing a strike.\n\nPowerbase: Tshwane\n\nMaster: unique location. Requires a ready Laibon.\nLock this location to reduce the cost of a card you play by 1 pool (this location is not locked if that card is canceled as it is played).\n\nThe main differences are that Vidal can PLAY cards, disguised and concealed weapon say EQUIP.\n\nShard and the Powerbase indicate cards that YOU ( the player) play, not vidal, which cover a broader range of cards. So for the Shard the condition of being a card played by you is fulfilled\n\nWhen you use Concealed weapon the card say equip the minion but it is not Vidal equipping with it, it's Concealed weapon card special card text, therefore Vidal ability is not checked and all the normal rules and restrictions for equipping must be fulfilled",
+      "Id": "112061"
+    }
+  ]
+}

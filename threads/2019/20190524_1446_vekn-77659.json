@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-77659",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77659-venenation-change-of-target-and-psychomachia",
+  "Title": "Venenation, Change of Target and Psychomachia",
+  "Messages": [
+    {
+      "Author": "Palamedes",
+      "Date": "May 24, 2019, 2:46\u202FPM",
+      "Body": "I need confirmation about Venenation, since the Change of Target text is changed.\nIs the combination Venenation (put the corrupt counter) and then Change of target valid?\n\nAlso, is the combination of Venenation and Psychomachia ( on both  and  ) works the same as combination above?\n\nWhat are other cards that work well with Venenation in this manner?\n\nThanks.\n\nVenenation\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Serpentis\nOnly usable when this acting minion is blocked, before combat begins.\nPlace a corruption counter on the blocking minion. If the number of your corruption counters on the minion equals or exceeds the blood capacity of that vampire or the cost of that ally, you may burn all of your corruption counters on that minion to gain control of him or her (combat is canceled). Otherwise, combat occurs as normal.\nAs above, but the cost of this card is reduced by 1 blood.\n\nChange of Target\nCardtype: Action Modifier\nOnly usable if this minion is blocked, before block resolution.\nUnlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nPsychomachia\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Daimoinon/Presence\nOnly usable when an ally or younger vampire successfully blocks before locking the blocker.\nCancel the current action and unlock this acting vampire. The blocking minion is not locked.\nThe block fails, and the action continues. The blocking minion cannot attempt to block this action again.\nAs  above, and the blocking minion takes 1 damage (damage not preventable).",
+      "Id": "95068"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2019, 4:05\u202FPM",
+      "Body": "Nothing has changed for that matter.\nAlso, if you play Change of Target first, you can't play Venenation since CoT ends the action.\n\nSee also groups.google.com/d/msg/rec.games.trading-cards.jyhad/Fhm2Zi2RZRU/K4FiHLWuSbMJ\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95070"
+    },
+    {
+      "Author": "Robba Yaga",
+      "Date": "May 24, 2019, 4:20\u202FPM",
+      "Body": "Not to be a fly in the ointment here, but it was a viable strategy originally and given the card text, it still seems viable.\n\nChange of Target: Only usable if this minion is blocked, before block resolution.\nPsychomachia: Only usable when an ally or younger vampire successfully blocks before locking the blocker.\nVenenation: Only usable when this acting minion is blocked, before combat begins.\n\nNeither CoT or Psy are mutually exclusive to Venenation by card text. They all require the minion gets blocked and that the action has not moved beyond the Block step. I don't see where Venenation cares whether the action gets canceled or not.\n\nSo, to be clear, if my minion performs some action that gets blocked and that minion plays Venenation, THEN CoT or Psy, it seems a valid play from card text.\n\nRY",
+      "Id": "95072"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2019, 10:25\u202FPM",
+      "Body": "> Robba wrote:\n> So, to be clear, if my minion performs some action that gets blocked and that minion plays Venenation, THEN CoT or Psy, it seems a valid play from card text.\n>\nCorrect (my first answer).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95075"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "May 26, 2019, 8:28\u202FPM",
+      "Body": "> Robba wrote:\n> I don't see where Venenation cares whether the action gets canceled or not.\n>\nYou have to play venenation first.\n\nVenenation cares if the action is cancelled simple because it is an action modifier.\nIf the action is canceled, there is no action left to modify.",
+      "Id": "95084"
+    }
+  ]
+}

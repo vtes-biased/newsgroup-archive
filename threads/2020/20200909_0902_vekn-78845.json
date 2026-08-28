@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-78845",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78845-contagion-corruption-counters-vs-strike-dodge",
+  "Title": "Contagion & Corruption Counters vs. Strike:Dodge",
+  "Messages": [
+    {
+      "Author": "Yomyael",
+      "Date": "Sep 9, 2020, 9:02\u202FAM",
+      "Body": "Hi all,\n\nassume the following situation: Player A has a Minion with a Contagion, Player B has a Mylan Horseed with a corruption counter from Player A. The counter was put there with a card not having the text to use the corruption counter to take control of Mylan.\n\nNow the minion with Contagion is in combat with Mylan and uses the strike Contagion allows them to place a corruption counter on Mylan. Mylan dodges. May Player A burn the already placed corruption counter to take control of Mylan? My guess is no, but I'm not 100% sure about this.\n\nContagion\n\n+1 stealth action. Requires an Infernal vampire. Unique.\nPut this card on the acting vampire. During each other Methuselah's unlock phase, he or she burns 1 pool if this vampire is ready.\nAs above, and once per combat, this vampire can put a corruption counter on the opposing minion as a strike. If the number of your corruption counters on the minion equals or exceeds the capacity of that vampire or the cost of that ally, you may burn all of your corruption counters on that minion to gain control of him or her after strike resolution (ending combat).\n\nMylan Horseed\n\nUnique changeling with 1 life. 0 strength, 1 bleed.Once each combat, Mylan can strike: dodge. He can unlock a ready non-Camarilla vampire with capacity 8 or more as a +1 stealth action. Mylan cannot block vampires.\n\nPrince of Bonn, Germany",
+      "Id": "100722"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 9, 2020, 4:58\u202FPM",
+      "Body": "Dodge protects the dodger from all effects of the opponents strike, including, in this case, the ability to burn corruption counters to take control of a minion.",
+      "Id": "100725"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 9, 2020, 5:39\u202FPM",
+      "Body": "> kschaefer wrote:\n> Dodge protects the dodger from all effects of the opponents strike, including, in this case, the ability to burn corruption counters to take control of a minion.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100726"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 20, 2022, 7:21\u202FAM",
+      "Body": "The \"steal\" effect is part from the Contagion strike. If you don't strike with the Contagion strike you cannot steal the opposing minion. It is not absolutely obvious from card text, though. Here's another ruling form LSJ: groups.google.com/g/rec.games.trading-cards.jyhad/c/wvuR79dNCDU/m/z4C2L5NCgg8J",
+      "Id": "104529"
+    }
+  ]
+}

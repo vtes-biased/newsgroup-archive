@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-81133",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81133-concoction-of-vitality-and-timming-after-completion-and-action-is-announced",
+  "Title": "Concoction of Vitality and timming after completion and action is announced",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Jan 11, 2024, 9:32\u202FPM",
+      "Body": "Concoction of Vitality prevents you from playing discipline cards until action is complete.\n\nDo I understand correctly that cards like Freak Drive and Forced March are played AFTER the action is completed, so you could play them?\n\nOr does a complete action include modifier and reactions only usable after resolution?\n\nEdit: I answer my self. And I recommend Google to search answers in this forum and site.\n\n> Cards and abilities that are usable only after a successful action are used after the action is completed, including any oustings. [RTR 19970630]\n>\nSo for this previous question, the answer is yes. You can play cards with disciplines after burning the Concoction of Vitality as long as they have a clause \"use after resolution\".\n\nAnd Reading RAW. Does Hag's Wrinkles [thn] works different? According to the wording you have to play it before resolution, although effect will trigger after resolution if successful\nI know you can play it after blocking resolution and before action resolution, but this wording would mean you could play it before blocking resolution for cycling. And also would mean that you can't play it if you have used Concoction of Vitality. Correct?\n\nAlso, I understand that you can play cards with disciplines if they have the clause \"Only usable as an action is announced\" like Shroud Mastery [NEC] as long as you play them before triggering the burn option of the Concoction of Vitality. Correct?\n\nConcoction of Vitality\n\nName: Concoction of Vitality\n[Sabbat:U, SW:PV, Third:PTr]\nCardtype: Equipment\nCost: 1 pool\nUnique equipment.\nWhen the vampire with this card announces an action, he or she may burn this card to prevent vampires from blocking that action. If he or she does so, this vampire cannot play cards requiring Disciplines until the action is complete.\nArtist: Ash Arnett\n\nFreak Drive\n\nName: Freak Drive\n[Jyhad:R2, VTES:R, CE:U/PV2, Anarchs:PG, LoB:PA2, Third:U, LotN:PR, KoT:PV3, HttB:PSam2, 25th:3, V5:PV6, NB:PV5]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Fortitude\nOnly usable after action resolution.\n[for] Only usable if the action was successful. Unlock this vampire.\n[FOR] Only usable if the action was blocked. Unlock this vampire.\nArtist: Daniel Gelon; Nilson; Ken Meyer, Jr.\n\nForced March\n\nName: Forced March\n[KMW:C/PAn2, LoB:PI4, LotN:PR, 25th:3]\nCardtype: Action Modifier\nDiscipline: Celerity & Fortitude\nA vampire can play only one Forced March each turn.\n[cel][for] Only usable after resolution of a successful action. Unlock this vampire.\n[CEL][FOR] +1 stealth. After action resolution, if the action was successful, this vampire can burn 1 blood to unlock.\nArtist: Steve Ellis\n\nHag's Wrinkles\n\nName: Hag's Wrinkles\n[BL:R1, LoB:R, HttB:PSam]\nCardtype: Action Modifier\nDiscipline: Thanatosis/Obfuscate\nOnly usable on an equip action.\n[obf] +2 stealth.\n[thn] Unlock this acting vampire if the action is successful.\n[THN] As [thn] above, but with +1 stealth.\nArtist: Mark Nelson\n\nShroud Mastery\n\nName: Shroud Mastery\n[FN:R2, POD:DTC]\nCardtype: Action Modifier\nDiscipline: Necromancy\n[nec] Only usable by a ready vampire other than the acting wraith. The acting wraith gets +1 stealth.\n[NEC] Only usable as an action to recruit or employ a wraith is announced. Unlock this vampire after action resolution if this action is successful.\nArtist: Richard Thomas",
+      "Id": "110329"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Jan 12, 2024, 12:05\u202FPM",
+      "Body": "Concoction is used on annoucement, in this time window only cancel, and reactions can be played, hag\u00B4s as a modifier don\u00B4t get the chance to be played if you pop the concoction\n\nDavid Resende - Prince of Teresina",
+      "Id": "110330"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jan 12, 2024, 11:37\u202FPM",
+      "Body": "Coyote, I'm afraid your analysis is incorrect because that 1997 wording is poorly worded (and so is Concoction).\n\nConcoction of Vitality says \"....this vampire cannot play cards requiring Disciplines until the action is complete.\"\n\n\"Complete\" does not mean resolved, it means fully concluded. Since Freak Drive is played while the action is ongoing, but after it resolves, using it is precluded while the Concoction effect lingers.\n\nOtherwise, you would be trying to play an action modifier when there is no action occurring and the world would explode where that to happen. I say that knowing full well there are times you can play reactions when there is no action occurring. Sometimes VTES is dumb,\n\nHag's Wrinkles has two possible timing options: 1) [thn] is played after resolution and 2) {THN] is played before resolution while stealth is still required to avoid a block. If you fire a Concoction, you may not play Hag's at either level since the equipment fires \"as announced\" and the effect lasts through \"the Freak Drive Window\" as described above.\n\nAs for Shroud Mastery, yes that works. Play the ally card, play Shroud Mastery, then fire the equipment (in that order) and you'll get the unlock after the ally is put in play.",
+      "Id": "110334"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 13, 2024, 4:34\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Coyote, I'm afraid your analysis is incorrect because that 1997 wording is poorly worded (and so is Concoction).\n>\n> Concoction of Vitality says \"....this vampire cannot play cards requiring Disciplines until the action is complete.\"\n>\n> \"Complete\" does not mean resolved, it means fully concluded. Since Freak Drive is played while the action is ongoing, but after it resolves, using it is precluded while the Concoction effect lingers.\n>\nCorrect. See also groups.google.com/g/rec.games.trading-cards.jyhad/c/S3ZSq9xwHpg/m/S6cK_TzN2A0J\n\n> TryDeflectingThisGrapple wrote:\n> Hag's Wrinkles has two possible timing options: 1) [thn] is played after resolution and 2) {THN] is played before resolution while stealth is still required to avoid a block.\n>\nNo, both are played before resolution. It would require explicit cardtext (that is lacking on the card) to be able to play it after resolution.\n\n> TryDeflectingThisGrapple wrote:\n> If you fire a Concoction, you may not play Hag's at either level since the equipment fires \"as announced\" and the effect lasts through \"the Freak Drive Window\" as described above.\n>\nCorrect.\n\n> TryDeflectingThisGrapple wrote:\n> As for Shroud Mastery, yes that works. Play the ally card, play Shroud Mastery, then fire the equipment (in that order) and you'll get the unlock after the ally is put in play.\n>\nCorrect for the [NEC] effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110337"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jan 13, 2024, 5:57\u202FPM",
+      "Body": "> Ankha wrote:\n> No, both are played before resolution. It would require explicit cardtext (that is lacking on the card) to be able to play it after resolution.\n>\nAh, yes. Odd that I hadn't grokked that before - thanks for the correction.",
+      "Id": "110340"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 14, 2024, 2:18\u202FPM",
+      "Body": "Thanks Ankha, although I would have appreciated being answered directly.\n\nIn that case this sentence\n\n> Cards and abilities that are usable only after a successful action are used after the action is completed, including any oustings. [RTR 19970630]\n>\nshould be corrected in this source webpage\n\nwww.vekn.net/general-rulings\n\nThat clearly sets that \"after successful/unsuccessful\" are played after the action was complete.\n\nAlso, I had the idea that clearly that kind of actions modifiers are played out of the action and that is why clearly says \"after successful...\"\nI think there was a situation where this was relevant. That you couldn't play a regular action modifier to cancel an \"after resolution\" reaction card played. The same, a reaction card against a modifier card played \"after successful\".\nAlso, if I am not on a mistake, you can't play regular action modifiers after playing an \"after successful\" card because you are no longer in an action.",
+      "Id": "110344"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2024, 6:57\u202FPM",
+      "Body": "> Coyote wrote:\n> Thanks Ankha, although I would have appreciated being answered directly.\n>\n> In that case this sentence\n>\n> > Cards and abilities that are usable only after a successful action are used after the action is completed, including any oustings. [RTR 19970630]\n> >\n> should be corrected in this source webpage\n>\n> www.vekn.net/general-rulings\n>\n> That clearly sets that \"after successful/unsuccessful\" are played after the action was complete.\n>\nDone.\n\n> Coyote wrote:\n> Also, I had the idea that clearly that kind of actions modifiers are played out of the action and that is why clearly says \"after successful...\"\n>\nNo. \"Action\" modifiers are played during an action to modify that action, not out of the action.\n\n> Coyote wrote:\n> I think there was a situation where this was relevant. That you couldn't play a regular action modifier to cancel an \"after resolution\" reaction card played. The same, a reaction card against a modifier card played \"after successful\".\n>\nCancelling cards is something very specific, I'm not sure what you are talking about.\n\n> Coyote wrote:\n> Also, if I am not on a mistake, you can't play regular action modifiers after playing an \"after successful\" card because you are no longer in an action.\n>\nRulebook: \"Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution.\"\n\nAfter the action has resolved, the action is not ended yet. Some action modifiers are played after action resolution (but still during the action), for instance Freak Drive:\n\nOnly usable after action resolution.\n[for] Only usable if the action was successful. Unlock this vampire.\n[FOR] Only usable if the action was blocked. Unlock this vampire.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110347"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 15, 2024, 8:11\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Coyote wrote:\n> >\n> > > Cards and abilities that are usable only after a successful action are used after the action is completed, including any oustings. [RTR 19970630]\n> > >\n> > >\n> >\n> Done.\n>\nThanks. Trying to pass the judge exam it is, sometimes, a pain with some inaccurate info from the webpages about rules. Also, the detailed play summary webpage should have a cleanup.\n\nwww.vekn.net/detailed-play-summary\n\n> > Coyote wrote:\n> > Also, if I am not on a mistake, you can't play regular action modifiers after playing an \"after successful\" card because you are no longer in an action.\n> >\n> Rulebook: \"Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution.\"\n>\nThanks, I missed the \"before action resolution\" part. That clears it.",
+      "Id": "110354"
+    },
+    {
+      "Author": "Tekorr",
+      "Date": "Aug 19, 2026, 6:38\u202FPM",
+      "Body": "So, can i play a freak drive or a voter captivation after using the concoction of vitality?\nSorry if It was clear i didn't understant it.",
+      "Id": "117598"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 19, 2026, 8:19\u202FPM",
+      "Body": "> Tekorr wrote:\n> So, can i play a freak drive or a voter captivation after using the concoction of vitality?\n> Sorry if It was clear i didn't understant it.\n>\nNo. After the action modifiers are still played during the action. Once an action is complete no more modifiers can be played.",
+      "Id": "117600"
+    },
+    {
+      "Author": "Tekorr",
+      "Date": "Aug 20, 2026, 12:25\u202FPM",
+      "Body": "Thanks",
+      "Id": "117603"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-48944",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/48944-who-plays-cards-minion-or-methusleah",
+  "Title": "Who plays cards? Minion or methusleah?",
+  "Messages": [
+    {
+      "Author": "Tdog",
+      "Date": "May 22, 2013, 3:36\u202FPM",
+      "Body": "My question is about cards like \"Visit from the Capuchin\" or \"Hukros\" or \"Agaitas\".\n\nVisit's counters are removed when you play a card. Is that a card the methusleh plays, such as an event or master? Or is that basically any card?\n\nHukros, for example, stores cards, but masters and events seem to be stuck on him forever if placed, because only HE can play stored cards at any time.\n\nAgaitas power seems to trigger when the methuselah plays a card. Again, ANY card, or just masters and events?\n\nThere was a debate last game over whether or not to remove a counter from capuchin when On the Qui Vive was played.",
+      "Id": "48944"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 22, 2013, 3:46\u202FPM",
+      "Body": "The Methuselah plays all the cards. Some cards are also played by the minion.\n\nMaster cards, event cards and conviction cards (i.e. not minion cards) are played by the Methuselah and not the minion.\n\nMinion cards are played by both the Methuselah and the minion. (Exception: Nosferatu Putresence, which isn't played by a minion at all, despite being a minion card. Those wacky Jyhad designers.)",
+      "Id": "48945"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 22, 2013, 4:22\u202FPM",
+      "Body": "Visit from the Capuchin's counters aren't removed when you play a card, but when you would replace a card.\n\n> Name: Visit from the Capuchin\n> [FN:R2, Third:R]\n> Cardtype: Master\n> Unique master.\n> Put this card into play with 4 counters on it. You get +X hand size, where X is the number of counters on this card. Each time you would draw to replace a card (not counting the card to replace the Visit), burn a counter from this card instead. Burn this card if it has no counters.\n>\nThat is, whenever you (Methuselah) would replace a card. It doesn't matter if it's a master or a minion card. It doesn't matter if you played the card or if it was played by a minion you control (note that, in this case, you - Methuselah - are still playing the card).\n\nVisit from the Capuchin triggers on any card that gets replaced, when it would be replaced (during the untap phase, for a Wake with Evening's Freshness, for instance).\n\nAgaitas triggers on any card that is replaced immediately (not Wake with Evening's Freshness, for instance).  [LSJ 20020718]\n\nYes, you should remove a counter from Visit from the Capuchin when you would replace the On the Qui Vive.",
+      "Id": "48950"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 23, 2013, 5:06\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> (Exception: Nosferatu Putresence, which isn't played by a minion at all, despite being a minion card. Those wacky Jyhad designers.)\n>\nI think you need a ready minion in order to play Nosferatu Putrescence.\n\nRulebook: \"Only a minion who meets the requirements given on a minion card can play it, while only a Methuselah who controls a ready minion who meets the requirements of a master card can play it.\"\n\"Minion Card: Any library card that is not a conviction, master or event card -- a card that a minion can play.\"\n\nand \"Whatever caused the combat, it is important to remember that only ready minions can participate in combat\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "48995"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 23, 2013, 5:54\u202FAM",
+      "Body": "> Ankha wrote:\n> I think you need a ready minion in order to play Nosferatu Putrescence.\n>\nIncorrect.\n\n[LSJ 19980407]\n>\n> LSJ wrote:\n> [Nosferatu Putrescence is... ] the only minion card that doesn't require a minion to play it (only a minion to play it on).\n>\nLSJ's reasoning\n>\n> LSJ wrote:\n> * Only minions in combat can play combat cards.\n> * NosPutr says that you can play it even if you aren't involved in the\n> current combat (overriding the rule above).\n> * The \"you\" above is the Methuselah, not any of her minions. (\"You\" is\n> used for players, \"this minion\" is used for minions.)\n>\n> The above, together, led me to beleive that NosPut was played as\n> some 'sort of \"out-of-phase\" Master Card that does not cost a\n> master phase action', as you put it.\n>",
+      "Id": "48999"
+    }
+  ]
+}

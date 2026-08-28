@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-67940",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/67940-smallpox-griet-and-additional-strikes",
+  "Title": "Smallpox Griet and additional strikes",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2014, 1:59\u202FPM",
+      "Body": "In the first round of a combat, Smallpox inflicts some hand damage on the opponent.\nIn the second round of that combat, Smallpox strikes: hand strike on the opponent and inflicts damage on him.\n\n1/ Is a pox counter added at that moment?\n\nSmallpox then gains an additional strike, and strikes: hand strike and inflicts damage on him.\n\n2/ Is a pox counter added at that moment?\n\nName: Smallpox Griet\n[Anarchs:U2]\nCardtype: Vampire\nClan: Nosferatu antitribu\nGroup: 3\nCapacity: 9\nDiscipline: thn ANI CEL OBF POT\nSabbat: If Smallpox successfully inflicts hand damage in consecutive rounds of a combat, the opponent gets a pox counter. A minion with any pox counters takes 1 damage during his or her untap phase. Burn all pox counters when Smallpox leaves the ready region.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67940"
+    },
+    {
+      "Author": "Erol",
+      "Date": "Dec 5, 2014, 4:09\u202FPM",
+      "Body": "1/ yes\n\n2/ no\n\nIMO the additional strike will not put more counters on it, as card text says round not strike.\n\nBut we will see what Pascal will say.\n\n- Prince of Karlsruhe, Germany",
+      "Id": "67941"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Dec 5, 2014, 5:37\u202FPM",
+      "Body": "From perspective it's clear: the cards says, during x do y. So only one counter per turn. And soon as damage is inflicted (typically during the strike resolution) in two (or more) consecutive rounds, the counter will be added (immediately).",
+      "Id": "67942"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 5, 2014, 7:30\u202FPM",
+      "Body": "> extrala wrote:\n> From perspective it's clear: the cards says, during x do y. So only one counter per turn. And soon as damage is inflicted (typically during the strike resolution) in two (or more) consecutive rounds, the counter will be added (immediately).\n>\nThe \"during X do Y\" only applies to the second part (\"take damage during the untap phase\"), not the first part where counters are added.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67943"
+    },
+    {
+      "Author": "milcsix",
+      "Date": "Dec 5, 2014, 9:59\u202FPM",
+      "Body": "It is irrelevant if the vampire will have 1 or 2 or even more counters. He/she will get only 1 damage either case...",
+      "Id": "67944"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 10, 2014, 8:33\u202FAM",
+      "Body": "1/ Yes.\n2/ Irrelevent, but it currently seems a second counter is added.\n\nAs noted by milcsix, a vampire wiht 18 pox counters will still only take 1 damage from pox counters.",
+      "Id": "68077"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2014, 9:31\u202FAM",
+      "Body": "> Pascal wrote:\n> 2/ Irrelevent, but it currently seems a second counter is added.\n>\nSo the \"if\" should be interpreted as a \"whenever\", right?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68080"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 10, 2014, 5:39\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Pascal wrote:\n> > 2/ Irrelevent, but it currently seems a second counter is added.\n> >\n> So the \"if\" should be interpreted as a \"whenever\", right?\n>\nIt appears the current cardtext for this card supports this interpretation.",
+      "Id": "68088"
+    }
+  ]
+}

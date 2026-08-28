@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-79435",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79435-dominion-and-attempt-to-block-unlock-cards",
+  "Title": "Dominion and attempt to block unlock cards",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 27, 2021, 4:07\u202FPM",
+      "Body": "Dominion\n\nMaster.\n\nPut this card on a Black Hand vampire. Vampires must burn 1 blood to attempt to block this Black Hand vampire. A vampire can have only one Dominion.\n\nIf vampire with Dominion anounce any action at +1 stealt action,vampire B play any card with text: unlock and attempt to block,but without intercept,so block immediately fail.\nDoes vampire B still need to burn blood due to play card with text: unlock and attempt to block?",
+      "Id": "103697"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 27, 2021, 4:43\u202FPM",
+      "Body": "> beslin wrote:\n> Dominion\n>\n> Master.\n>\n> Put this card on a Black Hand vampire. Vampires must burn 1 blood to attempt to block this Black Hand vampire. A vampire can have only one Dominion.\n>\n> If vampire with Dominion anounce any action at +1 stealt action,vampire B play any card with text: unlock and attempt to block,but without intercept\n>\nYes, be there a Dominion or not (Dominion only forces B to have blood to burn in order to be able to declare a block attempt).\n\n> beslin wrote:\n> ,so block immediately fail.\n>\nThe block doesn't immediately fail: the blocking minion can play intercept.\n\n> beslin wrote:\n> Does vampire B still need to burn blood due to play card with text: unlock and attempt to block?\n>\nYes. B MUST burn 1 blood to attempt to block. So if B does not have blood, he cannot attempt to block in the first place (and cannot play the card).\nIf B has blood, he must burn 1 blood when he attempts to block (that is when he plays the card).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103698"
+    }
+  ]
+}

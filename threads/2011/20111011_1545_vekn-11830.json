@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-11830",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/11830-anathema-x-tension-in-the-ranks",
+  "Title": "Anathema x Tension in the Ranks",
+  "Messages": [
+    {
+      "Author": "kleberjf",
+      "Date": "Oct 11, 2011, 3:45\u202FPM",
+      "Body": "Hi there!\n\nImagine the follow situation:\n\nThe Methuselah \u201CA\u201D has 01 pool. His vampire enters in combat with \u201CRabbat, The Sewer Goddess\u201D a vampire controlled by the Methuselah \u201CB\u201D. Rabbat has \u201CAnathema\u201D. On the first round of combat, as a strike, Rabbat goes to 0 blood and send the vampire controlled by the Methuselah \u201CA\u201D to torpor. So comes the question, what goes first, the Methuselah \u201CA\u201D loose his pool by the Tension effects or this Methuselah get the pool earned by the Anathema effects?\n\nTks,\n\nKleber Souza.\n\nTension in the Ranks\nType: Master\nUnique master.\nPut this card in play. Whenever a ready minion is burned or sent to torpor, his or her controller burns 1 pool. Any Methuselah can burn this card by discarding two master cards as a master phase action.\n\nAnathema\nType: Political Action\nRequires: prince,justicar\nRequires a prince or justicar.\nChoose a ready vampire. If the referendum is successful, put this card on that vampire. If the vampire with this card is reduced to zero blood in combat, he or she is burned, and the Methuselah controlling the opposing minion gains pool equal to the burned vampire's capacity.\n\nRabbat, The Sewer Goddess\nClan: Nosferatu (group 4)\nCapacity: 7\nDisciplines: ANI FOR OBF pot\nIndependent. Red List: Rabbat may send a vampire to torpor or burn an ally as a strike. If she hunts, you may move 1 of the blood she gains to your pool. She cannot take  actions or block actions that aren't directed at her or at a card on her.",
+      "Id": "11830"
+    },
+    {
+      "Author": "Erol",
+      "Date": "Oct 11, 2011, 8:08\u202FPM",
+      "Body": "Everything happens at the same time so the player stays alive with 5 pool.\n\nedit: I know there is a ruling from LSJ that stats effects that trigger at same window happen simoultaneously.\n\n- Prince of Karlsruhe, Germany",
+      "Id": "11833"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 11, 2011, 9:39\u202FPM",
+      "Body": "At the point where Rabbat declares a strike which reduces her blood to 0, she immediately burns from Anathema. The combat ends. The controller of Rabbat burns 1 pool to Tensions in the Ranks. The controller of the vampire opposite Rabbat does not go to torpor (strikes were not resolved because Rabbat exploded before then) and the controller of the minion opposing Rabbat gains 7 pool.\n\nSo...\nMeth A has 1 pool & Chump A\nMeth B has 10 pool & Rabbat + Anathema.\n\nAfter the situation described it will be:\nMeth A has 8 pool & Chump A is ready.\nMeth B has 9 pool.\n\n(But IANPB)\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "11835"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 11, 2011, 9:39\u202FPM",
+      "Body": "I disagree with you Erol, and I do agree with Juggernaut1981, if that is the actual setup.\n\nIf Rabbat plays a card that costs her last blood, she burns immediately with no delay (and the card won't resolve, if it is something like Pushing the Limit).\n\nThe effects of two strikes don't happen at the same time when one is dealing damage and the other is Rabbat's strike, unless Rabbat is losing blood to a strike that is not damage.\n\nRabbat's effect (go to torpor) happens in the resolve strikes window.\n\nRabbat's blood loss from the opponents strike happens in the resolve damage window.\n\nSee also:\nComplete Rules Reference\nSection 6.4.3.b\n\nResolve strikes. [6.4.3.2]\n\nApply effects of strike(s). Effects are applied simultaneously if the strikes are both of the same type (from step a).\nNOTE: Strikes are only effective at close range, by default. [6.4.3.2]\n\nPrevent damage and then resolve any unprevented damage (VII).\n\nVII.C.2.B - acting minion goes to torpor\nVII.C.2.C - Rabbat is burned.\n\nYou always resolve the effect of the strike before dealing with the damage.\n\nNow, if the acting minion played Theft of Vitae (or a similar strike) that resolves in VII.C.2.B, then the effects would be applied simultaneously, and the acting minions controller would order the effects.",
+      "Id": "11836"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 11, 2011, 9:44\u202FPM",
+      "Body": "I have to say, I've played too many Anathema decks to not know how it works. Nos Princes Hate You All is one of my favourites that uses Anathemas. Combined with Archons and ANI combat, you're usually schweeet for some nice pool gain from your prey or predator.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "11837"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 12, 2011, 6:24\u202FAM",
+      "Body": "> kleberjf wrote:\n> On the first round of combat, as a strike, Rabbat goes to 0 blood\n>\nCould you indicate how she goes down to 0 blood? By taking 1 damage from the opponent's strike?\n\n> Adonai wrote:\n> Now, if the acting minion played Theft of Vitae (or a similar strike) that resolves in VII.C.2.B, then the effects would be applied simultaneously, and the acting minions controller would order the effects.\n>\nNo. Both strikes resolve simulteanously, there is no ordering involved.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11845"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 12, 2011, 6:59\u202FAM",
+      "Body": "Thefts are actually always completed before taking damage.\n\nFor example:\nA 6 cap with 5 blood plays Theft of Vitae at . The opposing vampire has 2+ blood and makes a handstrike for 2. The  vampire will gain the 2 blood, keeping 1 and losing 1 to the blood bank (full vampire), and then take the handstrike for 2 resulting in them ending that round with 4 blood.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "11847"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 12, 2011, 7:52\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Thefts are actually always completed before taking damage.\n>\n> For example:\n> A 6 cap with 5 blood plays Theft of Vitae at . The opposing vampire has 2+ blood and makes a handstrike for 2. The  vampire will gain the 2 blood, keeping 1 and losing 1 to the blood bank (full vampire), and then take the handstrike for 2 resulting in them ending that round with 4 blood.\n>\nI guess you're answering my post.\nWhat you say may be true, depending on what you mean by \"taking damage\".\n\nSee rulebook 6.4.3:\n>\n> Resolve Strike. The effects of the strikes from both minions are resolved simultaneously.\n>\nTo be precise, regular (= non-first strike non-combat ends) strikes resolve at the same time.\n\nSteal blood moves blood from the target to the stealing minion.\nHand strike inflicts damage.\n\n*But* the fact that a minion burns blood for damage happens later, after the prevent damage step.\n\n> Note that the effects of a strike are applied and then damage is resolved. This timing is important for some special strikes, such as steal blood (see Strike Effects, sec. 6.4.5).\n>\nI maintain that there is no ordering of strike resolution left to either player.\nSome strikes resolve first:\n- combat ends\n- first strike\nOther strikes always resolve simulteanously.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11848"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Oct 12, 2011, 8:29\u202FAM",
+      "Body": "> Adonai wrote:\n>\n> You always resolve the effect of the strike before dealing with the damage.\n>\nThis is actually not true for strike: send to torpor. The details of this strike should be added to the rules reference. According to this ruling from LSJ: groups.google.com/group/rec.games.trading-cards.jyhad/msg/7d0124539875ebdb?hl=fr&lr=&ie=UTF-8 (Sorry don't know how to do the shortened version), a minion with a Wolf Companion who strikes with Coma to send to torpor will still have the Wolf Companion damage applied to her opponent. This ruling means that strike: send to torpor resolves after damage resolution and not before it, as other non-damaging strikes.\n\nI agree that if Rabbat burns a blood to declare her strike, then the strikes don't resolve since the combat ends immediately because of Anathema during strike declaration and Meth A's vampire is therefore not sent to torpor.\n\nIf Rabbat loses the blood due to the opposing vampire's strike (which is probably what the OP meant), then her burning and the other vampire going to torpor happen at essentially the same time. Rabbat loses the blood when \"each point of damage is resolved in turn\" (step A of damage resolution) and the other vampire goes to torpor when you \"check for vampires going to torpor or minions or retainers burning\" (step B of damage resolution), based on the Coma ruling. Either Rabbat burns first in step A, or she burns and the opposing vampire is sent to torpor simultaneously in step B. Either way, Methusaleh A is saved from being ousted by the pool from Anathema.",
+      "Id": "11849"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 12, 2011, 10:05\u202FAM",
+      "Body": "> Aaron wrote:\n>\n> > Adonai wrote:\n> >\n> > You always resolve the effect of the strike before dealing with the damage.\n> >\n> This is actually not true for strike: send to torpor. The details of this strike should be added to the rules reference. According to this ruling from LSJ: groups.google.com/group/rec.games.trading-cards.jyhad/msg/7d0124539875ebdb?hl=fr&lr=&ie=UTF-8 (Sorry don't know how to do the shortened version), a minion with a Wolf Companion who strikes with Coma to send to torpor will still have the Wolf Companion damage applied to her opponent. This ruling means that strike: send to torpor resolves after damage resolution and not before it, as other non-damaging strikes.\n>\n> I agree that if Rabbat burns a blood to declare her strike, then the strikes don't resolve since the combat ends immediately because of Anathema during strike declaration and Meth A's vampire is therefore not sent to torpor.\n>\n> If Rabbat loses the blood due to the opposing vampire's strike (which is probably what the OP meant), then her burning and the other vampire going to torpor happen at essentially the same time. Rabbat loses the blood when \"each point of damage is resolved in turn\" (step A of damage resolution) and the other vampire goes to torpor when you \"check for vampires going to torpor or minions or retainers burning\" (step B of damage resolution), based on the Coma ruling. Either Rabbat burns first in step A, or she burns and the opposing vampire is sent to torpor simultaneously in step B. Either way, Methusaleh A is saved from being ousted by the pool from Anathema.\n>\nThough I agree with much of what you say, there's no need to add strike: send to torpor (or paralyze ) to the rulebook.\n\nStrikes are resolved simulteanously.\nBlood theft will move blood.\nDamaging strike will assign damage (to be handled/queued).\nSend to torpor sends to torpor.\n\nThe thing is that the combat isn't over while there's still things queued (such as healing the damage).\n\nMinion A strike: send to torpor\nMinion B strike: hand damage for 1\n\nB is going to torpor. A has 1 damage to handle. Combat ends when A has finished handling its damage (at which point A ends with 1 less blood for example, and B ends in torpor).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11859"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 12, 2011, 10:22\u202FAM",
+      "Body": "Ankha ninjaed me. And he is right.\n\nMy explanation of same thing.\n\nStrikes resolve simultaneously (unless they are S:CE or dealt with First Strike).\n\nSo, Rabbat's send to torpor and some other vampires hand damage is dealt at the same time (unless Rabbat strikes with first strike).\n\nIf a vampire with anathema in 1 blood uses a combat card which costs blood, that vampire is burned immediately, ending combat.\n\nIf there are pending effects that need to be resolved (for example, rabbat has struck \"send to topor\" strike and opposing vampire is still ready, that vampire still goes to torpor before ending combat).\n\nIn the first post, if Rabbat uses a card which has blood cost triggering anathema when choosing a strike or before that, Rabbat burns and combat ends.\n\nIf Rabbat uses a card which costs blood during strike resolution (damage prevention or claws), anathema is triggered and Rabbat burns. At this point, there are still pending strike effects (Rabbat's strike), which means that opposing vampire goes to torpor.\n\nRabbat burns to anathema and opposing minion goes to torpor at the same time, so controller of Rabbat loses one pool and controller of opposing minion gain anathema and lose one pool.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "11860"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Oct 12, 2011, 4:17\u202FPM",
+      "Body": "> Ankha wrote:\n> Though I agree with much of what you say, there's no need to add strike: send to torpor (or paralyze ) to the rulebook.\n>\n> Strikes are resolved simulteanously.\n> Blood theft will move blood.\n> Damaging strike will assign damage (to be handled/queued).\n> Send to torpor sends to torpor.\n>\n> The thing is that the combat isn't over while there's still things queued (such as healing the damage).\n>\n> Minion A strike: send to torpor\n> Minion B strike: hand damage for 1\n>\n> B is going to torpor. A has 1 damage to handle. Combat ends when A has finished handling its damage (at which point A ends with 1 less blood for example, and B ends in torpor).\n>\nStrike: send to torpor should be added to the rules reference, along with other strikes like steal blood and destroy equipment.\n\nIf a minion in combat is no longer ready, combat ends immediately. Since strike resolution and damage resolution happen at different times in combat, if a minion goes to torpor during strike resolution, combat should skip the damage resolution step. The only reason it doesn't work that way is because of LSJ's ruling on Coma and Wolf Companion that I referenced.\n\nFor the sake of clarity, the rules reference should explain that strike: send to torpor is resolved when damage is resolved.",
+      "Id": "11875"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 12, 2011, 6:42\u202FPM",
+      "Body": "Sorry guys, I've been looking for the best ruling I could find.\n\n[url=http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/5d3b1e712c1246d5[/url][LSJ 20090411][/url] wrote:\n>\n> Strike resolution finishes before you start looking for vampire to go to torpor.\n>\nSo, in our case here:\n\nStrike declaration:\nRabbat declares a strike: send to torpor.\nOpposing guy declares a handstrike that would lower Rabbat down to 0 blood.\n\nStrike resolution:\nOpposing guy is going to torpor.\nRabbat reaches 0 blood, and is burned to Anathema. We are still in the strike resolution here.\n\nWe now have two trigered effects: the pool loos due to Rabbat's burning, and the pool gain due to Anathema triggering. The controler of Rabbat chooses which of these two comes first (but the other event will happen too, whichever is chosen first).\nWe then finish the strike resolution step, and the controller of Opposing guy burns 1 pool to Tension in the Ranks.",
+      "Id": "11881"
+    },
+    {
+      "Author": "kleberjf",
+      "Date": "Oct 12, 2011, 9:22\u202FPM",
+      "Body": "thank you all very much.\n\nKleber",
+      "Id": "11890"
+    }
+  ]
+}

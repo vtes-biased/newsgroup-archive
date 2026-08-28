@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-74941",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/news-and-announcements/74941-the-calendar-and-the-player-registry-are-back-online",
+  "Title": "The calendar and the player registry are back online",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "May 13, 2016, 8:24\u202FAM",
+      "Body": "Fellow players,\n\nThe VEKN modules had been unavailable since the site was upgraded to the latest version after the attacks that crashed the servers a few months ago.\n\nAs a consequence, the VEKN modules weren't compatible any more, and it's been a tedious task upgrading them.\n\nNow that they are available again, I strongly recommand that everyone checks that the events that took place since the crash are created and the results entered. This is important for some players that care for ranking, but also to have a list of qualified players up to date.\n\nIf you played an event that is not registered, please contact your local prince or the organizer of the event to have the results entered. I'm counting on everyone as I didn't receive all the results, and I rely on the organizers to have the job being done.\n\nThanks, and enjoy!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76888"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 17, 2016, 7:34\u202FAM",
+      "Body": "> Ankha wrote:\n> The VEKN modules had been unavailable since the site was upgraded to the latest version after the attacks that crashed the servers a few months ago.\n>\nAttacks!?\n\nSurely not directed against VEKN/VTES?\n\nFinnish  Politics!",
+      "Id": "76955"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2016, 9:08\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n>\n> > Ankha wrote:\n> > The VEKN modules had been unavailable since the site was upgraded to the latest version after the attacks that crashed the servers a few months ago.\n> >\n> Attacks!?\n>\n> Surely not directed against VEKN/VTES?\n>\nNo, this was a random attack exploiting a vulnerability.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76959"
+    },
+    {
+      "Author": "Bahamut810",
+      "Date": "May 18, 2016, 1:50\u202FPM",
+      "Body": "Question from the new people...\n\nHow does one get on the registry?",
+      "Id": "76968"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 18, 2016, 1:52\u202FPM",
+      "Body": "People get added to the registry when the participate to a tournament. The tournament organizer (usually a Prince) has access to the Prince forum and can ask for new VEKN ids to be created.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76969"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "May 18, 2016, 3:31\u202FPM",
+      "Body": "> Bahamut810 wrote:\n> Question from the new people...\n>\n> How does one get on the registry?\n>\nIn addition to what Ankha said:\n\nVEKN FAQ: www.vekn.net/v-ekn-faq\n\n2.8. How do I assign a V:EKN number to a new player?\n\nSearch the Player Registry for V:EKN numbers starting with your Prince prefix, sort them by \"V:EKN ID#\" and then choose the next V:EKN number available.\n\n2.9. How do I add a new player to the Player Registry?\n\nContact the Website Coordinator and send him the following information:\n1) Player's first name(s):\n2) Player's last name(s):\n3) City:\n4) State/province (optional):\n5) Country:\n6) E-mail address (optional):\n7) V:EKN ID# provided by his or her Prince (which is the general Prince prefix followed by 4 digits):\nVolunteers can check V:EKN numbers availability in the Player Registry.\n\nV:EKN Website Coordinator",
+      "Id": "76970"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "May 18, 2016, 9:17\u202FPM",
+      "Body": "Hi guys,\n\nSomething is going wrong. When you go to the calendar and browse to the date an event will take placce, it appears under the correct date. Once you click on the event's name to get more details the date shown on the top of the page is incorrect.\n\nPrince of Bonn, Germany",
+      "Id": "76973"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 19, 2016, 7:39\u202FAM",
+      "Body": "> Yomyael wrote:\n> Hi guys,\n>\n> Something is going wrong. When you go to the calendar and browse to the date an event will take placce, it appears under the correct date. Once you click on the event's name to get more details the date shown on the top of the page is incorrect.\n>\nIt's on my todo list, the date are 1 day off.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "76974"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 12, 2016, 5:52\u202FPM",
+      "Body": "I made a quick and dirty fix. The event detail should display the right date now.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "77185"
+    }
+  ]
+}

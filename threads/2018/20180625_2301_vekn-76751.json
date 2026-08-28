@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-76751",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76751-two-questions-that-recently-came-up",
+  "Title": "Two questions that recently came up",
+  "Messages": [
+    {
+      "Author": "mjvtes521",
+      "Date": "Jun 25, 2018, 11:01\u202FPM",
+      "Body": "Two questions came up during the tournaments I played in last weekend. Sorry if these have been answered already somewhere, but if they have, I couldn't find it.\n\nFirst, vampire A played an auspex card to block Ossian. The question was whether or not Vampire A could set the range to long before range was determined in the first round of the resulting combat. The set range part is neither a strike nor a maneuver, so I ruled that Vampire A could set the range to long, but would still not be able to strike. Was this correct? Here are relevant card texts:\n\nSniper Rifle\nEquipment\n2 Pool\n\nWeapon, gun.\n2R damage each strike. Only usable at long range. If the bearer blocks an action, he or she may, before range is determined, set the range for the first round of the resulting combat to long; if he or she does so, skip the determine range step that round, and the bearer's initial strike that round must be with this weapon.\n\nOssian\nAlly\n3 Pool\n\nUnique werewolf with 4 life. 2 strength, 0 bleed. Red List.\nOssian may enter combat with any vampire as a +1 stealth  action. In the first round of combat with a vampire who has played a card that requires Auspex during this action, that vampire cannot use any maneuvers or strikes. Ossian gains 1 life at the end of each round for each blood the opposing vampire used to heal damage or prevent destruction that round.\n\nSecond question: this never actually happened, but it almost did so the question came up. If Erlik is in play controlled by Player A and another copy of Erlik is brought into play controlled by Player B, does Player B get to move any blood from Erlik down to his or her other uncontrolled Harbingers before he contests the other copy? The question really is, does Erlik enter play before he is turned face down to contest, out of play? I think yes (otherwise, how would he contest another card in play) but a couple other players vehemently thought no. According to his card text, as he enters play, you immediately can move up to 5 of his blood down, so I thought that would happen before you flip him face down. Here is his actual card text:\n\nErlik\n[LK:3]\nCardtype: Vampire\nClan: Harbinger of Skulls\nGroup: 3\nCapacity: 10\nDiscipline: AUS CEL FOR NEC THN\nSabbat: As Erlik enters play, you can distribute up to 5 blood from him to any of your uncontrolled Harbingers of Skulls. +1 bleed. +1 hand size.",
+      "Id": "88387"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jun 25, 2018, 11:15\u202FPM",
+      "Body": "> mjvtes521 wrote:\n> First, vampire A played an auspex card to block Ossian. The question was whether or not Vampire A could set the range to long before range was determined in the first round of the resulting combat. The set range part is neither a strike nor a maneuver, so I ruled that Vampire A could set the range to long, but would still not be able to strike. Was this correct?\n>\nNo. Per this text from Sniper Rifle:\n>\n> the bearer's initial strike that round must be with this weapon.\n>\nBecause he cannot strike with the sniper rifle he cannot fulfill the must strike card text.\n\n> mjvtes521 wrote:\n> Second question: this never actually happened, but it almost did so the question came up. If Erlik is in play controlled by Player A and another copy of Erlik is brought into play controlled by Player B, does Player B get to move any blood from Erlik down to his or her other uncontrolled Harbingers before he contests the other copy?\n>\nYes. See similar text on Anarch Convert, which can make another vampire anarch and remove itself from the game prior to contesting.",
+      "Id": "88388"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Jun 25, 2018, 11:30\u202FPM",
+      "Body": "That Erlik thing will probably come up frequently for the next year. It's a good effect, worthy of a trifle master card for sure (hint hint).\n\nAnway:\n\nAnarch Convert\n[Caitiff] Caitiff\n\nCapacity: 1\n\nGroup: ANY\n\nIndependent. Anarch:\nWhen the convert enters play,\nYou may remove him from the game to make a non-titled vampire you control anarch and either gain 1 pool or draw 1 card from your crypt.\n\nBold/underlined timing is \"When enters play\" Erlik is \"as enters play\" which sounds even more like it's fine.\n\nI highly anticipate cross table conversations over who yields Erlik after both people burn option Legionnaires turn 2. I think I'll build with G5/6 for a bit. That way, if 3 Legionnaire decks are at the table, I'll win just by not taxing myself contesting",
+      "Id": "88389"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jun 26, 2018, 2:02\u202FAM",
+      "Body": "For the Sniper Rifle, here's a previous ruling:\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/cnJrGIiDqpw/FXlvs0gpFYkJ",
+      "Id": "88390"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 26, 2018, 8:40\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> Bold/underlined timing is \"When enters play\" Erlik is \"as enters play\" which sounds even more like it's fine.\n>\nAnarch Convert text will be reprinted using the \"as X enters play\" wording, that happens before contesting (it's similar to \"as the card is played\" for library cards).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88393"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jun 27, 2018, 10:07\u202FAM",
+      "Body": "> Ankha wrote:\n> Anarch Convert text will be reprinted using the \"as X enters play\" wording, that happens before contesting (it's similar to \"as the card is played\" for library cards).\n>\nWould it be clearer to use wording \"Instead of entering play, you may do X\"?\nI admit that its probably better to use existing word template for consistency, even if it isn't the most intuitive one.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "88407"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 27, 2018, 11:45\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > Anarch Convert text will be reprinted using the \"as X enters play\" wording, that happens before contesting (it's similar to \"as the card is played\" for library cards).\n> >\n> Would it be clearer to use wording \"Instead of entering play, you may do X\"?\n> I admit that its probably better to use existing word template for consistency, even if it isn't the most intuitive one.\n>\nThis would be a replacement effect, but \"instead of playing X, you may do Y\" are very odd with the current system.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88412"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Jun 27, 2018, 8:45\u202FPM",
+      "Body": "I have a sort-of-related question: How does this timming work with Sonja Blue. I remember there was a deck based on the technicality of \"vampires who contest don't enter play so\nsecond Sonja Blue is not removed\". Perhaps it's not even the same case but I always wondered about what was the secuence in that case.\n\nMany thanks in advance\n\nHere is actual ruling:\n\nWhen contesting Sonja Blue, the new copy provides 4 pool (for being played), then the old copy is removed from the game (for leaving play to be contested, by its own card text), and the new copy remains face down, out-of-play (it hasn't yet been in play), ready to be turned face up during her next untap phase, when the contest is won\n\nSonja Blue\n\nIndependent: Gain 4 pool when Sonja is moved to the ready region in your influence phase. Sonja may remove a vampire's title as a  action. She may block as an ally (but remains a vampire in combat). During your prey's discard phase, your predator may burn 1 pool to move Sonja to his or her ready region. If Sonja leaves play, remove her from the game.",
+      "Id": "88422"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 28, 2018, 6:48\u202FAM",
+      "Body": "> Nac wrote:\n> I have a sort-of-related question: How does this timming work with Sonja Blue. I remember there was a deck based on the technicality of \"vampires who contest don't enter play so\n> second Sonja Blue is not removed\". Perhaps it's not even the same case but I always wondered about what was the secuence in that case.\n>\n> Many thanks in advance\n>\n> Here is actual ruling:\n>\n> When contesting Sonja Blue, the new copy provides 4 pool (for being played), then the old copy is removed from the game (for leaving play to be contested, by its own card text), and the new copy remains face down, out-of-play (it hasn't yet been in play), ready to be turned face up during her next untap phase, when the contest is won\n>\n> Sonja Blue\n>\n> Independent: Gain 4 pool when Sonja is moved to the ready region in your influence phase. Sonja may remove a vampire's title as a  action. She may block as an ally (but remains a vampire in combat). During your prey's discard phase, your predator may burn 1 pool to move Sonja to his or her ready region. If Sonja leaves play, remove her from the game.\n>\nIt stays the same. Sonja gives you 4 pool as she enters play, etc.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88427"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Jun 28, 2018, 11:25\u202FAM",
+      "Body": "> Ankha wrote:\n> This would be a replacement effect, but \"instead of playing X, you may do Y\" are very odd with the current system.\n>\nCan you elaborate how would it be odd and in what context?\nReplacement effects are in my opinion a good way of doing things since its usually easy to figure out intuitively what is happening. Its either this or that. People are not left wondering which comes first. The question whether or not anarch convert would contest when coming into play before you are allowed to use its ability still occasionally comes up in our weekly games. And these are experienced players that forget the ruling because VTES simply has way too many rules to keep track of, and the card wordings themselves are not very intuitive.\n\nI think there is bit too much emphasis in the rules for creating an ordered sequence of events. There are many situations where it isn't really necessary and will just create obtuse card wordings or confusing situations. Complexity that doesn't add to gameplay depth should be avoided, as has been a topic of discussion in the past.\n\nHere I want to note the relative similarity of wordings\n\"as X enters play\" and\n\"as the card is played\"\nIt is very difficult for a beginner to tell what is the difference between these without referring to the rulebook(without looking I bet it isn't clarified there because lol rulebook). These kind of wordings or at the very least the artificial difference between them should be avoided in my opinion. We want a game where players can look at the cards and intuitively play them in the correct way with only a shallow understanding of the basic rules.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "88432"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 28, 2018, 1:30\u202FPM",
+      "Body": "> Bloodartist wrote:\n> Here I want to note the relative similarity of wordings\n> \"as X enters play\" and\n> \"as the card is played\"\n> It is very difficult for a beginner to tell what is the difference between these without referring to the rulebook(without looking I bet it isn't clarified there because lol rulebook).\n>\nThere are no difference between both for crypt cards (and non-action cards in general): you \"move that vampire face up to the ready region, unlocked.\" to play that vampire.\nAnarch Convert could be written \"As Anarch Convert is played, you can...\" but is it clearer? I find it more natural the way it is.\n\n> Bloodartist wrote:\n> These kind of wordings or at the very least the artificial difference between them should be avoided in my opinion. We want a game where players can look at the cards and intuitively play them in the correct way with only a shallow understanding of the basic rules.\n>\nI totally agree. But the exact moment a vampire is contested will always require some help from the rulebook (both options being valid, the rulebook has to define which one is the right one), whether you use \"enters play\" or \"is played\".\n\n> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > This would be a replacement effect, but \"instead of playing X, you may do Y\" are very odd with the current system.\n> >\n> Can you elaborate how would it be odd and in what context?\n>\nBecause it's odd to have a card that say: \"instead of playing that card, you can do something else\". Usually, you would rather play the card as usual and have the choice between two effects, for instance: \"I play Govern at superior\", not: \"Instead of playing a Govern, I trigger some kind of effect using the Govern\".\nThis is the same for crypt cards. Crypt cards are played by putting them into play. Then you have the choice to either leave the Anarch Convert in play, or to remove it from play for another effect. But you still play the Anarch Convert just like any other crypt card.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88434"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Jun 28, 2018, 2:44\u202FPM",
+      "Body": "Also, I have to remind you that changing \"When this minion enters play\" to \"Instead of playing this minions\" would change other effects that trigger \"after a minion enters play\", for instance, Hackerspace.\n\nIf we were to follow other game's wording, when should be uses as an \"Interruption\" for the entering in play: the minion enters, but quickly dissappears by an effect. After should be used for a reacton for the entering in play: the minon has entered, and is still in play, therefore I can react to it by gaining a counter on my hackerspace. By following this, the current wording of Anarch Convert wouldn't interact with Hackerspace. But, at the same time, having 2 different wordings playing in the same time doesn't make any sense: either when is before after, or we use the same wording for both. The same problem arouses with the \"As X enter play\", because \"As\" and \"When\" are interchangeable here, although it makes sense to use \"As\" if we are setting for a concrete wording.\n\nNow, if we were to set \"As\" as the wording to go here, we have to answer two questions:\n1\u00BA Do \"After X happens\" resolves at the same time that \"As X happens\"?\n2\u00BA Do \"After X happens\" resolves even if a \"As X happens\" changed X status, making it contradict the \"After X happens\"?\n\nIf the answer to the first question is yes, we have a problem, as it is confusing.\nIf the answer to the second question is yes, it can be a little confusing as it doesn't serve much purpose except for certain timing purposes (like on the actual Anarch Convert + Hackerspace interaction), so it could be one of those things that \"just are that way\".\n\nIMO, I think that there should be 2 different timings, As and After, with As happening at the same time that the trigger, and not stopping other As effects for triggering even if the condition changed; with After happening after all the As have been resolved, and being affected by them (probably stopping it from triggering); After should all happening simmultaneously and not affecting each other triggers (if effect X gains 1 pool after Y(playing a minion), and effect Z burns the minion after Y, effect Z doesn't stops effect X from giving you 1 pool); and finally, Contesting is an \"After\" effect, it is forced, but as it doesn't affect either \"As\" nor \"After\" resolving before or during its window, it could be considered that is resolved at the end of the \"After\" window.\n\nThis means that \"As the Anarch Convert\" enter play, it hits the ground, triggering all the As, then dissapears by its own trigger, stopping any \"After\" effect, including the contesting and the hackerspace.\n\nThe casual understanding of this is \"I played the Anarch Convert, so as it enter play I do X. Does it contest another anarch convert? No, because contest is after playing the anarch, and the anarch is no more\".\n\nJust my two cent.",
+      "Id": "88438"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 28, 2018, 8:35\u202FPM",
+      "Body": "> Ratadin wrote:\n> Also, I have to remind you that changing \"When this minion enters play\" to \"Instead of playing this minions\" would change other effects that trigger \"after a minion enters play\", for instance, Hackerspace.\n>\nIndeed.\n\n> Ratadin wrote:\n> Now, if we were to set \"As\" as the wording to go here, we have to answer two questions:\n> 1\u00BA Do \"After X happens\" resolves at the same time that \"As X happens\"?\n>\nNo, \"after\" (that is immediately after, with other \"after\" effects).\n\n> Ratadin wrote:\n> 2\u00BA Do \"After X happens\" resolves even if a \"As X happens\" changed X status, making it contradict the \"After X happens\"?\n>\nNo, there is no contradiction in that case: both effects happen (even if the Anarch Convert is no longer there).\nNow, if we consider an effect such as \"When the Anarch Convert would enter play, you can remove it from the game instead\", then the Anarch Convert never enters play, and \"after X enters play\" effects don't trigger.\n\nPlease see www.vekn.net/forum/rules-questions/76594-lost-kindred-faq#86769 for timings.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88445"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Jun 28, 2018, 10:39\u202FPM",
+      "Body": "Aaaah, that's what I was getting wrong.\n\nI understood \"As X happen, do Y\" as \"When X happen, do Y\", which explain my understanding of the effect denying the \"After\" trigger.\n\nGreat then. A flowchart for the future rulebook would be awesome to pinpoint these conflicts instantly (one going along the lines of the FAQ you just shared, for instance).",
+      "Id": "88451"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 29, 2018, 7:03\u202FAM",
+      "Body": "> Ratadin wrote:\n> Aaaah, that's what I was getting wrong.\n>\n> I understood \"As X happen, do Y\" as \"When X happen, do Y\", which explain my understanding of the effect denying the \"After\" trigger.\n>\n> Great then. A flowchart for the future rulebook would be awesome to pinpoint these conflicts instantly (one going along the lines of the FAQ you just shared, for instance).\n>\nThe difference is not in the usage of \"as\" or \"when\", but rather if \"would ... instead\" is used or not.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88453"
+    }
+  ]
+}

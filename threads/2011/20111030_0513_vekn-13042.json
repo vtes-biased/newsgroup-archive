@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-13042",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/13042-blissful-agony-vs-allies",
+  "Title": "Blissful Agony vs allies",
+  "Messages": [
+    {
+      "Author": "Haze",
+      "Date": "Oct 30, 2011, 5:13\u202FAM",
+      "Body": "We had this situation today, where a Salubri Antitribu used superior Blissful Agony against many attacking Shambling Hordes (very Halloween themed). after an observer carefully read the card, we realized for the first time ever that it says opposing vampire, and we had to rewind several extra combats that should never have taken place! no more sending war ghouls and shamblers after your enemies! (yay/boo)\n\nWhat I'm wondering about this has to do with the way the superior effect is worded. I think it could be argued that you can not even play the S:CE at all if the opposing minion is an ally, much like the restriction on Taste of Vitae. neither card says \"if the opposing minion is a vampire\" but just says \"the opposing vampire\". also, the blissful agony extra combat is not optional (unlike form of mist)\n\nso against allies: does the superior do just S:CE and nothing extra? or not allowed to be played for S:CE at all?\n\nBlissful Agony [BL:R1, LoB:R]\nCardtype: Combat\nCost: 1 blood\nStrike: make a hand strike at +1 damage.\nOnly usable at close range before strikes are chosen. Opposing minion\ntakes 1 unpreventable damage during strike resolution each round this combat\nwhen the range is close. A vampire may play only one Blissful Agony at [val]\neach combat.\nStrike: combat ends. Choose a minion controlled by a Methuselah other\nthan the opposing vampire's controller. The opposing vampire enters combat\nwith that minion.  Taste of Vitae\nType: Combat\nOnly usable at the end of a round of combat. Not usable by a vampire going into torpor. This vampire gains an amount of blood equal to the amount lost by the opposing vampire to damage during this round of combat. A vampire can play only 1 Taste of Vitae each round.",
+      "Id": "13042"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 30, 2011, 8:59\u202FAM",
+      "Body": "You can't play Blisful Agony vs an ally at VAL at all (same as Taste of Vitae vs an ally).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "13045"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Oct 30, 2011, 1:40\u202FPM",
+      "Body": "I disagree.\n\nPascal, will you provide a ruling?\n\n> Strike: combat ends.\n>\nThe strike is pretty unambiguous and is always applicable when not restricted by Immortal Grapple/NSA Trio.\n\nThe extraneous effects clearly do not apply to allies, but they do not restrict the playing of the strike.",
+      "Id": "13049"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Oct 30, 2011, 7:07\u202FPM",
+      "Body": "I agree the statement is ambiguous, as it doesn't state the requirement of an opposing vampire to end combat.",
+      "Id": "13057"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 30, 2011, 7:07\u202FPM",
+      "Body": "S:CE will succeed, it is not \"S:CE and do X\" it is \"S:CE\". \"Now do X\". So everything after the S:CE will fail.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "13058"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 1, 2011, 9:18\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> S:CE will succeed, it is not \"S:CE and do X\" it is \"S:CE\". \"Now do X\". So everything after the S:CE will fail.\n>\nNo, that's not true. (I've been trying to find actual precedent for the last day or so...)\n\nThe precedent is Illusions of the Kindred.\n\n[RTR 20000501]\n>\n> That wrote:\n> Illusions of the Kindred cannot be played if your Crypt is empty,\n> by the general ruling against playing effects that choose/target\n> something when there is no \"something\" to choose/target. This is\n> a reversal of the previous Illusions of Kindred ruling, making it\n> match the general ruling.\n>\nThe (relevant) text of Illusions of the Kindred is:\n>\n> Illusions wrote:\n> Combat ends. Move the bottom card of your crypt to your ready region.\n>\n(This is a slight change from the original wording to clarify which vampire is taken, but that was still \"Combat Ends. Move....\")\n\nYou don't get to partially play a card and have it fizzle part way through if there aren't legal targets for all mandatory effects. (Though targets may disappear part-way thruogh an unresolved action, you need all mandatory targets to be there when declaring the whole effect. The same could apply to strikes, if there was some way of making an opponent ineligible.)\n\nErgo, Blissful Agony (superior) cannot be played when in combat with an ally.",
+      "Id": "13138"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 1, 2011, 9:47\u202FAM",
+      "Body": "@James: It has been a long principle of card interpretation that different sentences are different resolution effects of the same card. (e.g. Psyche! vs Rotschreck). So while you cannot choose an 'opposing vampire' it doesn't exclude the S:CE effect; they are not conjoined into an \"and\" effect.\n\nThe mechanics of Illusions of the Kindred (creating a false vampire from your own crypt to enter combat to replace the CHI-using vampire) should be an exception to the general principle rather than cornerstone for the rest.\n\nAs has been stated there is no \"Only usable in combat with a X\", I'd be happy to interpret Illusions of the Kindred as having \"Only usable if there is are crypt cards in your Crypt\" instead of breaking the principle that full-stops separate effects.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "13140"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Nov 1, 2011, 9:48\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> The same could apply to strikes, if there was some way of making an opponent ineligible.)\n>\nThere is way to do it, and it's called infernal familiar.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "13141"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 1, 2011, 10:28\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> @James: It has been a long principle of card interpretation that different sentences are different resolution effects of the same card. (e.g. Psyche! vs Rotschreck). So while you cannot choose an 'opposing vampire' it doesn't exclude the S:CE effect; they are not conjoined into an \"and\" effect.\n>\nThere's no such thing as the rule you are inventing concerning an \"and\" effect.\nThe only particuliar structures of sentence that exist are \"Do X to do Y\" and \"During X, do Y\".\n\nAs jamesatzephyr pointed out, whether there is an \"and\" or not changes nothing. You can't play a card \"partially\".\n\nBTW, the question have already been answered by LSJ (but by MP) www.veknfrance.com/forum/viewtopic.php?t=12697 (in French)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "13146"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 1, 2011, 12:07\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> It has been a long principle of card interpretation that different sentences are different resolution effects of the same card.\n>\nYou're extremely confused about the difference between several things written on the same card happening in a sequence (which can be interrupted), and having to fully declare the entire effect including legal targets when you play a card.\n\n> Juggernaut1981 wrote:\n> The mechanics of Illusions of the Kindred (creating a false vampire from your own crypt to enter combat to replace the CHI-using vampire) should be an exception to the general principle rather than cornerstone for the rest.\n>\nNo, as stated, Illusions of the Kindred was moved back to fit the general ruling on this issue. Previously, it was an exception.\n\nYour claims are spurious.",
+      "Id": "13156"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 5, 2011, 11:49\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> You don't get to partially play a card and have it fizzle part way through if there aren't legal targets for all mandatory effects. (Though targets may disappear part-way thruogh an unresolved action, you need all mandatory targets to be there when declaring the whole effect. The same could apply to strikes, if there was some way of making an opponent ineligible.)\n>\n> Ergo, Blissful Agony (superior) cannot be played when in combat with an ally.\n>\nI tend to follow this logic - can't play a card to have it partially fizzle.\nI'm looking for other examples - or situations where this ruling couldn't apply.\n\nRegarding R\u00F6tschreck, the course is different. You play it and would have it fully applied, but something (Psyche!, in your example) interrupts its resolution, just as Telepathic Tracking could interrupt Illusions of the Kindred's resolution.",
+      "Id": "13409"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 5, 2011, 12:52\u202FPM",
+      "Body": "> Pascal wrote:\n> I tend to follow this logic - can't play a card to have it partially fizzle.\n>\nAlong the same lines.\n\nV:TES printing of Second Tradition: \"Requires a ready Prince or Justicar. Only usable by a tapped vampire. Untap this vampire. This reacting vampire gets +2 intercept.\" Can't play it just to untap (one sentence) and have the intercept fizzle (next sentence).  [LSJ 19970707]",
+      "Id": "13412"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-63003",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/63003-second-tradition-domain-vs-form-of-mist",
+  "Title": "Second Tradition: Domain vs Form of Mist",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2014, 7:34\u202FAM",
+      "Body": "I couldn't find an official answer (only groups.google.com/d/topic/rec.games.trading-cards.jyhad/uV4jT0IZfeU/discussion)\n\nHow long does the +2 intercept effect applies when Second Tradition is played by a tapped vampire?\n\nThe text is likely ambiguous:\n\n\"to untap and attempt to block with +2 intercept\"\n\nThe +2 intercept bonus is linked to the block attempt, but nothing says it lasts for the duration of the action.\n\nSo if the vampire blocks, and the acting vampire plays Form of Mist*, one could say that if the blocking minion plays a wake effect, the +2 intercept is lost.\n\n*: there could be already a loophole here since one could consider the blocking minion has already lost his +2 intercept, and therefore Form of Mist can't be played.\n\nThis concerns also Guard Duty, Open Dossier, Read the Winds, Under Siege.\n\nThe real thing that interests me is: how can it last for the duration of the action?\n\nIs there a better way to formulate this? For instance: \"Also usable by a tapped prince or justicar, even if intercept is not yet needed, to burn a blood to untap and attempt to block with +2 intercept {for the current action}\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63003"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 5, 2014, 8:11\u202FAM",
+      "Body": "The intercept granted by Second Tradition: Domain, Guard Duty, Open Dossier, Read the Winds and Under Siege lasts for the whole action, rather than for the current block attempt.",
+      "Id": "63004"
+    },
+    {
+      "Author": "Fran\u00E7oisV",
+      "Date": "Jun 5, 2014, 8:11\u202FAM",
+      "Body": "From the online rulebook :\n\n> Note that all modifications made to a minion's stealth or intercept remain in effect for the duration of the action. Increased stealth and intercept return to normal after the action is resolved.\n>",
+      "Id": "63005"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2014, 10:56\u202FAM",
+      "Body": "> Fran\u00E7oisV wrote:\n> From the online rulebook :\n>\n> > Note that all modifications made to a minion's stealth or intercept remain in effect for the duration of the action. Increased stealth and intercept return to normal after the action is resolved.\n> >\nDoes it mean that Backways' text is superfluous?\n\nName: Backways\nCardtype: Master\nClan: Gangrel\nCost: 2 pool\nMaster: unique location.\nTap to give a Gangrel you control +1 stealth for the current action.\n\nSame thing with The Anarch Free Press, Anarch Railroad, Aranthebes, Bowl of Convergence, Carnivale, Changeling Skin Mask, Channel 10, Club Zombie, Corpse Minion, Elysian Fields, Enid Blount, Fortune Teller Shop, The Labyrinth, London Evening Star, Tabloid Newspaper, Malajit Chandramouli, Marciana Giovanni, Investigator, New Moon Sigil, Opium Den, ...\n\n(but curiously not KRCG News Radio:\nName: KRCG News Radio\n[Jyhad:U, VTES:U, CE:U, LoB:PA, LotN:PG, KoT:U/PB]\nCardtype: Master\nCost: 2 pool\nMaster: unique location.\nTap to give +1 intercept to a minion you control, or tap this location and burn 1 pool to give +1 intercept to a minion controlled by another Methuselah.\n)\n\nWhat about The Horde, Census Taker, Miguel Santo Domingo that grand a temporary +X bleed or +X votes?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63009"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jun 5, 2014, 11:58\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Fran\u00E7oisV wrote:\n> > From the online rulebook :\n> >\n> > > Note that all modifications made to a minion's stealth or intercept remain in effect for the duration of the action. Increased stealth and intercept return to normal after the action is resolved.\n> > >\n> > >\n> >\n> Does it mean that Backways' text is superfluous?\n>\nYes. For example, Twisted Forest:\nTap to give a Gangrel antitribu you control +1 stealth.\n\n> Ankha wrote:\n> What about The Horde, Census Taker, Miguel Santo Domingo that grand a temporary +X bleed or +X votes?\n>\nAll three of those specify \"for the current action\".\n\nThose without a specific duration work the same way as the last time you asked.  [FZD 20130827]",
+      "Id": "63010"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 5, 2014, 2:28\u202FPM",
+      "Body": "I forgot my previous post. Thanks!\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "63012"
+    }
+  ]
+}

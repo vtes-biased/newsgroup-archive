@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-58976",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/58976-latest-official-archon-1-5a-doesn-t-work-on-latest-openoffice-or-libreoffice",
+  "Title": "Latest official Archon (1.5a) doesn't work on latest OpenOffice or LibreOffice",
+  "Messages": [
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 1, 2014, 12:52\u202FPM",
+      "Body": "Just to see if the situation had improved, I downloaded a fresh copy of the latest Archon (1.5a) off this website, and installed the latest versions of OpenOffice and LibreOffice on my Macbook, and took a look at how Archon worked on both of them.\n\nResult: broken on both.\n\nOpenOffice: the \"Tournament Info\" row for \"number of rounds\" presents you with a dropdown for tournament type instead, making it impossible to enter the number of rounds. There may be other bugs, but that's the showstopper I ran into first.\n\nLibreOffce: most calculations ralating to table seating and standings fail, with \"##\" in the column and an error message.\n\nThe old Archon (1.3) seems to work on OpenOffice, but fails in some way (don't remember exact problem) with LibreOffice.\n\nSo, we have a situation in which a new tournament organizer is pretty much screwed. If he/she downloads the official Archon from this site and tries to use it with current versions of either of the popular Office replacements, things will fail. Possibly so that the problem is only noticed during tournament setup, leading to angst.\n\nDoes anyone have the time and the spreadsheet knowhow to fix the situation? This is very annoying, even to us old organizers: apparently the combo of 1.3 + OpenOffice is the only one that currently works, with latest office software versions.\n\nOf course, if *could* just be an OS X thing, but I doubt it, I remember running into serious problems on Linux also some time back.",
+      "Id": "58976"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 1, 2014, 1:32\u202FPM",
+      "Body": "Didn't we have this problem during the December tournament in Helsinki.\n\nLuckily I was able to use an older Archon file to make things work but it caused some unnecessary delay. And plenty of frustration and unnecessary crankiness.\n\nFinnish  Politics!",
+      "Id": "58978"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 10:50\u202FAM",
+      "Body": "Ok, looking more into this.\n\nOn latest OpenOffice (4.0.1) on Linux, it's actually quite easy to get things to work. The problem there is that cell $B$11 on \"Tournament Info\" is linked to the \"Tournament Format\" dropdown for some weird reason (it isn't linked to it when opened with LibreOffice, for example, which is bizarre).\n\nFix: go to that cell, choose \"Data > Validity\" from menu, and set the data range to numerical. After than you can set the number of rounds, and things work.\n\nWhy does this happen specifically on OpenOffice? No idea.\n\nOn latest LibreOffice (4.2.0.4) on Linux, a different problem, and less obvious on how to fix. Here, the above bug does not manifest, the \"Number of rounds\" cell is a normal one and not a dropdown.\n\nHowever, the calculations which do the table seating (etc) are failing. All \"Round N\" sheets have just \"##\" in the \"#\" column (and no player names), and if a \"#\" cell is selected the error message \"Error: not a valid reference\" appears.\n\nThe problem seems to be in this calculation:\n\n=IF(ISBLANK($'Tournament Info'.$B$11),\"\",INDIRECT(\"'Optimal Seating \"&$'Tournament Info'.$B$11-1&\"R+F'!A7\"))\n\n(taken from first row of Round 1 sheet)\n\nApparently that INDIRECT calculation is not valid in LibreOffice, but I have no idea what's wrong with it. My spreadsheet-fu is limited",
+      "Id": "59115"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 11:44\u202FAM",
+      "Body": "Ok, some more investigation.\n\nthe formula inside that INDIRECT results in stuff like this:\n\n'Optimal Seating 3R+F'!A7\n\nWhich seems to be something called a \"3-D reference\", which is used to do calculations across a set of sheets. However, here there is only one sheet, so I have no idea why a 3D ref is used. In any case, that reference is not valid (for some reason) in LibreOffice 4.2, even though it apparently is ok in OpenOffice 4.0.2 (and Excel, I presume).\n\nIf I change that reference to form\n\n'Optimal Seating 3R+F'.A7\n\n(i.e. ! -> .)\n\nthings start to work. Wheee! So now to see if I can generate a new version of 1.5 which actuall works in OpenOffice / LibreOffice.\n\nI still have no idea of how this stuff actually works, I have close to zero experience with Excel formulas. But hey, Google.",
+      "Id": "59118"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 11:55\u202FAM",
+      "Body": "Now to figure out how to change 200-ish lines of functions (per page), replacing ! with .\n\nDon't intend to do it manually...\n\nAdded: ah, find+replace. Too simple",
+      "Id": "59119"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 12:39\u202FPM",
+      "Body": "Sigh, I can apparently make the changes, but actually saving the modified version in OpenOffice or LibreOffice (in .xls format) introduces various weird display bugs. Sigh.\n\nGuess I'll have to try to dig up a copy of Excel to do the changes, assuming I find one.",
+      "Id": "59121"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Feb 11, 2014, 1:07\u202FPM",
+      "Body": "Can't we just get archon in modern, open format ?\n\nAlways when you use shit m$ products, problems arise.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "59123"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 1:44\u202FPM",
+      "Body": "Well, it's not just an MS problem, I'm also getting weird issues even if I save and work in .ods format; OpenOffice and LibreOffice have compaibility issues with each other (at least on this level, since Archon uses some non-trivial function stuff). And of course, Excel is different in yet other ways. Sigh.",
+      "Id": "59126"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 1:45\u202FPM",
+      "Body": "Also: I'm not sure how the vekn.net Archon upload handles .ods format. (?)",
+      "Id": "59127"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 2:24\u202FPM",
+      "Body": "Ok, I managed to create a new .xls version (1.5b) of the Archon which now seems to work with the latest OpenOffice and LibreOffice (at least on Linux). The problem is, I have no idea of whether it works in other environments and/or Excel itself -- I don't have access to a copy at the moment.\n\nYou can download a copy from\n\nwww.orava.org/vekn/thearchon1.5b.zip\n\nand try it out. Let me know if it works for you\n\nPlease do not use this to run a tournament before making sure it actually works on your setup (OS & office software combo)!\n\nFor reference, the changes are:\n\n- Fixed the data validation on Tournament Info cell B11 to be numeric 3-4\n- Changed the INDIRECT formulas on the Table N sheets to use '.' instead of '!'\n- Some tweaks to line heights etc to fix display bugs probably caused by .xls file import/export in OpenOffice",
+      "Id": "59128"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 11, 2014, 3:35\u202FPM",
+      "Body": "> PetriWessman wrote:\n> - Changed the INDIRECT formulas on the Table N sheets to use '.' instead of '!'\n>\nI've juste tested the archon using Office Plus 2010, this change breaks the archon.\nIf I change back the =SI(ESTVIDE('Tournament Info'!$B$11);\"\";INDIRECT(\"'Optimal Seating \"&'Tournament Info'!$B$11-1&\"R+F'.A7\")) formula to\n=SI(ESTVIDE('Tournament Info'!$B$11);\"\";INDIRECT(\"'Optimal Seating \"&'Tournament Info'!$B$11-1&\"R+F'!A7\"))\n\nit works again.\n\nA way to make it work on both systems is still to be found.\n\nEDIT: 'SI' stands for 'IF' and 'ESTVIDE' for ISEMPTY'. Thanks you Excel for localizing the formulas\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "59129"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 11, 2014, 3:38\u202FPM",
+      "Body": "See if you can make it work using the ADDRESS function:\n\nwww.oooforum.org/forum/viewtopic.phtml?t=85679\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "59130"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 3:58\u202FPM",
+      "Body": "Ok, thanks.. Hmph. Maybe someday we'll figure out a version which works on all systems.",
+      "Id": "59131"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 11, 2014, 4:42\u202FPM",
+      "Body": "> Ankha wrote:\n> See if you can make it work using the ADDRESS function:\n>\n> www.oooforum.org/forum/viewtopic.phtml?t=85679\n>\nOk, thanks, will have to look into that when I have time.",
+      "Id": "59132"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 13, 2014, 5:01\u202FAM",
+      "Body": "> Ankha wrote:\n> A way to make it work on both systems is still to be found.\n>\nI think open office should be the priority one since it is free and thus available to everyone\n\nFinnish  Politics!",
+      "Id": "59148"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Feb 13, 2014, 6:39\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n>\n> > Ankha wrote:\n> > A way to make it work on both systems is still to be found.\n> >\n> I think open office should be the priority one since it is free and thus available to everyone\n>\nWell, the version I \"posted\" here (see link) works in current OpenOffice and LibreOffice, so for now that's an interim solution (though, as noted, I haven't extensively tested it yet).\n\nOf course, two separate versions is far from ideal, so I'll try to figure out a solution that also works in Excel as soon as I have time.",
+      "Id": "59149"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 23, 2014, 6:58\u202FPM",
+      "Body": "EDIT: La-dee-dum-dum\n\nFinnish  Politics!",
+      "Id": "59349"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Mar 2, 2014, 6:41\u202FAM",
+      "Body": "ADDRESS function should work on all systems properly when making references to other sheets.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "59538"
+    }
+  ]
+}

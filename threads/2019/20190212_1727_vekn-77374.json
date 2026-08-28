@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-77374",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77374-change-of-target-obedience-inf",
+  "Title": "Change of target/obedience inf",
+  "Messages": [
+    {
+      "Author": "Timo",
+      "Date": "Feb 12, 2019, 5:27\u202FPM",
+      "Body": "Ok, here is the texts of change of target and obedience inferior :\n\nName: Change of Target\n[Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, LoB:PG2/PI2, KoT:U/PM3, SP:LB4]\nCardtype: Action Modifier\nOnly usable if this minion is blocked, before block resolution.\nUnlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nName: Obedience\n[Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U, HttB:PKia3, SP:PoS2]\nCardtype: Reaction\nDiscipline: Dominate\nOnly usable when this vampire is about to enter combat with an acting younger vampire.\n[dom] Unlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn.\n\nNow let's imagine several cases of blocked actions followed by change of target or obedience inf :\n1 : vamp A hunt\ncan A play another sort of hunting (e g A play an abactor if A was hunting without card)\n\n2 : vamp A hunt on vamp B with Restricted Vitae\ncan A hunt on Vamp C with restricted vitae ?\ncan A hunt on vamp B with week of nightmare ?\n\nName: Restricted Vitae\n[Gehenna:R, KMW:PAn]\nCardtype: Event\nGehenna. Do not replace until a vampire successfully hunts.\nVampires cannot hunt unless forced to hunt. A vampire who must hunt may hunt by stealing a blood from a younger vampire as a  action instead of performing the usual hunt action.\n\nName: Week of Nightmares\n[FN:R, LotN:PR]\nCardtype: Master\nClan: Ravnos\nMaster.\nPut this card in play with 10 nightmare counters. Ravnos get +1 bleed and +1 strength and do not hunt as normal. A Ravnos may steal a blood from another Ravnos as a +1 stealth hunt action. During each Methuselah's unlock phase, he or she may move a nightmare counter from this card to a Ravnos. If this card has no counters, each Ravnos burns a blood for each nightmare counter or is burned, then burn this card and the counters. Only one Week of Nightmares may be played in a game.\n\n3 Minion A equip the .44 from minion B (same controler obviously)\nCan A equip the .44 from minion C (same controler again) ?\nCan A equip the Ivory Bow from minion B ?\nCan A equip the .44 and the Ivory Bow from minion B ?\n\n4 Vamp A rescue vamp B from torpor paying 1 blood each\nCan A rescue vamp B from torpor paying 2 blood ?\nCan A rescue vamp C paying whatever (I can't see why this one wouldn't be possible but better safe than sorry ^^) ?",
+      "Id": "93437"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 12, 2019, 6:42\u202FPM",
+      "Body": "> Timo wrote:\n> Now let's imagine several cases of blocked actions followed by change of target or obedience inf :\n> 1 : vamp A hunt\n> can A play another sort of hunting (e g A play an abactor if A was hunting without card)\n>\nOnly the default cardless hunt action is prevented. So, Loki's Gift, Abactor, etc are all still playable.\n\n> Timo wrote:\n> 2 : vamp A hunt on vamp B with Restricted Vitae\n> can A hunt on Vamp C with restricted vitae ?\n>\nNo. The action is provided by a card in play and invokes NRA (targeting does not matter).\n>\n> Timo wrote:\n> can A hunt on vamp B with week of nightmare ?\n>\nYes. Different action provided by a different card in play.\n\n> Timo wrote:\n> 3 Minion A equip the .44 from minion B (same controler obviously)\n> Can A equip the .44 from minion C (same controler again) ?\n> Can A equip the Ivory Bow from minion B ?\n> Can A equip the .44 and the Ivory Bow from minion B ?\n>\nThere is no restriction on equipping from minions in play. Since you can equip with all of the equipment that a minion has in one action, I'm not sure the use case in going back for more.\n\n> Timo wrote:\n> 4 Vamp A rescue vamp B from torpor paying 1 blood each\n> Can A rescue vamp B from torpor paying 2 blood ?\n> Can A rescue vamp C paying whatever (I can't see why this one wouldn't be possible but better safe than sorry ^^) ?\n>\nThere is no restriction on rescuing from torpor. The action may be completed many times even with the same target(s).",
+      "Id": "93438"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Feb 12, 2019, 7:47\u202FPM",
+      "Body": "i think the restrictions being asked about are that the cards themselves say 'cannot take the same action' not whether it is under the default NRA or not.",
+      "Id": "93445"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Feb 12, 2019, 8:43\u202FPM",
+      "Body": "I think that's the case only for the first couple of questions. Or I misunderstood what he was looking for.",
+      "Id": "93447"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Feb 13, 2019, 12:09\u202FAM",
+      "Body": "Yes, I was not refering about the NRA but about the fact that both change of target and obedience inferior state \"cannot perform the same action again this turn.\"\n\nI saw Ankha tonight and he answered me that :\nYou can hunt with a different sort of hunt, you can't hunt on another vamp with restricted vitae (due obviously to the NRA).\nYou can hunt with week of nightmare on the same vampire you attempted to hunt with restricted vitae.\nHe is not sure about the equip actions and will have to check previous rulings\nAnd you can't rescue from torpor the same vampire even if you change the way you pay it.",
+      "Id": "93452"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 13, 2019, 9:23\u202FAM",
+      "Body": "> Timo wrote:\n> He is not sure about the equip actions and will have to check previous rulings\n>\nRulebook:\n\nTo equip with an equipment card currently possessed by one of your other minions, lock the acting minion (the minion who is attempting to get the equipment) and announce the equipment card he is getting. More than one equipment card can be taken from a minion in a single action. If the action is unsuccessful, the equipment remains where it is.\n\nSo that action can't be repeated if you played a Change of Target, whatever set of equipment you're trying to get (it's not an action provided by cards in play). Normally, it's not subject to the NRA.\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/1y_DaNxkQfU/zDEUQUvf45wJ\n\nSee REVERSAL: www.vekn.net/forum/rules-questions/78616-change-of-target-equip-from-a-minion#99734\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "93454"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 21, 2020, 9:08\u202FAM",
+      "Body": "Hm,  [RTR 19950905] ruled\n\n> The default actions provided by the game, and actions provided by\n> cards in play, are considered distinct as long as you're choosing\n> what gets affected.\n>\nSo, that's been reverted ? If you were trying to rescue a vampire from torpor and did CoT, you cannot try to rescue another one (same rulebook action, other target) ?",
+      "Id": "99661"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 21, 2020, 9:58\u202FAM",
+      "Body": "> lip wrote:\n> Hm,  [RTR 19950905] ruled\n>\n> > The default actions provided by the game, and actions provided by\n> > cards in play, are considered distinct as long as you're choosing\n> > what gets affected.\n> >\n> So, that's been reverted ? If you were trying to rescue a vampire from torpor and did CoT, you cannot try to rescue another one (same rulebook action, other target) ?\n>\nPlease create new topics for new questions.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99662"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 22, 2020, 6:02\u202FPM",
+      "Body": "Sorry for that, it was a silly question anyway. I need to dig in this subject to find a good set of rulings to attach to Obedience and CoT.",
+      "Id": "99673"
+    }
+  ]
+}

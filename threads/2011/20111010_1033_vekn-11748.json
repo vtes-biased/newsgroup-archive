@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-11748",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/11748-tangle-atropos-hand-question",
+  "Title": "Tangle Atropos Hand Question",
+  "Messages": [
+    {
+      "Author": "blackday",
+      "Date": "Oct 10, 2011, 10:33\u202FAM",
+      "Body": "Tangle Atropos' Hand [LoB:R]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Temporis/Potence\nOnly usable when a minion is attempting to block.\n[pot] Cancel the action and untap the acting minion. (The blocking minion is not tapped.)\n[tem] As [pot] above, and take the action card, if any, back into your hand (discard afterward).\n[TEM] As [tem] above, and this vampire gets +1 stealth on his or her next action this turn.\n\nI have several questions regarding this card and i hope you can help me in this regard.\nQuestion #1: In the TEM application, if i were for example to bleed with Legal Manipulations could i play the same card or even bleed again for that matter? Does the cancelled action count as your use of the bleed action for that turn?\nQuestion #2: If i were to use a different action after playing TEM version of this card, and were blocked again and i played this TAP (Tangle Atropos Hand) at Sup would my next action be at +1 stealth only or at +2? Is it cumulative?\nQuestion#3 If my TAP was hit by a DI(direct intervention) i wouldn't be able to play it again as its an action modifier right?\n\nThanks for any help you can give",
+      "Id": "11748"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 10, 2011, 11:19\u202FAM",
+      "Body": "> blackday wrote:\n> Tangle Atropos' Hand [LoB:R]\n> Cardtype: Action Modifier\n> Cost: 1 blood\n> Discipline: Temporis/Potence\n> Only usable when a minion is attempting to block.\n> [pot] Cancel the action and untap the acting minion. (The blocking minion is not tapped.)\n> [tem] As [pot] above, and take the action card, if any, back into your hand (discard afterward).\n> [TEM] As [tem] above, and this vampire gets +1 stealth on his or her next action this turn.\n>\n> I have several questions regarding this card and i hope you can help me in this regard.\n> Question #1: In the TEM application, if i were for example to bleed with Legal Manipulations could i play the same card or even bleed again for that matter? Does the cancelled action count as your use of the bleed action for that turn?\n> Question #2: If i were to use a different action after playing TEM version of this card, and were blocked again and i played this TAP (Tangle Atropos Hand) at Sup would my next action be at +1 stealth only or at +2? Is it cumulative?\n> Question#3 If my TAP was hit by a DI(direct intervention) i wouldn't be able to play it again as its an action modifier right?\n>\n> Thanks for any help you can give\n>\nThe key thing with Tangle Atropos' Hand is that it cancels the action \"when a minion is attempting to block\", not when a minion has blocked. Though making it again doesn't violate the NRA rule.\n\n1/ you can bleed again, even with the same card\n2/ No, the stealth is only gained on the next action. The second TAP gives +1 stealth to the 3rd action, the first TAP gave +1 stealth on the 2nd action only.\n3/ No, you can play only 1 given action modifier per action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11752"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 10, 2011, 11:24\u202FAM",
+      "Body": "> blackday wrote:\n> I have several questions regarding this card and i hope you can help me in this regard.\n> Question #1: In the TEM application, if i were for example to bleed with Legal Manipulations could i play the same card or even bleed again for that matter? Does the cancelled action count as your use of the bleed action for that turn?\n>\nYes, and no. The NRA limits you to actions that you resolved.\nYou can't bleed again if you were blocked (because successful block is the resolution of the action) or if you successfully performed a bleed action.\nTangle Atropos' Hand, on the other side, cancels the action before resolution, so it doesn't trigger the NRA.  [LSJ 20070709]\n\n> blackday wrote:\n> Question #2: If i were to use a ifferent action after playing TEM version of this card, and were blocked again and i played this TAP (Tangle Atropos Hand) at Sup would my next action be at +1 stealth only or at +2? Is it cumulative?\n>\n+1 stealth. This action was at +1 stealth already, because it existed (block attempts were made, ..). See  [LSJ 20070526] for a similar issue (same usage of the word \"next\").\n\n> blackday wrote:\n> Question#3 If my TAP was hit by a DI(direct intervention) i wouldn't be able to play it again as its an action modifier right?\n>\n> Thanks for any help you can give\n>\nI guess \"TAP\" refers to Tangle Atropos' Hand. Yes.  Rulebook 1.6.3.2",
+      "Id": "11753"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Oct 10, 2011, 12:02\u202FPM",
+      "Body": "thanks for the quick reply.",
+      "Id": "11755"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 10, 2011, 12:18\u202FPM",
+      "Body": "> Pascal wrote:\n> I guess \"TAP\" refers to Tangle Atropos' Hand. Yes.  Rulebook 1.6.3.2\n>\nI suppose you mean \"no (you can't)\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "11756"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 10, 2011, 12:26\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Pascal wrote:\n> > I guess \"TAP\" refers to Tangle Atropos' Hand. Yes.  Rulebook 1.6.3.2\n> >\n> I suppose you mean \"no (you can't)\".\n>\nThe question was \"Am I right when thinking I woulnd't be able to play a second copy\".\n\nWithout \"yes\" or \"no\" : You played one Tangle Atropos' Hand this action, so you can't play a second one.",
+      "Id": "11757"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-79008",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79008-crypt-s-sons-lock-and-obedience",
+  "Title": "Crypt's Sons, Lock and Obedience",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "Jan 31, 2021, 9:27\u202FAM",
+      "Body": "Two questions about Crypt's Sons from V5 for Vendetta tournament yesterday. In both instances Player A's anarch vampire with Crypt's Sons is acting, Player B's vampire is unlocked and blocking:\n\n1. Player B blocks successfully. Player A uses Crypt's Sons ability to cancel combat. Is the blocking vampire locked?\n\n2. Player B blocks successfully. Does he get to play  Obedience before Player A can use the Crypt's Sons ability? Or does Player A get the opportunity to use the Crypt's Sons effect first as the acting player? If it is the latter, is the blocking vampire locked?\n\nI think both questions are linked because at the core of it it's about the ability's timing. Can it be played as a before combat/resolution effect like Obedience? (But in that case the blocking vampire surely should stay unlocked? It was my understanding Obedience parenthesis text was just a reminder.) Or is it played during combat like superior Form of Mist (but in that case, Player B should get the opportunity to play Obedience before the ability). Or does the acting Methusalah get to choose? I'm a bit puzzled \u263A\uFE0E\n\nCrypt's Sons\n\nUnique mortal with 3 life. Requires an anarch.\n\nWhenever this anarch is blocked, he or she may burn a life from the Sons to cancel combat and continue the action as if unblocked. The Sons inflict 1R damage each round of combat during normal strike resolution.\n\nObedience\n\nOnly usable if this vampire is about to enter combat with an acting younger vampire.\nUnlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn.\nAs above, but do not unlock the acting vampire.",
+      "Id": "101520"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Jan 31, 2021, 11:38\u202FAM",
+      "Body": "My answers are based on www.vekn.net/forum/rules-questions/77667-what-exactly-is-block-resolution this topic. So I assume... Lock+enter combat happens simultaneously as a part of successfull Block resolution. In the 1st case combat cancelled, and blocking minion should stay unlocked.\nIn the 2nd case acting minion have a priority to play cards/activate abilities, so he always activates crypt's sons first until he decides to enter combat.",
+      "Id": "101521"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 31, 2021, 12:17\u202FPM",
+      "Body": "Thanks for asking Lip,i planed to ask too.\nyesterday during tournament i ask Ankha in discord what happen,so him answer:\n\nacting first => Crypt's Sons first\nso reacting vampire lock\nA burn blood to continue\nand obedience cannot be played\n\nProbably Ankha confirm later when see topic",
+      "Id": "101523"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 31, 2021, 5:26\u202FPM",
+      "Body": "> lip wrote:\n> 1. Player B blocks successfully. Player A uses Crypt's Sons ability to cancel combat. Is the blocking vampire locked?\n>\nYes. Crypt's Son cancels the combat, but the lock part takes place.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/gvb3uijtpZw/m/ZRX2hunjsRYJ\n\n> lip wrote:\n> 2. Player B blocks successfully. Does he get to play  Obedience before Player A can use the Crypt's Sons ability? Or does Player A get the opportunity to use the Crypt's Sons effect first as the acting player? If it is the latter, is the blocking vampire locked?\n>\nThe acting player always get the opportunity to play their effects first.\nSo A uses Crypt's Sons, the blocking vampire B is locked and the action continues. B cannot play Obedience since B is not about to enter combat (combat was canceled by Crypt's Sons).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101525"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Nov 1, 2023, 7:12\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > lip wrote:\n> > 1. Player B blocks successfully. Player A uses Crypt's Sons ability to cancel combat. Is the blocking vampire locked?\n> >\n> Yes. Crypt's Son cancels the combat, but the lock part takes place.\n>\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/gvb3uijtpZw/m/ZRX2hunjsRYJ\n>\n> > lip wrote:\n> > 2. Player B blocks successfully. Does he get to play  Obedience before Player A can use the Crypt's Sons ability? Or does Player A get the opportunity to use the Crypt's Sons effect first as the acting player? If it is the latter, is the blocking vampire locked?\n> >\n> The acting player always get the opportunity to play their effects first.\n> So A uses Crypt's Sons, the blocking vampire B is locked and the action continues. B cannot play Obedience since B is not about to enter combat (combat was canceled by Crypt's Sons).\n>\nWhat about Mental Maze, which is played before block resolution? Can MM be played before the acting player has the chance to burn a blood from Crypt's Sons?",
+      "Id": "109712"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 1, 2023, 7:24\u202FAM",
+      "Body": "the contents of this post were nonsense and have been deleted by myself to not muddle the discussion",
+      "Id": "109713"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 1, 2023, 2:32\u202FPM",
+      "Body": "I totally misrememberd a thing.\n\nWe have three things here:\nA) mental maze is explicetly played before block resolution\nb) Crypts sons is used BEFORE Obedience can be used but locks the blocker, by the ruling here\nc) Obedience does not lock the blocker by rulebook (if the combat entering does not happen, the locking doesn't happen)\n\nI still think that Crypts sons is used after mental maze and before obedience, but these three things seem to contradict each other",
+      "Id": "109715"
+    }
+  ]
+}

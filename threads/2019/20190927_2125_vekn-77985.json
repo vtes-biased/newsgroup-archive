@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-77985",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77985-vidal-jarbeaux-ability",
+  "Title": "Vidal Jarbeaux ability",
+  "Messages": [
+    {
+      "Author": "islandofyiaros",
+      "Date": "Sep 27, 2019, 9:25\u202FPM",
+      "Body": "Some abilities that Vidal Jarbeaux can use are also part of another one or require another one. For example, you can't be a Prince without being Camarilla; you can't be a Seraph without being Black Hand.\n\nThe question is: Can he play a card requiring Sabbat, then later play a card requiring a Cardinal--or does playing a Cardinal card imply he's using his \"play a Sabbat card once per game\" as well?\n\nThanks in advance.",
+      "Id": "97170"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 27, 2019, 9:57\u202FPM",
+      "Body": "> islandofyiaros wrote:\n> you can't be a Prince without being Camarilla;\n>\nTrue.\n\n> islandofyiaros wrote:\n> you can't be a Seraph without being Black Hand.\n>\nUntrue. \"Black Hand\" and \"Seraph\" are just meaningless card text. Nothing in the rules does anything to them. The Black Hand set introduced no new rules.  [LSJ 20030711]\n\n> islandofyiaros wrote:\n> Can he play a card requiring Sabbat, then later play a card requiring a Cardinal--or does playing a Cardinal card imply he's using his \"play a Sabbat card once per game\" as well?\n>\nIt depends on card text.\n\nIf a card says: \"Requires a {title}\" then Vidal sees that as him meeting the title for the purposes of his special - the fact that the sect comes along with it isn't relevant for his special. If a card said \"Requires a {sect} and a {title}\" or similar (e.g. several cards say \"Requires a titled Sabbat vampire\"), then the explicit requirement would be noticed by his special.\n\n[LSJ 20081124]\n\n> LSJ wrote:\n> >>> 1/ If Vidal uses his cardtext to play a card that requires a Baron,\n> >>> would that count against the Anarch trait also ?\n>\n> >> Not for his special.\n>\n> > The card \"sees\" him as an Anarch Baron, but he did not met the Anarch\n> > requirement. This is kinda strange to me.\n>\n> \"Requires a Baron\". He met that requirement.\n>",
+      "Id": "97171"
+    },
+    {
+      "Author": "gatocion",
+      "Date": "Jul 10, 2020, 5:54\u202FAM",
+      "Body": "Hi!\n\nAnother question regarding Vidal's hability.\n\nIf he plays an Ankara Citadel and it gets DI, is it still able to fake Tremere?\n\nThanks!\n\nName: Vidal Jarbeaux\nCardtype: Vampire\nClan: Toreador\nGroup: 5\nCapacity: 8\nDiscipline: aus cel obf pot PRE\nCamarilla: Vidal can meet the clan, sect, or non-infernal vampire trait (e.g., {Black Hand}) requirement to play any card. He can meet a given requirement only once each game. +1 bleed.\nArtist: Mike Gaydos\n\nName: Direct Intervention\nCardtype: Master\nCost: 1 pool\nMaster: out-of-turn.\nCancel a minion card as it is played. No cost is paid. (If it was an action card, the acting minion doesn't lock. If it was a strike card, the minion chooses another strike.)\nArtist: Harold Arthur McNeill\n\nName: The Ankara Citadel, Turkey\nCardtype: Equipment\nClan: Tremere\nCost: 2 blood\nWhile in play, this equipment card represents a location and does not count as equipment. Unique.\nNon-action modifier cards costing blood cost this vampire half as much blood to play, rounded down (multiplication and division are handled first, followed by addition and subtraction).\nArtist: Greg Simanson; Brian LeBlanc\n\nVEKN#4200008",
+      "Id": "100331"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 10, 2020, 9:05\u202FAM",
+      "Body": "> gatocion wrote:\n> Another question regarding Vidal's hability.\n> If he plays an Ankara Citadel and it gets DI, is it still able to fake Tremere?\n>\nAnkara Citadel was played, even if it was cancelled as played, which means that Vidal has used his ability (otherwise the card couldn't have been played).\n\n(This is different from cost reduction vs DI, or locking Enkil Cog vs DI).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100333"
+    }
+  ]
+}

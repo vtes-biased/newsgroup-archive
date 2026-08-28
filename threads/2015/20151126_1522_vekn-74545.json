@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-74545",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/74545-when-exactly-does-a-blocking-minion-tap",
+  "Title": "When exactly does a blocking minion tap?",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Nov 26, 2015, 3:22\u202FPM",
+      "Body": "I would take it that the tapping is not immediate, otherwise the \"do not tap\" clause of Obedience and Mental Maze won't make sense.\n\nSo, given the ruling:\n>\n> If the Methuselah loses control of the acting minion before the resolution of the action, then the action ends. [RTR 19970630]\n>\nWould that mean that a blocking minion does not tap is the acting minion burns after a successful block but before combat occurs?\n\n(E.g. a one life ally blocked by a minion with Banshee Ironwail)\n\n> Name: Banshee Ironwail\n> Type: Equipment\n> PoolCost: 2\n> BloodCost:\n> CardText: Unique melee weapon. Cold iron.\n> Strength+2 damage each strike. Bearer gets -1 stealth on each action. If bearer blocks an action, the acting minion burns 1 blood or life (before combat begins, if any).\n>\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "74545"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 26, 2015, 4:20\u202FPM",
+      "Body": "If the minion is blocked, it means that we have reached resolution. So your ruling doesn't apply here.\nThe blocking minion is tapped.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "74547"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Nov 26, 2015, 8:18\u202FPM",
+      "Body": "At the point where the block is successful.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "74551"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Nov 27, 2015, 9:39\u202FPM",
+      "Body": "> the1andonlime wrote:\n> I would take it that the tapping is not immediate, otherwise the \"do not tap\" clause of Obedience and Mental Maze won't make sense.\n>\n> So, given the ruling:\n> >\n> > If the Methuselah loses control of the acting minion before the resolution of the action, then the action ends. [RTR 19970630]\n> >\n> Would that mean that a blocking minion does not tap is the acting minion burns after a successful block but before combat occurs?\n>\n> (E.g. a one life ally blocked by a minion with Banshee Ironwail)\n>\nDon't forget Change of Target!\n\nClearly there is a timing window after a block is successful but before the blocking minion taps followed by the beginning of combat. This is the timing window during which you play Obedience, Mental Maze, and Change of Target. There are others like that.\n\nThe problem is that some reactions, action modifiers, and effects seem to be played before the blocking minion taps, but others seem to be played after the blocking vampire taps. For instance, Peacemaker at  seems to assume that the vampire playing it has already tapped.\n\nI think we are supposed to assume that effects like Banshee Ironwail life loss occurs AFTER tapping because it doesn't specifically say \"do not tap the blocking minion\". There is no guidance about this issue, as far as I can tell. My playgroup once had a similar question about Promise of 1528 and whether the acting Camarilla vampire whose action is ended taps or not.\n\nIdeally it would be nice for all \"after blocking/before combat\" cards and effects to be played at the same time, either before or after the blocking vampire taps. If Obedience, Mental Maze, Change of Target, etc. said \"untap the blocking vampire/minion\" it would be consistent, but alas, no.\n\nWhat seems to be the case is:\n\n1. Successful block\n2. Play reactions, action modifiers, and effects that are played after blocking but before combat and that say \"Do Not Tap the Blocking Minion\"\n3. Tap the blocking minion.\n4. Play all other reactions, action modifiers, and effects that are played after blocking but before combat (including resolution of Banshee Ironwail)\nEDIT: 5. Combat begins.\n\nNot intuitive, is it?",
+      "Id": "74561"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Nov 28, 2015, 6:18\u202FAM",
+      "Body": "> the1andonlime wrote:\n> I would take it that the tapping is not immediate, otherwise the \"do not tap\" clause of Obedience and Mental Maze won't make sense.\n>\nA blocking minion taps the moment a block is successful.\nThat's it.\n\nThe moment you should tap for a block is the moment you play Obedience/Mental Maze for the \"do not tap\" clause to have any effect. The card turns the \"tap for block\" operation into a phase where you can play this specific card.\n\nSince combat is part of the action you can technically play reaction cards during combat, the card(s) require a \"before combat\" clause. Without this clause you could play Obedience during combat for example, but the \"do not tap\" effect would have no effect since the blocking minion is already tapped.\n\nThe \"play before combat\" requirement is actually redundant since you cannot play reaction cards during combat as stated and rule referenced by James below.\n\n> the1andonlime wrote:\n> So, given the ruling:\n> >\n> > If the Methuselah loses control of the acting minion before the resolution of the action, then the action ends. [RTR 19970630]\n> >\n> Would that mean that a blocking minion does not tap is the acting minion burns after a successful block but before combat occurs?\n>\n> (E.g. a one life ally blocked by a minion with Banshee Ironwail)\n>\n> > Name: Banshee Ironwail\n> > Type: Equipment\n> > PoolCost: 2\n> > BloodCost:\n> > CardText: Unique melee weapon. Cold iron.\n> > Strength+2 damage each strike. Bearer gets -1 stealth on each action. If bearer blocks an action, the acting minion burns 1 blood or life (before combat begins, if any).\n> >\nBanshee Ironwail does indeed trigger during the \"block taps minion\" operation.\nYou can decide which happens first (tap or damage), however both have to happen, there's nothing stating otherwise, including the rule you quoted. Only cards can bend the rules, not situations.\n\n-1 Strength",
+      "Id": "74562"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Nov 28, 2015, 6:41\u202FPM",
+      "Body": "> GreyB wrote:\n> Since combat is part of the action you can technically play reaction cards during combat, the card(s) require a \"before combat\" clause.\n>\nNo, you can't. The rules prevent this.\n\n6.4 Combat\n...\nNote: The only minion cards that can be played during combat are combat cards (unless a card states otherwise, of course).",
+      "Id": "74565"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Nov 29, 2015, 8:35\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > GreyB wrote:\n> > Since combat is part of the action you can technically play reaction cards during combat, the card(s) require a \"before combat\" clause.\n> >\n> No, you can't. The rules prevent this.\n>\n> 6.4 Combat\n> ...\n> Note: The only minion cards that can be played during combat are combat cards (unless a card states otherwise, of course).\n>\nWhoops! In that case, the \"play before combat\" requirement is redundant...\n\n-1 Strength",
+      "Id": "74573"
+    }
+  ]
+}

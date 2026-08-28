@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-79148",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79148-call-the-wild-hunt-at-superior",
+  "Title": "Call the Wild Hunt at superior",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "May 23, 2021, 4:53\u202FPM",
+      "Body": "When can the Call the Wild Hunt superior effect be used in a combat?\n\n1. Can it be used before the strikes resolve?\nScenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 aggravated. B chooses hand strike. Can A discard a Raven before B goes to torpor to inflict 1 more damage?\n\n2. Does the damage resolve together with the strikes damages? Or when the effect is used?\nScenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 from hand strike. B chooses hand strike. A discards a Raven to inflict 1 more damage, can B use a single Soak to prevent both damages? If yes, could A have waited after strike damage resolution to use CtWH effect to add one damage?\n\nCall the Wild Hunt\n\nOnly usable before range is determined.\n[ani][pro] For the remainder of combat, this vampire is immune to frenzy cards. A vampire may play only one Call the Wild Hunt each combat.\n[ANI][PRO] As above, and during the initial strike resolution phase of this round, you may burn X animals from your hand to inflict X ranged damage on the opposing minion\n\nSoak\n\nA vampire can play only one Soak each round.\n[for] Prevent 2 non-aggravated damage.\n[FOR] Prevent 4 non-aggravated damage.",
+      "Id": "102300"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 24, 2021, 2:51\u202FPM",
+      "Body": "I understand you are after an official answer but here is my take on it.\n>\n> 1. Can it be used before the strikes resolve?\n> Scenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 aggravated. B chooses hand strike. Can A discard a Raven before B goes to torpor to inflict 1 more damage?\n>\nI would say no as the card text clearly says during the strike resolution phase. Don\u00B4t see how this would change the outcome if it could be played before, please explain what i\u00B4m missing. Resolution would be that the aggravated damage is resolved first which sends B to torpor and then B would have to resolve the regular damage second inflicted from superior CtWH.\n>\n> 2. Does the damage resolve together with the strikes damages? Or when the effect is used?\n> Scenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 from hand strike. B chooses hand strike. A discards a Raven to inflict 1 more damage, can B use a single Soak to prevent both damages? If yes, could A have waited after strike damage resolution to use CtWH effect to add one damage?\n>\nThere is nothing that would insinuate that it would be separate and the effect is to be used during the strike resolution phase which is followed by and includes the damage resolution step, so i would say yes together.\n\nAlso for clarity to new players... as the damage from the superior effect of CtWH is environmental damage caused not by a strike effect a strike: dodge wouldn't\u00B4t prevent B from having to deal with the damage.",
+      "Id": "102301"
+    },
+    {
+      "Author": "lip",
+      "Date": "May 25, 2021, 7:21\u202FAM",
+      "Body": "Well for one, I guess if the damage is resolved together with strike damage, then on question 1. you have to mend the CtWH damage before you handle aggravated damage.\n\nBut, to answer your question:\n>\n> I would say no as the card text clearly says during the strike resolution phase. Don\u00B4t see how this would change the outcome if it could be played before, please explain what i\u00B4m missing.\n>\nIf it can be played before the strikes resolves, it surely cannot be played before a strike: combat ends resolves (rulebook: those resolves before any effect). But at the same time, if it is to be used after the strikes resolve, then the damage cannot be \"grouped\" with the strike damage and you would need two prevention cards. So... when can it be used exactly?",
+      "Id": "102306"
+    },
+    {
+      "Author": "Timo",
+      "Date": "May 25, 2021, 10:02\u202FAM",
+      "Body": "I think I understand your concern but I don't think the damage should be handled differently than the damage from a carrion crow or a wolf companion.\n\nThere is still the question about the possibility to discard cards after a combat end is played. (I would rule that yes you can but for no damage)\n\nName: Carrion Crows\n[Sabbat:C, SW:C/PT2, CE:PN2, Anarchs:PG2, BH:PN3, LoB:PA2, Third:C, LotN:PR3, KoT:C, SP:DoF5, FB:PN5, V5:PN2]\nCardtype: Combat\nDiscipline: Animalism\nOnly usable before range is determined. A vampire can play only one Carrion Crows each combat.\n[ani] The opposing minion takes 1R environmental damage each round this combat during normal strike resolution.\n[ANI] As above, but for 2R environmental damage.\nArtist: Michael Dixon; Richard Thomas\n\nName: Wolf Companion\n[Jyhad:U2, VTES:U, Sabbat:U, SW:PT, KMW:PG, Third:PTz2]\nCardtype: Retainer\nCost: 1 blood\nDiscipline: Animalism\nAnimal with 2 life.\n[ani] When the minion with this retainer is in combat, the opposing minion takes 1 damage during strike resolution (if the range is close).\n[ANI] As above, but Wolf Companion has 3 life.\nArtist: Zina Saunders; Melissa Benson",
+      "Id": "102307"
+    },
+    {
+      "Author": "lip",
+      "Date": "May 25, 2021, 10:08\u202FAM",
+      "Body": "Well I do not think you can use the effect, even just for discarding cards with no damage, after a strike: combat ends is played. From the rulebook, the combat ends resolves first, and that brings you out of strike resolution immediately, so I think you cannot use the effect anymore.",
+      "Id": "102308"
+    },
+    {
+      "Author": "Timo",
+      "Date": "May 25, 2021, 10:35\u202FAM",
+      "Body": "I disagree.\n\nIf A is the acting minion, I would rule that beginning the \"strike resolution windows\" A has the opportunity to use an effect playable in this window.\n\nEDITH : for reference, I found a ruling from Ankha which seems to say that \"normal strike resolution\" just does not exist in case of S:CE. I am in doubt !\n\n\u200B\u200B\u200B\u200B\u200B\u200B\u200B(www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680)\n\nI tried to find any such effect in cards for reference :\n\nName: Darkling Trickery\n[BL:R1, LoB:R, POD:DTC]\nCardtype: Combat\nDiscipline: Mytherceria/Obtenebration\n[obt] Press, only usable to end combat.\n[myt] Maneuver or press.\n[MYT] Only usable if the opposing minion strikes with a weapon that inflicts ranged damage. That weapon inflicts no damage. The opposing minion takes 1R environmental damage during normal strike resolution.\nArtist: Dennis Calero\n\nName: Fear of the Void Below\n[BL:C1, KMW:PB]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Daimoinon/Obfuscate\nA vampire may play only one Fear of the Void Below each combat.\n[obf] Maneuver.\n[dai] Only usable before range is determined. Each round of this combat defaults to long range, and this vampire gets an optional press each round, only usable to end combat.\n[DAI] As [dai] above, and the opposing minion's controller discards one card at random from his or her hand during the initial strike resolution phase of each round.\nArtist: Jim Nelson\n\nName: Gianna di Canneto\n[TU:C]\nCardtype: Ally\nClan: Giovanni\nCost: 1 pool\nUnique wraith with 2 life. 1 strength, 1 bleed.\nIf another minion you control is in combat, Gianna can lock and burn herself to burn an equipment on the opposing minion, or lock during strike resolution to inflict 1 unpreventable damage on the opposing minion.\nArtist: Javier Santos",
+      "Id": "102310"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 25, 2021, 12:03\u202FPM",
+      "Body": "> Well for one, I guess if the damage is resolved together with strike damage, then on question 1. you have to mend the CtWH damage before you handle aggravated damage.\n>\nYou are correct, regular damage is handled first and aggravated damage second...i had it in the reverse order in my head for some reason...\n>\n> If it can be played before the strikes resolves, it surely cannot be played before a strike: combat ends resolves (rulebook: those resolves before any effect). But at the same time, if it is to be used after the strikes resolve, then the damage cannot be \"grouped\" with the strike damage and you would need two prevention cards. So... when can it be used exactly?\n>\nIt\u00B4s to be played during strike resolution, not before nor after.\n>\n> I think I understand your concern but I don't think the damage should be handled differently than the damage from a carrion crow or a wolf companion.\n>\nAgree\n>\n> There is still the question about the possibility to discard cards after a combat end is played. (I would rule that yes you can but for no damage)\n>\nAgree\n>\n> From the rulebook, the combat ends resolves first, and that brings you out of strike resolution immediately, so I think you cannot use the effect anymore.\n>\nDuring strike resolution is when CE is resolved first and when it will interrupt the combat sequence and go to end of round so the cards saying to trigger something during strike resolution just by text should be playable even if for no effect.\n>\n> If A is the acting minion, I would rule that beginning the \"strike resolution windows\" A has the opportunity to use an effect playable in this window.\n>\nShouldn't matter who is acting as the strike resolution is supposed to happen simultaneous as per the rulebook...both should be able to trigger the effect regardless...who is acting should only affect who is to trigger effects in the \"during strike resolution\" window first.\n>\n> The effects of the strikes from both minions are resolved simultaneously.\n>\nThe below does align it to how a Carrion Crows is resolved and uses the same wording so based on that i would say that if CE is played it is clear that no damage from CtWH needs to be resolved but doesn't answer whether the effect can be triggered and animal cards be discarded for no damage inflicted or not...i assume \"there is no normal strike resolution\" refers to the damage resolution part of the strike resolution.\n>\n> EDITH : for reference, I found a ruling from Ankha which seems to say that \"normal strike resolution\" just does not exist in case of S:CE. I am in doubt !\n>\n> ( www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680 )\n>\nAwaiting the ruling of the playability of effects that are triggered during strike resolution when a CE is played",
+      "Id": "102311"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "May 25, 2021, 1:53\u202FPM",
+      "Body": "> lip wrote:\n> When can the Call the Wild Hunt superior effect be used in a combat?\n>\n> 1. Can it be used before the strikes resolve?\n> Scenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 aggravated. B chooses hand strike. Can A discard a Raven before B goes to torpor to inflict 1 more damage?\n>\n> 2. Does the damage resolve together with the strikes damages? Or when the effect is used?\n> Scenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 from hand strike. B chooses hand strike. A discards a Raven to inflict 1 more damage, can B use a single Soak to prevent both damages? If yes, could A have waited after strike damage resolution to use CtWH effect to add one damage?\n>\n> Call the Wild Hunt\n>\n> Only usable before range is determined.\n> [ani][pro] For the remainder of combat, this vampire is immune to frenzy cards. A vampire may play only one Call the Wild Hunt each combat.\n> [ANI][PRO] As above, and during the initial strike resolution phase of this round, you may burn X animals from your hand to inflict X ranged damage on the opposing minion\n>\n> Soak\n>\n> A vampire can play only one Soak each round.\n> [for] Prevent 2 non-aggravated damage.\n> [FOR] Prevent 4 non-aggravated damage.\n>\n1. so how 1. need to work: both declare strikes,then A decide to discard raven. If there no combat ends played,both players can chose will they prevent damage or not (so prevent window). after prevent impulse pass, both A and B take damage what they dont prevent.\n\n2. B can prevent with 1 soak,but A cant wait,because damage must be anounce before prevent step.",
+      "Id": "102312"
+    },
+    {
+      "Author": "lip",
+      "Date": "May 25, 2021, 5:04\u202FPM",
+      "Body": "> The below does align it to how a Carrion Crows is resolved and uses the same wording so based on that i would say that if CE is played it is clear that no damage from CtWH needs to be resolved but doesn't answer whether the effect can be triggered and animal cards be discarded for no damage inflicted or not...i assume \"there is no normal strike resolution\" refers to the damage resolution part of the strike resolution.EDITH : for reference, I found a ruling from Ankha which seems to say that \"normal strike resolution\" just does not exist in case of S:CE. I am in doubt !\n>\n> (   www.vekn.net/forum/rules-questions/78582-thoughts-betrayed-interaction-with-different-striking-situation#99680 )Awaiting the ruling of the playability of effects that are triggered during strike resolution when a CE is played\n>\nI don't think we need a ruling, it's right there in the rulebook. The mentioned ruling predates the V5 rulebook, and I find the rulebook pretty clear on that (emphasis mine):\n>\n> Combat Ends: This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike (see First Strike), and it ends combat before other strikes or other strike resolution effects are resolved.\n>\nSo in my opinion there is no question that when a Strike: Combat Ends is used, the CtWH effect cannot be used: you cannot discard a retainer.",
+      "Id": "102315"
+    },
+    {
+      "Author": "lip",
+      "Date": "May 25, 2021, 5:11\u202FPM",
+      "Body": "I have to agree with both Timo and Igor on the meaning of \"During strike resolution\". It has to mean it must be used before the damage prevention step, since that one happens after strike resolution.\n\nSo, to sum it up, I'd say it has to come down to:\n1. It must be used during strike resolution, before damage is mended. If a Strike: Combat Ends has been used, it resolves first, so you cannot use the CtWH effect (cannot discard a retainer).\n2. The damage is handled in the same window as the strike damage. A single Soak can prevent both the strike and CtWH damage. You cannot use CtWH effect once the strike damage has been inflicted.",
+      "Id": "102316"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 26, 2021, 5:43\u202FAM",
+      "Body": "> lip wrote:\n> I don't think we need a ruling, it's right there in the rulebook. The mentioned ruling predates the V5 rulebook, and I find the rulebook pretty clear on that (emphasis mine):\n> >\n> > Combat Ends: This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike (see First Strike), and it ends combat before other strikes or other strike resolution effects are resolved.\n> >\n> So in my opinion there is no question that when a Strike: Combat Ends is used, the CtWH effect cannot be used: you cannot discard a retainer.\n>\nYou are probably right but the rulebook talks about resolving the effect and the question at hand is about the ability of triggering an effect in the time window of \"during strike resolution\". In my point of view the resolution of strikes (CE actually ending combat and taking the process to the final step \"end of round\" skipping all others steps in-between) and the triggering of effects \"during the strike resolution phase\" is in the same time window and thereby logically it makes sense that all effects that are to be triggered needs to be done before the actual resolution of those effects regardless of what they are, furthermore if it was to cause damage there is only one pass through the damage resolution step which logically would make it more sensible that all triggering of effects should happen before any actual resolution of effects which has a priority to follow of what resolves first (1st CE, 2nd Dodge, 3rd First strike and 4th Regular strikes)....doesn't make sense that CE would resolve differently (in a kind of pre step before triggering of effects) than all other strikes and effects creating an exception.",
+      "Id": "102320"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 26, 2021, 8:05\u202FAM",
+      "Body": "> lip wrote:\n> When can the Call the Wild Hunt superior effect be used in a combat?\n>\n> 1. Can it be used before the strikes resolve?\n> Scenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 aggravated. B chooses hand strike. Can A discard a Raven before B goes to torpor to inflict 1 more damage?\n>\nTo be clear, in any case the card is played before range is determined and allows to do something later on during combat, \"during the strike resolution\".\n\"during the strike resolution\" is the same as \"during the normal strike resolution\".\n\nSo, in your scenario, once both strikes have been chosen, they resolve. A can discard a Raven to have 1 environmental damage be inflicted on B.\nSo A takes B's damage, and B takes 1 damage (from CtWH) plus 1 aggravated damage (from A's strike). Then we proceed to the prevention step.\n>\n> lip wrote:\n> 2. Does the damage resolve together with the strikes damages? Or when the effect is used?\n>\nThose are the same: the effect is used during strike resolution, so it adds up to whatever damage are being inflicted.\nIt works the same as the damage of a Carrion Crows for instance.\n>\n> lip wrote:\n> Scenario: A is in combat with B. A plays CtWH, no maneuvers, strikes 1 from hand strike. B chooses hand strike. A discards a Raven to inflict 1 more damage, can B use a single Soak to prevent both damages?\n>\nYes, since B takes both damage during the strike resolution.\n>\n> lip wrote:\n> If yes, could A have waited after strike damage resolution to use CtWH effect to add one damage?\n>\nNo: cardtext \"during strike resolution\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102322"
+    },
+    {
+      "Author": "Timo",
+      "Date": "May 26, 2021, 8:14\u202FAM",
+      "Body": "And about the possibility to discard an animal retainer after a S:CE just for cycling ? (for both acting and reacting player)",
+      "Id": "102323"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 26, 2021, 8:16\u202FAM",
+      "Body": "> Timo wrote:\n> And about the possibility to discard an animal retainer after a S:CE just for cycling ? (for both acting and reacting player)\n>\nNo, S:CE resolves before other effects.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102324"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 26, 2021, 8:47\u202FAM",
+      "Body": "Discarding of animals isn\u00B4t a resolution of an effect but a triggering of an effect which later needs resolution, one would assume it should be done before the resolutions of strikes and effects. The order of strike resolution is as per below so exactly where do you place the triggering of (for the ones that are to be triggered during the strike resolution) and the resolution of the \"during the strike resolution\" effects?  S:CE S:Dodge First strikes Other strikes",
+      "Id": "102325"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 26, 2021, 9:56\u202FAM",
+      "Body": "> inm8 wrote:\n> Discarding of animals isn\u00B4t a resolution of an effect but a triggering of an effect which later needs resolution, one would assume it should be done before the resolutions of strikes and effects.\n>\nYou pay the cost of the effect (\"burn X animals from your hand\") and apply the effect (\"inflict X ranged damage on the opposing minion\") both during the (normal) strike resolution.\nPaying the cost and applying the effect is simultaneous (see www.vekn.net/forum/rules-questions/78418-resolution-paying-master-cards#98884)\n\n> inm8 wrote:\n> The order of strike resolution is as per below so exactly where do you place the triggering of (for the ones that are to be triggered during the strike resolution) and the resolution of the \"during the strike resolution\" effects?  S:CE S:Dodge First strikes Other strikes\n>\nBoth would go in \"other strikes\", but the order of strike resolution you gave is not correct, dodges do not resolve.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102326"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 26, 2021, 10:00\u202FAM",
+      "Body": "A scenario to make things perhaps clearer: A is in combat with B.\n\nA: before range, Call the Wild Hunt at superior, Carrion Crows at superior, that's all\nB: nothing here\nA: no maneuver\nB: no maneuver\nA: hand strike for 1\nB: same here\nA: so you take 1 + 2 from the Carrion Crows. And I'll discard a Raven Spy to inflict 1 more damage, that's 4 damage\nB: ok. Do you prevent?\nA: nope\nB: I'll play Soak at superior to prevent 4.\nA: ok, I burn 1 blood to mend the damage from your strike.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102327"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-76048",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76048-impulse-order-for-lutz-and-gaining-pool-from-a-vote",
+  "Title": "Impulse order for Lutz and gaining pool from a vote",
+  "Messages": [
+    {
+      "Author": "Blooded Sand",
+      "Date": "Aug 2, 2017, 6:52\u202FAM",
+      "Body": "Prey is on 1 pool, and has n minions of clan x.\nI control Lutz, and call Diversity.\nRule 6.3.2.3 States \"Resolve the referendum. If there are more votes for the referendum than against, the referendum passes, and the effects of the successful referendum take place. Otherwise, the referendum fails and has no effect. Tied referendums fail.\"\nI would assume this means that my prey may choose which order the effects occur in, correct?\n6.3.2.3->Ref passes, effects occur. Effects are PREY GAINS 1 POOL and PREY BURNS 1 POOL.\nMy assumption is the impulse passes to my prey, he chooses whether to gain first or pay first, correct?\n\nCards:\nName: Lutz von Hohenzollern\n[KoT:PM2]\nCardtype: Vampire\nClan: Malkavian\nGroup: 4\nCapacity: 11\nDiscipline: pot AUS DEM OBF PRE\nCamarilla Malkavian Inner Circle: While Lutz is ready, your prey burns a pool each time the referendum of a political action passes. +2 bleed.\nArtist: Warren Mahy\n\nName: Diversity\n[Gehenna:C, KMW:PAn2, KoT:C]\nCardtype: Political Action\nSuccessful referendum means each Methuselah gains X pool, where X is the number of clans to which his or her ready vampires belong.\nArtist: Brian LeBlanc",
+      "Id": "82847"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 2, 2017, 12:49\u202FPM",
+      "Body": "It appears the rulebook is missing a crucial word.\n\n\"Resolve the referendum. If there are more votes for the referendum than against, the referendum passes, and then the effects of the successful referendum take place. Otherwise, the referendum fails and has no effect. Tied referendums fail.\"\n\nSource: Detailed Play Summary\n\nResolve the referendum. [6.3.2.3]\na. Determine the outcome of the referendum.\nb. A referendum passes if it has more votes in favor than against.\nc. A referendum fails if it is tied or has more votes against than it has in favor.\nd. If it passes, apply the effects of the successful referendum.\n\nOf course, now somebody will reply saying the Detailed Play Summary is wrong, or that I'm taking it out of context...",
+      "Id": "82850"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Aug 2, 2017, 1:21\u202FPM",
+      "Body": "> Blooded wrote:\n> My assumption is the impulse passes to my prey, he chooses whether to gain first or pay first, correct?\n>\nLSJ ruled that Lutz's effect is applied after the referendum is resolved, so there isn't an ordering to decide. Your prey gains 1 pool for the vote passing and then burns 1 pool from Lutz's text.\n\nThis ruling was repeated in several google threads, such as  this one\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "82853"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 2, 2017, 1:23\u202FPM",
+      "Body": "> Blooded wrote:\n> Prey is on 1 pool, and has n minions of clan x.\n> I control Lutz, and call Diversity.\n> Rule 6.3.2.3 States \"Resolve the referendum. If there are more votes for the referendum than against, the referendum passes, and the effects of the successful referendum take place. Otherwise, the referendum fails and has no effect. Tied referendums fail.\"\n> I would assume this means that my prey may choose which order the effects occur in, correct?\n> 6.3.2.3->Ref passes, effects occur. Effects are PREY GAINS 1 POOL and PREY BURNS 1 POOL.\n> My assumption is the impulse passes to my prey, he chooses whether to gain first or pay first, correct?\n>\nNo. First apply the effects of the referendum, then resolve Lutz special. As a rule of thumb, effects are never interrupted in the middle.\n\ngroups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/rSaiVPMbpvY/ZYG3cYIdQZkJ\n\nLutz' effect applies after resolution.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82854"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Aug 2, 2017, 6:16\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> It appears the rulebook is missing a crucial word.\n>\n> \"Resolve the referendum. If there are more votes for the referendum than against, the referendum passes, and then the effects of the successful referendum take place. Otherwise, the referendum fails and has no effect. Tied referendums fail.\"\n>\n> Source: Detailed Play Summary\n>\n> Resolve the referendum. [6.3.2.3]\n> a. Determine the outcome of the referendum.\n> b. A referendum passes if it has more votes in favor than against.\n> c. A referendum fails if it is tied or has more votes against than it has in favor.\n> d. If it passes, apply the effects of the successful referendum.\n>\n> Of course, now somebody will reply saying the Detailed Play Summary is wrong, or that I'm taking it out of context...\n>\nAre you sure you are using the most up to date version of the rules? Wording seems off...",
+      "Id": "82858"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-75857",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75857-diablerie-blood-hunt-and-freak-drive",
+  "Title": "Diablerie, blood hunt, and Freak Drive",
+  "Messages": [
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 31, 2017, 1:10\u202FPM",
+      "Body": "Q: Is the blood hunt referendum part of the diablerie action (or part of the action in which Amaranth/Ritual of the Bitter Rose was played)?\n\nIt's my understanding that the action ends, then the blood hunt is immediately conducted. Therefore, Freak Drive is played before the blood hunt referendum. Is this correct?\n\nIf this is correct, why is Lay Low an action modifier/combat card?\n\nFreak Drive\n[for] Only usable at the end of a successful action (after resolving the action). This vampire untaps.\n[FOR] As above, but usable even if the action is blocked (play after combat, if any).\n\nLay Low\nOnly usable when a blood hunt referendum passes and would burn this anarch. Move this anarch to the uncontrolled region (breaking any temporary control effects). Any cards and counters on this vampire remain with him or her (but are out of play as long as the vampire remains uncontrolled).",
+      "Id": "82065"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 31, 2017, 1:29\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Q: Is the blood hunt referendum part of the diablerie action (or part of the action in which Amaranth/Ritual of the Bitter Rose was played)?\n>\nSort of. It is handled independently of the action (the reason why action modifiers and reactions like Bewitching Oration etc. can't be played), but the action is still there. The action hadn't ended.\n\n> TwoRazorReign wrote:\n> It's my understanding that the action ends, then the blood hunt is immediately conducted. Therefore, Freak Drive is played before the blood hunt referendum. Is this correct?\n>\nThe action hasn't ended, no. Freak Drive gets played in its normal timing.\n\n> TwoRazorReign wrote:\n> If this is correct, why is Lay Low an action modifier/combat card?\n>\nBecause it's not correct.\n\nA diablerie in combat is handled when it occurs, and then you return to the combat (which in most cases is ending immediately due to there not being someone to fight, but a few cards may slot in there).",
+      "Id": "82066"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 31, 2017, 1:30\u202FPM",
+      "Body": "The blood hunt is not part of the action. It \"interrupts\" the action though.\n\nThe correct order is:\n\nDiablerie action resolves (see www.vekn.net/rulebook/6-minion-phase#6.5.5.diablerie)\n\nA blood hunt is called (not part of the action).\n\nThe action resumes. Lay Low is played if the vampire would be burned. Or the vampire survives and plays Freak Drive.\n\nIt's the same thing in combat: the vampire plays Amaranth. A blood hunt is called (not part of the action or of the combat). After the blood hunt, if the vampire would be burned, he can play Lay Low.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82067"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 31, 2017, 1:43\u202FPM",
+      "Body": "Then why does the Rulebook (6.5.5) state:\n\n\"After diablerie, a blood hunt may be called on the diablerist.\"\n\nThis is causing a lot of confusion (jamesatzephyr, before you jump in saying it's not causing confusion, I'm referring to another forum where it is indeed causing a lot of confusion).\n\nDoes diablerie resolve before the action resolves? Where exactly in the overall action does diablerie resolve? Where exactly does the action get interrupted, then resume?",
+      "Id": "82068"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 31, 2017, 2:25\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Does diablerie resolve before the action resolves?\n>\nIn the OP example, the action is a diablerie action. The diablerie resolves when the action resolves.\n\n> TwoRazorReign wrote:\n> Where exactly in the overall action does diablerie resolve? Where exactly does the action get interrupted, then resume?\n>\nDo you mean the blood hunt referendum?\n\nAnyway:\n1/ the diablerie action resolves (get the blood, equipment, gain a Discipline cards etc.)\n2/ the blood hunt referendum is called\n3/ the action resumes\n\n2/ is outside the action.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82069"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 31, 2017, 3:32\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > TwoRazorReign wrote:\n> > Does diablerie resolve before the action resolves?\n> >\n> In the OP example, the action is a diablerie action. The diablerie resolves when the action resolves.\n>\n> > TwoRazorReign wrote:\n> > Where exactly in the overall action does diablerie resolve? Where exactly does the action get interrupted, then resume?\n> >\n> Do you mean the blood hunt referendum?\n>\nYes, I mean the blood hunt referendum.Thanks for clarifying.\n\n> Anyway:\n> 1/ the diablerie action resolves (get the blood, equipment, gain a Discipline cards etc.)\n> 2/ the blood hunt referendum is called\n> 3/ the action resumes\n>\n> 2/ is outside the action.\n>\nIn terms of the Detailed Play summary 6.2.3 (how to perform actions):\n\n1. Diablerie action resolves (step D 2b).\n2. Blood hunt referendum interrupts action between step D 2b and step E\n3. Action resumes at step E\n\nIs this correct or incorrect? Would the timing of the blood hunt referendum be different if the diablerie happened in combat via Amaranth vs the diablerie action?",
+      "Id": "82070"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 31, 2017, 4:05\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Then why does the Rulebook (6.5.5) state:\n>\n> \"After diablerie, a blood hunt may be called on the diablerist.\"\n>\nBecause after diablerie, a bloodhunt may be called on the diablerist. The current action is put to one side while that is handled. Then you return to the action / combat.\n\n> TwoRazorReign wrote:\n> This is causing a lot of confusion (jamesatzephyr, before you jump in saying it's not causing confusion, I'm referring to another forum where it is indeed causing a lot of confusion).\n>\nIf you've been telling people that the action ends when it doesn't, then yes, you will indeed be causing a lot of confusion. I have no doubt that telling people wrong information will mean that you cause confusion.\n\n> TwoRazorReign wrote:\n> Does diablerie resolve before the action resolves? Where exactly in the overall action does diablerie resolve? Where exactly does the action get interrupted, then resume?\n>\nDiablerie resolves when it happens. You put whatever is happening to one side, wherever you are currently in the game, handle the bloodhunt referendum, and then resume the action. This will happen at different points of the game if:\n\n- you are successful in a diablerie action\n\n- you are successful in blocking a leave torpor action, and commit diablerie\n\n- you diablerise a vampire in combat using Amaranth\n\nIn much the same way, damage resolution happens whenever you have damage to handle, even though that might be from a strike, a successful action inflicting damage, Weather Control pre-range, Catatonic Fear post-combat etc. All at different points in time, but you handle the damage whenever it occurs.\n\nAlong similar lines, you handle diablerie whenever it occurs.",
+      "Id": "82071"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 31, 2017, 5:08\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> In terms of the Detailed Play summary 6.2.3 (how to perform actions):\n>\n> 1. Diablerie action resolves (step D 2b).\n> 2. Blood hunt referendum interrupts action between step D 2b and step E\n> 3. Action resumes at step E\n>\n> Is this correct or incorrect?\n>\nI don't support nor use the Detailed Play Summary. I don't know which steps you're talking about.\n\n> TwoRazorReign wrote:\n> Would the timing of the blood hunt referendum be different if the diablerie happened in combat via Amaranth vs the diablerie action?\n>\nWhat do you mean by different? In one case, the vampires are in combat, so I suppose whatever timing you are referring to are different.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82072"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 31, 2017, 5:10\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> Along similar lines, you handle diablerie whenever it occurs.\n>\nThat.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "82073"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 31, 2017, 7:54\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > TwoRazorReign wrote:\n> >\n> > This is causing a lot of confusion (jamesatzephyr, before you jump in saying it's not causing confusion, I'm referring to another forum where it is indeed causing a lot of confusion).\n> >\n> If you've been telling people that the action ends when it doesn't, then yes, you will indeed be causing a lot of confusion. I have no doubt that telling people wrong information will mean that you cause confusion.\n>\nNope. I haven't participated in the other forum I am referring to. That confusion was caused by the rulebook. I'm posting here because that forum made me curious.",
+      "Id": "82079"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "May 31, 2017, 8:08\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > TwoRazorReign wrote:\n> > In terms of the Detailed Play summary 6.2.3 (how to perform actions):\n> >\n> > 1. Diablerie action resolves (step D 2b).\n> > 2. Blood hunt referendum interrupts action between step D 2b and step E\n> > 3. Action resumes at step E\n> >\n> > Is this correct or incorrect?\n> >\n> I don't support nor use the Detailed Play Summary. I don't know which steps you're talking about.\n>\nAh, okay. Fair enough. the Detailed Play Summary helps me understand some of the finer timing points. But I seem to be in the minority of people who use it.\n\n> > TwoRazorReign wrote:\n> > Would the timing of the blood hunt referendum be different if the diablerie happened in combat via Amaranth vs the diablerie action?\n> >\n> What do you mean by different? In one case, the vampires are in combat, so I suppose whatever timing you are referring to are different.\n>\nOkay, thanks for replying.",
+      "Id": "82080"
+    }
+  ]
+}

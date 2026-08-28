@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-80032",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80032-same-action-and-equipment-in-play",
+  "Title": "Same action and equipment in play",
+  "Messages": [
+    {
+      "Author": "EtRiuS",
+      "Date": "Sep 17, 2022, 11:23\u202FPM",
+      "Body": "Let's say I control Reg Discroll, a bunch of 1-caps and a Talbot's Chainsaw. I would like to equip the chainsaw multiple times with Reg (using Hag's Wrinckles to unlock him) in a single turn so he can move it to unlocked weenies who will attempt Talbot's enter combat action.\n\nIs it considered \"same action\" for a minion to equip with the same equipment in play more than once in the same turn? Is it allowed according to the No Repeat Action rule?\n\nThe doubt is whether the action would be a cardless action provided by the rulebook (Just \"equipping\", as there is no action card played from you hand), or whether this action is specifically considered to be \"Equipping with the Talbot's Chainsaw\".",
+      "Id": "106360"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Sep 18, 2022, 10:23\u202FAM",
+      "Body": "> EtRiuS wrote:\n> The doubt is whether the action would be a cardless action provided by the rulebook (Just \"equipping\", as there is no action card played from you hand), or whether this action is specifically considered to be \"Equipping with the Talbot's Chainsaw\".\n>\nIt is not a cardless action - you are using action provided by the equipment card to equip with it. And it falls under NRA, so no, you cannot do it multiple times with the same minion.",
+      "Id": "106361"
+    },
+    {
+      "Author": "EtRiuS",
+      "Date": "Sep 18, 2022, 12:16\u202FPM",
+      "Body": "What about equipping different combinations of equipment in play? Are \"equipping the chainsaw\" or \"equipping the chainsaw and a leather jacket\" considered the same action?",
+      "Id": "106362"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 18, 2022, 4:07\u202FPM",
+      "Body": "> EtRiuS wrote:\n> The doubt is whether the action would be a cardless action provided by the rulebook (Just \"equipping\", as there is no action card played from you hand), or whether this action is specifically considered to be \"Equipping with the Talbot's Chainsaw\".\n>\nYou have to announce the target when announcing the action, so the action is \"equipping with X's Talbot Chainsaw\".\n\n> KoRneeshon wrote:\n> It is not a cardless action - you are using action provided by the equipment card to equip with it. And it falls under NRA, so no, you cannot do it multiple times with the same minion.\n>\nWrong, it's an action allowed by the rulebook which targets the Talbot Chainsaw. It is not subject to the NRA, just like \"rescuing Koko from torpor\" (a rulebook action that target a vampire card).\n\nAn action provided by the equipment card would be an action written on that card such as \"Any vampire can steal this equipment as a  action.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106363"
+    },
+    {
+      "Author": "Cailean",
+      "Date": "Sep 18, 2022, 5:49\u202FPM",
+      "Body": "Hi, when I like the answer, because it makes possible a friend's deck, I want to add two points.\n\nEquip actions doesn't appear to have a target. From the rulebook:\nEquip\n\n...\n\n\u25FC Default target: None. Undirected action.\n\n....\n\nIf the equip action, when is to take an equipment card from one of your minions has a target (or targets if it's to take more than one equipment), but becomes undirected because is your own minion, that is better to be explained in the Default target line above. Or even differentiate more the two basic kinds of equip actions, each one with his own explanation, instead of mixing two kind of actions in one explanations just because both are equip actions.\n\nAnd now the \"NRA in play\" paragraph; name is mine. That paragraph needs an acclaration. Actual text:\nA minion cannot perform each action via the same card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock.\n\nWith that text, even attempting to do the diablerie action against the same torporized vampire more than once time in the same turn by the same acting vampire seems restricted, because the torporized vampire it's a card in play whose state makes that diablerie action possible (that comply \"via the same card in play\" clause). I know it's not the intention, I'm arguing in favor of changing the \"NRA in play\" paragraph.\n\nSuggested text:\nA minion cannot perform each action via the *text of the* same card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock.\n\nOr, even better, at least for non-native english readers:\nA minion cannot perform the same action granted by the text of the same card in play (including from the minion\u2019s own card text) more than once each turn. Note that cards with the same name are still different cards.\n\nReasoning behind this changes: <, even if they unlock> is completely unnecessary, aclaration about same name cards and some simplification of the grammar.",
+      "Id": "106365"
+    }
+  ]
+}

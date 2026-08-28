@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-81514",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81514-move-vampire-to-torpor-ash-heap-timing",
+  "Title": "Move vampire to torpor/ash heap timing",
+  "Messages": [
+    {
+      "Author": "inm8",
+      "Date": "Jun 3, 2024, 3:44\u202FPM",
+      "Body": "From discussions in the discord\n\nIt has been stated that the actual moving of a vampire to either torpor/ash heap doesn't happen until the end of combat.\n\nThe rulebook and the discontinued detailed play summary place the move of the vampire to torpor/ash heap in the damage resolution step when the cause of the states is because of damage which clearly contradicts the above.\n\nPer my understanding effects that send a vampire to torpor or burn the vampire make the state of the vampire \"going to torpor\"/\"being burned\" which provides the timing window that allows cards that work based on those states to be played (eg. Amaranth, Decapitate, etc.) and should be followed by the actual moving to torpor/ash heap if not changed within the created time window.\n\nCan we please have a ruling accompanied by an explanation for why it is ruled as it is?\nIf ruled to not happen until the end of combat why are is it contradicting the rules and detailed play summary?",
+      "Id": "111595"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Jun 3, 2024, 6:08\u202FPM",
+      "Body": "Someone more competent will answer, but I think it's pretty clear that going to torpor is part of the combat, that is, the combat ends immediately AFTER the vampire goes to torpor. Torpor is the trigger to end combat. That's why Amaranth/Decapitate is played when/should going to torpor.\n\nNote that after opposing vampire goes to torpor, you can still play COMBAT cards that are played at the end of a round (Taste of Vitae).\n\nAnd after the combat, after action resolution you can play modifiers like Freak Drive.\n\nAgain, someone more competent should answer.",
+      "Id": "111596"
+    },
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jun 3, 2024, 8:34\u202FPM",
+      "Body": "> Palamedes wrote:\n> ....combat ends immediately AFTER the vampire goes to torpor. [/b]\n>\nYa see, that's the issue. We have a ruling (from Vincent) on the Discord channel that vampires do not go to torpor until after the combat is completed. It's the second time this ruling has been offered on that channel.\n\n- Not what the rulebook has previously said (all releases)\n- Not what the rulebook currently says....in 5 different places.\n- Not how we've been playing for 30 years, at least in the US.\n\nSome additional clarity seems merited, and some of this might be related to 1) V5 restructuring combat steps and 2) a few cards with less-than-clear (or simply wrong?) timing windows.\n\nMaybe there are other ways to address timing conflicts. Maybe the ruling will stand and we'll reverse 3 decades of established process.\n\nHence moving the topic from Discord to here, even though it'll be new content for some readers. The discussion and ruling can be more permanently archived than is possible with Discord threads.",
+      "Id": "111602"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Jun 3, 2024, 8:53\u202FPM",
+      "Body": "Hmm, strange\nI didn't follow the discord discussion, but I'm very interested in the topic, which cards are the problem?\n\nI know the comparison may not be ideal, but I find it funny.  I imagine a boxing match in which one boxer hits the other very hard. The judge counts down, stops the match, declares the winner, and the loser then hits the floor knocked out.",
+      "Id": "111604"
+    },
+    {
+      "Author": "alf",
+      "Date": "Jun 4, 2024, 7:29\u202FAM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> Ya see, that's the issue. We have a ruling (from Vincent) on the Discord channel that vampires do not go to torpor until after the combat is completed. It's the second time this ruling has been offered on that channel.\n>\nThis bothers me more, than the ruling itself.\nLike, which other places will I need to follow to be on par with the rules discussions?\n\nThanks for moving it here, though.\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "111607"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 4, 2024, 9:50\u202FAM",
+      "Body": "it shouldn't bother you as the only official place for new/changed rulings is this forum.\n\nYou are always welcome to interact in Discord but is not needed in any way to take part of official rulings and changes to the game.",
+      "Id": "111611"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jun 13, 2024, 7:29\u202FPM",
+      "Body": "I see no contradiction here, moving a vampire to torpor (or burning him) may happen at the end of the combat, but note that it's not after the combat, and also current round must end before the combat can end.\n\nSee the text on Decapitate:\n\"Only usable when the opposing vampire is going into torpor\"\nSo the agg damage is dealt / Coma or Entombment have been resolved and the vamp is going to torpor, but he's not there yet until the end of combat. Since one combatant is not ready, end of the round happens (play your ToV here), then end of combat happens. Here, instead of moving the vamp to torpor, play Decapitate.",
+      "Id": "111683"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 13, 2024, 8:53\u202FPM",
+      "Body": "I'll give a detailed answer soon. In the meantime, food for thoughts (from IRC)\n\n> [16:00] floppyzedolfin: Say a vampire inflicts 1 agg to the opposing, and the opposing does not prevent.\n> [16:00] floppyzedolfin: The opposing (say it's B) is now wounded.\n> [16:00] floppyzedolfin: This \"ends combat\". But there still is an \"end of round\" window\n> [16:01] floppyzedolfin: In that window, is the wounded vampire ready? in torpor? going to torpor ?\n> [16:01] LSJ: Wounded. Going to torpor.\n> [16:01] LSJ: Not ready\n> [16:01] floppyzedolfin: Right.\n> [16:01] floppyzedolfin: But the pool for Tension in the Ranks has not yet been payed, correct ?\n> [16:01] LSJ: Sure.\n> [16:02] floppyzedolfin: Hm. Now, the tricky questions.\n> [16:02] floppyzedolfin: Say an Illusions of the Kindred gets burned due to an enourmous amount of agg damage.\n> [16:03] floppyzedolfin: err, the illusion does not prevent the tremendous agg damage, sorry.\n> [16:03] floppyzedolfin: The ruling says the controller may decide whether it is burned or removed from the game.\n> [16:03] floppyzedolfin: When is that choice made?\n> [16:04] floppyzedolfin: For instance, would the agg-striking vampire play Taste of Vitae before or after that choice ?\n> [16:05] LSJ: After combat ends.\n> [16:05] LSJ: After all the tasting is done.\n> [16:05] LSJ: Then the vampire burns or is removed.\n> [16:05] floppyzedolfin: But in the meantime, the illusion is wounded, correct ?\n> [16:06] LSJ: Yeah\n> [16:06] floppyzedolfin: But the illusion is not going to torpor, correct ?\n> [16:07] floppyzedolfin: (the fact that it's an illusion is not really relevant anymore, actually .. it can become Vampire B instead )\n> [16:08] floppyzedolfin: So the vampire having to deal with 18 unprevented agg damage is wounded, but cannot be going to torpor, nor cannot be in torpor. I suppose he can't be ready, so he must be \"going to ash heap\"\n> [16:08] LSJ: He won't ultimately wind up in torpor, but his is wounded. He is \"going to torpor\".\n> [16:08] floppyzedolfin: Hm, interesting.\n> [16:08] LSJ: Or rather \"being burned\".\n> [16:09] LSJ: Same thing.\n> [16:09] LSJ: Just a way of saying \"wounded\".\n> [16:09] floppyzedolfin: Nah - can I play Decapitate ?\n> [16:09] LSJ: Guess not.\n> [16:09] floppyzedolfin: That clears things a bit\n> [16:11] floppyzedolfin: Now, the stupidy related question one of our headjudges asked me\n> [16:12] floppyzedolfin: A inflicts 1 agg damage to B, B does not prevent. A plays Amaranth. B plays Reform Body, draws Undead Persistence, plays Undead Persistence. Can A play a Blur ?\n> [16:13] LSJ: How could A be prevented from playing Blur?\n> [16:13] Jozxyqk: if that happens in a real game, both players get $5\n> 16:13] floppyzedolfin: Hm, I may have skipped the \"Taste of vitae\" before Amaranth.\n> [16:13] LSJ: Won't change anything.\n> [16:14] LSJ: Besides, B burned no blood.\n> [16:14] floppyzedolfin: So, we have been through an \"end of round\" window, but still, can declare additional strikes\n> [16:14] floppyzedolfin: Cycling, again\n> [16:14] LSJ: Sure.\n> [16:14] LSJ: UP prevented the round's ending.\n> [16:15] floppyzedolfin: Excellent\n> [16:16] floppyzedolfin: And now, last question (just to be sure I got it )\n> [16:17] floppyzedolfin: A inflicts enough damage to an ally to burn it. When A plays Orgy of blood, the ally is not yet burned, FBI damage has not yet been resolved, correct ?\n> [16:18] LSJ: Correct\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111684"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2024, 7:30\u202FAM",
+      "Body": "> inm8 wrote:\n> From discussions in the discord\n>\n> It has been stated that the actual moving of a vampire to either torpor/ash heap doesn't happen until the end of combat.\n>\nCorrect.\n\n> inm8 wrote:\n> The rulebook and the discontinued detailed play summary place the move of the vampire to torpor/ash heap in the damage resolution step when the cause of the states is because of damage which clearly contradicts the above.\n>\nI won't comment the Detailed Play Summary, but the rulebook says \"A wounded vampire goes to torpor after all remaining damage is handled (see Torpor).\" But I'll amend the rulebook to make things clearer.\n\n> inm8 wrote:\n> Per my understanding effects that send a vampire to torpor or burn the vampire make the state of the vampire \"going to torpor\"/\"being burned\" which provides the timing window that allows cards that work based on those states to be played (eg. Amaranth, Decapitate, etc.)\n>\nCorrect.\n\n> inm8 wrote:\n> and should be followed by the actual moving to torpor/ash heap if not changed within the created time window.\n>\nI can't be within the same time window, otherwise you wouldn't be able to play more cards based on those state after the vampire is \"actually moved to torpor/ash heap\".\nThe actual moving to torpor, ash heap or out of play happens right after combat phase has ended.\n\n> inm8 wrote:\n> Can we please have a ruling accompanied by an explanation for why it is ruled as it is?\n> If ruled to not happen until the end of combat why are is it contradicting the rules and detailed play summary?\n>\nThe reason is that the final state of the vampire can change due to cards such as Decapitate/Amarath (being burned instead of going to torpor), Undead Persistance (staying ready instead of going to torpor), Reform Body (going to torpor instead of being burned) and therefore it cannot be determined until everything is over.\n\nThe following sequence is legal: Disarm, Amaranth, Reform Body, Decapitate, Reform Body (again), Undead Persistance\n\nI need to streamline the rulings regarding Amaranth however so that the actual diablerie happens after combat (the vampire being considered as \"being burned\" in the meantime, still allowing to play Reform Body for instance but avoiding weird situations where the diablerie is over and you want to play more end of round cards).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111688"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 14, 2024, 2:37\u202FPM",
+      "Body": "Here are the changes I propose to make things clearer:\n\ngithub.com/GiottoVerducci/rulebook2024/pull/12\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111692"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 16, 2024, 8:27\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > and should be followed by the actual moving to torpor/ash heap if not changed within the created time window.\n> >\n> I can't be within the same time window, otherwise you wouldn't be able to play more cards based on those state after the vampire is \"actually moved to torpor/ash heap\".\n> The actual moving to torpor, ash heap or out of play happens right after combat phase has ended.\n>\nWhy wouldn't one be able to play the relevant cards that insert themselves between the resolution of the effect and the actual moving of the minion (they are all replacement effects) ??\n\nI\u00B4m getting the impression that the ruling is trying to extend the ability to play these effects from the time the effect resolves (pre-range, strike resolution, damage resolution, and end of round) to the end of the combat. If this is the case why?\n\nIn my opinion, limiting these effects to only be playable in the \"replacement effect\" timing windows would be a minimum change (if a change at all) that will only prevent the ability to fish for them by playing other cards before the end of the combat.\n\n> Ankha wrote:\n>\n> > inm8 wrote:\n> > Can we please have a ruling accompanied by an explanation for why it is ruled as it is?\n> > If ruled to not happen until the end of combat why are is it contradicting the rules and detailed play summary?\n> >\n> The reason is that the final state of the vampire can change due to cards such as Decapitate/Amarath (being burned instead of going to torpor), Undead Persistance (staying ready instead of going to torpor), Reform Body (going to torpor instead of being burned) and therefore it cannot be determined until everything is over.\n>\n> The following sequence is legal: Disarm, Amaranth, Reform Body, Decapitate, Reform Body (again), Undead Persistance\n>\nSure the state can change multiple times from the time an effect resolves till the end of the combat but as these are replacement effects that would still be handled correctly.\n\nI cannot see that the mentioned sequence wouldn\u00B4t still be possible (assuming having/drawing the needed cards in the right order).\n\n> Ankha wrote:\n> I need to streamline the rulings regarding Amaranth however so that the actual diablerie happens after combat (the vampire being considered as \"being burned\" in the meantime, still allowing to play Reform Body for instance but avoiding weird situations where the diablerie is over and you want to play more end of round cards).\n>\nThis wouldn\u00B4t need to be \"fixed\" and there would be a (in my opinion) more natural and logical handling of these effects. Diablerie and Blood Hunt would continue to be fully resolved in their sub-windows and therefore avoid awkward handling that would be the result if kept around till the end of combat.",
+      "Id": "111709"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 20, 2024, 9:32\u202FAM",
+      "Body": "Any thoughts/comments on the above?",
+      "Id": "111759"
+    }
+  ]
+}

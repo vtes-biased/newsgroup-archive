@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-82016",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82016-does-warsaw-station-still-unlock-the-nosferatu-if-it-was-burnt-during-the-action",
+  "Title": "Does Warsaw Station still unlock the Nosferatu if it was burnt during the action",
+  "Messages": [
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 13, 2025, 1:04\u202FAM",
+      "Body": "A Nosferatu in torpor uses Warsaw Station as they announce a leave torpor action\nBefore resolution, they burn Warsaw Station to leave torpor (action fizzles and is considered successful)\nDoes the Nosferatu:\n1. unlock because the effect of the delayed trigger still applies (would be consistent with modifiers that do the same thing e.g. Siren's Lure), or\n2. stay locked because Warsaw Station doesn't create a delayed trigger when used but constantly check if the action has ended successfully, and isn't around when the condition is fulfilled, or\n3. something else altogether?\n\nWarsaw Station\n\nName: Warsaw Station\n[KoT:R/A1, HttB:PSam, V5:PN1]\nCardtype: Master\nClan: Nosferatu\nCost: 2 pool\nUnique location.\nYou can lock this card as a Nosferatu announces an undirected action; after action resolution, if that action was successful, unlock the acting Nosferatu. You can burn this card (even if it is locked) to move a Nosferatu in torpor to the ready region.\nArtist: Peter Bergting\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "113482"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Jan 13, 2025, 1:08\u202FAM",
+      "Body": "it doesn't unlock as the action wasn't successful as the nosferatu got out of torpor with the Warsaw station but not as the resolution of the action \"leave torpor\", so the action \"leave torpor\" fizzles and it is NOT considered successful",
+      "Id": "113483"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 13, 2025, 3:34\u202FAM",
+      "Body": "All fizzled actions are successful by definition\nwww.vekn.net/forum/rules-questions/79001-the-question-of-the-month-action-fizzles?start=12#104697\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "113485"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Jan 20, 2025, 12:34\u202FAM",
+      "Body": "Ankha, can we get your view on this question?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "113550"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 20, 2025, 7:57\u202FAM",
+      "Body": "> the1andonlime wrote:\n> A Nosferatu in torpor uses Warsaw Station as they announce a leave torpor action\n> Before resolution, they burn Warsaw Station to leave torpor (action fizzles and is considered successful)\n> Does the Nosferatu:\n> 1. unlock because the effect of the delayed trigger still applies (would be consistent with modifiers that do the same thing e.g. Siren's Lure), or\n> 2. stay locked because Warsaw Station doesn't create a delayed trigger when used but constantly check if the action has ended successfully, and isn't around when the condition is fulfilled, or\n> 3. something else altogether?\n>\n> Warsaw Station\n>\n> Name: Warsaw Station\n> [KoT:R/A1, HttB:PSam, V5:PN1]\n> Cardtype: Master\n> Clan: Nosferatu\n> Cost: 2 pool\n> Unique location.\n> You can lock this card as a Nosferatu announces an undirected action; after action resolution, if that action was successful, unlock the acting Nosferatu. You can burn this card (even if it is locked) to move a Nosferatu in torpor to the ready region.\n> Artist: Peter Bergting\n>\nAnswer 1. The delayed conditional effect is resolved even if the card is not in play anymore.\nIt works the same as \"one-shot\" master cards with that kind of effect, for instance Danse Macabre:\n\n\"Choose a ready Sabbat vampire you control. Once this turn, the chosen Sabbat vampire can burn 1 blood to unlock after performing a successful action.\"\n\nThe card doesn't need to be in play to have its effect last.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113551"
+    },
+    {
+      "Author": "Louhi",
+      "Date": "Jan 20, 2025, 9:40\u202FAM",
+      "Body": "Apologies if this is hijacking the thread, but we had a very similar question recently.\n\nIs the same true for a location, or permanent, enabling an action (as opposed to a conditional effect).\nAn example would be burning filchware's pawnshop with a war ghoul mid action. Does this affect the action?\n\nFilchware's Pawnshop\n>\n> Name: Filchware's Pawn Shop\n> [Anarchs:R]\n> Cardtype: Master\n> Master: unique location. Trifle.\n> Any minion may equip with any non-location equipment card in any Methuselah's ash heap as an undirected +1 stealth equip action (he or she must meet the requirements of the card, if any). That action costs 1 additional pool if the minion chooses a card from his or her controller's ash heap. Otherwise, the action costs 1 less pool or blood (but never less than zero).\n>\nWar Ghoul\n>\n> Name: War Ghoul\n> [Sabbat:R, SW:R, Third:R/PTz, POD:DTC, V5C:PTz2]\n> Cardtype: Ally\n> Clan: Tzimisce\n> Cost: 3 pool\n> Ghoul with 5 life. 4 strength, 0 bleed.\n> After this ally enters play, burn an ally or retainer you control. It can prevent 1 damage each round of combat. It can enter combat with a vampire as a  action. It can lock and burn itself to burn a location, except during combat.\n>\nLiding\u00F6 Scourge",
+      "Id": "113552"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 20, 2025, 10:08\u202FPM",
+      "Body": "> Louhi wrote:\n> Apologies if this is hijacking the thread, but we had a very similar question recently.\n>\n> Is the same true for a location, or permanent, enabling an action (as opposed to a conditional effect).\n> An example would be burning filchware's pawnshop with a war ghoul mid action. Does this affect the action?\n>\nIt doesn't.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113561"
+    }
+  ]
+}

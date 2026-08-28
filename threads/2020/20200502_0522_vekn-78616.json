@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-78616",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78616-change-of-target-equip-from-a-minion",
+  "Title": "Change of Target & equip from a minion",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "May 2, 2020, 5:22\u202FAM",
+      "Body": "Minion (Alice) tries to equip from minion (Bob), is blocked and uses Change of Target. Can she now equip from a different minion (Charlie) ?\n\nDoes it matter what equipment she tries to fetch from Bob and Charlie (same card or not) ?\n\n[ANK 20190213] seems to indicate that it's always the same action, whatever targets are chosen, but  [LSJ 20080710] indicates that rescuing Bob or Charlie from torpor is not \"the same action\".\n\nWhich is it ?\n\nChange of Target\n\nOnly usable if this minion is blocked, before block resolution.\nUnlock this acting minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.",
+      "Id": "99731"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 2, 2020, 9:33\u202FAM",
+      "Body": "After reviewing the different rulings:\n\"equipping with an equipment card currently possessed by one of your other minions\" is not subject to the NRA since it's provided by the rules, not the cards (groups.google.com/d/msg/rec.games.trading-cards.jyhad/1y_DaNxkQfU/zDEUQUvf45wJ) if equipments A and B are in play, equipping with A is not the same as equipping with B. (groups.google.com/d/msg/rec.games.trading-cards.jyhad/_LKyR7pdMig/ZvwdGmIwUnsJ point 7)\nSo:\n>\n> lip wrote:\n> Minion (Alice) tries to equip from minion (Bob), is blocked and uses Change of Target. Can she now equip from a different minion (Charlie) ?\n>\nThe rules don't care about who has the equipment. If there is one Ivory Bow on Bob and you move it to Charlies with a Heidelberg Castle, trying to equip with the Ivory Bow is still the same action. In that case, the answer would be no.\nOtherwise (= the equipment card is not the same), then the answer is yes.\n\nThere's probably a grey zone if during the second action, Alice tries to equip with more than one equipment card. I couldn't find any ruling (the closest ruling would be the one about the multiple targets change introduced with KoT groups.google.com/d/msg/rec.games.trading-cards.jyhad/1jW6GXrIRSU/8QTYL98kB0gJ), but the answer should be: the equipment she tried to equip with before playing CoT cannot be chosen as one of the targets of her second equip action.\n\n> lip wrote:\n> Does it matter what equipment she tries to fetch from Bob and Charlie (same card or not) ?\n>\nI don't know if you are talking about two copies of the same card (for instance, two .44 Magnum), or the same copy of the same card (see the previous example with the Ivory Bow).\n\n> lip wrote:\n> [ANK 20190213] seems to indicate that it's always the same action, whatever targets are chosen\n>\nThis is a mistake in view of Wylie's ruling about the definition of the \"same action\". I'll fix it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99734"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-26985",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/26985-poison-pill-clarification",
+  "Title": "Poison Pill -clarification",
+  "Messages": [
+    {
+      "Author": "Kude",
+      "Date": "Apr 1, 2012, 10:30\u202FAM",
+      "Body": "Hi. I know poison pill is rather straight forward card...\nPoison Pill\n\nReaction\nOnly usable during a referendum, before votes are cast.\nIf the referendum passes and the effect of the referendum causes you to lose pool, the controller of the acting vampire loses the same amount of pool (in addition to the effects of the referendum)\n..but just for the clarification I will ask.\n\nSeating is A bleeds -> B bleeds -> C -> D -> E -> A\nReins of Power is played by A, and it is not blocked. Player C reacts and uses poison pill. The vote passes even tho A then votes against his own vote. Then the next capacity vampires are chosen:\nA has 13 pool and chooses 11 cap vampire\nB has 8 pool and chooses 9 cap vampire\nC has 4 pool and chooses 10 cap vampire\nD has 10 pool and chooses 7 cap vampire\nE has 9 pool and chooses 11 cap vampire\n\nWould the next end result be correct:\nA has 13+6 pool and takes 11 and 9 more (from what C LOST) pool damage leaving him with -1 pool, thus ousting him and giving VP to this predator E.\nB has 8+6 pool and takes 11 pool damage, leaving him/her to 3 pool.\nC has 4+6 pool and takes 9 pool damage, leaving him/her to 1 pool.\nD has 10+6 pool and takes 10 pool damage, leaving him/her to 6 pool.\nE has 9+6 pool and takes 7 pool damage, leaving him/her to 8 pool.\n\nWhat my question is, does the 6 pool gain reduce the effectiveness of poison pill, or is only the negative loss counted?\n\n- Sincerely Kude",
+      "Id": "26985"
+    },
+    {
+      "Author": "Kude",
+      "Date": "Apr 1, 2012, 10:37\u202FAM",
+      "Body": "Reins of Power\n\nPolitical Action\nSuccessful referendum means each Methuselah may choose a ready vampire he or she controls. Each Methuselah gains 6 pool. Each Methuselah also burns an amount of pool equal to the capacity of his or her predator's chosen vampire. Only one Reins of Power can be played or called in a game.\n\nFor reference",
+      "Id": "26986"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 1, 2012, 10:38\u202FAM",
+      "Body": "Name: Reins of Power\n[Anarchs:C, KMW:PAn, Third:PTr, KoT:C/PV]\nCardtype: Political Action\nSuccessful referendum means each Methuselah may choose a ready vampire he or she controls. Each Methuselah gains 6 pool. Each Methuselah also burns an amount of pool equal to the capacity of his or her predator's chosen vampire. Only one Reins of Power can be played or called in a game.\n\nReins of Power makes\n1/ Methuselahs gain pool\n2/ Methuselahs lose pool\n\nand not gain X-6 pool.\n\nPoison Pill counts the pool lost, so if C lose 9 pool (and gain 6), Poison Pill causes A to burn 9 more pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "26987"
+    },
+    {
+      "Author": "Kude",
+      "Date": "Apr 1, 2012, 10:44\u202FAM",
+      "Body": "Thank you very very much for this!",
+      "Id": "26989"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 1, 2012, 10:56\u202FAM",
+      "Body": "Of course A is free to opt to choose no vampire himself after the vote passes, thus making him only loose the 11 pool from his predators vampire (and gain the 6 from reins) which would leave him alive.",
+      "Id": "26991"
+    },
+    {
+      "Author": "Kude",
+      "Date": "Apr 1, 2012, 11:39\u202FAM",
+      "Body": "> Klaital wrote:\n> Of course A is free to opt to choose no vampire himself after the vote passes, thus making him only loose the 11 pool from his predators vampire (and gain the 6 from reins) which would leave him alive.\n>\nNope. It is B who chooses how much C will lose. Even if A wouldn't choose anything, Bs choise would still be same (if not negotiated) and hurt C, thus hurting A as well.\n\nEdit: And B would be dumb not to hurt both his prey and predator",
+      "Id": "26993"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 1, 2012, 11:42\u202FAM",
+      "Body": "Oh yeah misread that part. Well that would then make it fairly weird play on C's behalf, giving someone else a free victory point.",
+      "Id": "26994"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 1, 2012, 12:15\u202FPM",
+      "Body": "> Klaital wrote:\n> Oh yeah misread that part. Well that would then make it fairly weird play on C's behalf, giving someone else a free victory point.\n>\nThen again, we don't have the full picture. I suppose C were trying to make the vote fail, but the other methuselah finally decided to oust A",
+      "Id": "26997"
+    },
+    {
+      "Author": "yappo",
+      "Date": "Apr 1, 2012, 6:53\u202FPM",
+      "Body": "Same with Ancient Influence. PP hits the acting Meth for five pool.",
+      "Id": "27008"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 1, 2012, 8:55\u202FPM",
+      "Body": "> yappo wrote:\n> Same with Ancient Influence. PP hits the acting Meth for five pool.\n>\nPossibly less, if the relevant Methuselah has less than five pool.\n\nFor example, Parity Shift for 5 against a Methuselah who has 2 pool is legal. (As in, there are five players in the game, so Parity Shift attempts to take 5 pool.) That's confirmed in  [LSJ 20070525]\n\nIn that situation, Poison Pill will hit for 2 pool, not the 5 pool that was tried for.  [LSJ 20090909]\n\nSo it appears that the rule is that Poison Pill notes how many counters you actually lose, rather than how many the effect wants to hit you for (which matters when ousted).\n\nI can't find anyone asking the question directly, which is odd as I would have expected it to come up.",
+      "Id": "27012"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Apr 1, 2012, 9:53\u202FPM",
+      "Body": "I think that ruling might only apply to Parity Shift, because it is not causing a pool burn but specifically targeting \"X of his or her pool\" so it can not affect negative pool. for the same reason, parity shifting someone who has 2 pool means you can only allocate 2 pool to yourself.\n\nbut you can use Reckless Agitation to burn 5 pool from someone who has 2, and if someone wants to play Life Boon they must still cover the -3 deficit.",
+      "Id": "27014"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 2, 2012, 5:46\u202FAM",
+      "Body": "Correct answers. If the card reads \"gains X and burn Y\", you effectively burn Y (notice most of the cards that actually have players gain and lose pool are worded so that they first gain and then lose).",
+      "Id": "27019"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Apr 2, 2012, 6:53\u202FAM",
+      "Body": "> Haze wrote:\n> I think that ruling might only apply to Parity Shift, because it is not causing a pool burn but specifically targeting \"X of his or her pool\" so it can not affect negative pool. for the same reason, parity shifting someone who has 2 pool means you can only allocate 2 pool to yourself.\n>\nNo, as LSJ states, you can allocate 5 pool (where X = 5) against a Methuselah with less than 5 pool. There are then insufficient counters to go round during resolution of the successful referendum.\n\n> LSJ wrote:\n> Well, the question seems to be more on the \"can I allocate 5 of B's pool when B\n> has only 4 pool?\" (rather than \"can B be targeted?\").\n>\n> The answer is yes, just as you can bleed B for 5 of her pool.\n>\n> The extra point is lost. The acting Methuselah decides who comes up short.\n>\n(That's [LSJ 20070525].)\n\nThis is potentially important when a person's pool level can go up and down after terms are set. For example, me (the target) losing pool (Business Pressure) won't cause the referendum to fizzle. Me gaining pool (say, from Bribes) can be yoinked because you allocated the whole 5 points.\n\n(Normally, I'm unlikely to help you by voting in favour, triggering Bribes, of course, but there are various silly ways of achieving it.)\n\n> Haze wrote:\n> but you can use Reckless Agitation to burn 5 pool from someone who has 2, and if someone wants to play Life Boon they must still cover the -3 deficit.\n>\nSame with Parity Shift.\n\nAgain, from the same ruling, LSJ 20070525:\n\n> LSJ wrote:\n> >> There are 5 players still in the game.\n> >> Meth A has 3 pool, his prey Meth B has 4 pool.\n> >>\n> >> Can Meth A call a Parity Shift targeting B, even though X is not equal\n> >> to the Meth's in the game, or would Meth B have to be on 5+ pool for\n> >> the shift to be legal?\n> >>\n> >\n> >\n> > Legal. Meth B simply loses 5 pool and is ousted. UNLESS Meth C plays\n> > Life Boon for at least 2 to save Meth B (because Meth B is at -1 pool\n> > when they are ousted).\n>\n> Or unless the referendum fails or is canceled.\n>\nTarget has 4. Parity Shift hits for 5. Target on -1, so Life Boon has to be for 2 to pump the target back up to 1.",
+      "Id": "27031"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-81541",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81541-cost-of-a-card-that-cost-x-will-use-the-paid-cost-if-is-referenced-in-the-future",
+  "Title": "Cost of a card that cost X will use the paid cost if is referenced in the future",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Jun 17, 2024, 11:09\u202FAM",
+      "Body": "I understand that this rule:\n\nwww.vekn.net/forum/rules-questions/75987-question-about-khobar-towers-al-khubar#82606\n\nWhen a card that cost X is played, the value of X is set to the amount paid and used for future references. And this rule is used anywhere the cost of the card would be relevant.\n\nIt was ruled for Khobar Towers, Al-Khubar\nI understand that it would be used also for [SER] Revelation of Ecstasy (and any other card referencing a cost of a card)\nAnd that means that if I play several Reanimated Corpses it is going to be a hell, but I will have to keep the record of each Corpse I had played.\n\nCorrect?\nThis is a hell as there is no default method to do it. But if it has to be done, it has to be done.\n\nWarning: Spoiler!\n\nName: Khobar Towers, Al-Khubar\n[FN:R2, LotN:PS, 25th:1, POD:DTC]\nCardtype: Master\nClan: Ministry\nCost: 2 pool\nUnique location.\nLock during your unlock phase to remove a ready minion you control from the game and gain X pool, where X is their capacity or cost.\nArtist: Michael Gaydos\n\nName: Revelation of Ecstasy\n[LotN:C/PS4, POD:DTC]\nCardtype: Action\nDiscipline: Serpentis\n+1 stealth action.\n[ser]  Lock a ready minion controlled by your prey.\n[SER] As above, and put 1 corruption counter on the target minion. If the number of your corruption counters on the minion equals or exceeds their capacity or cost, you can burn those counters to steal the target minion.\nArtist: Jim Di Bartolo\n\nName: Reanimated Corpse\n[LoB:C, HttB:PSam3]\nCardtype: Ally\nCost: X blood\nDiscipline: Thanatosis\nZombie with 2 life. 2 strength, 2 bleed.\n[thn] Put X pathos counters on this corpse when it enters play. During your unlock phase, burn 1 pathos counter. Remove the corpse from the game if it has no pathos counters. The corpse can play combat cards that require basic Fortitude [for] as a vampire.\n[THN] As above, but put 2 additional pathos counters on the corpse.\nArtist: Roel Wielinga",
+      "Id": "111721"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Jun 17, 2024, 7:09\u202FPM",
+      "Body": "It works the same way as in all other card games. If you need additional accessories bring them with you (e.g. additional set of counters or set of dice)",
+      "Id": "111729"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 18, 2024, 6:31\u202FAM",
+      "Body": "> Coyote wrote:\n> I understand that this rule:\n>\n> www.vekn.net/forum/rules-questions/75987-question-about-khobar-towers-al-khubar#82606\n>\n> When a card that cost X is played, the value of X is set to the amount paid and used for future references. And this rule is used anywhere the cost of the card would be relevant.\n>\n> It was ruled for Khobar Towers, Al-Khubar\n> I understand that it would be used also for [SER] Revelation of Ecstasy (and any other card referencing a cost of a card)\n> And that means that if I play several Reanimated Corpses it is going to be a hell, but I will have to keep the record of each Corpse I had played.\n>\n> Correct?\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "111731"
+    },
+    {
+      "Author": "Menteith",
+      "Date": "Jun 18, 2024, 8:37\u202FAM",
+      "Body": "Just to clarify: is it about the X/the cost on the card or about the cost paid by a vampire, i.e. is the reduction by Charisma etc. \"remembered\"?\n\nName: Charisma\n[FN:R2, KoT:R, Promo-20191123]\nCardtype: Master\nUnique.\nPut this card on a ready vampire. Recruit ally actions cost this vampire 1 fewer blood or pool.\n\nSebastian",
+      "Id": "111733"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jun 18, 2024, 9:39\u202FAM",
+      "Body": "Ankha Will confirm it, but I think that the cost of the card is not changed. Just how much you pay for it.\nSo an Ally costing 1 pool recruited with Charisma you would pay 0, but the cost is still 1.",
+      "Id": "111734"
+    },
+    {
+      "Author": "Menteith",
+      "Date": "Jun 18, 2024, 5:04\u202FPM",
+      "Body": "I see that it is clarified in mentioned thread (the Ankara example), sorry...\n\nSebastian",
+      "Id": "111739"
+    }
+  ]
+}

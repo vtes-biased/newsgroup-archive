@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-82250",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82250-fizzling-shattering-crescendo",
+  "Title": "Fizzling Shattering Crescendo",
+  "Messages": [
+    {
+      "Author": "Nosk",
+      "Date": "Apr 22, 2025, 1:49\u202FPM",
+      "Body": "I have some questions in regards of Shattering Crescendo and possible fizzle scenarios:\n\nA vampire plays Shattering Crescendo at superior melpominee targeting two War Ghouls. The controller of those War Ghouls sacrifices them to burn two different locations.\n\n1. Does the action fizzle? Card says \"up to two targets\", but targets are chosen when action is declared and they are no longer valid, so I guess it fizzles.\n\n2. In case it fizzels, does the acting vampire controller need to discard a Shattering Crescendo from their hand?\n\n3. In a different scenario, where targets are still valid on resolution, but vampire has lost blood during the action so they cannot pay the blood cost of the action, does another Shattering Crescendo need to be discrded? (similar to question above but different reason)\n\nThank you\n\nShattering Crescendo - Action\nProtean: \u24B9 Inflict 1 unpreventable damage on an ally or retainer.\nMelpominee: \u24B9 Discard a Shattering Crescendo to inflict 2 unpreventable damage on each of up to two minions controlled by a single Methuselah.\nSuperior Melpominee: As Melpominee above, but for 3 unpreventable damage each.",
+      "Id": "114276"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Apr 23, 2025, 9:36\u202FAM",
+      "Body": "I foudn the aanswer in a different thread\nwww.vekn.net/forum/rules-questions/81642-shattering-crescendo-and-missing-target#112150\nthe action fizzles if there are no targets left.",
+      "Id": "114283"
+    },
+    {
+      "Author": "Nosk",
+      "Date": "Apr 23, 2025, 4:38\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> I foudn the aanswer in a different thread\n> www.vekn.net/forum/rules-questions/81642-shattering-crescendo-and-missing-target#112150\n> the action fizzles if there are no targets left.\n>\nThank you! So now we are sure that the action fizzels if it does not have any valid target.\nBut I still have the doubt about discarding the Shattering Crescendo. As far as I know, when an action fizzles, you pay cost as much as you can, but is this also affecting to this discard cost/effect?",
+      "Id": "114288"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 23, 2025, 7:15\u202FPM",
+      "Body": "> Nosk wrote:\n>\n> > Hobbesgoblin wrote:\n> > I foudn the aanswer in a different thread\n> > www.vekn.net/forum/rules-questions/81642-shattering-crescendo-and-missing-target#112150\n> > the action fizzles if there are no targets left.\n> >\n> Thank you! So now we are sure that the action fizzels if it does not have any valid target.\n> But I still have the doubt about discarding the Shattering Crescendo. As far as I know, when an action fizzles, you pay cost as much as you can, but is this also affecting to this discard cost/effect?\n>\nNo, you don't pay anything if there are no valid targets left. You only pay as much as you can when the reason why the action fizzles is because you cannot pay the full cost.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114290"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Apr 24, 2025, 10:28\u202FAM",
+      "Body": "So in general, if I'm unable to pay the card cost in full (e.g. because a modifier cost), effect cost has to be paid?\n\n(in that Discord thread we were not 100% certain which was the case iirc)",
+      "Id": "114292"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 24, 2025, 6:11\u202FPM",
+      "Body": "> Oracle.kid wrote:\n> So in general, if I'm unable to pay the card cost in full (e.g. because a modifier cost), effect cost has to be paid?\n>\n> (in that Discord thread we were not 100% certain which was the case iirc)\n>\nSee www.vekn.net/forum/rules-questions/79001-the-question-of-the-month-action-fizzles?start=0#101492\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114294"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Apr 24, 2025, 9:52\u202FPM",
+      "Body": "I might be missing something but I don't see where effect cost is covered or implied in the linked thread\n\nE.g. a card like this:\nAction\nCost: 2 blood\nDiscard a card to unlock a locked minion\n\nIf the acting minion only has 1 blood when the action resolves, does its controller have to:\na) pay the 1 blood (card cost) and also discard a card (effect cost), or\nb) pay the 1 blood only?\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "114298"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 25, 2025, 6:57\u202FAM",
+      "Body": "> the1andonlime wrote:\n> I might be missing something but I don't see where effect cost is covered or implied in the linked thread\n>\n> E.g. a card like this:\n> Action\n> Cost: 2 blood\n> Discard a card to unlock a locked minion\n>\n> If the acting minion only has 1 blood when the action resolves, does its controller have to:\n> a) pay the 1 blood (card cost) and also discard a card (effect cost), or\n> b) pay the 1 blood only?\n>\nb)\nDiscarding a card to... (Shattering Crescendo), burning 1 blood to... (Chiroptean Marauder) etc. are not card costs.\n\nMeshenka has to pay 1 blood to play Chiropteran Marauder at superior.\n\nName: Chiropteran Marauder\nCardtype: Combat\nDiscipline: Vicissitude\n[vic] Maneuver.\n[VIC] Burn 1 blood to make the damage from this vampire's hand strikes aggravated this round.\n\nName: Meshenka\nCardtype: Vampire\nClan: Tzimisce\nGroup: 2\nCapacity: 8\nDiscipline: ANI AUS VIC\nSabbat priscus: Cards requiring Vicissitude [vic] cost Meshenka {-1} blood.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114300"
+    }
+  ]
+}

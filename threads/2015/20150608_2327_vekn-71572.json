@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-71572",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/71572-untap-vs-next-untap",
+  "Title": "Untap vs Next Untap",
+  "Messages": [
+    {
+      "Author": "dotcomee",
+      "Date": "Jun 8, 2015, 11:27\u202FPM",
+      "Body": "Some VTES cards list \"During your untap phase...\" and some list \"During your next untap phase...\"\n\nA player in our group is using  Psychic Projection as an example that sometimes it's your next untap phase sometimes it's the untap phase AFTER the next.\n\nIf you look at the  Psychic Projection example above, basic lists \"Burn this card during your untap phase\", where superior says \"Burn this card during your next untap phase\".\n\nSo, question is - if a card lists something as \"During your next untap phase\", does that really mean it's the untap phase AFTER the next?\n\nAnother example would be  Sensory Overload - does this stay around for a full round (burn on your 2nd untap phase after played)?",
+      "Id": "71572"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Jun 9, 2015, 2:39\u202FAM",
+      "Body": "For Psychic Projection, there is no difference in those two burn clauses, they both appear on your next untap phase, for Sensory Overload however, there is a very important difference between the basic and superior. The main thing here is that you still control Sensory Overload even though it goes (usually) on someone elses minion. Like say you play it on your preys vampire, at basic it would burn at the end of your preys turn, but at superior it wont burn until the start of your next turn, which is quite different thing.",
+      "Id": "71575"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 9, 2015, 4:17\u202FAM",
+      "Body": "> dotcomee wrote:\n> So, question is - if a card lists something as \"During your next untap phase\", does that really mean it's the untap phase AFTER the next?\n>\nNo.\nThe differences between \"during your untap phase\" and \"during your next untap phase\" are:\n\n\"during your untap phase\":  can trigger multiple times, as long as the card is in play if the whole effect or card becomes active during your untap, the trigger happens right away\n\n\"during your next untap phase\":  triggers only once if the whole effect or card becomes active during your untap, the trigger doesn't happen until your next untap phase\n\nFor instance, let's consider a vampire with a Fame that is out of play and returns (for whatever reason) in play in torpor during your untap phase. The Fame will trigger.\n\nLet's consider now that you use House of Sorrow to untap something during your untap phase. Both cards won't untap as normal during your next untap phase (not the current one).\n\nName: House of Sorrow\nCardtype: Master\nCost: 1 pool\nMaster: unique location.\nTap to untap any card you control that is not a minion. If you do so, neither that card nor this location untap as normal on your next untap phase.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71576"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Jun 9, 2015, 4:36\u202FAM",
+      "Body": "That last part would be moot anyway Ankha, since untapping cards is the very first thing you do during your untap phase before you can do any 'during untap phase' effects.",
+      "Id": "71577"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 9, 2015, 5:47\u202FAM",
+      "Body": "> Klaital wrote:\n> That last part would be moot anyway Ankha, since untapping cards is the very first thing you do during your untap phase before you can do any 'during untap phase' effects.\n>\nSure, but it was the first example I had in mind where a \"during your next untap phase\" effect can be activated during an untap phase.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71579"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Jun 9, 2015, 10:42\u202FAM",
+      "Body": "For psychic projection, is there a reason why the superior version says \"next untap phase\"? I'm trying to figure out why the distinction is made. Is the \"next\" really necessary?",
+      "Id": "71598"
+    },
+    {
+      "Author": "dotcomee",
+      "Date": "Jun 9, 2015, 6:48\u202FPM",
+      "Body": "Thanks for the replies, I have some more questions as well, will post some other threads.",
+      "Id": "71611"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 10, 2015, 5:55\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n> For psychic projection, is there a reason why the superior version says \"next untap phase\"? I'm trying to figure out why the distinction is made. Is the \"next\" really necessary?\n>\nNo. It has been removed from the in-progress reference file.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "71620"
+    }
+  ]
+}

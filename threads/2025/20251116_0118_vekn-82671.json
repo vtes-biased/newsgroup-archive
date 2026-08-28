@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-82671",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82671-action-fizzle-with-controller-change-during-action",
+  "Title": "Action Fizzle with controller change during action",
+  "Messages": [
+    {
+      "Author": "Oracle.kid",
+      "Date": "Nov 16, 2025, 1:18\u202FAM",
+      "Body": "Durga Syn wants to burn Stolen Police Cruiser which is on my prey's vampire. The action is blocked, combat ensues. Durga Syn uses their ability to steal the equipment and presses for another round of combat. During the second round, she plays Mirror Image to continue the action as if unblocked.\n\nWill the action  fizzle, because the controller of Stolen Police Cruiser has changed during the action and the target methuselah has no Stolen Police Cruiser anymore. continue, and burn the Stolen Police Cruiser, because the action provided by the card does not mention the card's controller\n\nWarning: Spoiler!\n\nType\nVampire\nClan\nRavnos - Capacity 9 - Group 4\nDisciplines\n()\nCard Text\nIndependent: Durga Syn can burn 1 blood to strike: steal equipment with first strike. She does not lock for blocking an ally or a vampire with capacity 4 or less.\n\nWarning: Spoiler!\n\nStolen Police Cruiser\nType\nEquipment\nCard Text\nVehicle.\nThis Anarch gets +1 bleed. Allies and younger vampires get -1 intercept against this Anarch. Vampires can burn this card as a \u24B9 action that costs 1 pool; if that action is successful, this Anarch is locked and does not unlock as normal during their next unlock phase. A minion can have only one vehicle.",
+      "Id": "115779"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 16, 2025, 10:18\u202FAM",
+      "Body": "Stolen police cruisers ability doesn't specify that it must be an opponent who burns it. It just says \"vampires can burn this card..\" Therefore I would interpret that changing the controller doesn't matter. The action continues and the cruiser is burned.\n\nThis is kind of like burning your own smiling jack because its inconvenient.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "115781"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Nov 16, 2025, 10:54\u202FAM",
+      "Body": "We had the same discussion yesterday, I'm not as convinced though. The main reason is that the action changes its properties during resolution, denying eligible blockers their option to block (directed to undirected).\n\nAlso there is a ruling that D-actions are always directed at the controller as well as the card itself. From that perspective, the action directed at my prey to burn Stolen Police Cruiser cannot resolve anymore and should fizzle.",
+      "Id": "115782"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 16, 2025, 11:43\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Stolen police cruisers ability doesn't specify that it must be an opponent who burns it. It just says \"vampires can burn this card..\" Therefore I would interpret that changing the controller doesn't matter. The action continues and the cruiser is burned.\n>\n> This is kind of like burning your own smiling jack because its inconvenient.\n>\nCorrect. It becomes undirected when it continues.\n\nSee groups.google.com/g/rec.games.trading-cards.jyhad/c/VQqyTY-nVFk/m/sNbrwFy_zJoJ\n\n> Oracle.kid wrote:\n> We had the same discussion yesterday, I'm not as convinced though. The main reason is that the action changes its properties during resolution, denying eligible blockers their option to block (directed to undirected).\n>\nIt continues as an undirected action. Minions controlled by the prey and predator can try to block.\n\n> Oracle.kid wrote:\n> Also there is a ruling that D-actions are always directed at the controller as well as the card itself. From that perspective, the action directed at my prey to burn Stolen Police Cruiser cannot resolve anymore and should fizzle.\n>\nIt changes from directed (against the card and the controller) to undirected.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "115783"
+    }
+  ]
+}

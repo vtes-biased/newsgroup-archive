@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-80337",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/lackeyccg/80337-what-is-the-latest-plugin-update",
+  "Title": "what is the latest plugin update?",
+  "Messages": [
+    {
+      "Author": "talonz",
+      "Date": "Feb 21, 2023, 10:28\u202FPM",
+      "Body": "Someone gave me a link to the krcg update and im now having to rebuild all my decks as they are corrupted and missing cards. Is this the latest update, and will continue to be so, so I dont have to go through this again???",
+      "Id": "107445"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Feb 23, 2023, 7:06\u202FPM",
+      "Body": "i think this: lackey.krcg.org/updatelist.txt",
+      "Id": "107459"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Feb 25, 2023, 9:11\u202FAM",
+      "Body": "> talonz wrote:\n> Someone gave me a link to the krcg update and im now having to rebuild all my decks as they are corrupted and missing cards. Is this the latest update, and will continue to be so, so I dont have to go through this again???\n>\nThe link Igor gave above is correct.\n\nTo avoid corrupting your decks, I recommend you store them in .txt format. I found this avoided the file corruption that sometimes happened with lackey updates, and additionally you can read the decklist in clear, normal language in the lackey directory.\n\nUse the \"export as txt\" button after you have saved your deck. This stores the deck in text format in the same directory.\n\nJust load the txt file when loading a deck, you dont have to change anything else.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "107469"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 26, 2023, 6:59\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > talonz wrote:\n> > Someone gave me a link to the krcg update and im now having to rebuild all my decks as they are corrupted and missing cards. Is this the latest update, and will continue to be so, so I dont have to go through this again???\n> >\n> The link Igor gave above is correct.\n>\n> To avoid corrupting your decks, I recommend you store them in .txt format. I found this avoided the file corruption that sometimes happened with lackey updates, and additionally you can read the decklist in clear, normal language in the lackey directory.\n>\n> Use the \"export as txt\" button after you have saved your deck. This stores the deck in text format in the same directory.\n>\n> Just load the txt file when loading a deck, you dont have to change anything else.\n>\nI prefer to keep all my decks in text format (and on VDB) and export them to Lackey when needed.\nIf I ever do a tweak on lackey, I report it on my source file.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107487"
+    },
+    {
+      "Author": "lip",
+      "Date": "Mar 27, 2023, 12:57\u202FPM",
+      "Body": "As others pointed out, we advise you store decks in .txt format and/or use external deck builders like Amaranth or VDB.\n\nBecause of how Lackey plugins work, it is guaranteed that any future update including new cards will mess up .dek format decks every time. It is independent of the URL or the plugin \"provider\". It has to do with how the plugin system work and how new plugins are generated. Sadly there's no clean way today to ensure stability for the .dek format: worse, it's guaranteed to be messed up upon update when new cards make the list.",
+      "Id": "107747"
+    }
+  ]
+}

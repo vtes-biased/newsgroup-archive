@@ -1,0 +1,152 @@
+{
+  "ThreadId": "vekn-34265",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/34265-rules-tweak-suggestion-rewind-time-et-al",
+  "Title": "Rules Tweak Suggestion: Rewind TIme et al.",
+  "Messages": [
+    {
+      "Author": "finbury",
+      "Date": "Aug 3, 2012, 5:19\u202FPM",
+      "Body": "Following the thread on \"as played\" / cancel cards, I had a thought: what if we removed the \"you can play a wake for rewind time\" rules from the rulebook, and just stuck them on the two or three cards that are affected? I feel like that would be much simpler overall.\n\nSo, before:\n\nEDIT: due to a momentary brain glitch, this originally talked about the TEM ability of the card. Fixed.\n\nRewind Time - 1 blood - reaction\npre: (skipped)\ntem: Cancel an action card as it is played (the acting minion is not tapped).\nTEM: (skipped)\n\nSuggested after:\n\nRewind Time - 1 blood - reaction\npre: (skipped)\ntem: Cancel an action card as it is played (the acting minion is not tapped). If this card is in your hand, you may reveal it and play a reaction card that allows you to treat a vampire as untapped for play of this card, and then play this card (at tem).\nTEM: (skipped)\n\nI believe that wording is sufficient. Because of the general rule that you can't declare a course of action that cannot be successful, you couldn't use this wording to wake-and-watch in someone else's master phase.\n\nWhat I like about this:\n- rules in the rule book are simpler overall\n- the \"only if you have the rewind time in hand\" stuff becomes a lot more intuitive, because playing the Wake is now something you can do specifically because of the text on the Rewind Time in your hand.",
+      "Id": "34265"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 3, 2012, 6:22\u202FPM",
+      "Body": "Currently, you can't play Wake + Rewind Time at [TEM]. Maybe you meant the [tem] version.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "34268"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Aug 3, 2012, 6:25\u202FPM",
+      "Body": "> Ankha wrote:\n> Currently, you can't play Wake + Rewind Time at [TEM]. Maybe you meant the [tem] version.\n>\nWait a moment - James is trying to tell us otherwise.\n\npckvtes.wordpress.com",
+      "Id": "34269"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 3, 2012, 6:26\u202FPM",
+      "Body": "I don't believe it make the rulebook simpler.\n\nThat's because the phrase in the rulebook actually make thing work in the same way every time.\n\nTo develop on the infamous magic analogy :\n\n* in crd game like Magic, you have a stack. When someone want to play something, people can play something in response, and the general rule is that everything can be played in response\n\n* in card game like L5R, you don't have a stack. When someone want to play something, nobody can do something in response except by specific card text (in this case, reaction which can react to this).\n\nVtES follow the L5R scheme (actually, L5R chronologically come after, but it is the first who put in perfectly cleanly), and people believe that it follow the magic scheme. That's why they find the rule regarding wake counter-intuitive.\n\nThe section regarding wake is more a clarification, because it's actually a reaction with specific trigger. Reaction-like card are pretty rare in VtES and Wake are by far the most played of them.\n\nRemoving the section regarding wake and putting it on the card muddy even more the water in my opinion, because then there is only exception and not general rule that can be follow.\n\nIf rule change were to be done, then it may be better to go to the end of the logic and actually put a stack on the rulebook, hereby autorizing fishing for canceller, etc ... Like now, everything would work the same way, just with a different general principle, one which some people believe to be simpler while it is just different.",
+      "Id": "34270"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 3, 2012, 6:27\u202FPM",
+      "Body": "> Amenophobis wrote:\n>\n> > Ankha wrote:\n> > Currently, you can't play Wake + Rewind Time at [TEM]. Maybe you meant the [tem] version.\n> >\n> Wait a moment - James is trying to tell us otherwise.\n>\nIsn't the INFERIOR version that can be played with a wake ?",
+      "Id": "34271"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 3, 2012, 7:46\u202FPM",
+      "Body": "You can play a WWEF for both, as the rulings stand when I last read them ONLY if you hold the Cancel and the Wake at the same time.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34273"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Aug 3, 2012, 8:12\u202FPM",
+      "Body": "One: yeah, I had TEM instead of tem. Fixed now.\n\nTwo: I don't think the question of \"is there a stack\" versus \"is there not a stack\" is really relevant here. With this suggested tweak, there's actually no net change in the cards that are playable in the \"as played\" window. I'm just suggesting that the text, which only affects the game if some pretty obscure cards is played, would be better placed on those cards than in the rulebook.\n\nAs I understand the history, one of the big innovations that came out of the whole CCG invention was the concept of \"cards that break the rules\". That is, rather than having all the rules that pertain to the play of your game in one place, like one of those old Avalon Hill tomes, you have a simple subset of them in a rulebook, and write the rest on the cards themselves. I feel like the current approach for these cards loses sight of that basic lesson. If it only affects the play of a few cards out of hundreds, and those cards aren't even commonly played, does it really belong in the rulebook?\n\n... that said, this actually does affect more cards than I had initially considered. The ones I could find were:\n\nBliss at dom pre, when played as a reaction\nDenial of Aphrodite's Favor\nDetermine\nEvil Eye at MAL\nHall of Hades' Court at tem\nIron Heart\nPower of All\nRewind Time at tem\nScry the Hearthstone at VIC\nShape Mastery at PRO\nSupernatural Resistance when canceling an action card\nTerra Incognita when canceling bounce\n\n... none of which are cards I'd consider \"good\" or \"commonly played\", but it's many more than the 2-3 I was originally thinking.",
+      "Id": "34274"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 3, 2012, 10:05\u202FPM",
+      "Body": "No offense meant, but, are these rules questions?",
+      "Id": "34277"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Aug 3, 2012, 11:34\u202FPM",
+      "Body": "I'm glad we are discussing this\nAs we are suggesting things, would it be more logical to put/use the reflex icon on rewind time, should the card be ever printed again ?\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "34281"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 4, 2012, 4:43\u202FAM",
+      "Body": "> finbury wrote:\n> Two: I don't think the question of \"is there a stack\" versus \"is there not a stack\" is really relevant here.\n>\nI believe it is relevant because the rule you are talking of is more of a clarification when you understand that there is no stack. Putting it on the card feel like it is an exception when it is in fact the general rule, leading to people wondering why there is an 'exception' in the first place.\n\nWhen someone wonder why you can't barren to ish for a canceling card, the response is 'for the same reason you can't use barren during the resolution of Eternal of Sirius' or 'for the same reason you don't die if you play Eternal of Sirius at 4 pool'.\n\nPeople don't understand this right away because in VtES there is importants card type that have a significant delay between the moment they are announced and the moment they are resolved (namely, action and strike). So they assume that since they can play Action modifier before an action resolve, they can play without specific text action modifier, reaction or whatever before something is resolved but after it is announced. That's why people like nc-italy or Izaak feel that they should actually be able to play thoses cards without specific text allowing for that.\n\nEdit : Reyda is right on that all thoses card, cancelling master including, should be reflex. Reflex was a good idea, but not finished, escpeially since it is a complete type which prevent for now easy addition to master card for example.",
+      "Id": "34285"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 4, 2012, 7:15\u202FAM",
+      "Body": "> Reyda wrote:\n> I'm glad we are discussing this\n> As we are suggesting things, would it be more logical to put/use the reflex icon on rewind time, should the card be ever printed again ?\n>\nThat would imply changing the definition of \"reflex\" card.\n>\n> 7. Reflex cards: A minion can play a reflex card to cancel a specified kind of card played against him as it is played.\n>",
+      "Id": "34292"
+    },
+    {
+      "Author": "Reyda",
+      "Date": "Aug 4, 2012, 7:29\u202FAM",
+      "Body": "Of course floppy you'right, reflex is intended for \"self defense\". But at the same time it's the only icon who was especially designed for the effect \" play to cancel the play of something as it is played/declared \"\nAnd so far no player had difficulties to understand it.\nMaybe we should dig a little deeper here ? That's just an idea\n\nImagination is our only weapon in the war against reality -Jules de Gaultier",
+      "Id": "34293"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 4, 2012, 7:08\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> You can play a WWEF for both, as the rulings stand when I last read them ONLY if you hold the Cancel and the Wake at the same time.\n>\nNo. You can't play Wake during the master phase because there's no action.\nRewind Time at [TEM] has a cardtext that allows it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "34305"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 4, 2012, 8:23\u202FPM",
+      "Body": "@Ankha: Yes, but I am using a \"Wake\" to allow me to play a \"Cancel\". So why should that be any different if there is an action or no action.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34306"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 4, 2012, 8:43\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> @Ankha: Yes, but I am using a \"Wake\" to allow me to play a \"Cancel\". So why should that be any different if there is an action or no action.\n>\nBecause of the current rules. It's not because Wake can be played during the \"as played\" window that they escape their requirements. You can't play a Wake with an untapped vampire (because of its cardtext), you can't play it if there is no action (because it's a reaction card).\nAs the current rules and ruling stand (as you say), you can't.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "34307"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 5, 2012, 2:00\u202FAM",
+      "Body": "The 2001 ruling allows Wakes to be played to afterwards play a \"Cancel\" card. So why should I be able to play Rewind Time @ [TEM] (a reaction) when there is no action and not played Forced Awakening?\n\nIf the 2001 ruling allows a \"Wake\" (such as Forced Awakening) to be played to enable a \"Cancel\" (such as Rewind Time), why is it illegal Ankha? Forced Awakening has no requirement for there to actually be an action (other than penalising you if you fail to block the action, which would require its own ruling regarding the effect of using Forced Awakening to then cancel a non-action or if you cancel the action itself.)\n\n(WWEF does require there to be an action, since it says you can only play reactions and block for the current action and therefore cannot be used if there is no action).\n\nForced Awakening\nType: Reaction\nOnly usable by a tapped vampire.\nThis reacting vampire can attempt to block and play reaction cards as though untapped. If he or she does not successfully block this action, he or she burns an additional blood.\n\nRewind Time\nType: Reaction\nRequires: Temporis/Presence\nCost: 2 blood\nReduce a bleed against you by 1.\n[tem] Cancel an action card as it is played (the acting minion is not tapped).\n[TEM] Usable by a ready, untapped vampire even though there is no action. Cancel a non-out-of-turn master card as it is played during any other Methuselah's master phase (no cost is paid). The Methuselah who played that card gains another master phase action.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34311"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Aug 5, 2012, 2:38\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> why should I be able to play Rewind Time @ [TEM] (a reaction) when there is no action and not played Forced Awakening?\n>\nThe definition of Reaction Cards restrict them to being played only during other player's actions.\n\nExplicit card text on Rewind Time at  allows it to be played when there is no action. This is why it is the only reaction card that can be played in response to a master card.\n\nwww.vekn.net/index.php/rulebook\n\n1.6.3.6\n>\n> Reaction cards: A ready untapped minion can play a reaction card in response to an action taken by another Methuselah's minion (an action taken by one of a Methuselah's minions cannot be reacted to by any of her own minions).\n>",
+      "Id": "34314"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 8, 2012, 6:43\u202FAM",
+      "Body": "> Adonai wrote:\n> The definition of Reaction Cards restrict them to being played only during other player's actions.\n>\nCorrect.\n\nPower of All is the other minion card playable in a master phase.",
+      "Id": "34448"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 8, 2012, 6:49\u202FAM",
+      "Body": "Yet my question is the same:\nWhy should I be prohibited from Waking to cancel a Master but NOT prohibited from Waking to prohibit an action?\n\nIf the only answer is going to be \"because a reaction is a reaction\" then maybe you're missing my point. Why would you be able to wake and cancel at all?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34450"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 8, 2012, 6:59\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Yet my question is the same:\n> Why should I be prohibited from Waking to cancel a Master but NOT prohibited from Waking to prohibit an action?\n>\n> If the only answer is going to be \"because a reaction is a reaction\" then maybe you're missing my point. Why would you be able to wake and cancel at all?\n>\nIf it's a rule question, it has been answered.\nIf it's a philosophical question, 1/ it's not the right place to ask it 2/ do not say \"You can play a WWEF for both, as the rulings stand when I last read them\" because it makes us think you're talking about rules\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "34452"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Aug 8, 2012, 4:15\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Yet my question is the same:\n> Why should I be prohibited from Waking to cancel a Master but NOT prohibited from Waking to prohibit an action?\n>\nHonestly I don't see your problem here, mate. I mean you can ask that kind of questions about a lot of cards and that leads nowhere IMHO. It is as simple as it is: You cannot play a Wake during the Master phase because you can only do it in response to an action (because it's a reaction card). That is a simple core rule.\n\nBaron of Frankfurt",
+      "Id": "34485"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 8, 2012, 8:02\u202FPM",
+      "Body": "Maybe it's an across the board consistency. I don't see why a vampire should be allowed to Wake to the deeds of a non-Methuselah and not be allowed to wake to the deeds of a Methuselah.\n\nIf you're going to make \"Cancel\" cards only playable as another card is played, then there should only be space for the \"Cancel\" not \"Wake + Cancel\".\n\nOR\n\nIf you're going to make it so that you can \"Wake + Cancel\" an action, why is there an issue with applying the same reasoning to \"Wake + Cancel\" a master card? Logically, within the rules, it should the same 'sized' window (e.g. the point where a card is declared but not yet successfully played) both times.\n\nAnd yes, for this scenario I am ignoring the immediate retort of a bunch of people which is \"Reactions can't be played on non-actions\"... because IIRC you can still Scalpel Tongue in a Bloodhunt referendum... (which would be playing a reaction during a non-action period of the game). So \"reactions can only be played when there is an action\" is potentially already not worth the 1s & 0s it is recorded with...\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34489"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 8, 2012, 9:06\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> Maybe it's an across the board consistency. I don't see why a vampire should be allowed to Wake to the deeds of a non-Methuselah and not be allowed to wake to the deeds of a Methuselah.\n>\nMethuslahs are considered mere legend by younger vampires (Rulebook 1.). How would they dare wake to one of their legends?\n\n> Juggernaut1981 wrote:\n> If you're going to make \"Cancel\" cards only playable as another card is played, then there should only be space for the \"Cancel\" not \"Wake + Cancel\".\n> OR\n> If you're going to make it so that you can \"Wake + Cancel\" an action, why is there an issue with applying the same reasoning to \"Wake + Cancel\" a master card? Logically, within the rules, it should the same 'sized' window (e.g. the point where a card is declared but not yet successfully played) both times.\n>\n(We're not \"going to make it so that\" things are what they are) It is.\nHowever, we don't have a reaction card (yet) that would read \"[This] vampire may play reaction cards as though untapped. [Usable when there is no action].\"\nWe also don't have (yet) a non-minion card that would read \"This vampire may play reaction cards as though untapped.\" (Aye gets close to that).\n\n> Juggernaut1981 wrote:\n> And yes, for this scenario I am ignoring the immediate retort of a bunch of people which is \"Reactions can't be played on non-actions\"... because IIRC you can still Scalpel Tongue in a Bloodhunt referendum... (which would be playing a reaction during a non-action period of the game). So \"reactions can only be played when there is an action\" is potentially already not worth the 1s & 0s it is recorded with...\n>\nI'm interested in the Scalpel's Tongue ruling. All GoogleGroups returned to \"Tongue Referendum\" was [url=https://groups.google.com/forum/?hl=fr&fromgroups#!searchin/rec.games.trading-cards.jyhad/tongue$20referendum/rec.games.trading-cards.jyhad/K4r36re5e9g/hT6zzOKcbc4J[1-25][JamesFlournoy 20060421][/url], which is quoting the Rulebook 6.5.6: \" This referendum is not an action, so it cannot be blocked, and action modifiers and reaction cards cannot be played.\" .",
+      "Id": "34492"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 8, 2012, 11:23\u202FPM",
+      "Body": "> Pascal wrote:\n>\n> > Juggernaut1981 wrote:\n> > Maybe it's an across the board consistency. I don't see why a vampire should be allowed to Wake to the deeds of a non-Methuselah and not be allowed to wake to the deeds of a Methuselah.\n> >\n> Methuslahs are considered mere legend by younger vampires (Rulebook 1.). How would they dare wake to one of their legends?\n>\n> Non-existant user wrote:\n> Tasty tasty legends... hmmm... legendary vampire blood...\n>\nRegarding Rulebook [6.5.6] I remember a heated debate or two about this sort of thing. It may have been because of 'in a referendum' effects being used on vampires in Bloodhunts (e.g. Michael Luther, Arishat VS Quentin). Never said the contents of my head were organised with an efficient index. .\n\n@Joscha\nI do see the need to argue why on things. It's about ironing out potential inconsistencies and ensuring that there are simple concepts being applied to the way we play this game. There is enough overly complex stuff going on as it is... we don't need to be developing a collection of rulings any larger than already exists that comes together in an adhoc way. From my own point of view, I would hope that when a ruling seems to excessively complicate the game (or result in the need for a number of other rulings) that they are removed and replaced with a simpler concept which is applied across the board. So, I am just making sure the way this works is going to come down to \"because its a reaction\" and not \"because we ruled it that way\". It means new players can rely on the rulebook, and the Princes can spend more time playing than giving ruling after ruling after ruling in every social game.\n((Rulebook 1.6.1 which comes before a definition reactions does say \"These effects (and effects that grant the ability to play them, like Forced Awakening) are the only effects allowed during the \"as played\" time period of another card.\" Hence where you can, without too much effort, read into the rules that \"Wake + Cancel\" is valid in the Master Phase))\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "34499"
+    }
+  ]
+}

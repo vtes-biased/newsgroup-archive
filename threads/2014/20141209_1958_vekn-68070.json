@@ -1,0 +1,116 @@
+{
+  "ThreadId": "vekn-68070",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/68070-no-block-declaration-eagle-sight",
+  "Title": "No Block Declaration & Eagle Sight",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Dec 9, 2014, 7:58\u202FPM",
+      "Body": "If you declare no block, then can you later after declaring no block play eagle sight to enable you to block even after you have declared no block?",
+      "Id": "68070"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Dec 9, 2014, 8:13\u202FPM",
+      "Body": "No.\n\nFrom the card rulings section here on vekn.net:\n>\n> Non-existant user wrote:\n> Can be used to overcome the restrictions on blocking (allowing a non-target Methuselah to block a directed action or a non-adjacent Methuselah to block an undirected action). It won't overcome any other restrictions on blocking (like stealth, Seduction, Day Operation, or a prior \"I don't block\" decision).  [RTR 20020501]\n>\n--\nNational Coordinator\nSouth Africa",
+      "Id": "68071"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 10, 2014, 8:39\u202FAM",
+      "Body": "We should stop treating Eagle Sight the way we did back in '94.\n\nName: Eagle's Sight\n[Jyhad:U, VTES:U, CE:U, BH:PM3, LoB:PO2, Third:PTz2, KoT:U/PT3]\nCardtype: Reaction\nDiscipline: Auspex\n[aus] +1 intercept.\n[AUS] This reacting vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\n\nEagle's Sight is no longer allowing cross-table block attempts, but it is a block attempt. This change happened for V:TES (with a grammar typo, fixed in C:E).\n\nYou can't \"cycle\" Eagle's Sight on your predator's Beaet's bleed with Isabel de Leon (well, you could, but if Beast is lacking stealth, you'll probably enter combat).\n\nYou also can't play Eagle's Sight after passing on declaring block attempts.",
+      "Id": "68079"
+    },
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Dec 10, 2014, 4:36\u202FPM",
+      "Body": "> Pascal wrote:\n> We should stop treating Eagle Sight the way we did back in '94.\n>\n> Name: Eagle's Sight\n> [AUS] This reacting vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\n>\nI've got lost... What is the actual ruling? Does it allow a Vampire targeted by Seduction to block?\n\nIf it does not allow a vampire targeted by Seduction to block, is this kind of Vampire able to play Eagle Sight?\n\nSeduction:\n\"Choose a younger vampire. That vampire cannot block this action.\"\n\nThanks in advance,\nBest Regards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "68084"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 10, 2014, 5:32\u202FPM",
+      "Body": "Can a vampire that was the target of Seduction declare a block attempt? No.\nCan he declare a block attempt ignoring the normal prey, predatar or target restrictions? No.\n\nEagle's Sight adds the vampire playing to the eligible blockers of Rulebook 6.2.2.1 \"Who May Attempt To Block?\", and has him declare a block attempt.",
+      "Id": "68087"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Dec 10, 2014, 8:16\u202FPM",
+      "Body": "Follow up question, vaguely related.\n\nPlayer A declares a bleed.\nPlayer B declares no block.\nPlayer A increases the bleed with Conditioning.\nPlayer C plays Eagle's Sight to block.\n\nArgument erupts!\nPlayer A claims that he is able to take back the Conditioning because blocks had been declined before he played it.\n\nPlayer C claims that Player A has the right to play Conditioning at any time; therefore, he should ask for blocks from the AUS player explicitly first.\n\nWho is right?",
+      "Id": "68089"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2014, 8:21\u202FPM",
+      "Body": "> Dorrinal wrote:\n> Follow up question, vaguely related.\n>\n> Player A declares a bleed.\n> Player B declares no block.\n> Player A increases the bleed with Conditioning.\n> Player C plays Eagle's Sight to block.\n>\n> Argument erupts!\n> Player A claims that he is able to take back the Conditioning because blocks had been declined before he played it.\n>\nOnly B declined. C has said nothing in your scenario.\n\n> Dorrinal wrote:\n> Player C claims that Player A has the right to play Conditioning at any time; therefore, he should ask for blocks from the AUS player explicitly first.\n>\nSure. It's always better to ask AUS/SPI guys around the table when the action is quite important.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68090"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 10, 2014, 8:47\u202FPM",
+      "Body": "> Dorrinal wrote:\n> Follow up question, vaguely related.\n>\n> Player A declares a bleed.\n> Player B declares no block.\n> Player A increases the bleed with Conditioning.\n> Player C plays Eagle's Sight to block.\n>\n> Argument erupts!\n> Player A claims that he is able to take back the Conditioning because blocks had been declined before he played it.\n>\n> Player C claims that Player A has the right to play Conditioning at any time; therefore, he should ask for blocks from the AUS player explicitly first.\n>\n> Who is right?\n>\nA and C are incorrect.\n\nWhen B passes on declaring block attempts, impulse goes to B's prey.\nWhen all players have passed on declaring block attempts, or when one has declared a block attempt, impulse goes back to A, who can then play Conditioning.\n\nThe correct way to play this is:\nB: \"No blocks.\"\nA: \"C, do you declare a blcok attempt?\"\n\nAnd then, problem doesn't happen.\nIf C passes, A can play Conditioning (after all have passed), and C can't play Eagle's Sight after that (because he declined to declare block attempts).",
+      "Id": "68091"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 11, 2014, 11:06\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Dorrinal wrote:\n> > Follow up question, vaguely related.\n> >\n> > Player A declares a bleed.\n> > Player B declares no block.\n> > Player A increases the bleed with Conditioning.\n> > Player C plays Eagle's Sight to block.\n> >\n> > Argument erupts!\n> > Player A claims that he is able to take back the Conditioning because blocks had been declined before he played it.\n> >\n> Only B declined. C has said nothing in your scenario.\n>\nHowever, that silence might be taken to be a declaration of \"no blocks\", just as saying nothing for a sufficient period of time may be taken to indicate that you're not playing Direct Intervention, or have no votes to cast in a referendum, or that another player isn't going to use Heidelberg so you can move on to your next action etc.\n\n[LSJ 20100726] - in a discussion about Eagle's Sight\n>\n> LSJ wrote:\n> Note that asking for \"Any blocks?\" and waiting to observe a period of\n> attentive silence from B, C, D, and E is often sufficient for B (who\n> will likely be vocal about \"no block\") and C, D, and E to confirm\n> their decisions not to block.\n>\n> That is, C can't silently forego xeir impulse in the hopes of drawing\n> out the boost before blocking.\n>\nIf worried about such things, it is better to be explicit - but in the real world, players are often not explicit about pass of the impulse.",
+      "Id": "68106"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 11, 2014, 12:09\u202FPM",
+      "Body": "So it means that waiting \"some\" second between asking for block and plating conditioning is a valid way to have the block declined by everybody at the table ?\n\nAnd so effectively denying the rollback asked by an  player ? Or is it considered being a jerk ?",
+      "Id": "68109"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 11, 2014, 1:02\u202FPM",
+      "Body": "> Timo wrote:\n> So it means that waiting \"some\" second between asking for block and plating conditioning is a valid way to have the block declined by everybody at the table ?\n>\n> And so effectively denying the rollback asked by an  player ? Or is it considered being a jerk ?\n>\nThe jerkiness can go either way.\n\n- As a non-acting player, if someone asks for blocks and you want to block, don't be a jerk about it.\n- As an acting player, don't rush through your action modifiers and say \"But I left 0.7 picoseconds for your block declaration.\"\n\nSimilarly:\n- if I play Govern the Unaligned, please interject as soon as you can if you're thinking about playing Direct Intervention, because you should be making that decision without knowing that I go on to play Seduction as the action is announced\n- if you play Govern the Unaligned, please don't slam down Seduction and use that as justification to deny me the chance to play Direct Intervention.",
+      "Id": "68112"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2014, 1:17\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > Only B declined. C has said nothing in your scenario.\n> >\n> However, that silence might be taken to be a declaration of \"no blocks\", just as saying nothing for a sufficient period of time may be taken to indicate that you're not playing Direct Intervention, or have no votes to cast in a referendum, or that another player isn't going to use Heidelberg so you can move on to your next action etc.\n>\nMy original answer contained something like this, but it's wrong to assume that saying nothing means you don't interact. It's usually the reverse in fact: people thinking about interacting are usually silent at the beginning.\n\nClassical case is playing a DI on an action. Player A announces some critical unexpected action. Player B has a DI, but he must think whether or not he's going to DI that, or maybe DI the stealth... People tend to concentrate in that case and be silent. He could say \"wait! I may DI\" but then he would give away the information he has a DI before thinking whether it's pertinent or not to DI in the end.\n\nOr in the OP scenario, if A bleeds B and B has already begun to remove his pool, C could still be thinking about playing the Eagle's Sight or not.\n\nC can't be denied the opportunity to interact by players playing too fast. But people can't react neither 5 minutes later saying \"hey, I may DI that card\". Add in some cases where people are already negociating the terms of a political action when the vote is played and player C leave them talk to know where the game is heading before DIing or not. After all, it's not clear whether they're still in the \"as played\" window or not.\n\nSo it's entirely up to the judge to say if A played too fast or not, and if C has still the opportunity to interact, and whether the situation should be rollbacked or not.\n\nWith the OP scenario, we could imagine that C \"wakes up\" after B has burned his pool and A begun a new action, but without playing fast. Judge could decide C had plenty of time to react but didn't.\n\nOr A and B played fast, someone talked about playing maybe a Major Boon, etc. then B starts burning his pool, and C was about to play an Eagle's Sight. Judge could decide that C can play his Eagle's Sight, even after A played the Conditioning.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68113"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 11, 2014, 1:32\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jamesatzephyr wrote:\n> >\n> > > Ankha wrote:\n> > > Only B declined. C has said nothing in your scenario.\n> > >\n> > >\n> > However, that silence might be taken to be a declaration of \"no blocks\", just as saying nothing for a sufficient period of time may be taken to indicate that you're not playing Direct Intervention, or have no votes to cast in a referendum, or that another player isn't going to use Heidelberg so you can move on to your next action etc.\n> >\n> My original answer contained something like this, but it's wrong to assume that saying nothing means you don't interact. It's usually the reverse in fact: people thinking about interacting are usually silent at the beginning.\n>\nThat's pretty much why the ruling refers to a period of attentive silence, and not just any silence.\n\n> Ankha wrote:\n> People tend to concentrate in that case and be silent. He could say \"wait! I may DI\" but then he would give away the information he has a DI before thinking whether it's pertinent or not to DI in the end.\n>\nSome information is given away either way - either about subsequent action modifiers/as action is announced effects, or other similar fun.\n\nYou should, however, be trying to stop the Methuselah moving on if you have doubts about what you want to do. For example, when the acting Methuselah is saying \"And then I play...\", you should stop them, if you can.\n\n> Ankha wrote:\n> Or in the OP scenario, if A bleeds B and B has already begun to remove his pool, C could still be thinking about playing the Eagle's Sight or not.\n>\nSure, that's common. The moving of the pool is often B's declaration of no blocks. C should intervene as soon as she can.\n\n> Ankha wrote:\n> C can't be denied the opportunity to interact by players playing too fast.\n>\nThe ruling isn't about people playing too fast. It's about someone asking the table for blocks, and taking the silence as consent. People have not ever, do not ever, and will not ever announce every single pass of the impulse.\n\n> Ankha wrote:\n> So it's entirely up to the judge to say if A played too fast or not, and if C has still the opportunity to interact, and whether the situation should be rollbacked or not.\n>\nSure. This is, in fact, why I provided the ruling that explains it might be taken a declination, with appropriate caveats.",
+      "Id": "68114"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2014, 3:48\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n> - if I play Govern the Unaligned, please interject as soon as you can if you're thinking about playing Direct Intervention, because you should be making that decision without knowing that I go on to play Seduction as the action is announced\n> - if you play Govern the Unaligned, please don't slam down Seduction and use that as justification to deny me the chance to play Direct Intervention.\n>\nI don't know how you manage to reconcile both. Your first point looks irrealistic to me (I'm giving more details in case 2 below). Your second point is indeed a simple matter of fair-play if you deny the opponent the window of interaction. But most of the time, players play cards at a normal rate, just because they have planned overhead the sequence of cards they'll play (jump again to the case 2 that I describe below).\n\nFor instance, I have GtU + Seduction to play.\n\n1/ I'm aware someone may DI\nI play GtU. I ask if anyone DI. Then I replace. Then I play Seduction. Then I ask if anyone DI etc.\nIn that case, there's no problem since I've asked everyone, and everyone has declined.\n\nNow, the big point:\n\n2/ I'm not aware someone may DI\nI play GtU, I replace. I play afterwards (without pausing, or with a very little pause) Seduction and I replace.\nDuring that course of event, it's very hard to interrupt me (especially before I replace). It would require the DIing player to have planned my moves and think: \"as soon as he plays GtU, I play the DI\". This is very rare.\nI, on the other hand, know that I'm going to play a Seduction afterwards. I'll always have a faster pace than a player reacting to something unknown beforehand.\n\nSo should I have played slow...ly... pausing... between.... each... card.... and... also... before... replacing... them? It would take ages if everyone was pausing that way. It would cause a real time limit problem.\n\nRollbacking is sometimes better.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68115"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2014, 3:54\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > C can't be denied the opportunity to interact by players playing too fast.\n> >\n> The ruling isn't about people playing too fast. It's about someone asking the table for blocks, and taking the silence as consent. People have not ever, do not ever, and will not ever announce every single pass of the impulse.\n>\nI think we agree on the same thing, I was just pointing out something else.\n\nA asking \"any blocks?\" and looking at all the players (including C) is not the same as A asking \"do you block\" to the target of the bleed, and then playing a Conditioning without even looking at C.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "68116"
+    },
+    {
+      "Author": "Dorrinal",
+      "Date": "Dec 12, 2014, 7:56\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > C can't be denied the opportunity to interact by players playing too fast.\n> >\n> The ruling isn't about people playing too fast. It's about someone asking the table for blocks, and taking the silence as consent. People have not ever, do not ever, and will not ever announce every single pass of the impulse.\n>\nGreat discussion. I wanted to jump in here and say that in my experience, this never happens. Here's how bleeds/ actions happen in the real world:\n\nA taps his minion and looks at his prey.\nA: Bleed for 1.\nB: No block.\nA: Make it 4 with Conditioning.\n[C: I'm going to step in with Eagle's Sight.]\n\nNo one asks the table, and A doesn't pause before playing a modifier. Most importantly, we shouldn't expect it to ever happen either. This is how we play the game. So the most important question is: do we roll back the modifier or not? Which has been answered to my satisfaction.",
+      "Id": "68144"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 12, 2014, 9:58\u202FPM",
+      "Body": "> Dorrinal wrote:\n>\n> > jamesatzephyr wrote:\n> >\n> > > Ankha wrote:\n> > > C can't be denied the opportunity to interact by players playing too fast.\n> > >\n> > >\n> > The ruling isn't about people playing too fast. It's about someone asking the table for blocks, and taking the silence as consent. People have not ever, do not ever, and will not ever announce every single pass of the impulse.\n> >\n> Great discussion. I wanted to jump in here and say that in my experience, this never happens.\n>\nThe ruling applies to all actions (indeed, potentially all handling of the impulse), and this sort of thing can happen a fair amount on undirected actions. It's a decent habit to acquire, though, if you can manage it, even on directed actions, because otherwise you can have players jumping in saying \"Dammit, I'm gonna block that\" before I've had chance to redraw and find I've drawn a Seduction, causing information leaks and acrimony.\n\n(Of course, the real world is never, ever perfect.)\n\n> Dorrinal wrote:\n> So the most important question is: do we roll back the modifier or not? Which has been answered to my satisfaction.\n>\n1) In all situations, if someone is trying to rush past the time where you can play a card, stop them and play it.\n\n2) If they rush by that timing window by announcing another effect, roll that back.\n\n3) If oodles of time has clearly passed (e.g. we're well into a stealth/intercept war and someone says \"Actually, I want to DI that Govern\") and they were clearly aware of stuff happening, it's likely to be way too late.\n\n4) Everything else:\na) try to be a helpful player both as the acting and defending Methuselah\nb) call a judge, if necessary.",
+      "Id": "68146"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 15, 2014, 1:30\u202FAM",
+      "Body": "Specifically, as a \"rule\", if you are playing a killing conditionning, pause to ask the table if they want to block...",
+      "Id": "68174"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-74632",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/74632-i-can-t-read-topics",
+  "Title": "I can't read topics",
+  "Messages": [
+    {
+      "Author": "elotar",
+      "Date": "Jan 18, 2016, 1:21\u202FPM",
+      "Body": "Got some strange errors in russian:(\n\nI think it's english equivalent is \"The page isn't redirecting properly.\"\n\nNC Russia",
+      "Id": "74976"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 18, 2016, 1:35\u202FPM",
+      "Body": "> elotar wrote:\n> Got some strange errors in russian:(\n>\n> I think it's english equivalent is \"The page isn't redirecting properly.\"\n>\nSo you can't read, but you can post?\n\nWe need more informations to solve your issue: what operations did you do that lead to the error, with which browser, and a screenshot of the result.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "74977"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Jan 18, 2016, 1:52\u202FPM",
+      "Body": "I'm seeing something similar, but only if I try follow the links from the \"Recent Topics\" list. I can browse the actual forum without any issues, but from the Recent Topics list, everything errors out with a \"Too many redirects\" error.\n\n(Observed with both chrome and firefox)\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "74979"
+    }
+  ]
+}

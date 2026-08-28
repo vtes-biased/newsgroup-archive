@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-73741",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/73741-freshing-up-my-memory-on-contesting",
+  "Title": "Freshing up my memory on contesting",
+  "Messages": [
+    {
+      "Author": "Oortje",
+      "Date": "Oct 19, 2015, 12:39\u202FPM",
+      "Body": "This might be nitpicking, but help me out.\n\nsituation 1\nPlayer a has anson with an ivory bow\nplayer b plays anson and they start contesting.\nplay b plays an ivory bow on a igo.\nIs the ivory bow contested?\n\nsituation 2\nPlayer a has anson with ivory bow\nPlayer b plays an ivory bow on igo and starts contesting\nPlayer b plays anson and starts contesting anson\nIs the ivory bow still contested?\n\nIf yes. The situation continues.\nPlayer b yields contesting on igo. And plays a new ivory bow on igo. Is that one contested?\n\nsituation 3\nPlayer a has anson with ivory bow. Anson gets banished.\nPLayer b plays anson with ivory bow.\nPlayer a transfers out anson (still with bow)\nIs the bow contested?\n\nThanks in advance.\n\nHave a cold long night,\nJeroen van Oort\nDutch National Co\u00F6rdinator",
+      "Id": "73741"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 19, 2015, 12:55\u202FPM",
+      "Body": "It's all in the rulebook:\n\n> Non-existant user wrote:\n> Some of the cards in the game represent unique resources, such as specific locations, equipment or people. These cards will be identified as \"unique\" in their card text. In addition, all crypt cards represent unique minions. If more than one unique card with the same name is brought into play, that means control of the card is being contested. For the duration of the contest, all of the contested cards are turned face down and are out of play. If another unique card with the same name is brought into play, it is immediately contested and turned face down as well.\n>\nThe only thing that matters is: is the card already in play (contested or not)? Being on another contested card doesn't change anything.\n\nSo\n1/ Both Ivory Bow and Anson are contested\n2/ Both Ivory Bow and Anson are contested\n2'/ Ivory Bow has been yielded. A new Ivory Bow comes in play. There's already one in play, so it becomes contested.\n3/ Both Ivory Bow and Anson are contested\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73742"
+    },
+    {
+      "Author": "Oortje",
+      "Date": "Oct 19, 2015, 2:41\u202FPM",
+      "Body": "Ah I found the error in my mind.\n\nHave a cold long night,\nJeroen van Oort\nDutch National Co\u00F6rdinator",
+      "Id": "73743"
+    },
+    {
+      "Author": "Borrelstein",
+      "Date": "Oct 19, 2015, 7:15\u202FPM",
+      "Body": "So that implies that equipment and other cards on a contested vampire remain in play during the contest, and can be destroyed/stolen etc? Good to know!",
+      "Id": "73750"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Oct 19, 2015, 9:41\u202FPM",
+      "Body": "Since contest is being discussed: what happen with constesting and first tradition skip-of-turn?",
+      "Id": "73752"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 19, 2015, 10:08\u202FPM",
+      "Body": "> Nac wrote:\n> Since contest is being discussed: what happen with constesting and first tradition skip-of-turn?\n>\nFirst Tradition happens before you get the chance to continue or yield the contest AFAIK so the contest remains.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "73753"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 19, 2015, 10:10\u202FPM",
+      "Body": "> Borrelstein wrote:\n> So that implies that equipment and other cards on a contested vampire remain in play during the contest, and can be destroyed/stolen etc? Good to know!\n>\nNope, the incoming Unique card checks if any player has one under contest or in play, and then responds.\n\nSo Igo has an Ivory Bow.\nIgo gets contested, so his Ivory Bow \"vanishes\" into the contest.\nAnson gets an Ivory Bow, but Anson's Ivory bow knows that Igo has an Ivory Bow. So Anson's Ivory Bow contests Igo's Ivory Bow.\n\nWhile they are being contested other cards cannot target them because they are not in play. It is the same story as when cards \"know\" you've played that card this Turn/Game/Action (i.e. Cancelling Immortal Grapple).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "73754"
+    },
+    {
+      "Author": "Borrelstein",
+      "Date": "Oct 20, 2015, 10:35\u202FAM",
+      "Body": "Well I know that the contested cards are out of play, but how about the non-contested cards like equipment or The Rack placed on a contested vamp?",
+      "Id": "73763"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 20, 2015, 10:40\u202FAM",
+      "Body": "> Borrelstein wrote:\n> Well I know that the contested cards are out of play, but how about the non-contested cards like equipment\n>\nEquipment is put on the vampire, so it's out of play while the vampire is contested.\n\n> Borrelstein wrote:\n> or The Rack placed on a contested vamp?\n>\nThe Rack isn't \"placed on\" a vampire. It is put in play, and targets a vampire. If that vampire is contested, the Rack stays in play and doesn't give blood until the vampire returns in play or stolen.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73764"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 20, 2015, 4:18\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Borrelstein wrote:\n> > Well I know that the contested cards are out of play, but how about the non-contested cards like equipment\n> >\n> Equipment is put on the vampire, so it's out of play while the vampire is contested\n>\nCitation:  [RTR 1995-10-17]\n\n> The wrote:\n> 1) If a minion becomes contested, that minion is considered out of play.\n> Any cards played on that minion are also considered out of play for all\n> purposes except contention. Any unique equipment, retainers, etc. on the\n> minion will be contested normally if other copies appear, even if other\n> copies are also on contested minions.\n>",
+      "Id": "73773"
+    }
+  ]
+}

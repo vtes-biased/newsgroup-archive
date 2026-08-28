@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-76839",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76839-seal-of-veddartha",
+  "Title": "Seal of Veddartha",
+  "Messages": [
+    {
+      "Author": "TryDeflectingThisGrapple",
+      "Date": "Jul 20, 2018, 3:52\u202FPM",
+      "Body": "Seal of Veddartha\nType: Equipment\nCost: 1 pool\nUnique equipment.\nOnly usable by a vampire with capacity above 5. This vampire can bleed at +1 bleed as a  action. During each of your unlock phases, put a counter on this card if it has 3 or fewer counters. The first 2 counters each grant this vampire one level of Dominate [dom]. The next 2 each grant this vampire one level of Fortitude [for]. Remove all counters from this card if another minion gains control of it.\n\nIt's the \"usable\" text that creates the question as it relates to later parts of the card text.\n\nIt's pretty clear that a 2 capacity vampire cannot equip this card from hand, as \"usable\" and \"playable\" are rough synonyms for the play of cards from hand.\n\nThere is, however, no restriction against a vampire of capacity 6+ equipping from hand and a 2-cap vampire later equipping from that larger vampire. Let us assume this has occurred.\n\nIt's also clear that a 2-cap vampire is prohibited from initiating a +1 bleed action with the Seal. The \"this vampire can\" in the sentence relating to bleeding explicitly describes triggering an effect to bleed, but would be prohibited by the \"use\" restrictions.\n\nIt is also apparent that discipline-granting counters accumulate on the Seal over time. That process is mandatory per card text and the counters go on the Seal, not the vampire. It is an effect independent of considerations like attached vampire's capacity.\n\nQuestion: Do those counters grant the 2-capacity vampire levels of Dominate (and eventually, Fortitude)?\n\nIt would seem to me that the inevitable answer is \"yes.\" Small minions are not prohibited from having the Seal and counters accumulate. The \"grant\" disciplines is both mandatory (card text) and does not constitute \"use\" as defined by optionally triggering an effect or declaring an action with \"can/may\" on the Seal.\n\nI'll also contrast this to the Blade of Enoch, which explicitly states that its passive effect only applies to vampires of suitable capacity. Crusader Sword has a text similar to the Blade and Stolen Police Cruiser consistently refers to 'this anarch\" for its passive effects. Such restrictions are noticeably missing from the Seal - so the logical conclusion is that disciplines are granted regardless of attached vampire's capacity (as long as they are indeed, a vampire).\n\nBlade of Enoch\nType: Equipment\nCost: 1 pool\nUnique melee weapon.\nStrike: strength+1 damage, only usable by a vampire with capacity above 5. Damage inflicted by this weapon on a Brujah or Brujah antitribu is aggravated. This vampire with capacity above 5 is immune to the effects of Frenzy cards.\n\nInteresting aside noted which further muddies the water regarding the \"usable\" terminology. If Sniper Rifle only be \"used\" at long range, how can the bearer reference its range-setting text before range is determined? (Yes, I know, because that was the intent. But it really should be \"2R each strike, only usable at long range. If the bearer....)\n\nSniper Rifle\nType: Equipment\nCost: 2 pool\nWeapon, gun.\n2R damage each strike. Only usable at long range. If the bearer blocks an action, he or she may, before range is determined, set the range for the first round of the resulting combat to long; if he or she does so, skip the determine range step that round, and the bearer's initial strike that round must be with this weapon.",
+      "Id": "89118"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 20, 2018, 6:29\u202FPM",
+      "Body": "> TryDeflectingThisGrapple wrote:\n> It's pretty clear that a 2 capacity vampire cannot equip this card from hand, as \"usable\" and \"playable\" are rough synonyms for the play of cards from hand.\n>\nWrong. See groups.google.com/d/msg/rec.games.trading-cards.jyhad/DG7s60pwv1U/FPqlZYJ3upcJ\n\n> TryDeflectingThisGrapple wrote:\n> It's also clear that a 2-cap vampire is prohibited from initiating a +1 bleed action with the Seal. The \"this vampire can\" in the sentence relating to bleeding explicitly describes triggering an effect to bleed, but would be prohibited by the \"use\" restrictions.\n>\nCorrect.\n\n> TryDeflectingThisGrapple wrote:\n> Question: Do those counters grant the 2-capacity vampire levels of Dominate (and eventually, Fortitude)?\n>\nProbably, I need to check.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89120"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Aug 1, 2018, 5:59\u202FPM",
+      "Body": "Holy shit, Darb! I never even realized that a minion that cannot \"use\" a piece of equipment may still equip it. Looks like you were in the same boat on that one. However, this does make the Seal inquiry fairly interesting. I imagine the answer will be 'No' but a discussion about the phrasing (or rephrasing) will be forced to come up.",
+      "Id": "89525"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 1, 2018, 8:54\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > TryDeflectingThisGrapple wrote:\n> > Question: Do those counters grant the 2-capacity vampire levels of Dominate (and eventually, Fortitude)?\n> >\n> Probably, I need to check.\n>\nMy answer is yes: the levels granted by the Seal do not count as \"using\" it.\n\nCompare it to Blade of Enoch who explicitly prevent the minion from being immune to Frenzy cards if it doesn't have the right capacity:\n\nName: Blade of Enoch\n[Third:R, KoT:R]\nCardtype: Equipment\nCost: 1 pool\nUnique melee weapon.\nStrike: strength+1 damage, only usable by a vampire with capacity above 5. Damage inflicted by this weapon on a Brujah or Brujah antitribu is aggravated. This vampire with capacity above 5 is immune to the effects of Frenzy cards.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89529"
+    }
+  ]
+}

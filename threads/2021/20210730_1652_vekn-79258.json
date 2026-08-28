@@ -1,0 +1,500 @@
+{
+  "ThreadId": "vekn-79258",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rulebook/79258-rulebook-potentially-misleading-and-oddly-placed-passages",
+  "Title": "Rulebook: Potentially misleading and oddly placed passages",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jul 30, 2021, 4:52\u202FPM",
+      "Body": "I found a couple of misleading and wweird phrases in the rulebook that need fixing in my opnion.\n>\n> ADVANCED RULESSome cards have a burn option icon.This icon means that a Methuselah who does not control a minion that meets the requirements of this card may discard it during ANY Methuselah\u2019s unlock phase and replace it.Each Methuselah is limited to one such discard each unlock phase.For each card and title you are contesting, you must choose to yield or to pay to contest it.\n>\nThis sems to be in the wrong place, should that not be inside the box below, or in it'S own box after both contest cases?\n>\n> Contested Titles\n> [...]\n> If more than one vampire in play claims the same title, then the title is contested.\n>\nThis can be read as that two cardinals, primogen etc would contest. There needs to be a \"unique\" here.\n>\n> If a single minion has two or more different mandatory actions, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n>\nShould be \"If a single minion can't perform a mandatory action or has two [...]\nAka the \"change of target on a mandatory hunt\" rule.\n>\n> 2. Resolve Any Block Attempts\n> Stealth and Intercept\n> [...]\n> Note that all modifications made to a minion\u2019s stealth or intercept remain in effect for the duration of the action. Increased stealth and intercept return to normal after the action is resolved.\n>\nStealth and intercept can be below 0 due to cards and effects, this also resets to the default value.\n>\n> Combat\n> 5. Damage Resolution\n> [...]\n> ADVANCED RULESAllies and retainers treat aggravated damage the same as normal damage. For each point of damage successfully inflicted on a minion or retainer, they burn 1 life counter. A minion or retainer who loses all of their life counters is burned.\n>\nShould be Ally.",
+      "Id": "102825"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jul 30, 2021, 8:32\u202FPM",
+      "Body": "I just discoverd a second occurance of \"Minion\" that should be \"Ally\" in the last quaoted paragraph.\nI edited the post accordingly.",
+      "Id": "102827"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Aug 4, 2021, 11:43\u202FAM",
+      "Body": "From Clarifications in the V5-Rulebook:\n\nDeep Song - \"At superior, if the action is not blocked, the target minion is considered to be the acting minion: ...\"\nDeep Song sup works only against vampires, not minions.\n\n\"Frenzy. d Enter combat with and lock a vampire. The target vampire is considered the acting minion during that combat.\"\n\nBaron of Frankfurt",
+      "Id": "102858"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 17, 2021, 2:17\u202FPM",
+      "Body": "More misleading passages:\n>\n> Rulebook wrote:\n> During a bleed action, a minion cannot play more than one action modifier card to increase the bleed amount. This rule is reminded on those cards by the \u201C(limited)\u201D card text.\n>\nContradicts the glosssary:\n>\n> rulebook wrote:\n> Limited: Some cumulative effects are forbidden by the rules. For instance, no more than one action modifier card can be played to increase a bleed during a bleed action. Similarly, a minion cannot use more than one card or effect (a source) to gain additional strikes per round of combat. Those rules are reminded on those cards by the \u201C(limited)\u201D card text. (See Bleed and Additional Strikes).\n>\nThis first phrasing implies, that a minion who took over the action with \"mask of a thousand faces\" can play additional limited bleed modifiers, or that several minions can play \"empowering the puppet king\" into the same action, wich is both not possible according to my knowlege, and with the wording in the glossary.\n\nMask of a thousand faces\n\nEmpowering the Puppet King",
+      "Id": "103577"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 20, 2021, 8:58\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n> More misleading passages:\n> >\n> > Rulebook wrote:\n> > During a bleed action, a minion cannot play more than one action modifier card to increase the bleed amount. This rule is reminded on those cards by the \u201C(limited)\u201D card text.\n> >\n> Contradicts the glosssary:\n> >\n> > rulebook wrote:\n> > Limited: Some cumulative effects are forbidden by the rules. For instance, no more than one action modifier card can be played to increase a bleed during a bleed action. Similarly, a minion cannot use more than one card or effect (a source) to gain additional strikes per round of combat. Those rules are reminded on those cards by the \u201C(limited)\u201D card text. (See Bleed and Additional Strikes).\n> >\n> This first phrasing implies, that a minion who took over the action with \"mask of a thousand faces\" can play additional limited bleed modifiers, or that several minions can play \"empowering the puppet king\" into the same action, wich is both not possible according to my knowlege, and with the wording in the glossary.\n>\n> Mask of a thousand faces\n>\n> Empowering the Puppet King\n>\nAgree with the above.\n\nMy contribution for possible re-wordings:\n\n> For the bleed section:\n> During a bleed action, an action modifier card that would increase the bleed amount cannot be played if one is already doing so.\n>\n> For the glossary section:\n> Limited: Some cumulative effects are forbidden by the rules. For instance, during a bleed action, an action modifier card that would increase the bleed amount cannot be played if one is already doing so. Similarly, a minion cannot use more than one card or effect (a source) to gain additional strikes per round of combat.\n>",
+      "Id": "103611"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Oct 20, 2021, 12:40\u202FPM",
+      "Body": "Indeed. The issue with rulebook passage\n\"During a bleed action, a minion cannot play more than one action modifier card to increase the bleed amount. This rule is reminded on those cards by the \u201C(limited)\u201D card text.\"\n\nIs that this text implies limited +bleed modifier is a minion-specific thing. If this was correct, the second minion who used mask of thousand faces should be able to play the same action modifier increasing the bleed, for the same reason they can play second lost in crowds. Its not the same minion.\n\nI assume this is an oversight, and the text should actually refer to the action (still the same action in Mask case) instead of the minion.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103614"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 22, 2021, 11:24\u202FAM",
+      "Body": "The Rulebook states:\n>\n> Playing a Card\n>\n> A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap. Sometimes a card will state to put it into play, you should announce its effects and place the card in the play area.\n>\nInside the passus about minion cards there is no stated excepetions for any card (that is not put into play by it's card text)\n\nLater in \"SUMMARY OF THE COURSE OF AN ACTION\" there is this sentence as part of \"3. Resolve the Action\"\n>\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences\n>\nThis suggests that\na) action cards are the exception from the general rule of the above, but this is not stated in the decription of action cards.\nb) the sentence implies that Action cards are placed in the ash heap upon resolution, wich would open a \"hole\" when the action ends without resolution due to any effect.\n\nIf it is intended, that Action cards are placed in the ash heap upon action resolution, that should be stated in the description of the card types, as an exception of the general rules, and should include \"Or ends for any other reason\"",
+      "Id": "103640"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 2, 2021, 9:37\u202FAM",
+      "Body": "> Dodge: A dodge strike deals no damage, but it protects the dodging minion and their possessions from the effects of the opposing strike. Retainers are not protected, however. A dodge is effective at any range. A dodge protects even from the effects of a strike done with first strike (see First Strike). A dodge is a strike, even though it is solely defensive. It represents the activity of the minion during that pair of strikes.\n>\nThis should include wording that it also protects from additional effects from Strike: combat ends (Oubliette, catatonic fear). (\"A dodge protects thrm the effects of a strike, regardles of when the strike resolves (i.e. first strike)\" or something)\n\nOubliette\n\ncatatonic fear",
+      "Id": "103738"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 2, 2021, 4:04\u202FPM",
+      "Body": "\"it protects the dodging minion and their possessions from the effects of the opposing strike\"\n\nIsn't damage or loss of blood/life an effect of the strike?\n\nIt is.",
+      "Id": "103745"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 2, 2021, 4:08\u202FPM",
+      "Body": "Yes, but the explicit mentioning of \"first strike\" coud be understood as, that dodge doesnt work agaisnt strike comabt ends, wich resolve even earler in my opnion.",
+      "Id": "103746"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 3, 2021, 10:38\u202FAM",
+      "Body": "I agree with Hobbesgoblin that the rules could be improved. The below leads one to believe that when a CE is played no other strikes resolve including Dodge. Dodge actually always resolves along/simultaneous with whatever strike is resolved first (be it CE, first strike, or a regular strike) and only affects strike effects other than CE, Dodge, or effects aimed at retainers.\n\n> Dodge: A dodge strike deals no damage, but it protects the dodging minion and their possessions from the effects of the opposing strike. Retainers are not protected, however. A dodge is effective at any range. A dodge protects even from the effects of a strike done with first strike (see First Strike). A dodge is a strike, even though it is solely defensive. It represents the activity of the minion during that pair of strikes.\n>\n> Combat Ends: This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike (see First Strike), and it ends combat before other strikes or other strike resolution effects are resolved. Combat ends is effective at any range. Combat ends is not affected by a dodge, since dodge only cancels effects that are directed at the dodging minion.\n>\nAnother rules part that could benefit from being improved is the fact that one can choose a close combat strike when being at long range for no effect (other than card cycling if using a strike from a card)...the part explaining that ranged strikes can be used at any range is what leads one to believe that the same isn\u00B4t true for close-range strikes. Would also be good to mention that a strike always must be chosen. Would be more accurate to write that most strikes resolve simultaneously with the exception of CE and strikes done with first strike...to avoid self-contradiction.\n\n> \u25FC Choose Strike: Each minion chooses their strike. The strike can be from a combat card, from a weapon the minion possesses, by default from a hand strike, or can be from any other card providing this minion a strike. If a minion has used a maneuver from a strike (either a strike card or a weapon) this round, then they cannot choose any other strike for their initial strike of the round.\n>\n> \u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage, or is a defensive strike such as dodge or combat ends. Ranged strikes and strikes that do \u201CR\u201D damage can be used at any range, close or long.\n>",
+      "Id": "103765"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Nov 3, 2021, 1:08\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> Yes, but the explicit mentioning of \"first strike\" coud be understood as, that dodge doesnt work agaisnt strike comabt ends, wich resolve even earler in my opnion.\n>\nIndeed. It does work, but rules are REALLY fuzzy on the timing. One would expect that a strike with first strike resolves before other strikes, but this is not the case. Because... reasons.\n\nHonestly this isn't explained in the rules practically at all. Things are the way they are because rules authorities say so.\n\nDodge functions as a sort of \"counter\" to the enemy strike, no matter the timing of said strike.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103767"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 4, 2021, 10:58\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > If a single minion has two or more different mandatory actions, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n> >\n> Should be \"If a single minion can't perform a mandatory action or has two [...]\n> Aka the \"change of target on a mandatory hunt\" rule.\n>\nAdding to this in this thread so it is in one place, suggested wording below\n\n> Rulebook change:\n> Some actions are mandatory. Any of those actions must be performed before any nonmandatory actions and nonrepeatable actions only need to be performed once per turn as such. If you have two or more minions with mandatory actions, they may be done in the order you choose. A minion required to take a mandatory action cannot perform any other action. For example, a ready vampire with no blood must hunt as a mandatory action.\n>\n> If a single minion has two or more different mandatory actions, or cannot perform a mandatory action, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n>\n*** Post update, withdrawing this suggestion. See  post . ***",
+      "Id": "103778"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 4, 2021, 2:31\u202FPM",
+      "Body": "> inm8 wrote:\n> Adding to this in this thread so it is in one place, suggested wording below\n>\n> > Rulebook change:\n> > Some actions are mandatory. Any of those actions must be performed before any nonmandatory actions and nonrepeatable actions only need to be performed once per turn as such. If you have two or more minions with mandatory actions, they may be done in the order you choose. A minion required to take a mandatory action cannot perform any other action. For example, a ready vampire with no blood must hunt as a mandatory action.\n> >\n> > If a single minion has two or more different mandatory actions, or cannot perform a mandatory action, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n> >\nThis would change how Embraces, Waters of Duat, and Tumnimos work. If they unlock during the turn they are created after they hunt, with the current rulings, they could act, with the proposed rulebook change they could not.\n\nPerhaps the correct answer is to remove the `must hunt` clauses from those cards. The come into play empty and can act, so hunting is the only option unless tricks like The Coven come into play.",
+      "Id": "103782"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 5, 2021, 2:43\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > inm8 wrote:\n> > Adding to this in this thread so it is in one place, suggested wording below\n> >\n> > > Rulebook change:\n> > > Some actions are mandatory. Any of those actions must be performed before any nonmandatory actions and nonrepeatable actions only need to be performed once per turn as such. If you have two or more minions with mandatory actions, they may be done in the order you choose. A minion required to take a mandatory action cannot perform any other action. For example, a ready vampire with no blood must hunt as a mandatory action.\n> > >\n> > > If a single minion has two or more different mandatory actions, or cannot perform a mandatory action, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n> > >\n> > >\n> >\n> This would change how Embraces, Waters of Duat, and Tumnimos work. If they unlock during the turn they are created after they hunt, with the current rulings, they could act, with the proposed rulebook change they could not.\n>\n> Perhaps the correct answer is to remove the `must hunt` clauses from those cards. The come into play empty and can act, so hunting is the only option unless tricks like The Coven come into play.\n>\nDoes anyone else see the issue/flaw that kschaefer is pointing out? I talked to him extensively already and unfortunately, I haven't gotten to a place where I understand what or where there is a flaw in the suggested wording. If anyone sees the same or something else I would be grateful for the feedback and hopefully, I am able to get the point to correct the flaw if it is there.\n\nAs per my interpretation, the suggested wording I have made wouldn't affect \"must hunt this turn\" actions, any other repeatable actions made mandatory (i.e. diablerie) nor conditionally mandatory repeatable actions (i.e. hunt).\n\nIf a repeatable action is made mandatory for a duration then that is the only action that can be taken for that duration, this is not true for nonrepeatable actions made mandatory which satisfy the necessity for the action being taken by performing it once per turn as mandatory regardless of the duration.\n\nThe addition \"and nonrepeatable actions only need to be performed once per turn as such.\" only affects nonrepeatable actions made mandatory when taken as mandatory.\n\nThe omission of mentioning repeatable actions made mandatory doesn't make e.g. \"must hunt this turn\" effects nor empty vampires need to hunt the only possible action for the turn as long as the conditions making them mandatory have been satisfied/are no longer relevant... the first (i.e \"must hunt this turn\") mandatory nature is satisfied /made irrelevant as soon as it has been performed once in that turn as there is no duration mentioned (per official English grammar and also supported by a ruling) and the second (i.e. empty vampires need to hunt) is conditionally mandatory and only while the vampire is empty of blood, as soon as he has some blood the hunt action is no longer mandatory but optional.\n\nFinally, I want to clarify that all of my submissions for additions/changes/clarifications are to make the rules explain the full picture accurately and precisely without actually changing the rules per se or going against rulings. I try to formulate suggestions that are as small as possible (amount of text) and without trying to simplify the language used to address the intended parts. I\u00B4m sure things can be written in different ways and I don't think that my wording is necessarily the best so feel free to make your own suggestions or suggest how to improve mine.",
+      "Id": "103798"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 5, 2021, 9:06\u202FPM",
+      "Body": "My understaning of Kschaefer's point is, that there would bw two triggers in place, mandating mandatory actions. These actions may be the same, but they have seperate soruces, so you could read the rules in a way, that they are \"stuck\" due to having two \"mandatory action triggers\" on them.\n\nOr they are referring to the \"and nonrepeatable actions only need to be performed once per turn as such.\" part, as Hunt is repeatable, and you coudl read it as the huns must be performed several times.",
+      "Id": "103809"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 7, 2021, 11:45\u202FAM",
+      "Body": "After a lengthy discussion, it came to light that\n>\n> 1. Before Range: Play cards before range is chosen.\n>\ncan be misleading\nThe problem is, that it can be read as, that this step is skipped or aborted, if the range is set by an effect.\n\nI propose the follwing, or similar\n>\n> 1. Before Range: Play cards that are played \"before range is chosen\".\n>",
+      "Id": "103819"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 10, 2021, 3:22\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> After a lengthy discussion, it came to light that\n> >\n> > 1. Before Range: Play cards before range is chosen.\n> >\n> can be misleading\n> The problem is, that it can be read as, that this step is skipped or aborted, if the range is set by an effect.\n>\n> I propose the follwing, or similar\n> >\n> > 1. Before Range: Play cards that are played \"before range is chosen\".\n> >\nI don\u00B4t think the above makes it clearer as to what is actually allowed, skipped etc. when a \"set the range\" effect is played.\nI think that an addition of an \"ADVANCED RULES\" section under the \"Before Range\" step that explains the interactions of \"set the range\" effects would do a better job.\n\n> ADVANCED RULES\n>\n> Some cards may provide the ability to set the range of combat or a round of combat, these follow the normal sequencing rule. Whoever plays a range setting effect first decides what the range will be, no further range affecting effects nor maneuvers can be played in the relevant combat or round, and the combat step Determine Range is skipped. The combat step Before Range is not closed nor skipped because the range is set for the combat or round and any before range is determined/chosen effects are still playable.\n>",
+      "Id": "103846"
+    },
+    {
+      "Author": "lip",
+      "Date": "Nov 14, 2021, 3:12\u202FPM",
+      "Body": "Although a small advanced section might be good here, I think it can be shorten and made easier to read:\n\n> ADVANCED RULES\n>\n> Some cards provide the ability to set the range directly, as opposed to a simple maneuver. They follow the normal sequencing rules. Once such an effect is used, no further effect nor maneuver can be used to alter the range. Other cards and effects played \"before range is chosen\" can still be played afterwards.\n>",
+      "Id": "103883"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 2, 2021, 2:50\u202FPM",
+      "Body": "The rulebook should add a section where it is made clear that:\n\nadd X blood (without referring it is from the blood bank) = to take blood from the blood bank\nmove x blood from x = to move blood from the x (source mentioned)",
+      "Id": "104095"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2021, 3:59\u202FPM",
+      "Body": "> inm8 wrote:\n> The rulebook should add a section where it is made clear that:\n>\n> add X blood (without referring it is from the blood bank) = to take blood from the blood bank\n> move x blood from x = to move blood from the x (source mentioned)\n>\nThe section already exists (Object of the game > Counters) and \"add\" is already described in both that section and the Glossary.\nIt could however be extended to all kind of counters and cards.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "104096"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 3, 2021, 9:37\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > inm8 wrote:\n> > The rulebook should add a section where it is made clear that:\n> >\n> > add X blood (without referring it is from the blood bank) = to take blood from the blood bank\n> > move x blood from x = to move blood from the x (source mentioned)\n> >\n> The section already exists (Object of the game > Counters) and \"add\" is already described in both that section and the Glossary.\n> It could however be extended to all kind of counters and cards.\n>\nStill think that something that is this fundamental and that has been changed from what used to be explicit text indicating that it was from the blood bank to now be implicit because of the use of the word/template \"add x blood\" without referencing from what source should be better defined. A suitable place would be in section 3 under \"Wording Templates\".\n\n> Add/Put X {type of} counter(s): By default, counters (e.g. blood, corruption, etc.) are added from the blood bank if no other source is explicitly mentioned.\n>",
+      "Id": "104109"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 26, 2021, 9:10\u202FAM",
+      "Body": "> inm8 wrote:\n>\n> > Hobbesgoblin wrote:\n> >\n> > > If a single minion has two or more different mandatory actions, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n> > >\n> > Should be \"If a single minion can't perform a mandatory action or has two [...]\n> > Aka the \"change of target on a mandatory hunt\" rule.\n> >\n> Adding to this in this thread so it is in one place, suggested wording below\n>\n> > Rulebook change:\n> > Some actions are mandatory. Any of those actions must be performed before any nonmandatory actions and nonrepeatable actions only need to be performed once per turn as such. If you have two or more minions with mandatory actions, they may be done in the order you choose. A minion required to take a mandatory action cannot perform any other action. For example, a ready vampire with no blood must hunt as a mandatory action.\n> >\n> > If a single minion has two or more different mandatory actions, or cannot perform a mandatory action, then they are \u201Cstuck\u201D and cannot perform any action (this does not prevent your other minions from performing actions, however).\n> >\nI'm withdrawing the above suggestion as I believe it to be incorrect, the correct reason for the handling I think is described in this  thread and I will resubmit a suggestion here once it is confirmed by Ankha",
+      "Id": "104290"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 5, 2022, 5:11\u202FPM",
+      "Body": "I would like to suggest that the NRA rule gets added as a section with some examples like mentioned in other threds and also mention what it means for actions provided by cards in play that are made mandatory.\n\nRelevant links:\n\nwww.vekn.net/forum/rules-questions/79389-when-does-nra-apply-not-apply?start=6#103563\n\nwww.vekn.net/forum/rules-questions/79335-elen-camjian-second-action?start=18#104371",
+      "Id": "104375"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 11, 2022, 12:37\u202FAM",
+      "Body": "In the combat section, maybe replace:\n\n> Note: The only cards that can be played during combat are combat cards.\n>\nby:\n\n> Note: The only minion cards that can be played during combat are combat cards.\n>\nA lot of OOT Master cards can be played in combat. It might be less misleading to word it that way. OOT Master that cannot be played in combat even have a card text specifying it (eg. Angel of Berlin)",
+      "Id": "104434"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 30, 2022, 7:14\u202FAM",
+      "Body": "Under the \"Playing a card\" section update the below\n\n> ADVANCED RULES\n>\n> Some effects can cancel a card \u201Cas it is played.\u201D These effects, as well as wake effects, are the only effects allowed during the \u201Cas played\u201D time period of another card. Even drawing to replace cards, comes after this time period.\n>\nto\n\n> ADVANCED RULES\n>\n> Some effects can cancel a card \u201Cas it is played.\u201D These effects, as well as wake effects and other effects specified by card text, are the only effects allowed during the \u201Cas played\u201D time period of another card. Even drawing to replace cards and the actual locking of cards played and/or used, comes after this time period.\n>",
+      "Id": "104898"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 30, 2022, 8:16\u202FAM",
+      "Body": "Under the  Minion Cards section update the below to reflect the  ruling .\n\n> Minion cards are cards that your vampires and allies (collectively referred to as \u201Cminions\u201D) play.\n>\nto\n\n> Minion cards are cards that you, and your vampires and allies (collectively referred to as \u201Cminions\u201D) play.\n>",
+      "Id": "104899"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Mar 30, 2022, 9:18\u202FAM",
+      "Body": "> inm8 wrote:\n>\n> > Minion cards are cards that your vampires and allies (collectively referred to as \u201Cminions\u201D) play.\n> >\n> to\n>\n> > Minion cards are cards that you, and your vampires and allies (collectively referred to as \u201Cminions\u201D) play.\n> >\nI think that a rewording along this line needs to be more like \"are cards that you play using your ...\", with maybe a clarification that they are also considered played by the minion. Otherwise the distinction between master cards (which are also described as \"cards you play\") and minion cards becomes less clear.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "104902"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Mar 30, 2022, 9:39\u202FAM",
+      "Body": "> drnlmza wrote:\n>\n> I think that a rewording along this line needs to be more like \"are cards that you play using your ...\", with maybe a clarification that they are also considered played by the minion. Otherwise the distinction between master cards (which are also described as \"cards you play\") and minion cards becomes less clear.\n>\nI thought of wording it like below but didn\u00B4t, to try to keep the changes to a minimum.\n\n> Minion cards are cards that are considered to be played by both you, and your vampires and allies (collectively referred to as \u201Cminions\u201D).\n>\nAs who plays the different cards is described respectively I didn't think it would be confusing...i might be wrong.\n\nMaster Cards Master cards are cards you play in your role as a Methuselah. Minion Cards Minion cards are cards that your vampires and allies (collectively referred to as \u201Cminions\u201D) play. Event Cards Event cards are played to represent events that affect the World of Darkness as a whole. Once each discard phase, a Methuselah may use a discard phase action to put an event card in play.",
+      "Id": "104903"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 1, 2022, 8:29\u202FAM",
+      "Body": "I suggest the addition of a new section that covers the rules around cards/effects that \"put X out of play\" and later \"return X to play\"/\"put X in to play\".\n\ne.g. Banishment (the cards on the minion are put out of play), Descent into Darkness\n\nthings it should cover:  cards that are out of play for other reasons than contesting do not contest cards that are out of play because of contesting do contest placing a minion out of play also affects all cards on the minion to be put out of play placing other cards than a minion card out of play only affects the specific card(s) returning cards to play do not trigger the cards text e.g. \"as X enters play\" doesn\u00B4t trigger returning a minion to play also affects all cards on the minion to be returned to play returning cards to play remember everything e.g. nr of counters, lost or gained titles, once per game usage, etc. returning a card into play by player choice that would cause self contesting is prohibited  feel free to add or challenge the above.",
+      "Id": "105132"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 5, 2022, 2:08\u202FPM",
+      "Body": "Under the  \"Playing a card\" section update the below\n\n> Playing a Card\n>\n> A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap. Sometimes a card will state to put it into play, you should announce its effects and place the card in the play area.\n>\nto\n\n> Playing a Card\n>\n> A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap. Sometimes a card will state to put it into play, you should announce its effects and place the card in the play area. Playing cards that are multi-type and/or multi-discipline leveled (of one or multiple disciplines) are only considered to be played as the type and as requiring only the disciplines corresponding to the relevant effect unless card text says otherwise.\n>",
+      "Id": "105179"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 5, 2022, 2:30\u202FPM",
+      "Body": "Under the  \"Card Types\" section update the below\n\n> Minion Cards: Minion cards are played by the minions (vampires and allies) the Methuselah controls.\n>\nto\n\n> Minion Cards: Minion cards are played by both the minions (vampires and allies) and by the Methuselah who controls them. Minion cards in the library, ash heap, and in your hand that are multi-type and/or that require more than one discipline are considered to be cards that are all those types and that require each of those disciplines.\n>\nAlternative\n\n> Minion Cards: Minion cards are played by both the minions (vampires and allies) and by the Methuselah who controls them. Minion cards in the library, ash heap, and in your hand are considered to be of all the types and require each of the disciplines listed.\n>\nwww.vekn.net/forum/rules-questions/80129-fall-of-london-card-rules-questions#106688",
+      "Id": "105180"
+    },
+    {
+      "Author": "inm8",
+      "Date": "May 17, 2022, 8:49\u202FPM",
+      "Body": "> inm8 wrote:\n> Under the  \"Playing a card\" section\n>\nAdded \"Cards are played at a single level for its relevant effects if it doesn\u00B4t explicitly allows more than one level and/or discipline to be used.\" at the end of the suggested text.\n\n> Playing a Card\n>\n> A card is played by announcing its effects, showing the card and placing it from the hand in the ash heap. Sometimes a card will state to put it into play, you should announce its effects and place the card in the play area. Playing cards that are multi-type and/or multi-discipline leveled (of one or multiple disciplines) are only considered to be played as the type and as requiring only the disciplines corresponding to the relevant effect unless card text says otherwise. Cards are played at a single level for its relevant effects if it doesn\u00B4t explicitly allows more than one level and/or discipline to be used.\n>",
+      "Id": "105272"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 30, 2022, 3:13\u202FAM",
+      "Body": "so, this is slightly off topic, but I remember mentioning it a while ago on facebook, but apparently I never made a post about it here. I'd like to see this passage on page 30 of the rulebook changed from this:\n\n> \u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage, or is a defensive strike such as dodge or combat ends. Ranged strikes and strikes that do \u201CR\u201D damage can be used at any range, close or long.\n>\nto this:\n\n> \u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged. Ranged strikes can be used at any range, close or long.\n>\nand make Dodges and Combat ends strikes Ranged, as well as anything that strikes for R damage. Effects from retainers and other similar things don't really need to have a designation, because they already state \"if the range is close/long.\"",
+      "Id": "105335"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "May 30, 2022, 4:04\u202FPM",
+      "Body": "> self wrote:\n> so, this is slightly off topic, but I remember mentioning it a while ago on facebook, but apparently I never made a post about it here. I'd like to see this passage on page 30 of the rulebook changed from this:\n>\n> > \u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage, or is a defensive strike such as dodge or combat ends. Ranged strikes and strikes that do \u201CR\u201D damage can be used at any range, close or long.\n> >\n> to this:\n>\n> > \u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range, unless the strike is identified as ranged. Ranged strikes can be used at any range, close or long.\n> >\n> and make Dodges and Combat ends strikes Ranged, as well as anything that strikes for R damage. Effects from retainers and other similar things don't really need to have a designation, because they already state \"if the range is close/long.\"\n>\nI'll lodge my opposition to the part of Dodge/combat ends to become ranged strikes as it will affect number of +1 damage to ranged strike damage vampires and most glaringly will turn this card to anti combat ends/dodge which was not it's nor dodge's/combat ends design choice.\n\nName: Shadowed Eyes [HttB:R, POD:DTC] Cardtype: Action Cost: 1 blood Discipline: Auspex & Obtenebration +1 stealth action. [aus][obt] (D) Put this card on an ally or younger vampire. The attached minion gets -2 intercept and cannot perform directed actions or use ranged strikes. Any minion can burn this card as a +1 stealth action. [AUS][OBT] As above, and the action to burn this card costs 1 additional blood or life. Artist: Juan Calle\n\nNow if the card text for +1 damage ranged strikes Vampires and Shadowed Eyes is changed to include strikes but *not* include combat ends and dodges, it will be kosher in my eyes provided there's not some other interaction I'm forgetting.\n\nTrust in Jan Pieterzoon.",
+      "Id": "105341"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 30, 2022, 5:52\u202FPM",
+      "Body": "This could be solved by reminder text instead:\nStrike: Combat Ends. (Usable at any range.)",
+      "Id": "105354"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 31, 2022, 7:58\u202FAM",
+      "Body": "> kschaefer wrote:\n> This could be solved by reminder text instead:\n> Strike: Combat Ends. (Usable at any range.)\n>\nI'm a fan on helpful reminders and this is such.\n\nHowever, some cards with S.CE or Dodge might have so much text that adding such reminders would prove difficult or downright impossible. In such case the omission would lead players into thinking that that particular strike wasn't usable at long range.\n\nAlso, the cards already in existence wouldn't have such reminders and might cause some confusion in the future.\n\nWould hamper new card deign too.\n\nPondering about this and I think i have to say that the current system is most likely the best.\n\nFinnish  Politics!",
+      "Id": "105357"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 31, 2022, 5:31\u202FPM",
+      "Body": "> kschaefer wrote:\n> This could be solved by reminder text instead:\n> Strike: Combat Ends. (Usable at any range.)\n>\nThat's valid, and a decent compromise. I just find it inconsistent that we now have \"Ranged Strike: Steal blood...\" on Theft of Vitae, but guns retained \"Strike: R damage,\" seemingly because it's a legacy holdover. By changing Strikes that do R damage to Ranged Strikes that do Damage, it reinforces the rule that Strikes are effective at Close Range only (with the exception of Dodge and Combat Ends, which i'll get to again in a moment), and Ranged Strikes are effective at either range, rather than carving out an exception to the rule.\n\nConsider:\n>\n> Strikes are effective at close range, only. Ranged strikes are effective at both close and long range.\n>\nis much more consice than\n>\n> Strikes are only effective at close range, unless they do \"R Damage.\" Ranged strikes are effective at both close and long range.\n>\n> \"L\u00F6nkka wrote:\n>\n> > self wrote:\n> > make Dodges and Combat ends strikes Ranged,\n> >\n> Would hamper new card design too.\n>\nHowso and in what way?\n\n> L\u00F6nkka wrote:\n> the cards already in existence wouldn't have such reminders and might cause some confusion in the future.\n>\nPersonally, I don't find the argument of \"The old cards are still in circulation, so we therefore cannot make changes to card text because it might confuse someone to see two different versions\" in any way compelling, if this is what you're saying. Reprints are very much the motivation for updating card text, and updating cardtext seems to be a driving force for including a card to be reprinted.\n\nRecommending the changes to Dodge and CE was a way to use the game syntax that already exists, rather than create new rules out of thin air, because the community at large seems to not like any changes (even for the better). But if we were a little more forward thinking about things we could have a passage in the rulebook like this instead:\n\n> \u25FC Resolve Strike: The effects of the strikes from both minions are resolved simultaneously. A Strike is effective only at close range unless otherwise indicated. Strikes that are \"Ranged Strikes\" or \"Defensive Strikes\" are effective at both close and long Range. Strikes that are \"Long Strikes\" are effective only at long range.\n>\nNot only does this eliminate the \"R Damage\" exception to the strike rule, it codifies two other distinctions that are already effectively present in the game, and adds to the design space because these concepts would be actually codified into the rules.\n\nAnd before anyone says \"But the old cards still exist and that will confuse people!\" two things: First, Print on Demand is very much a conrnerstone of keeping V:TES alive and in print. Black Chantry could simply release a \"Guns, Guns, Guns\" or some other anthology for PoD to get the updated card texts into circulation.\n\nSecond, these changes might be confusing for returning players, but will be less likely to confuse new players. Returning players should hopefully have enough knowledge of the game to be able to figure out the changes. New players (in my experience) tend to buy the cards on the shelf of their FLGS or from the company's website to start before they go whole hog into buying collections off of Ebay, so they're less likely to encounter the older versions within their playgroup.\n\nNew players should also probably be given more credit in being able to learn and play the game despite the things that are already confusing. I don't think that making the text clearer and better in the rules and on cards makes things 'more confusing' because the old cards exist.",
+      "Id": "105364"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jun 1, 2022, 9:53\u202FAM",
+      "Body": "> self wrote:\n>\n> > \"L\u00F6nkka wrote:\n> >\n> > > self wrote:\n> > > make Dodges and Combat ends strikes Ranged,\n> > >\n> > Would hamper new card design too.\n> >\n> Howso and in what way?\n>\nLimiting the amount of space for card text.\n\nFinnish  Politics!",
+      "Id": "105368"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 16, 2022, 3:26\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> Limiting the amount of space for card text.\n>\nbusting our chops to save six or maybe twelve characters because the card text is getting too cramped to read feels like an indication that there are other, bigger concerns with that card, than \"ranged\" being appended to it.",
+      "Id": "105989"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Aug 16, 2022, 9:11\u202FAM",
+      "Body": "IIRC, the \"Limiting the amount of space for card text.\" has been a comment from the game's lead designer (could've been a public or private one, can't recall as it has been some years)...\n\nFinnish  Politics!",
+      "Id": "105995"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 16, 2022, 11:04\u202FAM",
+      "Body": "> self wrote:\n> That's valid, and a decent compromise. I just find it inconsistent that we now have \"Ranged Strike: Steal blood...\" on Theft of Vitae, but guns retained \"Strike: R damage,\"\n>\nMy personal opinion: For consistency we should change ranged strikes to have text:\n\nRanged strike: X damage.\n\nto be in line with thefts\nRanged strike: steal X blood.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "105998"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 16, 2022, 11:04\u202FAM",
+      "Body": "> self wrote:\n> That's valid, and a decent compromise. I just find it inconsistent that we now have \"Ranged Strike: Steal blood...\" on Theft of Vitae, but guns retained \"Strike: R damage,\"\n>\nMy personal opinion: For consistency we should change ranged strikes to have text:\n\nRanged strike: X damage.\n\nto be in line with thefts\n\nRanged strike: steal X blood.\n\nAnd get rid of the \"R damage\". Same template could be easily extended to any strike that works at range. Like:\nRanged strike: steal equipment with first strike\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "105999"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 16, 2022, 2:35\u202FPM",
+      "Body": "> Kilrauko wrote:\n>\n> I'll lodge my opposition to the part of Dodge/combat ends to become ranged strikes as it will affect number of +1 damage to ranged strike damage vampires and most glaringly will turn this card to anti combat ends/dodge which was not it's nor dodge's/combat ends design choice.\n>\n> Name: Shadowed Eyes [HttB:R, POD:DTC] Cardtype: Action Cost: 1 blood Discipline: Auspex & Obtenebration +1 stealth action. [aus][obt] (D) Put this card on an ally or younger vampire. The attached minion gets -2 intercept and cannot perform directed actions or use ranged strikes. Any minion can burn this card as a +1 stealth action. [AUS][OBT] As above, and the action to burn this card costs 1 additional blood or life. Artist: Juan Calle\n>\n> Now if the card text for +1 damage ranged strikes Vampires and Shadowed Eyes is changed to include strikes but *not* include combat ends and dodges, it will be kosher in my eyes provided there's not some other interaction I'm forgetting.\n>\nI don't understand building a blanket exception to the rule into the rulebook: \"Most strikes are effective only at close range, unless the strike is identified as ranged, does \u201CR\u201D damage, or is a defensive strike such as dodge or combat ends. Ranged strikes and strikes that do \u201CR\u201D damage can be used at any range, close or long.\" when you can have something that is consistent and easy to understand, and then errata the cards that need the exception clarified.\n\nAlso, this was brought up in the discord somewhere, but \"Defensive\" needs to go unless we're going to actually use it at a kind of strike like Ranged.",
+      "Id": "106007"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 29, 2022, 7:47\u202FAM",
+      "Body": "Advanced rules inserts.\n\n\u21D2 Rename them to \"Detailed rules\" insert instead (or something similar).\n\nWhile inserts are useful for clarity and readability, the use of \"Advanced rules\" as a title is misleading for new players. A recurring question from new players is \"so do you use the advanced rules when you play or just the basic rules?\".\n\nThe term \"advanced rules\" generally means, in a boardgames setting, that these rules are optional and can be used (partially or completely) or not. This is not the case here. Our \"advanced rules\" inserts provide very essential parts of the rules, even is usually a bit technical or niche. For note, the \"becoming anarch\" action, out-of-turn master cards, contesting and sequencing are all listed as \"advanced rules\" \u2014 I'm curious how new player groups manage to play without those rules in effect. (\"I'm bringing a second Alice Chen out\" - \"what? But you can't she's unique!\" - \"Nah man, we're not playing with the advanced rules\").",
+      "Id": "106179"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 16, 2022, 10:15\u202FAM",
+      "Body": "the  \u201CLock X to do Y\u201D  template shoud be generalized to  \"Do x to do Y\"\n\n\"Do x to do Y\" is at the moment a de facto template, wich is used on several cards, not only with locks. (shattering crescendo for example)",
+      "Id": "106567"
+    },
+    {
+      "Author": "JoBine111",
+      "Date": "Dec 22, 2022, 8:25\u202FAM",
+      "Body": "The structure of the text lead to confusion. \"Personal titles\" are under independent which could indicate that they are for the independent sect. It's even more now since there is a camarilla vampire with a personal title. There should be a section that explain that \"X votes (titled)\" is kept if you change clan and/or sect.",
+      "Id": "107092"
+    },
+    {
+      "Author": "self biased",
+      "Date": "May 16, 2023, 1:49\u202FPM",
+      "Body": "Also, the contents of this page should probably find its way into the rulebook as an appendix:  www.vekn.net/general-rulings",
+      "Id": "108103"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jun 4, 2023, 12:49\u202FPM",
+      "Body": "At the moment \"R\" Damage is only mentioned once during \"Resolve Strike\" despite it being a kind of damage that is also dealt by Retainers (Murder of crows) and Retainer damage only being effective at close range by default (see Wold Companion, which has reminder text about that)\n\nThis should be worded more generally like \"damage dealt during Strike resolution is only effective at close range unless...\" as this is the state of the rulings as of now per  [LSJ 20020104]",
+      "Id": "108226"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Aug 2, 2023, 9:15\u202FAM",
+      "Body": "After some discussions in the discord regarding \"decline to block\" and how the impulse works we found the below that should be considered for a future version of the rulebook.\n\nBelow PIB ruled that \"decline to block\" was not an impulse relevant effect referring to a rulebook portion that is no longer present in the current V5 rulebook. Instead, we currently have another portion in the V5 rulebook (in italics for some reason) that makes it a contradiction which is most probably the result of removing the wrong portion of the  previous version of the rulebook that had both portions.\n\n> Pascal wrote:\n> Declining to block is not an effect that gives the impulse back to the acting player. The impulse is given back only when a player declares a block attempt, or when all players have passed.\n>\n> > Rulebook wrote:\n> > Note that moving past the block attempts (when all Methuselahs have declined to block) is an effect and so allows the acting Methuselah (and others) to play more cards and effects.\n> >\n> V5 Rulebook\n>\n> Stealth and Intercept\n>\n> [...]\n>\n> If a block attempt fails, either another attempt is made or the defending Methuselah declares that they will not make any further attempts to block the action. Note that this declaration is an effect and so allows the acting Methuselah (and others) to play more cards and effects.\n>\nI suggest we remove the current portion and add in the relevant one referenced by PIB and an additional note to make it clear that declining to block moves the impulse to the next player (same as passing) and that an attempt to block moves the impulse back to the acting.\n\nNote that moving past the block attempts (when all Methuselahs have declined to block) is an effect and so allows the acting Methuselah (and others) to play more cards and effects.\n\nLink to the thread where LSJ made the ruling to change the portion reference by PIB to what it was up till the previous version of the rulebook (where he should have removed the latter portion which is currently in the V5 rulebook) and also  in the post just before LSJ eludes to a kind of split/parallel impulse which might be good to capture somehow.\n\n> LSJ wrote:\n>\n> In practice, the decline to block forms its own chain of\n> block attempts, paralleling the sequencing rules.\n>\nI hope this reflects the discord conversation correctly, if anything is missing or wrong feel free to add or correct it.",
+      "Id": "108899"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Aug 8, 2023, 3:52\u202FPM",
+      "Body": "A small thing, but \"prisci block\" should be \"prisci bloc.\" The reason why this is misleading is \"block\" refers to something one's minions can attempt in response to another player's minion's actions. \"prisci block\" could be taken to mean something entirely different than what was intended (ie, the prisci bloc being a group with a united purpose, as represented by a unique balloting mechanic). Someone not familiar with the game may take \"prisci block\" to instead mean that a priscus can block an action differently than a standard block attempt.",
+      "Id": "108967"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 25, 2023, 2:50\u202FAM",
+      "Body": "Can we get an appendix for returning players that outline rules changes?\n\nFor instance, directly stating that Banu Haqim and Assamite, are equivalent? the question comes up frequently enough on facebook and in the discord group.\n\nOr that Clans no longer have an inherent Sect.\n\nI'm sure there are other things that would be fitting to include, but that's what comes to mind right now.",
+      "Id": "109158"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 25, 2023, 7:27\u202FAM",
+      "Body": "Well, I have  this gist lying around but it's a bit long for an appendix...",
+      "Id": "109163"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Aug 25, 2023, 12:48\u202FPM",
+      "Body": "> lip wrote:\n> Well, I have  this gist lying around but it's a bit long for an appendix...\n>\nWow, this is amazing!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "109165"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Aug 28, 2023, 11:08\u202FPM",
+      "Body": "> lip wrote:\n> Advanced rules inserts.\n>\n> \u21D2 Rename them to \"Detailed rules\" insert instead (or something similar).\n>\n> While inserts are useful for clarity and readability, the use of \"Advanced rules\" as a title is misleading for new players. A recurring question from new players is \"so do you use the advanced rules when you play or just the basic rules?\".\n>\nFull agree  regarding the boxes, maybe a general restructure could be considered. At the moment, the boxes often include general information. Perhaps some of these could be explained elsewhere so the boxes could function rather as a reminder instead of an explanation. This could help readers to follow along. Maybe like this (with text between the passages)?\n\nWarning: Spoiler!\n\nContested Cards\nSome of the cards in the game represent unique resources, such as specific locations, equipment, or people. These cards will be identified as \u201Cunique\u201D in their card text. In addition, all crypt cards represent unique minions.\nIf more than one unique card with the same name is brought into play, that means control of the card is being contested. For the duration of the contest, all of the contested cards are turned face down and are out of play. If another unique card with the same name is brought into play, it is immediately contested and turned face down as well.\nIf all other cards contesting your unique card are yielded, then the card is unlocked and turned face up during your next unlock phase, ending the contest.\n\nContested Titles\nSome titles are unique. While the title is being contested, the vampires involved in the contest are treated as if they have no title, but they remain controlled and may act and block as normal.\nIf all other vampires contesting a title with your vampire have yielded the contest, then your vampire acquires the title during your next unlock phase, ending the contest.\n\n> Primogen is a non-unique title.\n> Only one vampire can govern a particular city. If more than one vampire in play claims the same city, then the titles are contested (e.g. Horst von Br\u00FChl, Camarilla prince, and Aline G\u00E4decke, Anarch Baron, both claim the city of Mannheim, thus the titles are contested).\n> Justicar is a title unique for a specific clan (e.g. Camarilla Banu Haqim Justicar).\n>\nWarning: Spoiler!\n\n1. UNLOCK PHASE\nAt the beginning of your unlock phase, you must unlock all of your cards.\nAny cards or effects that require or allow you to do something during your unlock phase take effect after you have unlocked your cards. You may choose the order in which these effects take place. Along with effects generated by cards, there are other effects that are resolved during the unlock phase:\n\u2022 If you have the Edge, you may gain 1 pool from the blood bank.\n\u2022 If cards you control or any titles are contested, you can either yield or pay the cost to keep contesting.\n\n> The cost to contest a card is 1 pool. A yielded card is burned. Any cards or counters stacked on the yielded card are also burned.\n> The cost to contest a title is 1 blood, which is paid by the vampire. If they have no blood to pay the constest or are in torpor, they have to yield.\n> Yielding the title will result in the vampire having no title and losing the benefits of the title for the remainder of the game\n>",
+      "Id": "109199"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 19, 2023, 9:12\u202FPM",
+      "Body": "now that the new Salubri have dropped, I feel like the scarce rule should be amended to burning pool for only other scarce members of the clan.",
+      "Id": "109360"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 20, 2023, 8:06\u202FAM",
+      "Body": "> self wrote:\n> now that the new Salubri have dropped, I feel like the scarce rule should be amended to burning pool for only other scarce members of the clan.\n>\nAs far as I know, there is no clan with a mix of scarce and non-scarce vampires....is the change proposed to enable eg Embrace type vampires to not increase the scarce cost for the \"regular\" vampires?\n\nScarce: When a Methuselah moves a scarce vampire from their uncontrolled region to their ready region during their influence phase, they must burn 3 pool for each vampire of the same clan they already control.",
+      "Id": "109363"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 20, 2023, 2:09\u202FPM",
+      "Body": "> inm8 wrote:\n> As far as I know, there is no clan with a mix of scarce and non-scarce vampires....is the change proposed to enable eg Embrace type vampires to not increase the scarce cost for the \"regular\" vampires?\n>\nFrom the BCP Salubri preview:\n\nV5 Salubri are not Scarce. It might also add design space to allow \"Scarce\" to effectively be used as a tax on more powerful vampires. The rule could easily be updated to read\n\n\"Scarce: When a Methuselah moves a scarce vampire from their uncontrolled region to their ready region during their influence phase, they must burn 3 pool for each Scarce vampire of the same clan they already control.\"",
+      "Id": "109368"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 20, 2023, 3:41\u202FPM",
+      "Body": "I understood what you wanted the rule to read as, was not clear as to why and had missed that the new Salubri aren\u2019t scarce.\nQuestion is if the scarce tax in its current form was balanced with embrace and the likes in mind as at the time there were no mix of scarce and non-scarce vampires of the same clans.",
+      "Id": "109370"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 20, 2023, 4:23\u202FPM",
+      "Body": "Well before the current rulebook was published I told BCP that I've done nitpicky rulebook proofreading quite a few times and would be glad to help with VTES rulebook.\n\nUnfortunately they didn't send it to me to be proofread. I'm pretty sure I would've caught at least some of the problematic spots and generally it would've been improved.\n\nMy CURRENT suggestion is that WELL BEFORE the release of the NEXT version of the rulebook BCP post the rulebook online and unleash us, the 1000 vampiric monkeys with keyboards, on it.\n\nI'm pretty confident that this way more or less no typos or omissions will make it to the final product.\n\n(The other way to do it is have a small and exclusive group do the same and then release it. AFTER which it'll be scrutinized by the same said 1000 vampiric monkeys with keyboards and some of those monkeys WILL find problematic spots. So why not do it BEFORE the publication...?)\n\nAlso pondering:\nDoes it need to be printed at all? Finetuning / updating just online rulebook would be so much easier...\n\nFinnish  Politics!",
+      "Id": "109371"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 23, 2023, 5:49\u202FPM",
+      "Body": "An actual \"living ruleboiok\" style rulebook might be a good idea, as the actual printings are probably tied to reprints of the v5 base box.\n\nanyway, new content for the pile:\n\nOrder of play is never actually explicetly defined in text (in the online rulebook, the PDF has it)\nIt says what and who your prey and predator is, under \"Order of play\" but actualy does not tell you the order of play.\n\nAlso Sequencing AND declare blocker order is explicetly defined as clockwise and are not tited to direction of play\n\nThis leads to the fact that if Reversal of Fortunes is played, Sequencing order is still clockwise, even if play order is counter-clockwise.",
+      "Id": "109397"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 30, 2023, 10:33\u202FAM",
+      "Body": "I think the section about \"hunt actions\" should be updated to refelct the ruling that +hunt also increases the blood stolen/gained by alterante hunt actions like the ones provided by week of nightmares or Restricted vitae",
+      "Id": "109451"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 14, 2023, 4:10\u202FPM",
+      "Body": "The rulebook currently says\n>\n> During your influence phase you may spend transfers as follows:\n>\n> \u25FC Spend 1 transfer to move 1 pool counter from your pool to a vampire in your uncontrolled region.\n>\n> \u25FC Spend 2 transfers to move 1 blood counter from a vampire in your uncontrolled region to your pool.\n>\n> \u25FC Spend 4 transfers and burn 1 pool to move a vampire from your crypt to your uncontrolled region.\n>\nSo by RAW the \"pay 1 to see one option\" isn't from the top of the crypt, but a seemingly any card (without looking at it)\n\nSicne I am 99% sure that it should be from the top, that should be changed to\n\"draw a vampire from your crypt and move it to your uncontrolled region.\"\nor\n\" move a vampire from the top of your crypt to your uncontrolled region.\"",
+      "Id": "109556"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Oct 15, 2023, 7:53\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n> The rulebook currently says\n> >\n> > During your influence phase you may spend transfers as follows:\n> >\n> > \u25FC Spend 1 transfer to move 1 pool counter from your pool to a vampire in your uncontrolled region.\n> >\n> > \u25FC Spend 2 transfers to move 1 blood counter from a vampire in your uncontrolled region to your pool.\n> >\n> > \u25FC Spend 4 transfers and burn 1 pool to move a vampire from your crypt to your uncontrolled region.\n> >\n> So by RAW the \"pay 1 to see one option\" isn't from the top of the crypt, but a seemingly any card (without looking at it)\n>\n> Sicne I am 99% sure that it should be from the top, that should be changed to\n> \"draw a vampire from your crypt and move it to your uncontrolled region.\"\n> or\n> \" move a vampire from the top of your crypt to your uncontrolled region.\"\n>\nThe rules used to read pre V5 per below (highlight in bold by me), so clearly another miss from the transition to the V5 version of the rules\n\n> \u25FC Spend four transfers and burn a pool to move a vampire from your crypt to your uncontrolled region (drawing from the top, as always).\n>",
+      "Id": "109558"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 1, 2023, 3:08\u202FPM",
+      "Body": "> Rulebook wrote:\n> (self) Leave Torpor\n> If this action is blocked, there is no combat (vampires in torpor cannot enter combat). Instead, if the blocker is a vampire, they get the opportunity to diablerise the acting vampire (see Diablerie, p. 34).\n>\n> Rulebook wrote:\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat). If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs.\n>\nIf you take the rulebook literally here, blocking a self rescue doesnt lock the blocker, as there is no enter combat, and if you dont enter combat, the blocker is also not locked.",
+      "Id": "109716"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 1, 2023, 4:13\u202FPM",
+      "Body": "also the test passage about\n>\n> If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs.\n>\nshould also probably read\n>\n> If an effect ends the action before the block resolution or one of these two consequences (such as entering combat) [/b]are stopped[/b], neither consequence occurs.\n>\nor similar as the current wording is gramatically questionable, how can you \"end locking the blocker\" or \"end entering combat\"?",
+      "Id": "109717"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 24, 2023, 3:40\u202FPM",
+      "Body": "Update the section regarding modifier effects that all regardless of if coming from a modifier card or not are subject to the timing restrictions of modifier cards (have to be played before resolution)\nwww.vekn.net/forum/rules-questions/80984-haqim-s-law-retribution-efect-during-combat?start=12#109917",
+      "Id": "109920"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 5, 2024, 8:28\u202FAM",
+      "Body": "Yesterday we had a discussion about this. With a lot of rereading and misinterpretation from veteran players. So I feel that it needs clarification.\n\nSource: www.vekn.net/detailed-play-summary\n\nReading RAW the webpage, the line from II.D\n\nPay cost and resolve effect (unless cancelled in step B).\n\nCan mislead to believe that both pay cost and resolve effect are avoided if cancelled. This is only true for actions. For Master, action modifiers, reactions, and combat cards you still have to pay the cost.\n\nI would recomend to change it for\n\nPay cost, and resolve effect unless canceled in step B.\n\nor even better\n\nPay cost and, unless cancelled in step B, resolve effect.\n\nAlso, I would change II.D.1.a\nFrom: Wait until action resolution to pay cost and resolve (if successful). (IV.D.2)\nTo: Unless cancelled, wait until action resolution to pay cost, and resolve if successful. (IV.D.2)\n\nAlso, I would change II.D.2.b\nFrom: Wait until strike resolution to resolve. (VI.C.2)\nTo: Unless cancelled, wait until strike resolution to resolve. (VI.C.2)\n\nAlso, I would change II.D.3.b\nFrom: Resolve effect.\nTo: Unless cancelled, resolve effect.",
+      "Id": "110267"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 5, 2024, 8:41\u202FAM",
+      "Body": "Source: www.vekn.net/detailed-play-summary\n\nProbably this has been noted, but I didn't find.\nThe Roman list numeration has been messed at\n\nwww.vekn.net/detailed-play-summary\n\nHOW TO PERFORM ACTIONS and HOW TO RESOLVE A REFERENDUM [6.3] don't follow the correct Roman numeration",
+      "Id": "110268"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 5, 2024, 9:00\u202FAM",
+      "Body": "Source: www.vekn.net/detailed-play-summary\n\nAt II.B.3.c\n\nIf the card is cancelled, skip to step D.\n\nI feel that step D should be step C or you imply that a cancelled card is not replaced. Never.\n\nAlso, II.B.4 says\n\nFor cards, your hand size is reduced by 1 until you replace the card (step D).\n\nThe step about replace is C, not D.\n\nMy guess is that there were a section between B and the actual C that was deleted (and actual C was, in that time, D)",
+      "Id": "110269"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 5, 2024, 10:04\u202FAM",
+      "Body": "Source: www.vekn.net/detailed-play-summary\n\nAt III.C.7.c\n\nThe action of Go Anarch makes you\nThe vampire becomes anarch and Independent.\n\nProbably this is some old issue. A Vampire should not be in two sects.\n(Also an Anarch could become Liaison)\n\nAnd this would only apply to the cardless action, Go Anarch. Other methods to become Anarch would make you just anarch and not Independent.",
+      "Id": "110270"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 5, 2024, 10:07\u202FAM",
+      "Body": "Source: www.vekn.net/detailed-play-summary\n\nAt III.A.3.b.ii\n\nIt costs barons an additional blood to contest their title with a prince or archbishop. [10.4]\n\nProbably an old, deprecated rule.",
+      "Id": "110271"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 5, 2024, 10:31\u202FAM",
+      "Body": "Source: www.vekn.net/detailed-play-summary\n\nAt\nI(HOW TO PERFORM ACTIONS).C.2.a\nand\nI(HOW TO PERFORM ACTIONS).C.2.b\n\nThere is no reference in the webpage about being able to raise Stealth or intercept when not needed from other sources, rather than action modifiers or reactions. Reading RAW you could raise sheath and intercept using other sources even if you don't needed it\n\nBlocking minion can play a reaction card to increase intercept only if the acting minion has stealth greater than the blocking minion's intercept. Acting minion can play an action modifier card to increase stealth only if the blocking minion has at least as much intercept as the acting minion's stealth.\nMaybe change for\n\nBlocking minion can increase intercept using sources like reactions cards or abilities only if the acting minion has stealth greater than the blocking minion's intercept. If a source would increase intercept when not needed, the increase is lost Acting minion can increase stealth using sources like action modifier cards or abilities only if the blocking minion has at least as much intercept as the acting minion's stealth.If a source would increase stealth when not needed, the increase is lost",
+      "Id": "110272"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 15, 2024, 11:30\u202FPM",
+      "Body": "someone more knowledgeable than I am should feel free to correct me, but I was under the impression that the detailed play summary has been out of date for quite some time.",
+      "Id": "110379"
+    },
+    {
+      "Author": "Coyote",
+      "Date": "Jan 25, 2024, 8:15\u202FAM",
+      "Body": "In that case, it should be corrected (or at least hidden until corrected)\n\nThis could lead to misunderstanding about rules.\nActually, it did in my community.",
+      "Id": "110492"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Feb 13, 2024, 7:11\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> Well before the current rulebook was published I told BCP that I've done nitpicky rulebook proofreading quite a few times and would be glad to help with VTES rulebook.\n>\n> Unfortunately they didn't send it to me to be proofread. I'm pretty sure I would've caught at least some of the problematic spots and generally it would've been improved.\n>\n> My CURRENT suggestion is that WELL BEFORE the release of the NEXT version of the rulebook BCP post the rulebook online and unleash us, the 1000 vampiric monkeys with keyboards, on it.\n>\n> I'm pretty confident that this way more or less no typos or omissions will make it to the final product.\n>\n> (The other way to do it is have a small and exclusive group do the same and then release it. AFTER which it'll be scrutinized by the same said 1000 vampiric monkeys with keyboards and some of those monkeys WILL find problematic spots. So why not do it BEFORE the publication...?)\n>\n> Also pondering:\n> Does it need to be printed at all? Finetuning / updating just online rulebook would be so much easier...\n>\nhey Ankha, is there any way L\u00F6nkka, inm8, Lionel, Hobbesgoblin, and myself can get an advanced look at the new rulebook? I can easily set up an area in the Discord server for this purpose.",
+      "Id": "110686"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Feb 14, 2024, 5:01\u202FPM",
+      "Body": "> self wrote:\n> hey Ankha, is there any way L\u00F6nkka, inm8, Lionel, Hobbesgoblin, and myself can get an advanced look at the new rulebook? I can easily set up an area in the Discord server for this purpose.\n>\nThe new rulebook has already been printed.\n\nV:EKN Website Coordinator",
+      "Id": "110699"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Feb 23, 2024, 12:13\u202FPM",
+      "Body": "Hi, got a question.\nOskar Anasov:\nDuring an action, Oskar can burn 1 blood to give a vampire you control +1 intercept.\nvs\nMaris Streck\nMaris can burn a blood to give a blocking minion +1 intercept.\n\nOskar is limited to doing it once per action?\nWhile Marisa is not limited?\n\nIs there a ruling on this distinction that I can use?",
+      "Id": "110771"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 23, 2024, 2:15\u202FPM",
+      "Body": "> mipopo3 wrote:\n> Hi, got a question.\n> Oskar Anasov:\n> During an action, Oskar can burn 1 blood to give a vampire you control +1 intercept.\n> vs\n> Maris Streck\n> Maris can burn a blood to give a blocking minion +1 intercept.\n>\n> Oskar is limited to doing it once per action?\n> While Marisa is not limited?\n>\n> Is there a ruling on this distinction that I can use?\n>\nwww.vekn.net/rulebook#wording-templates\n\n\u201CDuring X, do Y\u201D: The \u201Cduring X do Y\u201D template is used in several cards. When this template is used, only one Y can be done per X with this card. For instance, you may move blood from your vampire to your pool with Vessel only once per unlock phase.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110772"
+    },
+    {
+      "Author": "Ghost1980",
+      "Date": "Feb 26, 2024, 1:39\u202FPM",
+      "Body": "Hi,\n\nI believe this is covered by the below general ruling\n\nRulebook wrote:\n\u201CDuring X, do Y\u201D: The \u201Cduring X do Y\u201D template is used in several cards. When this template is used, only one Y can be done per X with this card.",
+      "Id": "110785"
+    },
+    {
+      "Author": "Palamedes",
+      "Date": "Feb 26, 2024, 4:49\u202FPM",
+      "Body": "> Oskar is limited to doing it once per action?\n> While Marisa is not limited?\n>\n> Is there a ruling on this distinction that I can use?\n>\nI'm probably wrong, but I would say that the reason for this question may be that nowhere in the Rulebook is explicitly explained how to use special abilities or abilities on cards in the game. At least I couldn't find a specific sentence. Please direct me if I've overlooked. I just found parts that partially indicate it, as if it goes without saying.\n\nLike:\n\nWording templates\n\n\u201CDuring X, do Y\u201D: The \u201Cduring X do Y\u201D template is used in several cards. When this template is used, only one Y can be done per X with this card. For instance, you may move blood from your vampire to your pool with Vessel only once per unlock phase.\n\n\u201CLock X to do Y\u201D: These effects require an unlocked minion to be used, they cannot be used by locked minions.\n\nMaster Cards\n\nLocations: A location card represents a place (that is a building, a city, or a designated gathering place) that a Methuselah or their minions control. A location card stays in play and may be used repeatedly, even on the turn it is played. Some game effects can burn them.\n\nI guess something like this might help:\n\nCRYPT CARDS\n\nText box: The area containing a vampire\u2019s sect (Camarilla in this case), title, special abilities or other attributes. Special abilities are active from the moment a minion is moved from the uncontrolled region to the ready region. Special abilities may be used repeatedly, or under certain conditions (\u201CDuring X, do Y\u201D; \u201CLock X to do Y\u201D), or as an action.",
+      "Id": "110786"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Mar 22, 2024, 9:19\u202FAM",
+      "Body": "New rulebook is out, any new points should relate to the new rulebook and be posted here:\nwww.vekn.net/forum/rulebook/81308-the-rulebook-is-always-improving-for-rulebook-1-1",
+      "Id": "110975"
+    }
+  ]
+}

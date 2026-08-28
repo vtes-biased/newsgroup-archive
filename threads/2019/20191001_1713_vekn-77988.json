@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-77988",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77988-suspension-of-disbelief-red-herring-bleed",
+  "Title": "Suspension of Disbelief, Red Herring, Bleed?",
+  "Messages": [
+    {
+      "Author": "redwulfe",
+      "Date": "Oct 1, 2019, 5:13\u202FPM",
+      "Body": "I am in a game and I play Suspension of Dibelief with one of my Vampires. The prey attempts to block and I play Red Herring to lock the blocker and take Suspension of Disbelief back into my hand, unlocking the acting Vampire. Can that Vampire attempt to perform the default Bleed Action? The action and combat was cancelled, so did the action reach resolution (since the combat was cancelled) and therfore prevent that same vampire form attempting another bleed?\n\nSuspension of Dibelief\nchi:  Bleed at +1 bleed.\nCHI: As above, and minion cards that reduce the bleed or change its target cost 1 additional blood or life.\n\nRed Herring\nchi: Only usable when this acting vampire is blocked. Unlock the acting vampire, do not lock the blocking minion, and cancel the current action and combat. Take the card played to perform the action (if any) back into your hand. Your vampires cannot attempt the same action again this turn. Discard down to your hand size.\nCHI: As above, but lock the blocking minion.",
+      "Id": "97184"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 1, 2019, 5:45\u202FPM",
+      "Body": "If is canceled then you probably can. I want to add here so if you can bleed,then if you play politicas action and during action you play Red Herring so you can play another politicas action.\nCan director or someone from RTR confirm if both bleed and politicas posible?",
+      "Id": "97185"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 1, 2019, 6:33\u202FPM",
+      "Body": "> redwulfe wrote:\n> I am in a game and I play Suspension of Dibelief with one of my Vampires. The prey attempts to block and I play Red Herring to lock the blocker and take Suspension of Disbelief back into my hand, unlocking the acting Vampire. Can that Vampire attempt to perform the default Bleed Action? The action and combat was cancelled, so did the action reach resolution (since the combat was cancelled) and therfore prevent that same vampire form attempting another bleed?\n>\nNo. \"Only usable when this acting vampire is blocked.\" Means the action reached resolution. Vampires are prohibited from performing more than one bleed action in a turn. The minion becomes prohibited from future actions, after the first action that reaches action resolution.",
+      "Id": "97188"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Oct 2, 2019, 6:50\u202FAM",
+      "Body": "groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/qKrJPLXBFFw/hE5z511E_PgJ addresses this sort of issue, including Red Herring.\n\"The action reached resolution in order for Psychomachia [or Red Herring] to be played. Therefore the minion cannot repeat the action.\u201D -LSJ",
+      "Id": "97201"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Oct 3, 2019, 2:13\u202FAM",
+      "Body": "Looks like Red Herring needs an errata then. Cancelling an action has a very specific meaning, precisely because it impacts the NRA. In that case, the proper wording should be \"End the action\".",
+      "Id": "97217"
+    },
+    {
+      "Author": "redwulfe",
+      "Date": "Oct 3, 2019, 3:55\u202FAM",
+      "Body": "> Non-existant user wrote:\n> Looks like Red Herring needs an errata then. Cancelling an action has a very specific meaning, precisely because it impacts the NRA. In that case, the proper wording should be \"End the action\".\n>\nWith that errata they could probably take out the \"Your vampires cannot attempt the same action again this turn.\" wording as well since it would be clearer that NRA applies.\n\nThey could condence the wording at that point to:\n\n\"Only usable when this acting vampire is blocked. End the action and combat, Unlock the acting vampire, and do not lock the blocking minion. Take the card played to perform the action (if any) back into your hand. Discard down to your hand size.\"\n\nThis seems more clear to me that NRA applies since the cancel wording has been removed and the text that tells you that the card is not repeatable which is why I questioned if it was an exception to NRA or not since it specifically called out the card.\n\nMaybe in the next round of errata.\n\nI still think they do a great job at fixing the wording as they go along.",
+      "Id": "97218"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 3, 2019, 12:27\u202FPM",
+      "Body": "It will be clarified on reprint:\n\n--- UNOFFICIAL TEXT ---\n\nRed Herring : The action now ends unsuccessfully.\n\nOnly usable if this vampire is blocked, before block resolution.\n[chi] Unlock this vampire, and the action ends (unsuccessfully). If an action card was used to perform the action, return it to its owner's hand (discard down afterward). Your vampires cannot take the same action again this turn.\n[CHI] As above, but lock the blocking minion.\n\n--- UNOFFICIAL TEXT ---\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "97225"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Oct 3, 2019, 6:22\u202FPM",
+      "Body": "> redwulfe wrote:\n> With that errata they could probably take out the \"Your vampires cannot attempt the same action again this turn.\" wording as well since it would be clearer that NRA applies.\n>\nRemoving that text would dramatically change how the card works. As it currently stands (and will continue to, once the new text that Ankha posted takes effect), that text prevents all your vampires from attempting that action again this turn, not just the vampire who played RH.",
+      "Id": "97228"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 6, 2019, 4:17\u202FPM",
+      "Body": "> Non-existant user wrote:\n> Looks like Red Herring needs an errata then. Cancelling an action has a very specific meaning, precisely because it impacts the NRA.\n>\nWhile clarification is sensible, cancelling doesn't work the way you think it does. The \"no repeat\" taint takes effect when the action reaches resolution. The reason that various things that \"cancel\" an action mean that the \"no repeat\" taint isn't affected is because the action was terminated before the taint was applied.\n\nThe one that springs to mind - where the action card isn't cancelled outright - is Tangle Atropos' Hand.\n\nOnly usable if a minion attempts to block.\n[pot] Cancel the action and unlock this vampire. (The action is not blocked. Do not lock the blocking minion.)\n\nThe reason that the no repeat taint isn't applied here is that when the action is cancelled, you're still in block attempts. The action hasn't been declared successful (unblocked) or blocked, so the no repeat taint hasn't been applied. Then the action is cancelled.\n\nOther cards that cancel an action have always been able to leave the no repeat taint in place, if the taint has already been applied. LSJ likened \"canceling\" in this sort of situation to \"canceling a check\", not \"completely undoing it\".\n\n[LSJ 20070709]\n\n> LSJ wrote:\n> >> 1). I was thinking that canceling an action means that the action was\n> >> \"never performed\",\n>\n> No. It means something more like canceling a check -- the check was still\n> written. Canceling an action menas the action is prematurely terminated.\n>\n> >> so the acting minion can play another action of the\n> >> same type (bleed or political action) regardless of NRA.\n>\n> Only if the action that was canceled hadn't reached resolution.\n>\n> ...\n>\n> > Psychomachia \"cancels\" the action, so it can be taken again.\n>\n> No. The action reached resolution in order for Psychomachia to be played.\n> Therefore the minion cannot repeat the action.\n>\n> > Same like Tangle Atropos' Hand.\n>\n> Tangle is played before resolution and cancels the action, so resolution is\n> never reached. That's why the minion can repeat the action.\n>",
+      "Id": "97266"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-82024",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/82024-rating-system-explanation-faulty",
+  "Title": "Rating System explanation faulty?",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Jan 14, 2025, 8:42\u202FAM",
+      "Body": "Greets!\n\nI'd just like to point out that on the www.vekn.net/rating-system page the explanation may not be on par with the example given. I highlighted the parts I'm confused about.\n\nIf I just don't get something please let me know, also excuse me if it has been brought up already!\n\n> For a national championship, 0.25 is added to the coefficient.\n> For a continental championship, 1.0 is added to the coefficient.\n>\n> The number of points from the table above is multiplied by the coefficient to determine the number of additional ratings points awarded to the finalist. For example, in a qualifier with 50 players, the coefficient is\n>\n> log15(2500) - 1 + 0.25 = 2.889 - 0.75 = 2.139\n>\nNC of Hungary\n\n///",
+      "Id": "113501"
+    },
+    {
+      "Author": "emime",
+      "Date": "Jan 17, 2025, 5:25\u202FPM",
+      "Body": "The more interesting question is why Grand Prix events don't have a higher coefficient too...\n\nEmiliano \"Sans Terre\" - Wandering Player - Prince of Brussels",
+      "Id": "113530"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 17, 2025, 8:51\u202FPM",
+      "Body": "> Malachy wrote:\n> Greets!\n>\n> I'd just like to point out that on the www.vekn.net/rating-system page the explanation may not be on par with the example given. I highlighted the parts I'm confused about.\n>\n> If I just don't get something please let me know, also excuse me if it has been brought up already!\n>\n> > For a national championship, 0.25 is added to the coefficient.\n> > For a continental championship, 1.0 is added to the coefficient.\n> >\n> > The number of points from the table above is multiplied by the coefficient to determine the number of additional ratings points awarded to the finalist. For example, in a qualifier with 50 players, the coefficient is\n> >\n> > log15(2500) - 1 + 0.25 = 2.889 - 0.75 = 2.139\n> >\nThanks, I've fixed it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113533"
+    }
+  ]
+}

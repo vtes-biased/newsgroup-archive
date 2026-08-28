@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-82214",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/82214-karl-schrekt-spoofing-a-justicar-title-to-play-camarilla-s-iron-fist",
+  "Title": "Karl Schrekt spoofing a Justicar title to play Camarilla's Iron Fist",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Apr 10, 2025, 3:59\u202FPM",
+      "Body": "Q: Supposing that Karl Schrekt has changed sect (for instance, he is now Anarch), can he play Camarilla's Iron Fist as justicar?\n\nName: Karl Schrekt\nCardtype: Vampire\nClan: Tremere\nGroup: 6\nCapacity: 10\nDiscipline: AUS DOM FOR PRE THA\nCamarilla. 2 votes (titled): Karl can play cards requiring a justicar as if he were a justicar. +1 intercept.\n\nName: Camarilla's Iron Fist\n[30th:5, V5:PL2]\nCardtype: Political Action\nCost: 1 blood\nRequires a titled Camarilla vampire.\nChoose a Methuselah and allocate 5 points among two or more other Methuselahs. Successful referendum means {each Methuselah burns 1 pool for each point allocated and the chosen Methuselah gains 1 pool.}\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114176"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 10, 2025, 4:00\u202FPM",
+      "Body": "A: No, because Camarilla's Iron Fist doesn't explictly require a Justicar.\n\n> Ankha wrote:\n> The idea driving these rulings is the principle of least astonishment.\n>\n> Mathematically, a card that \"requires A\" can meet the criteria \"requires B\" if and only if B is a superset of A (this means that all \"A\"s are in the set of \"B\"s).\n> Therefore, a card that \"requires a prince or justicar\" shouldn't qualify for an effect that works for cards that \"requires a justicar\", as \"requires a justicar\" is a subset, not a superset, of \"requires a prince or justicar\".\n>\n> For instance, Karl shouldn't be able to play Parity Shift since it requires \"a prince or justicar\", and he can only spoof cards that require \"a justicar\".\n>\n> Of course, this would be counter-intuitive to most players, violating the principle of least astonishment.\n> That's why, as an exception (by ruling), a card that \"requires A or B\" can meet the criteria \"requires A\".\n>\n> This exception is only valid (by ruling) with \"closed lists\" (where the criteria is explicitly mentioned, such as \"Requires a Prince or Justicar or Inner Circle\") and not \"open lists\" (where the criteria is implicit, such as \"Requires a titled Camarilla vampire\").\n>\n> For the rest, logic applies normally. For instance, a card that \"requires a Baron\" can meet the criteria \"requires an Anarch\" because all barons are Anarchs. (Anarchs is a superset of barons.)\n>\nIn this case, the requirement for Camarilla's Iron Fist is an open list, so it doesn't work.\n\nSee also www.vekn.net/forum/rules-questions/82172-garibaldi-and-jericho-founding\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114177"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 10, 2025, 4:13\u202FPM",
+      "Body": "This changes nothing about Vidal Jarbeaux for instance\n\n\"Vidal can meet the clan, sect, or non-infernal vampire trait (e.g., {Black Hand}) requirement to play any card. He can meet a given requirement only once each game.\"\n\n1/ the card can have ANY clan, sect, or non-infernal vampire trait requirement. So cards with an open list requirement (such as \"requires a titled vampire\") can be chosen\n2/ he can spoof any matching requirement (for instance, he can play it as a \"prince of <pick a city>\", which matches \"requires a titled vampire\"), as long as he hasn't already used it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114178"
+    }
+  ]
+}

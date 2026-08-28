@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-79984",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79984-force-of-wil-and-daring-the-dawn-vs-red-herring",
+  "Title": "Force of Wil and Daring the Dawn vs. Red Herring",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "Aug 22, 2022, 3:05\u202FPM",
+      "Body": "Sorry for yet another question about ended actions. Note that Red Herring text has changed for its DTC reprint (see spoilers below).\n\n[ANK 20220331] makes it clear that Daring the Dawn damage is still applied in case of a Mirror Walk or Change of Target and  [ANK 20220401] (same thread) also explains that it's not the case if the action is cancelled before resolution with an effect like Tangle Atropos' Hand.\n\nBUT it uses as a reference (and as such seems to endorse)  [LSJ 20010611] which states that Force of Will damage is not applied if Red Herring is played.\n\nMy understanding is that it was used as an example to explain the ruling on Tangle Atropos' Hand, but that it does not apply anymore on Red Herring (since it does not cancel the action anymore due to the recent errata). But it's hard to argue without a confirmation.\n\nSo can I get an RD confirmation for reference:\n- Force of Will and Daring the Dawn damages follow the same rulings\n- They both apply their damage if the action ends because of Red Herring: it reached resolution.\n\nForce of Will\n\nOnly usable by a locked vampire.\n\n\u24B9 Bleed with +1 bleed. After resolution, this vampire takes 2 unpreventable aggravated damage even if the action is blocked.\n\nAs above, but with +2 bleed, and the acting vampire takes only 1 unpreventable aggravated damage.\n\nDaring the Dawn\n\nVampires cannot block this action. This vampire takes 2 unpreventable environmental aggravated damage after action resolution.\n\nAs above, but this vampire takes 1 unpreventable environmental aggravated damage.\n\nRed Herring (CURRENT)\n\nOnly usable if this vampire is blocked, before block resolution.\n\nUnlock this vampire, and the action ends (unsuccessfully). If an action card was used to perform the action, return it to its owner's hand (discard down afterward). Vampires you control cannot perform the same action again this turn.\n\nAs above, and lock the blocking minion.\n\nRed Herring (BEFORE REPRINT)",
+      "Id": "106073"
+    },
+    {
+      "Author": "lip",
+      "Date": "Oct 11, 2022, 6:43\u202FAM",
+      "Body": "up @ankha",
+      "Id": "106532"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 11, 2022, 1:36\u202FPM",
+      "Body": "> lip wrote:\n> Sorry for yet another question about ended actions. Note that Red Herring text has changed for its DTC reprint (see spoilers below).\n>\n> [ANK 20220331] makes it clear that Daring the Dawn damage is still applied in case of a Mirror Walk or Change of Target and  [ANK 20220401] (same thread) also explains that it's not the case if the action is cancelled before resolution with an effect like Tangle Atropos' Hand.\n>\n> BUT it uses as a reference (and as such seems to endorse)  [LSJ 20010611] which states that Force of Will damage is not applied if Red Herring is played.\n>\n> My understanding is that it was used as an example to explain the ruling on Tangle Atropos' Hand, but that it does not apply anymore on Red Herring (since it does not cancel the action anymore due to the recent errata). But it's hard to argue without a confirmation.\n>\nCorrect. Red Herring nows ends the action, so the rulings for similar cards (Mirror Walk, Change of Target) now apply.\n\n> So can I get an RD confirmation for reference:\n> - Force of Will and Daring the Dawn damages follow the same rulings\n>\nYes (same card text).\n\n> - They both apply their damage if the action ends because of Red Herring: it reached resolution.\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "106538"
+    }
+  ]
+}

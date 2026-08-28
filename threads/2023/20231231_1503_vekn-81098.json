@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-81098",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/81098-suggestion-updating-card-lists-per-release-date",
+  "Title": "Suggestion: Updating card lists per release date",
+  "Messages": [
+    {
+      "Author": "Oracle.kid",
+      "Date": "Dec 31, 2023, 3:03\u202FPM",
+      "Body": "Hi,\n\nI'd like to make a suggestion for updating the card lists. Currently, the card lists are updated with tournament legality. However, this is a month later than the release date.\n\nSince VDB (and possibly other tools) relies on the list for its inventory, the new cards cannot be added to the inventory or used for deckbuilding, even when the release has happened. This is of course not a major problem, but creates an inconvenience.\n\nAs I use VDB for my card management, I'd find it helpful if the card list would be updated rather sooner than later.\n\nTherefore, if possible I'd like to suggest changing the cycle to update with release date instead of tournament legality",
+      "Id": "110237"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 1, 2024, 8:56\u202FAM",
+      "Body": "> Oracle.kid wrote:\n> Hi,\n>\n> I'd like to make a suggestion for updating the card lists. Currently, the card lists are updated with tournament legality. However, this is a month later than the release date.\n>\n> Since VDB (and possibly other tools) relies on the list for its inventory, the new cards cannot be added to the inventory or used for deckbuilding, even when the release has happened. This is of course not a major problem, but creates an inconvenience.\n>\n> As I use VDB for my card management, I'd find it helpful if the card list would be updated rather sooner than later.\n>\n> Therefore, if possible I'd like to suggest changing the cycle to update with release date instead of tournament legality\n>\nThe reference file(s) on this website ( www.vekn.net/card-lists ) has to be the current legal cardtext. However, most tools use the repository github.com/GiottoVerducci/vtescsv to get their cardtext, so we could imagine that a branch for upcoming releases can be created.\n\nWhat bothers me is that tools such as VDB are often used as reference for the latest cardtext, and I don't want players to be confused by thinking a cardtext change is already effective when it's not.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110240"
+    },
+    {
+      "Author": "Teylen",
+      "Date": "Jan 1, 2024, 9:16\u202FAM",
+      "Body": "I think the request is less about changes to cards but new cards like Tegyrius, Vizier (G7).\nWho arrived with my War of Ages books in October or November yet who I can't add to my VTES inventory yet.\n\nI agree that adding cardtext changes before they are live would be confusing.",
+      "Id": "110241"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jan 1, 2024, 10:53\u202FAM",
+      "Body": "Might be worth to consider adding a new field with legality date or changing \"Banned\" field in CSV to \"CardInfo\" or something and then adding a flag to the date, like \"B1996\" would mean \"banned since...\" , then \"L2024-06-01\" would mean \"legal since...\".\nNot sure how the CSV format is flexible, though, as many tools depend on it - in this case, a new field might be better, as importing tools can simply ignore it until updated for this new format.",
+      "Id": "110245"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Jan 1, 2024, 1:42\u202FPM",
+      "Body": "as @Teylen said, it is for me mostly about being able to manage my cards and deckbuilding (in a sense of drafting).\n\nIf existing cards get errata, I personally wouldn't mind if these got updated at a later time. A solution which shows upcoming errata before their legality would be great, of course. But if that weren't possible (or just with a lot of trouble for you), I'd certainly perfer the former variant over having none",
+      "Id": "110246"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Jan 4, 2024, 2:16\u202FAM",
+      "Body": "I certainly want VDB to represent legal card text as much as possible, but at the same time for NEW RELEASES (not some card text changes) it believe vast majority of the users will be happy to have new cards added as soon as they are printed and tournament legality is secondary for them (and those who care will figure it out).\n\nAnd specifically for the new releases I don't see the issue of text misalignment between legal and \"newer than legal\" so it's hard for me to imagine the discussion on the tournament which text is \"correct\" if the entire set is not yet legal.\n\nTo summarize:\n\n@Ankha, would it be appropriate if for this and future new releases (not interim mid-season card text changes) I will fetch the new cardbase from future branch and update it on VDB prior legality date (but sure only when cards are printed and distribution is official)?\nI certainly don't want to go rogue without VEKN/BCP approval (as it will result in future branch being not available anymore) but see a lot of good reasons to have newest cards available before tournament legality date.",
+      "Id": "110256"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 4, 2024, 8:20\u202FAM",
+      "Body": "> smeeag wrote:\n> I certainly want VDB to represent legal card text as much as possible, but at the same time for NEW RELEASES (not some card text changes) it believe vast majority of the users will be happy to have new cards added as soon as they are printed and tournament legality is secondary for them (and those who care will figure it out).\n>\n> And specifically for the new releases I don't see the issue of text misalignment between legal and \"newer than legal\" so it's hard for me to imagine the discussion on the tournament which text is \"correct\" if the entire set is not yet legal.\n>\nWhen a new set comes out and contains reprints, the reprints are also updated.\n\n> smeeag wrote:\n> To summarize:\n>\n> @Ankha, would it be appropriate if for this and future new releases (not interim mid-season card text changes) I will fetch the new cardbase from future branch and update it on VDB prior legality date (but sure only when cards are printed and distribution is official)?\n> I certainly don't want to go rogue without VEKN/BCP approval (as it will result in future branch being not available anymore) but see a lot of good reasons to have newest cards available before tournament legality date.\n>\nI'll need to create a branch with only the new cards. That branch can be used ahead of time, maybe with an indicator that it's not legal yet?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "110258"
+    }
+  ]
+}

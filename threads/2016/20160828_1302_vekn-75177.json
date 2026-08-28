@@ -1,0 +1,332 @@
+{
+  "ThreadId": "vekn-75177",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/75177-ann-amaranth-deck-building-proxy-tool",
+  "Title": "[ANN] Amaranth Deck Building / Proxy Tool",
+  "Messages": [
+    {
+      "Author": "Ke.",
+      "Date": "Aug 28, 2016, 1:02\u202FPM",
+      "Body": "Hello all,\n\nAm pleased to announce Amaranth: amaranth.vtes.co.nz\n\nIt started off as a tool to test the redesigned cards \u2014 but grew from there into a fully fledged deck building tool.\n\nFeatures include:\n\nPrint full decks (new design and old cards)\nPartial print decks (good for changes / old proxies)\nFull text searching / easy filters\nImport from: Secret Library (public)\nExport to: Lackey, JOL, Text\n\nThere's a feedback icon on cards to report any issues with cards \u2014 more features to follow soon.\n\niOS and Android versions will also be released soon.\n\nScreen shots below...\n\nKe\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78033"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 28, 2016, 1:02\u202FPM",
+      "Body": "Amaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78034"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 28, 2016, 2:53\u202FPM",
+      "Body": "I should point out  again that until/unless the  Rules Team Ruling allowing for proxies is revised], proxies created in the 'new' design are not legal for tournament play - they are not copies of an original card.\n\n(I say this in the hope that someone might actually revise the RTR as, if nothing else, it seems sensible for players to be able to amend proxies to include current text where it substantially deviates from the printed card text. But there appears to be no sign of movement from anyone on this.)",
+      "Id": "78035"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 29, 2016, 6:39\u202FAM",
+      "Body": "The cards wouldn't display: it keeps saying \"loading\" forever.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78044"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 29, 2016, 6:47\u202FAM",
+      "Body": "Browser?\n\nAm only targeting modern browsers. So try: Chrome / Edge / Safari.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78045"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 29, 2016, 9:17\u202FAM",
+      "Body": "> Ke. wrote:\n> Browser?\n>\n> Am only targeting modern browsers. So try: Chrome / Edge / Safari.\n>\nI'm using Chrome.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78046"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Aug 29, 2016, 9:49\u202FAM",
+      "Body": "Got the same problem in firefox\n\nNC Russia",
+      "Id": "78047"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Aug 29, 2016, 9:57\u202FAM",
+      "Body": "> elotar wrote:\n> Got the same problem in firefox\n>\nSame here.\n\nEDIT : also, I tried with Chrome but the problem was the same.",
+      "Id": "78048"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 29, 2016, 11:03\u202FAM",
+      "Body": "Thanks; this turned out to be a capacity issue.\n\nThere was a limit on the number of allowed connections \u2014 this has been ramped up.\n\nIt would be great if you could retry...\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78049"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Aug 29, 2016, 11:14\u202FAM",
+      "Body": "It's working just fine with Firefox.\n\nThank you very much !",
+      "Id": "78050"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 29, 2016, 11:57\u202FAM",
+      "Body": "There's something wrong with the events: the \"Requires\" part is listed before the card type \"Gehenna\", which is wrong and doesn't match the online cardtext. See Wormwood, The Rising etc. Also, \"Red Question, The\" is listed in the \"T\" order, when it should be listed along the \"R\" cards. Herald of Tophet doesn't list \"Ally with ...\" in the black part.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78051"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 29, 2016, 12:43\u202FPM",
+      "Body": "Cheers; corrected.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78052"
+    },
+    {
+      "Author": "Zoroh",
+      "Date": "Aug 29, 2016, 2:36\u202FPM",
+      "Body": "Awesome work. Hope we can use the new design cards in sanctioned tournaments soon enough.\n\nKeep walking...",
+      "Id": "78053"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Aug 29, 2016, 3:20\u202FPM",
+      "Body": "Another error : Champion : There is only one conviction icon in the cost for the effect.\n\nEDIT1 : also : Ali Kar : \"Blood cursed\" is in the white box instead of the black one.\n\nEDIT2 : same thing with Alu.\n\nEDIT3 : Sundervere cardtext is incomplete (or does not appear fully).",
+      "Id": "78054"
+    },
+    {
+      "Author": "Brum",
+      "Date": "Aug 29, 2016, 6:18\u202FPM",
+      "Body": "You tha man Ke!\nSuper awesome work, man.",
+      "Id": "78057"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 29, 2016, 10:56\u202FPM",
+      "Body": "> 666Raziel wrote:\n> Another error : Champion : There is only one conviction icon in the cost for the effect.\n> EDIT1 : also : Ali Kar : \"Blood cursed\" is in the white box instead of the black one.\n> EDIT2 : same thing with Alu.\n> EDIT3 : Sundervere cardtext is incomplete (or does not appear fully).\n>\nThanks, fixed.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78061"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Aug 30, 2016, 8:25\u202FAM",
+      "Body": "> Ke. wrote:\n>\n> > Lech wrote:\n> > Tested them, especially ALM and DDdP (Lasombra from 2nd group), and procedural artwork is not looking good on those at all.\n> >\n> > Enam (Assamite) have reversed disciplines. Imanna too, and multiple other Assamites too.\n> >\n> Thanks, have corrected the disciplines.\n>\n> In terms of any issues with artwork the best thing to do is to used the comment button:\n>\n> From there it's relatively quick to correct it.\n>\nShall we also use the comment button for errors in the cardtext ?\n\nAlso, when it comes to artwork, what kind of comment do you want ?\nCould it be possible to see the changes as well ? (Maybe with Moncada for exemple.)",
+      "Id": "78063"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 30, 2016, 8:40\u202FAM",
+      "Body": "> 666Raziel wrote:\n> Shall we also use the comment button for errors in the cardtext ?\n>\nYes, please. They're not currently displayed \u2014 but they are received and linked to the card.\n\n> 666Raziel wrote:\n> Also, when it comes to artwork, what kind of comment do you want ?\n> Could it be possible to see the changes as well ? (Maybe with Moncada for exemple.)\n>\nChanges are automatically published. However it's it's possible that the browser is using a cached version of the image. I'll look at forcing it to refresh when there's a change to an image.\n\nIn terms of artwork; I would hold off for now. Sydnelson has just kindly given me access to a stack of high quality artwork \u2014 over the next couple of weeks I will be upgrading the cards to use this. You should see the improvements as they're updated:\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78064"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Aug 30, 2016, 8:44\u202FAM",
+      "Body": "Woaw ! That's great and very encouraging for the future.\nCan't wait to see the high quality artwork !",
+      "Id": "78065"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Aug 31, 2016, 12:09\u202FAM",
+      "Body": "The group 4-5 slider doesn't display properly. Group four displays as group five.\n\nwhen i search 'for tha' in the crypt it will display a few 'ani for' vampires.",
+      "Id": "78071"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 31, 2016, 5:15\u202FAM",
+      "Body": "> self wrote:\n> The group 4-5 slider doesn't display properly. Group four displays as group five.\n>\nThanks, fixed.\n\n> self wrote:\n> when i search 'for tha' in the crypt it will display a few 'ani for' vampires.\n>\nThis is a result of the increasing the full text index to also include card text \u2014 these vamps will have hits for \"tha\" in their card text. Looking at also implementing an icon based system for filtering on discipline.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78072"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Aug 31, 2016, 7:16\u202FAM",
+      "Body": "> Ke. wrote:\n>\n> > self wrote:\n> > when i search 'for tha' in the crypt it will display a few 'ani for' vampires.\n> >\n> This is a result of the increasing the full text index to also include card text \u2014 these vamps will have hits for \"tha\" in their card text. Looking at also implementing an icon based system for filtering on discipline.\n>\nI think, the same thing happens for trait.\nFor example : Echo is included when I search for \"Redlist\" vampire.\n\nBTW : did you received the comments about HarbingerS of Skull and vampire with \"The\" in their name ?",
+      "Id": "78074"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 31, 2016, 9:26\u202FAM",
+      "Body": "> 666Raziel wrote:\n> BTW : did you received the comments about HarbingerS of Skull and vampire with \"The\" in their name ?\n>\nYep; both comments received. Asides from work; I've been focusing on the Artwork.\n\nIf anyone is willing to scan cards, please get in touch on Skype: ketec2\n\nCoverage appears to be pretty good \u2014 but there's likely to be cards that require scanning for full coverage.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78075"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Sep 11, 2016, 5:32\u202FPM",
+      "Body": "Ok, at first I thought about using the comment button, then I realize this might need a public debate.\n\nLet's talk about Imbued cards in Ke's layout.\n\nFirst : Conviction.\n\nSince the best thing of this new template are the separate boxes for each effect, could you do the same for Conviction ?\n\nFor example :\n>\n> Second Sight\n> >\n> > > {Black Box}An imbued may burn only one Second Sight for the following effects each action.\n> > >\n> > >\n> > >\n> > > Burn when a monster is acting to give this imbued +1 intercept for that action.\n> > >\n> > >\n> > >\n> > > Burn when this imbued declares an action to give monsters -1 intercept for this action.\n> > >\n> > >\n> >\n> React with Conviction\n> >\n> > When an effect that would change control of this imbued is played or announced, you may burn this card to cancel that effect.\n> >\n> > Burn this card to cancel either a  action against this imbued that requires Chimerstry [chi], Dementation [dem], Dominate [dom], Presence [pr_], or Serpentis [ser] or a strike card that requires any of those Disciplines played by a minion opposing this imbued as it is announced. No cost is paid.\n> >\n> Strike with Conviction\n> >\n> > Burn to make a hand or weapon strike against a monster at +1 damage.\n> >\n> > Burn to bleed at +1 bleed as a  action.\n> >\nSecond : Power.\n\nWhen a Power gives an action that cost conviction, you placed the Conviction icon, below the Power requirement. (  See Inspire for example .) I don't know if this was done voluntarily or not, but this is very wrong.\nEvery Power should have the same template. And the cost of the ability they provide is always written after the type of the ability.\n\nThird : Conviction Icon.\n\nNow that we don't have cards icon anymore, there is something weird with this icon when it's used to indicate a cost. (Since, unlike blood and pool, it refers to a card type.)\nThough it's not a \"big\" deal (only 18 cards are concerned), I think we should still find a solution for the sake of consistency.\nSo what can be done ?\n- add the icon somewhere on conviction card ?\n- rewrite the cards and replace those icon by full words (such as : \"this imbued burn X conviction to ...\") ?",
+      "Id": "78220"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Sep 15, 2016, 12:32\u202FAM",
+      "Body": "Now with seating; because sometimes it's just too hard to roll dice:\n\n(666Raziel \u2014 will address Imbued cards eventually. Currently they just reflect the current cards as closely as possible.)\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78284"
+    },
+    {
+      "Author": "666Raziel",
+      "Date": "Sep 15, 2016, 10:21\u202FAM",
+      "Body": "> Ke. wrote:\n> (666Raziel \u2014 will address Imbued cards eventually. Currently they just reflect the current cards as closely as possible.)\n>\nWell, for Conviction (layout and icon), the more opinion we get, the better.\n\nNonetheless, there are still many errors on Imbued cards.\n\nThere are cards which lack the \"Requires a ready X\" in the black box (such as  Antithesis ).\n\nThere are cards which totally lack their requirement (such as  Augur ).\n\nPlus the issue I raised about Power creating an action that cost conviction.\n\nDo you want to fix everything at the same time later or would like to have an exhaustive list of error only ?",
+      "Id": "78292"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Oct 16, 2016, 10:05\u202FPM",
+      "Body": "Upgrade time:\n\nCrypt and Library Discipline filtering with icons Massive performance improvements on slow machines / mobile devices Clear and Done buttons for easier nav on touch devices Always visible filters on desktop machines\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78702"
+    },
+    {
+      "Author": "Glinlos",
+      "Date": "Nov 2, 2016, 9:58\u202FAM",
+      "Body": "Are the decks printed by this tool legals for tournament which allow proxies?",
+      "Id": "78852"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Nov 2, 2016, 12:18\u202FPM",
+      "Body": "ultimately, that's up to your tournament organizer. I was able to use them at the Templecon tournament this past August.",
+      "Id": "78854"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 2, 2016, 2:54\u202FPM",
+      "Body": "> Glinlos wrote:\n> Are the decks printed by this tool legals for tournament which allow proxies?\n>\nCurrently, they are not legal.\n\nwww.vekn.net/2-uncategorised/357-rules-team-rulings-rtr-07-07-2016\n\n> As long as the game is not under production, the organizer of an event can choose to allow proxy cards in his or her event. For events where proxy cards are allowed, several points apply:\n>\n> - there are no limit to the number of proxy cards a deck can have\n> - every proxy card must be a color-copy of the original card, on standard paper\n> - the quality of the print must allow the reading of the illustrator's name\n> - the organizer must mark the event as 'allowing proxy cards' on the VEKN calendar\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78858"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Nov 2, 2016, 8:55\u202FPM",
+      "Body": "> Glinlos wrote:\n> Are the decks printed by this tool legals for tournament which allow proxies?\n>\nYou can print old cards using this tool. Simply:\n\nBuild Deck Click \"Print Some\" Check \"Use old cards\" Click \"Print\"  Our local players prefer the new cards which we have no issues with \u2014 so it's the default.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78862"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Nov 2, 2016, 9:09\u202FPM",
+      "Body": "Now with draw simulator: (release 1.1)\n\nLive here:  amaranth.vtes.co.nz\n\nApps updates should be approved soon.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78863"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Nov 2, 2016, 10:03\u202FPM",
+      "Body": "> Ke. wrote:\n>\n> > Glinlos wrote:\n> > Are the decks printed by this tool legals for tournament which allow proxies?\n> >\n> You can print old cards using this tool. Simply:\n>\n> Build Deck Click \"Print Some\" Check \"Use old cards\" Click \"Print\"  Our local players prefer the new cards which we have no issues with \u2014 so it's the default.\n>\nIs there any way to default to the old images when using this tool? For those who prefer the old layouts? It's a great tool.",
+      "Id": "78865"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Nov 2, 2016, 11:45\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n> Is there any way to default to the old images when using this tool? For those who prefer the old layouts? It's a great tool.\n>\nSure, I can look at adding a user setting or similar.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78867"
+    },
+    {
+      "Author": "xXLazarusXx",
+      "Date": "Nov 3, 2016, 4:44\u202FPM",
+      "Body": "I just got this and I absolutely love it.\n\nI, too, would like a default \"origional card\" option .\n\nPrince of Lodi, Ca\nEveryone must ride with Charon, by and by. We merely wish to know what to ask him before we step onto his boat.",
+      "Id": "78873"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "Feb 4, 2017, 1:16\u202FPM",
+      "Body": "A means to recover/reset your password would be great.\nAlready lost/forgot my password\n\n-1 Strength",
+      "Id": "80559"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Feb 4, 2017, 4:56\u202FPM",
+      "Body": "This is great!\n\nThanks so much.\n\nOne minor bug, when using the Draw Simulator the discipline symbols do not refresh when you use the redraw button in the top right corner (the circular arrow symbol).\n\nIf someone has already mentioned that, then my apologies.",
+      "Id": "80562"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Feb 11, 2017, 6:57\u202FPM",
+      "Body": "The images appear to be down. This makes the cards unreadable.",
+      "Id": "80656"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Feb 13, 2017, 3:08\u202FPM",
+      "Body": "Hello!\n\nJust discovered this, tried it out and shared to our local meta. Excellent work! Had to try it out, and the .pdfs print out wonderfully.\n\nI'm loving the work you've done for the new layouts, but still kept the old ones as an option. Amaranth is now probably the most extensive database for VtES card images?\n\nI don't know if the new layouts and their design are of any particular importance at the moment for you guys, but I'd love to add my two cents:\n\n- the font is a bit on a 'times new roman' end. I'd work a bit on the spacing, and compress the text a bit more. The spacing (especially on library cards) is more like 1,5 or 1,7 by the looks of it, while it could easily be 1,2 or so.\n- I sorta miss the ovality of the crypt cards. The idea is contemporary and fine, but I'd love to have something of the oval structure.\n- in the same vein, the consistent green of the discipline bar in the official layout is something I really miss. Mixing clans makes for a bit of a mess atm. It does take a wee bit off of the 'more art' direction, which you guys seem to like, but a darker shade of oval borders around the crypt art would make for a bit more consistent layout in play (across clans).\n- what I said above goes even more so for library cards. Blue for actions, red for combat, and the such is clear alright, but it leaves the design lacking in what I really love in grittiness of vampire art. It's even a bit 'too' clear, modern and 'clean'. I'm sure you know what I mean. Just a hint of extra borders, dark, ruggedness, at the expense of how much art is shown?\n\nI can give more opinions on the layout if that's at all on your priority lists.  Suggestions, mind, not complaints at all!\n\nThe whole Amaranth project is great work, and greatly appreciated.\n\n-P\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "80669"
+    },
+    {
+      "Author": "Tendoncutter",
+      "Date": "Mar 2, 2017, 6:52\u202FPM",
+      "Body": "Shouldn't this site be listed in the \"Other V:TES Websites\"-section under Utilities?\n\nCheers for the work done!",
+      "Id": "80959"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Mar 2, 2017, 8:13\u202FPM",
+      "Body": "> Tendoncutter wrote:\n> Shouldn't this site be listed in the \"Other V:TES Websites\"-section under Utilities?\n>\nI just added it to the \"Other V:TES Websites\" section. Thanks!\n\nV:EKN Website Coordinator",
+      "Id": "80961"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Mar 2, 2017, 8:18\u202FPM",
+      "Body": "Both the Barons and the Imbued filters result in partial searches",
+      "Id": "80962"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Jun 14, 2017, 11:26\u202FAM",
+      "Body": "I always have to login again to do stuff. Bug or feature?\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "82199"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jul 19, 2017, 9:48\u202FPM",
+      "Body": "> Ashur wrote:\n> I always have to login again to do stuff. Bug or feature?\n>\nThis has been resolved in the latest version \u2014 you may have to login one more time though.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "82679"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Sep 6, 2017, 5:28\u202FAM",
+      "Body": "The search function doesn't identify Lodin as a prince. Search tags: g4-5, Prince\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83424"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Sep 6, 2017, 9:30\u202FAM",
+      "Body": "> Kraus wrote:\n> The search function doesn't identify Lodin as a prince. Search tags: g4-5, Prince\n>\nCheers, this has been fixed online. Will be included in the next app releases also.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "83425"
+    },
+    {
+      "Author": "Tendoncutter",
+      "Date": "Sep 6, 2017, 5:05\u202FPM",
+      "Body": "While deckbuilding i noticed that cards I added, but end up removing again stay visually in the deck, even though the amount is reduced to 0. This happens with both crypt and library cards. Is this a known bug?\nIf you start from a big pile of 'maybe' cards, the lingering of removed cards can be quite a nuissance.",
+      "Id": "83429"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Sep 6, 2017, 6:21\u202FPM",
+      "Body": "I seem to recall you'll need to click once more after 0 to remove them.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83430"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Sep 6, 2017, 11:14\u202FPM",
+      "Body": "Yes, this is by design. It allows you to keep cards that you're thinking about / not sure about in the deck \u2014 without them actually affecting the card count or being printed.\n\nIf you click minus when they're on 0 in the deck they will be removed.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "83432"
+    },
+    {
+      "Author": "Tendoncutter",
+      "Date": "Sep 7, 2017, 2:18\u202FPM",
+      "Body": "Could have sworn I'd tried that already, but apparently not.\n\nIt does indeed work, and the design choice makes sense, considering the above.\n\nCheers",
+      "Id": "83433"
+    },
+    {
+      "Author": "gymim",
+      "Date": "Sep 7, 2017, 5:05\u202FPM",
+      "Body": "Just a suggestion/request: is it possible to get the action icon added onto Equipment cards, Retainer cards, Political Action cards, Ally cards. That way, when i introduce new players to the game, i can let them know that anything with that icon is an action.",
+      "Id": "83434"
+    },
+    {
+      "Author": "alf",
+      "Date": "Sep 15, 2017, 3:23\u202FPM",
+      "Body": "Really nice tool and I appreciate all the work so far.\n\nFor some reason I can no longer import a deck from secretlibrary.\nIt worked for me before but now I always get the error: Unable to ectract cards.\nSo far I tried\n- logging out and in\n- empty browser cash\n- Firefox and Chrome.\nAny hint on that?\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "83554"
+    },
+    {
+      "Author": "gymim",
+      "Date": "Oct 16, 2017, 7:09\u202FPM",
+      "Body": "i love the proxies! i've made most of the precons with these, and use them to teach some new players. i was wondering, would it be possible to add the action icon to the equipment, ally, retainer, and political cards? I feel like if there was a single icon that notated \"action\" across every card that is an action, i could tell my players: If you see this icon in the upper left, its an action card.\n\nThank you for all the time and work you put into this tool. It has helped me introduce people to this game!",
+      "Id": "83891"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Oct 17, 2017, 1:31\u202FPM",
+      "Body": "> gymim wrote:\n> i love the proxies! i've made most of the precons with these, and use them to teach some new players. i was wondering, would it be possible to add the action icon to the equipment, ally, retainer, and political cards? I feel like if there was a single icon that notated \"action\" across every card that is an action, i could tell my players: If you see this icon in the upper left, its an action card.\n>\n> Thank you for all the time and work you put into this tool. It has helped me introduce people to this game!\n>\nI wonder if I gave a wee note about this before or not, but it's something I noticed too.\n\nThe  symbol is crucial in Equipments and Political actions and the like, and it should definitely be there.\n\nHow's the recruiting going on?\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "83906"
+    }
+  ]
+}

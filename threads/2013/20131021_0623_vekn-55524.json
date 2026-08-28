@@ -1,0 +1,14 @@
+{
+  "ThreadId": "vekn-55524",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/jol/55524-ardb-jol-export-template",
+  "Title": "[ARDB][JOL] Export template",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Oct 21, 2013, 6:23\u202FAM",
+      "Body": "I've updated the template used by ARDB to generate JOL-compatible deck files.\nPreviously, there was 1 line per card copy.\nNow copies are regrouped and sorted+grouped by type.\n\nJOL stylesheet for ARDB (Right-click > Save as)\n\nTo be copied in the xsl subfolder of ARDB.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "55524"
+    }
+  ]
+}

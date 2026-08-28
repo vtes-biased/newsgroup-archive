@@ -1,0 +1,92 @@
+{
+  "ThreadId": "vekn-78834",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78834-timing-question-mask-of-a-thousand-faces-vs-block-resolution",
+  "Title": "Timing question: Mask of a Thousand Faces VS block resolution",
+  "Messages": [
+    {
+      "Author": "R\u00E9mi",
+      "Date": "Sep 3, 2020, 4:52\u202FPM",
+      "Body": "Dear all,\n\nI am the acting player, I say \"Yes the current action is blocked\".\n1/ Can I play Mask of a Thousand Faces after that? Of course i would play if at inferior level since I would not be able to further increase the stealth amount.\n\n2/ Only if the answer of the first question is YES.\nIf both the initial acting minion and the one who has just played the Mask of the 1000 faces has Arching Beauty. May I activate both of them?\n\n3/ Only if the answer of the first question is YES.\nMay I play Venenation after the Mask of the 1000 faces?\n\n4/ Only if the answer of the previous question is YES.\nMay I play another Mask of a Thousand Faces?\n\nCard text:\nName: Mask of a Thousand Faces\nCardtype: Action Modifier\n[obf] Only usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\n\nName: Venenation\nCardtype: Action Modifier\n[ser] Place a corruption counter on the blocking minion. If the number of your corruption counters on the minion equals or exceeds the blood capacity of that vampire or the cost of that ally, you may burn all of your corruption counters on that minion to gain control of him or her (combat is canceled). Otherwise, combat occurs as normal.\n\nName: Aching Beauty\nCardtype: Master\nPut this card on any Toreador. If this Toreador is blocked, the blocking minion's controller burns 1 pool before block resolution.\n\nThanks in advance,\nRegards,\nR\u00E9mi.\n\nI am R\u00E9mi Cavaill\u00E9 (), Barcelona (Spain). I was the Prince of Lyon (France) around 2003. I am now Official Judge and the 5th Prince of Barcelona.\n\nEnjoy VTES, Marvel Champions, L5R and more gaming activities in Khan Jugar:\nsites.google.com/view/khanjugar/",
+      "Id": "100683"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Sep 4, 2020, 7:46\u202FAM",
+      "Body": "In my opinion:\n\n1. Yes. You can say that you play Mask befour block resolution.\n2. No, Action is allredy blocked so trigger for secound AB passed\n3. Yes, your are still befour block resolution.\n4. No, you can't use the same action modifier more than once. Acting vampier is diffrent but its still the same action.",
+      "Id": "100686"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Sep 4, 2020, 10:54\u202FAM",
+      "Body": "> Tadori wrote:\n> In my opinion:\n>\n> 1. Yes. You can say that you play Mask befour block resolution.\n> 2. No, Action is allredy blocked so trigger for secound AB passed\n> 3. Yes, your are still befour block resolution.\n> 4. No, you can't use the same action modifier more than once. Acting vampier is diffrent but its still the same action.\n>\nNot sure about 1.-3., but your answer for 4. is incorrect. A vampire may play the same action modifier not more than once during an action, but the Masking vampire may play Action Modifiers the fist vampire played, since they haven't played them. The same way the now not-acting vampire can play another Mask of a Thousand Faces.\n\nc.f. www.vekn.net/forum/rules-questions/59029-multiple-mask-of-a-thousand-faces\n\nPrince of Bonn, Germany",
+      "Id": "100687"
+    },
+    {
+      "Author": "lip",
+      "Date": "Sep 8, 2020, 8:33\u202FAM",
+      "Body": "1. From  [LSJ 20010803] , I'd say yes, you can \"be blocked\" and play Mask.\n\n2. From previous ruling and  [LSJ 20090106] , I'd conclude (but this may need an RD confirmation) than, yes, you can trigger both Aching Beauty.\nAfter further research, you cannot play Mask if you used the effect of Aching Beauty  [LSJ 20030520]\n\n3. Still from  [LSJ 20010803] , you can play Venenation before and after the Mask.\n\n4. Yes, as Yomyael pointed out, cf.  [ANK 20200515] . Although if you play it with the first vampire (original actor), I'd say you cannot trigger the same Aching Beauty again, as it has already been triggered.\n\nDo not hesitate to check the  rulings page for Mask. The links direct you to the official rulings, and sometimes you can find more precise answers there that the current wording does not reflect completely. Please point it out if you think a ruling is missing or a rewording could be in order.",
+      "Id": "100712"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Sep 8, 2020, 11:14\u202FAM",
+      "Body": "> lip wrote:\n>\n> 2. From previous ruling and  [LSJ 20090106] , I'd conclude (but this may need an RD confirmation) than, yes, you can trigger both Aching Beauty.\n> r.\n>\nI think situation in LSJ is different, in the answer minion is still attempting to block,\nRemi stated that action is successfully blocked and after that, mask is played.\n\n@Ankha can you take a look.",
+      "Id": "100714"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 8, 2020, 12:53\u202FPM",
+      "Body": "> Tadori wrote:\n>\n> > lip wrote:\n> >\n> > 2. From previous ruling and  [LSJ 20090106] , I'd conclude (but this may need an RD confirmation) than, yes, you can trigger both Aching Beauty.\n> > r.\n> >\n> I think situation in LSJ is different, in the answer minion is still attempting to block,\n> Remi stated that action is successfully blocked and after that, mask is played.\n>\n> @Ankha can you take a look.\n>\nActual card text of aching beauty :\nName: Aching Beauty [Jyhad:U, VTES:U, CE:U, KoT:U, FB:PTo3] Cardtype: Master Clan: Toreador Cost: 2 pool Put this card on any Toreador. If this Toreador is blocked, the blocking minion's controller burns 1 pool before block resolution.\n\nActually, it states that the pool is paid when the toreador is blocked so each aching beauty on each blocked toreador would trigger.\n\n(I may be wrong but LSj answer seems pretty straightforward and the difference in situation seems moot regarding cardtext...",
+      "Id": "100715"
+    },
+    {
+      "Author": "Tadori",
+      "Date": "Sep 9, 2020, 6:10\u202FAM",
+      "Body": "> Timo wrote:\n>\n> Actual card text of aching beauty :\n> Name: Aching Beauty [Jyhad:U, VTES:U, CE:U, KoT:U, FB:PTo3] Cardtype: Master Clan: Toreador Cost: 2 pool Put this card on any Toreador. If this Toreador is blocked, the blocking minion's controller burns 1 pool before block resolution.\n>\n> Actually, it states that the pool is paid when the toreador is blocked so each aching beauty on each blocked toreador would trigger.\n>\n> (I may be wrong but LSj answer seems pretty straightforward and the difference in situation seems moot regarding cardtext...\n>\nThe doubt I have is the time of triggering this ability. Is AB triggering the moment minion action is successfully blocked or is it enough to be in blocked state.\n\nIf its the first case, only 1 AB will trigger becouse vampire from mask was not blocked he only participating in already blocked action. If it's the second situation both AB trigger\n\nAs I said in my opinion vamp with AB should actually be blocked by opponents minion and this state occurs when you agree that your action was blocked. You play mask after that, switched vamp was not blocked technically, he entered already blocked action by previous vamp so he missed the trigger.",
+      "Id": "100716"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 9, 2020, 6:49\u202FAM",
+      "Body": "> R\u00E9mi wrote:\n> Dear all,\n>\n> I am the acting player, I say \"Yes the current action is blocked\".\n> 1/ Can I play Mask of a Thousand Faces after that? Of course i would play if at inferior level since I would not be able to further increase the stealth amount.\n>\n> 2/ Only if the answer of the first question is YES.\n> If both the initial acting minion and the one who has just played the Mask of the 1000 faces has Arching Beauty. May I activate both of them?\n>\nName: Mask of a Thousand Faces\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, unlocked vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Unlock the acting minion and lock this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\n\nName: Aching Beauty\nCardtype: Master\nClan: Toreador\nCost: 2 pool\nPut this card on any Toreador. If this Toreador is blocked, the blocking minion's controller burns 1 pool before block resolution.\n\nAs far as I can see, the act of blocking happens only once. Aching beauty talks about being blocked. Mask can be playable at basically any time since it doesn't have limitations.\n\nSo either\n1.) Vampire A is blocked and triggers aching beauty, you play mask, vampire B is already blocked and doesn't trigger its aching beauty and handles following combat.\n\n2. Opponent is only attempting to block vampire A, you play mask, vampire B is now the one who the opponent is attempting to block, you let it happen, Beauty triggers, and combat follows.\n\nDue to mask having a lenient timing, you can choose which vampire triggers the aching beauty, but it can't be both.\n\nThis answers the question 4 also: you could keep swapping the vampires if you want, but only one triggers aching beauty. This is not in contradiction to LSJ's ruling, since no mention is given about vampire A having aching beauty. What he said still holds true.\n\n> 3/ Only if the answer of the first question is YES.\n> May I play Venenation after the Mask of the 1000 faces?\n>\nName: Venenation\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Serpentis\nOnly usable when this acting minion is blocked, before combat begins.\n[ser] Place a corruption counter on the blocking minion. If the number of your corruption counters on the minion equals or exceeds the blood capacity of that vampire or the cost of that ally, you may burn all of your corruption counters on that minion to gain control of him or her (combat is canceled). Otherwise, combat occurs as normal.\n[SER] As above, but the cost of this card is reduced by 1 blood.\n\nVenenation has similar trigger as aching beauty, so it is handled similarly. With Mask you can choose which vampire triggers it, but only one trigger will happen.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "100717"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 9, 2020, 7:29\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> Venenation has similar trigger as aching beauty, so it is handled similarly. With Mask you can choose which vampire triggers it, but only one trigger will happen.\n>\nAnd it has been explicitly ruled that you can play multiple venenations using different vampires with multiple mask.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/sWEvlqb1FS8/m/trxhYQ3lR20J\n\nIMO it means that you could trigger multiple copies of aching beauty on a block.\n\nEDITH : I was wrong ^^",
+      "Id": "100719"
+    },
+    {
+      "Author": "lip",
+      "Date": "Sep 9, 2020, 7:43\u202FAM",
+      "Body": "Sorry for posting too fast on point 2.\n\nA quick search in the google group let us know that you cannot mask if you have used Aching Beauty, because you used an effect that the masking vampire could not have used (even if he had an Aching Beauty, it's not the same).\n\n[LSJ 20030520]\n>\n> > 2/ Can B Mask the action after the block and the pool loss induced by the\n> > Aching Beauty? Is the pool loss considered an applied effect?\n>\n> B cannot mask once the pool loss effect is applied.\n>\nSo, to summarise:\n\n> 1/ Can I play Mask of a Thousand Faces after that? Of course i would play if at inferior level since I would not be able to further increase the stealth amount.\n>\nYes  [LSJ 20010803]\n\n> 2/ If both the initial acting minion and the one who has just played the Mask of the 1000 faces has Arching Beauty. May I activate both of them?\n>\nNo. You cannot play Mask if you activate the first.  [LSJ 20030520]\n\n> 3/ May I play Venenation after the Mask of the 1000 faces?\n>\nYes  [LSJ 20010803]\n\n> 4/ May I play another Mask of a Thousand Faces?\n>\nYes  [ANK 20200515]",
+      "Id": "100720"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 9, 2020, 8:19\u202FAM",
+      "Body": "> lip wrote:\n> Sorry for posting too fast on point 2.\n>\n> A quick search in the google group let us know that you cannot mask if you have used Aching Beauty, because you used an effect that the masking vampire could not have used (even if he had an Aching Beauty, it's not the same).\n>\nOf course you're right...",
+      "Id": "100721"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 10, 2020, 7:32\u202FAM",
+      "Body": "> Tadori wrote:\n>\n> > lip wrote:\n> >\n> > 2. From previous ruling and  [LSJ 20090106] , I'd conclude (but this may need an RD confirmation) than, yes, you can trigger both Aching Beauty.\n> > r.\n> >\n> I think situation in LSJ is different, in the answer minion is still attempting to block,\n> Remi stated that action is successfully blocked and after that, mask is played.\n>\n> @Ankha can you take a look.\n>\nYou cannot play M1KF after the Aching Beauty has triggered.\n\n> lip wrote:\n> 1. From  [LSJ 20010803] , I'd say yes, you can \"be blocked\" and play Mask.\n>\n> 2. From previous ruling and  [LSJ 20090106] , I'd conclude (but this may need an RD confirmation) than, yes, you can trigger both Aching Beauty.\n> After further research, you cannot play Mask if you used the effect of Aching Beauty  [LSJ 20030520]\n>\nThe link is correct.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100732"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 10, 2020, 9:20\u202FAM",
+      "Body": "Hmmm. What if the minion playing Mask _also_ has Aching Beauty? Would that change the situation?\n\nFinnish  Politics!",
+      "Id": "100734"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 10, 2020, 9:25\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> Hmmm. What if the minion playing Mask _also_ has Aching Beauty? Would that change the situation?\n>\nNo. Aching Beauty 1 is different from Aching Beauty 2, even if their effects are identical.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100738"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-75300",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/75300-ann-new-ios-and-android-apps",
+  "Title": "[ANN] New iOS and Android Apps",
+  "Messages": [
+    {
+      "Author": "Ke.",
+      "Date": "Oct 26, 2016, 11:22\u202FPM",
+      "Body": "Hello all,\n\nThe app versions of Amaranth are now live.\n\nAndroid:\nplay.google.com/store/apps/details?id=com.zeroloop.amaranth&hl=en\n\niOS:\nitunes.apple.com/us/app/amaranth-db/id1168835445\n\nYou can use this to print tournament legal proxies using the \"Print some\" button.\n\nSo far Amaranth has 99 registered users. Let's see who hits number 100.\n\nFeedback welcome.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "78788"
+    },
+    {
+      "Author": "emime",
+      "Date": "Mar 15, 2017, 3:13\u202FPM",
+      "Body": "Great work Ke.!\n\nI had completely missed this... looked randomly for VTES in App Store and got lucky!\n\nThe web-version is also useful for a Mac user stuck with old ARDB.\n\nAnd the proxy-printing is just a-ma-zing!\n\nBy the way, one question... is there a way to see just the \"old\" images of the cards (i.e. the official ones, not put in the new layout), when browsing cards or otherwise (i.e., besides the possibility to have them in pdf format when printing proxies)? Many thanks!\n\nEmiliano \"Sans Terre\" - Wandering Player - Prince of Brussels",
+      "Id": "81145"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 15, 2017, 4:05\u202FPM",
+      "Body": "It's slightly slower / less reactive than Vampidroid (notably on searches) but has some added functionalities.\n\nIn the crypt search, when toggling the discipline icons to filter, there's a noticeable delay (about 1 second) because I suppose it starts the search as soon as you toggle it. The right thing to do is to wait that the user has toggled all the filters they want before starting the search (this can be done by waiting 1 second after that the user has toggled something for the last time). This way, the interface doesn't freeze when you start toggling the filters.\n\nThere's another annoying thing: the yellow done button should close the filter box once you've selected your filters. Currently, it only helps closing submenu, but when there's no submenu opened, it does nothing.\nThe filter box should also close when you click outside it.\n\nAlso, when listing the vampire, there isn't an option to display its cardtext in the result list. You have to click on it to read it, which is much slower than on Vampidroid.\n\nI don't know if there's a more appropriate place to list those requests but I know Chris reads it so...\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "81146"
+    },
+    {
+      "Author": "CelestialChoir",
+      "Date": "Mar 15, 2017, 4:39\u202FPM",
+      "Body": "Love the look and ease of the app. I'm experiencing some trouble with importing from SecretLibrary.\n\nEDIT: This was only the case for one deck, an older Followers of Set deck.\n\nPrince of Asheville",
+      "Id": "81147"
+    },
+    {
+      "Author": "cordovader",
+      "Date": "Mar 15, 2017, 9:00\u202FPM",
+      "Body": "Hi Ke!\n\nI must first of all say that as an iPhone user I'm super happy to finally see an iOS APP seeing the light.\n\nI think the APP is awesome and I must say it is hard to see such a good finished product. Did you do it on your own? Did someone besides you test the APP?\n\nI found a couple of annoying behaviors also:\n\n-while building a deck and adding library cards to the deck you need to click once on the plus button before you can start adding cards - is this intended?\n-the search engine does not work like other tools - example: try searching for minion tap\n\nI will let you know if I find some other stuff.",
+      "Id": "81153"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 15, 2017, 9:48\u202FPM",
+      "Body": "> cordovader wrote:\n> -the search engine does not work like other tools - example: try searching for minion tap\n>\nNo, it's correct. But you must type \"Villein\" instead.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "81156"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 17, 2017, 2:46\u202FAM",
+      "Body": "> cordovader wrote:\n> the search engine does not work like other tools - example: try searching for minion tap\n>\nYes, it does a full text search on the words \"minion tap\" and will show cards that contain *both* words. So for example it matches glancing blow:\n\n> Do not replace until your untap phase.\n> Prevent 1 damage from the opposing minion's strike.\n>\nPreviously such a search would only match the title; however full text search is overall far more useful. Yes, in some cases such as this it seems odd (here due to two very common terms: minion + tap); however overall it is more often beneficial than detrimental.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "81165"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 17, 2017, 2:59\u202FAM",
+      "Body": "> cordovader wrote:\n> I must first of all say that as an iPhone user I'm super happy to finally see an iOS APP seeing the light.I think the APP is awesome and I must say it is hard to see such a good finished product. Did you do it on your own? Did someone besides you test the APP?\n>\nGreat; glad you like it. Local players initially assisted with the testing and now input comes from over 300 registered users like yourself  \u2014 it was just a quick side project from what I normally do at  www.zeroloop.com\n\nThe most up to date version of the app is always online here:  amaranth.vtes.co.nz . All the app versions are derived from this.\n\n> cordovader wrote:\n> -while building a deck and adding library cards to the deck you need to click once on the plus button before you can start adding cards - is this intended?\n>\nWhich plus button? the large ones are to decide which type of cards to add (crypt / library) and from there the small buttons should add or remove to the deck immediately.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "81166"
+    },
+    {
+      "Author": "cordovader",
+      "Date": "Mar 17, 2017, 4:39\u202FPM",
+      "Body": "> Ke. wrote:\n>\n> > cordovader wrote:\n> > I must first of all say that as an iPhone user I'm super happy to finally see an iOS APP seeing the light.I think the APP is awesome and I must say it is hard to see such a good finished product. Did you do it on your own? Did someone besides you test the APP?\n> >\n> Great; glad you like it. Local players initially assisted with the testing and now input comes from over 300 registered users like yourself  \u2014 it was just a quick side project from what I normally do at  www.zeroloop.com\n>\n> The most up to date version of the app is always online here:  amaranth.vtes.co.nz . All the app versions are derived from this.\n>\n> > cordovader wrote:\n> > -while building a deck and adding library cards to the deck you need to click once on the plus button before you can start adding cards - is this intended?\n> >\n> Which plus button? the large ones are to decide which type of cards to add (crypt / library) and from there the small buttons should add or remove to the deck immediately.\n>\nYes I mean the plus button from the popup while you are searching for the cards.",
+      "Id": "81170"
+    }
+  ]
+}

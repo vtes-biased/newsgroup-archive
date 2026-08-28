@@ -1,0 +1,164 @@
+{
+  "ThreadId": "vekn-59101",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/59101-roetschreck-vs-riposte",
+  "Title": "R\u00F6tschreck vs Riposte",
+  "Messages": [
+    {
+      "Author": "Keiran",
+      "Date": "Feb 11, 2014, 8:07\u202FAM",
+      "Body": "How should be rosovbed R\u00F6tschreck vs Riposte?\nCombination:\n1) Range is close, second round of combat.\n2) Acting minion played \"Riposte\"\n3) Blocking minion use hand strike, Bone Spur and played R\u00F6tschreck.\nHow should be resolved this situation?\nCan Rotsherk work and can it be played?\nCan Riposte work?\n\nRiposte\n[cel] Strike: combat ends, and inflict 1 damage to the opposing minion once combat ends if the range is close (damage not preventable). Not usable on the first round of combat.\n\nBone Spur\npro] For the remainder of this round, this vampire`s hand damage is aggravated.\n\nRotschreck\nMaster: out-of-turn. <Frenzy> Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.",
+      "Id": "59101"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 11, 2014, 8:33\u202FAM",
+      "Body": "> Keiran wrote:\n> How should be rosovbed R\u00F6tschreck vs Riposte?\n> Combination:\n> 1) Range is close, second round of combat.\n> 2) Acting minion played \"Riposte\"\n> 3) Blocking minion use hand strike, Bone Spur and played R\u00F6tschreck.\n> How should be resolved this situation?\n> Can Rotsherk work and can it be played?\n>\nYes.\n\nA frequent misunderstanding is that S:CE doesn't end combat as soon as it's played or anything like that. You go through all of \"Choose Strike\" for both players, then you move on to \"Resolve Strike\". Combat ends is the first thing to go off in Resolve Strike.\n\nYou play Rotschreck during Choose Strike. When you play it, it ends combat, sends the vampire to torpor etc. This is because master cards (unlike strikes and actions) resolve when played, with no delay.\n\nSo:\n\nChoose Strike:\nA: I choose Riposte.\nB: I deal some aggravated damage. And I play Rotschreck.\nRotschreck goes on A. Combat ends. Tap the vampire, send it to torpor etc.\n\nResolve Strike is never reached. The effects of the strikes never go off and are lost.\n\n> Keiran wrote:\n> Can Riposte work?\n>\nNot unless Rotschreck is cancelled somehow (e.g. a Wash).\n\nNote that the same applies to all strikes - Rotschreck pre-empts you getting to Resolve Strike, so things that happen in Resolve Strike don't happen.\n\nFor example:\n\n- I play Majesty (superior), you attempt some agg damage and play Rotschreck. Combat ends. I don't get to untap from my Majesty, which would happen when the strike resolved.\n\n- I play Catatonic Fear (superior) or Oubliette (superior). You attempt some agg damage and play Rotschreck. Combat ends. You take no damage from Catatonic Fear, nor the burn blood/burn life effect from Oubliette.\n\n- I play some strike. You declare a strike with a gun and Dragon's Breath Rounds. You play Rotschreck. Combat ends. Because we never go to Resolve Strike, your gun doesn't burn, which happens when you resolve the strike, not when DBR is played.\n\n- I play Carrion Crows before range. During Choose Strike, you attempt some agg damage and play Rothscreck. Combat ends. We never get to Resolve Strike, so you don't take the damage from my Carrion Crows. Nor would you take the damage from my Murder of Crows retainer.\n\n- I strike for hands, and you play Burst of Sunlight. You play Rotschreck. Combat ends. I go to torpor (from Rotschreck), but because we never resolved the Burst of Sunlight strike, you don't take the agg damage that it would have dealt.\n\nYes, Rotschreck is pretty awesome.\n\nThis leads to a powerful but tricky deck-type, involving Malkavians and Madness Network, often with Protean for Claws and untap (Homunculus). Rush out of turn, play some agg damage, and play Rotschreck - because even though you're acting, it's not your turn. This deck type is tricky to run, but awesomely fun. Note that because of the way Madness Network now works, the Methuselah whose turn it is can act after you've taken an out-of-turn action (assuming they have minions who can act), so they may well be able to rescue themselves right there and then. Plan carefully. In years gone by, Madness Network only kicked in after the Methuselah whose turn it is had given up the right to act that turn, now it just follows the normal sequencing rules (with the Methuselah whose turn it is always getting the next right to do something, unless they pass - such as starting an action).\n\nNote also that Rotschreck can be partially nullified without actually cancelling it with Wash/Sudden Reversal etc. When you play it, it goes on the vampire. Then combat ends. Then it taps vampires and sends them to torpor. If you play something like Psyche! or Telepathic Tracking at the point that combat ends, the card is still on the vampire, but the tap-this-vampire-and-go-to-torpor effects are lost. (The \"do not untap as normal and burn this card\" effects go off as normal, being conditional on the card being in play.)",
+      "Id": "59103"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 11, 2014, 8:42\u202FAM",
+      "Body": "1) The Bone Spur COULD hit (i.e. ignoring the opposing minion's strike, the Bone Spur is at the right range to cause aggravated damage)\n2) Once the strikes are declared, Rotschreck is played. Rotschreck ends the combat following its text.\n3) The Riposte never resolves, neither does the Bone Spur.\n\nSo,\nActing minion goes to torpor with Rotschreck on them. Riposte does nothing to the blocking minion.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "59104"
+    },
+    {
+      "Author": "Keiran",
+      "Date": "Feb 11, 2014, 8:50\u202FAM",
+      "Body": "Thank's! You gave me a lot amount of deck-building ideas=)",
+      "Id": "59106"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Feb 11, 2014, 9:20\u202FAM",
+      "Body": "> with the Methuselah whose turn it is always getting the next right to do something, unless they pass - such as starting an action\n>\nThis is not true. If the situation changes, you get the momentum back.\n\nIf the way you write was true, stealth would be hardly playable: vamp A declares bleed at +1 stealth, vamp B wakes, vamp A passes (no modifiers to play), vamp B gets +1 intercept, vamp A can't play stealth, because he did not play it after the wake.\n\nIn a sense, you could decline your actions to see if Malks use Madness Network. If they do, you can take actions, if they don't, you move on to transfer phase.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "59109"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 11, 2014, 11:29\u202FAM",
+      "Body": "> kombainas wrote:\n>\n> > with the Methuselah whose turn it is always getting the next right to do something, unless they pass - such as starting an action\n> >\n> This is not true. If the situation changes, you get the momentum back.\n>\nThe usual word is \"impulse\", not momentum.\n\nIt's best to try to avoid re-inventing terminology for no purpose, since it makes things much harder to search for.\n\n> kombainas wrote:\n> If the way you write was true, stealth would be hardly playable: vamp A declares bleed at +1 stealth, vamp B wakes, vamp A passes (no modifiers to play), vamp B gets +1 intercept, vamp A can't play stealth, because he did not play it after the wake.\n>\nUmm, okay? After the Vamp B plays Wake, the \"Methuselah whose turn it is gets the next right to do something\", such as playing more stealth. Just like I said.\n\nPassing on your opportunity to play an effect is not the same as closing the window in which to play such effects. (Unless you're the last person with the opportunity to pass doing so.) Because the impulse always returns to the Methuselah whose turn it is. When they pass, it goes to someone else. If someone else plays an effect, the impulse returns to the Methuselah whose turn it is.\n\n> kombainas wrote:\n> In a sense, you could decline your actions to see if Malks use Madness Network. If they do, you can take actions, if they don't, you move on to transfer phase.\n>\nThat's not \"in a sense\". That's how it works.",
+      "Id": "59116"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 11, 2014, 11:33\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> 1) The Bone Spur COULD hit (i.e. ignoring the opposing minion's strike, the Bone Spur is at the right range to cause aggravated damage)\n> ...\n> 3) The Riposte never resolves, neither does the Bone Spur.\n>\nBone Spur is not a strike. Bone Spur resolved when played. The hand strike didn't resolve, but Bone Spur did.",
+      "Id": "59117"
+    },
+    {
+      "Author": "Keiran",
+      "Date": "Feb 15, 2014, 4:53\u202FPM",
+      "Body": "How does Rotsherk play vs Elemental Stoicism? Vampire threats aggravated damage as normal, but I try to inflict aggravated\n\n[for][obf] This vampire treats all aggravated damage as normal damage for the remainder of combat.",
+      "Id": "59187"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 15, 2014, 5:03\u202FPM",
+      "Body": "> Keiran wrote:\n> How does Rotsherk play vs Elemental Stoicism?\n>\nNo impact. Although the vampire treats it as normal, the damage is still aggravated.\n\nThe usual precedent here is Skin of Night, whose card text says:\nThis vampire treats aggravated damage as normal damage for the remainder of this round.\n\n[LSJ 20050304]\n\n> LSJ wrote:\n> > 1. I bleed my predator with a vampire\n> > 2. He blocks\n> > 3. I play skin of the night\n> > 4. He plays a wolf claw and r\u00F6tschreck\n> >\n> > Does my vampire go to torpor? Does \"the skin of the night\" aggrevated damage\n> > text hit in before he plays rotschreck?\n> You go to torpor. R\u00F6tschreck doesn't care how you'll treat/prevent/avoid the\n> damage, only that agg damage is being attempted to be inflicted on you by\n> the opposing minion.\n>",
+      "Id": "59188"
+    },
+    {
+      "Author": "cos",
+      "Date": "Feb 16, 2014, 8:27\u202FAM",
+      "Body": "I think the only way to avoid rotchech is play telepathic tracking.",
+      "Id": "59196"
+    },
+    {
+      "Author": "Kiddo",
+      "Date": "Feb 16, 2014, 8:35\u202FAM",
+      "Body": "> cos wrote:\n> I think the only way to avoid rotchech is play telepathic tracking.\n>\nEh, isn't Telepathic Tracking only usable when both combatants are ready, something Rotshreck specifically is used to avoid?",
+      "Id": "59197"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Feb 16, 2014, 8:55\u202FAM",
+      "Body": "Telepathic tracking prevents the part of Rotschreck where you go to torpor from happening, since it cancels the part before (\"combat ends\").\n\ngroups.google.com/forum/#!topic/rec.games.trading-cards.jyhad/gpOPrR-kXTM\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "59198"
+    },
+    {
+      "Author": "Kiddo",
+      "Date": "Feb 16, 2014, 9:13\u202FAM",
+      "Body": "Ah, I see. Yes, yes, you're quite correct.\n\n(btw, your link isn't working for me)",
+      "Id": "59199"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 16, 2014, 10:47\u202FAM",
+      "Body": "> cos wrote:\n> I think the only way to avoid rotchech is play telepathic tracking.\n>\nYou can cancel the Rotschreck outright with master-cancellation tech, such as Sudden Reversal or Wash. That will depend on you getting into combat when:\n\na) it's not your turn, or\nb) begging one of them cross-table from an ally. Meth A in combat with Meth B on A's turn. Meth B plays Rotschreck. Meth C can cancel it.\n\nYou can partially nullify it (it's still on you) if you play any of:\n- Telepathic Tracking\n- Psyche!\n- Coordinate Attacks\n- Hidden Lurker\n- Fast Reactions\n\nPossibly other effects too.\n\nThe basic ruling is from thelasombra.com/rules/RTR512.txt :\n\nEffects that end combat and then do something else after combat (all in the\nsingle resolution of the effect) will fizzle if combat doesn't end or if a\nnew combat is started. (Changes: Rotschreck followed by Fast Reaction or\nPsyche! will nullify the torpor effect.)",
+      "Id": "59201"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Feb 17, 2014, 12:31\u202FAM",
+      "Body": "Please also note: Santaleous can cancel it as its played.\n\nIt cannot be played on gotsdam/someone with sires index fimger,\n\nMost importantly:\n\nAnybody with basic Abombwe can play ANY abombwe card's reflexive text to cancel a frenzy card played on them as it is played.",
+      "Id": "59210"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 17, 2014, 6:38\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> It cannot be played on gotsdam/someone with sires index fimger,\n>\nTechnically incorrect. (You probably still wouldn't play it, but you can.)\n\nwww.thelasombra.com/rules/RTR7-7-7.txt\n>\n> RTR wrote:\n> R\u00F6tschreck can be played on a vampire who is immune to Frenzy cards (uselessly,\n> since the target is immune to it).\n>",
+      "Id": "59213"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Feb 17, 2014, 1:45\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > ReverendRevolver wrote:\n> > It cannot be played on gotsdam/someone with sires index fimger,\n> >\n> Technically incorrect. (You probably still wouldn't play it, but you can.)\n>\n> www.thelasombra.com/rules/RTR7-7-7.txt\n> >\n> > RTR wrote:\n> > R\u00F6tschreck can be played on a vampire who is immune to Frenzy cards (uselessly,\n> > since the target is immune to it).\n> >\nAh yes.\n\n\"He needed to cycle a master phase\" tech.",
+      "Id": "59218"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 17, 2014, 1:49\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n> \"He needed to cycle a master phase\" tech.\n>\nI'm not 100% sure what \"cycling a master phase\" is. But cycling cards for no useful effect is perfectly ordinary if, for example, you want to get to that Deflection you know must be coming up soon.",
+      "Id": "59219"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Feb 17, 2014, 6:31\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > ReverendRevolver wrote:\n> > \"He needed to cycle a master phase\" tech.\n> >\n> I'm not 100% sure what \"cycling a master phase\" is. But cycling cards for no useful effect is perfectly ordinary if, for example, you want to get to that Deflection you know must be coming up soon.\n>\nArbitrary card cycling that you wouldnt typically do, such astossing an abombwe master card on your predators don cerro, just to try drawing something remotely useful. So, you got it right.\n\nThere is a joke in Ohio about \"cycling a blood\" on certain effects that have no bearing, such as using Xaviers 2 blood for +2 strength then earthmelding, or using a vampires +1 bleed text while blocked with no way to gain stealth, etc.",
+      "Id": "59223"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Feb 18, 2014, 12:00\u202FAM",
+      "Body": "Note also that Rotschreck can be partially nullified without actually cancelling it with Wash/Sudden Reversal etc. When you play it, it goes on the vampire. Then combat ends. Then it taps vampires and sends them to torpor. If you play something like Psyche! or Telepathic Tracking at the point that combat ends, the card is still on the vampire, but the tap-this-vampire-and-go-to-torpor effects are lost. (The \"do not untap as normal and burn this card\" effects go off as normal, being conditional on the card being in play.)\n\nJust to add on your comment James,\n\nRuling: If combat is continued or a new combat started, then rest of the effect of Rotschreck is lost. [RTR 20020501]\n\nIn this case , all effect from Rotschereck is lost, even if it is still in play right?\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "59230"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 18, 2014, 8:09\u202FAM",
+      "Body": "> Roberto wrote:\n> Ruling: If combat is continued or a new combat started, then rest of the effect of Rotschreck is lost. [RTR 20020501]\n>\n> In this case , all effect from Rotschereck is lost, even if it is still in play right?\n>\nNo, as stated in the text you quoted.\n\nAs per www.thelasombra.com/rules/RTR512.txt :\nEffects that end combat and then do something else after combat (all in the\nsingle resolution of the effect) will fizzle if combat doesn't end or if a\nnew combat is started. (Changes: Rotschreck followed by Fast Reaction or\nPsyche! will nullify the torpor effect.)\n\nIt would also nullify the tap effect, which happens at the same time.\n\nThe in-play effect still works, because it's conditional on the card being in play.\n\n[LSJ 20030225]\n\nSetup: Rotschreck interrupted by Psyche!\n>\n> LSJ wrote:\n> charles lechasseur wrote:\n> > but the minion will untap at the next untap phase, and the card will never\n> > be burned, right? (since those are all effects that happen after combat\n> > ends)\n> No. Those are two effects of the card being in play. Contrast with the\n> \"go to torpor\" effect of the play of the card. (e.g., if you rescue\n> the victim, he doesn't immediately go to torpor just for having the\n> card).\n>\n> The vampire with the card doesn't untap as normal. The Rotschreck is burned\n> during the vampire's next untap phase.\n>\nNote that this also means that the Rotschreck card burns (rather than lingering on the vampire until Rotschreck's controller is ousted), which - while not exactly exciting - means that it could be a legitimate target for ash-heap diving, Waste Mangement Operation etc.",
+      "Id": "59239"
+    },
+    {
+      "Author": "Zoroh",
+      "Date": "Mar 21, 2014, 5:23\u202FPM",
+      "Body": "Sorry to ask again James, but I'm not sure I understood it correctly.\nAs per [LSJ 20030225], the Psyche! will nullify the \"tap and go to torpor effect\" that comes from playing Rots, correct?\nThe \"do not untap\" effect, that comes from just having the card, will still happen?\nIn another words, if I play Psyche! to escape torpor from rots, the card will still be put in my vampire, and it won't untap normally next untap phase.\n\nThanks in advance for the patience.\n\nKeep walking...",
+      "Id": "60169"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 21, 2014, 8:37\u202FPM",
+      "Body": "> Zoroh wrote:\n> Sorry to ask again James, but I'm not sure I understood it correctly.\n> As per [LSJ 20030225], the Psyche! will nullify the \"tap and go to torpor effect\" that comes from playing Rots, correct?\n> The \"do not untap\" effect, that comes from just having the card, will still happen?\n> In another words, if I play Psyche! to escape torpor from rots, the card will still be put in my vampire, and it won't untap normally next untap phase.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "60177"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Mar 21, 2014, 8:42\u202FPM",
+      "Body": "> Zoroh wrote:\n> Sorry to ask again James, but I'm not sure I understood it correctly.\n> As per [LSJ 20030225], the Psyche! will nullify the \"tap and go to torpor effect\" that comes from playing Rots, correct?\n> The \"do not untap\" effect, that comes from just having the card, will still happen?\n> In another words, if I play Psyche! to escape torpor from rots, the card will still be put in my vampire, and it won't untap normally next untap phase.\n>\n> Thanks in advance for the patience.\n>\nHere is Rotschreck's text:\n\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.\n\nHere it is broken out:\n\nPLAY EFFECT 1: Put this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not.\nPLAY EFFECT 2: Combat ends.\nPLAY EFFECT 3: This vampire is tapped and sent to torpor.\nIN PLAY EFFECT 1: This vampire does not untap as normal.\nIN PLAY EFFECT 2: During this vampire's next untap phase, burn this card.\n\nWhen you play it, PLAY EFFECT 1 happens. Then PLAY EFFECT 2 happens, but you interrupt that with Psyche! (or some other effect). PLAY EFFECT 3 is lost, because of the interrupt.\n\nIN PLAY EFFECT 1 and IN PLAY EFFECT 2 are not interrupted, because they're just conditional on the card being in play.\n\nSo, the net effect is you get:\n\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. Whatever Psyche! or Telepathic Tracking or whatever you've just played says happens. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.",
+      "Id": "60179"
+    },
+    {
+      "Author": "Zoroh",
+      "Date": "Mar 22, 2014, 12:01\u202FPM",
+      "Body": "So, it works exactly as I recall. Thank you guys.\n\nKeep walking...",
+      "Id": "60195"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Apr 12, 2014, 7:12\u202FAM",
+      "Body": "> ReverendRevolver wrote:\n> Please also note: Santaleous can cancel it as its played.\n>\n> It cannot be played on gotsdam/someone with sires index fimger,\n>\n> Most importantly:\n>\n> Anybody with basic Abombwe can play ANY abombwe card's reflexive text to cancel a frenzy card played on them as it is played.\n>\n... and Aye. Nobody expects the Aye!\n\n(I made a Tremere Burst of Sunlight predator very sad one day with my experiment: Aye & Ghoul Messenger bloating wall. Ugadja bouncing with Deflection & Lost in Translation was the cherry on top. I deliberately had no real offense in my experiment, but learned it was a solid Guruhi defense module. It also looks quite funny. Ever see someone block a Ghoul Messenger out of frustration?\n)",
+      "Id": "60902"
+    }
+  ]
+}

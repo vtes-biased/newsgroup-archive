@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-77744",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/77744-player-rankings-value-not-updating",
+  "Title": "Player Rankings - value not updating",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Jun 26, 2019, 10:25\u202FPM",
+      "Body": "Hi!\n\nI'm not sure if this is just a matter of an automatic system needing to periodically update, or if I need to nudge the right person to manually update it, but in case it's the latter, here is my issue:\n\nIn the player rankings, I have been closely watching my Constructed Limited total these last few days as Origins results have been coming through. At one point, after some Origins results were submitted but before a tournament win was recorded, my score was at 777. Then the win came through the system. A day has passed; my total is still at 777.\n\nFrom what I've gathered, the total should be the sum of the 8 highest tourney scores in the last 2 years, which are highlighted with bold text. The tournament result in question does indeed appear and is highlighted, but if you add up the 8 scores, the total tally should be 862, not 777.\n\nInterestingly, if you take the difference between that tourney score (155) and the 9th highest score that fell off (70), you get 85, which is the difference between 862 and 777, so it really does appear to be just this one tournament that is not getting calculated in.\n\nJust wanted to call that to an admin's attention, in case there is a button that needs to get pushed.\n\nThanks much!\n-Bill Troxel\n\nEDIT: scores are tallied from last 2 years, not last 1 year\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "95621"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 27, 2019, 9:33\u202FAM",
+      "Body": "I will look at it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95629"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Jun 27, 2019, 1:41\u202FPM",
+      "Body": "18 months, bill. Not 1 year. Not 2 years.",
+      "Id": "95635"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jun 27, 2019, 2:53\u202FPM",
+      "Body": "Updated and correct now -- thank you!\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "95637"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 27, 2019, 5:30\u202FPM",
+      "Body": "So... Is there anything left to look for?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95643"
+    },
+    {
+      "Author": "DJHedgehog",
+      "Date": "Jun 27, 2019, 7:36\u202FPM",
+      "Body": "I think it isn't updating again.\n\nEDIT: Just doing some quick math, it looks like the total for tournaments in the past 18 months should be 1301. It is showing a lower number. Maybe I'm not looking in the correct column?",
+      "Id": "95644"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Jun 28, 2019, 1:46\u202FPM",
+      "Body": "It's not total. Its best 8 in last 18 months",
+      "Id": "95650"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 29, 2019, 8:36\u202FAM",
+      "Body": "Bill, I've just looked at your results. The rating system takes into account the 8 best results during the last 18 month (www.vekn.net/rating-system).\n\nIt lists:\nNAC Day Two102 NAC Day One138 Origins Constructed155 Week of Nightmares Event 687 Week of Nightmares Event 1159 Marty Lechtansi got your ankle112 Agrippina loathes the nightlife96 NAC Day Two96 Week of Nightmares event 687\nYou'll notice that 9 results are being highlighted. This is because the lowest score (87) appears twice so the system doesn't know which one to choose and displays both as \"best results\" as a convenience.\n\nBut since it takes only the 8 best results, your rating of 945 is correct.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95657"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Jul 1, 2019, 6:58\u202FPM",
+      "Body": "Yes - thanks Vincent! As you may have seen from my post 2 days prior (on the 27th), things got updated to the correct values. They were wrong when I reported the issue on the 26th (at 777, not 945), and then fixed the next day.\n\nThere is a different issue that I have waited a few more days before mentioning in case of a similar situation, and that is with respect to the Hall of Fame. My two tournament wins from last month are not reflected in the Hall. They were both reported in the Event Reports and TWD in the forums within a few days of their occurrence.\n\nIs the Hall of Fame a part of a separate entity from Player Rankings? Is there a general timeline or procedure under which it gets updated with respect to the Rankings, and is there an onus on the players to nudge the administrators? Whatever is the procedure and timeline, I am fine with it. I just want to know what it is, because without knowing I will end up checking too often.\n\nThanks again,\n-Bill\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "95703"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2019, 6:41\u202FAM",
+      "Body": "> Killiam wrote:\n> Yes - thanks Vincent! As you may have seen from my post 2 days prior (on the 27th), things got updated to the correct values. They were wrong when I reported the issue on the 26th (at 777, not 945), and then fixed the next day.\n>\nRatings are calculated once a day, so maybe you looked at it one day too early.\n\n> Killiam wrote:\n> There is a different issue that I have waited a few more days before mentioning in case of a similar situation, and that is with respect to the Hall of Fame. My two tournament wins from last month are not reflected in the Hall. They were both reported in the Event Reports and TWD in the forums within a few days of their occurrence.\n>\n> Is the Hall of Fame a part of a separate entity from Player Rankings?\n>\nYes, it is.\n\n> Killiam wrote:\n> Is there a general timeline or procedure under which it gets updated with respect to the Rankings, and is there an onus on the players to nudge the administrators? Whatever is the procedure and timeline, I am fine with it. I just want to know what it is, because without knowing I will end up checking too often.\n>\nHall of Fame is updated every 6 weeks approximatively.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95709"
+    }
+  ]
+}

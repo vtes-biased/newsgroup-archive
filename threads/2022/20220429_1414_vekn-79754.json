@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-79754",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79754-heavens-gate-new-wording",
+  "Title": "Heavens Gate New Wording",
+  "Messages": [
+    {
+      "Author": "PaulCrowther",
+      "Date": "Apr 29, 2022, 2:14\u202FPM",
+      "Body": "Heavens Gate has had a fairly significant re write at some stage which leaves me confused as to its intent.\n\nThe obeah version used to send the ally to the uncontrolled region where it would come back under your control at the end of the influence phase. Now it doesn\u2019t, the ally is instead ready but unable to enter (or be involved in) combat, block or act.\n\nIt is the \u2018cannot be involved in combat\u2019 rule that I feel is not significantly clear. Is this to mean the ally cannot be entered into combat with by other minors for this phase and the opposing minion would not be allowed to play psyche for example?\n\nThis I feel like is the intent of the card as it puts e minion at the same kind of state they used to be when they were not actually ready, you cannot psyche an unready minion nor can you enter combat with them.\n\nHowever it doesn\u2019t state someone can\u2019t enter combat with them, could they take that action and the combat would immediately end? Could a psyche be played?\n\nCould these cards be played and the combat would end instantly as the ally is not allowed to be involved in the combat or is the opposing vampire just not allowed to play them?",
+      "Id": "105111"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 29, 2022, 3:16\u202FPM",
+      "Body": "> PaulCrowther wrote:\n> Heavens Gate has had a fairly significant re write at some stage which leaves me confused as to its intent.\n>\n> The obeah version used to send the ally to the uncontrolled region where it would come back under your control at the end of the influence phase. Now it doesn\u2019t, the ally is instead ready but unable to enter (or be involved in) combat, block or act.\n>\n> It is the \u2018cannot be involved in combat\u2019 rule that I feel is not significantly clear. Is this to mean the ally cannot be entered into combat with by other minors for this phase and the opposing minion would not be allowed to play psyche for example?\n>\nCorrect: you are not allowed to play Psyche! because you can't enter combat with the ally anymore.\n\n> PaulCrowther wrote:\n> This I feel like is the intent of the card as it puts e minion at the same kind of state they used to be when they were not actually ready, you cannot psyche an unready minion nor can you enter combat with them.\n>\nCorrect: one couldn't play Psyche! against a vampire going to torpor for instance.\n\n> PaulCrowther wrote:\n> However it doesn\u2019t state someone can\u2019t enter combat with them, could they take that action and the combat would immediately end? Could a psyche be played?\n>\nIt does state that you can't enter combat with them.\nDid you mean \"if\"? In that case, the question is moot anyway.\n\n> PaulCrowther wrote:\n> Could these cards be played and the combat would end instantly as the ally is not allowed to be involved in the combat or is the opposing vampire just not allowed to play them?\n>\nOne thing is certain: you can't attempt to do things that are not allowed, such as trying to enter combat with a minion you cannot enter combat with.\n\nCard text:\n\nName: Heaven's Gate\n[LoB:C, POD:DTC]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Obeah/Necromancy\nOnly usable by a ready unlocked vampire not involved in the combat.\n[nec] Prevent 1 damage to an ally in combat.\n[obe] Only usable if an ally would be burned in combat. Instead, add 1 life to that ally if they have no life, and they cannot enter (or be involved in) combat, perform actions, or block this turn; end combat.\n[OBE] As [obe] above, but add 2 life if they have no life, not to exceed their starting life.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105112"
+    },
+    {
+      "Author": "PaulCrowther",
+      "Date": "Apr 29, 2022, 5:54\u202FPM",
+      "Body": "Ah cool. I just thought \u2018cannot be involved in combat\u2019 was rather ambiguous. It doesn\u2019t straight say \u2018other minions cannot enter combat with this minion\u2019.\n\nCould be interpreted as only a limitation on that minion rather than other minions was my concern.",
+      "Id": "105114"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Apr 29, 2022, 6:21\u202FPM",
+      "Body": "> PaulCrowther wrote:\n> Ah cool. I just thought \u2018cannot be involved in combat\u2019 was rather ambiguous. It doesn\u2019t straight say \u2018other minions cannot enter combat with this minion\u2019.\n>\n> Could be interpreted as only a limitation on that minion rather than other minions was my concern.\n>\nThe key part of the text is \"and they cannot enter ... combat\" where \"they\" is the ally.\nThe text \"(or be involved in)\" is an attempt to make it clearer, but not really needed as the above covers it, that combat needs both combatants to be able to enter combat for a combat to happen...regardless of who initiates the entering combat.",
+      "Id": "105117"
+    }
+  ]
+}

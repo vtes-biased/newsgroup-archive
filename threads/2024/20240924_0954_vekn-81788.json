@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-81788",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/81788-how-does-slags-ability-work-how-does-slag-interact-with-learjet",
+  "Title": "how does Slags ability work? How does Slag interact with Learjet?",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 24, 2024, 9:54\u202FAM",
+      "Body": "Slag\n\nCamarilla: While Slag is ready, any Methuselah playing or discarding a card during a referendum shows you its replacement.\n\nLearjet\n\nVehicle.\nEach time you draw to replace a card this minion played as an acting minion, you may draw an additional card (discard afterward). A minion may have only one vehicle.\n\nhow often does Slags ability actualyl trigger?\n\nWe had a long widned discussion on Discord about slag and we foudn that the two most likly interpretations are:\n\nThe first card each emthuselah plays/discards, their repalcement is shown\n\nEach card played/dsicarded, their replacement is shown\n\nwith a theoreical third option:\nOnly the first card played /discarded,, their repalcement is shown\n\nThe discussion came down how to apply the \"During X do Y\" to the ability.\nWhat constitutes X and what constitutes y\n\nWe came to the conclusion that X is \"A referendum, when a Methuselah plays or discards a card\" and Y is \"SHow their repalcement\"\n\nBut even that left the possibility open for, once per card or once per methuselah?\n\nThe third interpretation came from \"everythign that is not explcetly follwing during (in this case a referendum) must be Y.\n\nso what is it?\n\nDoes slag get to see the card drawn by learjet, which is optional and can be drawn after the first card was drawn and seen?",
+      "Id": "112657"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 24, 2024, 12:07\u202FPM",
+      "Body": "found asnwer to the lerjet question:\nSlag does not see the Learjet repalcement.\ninferted from Agaitas\nAdditional draws are not subject to his ability (eg. Infernal Pursuit, Aura Reading, Learjet). [LSJ 20011202]\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/gyzUP4TCq6M/m/D-u3Uzdy6SMJ",
+      "Id": "112658"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 25, 2024, 9:24\u202FAM",
+      "Body": "Update OP to refelct the state of the discussion",
+      "Id": "112663"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Sep 25, 2024, 11:30\u202FAM",
+      "Body": "On a side note: If X in During X do Y is to be read as X = in a certain phase, if an additional requirement is fulfilled we should update the template in the rulebook accordingly. As it is written now, that interpretation couldn't be deduced easily from current wording imho\n\nWarning: Spoiler!\n\n\u201CDuring X, do Y\u201D: When this template is used, only one Y can be done per X with this card. For instance, you may move blood from your vampire to your pool with Vessel only once per unlock phase.",
+      "Id": "112664"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Sep 25, 2024, 2:32\u202FPM",
+      "Body": "Short;\n\nWhile Slag is ready, all methuselah show their replacement cards for played or discarded cards to Slag's controller. Learjet portion was covered earlier.\n\nLong;\n\nI'll toss few additionals here to provide context with relevant rulings from the past. For some text has changed over the years as attempt has been made to make it \"easier to understand\" but per Ankha, old rulings apply until they are told not to.\n\nSo;\n\nName: Grendel the Worm-Eaten [Jyhad:V, VTES:V, Tenth:B] Cardtype: Vampire Clan: Nosferatu Group: 1 Capacity: 5 Discipline: ani pot OBF Camarilla: While Grendel is ready, you may look at the top card of your crypt. Artist: Richard Kane Ferguson\n\nGrendel is example of a format \"While ready, do something.\" Per LSJ from 2000.  groups.google.com/g/rec.games.trading-cards.jyhad/c/a4N83aC_8ZM/m/DaAv5I3uml8J\n\n> > 2. How often can one use Grendel's (or other \"while X is ready\"\n> > vampire specials) ability? I say you can use it as much as you\n> > want whenever you want because of the word \"while\".\n>\n> As often as you like.\n>\nMind you the text at the time was \"If Grendel is ready, you may...\" which became \"While Grendel is ready...\"\n\nI saw some discussion related to Tegyrius Advance in discord but again, Tegyrius adv text 2003 contained things like \"once\" and so forth that are currently lacking. Might explain why there was no rulings or questions asked back then.\n\nHence I feel any card with \"while x\" just follows the 2000's LSJ ruling on Grendel. If the condition matches and is fulfilled, there is no limit. This is reinforced by 2006 imbued Peter ruling.  groups.google.com/g/rec.games.trading-cards.jyhad/c/Mm52DY_3fy8/m/yrwfRlN7BLQJ\n\nName: Peter \"Outback295\" Rophail [NoR:U] Cardtype: Imbued Creed: Redeemer Group: 4 Life: 4 Virtue: red ven While Peter is in combat with a monster, he may burn a conviction [1 CONVICTION] to get a maneuver. Artist: Lawrence Snelly\n\n> Jozxyqk wrote:\n> > \"While Peter is in combat with a monster, he may burn a conviction to\n> > get a maneuver.\"\n> >\n> > This doesn't follow the \"During X, do Y\" template; can Peter use this\n> > ability multiple times in a combat?\n>\n> Yes.\n> Google: once while during author:LSJ\n> groups.google.com/group/rec.games.trading-cards.jyhad/msg/4cf6d38e3881b381\n>\nNote how LSJ even points what to google to find more answers on the 2006. We sure have always liked to point to past rulings.  groups.google.com/g/rec.games.trading-cards.jyhad/c/WxJVsEWWmbc/m/gbOBOI7T9kwJ\n\nTrust in Jan Pieterzoon.",
+      "Id": "112666"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 25, 2024, 3:19\u202FPM",
+      "Body": "Ruligns consodering the \"While\" are not helpful here.\nAll listed rulings basically onyl say \"Using Whiel does not inherintly limit the occurance of the effect\"\n\nWhile just gives a condition under which the effect can occur or is usable.\n\nThe 2004 ruling about \"If/When\" is more relevnt here, if anything, stating then \"If/When X, then Y\" Y occurs once per X\n\nThe wording it not quite here, but it woudl be easy to word or Imagine the effect as \"When any methuselah plays or discards a card during a referendum, they show you the replacement\"\n\nI dont think it entire puts the case to rest but it gives another line of argument.",
+      "Id": "112667"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 1, 2024, 9:42\u202FAM",
+      "Body": "Read Slag as \"Camarilla: While Slag is ready, any Methuselah playing or discarding a card in a referendum shows you its replacement.\"\nSo it works for each card played in that time period.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "112690"
+    },
+    {
+      "Author": "Oracle.kid",
+      "Date": "Oct 1, 2024, 9:53\u202FAM",
+      "Body": "Is that an erratum?",
+      "Id": "112691"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Oct 1, 2024, 11:08\u202FAM",
+      "Body": "Clarification so will update card text in kot pod",
+      "Id": "112692"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 2, 2024, 7:25\u202FAM",
+      "Body": "> Ankha wrote:\n> Read Slag as \"Camarilla: While Slag is ready, any Methuselah playing or discarding a card in a referendum shows you its replacement.\"\n> So it works for each card played in that time period.\n>\nFor the sake of tournament rules: is this a clarification or a ruling due to unclear card text (effective immideatly)?\n\nor a erratum for \"wrong\" card text, since its \"read as\" (30 day period till tournament relevant)?",
+      "Id": "112704"
+    }
+  ]
+}

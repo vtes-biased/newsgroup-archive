@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-80949",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80949-the-gargoyle-created-by-create-gargoyle-is-unique-or-not",
+  "Title": "The gargoyle created by \"Create Gargoyle\" is unique or not?",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Nov 6, 2023, 12:15\u202FPM",
+      "Body": "Name: Create Gargoyle\n[BL:U2, LoB:R, HttB:PGar]\nCardtype: Action\nClan: Tremere/Tremere antitribu\nCost: 2 pool\n+1 stealth action. Requires a non-sterile vampire.\nPut this card into play; it represents a 2-capacity slave Gargoyle of the same sect enslaved to the acting vampire's clan with basic Visceratika [vis] and flight [FLIGHT]. You may search your hand, library and/or ash heap for a master: Discipline to place on this Gargoyle. Move up to 3 blood from the acting vampire to this Gargoyle. This Gargoyle cannot act this turn.\nArtist: Durwin Talon\n\nMost cards that create vampires set if the vampire created is unique or not.\nA few not.\n\nHatchling and Raw Recruit doesn't set is the vampire created is unique or not. But According to VDB by LJS sets that is not unique\nAlthough I don't see any reference to Hatchling in the LJS link so I don't understand why that applies to Hatchling\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/TojSBPeGCFw/0FaCEfqRs3QJ\n\nIs there any generic rule to set if a vampire created is unique or not when the card doesn't set it? Maybe if the card doesn't set a name for the card, in that case the vampire is not unique?\n\nFor example Create Gargoyle doesn't set if the vampire is unique/not unique\n\nThanks.\n\nWarning: Spoiler!\n\nName: Raw Recruit\n[HttB:R/A2]\nCardtype: Action\nClan: Gargoyle\n+1 stealth action. Requires a slave.\nPut this card in play and move a vampire in torpor to this card, face up and out of play. A vampire you control to whom this Gargoyle is enslaved can remove that vampire from the game as a +1 stealth action to turn this card into a Gargoyle with the same capacity, Fortitude [for], Potence [pot], Visceratika [vis] and flight [FLIGHT], enslaved to the acting vampire's clan and of the same sect as this Gargoyle.\nArtist: Jim Pavelec\n\nName: Hatchling\n[LoB:R, HttB:PGar]\nCardtype: Action\nClan: Gargoyle\nCost: 2 blood\n+1 stealth action. Requires a non-sterile Gargoyle.\nPut this card into play. This card represents a 1-capacity Gargoyle of the same sect with basic Visceratika [vis]. Move 1 blood from the bank to this Gargoyle. This Gargoyle cannot act this turn. Once this game, this Gargoyle can burn 1 blood during your unlock phase to gain flight [FLIGHT].\nArtist: Richard Thomas",
+      "Id": "109771"
+    },
+    {
+      "Author": "Ghost1980",
+      "Date": "Nov 6, 2023, 12:19\u202FPM",
+      "Body": "Hi,\n\nThe crated gargoyle is not unique as it is not named.",
+      "Id": "109772"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 6, 2023, 2:33\u202FPM",
+      "Body": "Minion cards are not unique by default, including cards that are put into play. If the created vampire is unique, it will need to be mentioned explicitly on the card to override the default, cf. Nosferatu Bestial.",
+      "Id": "109775"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2023, 5:51\u202FPM",
+      "Body": "> Ghost1980 wrote:\n> Hi,\n>\n> The crated gargoyle is not unique as it is not named.\n>\n> kschaefer wrote:\n> Minion cards are not unique by default, including cards that are put into play. If the created vampire is unique, it will need to be mentioned explicitly on the card to override the default, cf. Nosferatu Bestial.\n>\nBoth correct.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109781"
+    }
+  ]
+}

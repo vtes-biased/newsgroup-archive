@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-75268",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/75268-archon-reacting-to-players-dropping-out",
+  "Title": "Archon reacting to players dropping out",
+  "Messages": [
+    {
+      "Author": "Ashur",
+      "Date": "Oct 9, 2016, 8:35\u202FAM",
+      "Body": "I have another question about Archon (I use version 1.5e in Excel on Win 10, language Swedish).\n\nHow is the Archon reacting to playes withdrawing from the tournament? Yesterday we hade 31 players, but 2 dropped out after round 2 (before round 3, in a 3 round+final tournament). Isn\u00B4t the Archon supposed to recalculate the seating for round 3 then? Resulting in five 5-player tables and one 4-player table? Well, it didn\u00B4t for us, so I simply removed the dropouts from their 5-player tables, making them 4-player tables. Then I just notes this in the Override-tab, so we could have a final standing after round 3.\n\nOf course playing as many 5-player tables as possible is ideal, but if the Archon can\u00B4t recalculate the seating I didn\u00B4t dare trying to move around players manually.\n\nHelp?\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "78620"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2016, 8:46\u202FAM",
+      "Body": "> Ashur wrote:\n> I have another question about Archon (I use version 1.5e in Excel on Win 10, language Swedish).\n>\n> How is the Archon reacting to playes withdrawing from the tournament. Yesterday we hade 31 players, but 2 dropped out after round 2 (before round 3, in a 3 round+final tournament). Isn\u00B4t the Archon supposed to recalculate the seating for round 3 then?\n>\nNo, since the Archon doesn't know at which round the players dropped. It's ok if the players drop before the final, otherwise you have to handle the remaining rounds manually.\n\n> Ashur wrote:\n> Resulting in five 5-player tables and one 4-player table? Well, it didn\u00B4t for us, so I simply removed the dropouts from their 5-player tables, making them 4-player tables. Then I just notes this in the Override-tab, so we could have a final standing after round 3.\n>\nThat is a way to do.\n\n> Ashur wrote:\n> Of course playing as many 5-player tables as possible is ideal, but if the Archon can\u00B4t recalculate the seating I didn\u00B4t dare trying to move around players manually.\n>\nThe Archon can't calculate anything, there's a list of optimal seatings recorded in the archon. There's no real-time calculation because calculating the optimal seating for more than 14 players take hours (or days) to compute. It may even be impossible mathematically to get an optimal seating with the given 2 previous rounds and a third round with less players.\n\nThe difficulty is that there's a risk that you violate some seatings rules (no repetition in prey-predator relationships etc.) when moving players to recreate 5-players.\nStill, you can try and ask players to signal any weird situation (including a player that would start first for the third time).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78621"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Oct 9, 2016, 11:14\u202FAM",
+      "Body": "> Ashur wrote:\n> Yesterday we hade 31 players\n>\nUtm\u00E4rkt!\n\nFinnish  Politics!",
+      "Id": "78626"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 9, 2016, 5:47\u202FPM",
+      "Body": "> Ankha wrote:\n> That is a way to do.\n>\n> > Ashur wrote:\n> > Of course playing as many 5-player tables as possible is ideal, but if the Archon can\u00B4t recalculate the seating I didn\u00B4t dare trying to move around players manually.\n> >\n> The Archon can't calculate anything, there's a list of optimal seatings recorded in the archon. There's no real-time calculation because calculating the optimal seating for more than 14 players take hours (or days) to compute. It may even be impossible mathematically to get an optimal seating with the given 2 previous rounds and a third round with less players.\n>\n> The difficulty is that there's a risk that you violate some seatings rules (no repetition in prey-predator relationships etc.) when moving players to recreate 5-players.\n> Still, you can try and ask players to signal any weird situation (including a player that would start first for the third time).\n>\nAha. Thanks for the answer, now I know this for next time. I had no idea it was that difficult to compute - I think too highly of computers these days!  It might be a good idea to add this to some kind of organizers FAQ (ie, \"What do I do if a player leaves?\" and also \"What if a player turns up late and whats to play round 2 and 3?\")\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "78631"
+    },
+    {
+      "Author": "Ashur",
+      "Date": "Oct 11, 2016, 5:00\u202FPM",
+      "Body": "... and now I found this excellent post:  How to use the Archon correctly\n\n\"My strategy? Luck is my strategy, of course.\"",
+      "Id": "78652"
+    }
+  ]
+}

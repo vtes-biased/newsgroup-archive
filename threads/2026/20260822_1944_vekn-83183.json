@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-83183",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/ideas-to-develop/83183-vtes-for-obs-plugin",
+  "Title": "VTES for OBS (plugin)",
+  "Messages": [
+    {
+      "Author": "k3001993",
+      "Date": "Aug 22, 2026, 7:44\u202FPM",
+      "Body": "Hi, I have something to share with this community.\n\nIt's a plugin for Open Broadcaster Software that detects VTES cards when shown to a camera or webcam. My idea here was trying to improve tournament broadcasts. Basically, trying to show the card that it is being played but entirely fitting it to your screen without any human action. For now, it's only in Spanish.\nThen, the idea of adding the whole game logic came in, but I stopped and moved on to do other stuff (this is where I'm at, currently).\n\nFor techies\nIt is written entirely in C++ and/or C.\nIt's only available for Windows and heavily leverages machine learning libraries (ONNX Runtime, TensorRT, CUDA and OpenCV).\nIt uses a custom \"vtes.engine\" trained specifically with all the VTES cards.\nI also tried using Tesseract OCR to detect the card titles but it's not working (yet).\n\nThe 'stable' build is the v0.1.5. I made it easy to install through an .exe file.\n\ngithub.com/ChicoCifrado/VTES-for-OBS/releases/download/v0.1.5/VTES-for-OBS.exe\n\nSince I don't want this to become a lost effort, I'm sharing this publicly for you to test it.\n\nSadly, I no longer have the time to improve it, even tho I'm technically still working on a v0.1.6. But time has passed... So please, if any developers wants to throw any pull requests, I'll be happy to consider merging them if it makes sense.\n\nHuge thanks to the KRCG static files, without them this wouldn't been impossible to achieve.\nAlso, shoutout to the DeepSeek team for obvious reasons.\n\nLet me know if you find this interesting or want to contribute.\n\nEDIT: I forgot to explain how to test it.  So here's how:\n\n1. Install the .exe (autodetects your OBS folder)\n2. Start your OBS\n3. Add your camera source\n4. Add the filter \"VTES Card Detector (OBB)\" to your camera source\n5. Change the Detection Mode to \"AI Model (ONNX)\"\n6. Change the Inference Device to \"GPU (CUDA)\"\n7. Show a card to the camera (should work with any VTES card)\n\nAlso, you can click the \"Open Card Search\" button for an offline website with information about the detections. I intended to make an API for VTES tournament broadcasts with this. Work in progress.\n\nEDIT 2: Don't enable the NIS upscaler, it makes OBS crash.",
+      "Id": "117620"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 23, 2026, 1:01\u202FPM",
+      "Body": "Nice, I'd like to see it in action somehow. How close to the camera the card has to be?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117625"
+    },
+    {
+      "Author": "k3001993",
+      "Date": "Aug 23, 2026, 2:23\u202FPM",
+      "Body": "> Ankha wrote:\n> Nice, I'd like to see it in action somehow. How close to the camera the card has to be?\n>\nHere's three screenshots I just took to show you. What mostly affects the detection is motion.\n\nFace down cards are not detected (they're considered to be outside of the game, but this could be changed easily).\n\nEDIT: My cheap webcam is 1280x960 @30 fps, so this could be highly improved with proper streaming equipment.",
+      "Id": "117626"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 24, 2026, 8:05\u202FAM",
+      "Body": "This is a great idea. Ive seen a similar plugin in practice for Marvel snap, and its really useful for streaming the game in a way that helps viewers understand the whats going on.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "117629"
+    },
+    {
+      "Author": "k3001993",
+      "Date": "Aug 24, 2026, 8:23\u202FAM",
+      "Body": "> Bloodartist wrote:\n> This is a great idea. Ive seen a similar plugin in practice for Marvel snap, and its really useful for streaming the game in a way that helps viewers understand the whats going on.\n>\nThank you for noticing. I think one of the reasons this 30 year old card game is not more known is because it lacks media coverage to attract new players. That is what this is trying to fix.\n\nLet me tell you, this wasn't easy to make. Specially since a standard match is for 4-5 players.\n\nI have plans to add an overlay, once other problems are fixed or I see there is enough interest in developing this idea.",
+      "Id": "117630"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-81924",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/judge-exam-contribution/81924-deflection-direct-intervention-and-eagle-s-sight",
+  "Title": "Deflection, Direct Intervention and Eagle's Sight",
+  "Messages": [
+    {
+      "Author": "acbishop",
+      "Date": "Nov 27, 2024, 11:34\u202FAM",
+      "Body": "4 players table with the following sense of bleeding: A -> B -> C -> D\n\nPlayer A is bleeding player B with one of their vampires.\nAll players decline to block.\nPlayer B plays Deflection sending the bleed to player C.\nPlayer C plays Direct Intervention on Player B's Deflection.\nPlayer A plays Conditioning superior.\nPlayer D wants to play Eagle's Sight to block player A's bleed\n\nChoose the correct option:\n1) Player D can play Eagle's Sight as a new block window is opened after Conditioning was played\n2) Player D can play Eagle's Sight as playing the Deflection opened a new block window\n3) Player D can't play Eagle's Sight as cancelling the Deflection doesn't open a new block window (target of the bleed has not changed) and Deflection can only be played after blocks(all) are declined. CORRECT\n\nRelevant cardtext:\nName: Deflection\nCardtype: Reaction\nCost: 1 blood\nDiscipline: Dominate\nOnly usable if a minion is bleeding you, after blocks are declined.\n[dom] Lock this reacting vampire. Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).\n[DOM] As above, but do not lock this vampire.\n\nName: Direct Intervention\nCardtype: Master\nCost: 1 pool\nOut-of-turn.\nCancel a minion card as it is played, and its cost is not paid. (If it was an action card, the acting minion does not lock. If it was a strike card, the minion chooses another strike.)\n\nName: Eagle's Sight\nCardtype: Reaction\nDiscipline: Auspex\n[aus] +1 intercept.\n[AUS] This vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\n\nName: Conditioning\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Dominate\nOnly usable during a bleed action.\n[dom] +2 bleed (limited).\n[DOM] +3 bleed (limited).",
+      "Id": "113201"
+    },
+    {
+      "Author": "Arnau Diez Sans",
+      "Date": "Dec 31, 2024, 9:41\u202FAM",
+      "Body": "Thanks!",
+      "Id": "113383"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 20, 2025, 9:58\u202FPM",
+      "Body": "after player A declare total bleed,can he play Conditioning superior?",
+      "Id": "113559"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 20, 2025, 10:08\u202FPM",
+      "Body": "> beslin wrote:\n> after player A declare total bleed,can he play Conditioning superior?\n>\n\"declaring total bleed\" isn't something defined by the rule. If A passes the impulse, A cannot play Conditioning.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113560"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 21, 2025, 7:36\u202FPM",
+      "Body": "This scenario:\n\n4 players table with the following sense of bleeding: A -> B -> C -> D\n\nPlayer A is bleeding player B with one of their vampires.\nAll players decline to block.\n---so impulse back to A,A dint play anything,just anounce total bleed( with Arika for 3 example)\nPlayer B plays Deflection sending the bleed to player C.\nPlayer C plays Direct Intervention on Player B's Deflection.\nif A have impulse there to increase bleed?\nPlayer A plays Conditioning superior.",
+      "Id": "113570"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Jan 21, 2025, 9:50\u202FPM",
+      "Body": "> beslin wrote:\n> This scenario:\n>\n> 4 players table with the following sense of bleeding: A -> B -> C -> D\n>\n> Player A is bleeding player B with one of their vampires.\n> All players decline to block.\n> ---so impulse back to A,A dint play anything,just anounce total bleed( with Arika for 3 example)\n> Player B plays Deflection sending the bleed to player C.\n>\nTechnically, here the impulse to play any cancellation cards goes back to player A, who declines to do anything and the impulse goes to the other players, B, and then C.\n\n> beslin wrote:\n> Player C plays Direct Intervention on Player B's Deflection.\n> if A have impulse there to increase bleed?\n> Player A plays Conditioning superior.\n>\nYes, after the DI, impulse goes back to player A who can play a card (Conditioning)",
+      "Id": "113571"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 22, 2025, 5:57\u202FPM",
+      "Body": "> acbishop wrote:\n>\n> > beslin wrote:\n> > This scenario:\n> >\n> > 4 players table with the following sense of bleeding: A -> B -> C -> D\n> >\n> > Player A is bleeding player B with one of their vampires.\n> > All players decline to block.\n> > ---so impulse back to A,A dint play anything,just anounce total bleed( with Arika for 3 example)\n> > Player B plays Deflection sending the bleed to player C.\n> >\n> Technically, here the impulse to play any cancellation cards goes back to player A, who declines to do anything and the impulse goes to the other players, B, and then C.\n>\n> > beslin wrote:\n> > Player C plays Direct Intervention on Player B's Deflection.\n> > if A have impulse there to increase bleed?\n> > Player A plays Conditioning superior.\n> >\n> Yes, after the DI, impulse goes back to player A who can play a card (Conditioning)\n>\nWell,actually here then:\n\"Player C plays Direct Intervention on Player B's Deflection.\"\nIf B have another Deflection,he need to ask A,if A have something to play(increase bleed example),and then can play his 2nd Deflection.\nCan all that be confirmed from Rule Director?",
+      "Id": "113577"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Jan 23, 2025, 1:36\u202FPM",
+      "Body": "> beslin wrote:\n>\n> > acbishop wrote:\n> >\n> > > beslin wrote:\n> > > This scenario:\n> > >\n> > > 4 players table with the following sense of bleeding: A -> B -> C -> D\n> > >\n> > > Player A is bleeding player B with one of their vampires.\n> > > All players decline to block.\n> > > ---so impulse back to A,A dint play anything,just anounce total bleed( with Arika for 3 example)\n> > > Player B plays Deflection sending the bleed to player C.\n> > >\n> > >\n> > Technically, here the impulse to play any cancellation cards goes back to player A, who declines to do anything and the impulse goes to the other players, B, and then C.\n> >\n> > > beslin wrote:\n> > > Player C plays Direct Intervention on Player B's Deflection.\n> > > if A have impulse there to increase bleed?\n> > > Player A plays Conditioning superior.\n> > >\n> > >\n> > Yes, after the DI, impulse goes back to player A who can play a card (Conditioning)\n> >\n> Well,actually here then:\n> \"Player C plays Direct Intervention on Player B's Deflection.\"\n> If B have another Deflection,he need to ask A,if A have something to play(increase bleed example),and then can play his 2nd Deflection.\n> Can all that be confirmed from Rule Director?\n>\nB cannot play another Deflection with the same minion but can play a Deflection with diferent minion when A gives him the impulse, so A can play Conditioning and B play then a Deflection with another minion or a different card to bounce the bleed",
+      "Id": "113580"
+    }
+  ]
+}

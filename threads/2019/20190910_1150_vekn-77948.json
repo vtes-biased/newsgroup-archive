@@ -1,0 +1,134 @@
+{
+  "ThreadId": "vekn-77948",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77948-outside-the-hourglass",
+  "Title": "Outside the hourglass",
+  "Messages": [
+    {
+      "Author": "Jorge1973",
+      "Date": "Sep 10, 2019, 11:50\u202FAM",
+      "Body": "\u00BFCuando es infligido el da\u00F1o? \u00BFEs prevenible?\n\nGracias",
+      "Id": "96899"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Sep 10, 2019, 2:08\u202FPM",
+      "Body": "hola amigo, no hablo espa\u00F1ol, as\u00ED que esto se est\u00E1 ejecutando a trav\u00E9s de google translate.\n\nEn primer lugar, siempre proporcione el texto de la tarjeta:\n\n> Outside the Hourglass\n> Combat\n> odf: Strike: dodge.\n> tem: Maneuver, or strike: dodge, with an optional maneuver.\n> TEM: Only usable before range is determined. Inflict 2 damage on the opposing minion. A vampire can play only one Outside the Hourglass at superior each round.\n>\nA diferencia de Weather Control, la tarjeta no dice que el da\u00F1o no se puede evitar, por lo que puede evitar el da\u00F1o infligido por Outside the Hourglass.",
+      "Id": "96900"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Sep 10, 2019, 3:01\u202FPM",
+      "Body": "The question that was raised in the Spanish WhatsApp group is this:\n\nCan the damage from Outside the Hourglass (played first by the acting vampire) be prevented by superior Horrid Form (played afterward)?\n\nName: Horrid Form\n[Sabbat:U, SW:PT, Third:U/PTz2, SP:DoF4]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Vicissitude\nOnly usable before range is determined.\n[vic] This vampire gets +1 strength this combat.\n[VIC] As above, and this vampire can prevent 1 damage each round.\nArtist: Craig Maher\n\nV:EKN Website Coordinator",
+      "Id": "96901"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Sep 10, 2019, 3:42\u202FPM",
+      "Body": "> Damnans wrote:\n> Can the damage from Outside the Hourglass (played first by the acting vampire) be prevented by superior Horrid Form (played afterward)?\n>\n> Name: Horrid Form\n> [Sabbat:U, SW:PT, Third:U/PTz2, SP:DoF4]\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Vicissitude\n> Only usable before range is determined.\n> [vic] This vampire gets +1 strength this combat.\n> [VIC] As above, and this vampire can prevent 1 damage each round.\n> Artist: Craig Maher\n>\nIf I (finally) understood the whole thing with \"impulse\" and \"before range is determined\" effects, then the answer is no.\n\nPlayer A has the impulse and plays OtH sup. Player B does not have the impulse and could prevent the damage by OtH only with combat cards plainly reading \"prevent x damage\" (since it is not a strike).\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "96904"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Sep 10, 2019, 6:07\u202FPM",
+      "Body": "Nah, it should just follow standard combat demage resolution, right?",
+      "Id": "96905"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Sep 10, 2019, 6:20\u202FPM",
+      "Body": "> Damnans wrote:\n> The question that was raised in the Spanish WhatsApp group is this:\n>\n> Can the damage from Outside the Hourglass (played first by the acting vampire) be prevented by superior Horrid Form (played afterward)?\n>\nYes, you can use any damage prevention effects that don't specify that they're only usable against strikes.\n\nwww.vekn.net/forum/rules-questions/58505-damage-prevention-outside-of-damage-resolution-phase",
+      "Id": "96906"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 10, 2019, 7:17\u202FPM",
+      "Body": "> Hakuron wrote:\n> If I (finally) understood the whole thing with \"impulse\" and \"before range is determined\" effects, then the answer is no.\n>\n> Player A has the impulse and plays OtH sup. Player B does not have the impulse and could prevent the damage by OtH only with combat cards plainly reading \"prevent x damage\" (since it is not a strike).\n>\nThis is a correct understanding of the impulse moving from A to B, but an incorrect understanding of the damage prevention window.\n\nYou may play non-damage prevention cards that are legally playable during the damage prevention window. For instance, Aura Reading to cycle for prevent. Given that the players are still in the pre-range, when the damage prevention window opens, you can play pre-range effects in response. See also the many confusing threads about Alpha Glint vs. OotH.\n\nSo, Horrid Form is a valid play, and the prevention that Horrid Form provides can be used to prevent the damage the OotH inflicts, see the link Kushiel provided.",
+      "Id": "96907"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 10, 2019, 10:52\u202FPM",
+      "Body": "> Mewcat wrote:\n> Nah, it should just follow standard combat demage resolution, right?\n>\nIt broadly does. But damage prevention doesn't prevent other effects being used. Leaving aside the pre-range issue momentarily, the simplest example is probably this:\n\nA hits B for 1. (And B hits A for 1, but that's irrelevant.)\nB wants to prevent it, but doesn't have any damage prevention in hand.\nB taps The Barrens, discards a card, and draws into some damage prevention.\n\nThat's legit.\n\nIf you want to argue that that's happening outside of damage prevention, then consider the alternative scenario:\n\nA hits B for 2.\nB has inferior Fortitude, and a Skin of Rock in hand (prevent 1 damage).\nB plays Skin of Rock.\nB draws another card to replace it, but it's not useful.\nB taps The Barrens, and draws a second Skin of Rock.\nB plays Skin of Rock (no 2).\n\nThat's also legit.\n\nWhen you have damage prevention pre-range, it works much the same - except you now have access to some other, weirder cards that you can play instead of tapping The Barrens. Such as playing Aura Reading to get more hand size. Such as playing Alpha Glint to end combat (but damage still has to be handled). Or such as playing a pre-range damage prevention card like Horrid Form, which now lets you prevent damage.\n\nThe practical upshot of this is that pre-range with damage in it can get quite weird. But the alternatives are largely more annoying. You end up having to do things like say: You can only play damage prevention in damage prevention, which gets weird for Skin of Night (treating agg as normal) and similar damage-ish cards. Or you allow damage prevention and damage-related cards, but that gets tricky to delineate. And then you still wonder whether card cycling cards should be allowed (and is Aura Reading for +hand size hand cycling)? If it's not, it's a bit weird that you can't use it here but can use it in, say, a stealth/intercept fight. None of the alternatives are that great.",
+      "Id": "96912"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 10, 2019, 11:00\u202FPM",
+      "Body": "> kschaefer wrote:\n>\n> > Hakuron wrote:\n> > If I (finally) understood the whole thing with \"impulse\" and \"before range is determined\" effects, then the answer is no.\n> >\n> > Player A has the impulse and plays OtH sup. Player B does not have the impulse and could prevent the damage by OtH only with combat cards plainly reading \"prevent x damage\" (since it is not a strike).\n> >\n> This is a correct understanding of the impulse moving from A to B, but an incorrect understanding of the damage prevention window.\n>\nSort of. The impulse works normally in damage handling. Player B has to be given the impulse at some point in order to be able to play damage prevention, Skin of Night etc.\n\n[LSJ 20061114] is about damage prevention, and declaration of additional strikes. Previously, they'd been sort-of working in their own special way - acting declares additional strikes before other player, but couldn't change their mind (as normal sequencing would allow) to play one if the other player did play one. Same for damage prevention.\n\nPost that ruling, they both work the same way, following normal sequencing rules.",
+      "Id": "96916"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Sep 10, 2019, 11:40\u202FPM",
+      "Body": "I figured u could play stuff. My response was to hakuron",
+      "Id": "96918"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 11, 2019, 2:51\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> Sort of. The impulse works normally in damage handling. Player B has to be given the impulse at some point in order to be able to play damage prevention, Skin of Night etc\n>\nI didn't say that it was different. Just that Hakuron was incorrect about being forced to play prevention immediately.",
+      "Id": "96919"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Sep 11, 2019, 3:57\u202FAM",
+      "Body": "As I have said before, none of this really matters. Every vtes event is basically house rules since the head judge almost certainly doesnt know the rules.",
+      "Id": "96920"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 11, 2019, 5:59\u202FAM",
+      "Body": "> Mewcat wrote:\n> As I have said before, none of this really matters. Every vtes event is basically house rules since the head judge almost certainly doesnt know the rules.\n>\nThat's why it's useful to ask questions, and show the answer to those who don't know (even if they are judges).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "96921"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 11, 2019, 11:10\u202FAM",
+      "Body": "Might also be helpful if rules would work like common sense dictates.\n\nJust sayin'...\n\nFinnish  Politics!",
+      "Id": "96932"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Sep 11, 2019, 11:42\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Mewcat wrote:\n> > As I have said before, none of this really matters. Every vtes event is basically house rules since the head judge almost certainly doesnt know the rules.\n> >\n> That's why it's useful to ask questions, and show the answer to those who don't know (even if they are judges).\n>\nYeah I agree. Problem is vtes takes long enough as is and I'm not gonna spend more than a minute arguing with a judge. Also doing so undermines the whole system. The judge is the final authority and I accepted that when I joined event.",
+      "Id": "96933"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 11, 2019, 12:03\u202FPM",
+      "Body": "> Mewcat wrote:\n>\n> > Ankha wrote:\n> >\n> > > Mewcat wrote:\n> > > As I have said before, none of this really matters. Every vtes event is basically house rules since the head judge almost certainly doesnt know the rules.\n> > >\n> > That's why it's useful to ask questions, and show the answer to those who don't know (even if they are judges).\n> >\n> Yeah I agree. Problem is vtes takes long enough as is and I'm not gonna spend more than a minute arguing with a judge. Also doing so undermines the whole system. The judge is the final authority and I accepted that when I joined event.\n>\nBeing final authority doesn't mean he can't be wrong.\nIf your deck is based on a given combinaison of cards and the judge doesn't know it works that way and forbids it, are you willing to let him do so? I would rather spend 1 minute to find the answer/ruling and make the world a better place.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "96936"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 11, 2019, 12:33\u202FPM",
+      "Body": "If you build a deck that uses a very unclear combo it would be VERY beneficial to run the combo here beforehand so during the tournament you could easily refer to the discussion.\n\nGranted, plenty of problems rise when other players play their cards and how those cards interact with your cards so you can't really preplan that... :/\n\nFinnish  Politics!",
+      "Id": "96940"
+    },
+    {
+      "Author": "Mewcat",
+      "Date": "Sep 11, 2019, 12:34\u202FPM",
+      "Body": "Probably the best thing to do if your deck relies on some odd interaction is give the judge the relevant information before hand. Saves time and respects the other players. Of course you can easily see problems that can crop up that wont be helped like this. That's where the 1 minute house rules thing is best.",
+      "Id": "96941"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 12, 2019, 2:07\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> The practical upshot of this is that pre-range with damage in it can get quite weird. But the alternatives are largely more annoying. You end up having to do things like say: You can only play damage prevention in damage prevention, which gets weird for Skin of Night (treating agg as normal) and similar damage-ish cards. Or you allow damage prevention and damage-related cards, but that gets tricky to delineate.\n>\nThose are not the only two options. One could also clean up the core timing rules so that the game is only in one phase at a time. Just rule that a prevent phase interrupts the current phase instead of extending it, i.e. the game leaves the pre-range phase until the damage is resolved. So one would not have to rule based on effects, but only based on timing: effects that could be played in a prevent phase would be effects specifically made for that phase (e.g. prevent, Skin of Night) and effects that can be played at any time during combat (e.g. Barrens, Infernal Pursuit.)\n\nOf course, that requires acknowledging the pre-range step as a combat phase, but since pretty much all decks that want to fight play in that phase (Signpost, Crows, Stick, Concealed, Trap,...), that should be done anyway. Same for the end-of-round step where every combat deck plays, if only for Taste. Not so sure for the Grapple phase, since there is really only 1 card to play in that phase.",
+      "Id": "96950"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 12, 2019, 7:54\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n> Might also be helpful if rules would work like common sense dictates.\n>\nTwo people can have totally different intuitions about what the \"common sense\" approach to something is. One person's \"That's just what card text says\" is another's \"That's nitpicky rules lawyering, it's obvious what was intended\". (These positions may or may not change depending on whether that person would benefit from the outcome or not.)",
+      "Id": "96961"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 12, 2019, 8:09\u202FPM",
+      "Body": "> Non-existant user wrote:\n> One could also clean up the core timing rules so that the game is only in one phase at a time. ]Just rule that a prevent phase interrupts the current phase instead of extending it,\n>\nThat makes the game less consistent - you're not cleaning up the game's timing, you're introducing another special case! Stealth intercept fights can have any random effect be played in the middle of them (e.g. the Barrens, bleed modifier to hopefully draw into some stealth, bleed reduction to hopefully draw into some bounce, useless wake on another vampire to try to draw something etc.) - why is damage prevention different?\n\n> Non-existant user wrote:\n> i.e. the game leaves the pre-range phase until the damage is resolved. So one would not have to rule based on effects, but only based on timing: effects that could be played in a prevent phase would be effects specifically made for that phase (e.g. prevent, Skin of Night) and effects that can be played at any time during combat (e.g. Barrens, Infernal Pursuit.)\n>\nBut we don't have strict timing on what can be played during damage prevention - that's exactly what the game avoided. So now you need to retrofit a new system.\n\nSkin of Night isn't a card specifically made for a damage prevention phase. Flesh of Marble isn't a card specifically made for a damage prevention phase, but has restricted timing. Horrid Form isn't a card specifically made for a damage prevention phase, but has restricted timing. Apparition isn't a card specifically made for a damage prevention phase, but has restricted timing - but is perhaps the most obvious card that should be allowed in response to Outside the Hourglass saying, as it does, \"This vampire may prevent 1 damage each round this combat.\"\n\n> Non-existant user wrote:\n> Of course, that requires acknowledging the pre-range step as a combat phase,\n>\nIt's specifically explained in 6.4.2 of the rulebook, and in \"How to resolve a combat\" in the Detailed Play Summary. Having it explained in the rulebook and DPS is pretty much the definition of \"being acknowledged\".",
+      "Id": "96962"
+    }
+  ]
+}

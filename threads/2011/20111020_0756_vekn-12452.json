@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-12452",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/12452-two-questions",
+  "Title": "two questions",
+  "Messages": [
+    {
+      "Author": "cofius",
+      "Date": "Oct 20, 2011, 7:56\u202FAM",
+      "Body": "wake with evening freshness vs form of mist: minion untaped with wef and blocked another, combat occured and form of mist was played, can minion that waked try to block same action again?\nand second question: when vampire give stealth to anther by a veil the legions, can he burn one blood to give himself stealth? thank you...",
+      "Id": "12452"
+    },
+    {
+      "Author": "Lech",
+      "Date": "Oct 20, 2011, 8:07\u202FAM",
+      "Body": "> cofius wrote:\n> wake with evening freshness vs form of mist: minion untaped with wef and blocked another, combat occured and form of mist was played, can minion that waked try to block same action again?\n>\nYes, he can (also, minion didn't untapped, he merely can block as untaped and play reaction cards)\n\n> cofius wrote:\n> and second question: when vampire give stealth to anther by a veil the legions, can he burn one blood to give himself stealth? thank you...\n>\nYes, if he act next.\n\nSabbat.Black Hand Shakar: Lech loathe ranged weapons. Once each action, he may burn 1 blood to become Camarilla Prince of Krakow until the end of the action.",
+      "Id": "12454"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 20, 2011, 8:08\u202FAM",
+      "Body": "> cofius wrote:\n> wake with evening freshness vs form of mist: minion untaped with wef and blocked another, combat occured and form of mist was played, can minion that waked try to block same action again?\n> and second question: when vampire give stealth to anther by a veil the legions, can he burn one blood to give himself stealth? thank you...\n>\nPlease insert card texts.\n\nName: Wake with Evening's Freshness\nCardtype: Reaction\nDo not replace until your next untap phase.\nOnly usable by a tapped vampire. This reacting vampire can play reaction cards and attempt to block as though untapped until the current action is concluded.\n\nName: Form of Mist\nCardtype: Combat\nDiscipline: Protean\n[pro] Strike: dodge.\n[PRO] Strike: combat ends. If this vampire is acting -{and needs stealth when this strike resolves}-, he or she may burn 1 blood after combat ends to continue the action at +1 stealth as if unblocked. A vampire may play only one Form of Mist at superior each action.\n\nName: Veil the Legions\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting minion you control. The acting minion gets +1 stealth. Only one Veil the Legions may be played each action.\n[OBF] As above, and this vampire may burn X additional blood to give +1 stealth to the next X actions your minions perform this turn. Only one Veil the Legions can be played at superior each turn.\n\n1/ Yes, since the action is not \"concluded\" yet, wake is still working.\n2/ Burning blood will not grant vampires some stealth, but grant the next actions some stealth. So if the vampire playing Veil the Legions takes an action afterwards while Veil is still effective, his action will get the stealth.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "12455"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 20, 2011, 9:06\u202FAM",
+      "Body": "Answers from Ankha and Lech are correct.",
+      "Id": "12467"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Oct 21, 2011, 5:01\u202FAM",
+      "Body": "About Form of Mist... it says \"he or she may burn 1 blood after combat ends to continue the action...\" and i know that Psyche! can negate this effect, but it says \"after combat ends\" and  Psyche! says \"at the end of combat\"... My point is the blocking minion's controller should play Psyche! before the acting should decide whether to burn one blood to continue! Am I not correct?\n\nNC of Hungary\n\n///",
+      "Id": "12537"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 21, 2011, 5:16\u202FAM",
+      "Body": "> Malachy wrote:\n> My point is the blocking minion's controller should play Psyche! before the acting should decide whether to burn one blood to continue! Am I not correct?\n>\nCorrect - you burn the blood after the Psyche! would be played.\n\n[LSJ 20070313]\n\nHowever, in practice, players will often play the Form of Mist and indicate they're burning the blood immediately. The blood isn't burned until after Psyche! is played, so you'd take the blood back / rewind declarations, as appropriate. (Discussed in the link above.)",
+      "Id": "12539"
+    }
+  ]
+}

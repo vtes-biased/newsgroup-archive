@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-78546",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78546-familial-bond",
+  "Title": "Familial Bond",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 29, 2020, 7:44\u202FPM",
+      "Body": "Familial Bond\nRequires a Laibon.\nOnly usable on an action directed at another Laibon you control or on a bleed against you.\n+1 intercept.\nIf this block fails, the acting minion may choose to make the action fail.\nIf the action succeeds, this Laibon may lock (after resolution)\nto enter combat with the acting minion.\n\nCan be used vs 0 stealt? I beleive cannot,but want to be sure",
+      "Id": "99450"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 29, 2020, 8:52\u202FPM",
+      "Body": "Rulebook 6.2.2:\n\nLikewise, intercept can be added during an action only when needed (that is, only by a blocking minion when the acting minion's stealth exceeds his intercept).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99451"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 29, 2020, 9:24\u202FPM",
+      "Body": "> Ankha wrote:\n> Rulebook 6.2.2:\n>\n> Likewise, intercept can be added during an action only when needed (that is, only by a blocking minion when the acting minion's stealth exceeds his intercept).\n>\ntnx,as i say i think cant,but very strange card,cant be played in 0stealt",
+      "Id": "99452"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 30, 2020, 6:36\u202FAM",
+      "Body": "> beslin wrote:\n>\n> > Ankha wrote:\n> > Rulebook 6.2.2:\n> >\n> > Likewise, intercept can be added during an action only when needed (that is, only by a blocking minion when the acting minion's stealth exceeds his intercept).\n> >\n> tnx,as i say i think cant,but very strange card,cant be played in 0stealt\n>\nIt's the same as any card that gives intercept and another bonus (such as +1 intercept, with an optional maneuver => you can't play it for a maneuver if you don't need intercept.)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99455"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 30, 2020, 6:16\u202FPM",
+      "Body": "What about scenario: A bleed B,\nB try block\n,A add +2 stealt\n,B bounce on C\n,C play Familial Bond,and have no more intercept,will rest of text work,\nI ask because C actualy never catc A?",
+      "Id": "99465"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 30, 2020, 6:58\u202FPM",
+      "Body": "> beslin wrote:\n> What about scenario: A bleed B,\n> B try block\n> ,A add +2 stealt\n> ,B bounce on C\n> ,C play Familial Bond,and have no more intercept,will rest of text work,\n> I ask because C actualy never catc A?\n>\nC must attempt to block to play FB.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99466"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Mar 31, 2020, 7:11\u202FAM",
+      "Body": "Maybe to explain it with a bit more words:\n\nA vampire must attempt to block to play intercept. So, C attempts to block and can play Familial Bond. The text of Familial Bond gives intercept, and apart from that references \"If this block fails\". So it will happen, if you do not have enough intercept (or are forced not to block e.g. with Elder Impersonation) - it doesn't matter that you never had enough intercept to catch the acting vampire, that is something the game doesn't keep track of. And nothing the card asks for. What's important is that you played the card, and didn't block successfully.\n\nPrince of Bonn, Germany",
+      "Id": "99467"
+    }
+  ]
+}

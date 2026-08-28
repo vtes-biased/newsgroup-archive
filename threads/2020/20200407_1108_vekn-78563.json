@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-78563",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78563-card-rulings-wave-of-lethargy",
+  "Title": "Card Rulings: Wave of Lethargy",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "Apr 7, 2020, 11:08\u202FAM",
+      "Body": "The \"Cards Rulings\" section indicate, for Wave of Lethargy:\n\nOnly the cost of playing the card is increased - if the card provides multiple maneuvers and presses, it is only increased by one. Maneuvers from other sources (in play) do not cost extra. [LSJ 20011023].\n\nIt has been ruled so multiple times (e.g.  [LSJ 20060725] ).\n\nHowever, the card text seems to have changed since (it used to read \"Maneuvers and presses cost the opposing vampire an additional blood to play\" before 2007) :\n\nWave of Lethargy [Combat][1B] [qui] Only usable before range is determined. Maneuvers and presses cost the opposing vampire an additional blood this round. A vampire may play only one Wave of Lethargy each round of combat. [QUI] As above, and strike cards cost the opposing vampire an additional blood this round.\n\nDoes the ruling still stand ? If not, is there a more recent ruling or an official card text change list ?",
+      "Id": "99519"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 7, 2020, 11:28\u202FPM",
+      "Body": "It appears that the ruling is no longer appropriate since \"to play\" was removed from the text on the official list around the time of Lords of the Night. As it reads now, maneuvering with a .44 would cost 1 blood.\n\nWith DTC physical printing down and archive.org not having a snapshot after the Assamite/Quietus cards were added, it's hard to know what text the current cards have.\n\nIt would be good to get Ankha to weigh in here and possibly update the rulings page.",
+      "Id": "99530"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 8, 2020, 6:34\u202FAM",
+      "Body": "Yes, the card text was changed a long time ago by LSJ and is the same as today:\n\nName: Wave of Lethargy\nCardtype: Combat\nCost: 1 blood\nDiscipline: Quietus\n[qui] Only usable before range is determined. Maneuvers and presses cost the opposing vampire an additional blood this round. A vampire may play only one Wave of Lethargy each round of combat.\n[QUI] As above, and strike cards cost the opposing vampire an additional blood this round.\n\nI'll remove the old ruling.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99531"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Nov 4, 2024, 2:48\u202FPM",
+      "Body": "after discusion on discord,I want to ask some thing to rule of this card be clear.\nso new text is:\nWave of Lethargy\n\nOnly usable before range is determined. A vampire can play only one Wave of Lethargy each round.\n\nq Cards providing maneuvers and/or presses cost the opposing vampire 1 additional blood to play this round.\n\nQ As above, and strike cards cost the opposing vampire 1 additional blood to play this round.\n\nso for example,if card works on this way:\n\nso example combat card played during man/press step,giving you man/press,cost +1 blood?\n\nhow much there cost Thrown Gate ( Strike: 1R damage, with an optional maneuver.)? so give you both man+strike?\n\ncard giving man+press how works? example:\n\nResist Earth's Grasp\nPress, or maneuver with 1 optional press.",
+      "Id": "112979"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2024, 8:03\u202FAM",
+      "Body": "Please ALWAYS quote cardtext from www.vekn.net/images/stories/downloads/cardlist.txt, not from another source.\n\nName: Wave of Lethargy\n[FN:R2, POD:DTC]\nCardtype: Combat\nCost: 1 blood\nDiscipline: Quietus\nOnly usable before range is determined. A vampire can play only one Wave of Lethargy each round.\n[qui] Cards providing maneuvers and/or presses cost the opposing vampire 1 additional blood to play this round.\n[QUI] As above, and strike cards cost the opposing vampire 1 additional blood to play this round.\n\n> beslin wrote:\n> so example combat card played during man/press step,giving you man/press,cost +1 blood?\n>\nThey do.\n\n> beslin wrote:\n> how much there cost Thrown Gate ( Strike: 1R damage, with an optional maneuver.)? so give you both man+strike?\n>\nOnly 1 additional blood. Superior only extends the subset of affected cards that cost +1 blood.\n\n> beslin wrote:\n> card giving man+press how works? example:\n>\n> Resist Earth's Grasp\n> Press, or maneuver with 1 optional press.\n>\nThe same. Only +1 blood.\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/2GOLIrXAF8M/m/P4T3Dj6UNL0J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "113019"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 6, 2024, 9:31\u202FAM",
+      "Body": "> Ankha wrote:\n> Yes, the card text was changed a long time ago by LSJ\n>\nIs there a reference for the mentioned change?",
+      "Id": "113020"
+    }
+  ]
+}

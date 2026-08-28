@@ -1,0 +1,98 @@
+{
+  "ThreadId": "vekn-76594",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76594-lost-kindred-faq",
+  "Title": "Lost Kindred FAQ",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2018, 9:51\u202FAM",
+      "Body": "This topic will be updated as new questions will be asked.\n\nQ: I plan to play Emerald Legionnaire with no Harbingers of Skulls, just by discarding them and bringing them back from the ash heap at a later point. Is that legal? How does it work?\n\nA: You cannot use an Emerald Legionnaire ability from the ash heap (this is true for all cards in any ash heap), so you need to find a way to put an Emerald Legionnaire in play first. The easiest way is to recruit it with a Harbinger of Skulls, but you can also put it in play by other means (Summon History, etc.) Only ready Emerald Legionnaire can use their ability.\n\nQ: Righteous Aura states \"Burn this card if this vampire is about to leave the ready region.\" Is there any subtilty in the \"about to leave\" wording?\n\nA: Timing has been redefined to be clearer than a simple \"when\". Here is the ordered list of time frames:\nwhen X would happen... Y happens instead: replacement effects take place when X is going to happen, but before it happens. X does not happen at all, and Y happens instead. E.g., \"when X would enter combat, X burns 1 blood instead\": X never entered combat. Only one replacement effect can be used for a given condition: for instance, once the replacement effect \"when X would enter combat, X burns 1 blood instead\" has been used, X is no longer entering combat so another \"when X would enter combat\" cannot take place. Replacement effects can be used one after the other if the new condition is met, for instance \"when X burns 1 blood\" replacement effect could now be used in the previous example. when X is about to happen: it happens right before X happens (but X is certain to happen, it cannot be replaced anymore), e.g., when X is about to enter combat..., when combat is about to end... as it is played / as it enters play: typically used for cancellation effects, or enter play effects such as an Anarch Convert who enters play, then removes itself from play before the contest begins. \"As it enters play\" happens right after \"is about to enter play\", but before any state-based effects such as contesting (see 4/) (when / if / whenever) <state-based condition>: happens right after the effect that changed the state, e.g. \"when it has no counter\" (either because the last counter was removed, or because it entered play without any counter). Contesting is a state-based effect. The difference between \"when\", \"if\", and \"whenever\" is cosmetic: \"when\" suggests that the condition is very likely to be met (e.g. \"when it has no counter\"), otherwise \"if\" is used (\"if this vampire is ready\"), and \"whenever\" suggests that the condition is likely to be met more than once, but is seldom used for state-based effects. after X happens: happens right after X happens. For actions, this is during the \"after resolution\" step of the action. E.g., Baba Yaga (\"Baba Yaga can unlock after successfully recruiting an ally or employing a retainer\") unlocks \"after\" the retainer is employed. If it is an employ action, it is after resolution of the action, otherwise (in combat for instance) it is right after the retainer has been employed. \"Synner-G can unlock after successfully equipping with an electronic equipment from your hand.\" works the same way.\nDifferent effects that use the same time frame are sequenced using the impulse. For instance, a vampire who has played Daring the Dawn during an action takes aggravated damage after the resolution. If you want to play a Freak Drive, you can play it either before or after the damage are inflicted.\n\nRighteous Aura burns right before the vampire leaves the ready region. This is meaningful when Banishment is played on the vampire for instance. Righteous Aura is burned before the vampire goes to the uncontrolled region and the other cards become out-of-play.\n\nQ: Is \"limited\" a keyword? What does superior Command of the Beast say?\n\nA: \"(limited)\" is NOT a keyword. Keywords are never written in parentheses. The fact that \"action modifiers that increase the bleed are now limited\" is written down in the rules. Command of the Beast at inferior for instance counts against the limit. The reminder \"(limited)\" could be removed with no impact on the card.\nSuperior Command of the Beast cannot say \"+1 bleed.\" because it would be subject to the limitation rule. That is why it states explicitly that it is not restricted by the rule: \"[DOM] +1 bleed that does not count against the limit.\"\n(It uses, in fact, the same wording as Quickness).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86769"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "May 11, 2018, 11:26\u202FAM",
+      "Body": "I find the ruling on the EL extremely counterintuitive, and a potential logistical nightmare (imagine if multiple copies entered your ashheap both from the ready region and from other zones).\n\nOther card games have the opposite ruling for ashheap effects AFAIK.\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "86770"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "May 11, 2018, 11:41\u202FAM",
+      "Body": "Nevermind, I think I've figured out what the intent was. So a ready EL can move another EL from the ashheap into the ready region.\n\nCurious why the word \"another\" wasn't used as that would make the effect unambiguous.\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "86772"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "May 11, 2018, 12:07\u202FPM",
+      "Body": "When is set legal for tournament play?\n\nMost US players could have possession next week, and most EU players by June 1st. Is June 1st the legal date?",
+      "Id": "86774"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2018, 12:09\u202FPM",
+      "Body": "> the1andonlime wrote:\n> Nevermind, I think I've figured out what the intent was. So a ready EL can move another EL from the ashheap into the ready region.\n>\n> Curious why the word \"another\" wasn't used as that would make the effect unambiguous.\n>\nNot if you have two EL in your ash heap...\nConsidering the number of oopsies involving that card, I'll think about some way to make it crystal clear.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86775"
+    },
+    {
+      "Author": "GreyB",
+      "Date": "May 11, 2018, 1:59\u202FPM",
+      "Body": "> Ankha wrote:\n> I'll think about some way to make it crystal clear.\n>\n> Ankha wrote:\n> You cannot use an Emerald Legionnaire ability from the ash heap (this is true for all cards in any ash heap)\n>\nIs crystal clear.\n\nThere was also another card from DM with similar ability, same applies to that card.\n\n-1 Strength",
+      "Id": "86777"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 11, 2018, 3:28\u202FPM",
+      "Body": "These timing window explanations are great. It would be awesome if we had multiple real card examples for each case, especially the (when/if/whenever) case, which is the most nebulous of the lot from a consistency standpoint.\n\nI really appreciate that hard work the you and the design team have put into making the card templating more clear and consistent.",
+      "Id": "86778"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 11, 2018, 4:08\u202FPM",
+      "Body": "> kschaefer wrote:\n> These timing window explanations are great. It would be awesome if we had multiple real card examples for each case, especially the (when/if/whenever) case, which is the most nebulous of the lot from a consistency standpoint.\n>\n> I really appreciate that hard work the you and the design team have put into making the card templating more clear and consistent.\n>\nReal card examples:\n\nWhen:\n>\n> In Memory of the Two Lands\n> Unique.\n> Put this card in play with 1 counter for each Follower of Set and mummy you control. Once each action, you can burn 1 counter from this card to give a mummy you control +1 bleed or +1 strength. Burn this card when it has no counters.\n>\nSince you burn counters each time you use it, we can expect the card to run out of counters.\nAs soon as it happens, the card is burned.\n\nIf:\n>\n> Glass Walker Pact\n> Unique.\n> Put this card in play. During your unlock phase, you can burn the top card of your library to move 1 blood from a ready locked vampire to a ready Giovanni. If the card you burned is a master card, burn this card as well. Burn this card if another Methuselah controls a werewolf.\n>\nAs soon as another Methuselah controls a werewolf (which can happen or not), the card is burned.\n\nWhenever:\n\n> Guruhi Kholo\n> \"...Whenever this vampire is not a ready Laibon Guruhi or there is a ready older non-titled Laibon Guruhi, move this card to (one of) the oldest ready non-titled Laibon Guruhi (if any).\"\n>\nThe Kholo can move several times during a game, \"whenever\" is supposed to emphasis this.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86779"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 12, 2018, 10:08\u202FAM",
+      "Body": "> Ankha wrote:\n> subtilty\n>\nThe word you are looking for is probably \"subtlety\"\n\nI am liking the change, since it mirrors how replacement effects are handled in Magic the gathering; and its wise to steal as many good ideas from your competitors as possible..\n\nYou may want to specify in advance what happens in a situation when two separate replacement effects are looking to replace the same thing, Logic dictates that a thing can be replaced only once, so whatever replaces first, happens, and the other effect fizzles (does not happen). Just theorycrafting here. I assume this situation will happen sooner or later in the future if it already hasn't.\n\nIf there is only a single card that uses a different wording, you may want to look into giving that card an errata. Anarch convert is one of those I guess. It could just as well read \"If Anarch convert is about to move to ready region, you may...\"\n\nThis text change would clear confusion about whether convert would enter contest with another convert vampire already in play. I know it doesn't, but this is not really obvious from the wording on the card. You just have to know the ruling, and we really need to get rid of this kind of ambiguous wordings imo. If Anarch convert used to convert a vampire never enters play, there is no confusion.\n\nI am really annoyed by certain cards inventing unique timing steps for themselves for no particularly good reason, creating rules confusion and forcing specific rulings because of their unique wording.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "86834"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 12, 2018, 12:15\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Ankha wrote:\n> > subtilty\n> >\n> The word you are looking for is probably \"subtlety\"\n>\nBloody speller.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86836"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 14, 2018, 3:33\u202FPM",
+      "Body": "> Name: Hackerspace\n> [AU:C]\n> Cardtype: Master\n> Location.\n> Put this card in play with X counters, where X is the number of anarchs you control. When an anarch comes into play under your control, or when a vampire you control becomes anarch, add 1 counter to this card. When equipping an anarch, you can use the counters on this card to pay some or all of the blood or pool cost of the equipment.\n>\nWith regard to the timing templates, will Hackerspace continue to give you a counter for an Anarch Convert that uses his replacement text?\n\nThe original ruling seems to have been lost, but  VtES One mentions it. If so, what is the updated text on Hackerspace? Is the current \"When an Anarch comes into play under your control\" enough?",
+      "Id": "86896"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "May 14, 2018, 3:48\u202FPM",
+      "Body": "The discussion about Hackerspace and Anarch Convert with that ruling is\nwww.vekn.net/forum/rules-questions/74696-hackerspace-question\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "86897"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 14, 2018, 5:26\u202FPM",
+      "Body": "Hmm, forum search did not turn that up.",
+      "Id": "86898"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2018, 8:15\u202FPM",
+      "Body": "> kschaefer wrote:\n> Hmm, forum search did not turn that up.\n>\nBy default, the search returns results less than one year old. Don't forget to change that parameter when doing the research.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "86900"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "May 27, 2018, 11:05\u202FAM",
+      "Body": "Should this thread by stickied for a few months at least?\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "87559"
+    }
+  ]
+}

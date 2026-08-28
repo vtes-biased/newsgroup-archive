@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-75619",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/75619-does-entering-a-direct-action-combat-tap-an-untapped-target",
+  "Title": "Does entering a direct action combat tap an untapped target?",
+  "Messages": [
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Feb 22, 2017, 5:23\u202FAM",
+      "Body": "Hi guys, I'm new to the game (but loving it so far). I've tried googling this, but I can't find a clear answer, so I'm posting it here.\n\nDo direct action attacks on a target minion, such as Beast, Leatherface of Detroit's ability, or even Bum's Rush, cause the targetted minion to tap, as though it was blocking?",
+      "Id": "80785"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Feb 22, 2017, 8:16\u202FAM",
+      "Body": "Not unless the card used explicitly tells so.\n\nDeep Song is an example of such a card:\nEnter combat with and tap a ready vampire controlled by another Methuselah. In that combat, that vampire is considered the acting minion.\n\nFinnish  Politics!",
+      "Id": "80786"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Feb 22, 2017, 3:35\u202FPM",
+      "Body": "Good stuff, thanks for the clarification",
+      "Id": "80795"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 22, 2017, 4:05\u202FPM",
+      "Body": "This is a very common misperception in V:TES, that minions tap when entering combat. My theory of why this misperception is so prevalent is that combat almost always follows a successful block, and a successful block taps the blocking minion. Let\u2019s analyze the relevant text from the rulebook:\n\n\"If the action is blocked, then any card played to take the action is burned (it is moved to the ash heap) and the blocking minion is tapped and enters combat with the acting minion (see Combat, sec. 6.4).\"\n\nFrom the above text, it's not clear what causes tapping, it just says that the blocking minion taps and enters combat. The reader is left to wonder, \"is it the block that taps the minion, or is it entering combat?\" The above text should clarify this point:\n\n\"If the action is blocked, then any card played to take the action is burned (it is moved to the ash heap). The blocking minion is tapped for successfully blocking and enters combat with the acting minion (see Combat, sec. 6.4). Note: entering combat does not tap a minion\"\n\nIn the above rewrite, the note about not tapping for entering combat is necessary because combat almost always accompanies a successful block.\n\nNow, there is another section of the rulebook that tries to clear things up, but it is somewhat vague:\n\n\"Being tapped or untapped doesn't matter for combat. Tapped minions fight just the same as untapped minions.\"\n\nIt\u2019s tough to understand what\u2019s going on here. For example, in what way does being tapped or untapped not matter for combat? And what exactly does \u201Cfight\u201D mean? The way I understand this sentence is: \"Tapped minions can enter combat with untapped minions.\" The writer of the rulebook likely figured that, after reading the above sentence, the next logical conclusion the reader would make is that minions do not tap for entering combat. In my opinion, the current text is not explicit enough for readers to consistently make this conclusion. The original text might be clearer if it stated:\n\n\"Tapped minions can enter combat with untapped minions. Entering combat does not tap a minion, but note that successfully blocking does.\"\n\nAgain, the last bit about blocking is necessary to include because in VTES, successfully blocking and entering combat almost always happen together.",
+      "Id": "80796"
+    },
+    {
+      "Author": "Cat_in_Exile",
+      "Date": "Feb 23, 2017, 6:20\u202FAM",
+      "Body": "Wow, thanks for the detailed explaination.\n\nAs a follow-up, am I correct in assuming a targeted minion can then also choose to block an action which is already directed at itself?",
+      "Id": "80810"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 23, 2017, 7:18\u202FAM",
+      "Body": "Correct, to deny the optional maneuver granted by a Bum's Rush for instance.\nOf course, this requires the target to be untapped, and if the target blocks, it will become tapped.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "80811"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Feb 23, 2017, 2:04\u202FPM",
+      "Body": "> Cat_in_Exile wrote:\n> As a follow-up, am I correct in assuming a targeted minion can then also choose to block an action which is already directed at itself?\n>\nExcellent question. This is another common question among new players: is an untapped minion targeted by an action eligible to block that action? As far as I know, the rulebook doesn't explain this clearly:\n\n\"If the action targets one or more other Methuselahs (or things controlled by other Methuselahs), then the action is called directed, and only the Methuselahs who are targeted (or control the targets) may use their ready untapped minions to attempt to block the action (going clockwise from the acting Methuselah, as usual).\"\n\nThis would be a good section to explain that untapped minions targeted by the action can block the action. The reason why it is necessary to include this, in my view, is because it's not intuitive that a minion targeted by an action would be able to block.The word block means \"to render unsuitable for passage or progression through obstruction.\" In the context of VTES, the new player already has a preconceived notion of what the word block means, and therefore would likely conclude a minion being targeted by an action can't obstruct the progression of the action because that minion is the end object of that action. It is clear, however, that other minions are able to obstruct the progression of the action to the end object (the minion being targeted).",
+      "Id": "80821"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Feb 25, 2017, 10:52\u202FAM",
+      "Body": "> Cat_in_Exile wrote:\n> Wow, thanks for the detailed explaination.\n>\n> As a follow-up, am I correct in assuming a targeted minion can then also choose to block an action which is already directed at itself?\n>\nYes. Because the  action used to target a minion to enter combat necessitates targeting a Methuselah's [stuff} and thus the Methuselah's side of the table. Therefore any of that Meth's untapped minions can attempt to block this incoming  action before resolution, including the target itself if untapped.\n\n(Naturally card text is always excepted. So yes, you can \"wake\" (i.e. cards that allow that minion to act as if untapped for the remainder of the actions) the target and attempt to block.)\n\nIf there is no block, and declared passes to block, then action proceeds to resolution, which is the reward of combat with the desired target.",
+      "Id": "80849"
+    }
+  ]
+}

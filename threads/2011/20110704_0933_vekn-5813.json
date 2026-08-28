@@ -1,0 +1,164 @@
+{
+  "ThreadId": "vekn-5813",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/5813-ardb-fix-for-auto-update-of-csv-files-and-image-hosting",
+  "Title": "ARDB fix for auto update of .csv files and image hosting.",
+  "Messages": [
+    {
+      "Author": "drstrange26",
+      "Date": "Jul 4, 2011, 9:33\u202FAM",
+      "Body": "After having seen the blog by\nsimidh.blogspot.com/2011/07/brief-review-of-ardb-vs-feldb.html\n\nI was embarrassed as I have replaced ARDB as lead developer.\nI am currently working on a new beta for ARDB and having very little access to my building tools so Ive done little to no devleopment. I hope this will change soon.\n\nPlease local your ardb.ini ARDB_3_1_1/ardb.ini\nEdit that as a text file.\nAdd the following:\nUpdateServer=www.vekn.net\nUpdateFile=/images/stories/downloads/vtescsv.zip\n\nThis will enable the auto update function of the database to work correctly.\nEven as I write this I am working on using the Google Code ARDB site as a place to store the images in .zip format. In the upcoming beta, I will adjust the auto downloader of the images to work correctly. A very small change.\nAs the original download site no longer exists.\n\nBut I need Beta testers!!\nAnyone willing to test the updated version please send me a message here (PM of course) with email address and I will send a beta version of 3.1.2Beta.\n\nPlease feel free to contact me here or via posting a bug on ARDB.\nI cannot fix changes to Mac and am willing to advise anyone willing to try and build and compile on that platform.",
+      "Id": "5813"
+    },
+    {
+      "Author": "Simidh",
+      "Date": "Jul 4, 2011, 3:29\u202FPM",
+      "Body": "Oops, ouch! Am really sorry as I really hadn't meant to cause you or anyone any embarrassment.\n\nI was just reviewing what I found had worked and not worked for me as tried to decide which deck builder and inventory software to use from the available ones I found.\n\nThank you for your prompt response on the blog and on google code as well, I really appreciate it\n\nSimon aka Simidh",
+      "Id": "5830"
+    },
+    {
+      "Author": "drstrange26",
+      "Date": "Jul 4, 2011, 3:52\u202FPM",
+      "Body": "Really new users are why I started working on the project.\nYour the type of person I want to use the software.\nAnd I feel that by letting it fail like that for so long its really sad and embarrassing. I have been out of the loop for about 5 to 6 months because I was traveling internationally. Ive been back for about two months now but have not had time to do alot. I have a beta version already built and have been following some of the posts about it but have had no time to do anything until today.",
+      "Id": "5831"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Jul 12, 2011, 6:18\u202FAM",
+      "Body": "Works great! Thanks!",
+      "Id": "6189"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 21, 2011, 6:05\u202FPM",
+      "Body": "Bujo appears to have incomplete text, and this appears to be an error within the CSV file.\n\nGines?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "6596"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 21, 2011, 7:15\u202FPM",
+      "Body": "> KevinM wrote:\n> Bujo appears to have incomplete text, and this appears to be an error within the CSV file.\n>\n> Gines?\n>\nFixed!\n\nV:EKN Website Coordinator",
+      "Id": "6599"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 21, 2011, 7:45\u202FPM",
+      "Body": "There are some other mistakes in the csv file:  Conditioning is lacking a dot after \"+2 bleed\" Khobar Tower is lacking a dot after \"Master: unique location\" Movement of the Slow Body is lacking a dot after \"Only usable by a tapped vampire in torpor\" Phantom Speaker is lacking a dot after \"Only usable when this acting vampire is blocked (before tapping the blocker)\" Redline is lacking a dot after \"Master: out-of-turn\" Winddance is lacking a dot after \"[tha] Strike: dodge\"\nI think I saw another cart apart Bujo that was truncated, but can't rember which.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "6600"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 21, 2011, 7:57\u202FPM",
+      "Body": "The missing dots have been added.\n\nV:EKN Website Coordinator",
+      "Id": "6602"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 28, 2011, 3:15\u202FAM",
+      "Body": "Putrescent Servitude has missing text in the .csv file.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "6967"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 28, 2011, 4:27\u202FAM",
+      "Body": "> KevinM wrote:\n> Putrescent Servitude has missing text in the .csv file.\n>\nNo longer\n\nV:EKN Website Coordinator",
+      "Id": "6968"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 25, 2012, 12:32\u202FPM",
+      "Body": "vtes.csv file has been updated (vekn.net/images/stories/downloads/vtescsv.zip)\nLet me know if it doesn't work as expected.\nThe previous file is still available here: vekn.net/images/stories/downloads/vtescsv-20110101.zip",
+      "Id": "24076"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Feb 25, 2012, 2:54\u202FPM",
+      "Body": "Or perhaps not.\nUpdate from local file and update from internet both produce errors.\n\n-Cancelling changes to prevent database corruption.\nQuery was: CREATE TABLE CRYPT (stuff)\nSQL error: near \" \": syntax error\nQuery was: CREATE TABLE cards_crypt_unsorted (stuff)\nSQL error: near \" \": syntax error",
+      "Id": "24090"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 25, 2012, 3:16\u202FPM",
+      "Body": "Attempting the update of ARDB today generates errors.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "24099"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 25, 2012, 3:47\u202FPM",
+      "Body": "I get this:\n\n> Downloading...\n> Importing file vtescrypt.csv... Importing file vteslib.csv... Importing file vtessets.csv... ERROR -> UPDATE ABORTED (ROLLBACK)\n> Database update has ended.\n> You may need to restart ARDB.\n>",
+      "Id": "24100"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Mar 27, 2012, 1:57\u202FPM",
+      "Body": "my ardb.ini file already has the following lines\n\nUpdateCards=1\nUpdateServer=www.vekn.net\nUpdateFile=/images/stories/downloads/vtescsv.zip",
+      "Id": "26670"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Mar 29, 2012, 5:27\u202FPM",
+      "Body": "Wider view disapered from database ufter update\n\nNC Russia",
+      "Id": "26831"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Apr 13, 2012, 3:48\u202FPM",
+      "Body": "After updating to the latest CSV in ARDB loads of cards are missing and I'm unable to load past decks.\n\nCrypt count before updating: 1368, after: 1311 \u2014 one vampire that's missing: The Unnamed.\n\nThe main difference between the two files seems to be the line endings (the new uses \\r\\n and the old \\n) and there are differences in the way the columns are encapsulated, for example:\n\n\"Xian \"\"DziDzat155\"\" Quan\"\n\nvs\n\n\"Xian DziDzat155 Quan\"\n\nI suspect ARDB doesn't support the double quote approach and this is the most likely cause for the issues...\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "27825"
+    },
+    {
+      "Author": "Miasmat",
+      "Date": "Apr 13, 2012, 6:04\u202FPM",
+      "Body": "A little heads-up about ARDB and saved decks.\n\ncode.google.com/p/ardb/issues/detail?id=83\n\nIf you reimport the vtescsv.zip and you think something changed, be VERY careful about opening saved decks - they will be changed and AUTOMATICALLY resaved without prompt.\n\nI'd suggest you back up all your saved decks so you don't lose anything just by opening them.",
+      "Id": "27841"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Apr 17, 2012, 8:20\u202FAM",
+      "Body": "> ke. wrote:\n> After updating to the latest CSV in ARDB loads of cards are missing and I'm unable to load past decks.\n>\n> Crypt count before updating: 1368, after: 1311 \u2014 one vampire that's missing: The Unnamed.\n>\nif you check under \"crypt browser/select/secundo\" and check under \"by set\" you'll notice that whole HttB set is now missing (the same for library/select/by set)\n\ninside csv file there are all cards but ARDB seems unable to read HTTB cards anymore\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "28059"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Apr 22, 2012, 1:23\u202FPM",
+      "Body": "> Walt wrote:\n> if you check under \"crypt browser/select/secundo\" and check under \"by set\" you'll notice that whole HttB set is now missing (the same for library/select/by set)\n>\n> inside csv file there are all cards but ARDB seems unable to read HTTB cards anymore\n>\nSeconded.\n\nI tried to attach an older version of the file that still works, without Pascal's changes, but evidently 284 kb is too big for the forum.",
+      "Id": "28350"
+    },
+    {
+      "Author": "Miasmat",
+      "Date": "Apr 22, 2012, 4:21\u202FPM",
+      "Body": "The problem with Pascal's HttB stuff is that the file MUST end in a newline, pretty much, just put a blank line at the end of vtessets.csv.\n\nActually, same goes for all the .csv files - they have to end with a blank line.\n\nI'd strongly recommend that anyone who wants to edit these .csv files uses a Diff tool (like P4Merge) to compare their changed version with the original.\n\nOh, and if you ever get any import errors with ARDB, you have to close ARDB, reopen it, import a working vtescsv.zip, close ARDB, reopen it. THEN you can import your (possibly) fixed modified csv.zip. Even though that message pops up about \"Rolling back to prevent database corruption\" it's a lie. It misses cleaning up something, and you'll have problem on subsequent imports until you reopon ARDB and import successfully.",
+      "Id": "28363"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 24, 2012, 10:20\u202FAM",
+      "Body": "Updated files with a blankline\nFor example, the last line of vtessets.csv is:\n\n\"HttB\",\"20100203\",\"Heirs to the Blood\",\"White Wolf\"\\r\\n\n\\r\\n",
+      "Id": "28560"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Apr 24, 2012, 11:38\u202FAM",
+      "Body": "Now seems to work fine\n\nthanks\nStefano\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "28571"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 24, 2012, 7:48\u202FPM",
+      "Body": "Interestingly, \"update from Internet\" didn't work, but \"update from local file\" after downloading the .zip worked. (ARDB 3.1.1)",
+      "Id": "28615"
+    },
+    {
+      "Author": "Walt",
+      "Date": "Apr 25, 2012, 7:33\u202FAM",
+      "Body": "> Pascal wrote:\n> Interestingly, \"update from Internet\" didn't work, but \"update from local file\" after downloading the .zip worked. (ARDB 3.1.1)\n>\nreally? I've win 7 on my laptop and win xp on my desktop and yesterday when I open my ardb 3.1.1 on both PCs (after reading your post) I find a pop up who let me know \"new version bla bla bla\", I chose to update and it works without problem\n\nardb 3.1.1 build april 6 2010\n\nStefano \"Walt\" Calzighetti\nPrince of Pordenone (Italy)",
+      "Id": "28648"
+    },
+    {
+      "Author": "thiagotargino",
+      "Date": "Aug 5, 2012, 12:02\u202FAM",
+      "Body": "Hi! Great job, worked perfectly on Mac.\n\nTo edit the ardb.ini on mac, do this:\n\n1) Go to Applications folder on Finder.\n2) Right click on ARDB.app and select \"Show package contents\"\n3) Go to the folder Contents/Resources. The ardb.ini is listed there.\n4) Edit the file as you should do in Windows and save.\n5) Run ARDB again and try to update the database.\n6) Smile.\n\nFlip a coin. Thank you.",
+      "Id": "34310"
+    }
+  ]
+}

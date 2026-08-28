@@ -1,0 +1,146 @@
+{
+  "ThreadId": "vekn-35003",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/35003-conditioning-di-sos-answer-needed",
+  "Title": "Conditioning + DI - SOS answer needed",
+  "Messages": [
+    {
+      "Author": "Mr_Toreador",
+      "Date": "Aug 18, 2012, 1:16\u202FPM",
+      "Body": "Hello guys, the question is as simple as it gets:\n\nThere is a bleed action, no block, playing conditioning. There is a Direct Intervention plazed on it. Can a Threats be plazed after the DI?\n\nThanks in advance!\n\nMr_Toreador",
+      "Id": "35003"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Aug 18, 2012, 1:21\u202FPM",
+      "Body": "Yes, Threats can be played, or any other bleed modifier (but not another Conditioning). Since the Conditioning was canceled, no part of its text, including the 'no other bleed modifier can be played' kicked in.",
+      "Id": "35004"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Aug 19, 2012, 7:22\u202FAM",
+      "Body": "Are you sure? Then How comes one cannot play another Carrion Crows after the first one is canceled? Or am I wrong again (not the first time in DI subject...)?\n\nPascal, would you create a hint for DI? It is really confusing which cards can or cannot be played again... I'm not referring to a days-of-work list, just a small one, like:\n\nWhen DI is played to cancel a card, you cannot play another one IF...\n- Combat cards - Why? keytext - (examples)\n- Action Modifier - Why? keytext - (examples) etc...\n\nI'd create it mayself, should i know conditions right :/\n\nNC of Hungary\n\n///",
+      "Id": "35016"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 19, 2012, 7:27\u202FAM",
+      "Body": "> Malachy wrote:\n> Are you sure? Then How comes one cannot play another Carrion Crows after the first one is canceled? Or am I wrong again (not the first time in DI subject...)?\n>\nBecause the way it is worded (and contrary to Conditioning), the text on the second Carrion Crows is enough to prevent it from being played, the text on the first one is not needed.",
+      "Id": "35017"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Aug 19, 2012, 7:40\u202FAM",
+      "Body": "Wow... indeed:\n\nNC of Hungary\n\n///",
+      "Id": "35018"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 19, 2012, 12:42\u202FPM",
+      "Body": "> Mr_Toreador wrote:\n> Hello guys, the question is as simple as it gets:\n>\n> There is a bleed action, no block, playing conditioning. There is a Direct Intervention plazed on it. Can a Threats be plazed after the DI?\n>\n> Thanks in advance!\n>\n> Mr_Toreador\n>\nYes. As Klaital said, the part on Conditioning that forbids the play of other bleed increasers (as much as the part boosting the bleed amount) doesn't happen.\n\n> Malachy wrote:\n> Are you sure? Then How comes one cannot play another Carrion Crows after the first one is canceled? Or am I wrong again (not the first time in DI subject...)?\n>\n> Pascal, would you create a hint for DI? It is really confusing which cards can or cannot be played again... I'm not referring to a days-of-work list, just a small one, like:\n>\n> When DI is played to cancel a card, you cannot play another one IF...\n> - Combat cards - Why? keytext - (examples)\n> - Action Modifier - Why? keytext - (examples) etc...\n>\n> I'd create it mayself, should i know conditions right :/\n>\nLet's first check the  Rulebook\n>\n> Cancel a card\u201D: A \"canceled\" card has no effect, but it is still considered played. Unless explicitly written, cost for the card is paid. If the card was a strike card, the minion who played it must choose a strike, which might come from another strike card. If the card was an action card, the minion doesn\u2019t tap (he doesn\u2019t pay for the action card), and can play the same action card again.\n>\nLet's look at several cardtexts\n>\n> Name: Carrion Crows\n> [Sabbat:C, SW:C/PT2, CE:PN2, Anarchs:PG2, BH:PN3, LoB:PA2, Third:C, LotN:PR3, KoT:C]\n> Cardtype: Combat\n> Discipline: Animalism\n> Only usable before range is chosen.\n> [ani] The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\n> Name: Immortal Grapple\n> [Jyhad:R2, VTES:R, Sabbat:U, SW:U/PB, FN:PG, CE:U/PB2, Third:U, LotN:PG2, KoT:U/PB3, HttB:PGar3]\n> Cardtype: Combat\n> Discipline: Potence\n> Only usable at close range before strikes are chosen. Grapple.\n> [pot] Strikes that are not hand strikes may not be used this round (by either combatant). A vampire may play only one Immortal Grapple each round.\n>\nSo, suppose Beast is in combat. He plays Carrion Crows in the Before Range is set step, and CC gets DI'd. This CC has no effect but it was played, nevertheless. A second Carrion Crows would read \"A vampire can play only one CC each combat\", which forbids it from being played (as it would be the second CC played by Beast in that combat).\nSame goes for Immortal Grapple.\n\n> Name: Spell of Life\n> [LotN:C]\n> Cardtype: Action\n> Clan: Follower of Set\n> +1 stealth action.\n> Put this card in play. Only one Spell of Life may be played each turn. You may burn five Spells of Life to put up to five vampires from your uncontrolled region in play. Each represents a unique mummy ally with life equal to capacity, 1 bleed and 2 strength who can enter combat with a minion as a  action.\n>\nIf Celine Chevalier plays Spell of Life, and SoL gets DI'd, Celine can't play a second Spell of Life\n\nThere is no difference between \"DI vs action modifier\" or \"DI vs combat cards\". It's all in cardtext.",
+      "Id": "35027"
+    },
+    {
+      "Author": "NikolajWendt",
+      "Date": "Aug 19, 2012, 6:20\u202FPM",
+      "Body": "I think this is a great example of why the learning curve is so steap in this game and partly why it's hard to attract new players...",
+      "Id": "35033"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Aug 20, 2012, 1:31\u202FAM",
+      "Body": "If players would a)read the rulebook, and b)realize that a card has to be played before it can be canceled, and therefore any rules regarding the card having been played (card text, rulebook, etc) are in effect, there wouldn't be the issues that there are.\n\nThe fact that some players' brains lock up when confronted with \"It was canceled! Yes, but it was played first. BUT IT WAS CANCELED!!!\" is neither the fault of the game, nor the rulebook.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "35038"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Aug 20, 2012, 8:17\u202FPM",
+      "Body": "Yes, I agree. If only everyone were psychic and knew all the internet-only card rulings ahead of time, we wouldn't need this sub-forum.\n\nImprove your brains, people.",
+      "Id": "35092"
+    },
+    {
+      "Author": "Jeff Kuta",
+      "Date": "Aug 20, 2012, 8:51\u202FPM",
+      "Body": "Two other important sections from the rulebook:\n\n1.6.3. Minion Cards\n2. Action modifier cards: The acting minion can play these cards to modify his action. For example, some action modifiers increase the acting minion's stealth or bleed amount or give him more votes. A minion cannot play the same action modifier more than once during a single action.\n\n6. Reaction cards: A ready untapped minion can play a reaction card in response to an action taken by another Methuselah's minion (an action taken by one of a Methuselah's minions cannot be reacted to by any of her own minions). A minion cannot play the same reaction card more than once during a single action. A reaction card does not tap the minion using it.\n\nThese rules also affect what occurs when Action Modifiers or Reactions are played during actions and then canceled. In the above example, the Conditioning card was played so it may not be played again during the action by the same minion. Freak Drive and Voter Captivation are commonly DI'd to great effect. Same for Deflection, though in this case a different minion may try to Deflect the same bleed.\n\nWhen you are anvil, be patient; when a hammer, strike.\n\npckvtes.wordpress.com\n@pckvtes",
+      "Id": "35093"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 21, 2012, 4:29\u202FAM",
+      "Body": "> Haze wrote:\n> Yes, I agree. If only everyone were psychic and knew all the internet-only card rulings ahead of time, we wouldn't need this sub-forum.\n>\nWhat is funny is that here it is not an internet only ruling. It's just applying common sense and the exact text on the card. Not reading card text is something extremely human ; still it cause questions like that to come up.",
+      "Id": "35100"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 21, 2012, 5:01\u202FAM",
+      "Body": "> Ohlmann wrote:\n>\n> > Haze wrote:\n> > Yes, I agree. If only everyone were psychic and knew all the internet-only card rulings ahead of time, we wouldn't need this sub-forum.\n> >\n> What is funny is that here it is not an internet only ruling. It's just applying common sense and the exact text on the card. Not reading card text is something extremely human ; still it cause questions like that to come up.\n>\nYeah. Unfortunately, people tend to rely on rulings instead of reading the rules (and I must confess that I do it too sometimes).\nAnyway, it's in the rules.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "35103"
+    },
+    {
+      "Author": "TunFiskeMad",
+      "Date": "Aug 21, 2012, 10:21\u202FAM",
+      "Body": "So you can play nother modifier after this:\n\nConditioning\nType: Action Modifier\nRequires: Dominate\nCost: 1 blood\nYou cannot play another action modifier to increase this bleed amount.\n[dom] +2 bleed\n[DOM] +3 bleed.\n\nBut not another CC after this:\n\nCarrion Crows\nType: Combat\nRequires: Animalism\nOnly usable before range is chosen.\n[ani] The opposing minion takes 1R damage each round of combat during strike resolution. A vampire can play only one Carrion Crows each combat.\n[ANI] As above, but for 2R damage.\n\nI don't understand how cancel stops \"you cannot play another action modifier to increase this bleed amount.\" but not \"A vampire can play only one Carrion Crows each combat.\"\n\nIf the cards are played it seems to me both stipulations should stay in play?\n\n- I have bitten the mighy judge-beard.",
+      "Id": "35122"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 21, 2012, 10:41\u202FAM",
+      "Body": "> TunFiskeMad wrote:\n> I don't understand how cancel stops \"you cannot play another action modifier to increase this bleed amount.\" but not \"A vampire can play only one Carrion Crows each combat.\"\n>\nIt's written on the card.\n\nThe first disallow playing more bleed modifier. The first card is played, it is cancelled, none of its text is applied, so you can play threat for example. Threat have no text preventing it from being played.\n\nCarrion crow, on the other hand, have one : \"you can only play one Carrion Crow per combat\". So, when you want to play another one, the text on the second one prevent you from doing so.\n\nIt is a bit subtle, but the difference is pretty clear. Most of the confusion come from the fact that the first card have no effect in both case, while you may believe it have some effect.",
+      "Id": "35124"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Aug 21, 2012, 10:47\u202FAM",
+      "Body": "It's not directly to do with a card text or a cancel, but the sequence of play.\n\nA card MUST be played if it is to be Cancelled.\n\nEven if a card is Cancelled it has been PLAYED.\n\nTherefore, CC looks back and sees that a copy of CC was played and prohibits itself from being played again.\n\nConditioning does not see any action modifier which has increased the bleed, so another action modifier to increase the bleed is playable AND that new one prevents any future action modifier from being played (assuming).\n\nYou still can't play a second Conditioning because you have already played a copy of that action modifier on this action.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "35125"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Aug 21, 2012, 10:49\u202FAM",
+      "Body": "The difference is that \"A vampire can play only one Carrion Crows each combat\" is logically equivalent to:\n\na) This vampire cannot play another Carrion Crows this combat,\nAND\nb) This vampire cannot play this card if he has already played another Carrion Crows this combat.\n\n(yes, it usually means that the second Carrion Crows gets hammered twice  ).\n\nConditioning only has a). None of the effects stay in play, but the card has been played nonetheless. When you try to play the second Carrion Crows, the b) on the second Carrion Crows kicks in and prevents you from playing it. Conditioning does not have that b) so nothing prevents it from being played.",
+      "Id": "35127"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 21, 2012, 10:50\u202FAM",
+      "Body": "A canceled card has no effect.\nAnything written on a DI'd Carrion Crows or Conditioning doesn't apply. Or Wake with Evening's Freshness.\n\nHere are a couple of examples. They're here to explain how \"cancel\" works. It basically rubs away all the text of a card.\n\n> DI'd wrote:\n> Name: Conditioning\n> Cardtype: Action modifier\n> Discipline: Dominate\n> Text:\n>\n> Non-existant user wrote:\n> Name: Carrion Crows\n> Cardtype: Combat\n> Discipline: Animalism\n> Text:\n>\n> DI'd wrote:\n> Name: Wake with Evening's Freshness\n> Cartype: Reaction\n> Text:\n>\nNote that you do replace immediately a DI'd WwEF. Or a DI'd Mirror Walk. Or a Sudden'ed Liquidation.\n\nNow, what's the big difference between Conditioning and Carrion Crows?\nThe answer (again) is on the card:\nConditioning reads \"after this card, you can't play modifiers to increase the bleed amount\". This part is only triggered when the card is played and not canceled (\"canceled cards have no effects\", as quoted from the Rulebook above).\nCarrion Crows reads \"you can play only one CC each combat\".\n\nThe difference is not with the canceled card, but with the next one you'd play. If Conditioning, Threats, Eyes of Chaos, Aire of Elation, Old Friends, ... all read \"Only one bleed increasing action modifier can be played per action\", then that cardtext would prevent any Threats from being played after Conditioning was DI'd (although, even that might be debatable).\n\n> TunFiskeMad wrote:\n> f the cards are played it seems to me both stipulations should stay in play?\n>\nActually, none remains in play.",
+      "Id": "35128"
+    },
+    {
+      "Author": "TunFiskeMad",
+      "Date": "Aug 21, 2012, 11:05\u202FAM",
+      "Body": "yep - it was just me being daft at work it seems - I'll keep away from the boards while working in the future.\n\n- I have bitten the mighy judge-beard.",
+      "Id": "35131"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Aug 21, 2012, 11:46\u202FPM",
+      "Body": "> Ohlmann wrote:\n>\n> > Haze wrote:\n> > Yes, I agree. If only everyone were psychic and knew all the internet-only card rulings ahead of time, we wouldn't need this sub-forum.\n> >\n> What is funny is that here it is not an internet only ruling. It's just applying common sense and the exact text on the card. Not reading card text is something extremely human ; still it cause questions like that to come up.\n>\nthe exact VTES-definition of \"cancel\"* and all it entails is never actually defined on any printed material.\nif questions about direct intervention come up this often, I'd say it's apparently a badly written card.\n\n*what's worse is that it was written as \"burn\" instead of \"cancel\" for many many years.",
+      "Id": "35201"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 22, 2012, 4:12\u202FAM",
+      "Body": "There is no point in criticizing things that can't be changed. It would be more relevant to notice that \"cancel\" has a rulebook definition.",
+      "Id": "35212"
+    },
+    {
+      "Author": "Mr_Toreador",
+      "Date": "Aug 22, 2012, 8:57\u202FAM",
+      "Body": "Thanks Floppy (and for all the others comments too)!",
+      "Id": "35222"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Aug 22, 2012, 7:39\u202FPM",
+      "Body": "> Pascal wrote:\n> There is no point in criticizing things that can't be changed. It would be more relevant to notice that \"cancel\" has a rulebook definition.\n>\nmy criticism is more aimed at the people saying \"just read the card text you idiots\" and being actively unhelpful to the community.",
+      "Id": "35244"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Aug 22, 2012, 8:38\u202FPM",
+      "Body": "> Haze wrote:\n> my criticism is more aimed at the people saying \"just read the card text you idiots\" and being actively unhelpful to the community.\n>\nWell, I do believe that the people that want too much rule rewrite and actively whine at every card interaction as being too complex are actively unhelpful too.\n\nHere, you may argue that it's strange to have two different card template for basically the same effect (carrion crow could be worded \"you cannot play other carrion crow this combat\" for example), but it's an example of rule that a lot of people have right without any ruling reading.\n\nEspecially since it was not a question about Direct intervention. This could happen with blocked action, and the NRA work on the same template as Carrion Crow.",
+      "Id": "35246"
+    }
+  ]
+}

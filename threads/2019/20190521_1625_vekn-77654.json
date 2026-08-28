@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-77654",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77654-marthe-dizier-clarificatiion",
+  "Title": "Marthe Dizier clarificatiion",
+  "Messages": [
+    {
+      "Author": "blackday",
+      "Date": "May 21, 2019, 4:25\u202FPM",
+      "Body": "Regarding the use of Marthe Dizier's ability can she use a superior psyche to begin a new combat and then reclaim it using her ability.\n\nName: Marthe Dizier\nCapacity: 10\nType: Vampire\nGroup: 3\nClan: Toreador antitribu\nDisciplines: pro AUS CEL OBF PRE\nSet/Rarity: Gehenna:U\nArtist: Peter Bergting\nCardText: Sabbat. Black Hand: When a combat involving Marthe ends, she can burn a blood to move a card she played during that combat from your ash heap to your hand. +1 bleed.\n\nName: Psyche!\nType: Combat\nPoolCost:\nBloodCost:\nCardText: [cel] Press.\n[CEL] Only usable at the end of a round when both combatants are still ready and combat is about to end. After this round, begin another combat with the opposing minion.",
+      "Id": "94992"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "May 21, 2019, 6:35\u202FPM",
+      "Body": "It depends on if \"at the end of a round\" (Psyche!) is considered to be a part of \"during the combat\" (Marthe Dizier).\nAs far as I know, this is not the case.\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "94998"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 21, 2019, 7:03\u202FPM",
+      "Body": "The end of a round of combat is still combat and combat cards are played there: Psyche!, Taste of Vitae, Pulled Fangs, etc.\n\nNote that the original card text for Psyche! is what is causing the confusion. There were many old rulings about it (I think some may even be found on this site), but the text was updated to be played during combat instead of after combat. So, it's a combat card like any other.\n\nMarthe can use her special to retrieve it.",
+      "Id": "95001"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 21, 2019, 10:48\u202FPM",
+      "Body": "This part of the card rulings for psyche is what us confusing.\nPsyche!:\n\nThe superior will cancel any \"continue action\" effect produced during the preceding combat (e.g. Form of Mist) [RTR 19950509]\nThe superior is played after combat ends, even though the card is a combat card. [RTR 19980928]\nIs played before superior Freak Drive or inferior Cats' Guidance can be played to untap one of the combatants. (The combatants will have to wait until after the next combat ends to play those cards.) [LSJ 19981216]\nNo new cost need be paid for the block (Archon, Aching Beauty, Donal, etc.) [TOM 19960303]\nThe superior can be played before or after replacing any \"Do Not Replace Until After Combat\" cards. [LSJ 19990322]\nSuperior cannot be played if there is already a combat queued (with, for example, Blissful Agony) [RTR 20020501]\n\nSo is the psyche used at superior still part of the combat that ended thus allowing Marthe to use her ability or part of the 2nd new combat?",
+      "Id": "95008"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "May 21, 2019, 11:16\u202FPM",
+      "Body": "First, here's the current card text:\nName: Psyche!\nCardtype: Combat\nDiscipline: Celerity\n[cel] Press.\n[CEL] Only usable at the end of a round when both combatants are still ready and combat is about to end. After this round, begin another combat with the opposing minion.\n\n> blackday wrote:\n> The superior will cancel any \"continue action\" effect produced during the preceding combat (e.g. Form of Mist) [RTR 19950509]\n>\nThis has nothing to do with _when_ Psyche! is played. It merely clarifies the interaction of Psyche! and continue action effect.\n\n> blackday wrote:\n> The superior is played after combat ends, even though the card is a combat card. [RTR 19980928]\n>\nThis ruling has been obviated by text change; it should probably be removed at this point.\n\nOriginal text: Only usable at the end of a combat where both combatants are still ready. Combat starts again. This is considered an entirely new combat, so weapons can contribute their maneuvers for a second time, and so forth.\n\nThis meant combat had to end to play the card, so it was a combat card played outside of combat. Later versions of the card use the new text (above), which clearly specifies when the card can be play (at the end of a round of combat), which is during the combat before it ends.\n\n> blackday wrote:\n> Is played before superior Freak Drive or inferior Cats' Guidance can be played to untap one of the combatants. (The combatants will have to wait until after the next combat ends to play those cards.) [LSJ 19981216]\n>\nThis ruling is not about when to play the card only when Action Modifiers may be played when combats are queued. The may be played after the queued combat resolves (if another combat is queue, you must continue to wait).\n\n> blackday wrote:\n> No new cost need be paid for the block (Archon, Aching Beauty, Donal, etc.) [TOM 19960303]\n>\nThis is not a ruling about when Psyche! can be played. It is a clarification of block effects. There is no \"new block\" when Psyche! occurs, so those effects are not applied a second time.\n\n> blackday wrote:\n> The superior can be played before or after replacing any \"Do Not Replace Until After Combat\" cards. [LSJ 19990322]\n>\nThis is no longer true due to text updates; it should probably be removed at this point.\n\nPsyche! is now played during combat and \"Do Not Replace Until After Combat\" cards cannot be replaced before it is played.\n\n> blackday wrote:\n> Superior cannot be played if there is already a combat queued (with, for example, Blissful Agony) [RTR 20020501]\n>\nThis is the general rule that only one combat may be queued at any given time.\n\n> blackday wrote:\n> So is the psyche used at superior still part of the combat that ended thus allowing Marthe to use her ability or part of the 2nd new combat?\n>\nIt is part of the combat that ended.\n\nAlso, here's the  LSJ ruling about the ability. I believe this was made even during the period of time where Psyche! was played after combat, but works because of ordering.\n\nI haven't found a newer ruling and, if anything, because of the text change to Psyche! it's more clear now than before.\n\nWould be great if Ankha could confirm that the outdated nature of those rulings (and possibly archive/remove them).",
+      "Id": "95009"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 22, 2019, 1:03\u202FAM",
+      "Body": "Yes would love to get Ankha's take on this.\n\nAnother question pertaining to Marthe can she use psyche as a press. And when combat is ending use her ability to reclaim psyche and then play it as the superior version ti start a new combat? I was thinking no, but there is a timing issue.",
+      "Id": "95010"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 22, 2019, 4:05\u202FAM",
+      "Body": "The sequence is:\n1) Resolve first combat, play Psyche! during the first combat.\n2) There is a window to play effects between the two combats (that is the window when Obedience can be played.) Marthe Dizier can use her special in that window to recover Psyche!\n3) Second combat starts.\n4) Marthe can use her special again after the second combat, but only to recover a card played in the second combat. If she did not get the Psyche! back before, it is too late now.",
+      "Id": "95011"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 22, 2019, 6:22\u202FAM",
+      "Body": "What i meant was could she use the psyche at inf to press and then as the combat is about to end. She doesnt have another Psyche could she use her ability to reclaim the psyche then use that same card at Sup to go into a 2nd round.",
+      "Id": "95012"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 22, 2019, 6:39\u202FAM",
+      "Body": "This has already been answered  here and  there .\n\nI have updated the rulings page.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "95013"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 22, 2019, 11:30\u202FAM",
+      "Body": "Thank you",
+      "Id": "95019"
+    }
+  ]
+}

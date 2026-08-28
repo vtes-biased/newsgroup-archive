@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-65681",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/65681-oubliette-vs-glancing-blow",
+  "Title": "Oubliette VS Glancing Blow",
+  "Messages": [
+    {
+      "Author": "rezwits",
+      "Date": "Sep 22, 2014, 10:09\u202FPM",
+      "Body": "I have a question: if I am attacking a Vampire who has OBT with a Muddled Vampire Hunter, and he use Oubliette the Muddled Vampire Hunter dies, even if the Muddled Hunter uses Glancing Blow, correct? Because the superior effect of Oubliette, which is: [obt] Strike: combat ends.\n[OBT] As above, and the opposing minion burns 1 blood or life after combat (even at long range).\n\nMeans that the damage from the Strike is Zero, and then there is an after combat burn of 1 life.\n\nBecause Glancing Blow states: Do not replace until your next untap phase.\nPrevent 1 damage from the opposing minion's strike. Of which the Strike is Strike: Combat Ends.\n\nPlease let me know thanks\n\nI think this is how this works. I googled a little and didn't find anything.\n\nLaters...",
+      "Id": "65681"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 23, 2014, 4:11\u202FAM",
+      "Body": "First of all, Oubliette doesn't inflict damage, it burns blood. So even if it happened during combat, it couldn't be prevented.\n\nSecundly, you can't play combat cards after combat has ended.\n\nSo if we consider Catatonic Fear that does damage after combat (same timing as Oubliette's \"burn blood\"), you can't play Glancing Blow to prevent it since Glancing Blow is a combat card that must be played during combat.\n\nName: Catatonic Fear\nCardtype: Combat\nCost: 1 blood\nDiscipline: Presence\nStrike: combat ends.\nAs above, and inflict 1 damage to the opposing minion once combat ends if the range is close.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "65687"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 23, 2014, 7:13\u202FAM",
+      "Body": "> Ankha wrote:\n> First of all, Oubliette doesn't inflict damage, it burns blood. So even if it happened during combat, it couldn't be prevented.\n>\n> Secundly, you can't play combat cards after combat has ended.\n>\nTo skip ahead to a reasonably common question...\n\nHow can I prevent damage from Catatonic Fear after combat has ended? Why doesn't it just say \"unpreventable\" if I can't prevent it?\n\nYou can, though it's hard. Burn a Leather Jacket, or use Surge counters. Possibly one or two other options, but those are the ones that I remember.",
+      "Id": "65691"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Sep 23, 2014, 7:24\u202FAM",
+      "Body": "Correct answer from Ankha [edit] and jamesatzephyr.",
+      "Id": "65693"
+    },
+    {
+      "Author": "Malcolm Sprye",
+      "Date": "Sep 24, 2014, 5:09\u202FPM",
+      "Body": "Dodge also entirely avoids the effects of the opponents strike, and would dodge the catatonic fear/oubliette.",
+      "Id": "65744"
+    },
+    {
+      "Author": "rezwits",
+      "Date": "Sep 24, 2014, 6:07\u202FPM",
+      "Body": "I thought if I played glancing blow and then my opponent played Oubliette, both cards would have been played at that point.\n\nAnd as far as I know Strike: Dodge can't avoid a Strike: Combat Ends (timing).\n\nBut as far as I am concerned my question is answered.\n\nGlancing blow cannot stop Oubliette. And it also can't stop Catatonic Fear, using the CF's current errata text, but if you used the old card text it could.\n\nThanks",
+      "Id": "65746"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 24, 2014, 6:57\u202FPM",
+      "Body": "> rezwits wrote:\n> I thought if I played glancing blow and then my opponent played Oubliette, both cards would have been played at that point.\n>\nEven if Oubliette did damage (which it doesn't), you can't have played Glancing Blow first, then your opponent plays Oubliette. Glancing Blow immediately prevents damage, the same way Skin of Rock does. It's not like Apparition, setting up a later possible damage prevention effect. You have to have already taken the damage and be in the damage prevention step of damage resolution - which definitely hasn't happened prior to the opponent even choosing their strike.\n\n> rezwits wrote:\n> And as far as I know Strike: Dodge can't avoid a Strike: Combat Ends (timing).\n>\nIncorrect. Strike: Dodge doesn't resolve, it just prevents the offensive parts of the opponent's strike, whatever speed that resolves at. If you prefer to think of Dodge as resolving, it's at least simultaneous with S:CE. Note that this was changed ten years ago: www.thelasombra.com/rules/RTR120204.txt\nDodge protects the dodger against all strikes, even aggressive S:CE effects\n(like Catatonic Fear).\n\n> rezwits wrote:\n> Glancing blow cannot stop Oubliette. And it also can't stop Catatonic Fear, using the CF's current errata text, but if you used the old card text it could.\n>\nErr, only sort of, kind of. CF's current card text has been the most recent printing (not errata) for 14 years now.\n\nEverything done in addition to a S:CE effect (except untaps) happens after combat ends, which was handled in www.thelasombra.com/rules/RTR512.txt (RTR from 2002):\n\nBut the issue regarding Catatonic Fear (and some similar effects) was determined as far as back as the RTR in 1997, which was actually a ruling on how to handle all combat-ends+damage effects (e.g. Mariel) rather than specific errata.\n\n[LSJ 19970701] , following up on the actual RTR (which didn't quite spell out the effect using very small words.",
+      "Id": "65747"
+    },
+    {
+      "Author": "rezwits",
+      "Date": "Sep 27, 2014, 4:10\u202FAM",
+      "Body": "Dodge protects the dodger from the effects of the opposing minion's strike,\neven if that strike is done at First Strike or even if it is a Combat Ends\nstrike (Combat Ends will still end combat, but any additional effects the\nstrike would have on the dodger, like Catatonic Fear's damage, are dodged).\n\nNever knew... it's seems after playing from 1994-1995, then again in 2007 then in 2010, and now trying to get back even fiercer, these rules have been wilted down and micro managed so hard now, it's going to take even more work on a card per card basis, getting caught up with everything.\n\nI try to read the google groups (rec.games.jyhad old newsgroup) when ever google search will pull up a result, but man so many out there...\n\nSeams like every card has a ruling by now, all I can say is it's amazing and kinda sad. It's all good I suppose it's just makes it so much more work to just play, hah, when are card games now days not work...\n\nI try to play the game by just reading the cards, but I just keep reading...\n\nThanks again. I am glad I have only had like 5-10 questions all these years tho hehe. (posted that is!) Tons googled!",
+      "Id": "65818"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 27, 2014, 5:23\u202FAM",
+      "Body": "> rezwits wrote:\n> I try to play the game by just reading the cards, but I just keep reading...\n>\nBe careful to read the latest cardtext. And the latest (online) rulebook. 99% of the answers are in them.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "65819"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 27, 2014, 7:42\u202FAM",
+      "Body": "Yeah, re-reading the rulebook occasionally is useful.\n\nFinnish  Politics!",
+      "Id": "65820"
+    }
+  ]
+}

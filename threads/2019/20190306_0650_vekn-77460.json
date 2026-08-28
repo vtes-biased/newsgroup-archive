@@ -1,0 +1,296 @@
+{
+  "ThreadId": "vekn-77460",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/77460-ann-amaranth-3-1-released",
+  "Title": "[ANN] Amaranth 3.1 Released",
+  "Messages": [
+    {
+      "Author": "Ke.",
+      "Date": "Mar 6, 2019, 6:50\u202FAM",
+      "Body": "Amaranth 3.0 has been released and is now available.\n\nNew features include:\n\n- Added new Sabbat vampires\n- Card text history (from 1995 onwards)\n- Card text rendering, icons & set information\n- Deck versioning\n- Deck seating meta game\n- Improved deck syncing across devices\n- Improved deck searching (now also searching cards)\n\nOnline here: amaranth.vtes.co.nz\n\nAnd available from the app stores:\n\nApple iOS\n\nGoogle Android\n\nHere's a preview of some of the new features.\n\nDeck Versioning:\n\nCard text history:\n\nIconified text:\n\nTest Seating / Meta Game:\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "93901"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Mar 6, 2019, 8:13\u202FAM",
+      "Body": "Wow. This is becoming a more impressive piece of software with each release. Good job!",
+      "Id": "93907"
+    },
+    {
+      "Author": "Vafudr",
+      "Date": "Mar 9, 2019, 7:48\u202FPM",
+      "Body": "Thanks for this app! It makes managing decks a whole lot easier, I use it almost every day on my daily commute!\nHowever I am struggling with accessing the new version from the app store (android), the last version available is the \"lost kindred\" update. Is the update not available in all regions yet? Is there something wrong on my end? I have tried reinstalling the app without any success. For now I'm currently using the 3.0 in my browser, but would really like to get the app working again! Thanks for any help on this!",
+      "Id": "93990"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 11, 2019, 12:24\u202FAM",
+      "Body": "Are you running an old Android version? ie. 4.1 Jelly bean\n\nThe Google play store is making it harder to to support older phones.\n\nI'll see if it's possible to do a release for older phones.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "94008"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Mar 11, 2019, 9:33\u202FPM",
+      "Body": "Hi Ke, thanks for update.\n\nI found some bugs on new version. I send to you in skype, take a look when you have time.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "94030"
+    },
+    {
+      "Author": "DJHedgehog",
+      "Date": "Mar 12, 2019, 12:47\u202FPM",
+      "Body": "Ke- this is really fantastic. I use Amaranth all the time and it's miles ahead of all the other options. Keep up the good work!",
+      "Id": "94033"
+    },
+    {
+      "Author": "Jazzbeaux",
+      "Date": "Mar 12, 2019, 2:39\u202FPM",
+      "Body": "Even more added to an already essential tool! Thanks!",
+      "Id": "94035"
+    },
+    {
+      "Author": "Vafudr",
+      "Date": "Mar 14, 2019, 8:48\u202FAM",
+      "Body": "> Ke. wrote:\n> Are you running an old Android version? ie. 4.1 Jelly bean\n>\n> The Google play store is making it harder to to support older phones.\n>\n> I'll see if it's possible to do a release for older phones.\n>\nHi again, I got a prompt to install the update a few days ago! Not sure what changed, but it's running perfectly now, Thanks.\n\nFor reference I'm running Android 7.1.1\nMy phone certainly ain't the the hottest new model this year, but I feel it's too early for its retirement.",
+      "Id": "94060"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Mar 21, 2019, 1:15\u202FPM",
+      "Body": "Using Chrome browser, I get an error \"NET::ERR_CERT_DATE_INVALID\" when accessing Amaranth online.\n\nHas the certificate expired or is there a security breach?\n\nLackeyname: Kris",
+      "Id": "94193"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Mar 21, 2019, 7:07\u202FPM",
+      "Body": "The certificate just didn't auto renew for some reason.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "94197"
+    },
+    {
+      "Author": "jtroyve",
+      "Date": "Apr 19, 2019, 2:34\u202FPM",
+      "Body": "Any way to add inventory?",
+      "Id": "94583"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Apr 19, 2019, 11:06\u202FPM",
+      "Body": "> jtroyve wrote:\n> Any way to add inventory?\n>\nNot yet.\nYou could add it all as a deck, but that\u2019s not optimal.",
+      "Id": "94584"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "May 7, 2019, 2:54\u202FPM",
+      "Body": "Is it possible to add a function to the vampire search to look for vampires with one out of multiple titles? Like filtering for vampires that are either Prince or Justicar\n\nPrince of Bonn, Germany",
+      "Id": "94817"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "May 28, 2019, 4:17\u202FPM",
+      "Body": "Library cards which have two clans in their requirements (Treaty of Laibach, Ennoia's Theater, a bunch of gargoyle stuff) don't show up if you search for cards requiring either of those clans.",
+      "Id": "95107"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Jun 19, 2019, 6:56\u202FPM",
+      "Body": "When trying to log into the site, I'm getting a warning that its certificate has expired.",
+      "Id": "95475"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Jun 20, 2019, 9:25\u202FAM",
+      "Body": "This was due to the cert not automatically renewing correctly.\n\nIt's been resolved.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "95490"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Jun 25, 2019, 9:04\u202FPM",
+      "Body": "Any news about inventory?\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "95610"
+    },
+    {
+      "Author": "Kain_Silencer",
+      "Date": "Jul 1, 2019, 8:42\u202FAM",
+      "Body": "Great piece of software! Thank you very much for it!\nAlso I wanted to report very minor error:\nLady Vadislava does not show up in search when you tick in \"Titled\" (she is priscus)",
+      "Id": "95693"
+    },
+    {
+      "Author": "Kraintus",
+      "Date": "Aug 5, 2019, 12:19\u202FAM",
+      "Body": "First of all, thank you so much for the APP, is the best companion and worst friend for my Blood Pocket!! .\nAnyway, just I would like to share an idea that I have been talking with my partners here.\nWhen I am checking my decks in my mobile, time to time accidentally I push the \"-\" or \"+\" button, adding or remove cards (even new cards that it wasn't supposed to be there), so I don't know if would be possible but if you could add a kind of \"LOCK Button\", it would be great.\n\nCheers!",
+      "Id": "96140"
+    },
+    {
+      "Author": "Gab",
+      "Date": "Aug 7, 2019, 7:43\u202FAM",
+      "Body": "> Kraintus wrote:\n> When I am checking my decks in my mobile, time to time accidentally I push the \"-\" or \"+\" button, adding or remove cards (even new cards that it wasn't supposed to be there), so I don't know if would be possible but if you could add a kind of \"LOCK Button\", it would be great. Cheers!\n>\nThis happens to me a lot too! So please add this as a feature.\n\nWhere does the app store the images since I noticed some images still display even when offline. I would like a feature where you can download all the images.",
+      "Id": "96192"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Dec 6, 2019, 9:50\u202FPM",
+      "Body": "Hi Ke,\n\n\"Lydia, Grand Praetor\" should be Group 5, not 6.\n\nThanks in advance!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "98161"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Dec 9, 2019, 2:27\u202FPM",
+      "Body": "> Hakuron wrote:\n> Hi Ke,\n>\n> \"Lydia, Grand Praetor\" should be Group 5, not 6.\n>\n> Thanks in advance!\n>\nShe\u2019s group 6. Card lists and a google image search will confirm this.\nWhy do you think she should be 5?",
+      "Id": "98190"
+    },
+    {
+      "Author": "yurian",
+      "Date": "Dec 9, 2019, 3:41\u202FPM",
+      "Body": "Hi there,\n\nAlacrity text is wrong. For CEL advanced it should read:\n- As above, and if this action is blocked, this acting vampire gets an optional maneuver during the first round of the resulting combat.\n\nCheers",
+      "Id": "98191"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Dec 10, 2019, 8:49\u202FAM",
+      "Body": "> Snodig wrote:\n>\n> > Hakuron wrote:\n> > Hi Ke,\n> >\n> > \"Lydia, Grand Praetor\" should be Group 5, not 6.\n> >\n> > Thanks in advance!\n> >\n> She\u2019s group 6. Card lists and a google image search will confirm this.\n> Why do you think she should be 5?\n>\nOops, I stand corrected. Confusion ... Thanks!\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "98194"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2019, 9:41\u202FAM",
+      "Body": "> yurian wrote:\n> Hi there,\n>\n> Alacrity text is wrong. For CEL advanced it should read:\n> - As above, and if this action is blocked, this acting vampire gets an optional maneuver during the first round of the resulting combat.\n>\n> Cheers\n>\nCurrent text in Amaranth is: \"As above, with 1 optional maneuver during the first round of the resulting combat whenever this vampire blocks\" which is functionally the same.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98196"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Dec 10, 2019, 11:17\u202FAM",
+      "Body": "So \"this vampire blocks\" and \"this vampire is blocked\" are functionally the same? Still, I think it's weird that an action modifier has a reference to this vampire blocking, instead of being blocked.\n\nPrince of Bonn, Germany",
+      "Id": "98199"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 10, 2019, 1:23\u202FPM",
+      "Body": "> Yomyael wrote:\n> So \"this vampire blocks\" and \"this vampire is blocked\" are functionally the same? Still, I think it's weird that an action modifier has a reference to this vampire blocking, instead of being blocked.\n>\nAh! I expected a catch. I was focused on the \"whenever\" change, so no, you're right, it's not the same\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98200"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 18, 2019, 3:24\u202FPM",
+      "Body": "The Amaranth site is showing me a security certificate error.",
+      "Id": "98298"
+    },
+    {
+      "Author": "vragozakas",
+      "Date": "Dec 18, 2019, 4:34\u202FPM",
+      "Body": "> Kushiel wrote:\n> The Amaranth site is showing me a security certificate error.\n>\nSame here.",
+      "Id": "98299"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Feb 5, 2020, 4:22\u202FAM",
+      "Body": "Feature request: Would it be possible to display the average crypt capacity within a decklist while still in Amaranth? It displays on exported decklists (as well as min and max crypt size, though I've never been sure what that's useful for), so clearly the functionality is there - but it would be handy to be able to see the average crypt size at a glance from within Amaranth, rather than having to export a decklist to see it.",
+      "Id": "98892"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Feb 26, 2020, 6:52\u202FPM",
+      "Body": "Asking for a city mate: is there any time schedule to have the new barons on Amaranth?\n\nThank you\n\nLurking in the underground of Bologna, Italy",
+      "Id": "99077"
+    },
+    {
+      "Author": "serekmt",
+      "Date": "Mar 24, 2020, 11:02\u202FAM",
+      "Body": "Hey guys, it might be a bit off-topic but i'm looking for a person who developed Amaranth deck builder. Is it possible to get in touched with them?",
+      "Id": "99418"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "Mar 25, 2020, 8:42\u202FPM",
+      "Body": "> serekmt wrote:\n> Hey guys, it might be a bit off-topic but i'm looking for a person who developed Amaranth deck builder. Is it possible to get in touched with them?\n>\nIts \"Ke.\" in the forum\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "99430"
+    },
+    {
+      "Author": "ResurrectioN",
+      "Date": "Apr 15, 2020, 9:14\u202FAM",
+      "Body": "Bug report\n\nWith \"Old card\" layout \"Burn option\" is not shown on the cards:\nBarrenness\nEvil eye\n\nNot sure if others are affected.\nI've checked the \"Trackers' Mark and \"Dirty contract\" and they were in order.\n\nIt's a minor thing, really but still ...",
+      "Id": "99603"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "May 2, 2020, 10:48\u202FPM",
+      "Body": "> Kain_Silencer wrote:\n> Great piece of software! Thank you very much for it!\n> Also I wanted to report very minor error:\n> Lady Vadislava does not show up in search when you tick in \"Titled\" (she is priscus)\n>\nThis seems to be true for the latest titled Lasombras as well.\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "99740"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Aug 2, 2020, 8:24\u202FPM",
+      "Body": "The Flight option seems to be somewhat messed up - Patrol, Pounce, Circle, Swoop, and Soar aren't displayed when you tick the Flight box.",
+      "Id": "100457"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 5, 2020, 8:26\u202FAM",
+      "Body": "Just so you know there's a \"report\" (\u26A0\uFE0F) button on cards and, AFAIK Ke checks those.",
+      "Id": "100474"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Aug 5, 2020, 4:03\u202FPM",
+      "Body": "> lip wrote:\n> Just so you know there's a \"report\" (\u26A0\uFE0F) button on cards and, AFAIK Ke checks those.\n>\nI wasn't aware of that! Thanks.",
+      "Id": "100485"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Aug 10, 2020, 4:39\u202FPM",
+      "Body": "Amaranth 3.1 has been released to the web:\n\namaranth.vtes.co.nz\n\nApp versions will be following shortly.\n\nChanges in this release include:\nRulings Latest cards Improved desktop layout Card Recommendations (based on TWDA) Card Scores (based on TWDA) Deck categories (Ally, Bleed, Combat,Toolbox, Wall, Vote) Foundations for TWDA integration Revised text removed\nBig thanks to Phoenix for the ruling data.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "100514"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 12, 2020, 9:12\u202FAM",
+      "Body": "Wow, thanks for the update Ke, awesome work !\n\nGlad to see the KRCG API is put up to good use",
+      "Id": "100521"
+    },
+    {
+      "Author": "St\u00E9phane81",
+      "Date": "Oct 19, 2020, 8:46\u202FPM",
+      "Body": "Hello KE.\nSince there is no way to join you using an MP and you let no contact option on your appli (understandable), I end up here. I know that I'm polluting your subject and I apologize for that.\n\nWarning: Spoiler!\n\nI would like to ask if you could share your card material ? I'm not asking after your template but the  cards' patterns ? I'm creating my own template and did not found the material I need. I already ask BCP, they said no of course and I have to create my own material. It's not event close to the official, I do not even try to. My template are more confusing, even for me to play (I upload them in my lackey) because I end up to play with up to three different patterns for the same clan.\nYou can contact me via  and erase this post. Thanks",
+      "Id": "100954"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Oct 20, 2020, 9:43\u202FAM",
+      "Body": "There is an option to filter crypt by \"No title\". Could the filter \"All titles (including +x votes)\" be added?\n\nLackeyname: Kris",
+      "Id": "100955"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 20, 2020, 2:43\u202FPM",
+      "Body": "> Khaan wrote:\n> There is an option to filter crypt by \"No title\". Could the filter \"All titles (including +x votes)\" be added?\n>\nThere is already a \"Titled\" checkbox that does this; it's just not in the drop down.",
+      "Id": "100957"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 27, 2020, 8:03\u202FPM",
+      "Body": "I don't know if this is a \"feature\" or not - Ke might be one of the many Nights of Reckoning haters - but Amaranth is pretty messed up if you try to use it to build an imbued deck. Beyond not being able to look up any cards, crypt or library, based on specific virtues, the \"imbued\" option in the clan pulldown of the Library section brings back no results.\n\nWorse, library cards which have a conviction cost don't list that conviction cost, either in the text nor in the card art (the latter is especially odd - did someone manually scrub the conviction costs from the card art?). This means that some NoR proxies printed via Amaranth have incorrect card text, which could well be a problem at a tournament in which people aren't familiar enough with the NoR cards to realize that some of the proxies are incorrect.",
+      "Id": "101306"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Dec 28, 2020, 1:59\u202FPM",
+      "Body": "> Kushiel wrote:\n> Worse, library cards which have a conviction cost don't list that conviction cost, either in the text nor in the card art (the latter is especially odd - did someone manually scrub the conviction costs from the card art?). This means that some NoR proxies printed via Amaranth have incorrect card text, which could well be a problem at a tournament in which people aren't familiar enough with the NoR cards to realize that some of the proxies are incorrect.\n>\nThe proxies on Amaranth are generated based on Card Text and Images of the Art. They are not scans of actual cards (and have in some cases updated card text, that hasn't been printed yet). The problem with the wrong sidebar seems to be a bug in the code generating the images. It also happens with cards that have burn options, but no Clan or Discipline requirement (e.g. Tattoo Signal).\n\nThat said, unfortunately the proxies from Amaranth are not tournament legal. The tournament rules specify explicitly \"every proxy card must be a color-copy of the original card, on standard paper\". With newer cards this is most often not recognizable, but for example set symbols are missing as well.\n\nPrince of Bonn, Germany",
+      "Id": "101307"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Mar 9, 2021, 8:31\u202FAM",
+      "Body": "The expired certificate error has returned.",
+      "Id": "101808"
+    },
+    {
+      "Author": "tksolway",
+      "Date": "Sep 21, 2021, 2:55\u202FPM",
+      "Body": "I love Amaranth, and have used it for years. That being said, I've noticed that there is a lack of updates 5e stuff. Is this a time issue, or something else? I have a feeling that there would be some in the community interested in donating their time to help keep Amaranth up to date (I know I could).",
+      "Id": "103238"
+    },
+    {
+      "Author": "lewho",
+      "Date": "Nov 13, 2022, 10:13\u202FPM",
+      "Body": "Cards from Fifth Edition sets are implemented and are also visible in Amaranth layout (which is amazing) in deckbuilder. However - they cannot be exported to PDF in new layout. Old cards show up but the new cards are ommited. Also - if the deck contains only new cards Amaranth is unable to generate PDF. I attach a screenshot of that.\n\nOld card frames export to PDF just fine.",
+      "Id": "106812"
+    }
+  ]
+}

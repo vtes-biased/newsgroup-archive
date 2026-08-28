@@ -1,0 +1,140 @@
+{
+  "ThreadId": "vekn-79337",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79337-eluding-the-arms-of-morpheus-after-block-declare",
+  "Title": "eluding the arms of morpheus - AFTER block declare",
+  "Messages": [
+    {
+      "Author": "gotcha",
+      "Date": "Sep 20, 2021, 10:21\u202FPM",
+      "Body": "vamp A acts, vampire B plays eyes of argus and intercept card, declaring attempt to block.\nno more modifiers are played and vamp A says blocked. Can vamp B still play eluding?\n\nTo me this is obvious but Miller failed to see my point. Can someone explain this game technical - impulse -wise to us?\n\nThanks",
+      "Id": "103211"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 21, 2021, 7:46\u202FAM",
+      "Body": "> gotcha wrote:\n> vamp A acts, vampire B plays eyes of argus and intercept card, declaring attempt to block.\n> no more modifiers are played and vamp A says blocked. Can vamp B still play eluding?\n>\n> To me this is obvious but Miller failed to see my point. Can someone explain this game technical - impulse -wise to us?\n>\n> Thanks\n>\nI believe the answer is no.. Basically in any specific timing window in the game, the acting player plays their cards; then defending player gets to play their cards; then the other players get to play their cards in clockwise order. The cycle restarts only if acting player plays a card.\n\nSo because player A didn't play cards and instead declared that they were blocked, I believe defending player doesn't get to play any more cards in that timing window, and instead you move to resolving blocks.\n\nEluding has to be played prior to a successful block, because it forces you to attempt to block. In this game you cannot attempt something you are unable to do. You can play eluding only if a blocking opportunity exists.\n\nI struggle to find a good explanation to this from the BCP rulebook however... its handling of timing windows is haphazard at best.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103216"
+    },
+    {
+      "Author": "gotcha",
+      "Date": "Sep 21, 2021, 8:03\u202FAM",
+      "Body": "Exactly how I thought of it ... thanks - )",
+      "Id": "103218"
+    },
+    {
+      "Author": "Legion",
+      "Date": "Sep 21, 2021, 8:54\u202FAM",
+      "Body": "> gotcha wrote:\n> vamp A acts, vampire B plays eyes of argus and intercept card, declaring attempt to block.\n> no more modifiers are played and vamp A says blocked. Can vamp B still play eluding?\n>\n> To me this is obvious but Miller failed to see my point. Can someone explain this game technical - impulse -wise to us?\n>\nPlayer A play all cards he wants and pass the impulse to player B.\n- Player B plays eyes of argus and intercept card and pass the impulse to A.\n- Player A pass.\nas both players passed the action moves to the next step. Action is blocked. Action resolves unsuccessfully -> resolve the block.\nThere is no window to play eluding the arms of morpheus.",
+      "Id": "103221"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 21, 2021, 10:37\u202FAM",
+      "Body": "> Bloodartist wrote:\n>\n> > gotcha wrote:\n> > vamp A acts, vampire B plays eyes of argus and intercept card, declaring attempt to block.\n> > no more modifiers are played and vamp A says blocked. Can vamp B still play eluding?\n> >\n> I believe the answer is no..\n> So because player A didn't play cards and instead declared that they were blocked, I believe defending player doesn't get to play any more cards in that timing window, and instead you move to resolving blocks.\n>\nNo. The block resolves once all players have passed the impulse (including A and B). After all, C could lock a Monastery of Shadows to give A more stealth. Or D could play a Draba.\n\nSo after A has declined to play more cards, B has the impulse and can play Eluding the Arms of Morpheus with the blocking vampire. The impulse then goes back to A.\n\n> Bloodartist wrote:\n> Eluding has to be played prior to a successful block, because it forces you to attempt to block. In this game you cannot attempt something you are unable to do. You can play eluding only if a blocking opportunity exists.\n>\nA minion who is attempting to block can attempt to block \"more\".\n\nSee also the other topic www.vekn.net/forum/rules-questions/76321-can-a-vampire-use-multiple-attempt-to-block-effects?start=24#103230\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103231"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 21, 2021, 11:27\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> No. The block resolves once all players have passed the impulse (including A and B). After all, C could lock a Monastery of Shadows to give A more stealth. Or D could play a Draba.\n>\nI was under impression from the topic post, that player B had already passed impulse, player A had declared block successful, and then player B tried to play eluding.\n\n> no more modifiers are played and vamp A says blocked. Can vamp B still play eluding?\n>\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103247"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 22, 2021, 6:24\u202FAM",
+      "Body": "> Bloodartist wrote:\n> I was under impression from the topic post, that player B had already passed impulse, player A had declared block successful, and then player B tried to play eluding.\n>\n\"no more modifiers are played\" => that means A passes the impulse. But B has not yet. And B wants to play Eluding, which is legal.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103251"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 22, 2021, 7:05\u202FAM",
+      "Body": "Im not disagreeing with the ruling but...\n\ndigi zoom\n\n> vamp A says blocked\n>\nThey can't say blocked unless B has passed the impulse.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103252"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Sep 22, 2021, 7:36\u202FAM",
+      "Body": "The thing is... vamp A is not the one to say \"blocked\".\n\nWhat happens is as follows: Vamp A plays cards then passes impulse. Vamp B plays a wake. Impulse goes back to A, who passes again. B plays intercept. Impulse goes back to A. This is the point, where people usually say \"blocked\". However, what has to happen is that A passes the impulse again, and then B has to pass. Only at that point the action is actually blocked, and no more cards can be played.\n\nSo actually, there is no way for A to prevent B from playing another card by saying \"blocked\" - doing so is not an action defined in the rulebook with any meaning. Both players have to agree on this, if B wants to play a card they can still do so if A has decided not to do it.\n\nPrince of Bonn, Germany",
+      "Id": "103255"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 22, 2021, 9:31\u202FAM",
+      "Body": "> Yomyael wrote:\n> The thing is... vamp A is not the one to say \"blocked\".\n>\n> So actually, there is no way for A to prevent B from playing another card by saying \"blocked\" - doing so is not an action defined in the rulebook with any meaning. Both players have to agree on this, if B wants to play a card they can still do so if A has decided not to do it.\n>\nActually, they are. They do that by saying they won't play any more stealth and they are blocked. Yes, player B can play any amount of cards in a row, but then they must pass impulse. Then player A says they wont play any more cards and they are blocked. After that the action resolves unsuccesfully and block must be resolved. This must happen with every action...\n\nSure, player A can't interject player B by crying \"wait! Im blocked! You cant play any more cards!\" But I wasnt talking about that. In every successful block player B must pass impulse and player A says they are blocked (or they continue playing stealth/blockfail). Its the choice of player A whether they play more stealth.\n\nI simply interpreted the topic post saying \"Player A says blocked\" as player B having passed impulse.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "103257"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Sep 22, 2021, 11:43\u202FAM",
+      "Body": "From the rulebook:\n\nNote that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to use the next card or effect.\n\nNo, player B cannot play any amount of cards. After each single card, opportunity to play a card passes back to player A. Always. So at the point when there is enough intercept played and player A usually says \"blocked\", player B has not passed.\n\nPrince of Bonn, Germany",
+      "Id": "103260"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 22, 2021, 12:45\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > Yomyael wrote:\n> > The thing is... vamp A is not the one to say \"blocked\".\n> >\n> > So actually, there is no way for A to prevent B from playing another card by saying \"blocked\" - doing so is not an action defined in the rulebook with any meaning. Both players have to agree on this, if B wants to play a card they can still do so if A has decided not to do it.\n> >\n> Actually, they are. They do that by saying they won't play any more stealth and they are blocked. Yes, player B can play any amount of cards in a row, but then they must pass impulse.\n>\nIncorrect, as Yomyael pointed out.\n>\n> Bloodartist wrote:\n> Then player A says they wont play any more cards\n>\nThey can do that.\n>\n> Bloodartist wrote:\n> and they are blocked.\n>\nThis is however not true. C could for instance give stealth by using a Monastery of Shadows.\n\nUsually, when the acting Methuselah says \"I'm blocked\", they really mean \"I don't play other cards\".\nUsually, it results in the acting minion being blocked, but it's shortcut that can be invalid.\n>\n> Bloodartist wrote:\n> In every successful block player B must pass impulse and player A says they are blocked (or they continue playing stealth/blockfail). Its the choice of player A whether they play more stealth.\n>\nNot only A's choice. Other players can play cards.\n>\n> Bloodartist wrote:\n> I simply interpreted the topic post saying \"Player A says blocked\" as player B having passed impulse.\n>\nIt wouldn't make sense that B passes the impulse instead of playing the card the question is about. It's not as if B says \"I'm blocked\" and \"oh wait I want to play a card\".\n\nAnyway, the answer is clear: B can play Eluding after A has declined to play any more effects.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103265"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Sep 22, 2021, 1:07\u202FPM",
+      "Body": "> Yomyael wrote:\n> From the rulebook:\n>\n> Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to use the next card or effect.\n>\n> No, player B cannot play any amount of cards. After each single card, opportunity to play a card passes back to player A. Always. So at the point when there is enough intercept played and player A usually says \"blocked\", player B has not passed.\n>\nThe important part, the action is not sucesfully or unsucesfulyl blocked until both players pass directly after one another, until then both players can play cards as needed or wanted.\nOnly when player A and Palyer B pass, directly after one another, the block attempts reach the next stage.",
+      "Id": "103268"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 22, 2021, 1:50\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > Yomyael wrote:\n> > From the rulebook:\n> >\n> > Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to use the next card or effect.\n> >\n> > No, player B cannot play any amount of cards. After each single card, opportunity to play a card passes back to player A. Always. So at the point when there is enough intercept played and player A usually says \"blocked\", player B has not passed.\n> >\n> The important part, the action is not sucesfully or unsucesfulyl blocked until both players pass directly after one another, until then both players can play cards as needed or wanted.\n> Only when player A and Palyer B pass, directly after one another, the block attempts reach the next stage.\n>\nAll Methuselahs need to pass, not only A and B.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103270"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 22, 2021, 2:08\u202FPM",
+      "Body": "> gotcha wrote:\n> vamp A acts, vampire B plays eyes of argus and intercept card, declaring attempt to block.\n> no more modifiers are played and vamp A says blocked. Can vamp B still play eluding?\n>\nIn moment when vamp A says blocked,if there A have impulse only for stealt cards or him can play other cards too? for example,A think how is blocked and play Change of Target (game mechanic work in this way in practice).\nChange of Target\nOnly usable if this minion is blocked, before block resolution.\nUnlock this minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.",
+      "Id": "103271"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Sep 22, 2021, 2:29\u202FPM",
+      "Body": "When the action is effectively blocked (because everyone has passed to play anything and the intercept match the stealth), there is a new opportunity to play effects.\n\nIt is the window to play Change of Target or Mental Maze for example.",
+      "Id": "103272"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Sep 22, 2021, 3:57\u202FPM",
+      "Body": "> Non-existant user wrote:\n> In moment when vamp A says blocked,if there A have impulse only for stealt cards or him can play other cards too? for example,A think how is blocked and play Change of Target (game mechanic work in this way in practice).\n>\nA thinking that they're blocked because they don't want to play more stealth and actually being blocked because everyone passes the impulse are different. To Ankha's point earlier: saying you're blocked is really short-hand for saying I pass the impulse. Perhaps most of the time this is true in that others don't want to cycle cards if the block would be successful, but there are times when B (or anyone else) might decided to play a card or effect.\n\nSo, no A can't claim to be blocked and then play Change of Target. A has to _actually_ be blocked before playing Change of Target.",
+      "Id": "103274"
+    },
+    {
+      "Author": "lip",
+      "Date": "Sep 26, 2021, 12:12\u202FAM",
+      "Body": "> Timo wrote:\n> When the action is effectively blocked (because everyone has passed to play anything and the intercept match the stealth), there is a new opportunity to play effects.\n>\n> It is the window to play Change of Target or Mental Maze for example.\n>\nQuick question about that one: can other modifiers be played in this window? For example, can you wait for the block to be effective (C has not used their Monastery of Shadows) before you play for example Inspire Greatness? Preventing C to finally decide to add stealth with Monastery of Shadows, since the action is blocked already?\n\nInspire Greatness",
+      "Id": "103316"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 26, 2021, 6:50\u202FAM",
+      "Body": "> lip wrote:\n>\n> > Timo wrote:\n> > When the action is effectively blocked (because everyone has passed to play anything and the intercept match the stealth), there is a new opportunity to play effects.\n> >\n> > It is the window to play Change of Target or Mental Maze for example.\n> >\n> Quick question about that one: can other modifiers be played in this window? For example, can you wait for the block to be effective (C has not used their Monastery of Shadows) before you play for example Inspire Greatness? Preventing C to finally decide to add stealth with Monastery of Shadows, since the action is blocked already?\n>\n> Inspire Greatness\n>\nI beleive you can. so first anounce action,play action card(if have action card),play cards who are played after action announced,and they you can play any cards to modifi action",
+      "Id": "103317"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Sep 26, 2021, 8:04\u202FAM",
+      "Body": "> beslin igor wrote:\n>\n> > lip wrote:\n> >\n> > > Timo wrote:\n> > > When the action is effectively blocked (because everyone has passed to play anything and the intercept match the stealth), there is a new opportunity to play effects.\n> > >\n> > > It is the window to play Change of Target or Mental Maze for example.\n> > >\n> > Quick question about that one: can other modifiers be played in this window? For example, can you wait for the block to be effective (C has not used their Monastery of Shadows) before you play for example Inspire Greatness? Preventing C to finally decide to add stealth with Monastery of Shadows, since the action is blocked already?\n> >\n> > Inspire Greatness\n> >\n> I beleive you can. so first anounce action,play action card(if have action card),play cards who are played after action announced,and they you can play any cards to modifi action\n>\nI don\u00B4t think you can normally play additional action modifiers and/or reactions after block has been confirmed as one would normally be in the block resolution step, the exception to this are the cards that have the text like \"Only usable if this minion is blocked, before block resolution.\" or \"Only usable if this vampire blocks an employ retainer action, before block resolution.\" where only cards that are played in this time windows (between block confirmation and block resolution) are allowed.\n\nChange of Target\n\nSet's Call",
+      "Id": "103321"
+    },
+    {
+      "Author": "lip",
+      "Date": "Sep 26, 2021, 10:07\u202FAM",
+      "Body": "That makes sense to me. I would expect all cards playable in that window to actually end the action one way or the other as an effect - it would be weird to have a separated window for modifiers/effects/reaction where you cannot play stealth or intercept anymore, but nonetheless continue with the action / combat.",
+      "Id": "103327"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 26, 2021, 11:37\u202FAM",
+      "Body": "> lip wrote:\n>\n> > Timo wrote:\n> > When the action is effectively blocked (because everyone has passed to play anything and the intercept match the stealth), there is a new opportunity to play effects.\n> >\n> > It is the window to play Change of Target or Mental Maze for example.\n> >\n> Quick question about that one: can other modifiers be played in this window? For example, can you wait for the block to be effective (C has not used their Monastery of Shadows) before you play for example Inspire Greatness? Preventing C to finally decide to add stealth with Monastery of Shadows, since the action is blocked already?\n>\nNo, action modifiers and reactions must be played before the action resolution (except noted otherwise, for instance Change of Target or Mental Maze).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103333"
+    }
+  ]
+}

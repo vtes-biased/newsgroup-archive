@@ -1,0 +1,152 @@
+{
+  "ThreadId": "vekn-77075",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77075-sequencing-and-checking-for-triggers",
+  "Title": "Sequencing and checking for triggers",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Oct 12, 2018, 7:32\u202FAM",
+      "Body": "Greets!\n\nIn the Phases of VtES we can sequence our effects as we like, in most cases. But do we get to negate triggers of cards by doing so? I think we cannot, but here is an example:\n\nI have Antediluvians Awakening and Judgment: Camarilla Segregation in play, and my Prey has a Non-Camarilla vampire with a capacity above 3. I pass the turn. Does he get to negate J:CS's trigger by queueing it AFTER he burnt his non-cam vamp to Antediluvian?\n\nI believe one cannot deny cards checking for triggering, you can only sequence thier effects, but waiting on a confirmation here\n\n> Antediluvian Awakening\n> [DS:U2, SW:PV, HttB:PGar]\n> Cardtype: Master\n> Unique master.\n> Put this card in play. During each Methuselah's unlock phase, he or she burns 1 pool, or he or she may burn a vampire he or she controls with a capacity 4 or more to burn this card.\n> Artist: Ron Spencer; Gary Chatterton\n>\n> Judgment: Camarilla Segregation\n> [DS:U, CE:R2]\n> Cardtype: Action\n> Cost: 1 blood\n> Requires a ready prince or justicar. +1 stealth action.\n> Put this card in play. Each Methuselah controlling a non-Camarilla vampire burns 1 pool during his or her unlock phase. Any Methuselah may burn this card by burning a non-Camarilla vampire he or she controls during his or her master phase.\n> Artist: Richard Kane Ferguson\n>\nNC of Hungary\n\n///",
+      "Id": "91157"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 12, 2018, 10:25\u202FAM",
+      "Body": "Yes he can negate the damage from AA by burning a vampire in his untap phase to burn the AA. (can't do this with camarilla segregation though since for that you burn a vampire in master phase while the damage happens in untap). Further, the card text of AA even directly says that you either burn a pool OR burn a vampire to burn the AA.",
+      "Id": "91160"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Oct 12, 2018, 10:32\u202FAM",
+      "Body": "Please read my question more thoroughly!  I did not ask for any of these answers you provided, but it might be my English.\n\nNC of Hungary\n\n///",
+      "Id": "91161"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 12, 2018, 10:53\u202FAM",
+      "Body": "Ah well yes if he controls no non-camarilla vampires after burning his vampire to AA, then he gets to avoid burning pool for cam seg. How it works is that you cannot leave your untap phase with any effects that require you to do something unresolved, but if the condition for that effect disappears, then the effect is no longer requiring you to do anything and you can move forward.\n\nHere is how it actually happens.\n\nHe starts his untap phase, untaps all his cards, then checks for effects that happen during untap phase, for simplicity's sake let's say there is no other effects but these two.\n\nFirst, he chooses to resolve Antediluvian Awakening, burning his vampire to burn the AA.\nSecond he chooses to resolve Camarilla Seg, that checks that he does not control any non-camarilla vampires and thus does nothing.\nThen he moves on to his master phase with no unresolved untap phase effects.\n\nThe camarilla seg effect isn't denied from triggering, it just does not do anything since he does not control non-cam vampire when he triggers it.",
+      "Id": "91162"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Oct 12, 2018, 11:15\u202FAM",
+      "Body": "But that is what worries me, your explanation feels off. I understand you can sequence the actual effects, like gaining a pool for the Edge before burnin pool for something in your untap phase, using Vessels, etc... But can you actually deny a card checking by sequencing it rather then immediately checking as you are in your untap phase? There is a difference between chosing the order of resolving these effects and checking their triggers, I think you cannot juggle with that.\n\nI'm forcing the subject because I vaguely remember a post I cannot find now, where it was the case with a vampire in torpor in the untap phase. It had a Fame and a Renewed Vigor on it, as I can recall, Fame triggered nonetheless of the untap rescue of Renewed Vigor and the pool damage had to be taken.\n\n> Fame\n> [Jyhad:U, VTES:U, SW:PB, CE:PB, Anarchs:PG, BH:PN2, KMW:PAl, Third:PTz, KoT:U/PT2, HttB:PGar/PSal]\n> Cardtype: Master\n> Unique master.\n> Put this card on a ready vampire. If this vampire goes to torpor, his or her controller burns 3 pool. While this vampire is in torpor, each Methuselah burns 1 pool during his or her unlock phase.\n> Artist: Kaja Foglio; Brian LeBlanc\n>\n> Renewed Vigor\n> [BL:C2, LoB:C]\n> Cardtype: Action\n> Cost: 1 blood\n> Discipline: Obeah/Fortitude\n> +1 stealth action.\n> [for] Put this card on this acting vampire. During your unlock phase, if this vampire is in torpor, you can burn this card to move him or her to your ready region. A vampire can have only one Renewed Vigor.\n> [obe] Move a vampire in torpor to his controller's ready region, or restore an ally or retainer to his or her starting life (with life counters from the blood bank).\n> [OBE] Choose any other vampire. That vampire gains enough blood from the blood bank to reach full capacity.\n> Artist: Becky Cloonan\n>\nNC of Hungary\n\n///",
+      "Id": "91164"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Oct 12, 2018, 12:39\u202FPM",
+      "Body": "So you are basically asking do the \"effects go in stack\" like they would in magic the gathering. Afaik the answer is no(?) and the case you referred to seems to have been ruled wrongly...?\n\nI am fairly certain that if you would take damage from fame, there are some other contradictory rulings elsewhere waiting...\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "91165"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Oct 12, 2018, 1:40\u202FPM",
+      "Body": "A bit off track from OP, but what if the \"burn during master phase\" of Camarilla segregation instead was \"burn during untap\". Could you then burn one (1) vamp to burn both the AA and the camarilla segregation cards?\n\nLackeyname: Kris",
+      "Id": "91166"
+    },
+    {
+      "Author": "DJHedgehog",
+      "Date": "Oct 12, 2018, 1:45\u202FPM",
+      "Body": "> Khaan wrote:\n> A bit off track from OP, but what if the \"burn during master phase\" of Camarilla segregation instead was \"burn during untap\". Could you then burn one (1) vamp to burn both the AA and the camarilla segregation cards?\n>\nNo. Burning a vampire is a cost.\n\nYou can layer your untap however you want. That means that you would check each card individually in the order of your choice. If you burn the non-cam vampire and have no other non-cam vamps then you would check the card as part of your untap and not meet its requirements.",
+      "Id": "91167"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 14, 2018, 5:00\u202FPM",
+      "Body": "> Bloodartist wrote:\n> So you are basically asking do the \"effects go in stack\" like they would in magic the gathering. Afaik the answer is no(?) and the case you referred to seems to have been ruled wrongly...?\n>\n> I am fairly certain that if you would take damage from fame, there are some other contradictory rulings elsewhere waiting...\n>\nI am pretty sure it can be handle like that.\n\nBUT, you could if you wanted for some special trick decide to burn a pool for camarilla segregation and then burn your vamp and AA.",
+      "Id": "91190"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 16, 2018, 1:44\u202FPM",
+      "Body": "> Klaital wrote:\n> He starts his untap phase, untaps all his cards, then checks for effects that happen during untap phase, for simplicity's sake let's say there is no other effects but these two.\n>\n> First, he chooses to resolve Antediluvian Awakening, burning his vampire to burn the AA.\n> Second he chooses to resolve Camarilla Seg, that checks that he does not control any non-camarilla vampires and thus does nothing.\n> Then he moves on to his master phase with no unresolved untap phase effects.\n>\n> The camarilla seg effect isn't denied from triggering, it just does not do anything since he does not control non-cam vampire when he triggers it.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "91215"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Oct 16, 2018, 3:12\u202FPM",
+      "Body": "Its called the Unlock Phase now.\n\n(Hugh is going to beat me up for this...)",
+      "Id": "91217"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 21, 2019, 6:49\u202FAM",
+      "Body": "If Malkav play Derange on Anarch vampire and take him next turn with Malkavian Dementia,and Anarch Revolt is in play and this player have only 1 pool,In next unlock him can decide to die and remove from play this Derange Anarch vampire before him give vampire back to controler right?\nBut whu Derange vampire not stay Anarch,text on Derange dont say to you change sect(but i know from other topic to vampire with Derange change sect also)?\n\nName: Derange\n[Sabbat:R, CE:R, Third:R]\nCardtype: Action\nClan: Malkavian/Malkavian antitribu\nThis is a +1 stealth action.\nPut this card on a younger vampire. The vampire with this card is considered to be the same clan as the acting vampire. The vampire with this card does not unlock as normal. During his or her controller's unlock phase, he or she may burn 1 blood to unlock. The vampire with this card may move it to another vampire as a  action. This card cannot be placed on a Malkavian or Malkavian antitribu.\n\nName: Malkavian Dementia\n[Jyhad:U, VTES:U]\nCardtype: Master\nMaster.\nTake control of a ready Malkavian that another Methuselah controls until your next unlock phase.",
+      "Id": "97048"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 21, 2019, 10:10\u202FAM",
+      "Body": "> beslin wrote:\n> If Malkav play Derange on Anarch vampire and take him next turn with Malkavian Dementia,and Anarch Revolt is in play and this player have only 1 pool,In next unlock him can decide to die and remove from play this Derange Anarch vampire before him give vampire back to controler right?\n>\nIncorrect.\n\nMalkavian Dementia's text says that you have control of that vampire 'until' your next unlock phase. It's not \"And give it back during your next untap phase\".\n\nwww.vekn.net/card-rulings/card-rulings-g-to-o\nYou lose control of that Malkavian when you start your untap phase. This is not an untap effect that you order among your other untap effects; it happens when the phase begins. You do not untap the Malkavian [RTR 19951017]\n\nAnd the vampire isn't a Deranged Anarch. If they're Deranged, they'll be either Camarilla (for Malkavian) or Sabbat (for antitribu), not Anarch.\n\n> beslin wrote:\n> But whu Derange vampire not stay Anarch,text on Derange dont say to you change sect(but i know from other topic to vampire with Derange change sect also)?\n>\nWhen you change clan to a different clan, you take the default sect of that clan. Derange doesn't restate this, but since it's the rules, it happens.\n\nwww.vekn.net/rulebook\n10. [...] If a vampire changes clans (by means of a Clan Impersonation card, for example) to a clan that belongs to a different sect, he changes sects as well.\n\nSo a vampire who is Anarch who becomes Malkavian (from Derange) also becomes Camarilla.\n\nWhen (if) the vampire loses the Derange and changes clan, they become whatever the default sect is for their new clan - whatever that is. They do not resume being Anarch.",
+      "Id": "97051"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Sep 21, 2019, 10:39\u202FAM",
+      "Body": "Tnx James so if i good understand if example Stanislava as Camarila Inner Circle with Derange become Malkav,after she move Derange she become Indenpendent,is default Gangrel sect right?\n\nBut what about:\nName: Giangaleazzo, The Traitor\n[Gehenna:U]\nCardtype: Vampire\nClan: Lasombra\nGroup: 4\nCapacity: 8\nDiscipline: dom OBT POT PRE\nCamarilla Prince of Milan: Any Lasombra controlled by another Methuselah can enter combat with Giangaleazzo as a  action. During your discard phase, if there are any Gehenna cards in play, Giangaleazzo can burn a blood to unlock.\n\ni beleive him become Lasombra sabbat and lose title,right?",
+      "Id": "97052"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 21, 2019, 2:05\u202FPM",
+      "Body": "> beslin wrote:\n> Tnx James so if i good understand if example Stanislava as Camarila Inner Circle with Derange become Malkav,after she move Derange she become Indenpendent,is default Gangrel sect right?\n>\nYes. And Lucita (Independent Lasombra by text, but Camarilla Malkavian because of Derange) becomes a Sabbat Malkavian when she loses her Derange.\n\n> beslin wrote:\n> i beleive him become Lasombra sabbat and lose title,right?\n>\nThe title goes inert, but isn't fully lost. If he found some way of becoming Camarilla again, he could resume being Prince.",
+      "Id": "97053"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Sep 21, 2019, 9:32\u202FPM",
+      "Body": "Didn't realize this was well answered, nvm.",
+      "Id": "97054"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jun 16, 2020, 4:45\u202FPM",
+      "Body": "What happen if you have Army of Rats in play?\nYou have one pool,you prey have one pool too.\nYou vampire is in torpor and Fame is in play,or in play is Anarch Revolt and you dont have anarch.\nCan you chose to resolve Army of Rats,oust you prey,then resolve other stuff,or you dont have impulse for Army of Rats,maybe Army of Rats count as impulse to you prey and when him get impulse him need to burn pool. I ask that about impulse because of Owain rule groups.google.com/forum/#!msg/rec.games.trading-cards.jyhad/0u5KQWiutdg/lAZoy4vIwiIJ\n\nArmy of Rats\n+1 stealth action.\n\ni Put this card in play. During your unlock phase, your prey burns 1 pool. You can burn only 1 pool each turn with Army of Rats cards. Any minion can burn this card as a \u24B9 action.",
+      "Id": "100111"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 16, 2020, 5:17\u202FPM",
+      "Body": "> beslin wrote:\n> What happen if you have Army of Rats in play?\n> You have one pool,you prey have one pool too.\n> You vampire is in torpor and Fame is in play,or in play is Anarch Revolt and you dont have anarch.\n> Can you chose to resolve Army of Rats,oust you prey,then resolve other stuff\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100112"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Dec 10, 2020, 10:29\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > beslin wrote:\n> > Tnx James so if i good understand if example Stanislava as Camarila Inner Circle with Derange become Malkav,after she move Derange she become Indenpendent,is default Gangrel sect right?\n> >\n> Yes. And Lucita (Independent Lasombra by text, but Camarilla Malkavian because of Derange) becomes a Sabbat Malkavian when she loses her Derange.\n>\n> > beslin wrote:\n> > i beleive him become Lasombra sabbat and lose title,right?\n> >\n> The title goes inert, but isn't fully lost. If he found some way of becoming Camarilla again, he could resume being Prince.\n>\nSo with rule changes about default clan/sect there,we have diferent answer. so every vampire have his own sect.\nso with new rules when Stanislava move Derange she become again Camarila Gangrel Inner Circle.\nGiangaleazzo, The Traitor when move Derange him become again Camarilla Prince of Milan.\nLucita(basic) when move Derange become Independent Lasombra,correct?",
+      "Id": "101237"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 11, 2020, 7:47\u202FAM",
+      "Body": "We also have the fact that the online card text of derange does not change the sect of the target vampire.\n\nSo what happen if a Camarilla malkavian puts a derange on a sabbat titled vampire ? (let's say a Lasombra archbishop)\n\nName: Derange\n[Sabbat:R, CE:R, Third:R]\nCardtype: Action\nClan: Malkavian/Malkavian antitribu\nThis is a +1 stealth action.\nPut this card on a younger vampire. The vampire with this card is considered to be the same clan as the acting vampire. The vampire with this card does not unlock as normal. During his or her controller's unlock phase, he or she may burn 1 blood to unlock. The vampire with this card may move it to another vampire as a  action. This card cannot be placed on a Malkavian or Malkavian antitribu.\nArtist: Eric LaCombe",
+      "Id": "101239"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 11, 2020, 8:39\u202FAM",
+      "Body": "> beslin wrote:\n> So with rule changes about default clan/sect there,we have diferent answer. so every vampire have his own sect.\n> so with the new rules, when Stanislava moves Derange to someone else, she becomes Camarila Gangrel Inner Circle again.\n>\nCorrect.\n>\n> beslin wrote:\n> When Giangaleazzo, The Traitor moves Derange to someone else, he becomes Camarilla Prince of Milan again.\n>\nCorrect.\n>\n> beslin wrote:\n> When Lucita (basic) moves Derange to someone else, she becomes Independent Lasombra again.\n>\nCorrect.\n\n> Timo wrote:\n> We also have the fact that the online card text of derange does not change the sect of the target vampire.\n>\nCorrect.\n\n> Timo wrote:\n> So what happen if a Camarilla malkavian puts a derange on a sabbat titled vampire ? (let's say a Lasombra archbishop)\n>\nThe Lasombra Sabbat archbishop becomes Malkavian Sabbat archbishop.\n\nBasically, the vampire's clan changes, but not the sect.\n\nSince Derange does not explicitely change the sect of the vampire and there is no default sect anymore, the following rulings are REVERSED:\n\n[LSJ 20030225] groups.google.com/g/rec.games.trading-cards.jyhad/c/6PHVlL-2zf0/m/6yJbIMt5U-QJ\n[LSJ 19990924] groups.google.com/g/rec.games.trading-cards.jyhad/c/eCgIHdqC--I/m/y2-GFWQ6aJwJ\n[LSJ 20010924] groups.google.com/g/rec.games.trading-cards.jyhad/c/ol2w-WY01dg/m/xjT7ekWcUO0J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101240"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Dec 11, 2020, 9:19\u202FAM",
+      "Body": "So this is effectively a nerf for derange ?",
+      "Id": "101242"
+    },
+    {
+      "Author": "lip",
+      "Date": "Dec 11, 2020, 4:07\u202FPM",
+      "Body": "The point was to simplify the clan and sect concepts. It has begun with changing Anarch to a sect, then making it so that Embrace creates vampires of the same sect.\n\nNow this rule change (that had been announced since ages) is the last piece. The fact that it decreases Derange effectiveness is a side-effect, not an objective. All cards allowing clan changes are affected, so Clan Impersonation, for example, would let you have Guruhi switching to Ventrue Kholo and using Ventrue Headquarters.\n\nSo I wouldn't say it is effectively a Derange nerf. It is nerfing Derange as a side-effect, sure. Also, it simplifies it: one does not need to know obscure rulings anymore to figure out what the card does. So, as simplification goes, target reached \u263A\uFE0E",
+      "Id": "101245"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Jan 7, 2021, 3:36\u202FPM",
+      "Body": "yeah I understand that.\n\nBut maybe, Derange could have been modified to say :\n\"The vampire with this card is considered to be the same clan and the same sect as the acting vampire.\"\n\nNevertheless it is no big deal. (except it would have meant a reprint of this scarce card )",
+      "Id": "101381"
+    }
+  ]
+}

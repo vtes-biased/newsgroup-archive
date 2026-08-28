@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-77581",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77581-action-modifiers-played-at-beginning-and-end-of-an-action",
+  "Title": "Action Modifiers Played at Beginning and End of an Action",
+  "Messages": [
+    {
+      "Author": "Killiam",
+      "Date": "Apr 24, 2019, 10:44\u202FPM",
+      "Body": "Some disagreements recently arose having to do with the timing windows for playing action modifiers:\n\n1. Is a Methuselah permitted to play an action modifier during the as-announced window of action declaration, assuming said modifier does not specify when it is to be played?\n1a. For instance, could I play a Conditioning as I declare a bleed in the hopes of drawing into and playing a Seduction afterward?\n\n2. Freak Drive specifies that it is played \u201Cat the end\u201D of an action. Once Freak Drive has been played, can other action modifiers be played afterward?\nFor example:\n2a. Can I play Daring the Dawn after Freak Drive?\n2b. Can I play Voter Captivation after Freak Drive?\n\nThanks!\n-Bill\n\nName: Seduction\nCardtype: Action Modifier\nDiscipline: Dominate\nOnly usable as the action is announced.\n[dom] Choose a younger vampire. The chosen vampire cannot block this action.\n[DOM] As above, but choose any vampire.\n\nName: Conditioning\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Dominate\nOnly usable during a bleed action.\n[dom] +2 bleed (limited).\n[DOM] +3 bleed (limited).\n\nName: Freak Drive\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Fortitude\n[for] Only usable at the end of a successful action (after resolving the action). This vampire unlocks.\n[FOR] As above, but usable even if the action is blocked (play after combat, if any).\n\nName: Daring the Dawn\nCardtype: Action Modifier\nDiscipline: Fortitude\n[for] Vampires cannot block this action. The acting vampire takes 2 unpreventable aggravated damage after the action resolves.\n[FOR] As above, but the acting vampire takes 1 unpreventable aggravated damage.\n\nName: Voter Captivation\nCardtype: Action Modifier\nDiscipline: Presence\nOnly usable after resolving a successful referendum called by this acting vampire.\nThe acting vampire gains X blood from the blood bank, where X is the number of votes by which the referendum passed.\nAs above, but move up to 2 of those blood counters to your pool instead of this vampire.\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "94651"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 25, 2019, 7:20\u202FAM",
+      "Body": "> Killiam wrote:\n> Some disagreements recently arose having to do with the timing windows for playing action modifiers:\n>\n> 1. Is a Methuselah permitted to play an action modifier during the as-announced window of action declaration, assuming said modifier does not specify when it is to be played?\n> 1a. For instance, could I play a Conditioning as I declare a bleed in the hopes of drawing into and playing a Seduction afterward?\n>\nNo.\n\n> Killiam wrote:\n> 2. Freak Drive specifies that it is played \u201Cat the end\u201D of an action. Once Freak Drive has been played, can other action modifiers be played afterward?\n>\nFreak Drive is played after action resolution. Other modifiers that are played after action resolution can be played.\n\n> Killiam wrote:\n> For example:\n> 2a. Can I play Daring the Dawn after Freak Drive?\n>\nNo. Daring the Dawn is not usable after action resolution. By default, action modifiers must be played before action resolution.\n\n> Killiam wrote:\n> 2b. Can I play Voter Captivation after Freak Drive?\n>\nYes, Voter Captivation is played \"after resolving a successful referendum\" which is the same window as \"after action resolution\" (since the end of the action resolution in that case is the end of the the resolution of the referendum).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94652"
+    },
+    {
+      "Author": "Killiam",
+      "Date": "Apr 25, 2019, 3:49\u202FPM",
+      "Body": "Thanks!\n\n-Killiam\n(Bill Troxel)  \"I look back from where I'm from\nLook at the woman I've become\nAnd the strangest things seem\nSuddenly routine\"\n-Hedwig Robinson",
+      "Id": "94668"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Apr 26, 2019, 8:43\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Killiam wrote:\n> > For example:\n> > 2a. Can I play Daring the Dawn after Freak Drive?\n> >\n> No. Daring the Dawn is not usable after action resolution. By default, action modifiers must be played before action resolution.\n>\nWow, it seems I have been playing Daring wrong in my chain of command deck, where I would blow up my chained minion after the bleed resolves to possess them back afterwards. Hmrph, I guess I need give my opponents a change to bounce the unblockable bleed after all.",
+      "Id": "94676"
+    }
+  ]
+}

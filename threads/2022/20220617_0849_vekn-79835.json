@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-79835",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79835-nonu-dis-and-during-x-do-y",
+  "Title": "Nonu Dis and \"During X, do Y\"",
+  "Messages": [
+    {
+      "Author": "pallando",
+      "Date": "Jun 17, 2022, 8:49\u202FAM",
+      "Body": "Hi,\n\nThere is the section wording templates in the rulebook that says, \"\u201CDuring X, do Y\u201D: The \u201Cduring X do Y\u201D template is used in several cards. When this template is used, only one Y can be done per X with this card.\".\n\nI believe this applies to Nonu Dis, but I'm not 100% certain because of the way Nonu is worded.\n\nCard text for reference:\nAnarch: If Nonu Dis is ready during your master phase, you can add 1 blood to a ready Minister you control after playing a master card. +1 bleed.\n\nCan Nonu add blood multiple times per master phase, every time a master card is played, or only once per master phase?\n\nBest regards,\npallando",
+      "Id": "105492"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 17, 2022, 10:07\u202FAM",
+      "Body": "> pallando wrote:\n> Can Nonu add blood multiple times per master phase, every time a master card is played, or only once per master phase?\n>\nOnly once per master phase. Because as you mention it uses the \"during x, do y\" template which means y is limited to be doable only once per x.\n\nIf Nonu Dis is ready (condition)\nduring your master phase, (during x,)\nyou can (makes the use optional)\nadd 1 blood to a ready Ministry you control (do y)\nafter playing a master card. (condition)",
+      "Id": "105493"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 17, 2022, 12:40\u202FPM",
+      "Body": "> inm8 wrote:\n>\n> > pallando wrote:\n> > Can Nonu add blood multiple times per master phase, every time a master card is played, or only once per master phase?\n> >\n> Only once per master phase. Because as you mention it uses the \"during x, do y\" template which means y is limited to be doable only once per x.\n>\n> If Nonu Dis is ready (condition)\n> during your master phase, (during x,)\n> you can (makes the use optional)\n> add 1 blood to a ready Ministry you control (do y)\n> after playing a master card. (condition)\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "105494"
+    },
+    {
+      "Author": "deslaure",
+      "Date": "Nov 16, 2023, 4:14\u202FPM",
+      "Body": "Can I play Blood Doll on a full of blood Nonu Dis, remove a blood to my pool\nwith Blood Doll and then use the Nonu Dis power and bring him back to full capacity?",
+      "Id": "109856"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 16, 2023, 4:30\u202FPM",
+      "Body": "No. The effect to add blood to a vampire you control is immediate. \"after\" means immediately after.",
+      "Id": "109857"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Nov 16, 2023, 4:43\u202FPM",
+      "Body": "if the Blood Doll had moved the blood as part of being put into play it would work, but as the playing of the Blood Doll and the moving of blood are separate the special of Nonu happens before you get to use the effect to move blood with the Blood Doll",
+      "Id": "109858"
+    }
+  ]
+}

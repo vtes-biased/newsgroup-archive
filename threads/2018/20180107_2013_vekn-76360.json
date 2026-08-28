@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-76360",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76360-ravnos-carnival",
+  "Title": "Ravnos Carnival",
+  "Messages": [
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 7, 2018, 8:13\u202FPM",
+      "Body": "Ravnos Carnival\nMaster\nRequires: Ravnos\n1 Pool\nMaster: unique location.\nPut X currency counters on this card when you play it, where X is the number of Ravnos you control. When a Ravnos you control performs an action, you may use these currency counters toward the cost in blood (but not pool) of the action card. Burn this card when the last counter is removed.\n\nIt's clear from the card text that a card is required. Confirmed by LSJ in a question about  cardless actions .\n\nI couldn't find a response about actions provided by a card in play. For example:\nTapestry of Blood\nEquipment\n1 Blood\nUnique equipment.\nThis vampire can look at the top three cards of any Methuselah's library and burn up to one of those as a +1 stealth action that costs 1 blood. If that action is successful, this vampire untaps at the end of the turn. This vampire gains 1 blood when a Gehenna event is played.\n\nSo, I can use Ravnos Carnival when playing Tapestry of Blood as it is an action card.\n\nBut, can I use Ravnos Carnival for the now-equipped Tapestry of Blood actions? It is an action provided by a card in play. Does a card in play meet the \"action card\" requirement of Ravnos Carnival?",
+      "Id": "84797"
+    },
+    {
+      "Author": "Kraus",
+      "Date": "Jan 8, 2018, 12:51\u202FPM",
+      "Body": "No references here, but i doubt it. Those costs are not the blood cost of the action, but the blood cost of a separate action PROVIDED by the action card.\n\nHope that makes sense? That is how i would interpret it.\n\n\"Oh, to the Hades with the manners! He's a complete bastard, and calling him that insults bastards everywhere!\"\n-Nalia De-Arnise\n\ngarourimgazette.wordpress.com/\nwww.vekn.net/forum-guidelines",
+      "Id": "84806"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Jan 8, 2018, 1:53\u202FPM",
+      "Body": "I agree with Kraus.\nWhen you perform an action granted by a card in play, you are not paying the cost of that card but the cost of the action granted by it instead.\n\nAlso, there is no reference in the rulebook about a card in play being an action card anymore. (Btw, they become again action cards when in the ash heap)\n\nLurking in the underground of Bologna, Italy",
+      "Id": "84807"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 8, 2018, 2:35\u202FPM",
+      "Body": "I'm pretty sure it's a no, as well, but the wording on Ravnos Carnival is just awful.",
+      "Id": "84810"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 9, 2018, 11:11\u202FAM",
+      "Body": "The \"cost in blood (but not pool) of the action card\" (that is Tapestry of Blood) only applies to the card when it is played (or needs to be repaid by cards such as Peace Treaty).\nThe action provided by the Tapestry of Blood has a different cost that can't be paid with the Ravnos Carnival.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "84826"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-78165",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78165-mask-of-1000-faces-aura-of-invincibility",
+  "Title": "Mask of 1000 Faces & Aura of Invincibility",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Dec 3, 2019, 3:22\u202FAM",
+      "Body": "I play an Anarch Revolt\nI lock Duck to Call a vote to burn the Anarch Revolt\nI play I play Aura of Invincibility on\nI play Mask of 1000 Faces\nI unlock Duck. I lock Dimple\nI play Aura of Invincibility on Dimple\nI play Mask of 1000 Faces.\nI unlock Dimple.\nI lock Hadrian Garrick\nI play Aura of Invincibility on Hadrian Garrick.\nThe vote passes\nDoes the Aura of Invincibility on Duck gain a counter?\nDoes the Aura of Invincibility on Dimple gain a counter?\nDoes the Aura of Invincibility on Hadrian Garrick gain a counter?\n\nMask of a Thousand Faces\nType: Action Modifier\nRequires: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Untap the acting minion and tap this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\n\nAura of Invincibility\nType: Action Modifier\nCost: 1 blood\nOnly usable during a referendum, before any votes and ballots are cast.\nIf this referendum passes, put this card on the acting vampire and put a counter on this card. This vampire gets an additional vote for each counter on this card in referendums he or she calls. Add a counter to this card when a referendum called by this vampire passes. If a referendum called by this vampire fails, burn this card and send this vampire to torpor. A vampire can have only one Aura of Invincibility.",
+      "Id": "98106"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Dec 3, 2019, 4:34\u202FAM",
+      "Body": "> XZealot wrote:\n> I play an Anarch Revolt\n> I lock Duck to Call a vote to burn the Anarch Revolt\n> I play I play Aura of Invincibility on\n> I play Mask of 1000 Faces\n> I unlock Duck. I lock Dimple\n> I play Aura of Invincibility on Dimple\n> I play Mask of 1000 Faces.\n> I unlock Dimple.\n> I lock Hadrian Garrick\n> I play Aura of Invincibility on Hadrian Garrick.\n> The vote passes\n> Does the Aura of Invincibility on Duck gain a counter?\n> Does the Aura of Invincibility on Dimple gain a counter?\n> Does the Aura of Invincibility on Hadrian Garrick gain a counter?\n>\nAura of Invincibility has to be played during a referendum, referendum is a result of a succesful vote action. Mask of a Thousand faces has long been declared to be a action modifier that cannot be played once action has started to resolve, succesfully or not (as there is no text on Mask saying it can be played during resolution or after succesful action, like Freak Drive).\n\ngroups.google.com/d/msg/rec.games.trading-cards.jyhad/g7N36pL8Gsk/YurxIfPsy7kJ\n>\n> LSJ wrote:\n> > LSJ wrote:\n> > > Delaying Tactics cannot be played until the action resolves (i.e.,\n> > > remains unblocked) due to the \"only usable during a political action\"\n> > > card text. As such, the acting minion is prohibited from taking\n> > > another political action this turn (by the NRA rule).\n> >\n> > I'm not sure it matters, but one *could* still Mask the action to another\n> > minion at the exact same point. (Right?)\n>\n> Mask cannot be played after the action starts to resolve, no.\n> You can play Mask after everyone has declined to block and before\n> you start the referendum, yes.\n> Delaying Tactics can only be played during the referendum part.\n>\nTherefore neither Duck, nor Dimple could play Aura of Invincibility (per \"Only usable during a referendum, before any votes and ballots are cast.\" restriction) if the vampires following them wish to play Mask of a Thousand Faces. Only Hadrian can play Aura if the action was not blocked and reached succesful conclusion and therefore entered the referendum. I'm assuming during that referendum, before votes or ballots are cast, Hadrian plays Aura and the vote passes, therefore at the end there is one Aura on Hadrian with one counter in it. The Methuselah controlling the trio has not been able to cycle all three Auras out of their hand and only has to settle with one.\n\nTrust in Jan Pieterzoon.",
+      "Id": "98107"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 3, 2019, 1:37\u202FPM",
+      "Body": "> Kilrauko wrote:\n> Aura of Invincibility has to be played during a referendum, referendum is a result of a succesful vote action. Mask of a Thousand faces has long been declared to be a action modifier that cannot be played once action has started to resolve, succesfully or not (as there is no text on Mask saying it can be played during resolution or after succesful action, like Freak Drive).\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "98119"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-31151",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/31151-impulse-question-again",
+  "Title": "Impulse question (again)",
+  "Messages": [
+    {
+      "Author": "Tomas",
+      "Date": "May 25, 2012, 6:56\u202FAM",
+      "Body": "Abbrevations to not make the text so long winded\n\nMethuselah A controls the minion bleeding is referred to as A\nMethuselah B is currently the target of the bleed and is referred to as B.\n\nDo B have to decline to block before B deflects the bleed. ie even if it\u00B4s not commonly done so does B declare that he is not blocking then sends the impulse back to A and then deflect the bleed or does he simply deflect the bleed and the deflect is counted as it is also a declaration to decline to block.\n\nQuestion arises if there is an always present window for A to play any action modifier after the B declines to block, but before the B deflects the bleed or do the A have to play these action modifiers before B gets the option to deflect if it\u00B4s an action modifier that A wants to target B with?\n\nI can see this be quite important to when you play trochomancy or revelations of desire as two examples.\n\nThank you",
+      "Id": "31151"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "May 25, 2012, 7:27\u202FAM",
+      "Body": "Question: Do B have to decline to block before B deflects the bleed.\n\nAnswer: According to general rules no, but Cardtext on deflection says:\nOnly usable when you are being bled, after blocks are declined.\n\nQuestion: Question arises if there is an always present window for A to play any action modifier after the B declines to block.\n\nAnswer: Don't think of it as a window. See it more as a fluid acting->reacting->acting->reacting chain of events. At any point during an action, acting minion can play action modifier cards (if card allows it) and when acting minion is done with his sequence of cards then it is your turn to play a reaction card if you so choose. If neither play cards just move to the next phase.",
+      "Id": "31153"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2012, 7:34\u202FAM",
+      "Body": "Chaitan's correct.\n\nFor more details and examples:\n\nA bleeds, B declines to block. Now A has the impulse to play actions modifiers. When A is done, B may play 1 reaction. If he does, A gets back the impulse to play more actions modifiers.\n\nTypical action:\n\nA bleeds, B declines to block. A plays Command of the Beast superior. A plays Conditioning. B plays Deflection.\n\nOr A bleeds, B declines to block. A has no further effect to play. B plays Deflection.\n\nOr A bleeds, B declines to block. A has no further effect to play. B play Telepathic Counter (reduces the bleed by 2). A plays Command of the Beast superior. A plays Conditioning. B plays Deflection.\n\nIf B passes after declining to block, he can't play Deflection.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "31154"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 25, 2012, 7:50\u202FAM",
+      "Body": "> Ankha wrote:\n> Chaitan's correct.\n>\n> For more details and examples:\n>\n> A bleeds, B declines to block. Now A has the impulse to play actions modifiers. When A is done, B may play 1 reaction. If he does, A gets back the impulse to play more actions modifiers.\n>\n> Typical action:\n>\n> A bleeds, B declines to block. A plays Command of the Beast superior. A plays Conditioning. B plays Deflection.\n>\n> Or A bleeds, B declines to block. A has no further effect to play. B plays Deflection.\n>\n> Or A bleeds, B declines to block. A has no further effect to play. B play Telepathic Counter (reduces the bleed by 2). A plays Command of the Beast superior. A plays Conditioning. B plays Deflection.\n>\n> If B passes after declining to block, he can't play Deflection.\n>\nCorrect.\nAlso:\nIf A declares a bleed action, B declines to block, A passes (might think \"B's going to deflect, what's the point in adding Command of the Beast and Conditioning to my Arika Govern bleed?\"). If B passes, A can't play Conditioning (or Command of the Beast) - we reach resolution, and the bleed resolves.",
+      "Id": "31157"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 25, 2012, 8:16\u202FAM",
+      "Body": "> Chaitan wrote:\n> Question: Do B have to decline to block before B deflects the bleed.\n>\n> Answer: According to general rules no,\n>\nActually, the ruling on Deflection (and other bleed bounce cards) still exists, though card text has mostly been rewritten making it a bit redundant.\n\nvekn.net/index.php/all-rulings/card-rulings-a-to-f\nThat is, Deflection (and other bleed bounce cards) are played after blocks are declined. [LSJ 20000507] [LSJ 20061213]",
+      "Id": "31159"
+    }
+  ]
+}

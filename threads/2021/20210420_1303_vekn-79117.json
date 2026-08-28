@@ -1,0 +1,146 @@
+{
+  "ThreadId": "vekn-79117",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/79117-reforming-the-vekn-rating-system",
+  "Title": "Reforming the VEKN rating system ?",
+  "Messages": [
+    {
+      "Author": "Timo",
+      "Date": "Apr 20, 2021, 1:03\u202FPM",
+      "Body": "This forum thread (www.vekn.net/forum/generic-v-tes-discussion/79110-multi-deck-possibilite-for-12-players-tournaments) began a discussion about the rating system and not wanting it to drift too much, I begin another thread here to discuss what I think are the flaws of this system and maybe find some ideas about how to improve it.\n\nFirst a disclaimer : I will express my own personnal opinion. I am not telling absolute truth because (sadly) I don't have them. Feel free to do the same.\n\nThe rules :\nFor those who don't know the rules of the rating system, they are here : www.vekn.net/rating-system\n\nThe flaws :\n- aggressive decks are favored (there is a reward for a lot of VP even if the goal of the game is to score GW and 1GW as the same value as 2 VP) so a only forward deck will score more points than a \"control\" deck even if both will end being 2nd in final.\n- there is \"good\" points to have only for the first 5 no matter how many players attended. Scoring 2GW10 VP in a 200+ players Continental Championship and being 6th will earn the exact same number of rating points than scoring 1GW4 and being 5th in a 15 players tournament in your local store with a final tyeing everybody at 0.5 VP.\n- the \"good\" points are given with regard to the number of player with no imput about their respective levels : a veteran going in a beginner tournament and winning will earn the same number of points than a beginner going in a veteran tournament and winning\n- playing 20 tournaments a year is a big advantage no matter how you fare in the majority of them as long as you have good results in 8 of them in the past 18 monthes\n\nThe solutions ? :\n- scaling the points earned with the number of players (and national/continental championship) for everyone and not only the first 5 players\n- scaling the points earned with regard to the players against who you played.\n\nSo ELO you say ?\n\nActually, it is a good rating system but I am not ELO savy enough to know if something has already been designed for a multiplayer game like VTES (specially with predator/prey relationship)\n\nLast thing : I don't want to change the way a tournament is played. The tournament system is good for me. Only the way the ranking is done should be changed.\n\nYour thoughts ?",
+      "Id": "102075"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 20, 2021, 7:16\u202FPM",
+      "Body": "Hey Timo,in starting this year I also think about idea how to change current rating sistem.\nThat what you said: \" - playing 20 tournaments a year is a big advantage no matter how you fare in the majority of them as long as you have good results in 8 of them in the past 18 monthes\" ,is truth,if you play more games you can have beter place in world ranking than some beter players.\nI also agre with this: \" Last thing : I don't want to change the way a tournament is played. The tournament system is good for me. Only the way the ranking is done should be changed.\"\nIm chess player,and know how work ELO in chess,and i like if that can be implement in VTES too.\nI will add too how FIFA started to rated footbol with ELO sistem after world cup 2018.\n\nSo how we can implament that in VTES?\nI can offer starting idea,but if vekn be interested,we can talk how to improve idea.\nSo 1st players need to get some starting rating(for example vekn can colect some tournament(they decide how much last mounth tournaments be included there) to players get starting rating,but they need to get starting rating of % VP and GW in these events,not to every event only increase starting rating)\nThen in start next tournament when players start games everyone there need to have expected results(is clear how beter rating players will have higher expected results). if someone take more than is expected his rating increase,if someone take less points,then his rating go down-is simple.\nHow rating finals? I will there use idea from footbal,where teams cant lose ratings in elimination phase. so players who enter in finals can only increase rating.\nAbout some bonuses as it bonuses for: nacional championship,continental championship....and other tipe events,there we can discus does every game in this event need to have bonus,or only finals game.\nSo there is just idea how ELO can work,but yea,need to see how to improve idea.\nI think last days to publish me post,but is also good to wrote this there as comment in you topic,so I know how someone too like rating sistem changes",
+      "Id": "102078"
+    },
+    {
+      "Author": "smeeag",
+      "Date": "Apr 21, 2021, 7:39\u202FAM",
+      "Body": "ELO shines for chess etc, because we can safely assume it's almost impossible to win 1500 ELO vs 2400 ELO (and rating diffence is basically represents chances of different outcomes). However, in VTES it's very common for average player to earn more VP in the single game than extra-pro, depending on the decks, seating, etc.\nWith this, I think it's OK to use ELO-kind rating for the full tournament results determining amount of rating change based on average rating of attendees, but use VP/GW (may be adjusted how much is VP vs GW worth, to mitigate the issue with agressive decks as stated above) to determine who will get the raise.",
+      "Id": "102084"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Apr 21, 2021, 8:37\u202FAM",
+      "Body": "Actually an ELO-ish system based on the full tournament results could be a good idea.\n\nIt could keep some kind of gap betwwen 6th and finalists (being 2nd and 1st) and it would mean more points for someone with 1GW2 in the tournament than someone with 0GW6 (right now, it is the same number if neither one reach the final).",
+      "Id": "102085"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 21, 2021, 6:59\u202FPM",
+      "Body": "Didn't VEKN use an ELO-like system for rating in the past? Didn't we move away from it because it doesn't work in a complex, multi-player game?",
+      "Id": "102090"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 22, 2021, 6:34\u202FPM",
+      "Body": "> kschaefer wrote:\n> Didn't VEKN use an ELO-like system for rating in the past? Didn't we move away from it because it doesn't work in a complex, multi-player game?\n>\nReally? i dint know that.\nIf posible I would like to read rules this old rating sistem,maybe can be improved somehow.\nCurrent rating sistem help players who can play more games,because you can only increase ratings. by using ELO sistem you lose rating when play badly.\nlook current vekn tabela,where is last Europe champion in this list? players with more tournament \" eat him for the breakfast \"",
+      "Id": "102105"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 22, 2021, 7:35\u202FPM",
+      "Body": "On the other hand, I don't think that a rating system that encourages players to play more tournaments is a bad thing, you know.\n\nThe whole point IMO is to get more players to the game, and more players to tournaments...",
+      "Id": "102108"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 22, 2021, 7:52\u202FPM",
+      "Body": "> lip wrote:\n> On the other hand, I don't think that a rating system that encourages players to play more tournaments is a bad thing, you know.\n>\n> The whole point IMO is to get more players to the game, and more players to tournaments...\n>\nSo you think to people afraid to play more tournaments because they scared to they can lose rating.\nI dont beleive,rating is just for fun,players dont get any payment based on higher rating.\nRating need to be more realistic,to beter players have fair chance to be in top rating list even if they have less chance to play tournaments.\nIs just mine opinion. Will rating sistem be changed,I dont beleive for now,but i wanted to represent me idea,and I do that.",
+      "Id": "102109"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Apr 22, 2021, 9:20\u202FPM",
+      "Body": "Actually having a few players not wanting to play more tournaments due to possible loss in rating is a few too many.\n\nMaybe something could be designed with that in mind ?",
+      "Id": "102110"
+    },
+    {
+      "Author": "lip",
+      "Date": "Apr 22, 2021, 9:49\u202FPM",
+      "Body": "@Igor Sure, you make good points. I value your opinion, please continue to share.\n\nI must say I'm not sure myself which side has my preference.",
+      "Id": "102111"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Apr 22, 2021, 9:53\u202FPM",
+      "Body": "I just think that rating is just a fun thing in vtes, not a real value of a player. We are a small community and (at least in Europe), you usually know who the strong player are.\n\nIn the name of this ranking there have been countries and NC who organized like 9 continental qualifiers in a year only to increase their rating point gaining so...\n\non a national base we managed to have our local ranking to give prizes at the end of a year of tournament, and that worked pretty well just because it was a 50 player base.\n\nLurking in the underground of Bologna, Italy",
+      "Id": "102113"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Apr 23, 2021, 7:07\u202FAM",
+      "Body": "Actually I kind of agree about the \"fun\" part of the ranking in VTES ^^.\n\nIt is just something that exists and the question i ask here is not really if the system must be changed (I really think it is not a necessity) but rather what would be a \"better\" system.\n\nAnd maybe, if a \"better\" system is designed it could be implemented sometime in the future ^^",
+      "Id": "102117"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 23, 2021, 8:17\u202FAM",
+      "Body": "Talking about the fear of losing ratings as the reason for not attending tournaments is grasping at straws at best.\n\nNot al people like to play online which probably is the actual reason...\n\nFinnish  Politics!",
+      "Id": "102118"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Apr 23, 2021, 9:44\u202FAM",
+      "Body": "I guess either you misunderstood what I said or I misspoke (miswrote ?) what I wanted to express.\n\nWhat I tried to say is that if we want to design a new rating system, we have to take into account the few players who really care about it and who (maybe) would not want to play too many tournament in order not to loose rating points ^^",
+      "Id": "102120"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Apr 23, 2021, 2:05\u202FPM",
+      "Body": "If they don't wanna play because they fear losing rating points maybe they should leave/quit the game ! Lol\n\nMy favorite quote for a long time was : \"I almost made a VP\" and I Always had a good time playing with people in UK, Netherlands, Belgium, Finland, New York or at 3 ECs...\n\nIt's a GAME and we are not supposed to fear anything (except spilling water / beer on unsleeved cards...)\n\nSo I believe any kind of Tournament should be sanctioned, except if you play banned cards, not 90 library or Table of 13 or rule that every Methuselah has only 2 MPAs (the Storyline and BYOS are there for this reason).\n\nMy 2 cents.\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "102123"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 23, 2021, 5:00\u202FPM",
+      "Body": "> Timo wrote:\n> Actually having a few players not wanting to play more tournaments due to possible loss in rating is a few too many.\n>\n> Maybe something could be designed with that in mind ?\n>\nTimo,I beleive how good players beleive how they have skill to enter in finals,and with entering in finals that mean how they play good preliminary rounds,and if they play good then cannot lose ratings.\nI say earlier how is best use FIFA sistem where finalist cannot lose ratings in finals game.",
+      "Id": "102125"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Apr 24, 2021, 5:04\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > kschaefer wrote:\n> > Didn't VEKN use an ELO-like system for rating in the past? Didn't we move away from it because it doesn't work in a complex, multi-player game?\n> >\n> Really? i dint know that.\n> If posible I would like to read rules this old rating sistem,maybe can be improved somehow.\n> Current rating sistem help players who can play more games,because you can only increase ratings. by using ELO sistem you lose rating when play badly.\n> look current vekn tabela,where is last Europe champion in this list? players with more tournament \" eat him for the breakfast \"\n>\nI did the work for you, to some extent. Here's the thread for when the rating was changed from ELO:\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/kiDI2a0-Ouc/m/KqkxDb6zEMYJ",
+      "Id": "102137"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 24, 2021, 8:09\u202FAM",
+      "Body": "> kschaefer wrote:\n>\n> > Non-existant user wrote:\n> >\n> > > kschaefer wrote:\n> > > Didn't VEKN use an ELO-like system for rating in the past? Didn't we move away from it because it doesn't work in a complex, multi-player game?\n> > >\n> > >\n> > >\n> > >\n> > >\n> > >\n> > Really? i dint know that.\n> > If posible I would like to read rules this old rating sistem,maybe can be improved somehow.\n> > Current rating sistem help players who can play more games,because you can only increase ratings. by using ELO sistem you lose rating when play badly.\n> > look current vekn tabela,where is last Europe champion in this list? players with more tournament \" eat him for the breakfast \"\n> >\n> I did the work for you, to some extent. Here's the thread for when the rating was changed from ELO:\n> groups.google.com/g/rec.games.trading-cards.jyhad/c/kiDI2a0-Ouc/m/KqkxDb6zEMYJ\n>\nTnx Karl,will read later. there is LSJ link how him explain ELO: forums.tomshardware.com/threads/how-to-realize-elo-in-a-multiplayer-game-anyway.111926/?fbclid=IwAR2mAqlRSAXS1yv2_Rla1_v7MPrJDI1R-dGE3j3oIi2t20a9_JniYdwGJ7w\n\nI share this topic in vekn fb group and there LSJ share this link",
+      "Id": "102139"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Apr 25, 2021, 6:13\u202FPM",
+      "Body": "> Timo wrote:\n> I guess either you misunderstood what I said or I misspoke (miswrote ?) what I wanted to express.\n>\nI don't now if you're referring to me, but my comment was made based on Beslin's comment: \"So you think to people afraid to play more tournaments because they scared to they can lose rating.\"\n\nBut if you too said something in the similar vein then, sure, it also applies to youe comment...\n\nFinnish  Politics!",
+      "Id": "102144"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 27, 2021, 1:03\u202FPM",
+      "Body": "I also share this topic in vekn fb group,not much answers,but i will share one interestic idea by one player:\n\n\" There is always the possibility to use both scores. \"\n\nIf that posible? and can someone share any formula and explanation in time when is ELO used?",
+      "Id": "102172"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 27, 2021, 1:52\u202FPM",
+      "Body": "> Non-existant user wrote:\n> I also share this topic in vekn fb group,not much answers,but i will share one interestic idea by one player:\n>\n> \" There is always the possibility to use both scores. \"\n>\n> If that posible? and can someone share any formula and explanation in time when is ELO used?\n>\nFrom what I read previously, ELO was considered at some point and discarded. I don't see why it would be more relevant now.\n\nAlso, it's always possible to do things, if people are willing on working on it. On my side, I don't have the time for that.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102173"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Apr 27, 2021, 3:58\u202FPM",
+      "Body": "> Non-existant user wrote:\n> and can someone share any formula and explanation in time when is ELO used?\n>\nThis was the formula used.\n\nTournament results had to be submitted in chronological order.\n\nweb.archive.org/web/20011031202322/http://www.white-wolf.com/VTES/veknCalc.html\n\nV:EKN Website Coordinator",
+      "Id": "102176"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 27, 2021, 7:50\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Non-existant user wrote:\n> > I also share this topic in vekn fb group,not much answers,but i will share one interestic idea by one player:\n> >\n> > \" There is always the possibility to use both scores. \"\n> >\n> > If that posible? and can someone share any formula and explanation in time when is ELO used?\n> >\n> From what I read previously, ELO was considered at some point and discarded. I don't see why it would be more relevant now.\n>\n> Also, it's always possible to do things, if people are willing on working on it. On my side, I don't have the time for that.\n>\nAs a side-note, only the final results are kept in the database, the round results as well as the whole archon are discarded by the system. It is therefore not possible to simulate the ELO rating on past tournaments.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "102177"
+    }
+  ]
+}

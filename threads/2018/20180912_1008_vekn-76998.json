@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-76998",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76998-narsheptha-fbi",
+  "Title": "Narsheptha + FBI",
+  "Messages": [
+    {
+      "Author": "Khaan",
+      "Date": "Sep 12, 2018, 10:08\u202FAM",
+      "Body": "A vampire with Nar-sheptha rushes an ally. The ally becomes acting minion. The ally is burned during combat. Does the vampire take 2 damage from FBI?\n\nName: FBI Special Affairs Division\n[KMW:R]\nCardtype: Event\nGovernment.\nWhen an ally is burned in combat with an acting vampire, put a counter on this card, and that acting vampire takes 2 unpreventable damage (after combat ends). Burn this card when it has 4 counters.\n\nName: Nar-Sheptha\n[TU:C]\nCardtype: Retainer\nClan: Assamite\nCost: 1 pool\nUnique wraith with 1 life.\nWhile this vampire is in combat, you get +2 hand size, and the opposing minion is considered the acting minion.\n\nLackeyname: Kris",
+      "Id": "90569"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Sep 12, 2018, 10:38\u202FAM",
+      "Body": "The opposing minion is acting only for the duration of the combat.\nFBI damages AFTER combat ends.\nSo the ally is no longer acting, but the rushing vampire still is and takes 2 damages,\n\nWhatever happens during combat is not relevant to check the conditions of FBI\n\nLurking in the underground of Bologna, Italy",
+      "Id": "90570"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Sep 12, 2018, 11:55\u202FAM",
+      "Body": "I understand your reasoning.\n\nI also think putting the counter happens during combat, and since the ally is acting at that time, then no counter is put on FBI, and hence no damage is inflicted.\n\nLackeyname: Kris",
+      "Id": "90571"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "Sep 12, 2018, 12:21\u202FPM",
+      "Body": "\"When an ally is burned in combat with an acting vampire, put a counter on this card, and that acting vampire takes 2 unpreventable damage (after combat ends).\"\n\nIf I am right, \"when X, then do Y\" means that all Y part is in the same time (in this case after combat ends), so:\nThe ally is considered acting and gets burned\nCombat Ends\nThe acting minion becomes again acting\nyou put 1 counter on fbi and inflict 2 damages.\n\nLurking in the underground of Bologna, Italy",
+      "Id": "90572"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 12, 2018, 3:07\u202FPM",
+      "Body": "> thelonius wrote:\n> \"When an ally is burned in combat with an acting vampire, put a counter on this card, and that acting vampire takes 2 unpreventable damage (after combat ends).\"\n>\n> If I am right, \"when X, then do Y\" means that all Y part is in the same time (in this case after combat ends), so:\n>\nThe thing is, the trigger \"X\" is \"When an ally is burned in combat with an acting vampire\". In combat, the vampire wasn't considered the acting vampire. So no ally was burned in combat with an acting vampire - there wasn't an acting vampire in the combat. And though the vampire becomes considered acting again afterwards, that doesn't mean the ally was \"burned in combat with an acting vampire\", if Nar-Sheptha makes the vampire considered non-acting.",
+      "Id": "90574"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Sep 13, 2018, 3:09\u202FAM",
+      "Body": "> thelonius wrote:\n> Whatever happens during combat is not relevant to check the conditions of FBI\n>\nIn general, that is not sound logic. The trigger is \"When an ally is burned ...\" with additional restrictions on the burning. The correct time to check whether the trigger is met is when the minion burns. The time to check the trigger is whenever the card says it is. The time to apply the effect is whenever the card says it is. The two do not have to match, e.g. FBI could very well be rewritten to inflict damage at the end of the turn.",
+      "Id": "90578"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 13, 2018, 7:02\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> The thing is, the trigger \"X\" is \"When an ally is burned in combat with an acting vampire\". In combat, the vampire wasn't considered the acting vampire. So no ally was burned in combat with an acting vampire - there wasn't an acting vampire in the combat. And though the vampire becomes considered acting again afterwards, that doesn't mean the ally was \"burned in combat with an acting vampire\", if Nar-Sheptha makes the vampire considered non-acting.\n>\nI second James.\n\nSince ally was not in combat with an acting vampire, FBI does not trigger or get a counter.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "90581"
+    },
+    {
+      "Author": "Khaan",
+      "Date": "Sep 13, 2018, 8:29\u202FAM",
+      "Body": "Thanks James and others, this was my thought as well, though not as clearly formulated.\n\nLackeyname: Kris",
+      "Id": "90585"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 13, 2018, 9:02\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > thelonius wrote:\n> > \"When an ally is burned in combat with an acting vampire, put a counter on this card, and that acting vampire takes 2 unpreventable damage (after combat ends).\"\n> >\n> > If I am right, \"when X, then do Y\" means that all Y part is in the same time (in this case after combat ends), so:\n> >\n> The thing is, the trigger \"X\" is \"When an ally is burned in combat with an acting vampire\". In combat, the vampire wasn't considered the acting vampire. So no ally was burned in combat with an acting vampire - there wasn't an acting vampire in the combat. And though the vampire becomes considered acting again afterwards, that doesn't mean the ally was \"burned in combat with an acting vampire\", if Nar-Sheptha makes the vampire considered non-acting.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90588"
+    }
+  ]
+}

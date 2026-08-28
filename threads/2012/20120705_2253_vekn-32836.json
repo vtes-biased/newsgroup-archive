@@ -1,0 +1,128 @@
+{
+  "ThreadId": "vekn-32836",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/32836-target-minion-protection-and-out-of-turn-action-sequence",
+  "Title": "target minion protection and out of turn action sequence",
+  "Messages": [
+    {
+      "Author": "talonz",
+      "Date": "Jul 5, 2012, 10:53\u202FPM",
+      "Body": "1)\nsecret passage\nPut this card on a ready minion you control. If this minion is the target of a  action while he or she is ready, you may burn this card to make the action fail. A minion can have only 1 Secret Passage.\n\nlord of serenity\nput this card on the acting vampire, this card can be burned as a D action....\n\nMinion with both cards above. Secret passage will not protect lord of serenety from burnable action due to cardtext (this minion, not this minion and any cards on him) correct?\n\n2) It was my understanding that the acting meth gets first opp in any phase to play, then other meth in clockwise order. This meant that due to not being able to stack actions (each is resolved before going onto the next) that the acting meth would get one action before any out of turn actions could be taken by other meths (enkil, madness etc.).\n\nIt was pointed out that the acting meth has first opp to generate any and all effects in each stage, and thus gets to do all the actions he wants before anyone else can act out of turn.\n\nIn reading the rulebook, I can see and understand this, just looking for confirmation.",
+      "Id": "32836"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jul 5, 2012, 11:59\u202FPM",
+      "Body": "1) Confirmed. Secret Passage and Secure Haven only protect the minion, they do not protect cards on the minion.\n\n2) Confirmed. The acting player can take every action she wants before allowing her opponents to take an action with Enkil Cog or Madness Network.",
+      "Id": "32837"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 6, 2012, 9:53\u202FAM",
+      "Body": "> Adonai wrote:\n> 1) Confirmed. Secret Passage and Secure Haven only protect the minion, they do not protect cards on the minion.\n>\n> 2) Confirmed. The acting player can take every action she wants before allowing her opponents to take an action with Enkil Cog or Madness Network.\n>\nCorrect.\nAnd 2') If any other Methuselah takes an action, the impulse goes back to the Methuselah whose turn it is, and who can now declare a new action.",
+      "Id": "32845"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 6, 2012, 11:21\u202FAM",
+      "Body": "> Pascal wrote:\n> And 2') If any other Methuselah takes an action, the impulse goes back to the Methuselah whose turn it is, and who can now declare a new action.\n>\nNote that before that happens, there's a 'between actions' phase, for Heidelberg.\n\n(This can't be used to declare Enkil Cog-driven actions, though - declaring an action isn't possible in the 'between actions' phase.)\n\n[LSJ 20090123] and the follow-ups in that thread.",
+      "Id": "32848"
+    },
+    {
+      "Author": "Squidalot",
+      "Date": "Jul 6, 2012, 8:55\u202FPM",
+      "Body": "@Pascal - please can you put the 'between actions impulse' in the rules rather than relying on a ruling. I don't think it's very clear from section 1.6.1 (5) Sequencing how this works.",
+      "Id": "32867"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 9, 2012, 5:32\u202FAM",
+      "Body": "> Squidalot wrote:\n> @Pascal - please can you put the 'between actions impulse' in the rules rather than relying on a ruling. I don't think it's very clear from section 1.6.1 (5) Sequencing how this works.\n>\nI'll give it a try, but I'm afraid I'll have to write down something like 'There are two impulses during the minion phase'. I'll try to get a clean formulation.",
+      "Id": "32910"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 9, 2012, 5:54\u202FAM",
+      "Body": "Why do we have to make this as complicated as it seems like people are intending it to be?\n\nAt worst, could we amend the CRR to have some nice clear examples of how to apply the Sequencing Rules.\n\nOR... create another simple effect...\n\n\"Effect Declaration\"\nIf players wish to use some between-action effects (such as Heidelberg Casstle, Germany) then immediately after an action resolves and before the declaration of the next action (the Methuselah of the current Minion Phase must wait for these declarations to be made), those players must declare their intention to use an effect. The normal Sequencing Rule is then applied to the order of those effects.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "32912"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 9, 2012, 7:01\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Why do we have to make this as complicated as it seems like people are intending it to be?\n>\n> At worst, could we amend the CRR to have some nice clear examples of how to apply the Sequencing Rules.\n>\n> OR... create another simple effect...\n>\n> \"Effect Declaration\"\n> If players wish to use some between-action effects (such as Heidelberg Casstle, Germany) then immediately after an action resolves and before the declaration of the next action (the Methuselah of the current Minion Phase must wait for these declarations to be made), those players must declare their intention to use an effect. The normal Sequencing Rule is then applied to the order of those effects.\n>\nBecause it breaks the current Sequencing / Impulse rule.\nCurrently, whether a phase/step is over is detected by the fact that everyone passes the Impulse.\nIntroducing an effect like this means that everyone must pass the impulse twice in order to end the phase (first time to end \"in between actions\", second time to end \"declare actions\").\n\nThe simplest thing would be to divide \"declare actions\" in two steps:\n- before the action is taken (with its own impulse)\n- declare the action (or declining to do so)\n\nLeading to the following scenarios:\n\nA: \"I'm going to perform an action. I don't have anything before, do you use your Heidelberg Castle?\"\nB: \"Yes <doing some stuff>\"\nA: \"Ok. Anyone else?\"\nAll passes\nA: \"Now bleeding for 3\" or \"No action at all, I pass\"\n\nOther scenario:\nA: \"Ok I'm done with my actions.\"\nB: (getting the impulse). \"Ok, I use Heidelberg now. Anyone else has something to do before I start my action?\"\nAll passes\nB: \"ok, I pass (no action)\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32914"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 9, 2012, 8:58\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > Squidalot wrote:\n> > @Pascal - please can you put the 'between actions impulse' in the rules rather than relying on a ruling. I don't think it's very clear from section 1.6.1 (5) Sequencing how this works.\n> >\n> I'll give it a try, but I'm afraid I'll have to write down something like 'There are two impulses during the minion phase'. I'll try to get a clean formulation.\n>\nI'm not sure why this is more difficult than, for example, a series of combat steps.\n\nYour minion phase consists of:\na) declare an action - sequence as normal - then\nb) between actions - sequence as normal\nRepeat until everyone passes.\n\nOn a point of naming, 'impulse' originally started out as being the term for identifying the player who can currently play the next effect. A has the impulse, A passes, B has the impulse, B plays a card, the impulse goes back to A.\n\nUsing 'impulse' to mean something like 'phase' or 'step' loses that useful clarity.",
+      "Id": "32915"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 9, 2012, 10:12\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Pascal wrote:\n> >\n> > > Squidalot wrote:\n> > > @Pascal - please can you put the 'between actions impulse' in the rules rather than relying on a ruling. I don't think it's very clear from section 1.6.1 (5) Sequencing how this works.\n> > >\n> > I'll give it a try, but I'm afraid I'll have to write down something like 'There are two impulses during the minion phase'. I'll try to get a clean formulation.\n> >\n> I'm not sure why this is more difficult than, for example, a series of combat steps.\n>\n> Your minion phase consists of:\n> a) declare an action - sequence as normal - then\n> b) between actions - sequence as normal\n> Repeat until everyone passes.\n>\nIt means that you can't use Heidelberg before the first action in the turn. Invert a) and b), and it means you can't use it after.\n\nI prefer a nested impulse sequence of \"complex\" steps (A), rather than multiple impulse sequences in a row of \"simple\" steps (B).\n\n(A) being: during the phase, the impulse goes round between players only once (when all players have passed, the phase is over). A player with the Impulse can do X, X being a complex things which can have impulse sequences in it (such as my proposal. X being composed of an \"before action\" impulse sequence, then a \"declare action\" step)\n\n(B) being: during the phase, the impulse goes round between players. A player with the Impulse can do S, a simple thing. When everyone has passed, then another impulse goes round so players can do S'. Then... (James' and Andrew's proposal)\n\nThe problem with (B) is that you can easily lose track of which sequence of impulse you're in if there's more than 2 sequences in a row, and that each player must pass as many times as there's a sequence so the phase is over.\n\n(A) is already used in plenty of cases, especially the \"DI\" step. When someone announces an action, the first step is to check if anyone wants to DI/cancel it, using an impulse sequence.\nSimilary, we can imagine than before announcing the action, there's a step for \"between actions\" effects using an impulse sequence.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32921"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Jul 9, 2012, 10:29\u202FAM",
+      "Body": "> Ankha wrote:\n> It means that you can't use Heidelberg before the first action in the turn. Invert a) and b), and it means you can't use it after.\n>\nThat should not be a problem in practice since you can use Heidelberg during the Master or Influence phases.",
+      "Id": "32928"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 9, 2012, 10:30\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > jamesatzephyr wrote:\n> >\n> > > Pascal wrote:\n> > >\n> > > >\n> > > >\n> > > > Squidalot wrote:\n> > > > @Pascal - please can you put the 'between actions impulse' in the rules rather than relying on a ruling. I don't think it's very clear from section 1.6.1 (5) Sequencing how this works.\n> > > >\n> > > I'll give it a try, but I'm afraid I'll have to write down something like 'There are two impulses during the minion phase'. I'll try to get a clean formulation.\n> > >\n> > >\n> > I'm not sure why this is more difficult than, for example, a series of combat steps.\n> >\n> > Your minion phase consists of:\n> > a) declare an action - sequence as normal - then\n> > b) between actions - sequence as normal\n> > Repeat until everyone passes.\n> >\n> It means that you can't use Heidelberg before the first action in the turn.\n>\nCorrect.\n\n[LSJ 20090123]\n\nYou could use it during the master phase, if you wanted.",
+      "Id": "32931"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 9, 2012, 10:32\u202FAM",
+      "Body": "> Non-existant user wrote:\n>\n> > Ankha wrote:\n> > It means that you can't use Heidelberg before the first action in the turn. Invert a) and b), and it means you can't use it after.\n> >\n> That should not be a problem in practice since you can use Heidelberg during the Master or Influence phases.\n>\nIt's a 'problem' in as much as it changes who can respond, when. If my prey taps Heidelberg during my master phase, I may now respond by whacking the relevant vampire with Pentex Subversion (having previously - riskily - opted not to play a card).\n\nThis isn't an actual problem - just something people would have to plan around.",
+      "Id": "32932"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 9, 2012, 10:40\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n> [LSJ 20090123]\n>\nConsidering this link, the current ruling clearly uses two imbricated sequences, which is not a great thing imho (see my reasons in my previous post).\n\nThe ruling is also a little counter-intuitive in the following case:\n\nA is the acting Methuselah. B has the Heidelberg and an Enkil Cog.\nA passes the impulse (no action). B can use The Barrens, but go figure why B can't use the Heidelberg before performing his action with Enkil. He should have used it before A passes, which is not intuitive because we're not \"during an action\" yet so using the Heidelberg seems legal.\n\nThe intuitive thing would be that once you have the impulse, you can do all the legal stuff (including using the Heidelberg before starting an action).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32936"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 9, 2012, 10:50\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > jamesatzephyr wrote:\n> > [LSJ 20090123]\n> >\n> Considering this link, the current ruling clearly uses two imbricated sequences, which is not a great thing imho (see my reasons in my previous post).\n>\nIt's pretty much exactly how everyone I've ever seen plays it.\n\n\"Are you tapping Heidelberg? [pass] Okay, I declare...\"\n\nPreserving the completely non-troublesome status quo? Great, great thing.",
+      "Id": "32937"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 9, 2012, 11:23\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> >\n> > > jamesatzephyr wrote:\n> > > [LSJ 20090123]\n> > >\n> > Considering this link, the current ruling clearly uses two imbricated sequences, which is not a great thing imho (see my reasons in my previous post).\n> >\n> It's pretty much exactly how everyone I've ever seen plays it.\n>\n> \"Are you tapping Heidelberg? [pass] Okay, I declare...\"\n>\n> Preserving the completely non-troublesome status quo? Great, great thing.\n>\nWhich leads to:\n\nA: \"I pass.\"\nB: \"Before I act with X under Enkil Cog, I tap Heidelberg to...\"\nA: \"No, it's too late, I've passed.\"\nB: \"Yes, now I have the impulse, so I use Heidelberg\"\nA: \"No you can't, it's too late. But you may tap Barrens if you wish.\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32938"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 9, 2012, 1:23\u202FPM",
+      "Body": "> Ankha wrote:\n> Which leads to:\n>\n> A: \"I pass.\"\n> B: \"Before I act with X under Enkil Cog, I tap Heidelberg to...\"\n> A: \"No, it's too late, I've passed.\"\n> B: \"Yes, now I have the impulse, so I use Heidelberg\"\n> A: \"No you can't, it's too late. But you may tap Barrens if you wish.\"\n>\nHuh? A passing in the 'between actions' phase passes the impulse to B to tap Heidelberg. There is no way for A to pass in the between actions phase without the others getting the chance to use it! (Including C, D and E.)\n\nIf A and B (and the others) have already passed in the between actions phase, A's extra pass at the top of your dialog is redundant (and erroneous, but not harmfully so). If B hasn't already passed, B can use the impulse to use Heidelberg when he gets it.\n\nA cannot unilaterally close a timing window. Just like A cannot rush ahead to maneuvers when B wants to play pre-range, or A wants to rush ahead to polling when B wants to play something before votes are cast.\n\nIf what you mean is \"B already said \"I'm not using Heidelberg before the next action\"\" and now you want B to be able to reverse that decision, that's... not how sequencing works. Sequencing doesn't allow you to voluntarily reverse decisions. And after B tapped Heidelberg, the impulse would revert to A, by the standard sequencing rules. Letting B use an effect and keep the impulse is not 'intuitive', it's putting the sequencing rules through an industrial shredder.",
+      "Id": "32941"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 9, 2012, 2:02\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > Ankha wrote:\n> > Which leads to:\n> >\n> > A: \"I pass.\"\n> > B: \"Before I act with X under Enkil Cog, I tap Heidelberg to...\"\n> > A: \"No, it's too late, I've passed.\"\n> > B: \"Yes, now I have the impulse, so I use Heidelberg\"\n> > A: \"No you can't, it's too late. But you may tap Barrens if you wish.\"\n> >\n> Huh? A passing in the 'between actions' phase passes the impulse to B to tap Heidelberg. There is no way for A to pass in the between actions phase without the others getting the chance to use it! (Including C, D and E.)\n>\nI meant that A was passing his opportunity to declare an action. So the full sequence is\n\nA: \"I pass in-between actions\".\nAll pass\nA: \"I pass [my opportunity to declare an action]\"\nthen the rest of the previous scenario.\n\n> jamesatzephyr wrote:\n> If A and B (and the others) have already passed in the between actions phase, A's extra pass at the top of your dialog is redundant (and erroneous, but not harmfully so).\n>\nNo, A must pass if A has the impulse to declare actions but no action to declare. How is it redundant or erroneous?\n\n> jamesatzephyr wrote:\n> A cannot unilaterally close a timing window. Just like A cannot rush ahead to maneuvers when B wants to play pre-range, or A wants to rush ahead to polling when B wants to play something before votes are cast.\n>\nSure, but you have to go back to the previous impulse sequence, which can lead to complicated mess because another whole impulse sequence has already taken place.\n\n> jamesatzephyr wrote:\n> If what you mean is \"B already said \"I'm not using Heidelberg before the next action\"\" and now you want B to be able to reverse that decision, that's... not how sequencing works. Sequencing doesn't allow you to voluntarily reverse decisions.\n>\nIndeed, but having two impulse sequences can lead to some mess, such as not being able to use Heidelberg while there's no action going on.\nI don't find it very intuitive.\n\n> jamesatzephyr wrote:\n> Letting B use an effect and keep the impulse is not 'intuitive', it's putting the sequencing rules through an industrial shredder.\n>\nThat's exactly what is currently happening when you declare an action and create a sub-impulse sequence to determine if anyone plays a DI or not. If noone does, B \"keeps\" the (first) impulse and goes on.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32943"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 9, 2012, 8:38\u202FPM",
+      "Body": "Then let's just FORCE people to declare their intention to use a 'not during an action effect' either before the first action is declared OR after the last action is resolved. If you don't OPT IN, then your chance is wasted.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "32960"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 10, 2012, 4:56\u202FAM",
+      "Body": "Using Heidelberg before the first action isn't the only thing that is doable during the minion phase, before the first action.\nOther examples: Burn Temptation counters to take control of a vampire, burn Mind Rape to take control of a vampire, ...",
+      "Id": "32973"
+    }
+  ]
+}

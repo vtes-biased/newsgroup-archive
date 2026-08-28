@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-55951",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/55951-fear-of-mekhet",
+  "Title": "Fear of Mekhet",
+  "Messages": [
+    {
+      "Author": "ant220",
+      "Date": "Oct 30, 2013, 2:08\u202FPM",
+      "Body": "How does Fear of Mekhet work?\nIn particular, if during the untap phase I have an Inner Circle with Fear of Mekhet and a Justicar, and nobody else has any Inner circle or Justicar, I have to burn 5 blood on the Inner Circle and what then? Do I have to simply move to card on my Justicar or am I also forced to burn 5 blood on that Justicar and then move back the card to the Inner Circle and so on until one of the vampires is burned together with the Fear of Mekhet?",
+      "Id": "55951"
+    },
+    {
+      "Author": "hardyrange",
+      "Date": "Oct 30, 2013, 2:44\u202FPM",
+      "Body": "> Fear of Mekhet\n> Master\n>\n> [2 Pool]\n>\n> Master.\n> Put this card on a ready justicar or Inner Circle member. Tap that vampire. During this vampire's untap phase, he or she burns 5 blood. If the vampire cannot burn the blood, he or she is burned; otherwise, the vampire's controller moves this card to any other justicar or Inner Circle member (or burns this card if there are no others).\n>\n\"It was a perfect plan - until it had contact with reality\"\n---\nHardy Range\nPlaygroup Tradition Compliance Manager",
+      "Id": "55957"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 30, 2013, 4:29\u202FPM",
+      "Body": "> ant220 wrote:\n> How does Fear of Mekhet work?\n>\nCardtext .\n\n> ant220 wrote:\n> In particular, if during the untap phase I have an Inner Circle with Fear of Mekhet and a Justicar, and nobody else has any Inner circle or Justicar, I have to burn 5 blood on the Inner Circle and what then?\n>\nThe card moves to your Justicar and that's all (until the next untap phase).\nIf you had only an Inner Circle, the Fear would have burned.\n\nIf you had an Inner Circle with less than 4 blood and a Justicar, the Inner Circle would have burned and the Fear of Mekhet with it.\n\nThe Fear of Mekhet triggers only once per untap phase (\"During X do Y\").\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "55969"
+    },
+    {
+      "Author": "Whisker",
+      "Date": "Oct 30, 2013, 7:19\u202FPM",
+      "Body": "Fear of Mekhet\n\nMaster\n\n[2 Pool]\n\nMaster.\nPut this card on a ready justicar or Inner Circle member. Tap that vampire. During this vampire's untap phase, he or she burns 5 blood. If the vampire cannot burn the blood, he or she is burned; otherwise, the vampire's controller moves this card to any other justicar or Inner Circle member (or burns this card if there are no others).\n\nHmm, I was under impression that the card trickers once for each vampire it visits during untap phase, emphasis on word this. So order would be inner circle burns blood, fear is moved to justicar. Justicar burns blood, fear is moved back to inner circle. Inner circle has already burned blood so no further effect.\n\nPascal can you confirm?",
+      "Id": "55980"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 30, 2013, 9:07\u202FPM",
+      "Body": "> Whisker wrote:\n> Hmm, I was under impression that the card trickers once for each vampire it visits during untap phase, emphasis on word this. So order would be inner circle burns blood, fear is moved to justicar. Justicar burns blood, fear is moved back to inner circle. Inner circle has already burned blood so no further effect.\n>\nIf both vampires are controlled by the same Methuselah, \"this vampire's untap phase\" refers to the same untap phase. The Fear triggers only once.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "55987"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 30, 2013, 9:46\u202FPM",
+      "Body": "> Whisker wrote:\n> Fear of Mekhet\n> Master\n> [2 Pool]\n> Master.\n> Put this card on a ready justicar or Inner Circle member. Tap that vampire. During this vampire's untap phase, he or she burns 5 blood. If the vampire cannot burn the blood, he or she is burned; otherwise, the vampire's controller moves this card to any other justicar or Inner Circle member (or burns this card if there are no others).\n>\nThe card follows the general principle of \"During point X, do action Y\". All cards using this principle trigger once for every Point X.\n\n> During this vampire's untap phase,\n>\nThis is the during point X condition.\n>\n> ... he or she burns 5 blood. If the vampire cannot burn the blood, he or she is burned; otherwise the vampire's controller moves this card to any other Justicar or Inner Circle member (or burns this card if there are no others)\n>\nThis is the Do action Y part.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "55992"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Nov 23, 2013, 12:01\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Whisker wrote:\n> > Hmm, I was under impression that the card trickers once for each vampire it visits during untap phase, emphasis on word this. So order would be inner circle burns blood, fear is moved to justicar. Justicar burns blood, fear is moved back to inner circle. Inner circle has already burned blood so no further effect.\n> >\n> If both vampires are controlled by the same Methuselah, \"this vampire's untap phase\" refers to the same untap phase. The Fear triggers only once.\n>\nCorrect.\n\nSee also  [LSJ 20080205] for a similar ruling (Reliquary: Shango Remains)",
+      "Id": "56973"
+    }
+  ]
+}

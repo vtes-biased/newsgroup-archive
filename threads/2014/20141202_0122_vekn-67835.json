@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-67835",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/67835-re-no-repeat-action",
+  "Title": "Re: no repeat action",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Dec 2, 2014, 1:22\u202FAM",
+      "Body": "Hi everyone\n\nI was reading about canceling cards and no repeat action and I have a question:\n\nOn the card ruling of Direct Intervention, it says:\n\nSince the NRA rule is applied to the acting minion when the action resolves (is blocked or is successful), the minion whose action card is canceled by Direct Intervention is free to attempt the same type of action again, even with (another copy of) the same card.\n\n(it is very weird for me that cards get different ways of dealing with being canceled, the most upsetting one: aditional strikes. I don't get it. I mean, i know the rule but compared to strikes and actions, it makes no sense to me)\n\nIt made me think: can I announce a second bleed or a second political action just to make it fizzle? Let's say I bleed and then I untap by any mean, is it within the rules to try to bleed again knowing that in action resolution it won't resolve?",
+      "Id": "67835"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 2, 2014, 4:03\u202FAM",
+      "Body": "Any card that is 'cancelled' never resolves. If it doesn't resolve then you can't have \"performed\" the action. In VTES jargon it has not resolved either successfully or unsuccessfully, but you have played the card. So... when DI hits an action:\n\nNo Repeat Action 'taint' only occurs when the card resolves (i.e. after combat when blocked OR after the action has completed its effects). If the action is CANCELLED before the block OR the card resolves then No Repeat Action 'taint' has not yet happened. If the card is forced to FAIL then it has resolved by being forced to fail.\n\nWith combat cards there is no restriction on playing multiple copies IN GENERAL. A minion must attempt to declare a strike, so if the first declared strike is cancelled then they must choose a new strike.\n\nThe rules also prevent you from attempting a card play that is illegal. So you can't even attempt an action covered by NRA. You can't play a Master card for which there are no legal targets, etc, etc, etc. So you can't 'discard by fizzle'.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "67836"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Dec 2, 2014, 8:26\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> In VTES jargon it has not resolved either successfully or unsuccessfully, but you have played the card.\n>\nThis is important bit.\n\nSo when your Reins of Power gets DI'd you can still play another vote but that can't be a Reins of Power since Reins of Power has a restiction that only one Reins of Power can be played during the game.\n\nSimilarily, if in combat your Immortal Grapple gets DI'd, you can't play another as Immortal Grapple itself has a text restricting the use to only one Immortal Grapple per combat round.\n\nFinnish  Politics!",
+      "Id": "67840"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 2, 2014, 10:37\u202FAM",
+      "Body": "> Nac wrote:\n> Hi everyone\n>\n> I was reading about canceling cards and no repeat action and I have a question:\n>\n> On the card ruling of Direct Intervention, it says:\n>\n> Since the NRA rule is applied to the acting minion when the action resolves (is blocked or is successful), the minion whose action card is canceled by Direct Intervention is free to attempt the same type of action again, even with (another copy of) the same card.\n>\n> (it is very weird for me that cards get different ways of dealing with being canceled, the most upsetting one: aditional strikes. I don't get it. I mean, i know the rule but compared to strikes and actions, it makes no sense to me)\n>\nPlease be a bit more explicit. Which part is unclear? The effect of DI'ing Blur? The effect of DI'ing an additional strike that is a strike: dodge? Something else?\n\n> Nac wrote:\n> It made me think: can I announce a second bleed or a second political action just to make it fizzle? Let's say I bleed and then I untap by any mean, is it within the rules to try to bleed again knowing that in action resolution it won't resolve?\n>\nIf your first Kindred Spirits was DI'd, you can play another Kindred Spirits with the same minion (with level and target of your choice). This would be this minion's first bleed action this turn. If it isn't blocked, it is successful, and won't fizzle - it will resolve normally.\n\nOn the other hand, if you reach resolution of a bleed (say your first Kindred Spirits was successful), and untap (Freak Drive), the NRA prohibits the declaration of another bleed action with that minion.",
+      "Id": "67851"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Dec 2, 2014, 10:07\u202FPM",
+      "Body": "> Pascal wrote:\n> Please be a bit more explicit. Which part is unclear? The effect of DI'ing Blur? The effect of DI'ing an additional strike that is a strike: dodge? Something else?\n>\nIt was unclear for me the way in which No Repeat Action worked in interaction with a \"cancel\" effect. Now I know why it goes that way but the uneasyness remains: \"cancel\" works different with different kind of cards and it is hard for me to grasp a genenal understanding of things like that, I prefer general definitions in that refer to rules. Cancel a strike means something different, in practice, than canceling an aditional strike and they're both combat cards.\n\nThe No Repeat action question was to see the way No Repeat Action worked and how. I'm now aware it goes on resolution of the first atempt and not on the resolution of the second one . That makes it clear for me.",
+      "Id": "67870"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 3, 2014, 8:45\u202FAM",
+      "Body": "> Nac wrote:\n> Cancel a strike means something different, in practice, than canceling an aditional strike and they're both combat cards.\n>\nWhat do you think the difference is?\n\nWhen you cancel the play of a card then, roughly speaking, the game remembers that:\n- you have played a card with that name\n- you have played a card of that type (which might vary depending on the level of the card, with combo cards like Swallowed by the Night)\n- none of that card's card text\n- you might pay the cost (depending on whether the canceller says to retrieve the cost or not)\n\nYou can then play another copy of the card if you want to, except to the extent that you're prevented from doing so by the rules or card text.\n\nFor example:\n- You play Bonding with Arika\n- I DI your Bonding\n- You want to play a second Bonding in your hand, but you can't play it with Arika because of the rules on action modifiers with the same minion in a given action. The game remembers that you have played a Bonding action modifier this action (even though it did nothing), so you can't play another.\n\nSimilarly:\n- You play Eagle Sight with Isabel de Leon.\n- I DI it (let's assume I'm acting out of turn or not the acting Methuselah).\n- You can't play a second copy of Eagle Sight with Isabel de Leon this action, because the game remembers that you have played an Eagle Sight reaction this action (even though it did nothing).\n\nTwo different bleed mods with the same minion:\n- You play Bonding. The card text on Bonding says: \"You cannot play another action modifier to increase this bleed amount.\"\n- I DI your Bonding.\n- You play Conditioning. That's allowed because:\na) it's not Bonding, so the game rule on duplicate action modifiers doesn't kick in\nb) the card text on Bonding saying \"You cannot play another action modifier to increased this bleed amount\" was cancelled by DI, so you can play Conditioning happily.\n\nAction:\n- You play Parity Shift\n- I DI it\n- You can play another Parity Shift or another political action of your choice. The repeat action 'taint' only kicks in when the action resolves, so no rule text is preventing you from doing so.\n\nThis isn't unique to card cancellers, by the way. Consider this without a DI:\n\nAction:\n- Queen Anne plays Kine Resources Contested.\n- Everyone declines to block.\n- Before the action resolves, Dollface plays Mask of a Thousand Faces to take the action off Queen Anne.\n- The action resolves.\n- Dollface is tainted. Queen Anne is not.\n\nBack to card cancellers. In combat:\n\n- You play Majesty\n- I play DI\n- You must declare a strike of some sort (which might be a default hand strike). No rules text prohibits you from playing Majesty again, so you can, if you have one. Or you could play Catatonic Fear, or whatever you want.\n\nGain additional strikes:\n\n- You play Blur for 2 additional strikes.\n- I play DI.\n- Does anything prevent you from playing Blur again? There are no generic rules preventing duplicate combat cards each round e.g. you can maneuver with Flash twice if you need to (either the opponent maneuvers back, or your first one gets cancelled etc.) There is a rule that you can only have one source of additional strikes per round. But what did your Blur do?\n- The game remembers that:\na) you played a card called Blur\nb) it was a combat card\nc) nothing about the card text\nd) whether you paid the cost or not (which, due to DI saying \"no cost is paid\", you wouldn't have)\n- \"A minion cannot use more than one card or effect to gain additional strikes per round of combat.\" The card was cancelled, so you haven't gained any additional strikes.\n- So there is nothing stopping you playing Blur again. Or another source of additional strikes of your choice.\n\n[LSJ 20100206]\n>\n> LSJ wrote:\n> > What about canceling a combat card that provides additional\n> > strikes, can the opposing minion play another source of additional\n> > strikes?\n> Yes.\n>\nImmortal Grapple:\n- You play Immortal Grapple. Relevant card text: \"A vampire may play only one Immortal Grapple each round.\"\n- I play DI.\n- The game remembers that you have played a combat card called Immortal Grapple, no cost was paid, and none of its card text. The game does not remember that this Immortal Grapple says \"A vampire may play only one Immortal Grapple each round.\"\n- You have a second IG in hand and want to play it. But you can't. Why? Because this new Immortal Grapple has card text that says: \"A vampire may play only one Immortal Grapple each round.\" And the game remembers that you've played an earlier Immortal Grapple, so this would be playing a second, violating the card text on this second IG. Since that would break the card text of the second IG, you can't play it.",
+      "Id": "67875"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 3, 2014, 9:19\u202FAM",
+      "Body": "> Nac wrote:\n> It was unclear for me the way in which No Repeat Action worked in interaction with a \"cancel\" effect. Now I know why it goes that way but the uneasyness remains: \"cancel\" works different with different kind of cards and it is hard for me to grasp a genenal understanding of things like that, I prefer general definitions in that refer to rules. Cancel a strike means something different, in practice, than canceling an aditional strike and they're both combat cards.\n>\nJames is right. A short way to remember it is:\nfor action cards: the action never happened (but the card was played) for other cards: the card was played but with a blank text (= no effect)\n\nAll the rules in the rulebook still apply (you can't play twice the same action modifier for instance, even if it's cardtext was blanked).\n\nAlso remember that, by default, the cost of cancelled card is paid, unless written otherwise (DI, Sudden Reversal... but not Santaleous). Since the cost of an action is paid when the action resolves succesfully, a cancelled action is never paid.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "67880"
+    },
+    {
+      "Author": "Nac",
+      "Date": "Dec 4, 2014, 4:03\u202FAM",
+      "Body": "Many many thanks jamesatzephyr. I thought the \"only 1 source of aditional\" worked the way acion modifiers and reactions do, now I know I was mistaken. Great explanation",
+      "Id": "67909"
+    },
+    {
+      "Author": "Thalco",
+      "Date": "Jan 24, 2020, 12:03\u202FPM",
+      "Body": "With this thread clarifying the repeat action clause, I\u2019d like to make sure I\u2019m playing something right.\n\nIf I play Mirror Image for stealth and then become blocked. Can I still play a second mirror image in combat? And does it work the same the other way around. Same for occlusion.\n\n. Prince of Liverpool and UK NC",
+      "Id": "98732"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 25, 2020, 9:43\u202FAM",
+      "Body": "> Thalco wrote:\n> If I play Mirror Image for stealth and then become blocked. Can I still play a second mirror image in combat? And does it work the same the other way around. Same for occlusion.\n>\nThe rules on the same minion playing an action modifier more than once during an action don't care about playing the same card as a combat card (or any other card type). When it's played as a combat card, it's just a combat card.\n\n(You could potentially have a card that had two uses like that, but which had extra card text limiting it to once per action regardless of which way it had been played, but I can't think of anything relevant.)",
+      "Id": "98743"
+    },
+    {
+      "Author": "Raven",
+      "Date": "Nov 6, 2020, 2:23\u202FPM",
+      "Body": "> jamesatzephyr wrote:\n>\n> Action:\n> - You play Parity Shift\n> - I DI it\n> - You can play another Parity Shift or another political action of your choice. The repeat action 'taint' only kicks in when the action resolves, so no rule text is preventing you from doing so.\n>\nis it true (i suppouse that DI=Direct Intervention)?\n\nGame should remember that political action was played as you described it on example of Immortal Grapple.\n\ndoes it mean if political action is cancelled by Dark Influences then this vamp can play another political action?\n\ndoes it works the same with cards that can be played only once per game/once pre combat/ once per turn?",
+      "Id": "101073"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2020, 3:23\u202FPM",
+      "Body": "> Raven wrote:\n>\n> > jamesatzephyr wrote:\n> >\n> > Action:\n> > - You play Parity Shift\n> > - I DI it\n> > - You can play another Parity Shift or another political action of your choice. The repeat action 'taint' only kicks in when the action resolves, so no rule text is preventing you from doing so.\n> >\n> is it true (i suppouse that DI=Direct Intervention)?\n>\nIt is.\n\n> Raven wrote:\n> Game should remember that political action was played as you described it on example of Immortal Grapple.\n>\nIt does. That's why you can't play another Ancient Influence if the first one was canceled as played;\n\n> Raven wrote:\n> does it mean if political action is cancelled by Dark Influences then this vamp can play another political action?\n>\nYes.\n\n> Raven wrote:\n> does it works the same with cards that can be played only once per game/once pre combat/ once per turn?\n>\nNo.\n\nYou must be careful about \"playing\" a card, and performing an action.\n\nThe \"no repeat action\" rule kicks in when the action is resolved (successfully or not), not when the action card is played.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101074"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "ThreadId": "vekn-22875",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/22875-mask-of-a-thousand-faces",
+  "Title": "Mask of a Thousand Faces",
+  "Messages": [
+    {
+      "Author": "henrik",
+      "Date": "Feb 12, 2012, 5:05\u202FPM",
+      "Body": "Vampire X has card text +1 stealth.\nVampire Y has card text +1 bleed.\n\nFrom what I can read out of the rulings, vampire X can use Mask of a Thousand Faces to take over a bleed action started by vampire Y, but vampire Y can not use Mask of a Thousand Faces to take over a bleed action started by vampire X.\n\nWhy does only one of these effects stop other minions from using Mask of a Thousand Faces, what makes them different from each other?\n(I understand that stealth and bleed are different effects, but not why they're handled differently by Mask of a Thousand Faces.)\nIs there a list of these \"other effects\" that disables the use of Mask of a Thousand Faces, or some way to tell them apart?\n\n> Rulings wrote:\n> The action remains the same (same level, superior or inferior, same parameters, etc.). All action modifiers remain in effect, but inherent modifiers (a minion's inherent +1 bleed or +1 bleed from a Laptop, e.g.) do not. Other effects applied to the action (e.g., Backways, Deflection) also carry over to the new (masking) vampire. [RTR 19951110] [LSJ 19971201] [RTR 20030519] [LSJ 20030520] [LSJ 20030521]\n>\n> Rulings wrote:\n> Mask cannot be used to mask an action if the Masking vampire is not capable of taking that action, nor if any action modifiers, reactions, or other effects (including inherent stealth) have been played on this action that could not have been played/used if the Masking vampire were the acting minion. (Not counting blood that has already been spent.) [RTR 19980623] [RTR 20030519] [RTR 20041202]\n>\nName: Mask of a Thousand Faces\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Untap the acting minion and tap this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.",
+      "Id": "22875"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 12, 2012, 8:20\u202FPM",
+      "Body": "It's because:  +1 stealth effect is immediatly applied when the action starts. +1 bleed effect is only applied when the action resolves.\nSo you can't Mask the action in the first case because built-in stealth effect can't be masked, but you can Mask the action in the second case because the effect hasn't been used.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "22893"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 13, 2012, 12:01\u202FPM",
+      "Body": "> Ankha wrote:\n> It's because:  +1 stealth effect is immediatly applied when the action starts. +1 bleed effect is only applied when the action resolves.  So you can't Mask the action in the first case because built-in stealth effect can't be masked, but you can Mask the action in the second case because the effect hasn't been used.\n>\nBut the +1 bleed effect should be announced when the action starts, just like the +1 stealth.\nBy the same logic, why doesn't the +1 stealth only get applied when resolving blocks? Technically, before any block attempts the +1 stealth hasn't been \"used\" either. Both effects (+1 stealth and +1 bleed) could be seen as incentives to block/not block, bounce/not bounce etc so I don't think the argument that one might chose not to attempt to block in the +1 stealth case really holds up.\n\nAre all +/- bleed modifiers only applied when the action resolves?\nIs this covered in the rules somewhere?",
+      "Id": "22929"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Feb 13, 2012, 12:18\u202FPM",
+      "Body": "> henrik wrote:\n> But the +1 bleed effect should be announced when the action starts, just like the +1 stealth.\n>\nReal-world logic : you believe the people to have +1 bleed, it's only once the action is masked that you discover it was not the same people. But you can't \"believe\" the action being more stealthy than it was..\n\nI understand that real world analogy does not give rule explanation",
+      "Id": "22930"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 13, 2012, 7:10\u202FPM",
+      "Body": "@Henrik:\nWhen you tap the vampire, they use the +1 stealth. The action immediately gains the additional stealth and not when a block attempt is made.\n\nWhen you tap a vampire with +1 bleed, they don't 'use' the +1 bleed until the action resolves. It's not 'actually' +1 bleed until the action resolves (until then it attempting to bleed with +1 bleed).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "22958"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 13, 2012, 10:59\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> @Henrik:\n> When you tap the vampire, they use the +1 stealth. The action immediately gains the additional stealth and not when a block attempt is made.\n>\n> When you tap a vampire with +1 bleed, they don't 'use' the +1 bleed until the action resolves. It's not 'actually' +1 bleed until the action resolves (until then it attempting to bleed with +1 bleed).\n>\nThis is a repeat of what Ankha already said.\nI understand that the +1 bleed only has any real effect when the action actually resolved, but that doesn't mean that the action doesn't have a bleed amount until the resolution. There might be a ruling to say that though, but I can't find it in the rulebook, complete rules reference or old LSJ rulings. If there is anything there that I have missed I'd love a link, I'm asking because I'd like to understand how Mask of a Thousand Faces interacts with different effects in order to be able to rule on future unforseen situations. Getting illogical (to me at least) answers without any rulings behind them doesn't help much with that, neither does \"real-world logic\".\nSorry about that.\n\nBut either way... Just like bleed amount is, in a way, irrelevant until the resolution of an action, so is stealth irrelevant until block attempts are being made. I don't understand why +bleed would work differently than any other +whatever modifier and only get applied later during the action instead of when the card/effect is played/announced. And as stated, if the answer is as simple as \"because it's different\", I'd love for that difference to be implemented into the rulebook and the complete rules reference (or pointed out to me in case I've just missed it, which could happen).",
+      "Id": "22963"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Feb 13, 2012, 11:04\u202FPM",
+      "Body": "Also, the bleed amount is not completely irrelevant before the action is resolved, as there is at least one card (Archon Investigation) which looks at the amount someone is attempting to bleed for.",
+      "Id": "22964"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 13, 2012, 11:13\u202FPM",
+      "Body": "> Mael wrote:\n> Also, the bleed amount is not completely irrelevant before the action is resolved, as there is at least one card (Archon Investigation) which looks at the amount someone is attempting to bleed for.\n>\nArchon Investigation is played during the resolution though, just like Spying Mission and Strix (might be more as well).",
+      "Id": "22965"
+    },
+    {
+      "Author": "Mael",
+      "Date": "Feb 13, 2012, 11:41\u202FPM",
+      "Body": "> henrik wrote:\n>\n> > Mael wrote:\n> > Also, the bleed amount is not completely irrelevant before the action is resolved, as there is at least one card (Archon Investigation) which looks at the amount someone is attempting to bleed for.\n> >\n> Archon Investigation is played during the resolution though, just like Spying Mission and Strix (might be more as well).\n>\nIt's not though. The wording on it is \"Only usable when a minion is attempting to bleed you ....\". So you can play it before declaring blockers if the conditions are met and should it get canceled you can still block as normal (unlike deflection etc).",
+      "Id": "22966"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Feb 13, 2012, 11:46\u202FPM",
+      "Body": "Was there a ruling on A.I. that confirms that it is played during resolution?\nMaybe something to do with night moves or the like.\n\nArchon Investigation 3:pool:\nMaster: out-of-turn.\nOnly usable when a minion is attempting to bleed you and the bleed amount is 4 or more. Burn the acting minion. (The action is not successful.)\n\nI thought it was playable at any time during a bleed of 4 or more.",
+      "Id": "22967"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 14, 2012, 12:12\u202FAM",
+      "Body": "@Henrik:\n\nYes, but think of an action such as... Bum's Rush. It is entirely irrelevant that a minion has +1 bleed when taking the action Bum's Rush. But +1 stealth is not.\n\nSo it has been ruled that:\n\n+stealth (which is gained AND HAS EFFECT immediately) does prevent the use of MoaTF\n\n+bleed (which can be gained BUT NOT ALWAYS have immediate effect) does not prevent the use of MoaTF\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "22968"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 14, 2012, 8:59\u202FAM",
+      "Body": "Archon Investigation is playable any time before resolution (cardtext: \"attempting\"). It would be quite terrible otherwise (since we have no ally with base bleed of 4)\n\nI'll try to work on something regarding the built-in +1/-1 stealth. I'll put that on the review.",
+      "Id": "22989"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 14, 2012, 9:03\u202FAM",
+      "Body": "> Mael wrote:\n>\n> > henrik wrote:\n> > Archon Investigation is played during the resolution though, just like Spying Mission and Strix (might be more as well).\n> >\n> It's not though. The wording on it is \"Only usable when a minion is attempting to bleed you ....\". So you can play it before declaring blockers if the conditions are met and should it get canceled you can still block as normal (unlike deflection etc).\n>\n> Shard wrote:\n> Was there a ruling on A.I. that confirms that it is played during resolution?\n>\nMy mistake. AI is played before resolution (but after declining to block).\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/61545d458e93561c\n\n> Juggernaut1981 wrote:\n> @Henrik:\n> Yes, but think of an action such as... Bum's Rush. It is entirely irrelevant that a minion has +1 bleed when taking the action Bum's Rush. But +1 stealth is not.\n>\n> So it has been ruled that:\n>\n> +stealth (which is gained AND HAS EFFECT immediately) does prevent the use of MoaTF\n>\n> +bleed (which can be gained BUT NOT ALWAYS have immediate effect) does not prevent the use of MoaTF\n>\nDiscussing bleed modifiers (non-)effects on a non-bleed action is, indeed, entirely irrelevant.\n\nYou're still just repeating. I know it has been ruled that way, I'm just asking what the inherent difference is between stealth and bleed modifiers. And seeing as I asked for a rulebook reference or ruling about bleeds being applied during action resolution and not when they're played/announced I'm not sure what you wish to accomplish here.\n\nI understand how the card works. I understand that +1 stealth is considered an effect that can't be masked, I understand that +1 bleed isn't considered an effect that can't be masked. I do not see the logic in there though, and arguments that aren't based on logic and/or rules doesn't help me understanding the difference.\n\na) Stealth and bleed are applied during different timing windows of the action. Stealth is applied when announced/played, bleed is applied during the resolution of the action.\nb) Stealth and bleed are applied when announced/played.\n\nYou and Ankha advocates option a. It might very well be true, but I can't find anything in the rules to support it. If option A is true, I think it should be written in to the rulebook, complete rules reference or at least be recognized in a ruling.\nOption A also seems to bring with it that Archon Investigation can't be played (at least not on vampires with +3 bleed card text who doesn't get +bleed from actions/modifier cards).\nI'm also curious to whether all bleed modifications are kept on hold until resolution, or if this is unique for vampire card texts.\nIf Keith Moody bleeds with Govern the Unaligned, what's the bleed amount when announcing the action?\nIf Arika bleeds with cardless action, what's the bleed amount when announcing the action?\nIf Cybele bleeds with her card text action, what's the bleed amount when announcing the action?\n\nI advocate option b. I find this to be the most intuitive way to handle modifiers, since that's the way cards/effects are generally handled in VtES. You play a card (or use card text from cards in play) and resolve it's effect, as per step II.C.3 of the  complete rules reference .",
+      "Id": "22990"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 14, 2012, 10:25\u202FAM",
+      "Body": "Adding additional bleed does not change the 'current' situation.\n\nVamp A (owned by Meth 1) has +1 bleed is bleeding. Vamp Z (owned by Meth 2) is blocking.\nVamp B (owned by Meth 1) plays MoaTF (no +bleed). Vamp Z is still blocking.\n\nThe change in bleed amount does not affect the current, immediate situation. Result: MoaTF is legal to play.\n\nVamp A (owned by Meth 1) is bleeding. Vamp Z (owned by Meth 2) is blocking.\nVamp B (owned by Meth 1) has built-in +1 stealth and attempts to play MoaTF.\n\nThis would immediately change the ability of Vamp Z to block (and not because of the MoaTF). So therefore Vamp B is gaining an effect not availble to Vamp A. Therefore, Vamp B cannot play MoaTF.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "22995"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 14, 2012, 10:31\u202FAM",
+      "Body": "There's still a big difference between +bleed and +stealth.\n\nPlayer 1 controls Jost Werner and Nepata (basic obfuscate).\n\nJost Werner (+1 stealth) attempts to bleed. Minion B attempts to block and fails (no intercept). The action can't be masked afterwards by Nepata because it would mean that the action would have been blocked by B's attempt.\n\nIf you're considering the same scenario where B wouldn't attempt to block, you would be able to play Mo1KF if the rulings didn't say that the action is tainted by Jost +1 stealth.\n\nSince there's no card that create some impossible retroactive effects such as the one described above that would be due to the current bleed amount, stealth and bleed behave differently.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "22996"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 14, 2012, 12:27\u202FPM",
+      "Body": "> henrik wrote:\n> I understand how the card works. I understand that +1 stealth is considered an effect that can't be masked, I understand that +1 bleed isn't considered an effect that can't be masked. I do not see the logic in there though, and arguments that aren't based on logic and/or rules doesn't help me understanding the difference.\n>\nThe value of the bleed is nothing but a number until the action is resolved.\n\nThat is the statement that is under review. If a card should read \"John Doe has +1 intercept when attempting block vampires bleeding you for 3 or more\", then I'll change it. But since such texts don't exist, I'm keeping it as it is.",
+      "Id": "22998"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 14, 2012, 2:30\u202FPM",
+      "Body": "> Pascal wrote:\n> The value of the bleed is nothing but a number until the action is resolved.\n>\n> That is the statement that is under review. If a card should read \"John Doe has +1 intercept when attempting block vampires bleeding you for 3 or more\", then I'll change it. But since such texts don't exist, I'm keeping it as it is.\n>\nThe same could be said for stealth until a block attempt is being made. It's nothing but a number until then.\nMy point is that the +1 bleed is still \"used\" in some way when announcing the action. If it's not used/applied/in effect than why is it announced? What does it mean to announce a bleed for 2? (Questions more for the rules team review than one needing an answer right away.)\n\nVampire X (+1 bleed) is bleeding.\nVampire Y (no +bleed) plays Mask of a Thousand Faces.\nThe original bleed here is a bleed for 2 (1 base and the +1 from card text). The +1 bleed is (in my opinion) an effect that \"could not have been played/used if the Masking vampire were the acting minion\".\nGoing even further, one could even argue that the card text on Mask of a Thousand Faces should deny vampire Y to continue the action.\n>\n> Mask wrote:\n> Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action.\n>\nIs vampire Y capable of performing a bleed for 2 (without the use of any cards or other effects)?\n\nI do agree that as long as your \"John Doe\" or any other similar card doesn't exist there's no game breaking consequences of keeping the current ruling.\nSomething to consider though:\nWithout the existence of The Slow Withering (and any cards messing with superior vs inferior disciplines, can't remember any others), would a vampire with inferior presence be allowed to use Mask of a Thousand Faces to take over an Intimidation played on superior and thus change the announced action (the only change would be that the bleed amount was reduced by 1)? Of course, making up weird cards that contradicts rules and rulings could probably be done for a lot of cases and it's not really useful to try to have rules that cover every imaginable card that could possibly be created. Rules and rulings should (in my opinion) be made as generic, consistent and universally appliable as possible. I don't think the current ones for Mask of a Thousand Faces is.\nI think that Mask of a Thousand Faces would become even less playable if the rulings got changed. Not sure if that would be bad though, the card is weird and usually brings more confusion than usefulness to a table. Either way, I'll await the rules team before crashing this thread again. Just thought I'd give some arguments for changing the current ruling.\nThanks <3",
+      "Id": "23003"
+    },
+    {
+      "Author": "Wedge",
+      "Date": "Feb 14, 2012, 2:47\u202FPM",
+      "Body": "> Shard wrote:\n> Was there a ruling on A.I. that confirms that it is played during resolution?\n>\nMy mistake. AI is played before resolution (but after declining to block).\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/61545d458e93561c\n\nThanks, for the link Henrik.",
+      "Id": "23004"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 14, 2012, 4:22\u202FPM",
+      "Body": "> henrik wrote:\n>\n> > Pascal wrote:\n> > The value of the bleed is nothing but a number until the action is resolved.\n> >\n> > That is the statement that is under review. If a card should read \"John Doe has +1 intercept when attempting block vampires bleeding you for 3 or more\", then I'll change it. But since such texts don't exist, I'm keeping it as it is.\n> >\n> The same could be said for stealth until a block attempt is being made.\n>\n... or someone plays Draba.\n\n> henrik wrote:\n> It's nothing but a number until then.\n> My point is that the +1 bleed is still \"used\" in some way when announcing the action. If it's not used/applied/in effect than why is it announced? What does it mean to announce a bleed for 2? (Questions more for the rules team review than one needing an answer right away.)\n>\n> Vampire X (+1 bleed) is bleeding.\n> Vampire Y (no +bleed) plays Mask of a Thousand Faces.\n> The original bleed here is a bleed for 2 (1 base and the +1 from card text). The +1 bleed is (in my opinion) an effect that \"could not have been played/used if the Masking vampire were the acting minion\".\n> Going even further, one could even argue that the card text on Mask of a Thousand Faces should deny vampire Y to continue the action.\n> >\n> > Mask wrote:\n> > Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action.\n> >\n> Is vampire Y capable of performing a bleed for 2 (without the use of any cards or other effects)?\n>\nNo, the action is a \"bleed\" (the amount is irrelevant to determine the nature of the bleed).\nAnnouncing the bleed amount is more sportsmanship than anything else.\n\n> henrik wrote:\n> Without the existence of The Slow Withering (and any cards messing with superior vs inferior disciplines, can't remember any others), would a vampire with inferior presence be allowed to use Mask of a Thousand Faces to take over an Intimidation played on superior and thus change the announced action (the only change would be that the bleed amount was reduced by 1)?\n>\nNo. The action listed as superior or inferior are different (even if they do almost the same thing). Vampire with inferior presence can't play the action listed under the superior effect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23006"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 15, 2012, 10:12\u202FAM",
+      "Body": "> henrik wrote:\n> Is vampire Y capable of performing a bleed for 2 (without the use of any cards or other effects)?\n>\nThe current rulings imply that an effect is considered used only after it's resolved. Stealth resolves immediately - the action has +1 additional stealth, independant of whether the anyone attempts to block or not (consider cards like Keep it Simple or Draba). The bleed amount only resolves when pool is actually burnt, and a number of effects can change that (Conditioning and Telepathic Counter for example.)\n\nAn informative thread is  this one on Form of Mist + Mask , especially the bits about when +strength counts as a \"used effect\".\n\nOf course, rulings like  LSJ's ruling that Nakhthorheb cannot be masked, as his \"minions with corruption counters cannot block\" text is considered used, even if there are no corruption counters on the table, do rather muddy the waters around the whole thing.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "23081"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 15, 2012, 11:27\u202FAM",
+      "Body": "(BTW, we could really live without MO1KF, considering the lengthy rulings around it. Wouldn't mind if it were banned.)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "23087"
+    },
+    {
+      "Author": "henrik",
+      "Date": "Feb 15, 2012, 11:44\u202FAM",
+      "Body": "> drnlmza wrote:\n>\n> > henrik wrote:\n> > Is vampire Y capable of performing a bleed for 2 (without the use of any cards or other effects)?\n> >\n> The current rulings imply that an effect is considered used only after it's resolved. Stealth resolves immediately - the action has +1 additional stealth, independant of whether the anyone attempts to block or not (consider cards like Keep it Simple or Draba). The bleed amount only resolves when pool is actually burnt, and a number of effects can change that (Conditioning and Telepathic Counter for example.)\n>\nI don't see how Draba or Keep it Simple would make stealth more block attempt independant than Telepathic Counter, Archon Investigation or Justicar Retribution would make +bleed resolution independant.\nDraba and Keep it Simple checks/changes/uses the current stealth value, just like Telepathic Counter, Archon Investigation or Justicar Retribution checks/changes/uses the current bleed amount.\nI do understand the current rulings reason a bit more, but I still think it's more confusing than having +bleed be an effect (seeing as it acts and looks like one in most ways). The problem I have with the ruling is that I find it hard to apply on other things. How am I supposed to know what effects are applied when? Is bleed the exception here, the only one that's \"used\" during resolution?\nThe way I see it, effects should either be\na) used/applied right away (when announcing/playing the card)\nor\nb) not used/applied until \"needed\" (when anything checks for them, like bleed resolution, block attempts, AI, Draba etc.)\n\nThe current rulings seems to have each effect (if it even is considered an effect) work in it's own way, which may or may not be the same as another effect. So what you said about the current rulings implying that effects are only used when resolved isn't entirely correct.\n>\n> A vampire with +1 strength is considered \"using\" xer +1 strength when declaring a hand strike (for 2), even if combat ends before the strike is resolved.\n> Vampire X's +1 strength text is considered to be identical to vampire Y's +1 strength text, Mask of a Thousand Faces can be played after the case above.\n>\n> A vampire with +1 stealth is considered \"using\" xer +1 stealth when announcing the action.\n> Vampire X's +1 stealth text is not considered to be identical to vampire Y's +1 stealth text, Mask of a Thousand Faces can not be played.\n>\n> A vampire with +1 bleed is not considered \"using\" xer +1 bleed until the action is successfully resolved, even if the bleed amount is announced and/or changed before then.\n> Vampire X's +1 bleed text isn't considered at all regarding Mask of a Thousand Faces.\n>\nThat's 3 different solutions for 3 rather common vampire card texts. As you said, throwing Nakthoreb and a bunch of other stuff into the mix and it gets rather muddy indeed.\n\nThe only upside I can see to having it the current way is that it makes Mask of a Thousand Faces a bit more useful (and that a bunch of us has the current rulings memorized). In my opinion that doesn't outweigh the inconsistency it brings. As it is now I can read pages and pages of google discussions and still not get any closer to being able to figure out how Mask of a Thousand Faces considers an \"effect\" that isn't explicitly mentioned in one of the older rulings.",
+      "Id": "23106"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 15, 2012, 1:01\u202FPM",
+      "Body": "> drnlmza wrote:\n>\n> > henrik wrote:\n> > Of course, rulings like  LSJ's ruling that Nakhthorheb cannot be masked, as his \"minions with corruption counters cannot block\" text is considered used, even if there are no corruption counters on the table, do rather muddy the waters around the whole thing.\n> >\n> That ruling seems to contradict the classic TGB + Moa1kF ruling. I'll put it under review - I think we need a simple statement that says when Mask is usable, and when it isn't (regarding the special abilities, mostly).\n>",
+      "Id": "23145"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 15, 2012, 2:20\u202FPM",
+      "Body": "I think the problem comes from the idea that permanent effects are \"used\", because it forces you to set a timing on something that should not have any. It would be much easier to just rule that any permanent effect does not prevent playing MoTF, but of course does not carry on to the next acting minion.\n\nYou have to announce the use of an effect and the other acting vampire could not play it? You cannot play MoTF after. You don't have to announce it? You can play MoTF but the effect vanishes when the acting minion changes. Yes, it means that under some weird circumstances a blocker can be sent to torpor by Thetmes before realizing it was in fact Tansu Bekir acting, but screw roleplaying when you are trying to make a sound game system.",
+      "Id": "23198"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Feb 21, 2012, 11:51\u202FAM",
+      "Body": "> Non-existant user wrote:\n> I think the problem comes from the idea that permanent effects are \"used\", because it forces you to set a timing on something that should not have any. It would be much easier to just rule that any permanent effect does not prevent playing MoTF, but of course does not carry on to the next acting minion...\n>\nThank you. Errata this already to be parallel with Shilmulo Deception's wording. Just worry about cards played, boom, headache over. It's tiresome trying to follow the thread of this card's ruling migration over the years.\n\nShilmulo Deception\nReaction\nchi: Only usable when a minion you control successfully blocks (play before combat). Not usable if the blocking minion played any reaction cards that this vampire could not play. Do not tap the blocking minion; tap this reacting vampire instead. Now this vampire is the blocking vampire (and combat begins as normal).\nCHI: As above, and this vampire gets an optional maneuver during the first round of the resulting combat.\n\nFor Mask of 1000 Faces just sub in \"if the acting minion played any action modifier cards...\" KISS design, Keep It Short and Sweet, helps clean messy things up.",
+      "Id": "23777"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 21, 2012, 1:57\u202FPM",
+      "Body": "> Azel wrote:\n> For Mask of 1000 Faces just sub in \"if the acting minion played any action modifier cards...\" KISS design, Keep It Short and Sweet, helps clean messy things up.\n>\nThis is essentially the  Camarilla Edition version of the card, and it was explicitly errata'd away from that version.\n\nThat change predates my involvement with this game, and I can't find any record of the discussion around it, but this  RTR post's mention of using Backways and masking with a non-Gangrel vampire is an interesting example of the type of odd corner cases just limiting Mask to action modifiers leads to.\n\nIt's of course highly debatable whether this is worse than the current set of odd corner cases, but it's worth bearing in mind that this version has been tried.\n\nShimulo Deception has some similiar issues, with things like clan-specific intercept and such, but since it happens only after a successful block, there's less obvious scope for abuse, so it seems fine.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "23784"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Feb 21, 2012, 4:40\u202FPM",
+      "Body": "> drnlmza wrote:\n> That change predates my involvement with this game, and I can't find any record of the discussion around it, but this  RTR post's mention of using Backways and masking with a non-Gangrel vampire is an interesting example of the type of odd corner cases just limiting Mask to action modifiers leads to.\n>\nThe problem here is not Mask, it is Backways. Tapping the Backways should be an Action Modifier and all similar effects granted by permanent cards should have a proper timing. LSJ kind of knew it since the imbued Powers were worded that way, but such a change would require errating too many cards.",
+      "Id": "23794"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Feb 21, 2012, 7:05\u202FPM",
+      "Body": "> Non-existant user wrote:\n> The problem here is not Mask, it is Backways. Tapping the Backways should be an Action Modifier and all similar effects granted by permanent cards should have a proper timing. LSJ kind of knew it since the imbued Powers were worded that way, but such a change would require errating too many cards.\n>\nYou are pretty right. Card ability does not resolve as card played ; that's why, for example, Maris Streck or Anu Diptinatpa are widly more powerful than what you would believe at first read.\n\nStill, the overhaul is not doable without a complete new edition and a ginormous amount of effort. It's probably not worth it.",
+      "Id": "23808"
+    },
+    {
+      "Author": "Azel",
+      "Date": "Feb 22, 2012, 6:14\u202FAM",
+      "Body": "> Ohlmann wrote:\n>\n> > Non-existant user wrote:\n> > The problem here is not Mask, it is Backways. Tapping the Backways should be an Action Modifier and all similar effects granted by permanent cards should have a proper timing. LSJ kind of knew it since the imbued Powers were worded that way, but such a change would require errating too many cards.\n> >\n> You are pretty right. Card ability does not resolve as card played ; that's why, for example, Maris Streck or Anu Diptinatpa are widly more powerful than what you would believe at first read.\n>\n> Still, the overhaul is not doable without a complete new edition and a ginormous amount of effort. It's probably not worth it.\n>\nOr we could just split the difference and go back to the banning solution. I wouldn't mind if M1KF, Maris Streck, and Anu were all banned. Clean up the game already. And while we're at it, might I petition for a few more keywords, too?",
+      "Id": "23827"
+    }
+  ]
+}

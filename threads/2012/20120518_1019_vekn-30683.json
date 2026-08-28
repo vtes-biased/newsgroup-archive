@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-30683",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/30683-registering-events",
+  "Title": "Registering events",
+  "Messages": [
+    {
+      "Author": "yappo",
+      "Date": "May 18, 2012, 10:19\u202FAM",
+      "Body": "Following my debacle with how to register an upcoming event here, it struck me how strange it is that the calendar registration doesn't generate a forum announcement.\n\nIt's not exactly rocket science to automate a forum post from the data given when you submit your event to the calendar.\n\nSten",
+      "Id": "30683"
+    },
+    {
+      "Author": "Azazel",
+      "Date": "May 18, 2012, 1:44\u202FPM",
+      "Body": "I have wished for this months ago. Now that there is somebody else hoping to get it maybe they find time to do it.",
+      "Id": "30699"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 18, 2012, 6:40\u202FPM",
+      "Body": "> Azazel wrote:\n> I have wished for this months ago. Now that there is somebody else hoping to get it maybe they find time to do it.\n>\nIt should be optional though, because if all events have a post, you could just as well look at the calendar.\nWhat I'd like, is a link to output all incoming events as a list, with some filters (eg. what are all the incoming ECQ in Europe?)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "30717"
+    },
+    {
+      "Author": "yappo",
+      "Date": "Jun 19, 2012, 9:21\u202FAM",
+      "Body": "With the latest update on how to report a tournament (including a link to the calendared event), my suggestion that registering through the calendar automates a forum post for registration, is even further strengthened.\n\nSuch an automated post would include all relevant data, making reporting a matter of raping and pasting the registration-post and add the number of players along with some text to flesh the report out plus the TWD.\n\nAs of the current situation we have to manually enter data three times, with the explicit demand that such manually entered data interconnect with each other. That's, quite frankly, absurd.",
+      "Id": "32253"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jun 19, 2012, 9:39\u202FAM",
+      "Body": "It is not so simple task to make automatic posts with all the complex backend systems involved. You can always first enter your tournament into the event calendar and then copy+paste the relevant information to your forum post.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "32254"
+    },
+    {
+      "Author": "yappo",
+      "Date": "Jun 19, 2012, 10:09\u202FAM",
+      "Body": "> jhattara wrote:\n> It is not so simple task to make automatic posts with all the complex backend systems involved. You can always first enter your tournament into the event calendar and then copy+paste the relevant information to your forum post.\n>\nIt seems Jevents already supports automatic event-exports to facebook and twitter by means of AutoTweet. I'd assume it should be able to export to Kunena as well (or Fireboard or whatever you're using).",
+      "Id": "32255"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jun 19, 2012, 10:40\u202FAM",
+      "Body": "Forum is Kunena but the tournament registry is completely it's own custom built system.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "32257"
+    },
+    {
+      "Author": "yappo",
+      "Date": "Jun 19, 2012, 12:14\u202FPM",
+      "Body": "> jhattara wrote:\n> Forum is Kunena but the tournament registry is completely it's own custom built system.\n>\nIn that case it shouldn't be too hard to send a copy of the accepted data set (as the calendar currently is built to refuse \"incorrect\" data), to the forum (Kunena) data layer. Basically you need to read the php-code where Kunena stores a forum post and replicate it.\n\nI don't know if the user-ID is connected to a server-side session ID,or associated with a coookie being bouced between browser and server. In the same way I don't know wether the calendar-ID is generated before storing the data or extracted after the data is stored. In the latter case the ID (and this the link) has to be fetched before the copy is sent to Kunena storage.\n\nEither way, complex back-ends shouldn't matter all that much as the suggested feature (minus an eventual calendar-ID) is all handled at the php front-end.",
+      "Id": "32260"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Jun 19, 2012, 5:56\u202FPM",
+      "Body": "It's still work. It would require reverse engineering what Kunena exactly does when a post is created. And reverse engineering is never easy, simple or fast. And with back-end I meant the Joomla! framework in general, not the site back-end in particular.\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "32278"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-32930",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/32930-infernal-servitor-and-call-the-great-beast-timing",
+  "Title": "Infernal Servitor and Call the Great Beast timing",
+  "Messages": [
+    {
+      "Author": "Ankha",
+      "Date": "Jul 9, 2012, 10:30\u202FAM",
+      "Body": "I control only 1 Infernal Servitor, Nergal with a Call the Great Beast on it (with 10 counters).\n\nNergal puts the 11th counter on the Call the Great Beast. Does the Infernal Servitor 1/ burn because there's a moment where I control no infernal vampire at all 2/ not burn because the Call the Great Beast effect is resolved instantaneously so when Nergal is burned, the Great Beast is there?\n\nThanks.\n\nName: Infernal Servitor\nCardtype: Ally\nCost: 1 pool\nDiscipline: Daimoinon\nUnique demon with 2 life. 1 strength, 3 bleed. Requires an infernal vampire.\n[dai] Move the servitor to the ready region when recruited. Remove her from the game if she successfully performs an action (after resolution) or if you control no infernal vampires.\n[DAI] As above, and the servitor may play cards requiring Daimoinon [dai] or Obfuscate [obf] as a vampire.\n\nName: Call the Great Beast\n[BL:R1, KMW:PB]\nCardtype: Action\nClan: Baali\nCost: 1 blood\n+1 stealth action.\nPut this card on the acting Baali and put X ritual counters on it, where X is the capacity of this Baali. This Baali may put a ritual counter on this card as a +1 stealth action. When this card has more than 10 ritual counters, burn this Baali and choose three Disciplines. This card becomes a unique clanless independent infernal vampire with 9 capacity, 4 strength and 3 bleed. The Great Beast has the chosen three Disciplines at superior. Move 9 blood to him from the blood bank. The Great Beast can enter combat with any ready minion controlled by another Methuselah as a  action and can prevent 1 damage each combat.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32930"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 9, 2012, 5:22\u202FPM",
+      "Body": "The resolution of the CTGB effect isn't interrupted by Infernal Servitor's card text, I don't think.\n\nDoes anything in the game work that way?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32945"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Jul 9, 2012, 5:30\u202FPM",
+      "Body": "I would think that processes \"happening\" in the card text have no time windows between them. Like you can stockpile Spying Mission (only usable on a successful bleed but in the end it is not successful) or one would die due to a political action which happens to give her pool so she stays alive, and so on...\n\nIn this case I'm convinced Infernal Servitor doesn't get removed because it can't interfere in CtGB's inner changes so to speak\n\nOf course IANP, and I just guess how these \"happenings in card texts\" work...\n\nNC of Hungary\n\n///",
+      "Id": "32947"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Jul 9, 2012, 6:24\u202FPM",
+      "Body": "I would say that the resolution of CtGB triggers Servitor's text. Having no specific text means -as soon as possible- in my book.\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "32951"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 9, 2012, 6:31\u202FPM",
+      "Body": "The only way that I'm aware of that an effect can interrupt another effect is card text. Infernal Servitor does not have the required text.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32952"
+    },
+    {
+      "Author": "Megabaja",
+      "Date": "Jul 9, 2012, 7:05\u202FPM",
+      "Body": "Let's say A has 2 pool and a minion. B bleeds A with Frederick the Weak for one, having Changeling Skin Mask also. A's minion attempts to block, and Frederick plays Lost in Crowds. He increases bleed with Old Friend's making it for two. A cannot block and is forced to remove all of his pool. He is ousted. When exactly does he remove his only minion from play? Or, should he remove his minion first or should he remove his Powerbase: Montreal before that?\n\nIgnorance is bliss.\nCypher, Matrix",
+      "Id": "32956"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jul 9, 2012, 7:14\u202FPM",
+      "Body": "How does the timing of removal from play of cards owned by an ousted Methuselah matter in any way?\n\nTechnically, rulebook 9.1 states \"If you are ousted, all the cards you control are removed from the game.\" So, the answer is: You remove all of your cards at the same time.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "32957"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 9, 2012, 9:08\u202FPM",
+      "Body": "I would say that you cannot trigger the Infernal Servitor text in the middle of resolving the Great Beast.\n\n1) Great Beast Action occurs\na) Vampire with Great Beast Burns\nb) Great Beast turns into Vampire\n2) Great Beast Action resolves\n3) Infernal Servitor checks for Infernal Vampires and finds Great Beast.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "32961"
+    },
+    {
+      "Author": "Randy",
+      "Date": "Jul 10, 2012, 11:11\u202FAM",
+      "Body": "Name: Infernal Servitor\nCardtype: Ally\nCost: 1 pool\nDiscipline: Daimoinon\nUnique demon with 2 life. 1 strength, 3 bleed. Requires an infernal vampire.\n[dai] Move the servitor to the ready region when recruited. Remove her from the game if she successfully performs an action (after resolution) or if you control no infernal vampires.\n[DAI] As above, and the servitor may play cards requiring Daimoinon [dai] or Obfuscate [obf] as a vampire.\n\nI would say that the later part of the removal text on Infernal Servitor is constantly checking for infernal vampires in your controll region.\n\nAnd as such it's more of a question if there is ever a time in which there is no infernal vampire in your controll region.\n\nCall the Great Beast\nType: Action\nRequires: Baali\nCost: 1 blood\n+1 stealth action.\nPut this card on the acting Baali and put X ritual counters on it, where X is the capacity of this Baali. This Baali may put a ritual counter on this card as a +1 stealth action. When this card has more than 10 ritual counters, burn this card as a +1 stealth action. When this card has more than 10 ritual counters, burn this Baali and choose three Disciplines. This card becomes a unique clanless independent infernal vampire with 9 capacity, 4 strength and 3 bleed. The Great Beast has the chosen three Disciplines at superior. Move 9 blood to him from the blood bank. The Great Beast can enter combat with any ready minion controlled by another Methuselah as a  action and can prevent 1 damage each combat.\n\nRarity: BL:R1 KMW:PB\n\nAs the card text says after there are more than 10 counters burn the baali and choose disciplines. After that has occured the great beast enters play in all its might.\n\nand as such i would say there is a time when the baali is burned and the beast enters play and so the Infernal Servitor who consatnly checks for infernal vampires is removed.\n\nPrince of Liding\u00F6",
+      "Id": "32986"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 10, 2012, 12:02\u202FPM",
+      "Body": "Well, I'm pretty sure the correct answer is 2/ but I'd like Pascal's confirmation.\n\n(2/ because cards resolves instantaneously, see Eternals Mask of Sirius when at 4 pool etc.)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "32987"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Jul 10, 2012, 1:10\u202FPM",
+      "Body": "> Ankha wrote:\n> Well, I'm pretty sure the correct answer is 2/ but I'd like Pascal's confirmation.\n>\n> (2/ because cards resolves instantaneously, see Eternal Mask when at 4 pool etc.)\n>\nHe means The Eternals of Sirius of course.\n\nBaron of Frankfurt",
+      "Id": "32990"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 10, 2012, 8:50\u202FPM",
+      "Body": "Ankha,\nI still dispute the \"payment of costs happens at the same time as effect\" (which is the basis of Eternals of Sirius/Villein on 1 pool argument). That should be a different scenario; there is no payment involved in using CtGB.\n\nThe burning of the minion is not a cost of the Call the Great Beast. It is one of the effects of resolving the action to put a counter on CtGB. Since burning the vampire, choosing the disciplines and putting the Beast into play are all effects of putting the counter on CtGB, the Infernal Servitor sees them resolve concurrently (they are the immediate resolution of effects from the action of putting on the counter).\n\nCall the Great Beast\nType: Action\nRequires: Baali\nCost: 1 blood\n+1 stealth action.\nPut this card on the acting Baali and put X ritual counters on it, where X is the capacity of this Baali. This Baali may put a ritual counter on this card as a +1 stealth action.**The Action** When this card has more than 10 ritual counters, burn this card as a +1 stealth action. When this card has more than 10 ritual counters, burn this Baali and choose three Disciplines. This card becomes a unique clanless independent infernal vampire with 9 capacity, 4 strength and 3 bleed.**Effects of the card** The Great Beast has the chosen three Disciplines at superior. Move 9 blood to him from the blood bank. The Great Beast can enter combat with any ready minion controlled by another Methuselah as a action and can prevent 1 damage each combat.**Cardtext on your new Great Beast**\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "33022"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 11, 2012, 4:09\u202FAM",
+      "Body": "> Ankha wrote:\n> I control only 1 Infernal Servitor, Nergal with a Call the Great Beast on it (with 10 counters).\n>\n> Nergal puts the 11th counter on the Call the Great Beast. Does the Infernal Servitor 1/ burn because there's a moment where I control no infernal vampire at all 2/ not burn because the Call the Great Beast effect is resolved instantaneously so when Nergal is burned, the Great Beast is there?\n>\n> Thanks.\n>\n2- Infernal Servitor doesn't burn.",
+      "Id": "33032"
+    }
+  ]
+}

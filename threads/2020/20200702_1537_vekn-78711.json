@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-78711",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78711-deep-song-vs-obedience",
+  "Title": "Deep song vs obedience",
+  "Messages": [
+    {
+      "Author": "Bloodartist",
+      "Date": "Jul 2, 2020, 3:37\u202FPM",
+      "Body": "If my vampire is target of a deep song rush action, and I don't block it, can my vampire play obedience or is it locked before I can play it? (reactions have to be played by unlocked minions)\n\nThe \"about to enter combat\" window is kind of confusing.\n\nName: Deep Song\n[KoT:C/A2, HttB:PSam2, Anthology:4, SP:DoF4]\nCardtype: Action\nDiscipline: Animalism\n[ani]  Bleed with +1 bleed.\n[ANI] Frenzy.  Enter combat with and lock a vampire. That {target} vampire is considered the acting minion in that combat.\n\nName: Obedience\n[Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U, HttB:PKia3, SP:PoS2]\nCardtype: Reaction\nDiscipline: Dominate\nOnly usable {if} this vampire is about to enter combat with an acting younger vampire.\n[dom] Unlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn.\n[DOM] As above, but do not unlock the acting vampire.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "100229"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 2, 2020, 3:53\u202FPM",
+      "Body": "> Bloodartist wrote:\n> If my vampire is target of a deep song rush action, and I don't block it, can my vampire play obedience or is it locked before I can play it? (reactions have to be played by unlocked minions)\n>\n> The \"about to enter combat\" window is kind of confusing.\n>\n> Name: Deep Song\n> [KoT:C/A2, HttB:PSam2, Anthology:4, SP:DoF4]\n> Cardtype: Action\n> Discipline: Animalism\n> [ani]  Bleed with +1 bleed.\n> [ANI] Frenzy.  Enter combat with and lock a vampire. That {target} vampire is considered the acting minion in that combat.\n>\n> Name: Obedience\n> [Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U, HttB:PKia3, SP:PoS2]\n> Cardtype: Reaction\n> Discipline: Dominate\n> Only usable {if} this vampire is about to enter combat with an acting younger vampire.\n> [dom] Unlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn.\n> [DOM] As above, but do not unlock the acting vampire.\n>\nDeep Song has a \"lock + enter combat effect\" (simultaneous).\nObedience is played if the vampire is about to enter combat. \"About to\" happens before.\nSo the action is ended by Obedience before the \"lock + enter combat effect\" happens.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "100233"
+    }
+  ]
+}

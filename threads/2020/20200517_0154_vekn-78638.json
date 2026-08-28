@@ -1,0 +1,20 @@
+{
+  "ThreadId": "vekn-78638",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78638-transfusion-and-elemental-damage",
+  "Title": "Transfusion and elemental damage",
+  "Messages": [
+    {
+      "Author": "GuyRusso6",
+      "Date": "May 17, 2020, 1:54\u202FAM",
+      "Body": "I have a question about transfusion and environmental damage. The card text on transfusion seems to imply that the vampire themself must deal the damage to put a transfusion counter on the opposing minion. Would environmental damage from necrosis or groaning corpse work? In the case of necrosis I am assuming that the damage from the strike was prevented. Also, if necrosis was dodged would the environmental damage still hit later or would that be dodged as well?\n\nName: Transfusion\n[LoB:C]\nCardtype: Action Modifier\nCost: 1 blood\nDiscipline: Thanatosis/Necromancy\n[nec] Only usable after a successful action. Add 1 blood to a ready vampire.\n[thn] As [nec] above, but add 1 life to a ghoul or 1 blood to a ready vampire.\n[THN] Only usable after combat if this vampire is still ready and successfully inflicted any damage on the opposing minion in that combat. Put a transfusion counter on the opposing minion. If the minion now has 3 of your transfusion counters, burn them all to take control of that minion. Only one Transfusion may be played at superior each turn.\nArtist: John Bridges\n\nName: Necrosis\n[LK:4]\nCardtype: Combat\nDiscipline: Thanatosis/Potence\n[pot] Strike: hand strike at +1 damage.\n[thn] Strike: hand strike at +2 damage.\n[THN] As [thn] above, and the opposing vampire takes 1 unpreventable environmental damage during the press step this round (only effective if this strike was made at close range).\nArtist: Javier Santos\n\nName: Groaning Corpse\n[HttB:C/A2]\nCardtype: Combat\nCost: X blood\nDiscipline: Thanatosis\nOnly usable before range is determined.\n[thn] X is the number of Groaning Corpses already played this combat. The opposing minion takes 1 environmental damage each round this combat during normal strike resolution at close range.\n[THN] As above, but for 2 environmental damage. A vampire can play only one Groaning Corpse at superior each combat.\nArtist: Juan Calle\n\nAbashed the devil stood and felt how awful goodness is ~Milton~",
+      "Id": "99851"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 17, 2020, 7:42\u202FAM",
+      "Body": "> GuyRusso6 wrote:\n> I have a question about transfusion and environmental damage. The card text on transfusion seems to imply that the vampire themself must deal the damage to put a transfusion counter on the opposing minion.\n>\nCorrect. It is explicit, not implicit.\n\n> GuyRusso6 wrote:\n> Would environmental damage from necrosis or groaning corpse work?In the case of necrosis I am assuming that the damage from the strike was prevented.\n>\nNo, environmental damage is not inflicted by the minion.\n\n> GuyRusso6 wrote:\n> Also, if necrosis was dodged would the environmental damage still hit later or would that be dodged as well?\n>\nDodge \"protects the dodging minion and his possessions (cards on him) from the effects of the opposing strike. \" So you wouldn't take any damage from Necrosis.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99853"
+    }
+  ]
+}

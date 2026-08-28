@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-80258",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80258-rigor-mortis-and-aid-from-bats-and-other-manuver-strike-cards",
+  "Title": "Rigor Mortis and Aid from bats (and other Manuver + strike cards)",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jan 10, 2023, 7:19\u202FPM",
+      "Body": "Does canceling a Maneuver from a card like aid form bats cancel the entire card, or is only the maneuver canceled, and the strike still locked on?\n\nThere seem to be two possibly conflicting rulings on this:\n\nLSJ20050228 suggests that only the maneuver is canceled and the strike is still locked in, but technically only is about rigor mortis vs magnum and co.\n\nRTR20040501 says if a strike is canceled, the entire strike card (if any) is cancelled, including all other (simultaneous or future) effects.\nThis is of course not about maneuver cancelling directly, but about strike cancelling cancelling a future maneuver or press.\n\nIn general, in the discord we felt that these rulings are possibly in conflict, and would like a resolution/update/new ruling about this.\n\nAid From Bats\n\nRigor Mortis",
+      "Id": "107175"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jan 11, 2023, 1:39\u202FPM",
+      "Body": "AFAIK, with Rigor Mortis on THA, you simply cancel a maneuver, no matter the source - it can come from .44 Magnums, for example. So in your example, you just cancel one of the effects of the strike, it doesn't interfere with Aid from Bats in any other way.\n\nIf you cancel (e.g. with Primal Insticts) the whole strike, on the other hand, all of its effects are cancelled. Furthermore, if you used AfB to maneuver and then cancel your AfB with PI, you cannot choose another strike, as you are committed to use AfB's strike - as explained in RTR20040501.",
+      "Id": "107178"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 11, 2023, 1:52\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> Does canceling a Maneuver from a card like aid form bats cancel the entire card, or is only the maneuver canceled, and the strike still locked on?\n>\nThe latter.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107179"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Jan 11, 2023, 5:45\u202FPM",
+      "Body": "Why is this logically different than canceling a strike?\n\n> If the strike is canceled, the rest of the effect is also canceled. [RTR 20040501]\n>\nWhy does canceling a maneuver that is attached to other (future) things, not also cancel those things?",
+      "Id": "107180"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 11, 2023, 6:47\u202FPM",
+      "Body": "> kschaefer wrote:\n> Why is this logically different than canceling a strike?\n>\n> > If the strike is canceled, the rest of the effect is also canceled. [RTR 20040501]\n> >\n> Why does canceling a maneuver that is attached to other (future) things, not also cancel those things?\n>\nBecause you're using a maneuver provided by a strike, not a strike provided by a maneuver.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107181"
+    },
+    {
+      "Author": "self biased",
+      "Date": "Jan 12, 2023, 2:43\u202FPM",
+      "Body": "> Ankha wrote:\n> Because you're using a maneuver provided by a strike, not a strike provided by a maneuver.\n>\nis there a card where the strike is provided by a maneuver?",
+      "Id": "107189"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jan 14, 2023, 10:00\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > kschaefer wrote:\n> > Why is this logically different than canceling a strike?\n> >\n> > > If the strike is canceled, the rest of the effect is also canceled. [RTR 20040501]\n> > >\n> > >\n> > Why does canceling a maneuver that is attached to other (future) things, not also cancel those things?\n> >\n> Because you're using a maneuver provided by a strike, not a strike provided by a maneuver.\n>\nThis would in turn mean, if a card provides \"Maneuver with [x]\" (usually a press) cancelling the manuver cancels all other effects as well, correct?\n\nresist earth's grasp",
+      "Id": "107194"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 14, 2023, 10:53\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > Ankha wrote:\n> >\n> > > kschaefer wrote:\n> > > Why is this logically different than canceling a strike?\n> > >\n> > > >\n> > > > If the strike is canceled, the rest of the effect is also canceled. [RTR 20040501]\n> > > >\n> > > >\n> > > Why does canceling a maneuver that is attached to other (future) things, not also cancel those things?\n> > >\n> > >\n> > Because you're using a maneuver provided by a strike, not a strike provided by a maneuver.\n> >\n> This would in turn mean, if a card provides \"Maneuver with [x]\" (usually a press) cancelling the manuver cancels all other effects as well, correct?\n>\nCorrect. Rigor Mortis doesn't prevent the opposing minion from using maneuvers (like it prevents additional strikes), it cancels it (with any effects that depent on it).\n\nIt's not a prohibition  as described here :\n\n> LSJ wrote:\n> The prohibition on strikes prevents you from using strike effects (.44 magnum,\n> hands, Aid from Bats, etc.)\n>\n> The prohibition on additional strikes prevents you from using additional strike\n> effects (Blur, Acrobatics, Jacko's special, etc.)\n>\n> Similarly, a prohibition on presses would prevent you from using presses (Hawg,\n> Boxed In, etc.)\n>\nPlease note that the question was already asked on the newsgroup, but I think it was overlooked by LSJ (so the answer provided by Jozxyqk is not a \"correct answer\")\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/7oK-hKbOs9g/m/tTvJtSfRYg4J\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107195"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-77211",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77211-additional-strike-generation-sequencing",
+  "Title": "Additional Strike Generation Sequencing",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 5, 2018, 3:47\u202FAM",
+      "Body": "We had this situation come up during a game tonight. Minion A and Minion B are in combat. A is acting, B is blocking.\n\n- Initial strikes are resolved.\n-A declines to generate additional strikes.\n-B chooses to generate an additional strike.\n-Can A now generate an additional strike?\n\nWe ruled that they could, mostly due to this wording in the rulebook: \"The acting minion decides whether or not to gain additional strikes before the opposing minion, as usual.\" Some of us thought that the \"as usual\" language referred to the same way that the impulse passes during the pre-range, maneuver, press, and end of round phases.\n\nHaving looked for an answer online, the only thing I could find is this thread here: www.tomshardware.com/forum/74224-13-tenebrous-form-allies-declaring-additional-strikes\n\nIn this thread, LSJ says that no, A can't change their mind and choose to generate additional strikes after making their initial decision, because that's the way the rulebook has been for the past ten years (from 1995-2005). He also mentioned that he'd review the rule, but I couldn't find any evidence of what his decision there was.\n\nPresumably his ruling still stands, but I just want to double-check...?",
+      "Id": "92259"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Dec 5, 2018, 6:28\u202FAM",
+      "Body": "Pascal ruled that A has the opportunity to play an additional strike in response here:\n\nwww.vekn.net/forum/rules-questions/41472-additional-strikes?limit=10&start=0#41492\n\nThe logic works the same as pre-range impulse or similar:\n\n> Pascal wrote:\n>\n> > Non-existant user wrote:\n> > Standard priority rules: if the reacting minion plays something, priority goes back to the acting and the window does not close, so Jimmy can play his Pursuit now.\n> >\n> Correct. Acting Jimmy can still declare gaining an additional strike after Alcoan gains an additional strike.\n>\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "92261"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 5, 2018, 8:39\u202FAM",
+      "Body": "> Kushiel wrote:\n> In this thread, LSJ says that no, A can't change their mind and choose to generate additional strikes after making their initial decision, because that's the way the rulebook has been for the past ten years (from 1995-2005). He also mentioned that he'd review the rule, but I couldn't find any evidence of what his decision there was.\n>\nIt was reversed in late 2006 - and also for damage prevention, which had also previously generally worked on the basis that the acting minion prevents then the other minion prevents.\n\n[LSJ 20061111]\n\n> LSJ wrote:\n> REVERSAL: the gaining of additional strikes is subject to 1.6.1.5 (just like\n> the gaining of maneuvers, &c.)\n>\n> So if the acting minion declines, but the blocking minion then gains\n> additionals, the acting minion can respond by gaining additionals of his own.\n>\n[LSJ 20061113]\n\n> LSJ wrote:\n> > Does this ruling also cover damage prevention?\n> >\n> > Say acting minion is hit by 1(one) and declines to prevent, opposing\n> > minion is hit by 1(one) and prevents that damage. Can the acting minion\n> > then prevent his damage too? For example to avoid getting hit by a\n> > pulled fangs/disarm etc.\n>\n> Yes. (Also a reversal).\n>",
+      "Id": "92262"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 5, 2018, 9:28\u202FPM",
+      "Body": "Thank you both!",
+      "Id": "92276"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 7, 2018, 10:42\u202FAM",
+      "Body": "Extra question on Facebook:\n\n> Hi all. Question regarding Hell-for-leather from a VTES newbie (relative to ya\u2019ll). Assuming all my strikes are hands, can I play the card at animalism (strike: dodge, additional strike) followed by another HFL at celerity (additional strike above limit) after the first additional strike resolves.\n>\nYes. The sequencing is:  Declare your strike (HFL @ani: Dodge + additional) Opponent declares his strike. Resolve strikes. Declare your additional strike. Resolve additional strike. Play HFL @cel (additional strike that doesn't count against the limit) Declare your additional strike. Resolve additional strike.\n>\n> If Yes, is that the correct order of play? The rulebook at 6.4.3 suggests I can generate the above limit additional strike prior to the first: \u201CSome additional strike sources explicitly state that they do not count against this limit; those can be played before or after additional strike sources. that count against the limit.\u201D\n>\nThe rulebook basically says that the order is not relevant (but you must still play the sources of additional when appropriate).\n\nFor instance, you could hand strike, gain an additional with HLF @cel, choose HFL @ani as your additional strike (and gain another additional strike), and then strike a last time.\n\n> However, some errata (www.vekn.net/\u2026/69208-additional-strikes-compounded-c\u2026)suggests that because in HFL there is no window after the dodge and before the first additional strike at animalism, I must wait until after the resolution of that strike before generating the above limit strike.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92294"
+    }
+  ]
+}

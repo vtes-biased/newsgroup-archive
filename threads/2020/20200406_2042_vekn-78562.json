@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-78562",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78562-banishment",
+  "Title": "Banishment",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 6, 2020, 8:42\u202FPM",
+      "Body": "Banishment\nType: Political Action\nChoose a younger ready vampire. Successful referendum means that the chosen vampire is moved to the uncontrolled region (breaking any temporary control effects). The vampire is uncontrolled. Any cards and counters on that vampire stay with him or her (but they are out of play as long as the vampire remains uncontrolled).\n\nFrom card rulings:\nTemporary control effects are ended if the vampire is Banished, as normal, so the vampire would be placed in his previous (permanent) controller's uncontrolled region.\n\nI think answers is clear but we have strange scenario today in game. So if you Banishment stolen vampire him going in his previous (permanent) controller's uncontrolled region,but if this controler is ousted then Banishment vampire is remowed from game,right?",
+      "Id": "99515"
+    },
+    {
+      "Author": "Hakuron",
+      "Date": "Apr 7, 2020, 8:23\u202FAM",
+      "Body": "The original scenario and order of actions would be helpful to give the answer on what exactly happens in which order.\n\nBut in the end it is: The methuselah who stole the vampire will not keep it (permanently).\nFor example as soon as the stolen vampire is banished it returns to its owners uncontrolled region.\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "99517"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 7, 2020, 9:42\u202FAM",
+      "Body": "It really depends on whether the vampire has been stolen temporarily or permanently.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99518"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 7, 2020, 2:02\u202FPM",
+      "Body": "scenario: player A stole vampire X from player B with Chameleon or Graverobing(example).\nplayer C play Banishment on vampire X.\n1) where vampire X going?\n2) if player B is ousted where then vampire X going?\n3) Ankha what is diferent in case stolen temporarily or permanently",
+      "Id": "99520"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Apr 7, 2020, 4:45\u202FPM",
+      "Body": "1) Vampire is going to the uncontrolled region of Player B, since Banishment only breaks temporary control effects. (see www.vekn.net/history-of-vtes-rules/443-rules-team-rulings-1-may-2000)\n2) Since B was either the controller, or the vampire was in B's uncontrolled region, the vampire is removed from the game.\n3) See 1) above. The only difference is, that Banishment breaks a temporary controll effect and therefore the vampire is returned to A's uncontrolled region.\n\nedit: corrected answer later (I hope rightfully so)\n\nPrince of Bonn, Germany",
+      "Id": "99522"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 7, 2020, 5:11\u202FPM",
+      "Body": "> Yomyael wrote:\n> 1) Vampire is going to the uncontrolled region of Player B, since Banishment only breaks temporary control effects. (see www.vekn.net/history-of-vtes-rules/443-rules-team-rulings-1-may-2000)\n> 2) Since B was either the controller, or the vampire was in B's uncontrolled region, the vampire is removed from the game.\n>\nCorrect.\n>\n> Yomyael wrote:\n> 3) See 1) above. The only difference is, that Banishment breaks a temporary controll effect and therefore the vampire is returned to A's uncontrolled region.\n>\nCorrect in the case the vampire was stolen temporarily (Temptation for instance).\n\nPlease disregard.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99523"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Apr 7, 2020, 6:16\u202FPM",
+      "Body": "> beslin wrote:\n> scenario: player A stole vampire X from player B with Chameleon or Graverobing(example).\n> player C play Banishment on vampire X.\n> 1) where vampire X going?\n>\n> Yomyael wrote:\n> 1) Vampire is going to the uncontrolled region of Player B, since Banishment only breaks temporary control effects. (see www.vekn.net/history-of-vtes-rules/443-rules-team-rulings-1-may-2000)\n>\nIs it just me but I feel this is in opposite of the example laid out in the RTR. A is the one taking the minion from B, therefore for permanent steal it stays with A and for temp it returns to B.\n\n> http://www.vekn.net/history-of-vtes-rules/443-rules-team-rulings-1-may-2000 wrote:\n> In a similar vein, leaving play (via Contesting, Banishement, or whatever) is ruled/errata'ed to break any lingering *temporary* change-of-control effects (like Mind Rape, Malkavian Dementia, and Temptation), but not any permanent change-of-control effects (like Grave Robbing and Corruption). So a demented Malkavian who is Banished would be placed in his permanent controller's uncontrolled region - not in the uncontrolled region of the Methuselah who played Malkavian Dementia.\n>\nIf Methusaleh A stole Igo the Hungry from Methuselah B \"with Graverobing(example)\". it's a permanent change of control effect. Therefore when Igo the Hunry in Methuselah A's ready region gets Banished by Methuselah C's Arika, it does not go back to Methuselah B.\n\nIf it was temporary effect, namely it specifically mentions how long the effect lasts (next turn, until end of turn, etc.) for the control, Igo the Hungry would return to Methuselah B. If Methuselah B has been ousted by the time that the effect ends (or something breaks it) then it's removed from the game as only cards with controllers stay in the game. as all the cards that ousted Methuselah controls are removed from the game.\n\nPlease correct if I'm wrong.\n\nTrust in Jan Pieterzoon.",
+      "Id": "99526"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Apr 7, 2020, 7:45\u202FPM",
+      "Body": "Errr.... I had a total Brainfart when reading the question, somehow I assumed that Player B was the one stealing the vampire. I suspect Ankha made the same mistake when marking my answer as correct.\n\nAs far as I can tell, you are correct Kilrauko. In case 1) the vampire should go to Player A's uncontrolled region, since Player A is the permanent controller of the vampire. This would be in accordance to the quoted RTR. In case 2) nothing happens with the vampire, since the controller of the vampire is not ousted. In case 3) a vampire temporarily stolen by A is returned to B's uncontrolled region after a banishment. Should player B already have been ousted at that point, the vampire is removed from the game instead (as it would have been when the temporary controll effect would have expired).\n\nI'm terribly sorry for the confusion!\n\nPrince of Bonn, Germany",
+      "Id": "99527"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Apr 7, 2020, 9:46\u202FPM",
+      "Body": "> Yomyael wrote:\n> Errr.... I had a total Brainfart when reading the question, somehow I assumed that Player B was the one stealing the vampire. I suspect Ankha made the same mistake when marking my answer as correct.\n>\n> As far as I can tell, you are correct Kilrauko. In case 1) the vampire should go to Player A's uncontrolled region, since Player A is the permanent controller of the vampire. This would be in accordance to the quoted RTR. In case 2) nothing happens with the vampire, since the controller of the vampire is not ousted. In case 3) a vampire temporarily stolen by A is returned to B's uncontrolled region after a banishment. Should player B already have been ousted at that point, the vampire is removed from the game instead (as it would have been when the temporary controll effect would have expired).\n>\n> I'm terribly sorry for the confusion!\n>\nSory guys for me bad english! to be more clear player A play Chameleon or Graverobing on vampire X from player B. I now understand all answer,understand what means stolen temporarily or permanently. we play wrong in game,but i learn beter one rule.",
+      "Id": "99528"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 8, 2020, 6:39\u202FAM",
+      "Body": "> Yomyael wrote:\n> Errr.... I had a total Brainfart when reading the question, somehow I assumed that Player B was the one stealing the vampire. I suspect Ankha made the same mistake when marking my answer as correct.\n>\nIt looks so! I'll edit my answer too.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99532"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 8, 2020, 6:58\u202FAM",
+      "Body": "> beslin wrote:\n> So if you play Banishment on a stolen vampire, he goes to his previous (permanent) controller's uncontrolled region\n>\nYes if the vampire was stolen temporarily (eg. Temptation)\nOtherwise, he goes to his new permanent controller's uncontrolled region (eg. Form of Corruption).\n>\n> beslin wrote:\n> ,but if this controler is ousted then Banishment vampire is remowed from game,right?\n>\nIf the vampire is in the uncontrolled region of the player who is ousted, then the vampire is removed from the game. See above to determine in which uncontrolled region the vampire is.\n\n> beslin wrote:\n> scenario: player A stole vampire X from player B with Chameleon or Graverobing(example).\n> player C play Banishment on vampire X.\n> 1) where vampire X going?\n>\nA controls the vampire X permanently. The vampire goes to A's uncontrolled region.\n\n> beslin wrote:\n> 2) if player B is ousted where then vampire X going?\n>\nNowhere since X is not controlled by B.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "99533"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-77108",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77108-potio-martyrium-questions",
+  "Title": "Potio Martyrium questions",
+  "Messages": [
+    {
+      "Author": "PetriWessman",
+      "Date": "Oct 23, 2018, 5:27\u202FPM",
+      "Body": "A couple of questions about Potio Martyrium:\n\n1) Does the 3 aggravated damage also get inflicted at long range?\n\nexample: Vampire A is at long range, does 2 ranged damage to Gargoyle with PM and 1 blood. Gargoyle would go to torpor, PM triggers and burns it instead, does A take the 3 agg damage or not?\n\n2) Can the damage be prevented like normal combat damage?\n\nexample: Vampire A is in combat with Gargoyle at short range, Gargoyle has 1 blood and PM, A has lots of blood. A strikes hands for 2, G strikes hands for 1. Neither vampire prevents the damage. G would go to torpor but PM triggers and burns it. Can A now play combat cards (or use other prevent-damage-during-combat effects) to negate the agg damage, assuming of course they have no restrictions like \"from opposing minion's strike\" etc?\n\nPotio Martyrium\n[Action] Action\n[Tremere] Tremere\n[Tremere antitribu] Tremere antitribu\n\n+1 stealth action.\nPut this card on a Gargoyle enslaved to this vampire's clan. If this Gargoyle is burned or sent to torpor in combat, he or she burns and inflicts 3 aggravated damage on the opposing minion and each retainer in combat. A minion may have only one Potio Martyrium.",
+      "Id": "91441"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Oct 23, 2018, 5:33\u202FPM",
+      "Body": "I would say yes to both questions. Nothing in the description of the card restricts the damage to only close range, and it happens in combat so don't see why it can't be prevented (it is enviromental damage though so strike prevention wouldn't work)",
+      "Id": "91442"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Oct 24, 2018, 9:33\u202FAM",
+      "Body": "Im not sure about answer 2 Klaital,i think after Gargolye is burned is CE and you cannot more play combat prevent cards. can someone from RTR answer on question?",
+      "Id": "91457"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Oct 24, 2018, 11:49\u202FAM",
+      "Body": "> beslin wrote:\n> i think after Gargolye is burned is CE and you cannot more play combat prevent cards.\n>\nIncorrect.\n\n[LSJ 20100205]\n>\n> LSJ wrote:\n> > > Does the damage occur in combat - when the recipient can\n> > > play a combat card to prevent (and/or use things like\n> > > Guardian Angel) or immediately after combat ends?\n>\n> > I think the card text clearly states that the damage occurs during the\n> > combat and only if it was sent to torpor/burned during the combat.\n> > So i think the damage can be prevented and also gargoyle won't explode\n> > after mummify.\n>\n> Correct on all points.\n>",
+      "Id": "91459"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "Oct 24, 2018, 12:21\u202FPM",
+      "Body": "Ok, thanks, it's good to get confirmation.\n\n...and the reason that the Gargoyle won't explode after Mummify is that Mummify ends combat before sending the vampire into torpor, so PM's \"sent to torpor in combat\" doesn't apply. I think.",
+      "Id": "91460"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 24, 2018, 1:32\u202FPM",
+      "Body": "> PetriWessman wrote:\n> 1) Does the 3 aggravated damage also get inflicted at long range?\n>\nYes. Rulebook: \"The range determines which strikes and other strike-resolution-phase effects can be used.\"\nOther effects are not subject to range, unless a range is mentioned (Disarm: only usable at close range).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "91462"
+    }
+  ]
+}

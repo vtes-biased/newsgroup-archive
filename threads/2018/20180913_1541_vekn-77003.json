@@ -1,0 +1,56 @@
+{
+  "ThreadId": "vekn-77003",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/77003-stutter-step-question",
+  "Title": "Stutter-step question",
+  "Messages": [
+    {
+      "Author": "Viper",
+      "Date": "Sep 13, 2018, 3:41\u202FPM",
+      "Body": "Hi,\n\nThe advanced celerity text, states that this is a strike AND a dodge. Take Acrobatics, for example, which says \"dodge with an additional strike\". This leads me to believe that both effects of Stutter-Step resolve on the same window (the dodge one).\n\nNow, to the question: Since dodges resolve first than strike: combat ends, shouldn't the strike portion of Stutter-Step inflict damage regardless of combat ends?\n\nThanks for your imput.",
+      "Id": "90593"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Sep 13, 2018, 3:52\u202FPM",
+      "Body": "SCE has higher priority than dodge in combat.\nedit: Wait, do they have the same priority? Not that it matters.",
+      "Id": "90594"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Sep 13, 2018, 4:12\u202FPM",
+      "Body": "Dodge has higher priority than s:ce, but that doesn't matter for this question since the dodge part of the strike does not do the damage, it is both a strike: dodge AND a hand strike, the hand strike part does the damage and that part has no special priority.",
+      "Id": "90595"
+    },
+    {
+      "Author": "Snodig",
+      "Date": "Sep 13, 2018, 5:20\u202FPM",
+      "Body": "> Klaital wrote:\n> Dodge has higher priority than s:ce, but that doesn't matter for this question since the dodge part of the strike does not do the damage, it is both a strike: dodge AND a hand strike, the hand strike part does the damage and that part has no special priority.\n>\nIf that\u2019s the case, does this ever have any practical significance?\nAre there SCE+other effects out there?\nI know there\u2019s a \u201CHS, then end after resolving\u201D-strike too, but I\u2019m assuming that just ends combat after the HS is dodged.",
+      "Id": "90597"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Sep 13, 2018, 6:30\u202FPM",
+      "Body": "> Snodig wrote:\n> If that\u2019s the case, does this ever have any practical significance?\n> Are there SCE+other effects out there?\n>\nSeveral. Some examples are Catatonic Fear, Oubliette, Unholy Penanace and Loving Agony.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "90601"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 13, 2018, 9:45\u202FPM",
+      "Body": "The concept of priority is misleading.\n\nDodge protects you from the opponent's strike, whatever that strike is. Dodge doesn't \"resolve\". Dodge doesn't have a \"window\".\n\nHand strike resolves normally.\n\nSo Stutter-Step protects you from the opponent's strike, and inflict strength damage during the normal strike resolution.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "90610"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Sep 13, 2018, 10:08\u202FPM",
+      "Body": "> Snodig wrote:\n> If that\u2019s the case, does this ever have any practical significance?\n> Are there SCE+other effects out there?\n> I know there\u2019s a \u201CHS, then end after resolving\u201D-strike too, but I\u2019m assuming that just ends combat after the HS is dodged.\n>\nYou can also avoid the harmful effects of opponents S:CE with a dodge. This is a special rule and not related to \"priority\" as such. So you can dodge the damage from catatonic fear, even though it is inflicted after combat ends.\n\nAs to the stutter-step:\nIf player A plays dodge+additional strike, and player B plays stutter step, what happens is that stutter-step does no damage as both parts of its strike are dodged at the same time (right?). Stutter-step counts as one strike. Then player A's additional strike will deal damage, since stutter-step only dodges player A's initial strike, which was a dodge.\n\n(confusing yet? I've been telling people VTES combat is too complex.  )\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "90612"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Sep 13, 2018, 10:24\u202FPM",
+      "Body": "> Bloodartist wrote:\n> You can also avoid the harmful effects of opponents S:CE with a dodge. This is a special rule and not related to \"priority\" as such. So you can dodge the damage from catatonic fear, even though it is inflicted after combat ends.\n>\nThis isn't a special rule. Having selected Dodge as your strike protects you from the 'offensive'(*) effects of a strike, whatever those might be. It might be damage from a hand strike, it might being sent to torpor with first strike, or it might be suffering damage from a strike after combat. Dodge potentially protects against all three, there's nothing special going on.\n\n(*) People don't usually think of inferior Meld with the Land (S:CE + untap the opponent) as being offensive. But a Dodge will mean you don't untap.",
+      "Id": "90613"
+    }
+  ]
+}

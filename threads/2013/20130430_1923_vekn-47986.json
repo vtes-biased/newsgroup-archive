@@ -1,0 +1,104 @@
+{
+  "ThreadId": "vekn-47986",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/47986-question-about-deflection",
+  "Title": "Question about Deflection",
+  "Messages": [
+    {
+      "Author": "Sydnelson",
+      "Date": "Apr 30, 2013, 7:23\u202FPM",
+      "Body": "Hi, today a player ask me if is legal use deflection or telepathic misdirection to redirect the target of bleed to itself just to cycle hand in head to head game. It's possible?\n\nEx.: 2 players in a game. Player A, bleed, player B decline to block and play deflection choosing himself as a new target of bleed since there is no more valid targets to choose.\n\nDeflection, Reaction, 1 blood, Dominate\n[dom] Only usable when you are being bled, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the controller of the acting minion. The acting minion is now bleeding that Methuselah.\n[DOM] As above, but do not tap this vampire.\n\nTelepathic Misdirection, Reaction, 1 blood\n[aus] +1 intercept.\n[AUS] Only usable when a minion is bleeding you, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the acting minion's controller. The acting minion is now bleeding that Methuselah.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "47986"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 30, 2013, 7:32\u202FPM",
+      "Body": "> Sydnelson wrote:\n> Deflection, Reaction, 1 blood, Dominate\n> [dom] Only usable when you are being bled, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the controller of the acting minion. The acting minion is now bleeding that Methuselah.\n> [DOM] As above, but do not tap this vampire.\n>\n> Telepathic Misdirection, Reaction, 1 blood\n> [aus] +1 intercept.\n> [AUS] Only usable when a minion is bleeding you, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the acting minion's controller. The acting minion is now bleeding that Methuselah.\n>\nI have bolded the part that prevent you from redirecting to yourself.",
+      "Id": "47987"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Apr 30, 2013, 7:43\u202FPM",
+      "Body": "> Ohlmann wrote:\n>\n> > Sydnelson wrote:\n> > Deflection, Reaction, 1 blood, Dominate\n> > [dom] Only usable when you are being bled, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the controller of the acting minion. The acting minion is now bleeding that Methuselah.\n> > [DOM] As above, but do not tap this vampire.\n> >\n> > Telepathic Misdirection, Reaction, 1 blood\n> > [aus] +1 intercept.\n> > [AUS] Only usable when a minion is bleeding you, after blocks are declined. Tap this reacting vampire. Choose another Methuselah other than the acting minion's controller. The acting minion is now bleeding that Methuselah.\n> >\n> I have bolded the part that prevent you from redirecting to yourself.\n>\nBoth cards says ANOTHER Methuselah other than the ACTING minion's controller. Not reacting minion controler (who plays the Deflection / Telephatic)\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "47988"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Apr 30, 2013, 8:03\u202FPM",
+      "Body": "> Sydnelson wrote:\n> Both cards says ANOTHER Methuselah other than the ACTING minion's controller. Not reacting minion controler (who plays the Deflection / Telephatic)\n>\nYou link together two part that should not be linked. There is two conditions :\n* redirect to ANOTHER methuselah\n* that another methuselah cannot be the one of the acting minion.\n\nIf you were right, it would be written :\n>\n> Choose a Methuselah other than the acting minion's controller\n>\nLike it is written on superior Blissful Agony :\n\n> Strike: combat ends. Choose a minion controlled by a Methuselah other than the opposing vampire's controller. The opposing vampire enters combat with that minion.\n>\nNote that you can choose one of your own vampire with Blissful agony, while you cannot redirect to yourself with Deflection.",
+      "Id": "47989"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Apr 30, 2013, 10:49\u202FPM",
+      "Body": "I prety now that is not possible do that, I just don't know how to explain it to player but now I can see.\n\nWhen card say ANOTHER methulesah it says other than you (and the acting minion controler).\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "47993"
+    },
+    {
+      "Author": "Kiddo",
+      "Date": "May 1, 2013, 5:31\u202FAM",
+      "Body": "However, in a game with only 2 players left, you can redirect a bleed to yourself via My Enemy's Enemy, just in order to cycle a card.\n\nThat is possible due to a)you being your predator's predator in a 2-player game and b)this card, unlike others, doesn't specify that the new target cannot be an originally targeted player...\n\n> My Enemy's Enemy\n> Type: Reaction\n> Requires: Auspex\n> [aus] +1 intercept.\n> [AUS] Only usable when a minion controlled by your predator is bleeding you, after blocks are declined. Tap this reacting vampire. The acting minion is now bleeding your predator's predator.\n>",
+      "Id": "48001"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 1, 2013, 6:08\u202FAM",
+      "Body": "> Sydnelson wrote:\n> I prety now that is not possible do that, I just don't know how to explain it to player but now I can see.\n>\nIf it's easier, just point him/her at the ruling this came from.\n\nwww.thelasombra.com/rules/RTR6-23.htm\n\n\"# That is, you cannot deflect to yourself.\"\n\nThe text about not redirecting to the acting minion's controller was added later, but that was always prevented anyway - you can't bleed yourself.",
+      "Id": "48002"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "May 1, 2013, 6:47\u202FAM",
+      "Body": "> Sydnelson wrote:\n> I prety now that is not possible do that, I just don't know how to explain it to player but now I can see.\n>\nJames' answer is pretty explicit, but I'll give another shot in explaining the sentence \"Choose another Methuselah other than the controller of the acting minion.\" to the player.\n\n\"Choose another Methuselah\" = Choose a Methuselah that is not YOU...\n\n\"other than the controller of the acting minion.\" = ...and the someone else can't be the Methuselah whose minion is bleeding.\n\nI've underlined the key word.\nSo you HAVE TO choose another Methuselah which means you can't choose yourself.\n\nSo in two player situations Defections are dead cards in your hand.\n\nFinnish  Politics!",
+      "Id": "48003"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 1, 2013, 9:19\u202FAM",
+      "Body": "Just as Reckless Agitation is a dead card in a duel.\n\nName: Reckless Agitation\nCardtype: Political Action\nCost: 2 blood\nRequires an independent vampire with capacity above 4.\nAllocate 6 points among two or more other Methuselahs. Successful referendum means each Methuselah burns 1 pool for each point assigned.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "48005"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 1, 2013, 10:02\u202FAM",
+      "Body": "Correct answers from Ohlman, jamesatzephyr and L\u00F6nkka.\n\nAbout Kiddo's comment:\nYes, My Enemy's Enemy is playable in duel, but since it is played after block attemps are declined (as all other bleed redirection cards), and since the target of the action doesn't change (which is what enables new block attempts declarations), if you play it in a duel, you don't get a new chance to declare block attempts.",
+      "Id": "48010"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "May 2, 2013, 12:20\u202FAM",
+      "Body": "Thanks for explanations.\n\nThe most problem here in Brazil is about language. Most of player doesn\u2019t speak english well, someone\u2019s also can't read the texts and ask the texts to other players and memorize the card image.\n\nDue that fault most of players don\u2019t read the rulebook and do not use vekn forums for rulings and clarifications.\n\nAs you can see not only players have problems with english, I have this problem too, due that don't post too much here.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "48053"
+    },
+    {
+      "Author": "wesile",
+      "Date": "May 2, 2013, 7:03\u202FAM",
+      "Body": "The Spanish guys translated all the cards... you could ask them for the Spanish versions... and please... don't create a \"Brazilian version\"...",
+      "Id": "48072"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "May 2, 2013, 10:59\u202FAM",
+      "Body": "Spanish is not the main language in Brasil...",
+      "Id": "48082"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "May 2, 2013, 2:30\u202FPM",
+      "Body": "> Spanish is not the main language in Brasil...\n>\nPanish has quite a few similarities with portugese and thus could help to grasp certain concepts.\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "48089"
+    },
+    {
+      "Author": "Charles_Bronson",
+      "Date": "May 2, 2013, 3:28\u202FPM",
+      "Body": "I can understand a spanish easily - if he talks very slow. Spanish natives usually talks too fast for me.\n\nBut funny, I found I couldnt understand portugal native portuguese talking. The speech is so mixed that I get pretty confused.\n\nI am death.\nPaul Kersey, Death Wish",
+      "Id": "48096"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "May 2, 2013, 4:24\u202FPM",
+      "Body": "And in any case, checking the translation of a language you don't speak instead of the original card in a language you don't speak don't seem much of an improvement.",
+      "Id": "48099"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-76899",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/76899-weird-links-that-miss-out-the-first-post-if-you-navigate-back-to-page-1",
+  "Title": "Weird links that miss out the first post if you navigate back to page 1",
+  "Messages": [
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 6, 2018, 12:43\u202FPM",
+      "Body": "So, I think this started this weekend or thereabouts.\n\nIf I'm logged in and go to Recent Topics, you get links that take you to pages that end in /unread, if there are unread comments in that post. e.g. www.vekn.net/forum/expansion-sets-card-ideas/76887-submission-celerity-fixes/unread\n\nFind one that takes you to a page that isn't page 1 of the comments. e.g. that Celerity Fixes link takes me to www.vekn.net/forum/expansion-sets-card-ideas/76887-submission-celerity-fixes?start=12#89602\n\nNow find the bar with the page number links in it. Start Prev 1 2 3 4 5 Next End\n\nHover over the number 1.\n\nThe link I get is: www.vekn.net/forum/expansion-sets-card-ideas/76887-submission-celerity-fixes?start=%1$d\n\nAnd in case any of that gets eaten by some special character handler, it's:\n\ncelerity-fixes question-mark start equals-sign percent-sign 1 dollar-sign d\n\nClick on that and it appears that the forum interprets that as start=1. So you don't see entry 0, which is the original post.",
+      "Id": "89693"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 6, 2018, 4:41\u202FPM",
+      "Body": "Hmm that is strange indeed. I hope it will get fixed by the Kunena team.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89696"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Aug 7, 2018, 11:23\u202FAM",
+      "Body": "Yea I was just about to report this same issue. If you click the page number 1 in a multi-page thread, the topic post is invisible. You need to click the name of the thread instead to see the topic post.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "89747"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 10, 2018, 6:07\u202FAM",
+      "Body": "The bug has been fixed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "89870"
+    }
+  ]
+}

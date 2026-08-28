@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-80948",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80948-change-of-target",
+  "Title": "Change of Target",
+  "Messages": [
+    {
+      "Author": "kyuudaime",
+      "Date": "Nov 6, 2023, 11:44\u202FAM",
+      "Body": "IF I USE \"Change of Target\", WILL THE MINION THAT BLOCKED UNTAP OR STAY TAPPED?",
+      "Id": "109767"
+    },
+    {
+      "Author": "Ghost1980",
+      "Date": "Nov 6, 2023, 12:10\u202FPM",
+      "Body": "Hi,\n\nThe blocking minion is untapped.",
+      "Id": "109768"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Nov 6, 2023, 12:14\u202FPM",
+      "Body": "Card Text:\n\nChange of Target\nOnly usable if this minion is blocked, before block resolution.\n\nUnlock this minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nthe blocking minion don\u00B4t lock because the action ends before the block resolution (when he was(will?) became tapped, sorry english is not my native language)\n\nDavid Resende - Prince of Teresina",
+      "Id": "109769"
+    },
+    {
+      "Author": "alf",
+      "Date": "Nov 6, 2023, 12:14\u202FPM",
+      "Body": "Always include card text when asking for specific clarifications.\n\nChange of Target\nOnly usable if this minion is blocked, before block resolution.\nUnlock this minion, and the action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nSo clearly\na) the acting minion is unlocked\nb) there's no mentioning of status change of the blocking minion, so he stays in the status he had before the block attempt\n\nAlso:\nIs played after a minion successfully blocks, before the blocker is locked and combat begins. It cannot be used if the action is ended without being blocked. [LSJ 19980224][RTR 19991206]\n\n<INSERT CLEVER QUOTATION HERE>",
+      "Id": "109770"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2023, 5:53\u202FPM",
+      "Body": "Also,\n\n> rulebook wrote:\n> If the action is blocked, then any card played to perform the action is burned and the block is resolved with these two simultaneous consequences: the blocking minion is locked and enters combat with the acting minion (see Combat). If an effect ends the action before the block resolution or one of these two consequences (such as entering combat), neither consequence occurs.\n>\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "109782"
+    }
+  ]
+}

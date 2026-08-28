@@ -1,0 +1,86 @@
+{
+  "ThreadId": "vekn-54880",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/54880-de-sade-vs-kindred-coercion",
+  "Title": "De Sade vs Kindred Coercion",
+  "Messages": [
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 7, 2013, 11:17\u202FAM",
+      "Body": "I asked a similar question in the Danse Macabre preview thread, but I think it got lost in the shuffle.\nHere's an exact situation:\n\nDe Sade calls a vote.\nHis prey's Sir Walter Nash, with zero blood, votes in favor.\nA third vampire plays superior Kindred Coercion, attempting to change Sir Walter Nash's votes.\n\nWhat happens? Does Nash successfully vote against? Does he abstain? Or is he immune to being targeted, so his votes are still in favor?\n>\n> De Sade\n> Sabbat Archbishop of Paris: Vampires controlled by other Methuselahs must burn 1 blood to cast votes and ballots against referendums called by De Sade.\n>\n> Kindred Coercion\n> Only usable during a referendum.\n> [dom] Force X vampires to abstain. This can cancel those vampires' votes and ballots. The affected vampires cannot be older than this reacting vampire.\n> [DOM] As above, but you may change the votes and ballots that the affected vampires cast to votes and ballots of your choice instead. (The affected vampires may choose to abstain if they have not already cast their votes and ballots.)\n>",
+      "Id": "54880"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Oct 7, 2013, 11:59\u202FAM",
+      "Body": "> His prey's Sir Walter Nash, with zero blood, votes in favor.\n>\nThis should not possible due to not fulfilling condition to cast votes (pay a blood).\n\nEdit: yeah, did not read through. The vote should not be changed to voting against, as the third player cannot pay the price for the modifier (Sir Walter Nash cannot burn blood to vote against).\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "54885"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 7, 2013, 12:01\u202FPM",
+      "Body": "> kombainas wrote:\n>\n> > His prey's Sir Walter Nash, with zero blood, votes in favor.\n> >\n> This should not possible due to not fulfilling condition to cast votes (pay a blood).\n>\nDe Sade's card text says you only burn a blood to vote against his referendum.\nVoting in favor while empty is most definitely legal.\nI'm wondering what happens when someone tries to force an empty vampire to vote against.\n\n(This could also happen in cases such as Astrid Thomas being in play, but I was trying to come up with a specific scenario.)\n\nP.S. Your avatar picture is going to give me nightmares, kombainas.",
+      "Id": "54886"
+    },
+    {
+      "Author": "kombainas",
+      "Date": "Oct 7, 2013, 12:28\u202FPM",
+      "Body": "> P.S. Your avatar picture is going to give me nightmares, kombainas.\n>\nLast tournament, my !Malks were compared to a neighbor which would burn your door down if they even heard badmouthing them. I guess having nightmares is a milder effect!\n\nSabbat. If this vampire's bleed is successful, he laughs manicly and untaps.",
+      "Id": "54888"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 7, 2013, 12:55\u202FPM",
+      "Body": "Scenario 2, so we don't get caught up in the specifics of Kindred Coercion:\n\nDe Sade calls a vote.\nHis prey controls Astrid Thomas (with blood) and Cardano (with zero blood).\nCardano votes in favor.\nAstrid burns a blood to vote against.\n\nWhat happens to Cardano's votes?\n\n> Astrid Thomas\n> Camarilla primogen: When results are tallied during a referendum, any Tremere who are not abstaining cast votes and ballots with Astrid (unless Astrid abstains).\n>",
+      "Id": "54889"
+    },
+    {
+      "Author": "Shockwave",
+      "Date": "Oct 7, 2013, 1:11\u202FPM",
+      "Body": "Surely Cardano now attempts to vote against (to fulfill Astrid's text), attempts to burn a blood, fails and his votes abstain.\n\nHere we go again....\nDave Knowles (Advanced)\nSabbat Bishop of Manchester",
+      "Id": "54891"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 7, 2013, 2:39\u202FPM",
+      "Body": "> Shockwave wrote:\n> Surely Cardano now attempts to vote against (to fulfill Astrid's text), attempts to burn a blood, fails and his votes abstain.\n>\nI don't think anything is sure until Ze Dolfin has spoken.\n\nIt's a unique situation because it's the first effect (that I can find; correct me if I'm wrong) in the game that forces vampires to burn blood to cast votes one way or the other, which is especially unusual because votes can change multiple times before votes are tallied.\n(For example, multiple vampires could theoretically play superior Kindred Coercion, yanking votes of certain vampires back and forth).",
+      "Id": "54892"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 7, 2013, 3:12\u202FPM",
+      "Body": "I have found one similar situation, and I don't think the question has ever been asked.\n\n> Kay'tall gets +1 stealth on political actions. Vampires with corruption counters cannot cast votes or ballots against any referendums called by Khay'tall.\n>\nSo this situation has been potentially possible for years and years:\nKhay'tall calls a vote.\nAstrid votes against.\nCardano has a corruption counter and votes in favor.\n\nI don't know for sure what the answer will be, but it is the closest parallel I could find.\n\n(Side Note: Khay'tall's name is really misspelled as \"Kay'tall\" in the CSV, as quoted above; you might want to fix that while you have the hood open)",
+      "Id": "54894"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 8, 2013, 4:00\u202FAM",
+      "Body": "> jozxyqk wrote:\n> De Sade calls a vote.\n> His prey's Sir Walter Nash, with zero blood, votes in favor.\n> A third vampire plays superior Kindred Coercion, attempting to change Sir Walter Nash's votes.\n>\nSince Sir Walter Nash would have to burn 1 blood to vote against and can't, his votes can't be changed (Kindred Coercion can make him abstain, though).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "54906"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 8, 2013, 8:49\u202FAM",
+      "Body": "> jozxyqk wrote:\n> De Sade calls a vote.\n> His prey's Sir Walter Nash, with zero blood, votes in favor.\n> A third vampire plays superior Kindred Coercion, attempting to change Sir Walter Nash's votes.\n>\n> What happens? Does Nash successfully vote against? Does he abstain? Or is he immune to being targeted, so his votes are still in favor?\n>\nNo effect can cause a vampire with 0 blood to vote against a referendum called by De Sade.\nIn this example, Nash doesn't cast votes against, and abstains, unless the Methuselah playing Kindred Coercion wants him to cast votes in favor.\n\n> jozxyqk wrote:\n> De Sade calls a vote.\n> His prey controls Astrid Thomas (with blood) and Cardano (with zero blood).\n> Cardano votes in favor.\n> Astrid burns a blood to vote against.\n>\n> What happens to Cardano's votes?\n>\nNothing. He cannot cast votes against, because he cannot burn the blood to cast votes against. So he remains as he was: casting votes in favor.\n\n> jozxyqk wrote:\n> So this situation has been potentially possible for years and years:\n> Khay'tall calls a vote.\n> Astrid votes against.\n> Cardano has a corruption counter and votes in favor.\n>\nCardano's votes aren't changed.",
+      "Id": "54932"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 8, 2013, 9:50\u202FAM",
+      "Body": "Just one related question:\nIf a vampire plays Superior Kindred Coercion, can he choose target-by-target whether each vampire will abstain, vote in favor, or vote against?\nOr must he choose a single allegiance for all targets?\n\n(That is, in the original example, could he choose \"abstain\" for Sir Walter Nash, and \"vote against\" for Timothy Crowley who had blood?)",
+      "Id": "54940"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 8, 2013, 1:17\u202FPM",
+      "Body": "> jozxyqk wrote:\n> Just one related question:\n> If a vampire plays Superior Kindred Coercion, can he choose target-by-target whether each vampire will abstain, vote in favor, or vote against?\n> Or must he choose a single allegiance for all targets?\n>\n> (That is, in the original example, could he choose \"abstain\" for Sir Walter Nash, and \"vote against\" for Timothy Crowley who had blood?)\n>\nYou choose how each vampire is affected.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "54951"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 14, 2013, 8:00\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > jozxyqk wrote:\n> > Just one related question:\n> > If a vampire plays Superior Kindred Coercion, can he choose target-by-target whether each vampire will abstain, vote in favor, or vote against?\n> > Or must he choose a single allegiance for all targets?\n> >\n> > (That is, in the original example, could he choose \"abstain\" for Sir Walter Nash, and \"vote against\" for Timothy Crowley who had blood?)\n> >\n> You choose how each vampire is affected.\n>\nCorrect.",
+      "Id": "55300"
+    }
+  ]
+}

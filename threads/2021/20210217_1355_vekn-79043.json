@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-79043",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79043-setting-combat-range",
+  "Title": "Setting combat range",
+  "Messages": [
+    {
+      "Author": "nergalmcl",
+      "Date": "Feb 17, 2021, 1:55\u202FPM",
+      "Body": "Q1.\nVampire 1 plays Selective Silence and set the range to close, can Vampire 2 also plays Selective Silence and set the range to long?\n(Same as Cailean using his ability vs Vampire 2 playing Selective Silence.)\n\nQ2.\nVampire 1 play Fear of the Void Below, can Vampire 2 set the range with Selective Silence/or Cailean ability?\n\nSelective Silence\nCardtype: Combat\nDiscipline: Quietus\nOnly usable during the first round of combat.\n[qui] Maneuver.\n[QUI] Only usable before range is determined. Burn 1 blood to set the range for this round.\n\nCailean\nCardtype: Vampire\nClan: Nosferatu antitribu\nSabbat Archbishop of Detroit: Each round of combat, before range is determined, Cailean can set the range for that round. If he does so, skip the Determine Range step for that round.\n\nFear of the Void Below\nCardtype: Combat\nCost: 1 blood\nDiscipline: Daimoinon/Obfuscate\nA vampire may play only one Fear of the Void Below each combat.\n[obf] Maneuver.\n[dai] Only usable before range is determined. Each round of this combat defaults to long range, and this vampire gets an optional press each round, only usable to end combat.\n[DAI] As [dai] above, and the opposing minion's controller discards one card at random from his or her hand during the initial strike resolution phase of each round.[/spoiler]",
+      "Id": "101640"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Feb 17, 2021, 3:27\u202FPM",
+      "Body": "> nergalmcl wrote:\n> Q1.\n> Vampire 1 plays Selective Silence and set the range to close, can Vampire 2 also plays Selective Silence and set the range to long?\n> (Same as Cailean using his ability vs Vampire 2 playing Selective Silence.)\n>\nNo, whoever plays a \"set the range ..\" effect first (following the normal priority of who has the impulse) decides what the range will be and no further range setting effects nor maneuvers can be played after that.  [RTR 19970630]  see under \"CARD RULINGS 6)\"\n\nOther pre-range effects can still be played.\n\n> nergalmcl wrote:\n> Q2.\n> Vampire 1 play Fear of the Void Below, can Vampire 2 set the range with Selective Silence/or Cailean ability?\n>\nNo, same answer as above.\n\nWould be a good additional note to the \"1. Before Range\" section saying that only one \"set the range\" effect can be in effect for a combat and cannot be trumped by another \"set the range\" card/effect and that when the \"set the range\" is in effect the \"2. Determine Range\" step is skipped and no maneuvers can be played.",
+      "Id": "101641"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 17, 2021, 4:12\u202FPM",
+      "Body": "> inm8 wrote:\n>\n> > nergalmcl wrote:\n> > Q2.\n> > Vampire 1 play Fear of the Void Below, can Vampire 2 set the range with Selective Silence/or Cailean ability?\n> >\n> No, same answer as above.\n>\n> Would be a good additional note to the \"1. Before Range\" section saying that only one \"set the range\" effect can be in effect for a combat and cannot be trumped by another \"set the range\" card/effect and that when the \"set the range\" is in effect the \"2. Determine Range\" step is skipped and no maneuvers can be played.\n>\nFear of the Void Below does not set the range. It changes the default range to long, but range can be set, or maneuvers can be used as normal.\nSo yes, you can set the range after Fear of the Void Below has been played.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101643"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-21057",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/v-tes-inventory-deckbuilding-programs/21057-ardb-3-1-1-now-has-a-compiled-binary-for-kubuntu-ubuntu",
+  "Title": "ARDB 3.1.1 now has a compiled binary for Kubuntu(Ubuntu)",
+  "Messages": [
+    {
+      "Author": "drstrange26",
+      "Date": "Jan 18, 2012, 1:48\u202FPM",
+      "Body": "The user Oskar has greatly donated his time and effort by compiling a Kubuntu and maybe even Ubuntu(but untested).\nIt is located on the ARDB download site.\n\ncode.google.com/p/ardb/downloads/list\n\nIf there are any issues please let me know.\n\nDr. Strange",
+      "Id": "21057"
+    },
+    {
+      "Author": "Oskar",
+      "Date": "Feb 12, 2012, 4:02\u202FPM",
+      "Body": "I just noticed that the xsl templates for exporting to txt etc. are missing in the file I put together. If you get an error message about this when exporting, just download the zip for windows and copy the xsl folder into your ~/.ardb",
+      "Id": "22870"
+    },
+    {
+      "Author": "theEmperor",
+      "Date": "Oct 14, 2013, 9:05\u202FAM",
+      "Body": "After updating the database to include Dance Macabre I can no longer open XML-files.\n\nI've also unableto upload to SecretLibrary.com (It says the \"Empty library).\n(",
+      "Id": "55269"
+    },
+    {
+      "Author": "Oskar",
+      "Date": "Apr 6, 2014, 7:16\u202FAM",
+      "Body": "Sorry for not replying earlier, but I have a 3.2 version where this works fine. It was never added on the google code site, but I'll attach it here.\n\nSee the instructions in the text file about moving the xsl folder.\n\nEdit: Seems I cannot attach files, but anyone interested can pm me your email and I'll send the latest Linux version I have.",
+      "Id": "60681"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Jan 19, 2016, 7:14\u202FAM",
+      "Body": "ARDB Update Anarchs Unbond\n\nTo update download the following file:\n\nwww.dropbox.com/s/a2j5wg1zygny9yt/vtescsv.zip?dl=0\n\nOpen ARDB\n\nClick in \"File\" > \"Update Database From a File\"\n\nChoose the download file above\n\nWait until update is finish and restart ARDB.\n\nFor card images just download the following file to ARDB cardimages folder\nwww.dropbox.com/s/uud0vyngnvbpot9/au.zip?dl=0\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "75020"
+    },
+    {
+      "Author": "Ythrit",
+      "Date": "Jul 11, 2017, 10:24\u202FPM",
+      "Body": "Where can I download the other images? I can't find anything... T.T",
+      "Id": "82558"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 11, 2018, 12:33\u202FPM",
+      "Body": "The latest versions of ARDB can be found here: code.google.com/archive/p/ardb/downloads\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "88100"
+    }
+  ]
+}

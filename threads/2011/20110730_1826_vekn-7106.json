@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-7106",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/7106-vtes-card-errata",
+  "Title": "VTES card errata",
+  "Messages": [
+    {
+      "Author": "Sydnelson",
+      "Date": "Jul 30, 2011, 6:26\u202FPM",
+      "Body": "Where vcan I find entire vtes card errata? I see \"All Rulings\" link here in vekn but I'm seraching for a more practical format that can I see text errors and correction.\n\nExist several cards with costs and text errors like Murder of Crows, Antoinette DuChamp, Approximation of Loyalty, Brachah etc that I want to correct their image files and database in lackeyccg. Anyone knows where I can find all of this cards in a single place?\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "7106"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 30, 2011, 10:03\u202FPM",
+      "Body": "Try the ARDB CSV. They usually include all the errata.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "7111"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Jul 30, 2011, 10:24\u202FPM",
+      "Body": "FELD also have all errata, but I need to look card one by one to see errors. I want a place that have all card listed.\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "7112"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jul 31, 2011, 10:17\u202FAM",
+      "Body": "Doesn't it just read the details from the CSV and then convert it into a composite image that can be done on the screen? I would have thought it would be easiest that way...\n\nThen once you have the CSV, you have the card you can create by composite.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "7126"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Jul 31, 2011, 10:43\u202FAM",
+      "Body": "I think he looks for a list with all (and exclusively the) cards that have an errata.\n\nBaron of Frankfurt",
+      "Id": "7128"
+    },
+    {
+      "Author": "BaaliJusticar",
+      "Date": "Aug 1, 2011, 6:25\u202FAM",
+      "Body": "I am looking for such a list as well.\nThe old site had one.\nI printed it out, but it has turned almost unreadable because of spilling accidents\nCould anybody please post an updated one?",
+      "Id": "7144"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 1, 2011, 7:15\u202FAM",
+      "Body": "> BaaliJusticar wrote:\n> I am looking for such a list as well.\n> The old site had one.\n> I printed it out, but it has turned almost unreadable because of spilling accidents\n> Could anybody please post an updated one?\n>\nThe old list was incomplete. So many cards were errated that I'm not sure it makes sense to get a list of them. Furthermore, some cards that were errated were reprinted with their correct text.\nIf you download the cardtext file, you can look for \"{\" \"}\" symbols that delimit errata sections of text.\n\nWhat do you want to do with such a list?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "7146"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Aug 1, 2011, 7:22\u202FAM",
+      "Body": "> BaaliJusticar wrote:\n> I printed it out, but it has turned almost unreadable because of spilling accidents\n>\nAh, the Baali. Can't you just be careful during your orgies?\n\nBaron of Frankfurt",
+      "Id": "7147"
+    },
+    {
+      "Author": "BaaliJusticar",
+      "Date": "Aug 1, 2011, 10:01\u202FAM",
+      "Body": "> Joscha wrote:\n> Ah, the Baali. Can't you just be careful during your orgies?\n>\nWhy, are you jealous?\nWould you like to attend?\nThere's always room for more...\n\n@ Ankha: since we play with a lot of old cards, it's quicker to have it on paper than to look it up in a file or online B) . Thanks for the tip of finding them in the file, but I found out that adjustments in cost do not have { } to mark the errata such as the Louvre, Paris...\n\nDoes someone have an accurate list?\nIt would pipe down a lot of frustrated discussions during a session!",
+      "Id": "7151"
+    },
+    {
+      "Author": "Joscha",
+      "Date": "Aug 1, 2011, 1:24\u202FPM",
+      "Body": "I found an old list of <V:TES Official Clarifications, Rulings, and Errata>. If you pm me your emailaddress I'll send it to you. And we can talk about the orgies again  .\n\nBaron of Frankfurt",
+      "Id": "7158"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 1, 2011, 3:54\u202FPM",
+      "Body": "> BaaliJusticar wrote:\n> @ Ankha: since we play with a lot of old cards, it's quicker to have it on paper than to look it up in a file or online B) . Thanks for the tip of finding them in the file, but I found out that adjustments in cost do not have { } to mark the errata such as the Louvre, Paris...\n>\nDid you consider to print all the cards (like WW's vtes book)?\nI generated such a file with my  wonderful tool\nHere's the result: www.veknfrance.com/site/IMG/pdf/vtes.pdf\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "7163"
+    },
+    {
+      "Author": "BaaliJusticar",
+      "Date": "Aug 1, 2011, 4:28\u202FPM",
+      "Body": "Although it would take a bit too many trees to print it all out and make it efficient reading, your tool is very interesting!\n\nThanks!",
+      "Id": "7169"
+    }
+  ]
+}

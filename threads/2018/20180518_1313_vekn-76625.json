@@ -1,0 +1,296 @@
+{
+  "ThreadId": "vekn-76625",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/organizational-questions/76625-dumping-archon-creating-a-new-tournament-guiding-app",
+  "Title": "Dumping Archon, creating a new tournament guiding app?",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "May 18, 2018, 1:13\u202FPM",
+      "Body": "Greets!\n\nI was just wondering if there's any intention to dump Archon for good and create a new tournament conducting application, which is easier to use, deals with early leaves, DQ-s, can randomize players in the first round, etc, etc...\n\nBack in the day, when the community asked for a program other than Archon, White Wolf did not allow it. Now it is different, and by God, we need a steady, dependable method, easily operated by any organizer not just excel wizards.\n\nIs there anyone feeling alike?\n\nNC of Hungary\n\n///",
+      "Id": "87121"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 18, 2018, 2:55\u202FPM",
+      "Body": "I've thought about it already. Someone offered to help, then, as it's often the case, disappeared in the mist.\nWhy don't you do it?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87130"
+    },
+    {
+      "Author": "thelonius reloaded",
+      "Date": "May 18, 2018, 3:17\u202FPM",
+      "Body": "We are tthinking (me and nicola) to a web based app like joustingpavillion\n\nLurking in the underground of Bologna, Italy",
+      "Id": "87133"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "May 18, 2018, 3:22\u202FPM",
+      "Body": "Because programming is beyond my areas of expertise, and I haven't tried to hire an expert to do it. Believe me I would gladly create it, because with the relunch of VtES by BCP I consider ritiring Archon and having a new tournament guiding interface a priority.\n\nNC of Hungary\n\n///",
+      "Id": "87135"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 18, 2018, 5:17\u202FPM",
+      "Body": "Amaranth already have a randomize seating for multiple players ready, works on iOS, Android and web.\nI think this is a head start\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87144"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "May 18, 2018, 6:24\u202FPM",
+      "Body": "Thank you for bringing this up. One of my main frustrations as an organizer has been difficulty in getting Archon to work when I need it to. This lead to my using paper cards, which has been superior in reliability up until the time I need to report the results. Translating the cards back into the Archon is such a pain that I don't want to do it, which has lead to some difficulty getting players entered into the TWDA appropriately.\n\nIf we can use a simple, reliable program that doesn't go haywire I would appreciate it.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "87148"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "May 19, 2018, 10:35\u202FAM",
+      "Body": "> brandonsantacruz wrote:\n> Thank you for bringing this up. One of my main frustrations as an organizer has been difficulty in getting Archon to work when I need it to. This lead to my using paper cards, which has been superior in reliability up until the time I need to report the results.\n>\nThis sounds like a quicker answer in the short-term would be a tutorial of some sort showing you how to use Archon. Are there some things you can do, but specific tasks you're trying to do with Archon that you can't do so you end up abandoning it altogether? Or do you have trouble doing anything in it at all?",
+      "Id": "87169"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "May 19, 2018, 1:45\u202FPM",
+      "Body": "Archon is very easy to manage. i never knowed how be calculated points in VTES tourneys until i organize first tourney via lackey. nobody learn me,i read how work and use to test with some example and learn easy.",
+      "Id": "87176"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "May 20, 2018, 12:01\u202FAM",
+      "Body": "> jamesatzephyr wrote:\n>\n> > brandonsantacruz wrote:\n> > Thank you for bringing this up. One of my main frustrations as an organizer has been difficulty in getting Archon to work when I need it to. This lead to my using paper cards, which has been superior in reliability up until the time I need to report the results.\n> >\n> This sounds like a quicker answer in the short-term would be a tutorial of some sort showing you how to use Archon. Are there some things you can do, but specific tasks you're trying to do with Archon that you can't do so you end up abandoning it altogether? Or do you have trouble doing anything in it at all?\n>\nIn my experience it doesn't work well on my chromebook and gets wigged out. It has been a few years, sorry I can't be more specific.\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "87189"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 21, 2018, 10:36\u202FPM",
+      "Body": "> Sambomb wrote:\n> Amaranth already have a randomize seating for multiple players ready, works on iOS, Android and web.\n>\nI like the idea of Archon like functionality in Amaranth; however there are a couple of issues with this:\n\n1. The Archon is currently a very complex XL spreadsheet\n2. The rating system currently only supports this XL spreadsheet\n\nReplicating the behaviour of the Archon in an app is reasonably straight forward; replicating the generated spreadsheet afterwards to upload is much more complex.\n\nSo until the rating system supports a less complex format, ie. CSV, JSON or similar with a suitable API for the results; then it's unlikely any 3rd party app will support it.\n\nWhat will it take to make an API available for apps to upload tournament results? \u2014 I suspect this will be a lot easier than the development that was required to process XLS documents.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87263"
+    },
+    {
+      "Author": "ScoundrelAtHeart",
+      "Date": "May 22, 2018, 8:28\u202FAM",
+      "Body": "A mobile friendly web App would be really cool. This way I can do it in my phone or tablet and do not habe to bring my laptop to tournaments.\nThe app could be made with PHP, HTML and some JavaScript or other web technology so you'll just need a Browser to operate it.\nThere an be a menu entry for table randomizing and vp assignment, a gamewin and tournament win calculator, a function for players to upload their decklists as CSV before a specific tournament so the princes have the decklists ready should the need arise to check the decks of the players and many more functions.\nBut without knowing the Database structure it would be hard to estimate the workload.\n\nPrince of Magdeburg\nVEKN-ID: 5850005\nPrince-ID: 615",
+      "Id": "87280"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 22, 2018, 8:31\u202FAM",
+      "Body": "I think that the most simple course of actions if to automate the Excel archon into a program. The Archon supports all weird cases, it's just that people don't know how to use it. By adding a graphical layer and some common functionalities (eg. remove a late player), you cover 95% of the problems with minimum effort.\n\nThe trouble is that nobody is willing, capable and have time to do that work.\n\nAs for API to submit archons, it's the same issue. Noone has the time to do it (until I'm proven wrong, but this has been the case for 10 years).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87281"
+    },
+    {
+      "Author": "Dominik",
+      "Date": "May 22, 2018, 8:42\u202FAM",
+      "Body": "How Simone wrote before i'm still working on a web based application.\n\nI hope to be able to bring a test version to the European Championship but I'm working on it in my free time.",
+      "Id": "87284"
+    },
+    {
+      "Author": "ScoundrelAtHeart",
+      "Date": "May 22, 2018, 8:43\u202FAM",
+      "Body": "Automation is the key so the princes just have to enter some digits and click some buttons and the programm does the rest.\nWith the help of 2 or 3 other people (maybe including one of the people who are responsible for the database) I could be capable but sadly I don't have the time.\n\nPrince of Magdeburg\nVEKN-ID: 5850005\nPrince-ID: 615",
+      "Id": "87285"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "May 22, 2018, 9:26\u202FAM",
+      "Body": "> Ankha wrote:\n> As for API to submit archons, it's the same issue. Noone has the time to do it (until I'm proven wrong, but this has been the case for 10 years).\n>\nPlease share the database / table schemas for the tournament results. From there the viability / scale of the task is much easier to establish.\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "87291"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 22, 2018, 1:39\u202FPM",
+      "Body": "Here it is:\n\nCREATE TABLE `veknparticipant` ( `id` bigint(19) unsigned NOT NULL AUTO_INCREMENT, `eventid` int(10) unsigned NOT NULL, -- id of the event `veknid` mediumint(7) unsigned zerofill NOT NULL, -- vekn id of the participating player `gw` tinyint(1) unsigned NOT NULL DEFAULT '0', -- number of GW on the preliminary rounds `vp` decimal(3,1) unsigned NOT NULL DEFAULT '0.0', -- number of VP on the preliminary rounds `tp` tinyint(3) unsigned NOT NULL DEFAULT '0', -- number of table points on the preliminary rounds `tie` tinyint(3) unsigned NOT NULL DEFAULT '0', -- the result of the break-tie `vpf` decimal(2,1) unsigned NOT NULL DEFAULT '0.0', -- VP in final `rtp` smallint(5) unsigned NOT NULL DEFAULT '0', -- rating points `dq` tinyint(1) unsigned DEFAULT NULL, -- dq flag `wd` tinyint(1) unsigned DEFAULT NULL, -- wd flag `pos` smallint(5) unsigned NOT NULL DEFAULT '0', -- the tournament position of the player (winner = 1, finalist = 2, then 6..N) `games` tinyint(1) unsigned NOT NULL, -- number of games played `clan` varchar(63) DEFAULT NULL, -- clan (for storylines) `faction` varchar(63) DEFAULT NULL, -- faction (for storylines) `minion` varchar(63) DEFAULT NULL, -- key minion (for storylines) PRIMARY KEY (`id`), KEY `eid_index` (`eventid`)\n\nThe three storyline columns are not used.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87308"
+    },
+    {
+      "Author": "ScoundrelAtHeart",
+      "Date": "May 22, 2018, 9:12\u202FPM",
+      "Body": "So this is the table where all the tournaments are in where every entry is seperated by ID and EVENT_ID and every player gets a new line for the respective EVENT_ID?\nActually this schema looks quite readable.\nI imagine a web GUI where you can click NEW_EVENT , select type and in case it is a tournament you can enter the VEKN_ID or NAME of the player and click ADD (essentially creating a new line in the table).\nNot much work on functional side. Imho the hard work is to make stuff fast (developer side), intuitive, ergonomic and appealing to the eye (designer side). I am a developer not a designer.\nNext you'll need a server that is able to handle this stuff (PHP or similar language for example) and is secure (SSL and other security measures).\n\nPrince of Magdeburg\nVEKN-ID: 5850005\nPrince-ID: 615",
+      "Id": "87347"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 23, 2018, 5:48\u202FPM",
+      "Body": "> Ke. wrote:\n>\n> > Sambomb wrote:\n> > Amaranth already have a randomize seating for multiple players ready, works on iOS, Android and web.\n> >\n> I like the idea of Archon like functionality in Amaranth; however there are a couple of issues with this:\n>\n> 1. The Archon is currently a very complex XL spreadsheet\n> 2. The rating system currently only supports this XL spreadsheet\n>\n> Replicating the behaviour of the Archon in an app is reasonably straight forward; replicating the generated spreadsheet afterwards to upload is much more complex.\n>\n> So until the rating system supports a less complex format, ie. CSV, JSON or similar with a suitable API for the results; then it's unlikely any 3rd party app will support it.\n>\n> What will it take to make an API available for apps to upload tournament results? \u2014 I suspect this will be a lot easier than the development that was required to process XLS documents.\n>\nI thought in a complete change.\n\nWebservices from VEKN:\nCardInfo: bring card text/image/rullings maybe even Translations\nPlayer: bring vekn code, name, city, etc\nCalendar: Update the calendar setting up a event\nArchon: Provide the tournment info to vekn for the approval of the National Cordinator\nGeneral info, Player list, Round info, Organizational info ( maybe a XML or Json fille )\nJusticar: List the events to the national cordinator release.\n\nAmaranth ( or other 3rd party app ) Will use the webservice with the correct parameters to Get/Send info to VEKN databases.\n\nWith this in mind, we can skip xls files and make something new that can work for any system.\n\nI can help with the design of the webservices, documentation, test and maybe even code something.\nIm a software developer, but my \"work language\" is Fivewin + xHarbour so i cant help a lot with code without study a little first\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87395"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "May 23, 2018, 8:21\u202FPM",
+      "Body": "How about hiring someone instead of waiting for favours?  Paying with actual money do get a job done? That is what I am adressing with this topic, the fact, that we have a company running VtES again I really hope they shall have the financial stability to be able to come up with an app like Archon.\n\nAnd about using Archon... I had my time with it, I can use it without problem, but not all organizers can (and sadly i can't be present at every tournament in hungary). And it still has issues (which I'm more then willing to learn to rectify).\n\nLast time, I was organising an event of 38 players. At the third round, 3 of them left. We couldn't manage Archon to deal with this problem, without stirring up even bigger poopstorm, so we created another file with 35 peeps, to be able to conduct a 3rd round. Late arrivals also a problem. And I'm sure, there is more...\n\nOh sorry guys, I hadn't spotted any other posts after Ankha's when i posted this, I'm glad things could set in motion\n\nNC of Hungary\n\n///",
+      "Id": "87398"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 23, 2018, 9:31\u202FPM",
+      "Body": "I was thinking in something like that to send the info about the tournament, a XML file with all info required about the event, each round, each table...\nThis would enable easier transactions between 3rds party apps and vekn database.\nEarly drop or Late arrivals would be calculated in a easier way since they dont need to follow a strict rule, each round dont have direct interaction with the previous rounds.\nOnce all rounds are finished, the points are calculated, the finalists would be defined by points and randomized when draw to avoid coin toss.\nThe final seating is then manually added to the app with each VP to send direct to National Cordinator approval and VEKN database.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87400"
+    },
+    {
+      "Author": "PetriWessman",
+      "Date": "May 24, 2018, 5:20\u202FAM",
+      "Body": "I like the idea of standardizing the tournament report format (XML / JSON / whatever). That way we could build various tools to produce that, and then upload the result file to VEKN.",
+      "Id": "87415"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2018, 6:55\u202FAM",
+      "Body": "> Malachy wrote:\n> Last time, I was organising an event of 38 players. At the third round, 3 of them left. We couldn't manage Archon to deal with this problem, without stirring up even bigger poopstorm\n>\nYet, it's very simple to handle in the Archon. You just have to delete the numbers of the players who are leaving, and move the players who were sharing their table to make proper 5 or 4 players tables.\nI think that a tutorial would be quicker and more useful than recreating the archon in that case.\n\n> Sambomb wrote:\n> Early drop or Late arrivals would be calculated in a easier way since they dont need to follow a strict rule, each round dont have direct interaction with the previous rounds.\n>\nThis is plainly wrong, each round has a direct interaction with the other rounds, in order to follow the seating rules (found in the archon, on the Optimal Seating page):\n\n1. No pair of players repeat their predator-prey relationship. This is mandatory, by the VEKN rules.\n2. No pair of players share a table through all two rounds, when possible. (N/A in some 2R event.)\n3. Available VPs are equitably distributed.\n4. No pair of players share a table more often than necessary.\n5. A player doesn't sit in the fifth seat more than once.\n6. No pair of players repeat the same relative position[*], when possible.\n7. A player doesn't play in the same seat position, if possible.\n8. Starting transfers are equitably distributed. [NOAL]\n9. No pair of players repeat the same relative position group[^], when possible.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87416"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 24, 2018, 2:25\u202FPM",
+      "Body": "Im not talking about dumping the seating rules.\n\nIm talking about remove linearity. The archon.XLS always calculate a player in each round even if he dindt arrived at that time or already left.\n\nIn a new app we can evaluate each round when the round start, following as many seating rules as possible.\n\nWe just need to define the priority of each rule and try to enforce it in the order.\n\nExample:\nRound 1 = 15 players\n3 tables with 5 players each\nRound 2 = + 2 Late arrivals\n1 table with 5 players, 3 with 4 players\nRound 3 = -2 Early departures\n3 tables with 5 players each\n\nNote that with 17 players we should have 4 tables and we cant drop 2 players because only one table has 5 people, to calc it properly we must drop an entire table and this is hard to track with archon to keep following the seating rules.\n\nEach round should calc standings following each seating rules when possible based on the actual number of players and previous rounds info.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87439"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 24, 2018, 2:44\u202FPM",
+      "Body": "> Sambomb wrote:\n> In a new app we can evaluate each round when the round start, following as many seating rules as possible.\n>\nThe computing power for calculating the seatings exceeds any server's capabilities when you have more than 20 players (see www.vekn.net/forum/generic-v-tes-discussion/69811-optimal-seatings-changes-3r-f?limitstart=0)\n\nThe best you can do is to take the optimal seating, remove the dropping players, then try adding/permutating players so that the rule 1 and 2 are at least enforced.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87440"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 24, 2018, 8:18\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > In a new app we can evaluate each round when the round start, following as many seating rules as possible.\n> >\n> The computing power for calculating the seatings exceeds any server's capabilities when you have more than 20 players (see www.vekn.net/forum/generic-v-tes-discussion/69811-optimal-seatings-changes-3r-f?limitstart=0)\n>\n> The best you can do is to take the optimal seating, remove the dropping players, then try adding/permutating players so that the rule 1 and 2 are at least enforced.\n>\nHelp me to understand it better:\n1st round 15 players - Optimal Seating for 15 players\n1 2 3 4 5\n6 7 8 9 10\n11 12 13 14 15\n2nd round 17 players - Optimal Seating for 17 players\n9 14 10 15 7\n5 12 4 2\n3 13 17 6\n16 1 11 8\n3rd round 15 players - Optimal Seating for 17 players\n13 8 6 11 16\n15 5 14 3\n7 4 1 12\n2 17 9 10\n\nLets say 1 and 2 drop early, and turn the tables on: (round 3 for 17 players edited to drop 2 players)\n13 8 6 11 16\n15 5 14 3 10\n7 4 12 17 9\n\nInstead of: ( normal r3 for 15 players )\n13 15 2 5 11\n14 3 10 1 6\n12 8 4 7 9\n\nThe optimal seating on round 1 is different from optimal seating on round 3 and the organizer should drop an entire table to ensure that everyone has the correct spots and the seating rules are aplyed\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87455"
+    },
+    {
+      "Author": "ScoundrelAtHeart",
+      "Date": "May 24, 2018, 9:38\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > In a new app we can evaluate each round when the round start, following as many seating rules as possible.\n> >\n> The computing power for calculating the seatings exceeds any server's capabilities when you have more than 20 players (see www.vekn.net/forum/generic-v-tes-discussion/69811-optimal-seatings-changes-3r-f?limitstart=0)\n>\n> The best you can do is to take the optimal seating, remove the dropping players, then try adding/permutating players so that the rule 1 and 2 are at least enforced.\n>\nSo a server could not handle 20 players but a normal pc or laptop can? How could this be?\nIn that case maybe do the calculation on client side of the App and the server side is just for data storage.\nMy goal here is to contribute to a more intuitive, easier to understand, GUI based version of Archon that does not need Excel ir other spreadsheet programm.\n\nPrince of Magdeburg\nVEKN-ID: 5850005\nPrince-ID: 615",
+      "Id": "87464"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 24, 2018, 9:57\u202FPM",
+      "Body": "i think he is talking about an algorithm to calc with same or better efficiency than the optimal seating\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87467"
+    },
+    {
+      "Author": "ScoundrelAtHeart",
+      "Date": "May 25, 2018, 5:11\u202FAM",
+      "Body": "> Sambomb wrote:\n> i think he is talking about an algorithm to calc with same or better efficiency than the optimal seating\n>\nI was talking about the algorithm too. I am sorry for not being specific enough.\n\nPrince of Magdeburg\nVEKN-ID: 5850005\nPrince-ID: 615",
+      "Id": "87476"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 6:12\u202FAM",
+      "Body": "> ScoundrelAtHeart wrote:\n> So a server could not handle 20 players but a normal pc or laptop can? How could this be?\n> In that case maybe do the calculation on client side of the App and the server side is just for data storage.\n>\nI never said that a normal PC could. On my computer (i7-4770K overclocked at 3.7GHz), it took 688 seconds to compute the optimal seating for 19 players. And it grows exponentially with each additional player. (That's why I did some grid computing for 26+ players). I don't thing people will want to wait 10 minutes, 1 hour, or more to get the next round seating.\n\n> ScoundrelAtHeart wrote:\n> My goal here is to contribute to 1/ a more intuitive, easier to understand, GUI based version of Archon 2/ that does not need Excel ir other spreadsheet programm.\n>\nI agree on the first part, but disagree on the second part (it's not a goal, who cares if it's using Excel underneath or not?)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87480"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 6:18\u202FAM",
+      "Body": "> Sambomb wrote:\n> Help me to understand it better:\n> 1st round 15 players - Optimal Seating for 15 players\n> 2nd round 17 players - Optimal Seating for 17 players\n> 3rd round 15 players - Optimal Seating for 17 players\n>\n> Lets say 1 and 2 drop early, and turn the tables on: (round 3 for 17 players edited to drop 2 players)\n>\n> Instead of: ( normal r3 for 15 players )\n>\nI don't understand your example. Why is there only 15 players on round 1? If players 1 and 2 drop early, it means they play round 1 and 2, right?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87481"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "May 25, 2018, 9:04\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > In a new app we can evaluate each round when the round start, following as many seating rules as possible.\n> >\n> The computing power for calculating the seatings exceeds any server's capabilities when you have more than 20 players (see www.vekn.net/forum/generic-v-tes-discussion/69811-optimal-seatings-changes-3r-f?limitstart=0)\n>\n> The best you can do is to take the optimal seating, remove the dropping players, then try adding/permutating players so that the rule 1 and 2 are at least enforced.\n>\nSome people may not be aware that the current Optimal Seatings are looked-up from a previously designed table.\n\nI've been playing around with the current Archon and have made a way to facilitate what you propose here - basically a table which indicates which player positions are currently breaking rules 1 and 2. I 've combined this with a couple of macros to randomly assign seatings as a way to quickly find an alternative seating. I will need a bit more time to clean up and fine-tune the file, but I won't have any availability to do so in the coming days - alternatively I can send it to anyone interested in developing the idea.",
+      "Id": "87490"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "May 25, 2018, 9:13\u202FAM",
+      "Body": "Beacuse we have late arrivals also, 2 players, who joined in round 2.\n\nNC of Hungary\n\n///",
+      "Id": "87491"
+    },
+    {
+      "Author": "ScoundrelAtHeart",
+      "Date": "May 25, 2018, 10:48\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > ScoundrelAtHeart wrote:\n> > So a server could not handle 20 players but a normal pc or laptop can? How could this be?\n> > In that case maybe do the calculation on client side of the App and the server side is just for data storage.\n> >\n> I never said that a normal PC could. On my computer (i7-4770K overclocked at 3.7GHz), it took 688 seconds to compute the optimal seating for 19 players. And it grows exponentially with each additional player. (That's why I did some grid computing for 26+ players). I don't thing people will want to wait 10 minutes, 1 hour, or more to get the next round seating.\n>\n> > ScoundrelAtHeart wrote:\n> > My goal here is to contribute to 1/ a more intuitive, easier to understand, GUI based version of Archon 2/ that does not need Excel ir other spreadsheet programm.\n> >\n> I agree on the first part, but disagree on the second part (it's not a goal, who cares if it's using Excel underneath or not?)\n>\nThis is indeed very long. Are these numbers from the xls Archon or did you create an app and put it to the test?\n\nMaybe someone could optimize the algorithm to make it faster.\n\nAlso not everyone can handle spreadsheets\n\nPrince of Magdeburg\nVEKN-ID: 5850005\nPrince-ID: 615",
+      "Id": "87495"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 12:16\u202FPM",
+      "Body": "> ScoundrelAtHeart wrote:\n> This is indeed very long. Are these numbers from the xls Archon or did you create an app and put it to the test?\n>\n> Maybe someone could optimize the algorithm to make it faster.\n>\nIt's an app I wrote and that I already optimized to the limit. Anyone can try a more optimal algorithm, if they find one (and answer here: math.stackexchange.com/questions/2606311/tournament-seating-players-through-3-rounds-on-tables-with-4-or-5-seats-with-no)\n\n> ScoundrelAtHeart wrote:\n> Also not everyone can handle spreadsheets\n>\nIndeed.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87499"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 25, 2018, 12:28\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > Help me to understand it better:\n> > 1st round 15 players - Optimal Seating for 15 players\n> > 2nd round 17 players - Optimal Seating for 17 players\n> > 3rd round 15 players - Optimal Seating for 17 players\n> >\n> > Lets say 1 and 2 drop early, and turn the tables on: (round 3 for 17 players edited to drop 2 players)\n> >\n> > Instead of: ( normal r3 for 15 players )\n> >\n> I don't understand your example. Why is there only 15 players on round 1? If players 1 and 2 drop early, it means they play round 1 and 2, right?\n>\nRound 1 - 15 starting players\nRound 2 - 2 Late arrivals (16 - 17 )\nTotal players 17\nPlayer 1 .. 17\nRound 3 - 2 Early drops ( 1 - 2 )\nTotal players 15\nPlayer 3..17\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87501"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 25, 2018, 12:56\u202FPM",
+      "Body": "About the app, and if the app import optimal seating from the current archon and try to enforce it each round.\nIf late arrivals or early drops happens and tables need to be fixed, the skimflux algorithm can be used to fix them in a smother way.\n\nWe can turn the XLS optimal seating in a SQL table.\nPlayers, Round, Table, Position 1, Position 2, Position 3, Position 4, Position 5\n\nThe harder thing is how to handle 11 players, maybe if 3 rounds are disabled we can work around it.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87504"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 3:35\u202FPM",
+      "Body": "> Sambomb wrote:\n> Lets say 1 and 2 drop early, and turn the tables on: (round 3 for 17 players edited to drop 2 players)\n> 13 8 6 11 16\n> 15 5 14 3 10\n> 7 4 12 17 9\n>\n> Instead of: ( normal r3 for 15 players )\n> 13 15 2 5 11\n> 14 3 10 1 6\n> 12 8 4 7 9\n>\nYour proposition for R3 isn't good because 10 would have 15 as a prey twice.\n\nThis is a bad luck scenario, but what I would do is enter the 17 players, and override round 1 and 3.\nRound 1 is easy: 3 tables of 5 players 1-2-3-4-5 / 6-7-8-9-10 / 11-12-13-14-15\nRound 2 is defined by the archon: 9-14-10-15-7 / 5-12-4-2 / 3-13-17-6 / 16-1-11-8\nRound 3 is the tricky one, because you don't want rules 1 and 2 to be broken. The default archon seating for 17 players and round 3 is:\n\n13-8-6-11-16 / 15-5-14-3 / 7-4-1-12 / 2-17-9-10\n\nSince players 1 and 2 drop, we remove them and consolidate the tables:\n\n13-8-6-11-16 / 15-5-14-3-7 / 4-12-17-9-10\n\nNow we must check that the rules are ok. We can see that 9 has 10 as a prey twice (on R1 and R3), which is not good.\nAlso, 9 and 10 (as well as 14 and 15) can't be on the same table once more because they were on the same table on R1 and R2.\n\nIf we swap 9 and 14, then 14 is the predator of 10 a second time.\nIf we swap 9 and 15, then 9 is the prey of 7 a second time.\nIf we swap 10 and 14, then 14 is the prey of 9 a second time.\nIf we swap 10 and 15, then 7 is on the same table as 10 for a third time but rule 1 works.\n\nThe 4th option is better, so I think we could reasonably stop there.\n\n13-8-6-11-16 / 10*-5-14-3-7 / 4-12-17-9-15\n\nBut as you can see, it becomes very complicated to find a new seating for R3 because the seating of R2 doesn't help at all (it was created with other constraints that don't match 15-players constraints).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87515"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 3:37\u202FPM",
+      "Body": "> Sambomb wrote:\n> About the app, and if the app import optimal seating from the current archon and try to enforce it each round.\n> If late arrivals or early drops happens and tables need to be fixed, the skimflux algorithm can be used to fix them in a smother way.\n>\nSuch an algorithm doesn't exist I think.\nAnd trying wildly to find the optimal seating for each round is sometimes impossible (because it would have required the R1 or R2 seating to be different) or would take too much time.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87516"
+    },
+    {
+      "Author": "skimflux",
+      "Date": "May 25, 2018, 4:12\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Sambomb wrote:\n> > About the app, and if the app import optimal seating from the current archon and try to enforce it each round.\n> > If late arrivals or early drops happens and tables need to be fixed, the skimflux algorithm can be used to fix them in a smother way.\n> >\n> Such an algorithm doesn't exist I think.\n> And trying wildly to find the optimal seating for each round is sometimes impossible (because it would have required the R1 or R2 seating to be different) or would take too much time.\n>\nI believe you are right - what I implemented is not really an algorithm, just a simple tool to help with the manual adjustments when necessary.\n\nThe 'random seating' function should really only be used as a 'desperation move' to quickly sidestep a tricky seating and find another position that is easier to fix.",
+      "Id": "87518"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 25, 2018, 7:00\u202FPM",
+      "Body": "And if we use the 15 people optimal seating again at round 3, replacing player 1 with 16 and player 2 with 17?\n\n13 15 2 17 5 11\n14 3 10 1 16 6\n12 8 4 7 9\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87521"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 25, 2018, 8:28\u202FPM",
+      "Body": "> Sambomb wrote:\n> And if we use the 15 people optimal seating again at round 3, replacing player 1 with 16 and player 2 with 17?\n>\n> 13 15 2 17 5 11\n> 14 3 10 1 16 6\n> 12 8 4 7 9\n>\nThen 7 has twice 9 as a prey.\nDon't try to do some guesswork, it's wasting our time.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87525"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 27, 2018, 11:13\u202FAM",
+      "Body": "What if... we just drop optimal seatings if we have late arrivals/early drops?\n\nit\u2019s a corner case, it\u2019s not every time it happens, and not every organizer that can handle such situations to ensure a good outcome.\nMost time late arrivals just don\u2019t play and early drops happens during rounds, forcing organizers to do more then rearrange seats.\n\nI think that try to enforce the optimal seating is valid, but after a late arrival/early drop it became harder to calculate because most times it needs to change previous rounds ( that already happened ) and can\u2019t figure out the future ( 3r tournaments ) .\n\nMy point is: to enable a simpler solution, we need simpler rules.\nTo avoid this, I think a player that late arrival or early drop with frequency 1 per year/6 months could have a warning and points be reduced if it happens again while on warning.\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87560"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 27, 2018, 12:10\u202FPM",
+      "Body": "> Sambomb wrote:\n> My point is: to enable a simpler solution, we need simpler rules.\n> To avoid this, I think a player that late arrival or early drop with frequency 1 per year/6 months could have a warning and points be reduced if it happens again while on warning.\n>\nWe need players, and players want fair games. Having twice the same prey or predator because someone had to leave early is not acceptable.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87563"
+    },
+    {
+      "Author": "Hecatombe",
+      "Date": "May 27, 2018, 10:32\u202FPM",
+      "Body": "Hello everyone, I've been reading this forum and I have some ideas that I want to discuss with you. I've been thinking about turning the Archon into a web application since last year, but I think that we could develop a whole website to manage every aspect of the tournament.\n\nFirst of all, when WoD Berlin ended, Gin\u00E9s told me that the inscription of the EC was very huge, write down all the personal data from more than 150 players can be really painful. So, I think that apart from reproduce the functions of the Archon, we could use a web for the inscriptions, creating an URL for the players to register and that would save a lot of time. Having access to the database would simplify the inscription process since we could retreive all the data needed from there. Moreover, that would save time when registring a new player because the page would assing a VEKN ID.\n\nSecondly, the results could be validated within the web itself by the NC coordinators and add the scores to the players.\n\nI am studying computer science/engineering right now and with a partner we are thinking about trying to develop that \"Archonweb\" during the summer if you think that it's a good idea. It would be made with PHP probably, since we don't know any other web language.\n\nUnfortunately, the problem with late arrivals/drops would be there forever if Ankha's algorithm is correct, but I think that right now we should priorize saving time in other aspects of the tournaments.\n\nThanks to all.\n\nLittle Baali studying to become a true Baali someday.\nPrince of Palma,Mallorca, Spain.",
+      "Id": "87576"
+    },
+    {
+      "Author": "Sambomb",
+      "Date": "May 28, 2018, 2:13\u202FAM",
+      "Body": "I think we all agree that change and improvement is needed.\nI agree with Ankha that players deserve fair games.\nOur main focus should be an algorithm to handle early drops and late arrivals when they occurs using the previous rounds as base.\nMaybe using the optimal seating and swaping positions until everything works\n\nArchbishop of Itaocara\nPrince ID #510",
+      "Id": "87579"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 28, 2018, 5:57\u202FAM",
+      "Body": "> Sambomb wrote:\n> Maybe using the optimal seating and swaping positions until everything works\n>\nThis is not possible in a reasonable amount of time, due to the combinatorics.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87583"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 28, 2018, 6:08\u202FAM",
+      "Body": "> Hecatombe wrote:\n> I've been thinking about turning the Archon into a web application since last year, but I think that we could develop a whole website to manage every aspect of the tournament.\n>\nAll contributions are welcomed ! But, who is \"we\"?\n\n> Hecatombe wrote:\n> we could use a web for the inscriptions, creating an URL for the players to register and that would save a lot of time.\n>\nIt sounds a good idea, but keep in mind that sometimes, people don't have access to the internet from the tournament place.\n\n> Hecatombe wrote:\n> . Moreover, that would save time when registring a new player because the page would assing a VEKN ID.\n>\nI'm not sure it would save time. Someone HAS TO check that the player doesn't exist (name mispelt, or not the real name used) before creating a new VEKN number, otherwise we'll have plenty of duplicates.\n\n> Hecatombe wrote:\n> Secondly, the results could be validated within the web itself by the NC coordinators and add the scores to the players.\n>\n? This is already the case!\n\n> Hecatombe wrote:\n> I am studying computer science/engineering right now and with a partner we are thinking about trying to develop that \"Archonweb\" during the summer if you think that it's a good idea. It would be made with PHP probably, since we don't know any other web language.\n>\nSure! If it works, it can be hosted on the VEKN website.\n\n> Hecatombe wrote:\n> Unfortunately, the problem with late arrivals/drops would be there forever if Ankha's algorithm is correct, but I think that right now we should priorize saving time in other aspects of the tournaments.\n>\nThe minimal requirement is that it covers the same features as the archon today. Tell me if you need any help on that project.\nI think an open-source project could motivate other persons with IT skills to help too.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "87584"
+    },
+    {
+      "Author": "domepro",
+      "Date": "Oct 28, 2024, 9:59\u202FAM",
+      "Body": "I have to say it's a bit funny reading suggestions by people here that obviously don't understand combinatorics and what \"exponential growth\" means\n\nI have a deep dislike for excel/openoffice, and at this point I think having a webapp for archon would generally improve friction on tournaments. I'll just copy paste what I wrote on the facebook topic, and a general note from someone that has been programming for a long time - if you think it's going to take you a summer to do, it's probably going to take you a year at least\n\nC/P below:\n\nI also agree that in this day and age of websites and phone apps it's quite an ask to use excel or openoffice, even a google sheets archon would be an upgrade at this point.\nI've wanted to start working on something for myself but without support and talking to VEKN leadership/BCP it would, in the end all have to be copied over to archon to submit the results so the whole utility of it is questionable without a bigger plan. There's also bcncrisis.com/ which is heavily used in Spain/Italy, but I'm also not sure how results are submitted there. I'm not sure if there's any active development done on bcncrisis, but maybe that codebase/functionality could be upgraded/taken over - I know one of the pain points there is handling DQs.\nIn any case, I'm a software dev with a lot of experience and I would volunteer my time to work on a more modern version of tournament tooling and I have some ideas about solving some pain points, but would definitely need feedback and/or support from VEKN/BCP for a lot of things - stuff like:\nAPI for fetching player data\nsingle sign on on your VEKN account (I don't think it would make sense to have another account with your VEKN id)\nstuff I'd like to implement as a base functionality that I have not seen elsewhere:\nweb app that's designed for mobile-first usage\ntournament sign up/attendance confirm via QR code - that you can print out (in multiple copies) for the day of the tournament\noptional score confirmation by players at a given table - after results are entered all players can either have to mark the scores as correct or there is a time period where players can mark scores as incorrect",
+      "Id": "112931"
+    }
+  ]
+}

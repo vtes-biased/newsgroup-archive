@@ -1,0 +1,296 @@
+{
+  "ThreadId": "vekn-66286",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/66286-vtes-utilities-the-unaligned",
+  "Title": "VTES Utilities & The Unaligned",
+  "Messages": [
+    {
+      "Author": "extrala",
+      "Date": "Oct 9, 2014, 3:19\u202FPM",
+      "Body": "Current status of VTES Tools with regards to The Unaligned  Official Cardlist: Open Anarch Revolt Deck Builder (ARDB): unknown (requires official cardlist?) Fragment of Elder Library Database (FELDB): updated with TU Secret Library (SL): Open (requires official cardlist) LackeyCCG: updated with TU  Anyone has a status on the above utilities or knows about other tools already updated to TU?",
+      "Id": "66286"
+    },
+    {
+      "Author": "Ke.",
+      "Date": "Oct 9, 2014, 11:56\u202FPM",
+      "Body": "I think ARDB updates from here: www.vekn.net/images/stories/downloads/vtescsv.zip\n\nWhich doesn't appear to have been updated yet.\n\nThe Danse Macab Images went up fairly quick last time round: code.google.com/p/ardb/downloads/list by Woodruffr1973?\n\nKe\n\nAmaranth Deck Building Tool :  VTES NZ :  VTES ANZ Facebook",
+      "Id": "66309"
+    },
+    {
+      "Author": "Sydnelson",
+      "Date": "Oct 10, 2014, 3:04\u202FAM",
+      "Body": "FELD with TU cards and images (filter by set doesn't work yet)\nwww.lackeyccg.com/vtes/FELDB_2.6.3_Syd.zip\n\nUpdated image pack with all images in hi-res (unzip inside FELD folder)\nmega.co.nz/#!TpglRZhZ!zTxUZ8zvETOuueZ9erPzAE4_iLtQJheGxogLWr7NIwA\n\nFernando Cesar - Sydnelson\nLackeyCCG and OCTGN VtES Mantainer\n\nPrince of Rio de Janeiro\n\nPowerbase Rio de Janeiro",
+      "Id": "66312"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 10, 2014, 4:44\u202FAM",
+      "Body": "> extrala wrote:\n> Current status of VTES Tools with regards to The Unaligned  Anarch Revolt Deck Builder (ARDB): unknown (requires official cardlist?)\n>\nI've quickly made a CSV for The Unaligned:  www.veknfrance.com/ARDB/vtescsv%20-%20The%20Unaligned.zip\n\nUntil the official CSV is ready (use File > Update database from File).\n\nImages for ARDB are available here:  www.partage-facile.com/TRA2ZFZBH1/tu.zip.html\n\n(Thanks to Julien)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66320"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Oct 10, 2014, 7:56\u202FAM",
+      "Body": "OCTGN has not been updated yet. Will it be?",
+      "Id": "66330"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 14, 2014, 4:54\u202FAM",
+      "Body": "how can I edit the csv file to correct errors? (for example, Omer is listed as having  instead of )\n\nI tried editing the vtescrypt.csv file with excel, then notepad, but when I update ARDB it keeps giving me an error.",
+      "Id": "66560"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 14, 2014, 8:18\u202FPM",
+      "Body": "csv files are uploaded.\nvekn.net/images/stories/downloads/vtescsv.zip (the date on the card lists page isn't correct, as Gin\u00E9s is still locking that page :P)\n\nAlso, the cardlist.txt now includes The Unaligned cards.",
+      "Id": "66595"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 3:30\u202FAM",
+      "Body": "> Pascal wrote:\n> csv files are uploaded.\n> vekn.net/images/stories/downloads/vtescsv.zip (the date on the card lists page isn't correct, as Gin\u00E9s is still locking that page :P)\n>\n> Also, the cardlist.txt now includes The Unaligned cards.\n>\nI tried to update ARDB database, but DB corruption was informed (so db was not updated).\n\nI use ARDB 3.1.1 Beta 2 on Windows 8.\n\nI'll check if latest ARDB version works on Windows 8.\n\nEDIT:\n\nYeah, ARDB 3.2 refuses to update database as well.\n\nAnd, ARDB 3.2 can't be used at all on Windows (8) because you can't open your decks that you have created.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66599"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 3:53\u202FAM",
+      "Body": "I'm thinking...\n...is there a well formatted XML file available for deck and crypt? JSON formatted file would work fine as well.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66600"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 5:08\u202FAM",
+      "Body": "> Jussi wrote:\n> I'm thinking...\n> ...is there a well formatted XML file available for deck and crypt? JSON formatted file would work fine as well.\n>\nNo, there's only a well formatted CSV file. But it shouldn't be difficult to write some tool that does a conversion the way you want. Or open it in Access and export as XML.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66605"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 15, 2014, 5:25\u202FAM",
+      "Body": "> Pascal wrote:\n> csv files are uploaded.\n> vekn.net/images/stories/downloads/vtescsv.zip (the date on the card lists page isn't correct, as Gin\u00E9s is still locking that page :P)\n>\n> Also, the cardlist.txt now includes The Unaligned cards.\n>\ndoesn't work (ARDB 3.1.1 here).",
+      "Id": "66606"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 5:42\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Jussi wrote:\n> > I'm thinking...\n> > ...is there a well formatted XML file available for deck and crypt? JSON formatted file would work fine as well.\n> >\n> No, there's only a well formatted CSV file. But it shouldn't be difficult to write some tool that does a conversion the way you want. Or open it in Access and export as XML.\n>\nI don't have Access, but I'll try to convert CSV file using Excel.\n\nThanks.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66608"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 5:44\u202FAM",
+      "Body": "> Jussi wrote:\n>\n> > Ankha wrote:\n> >\n> > > Jussi wrote:\n> > > I'm thinking...\n> > > ...is there a well formatted XML file available for deck and crypt? JSON formatted file would work fine as well.\n> > >\n> > No, there's only a well formatted CSV file. But it shouldn't be difficult to write some tool that does a conversion the way you want. Or open it in Access and export as XML.\n> >\n> I don't have Access, but I'll try to convert CSV file using Excel.\n>\n> Thanks.\n>\nLikely, it won't work. Excel doesnt' support correctly the CSV format.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66609"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 5:46\u202FAM",
+      "Body": "> Drugo wrote:\n>\n> > Pascal wrote:\n> > csv files are uploaded.\n> > vekn.net/images/stories/downloads/vtescsv.zip (the date on the card lists page isn't correct, as Gin\u00E9s is still locking that page :P)\n> >\n> > Also, the cardlist.txt now includes The Unaligned cards.\n> >\n> doesn't work (ARDB 3.1.1 here).\n>\nI've fixed the CSV archive. You can download the new version at the same address.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66610"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 15, 2014, 7:07\u202FAM",
+      "Body": "done! nice work, thanks!",
+      "Id": "66616"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 15, 2014, 7:37\u202FAM",
+      "Body": "after some proofreading...\n\nAssamites\nWise Frog - should not have\n\nFollowers of Set\nLegba - should have  instead of\nGlycon - should have  instead of\n\nRavnos\nDelizbieta of the Dark Eyes - should have  instead of\nIvan Krenyenko [Adv] - should have  instead of  and  instead of\n\nGangrel\nMark Decker - should have  instead of\n\nGeneral\nall accented letters now generate random chars (Rosa Hernandez has become Rosa Hern\u00C3\u00A1ndez)",
+      "Id": "66618"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 8:20\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Jussi wrote:\n> >\n> > > Ankha wrote:\n> > >\n> > > >\n> > > >\n> > > > Jussi wrote:\n> > > > I'm thinking...\n> > > > ...is there a well formatted XML file available for deck and crypt? JSON formatted file would work fine as well.\n> > > >\n> > > No, there's only a well formatted CSV file. But it shouldn't be difficult to write some tool that does a conversion the way you want. Or open it in Access and export as XML.\n> > >\n> > >\n> > I don't have Access, but I'll try to convert CSV file using Excel.\n> >\n> > Thanks.\n> >\n> Likely, it won't work. Excel doesnt' support correctly the CSV format.\n>\nAnd it didn't.\n\nWell, I don't bother to write a csv parser myself. Thanks anyway.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66619"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 15, 2014, 8:40\u202FAM",
+      "Body": "I already have a csv parser (to generate the cardlist.txt file).\nLet me know what kind of fields you want in a a.xml",
+      "Id": "66621"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 8:46\u202FAM",
+      "Body": "> Pascal wrote:\n> I already have a csv parser (to generate the cardlist.txt file).\n> Let me know what kind of fields you want in a a.xml\n>\nOk, I'll post you an initial draft \"sometime soon\". I don't have much time, but then again it wouldn't be hard to figure out somewhat feasible structure for a simple XML formt.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66622"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 15, 2014, 9:18\u202FAM",
+      "Body": "I updated the cardlist.txt and the csv files with latest comments.",
+      "Id": "66624"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 9:56\u202FAM",
+      "Body": "Pascal, can you generate JSON? (it was faster to figure out json format first)\n\nAttachment vtes_crypt_json.txt not found\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66625"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 15, 2014, 10:31\u202FAM",
+      "Body": "Set <=> Artist isn't something we have.\nCan you include an example of an imbued card?\n\ndoes it have to be 0 for inf and 1 for sup, or could it be 1 for inf and 2 for sup? (and 0 for \"doesn't have\")\n\nshould the same file contain both crypt and library cards?",
+      "Id": "66629"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 15, 2014, 10:31\u202FAM",
+      "Body": "> Pascal wrote:\n> I updated the cardlist.txt and the csv files with latest comments.\n>\nnow the disciplines are all \"shifted\", just 2 letters and a quote.\n\n(for example, Legba now is listed as having \"PR \"SE \"TH \"ob)",
+      "Id": "66630"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 15, 2014, 10:32\u202FAM",
+      "Body": "I think Vincent just uploaded something messy ...",
+      "Id": "66631"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 10:34\u202FAM",
+      "Body": "Ok,\nThe csv files have been corrected. There are now two versions:\n\nwww.vekn.net/images/stories/downloads/vtescsv.zip contains the csv in the ANSI encoding, so that ARDB will work. ARDB should be updated though, since ANSI can't encode some characters (such as '\u010D' as in Zahradn\u00ED\u010Dek). I don't know who's maintaining ARDB, but this has to be changed!\n\nwww.vekn.net/images/stories/downloads/vtescsv_utf8.zip contains the CSV files in UTF-8 encoding.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66632"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 15, 2014, 10:44\u202FAM",
+      "Body": "> Ankha wrote:\n> Ok,\n> The csv files have been corrected. There are now two versions:\n>\n> www.vekn.net/images/stories/downloads/vtescsv.zip contains the csv in the ANSI encoding, so that ARDB will work. ARDB should be updated though, since ANSI can't encode some characters (such as '\u010D' as in Zahradn\u00ED\u010Dek). I don't know who's maintaining ARDB, but this has to be changed!\n>\n> www.vekn.net/images/stories/downloads/vtescsv_utf8.zip contains the CSV files in UTF-8 encoding.\n>\nthe first file lacks the Unaligned cards, the second is ok but has the characters problem.\n\nsadly, I need the first file with the Unaligned cards (otherwise, ARDB don't recognize all vampires with strange characters like Zoe in all my decks)",
+      "Id": "66633"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 15, 2014, 10:55\u202FAM",
+      "Body": "> Pascal wrote:\n> Set <=> Artist isn't something we have\n>\nThat's ok, then a list of set+rarity is sufficient enough (I'll update example file).\n\n> Can you include an example of an imbued card?\n>\nYes, but not right away (I need to go fetch a kid from nanny)\n\n> does it have to be 0 for inf and 1 for sup, or could it be 1 for inf and 2 for sup? (and 0 for \"doesn't have\")\n>\n0 for none, 1 for inf and 2 for sup is ok.\n\n> should the same file contain both crypt and library cards?\n>\nI would prefer two separate files, until I know for sure how large they are going to be.\n\nOf example file: There may be a syntax error in property naming (did json require double quotes in property names?). I need to check that when I'm able.\n\nAnd Thanks man! I appreciate your effort!\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66634"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 15, 2014, 11:20\u202FAM",
+      "Body": "Gramle's \"loader\" sucks the CSV files into a mongodb database.\nJussi if you want a \"dump\" of this to JSON, I could give it to you (although it doesn't exactly follow your format; I'll explain on IRC).\n\nThe long-term plan for Gramle, once upon a time, was to expose a public JSON/Mongo API for querying searches rather than just my little-used IRC bot.\nI don't know if that's ever going to happen in reality, though.\n(And there are still some types of queries that have always been buggy and I never got around to fixing)",
+      "Id": "66635"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 11:38\u202FAM",
+      "Body": "Ok, this should be the last technical update.\n\nThe \"old standard\" csv files archive is here: www.vekn.net/images/stories/downloads/vtescsv.zip\n\nPLEASE DO NOT USE IT ANYMORE! It's only here for backward compatibility purpose (eg. so that ARDB can still work) but you should use instead:\n\nwww.vekn.net/images/stories/downloads/vtescsv_utf8.zip\n\nThis archive contains the csv files encoded in UTF-8 (without BOM) with UNIX-style EOL, double quotes (\") as delimiters and comma (,) as separator.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66636"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 15, 2014, 11:45\u202FAM",
+      "Body": "I had passed this note to Pascal over email but it looks like it didn't make it to you before the \"last technical update\" version at 8:38: Imanna is still missing her \"1 vote\" title from the title column (just after the rarity column).\n\nI've also been compiling some \"templating\" questions, most of which I've already gotten answers to.\nThe latest is:\nIn older expansions, the text of Advanced vampires would start with the word \"Advanced, \" followed by the text.\nIn The Unaligned, this leading word \"Advanced, \" is missing. Is that deliberate?\nIt does affect the way my IRC bot displays information about Advanced vampires. If the word is officially absent (as it seems to be in the PDF versions of the vamps) then I will have to update my bot to display the word in another way.\n\nThanks!",
+      "Id": "66637"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2014, 11:51\u202FAM",
+      "Body": "> jozxyqk wrote:\n> I had passed this note to Pascal over email but it looks like it didn't make it to you before the \"last technical update\" version at 8:38: Imanna is still missing her \"1 vote\" title from the title column (just after the rarity column).\n>\nYes, but this is not technical  File contents will probably be updated from time to time.\n\n> jozxyqk wrote:\n> I've also been compiling some \"templating\" questions, most of which I've already gotten answers to.\n> The latest is:\n> In older expansions, the text of Advanced vampires would start with the word \"Advanced, \" followed by the text.\n> In The Unaligned, this leading word \"Advanced, \" is missing. Is that deliberate?\n> It does affect the way my IRC bot displays information about Advanced vampires. If the word is officially absent (as it seems to be in the PDF versions of the vamps) then I will have to update my bot to display the word in another way.\n>\nYes, it is deliberate. You should rely on the value in the \"Adv\" column (either empty for base version, or containing \"Advanced\" for advanced version).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66638"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 16, 2014, 4:45\u202FAM",
+      "Body": "> jozxyqk wrote:\n> Gramle's \"loader\" sucks the CSV files into a mongodb database.\n> Jussi if you want a \"dump\" of this to JSON, I could give it to you (although it doesn't exactly follow your format; I'll explain on IRC).\n>\nThanks for the offer! I'm not sure if I want to use BSON, but you can post me the dump anyway so I can inspect it. I'll PM my email.\n\nI'm not currently using IRC, but if my hobby project is ever going to happen I'm sure that I'll begin to hang around there.\n\n> jozxyqk wrote:\n> The long-term plan for Gramle, once upon a time, was to expose a public JSON/Mongo API for querying searches rather than just my little-used IRC bot.\n> I don't know if that's ever going to happen in reality, though.\n> (And there are still some types of queries that have always been buggy and I never got around to fixing)\n>\nThis sounds interesting. Since I have a plan to write a little deck design application using Qt5, I would be interested in having a good place to download latest card texts for local data storage.\n\nThe plan, as it goes, is nothing but a plan. Currently I'm researching possibilities to acquire card data.\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66656"
+    },
+    {
+      "Author": "Jussi",
+      "Date": "Oct 16, 2014, 4:53\u202FAM",
+      "Body": "> Ankha wrote:\n> Ok, this should be the last technical update.\n>\n> The \"old standard\" csv files archive is here: www.vekn.net/images/stories/downloads/vtescsv.zip\n>\n> PLEASE DO NOT USE IT ANYMORE! It's only here for backward compatibility purpose (eg. so that ARDB can still work) but you should use instead:\n>\n> www.vekn.net/images/stories/downloads/vtescsv_utf8.zip\n>\n> This archive contains the csv files encoded in UTF-8 (without BOM) with UNIX-style EOL, double quotes (\") as delimiters and comma (,) as separator.\n>\nHey, this new csv has much better formalization as the old one!\n\nThank you for that!\n\n----\nBanging trashcans, breaking windows\nWe'll wake you up tonight\n\nWe like the good time, we scream and shout\nAnd that's what fun's about",
+      "Id": "66657"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 16, 2014, 6:43\u202FAM",
+      "Body": "> Jussi wrote:\n>\n> > Ankha wrote:\n> > Ok, this should be the last technical update.\n> >\n> > The \"old standard\" csv files archive is here: www.vekn.net/images/stories/downloads/vtescsv.zip\n> >\n> > PLEASE DO NOT USE IT ANYMORE! It's only here for backward compatibility purpose (eg. so that ARDB can still work) but you should use instead:\n> >\n> > www.vekn.net/images/stories/downloads/vtescsv_utf8.zip\n> >\n> > This archive contains the csv files encoded in UTF-8 (without BOM) with UNIX-style EOL, double quotes (\") as delimiters and comma (,) as separator.\n> >\n> Hey, this new csv has much better formalization as the old one!\n>\n> Thank you for that!\n>\nstill, no Unaligned cards in the \"old standard\" csv file...",
+      "Id": "66659"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Oct 16, 2014, 6:52\u202FAM",
+      "Body": "> Ankha wrote:\n> PLEASE DO NOT USE IT ANYMORE! It's only here for backward compatibility purpose (eg. so that ARDB can still work) but you should use instead:\n>\n> www.vekn.net/images/stories/downloads/vtescsv_utf8.zip\n>\n> This archive contains the csv files encoded in UTF-8 (without BOM) with UNIX-style EOL, double quotes (\") as delimiters and comma (,) as separator.\n>\nSo, for the less-than-computer-geeky amongst us...\nARDB is 'old school' and shouldn't use the UTF8 file? Or ARDB is UTF8 functional and it should be all good?\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "66660"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 16, 2014, 7:12\u202FAM",
+      "Body": "> Drugo wrote:\n>\n> > Jussi wrote:\n> >\n> > > Ankha wrote:\n> > > Ok, this should be the last technical update.\n> > >\n> > > The \"old standard\" csv files archive is here: www.vekn.net/images/stories/downloads/vtescsv.zip\n> > >\n> > > color=#00ffff]still, no Unaligned cards in the \"old standard\" csv file...[/color]\n> > >\n> > You're wrong, they are present in the link provided (I checked again at this moment.)\n> >\n> > > Juggernaut1981 wrote:\n> > >\n> > > >\n> > > >\n> > > > Ankha wrote:\n> > > > PLEASE DO NOT USE IT ANYMORE! It's only here for backward compatibility purpose (eg. so that ARDB can still work) but you should use instead:\n> > > >\n> > > > www.vekn.net/images/stories/downloads/vtescsv_utf8.zip\n> > > >\n> > > > This archive contains the csv files encoded in UTF-8 (without BOM) with UNIX-style EOL, double quotes (\") as delimiters and comma (,) as separator.\n> > > >\n> > > So, for the less-than-computer-geeky amongst us...\n> > > ARDB is 'old school' and shouldn't use the UTF8 file? Or ARDB is UTF8 functional and it should be all good?\n> > >\n> > ARDB (and all other softwares/websites relying on the csv file) should evolve to support the UTF-8 files, which is not currently the case.\n> >\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66661"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 16, 2014, 7:39\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Drugo wrote:\n> >\n> > > Jussi wrote:\n> > >\n> > > >\n> > > >\n> > > > Ankha wrote:\n> > > > Ok, this should be the last technical update.\n> > > >\n> > > > The \"old standard\" csv files archive is here: www.vekn.net/images/stories/downloads/vtescsv.zip\n> > > >\n> > > > color=#00ffff]still, no Unaligned cards in the \"old standard\" csv file...[/color]\n> > > >\n> > > You're wrong, they are present in the link provided (I checked again at this moment.)\n> > >\n> > >\n> > i don't know what I'm doing wrong, but no, they aren't.\n> >\n> > just to be clear: i download the vtescsv.zip which contains the vtescrypt, vteslib and vtessets files. I open these files with notepad and do a search, and neither contains any TU card. no crypt cards, no library cards and the last expansion listed in the vtessets is Danse Macabre\n> >",
+      "Id": "66663"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 16, 2014, 7:57\u202FAM",
+      "Body": "Actually, the cardlist.txt which is noted to have TU cards doesn't seems to have any :\n\nvekn.net/images/stories/downloads/cardlist.txt",
+      "Id": "66664"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 16, 2014, 8:29\u202FAM",
+      "Body": "> Timo wrote:\n> Actually, the cardlist.txt which is noted to have TU cards doesn't seems to have any :\n>\n> vekn.net/images/stories/downloads/cardlist.txt\n>\nthis file seems ok to me (TU cards are present)",
+      "Id": "66665"
+    },
+    {
+      "Author": "Timo",
+      "Date": "Oct 16, 2014, 8:51\u202FAM",
+      "Body": "OK, the old one was in my firefox cache and now that I have emptied it, I have he new file.",
+      "Id": "66666"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 16, 2014, 11:31\u202FAM",
+      "Body": "> Timo wrote:\n> OK, the old one was in my firefox cache and now that I have emptied it, I have he new file.\n>\nThis is probably why Drugo don't see the correct files too.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66669"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 16, 2014, 11:36\u202FAM",
+      "Body": "> Ankha wrote:\n>\n> > Timo wrote:\n> > OK, the old one was in my firefox cache and now that I have emptied it, I have he new file.\n> >\n> This is probably why Drugo don't see the correct files too.\n>\nI don't know... I keep downloading it (from different browsers too) and always found the same file (the one without TU).",
+      "Id": "66670"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 16, 2014, 1:19\u202FPM",
+      "Body": "> Drugo wrote:\n>\n> > Ankha wrote:\n> >\n> > > Timo wrote:\n> > > OK, the old one was in my firefox cache and now that I have emptied it, I have he new file.\n> > >\n> > This is probably why Drugo don't see the correct files too.\n> >\n> I don't know... I keep downloading it (from different browsers too) and always found the same file (the one without TU).\n>\nPlease try again by emptying your navigator cache first, and if it still doesn't work, please post the link you're using (I'm not exactly sure what file you're talking about).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "66671"
+    },
+    {
+      "Author": "Drugo",
+      "Date": "Oct 16, 2014, 3:32\u202FPM",
+      "Body": "Done!\n\nin the end i tried from another computer and now the file is correct!\nmany thanks for the patience",
+      "Id": "66674"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Oct 16, 2014, 4:13\u202FPM",
+      "Body": "vtescsv_utf8.zip updated with Imanna's title now appearing in the \"title\" column",
+      "Id": "66678"
+    },
+    {
+      "Author": "mjvtes521",
+      "Date": "Oct 16, 2014, 8:44\u202FPM",
+      "Body": "Any update on when The Unaligned set will be added to secret library?",
+      "Id": "66687"
+    },
+    {
+      "Author": "XZealot",
+      "Date": "Oct 18, 2016, 5:49\u202FPM",
+      "Body": "Is there a zipped version of this file that can be easily imported (along with previous expansions) into ARDB?",
+      "Id": "78712"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 19, 2016, 6:10\u202FAM",
+      "Body": "> XZealot wrote:\n> Is there a zipped version of this file that can be easily imported (along with previous expansions) into ARDB?\n>\nDo you mean\n\nCard Lists (in csv format, ANSI) for ARDB\n\nin the  Card list section ?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "78714"
+    }
+  ]
+}

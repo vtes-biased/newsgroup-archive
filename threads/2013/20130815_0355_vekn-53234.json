@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-53234",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/53234-zip-gun-and-flesh-of-marble",
+  "Title": "Zip gun and Flesh of Marble",
+  "Messages": [
+    {
+      "Author": "Zenedar",
+      "Date": "Aug 15, 2013, 3:55\u202FAM",
+      "Body": "Hello! I apologize in advance if this question has been nagged over before. If my vampire pull out a Zip gun and uses it for, say, a maneuver which triggers the 1 damage that will happen during resolution. If the same vampire got a Flesh of Marble running and the opposing vampire strikes mine with a 1R strike. Do I get to choose which point of damage that triggers the Flesh of Marble mechanic? Can I chose that it's triggered by the zip gun? Because let's say the opposing is striking for 1R Aggrevated instead. I'd much rather have the Flesh of Marble trigger on my zip gun damage so I get to prevent the aggrevated. Thank you!\n\nZip Gun\nType: Combat\nBefore range is determined, put this card on this minion. This card represents an equipment card and doesn't count as a combat card while in play. This equipment is a weapon, gun. Ammo cards cannot be used with this gun. It does 1R damage each strike, with an optional maneuver each combat. Bearer takes 1 damage during strike resolution when striking with this gun, but only once each combat. This card is kept as normal equipment and is not discarded after combat.\n\nFlesh of Marble\nType: Combat\nRequires: Protean\nOnly usable before range is chosen.\n[pro] For the duration of the combat, when this vampire suffers a point of damage (that he or she does not prevent) in a given round, any additional damage inflicted on this vampire in the same round is automatically prevented. Aggravated damage cannot be prevented in this way.\n[PRO] As above, but aggravated damage is prevented in this way as well.",
+      "Id": "53234"
+    },
+    {
+      "Author": "the1andonlime",
+      "Date": "Aug 15, 2013, 4:38\u202FAM",
+      "Body": "FoM will trigger on the first point of unprevented damage each round, regardless of source. If two sources are resolved simultaneously, non-aggravated damage is handled before aggravated damage as per 6.4.6, or the choice of the controller of the minion taking the damage if it is all the same type of damage.\n\nWhat I am not certain is if the damage from Zip Gun should resolve before the damage from the initial strike, since it comes in during strike resolution, thus creating its own damage resolution step before heading into the damage resolution step for the strikes.\n\nEither way, FoM will kick in before the aggravated damage from the opposing minion's strike.\n\nSuaku\nInceptor Asian Continental Championship\n\u8208\u3063\nwww.youtube.com/SuakuOz",
+      "Id": "53237"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Aug 15, 2013, 9:03\u202FAM",
+      "Body": "As far as I know, Strike Resolution effect (like Carrion Crows) and initial strikes are handled in the same resolution phase (that's why you can prevent Aid from Bats + Carrion Crows with a Hidden Strength). So in my opinion FoM surely works the way Zenedar interpreted (also works with Grenade, Bomb, Black Gloves, etc...)\n\nNC of Hungary\n\n///",
+      "Id": "53244"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 15, 2013, 11:33\u202FAM",
+      "Body": "Now, i had an Alexis Sorokin deck build around mass reality, zip gun, FoM, and celerity. I think ive brought this up before, but i think i read in a thread that it doesnt work, so i scrapped said deck(which was very blood intensive for Alexis, but my !gangrel support cast coulda helped with that with hungry coyotes and rave or heidleburg). In another thread, i read it worked as i assumed.\n\nHeres how it wokrs according to the rules, as already stated in this thread:\n\nPre range, my minion plays a zip gun plus Flesh of marble. My opponent plays lets say crows, for example. I zip gun to long. My opponent doesnt manuever. Lets say hes playing beast, just for the principle of a clearximage. I shoot with zip gun, as i am obligated to having manuevered with it. He throws a sewer lid. Now, i have a zip gun biting my minion for one unpreventable, 1r from crows, 3r from the sewer lid. Hes taking whatever from my zip gun with or without mass reality damage, etc. Lets say i dont have that out, for simplicity. I have 4 damage plus the zipgun damage aimed at my minion, none of its agg, so, per rules, its all simultaineois and i choose. So, having some common sense and FoM active, i take the unpreventable zipgun damage. Then the lid and crow damage is prevented by flesh or marble.\n\nAs far as i know, this is correct. This isxthe third time this has been brougjt up, the first seemed odd, and the last time seemed to support my explaination.\n\nMaybe Pascal could answer then add something to the rulings by card section for zip gun and fleah or marble?\n\nAlso, off topic but hardly worth a thread, mata hari, she can play hatchling and waters of duat, since she is, for the duration of the action, a follower of set/gargoyle and not sterile, correct?",
+      "Id": "53247"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Aug 15, 2013, 4:08\u202FPM",
+      "Body": "> ReverendRevolver wrote:\n> NAlso, off topic but hardly worth a thread, mata hari, she can play hatchling and waters of duat, since she is, for the duration of the action, a follower of set/gargoyle and not sterile, correct?\n>\nMata Hari can play them, and they work as you expect.\n\nTechnical corner-case issues follow:\n\nHowever, she is not, for the duration of the action, a Follower of Set (or Gargoyle). The specific card being used sees Mata Hari as a Follower of Set (or Gargoyle) for play, resolution (e.g. \"Put this card on this acting Follower of Set\"), and lingering effect (e.g. Raking Claws), but not effects generated by the card being in play (e.g. \"The Gargoyle with this card...\").\n\nNothing else in the game sees Mata Hari as a Follower of Set (or Gargoyle). For example:\n\n- Jubal does not get +1 intercept when blocking Mata Hari playing Waters of Duat\n- If Vardar Vardarian blocks Mata Hari playing Waters of Duat, Vardar's -1 strength special does not trigger\n- Etienne Fauberge does not get aggravated hand damage in combat with Mata Hari who was playing a Waters of Duat\n- Alexandra cannot untap Mata Hari if Mata is taking The Portrait (as a Toreador)",
+      "Id": "53263"
+    },
+    {
+      "Author": "ReverendRevolver",
+      "Date": "Aug 15, 2013, 4:17\u202FPM",
+      "Body": "I assumed that as well, since meeting requirement to play it and playing something as though they meet the requirement doesnt mean they can use it as though they were a (insert noun). Al cant summon a stone dog and rush with it. Hes not a gargoyle.\n\nI read rules wrong sometimes, but normally catch things easily as long as thats not an issue.",
+      "Id": "53264"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 16, 2013, 4:32\u202FAM",
+      "Body": "> Malachy wrote:\n> As far as I know, Strike Resolution effect (like Carrion Crows) and initial strikes are handled in the same resolution phase (that's why you can prevent Aid from Bats + Carrion Crows with a Hidden Strength). So in my opinion FoM surely works the way Zenedar interpreted (also works with Grenade, Bomb, Black Gloves, etc...)\n>\nCorrect.\n\n> ReverendRevolver wrote:\n> So, having some common sense and FoM active, i take the unpreventable zipgun damage. Then the lid and crow damage is prevented by flesh or marble.\n>\n> As far as i know, this is correct.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "53284"
+    }
+  ]
+}

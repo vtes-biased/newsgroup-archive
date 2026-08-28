@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-78988",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78988-sequencing-of-eagle-sight-etc-block-attempts",
+  "Title": "Sequencing of Eagle Sight (etc.) block attempts",
+  "Messages": [
+    {
+      "Author": "Hakuron",
+      "Date": "Jan 15, 2021, 11:07\u202FPM",
+      "Body": "The Situation:\n\nA\u2019 s Stanislava bleeds B for the oust. B has no unlocked minions (and no wake cards) and declines blocks. C plays an Auspex wall deck and controls (unlocked) minions with superior Auspex, but declines blocks. D controls Anneke who is unlocked, and she attempts to block. The block is successful, and during combat Stanislava plays Form of Mist superior to continue the bleed action. Anneke remains locked after combat, and her player declines blocks.\n\nCould C now decide to play Eagle Sight superior with one of his Vampires and try to block Stanislava\u2019s bleed?\n(And would it make any difference if Stanislava just played a Stealth card instead of Form of Mist in order to get pass Anneke\u2019s block attempt?)\n\nThanks in advance!\n\nCard texts:\nName: Eagle's Sight\n[aus] +1 intercept.\n[AUS] This vampire attempts to block the current action, ignoring the normal prey, predator or target restrictions for blocking actions.\nName: Anneke\nDiscipline: dom AUS CEL PRE\nCamarilla Toreador Justicar: Anneke may attempt to block a vampire controlled by another Methuselah, ignoring the normal prey, predator or target restrictions for blocking actions. +1 bleed.\nName: Form of Mist\n[pro] Strike: dodge.\n[PRO] Strike: combat ends. If this vampire is acting and the action was blocked, they can burn 1 blood after combat ends to continue the action at +1 stealth as if unblocked, even if stealth is not yet needed. A vampire can play only one Form of Mist at superior each action.\n\nNational Coordinator Germany  nc [dot] germany [at] magenta [dot] de",
+      "Id": "101439"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 16, 2021, 8:45\u202FAM",
+      "Body": "> Could C now decide to play Eagle Sight superior with one of his Vampires and try to block Stanislava\u2019s bleed?\n>\nNo.\n\n> (And would it make any difference if Stanislava just played a Stealth card instead of Form of Mist in order to get pass Anneke\u2019s block attempt?)\n>\nNo.\n\nI'm no Ankha but, from the rulebook:\n\n> blocking attempts are made in a clockwise order.\n>\n> Once a Methuselah decides not to make any further attempts to block, that decision is final.\n>\nWhen the target of the action changes, every Methusalah has a new chance to block (don't know why it's not in the rulebook yet, but there are numerous rulings), but that's no the case here with Form of Mist (or additional stealth, which would be the same).\nEagle's Sight  does not circumvent previous decisions not to block [RTR 19950413] [RTR 20020501]\n\nFor a thorough discussion about impulse order and block, maybe see www.vekn.net/forum/rules-questions/78676-draba-timing#100043",
+      "Id": "101442"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jan 16, 2021, 5:47\u202FPM",
+      "Body": "so on an Table with A B C D and E and A bleeding B:\n\nA anounces bleed B declines block, C declines Block, D plays eagle sight, A plays form of msit to continue, D could try to block again (with the vampire that played eagle sight) and if D declines E could try to block with Eagle Sight, but B and C could not, correct?",
+      "Id": "101445"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 18, 2021, 7:41\u202FAM",
+      "Body": "Correct.",
+      "Id": "101453"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 18, 2021, 6:45\u202FPM",
+      "Body": "> lip wrote:\n>\n> > Could C now decide to play Eagle Sight superior with one of his Vampires and try to block Stanislava\u2019s bleed?\n> >\n> No.\n>\n> > (And would it make any difference if Stanislava just played a Stealth card instead of Form of Mist in order to get pass Anneke\u2019s block attempt?)\n> >\n> No.\n>\n> I'm no Ankha but, from the rulebook:\n>\n> > blocking attempts are made in a clockwise order.\n> >\n> > Once a Methuselah decides not to make any further attempts to block, that decision is final.\n> >\n> When the target of the action changes, every Methusalah has a new chance to block (don't know why it's not in the rulebook yet, but there are numerous rulings), but that's no the case here with Form of Mist (or additional stealth, which would be the same).\n> Eagle's Sight  does not circumvent previous decisions not to block [RTR 19950413] [RTR 20020501]\n>\n> For a thorough discussion about impulse order and block, maybe see www.vekn.net/forum/rules-questions/78676-draba-timing#100043\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101463"
+    }
+  ]
+}

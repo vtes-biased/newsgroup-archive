@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-79307",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/79307-eagle-s-sight-sequencing-on-an-undirected-action",
+  "Title": "Eagle's Sight sequencing on an undirected action",
+  "Messages": [
+    {
+      "Author": "lip",
+      "Date": "Sep 6, 2021, 1:26\u202FPM",
+      "Body": "Yeah, another Eagle's Sight question. I'm working on an article on timing & sequencing in VTES, and I'm in search of a precise answer with official ruling.\n\nSituation: Players A \u2192 B \u2192 C \u2192 D\n\nA plays Kine Resources Contested, an undirected action. The prey, B, declines to block.\nC has an Eagle's Sight in hand. Does he get to play it before or after D declines to block?\n\nIt was my understanding that the correct sequencing order for undirected actions was: Prey, predator, everyone else in clockwise order.\n\nBut, the new rulebook states this sequencing rule:\n>\n> If two or more Methuselahs want to play a card or effect, the acting Methuselah plays first. At every stage, the acting Methuselah always has the opportunity to play the next card or effect. So after playing one effect, they may play another and another. Once they are finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to use the next card or effect.\n>\nThere is no mention of a different order for undirected actions.\n\nSo, what is the correct order? B, C, D clockwise or B, D, C prey-predator-others?",
+      "Id": "103045"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2021, 1:49\u202FPM",
+      "Body": "Prey, predator (undirected action), then the other Methuselahs in clockwise order.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103046"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 6, 2021, 2:02\u202FPM",
+      "Body": "> Ankha wrote:\n> Prey, predator (undirected action), then the other Methuselahs in clockwise order.\n>\nLooks like the Rulebook is in need of yet another revision (or actually removal of changes that were merely typos)...\n\nI DO remember suggesting to BCP that the Rulebook be released to general player populace for proofreading (well) before actual release. Because, you know, the more people there are reading through it the more chances there are to locate such brainfarts. Since I have some experience in nitpickingly exact proofreading I also suggested that I'd do some actual proofreading. Now I have an urge to say \"told ya\"...\n\nFinnish  Politics!",
+      "Id": "103047"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 6, 2021, 3:24\u202FPM",
+      "Body": "> L\u00F6nkka wrote:\n>\n> > Ankha wrote:\n> > Prey, predator (undirected action), then the other Methuselahs in clockwise order.\n> >\n> Looks like the Rulebook is in need of yet another revision (or actually removal of changes that were merely typos)...\n>\n> I DO remember suggesting to BCP that the Rulebook be released to general player populace for proofreading (well) before actual release. Because, you know, the more people there are reading through it the more chances there are to locate such brainfarts. Since I have some experience in nitpickingly exact proofreading I also suggested that I'd do some actual proofreading. Now I have an urge to say \"told ya\"...\n>\nIn fact, it has been available for proofreading for more than 10 years, considering that the \"Who may attempt to block\" and \"Sequencing\" parts have not changed since the \"old\" rulebook. So I blame you for not spotting it for all this time\n\n2. Resolve Any Block Attempts Who May Attempt to Block If the action is not directed at another Methuselah or at something controlled by another Methuselah, then the action is called undirected and can be blocked by the acting Methuselah\u2019s prey or predator, with the prey getting the first opportunity to block.\n\nThis sections describes the regular blocking order: prey, then predator.\nIf someone wants to block it using a card that \"ignores the normal prey, predator or target restrictions\" (not \"order\"), it works following the impulse, after both prey and predator have declined to block.\n\nThat being said, the rulebook can be improved for sure.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "103048"
+    },
+    {
+      "Author": "lip",
+      "Date": "Sep 6, 2021, 3:38\u202FPM",
+      "Body": "Thanks for the ruling!\n\nYes, I guess it might be slightly improved. Do we have a GitHub for the rulebook? Or do you prefer submissions for improvement here in the forum?\n\nWhen reading the Who May Attempt to Block section,\n>\n> the action is called undirected and can be blocked by the acting Methuselah\u2019s prey or predator, with the prey getting the first opportunity to block.\n>\ndoes not clearly supersedes the order given in the Sequencing section:\n>\n> the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah\n>\nAfter all, the predator is after the prey in clockwise order so going \"prey, others, predator\" could fit here. This matters for Eagle's Sight, but also for the sequence for non-block related cards like Netwar and Draba.",
+      "Id": "103049"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Sep 6, 2021, 9:18\u202FPM",
+      "Body": "> In fact, it has been available for proofreading for more than 10 years, considering that the \"Who may attempt to block\" and \"Sequencing\" parts have not changed since the \"old\" rulebook. So I blame you for not spotting it for all this time\n>\nI probably haven't read the rulebook in 10 years...\n\nNo need to try to pass the blame.\n\nFinnish  Politics!",
+      "Id": "103052"
+    }
+  ]
+}

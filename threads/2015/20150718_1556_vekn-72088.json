@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-72088",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/72088-action-modifiers",
+  "Title": "Action modifiers",
+  "Messages": [
+    {
+      "Author": "Nac",
+      "Date": "Jul 18, 2015, 3:56\u202FPM",
+      "Body": "Hi\n\nThinking about a \"Make an example\" deck, I got this doubt: can it be played by a tapped vampire? I thought about veil of legions and got confused.\n\nMany thanks in advance\n\nMake an example\nOnly usable by a non-acting Guruhi when an acting Laibon you control is blocked (before combat).\nInflict 2 unpreventable damage on both the acting Laibon and the blocking minion and end the action (without combat).\n\nveil of legions\nOnly usable by a ready, untapped vampire other than the acting minion you control. The acting minion gets +1 stealth. Only one Veil the Legions may be played each action.\nObfuscate As above, and this vampire may burn X additional blood to give +1 stealth to the next X actions your minions perform this turn. Only one Veil the Legions can be played at superior each turn.",
+      "Id": "72088"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 18, 2015, 4:56\u202FPM",
+      "Body": "Tapped vampires can play action modifiers. Moreover, it's what they do all the time because acting vampires are tapped most of the time.\n\nSo yes, you can play Make an example just as you can play Cloak the Gathering at superior.\n\nSee  Card ruling =>  groups.google.com/forum/#!msg/rec.games.deckmaster/_6CXoKTSLnw/FdG67-3HEAQJ\n\nVeil the Legions can't be played by a tapped vampire because the card explicitely forbigs it (it's not a reminder).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72092"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Jul 19, 2015, 11:28\u202FAM",
+      "Body": "What about a vampire in torpor? As vampires leaving torpor themselves can use action modifiers there seems to be no rule concerning action modifiers and torpor.\n\nPrince of Bonn, Germany",
+      "Id": "72101"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jul 19, 2015, 12:11\u202FPM",
+      "Body": "> Yomyael wrote:\n> What about a vampire in torpor? As vampires leaving torpor themselves can use action modifiers there seems to be no rule concerning action modifiers and torpor.\n>\nVampires in torpor can only play action modifiers if they're the acting minion (e.g. playing Lost in Crowds on a Leave Torpor action).\n\nvekn.net/general-rulings\n>\n> That wrote:\n> Action modifiers cannot be played by a vampire in torpor unless that vampire is the acting minion. [RTR 19970306]\n>",
+      "Id": "72102"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 20, 2015, 7:33\u202FAM",
+      "Body": "Correct answers.\nThis makes me think I need to update Blanket of Night (I think it's the only one that didn't get a \"ready\" added to its cardtext)",
+      "Id": "72124"
+    },
+    {
+      "Author": "Yomyael",
+      "Date": "Jul 20, 2015, 7:57\u202FAM",
+      "Body": "> Pascal wrote:\n> This makes me think I need to update Blanket of Night (I think it's the only one that didn't get a \"ready\" added to its cardtext)\n>\nMake an example also didn't get a \"ready\" yet.\n\nPrince of Bonn, Germany",
+      "Id": "72125"
+    }
+  ]
+}

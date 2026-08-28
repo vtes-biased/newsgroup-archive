@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-78989",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78989-prerange-damage-taste",
+  "Title": "Prerange damage + Taste",
+  "Messages": [
+    {
+      "Author": "yurian",
+      "Date": "Jan 16, 2021, 8:21\u202FAM",
+      "Body": "Thanks for this.\nJust a follow on question to conclude the thread .\nIf vamp A would play the effect of Living Manse (This vampire gets +1 bleed. They can burn this card before range is determined to end combat. A vampire can have only one Living Manse.) before vamp B would play Weather Control / Outside the Hourglass, I assume combat ends and no chance to play either of these, right?\nAnd if vamp A would execute the Living Manse effect \"after\" WC/OtH would be played, then I assume damage is inflicted, and then combat ends?\nAppreciate the inputs.",
+      "Id": "101441"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 16, 2021, 8:55\u202FAM",
+      "Body": "> Just a follow on question to conclude the thread .\n>\nDon't hesitate to begin a new thread for a new question. Makes further research/reference easier.\n\n> If vamp A would play the effect of Living Manse (This vampire gets +1 bleed. They can burn this card before range is determined to end combat. A vampire can have only one Living Manse.)\n>\nAlso, you're welcome to provide full card text when asking a question \u263A\uFE0E\n\nLiving Manse\n\nWhile in play, this equipment card represents a location and does not count as equipment.\n\nThis vampire gets +1 bleed. They can burn this card before range is determined to end combat. A vampire can have only one Living Manse.\n\n> before vamp B would play Weather Control / Outside the Hourglass, I assume combat ends and no chance to play either of these, right?\n>\nRight.\n\n> And if vamp A would execute the Living Manse effect \"after\" WC/OtH would be played, then I assume damage is inflicted, and then combat ends?\n>\nYes.  [LSJ 19971110]",
+      "Id": "101443"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jan 16, 2021, 6:34\u202FPM",
+      "Body": "> lip wrote:\n> >\n> > And if vamp A would execute the Living Manse effect \"after\" WC/OtH would be played, then I assume damage is inflicted, and then combat ends?\n> >\n> Yes.  [LSJ 19971110]\n>\nJust for clarity i assume you are referring to the first post of LSJ and not the latter one as the card text isn\u00B4t aligned with that one any longer. Time window for playing WC was changed from \"beginning of combat\" to be the same as OtH which is \"before range\" after the linked ruling was given by LSJ. The ruling is still relevant just not the last LSJ post for WC in particular.\n\n> First post - LSG wrote:\n> Robert Granat wrote:\n> > When exactly does Weather Control deal its damage?\n> At the beginning of each round of combat.\n>\n> > For example, what if combat is ended by Mariel or Elysium: The Arboretum?\n> > Both effects are \"before range.\" Does one have precedence?\n>\n> Whichever is played first. Note that the acting minion's controller\n> always has first option to play a card or effect.\n>\nRuling from KRCG / Codex of the Damned seems not right to me as explained above.\n\n> Ruling from Codex of the Damned says:\n> 2. The damage will occur even if combat is subsequently ended before range (eg. by Mariel, Lady Thunder). [LSJ 19971110]\n>",
+      "Id": "101446"
+    },
+    {
+      "Author": "yurian",
+      "Date": "Jan 17, 2021, 5:51\u202FPM",
+      "Body": "Thanks @lip. Duly noted",
+      "Id": "101447"
+    },
+    {
+      "Author": "lip",
+      "Date": "Jan 18, 2021, 7:58\u202FAM",
+      "Body": "> Just for clarity i assume you are referring to the first post of LSJ and not the latter one as the card text isn\u00B4t aligned with that one any longer.\n>\nThe Codex links point to specific posts, although reading the rest of the thread can be enlightening. In this case, it refers to (emphasis mine):\n>\n> But, since the effect is set up, and neither Elysium: Arboretum nor\n> Mariel can be used until \"before range\", WC's effect will take place\n> even if combat is ended in one of those two ways.\n>\nI would need a Rule's Director input to revert that ruling. I may have found and not listed a more recent confirmation. If you find a more recent confirmation or reversion, please do not hesitate to point me to it.",
+      "Id": "101455"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 18, 2021, 6:55\u202FPM",
+      "Body": "Weather Control's cardtext has changed, so the whole argument \"Weather Control gets first opportunity to be played (\"beginning of combat\" superceding \"before range\").\" is moot.\n\nThe part about the damage needing to be resolved, no matter what, is still true.\n\nFor instance, A plays Weather Control. A decides to apply its effect ( A cannot pass the impulse since there is this mandatory effect to resolve ).\nA can now pass the impulse in the damage resolution step.\nB can burn the Living Manse, but the damage is still inflicted and must be handled.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "101464"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "ThreadId": "vekn-76378",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/76378-clan-loyalty",
+  "Title": "Clan Loyalty",
+  "Messages": [
+    {
+      "Author": "Whisker",
+      "Date": "Jan 23, 2018, 11:09\u202FAM",
+      "Body": "Hi,\nWhat exactly does cancel the block part Clan Loyalty's text mean? No tapping for succesful block? Other effects?\n\nClan Loyalty\n\nAction Modifier\n[1 Blood]\nOnly usable when this vampire is successfully blocked by a vampire of the same clan (play before combat).\nCancel the block and combat. The action continues as normal, and no vampires of that clan may block the acting vampire for the remainder of the turn.\n\nArtist(s): Drew Tucker\n\nSet(s): DS:C2, FN:PG",
+      "Id": "85023"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 17, 2018, 9:41\u202FPM",
+      "Body": "Seems like nobody bothered to answer this question...\n\nI'm curious what would be the timing nuances between this and if blocker would like to play mental maze (or obedience).. They would be played in same window and one says action continues and one says action ends..\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "85833"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 17, 2018, 9:56\u202FPM",
+      "Body": "When the block is canceled the minion is not locked (though they remain locked if the block attempt was from a wake effect).\n\nThe acting minion has the impulse, if they play Clan Loyalty (or any other card that cancels a blocker), then Mental Maze, Obedience, etc. cannot be played because the reacting minion is no longer blocking or about to enter combat.",
+      "Id": "85836"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 19, 2018, 9:01\u202FPM",
+      "Body": "> Bloodartist wrote:\n> Seems like nobody bothered to answer this question...\n>\n> I'm curious what would be the timing nuances between this and if blocker would like to play mental maze (or obedience).. They would be played in same window and one says action continues and one says action ends..\n>\nno timing windows in VtES, this is NOT MtG. Please go read about how impulse works if you want to spend time understanding timing issues. There is no LIFO or LILO setup as per MtG, only impulse.\n\nI am not being argumentative, but there seems to be a distinct break in your understanding of VtES timing rules, as you are using such terms as timing windows, which is a distinctively MtG term originally.",
+      "Id": "85886"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 19, 2018, 11:41\u202FPM",
+      "Body": "> Blooded wrote:\n> no timing windows in VtES, this is NOT MtG.\n>\nThe Rulebook indicates that there are timing windows. This exact term is used to describe when to play wake effects.\n\n> Please go read about how impulse works if you want to spend time understanding timing issues. There is no LIFO or LILO setup as per MtG, only impulse.\n>\nWhere do you suggest one goes to read about impulse? This exact term is not used in the rulebook, and there is only an extremely terse outline of sequencing in the rulebook. The \"impulse\" is not officially described anywhere, so how would one go read about it?\n\n> I am not being argumentative, but there seems to be a distinct break in your understanding of VtES timing rules, as you are using such terms as timing windows, which is a distinctively MtG term originally.\n>\nAgain, this is not the case. \"Window\" is used in the rulebook, \"impulse\" is not. I'd be willing to forgive someone if their grasp of the timing nuances in VTES is not 100% given that the rulebook does a subpar job describing sequencing. A detailed description of how the impulse works really should be included in the rulebook.",
+      "Id": "85892"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 20, 2018, 12:05\u202FAM",
+      "Body": "> Blooded wrote:\n>\n> no timing windows in VtES, this is NOT MtG. Please go read about how impulse works if you want to spend time understanding timing issues. There is no LIFO or LILO setup as per MtG, only impulse.\n>\n> I am not being argumentative, but there seems to be a distinct break in your understanding of VtES timing rules, as you are using such terms as timing windows, which is a distinctively MtG term originally.\n>\nFrom the rulebook, to continue above post.\n>\n> Wake: A vampire that wakes during an action can attempt to block that action and/or play reaction cards as though unlocked for the duration of the action. Wake effects can always be played during the \"as a card is played\" window, in order to play other reaction cards that must be played in that window. A reaction cards that unlocks a vampire but doesn't wake it is not considered as a wake effect and can't be played during the \"as a card is played\" window.\n>\nAs TwoRazorReign said, the word \"impulse\" does not appear in rulebook.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "85895"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 20, 2018, 1:03\u202FAM",
+      "Body": "Urgh.... ok, here goes. Please note this is a reminiscence of years of arguing with LSJ and learning to understand why he ruled the way he did.\n\nImpulse is essnetially indicating who has the ability to play cards at any point in time. At the simplest level for a bleed action:\n\nBob controls Smudge, and Jane controls Igo. Bob is the acting methuselah, and has impulse. He declares a bleed action with Smudge, tapping him. Impulse remains with him for any \"play as action is declared\" cards, then shifts to his prey for any cancel cards. Once Jane passes the ability to play cards (passes the impulse) it now revolves around the table, clockwise, until all other methuselah's have declined any cards at this time.\nImpulse is now with Bob, who may play action modifier, or ask Jane if she is blocking. Asking if she is blocking passes impulse to her, she may either use it to tap Igo for a block, or by playing wake effects, or both. Once she has declared all blocks and cards, the impulse goes around the table for DI, then returns to Bob, who may now once again play action modifiers. Once he passes impulse back to Jane, she may respond to any modifiers played.\n\nDinner is ready, but that is just up to deciding if the bleed is blocked or not\nEvery single interaction of VtES works this way",
+      "Id": "85897"
+    },
+    {
+      "Author": "narpassword",
+      "Date": "Mar 20, 2018, 1:15\u202FAM",
+      "Body": "> Blooded wrote:\n> . Once she has declared all blocks and cards, the impulse goes around the table for DI, then returns to Bob,\n>\nDoesnt it go immediatly back to Bob (acting) after a single attempt to block or card?\n\nyou make it sound like blocking minion can declare blocks then play as many reactions as wanted.",
+      "Id": "85898"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 20, 2018, 1:18\u202FAM",
+      "Body": "> Blooded wrote:\n> Urgh.... ok, here goes. Please note this is a reminiscence of years of arguing with LSJ and learning to understand why he ruled the way he did.\n>\nA more \"official\" and detailed outline of the impulse can be found here (see the first few replies from the poster Pascal Bertrand, one of them is specifically about impulse and block attempts):\n\nwww.vekn.net/forum/rules-questions/10649-impulse-the-as-played-window-and-you?limitstart=0",
+      "Id": "85899"
+    },
+    {
+      "Author": "Blooded Sand",
+      "Date": "Mar 20, 2018, 3:05\u202FAM",
+      "Body": "> TwoRazorReign wrote:\n>\n> > Blooded wrote:\n> > Urgh.... ok, here goes. Please note this is a reminiscence of years of arguing with LSJ and learning to understand why he ruled the way he did.\n> >\n> A more \"official\" and detailed outline of the impulse can be found here (see the first few replies from the poster Pascal Bertrand, one of them is specifically about impulse and block attempts):\n>\n> www.vekn.net/forum/rules-questions/10649-impulse-the-as-played-window-and-you?limitstart=0\n>\nYeah mine was rather garbled and rushed. But Pascal's is pretty spot on.",
+      "Id": "85900"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 20, 2018, 10:29\u202FAM",
+      "Body": "> Blooded wrote:\n> Urgh.... ok, here goes. Please note this is a reminiscence of years of arguing with LSJ and learning to understand why he ruled the way he did.\n>\nThats kind of what plagues VTES and its rules.. its rules are often defined in threads where people argue with one another rather than be collected in a comprehensive and exhaustive document like the rulebook. I have said before, say it again: rulebook is missing a great deal of definitions. Impulse being one of the most important.\n\nAlso: in my eyes impulse and timing window are not the same thing. Timing window determines when a card is playable (you play taste of vitae after press step for example).\nImpulse determines who is allowed to play cards.\n\n> A more \"official\" and detailed outline of the impulse can be found here (see the first few replies from the poster Pascal Bertrand, one of them is specifically about impulse and block attempts):\n>\n> www.vekn.net/forum/rules-questions/10649-impulse-the-as-played-window-and-you?limitstart=0\n>\nThat is not an outline. That is an explanation of a bunch of special cases and how impulse is handled in them. The actual comprehensive DEFINITION of impulse is still missing. Do note however that even Pascal Bertrand uses the term timing window.. Your original post claiming there were no timing windows in VTES is hilarious.\n\nIn my opinion we should write two rulebooks. One 'normal' one for players and beginners; and one comprehensive and detailed rulebook for rules reference and judges, with all the special situations. In magic, the latter (used by judges as reference) has over 200 pages and is definitely NOT memorized by any normal person. This way we would have all the important information in one place to refer, without having to go scouring through forum threads and google archives.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "85906"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 20, 2018, 1:32\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > A more \"official\" and detailed outline of the impulse can be found here (see the first few replies from the poster Pascal Bertrand, one of them is specifically about impulse and block attempts):\n> >\n> > www.vekn.net/forum/rules-questions/10649-impulse-the-as-played-window-and-you?limitstart=0\n> >\n> That is not an outline. That is an explanation of a bunch of special cases and how impulse is handled in them. The actual comprehensive DEFINITION of impulse is still missing.\n>\nThe impulse actually is defined in the rulebook, it's just called something else: sequencing. Sequencing is colloquially referred to as \"passing the impulse\".\n\n> In my opinion we should write two rulebooks. One 'normal' one for players and beginners; and one comprehensive and detailed rulebook for rules reference and judges, with all the special situations.\n>\nThis already exists. The more comprehensive rulebook is called the Detailed Play Summary, which, in your words, is more of a \"explanation of a bunch of special cases\" rather than the narrative form the rulebook takes. These two rule assets seem to have been developed independently of one another in the past, and there's some inconsistency. My thought is the regular rulebook needs to be rewritten for clarity, with attention given to whether the Detailed Play Summary is consistent with what is being outlined in the rulebook. Sequencing needs to be outlined better in the Detailed Play Summary for sure.",
+      "Id": "85907"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Mar 20, 2018, 3:29\u202FPM",
+      "Body": "> TwoRazorReign wrote:\n>\n> The impulse actually is defined in the rulebook, it's just called something else: sequencing. Sequencing is colloquially referred to as \"passing the impulse\".\n>\nIf the word 'impulse' does not appear in the rulebook, it is not defined.. Maybe this part of the rulebook should be rewritten.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "85911"
+    },
+    {
+      "Author": "TwoRazorReign",
+      "Date": "Mar 20, 2018, 3:45\u202FPM",
+      "Body": "> Bloodartist wrote:\n>\n> > TwoRazorReign wrote:\n> >\n> > The impulse actually is defined in the rulebook, it's just called something else: sequencing. Sequencing is colloquially referred to as \"passing the impulse\".\n> >\n> If the word 'impulse' does not appear in the rulebook, it is not defined.. Maybe this part of the rulebook should be rewritten.\n>\nSo, again, \"sequencing\" is the official term. \"Impulse\" is the colloquial name that was given to sequencing that is used on this forum. They are the same thing, so the concept of impulse is defined in the rulebook, it's just called \"sequencing\". It's like how non-strike damage done in combat is referred to as \"environmental\" damage. Environmental damage is not described in the rulebook, but this term is used on this forum and in rulings to describe non-strike damage done in combat.",
+      "Id": "85913"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 21, 2018, 9:54\u202FAM",
+      "Body": "> Whisker wrote:\n> Hi,\n> What exactly does cancel the block part Clan Loyalty's text mean? No tapping for succesful block? Other effects?\n>\n> Clan Loyalty\n>\n> Action Modifier\n> [1 Blood]\n> Only usable when this vampire is successfully blocked by a vampire of the same clan (play before combat).\n> Cancel the block and combat. The action continues as normal, and no vampires of that clan may block the acting vampire for the remainder of the turn.\n>\n> Artist(s): Drew Tucker\n>\n> Set(s): DS:C2, FN:PG\n>\nI couldn't find any relevant ruling stating otherwise: \"Cancel the block\" means that the blocking minion is not locked, that there is no combat (cardtext is redundant), and that the actions continues (cardtext is redundant again).\nIt's an old cardtext that needs update.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85923"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "Mar 21, 2018, 12:43\u202FPM",
+      "Body": "How about making it a simple Block Fails effect? Waiting for the block to be successful makes very little difference in practice, but it has the big disadvantage of forcing the effect to go back in time.",
+      "Id": "85926"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 21, 2018, 2:41\u202FPM",
+      "Body": "> Non-existant user wrote:\n> How about making it a simple Block Fails effect? Waiting for the block to be successful makes very little difference in practice, but it has the big disadvantage of forcing the effect to go back in time.\n>\nLike Horrific Countenance, its cardtext may be updated some day (when it can be reprinted).\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "85929"
+    }
+  ]
+}

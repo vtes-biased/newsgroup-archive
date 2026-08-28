@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-80612",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80612-when-to-use-shard-the-line-when-action-becoems-to-expensive-after-announcement",
+  "Title": "When to use Shard/The line when action becoems to expensive after announcement",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Jun 19, 2023, 4:12\u202FPM",
+      "Body": "Situation:\nI control a card that reduces blood cost (Shard/the line)\n\nI announce an action that costs 2 blood, with a vampire that has 2 blood.\n\nI play an action modifier that costs 1 blood.\n\nThe Vampire now doesnt have enough blood to pay for the action, if it reaches resolution.\n\nDo I have to use Shard/Line immedeatly, to keep the action legal, or can I opt to use it as soon as reolution hits, to make it cheap enough to pay for the action, to keep it from fizzeling?\n\nThe line\n\nhttps://vdb.im/images/cards/en-EN/linethe.jpg?v=2023-05-22\n\nThe shard\n\nhttps://vdb.im/images/cards/en-EN/shardlondonthe.jpg?v=2023-05-22",
+      "Id": "108401"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jun 20, 2023, 8:59\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n> Situation:\n> I control a card that reduces blood cost (Shard/the line)\n>\n> I announce an action that costs 2 blood, with a vampire that has 2 blood.\n>\n> I play an action modifier that costs 1 blood.\n>\n> The Vampire now doesnt have enough blood to pay for the action, if it reaches resolution.\n>\nFirst of all, please do not use images as cardtext references. Please include the cardtext as images may change through time (even if its address stays the same) and would no longer be relevant in a few years, and images can be blocked or become missing for various reasons.\n\nThe reference for cardtext is www.vekn.net/images/stories/downloads/cardlist.txt\n\nName: The Line\nCardtype: Master\nUnique location.\nLock to reduce the cost of an action card played by a vampire you control by 1 blood (this location is not locked if that card is canceled as it is played). Any vampire can steal this location as a  action.\n\n> Hobbesgoblin wrote:\n> Do I have to use Shard/Line immedeatly, to keep the action legal, or can I opt to use it as soon as reolution hits, to make it cheap enough to pay for the action, to keep it from fizzeling?\n>\nYou can use The Line (or The Shard) anytime you want before resolution. even we announcing the action (in order to make the card \"affordable\" for the minion who plays it).\nThe action fizzles only when reaching resolution if you cannot pay for it.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "108409"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Jun 20, 2023, 11:10\u202FAM",
+      "Body": "> Hobbesgoblin wrote:\n> Situation:\n> I control a card that reduces blood cost (Shard/the line)\n>\n> I announce an action that costs 2 blood, with a vampire that has 2 blood.\n>\n> I play an action modifier that costs 1 blood.\n>\n> The Vampire now doesnt have enough blood to pay for the action, if it reaches resolution.\n>\n> Do I have to use Shard/Line immedeatly, to keep the action legal, or can I opt to use it as soon as reolution hits, to make it cheap enough to pay for the action, to keep it from fizzeling?\n>\n> The Line\n>\n> Cardtype: Master\n> Unique location.\n> Lock to reduce the cost of an action card played by a vampire you control by 1 blood (this location is not locked if that card is canceled as it is played). Any vampire can steal this location as a  action.\n>\n> The Shard, London\n>\n> Cardtype: Master\n> Cost: 2 pool\n> Unique location.\n> If you have the Edge, you can lock this card to reduce the cost of a card you play by 2 pool or blood. Vampires can steal this location as a  action; Ventrue get +1 stealth during that action.\n>\nTo my understanding the ability to pay for an action is checked at two stages\n1) when announcing the action\n2) when the action reaches resolution i.e. is successful (is unblocked) prior to resolving\n\nThe answer is no.\n\nIf one was able to pay for the cost (2 blood) when announcing the action and later use any of the blood to pay for something else (modifier -1 blood) one doesn\u00B4t have to use e.g. The Line immediately and the action doesn't fizzle immediately either as the ability to pay the cost is not continuously checked (opposite to eg readiness of the minion which is continuously checked throughout the action), the action, in this case, would only fizzle because of the inability to pay its cost when the action reaches resolution if you choose not to use The Line.\n\nOne needs to be able to pay the cost when announcing (basically saying how much is from what sources) but one doesn\u2019t commit to that it will be paid as announced, how one actually pays one gets to decide at the time the payment is done. Note that if counters and effects from cards e.g. Ravnos Cashe, The Line, The Shard, etc. are part of the announcement of how the cost will be paid one cannot let the action fizzle by choosing not to use them\u2026.while if it wasn\u2019t part of the announcement one isn\u2019t forced to use them and can let the action fizzle.\n\nAnkha please confirm if the above is correct.",
+      "Id": "108413"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Jun 20, 2023, 1:00\u202FPM",
+      "Body": "I think it's the latter - the action is successful when all block attempts were unsuccessful, and then the cost of the action is paid, so you should be able to decide up until that moment.",
+      "Id": "108414"
+    }
+  ]
+}

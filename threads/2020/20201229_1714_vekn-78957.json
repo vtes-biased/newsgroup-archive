@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-78957",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/78957-erciyes-fragments-and-light-intensifying-goggles",
+  "Title": "Erciyes Fragments and Light Intensifying Goggles",
+  "Messages": [
+    {
+      "Author": "Kushiel",
+      "Date": "Dec 29, 2020, 5:14\u202FPM",
+      "Body": "I have Erciyes Fragments in play with Target Vitals on it. A minion with Light Intensifying Goggles plays the Target Vitals from the Fragments. Can I move the Target Vitals to the Goggles, or does it burn (and therefore get removed from the game) before I can do so?\n\nCardtexts:\nThe Erciyes Fragments\nPut this card in play. Lock this card to move a library card from your prey's ash heap to this card, face down. You may look at that card at any time. You may play the card from the Fragments as if playing it from your hand (requirements and cost, if any, apply as normal). When that card is burned, remove it from the game instead. Only 1 card can be on this card at a time. Any vampire with a capacity above 4 can steal the Fragments (and any card on it) for his or her controller as a  action.\n\nLight Intensifying Goggles\nThe bearer gets 1 optional maneuver during the first round of combat. You can move any aim card the bearer uses to this card{, face up and out of play} (even if it is canceled). The bearer can play an aim card on this equipment as if from your hand; it is then removed from the game.",
+      "Id": "101320"
+    },
+    {
+      "Author": "inm8",
+      "Date": "Dec 29, 2020, 7:14\u202FPM",
+      "Body": "My interpretation as per card text and the rulebook the AIM card can be moved to the Light Intensifying Goggles when used from the The Erciyes Fragments because the Light Intensifying Goggles triggers the move of the card before the burning of it. Lets see what Ankha says\n\n> Rulebook says:\n> 1.1.2\n> Burn: When a card is \"burned,\" it is placed into its owner's discard pile (the discard pile is called the \"ash heap\" for this reason).\n>\n> 1.6.3\n> Minion cards are cards that your vampires and allies (collectively referred to as \"minions\") play. Unless the card states otherwise, a minion card is burned after a minion plays it.\n>\n> The Erciyes Fragments says:\n> Put this card in play. Lock this card to move a library card from your prey's ash heap to this card, face down. You may look at that card at any time. You may play the card from the Fragments as if playing it from your hand (requirements and cost, if any, apply as normal). When that card is burned, remove it from the game instead. Only 1 card can be on this card at a time. Any vampire with a capacity above 4 can steal the Fragments (and any card on it) for his or her controller as a  action.\n>\nThe bold text means that the burning of the card triggers as usual but instead of it resulting in putting it into the ash heap it is removed from the game\n\n> Light Intensifying Goggles says:\n> The bearer gets 1 optional maneuver during the first round of combat. You can move any aim card the bearer uses to this card{, face up and out of play} (even if it is canceled). The bearer can play an aim card on this equipment as if from your hand; it is then removed from the game.\n>\nThe bold text being what allows you to move the card to the Light Intensifying Goggles as it triggers before the burning of the card that was used\n\nNotice the difference in wording between Light Intensifying Goggles (The bearer can play an aim card on this equipment as if from your hand; it is then removed from the game.), this prevents it from being able to become and endless loop between two Light Intensifying Goggles by skipping the burning steps completely, and The Erciyes Fragments (When that card is burned, remove it from the game instead.).",
+      "Id": "101321"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Jul 17, 2025, 5:28\u202FAM",
+      "Body": "> Notice the difference in wording between Light Intensifying Goggles (The bearer can play an aim card on this equipment as if from your hand; it is then removed from the game.), this prevents it from being able to become and endless loop between two Light Intensifying Goggles by skipping the burning steps completely, and The Erciyes Fragments (When that card is burned, remove it from the game instead.).\n>\nHeys!\n\nJust came across this idea of an endless loop of 2 LIGs. Too bad Ankha did not answer, but maybe now. So I don't pick up on that much of a difference in wording, should we entertain the thought of cardtext taking precedence.\n\n> The bearer can play an aim card on this equipment as if from your hand; it is then removed from the game\n>\nDoes this \"then\" mean after the resolution of the card, which encompasses the card being burned? So basically it is the same thing as Erciyes Fragments? Or removing a card takes precedence over cards put out of play?\n\nNC of Hungary\n\n///",
+      "Id": "114972"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 17, 2025, 6:59\u202FAM",
+      "Body": "> Kushiel wrote:\n> I have Erciyes Fragments in play with Target Vitals on it. A minion with Light Intensifying Goggles plays the Target Vitals from the Fragments. Can I move the Target Vitals to the Goggles, or does it burn (and therefore get removed from the game) before I can do so?\n>\nThe former.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "114976"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-43688",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/43688-fakir-al-sidi-vs-cryptic-rider",
+  "Title": "Fakir al-Sidi vs. Cryptic Rider",
+  "Messages": [
+    {
+      "Author": "Suoli",
+      "Date": "Jan 6, 2013, 8:53\u202FPM",
+      "Body": "1. Can Fakir al-Sidi's special be used on a referendum that would pass automatically?\n\nThe only ruling I found on this said that \"most during referendum-effects aren't playable\" but that's not very comprehensive.\n\n2. Does Fakir's timing window refer to a discrete \"before votes are cast\" step, similar to the \"before range\" step? I.e., can you use his special any time during the action before votes are cast or right before votes are cast?\n\nThanks in advance.\n\nFakir al Sidi\nClan: Gangrel (group 4)\nCapacity: 11\nDisciplines: ANI FOR PRE PRO THA abo\nIndependent: Before votes are cast, Fakir may burn 3 blood to cause the referendum of a political action to fail. He gets an optional press each combat. +1 bleed. +1 strength.",
+      "Id": "43688"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2013, 9:27\u202FPM",
+      "Body": "If the vote passes automatically, there's no voting phase, and effects usable \"before votes are cast\" or \"during a referendum\" can't be used.\n\nEffects usable \"on a successful referendum\" (such as another Cryptic Rider or a Voter Captivation for a gain of 0 blood) can be used.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "43689"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Jan 7, 2013, 3:43\u202FAM",
+      "Body": "Fakir's should properly read During a referendum, before votes are cast,....\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "43696"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 7, 2013, 6:37\u202FAM",
+      "Body": "> KevinM wrote:\n> Fakir's should properly read During a referendum, before votes are cast,....\n>\nIt's redundant because his cardtext already mentions \"... the referendum of a political action\".\n\nFurthermore, votes are cast only during a referendum, and \"before votes are cast\" only apply if the action was successful => a referendum is being conducted.\n\nYou can't use \"before votes are cast\" effects before the referendum if you don't even know for instance whether the action will be blocked or not.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "43698"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 7, 2013, 7:58\u202FAM",
+      "Body": "> Suoli wrote:\n> 1. Can Fakir al-Sidi's special be used on a referendum that would pass automatically?\n>\n> The only ruling I found on this said that \"most during referendum-effects aren't playable\" but that's not very comprehensive.\n>\n> 2. Does Fakir's timing window refer to a discrete \"before votes are cast\" step, similar to the \"before range\" step? I.e., can you use his special any time during the action before votes are cast or right before votes are cast?\n>\n> Thanks in advance.\n>\n> Fakir al Sidi\n> Clan: Gangrel (group 4)\n> Capacity: 11\n> Disciplines: ANI FOR PRE PRO THA abo\n> Independent: Before votes are cast, Fakir may burn 3 blood to cause the referendum of a political action to fail. He gets an optional press each combat. +1 bleed. +1 strength.\n>\nMight I recommend to quote cardtexts from  the vekn page ?\n\n1 - no. \"All 'before votes and ballots are cast' effects can't be used in an automatically-passing referendum\" would be clearer.\n2 - Only once the referendum has started, which doesn't happen on blocked political actions.",
+      "Id": "43706"
+    }
+  ]
+}

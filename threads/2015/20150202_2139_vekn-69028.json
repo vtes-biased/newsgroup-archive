@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-69028",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/69028-hector-trelaine-reform-body",
+  "Title": "Hector Trelaine & Reform Body",
+  "Messages": [
+    {
+      "Author": "XZealot",
+      "Date": "Feb 2, 2015, 9:39\u202FPM",
+      "Body": "Hector Trelane\nClan: Tremere (group 4)\nCapacity: 5\nDisciplines: AUS THA dom nec\nIndependent: On the first round of combat, Hector can use strikes that require Thaumaturgy [tha] that are not usable on the first round. If Hector is sent to torpor or burned in combat, he is burned, and the controller of the opposing minion gains 4 pool.\n\nReform Body\nType: Combat/Reaction\nRequires: Vicissitude\n[vic] Only usable by a vampire being burned; he or she is sent into torpor instead. Usable by a vampire in torpor. Usable by a tapped vampire.\n[VIC] As above, and this vampire gains 2 blood from the blood bank.\n\nWhen Hector is sent to torpor and is burnt via his card text, can you play Reform Body to prevent his burning (and subsequently prevent his opposnent from gaining 4 pool)?\n\nIs he sent to torpor instead?",
+      "Id": "69028"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Feb 3, 2015, 1:46\u202FPM",
+      "Body": "I would probably say no, since Hector Trelaine's wording says if he goes to torpor he is burned. Which reform body does by sending you to torpor which will trigger again causing trelaine to burn for a second time.",
+      "Id": "69035"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 3, 2015, 3:18\u202FPM",
+      "Body": "> XZealot wrote:\n> When Hector is sent to torpor and is burnt via his card text, can you play Reform Body\n>\nYes, if it happens in combat. But he will be sent to torpor instead (per Reform Body's cardtext) and therefore will be burned again (per Hector's cardtext) so he will end up burned anyway, and your opponent will gain 4 pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69036"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 3, 2015, 5:34\u202FPM",
+      "Body": "> Ankha wrote:\n> Yes, if it happens in combat. But he will be sent to torpor instead (per Reform Body's cardtext) and therefore will be burned again (per Hector's cardtext) so he will end up burned anyway, and your opponent will gain 4 pool.\n>\nI'm not 100% sure on this. Dual Form + Reform Body gives me pause for thought.\n[LSJ 20050120]\n\n> LSJ wrote:\n> The Reform Body doesn't unready the already-unreadied\n> vampire, so there is no re-dual-form-bit, contrary to\n> earlier rulings this week.\n>\nThe relevant card text on Dual Form is:\nIf either minion leaves the ready region, the other is burned.\n\nIs Hector's card text the same - that it only triggers on entry to torpor, like Dual Form(*)? I'd read it that way myself. And if there is no new sending to torpor (because he's already there), there's no new burn effect applied to him.\n\n(*) Leaving aside the other un-readying effects that can trigger DF, obviously.",
+      "Id": "69042"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Feb 4, 2015, 6:21\u202FAM",
+      "Body": "LSJ's argument is that the vampire left the ready region only once. At first the vampire was burned (=> xe leaves the ready region) but instead of burning he was sent to torpor.\n\nIn the OP's scenario, the trigger isn't \"leave the ready region\" but \"If Hector is sent to torpor or burned in combat\".\n\nHector is sent to torpor in combat => he is also* burned per his cardtext (* it's not a replacement effect)\nHe would be burned => he is sent to torpor instead per RB's cardtext\n\nQuestion is: is Hector \"send to torpor\" while he's already in torpor, and in that case does it trigger his special?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "69057"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Feb 6, 2015, 1:50\u202FPM",
+      "Body": "> Ankha wrote:\n> Question is: is Hector \"send to torpor\" while he's already in torpor, and in that case does it trigger his special?\n>\nVaguely analogous situations in the past have been handled such that the trigger has to non-redundantly occur. For example:\n\n- Vampiric Disease says: \"When an afflicted vampire untaps, he or she burns a blood or, if unable, burns the disease counter.\" If an \"untap\" effect is applied to the vampire who is already untapped, nothing happens.\n\n[LSJ 20070920]\n>\n> LSJ wrote:\n> > Or, Do you burn a blood off of an untapped vampire with Vampiric\n> > Disease during the beginning of the untap phase?\n>\n> No.\n>\n- Form of Corruption ( Image from Ancient Hearts ) used to say \"Each time your prey gets the Edge\". (It now requires you to get it 'anew'.) This was ruled to only occur when you got the Edge without already having it.\n[LSJ 19971002]\n>\n> LSJ wrote:\n> > [LSJ] ruled for form of\n> > corruption that giving the edge to a methuselah who already has it with\n> > regaining the upper hand has no effect. regaining the upper hand has the\n> > same template as disputed territory. so, technically, you shouldn't be able\n> > to move locations around your own minions with it.\n>\n> Absolutely correct.\n>\n- From the same exchange ( [LSJ 19971002] ), Disputed Territory and loquipment was ruled not to allow you to move a piece of loquipment if you didn't change controller (so I can't move my Palatial Estate from my Dimple to my Watenda without first going via your Adonai).\n>\n> LSJ wrote:\n> REVERSAL: Transferring Locquipment via Disputed Territory to the *same*\n> Methuselah that currently controls the locquipment results in no effect -\n> the locquipment may *not* be moved to a different minion of the same\n> Methuselah. (Similarly, transferring the Rack from yourself to yourself\n> doesn't allow you to choose a new target).\n>\n- Curse of Nitocris was moved back to require a fresh gain of the Edge in  [LSJ 19971006] , although that is arguably more a function of designer intent (an apparently unintentional change in some of the V:TES tidy-up).\n\nSimilarly inspired question:\n- Can I play Anima Gathering with a Toreador, before the action resolves have Alexandra untap that Toreador, and then leave that Toreador untapped without burning Anima Gathering? The text: \"Burn this card if this minion untaps.\" appears to be an in-play effect. If I leave that vampire untapped, does Anima Gathering burn during my untap phase? I'd assume not.",
+      "Id": "69103"
+    }
+  ]
+}

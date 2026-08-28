@@ -160,7 +160,8 @@ article.msg {
   padding: 1.5rem 0 0.5rem;
   scroll-margin-top: 1rem;
 }
-article.msg:target { background: var(--target); box-shadow: 0 0 0 0.75rem var(--target); }
+article.msg:target,
+article.msg:has(> .alias:target) { background: var(--target); box-shadow: 0 0 0 0.75rem var(--target); }
 
 .who { font-size: 0.9375rem; font-weight: 600; margin: 0; }
 .when { font-size: 0.75rem; color: var(--muted); margin: 0 0 0.9rem; font-family: var(--mono); }

@@ -1,0 +1,224 @@
+{
+  "ThreadId": "vekn-16630",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/16630-strikes-at-long-range",
+  "Title": "Strikes at long range",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Dec 1, 2011, 10:28\u202FAM",
+      "Body": "Heys!\n\nCan one use any kind of non-ranged strikes at long range assuming there's no restriction like \"only usable at close range\" to cycle or just to cause an effect affect ()? If so, damage is obviously not dealt but does any kind of effect take place?\n\nPar Exmaple:\n\n1, Strike: Put this cord on the opposing minion... etc\n2, Strike: hand strike at +2 damage, and the opposing minion cannot strike for the remainder of the round... etc (Pounce)\n3, Strike with Bundi to prevent damage from an upcoming Dagger?\n\nNC of Hungary\n\n///",
+      "Id": "16630"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 1, 2011, 10:38\u202FAM",
+      "Body": "IANPB but...\n\nIf the strike would not be effective at its current range, then any non-damage effects (e.g. not damage, not theft) would also be ineffective (i.e. the strike never landed so the additional effects don't hold either).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "16632"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2011, 10:39\u202FAM",
+      "Body": "> Malachy wrote:\n> Heys!\n>\n> Can one use any kind of non-ranged strikes at long range assuming there's no restriction like \"only usable at close range\" to cycle or just to cause an effect affect ()? If so, damage is obviously not dealt but does any kind of effect take place?\n>\n> Par Exmaple:\n>\n> 1, Strike: Put this cord on the opposing minion... etc\n> 2, Strike: hand strike at +2 damage, and the opposing minion cannot strike for the remainder of the round... etc (Pounce)\n> 3, Strike with Bundi to prevent damage from an upcoming Dagger?\n>\nIt would be better to answer to proper examples, but the fact that a strike can be used doesn't mean it's effective.\n\nEg., if you play Pounce at long range, it has no effect because it's not ranged.\n\nIf you strike with a Bundi at long range, it has no effect for the same reason.\n\nPounce\nCardtype: Combat\nDiscipline: Flight\nStrike: hand strike at +2 damage, and the opposing minion cannot strike for the remainder of the round (this doesn't affect the current strike resolution). If this strike is dodged, this striking minion takes 1 damage during strike resolution and the opposing minion gets an optional press.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16633"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 10:48\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> If the strike would not be effective at its current range, then any non-damage effects (e.g. not damage, not theft)\n>\nStealing blood (or stealing anything else, for that matter) is a non-damage effect. So your bracketed text is a little confusing.",
+      "Id": "16634"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 10:52\u202FAM",
+      "Body": "> Malachy wrote:\n> Can one use any kind of non-ranged strikes at long range assuming there's no restriction like \"only usable at close range\" to cycle or just to cause an effect affect ()? If so, damage is obviously not dealt but does any kind of effect take place?\n>\nEffects on the opposing minion don't happen.\n\n[LSJ 20010630]\n>\n> LSJ wrote:\n> > If Dagon's Call is used at long range, I assume that its additional\n> > effects do not apply, that is, the 1 unpreventable damage during the\n> > press phase. Reasoning being that the strike was not actually\n> > effective at that range, vis. Fleshcraft or Bonecraft as well.\n>\n> Right. [6.4.3] makes this clear.\n>\nHowever, other effects that don't affect the opponent (or his equipment etc.) can occur.  [LSJ 20081204]\n>\n> LSJ wrote:\n> >> 6.4.3\n>\n> >> Resolve Strike. The effects of the strikes from both minions are\n> >> resolved simultaneously. *Most strikes are effective only at close\n> >> range. Unless the strike is identified as ranged or does \"R\" damage\n> >> (or is a defensive strike such as dodge or combat ends), it is only\n> >> effective at close range.* Ranged strikes and strikes that do \"R\"\n> >> damage can be used at any range, close or long.\n>\n> >> (The key to this section would be interpreting what they mean by\n> >> \"effective\")\n>\n> >> Lamb Into\n> >> Cardtype: Combat\n> >> Discipline: Fortitude/Potence/Vicissitude\n> >> Requires an anarch. Do not replace until after combat. Strike: hand\n> >> strike or use a melee weapon strike.\n> >> [for] This strike is at +1 damage, with an optional maneuver.\n> >> [pot] This strike is at +2 damage.\n> >> [vic] This strike is at +1 damage, with an optional press. If another\n> >> round of combat occurs, range is automatically close.\n>\n> > You can definitely play close range strikes at long range (in fact,\n> > unless you have another strike card or ability or effect, you MUST\n> > declare a strike for hand damage).\n>\n> Correct.\n>\n> > However they have no effect at all.\n>\n> Not quite true.\n>\n> > You can play Lam Into to cycle a card, but it doesn\u2019t actually do\n> > anything (including giving you a press or whatever).\n>\n> It will give you a press at [vic] at long range.\n>",
+      "Id": "16635"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 1, 2011, 11:02\u202FAM",
+      "Body": "Is there a complete definition of \"effect on the opposing minion\" ? I suppose effect on at least retainer and equipment are considered \"on the opposing minion\", and common sense can usually work, but it's alway good to know if there is a precise definition.",
+      "Id": "16636"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 11:54\u202FAM",
+      "Body": "> Ohlmann wrote:\n> Is there a complete definition of \"effect on the opposing minion\" ?\n>\nI can't find a comprehensive one quickly. However, basically, a dodge will protect the dodger from any effects of the opponent's strike that directly affect:\nthis dodging minion (e.g. Strike: hand damage, Strike: put this card on the opposing minion, Strike: steal 2 blood) cards on this minion that are not retainers (e.g. strike: steal weapon, strike: steal a discipline card)\nDodge won't protect a dodger's retainers.\n\nDodge won't \"protect\" the dodger from purely defensive effects taken by the opponent, such as Strike: Combat Ends, or Strike: prevent damage (Nightstick).\n\nDodge will protect the dodger from the \"offensive\" (that is, affecting the dodger or his non-retainer cards) side-effects of defensive strikes. For example, Catatonic Fear does damage as well as the Strike: Combat ends - Dodge won't prevent the combat ending, but it will protect against the damage. Ditto, Oubliette. Ditto (and this one surprises people), inferior Meld with the Land - the untap of the opposing (dodging) minion is offensive in that it directly affects the minion.\n\nIf the S:CE has other defensive side effects (that is, not directly affecting the dodger), the dodge doesn't affect those at all. e.g. Earth Meld, S:CE and untap the striking vampire. Dodge doesn't affect that at all.",
+      "Id": "16640"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Dec 1, 2011, 12:15\u202FPM",
+      "Body": "> Dodge will protect the dodger from the \"offensive\" (that is, affecting the dodger or his non-retainer cards) side-effects of defensive strikes. For example, Catatonic Fear does damage as well as the Strike: Combat ends - Dodge won't prevent the combat ending, but it will protect against the damage. Ditto, Oubliette. Ditto (and this one surprises people), inferior Meld with the Land - the untap of the opposing (dodging) minion is offensive in that it directly affects the minion.\n>\nThis is one of those things that has been ruled both ways by LSJ. At one point it was possible to dodge the damage from Catatonic Fear and at another point it wasn't because \"effects that happen outside combat cannot be affected by cards played in combat\" or some other nonsense.\n\nAt another point, it was not possible to dodge the damage from catatonic fear, but it was possible to dodge the \"putting on the card\" from Holy Penance.\n\nAt this point in time I'm not even sure what the correct ruling is (I'm guessing from your post that you can dodge), but the point is, VTES has loads and loads of rulings and rules that are unclear (like this one), silly (Villein for less than 2) or counter-intuitive (the Nocturn one for example) and the VEKN should *really* start working on cleaning that mess.",
+      "Id": "16641"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 12:36\u202FPM",
+      "Body": "> Izaak wrote:\n> This is one of those things that has been ruled both ways by LSJ. At one point it was possible to dodge the damage from Catatonic Fear and at another point it wasn't because \"effects that happen outside combat cannot be affected by cards played in combat\" or some other nonsense.\n>\nBecause, yes, applying the rules as they exist at the time is nonsense.\n\nThere were a couple of problems, not least of which was the fact that S:CE pre-empted dodge. In an earlier (non-current) incarnation of the rules, the order of strikes resolving was:\n\n1) S:CE\n2) S:Dodge\n3) First strike\n4) Normal strikes (and other 'during strike resolution' effects, like Wolf Companion)\n\nIn such a situation, Dodge hasn't resolved so can't do anything.\n\nRTR 02-DEC-2004 overturned this by changing the rules.\n>\n> RTR wrote:\n> Dodge protects the dodger against all strikes, even aggressive S:CE effects\n> (like Catatonic Fear).\n>\nNow, the situation is that - strictly speaking - Dodge is not regarded as resolving, it just applies against any and all strikes in the current strike resolution. However, if you prefer to think of it as resolving, it either resolves before or simultaneously with S:CE.\n\nSo, figuratively:\n\n1) S:CE + S:Dodge\n2) First Strike\n3) Normal strikes etc.",
+      "Id": "16644"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2011, 2:25\u202FPM",
+      "Body": "> Izaak wrote:\n>\n> > Dodge will protect the dodger from the \"offensive\" (that is, affecting the dodger or his non-retainer cards) side-effects of defensive strikes. For example, Catatonic Fear does damage as well as the Strike: Combat ends - Dodge won't prevent the combat ending, but it will protect against the damage. Ditto, Oubliette. Ditto (and this one surprises people), inferior Meld with the Land - the untap of the opposing (dodging) minion is offensive in that it directly affects the minion.\n> >\n> This is one of those things that has been ruled both ways by LSJ. At one point it was possible to dodge the damage from Catatonic Fear and at another point it wasn't because \"effects that happen outside combat cannot be affected by cards played in combat\" or some other nonsense.\n>\n> At another point, it was not possible to dodge the damage from catatonic fear, but it was possible to dodge the \"putting on the card\" from Holy Penance.\n>\n> At this point in time I'm not even sure what the correct ruling is (I'm guessing from your post that you can dodge), but the point is, VTES has loads and loads of rulings and rules that are unclear (like this one), silly (Villein for less than 2) or counter-intuitive (the Nocturn one for example) and the VEKN should *really* start working on cleaning that mess.\n>\nI disagree, things are not messy as you depict it.\nI don't see what is unclear in this topic.\nI don't see what is silly with Villein when you've played Theft of Vitae at superior against a vampire with 1 blood.\nI don't see what is counter-intuitive with a Nocturn.\nI don't remember a time where dodge would protect you from Unholy Penance but not from Catatonic Fear.\n\nRules are far from perfect, but usually the answers have already been given but people are too lazy to look for the answer in the rulebook or the clarifications.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16649"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Dec 1, 2011, 3:37\u202FPM",
+      "Body": "> I disagree, things are not messy as you depict it.\n>\nYou don't think it's messy that we need page upon page upon pageof rulings and clarifications? That we need judges to constantly look stuff up on the web to make a proper ruling?\n\nI think the rules are a complete mess and that there are simply too many card-interactions that create all sort of funny new time-windows. The rulebook has been getting (and still IS) updated ALL THE TIME just to make sure you can somehow rationalize seemingly arbitrary decisions.\n\n> I don't see what is unclear in this topic.\n>\nOh, James' answer was quite elaborate, but maybe, since you played this game forever, you are ok with something simple as dodge requiring a 200 word explanation.\n\n> I don't see what is silly with Villein when you've played Theft of Vitae at superior against a vampire with 1 blood.\n>\nYou don't think it's odd that \"move\" suddenly means the same as \"steal\"? You seem to be one of the few. I'm pretty sure if I move someone's wallet from a desk to a table, it's ok, but if I steal a wallet I'm a crimimal.\n\n> I don't see what is counter-intuitive with a Nocturn.\n>\nThe fact that, according you your own post in a recent thread, you need to have a second Nocturn on hand to be able to play a Nocturn at superior even though nothing in either rules or cardtext implies such.\n\n> I don't remember a time where dodge would protect you from Unholy Penance but not from Catatonic Fear.\n>\nUnfortunately I can't find the relevant post on Usenet, but the jest of it was that because Catatonic Fear specifically deals damage after combat, a card played in combat (dodge) cannot possibly prevent it, similar to how if you play Skin of Steel superior on the first strike and the opposing minion additonal strikes with Catatonic Fear you still get the damage. Unholy Penance, however doesn't specify after combat so it could be dodged in combat. Through this all, there is also the Rotschrek template of Combat End. <do something> where the <do something> part can be foiled by Psyche!, which CANNOT be done with Catatonic Fear. Or can it nowadays??\n\nHow on earth are the rules clear and concise?",
+      "Id": "16656"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 1, 2011, 3:49\u202FPM",
+      "Body": "Izaak is somehow right on one topic : the rules are not perfectly clear. There is three main problem in fact :\n\n* there is nothing like the pile rule in magic, or the actions segments in L5R. So, the timing interaction quickly become tricky (it's the problem with Catatonic fear and the stranges interactions with Psyche!)\n* non-card, non-action thing you can do are not on the same template as reaction and action modifier card.\n* The rule booklet does leave a lot of common play situation unsolved. For example, with only the rulebook you would have an hard time understanding that the effect of a card can be stopped in the middle by something like Psyche!, nor does it say anything on multiple range-setting ability (like Cailean vs Selective silence), and I suppose some other things are not directly in the booklet.\n\nNow, let's not dramatize it too much. It's not YuGiOh here, and with a little time most problems are easy to solve.",
+      "Id": "16658"
+    },
+    {
+      "Author": "Malachy",
+      "Date": "Dec 1, 2011, 4:02\u202FPM",
+      "Body": "Don't take me for a vile person, but stop whining pls... VTES is far more complicated than magic that's why we need a GURU to rule them all and when I choose to post my questions my only interest lies in the guru's \"final word\", cuz he's kind enough to confirm every thread. I don't think some should always express their doubts about this and that... rules are rules, period.\n\nNC of Hungary\n\n///",
+      "Id": "16660"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Dec 1, 2011, 4:13\u202FPM",
+      "Body": "jamesatzephyr's answers above are correct.\n\nI am working on making rulings easier to retrieve. I also work on making the rules easier to understand.",
+      "Id": "16661"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 1, 2011, 4:16\u202FPM",
+      "Body": "> Malachy wrote:\n> VTES is far more complicated than magic that's why we need a GURU to rule them all\n>\nWell, complex to play is different from complexes rules. The go is extremely complex to play, to the point that ordinateurs can't, and yet its rules are not exactly that complex.\n\nVtES rules is complex mainly because it's old and it have never had extensive rule rewriting. When VtES was developped, the way to do concise, clear, and complete rules were only being discovered ; magic was similarly complex until the sixth edition, who changed a lot of card text.\n\nVtES can't (for now at the very least) have a massive rule rewrite to put it to the level of cleanliness of modern magic or WoW TCG. It's neither a crippling defect that make the game unplayable nor a completely ignorable problem.",
+      "Id": "16662"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2011, 4:20\u202FPM",
+      "Body": "> Izaak wrote:\n>\n> > I disagree, things are not messy as you depict it.\n> >\n> You don't think it's messy that we need page upon page upon pageof rulings and clarifications? That we need judges to constantly look stuff up on the web to make a proper ruling?\n>\nCompared with other trading card games, VTES rules are quite simple\nAs for the \"need\" to look up stuff on the web, it only shows that the question has already been asked, and already been answered. But people are too lazy to check by themselves.\n\n> Izaak wrote:\n> I think the rules are a complete mess and that there are simply too many card-interactions that create all sort of funny new time-windows. The rulebook has been getting (and still IS) updated ALL THE TIME just to make sure you can somehow rationalize seemingly arbitrary decisions.\n>\nWhat's wrong with updating the rulebook? VTES is a complex game because of these interactions, as every collectible card game whose pool of card increases and generates new interactions. There's nothing wrong with that. And you can't make rules in a rulebook that covers every detail.\n\n> Izaak wrote:\n>\n> > I don't see what is unclear in this topic.\n> >\n> Oh, James' answer was quite elaborate, but maybe, since you played this game forever, you are ok with something simple as dodge requiring a 200 word explanation.\n>\nFirst of all, the topic wasn't about dodge.\nThen, what does \"simple as dodge\" mean? Why wouldn't it require 200 words to be described? It's not because the word is simple that the rules behind it are.\n\nYou'd like simple rules for a complex game, that's not possible. VTES can't have \"simple\" rules.\n\n> Izaak wrote:\n>\n> > I don't see what is silly with Villein when you've played Theft of Vitae at superior against a vampire with 1 blood.\n> >\n> You don't think it's odd that \"move\" suddenly means the same as \"steal\"? You seem to be one of the few. I'm pretty sure if I move someone's wallet from a desk to a table, it's ok, but if I steal a wallet I'm a crimimal.\n>\nGame-wise, steal and move have exactly the same effect. The only difference is that usually steal is used when taking something from someone (meaning you change control of it), and move when it already belongs to you.\n\n> Izaak wrote:\n>\n> > I don't see what is counter-intuitive with a Nocturn.\n> >\n> The fact that, according you your own post in a recent thread, you need to have a second Nocturn on hand to be able to play a Nocturn at superior even though nothing in either rules or cardtext implies such.\n>\nThat's because you're assuming to much from the card text.\n\"this vampire may perform this action again this turn\" only breaks the NRA rule, that's all. As per the rules, you need a way to perform again the same action, meaning you need another Nocturn card to play.\n\n> Izaak wrote:\n>\n> > I don't remember a time where dodge would protect you from Unholy Penance but not from Catatonic Fear.\n> >\n> Unfortunately I can't find the relevant post on Usenet, but the jest of it was that because Catatonic Fear specifically deals damage after combat, a card played in combat (dodge) cannot possibly prevent it, similar to how if you play Skin of Steel superior on the first strike and the opposing minion additonal strikes with Catatonic Fear you still get the damage. Unholy Penance, however doesn't specify after combat so it could be dodged in combat.\n>\nI can't recall anything like this.\n\n> Izaak wrote:\n> Through this all, there is also the Rotschrek template of Combat End. <do something> where the <do something> part can be foiled by Psyche!, which CANNOT be done with Catatonic Fear. Or can it nowadays??\n>\nYou look a bit confused.\n\n> Izaak wrote:\n> How on earth are the rules clear and concise?\n>\nThey're not concise, they can't be.\nWhether they are clear or messy, I'd rather say clear (and getting clearer each day). And what's not clear only requires little skill in using the search button.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16663"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2011, 4:23\u202FPM",
+      "Body": "> Ankha wrote:\n> And you can't make rules in a rulebook that covers every detail.\n>\n* Well you can, check the 5807 lines-long rules of Magic: The Gathering.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16664"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 4:23\u202FPM",
+      "Body": "> Izaak wrote:\n> Unholy Penance, however doesn't specify after combat so it could be dodged in combat.\n>\nUnholy Penance's \"Put this card...\" text has always taken effect after combat.\n\nIf the strike does something in addition to ending combat, that something takes place just after the combat ends.  [RTR 19970630]\n\n(A few cards - specifically, those relating to untapping the striking vampire - were later changed to work a different way.)\n\nUnholy Penance was released in Lords of the Night, which was released in 2007. That's 3 years after the rule change in 2004 regarding how dodge works, and 10 years after the RTR on how \"strike: combat ends, and...\" cards work. So it's never worked the way you claim it does.",
+      "Id": "16666"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Dec 1, 2011, 4:26\u202FPM",
+      "Body": "> Unholy Penance was released in Lords of the Night, which was released in 2007. That's 3 years after the rule change in 2004 regarding how dodge works, and 10 years after the RTR on how \"strike: combat ends, and...\" cards work. So it's never worked the way you claim it does.\n>\nYet is was LSJ himself who ruled exactly what I claim when this exact situation came up at the EC in Prague in 2009. A discussion about it ensued on Usenet afterwards and rule got reversed and then un-reversed a month or so later. I just remember it because I was the guy being screwed by not being able to dodge CF.\n\n> That's because you're assuming to much from the card text.\n> \"this vampire may perform this action again this turn\" only breaks the NRA rule, that's all. As per the rules, you need a way to perform again the same action, meaning you need another Nocturn card to play.\n>\nWell yes, of course you need a second action card, but why ON EARTH does it need to be in your hand when you play the first one? I have ALWAYS since it's printing (in SoC?) played Nocturn at superior and if I then happened to draw another one later on in the turn and I felt like playing a second, play another.\n\n> You look a bit confused.\n>\nBecause it actually *is* confusing to anyone that hasn't been playing since forever?\n\n> Whether they are clear or messy, I'd rather say clear (and getting clearer each day). And what's not clear only requires little skill in using the search button.\n>\nWell then we clearly disagree. The thing is, I know the rules reasonably well enough to play the game and make decent calls when it comes to odd situations, but not good enough to actually judge. I don't care about the latter but it seems odd that after having played actively for SEVENTEEN years there are STILL a few dozen rules and situations that I simply don't know the correct answer for.\n\nYou can keep claiming the rules are amazing and great and clear and whatever else they should be, but simply - they are not. Because if they were we wouldn't have people asking rules questions on Usenet and now this forum every freaking day for the past SEVENTEEN years.",
+      "Id": "16667"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 4:32\u202FPM",
+      "Body": "> Izaak wrote:\n>\n> > That's because you're assuming to much from the card text.\n> > \"this vampire may perform this action again this turn\" only breaks the NRA rule, that's all. As per the rules, you need a way to perform again the same action, meaning you need another Nocturn card to play.\n> >\n> Well yes, of course you need a second action card, but why ON EARTH does it need to be in your hand when you play the first one?\n>\nYou don't need to have it there when you play the first one. Could you provide a direct link to the ruling that you think says something different?",
+      "Id": "16668"
+    },
+    {
+      "Author": "Izaak",
+      "Date": "Dec 1, 2011, 5:05\u202FPM",
+      "Body": "Ankha's reply in the Nocturn thread, that then got confirmed by Pascal. Should be 2-3 threads down from here.",
+      "Id": "16673"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 5:13\u202FPM",
+      "Body": "> Izaak wrote:\n> Ankha's reply in the Nocturn thread, that then got confirmed by Pascal. Should be 2-3 threads down from here.\n>\nIt doesn't say what you're claiming it does. It says that you must have another copy of Nocturn available to play, and that you can't create a new Nocturn from thin air.\n\nThat is, you must have another copy of Nocturn in your hand in order to take the action again (or some other place you could play it from, in random corner cases). Not that you must have another copy in your hand at the exact moment that you play the first.",
+      "Id": "16674"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2011, 6:34\u202FPM",
+      "Body": "> Izaak wrote:\n> You can keep claiming the rules are amazing and great and clear and whatever else they should be, but simply - they are not. Because if they were we wouldn't have people asking rules questions on Usenet and now this forum every freaking day for the past SEVENTEEN years.\n>\nFew CCG games are as old as V:TES. The only \"old\" one I can think of is of course Magic.\nYou know what? I know plenty of forums where people have been asking questions for 16 years.\n\nThe rules are complex, true, because of the interactions between cards. At its core, the game rules are \"difficult\" because they are deliberately twisted by the cards.\n\nBut there are very few \"unanswered\" questions.\n\nAs jamesatzephyr pointed it out, for instance this question has already been answered at  [LSJ 20010630] and is covered by the rulebook 6.4.3 \"Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range\"\n\nWhat more could you wish for?\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16685"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Dec 1, 2011, 6:59\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Malachy wrote:\n> > 3, Strike with Bundi to prevent damage from an upcoming Dagger?\n> >\n> If you strike with a Bundi at long range, it has no effect for the same reason.\n>\ncorrection: you can always use Bundi's prevention ability, even if you don't use it to strike.",
+      "Id": "16687"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Dec 1, 2011, 7:13\u202FPM",
+      "Body": "> Ankha wrote:\n> Game-wise, steal and move have exactly the same effect. The only difference is that usually steal is used when taking something from someone (meaning you change control of it), and move when it already belongs to you.\n>\nBut you can use a 'steal effect' when there is no target (e.g. Theft of Vitae against an empty vampire) but in the past you have not been able to 'move' what is not there (e.g. I cannot take a \"move equipment\" action choosing a minion with no equipment). So there is an 'in game' difference between move and steal in the past.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "16689"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 1, 2011, 7:19\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n>\n> > Ankha wrote:\n> > Game-wise, steal and move have exactly the same effect. The only difference is that usually steal is used when taking something from someone (meaning you change control of it), and move when it already belongs to you.\n> >\n> But you can use a 'steal effect' when there is no target (e.g. Theft of Vitae against an empty vampire) but in the past you have not been able to 'move' what is not there (e.g. I cannot take a \"move equipment\" action choosing a minion with no equipment). So there is an 'in game' difference between move and steal in the past.\n>\nWrong. When you play Theft of Vitae, you play a strike. The target is the vampire (or one of his retainer if you choose so at long range). See rulebook 6.4.5 \"Steal Blood. This effect moves blood counters (or life counters) from the target to the striking minion.\"\n\nResolution of that strike (whether blood is moved or not) is a different thing.\nFor example, if you play Theft against an empty vampire, The Oath can't be played.\n\n> e.g. I cannot take a \"move equipment\" action choosing a minion with no equipment\n>\nYou can't steal \"no equipment\" neither. It's exactly the same.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16690"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Dec 1, 2011, 7:44\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> But you can use a 'steal effect' when there is no target (e.g. Theft of Vitae against an empty vampire)\n>\nIn a Theft of Vitae situation (and therefore a Villein situation), the target is the card, not the counters on the card.\n\nLSJ explains this quite concisely to some guy called Juggernaut1981 in  [LSJ 20100216] :\n>\n> LSJ wrote:\n> > You can target a villein on a minion who doesn't have the blood for\n> > you to take \"at least 2\" but you are forced to take \"everything\"?\n>\n> Yes. Like being able to target a 1-blood vampire with Drain Essence.\n>\n> > To be honest, why did that happen?\n>\n> Consistency. Target the card.\n>\n> Juggernaut1981 wrote:\n> but in the past you have not been able to 'move' what is not there (e.g. I cannot take a \"move equipment\" action choosing a minion with no equipment). So there is an 'in game' difference between move and steal in the past.\n>\nTrue, you can't move what's not there. But you must have a legal target for playing the card.\n\nWhen you play Theft, the target is the vampire (or ally, I guess), not the counters on the vampire. If the vampire were to disappear somehow, the strike would fizzle.\n\nWhen you play Villein, the target is the vampire (not the counters on the vampire).",
+      "Id": "16695"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Dec 1, 2011, 9:22\u202FPM",
+      "Body": "> Ankha wrote:\n> As jamesatzephyr pointed it out, for instance this question has already been answered at  [LSJ 20010630] and is covered by the rulebook 6.4.3 \"Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range\"\n>\n> What more could you wish for?\n>\nI would wish for a rulebook wording that doesn't leave so many questions unanswered. Problems I can see in the current wording:\n\n1) I'm not clear whether the parenthetical text is actually part of this rule, or is a reminder of an implication of another part of the rules.\n\n2) It leaves the behavior of a \"defensive\" strike with a side effect ambiguous. (The wording implies that a strike is entirely \"effective\" or entirely \"not effective\".)\n\n3) The word \"effective\" could be replaced with something more clear.\n\nNow, I do understand that a rulebook has to balance being easy to understand and being accurate in all cases. Sometimes a precise explanation that covers all possibilities is impenetrable to a new user. Here, though, I think we can do better without rendering the description incomprehensible.\n\nFor example, here's an alternative wording for that rulebook section, that matches the rules (as I understand them, which may not be correct), but that addresses my concerns:\n\nResolve Strike. The effects of the strikes from both minions are resolved simultaneously. Strikes resolve normally at close range. Some strikes are designated as \"ranged\", or indicate that they deal \"R\" damage; these strikes resolve the same way at close or long range. Otherwise, if range is long, ignore any effects a strike would have on the opposing minion (including on cards attached to that minion). For example, a hand strike does no damage at long range.",
+      "Id": "16705"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Dec 1, 2011, 10:13\u202FPM",
+      "Body": "> finbury wrote:\n>\n> Resolve Strike. The effects of the strikes from both minions are resolved simultaneously. Strikes resolve normally at close range. Some strikes are designated as \"ranged\", or indicate that they deal \"R\" damage; these strikes function the same way at close or long range. Otherwise, if range is long, ignore any effects a strike would have on the opposing minion (including on cards attached to that minion). For example, a hand strike does no damage at long range.\n>\nI like your intention. The rulebook should be updated for content and clarity as needed.\n\nHowever...\n\nThe effects of strikes are not resolved simultaneously. There are three possible strike resolution timing windows: Combat Ends, First Strike, and normal. (I take the term \"normal\" from rulings on cards such as Carrion Crows, Darkness Within, and Wolf Companion, whose effects resolve during the \"normal\" strike resolution window.)\n\nHow about:\n\nResolve Strike. The effects of strikes resolve in order according to their respective timing. Those strikes that occur during the same timing window resolve simultaneously.\n\nStrikes resolve normally at close range. At long range, a strike has no effect on an opposing minion or cards attached to that minion unless the strike is designated as \"ranged\", or indicates that it deals \"R\" damage. Note that dodges affect the opposing minion's strike, not the minion itself.\n\nThe same is true for any card or effect that affects a minion during combat. Such effects, such as damage dealing retainers or cards dealing environmental damage, work normally at short range, but can only affect an opposing minion or cards attached to that minion at long range if the effect is designated as \"ranged\", or indicates that it deals \"R\" damage. Unless otherwise indicated, these effects resolve during normal strike resolution regardless of the timing of the strike declared by the minion controlling or playing them.\n(Uh, I guess I think that this stuff about \"effects\" should be explicitly added to the rulebook if it's not there already. Maybe off topic there...)",
+      "Id": "16706"
+    },
+    {
+      "Author": "Ohlmann",
+      "Date": "Dec 1, 2011, 10:22\u202FPM",
+      "Body": "I would add \"(for example, strike that damage the opposing vampire, or steal blood from him, or send him in torpor, or add, move, or destroy card on him have no effect)\" after the passage on long range strike having no effect and before the dodge one.\n\nIt's only examples, but I believe it will cover common misconception (you would be surprised by the number of people that think that coma work at a range)",
+      "Id": "16707"
+    },
+    {
+      "Author": "AaronC",
+      "Date": "Dec 2, 2011, 12:26\u202FAM",
+      "Body": "I see what you mean. Maybe instead of saying \"Strikes resolve normally at close range\", it would be more obvious to say, \"A strike only affects an opposing minion (or its attached cards) at close range unless it is designated as \"ranged\" or dealing \"R\" damage. A strike designated as \"ranged\" or dealing \"R\" damage affects an opposing minion (or its attached cards) at either close or long range.\"\n\nSome examples like you've mentioned can't hurt. The problem comes from those cards that are strikes but whose range is not self-evident (Coma vs. Undead Strength) like you've mentioned. The answer is already in the rules, I think, but maybe it takes some extra smarts and/or time to figure it out if you're a newbie.",
+      "Id": "16719"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 8:34\u202FAM",
+      "Body": "> finbury wrote:\n>\n> > Ankha wrote:\n> > As jamesatzephyr pointed it out, for instance this question has already been answered at  [LSJ 20010630] and is covered by the rulebook 6.4.3 \"Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range\"\n> >\n> > What more could you wish for?\n> >\n> I would wish for a rulebook wording that doesn't leave so many questions unanswered. Problems I can see in the current wording:\n>\n> 1) I'm not clear whether the parenthetical text is actually part of this rule, or is a reminder of an implication of another part of the rules.\n>\nIt is both. See 6.4.5 \"A dodge is effective at any range.\" But I don't see what is unclear in repeting the rule where appropriate.\n\n> finbury wrote:\n> 2) It leaves the behavior of a \"defensive\" strike with a side effect ambiguous. (The wording implies that a strike is entirely \"effective\" or entirely \"not effective\".)\n>\nIt doesn't cover the case where the strike is defensive (combat ends) *and* offensive (put this card or deal 1 damage), true.\n\n> finbury wrote:\n> 3) The word \"effective\" could be replaced with something more clear.\n>\nEffective = that has an effect. You can choose another word, but it won't be clearer than effective.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16745"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 2, 2011, 8:36\u202FAM",
+      "Body": "> Ohlmann wrote:\n> It's only examples, but I believe it will cover common misconception (you would be surprised by the number of people that think that coma work at a range)\n>\nPeople that don't read the rules in the first place won't read the extra examples you could add...\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "16746"
+    },
+    {
+      "Author": "finbury",
+      "Date": "Dec 2, 2011, 7:06\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > finbury wrote:\n> > 2) It leaves the behavior of a \"defensive\" strike with a side effect ambiguous. (The wording implies that a strike is entirely \"effective\" or entirely \"not effective\".)\n> >\n> It doesn't cover the case where the strike is defensive (combat ends) *and* offensive (put this card or deal 1 damage), true.\n>\n> > finbury wrote:\n> > 3) The word \"effective\" could be replaced with something more clear.\n> >\n> Effective = that has an effect. You can choose another word, but it won't be clearer than effective.\n>\nI guess it's not the word, it's the way it seems to be used. Say a vampire at long range uses Lam Into at vic:\n\nRequires an anarch. Do not replace until after combat. Strike: hand strike or use a melee weapon strike. vic: This strike is at +1 damage, with an optional press. If another round of combat occurs, range is automatically close.\n\nMy understanding is that you'd still get the press here, and the effect for the additional round. I would not use the phrase \"the strike is not effective\" to describe this situation. But I could be wrong about this.\n\n... one thing to note: it might make things simpler to equate the resolution of a dodged strike with the resolution of a close strike used at range. As I understand it, the bits that are effective vs not-effective are the same.",
+      "Id": "16856"
+    },
+    {
+      "Author": "Chaitan",
+      "Date": "Apr 7, 2012, 10:20\u202FPM",
+      "Body": "Sorry about digging up an old thread like this but we had a discussion about dodge vs oubliette during a game but it seemed like the best place continue.\n\nIt is pretty clear from the above discussion that the burn blood part of oubliette will not happen if opposing minion is dodging (just like catatonic fear).\n\nIs it correct?",
+      "Id": "27448"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 8, 2012, 10:25\u202FAM",
+      "Body": "That is correct.",
+      "Id": "27458"
+    }
+  ]
+}

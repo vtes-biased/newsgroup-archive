@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-20633",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/20633-loving-agony-target-vitals",
+  "Title": "Loving agony + target vitals",
+  "Messages": [
+    {
+      "Author": "NikolajWendt",
+      "Date": "Jan 11, 2012, 8:00\u202FPM",
+      "Body": "I believe that target vitals is usable with Loving Agony (and Catatonic Fear for that mattter) and that the opposing vampire takes 2 extra damage if it takes 1 from Loving Agony.\n\nBut can the damage from Loving Agony and Catatonic fear be prevented with regular fortitude prevent cards?\n\nLoving Agony, Combat, 1 blood, Valeren/Animalism, C , [HttB:C]\nOnly usable at close range.\n[ani] Strike: hand strike at +1 damage.\n[val] Strike: combat ends and the opposing minion takes 1 damage.\n[VAL] As [val] above, and this vampire may burn 1 blood to untap before combat ends.\n\nTarget Vitals, Combat, U , [LotN]\nAim. Play when choosing a strike. If any damage from this strike is successfully inflicted on the opposing minion, he or she takes an additional 2 damage from this strike, and he or she cannot press this round. The opposing minion may discard two combat cards [COMBAT] to cancel this card. A minion may play only one aim each strike.",
+      "Id": "20633"
+    },
+    {
+      "Author": "Kushiel",
+      "Date": "Jan 11, 2012, 8:31\u202FPM",
+      "Body": "> NikolajWendt wrote:\n> But can the damage from Loving Agony and Catatonic fear be prevented with regular fortitude prevent cards?\n>\nNope. Fortitude damage prevention cards are combat cards, so they can't be played when the damage from LA/CF, and therefore Vitals, hits (which is after combat). IIRC, the only way to prevent damage from those strikes is Leather Jacket, which doesn't specify that it can only be used in combat.",
+      "Id": "20636"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 11, 2012, 8:42\u202FPM",
+      "Body": "> Kushiel wrote:\n>\n> > NikolajWendt wrote:\n> > But can the damage from Loving Agony and Catatonic fear be prevented with regular fortitude prevent cards?\n> >\n> Nope. Fortitude damage prevention cards are combat cards, so they can't be played when the damage from LA/CF, and therefore Vitals, hits (which is after combat).\n>\nCorrect.  [LSJ 20070727] (damage counts for Target Vitals)\n[LSJ 20100204] (the damage is inflicted after combat).\n\nIt can be prevented by Leather Jacket, Surge, and other prevention effects usable outside combat.",
+      "Id": "20638"
+    },
+    {
+      "Author": "NikolajWendt",
+      "Date": "Jan 11, 2012, 9:11\u202FPM",
+      "Body": "That means that you cannot play Taste of Vitae on any of the damage then, right?\n\n(just clarifying as we need it for next play session)",
+      "Id": "20640"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 11, 2012, 9:12\u202FPM",
+      "Body": "> NikolajWendt wrote:\n> That means that you cannot play Taste of Vitae on any of the damage then, right?\n>\n> (just clarifying as we need it for next play session)\n>\nCorrect.",
+      "Id": "20641"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 12, 2012, 6:38\u202FAM",
+      "Body": "> Pascal wrote:\n>\n> > NikolajWendt wrote:\n> > That means that you cannot play Taste of Vitae on any of the damage then, right?\n> >\n> > (just clarifying as we need it for next play session)\n> >\n> Correct.\n>\n(You are still allowed to play it at the end of the round, but it won't count the blood lost after the end of the combat.)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "20665"
+    },
+    {
+      "Author": "ICL",
+      "Date": "Jan 12, 2012, 6:04\u202FPM",
+      "Body": "So, Catatonic Fear and Loving Agony use the same timing for damage inflicted, even though they have different wordings?\n\nCatatonic Fear\nStrike: combat ends.\nAs above, and inflict 1 damage to the opposing minion once combat ends if the range is close.\n\nLoving Agony\nOnly usable at close range.\n[ani] Strike: hand strike at +1 damage.\n[val] Strike: combat ends and the opposing minion takes 1 damage.\n[VAL] As [val] above, and this vampire may burn 1 blood to untap before combat ends.\n\nTraveller Card Game",
+      "Id": "20729"
+    },
+    {
+      "Author": "porphyrion",
+      "Date": "Jan 12, 2012, 7:34\u202FPM",
+      "Body": "sorry to bump in on a related note,\nAnaesthetic Touch & Disarm, are they compatible?\n\nAnesthetic Touch\nOnly usable at close range.\n[aus] Strike: dodge.\n[obe] Strike: hand strike. Combat ends immediately after the resolution of this strike.\n[OBE] As [obe] above, with first strike.\n\nDisarm\n[pot] Only usable at the end of a round of combat in which this vampire successfully inflicted more damage at close range than the opposing vampire. Not usable by a vampire being burned or going into torpor. Put this card on the opposing vampire and send that vampire into torpor. The vampire with this card has -1 strength. He or she may burn this card by burning 3 blood. A vampire can have only one Disarm.\n[POT] As above, but the vampire with this card has -2 strength.\n\n-thanks.",
+      "Id": "20742"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 12, 2012, 7:38\u202FPM",
+      "Body": "> ICL wrote:\n> So, Catatonic Fear and Loving Agony use the same timing for damage inflicted, even though they have different wordings?\n>\nYes.\n\nAny strike that is \"Strike: combat ends, plus something\" does the something after combat. The one exception is \"plus untap this striking minion\" (or similar), which happens before combat ends (and most such cards have been reprinted/errata-ed to clarify that).\n\nIf the strike does something in addition to ending combat, that something takes place just after the combat ends. [RTR 19970630]\nThe untap effect of MAJESTY (and Earth Meld and Meld with the Land)\noccurs when the strike resolves (it is not delayed until after combat\nends).[RTR 20020501]",
+      "Id": "20744"
+    },
+    {
+      "Author": "jamesatzephyr",
+      "Date": "Jan 12, 2012, 7:42\u202FPM",
+      "Body": "> porphyrion wrote:\n> sorry to bump in on a related note,\n> Anaesthetic Touch & Disarm, are they compatible?\n>\nDisarm is playable at the end of the round, however the round ends - be that from ordinary combat ending (after the press phase), or a \"combat ends\" effect. Of course, its other criteria have to be met - close range, more damage etc.\n\nNote that at [obe], your opponent will have the ordinary opportunity to hit you (so you'd need to work out a way to do more damage than them, such as by playing prevent cards). At [OBE], you will usually be getting in first, and ending combat before 'normal' strike resolution effects resolve, which is much easier.\n\nYour opponent can, of course, dodge your strike, prevent your damage, or play their own S:CE, which would scupper things for you.",
+      "Id": "20745"
+    }
+  ]
+}

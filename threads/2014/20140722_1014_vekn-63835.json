@@ -1,0 +1,230 @@
+{
+  "ThreadId": "vekn-63835",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/event-reports-and-twd/63835-howto-use-the-archon-correctly",
+  "Title": "[HOWTO] Use the Archon correctly",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 22, 2014, 10:14\u202FAM",
+      "Body": "Hello fellow Methuselahs,\n\nAs you all know, we now have a live Archon upload system (continue reading if you weren't aware of this), based on the submission of the Archons by the Princes.\n\nAmongst other useful things, the submission of the Archons allows us to generate the  Ratings page .\nIt's also used to generate the list of  qualified players for CCs .\n\nHowever, I regularly see that some organisers / players face trouble when using the Archon. And some issues are quite recurrent. So here's a little helping guide for those who use the Archon. For those who don't (or haven't yet), I would also recommend reading it, as you will probably have a better understanding of it afterwards.\n\nPRELIMINARIES\nLike all good things, the Archon requires some preliminaries.\nFirst of all: if you're going to use the Archon, it's probably because you're running an event.\nIn this case, check the  Event Calendar and look for your event. If you can't find it, then the first thing you should do is  Register your event .\nIt is very important that you fill the \"Event type\" accordingly to your event. Here is a short description of all event types:  Demo: Self-explanatory. This should be used for demos. Archons submitted for demos will not be taken into account when evaluating rating points / checking who is qualified for CCs, etc. Standard Constructed: The regular, common tournament. Standard Tournament rules apply, this is basically what you run if you don't run something specific. Results for this type will be taken into account. Limited: Mainly used for drafts. It will be taken into account, but just for limited ratings. This is the easiest way of being World's #2 (Hugh has bought slot #1) Mini-Qualifier: To be honest, this shouldn't be in this list. Don't use it, never ever ever. Unless things change, this is a old-world type that we forgot to delete. It should be pushing the daisies. Continental Qualifier: Each country can run some (depending on the country, from 1 to as many as Gin\u00E9s decides) Continental Qualifiers each year. Check with your NC that you can run this kind of event. Players with 1GW at these events will qualify for the next Continental Championship. See the  Continental Championships page for details Continental Championships: Held once per year per continent. It's a major gathering on players. I wholeheartedly recommend attending these. National Qualifiers: As far as I know, if you're not French, this isn't for you. Some countries (France) don't have an \"Open\" National Championship. In France, players must be qualified for the Nationals to qualify. Hence this format (which was used, iirc, in Italy some time ago). This is NOT the Contentinental Championship Qualifier. National Championships: Held once per year per country. This should be your country's major event, and I highly recommend going there - and to some other countries'. Storyline: Tournaments registered there count for the Storyline. You can check the  Storyline pages (check options on the left side bar) for details on the current format. Launch Event: I honestly don't know what this is doing there. I recommend never to use it. Build your own Storyline: Storyline, again. Unsanctioned tournament: Self-explanatory. These events are almost Standard Tournaments, except that you slightly changes the rules. For instance, \"Jyhad-Only, with Jyhad-Rules\" tournaments should be \"Unsanctioned\". \"Proxies allowed\" must be Unsanctioned. These events don't count for the rating.\nUse mainly Standard Tournament and Unsanctioned Tournament. Once in a while, you'll have to register a National Championship or a Continental Qualifier. French Princes will encounter National Qualifier. I must say I haven't used any of the others myself.\n\n* If you have registered an incorrect type of event, you can always edit it: (copied from  VEKN FAQ 2.18]\na) Go to the  Event Calendar and look for the event you want to edit.\nb) Click on the event.\nc) Click on the organizer's name.\nd) Click on the \"Organized Events\" tab.\ne) Locate the event you want to edit and then click on the \"EDIT\" link.\n\nAlternatively, you can edit one of your events by:\n\na) Finding your player page in the  Player Registry .\nb) Clicking on the \"Organized Events\" tab.\nc) Finding the \"EDIT\" link on the right hand size.\n\nHOW CAN I HAVE THE ARCHON?\nThe Archon is available from the  RESOURCES/Downloads section on the left.\nThe Archon is some kind of a program that gets updated from time to time.\nThe current (as of 07/11/2021) version of the Archon is 1.5j.\n\nWe try to have the Archon supported by a maximum of tools - Excel, but also LibreOffice. If you think your Archon isn't compatible, please send it to me ().\n\nSHOULD I USE A NEW ARCHON FOR EACH EVENT?\nYes.\nDownload the Archon, first thing you should do is to copy it somewhere you won't touch it. Rename that file \"Archon_Model.xlsx\" or \"Archon_Model.ods\" (depending on whether you plan to use Excel or LibreOffice), and whenever you hold an event, simply copy that file somewhere relevent to the event (Documents/vtes/events/2014-2015/Archon_FeeStakeCorte.xlsx) and start using it.\nThis way, we reduce the chances of losing an important file.\n\nI HAVE AN ARCHON; I HAVE PLAYERS, WHAT SHOULD I DO?\n\nA.K.A How to fill and archon\n\nWhen you open the Archon, it should default to the second page, \"Tournament Info\".\n\nFILL THE TOURNAMENT INFO PAGE\n\nI cannot stress this enough, but this is almost the most important page of the Archon. If this page isn't properly filled, the submission is likely to fail (see below).\nSo take your time, and fill each field as best as you can.\n\"Date Report due at V:EKN\" is purely informal. We won't be knocking at your door if you're late.  Organizer: This person is in charge of preparing the event, finding a location, making the announcements, creating the event on vekn.net, etc. City: The place where the event is held. Format: Apart from drafts and unsanctioned events, events should be Constructed. Level: If everything is cool, you should choose the same type you chose when creating the event on vekn.net. (see above for details) Number of players: This field is automatically filled. Don't try and alter it. Number of rounds: Use 4 if you're running a 3R+F event, 3 if you're in a 2R+F Number of event matches: Automatically filled. Number of new members/warnings/disqualifications: As far as I know, we don't parse this information yet. Still, if we ever do, it's a good habit to fill it Multijudge: In events of 6+ players, the  Tournament Rules allow the use of MultiJudge, if there is no non-playing Judge. Simply list here the names of the judges.\n\nTHE METHUSELAHS PAGE\nOn this page, you'll have to fill all data regarding the players.\nColumns A (Player Num), B (Player Firstname), C (Player lastname), and E (vekn id) are required to be filled. Column D (city) isn't mandatory.\n\nThis is the only sheet you'll have to enter the name of the players. Everywhere else, players will be refered to by their associated number (from 1 to the number of players), either when entering the final table or overriding a round table.\n\nDURING THE ROUNDS AND FINALS\nWhenever a table finishes, report the result into the column E of the adequate table on the adequate round. You don't have to fill the G column, the Archon will process it correctly.\n\nFor the finals, you need to enter the A14-A18 cells with the IDs of the players for this event. Finalists are shown right above for reminers. Once the final is over, fill the F column with its results.\n\nTHE EVENT IS OVER, THE ARCHON IS FILLED, WHAT DO I DO?\nSave the file by keeping its original format, that is .xlsx or .ods. The report module doesn't support other formats such as .ods or .xlsx.\n\nReturn to the event's page on vekn.net's calendar, and upload the Archon. You must fill the \"number of players\" field there, or you will see your Archon rejected.\nOnce the upload is over (this can take quite some time), check that everything is normal:  All your players are displayed All your participants have at least 5 Rating Points All your finalists have significantly more Rating Points than the other players Rankings go from 1 to the number of players (except in case of ties, where some players are tied at the end).\nIf some players are displayed in red, it means that the name entered in the archon is not exactly the same as the name in the registry.\nIt's not necessarily an error. Usually it's because of missing uppercases, or an extra space, or a missing accent, or the first name being shortened (\"Ben\" instead of \"Benjamin\") but sometimes the VEKN is simply not the right one. The system can't distinguish those cases and uses red color to attract attention.\nYou should correct the archon only if the VEKN number is not correct. Mispelling doesn't require any correction.\n\nIf everything looks good, you can submit your Archon.\nThis sends a minor notification to your NC (basically, the NC needs to go to  the Approve event page to know that there's an event to approve), so you sould just as well inform your NC that your Archon is ready to be approved.\n\nLIST OF THINGS YOU WANT TO KNOW HOW TO DO DURING THE EVENT\n\nPLAYER LATE, SKIPPING ROUND 1 BUT PLAYING ROUNDS 2+\nFirst of all: IF you have a total (with the missing player) of 7, 8, 11 or 12, you're basically screwed. I would recommend either finding an extra (13/9 players is better than 12/8), or sacrificing players to go down to the next \"usable\" number of players (which, in our case, would be 6/10 - including the missing guy - I'll assume the missing player is a guy in the rest).\n\nAny other solution I can think of is going to be messy.\n\nAs for many cases shown hereafter, you have two different cases. One is easy, the other one is a real pain where you don't want to feel pain.\n\nIn all cases, that player should be included amongst all other Methuselahs in the Methuselah page of the Archon.\nDon't try to add him later on, or whatever. He is playing in the tournament, he should be there.\n\nEasy scenario: With that player, you do NOT have 5N+1 players.\nFor instance, a (13present + 1missing)-player event is missing 1 guy. Or a (19-present + 1 missing)-player event.  First, make sure that player isn't on a 4-player table. If he is, swap him with someone on a 5-player table. How do you swap? On the Methuselah page, simply exchange the \"Player Number\" fields. Then, in the Round 1 sheet, find your player, and remove him from the table by deleting the content of the \"#\" column. Do NOT remove his name manually, it'll be done automatically. Update the Override sheet to explain the change  That's it, you've handled a missing player.\n\nDifficult scenario: With that player, you have 5N+1 (16, 21, 26, ...) players\nThe problem comes from the fact that you were have 4 4-player tables that you have to deal with.\n\nIf you have 21 or more players, there is an easy solution. Follow the steps above, and make that missing player the #5. That way, he'll be the missing 5th player on table 1. You are creating a new 4-player table.\n\nNow, even if this solution is simple, I would only recommend it if you are in a rush. (5 4-player tables are never better than 4 5-player tables).\n\nCreating 5-player tables:  Choose a 4-player table. You will have to reseat all the players from that table to other 4-playar tables. Check the Round2 and Round3 sheets to avoid collusions. \"Collusions\" are defined in the \"Optimal 2R+F\" sheet for reminders. Rule 1 is the most important, rule 9 is the less important. Reseat the players, replacing the numbers in the \"#\" column. Do NOT touch the \"Player First/Last name\", as it will be automatically updated. Update the Override sheet to explain the change\n\n(tbc)\nSections:\n- Player leaving after round 1, and coming back for round 3 (or not)\n- Player dropping the event right before the finals\n- Life Boon\n\nCOMMON PROBLEMS WHEN SUBMITTING AN ARCHON\n\n[Q] There is an error in the archon file that was uploaded, is it possible to download the uploaded file and correct it?\nCurrently no. But you can either contact the person that uploaded the file and ask him or her a copy, or contact the Ratings Coordinator () and ask for a copy. Please include the event name and date, and its id (or paste the url of the event).\n\n[Q] I can't upload the archon, there is no button to do so.\n[A] You are not the creator of the event. Please contact the creator of the event, your NC or the ratings coordinator to fix this.\n\n[Q] I get a \"Invalid file extension (.xls)\" when I try to upload the archon.\n[A] The archon must be saved using the .xlsx or .ods extension. Do not mess with the file, I've seen some players renaming the file, it won't work.\n\n[Q] After I've submitted my archon, the even page's background has turned white and I have lost all the style...\n[A] Then you probably have an error message such as \"The filename ../archon/uploaded_archons/213-1430213647.xlsx is not readable\". I just told you you must not mess with the file. You've uploaded a file that wasn't a true .xlsx file. Please contact the ratings coordinator to fix this.\n\n[Q] I've uploaded the archon, and I can see the names of the players. But some of them are displayed in red. What should I do?\n[A] All you have to do is to check that the vekn id is correct.\nThe system only cares for the vekn id. To do so, it compares the archon name you've entered in the archon and the name of the player associated to the vekn id. If they are not strictly identical, it displays the line in red. It doesn't mean that there is an error though.\n\n[Q] There is an error in the archon I've submitted. What should I do?\nUse the \"DELETE THE ARCHON\" button, fix your archon on your computer, then re-upload it.\n\n[Q] I've uploaded the archon and I can see the names of the players. But I can't submit the archon.\n[A] Check you don't have an error message such as \"Tournament level '' inserted in archon does not match with the type 'Standard Constructed' inserted on calendar:\nplease check and modify tournament level accordingly, then upload your archon again.\"\nIt means you didn't fill properly the \"Tournament info\" sheet, or that the tournament level entered in the calendar is not correct. Either edit your archon or your event to fix this.\n\n(tbc)\nSections:\n- \"Tournament Info\" wasn't properly filled\n- Incorrect decimal separator\n-\n\nIf you have face issues with the Archon, please DO report them here so that we can add them to the list.",
+      "Id": "63835"
+    },
+    {
+      "Author": "Damnans",
+      "Date": "Jul 22, 2014, 11:27\u202FAM",
+      "Body": "> Pascal wrote:\n> * If you have registered an incorrect type of event, please contact the Ratings Coordinatoror (), Gin\u00E9s () or myself (). We can fix this.\n>\nTournament organizers can already edit their tournament information on their own. That is explained in section 2.18 of the VEKN FAQ:\n\nwww.vekn.net/vekn-faq\n\n2.18. How do I edit an event on the Event Calendar?\n\na) Go to the  Event Calendar and look for the event you want to edit.\nb) Click on the event.\nc) Click on the organizer's name.\nd) Click on the \"Organized Events\" tab.\ne) Locate the event you want to edit and then click on the \"EDIT\" link.\n\nAlternatively, you can edit one of your events by:\n\na) Finding your player page in the  Player Registry .\nb) Clicking on the \"Organized Events\" tab.\nc) Finding the \"EDIT\" link on the right hand size.\n\nV:EKN Website Coordinator",
+      "Id": "63836"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jul 23, 2014, 5:41\u202FAM",
+      "Body": "> Pascal wrote:\n> Launch Event: I honestly don't know what this is doing there. I recommend never to use it.\n>\nWell, I'm planning on using it WHEN the next set is going to have its Launch Tournament on the release date!\n\nFinnish  Politics!",
+      "Id": "63907"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jul 23, 2014, 5:46\u202FAM",
+      "Body": "Also, from the viewpoint of a NC it would be nice to get a notification (say, a personal message or \"Approve Event\" on the left blinking or somesuch...) when you have Arhcons that need to be approved.\n\nFinnish  Politics!",
+      "Id": "63908"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 23, 2014, 8:43\u202FAM",
+      "Body": "> L\u00F6nkka wrote:\n> Also, from the viewpoint of a NC it would be nice to get a notification (say, a personal message or \"Approve Event\" on the left blinking or somesuch...) when you have Arhcons that need to be approved.\n>\nWell.. We sort of know this horse is dead ... for now!\nvekn.net/forum/85-beta-testers/45372-approve-event-notification",
+      "Id": "63912"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jul 24, 2014, 5:58\u202FAM",
+      "Body": "Yup, but I just like to flog that dead horse every now and then...\n\nAttachment fdh2.jpg not found\n\nFinnish  Politics!",
+      "Id": "63963"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jul 24, 2014, 9:02\u202FAM",
+      "Body": "Updated the original message with\n- vekn.net/forum/9-event-reports-and-twd/63834-list-of-qualified-players-for-continental-championship-2013-2014\n- Gin\u00E9s's page\n- Archon troubleshooting",
+      "Id": "63976"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 26, 2014, 7:15\u202FPM",
+      "Body": "Added FAQ Question (and answer): \"If there is an error in the archon file that was uploaded, is it possible to download the uploaded file and correct it?\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "65088"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 3, 2015, 5:49\u202FAM",
+      "Body": "I've updated the link to the list of qualified players www.vekn.net/cc_qualified_2015.html\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70188"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Apr 28, 2015, 7:28\u202FAM",
+      "Body": "I've emphasized some parts such as: players should only be refered to by their id, and why does the report system report some players in red.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "70744"
+    },
+    {
+      "Author": "elotar",
+      "Date": "May 18, 2015, 7:04\u202FPM",
+      "Body": "Fixed\n\nNC Russia",
+      "Id": "71213"
+    },
+    {
+      "Author": "Pascek",
+      "Date": "Jul 17, 2015, 12:10\u202FAM",
+      "Body": "Hey Vincent,\n\nJust wanted to check for the DQ options.\n\nWhat would be the \"N\" option?\n\nThank you,\n\nRoberto Mautone Jr.\nPraetor",
+      "Id": "72076"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 17, 2015, 4:07\u202FAM",
+      "Body": "> Pascek wrote:\n> Hey Vincent,\n>\n> Just wanted to check for the DQ options.\n>\n> What would be the \"N\" option?\n>\n> Thank you,\n>\nOptions are:\n- WD: Withdrew self\n- DP: Deck Problems\n- PE: Procedural\n- CD: Card Drawing\n- MC: Marked Cards\n- SP: Slow Play\n- UC: Unsporting Conduct\n- C: Cheating\n- N: No-show/tardy\n\nWD is the what should appear 99% of the time.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72077"
+    },
+    {
+      "Author": "elotar",
+      "Date": "Jul 31, 2015, 11:03\u202FAM",
+      "Body": "Something wrong with upload script today also? Got all errors at once - wrong tournament level, number of players and all their info.\n\nNC Russia",
+      "Id": "72297"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jul 31, 2015, 4:02\u202FPM",
+      "Body": "> elotar wrote:\n> Something wrong with upload script today also? Got all errors at once - wrong tournament level, number of players and all their info.\n>\nSend the archon to  if you think it should work properly.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "72299"
+    },
+    {
+      "Author": "Trigger",
+      "Date": "Oct 7, 2015, 11:22\u202FPM",
+      "Body": "How does one enter data into the Archon in this situation.\n\n9 players start and finish 1st round.\n3 players unfortunately have to withdraw, leaving 6 players left\n\nFor the 2nd round, does the top person have a bye and the other 5 players play the 2nd round? Or is there some other way to do this and if so, after putting WD for the 3 players leaving, how would you enter into the Archon?\n\nAny help is appreciated. Thanks.",
+      "Id": "73561"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2015, 5:53\u202FAM",
+      "Body": "> Trigger wrote:\n> How does one enter data into the Archon in this situation.\n>\n> 9 players start and finish 1st round.\n> 3 players unfortunately have to withdraw, leaving 6 players left\n>\n> For the 2nd round, does the top person have a bye and the other 5 players play the 2nd round? Or is there some other way to do this and if so, after putting WD for the 3 players leaving, how would you enter into the Archon?\n>\n> Any help is appreciated. Thanks.\n>\nWell, I hope this situation doesn't happen often\n\nFor the second round, you should go in the \"Round 2\" sheet and edit manually the column \"#\" by entering the number of the players that play. The sixth player doesn't play.\n\nFor instance, you should have \"9 4 2 8 6\" and \"5 3 7 1\" for tables 1 and 2. Change the first five lines to the values of the remining players, and erase the number of table 2.\n\nYou'll also have to override the round in the \"Override\" sheet so the archon doesn't get stuck, waiting for the second table.\nFor that, you just have to create two lines, the first for \"Round\"=2 and \"Table\"=1 and the second line for \"Round\"=2 and \"Table\"=2 (the \"Explanation\" column isn't mandatory).\n\nYou can also play a 6 players game, but that isn't supported by the archon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "73575"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 5, 2016, 5:48\u202FPM",
+      "Body": "what happens if the players are at 5 and 6 place are equal?\nwhether in some way helps V:EKN number?\nwhether by using V:EKN numbers view earlier played in tournaments and the results of previous better player than before has the advantage, or every tournament for himself and earlier results have nothing to do with the placement?\nI ask this because I organized an online tournament in VTES friendly character, and some players do not have a V:ekn number and we can not together use numbers for tournaments in real life and online tournaments.",
+      "Id": "74874"
+    },
+    {
+      "Author": "brandonsantacruz",
+      "Date": "Jan 6, 2016, 5:48\u202FAM",
+      "Body": "Where can I get the archon with the new site?\n\nBe careful when you fight the monsters, lest you become one.\n-Friedrich Nietzsche\n\nbrandonsantacruz.blogspot.com/",
+      "Id": "74877"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2016, 3:07\u202FPM",
+      "Body": "> beslin wrote:\n> what happens if the players are at 5 and 6 place are equal?\n>\nThe Methuselah sheet will display TIE if there is a tie. You'll have to flip a coin to determine who's 5th and who's 6th.\n\n> beslin wrote:\n> whether in some way helps V:EKN number?\n> whether by using V:EKN numbers view earlier played in tournaments and the results of previous better player than before has the advantage, or every tournament for himself and earlier results have nothing to do with the placement?\n>\nTie-breaking has nothing to do with VEKN Numbers or results in other tournaments.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "74879"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Jan 6, 2016, 3:08\u202FPM",
+      "Body": "> brandonsantacruz wrote:\n> Where can I get the archon with the new site?\n>\nwww.vekn.net/images/stories/downloads/thearchon1.5d.zip\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "74880"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jan 7, 2016, 11:57\u202FPM",
+      "Body": "> beslin wrote:\n> I ask this because I organized an online tournament in VTES friendly character, and some players do not have a V:ekn number\n>\nGetting a VEKN number is so very easy.\nYou just need a prince or National Coordinator.\n\nIf you are neither and do organize tournaments you probably should apply to be a Prince. When you are a Prince you can assign such players VEKN numbers.\n\nFinnish  Politics!",
+      "Id": "74885"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 8, 2016, 7:49\u202FAM",
+      "Body": "Maybe it easy to get VEKN number L\u00F6nkka,but i said i organize online tournament frendly caracter,so I think that these tournaments and ratings can not be accepted as real life.\nI test it a little better Archon and see VEKN number no important for online tournaments.\nIf some players are equal is used coin options as explained Ankha.",
+      "Id": "74886"
+    },
+    {
+      "Author": "L\u00F6nkka",
+      "Date": "Jan 9, 2016, 7:34\u202FPM",
+      "Body": "VEKN number ain't necessary for non-online use either, unless you plan on reporting the event.\n\nSorry to have bothered you.\n\nFinnish  Politics!",
+      "Id": "74904"
+    },
+    {
+      "Author": "beslin igor",
+      "Date": "Jan 10, 2016, 8:39\u202FAM",
+      "Body": "You did not bother me L\u00F6nkka.\nMe plan not be reporting this event,but if my players are advise to reporting it then I will do.\nalthough the tournament would never officially recognized. due to various time conditions for the players the game and different time zones, I had to change that a lot of parings on boards provided by the archon.",
+      "Id": "74910"
+    },
+    {
+      "Author": "chedcan",
+      "Date": "Nov 30, 2018, 12:21\u202FAM",
+      "Body": "I have a problem uploading the Archon from my event to the calendar page. The errors I get are due to the VEKN numbers that were newly issued. Sent the email with the info as suggested in the guideline but haven't got feedback (from Gines?).\n\nHow should I proceed from here to properly have the event recorded?\n(Rebirth Gatineau, Gatineau Canada November 24th 2018)\n\nAny help is much appreciated. Thanks in advance.\n\nChristian Ch\u00E9nard",
+      "Id": "92153"
+    },
+    {
+      "Author": "Vlad",
+      "Date": "Nov 30, 2018, 11:30\u202FAM",
+      "Body": "> chedcan wrote:\n> I have a problem uploading the Archon from my event to the calendar page. The errors I get are due to the VEKN numbers that were newly issued. Sent the email with the info as suggested in the guideline but haven't got feedback (from Gines?).\n>\n> How should I proceed from here to properly have the event recorded?\n> (Rebirth Gatineau, Gatineau Canada November 24th 2018)\n>\n> Any help is much appreciated. Thanks in advance.\n>\n> Christian Ch\u00E9nard\n>\nDid you ask here for the new ids ? www.vekn.net/forum/prince-list/4892-new-vekn-ids?start=882#92021\n\nPentex Board of Directors\n\nPrince of Oye Plage\nAlastor Grand Nord",
+      "Id": "92156"
+    },
+    {
+      "Author": "chedcan",
+      "Date": "Dec 13, 2018, 6:25\u202FPM",
+      "Body": "Hi! sorry to bother again.\n\nAll the new players entries have been entered and that solved most of the error flags.\n\nHowever, I still have a problem with submitting the archon. The automated form seems not to like the override that was made to bump Dylan into the final instead of Darko (who had to leave early). I keep getting an error for Darko's standing. Can anyone help?",
+      "Id": "92369"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Dec 13, 2018, 6:57\u202FPM",
+      "Body": "You probably forgot to put WD in the DQ flag in the Methuselah sheet to indicate that the player WithDrew. Then the finalists on the Final round sheet should be the correct ones.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "92370"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 14, 2019, 2:31\u202FAM",
+      "Body": "Does withdrawal pertain to not finishing the event lets say leaving after 1 round or 2 rounds for whatever reason?\nLike leaving so a 6th player can play (in case of TO)",
+      "Id": "94883"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2019, 5:53\u202FAM",
+      "Body": "> blackday wrote:\n> Does withdrawal pertain to not finishing the event lets say leaving after 1 round or 2 rounds for whatever reason?\n> Like leaving so a 6th player can play (in case of TO)\n>\nYes. If a player leaves early, put the \"withdrew self\" flag, that is: WD.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94887"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 14, 2019, 10:35\u202FAM",
+      "Body": "Who do i send a copy of the archon file to?\nTwd only applies to tourneys with 10 players or more right?",
+      "Id": "94894"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 14, 2019, 4:30\u202FPM",
+      "Body": "You don't need to send the archon. You have to upload it through the entry in the event calendar.\nSee the OP \"THE EVENT IS OVER, THE ARCHON IS FILLED, WHAT DO I DO?\"\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94899"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 19, 2019, 2:52\u202FPM",
+      "Body": "I have filled up the archon file but it doesn't want to upload it saying ERROR one or more fields is empty or wrong pls delete it and send a new one.\nCan i just send it to you at  so that you can check what I'm doing wrong coz i tried ten times already. My previous submissions were okay so I'm not sure what I'm doing wrong here.",
+      "Id": "94959"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 19, 2019, 3:06\u202FPM",
+      "Body": "Im getting an error on the Pos. NA#",
+      "Id": "94961"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "May 19, 2019, 5:18\u202FPM",
+      "Body": "> blackday wrote:\n> I have filled up the archon file but it doesn't want to upload it saying ERROR one or more fields is empty or wrong pls delete it and send a new one.\n> Can i just send it to you at  so that you can check what I'm doing wrong coz i tried ten times already. My previous submissions were okay so I'm not sure what I'm doing wrong here.\n>\nYes, you can send me the archon.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "94962"
+    },
+    {
+      "Author": "blackday",
+      "Date": "May 22, 2019, 5:40\u202FPM",
+      "Body": "Thanks, done",
+      "Id": "95029"
+    }
+  ]
+}

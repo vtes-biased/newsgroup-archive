@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-8895",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/8895-multifunctional-cards",
+  "Title": "Multifunctional cards",
+  "Messages": [
+    {
+      "Author": "Malachy",
+      "Date": "Aug 24, 2011, 7:09\u202FAM",
+      "Body": "Heys!\n\nI looked through the whole site and found nothing about cards like The Mole or Improvised Tactics etc... My interests lie in whether those 3 disciplines can be used at once or with a deleyed method.\n\nFor example, I'm being bled for 3 with 1 stealth. The acting minion has no celerity. Can i play The Mole using both [ani] and [cel]? If i cannot intercept the acting minion, can i use [dom] afterwards?\n\n> Mole, The\n>\n> [Reaction] Reaction\n>\n> [Animalism] Animalism\n> [Celerity] Celerity\n> [Dominate] Dominate\n>\n> Requires a ready anarch. Only usable when a non-anarch minion is acting.\n> [ani] Only usable by a tapped vampire. This vampire untaps and attempts to block.\n> [cel] +1 intercept. Not usable if the acting minion has Celerity.\n> [dom] Only usable when you are being bled by a younger vampire. Tap this vampire to cause the action to fail.\n>\nI'm interested in all such cards not just particularly this one!\n\nP.S. Sorry if my English is muddled\n\nNC of Hungary\n\n///",
+      "Id": "8895"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Aug 24, 2011, 7:50\u202FAM",
+      "Body": "No, you have to choose which 1 discipline you use. And since it's a reaction card, you can't play another copy with the same minion to use another discipline.\n\nYou can play two copies with two different minion though, as usual.\n\nIn contrast, Keystone Kine allows you to use multiple disciplines at the same time for additional effects:\n\nName: Keystone Kine\n[TR:C]\nCardtype: Action\nDiscipline: Celerity/Necromancy/Obfuscate\nRequires an anarch.\n[cel] and/or [nec] and/or [obf]  Bleed. If using [cel], he or she gains 1 blood. If using [nec], the bleed is at +1 bleed. If using [obf] {and this action is successful,} you may burn an ally controlled by your prey whose cost is not greater than the bleed amount.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "8898"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Aug 24, 2011, 9:28\u202FAM",
+      "Body": "> Ankha wrote:\n> No, you have to choose which 1 discipline you use.\n>\nCorrect.",
+      "Id": "8907"
+    },
+    {
+      "Author": "Haze",
+      "Date": "Aug 24, 2011, 9:46\u202FAM",
+      "Body": "The Mole and Improvised Tactics might not be so terrible if they had been designed that way\n\n(let's errata them)",
+      "Id": "8910"
+    }
+  ]
+}

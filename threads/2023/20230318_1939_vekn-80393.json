@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-80393",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/80393-forced-awakening-and-wmrh-talk-radio-vs-form-of-mist",
+  "Title": "Forced Awakening and WMRH Talk Radio vs Form of Mist",
+  "Messages": [
+    {
+      "Author": "beslin igor",
+      "Date": "Mar 18, 2023, 7:39\u202FPM",
+      "Body": "We have convesation on discord if B vampire play Forced Awakening and lock WMRH Talk Radio to block A.\nblock sucess and combat begin,and A play in combat Form of Mist and action continue.\neven if B fail block now,or tru to block and fail again him not need to burn pool and blood from Forced Awakening and WMRH Talk Radio,because him block action 1st time,link is here:\n\ngroups.google.com/g/rec.games.trading-cards.jyhad/c/t1YjJ1828As/m/jnmoQgHE63cJ\n\nBut does make any diference,if B block A,combat ocur,A play Form of Mist,what if B now play Forced Awakening and lock WMRH Talk Radio,but fail block? if B need to burn blood and pool?\n\nForced Awakening\nOnly usable by a locked vampire.\n\nThis vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action). If they do not block this action, they burn 1 blood before action resolution.\n\nWMRH Talk Radio\nUnique location.\n\nYou can lock this card to give a minion +1 intercept. After action resolution, burn 1 pool if that minion did not block the action.\n\nForm of Mist\nj Strike: dodge.\n\nJ Strike: combat ends. If this vampire is acting and the action was blocked, they can burn 1 blood after combat ends to continue the action with +1 stealth as if unblocked, even if stealth is not yet needed. A vampire can play only one Form of Mist at superior each action.",
+      "Id": "107666"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Mar 19, 2023, 3:54\u202FAM",
+      "Body": "There was a successful block of the action no pool will be lost from WMRH or blood burned by Forced Awakening, even if that vampire tries to block again and fails.",
+      "Id": "107667"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Mar 19, 2023, 10:44\u202FAM",
+      "Body": "> beslin wrote:\n> But does make any diference,if B block A,combat ocur,A play Form of Mist,what if B now play Forced Awakening and lock WMRH Talk Radio,but fail block? if B need to burn blood and pool?\n>\nThe vampire burns 1 blood. The action has not been blocked after Forced Awakening was played (it doesn't check in the past that the action has been blocked or not).\nSimilarily, Faceless Night does not lock minion minions who failed to block before FN was played (groups.google.com/g/rec.games.trading-cards.jyhad/c/hT7ezy_N8FQ/m/d2Yt5N6SwacJ) and Kraken Kiss does not count damage inflicted before KK was played (groups.google.com/g/rec.games.trading-cards.jyhad/c/KVyVn-Y_UIY/m/FmhagXANIzcJ)\n\nWMRH's cardtext was changed and now looks \"if that minion did not block the action\", so the controller wouldn't burn pool since the past tense if used (this is a side-effect of the rewording).\n\nHowever, since this wasn't wanted, I've errated the cardtext of WMRH back to what it was before, that is: \"If that minion does not block the action, burn 1 pool after action resolution.\"\n\nThis means that in the scenario above, the controller of the WMRH burns a pool.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "107674"
+    }
+  ]
+}
