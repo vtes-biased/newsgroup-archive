@@ -9,10 +9,16 @@ instead of Google Groups.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 10,722 threads, 132,179
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 10,723 threads, 132,182
 messages, 1994 to 2010. This is every thread in which one of the game's rules
 directors posted: Thomas R. Wylie (from December 1994), Shawn F. Carnes (July
 1996), Jon Wilkie (October 1996) and L. Scott Johnson (June 1998 onward).
+
+A few threads are not from that newsgroup, and carry a `Group` naming where
+they came from: several hundred from `rec.games.deckmaster`, where Jyhad was
+discussed before its own group existed, and — from 2021, well after Usenet —
+one topic off the V:EKN forum, which the forum has since dropped and a ruling
+still rests on. `import_mbox.py` and `import_forum.py` are what put those here.
 
 Each file is one thread:
 

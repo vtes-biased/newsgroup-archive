@@ -313,7 +313,7 @@ def render_year(year: str, threads: list[Thread]) -> str:
     body = (
         f'<nav class="crumbs"><a href="../">Archive</a></nav>\n'
         f"<h1>{year}</h1>\n"
-        f'<p class="meta">{len(threads)} threads, '
+        f'<p class="meta">{len(threads)} thread{"s" if len(threads) > 1 else ""}, '
         f"{sum(len(t.messages) for t in threads)} messages.</p>\n"
         f'<table class="listing">{rows}</table>'
     )
@@ -331,7 +331,8 @@ def render_index(by_year: dict[str, list[Thread]], total: int) -> str:
 out in public from 1994 to 2010, and where its rules directors answered
 questions one post at a time. This is a preserved copy of every thread one of
 those directors took part in &mdash;
-{sum(len(t) for t in by_year.values()):,} threads, {total:,} messages.</p>
+{sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
+along with a few discussions from elsewhere that the rulings depend on.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
 they will point here instead, because this copy is not going anywhere.</p>
@@ -364,6 +365,12 @@ answers.</p>
 <code>rec.games.deckmaster</code>, the Magic newsgroup. Those threads are here
 too, marked with the group they came from, so that the rulings citing them have
 somewhere to point.</p>
+
+<p>For the same reason a handful of threads are not from Usenet at all. Rulings
+did not stop when the newsgroup did; they moved to the
+<a href="https://www.vekn.net/forum">V:EKN forum</a>, which drops topics of its
+own accord. A cited topic that the forum has lost is copied here, marked with
+where it came from, rather than left to a link that has already broken once.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
