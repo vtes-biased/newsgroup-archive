@@ -153,32 +153,42 @@ class Topic(html.parser.HTMLParser):
         Usenet sig does, even though the forum staples it on rather than the
         poster typing it.
         """
-        rows: list[tuple[int, str]] = []
-        depth, current = 0, ""
-        for chunk_depth, text in self.chunks:
-            for index, piece in enumerate(text.split("\n")):
-                if index:
-                    rows.append((depth, current))
-                    depth, current = chunk_depth, ""
-                if piece.strip() and not current.strip():
-                    # A line is quoted as deeply as the text that opens it.
-                    depth = chunk_depth
-                current += piece
-        rows.append((depth, current))
-        lines: list[str] = []
-        for row_depth, text in rows:
-            prefix = "> " * row_depth
-            text = text.strip()
-            if not text and lines and not lines[-1].strip(">").strip():
-                continue  # the markup is full of blank lines; one is plenty
-            lines.append(prefix + text if text else prefix.rstrip())
-        body = "\n".join(lines).strip()
+        body = written(self.chunks)
         if self.author and self.dates:
             post = {"Author": self.author, "Date": self.dates[0], "Body": body}
             if self.post_id:
                 post["Id"] = self.post_id
             self.posts.append(post)
         self.author, self.dates, self.chunks, self.post_id = "", [], [], ""
+
+
+def written(chunks: list[tuple[int, str]]) -> str:
+    """Chunks of text, each at the depth it is quoted, written out as lines.
+
+    A chunk is not a line: markup breaks a sentence wherever it likes, and a
+    quote is a block in the middle of one. So the chunks run together until a
+    newline turns up, and a line is quoted as deeply as the text that opens it.
+    Both importers share this, so a post reads the same wherever it came from.
+    """
+    rows: list[tuple[int, str]] = []
+    depth, current = 0, ""
+    for chunk_depth, text in chunks:
+        for index, piece in enumerate(text.split("\n")):
+            if index:
+                rows.append((depth, current))
+                depth, current = chunk_depth, ""
+            if piece.strip() and not current.strip():
+                depth = chunk_depth
+            current += piece
+    rows.append((depth, current))
+    lines: list[str] = []
+    for row_depth, text in rows:
+        prefix = "> " * row_depth
+        text = text.strip()
+        if not text and lines and not lines[-1].strip(">").strip():
+            continue  # the markup is full of blank lines; one is plenty
+        lines.append(prefix + text if text else prefix.rstrip())
+    return "\n".join(lines).strip()
 
 
 def posted(raw: str) -> datetime.datetime:

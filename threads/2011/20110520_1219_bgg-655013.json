@@ -1,0 +1,62 @@
+{
+  "ThreadId": "bgg-655013",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/655013/reacting-after-an-action-modifier-has-been-played",
+  "Title": "Reacting after an action modifier has been played",
+  "Messages": [
+    {
+      "Author": "HenricF",
+      "Date": "May 20, 2011, 12:19:40\u202FPM",
+      "Body": "Hello all,\n\nI'm fairly new to this game and have a question about reacting to an action modifier.\n\nUntil now, we've played like this:\nPlayer A: I bleed you for 1.\nPlayer B: I'm not blocking.\nPlayer A: Ok, then I play [insert +bleed modifier here] and bleed you for 3.\n\nSince Player B declined to block the original action (bleeding), he can't react to the modifier. This is how we've played so far.\n\nBut I just read http://extrala.blogspot.com/2007/10/correct-order-of-play.ht... (http://extrala.blogspot.com/2007/10/correct-order-of-play.html) which seems to indicate that player B should have a chance to react to player A's modifier.\n\nSo, have we been playing it wrong? It's been kind of annoying to be bled for 1, not react, and then bled for 3-4 without a chance to react.\n\nAlso, if it is wrong, it would be great if someone could indicate where I can find this in the rules.",
+      "Id": "6800135"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "May 20, 2011, 12:28:43\u202FPM",
+      "Body": "The Sequencing Rule is one of the most important rules in all of VTES, but is kinda buried in the rulebook:\n\n> Sequencing wrote:\n> If two or more players want to play a card or effect, the acting Methuselah plays first. At every stage, the acting player always has the opportunity to play the next card or effect. So after playing one effect, she may play another and another. Once she is finished, the opportunity passes to the defending Methuselah (in the cases of directed actions and combat), then to the rest of the Methuselahs in clockwise order from the acting Methuselah. Note that if any Methuselah uses a card or effect, the acting Methuselah again gets the opportunity to play the next effect.\nPlayer A gets a chance to play as many (appropriate) effects as possible.\nAnd then Player B (and C and D and E) get a chance to play ONE effect.\nIt goes back and forth until everybody passes.\n\nSo this is legal:\n\nPlayer A: I bleed you for 1.\nPlayer B: I'm not blocking.\nPlayer A: OK, then I play Command of the Beast at superior for +1 bleed*, and Conditioning at superior for +3 more bleed.\nPlayer B: OK, then I play Telepathic Misdirection to redirect to my prey.\nPlayer C: I'm not blocking.\nPlayer A: OK, I play Spying Mission at superior. Don't worry about it, buddy!\n\n* In case you are confused, note that Command of the Beast at superior does not have the \"only one bleed modifier\" clause.\n\nHowever, it is not legal for B to declare a block after declaring no-block, unless a new blocking window opens up (like if C redirected it back to B).",
+      "Id": "6800172"
+    },
+    {
+      "Author": "HenricF",
+      "Date": "May 20, 2011, 12:31:34\u202FPM",
+      "Body": "Thanks again to the BGG community for quick answers. You're really great :)",
+      "Id": "6800191"
+    },
+    {
+      "Author": "HenricF",
+      "Date": "May 21, 2011, 10:07:17\u202FAM",
+      "Body": "Now I remember why we played as we did:\n\n> Rulebook 6.2.2.1 wrote:\n> ...If one attempt to block fails, another can be made as often as the blocking Methuselah wishes. Once a Methuselah decides not to make any further attempts to block, that decision is final.\n\n> Rulebook 6.2.2.2 wrote:\n> ...Sarah announces that Quentin is bleeding Alexis. Sarah has no effects that she wishes to play before Alexis decides whether to block, so Sarah says \"Do you block?\" Alexis decides not to block, so then Sarah plays Confusion (an action modifier that adds 1 to the bleed). Alexis is bled for 2 pool.\nEspecially this last example confused us. Why doesn't Alexis get an opportunity to block after Sarah played Confusion?",
+      "Id": "6805090"
+    },
+    {
+      "Author": "Dr Lucky",
+      "Date": "May 21, 2011, 10:22:36\u202FAM",
+      "Body": "> HenricF wrote:\n> Now I remember why we played as we did:\n>\n> > Rulebook 6.2.2.1 wrote:\n> > ...If one attempt to block fails, another can be made as often as the blocking Methuselah wishes. Once a Methuselah decides not to make any further attempts to block, that decision is final.\n>\n> > Rulebook 6.2.2.2 wrote:\n> > ...Sarah announces that Quentin is bleeding Alexis. Sarah has no effects that she wishes to play before Alexis decides whether to block, so Sarah says \"Do you block?\" Alexis decides not to block, so then Sarah plays Confusion (an action modifier that adds 1 to the bleed). Alexis is bled for 2 pool.\n> Especially this last example confused us. Why doesn't Alexis get an opportunity to block after Sarah played Confusion?\nShe gets an opportunity to react, she just doesn't get an opportunity to block.  The decision not to block is final.  She can play Reaction cards - maybe something to bounce or reduce the bleed.",
+      "Id": "6805123"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 21, 2011, 10:25:50\u202FAM",
+      "Body": "> HenricF wrote:\n> Now I remember why we played as we did:\n>\n> > Rulebook 6.2.2.1 wrote:\n> > ...If one attempt to block fails, another can be made as often as the blocking Methuselah wishes. Once a Methuselah decides not to make any further attempts to block, that decision is final.\n>\n> > Rulebook 6.2.2.2 wrote:\n> > ...Sarah announces that Quentin is bleeding Alexis. Sarah has no effects that she wishes to play before Alexis decides whether to block, so Sarah says \"Do you block?\" Alexis decides not to block, so then Sarah plays Confusion (an action modifier that adds 1 to the bleed). Alexis is bled for 2 pool.\n> Especially this last example confused us. Why doesn't Alexis get an opportunity to block after Sarah played Confusion?\n?\nBecause Alexis had already issued the \"I don't block\" decision, which is final, as you quoted in the first block.\n\nAlexis may play reactions, like Deflection, but cannot block, since she has already declined to block this action.",
+      "Id": "6805132"
+    },
+    {
+      "Author": "Dr Lucky",
+      "Date": "May 21, 2011, 10:26:02\u202FAM",
+      "Body": "> Dr Lucky wrote:\n> She gets an opportunity to react, she just doesn't get an opportunity to block.  The decision not to block is final.  She can play Reaction cards - maybe something to bounce or reduce the bleed.\nI should add that she can also react in other ways like playing a Master Out Of Turn card or using an ability on a minion.  I didn't mean to imply that the only possible reaction was to play a Reaction card.  There are plenty of things she can do, she just can't block, because she has already declared she is not blocking, which is final.",
+      "Id": "6805133"
+    },
+    {
+      "Author": "HenricF",
+      "Date": "May 21, 2011, 12:20:30\u202FPM",
+      "Body": "So there's no way to prevent the Confusion bleed in the example above?\n\nBecause if Alexis tried to block the original bleed (and failed), he would decide not to block and thus be prevented from blocking the Confusion bleed.\n\nSo, have we been playing correct all along (if you can't block the action, you can't block the modifier)?\n\nEdit: rereading Extrala's post, I see where I think I went wrong. Playing Deflection isn't blocking (and you're still allowed to play cards, even though you have decided not to block). Correct?",
+      "Id": "6805356"
+    },
+    {
+      "Author": "TheLasombra",
+      "Date": "May 21, 2011, 12:45:43\u202FPM",
+      "Body": "> HenricF wrote:\n> Playing Deflection isn't blocking (and you're still allowed to play cards, even though you have decided not to block).\nRight.\n\nReacting is not blocking.\nDeclining to block is only declining to block it is not declining to react.\n\nSee also the FAQ, section 3.12 (http://www.thelasombra.com/vtes_faq.htm#c3s12).",
+      "Id": "6805415"
+    }
+  ]
+}

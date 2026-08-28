@@ -1,0 +1,44 @@
+{
+  "ThreadId": "bgg-634799",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/634799/red-herring-and-nra",
+  "Title": "Red Herring and NRA",
+  "Messages": [
+    {
+      "Author": "cauecoraini",
+      "Date": "Mar 26, 2011, 5:46:42\u202FAM",
+      "Body": "1. Simple question: can I  Basic Bleed with a Ravnos, play red herring, then play computer hacking with another minion? Does it not clash card text with  6.1.1 of rule book?\n\n2.  Still, can I Basic Bleed with a minion, play red herring and then computer hacking with the same minion?",
+      "Id": "6501573"
+    },
+    {
+      "Author": "cauecoraini",
+      "Date": "Mar 26, 2011, 5:52:02\u202FAM",
+      "Body": "Relevant card texts:\n\nRed Herring\n\nOnly usable when this acting vampire is blocked. Untap the acting vampire, do not tap the blocking minion, and cancel the current action and combat. Take the card played to perform the action (if any) back into your hand. Your vampires cannot attempt the same action again this turn. Discard down to your hand size.\nAs above, but tap the blocking minion.",
+      "Id": "6501579"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Mar 26, 2011, 10:38:38\u202FAM",
+      "Body": "> cauecoraini wrote:\n> 1. Simple question: can I  Basic Bleed with a Ravnos, play red herring, then play computer hacking with another minion?\nYes.\n\n> Does it not clash card text with  6.1.1 of rule book?\nNo. 6.1.1. says nothing about other minions.\n\n> 2.  Still, can I Basic Bleed with a minion, play red herring and then computer hacking with the same minion?\nNo, by 6.1.1.",
+      "Id": "6502047"
+    },
+    {
+      "Author": "cauecoraini",
+      "Date": "Mar 26, 2011, 11:15:47\u202FPM",
+      "Body": "thanks and sorry, messed the order of arguments",
+      "Id": "6504148"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Mar 27, 2011, 4:53:47\u202FAM",
+      "Body": "Red Herring prohibits another minion from taking the exact same identical action as the first minion.\n\nNRA (6.1.1) prevents the one particular minion attempting multiple actions from the same class of actions, or actions with the exact same name.",
+      "Id": "6505112"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Mar 27, 2011, 5:11:19\u202FPM",
+      "Body": "> Juggernaut1981 wrote:\n> NRA (6.1.1) prevents the one particular minion attempting multiple actions from the same class of actions, or actions with the exact same name.\n6.1.1. prevents a minion from taking a second bleed in a turn.\n6.1.6. and 6.1.7. prevents repeating certain other kinds of things.",
+      "Id": "6506669"
+    }
+  ]
+}

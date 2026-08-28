@@ -1,0 +1,20 @@
+{
+  "ThreadId": "bgg-639072",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/639072/change-of-target-vs-unleash-hells-fury",
+  "Title": "Change of Target vs Unleash Hell's Fury",
+  "Messages": [
+    {
+      "Author": "jhattara",
+      "Date": "Apr 6, 2011, 10:18:50\u202FAM",
+      "Body": "1) Does the Unleash Hell's Fury inflict 1 aggravated damage and is burned before Change of Target is played?\n\n2) Can the acting vampire play Change of Target after being blocked successfully by the Unleash Hell's Fury?\n\nMy guess:\n1) yes\n2) no\n\nName: Change of Target\n[Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, LoB:PG2/PI2, KoT:U/PM3]\nCardtype: Action Modifier\nOnly usable when this acting minion is blocked (play before combat, if any). Untap the acting minion, do not tap the blocking minion, and end the current action (it is not successful). This minion cannot perform the same action again this turn.\n\nName: Unleash Hell's Fury\n[HttB:R]\nCardtype: Action\nCost: 2 pool\nDiscipline: Daimoinon\nBurn Option\n+1 stealth action. Requires an infernal vampire. Unique.\n[dai] Put this card in play. This card may attempt to block a (D) action against you and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable aggravated damage, and this card is burned.\n[DAI] As above, and untap this vampire.",
+      "Id": "6560509"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 6, 2011, 1:05:21\u202FPM",
+      "Body": "Acting vampire may play CoT first (since he has priority).\n\nHe still takes the agg damage (and the UHF is burned).\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/ba2477b591e33963)",
+      "Id": "6561054"
+    }
+  ]
+}

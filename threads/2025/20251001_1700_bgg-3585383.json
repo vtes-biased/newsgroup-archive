@@ -1,0 +1,44 @@
+{
+  "ThreadId": "bgg-3585383",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/3585383/nra-in-current-rules-set",
+  "Title": "NRA in current rules set",
+  "Messages": [
+    {
+      "Author": "jackalope",
+      "Date": "Oct 1, 2025, 5:00:01\u202FPM",
+      "Body": "I was a semi regular player of Jyhad and VTES in the 90s.  I am aware of the NRA rule from the 2010s.  I don't see any reference to it or it's effects in the digital VKEN rules or the V5 rulebook.\n\nIs there still a no repeat action rule, or did it mercifully die?",
+      "Id": "46682476"
+    },
+    {
+      "Author": "Shkar",
+      "Date": "Oct 1, 2025, 6:05:33\u202FPM",
+      "Body": "A quick search gives me the following.\n\nA minion cannot play (unless cancelled) the same named action card more than once each turn, even if they unlock. A minion cannot perform each action via the same copy of a card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock.\n\nBut I'm pretty sure you cannot play the same action even without cards. You cannot bleed, freak drive and bleed again.",
+      "Id": "46682805"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Oct 1, 2025, 6:06:43\u202FPM",
+      "Body": "It is mercifully still in the rules:\n\n> A minion cannot play (unless cancelled) the same named action card more than once each turn, even if they unlock. A minion cannot perform each action via the same copy of a card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock",
+      "Id": "46682809"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Oct 1, 2025, 6:09:45\u202FPM",
+      "Body": "> Shkar wrote:\n> A quick search gives me the following.\n>\n> A minion cannot play (unless cancelled) the same named action card more than once each turn, even if they unlock. A minion cannot perform each action via the same copy of a card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock.\n>\n> But I'm pretty sure you cannot play the same action even without cards. You cannot bleed, freak drive and bleed again.\nThere are a variety of bleed actions, and they are restricted explicitly:\n\n> A minion cannot perform more than one bleed action each turn, even if they unlock.",
+      "Id": "46682827"
+    },
+    {
+      "Author": "jackalope",
+      "Date": "Oct 1, 2025, 7:32:46\u202FPM",
+      "Body": "> Rulemonger wrote:\n> It is mercifully still in the rules:\n>\n> > A minion cannot play (unless cancelled) the same named action card more than once each turn, even if they unlock. A minion cannot perform each action via the same copy of a card in play (including from the minion\u2019s own card text) more than once each turn, even if they unlock\n>\nThanks.  Kept looking through, but just couldn't find that line.  Now that I have the exact text, I was able to search for it.",
+      "Id": "46683263"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Oct 1, 2025, 8:43:01\u202FPM",
+      "Body": "> jackalope wrote:\n> Thanks.  Kept looking through, but just couldn't find that line.  Now that I have the exact text, I was able to search for it.\nNice searching, Sherlock.\n\n(Couldn't resist)",
+      "Id": "46683561"
+    }
+  ]
+}

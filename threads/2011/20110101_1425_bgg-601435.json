@@ -1,0 +1,26 @@
+{
+  "ThreadId": "bgg-601435",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/601435/jalan-aajavs-ability",
+  "Title": "Jalan-Aajav's ability",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 1, 2011, 2:25:32\u202FPM",
+      "Body": "Hi\n\nJalan is in combat.\n\nSome agg damage are inflicted to him in a step (before range, via Domain of Evernight + Outside the Hourglass for instance). He uses his special ability to treat it as normal.\n(a) Later this round (in strike resolution of this round, for instance) , he gets inflicted some agg (Ivory Bow, ...). Does he still treat the agg as normal at this point of the round?\n(b) In strike resolution of the next round, he gets inflicted some agg dammage. Does he still treat these damage as normal?\n\nThanks (and a happy new year to you all :-) )\nPascal\n\n~~\n\nJalan-Aajav\nCardtype: \tVampire\nClan: \tGangrel antitribu\nGroup: \t3\nCapacity: \t9\nDiscipline: \tani CEL FOR POT PRO\nSabbat. Black Hand Seraph: Once each round, Jalan may burn 1 blood to treat aggravated damage as normal. He gets 1 optional press each combat.",
+      "Id": "6030829"
+    },
+    {
+      "Author": "TheLasombra",
+      "Date": "Jan 1, 2011, 9:05:54\u202FPM",
+      "Body": "a) No.\nb) No.\n\nJalan-Aajav's ability is not a permanent effect that lasts for an entire combat (or even the entire round).  When Jalan-Aajav is receiving aggravated damage, he can treat that damage as normal damage.  The effect ends immediately upon resolution of that damage.  The next time Jalan-Aajav takes aggravated damage that round, he will not be able to burn blood to treat it as normal and he will be wounded unless he prevents the damage.\n\nCompare to Skin of Night (@for) for the text required to do what you want in A.\n\nSkin of Night\nCombat\nFortitude\n[for] This vampire treats aggravated damage as normal damage for the remainder of this round.\n[FOR] As above, and prevent 1 damage.\n\nTo treat aggravated damage as normal for any longer than a round, the effect must specify it that way or be an action card that is permanently in play, like Armor of Terra or Heart of Darkness.",
+      "Id": "6032280"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 2, 2011, 1:25:42\u202FAM",
+      "Body": "a) Yes.\nb) No.\n\nCombat effects last for the duration of the round, by default.",
+      "Id": "6033143"
+    }
+  ]
+}

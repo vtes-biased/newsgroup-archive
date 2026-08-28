@@ -1,0 +1,62 @@
+{
+  "ThreadId": "bgg-627000",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/627000/damage-prevention-timing",
+  "Title": "damage prevention timing",
+  "Messages": [
+    {
+      "Author": "Talonz",
+      "Date": "Mar 5, 2011, 4:52:03\u202FPM",
+      "Body": "It almost never matters, but it did in our last game. What is the exact order for damage prevention 6.4.6?\n\nActing player has first opportunity, and there is a precedent set for players to pass and then play if the opponent plays in general (although this is hard to find and not very well explained when it comes to combat), but the strike phase is at least one exception to that, you cannot announce hands, and then play a different strike card in response to opponents strike...to my knowledge.\n\nSo damage prevention is somewhat unique in that regard...there is an outstanding effect to resolve (incoming damage) and 6.4.6 makes it clear that any damage he doesnt prevent is applied, but doesnt specify when exactly...does this mean he deals with and takes his damage (burns blood to heal) before the non-acting player altogether?  Or like other phases, can he somehow 'stall' his burning blood to heal damage to see what the nonacting player does with his damage, then retroactively deal with his damage?\n\nOr do we both 'set' how much damage we are preventing and then simultaneouslly remove blood to heal?\n\nThis only really matters when how much is being prevented by the opposing minion affects our next cardplay, ie: disarm.  I would imagine that in most cases, this is moot and can be glossed over.",
+      "Id": "6388688"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Mar 5, 2011, 6:11:51\u202FPM",
+      "Body": "I don't know why it wouldn't work the same as the standard timing rules:\n\nA strikes hands for 1\nB strikes hands for 1\nA declines to play any damage prevention effects\nB plays Soak\n\"Impulse\" passes back to A, A plays Soak.\n\nBut if B didn't play his damage prevention, A would no longer have an opportunity to prevent damage.",
+      "Id": "6388970"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Mar 5, 2011, 8:05:33\u202FPM",
+      "Body": "Correct.\n\nUSENET post with the same subject line (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/2adc8903408c4514)",
+      "Id": "6389337"
+    },
+    {
+      "Author": "salemchrist",
+      "Date": "Mar 6, 2011, 12:12:53\u202FAM",
+      "Body": "Just to help clarify, 'choose strike' and 'resolve strike' are separate steps. Not sure if the OP was clear on that. Joz's post shows that but doesn't spell it out. The amount of damage being done is set at the 'choose strike' phase, with that value being carried in to the 'resolve strike' phase to be handled (by damage prevention and/or healing).",
+      "Id": "6390082"
+    },
+    {
+      "Author": "Talonz",
+      "Date": "Mar 6, 2011, 5:32:15\u202FPM",
+      "Body": "I guess my difficulty is in that there is outstanding damage to be applied, and 6.4.6 implies very heavily that if one doesnt prevent all at their opportunity, the rest is applied as damage and blood is burnt to heal it.\n\nSo that phase is different from other phases in that regard, not to mention the strike phase is different as well.\n\nI found that usenet post but note that several times the question 'does koko have to prevent first' was answered with yes.\n\nSo anyways, standard default pass or play, weird, but fair enough.",
+      "Id": "6392317"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Mar 6, 2011, 6:55:10\u202FPM",
+      "Body": "> Talonz wrote:\n> I guess my difficulty is in that there is outstanding damage to be applied, and 6.4.6 implies very heavily that if one doesnt prevent all at their opportunity, the rest is applied as damage and blood is burnt to heal it.\n>\n> So that phase is different from other phases in that regard, not to mention the strike phase is different as well.\n\n> 6.4.6 wrote:\n> Damage resolution has two steps: prevent damage and heal damage.\n>\n> First, the minion taking damage can play damage prevention cards (such as the combat card Skin of Rock) if he is able to do so. These damage prevention cards are played one at a time until all the damage is prevented or until the minion chooses not to play any more.\nI can see how you might not infer that the standard Sequencing Rule applies; I think that if a new rulebook were to be designed at this point, the Sequencing Rule might be displayed more prominently, and the word \"impulse\" (or similar) might even enter the official vocabulary of the game.\n\nBut it all goes back to \"whenever multiple Methuselahs wish to play an effect, follow [1.6.1.5].\"\n\nI don't understand why you think that's different from other phases.\nIt's entirely consistent with how combat cards get played.  Acting minion plays as many effects as he wants, then someone else gets the opportunity to play one effect. Repeat until everybody passes.\n\nI'd say it's a language issue, but you're Canadian, eh? ;)\n\nStrike Declaration, on the other hand, does work a little bit differently; if it was all spelled out to be consistent, though, then it would be more like 2 phases: \"Strike Declaration Phase For Acting Minion\" and \"Strike Declaration Phase for Defending Minion\", in which the sequencing rules apply individually.\n\nAs you say, though, with damage prevention it rarely matters unless someone is trying to preserve damage prevention cards and still play a Disarm-like effect.",
+      "Id": "6392561"
+    },
+    {
+      "Author": "Talonz",
+      "Date": "Mar 7, 2011, 8:46:47\u202FPM",
+      "Body": "Well allow me to explain then how myself and probably others may apparently mistakenly interpret it;\n\n> 6.4.6. Damage Resolution\n> Damage resolution has two steps: prevent damage and heal damage.\n>\n> First, the minion taking damage can play damage prevention cards (such as the combat card Skin of Rock) if he is able to do so. These damage prevention cards are played one at a time until all the damage is prevented or until the minion chooses not to play any more.\n>\n> Any remaining damage (damage that was not prevented) is successfully inflicted. The damage is then healed (if the victim is a vampire) or causes a loss of life points (if the victim is an ally or retainer).\n>\n> For each point of damage inflicted on a vampire, he must burn one blood to heal the damage.\nBoth minions have taken damage.  6.4.6 says there are 2 steps (prevent/heal) but doesnt specefically say how and in what order you handle this when both minions can prevent.\n\nTake an example of 2minions with damage, and follow through the above quoted text...acting minion plays damage cards first, and declines or leaves some damage remaining.  As per above, remaining damage is successfully inflicted.  We havnt even healed yet, so we're still in the prevention stage. But does the acting minion conduct both prevent and heal steps before the nonacting minion prevents?  Its unclear.\n\nBut anyways, if the pass or play rule is applied, somehow the acting minion can change how much damage is inflicted by playing now?\n\nSee setting how mach damage or effects you will do later with prerange combat cards and the like isnt the same as preventing a damaging effect that has already ocurred.  IMO, once you have prevented and set the damage inflicted to X, you are done, take your X damage and be done with it.\n\nSo no, for various reasons I dont think the rules are clear at all, especially when the pass or play is so buried in an earlier part of the rulesbook unrelated to combat.\n\nI think the combat rules could do with a rewrite in regard to damage prevention with multiple minions, with an example and the steps clarified either way and the whole combat section could use a pass or play reference in the begining as well.",
+      "Id": "6398448"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Mar 7, 2011, 9:09:26\u202FPM",
+      "Body": "> Talonz wrote:\n> But anyways, if the pass or play rule is applied, somehow the acting minion can change how much damage is inflicted by playing now?\nYou can only Prevent damage that has been Successfully Inflicted, by definition.\n\nSo, yes, there are 2 separate checks for damage that is Successfully Inflicted; once before the Damage Prevention subphase, and once after the Damage Prevention subphase (which is all before the \"heal damage\" step).\n\nAnd things that check for Successfully Inflicted Damage at the end of the round (i.e. Disarm) only care about post-prevention successful damage.",
+      "Id": "6398604"
+    },
+    {
+      "Author": "Talonz",
+      "Date": "Mar 8, 2011, 7:48:28\u202FPM",
+      "Body": "You are confused.  Damage is not successfully inflicted until after damage prevention.  That term is only used then.",
+      "Id": "6404209"
+    }
+  ]
+}

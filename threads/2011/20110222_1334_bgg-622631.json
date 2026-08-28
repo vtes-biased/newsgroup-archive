@@ -1,0 +1,26 @@
+{
+  "ThreadId": "bgg-622631",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/622631/lsj-restructure-d-actions-and-cry-wolf",
+  "Title": "[LSJ] Restructure, D-actions and Cry Wolf",
+  "Messages": [
+    {
+      "Author": "CryWolf",
+      "Date": "Feb 22, 2011, 1:34:33\u202FPM",
+      "Body": "1) Dolphin Black (AUS DEM) is anarch and acting. Can she play Restructure at [dem] and target Cry Wolf controlled by her Methuselah? (Basically targeting your own minion with a D-action, thereby making it non-D)\n\n2) If yes, can the untap phase effects be ordered to prevent Cry Wolf from burning during untap?\n\nEx.\nTurn 1: Cry Wolf, with Restructure, rushes some minion. CW tapped.\nTurn 2: Untap all cards. Burn 1 pool to untap CW. CW does card text check. CW does not burn.\n\nRelevant texts:\n\nRestructure\nAction\n[dem] (D) Put this card on any ally. This ally does not untap as normal during his or her controller's untap phase. His or her controller can burn a pool during his or her untap phase to untap this ally.\n[DEM] (D) Take control of an ally controlled by another Methuselah.\n\nCry Wolf\nAlly\nUnique werewolf with 3 life. 2 strength, 0 bleed. Requires a ready anarch.\nIf the action to recruit this ally is blocked, the acting anarch goes to torpor. This werewolf must enter combat with any minion controlled by another Methuselah as a (D) action. He gets one optional press each combat. This werewolf does not untap as normal during your untap phase. If he is tapped during your untap phase, burn him.",
+      "Id": "6325506"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 22, 2011, 1:49:49\u202FPM",
+      "Body": "Should work. You can order your untap phase so that you use the Restructure's untap before checking if Cry Wolf is tapped.",
+      "Id": "6325558"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 22, 2011, 2:55:24\u202FPM",
+      "Body": "Correct. Note, though, that it is a bit more than making sure he's untapped \"when you check\", but rather making sure that he's untapped when you end the untap phase.\n\nThat is, the effect is \"burn him\" and it is conditional on \"if he is tapped\". You can't simply choose to mark his effect as handled at one point when he's untapped and then go on to tap him in the same untap phase. Rather, you simply do not apply the effect if he is untapped. But if he's tapped, then you can't end your untap phase without either untapping (and ending the phase with him untapped) or burning him.",
+      "Id": "6325845"
+    }
+  ]
+}

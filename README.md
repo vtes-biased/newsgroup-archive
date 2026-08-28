@@ -9,7 +9,7 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,330 threads, 175,947
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,384 threads, 176,226
 messages, 1994 to today. Three sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
@@ -24,13 +24,14 @@ of the game's rules directors took part.
   rests on returns a 404 today, and survives only because the Wayback Machine
   kept it. Two topics are here for the other reason: a ruling cites them, even
   though neither director posted in them.
-- **BoardGameGeek**, 2011: the 3 threads four rulings cite, where L. Scott
-  Johnson answered rules questions in the game's Rules forum while the move to
-  the V:EKN forum was still settling. Here the rule above is not what was
-  applied: BoardGameGeek will not list a forum's threads without an API key, so
-  whether he answered in others cannot be checked, and these are the ones a
-  ruling asked for. Nobody has asked a rules question there since, so the
-  source is closed either way — copied once, and it will not grow.
+- **BoardGameGeek**, 2009 to 2025: 57 threads, every one in the game's Rules
+  forum there that L. Scott Johnson took part in. As Usenet wound down he
+  answered questions on this third site instead, and his last ruling as rules
+  director was posted there, on 11 June 2011; four rulings cite it and its
+  neighbours. A month later the seat passed to Pascal Bertrand and the rulings
+  moved to the V:EKN forum, so nothing here from after that is a director's
+  answer — 45 of the 57 threads are from his tenure, and the other 12 are kept
+  for completeness, not for citation.
 
 A thread from anywhere but the newsgroup carries a `Group` saying where it came
 from. `import_mbox.py`, `import_forum.py`, `sync_forum.py` and `import_bgg.py` are
@@ -122,7 +123,7 @@ stay short.
 
 Whole, the index is 17 MB (6.5 MB over the wire), which is more than a phone
 should have to fetch to search at all. Split this way, a query downloads only
-the files its words fall in: a few KB for most of them, 213 KB for `co.txt`,
+the files its words fall in: a few KB for most of them, 214 KB for `co.txt`,
 the worst of the 1,332. Words are matched by prefix, which a sorted file gives
 for nothing — the matches are consecutive lines. A prefix that starts more than
 ten words is cut to the ten commonest, because `ra` starts 906 of them and
@@ -158,14 +159,18 @@ them the archive still has not got.
 ## The BoardGameGeek threads
 
 ```sh
-python3 import_bgg.py 609699 648695 662413
+python3 import_bgg.py $(cat bgg-threads.txt)   # all 57, fetched whole
+python3 import_bgg.py 662413                   # or any one of them
 ```
 
-All three are already imported; this is here for the record. BoardGameGeek's
-public XML API wants a key now and its HTML sits behind a bot check, but the
-JSON its own pages read is open — `api.geekdo.com/api/threads/<id>` for the
-subject, `/api/articles?threadid=<id>` for the posts. There is no sync script
-because there is nothing to sync: the source is closed.
+Threads are named, not discovered, and re-running a number rewrites the thread
+with whatever has been added to it since. There is no sync script because there
+is nothing to enumerate: BoardGameGeek's public XML API wants a key now and its
+HTML sits behind a bot check, so `bgg-threads.txt` came from an advanced search
+run on the site itself, for the threads L. Scott Johnson posted in. What is
+open is the JSON BoardGameGeek's own pages read, and that is what the importer
+uses — `api.geekdo.com/api/threads/<id>` for the subject,
+`/api/articles?threadid=<id>` for the posts.
 
 ## Provenance and rights
 

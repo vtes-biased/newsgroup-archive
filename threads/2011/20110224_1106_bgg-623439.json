@@ -1,0 +1,44 @@
+{
+  "ThreadId": "bgg-623439",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/623439/byzar-mask-of-1000-faces-path-of-the-void-nightmar",
+  "Title": "byzar _ mask of 1000 faces _ path of the void _ nightmare curse _ domain of evernight __ various questions.",
+  "Messages": [
+    {
+      "Author": "stasis_",
+      "Date": "Feb 24, 2011, 11:06:17\u202FAM",
+      "Body": "hi, i have some more questions that have been coming back over time in our games-\n\nA. byzar is in torpor without any burn-counters on him. he gets diablerized or someone plays vulnerability on him. does he stay in torpor with a burn-counter on him or is he removed from play altogether since he's already in torpor and can therefore no longer be moved there?\n\nB. path of the void on an infernal minion. can i still untap my infernal minion by paying just 1 pool during my untap phase, without discarding any master card during my untap?\n\nC. vampire 'a' plays legal manipulations. vampire 'b' plays mask of 1000 faces and takes over. 'b' has superior presence - can he play legal manipulations at superior or not?\n\nD. can 'nightmare curse' or 'deep song' be played on a vampire that is already tapped?\n\nE. domain of evernight. can i still play this at inferior once an opposing vampire has blocked? or can the blocking minion then decide to not block?\n\n-thanks!",
+      "Id": "6337070"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 24, 2011, 11:54:38\u202FAM",
+      "Body": "> stasis_ wrote:\n> hi, i have some more questions that have been coming back over time in our games-\n>\n> A. byzar is in torpor without any burn-counters on him. he gets diablerized or someone plays vulnerability on him. does he stay in torpor with a burn-counter on him or is he removed from play altogether since he's already in torpor and can therefore no longer be moved there?\nHe gets a counter and goes to (remains in) torpor.\n\n> B. path of the void on an infernal minion. can i still untap my infernal minion by paying just 1 pool during my untap phase, without discarding any master card during my untap?\nYes. Well, handle the Void first and then pay the pool to untap the infernal. If you untap him first, you still have to handle the Void.\n\n> C. vampire 'a' plays legal manipulations. vampire 'b' plays mask of 1000 faces and takes over. 'b' has superior presence - can he play legal manipulations at superior or not?\nNot. Legal Manipulations is an action. You can't play action cards during an action.\n\n> D. can 'nightmare curse' or 'deep song' be played on a vampire that is already tapped?\nYes. You can apply a \"tap that\" effect to a thing that is already tapped.\n\n> E. domain of evernight. can i still play this at inferior once an opposing vampire has blocked? or can the blocking minion then decide to not block?\nNot once the block is successful, but yes, you can play it even when a minion is attempting to block. No, the minion cannot spontaneously stop the block attempt.",
+      "Id": "6337196"
+    },
+    {
+      "Author": "stasis_",
+      "Date": "Feb 24, 2011, 12:04:01\u202FPM",
+      "Body": "thanks a lot!",
+      "Id": "6337229"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Feb 24, 2011, 1:03:46\u202FPM",
+      "Body": "> Rulemonger wrote:\n>\n> > C. vampire 'a' plays legal manipulations. vampire 'b' plays mask of 1000 faces and takes over. 'b' has superior presence - can he play legal manipulations at superior or not?\n> Not. Legal Manipulations is an action. You can't play action cards during an action.\nI'm not sure that's what stasis_ meant, Scott.\n\nIf the action is \"Legal Manipulations at Superior\", then a vampire must have superior presence in order to play Mask of 1000 Faces to pick up the action, and the action continues to be at superior.",
+      "Id": "6337428"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 24, 2011, 1:40:54\u202FPM",
+      "Body": "> jozxyqk wrote:\n>\n> > Rulemonger wrote:\n> >\n> > > C. vampire 'a' plays legal manipulations. vampire 'b' plays mask of 1000 faces and takes over. 'b' has superior presence - can he play legal manipulations at superior or not?\n> > Not. Legal Manipulations is an action. You can't play action cards during an action.\n> I'm not sure that's what stasis_ meant, Scott.\n>\n> If the action is \"Legal Manipulations at Superior\", then a vampire must have superior presence in order to play Mask of 1000 Faces to pick up the action, and the action continues to be at superior.\nAh, yes. Perhaps he did mean that 'a' has only one level of Presence and wanted to know if 'b' could convert the already-played Legal Manipulations to superior. He cannot.\n\nAnd, as you note, if 'a' played LM at superior, then 'b' would have to have superior Presence in order to Mask the action at all.",
+      "Id": "6337617"
+    },
+    {
+      "Author": "stasis_",
+      "Date": "Mar 1, 2011, 12:08:36\u202FAM",
+      "Body": "Jozxyqk was right - that was what i meant ('upgrading' the legal manipulation to superior via mask of 100 faces). thanks again for your swift answers!",
+      "Id": "6361097"
+    }
+  ]
+}

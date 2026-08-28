@@ -1,0 +1,50 @@
+{
+  "ThreadId": "bgg-642102",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/642102/lutz-von-hohenzollern-and-poision-pill",
+  "Title": "Lutz von Hohenzollern and poision pill",
+  "Messages": [
+    {
+      "Author": "drnlmza",
+      "Date": "Apr 14, 2011, 10:49:13\u202FAM",
+      "Body": "This came up in a recent discussion about Lutz's special, and we're not sure how it all works.\n\nSetup, 4 players\n\nPlayer A, controlling Lutz, 3 pool\nPlayer B, 3 pool\nPlayer C, 1 pool\nPlayer D, some pool\n\nLutz calls a Kine, assigning 3 pool to player B, and 1 pool to player D, as, via http://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/f99df8aae264771f) , this will oust both players B & C (from Lutz's text).\n\nPlayer B plays a poison pill, and then the vote passes.\n\nClearly B is ousted.\n\nFrom the P.S note in http://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/ad26a254f31ba6f6) , I believe Player A is ousted at the same time, since the pool loss from poison pill resolves at the same time as the loss from the Kine, so player A gains a VP and player D gains 6 pool and a VP.\n\nWhat we're unclear on is whether Player C burns a pool for Lutz's text or not, giving D a second VP. Lutz sets up an effect which will be resolved even if he's no longer in the game at that point, but, as far as I can see, Player C was never Player A's prey, so I guess the effect is \"Player B burns 1 pool\", which is moot as Player B is ousted anyway.\n\nRelevant texts:\n\nLutz von Hohenzollern\nCamarilla Malkavian Inner Circle:\nWhile Lutz is ready, your prey burns a pool each time the referendum of a political action passes. +2 bleed.\n\nPoison Pill\nOnly usable during a referendum, before votes are cast.\nIf the referendum passes and the effect of the referendum causes you to lose pool, the controller of the acting vampire loses the same amount of pool (in addition to the effects of the referendum).",
+      "Id": "6608517"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 14, 2011, 12:01:20\u202FPM",
+      "Body": "> drnlmza wrote:\n> What we're unclear on is whether Player C burns a pool for Lutz's text or not, giving D a second VP. Lutz sets up an effect which will be resolved even if he's no longer in the game at that point, but, as far as I can see, Player C was never Player A's prey, so I guess the effect is \"Player B burns 1 pool\", which is moot as Player B is ousted anyway.\nThis first linked article indicates that C, not B, would burn a pool.",
+      "Id": "6608714"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Apr 14, 2011, 2:43:40\u202FPM",
+      "Body": "> Rulemonger wrote:\n> This first linked article indicates that C, not B, would burn a pool.\nUnfortunately, this still leaves me confused.\n\nIs it correct that A & B are ousted at the same time due to the effects of poison pill?\n\nIf so, when does player C become player A's prey for the purposes of Lutz's text?",
+      "Id": "6609508"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 14, 2011, 3:30:43\u202FPM",
+      "Body": "C is the prey (i.e., next to the left) of the player position referred to by \"you\" in Lutz's text.\n\nJust like in the second link, where the \"you\" is also ousted (and therefore none of the players is \"you\"'s actual prey -- e.g., \"you\" don't get the VP for ousting \"you\"'d prey by Lutz's effect, as per one of the follow-up replies in that second thread).",
+      "Id": "6609795"
+    },
+    {
+      "Author": "hodgestar",
+      "Date": "Apr 14, 2011, 4:08:18\u202FPM",
+      "Body": "As a judge who was recently called to rule on this, I'm a little unhappy with having to explain the current ruling to players. The core of the issue to me is that I'm unable to answer when the prey referred to in Lutz' text is selected. If it's before the effects of the vote in the example then it's clearly B. If it's after the effects then, um, who is the prey of someone who has been ousted?\n\nWould it not be easier for everyone to change the current ruling to simply state that Lutz' effect is triggered and resolved after the effects of the referendum itself have been dealt with?",
+      "Id": "6610073"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 14, 2011, 5:32:28\u202FPM",
+      "Body": "> hodgestar wrote:\n> As a judge who was recently called to rule on this, I'm a little unhappy with having to explain the current ruling to players. The core of the issue to me is that I'm unable to answer when the prey referred to in Lutz' text is selected.\nIt's selected after resolution. (first link)\n\n> If it's after the effects then, um, who is the prey of someone who has been ousted?\nThe natural candidate (second link).\n\n> Would it not be easier for everyone to change the current ruling to simply state that Lutz' effect is triggered and resolved after the effects of the referendum itself have been dealt with?\nSure. I had some such errata tagged to be part of the next printing of Lutz. But that next printing looks quite a ways off now, and it's not clear if I'll be involved in it even if it does happen.",
+      "Id": "6610644"
+    },
+    {
+      "Author": "CryWolf",
+      "Date": "Apr 15, 2011, 7:03:46\u202FAM",
+      "Body": "> Rulemonger wrote:\n> Sure. I had some such errata tagged to be part of the next printing of Lutz. But that next printing looks quite a ways off now, and it's not clear if I'll be involved in it even if it does happen.\nJust curious. Given that the VEKN is one of the few entities whom VTES players recognize as \"official\" (another being you, LSJ), would the VEKN be able to acquire these unreleased errata for consideration in the game's future?\n\nDISCLAIMER: I am not any officer of the VEKN; just a player who is hopeful about the future of the game.",
+      "Id": "6614082"
+    }
+  ]
+}

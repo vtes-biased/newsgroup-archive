@@ -1,0 +1,50 @@
+{
+  "ThreadId": "bgg-658778",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/658778/arianne-vs-immortal-grapple",
+  "Title": "Arianne vs Immortal Grapple",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 31, 2011, 11:29:27\u202FAM",
+      "Body": "Hello,\n\nI recently re-read the rulebook, and the rulings, and found this:\n\n> [url=http://vekn.net/index.php/all-rulings/general-rulings wrote:\n> Rulemonger[/url]\"]Hand Strike: any non-ranged, non-weapon strike that deals damage based on the striking minion's strength, or any minion's non-ranged damage-dealing innate strike. [LSJ 19970224] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/cfa8f28c0e99e340)\nThe rulebook doesn't define Strike: Combat ends (nor Dodge) as \"ranged\" strikes:\n\n> [url=http://vekn.net/index.php/rulebook wrote:\n> Rulebook[/url]\"]6.4.3 Strike\n> [...]\n> Resolve Strike. The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range. Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range. Ranged strikes and strikes that do \"R\" damage can be used at any range, close or long.\nThis brings us to two questions:\n\na/ Arianne is in combat with someone. The second round is at long range. Arianne uses her innate strike. Does the opponent take damage after combat?\nb/ Arianne is in combat with someone. The second round is at close range, and Immortal Grapple is played. Can Arianne use her built-in damage-dealing strike?\n\nThanks,\nPascal\n\n~~\n\nArianne, The Conqueror\nCardtype: Vampire\nClan: Toreador antitribu\nGroup: 5\nCapacity: 7\nDiscipline: aus CEL DOM PRE\nSabbat: On any round after the first, Arianne may strike to end combat and inflict 1 damage on the opposing minion after combat ends.\n\nImmortal Grapple\nCardtype: Combat\nDiscipline: Potence\nOnly usable at close range before strikes are chosen. Grapple.\n[pot] Strikes that are not hand strikes may not be used this round (by either combatant). A vampire may play only one Immortal Grapple each round.\n[POT] As above, with an optional press. If another round of combat occurs, that round is at close range; skip the determine range step for that round.",
+      "Id": "6854039"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 31, 2011, 12:37:47\u202FPM",
+      "Body": "And there's a pending couple of question:\n\nc1/ If Arianne gets protean, and uses her innate strike on the second range, would playing Claws of the Dead make R\u00F6tschreck playable?\nc2/ If Arianne gets protean, and uses her innate strike on the second range, would playing Claws of the Dead have the opposing minion suffer 1 agg damage after combat has ended?\n\nThanks :)\n\n~~\n\nClaws of the Dead\nCardtype: Combat\nCost: 1 blood\nDiscipline: Protean\n[pro] For the remainder of this round, damage from this vampire's hand strikes is aggravated.\n[PRO] Maneuver.\n\nR\u00F6tschreck\nCardtype: Master\nMaster: out-of-turn. Frenzy.\nPut this card on a vampire when an opposing minion attempts to inflict aggravated damage on him or her, whether the damage would be successfully inflicted or not. Combat ends. This vampire is tapped and sent to torpor. This vampire does not untap as normal. During this vampire's next untap phase, burn this card.",
+      "Id": "6854293"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 31, 2011, 1:08:49\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> Hello,\n>\n> I recently re-read the rulebook, and the rulings, and found this:\n>\n> > [url=http://vekn.net/index.php/all-rulings/general-rulings wrote:\n> > Rulemonger[/url]\"]Hand Strike: any non-ranged, non-weapon strike that deals damage based on the striking minion's strength, or any minion's non-ranged damage-dealing innate strike. [LSJ 19970224] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/cfa8f28c0e99e340)\n>\nThere is no longer any need for a descriptive criteria-based definition of a hand strike. All strikes that are hand strikes explicitly say so, removing the necessity of referencing some external definition.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/fc175ceb296d8d31)\n\n> The rulebook doesn't define Strike: Combat ends (nor Dodge) as \"ranged\" strikes:\n>\n> > [url=http://vekn.net/index.php/rulebook wrote:\n> > Rulebook[/url]\"]6.4.3 Strike\n> > [...]\n> > Resolve Strike. The effects of the strikes from both minions are resolved simultaneously. Most strikes are effective only at close range. Unless the strike is identified as ranged or does \"R\" damage (or is a defensive strike such as dodge or combat ends), it is only effective at close range. Ranged strikes and strikes that do \"R\" damage can be used at any range, close or long.\n> This brings us to two questions:\n>\n> a/ Arianne is in combat with someone. The second round is at long range. Arianne uses her innate strike. Does the opponent take damage after combat?\nRestating the crux of the question: is Arianne's innate strike's damage inflicted when the range was long?\n\nYes, since range is irrelevant at that point (after combat has ended).\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/23a5ed6a312ec148)\n\n> b/ Arianne is in combat with someone. The second round is at close range, and Immortal Grapple is played. Can Arianne use her built-in damage-dealing strike?\nNo. IG permits only hand strikes.",
+      "Id": "6854427"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 31, 2011, 1:13:50\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> And there's a pending couple of question:\n>\n> c1/ If Arianne gets protean, and uses her innate strike on the second range, would playing Claws of the Dead make R\u00F6tschreck playable?\n> c2/ If Arianne gets protean, and uses her innate strike on the second range, would playing Claws of the Dead have the opposing minion suffer 1 agg damage after combat has ended?\n>\n> Thanks :)\nYou do realize that even under the \"definition of a hand strike\" paradigm, Arianne's strike would fail to be a hand strike, because the amount of damage it does isn't based on Arianna's strength, right?\n\n(More directly now, Arianne's strike doesn't say \"hand strike\", so it isn't a hand strike.)",
+      "Id": "6854446"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 31, 2011, 1:18:14\u202FPM",
+      "Body": "Well, the whole idea was to base the reading of \"hand strike\" on the second part of the definition:\nHand Strike: [something], or any minion's non-ranged damage-dealing innate strike.\nThis definition doesn't involve strength.\n\nArianne's SCE+inflict 1 damage doesn't have the \"ranged\"/\"R\" keyword, is damage-dealing, and is innate.\n\nIt seems to fulfill the requirements for being a handstrike (per the definition above). You say it isn't, I ask: what makes it a non-hand strike?\n\nIs it that the definition doesn't apply anymore?",
+      "Id": "6854458"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 31, 2011, 3:47:22\u202FPM",
+      "Body": "Yes, I say, as per above and the Google article linked above, that the definition of a hand strike is \"any strike that says it is a hand strike, including strikes with text like 'strike: make a hand strike'\". No more, no less.",
+      "Id": "6855261"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 31, 2011, 3:54:51\u202FPM",
+      "Body": "Ok thanks :)\nThe fact that the newsgroup post had been made after SoC release had me. I'll try to get that incorrect definition removed.",
+      "Id": "6855293"
+    }
+  ]
+}

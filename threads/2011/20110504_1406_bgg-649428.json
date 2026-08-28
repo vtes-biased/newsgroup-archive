@@ -1,0 +1,62 @@
+{
+  "ThreadId": "bgg-649428",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/649428/questions-about-the-as-played-window",
+  "Title": "Questions about the \"as played\" window",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 4, 2011, 2:06:54\u202FPM",
+      "Body": "Hello,\n\nSuppose my vampire is in combat. The opponent plays Immortal Grapple (or any other discipline card).\nI have 1 Botched Move and 1 Direct Intervention in my hand.\n\nCan I play Botched Move, wait for it to resolve, and, if it doesn't cancel the discipline card, play Direct Intervention after that?\n\nIt seems to be allowed by [LSJ 20100710] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/a43954e0e0511005), unless the sequencing rule doesn't apply to the \"as played\" window.\n\nI guess that, if I can, I don't replace my Botched Move (which give me headaches regarding the Victor question (http://boardgamegeek.com/thread/644398/victor-donaldsons-ability)(*)) before playing the DI.\n\nThanks,\nPascal\n\n((*):  just thought of that: canceled cards might be moved to the ash heap as they are canceled, whereas regular cards would be moved to the ash heap after their resolution..)\n\n~~\n\nBotched Move\nCardtype: Combat\nOnly usable as the opposing minion plays a card that requires a Discipline.\nThe opposing minion's controller reveals the top two cards of his or her library (before drawing to replace). If another copy of the same combat card is revealed, the played card is canceled (cost is still paid), the opposing minion takes 1 unpreventable damage, and all revealed copies are burned. A minion may play only one Botched Move each combat.\n\nDirect Intervention\nCardtype: Master\nCost: 1 pool\nMaster: out-of-turn.\nCancel a minion card as it is played. No cost is paid. (If it was an action card, the acting minion doesn't tap. If it was a strike card, the minion chooses another strike.)",
+      "Id": "6712333"
+    },
+    {
+      "Author": "hskrfn822",
+      "Date": "May 4, 2011, 3:11:01\u202FPM",
+      "Body": "I'm pretty sure you have the opportunity to play anything you can to try and cancel the card before it resolves, including taking a second crack at it with a different card.  Obviously, this is subject to a card's text taking precedence over the rules of the game, but no particular card comes to mind that fits that description.",
+      "Id": "6712759"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 4, 2011, 3:30:47\u202FPM",
+      "Body": "The linked article answers your question explicitly.\n\n?",
+      "Id": "6712898"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 4, 2011, 4:02:11\u202FPM",
+      "Body": "In that link, I asked about when do players get their first opportunity to play a card-canceler, given that there hasn't been any played so far.\n\nI am now considering the case when one card canceler (Botched Move) has been played and resolved, and am wondering whether (and in which order) players get the possibility to play a second card-canceler.\n\nOne other thing that could also matter is whether I replace the Botched Move before getting the opportunity to play Direct Intervention.",
+      "Id": "6713136"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 4, 2011, 4:25:22\u202FPM",
+      "Body": "Standard sequencing rules apply. Things that are played in the same window can be ordered however the player likes.",
+      "Id": "6713268"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 5, 2011, 1:40:18\u202FPM",
+      "Body": "OK, let me check I got that completely:\n\na/ opponent plays Immortal Grapple, announces level used.\nb/ As IG is played, I play Botched Move, which no-one cancels.\nc/ Botched Move resolves, and doesn't cancel IG.\nd/ I replace Botched Move.\ne/ I play Direct Intervention, which no-one cancels.\nf/ Direct Intervention is paid and resolves - IG is now \"canceled\".\nh/ Replace Immortal Grapple and Direct Intervention (simultaneously).\n\nDo you confirm that Botched Move is replaced in d/ and not in h/ ?\nI'm also not sure when these cards (IG, BM, DI) enter the ash heap. Is it before h/, after h/, in window h/ (matters for this Donaldson thing) ?\n\nThanks,\nPascal",
+      "Id": "6718753"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 5, 2011, 2:42:51\u202FPM",
+      "Body": "No cards are replaced in the \"as played\" window.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/9dd132ad213fcfb0)\n\nWhat's the question with Donaldson?",
+      "Id": "6719087"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "May 5, 2011, 3:28:40\u202FPM",
+      "Body": "http://boardgamegeek.com/thread/644398/victor-donaldsons-abi... (http://boardgamegeek.com/thread/644398/victor-donaldsons-ability)\n\nIs it\na/ Play Golconda\nb/ Golconda gets canceled\nc/ Replace Golconda\nd/ Activate Victor's ability\n\nor is it\na/ Play Golconda\nb/ Golconda gets canceled\nc/ Activate Victor's ability\nd/ Replace Golconda\n\nor is it\na/ Play Golconda\nb/ Golconda gets canceled\nc/ Activate Victor's ability, replace golconda (same window)\n\n?",
+      "Id": "6719417"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "May 5, 2011, 5:50:37\u202FPM",
+      "Body": "The first one. Draw to replace before using Donaldson's ability (or any other non-as-played effect).",
+      "Id": "6720256"
+    }
+  ]
+}

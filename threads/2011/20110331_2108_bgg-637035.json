@@ -1,0 +1,32 @@
+{
+  "ThreadId": "bgg-637035",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/637035/mask-plus-cost-reducers-for-action-cards",
+  "Title": "Mask + cost reducers for action cards",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Mar 31, 2011, 9:08:01\u202FPM",
+      "Body": "Hi,\n\nSuppose a Ravnos with N blood plays a Sensory Deprivation (chimestry card, costs 3 blood) while a Path of Paradox is in play.\n\nA/ N = 2. Can a non-Ravnos vampire with 3 blood Mask the action?\nB/ N = 3. Can a non-Ravnos vampire with 3 blood Mask the action?\n\nI think A is \"No\", since the cost-reducing effect of the Path has to be used to be able to play the card, whereas; in case B, it isn't used before resolution.\n\n===\n\nSimilarly, suppose A has N blood and an Ankara Citadel.\nA attempts an action with cost C : N < C",
+      "Id": "6531688"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Mar 31, 2011, 9:24:23\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> Suppose a Ravnos with N blood plays a Sensory Deprivation (chimestry card, costs 3 blood) while a Path of Paradox is in play.\n>\n> A/ N = 2. Can a non-Ravnos vampire with 3 blood Mask the action?\n> B/ N = 3. Can a non-Ravnos vampire with 3 blood Mask the action?\n>\n> I think A is \"No\", since the cost-reducing effect of the Path has to be used to be able to play the card, whereas; in case B, it isn't used before resolution.\nThere is no cost-based conditional on the Path.\nThe answer must be the same for both A and B.\n\nFor example, a Ravnos with 2 blood could Mask it in both cases.\n\n(And, naturally, the answer is No, since to answer otherwise means the Path has not been applied and the Ravnos cannot attempt the action in csae A.)\n\n> Similarly, suppose A has N blood and an Ankara Citadel.\n> A attempts an action with cost C : N < C\nOK.\nAnkara similarly lacks a cost-based conditional.",
+      "Id": "6531783"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Apr 1, 2011, 7:37:25\u202FAM",
+      "Body": "Weird, my initial message seems to have been trunkated..\nThe full Ankara question was, for the record:\n\nA has N blood, the card costs C, N < C < = 2N+1.   (nota: \"lesser or equal\" requires a space between \"lesser\" and \"equal\".. otherwise, the message gets trunkated)\nCan B with less C blood mask the action?\nCan B with C or more blood mask the action?\n\nYour previous answer to these is No.\n\nRegarding the Path / Ankara Citadel, here's another question:\no Suppose a Ravnos plays a Chemistry card that has a printed cost of 0 blood, and there is a Path of Paradox in play, can a non-Ravnos mask the action?\n\nExtra question, this time with the trickier Ravnos Carnival:\n\nSuppose there is a Ravnos and a non-Ravnos in play. The Ravnos Carnivale has 2 counters.\nThe Ravnos plays an Embrace (costs 2 blood).\n\no Suppose the Ravnos has 1 blood. Can the non-Ravnos Mask the action?\no Suppose the Ravnos has 2 blood. Can the non-Ravnos Mask the action?\n\nThanks,\nPascal\n\n~~\n\nRavnos Carnival\nCardtype: Master\nClan: Ravnos\nCost: 1 pool\nMaster: unique location.\nPut X currency counters on this card when you play it, where X is the number of Ravnos you control. When a Ravnos you control performs an action, you may use these currency counters toward the cost in blood (but not pool) of the action card. Burn this card when the last counter is removed.\n\nThe Ankara Citadel, Turkey\nCardtype: Equipment\nClan: Tremere\nCost: 2 blood\nThis equipment card represents a unique location and does not count as equipment while in play.\nThe vampire with this location pays only half of the blood cost for any cards he or she plays (round down).\n\nThe Path of Paradox\nCardtype: Master\nClan: Ravnos\nCost: 1 pool\nUnique master.\nPut this card in play. Cards that require Chimerstry [chi] {cost Ravnos 1 less blood}. Any minion may burn this card as a (D) action; if that minion is a vampire, he or she takes 1 unpreventable damage when this card is burned.\n\nMask of a Thousand Faces\nCardtype: Action Modifier\nDiscipline: Obfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Untap the acting minion and tap this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.",
+      "Id": "6534059"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 1, 2011, 11:56:45\u202FAM",
+      "Body": "> floppyzedolfin wrote:\n> Weird, my initial message seems to have been trunkated..\n> The full Ankara question was, for the record:\n>\n> A has N blood, the card costs C, N < C < = 2N+1.   (nota: \"lesser or equal\" requires a space between \"lesser\" and \"equal\".. otherwise, the message gets trunkated)\n> Can B with less C blood mask the action?\n> Can B with C or more blood mask the action?\n>\n> Your previous answer to these is No.\n>\n> Regarding the Path / Ankara Citadel, here's another question:\n> o Suppose a Ravnos plays a Chemistry card that has a printed cost of 0 blood, and there is a Path of Paradox in play, can a non-Ravnos mask the action?\nThat seems to be answered above.\nThe effect is not conditional on the cost of the action.\n\n> Extra question, this time with the trickier Ravnos Carnival:\n>\n> Suppose there is a Ravnos and a non-Ravnos in play. The Ravnos Carnivale has 2 counters.\n> The Ravnos plays an Embrace (costs 2 blood).\n>\n> o Suppose the Ravnos has 1 blood. Can the non-Ravnos Mask the action?\n> o Suppose the Ravnos has 2 blood. Can the non-Ravnos Mask the action?\n>\n> Thanks,\n> Pascal\nNow you're getting hip-deep in one of my contentions with the current rulings.\n\nSomething has to have been applied in order to take the action in the 1-blood case, even though the card is worded as being applied later.",
+      "Id": "6534677"
+    }
+  ]
+}

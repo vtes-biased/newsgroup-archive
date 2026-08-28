@@ -1,0 +1,44 @@
+{
+  "ThreadId": "bgg-603529",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/603529/timing-of-mind-rape-lsj",
+  "Title": "Timing of Mind Rape-LSJ",
+  "Messages": [
+    {
+      "Author": "TangledWeb",
+      "Date": "Jan 6, 2011, 8:51:30\u202FAM",
+      "Body": "Can you burn mind rape to take control of the vampire at any time during your next minion phase?\n\nMind Rape\n\n/--/\n\n[DOM] (D) Put this card on a younger vampire, and tap that vampire. The vampire with this card does not untap as normal during his or her controller`s untap phase. During the acting vampire`s controller`s next minion phase, he or she must burn this card to untap the vampire and take control of the vampire until the end of his or her turn.",
+      "Id": "6056662"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 6, 2011, 10:05:00\u202FAM",
+      "Body": "Well, yeah, you can burn the Mind Rape at any time during your next minion phase. \"During\" means \"at any point during\".\nYou can order it with other stuff in your minion phase:\n\nCan burn it before taking mandatory actions, or when all your vampires are tapped, or between two actions, or during a block attempt, or during combat, ...",
+      "Id": "6056848"
+    },
+    {
+      "Author": "salemchrist",
+      "Date": "Jan 6, 2011, 12:47:12\u202FPM",
+      "Body": "If you get towards the end of your minion phase and declare 'no more actions' and then burn a mind rape to steal an empty vampire (or one with other compulsory actions), does it have to act, or can it be 'past acting' and just sit there untapped until the end of your turn? I vaguely recall something about this sort of thing being discussed on the newsgroup at some point. Maybe with spirit marionettes and enkil cog...",
+      "Id": "6057249"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 6, 2011, 12:56:03\u202FPM",
+      "Body": "> salemchrist wrote:\n> If you get towards the end of your minion phase and declare 'no more actions' and then burn a mind rape to steal an empty vampire (or one with other compulsory actions), does it have to act, or can it be 'past acting' and just sit there untapped until the end of your turn? I vaguely recall something about this sort of thing being discussed on the newsgroup at some point. Maybe with spirit marionettes and enkil cog...\nThere is no \"past acting\" stage.",
+      "Id": "6057292"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Jan 6, 2011, 12:58:40\u202FPM",
+      "Body": "> salemchrist wrote:\n> If you get towards the end of your minion phase and declare 'no more actions' and then burn a mind rape to steal an empty vampire (or one with other compulsory actions), does it have to act, or can it be 'past acting' and just sit there untapped until the end of your turn? I vaguely recall something about this sort of thing being discussed on the newsgroup at some point. Maybe with spirit marionettes and enkil cog...\nIf you have a ready minion with a mandatory action (that he can legally take) during your minion phase, that minion must take the action.\n\"Declaring 'no more actions'\" isn't really a thing.  You can only 'pass the impulse' to other Methuselahs, but that doesn't get you out of doing mandatory things.\n\nA simpler example would be:\nI am \"done with my actions\".\nA Malkavian, via the Madness Network, enters combat with my untapped vampire with blood, reducing that vampire to zero blood.\nThat vampire still must hunt before I complete my minion phase.",
+      "Id": "6057308"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Jan 6, 2011, 1:06:18\u202FPM",
+      "Body": "Incidentally, the same reasoning is why Tupdog's text had to be updated so it didn't autoburn until \"after the end of the minion phase\".\n\nThe convoluted example:\n\n> With Tupdog's old card text wrote:\n> I have a Tupdog with a skillcard and a Soul Gem.\n> \"At the end of my minion phase\", the Tupdog auto-burns, and I draw a new Tupdog, who goes to my ready region.\n> I tap Heidelberg Castle to suck his blood off.\n> Since it is still my minion phase, does he have to hunt? Does he auto-burn again? Or what?\nWith Tupdog's updated card text, all such ambiguity is removed, and the card works as intended.",
+      "Id": "6057338"
+    }
+  ]
+}

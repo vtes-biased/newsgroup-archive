@@ -1,0 +1,92 @@
+{
+  "ThreadId": "bgg-620276",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/620276/undead-persistence-vs-psyche",
+  "Title": "Undead Persistence vs Psyche!",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 16, 2011, 3:53:53\u202FPM",
+      "Body": "Yes, this is an old one.\nI'm trying to understand what exactly happens between the two combats.\n\nHere's the original discussion:\n\n> [url=http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/bcc9e6babcd7b1d8 wrote:\n> Rulemonger[/url]\"]> How about playing a Psyche when combat is ending due to agg damage?\n>\n> No. Psyche! requires both minions to be ready.\n> Combat is ending \"due to agg damage\" means that one of the combatants\n> is no longer ready (which is how agg damage ends combat).\n> > or a UP and a Psyche at superior?\n>\n> Yes. The UP'ed vampire will not fall into torpor from UP's effect\n> until after the Psyche! combat. But, and I'd overlooked this before,\n> the Psyche! combat ends as soon as it begins, since the formerly-UPed\n> vampire is no longer being propped up by the UP. Since he's no longer\n> ready, combat ends (unless he plays another UP for this new combat,\n> of course).\nHere is the situation:\nA (acting) and B (blocking) are in combat. In that combat, B should be wounded due to a 1agg strike (let's not consider Rowan Ring / Stake, so far). B plays Undead Persistence. B is still wounded, and should go to torpor (per the rules), but UP prevents that.\nThen, combat ends. A plays sup' Psyche!\n\nWe are now before the combat Psyche! would generate. In this step, B could play Wakes, Obedience ([LSJ 19991025] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/7fa25a6d1ae41b2b)), or the Ohoyo Hopoksia could be used.\nIn this step, B is wounded (since he was inflicted that 1agg strike).\nHowever, the source discussion explicitely reads B won't go to torpor until after the Psyche! combat.\n\nWhat I don't get is why B isn't sent to torpor before the Psyche! combat. He is wounded, with no effect that would prevent him from being sent to torpor.\n\nSuppose the Ohoyo enters combat instead of B, in that Psyche! combat.\nWhen exactly does B go to torpor?\n\nThanks !\nPascal\n\n~~\n\nUndead Persistence\nCardtype: Combat\nDiscipline: Fortitude\n[for] Only usable when this vampire should go into torpor. This vampire gets an optional press and will not go to torpor until combat ends (although he or she is still considered wounded and can be burned as normal). If three rounds of combat pass with no cards played, combat ends. This vampire is sent into torpor after combat.\n[FOR] Prevent 2 damage.\n\nPsyche!\nCardtype: Combat\nDiscipline: Celerity\n[cel] Press.\n[CEL] Only usable at the end of combat when both combatants are still ready. Begin another combat with the opposing minion.\n\nObedience\nCardtype: Reaction\nDiscipline: Dominate\nOnly usable when this reacting vampire is about to enter combat with an acting younger vampire.\n[dom] Untap the acting vampire, do not tap this reacting vampire, and end the current action (and combat). The acting vampire cannot attempt the same action this turn.\n[DOM] As above, but do not untap the acting vampire.\n\nOhoyo Hopoksia (Bastet)\nCardtype: Ally\nClan: Ahrimane\nCost: 3 pool\nUnique werewolf with 3 life. 3 strength, 0 bleed.\nWhen a minion you control is about to enter combat with an acting minion, you may tap Ohoyo to cancel that combat; Ohoyo enters combat with the acting minion instead. She gets an optional maneuver each combat. If she has less than 3 life during your untap phase, she gains 1 life from the blood bank.",
+      "Id": "6294752"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 16, 2011, 5:11:49\u202FPM",
+      "Body": "You misread the cited source.\n\nIt says that B is wounded and thus combat ends, since B is not ready.",
+      "Id": "6295314"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 16, 2011, 8:28:55\u202FPM",
+      "Body": "Let's do that explicitely ..\n\nA (has an Ivory Bow, is acting, has CEL) and B (blocking, has for) are in combat.\nA's strike is to use the Ivory Bow. B doesn't prevent, but plays Undead Persistence (inf).\nThis combat doesn't end right now - let's skip to its end.\n\nAt the end of this combat,\na/ Can A play Psyche! ? I assumed, from the quote above, that A can.\nb/ I read the quote as : \"If A plays Psyche!, B will immediately go to torpor in the new combat (causing the Psyche! combat to end as it begins), since B is wounded - unless he plays a new UP in that new combat.\". Did I get something wrong there?\nc/ A plays Psyche! Can B (wounded) play Obedience?\n\nMy understanding would be that B goes to torpor as soon as the first combat ends (but perhaps after Psyche! gets to be played - that's a little bit obscure). B couldn't play Obedience, the Ohoyo couldn't be used. Depending on when B goes to torpor, A might or might not be able to play Psyche!.",
+      "Id": "6296780"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 16, 2011, 10:18:04\u202FPM",
+      "Body": "a/ Yes, as quoted.\nb/ Correct, as quoted.\nc/ Sure.\n\nAnd see:\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/4a40b3ebca1bfa6d)",
+      "Id": "6297603"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 16, 2011, 10:55:29\u202FPM",
+      "Body": "Ah! I knew it ringed a bell!\n\nHowever, there's this part between the two combats that I still don't get.\nWhen B would play Obedience, we are clearly not in a combat (otherwise, Obedience couldn't be played). Thus, UP from the first combat is not keeping B ready any more.\n\nIs there an effect that maintains wounded B in the ready region, there, between the first combat (that has ended) and the Psyche! combat (that hasn't yet begun) ?",
+      "Id": "6297764"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Feb 16, 2011, 11:41:23\u202FPM",
+      "Body": "Scott,\nI think Floppy is trying to make you commit to one of the following 3 statements:\n\nA) Undead Persistence is playable during the same timing window that Psyche is played, in order to continue a previous Undead Persistence effect.\n\nB) Psyche can be played, but combat immediately ends when the Undead Persistent vampire immediately falls into torpor.\n\nor\n\nC) It is illegal to play Psyche in this situation, because the requirements for \"enter combat\" are not met (one of the vampires is not ready when combat ends).\n\nPersonally, I think C is the best answer.\nBut I am not the one who makes the rulings :)",
+      "Id": "6297998"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 17, 2011, 12:35:55\u202FAM",
+      "Body": "I'm not reducing it to a choice of one out of three (plus, my opinion is that none of A and B are acceptable - A because the new combat hasn't started when Psyche! is played, due to that ruling about Obedience; B because it's not worded the way I'd word it, I'd have \"Psyche! can be played, but combat ends with persistent vampire falling into torpor\" - and the only one left is difficult to consider as an intuitive option, since it would involve a new ruling).\n\nThere is already cases where a combat is queued and will happen between a ready vampire and a vampire in torpor (Psychomachia or Siren's Lure are the first examples to come to me).\nMy opinion would be that it would be the most intuitive to have the vampire who played UP go to torpor as the combat ends - as it reads on the card.\n\nBut a ruling could make it otherwise (hence the question about what makes the wounded vampire remain ready between the two combats). Or, if my intuition were correct (this would deserve unusual celebrations), then the playability of Psyche! remains to be discussed.",
+      "Id": "6298253"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 17, 2011, 12:43:37\u202FAM",
+      "Body": "> floppyzedolfin wrote:\n> Ah! I knew it ringed a bell!\n>\n> However, there's this part between the two combats that I still don't get.\n> When B would play Obedience, we are clearly not in a combat (otherwise, Obedience couldn't be played). Thus, UP from the first combat is not keeping B ready any more.\nWhen B would play Obedience that means there is a combat \"about to begin\". And there is: the Psyche! combat (begun by the Psyche! effect; Psyche! being a card that resolves when played).\n\n> Is there an effect that maintains wounded B in the ready region, there, between the first combat (that has ended) and the Psyche! combat (that hasn't yet begun) ?\nMoot. Psyche! is played at the end of one combat and begins another.",
+      "Id": "6298291"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 17, 2011, 1:13:09\u202FAM",
+      "Body": "> Rulemonger wrote:\n> When B would play Obedience that means there is a combat \"about to begin\". And there is: the Psyche! combat (begun by the Psyche! effect; Psyche! being a card that resolves when played).\n\nMh .. This made me think of Illusions of the Kindred and Blissful Agony.\nIn these cases, (that is: A plays UP, and then B plays IotK / BA), the new combat doesn't happen (per [LSJ 20090908] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/28090f1eb34d6aa5)), due to the Undeadly Persisting vampire being in torpor.\n\nI guess Psyche! is a bit different (as usual), but I can't determine why. I mean, these three cards begin a combat right after the current combat. Any hint :) ?\n\nWell, to be more accurate, my understanding of these cards is that they queue a combat right after the current one. Is Psyche!'s combat \"faster\" than the others? (by \"faster\" I mean something like \"that allows less cards to be played / effects to be used before the new combat begins\") ?\n\nOther combat-creating cards (Hidden Lurker, Fast reaction) are definitely slower.\n\n(I'm sorry if this is a bit confused, but I'm checking links as I type this ..)",
+      "Id": "6298421"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 17, 2011, 12:12:02\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n>\n> > Rulemonger wrote:\n> > When B would play Obedience that means there is a combat \"about to begin\". And there is: the Psyche! combat (begun by the Psyche! effect; Psyche! being a card that resolves when played).\n>\n> Mh .. This made me think of Illusions of the Kindred and Blissful Agony.\n> In these cases, (that is: A plays UP, and then B plays IotK / BA), the new combat doesn't happen (per [LSJ 20090908] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/28090f1eb34d6aa5)), due to the Undeadly Persisting vampire being in torpor.\nThat post doesn't say that combat doesn't happen.\n\n> I guess Psyche! is a bit different (as usual), but I can't determine why. I mean, these three cards begin a combat right after the current combat. Any hint :) ?\nThey seem no different.\n\nIf there's a ruling that says the IotK combat doesn't even start, then that applies to the Psyche! case as well (whichever is more recent).\n\nI don't recall such a ruling; I think the cases are the same in the other way: the combat ends as soon as it starts (unless another Undead Persistence upholds the wounded vampire a while longer).",
+      "Id": "6300256"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Feb 17, 2011, 12:47:44\u202FPM",
+      "Body": "> Rulemonger wrote:\n>\n> > floppyzedolfin wrote:\n> > In these cases, (that is: A plays UP, and then B plays IotK / BA), the new combat doesn't happen (per [LSJ 20090908] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/28090f1eb34d6aa5)), due to the Undeadly Persisting vampire being in torpor.\n> That post doesn't say that combat doesn't happen.\nWell, I guessed that from \"B goes to torpor\"  and 6.4 \"only ready minions can participate in combat\". Just to check (because your reply doesn't say that combat does / doesn't happen), does that combat happen, or does it not?\n\nIf it does, is B in torpor when the combat starts (as the link reads) ?",
+      "Id": "6300374"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 17, 2011, 3:31:57\u202FPM",
+      "Body": "My reply does say: combat happens.",
+      "Id": "6301178"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 18, 2011, 12:49:49\u202FPM",
+      "Body": "So, since I personally still feel a bit confused here, I'm going to toss a few more examples in to see if I'm understanding things correctly:\n\nCase 1:\n\nIbn Khaldun (for TEM) is blocked by Hektor (for CEL, agg hand damage). Each declares a hand strike.\nIbn Khaldun plays inf Undead Pesistance, and declines to press. Hektor plays Superior Psyche, and a new combat starts.\n\nI assume Ibn cannot play Outside the Hourglass or any other pre-range cards before playing Undead Persistance, since, at the start of combat, he's going to torpor, and must play an Undead Persistance (or Undying Tenacity) to continue combat first.\n\nCase 2:\n\nIbn Khaldun (for TEM) is blocked by Hektor (for CEL, agg hand damage) and plays Domain of Evernght at inf. Nothing before range and each strike hands for 1. Ibn Khaldun prevents the damage with Resilence. Hektor plays Undead Persistance and declines to press.\n\nHektor plays Superior Psyche, and a new combat starts.\n\nSince Ibn Khaldun is the acting minion, presumably he can play pre-range cards before Hektor has to play an effect to avoid going to torpor?\n\nIf that is correct, and Ibn plays Outside the Hourglass, and Hektor doesn't play another Undead Persistance, does the damage from OtH resolve? I think it would, but I'm not particularly sure.\n\nCase 3:\n\nIbn Khaldun (for TEM) is blocked by Hektor (for CEL, agg hand damage) - and plays Domain of Evernght at inf. Nothing before range and each strike hands for 1. Ibn Khaldun prevents the damage with Resilence. Hektor plays Undead Persistance and declines to press.\n\nCan Synesios play Hidden Lurker?\n\nIt seems legal in the circumstances. I assume this would work exactly like a combat started by Psyche - unless Hektor plays a card to prop himself up, combat immediately ends with Hektor going to torpor.\n\nCase 4:\n\nIbn Khaldun (for TEM) is blocked by Hektor (for CEL, agg hand damage)  and plays superior Pocket out of Time and Domain of Evernight inf. Nothing before range and each strike hands for 1. Ibn Khaldun prevents the damage with Resilence. Hektor plays Undead Persistance and declines to press.\n\nCan Ibn burn a blood to restart combat from Pocket Out of Time?\n\nPresumably not, since unlike Hidden Lurker, Pocket out of Time specifies ready, and as Hektor is wounded, he isn't ready.\n\nCase 5:\n\nIbn Khaldun (for TEM) is blocked by Hektor (for CEL, agg hand damage) and plays superior Pocket out of Time. Nothing before range and each strike hands for 1. Ibn Khaldun plays inf Undead Pesistance, and declines to press.\n\nCan Ibn burn a blood to start a new combat with Pocket out of Time?\n\nPresumably not, as Ibn doesn't qualify as ready.",
+      "Id": "6306322"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 18, 2011, 1:50:11\u202FPM",
+      "Body": "When the new Psyche! combat starts, it is ending (with B not ready), so \"as-ending\" effects may be played (like Undead Persistence).\n\nOther effects cannot be played as ending.",
+      "Id": "6306596"
+    }
+  ]
+}

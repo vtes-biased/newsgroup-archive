@@ -1,0 +1,20 @@
+{
+  "ThreadId": "bgg-600808",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/600808/herald-of-topeth-plus-textbook-damnation",
+  "Title": "Herald of Topeth + Textbook Damnation",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Dec 30, 2010, 9:06:11\u202FPM",
+      "Body": "Hi there,\nSuppose my Herald of Topeth got a Textbook Damnation.\n\nNow, my Herald plays a card requiring Daimoinon (at inferior, since he cannot play it at superior). That card's printed cost is 1 blood (for instance: Conflagration, Greater Curse, ..)\n\nDoes my Herald burn any blood to pay that card?\n\nI think he does - even though Conflagration (...) sees him as a vampire, the Textbook only sees him as an ally, and thus doesn't reduce the cost of the card.\n\nThanks\n\nPascal\n\n~~\n\nHerald of Topheth\nCardtype: \tAlly\nClan: \tBaali\nCost: \t3 pool\nDemon with 5 life. 3 strength, 1 bleed, flight [FLIGHT].\nThe Herald may enter combat with a ready minion controlled by another Methuselah as a (D) action. The Herald may play cards requiring basic Daimoinon [dai], Potence [pot] and/or Presence [pre] as a vampire with a capacity of 5. Any cost in blood is paid with his life. If a card would give him blood, give him life instead. If the Herald has less than 5 life during your untap phase, add 1 life. During your influence phase, burn 1 pool or burn the Herald.\n\nThe Textbook Damnation\nCardtype: \tEquipment\nCost: \t1 pool\nUnique equipment.\nThe vampire with this equipment has superior Daimoinon [DAI] and is infernal. Cards that require Daimoinon [dai] cost this vampire 2 less blood [()]. During your master phase, if this vampire is tapped, burn this equipment.",
+      "Id": "6024027"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Dec 30, 2010, 9:52:35\u202FPM",
+      "Body": "Correct. Textbook has no effect on Herald, since Herald is not \"this vampire\".",
+      "Id": "6024250"
+    }
+  ]
+}

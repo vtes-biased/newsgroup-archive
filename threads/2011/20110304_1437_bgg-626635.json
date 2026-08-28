@@ -1,0 +1,20 @@
+{
+  "ThreadId": "bgg-626635",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/626635/undead-persistence-vs-trap",
+  "Title": "Undead Persistence vs Trap",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Mar 4, 2011, 2:37:51\u202FPM",
+      "Body": "Hello!\nI think I'll get this one faster than the other one :)\n\nSuppose Vampire A and Vampire B are in combat. Vampire A has a Hawg, or a built-in press.\nIt's the first round of combat.\nVampire A plays Trap, and Weather Control (inferior, but that doesn't really matter).\nIn the first round of combat, A plays Undead Persistence at inferior.\n\nTrap provides presses for the next 3 press steps. The first press is used in round 1.\nIn round 2, no card is played. The second press is used in round 2.\nIn round 3, no card is played. The third press is used in round 3.\nIn round 4, no card is played. Trap's effect ends.\n\nDoes Undead Persistence end the combat as round 4 begins, since no cards were played in round 4, ruond 3, and round 2?\nDoes Undead Persistence end the combat as round 4 ends, regardless of A's usage of the built-in press?\nOr, having A use the press, does it end the combat in the beginning of round 5? If it does so, do we resolve Weather Control?\n\nI think the cardtext seems to indicate the second of these is correct.\n\nThanks,\nPascal\n\n~~\n\nName: Undead Persistence\nCardtype: Combat\nDiscipline: Fortitude\n[for] Only usable when this vampire should go into torpor. This vampire gets an optional press and will not go to torpor until combat ends (although he or she is still considered wounded and can be burned as normal). If three rounds of combat pass with no cards played, combat ends. This vampire is sent into torpor after combat.\n\nName: Trap\nCardtype: Combat\nOnly usable before range is determined on the first round of combat.\nDuring the press step, if any Methuselah has played a card earlier in the current round or during the two previous rounds, the Trap automatically provides a press to continue (either combatant can press to end).\n\nName: Weather Control\nCardtype: Combat\nDiscipline: Thaumaturgy\nOnly usable before range is determined on the first round.\n[tha] Both combatants and each of their retainers take 1 unpreventable damage before range is determined each round. A vampire may play only one Weather Control each combat.\n\nName: Hawg\nCardtype: Equipment\nVehicle.\nThe minion with this vehicle gets an optional press each combat. A minion may have only 1 vehicle.",
+      "Id": "6383030"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Mar 4, 2011, 3:20:03\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> Hello!\n> I think I'll get this one faster than the other one :)\n>\n> Suppose Vampire A and Vampire B are in combat. Vampire A has a Hawg, or a built-in press.\n> It's the first round of combat.\n> Vampire A plays Trap, and Weather Control (inferior, but that doesn't really matter).\n> In the first round of combat, A plays Undead Persistence at inferior.\n>\n> Trap provides presses for the next 3 press steps. The first press is used in round 1.\n> In round 2, no card is played. The second press is used in round 2.\n> In round 3, no card is played. The third press is used in round 3.\n> In round 4, no card is played. Trap's effect ends.\n>\n> Does Undead Persistence end the combat as round 4 begins, since no cards were played in round 4, ruond 3, and round 2?\n> Does Undead Persistence end the combat as round 4 ends, regardless of A's usage of the built-in press?\n> Or, having A use the press, does it end the combat in the beginning of round 5? If it does so, do we resolve Weather Control?\n>\n> I think the cardtext seems to indicate the second of these is correct.\nCorrect. Undead Persistence no longer props up A.",
+      "Id": "6383262"
+    }
+  ]
+}

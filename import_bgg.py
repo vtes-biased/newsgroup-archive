@@ -1,16 +1,23 @@
 #!/usr/bin/env python3
 """Import a VTES thread from BoardGameGeek into the archive.
 
-Four rulings cite BoardGameGeek: L. Scott Johnson answered questions in the
-game's Rules forum there in 2011, alongside the newsgroup he was winding down
-and the V:EKN forum that replaced it. Three topics, nine to eleven posts each --
-the smallest of the archive's three sources, and a closed one, since nobody has
-taken a rules question there since. So this is a one-shot import rather than a
-sync: name the threads and it fetches them.
+Four rulings cite BoardGameGeek, and there is a reason they do: as Usenet wound
+down, L. Scott Johnson took to answering rules questions in the game's Rules
+forum there, and his last ruling as rules director was written on that site
+rather than on the newsgroup or the V:EKN forum. A month later the seat passed
+to Pascal Bertrand and the rulings moved to the forum for good, so nothing here
+from after 11 June 2011 is a director's answer -- he still turns up to answer a
+question, most recently in December 2025, and those threads are kept for
+completeness rather than for citing.
 
-    python3 import_bgg.py 609699 648695 662413
+    python3 import_bgg.py $(cat bgg-threads.txt)
 
-BoardGameGeek's public XML API now wants a key and its HTML sits behind a bot
+Threads are named, not discovered: BoardGameGeek will not list a forum's
+threads to anyone without an API key, so `bgg-threads.txt` holds the 57 numbers
+an advanced search on the site turned up. Running a number again rewrites the
+thread with whatever has been added to it since.
+
+BoardGameGeek's public XML API wants a key now and its HTML sits behind a bot
 check, but the JSON its own pages read is open: `/api/threads/<id>` for the
 subject and `/api/articles?threadid=<id>` for the posts, both on
 api.geekdo.com. A thread becomes `bgg-609699` and every post keeps the article
@@ -33,16 +40,34 @@ import import_forum
 GROUP = "boardgamegeek.com/vtes"
 THREAD = "https://api.geekdo.com/api/threads/{topic}"
 ARTICLES = "https://api.geekdo.com/api/articles?threadid={topic}&pageid={page}"
-#: A page holds 25 posts and no thread here fills two, but a long one would.
+USER = "https://api.geekdo.com/api/users/{who}"
+#: A page holds 25 posts and the longest thread here runs to 18, but a busier
+#: one would paginate and a half-read thread is worse than none.
 MAX_PAGES = 40
 RE_BREAK = re.compile(r"<br\s*/?>", re.IGNORECASE)
 RE_TAG = re.compile(r"<[^>]+>")
 RE_EMOTICON = re.compile(r'<img[^>]*class="emoticon"[^>]*>', re.IGNORECASE)
 RE_SRC = re.compile(r'src="[^"]*/([^"/]+)"')
-#: What a typed smiley turns into on the way through BoardGameGeek's renderer.
-#: One emoticon appears in the three threads; anything else falls back to its
-#: alt text, and to nothing when that is empty, rather than to a guess.
-EMOTICON = {"smile.gif": ":)"}
+RE_ALT = re.compile(r'alt="([^"]*)"')
+RE_LINK = re.compile(
+    r'<a\b[^>]*href="([^"]*)"[^>]*>(.*?)</a>', re.IGNORECASE | re.DOTALL
+)
+#: What a typed smiley turns back into. BoardGameGeek renders one as an image
+#: and drops the characters, so they are put back -- every one of these was
+#: read off the plain-text copy of a post that contains it, not guessed.
+EMOTICON = {
+    "smile.gif": ":)",
+    "wink.gif": ";)",
+    "biggrin.gif": ":D",
+    "sad.gif": ":(",
+    "tongue.gif": ":p",
+    "blush.gif": ":blush:",
+    "cry.gif": ":cry:",
+    "soblue.gif": ":soblue:",
+    "thumbs-up.gif": ":thumbsup:",
+    "thumbs-down.gif": ":thumbsdown:",
+    "geekgold.gif": ":gg:",
+}
 
 
 def plain(fragment: str) -> str:
@@ -55,51 +80,61 @@ def plain(fragment: str) -> str:
 
     def smiley(match: re.Match) -> str:
         source = RE_SRC.search(match.group(0))
-        alt = re.search(r'alt="([^"]*)"', match.group(0))
+        alt = RE_ALT.search(match.group(0))
         name = source.group(1) if source else ""
         return EMOTICON.get(name, alt.group(1) if alt else "")
 
+    def link(match: re.Match) -> str:
+        href, shown = match.group(1), RE_TAG.sub("", match.group(2)).strip()
+        # Most links are the URL itself, written out; where a poster wrote
+        # words over one instead, the address has to go somewhere or it is
+        # lost, and a citation is exactly the kind of link they did that to.
+        return shown if shown == href else f"{shown} ({href})"
+
     text = RE_EMOTICON.sub(smiley, fragment)
+    text = RE_LINK.sub(link, text)
     text = RE_BREAK.sub("\n", text)
     return html.unescape(RE_TAG.sub("", text))
 
 
-def flow(node: ElementTree.Element) -> list[tuple[int, str]]:
-    """Every line under an element, each with the depth it is quoted at.
+def flow(node: ElementTree.Element, delay: float) -> list[tuple[int, str]]:
+    """Everything under an element, each piece at the depth it is quoted at.
 
     BoardGameGeek keeps a post as a run of prose and quotes, and a quote holds
     prose and quotes in turn, so this recurses and the depth accumulates on the
-    way back out -- the same `> ` nesting the newsgroup wrote by hand.
+    way back out -- the same `> ` nesting the newsgroup wrote by hand. The
+    pieces are not lines: a mention of another member interrupts a sentence
+    without ending it, so what comes back is joined before it is broken up.
     """
-    rows: list[tuple[int, str]] = []
+    pieces: list[tuple[int, str]] = []
     for child in node:
         if child.tag == "safehtml":
-            rows.extend((0, line) for line in plain(child.text or "").split("\n"))
+            pieces.append((0, plain(child.text or "")))
+        elif child.tag == "user":
+            # A member named mid-sentence is an element of its own, holding a
+            # number rather than the name that was displayed in its place.
+            pieces.append((0, named(int(child.attrib["userid"]), delay)))
         elif child.tag == "quote":
             author = child.find("qauthor")
-            body = child.find("qbody")
-            inner = flow(body) if body is not None else []
+            quoted = child.find("qbody")
+            inner = flow(quoted, delay) if quoted is not None else []
             name = (
                 plain("".join(part.text or "" for part in author)).strip()
                 if author is not None
                 else ""
             )
             if name:
-                inner.insert(0, (0, f"{name} wrote:"))
-            rows.extend((depth + 1, line) for depth, line in inner)
-    return rows
+                inner.insert(0, (0, f"{name} wrote:\n"))
+            # A quote is a block: it starts a line and it ends one.
+            pieces.append((0, "\n"))
+            pieces.extend((depth + 1, text) for depth, text in inner)
+            pieces.append((0, "\n"))
+    return pieces
 
 
-def body(raw: str) -> str:
+def body(raw: str, delay: float = 0.0) -> str:
     """A post, written out the way the archive writes posts."""
-    lines: list[str] = []
-    for depth, text in flow(ElementTree.fromstring(raw)):
-        text = text.strip()
-        prefix = "> " * depth
-        if not text and lines and not lines[-1].strip(">").strip():
-            continue  # one blank line between paragraphs is plenty
-        lines.append(prefix + text if text else prefix.rstrip())
-    return "\n".join(lines).strip()
+    return import_forum.written(flow(ElementTree.fromstring(raw), delay))
 
 
 def displayed(when: datetime.datetime) -> str:
@@ -117,6 +152,19 @@ def displayed(when: datetime.datetime) -> str:
 def read(url: str) -> dict:
     """One of BoardGameGeek's JSON replies."""
     return json.loads(import_forum.fetch(url))
+
+
+#: A post names its author by number, and the same handful of people answer
+#: across every thread, so a name is asked for once and then remembered.
+NAMES: dict[int, str] = {}
+
+
+def named(who: int, delay: float) -> str:
+    """What a poster is called, asked for at most once."""
+    if who not in NAMES:
+        time.sleep(delay)
+        NAMES[who] = read(USER.format(who=who))["username"]
+    return NAMES[who]
 
 
 def articles(topic: str, delay: float) -> list[dict]:
@@ -138,19 +186,14 @@ def build_thread(topic: str, delay: float) -> dict:
     posts = articles(topic, delay)
     if not posts:
         raise ValueError(f"no posts found in thread {topic}")
-    authors: dict[int, str] = {}
     messages = []
     for post in posts:
-        who = post["author"]
-        if who not in authors:
-            time.sleep(delay)
-            authors[who] = read(f"https://api.geekdo.com/api/users/{who}")["username"]
         when = datetime.datetime.fromisoformat(post["postdate"])
         messages.append(
             {
-                "Author": authors[who],
+                "Author": named(post["author"], delay),
                 "Date": displayed(when.replace(tzinfo=None)),
-                "Body": body(post["bodyXml"]),
+                "Body": body(post["bodyXml"], delay),
                 "Id": post["id"],
             }
         )

@@ -1,0 +1,20 @@
+{
+  "ThreadId": "bgg-629254",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/629254/adaptability-fire-dance",
+  "Title": "Adaptability, Fire Dance",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Mar 11, 2011, 12:09:29\u202FPM",
+      "Body": "Hello,\nA and B are in combat.\nA's strike is 1 agg.\nB's strike is moot.\n\nWhen does B gets to play inf' Adaptability?\n\na - during strike declaration\nb - during strike resolution, before damage prevention step\nc - during strike resolution, during damage prevention step\nd - during strike resolution, during damage resolution step\n\nWith Fire Dance, when can the damage be changed?\n\nI know that, for Merril Mollitor, the damage is changed in the damage resolution step :\n> [url=http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/3bb78bde5ca24e3b wrote:\n> Rulemonger[/url]\"]> * Merrill Mollitor\n> > Suppose Merril's opposing minion strikes with the Ivory Bow + Target\n> > Vitals. Can Merrill change the nature of the damage before the\n> > prevention step?\n>\n> No. It has to be inflicted on him (i.e., unprevented).\n> He would change it before handling it, of course.\n> > If not (or if Merrill's controller decides to do things in another\n> > way), can Merrill change the nature of the 1Agg after is it\n> > successfully inflicted and before it is resolved?\n>\n> Of course. It could not be otherwise.\n\nThanks,\nPascal\n\n~~\n\nName: Adaptability\nCardtype: Combat\nCost: 1 blood\nDiscipline: Protean\n[pro] Change all aggravated damage from the opposing minion's strike to normal damage.\n[PRO] Prevent all aggravated damage from the opposing minion's strike.\n\nName: Fire Dance\nCardtype: Action\nRequires a ready archbishop, priscus, cardinal {or regent}. +1 stealth action.\nPut this card on a Sabbat vampire. Once each combat, the vampire with this card may change 1 aggravated damage inflicted on him or her to normal damage. A vampire may have only one Fire Dance.\n\nName: Merrill Molitor\nCardtype: Vampire\nClan: Tremere\nGroup: 1\nCapacity: 5\nDiscipline: aus dom THA\nCamarilla: Once each combat, Merrill may change 1 aggravated damage inflicted on him to normal damage.",
+      "Id": "6420303"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Mar 11, 2011, 1:27:58\u202FPM",
+      "Body": "At any time.\n\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/46f8e99a98140e0a)",
+      "Id": "6420546"
+    }
+  ]
+}

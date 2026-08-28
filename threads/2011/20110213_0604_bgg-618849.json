@@ -1,0 +1,26 @@
+{
+  "ThreadId": "bgg-618849",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/618849/alex-wilkins-and-temptation",
+  "Title": "Alex Wilkins and Temptation",
+  "Messages": [
+    {
+      "Author": "hazered",
+      "Date": "Feb 13, 2011, 6:04:35\u202FAM",
+      "Body": "this really happened in a game situation today:\n\n> Alex Wilkins\n>\n> Camarilla: If Alex successfully bleeds, the target Methuselah may burn an additional pool to take control of Alex.\nplayer A controls Alex. player B has put Temptation on Alex. Temptation is used to borrow Alex on player B's turn, and then he bleeds player C. player C chooses to burn an additional pool for Alex's cardtext.\n\nso, who \"permanently\" controls Alex now? does Temptation expiring at the end of turn send him back to player A? or does Alex's cardtext override temporary control so he stays in player C's area?",
+      "Id": "6275679"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 13, 2011, 8:57:55\u202FAM",
+      "Body": "Alex Wilkins card text changes the permanent control and not the temporary control.  Temptation is a temporary control.\n\nSo, when Temptation's effect would end, it would be sent to A except that C is now the 'permanent' controller of Alex Wilkins so he is sent to C instead.\n\nI suspect that you could cancel Alex Wilkins' cardtext using Diamond Thunderbolt, returning Alex Wilkins to A (if Diamond Thunderbolt was played by A)",
+      "Id": "6275984"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Feb 14, 2011, 2:17:58\u202FPM",
+      "Body": "> [url=http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/db9ab4f42e748cdc wrote:\n> On the newsgroup, LSJ[/url]]Any change of permanent control effective(ly) terminates all lingering temporary\n> control effects.",
+      "Id": "6281350"
+    }
+  ]
+}

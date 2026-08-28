@@ -1,0 +1,38 @@
+{
+  "ThreadId": "bgg-3628655",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/3628655/this-aggravated-damage-makes-my-head-spin",
+  "Title": "This Aggravated Damage makes my head spin",
+  "Messages": [
+    {
+      "Author": "Voy_tak",
+      "Date": "Dec 16, 2025, 9:15:19\u202FAM",
+      "Body": "Hello fellow Blood-drinkers!\nWe are planning to play our first game tonight. Super excited!\nHowever, how the Aggravented Damage works confuses me and the example in the rulebook does not really help.\nIt says:\nTamoszius is ready and has 2 blood when he receives 3 points of aggravated damage.\nHe cannot mend any of it (check! because aggraveted damage can not be mended. at all. never.)\nHe becomes wounded by 1 point (wait, what? what does that mean? wounded by 1 point? that is nowhere else mentioned in the rules. I thouhgt he gets 3 pts. of dmg., so he is wounded by 3 pts.?),\nand so he must burn 2 blood to prevent destruction from the other 2 points (1 blood per point) (does that mean that the first point of damage is \"used up\" to damage him? and doesn't need to be handled?),\nleaving him empty and in torpor.\nMaybe I am overthinking something here....\nBut, by only reading it, it \"reads\" counter-intuitive.",
+      "Id": "47029356"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "Dec 16, 2025, 10:37:42\u202FAM",
+      "Body": "\"He becomes wounded by 1 point\" means \"the first point of aggravated damage causes him to become wounded\".\nThe other two points of aggravated damage need to be handled by burning blood if possible.\n\nIf you have further questions you are going to get more attention on a place like the official Black Chantry discord (https://discord.com/invite/vampire-the-eternal-struggle-official-887471681277399091) or the forums on vekn.net (https://www.vekn.net/)",
+      "Id": "47029545"
+    },
+    {
+      "Author": "Talonz",
+      "Date": "Dec 16, 2025, 7:23:27\u202FPM",
+      "Body": "First agg point = go to torpor.\nX excess agg = burn x blood\nexcess agg after burning blood?  burn vamp",
+      "Id": "47031408"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Dec 20, 2025, 2:29:28\u202FPM",
+      "Body": "If it helps, think of handling the damage via TheDamageHandlingProgram(tm), whose pseudocode is:\n\nApplyDamageToVampire ( vampire v, unsigned int normal, unsigned int aggravated )\n{\nwhile( normal > 0)\n{\nif (v.blood > 0) v.blood--\nelse v.wounded = true\nnormal--\n}\nwhile( aggravated > 0)\n{\nif( not v.wounded ) v.wounded = true\nelse if (v.blood > 0) v.blood--\nelse v.burned = true\naggravated--\n}\n\nif (v.burned) Burn(v)\nelse if(v.wounded) SendToTorpor(v)\n}",
+      "Id": "47046729"
+    },
+    {
+      "Author": "Ameranth",
+      "Date": "May 9, 2026, 7:07:15\u202FAM",
+      "Body": "I'm a bit late to this thread, but hopefully this simplifies things.\n\nWith aggravated damage the first point is always used up for \"go directly to torpor\", and anything after that is applied like regular damage. With aggravated damage, excess damage also kills the vamp.\n\nRegular Damage:\nGet hit for 1, lose 1 blood.\nGet hit for 4, lose 4 blood.\nIf damage reduces you to -1 blood, go to torpor.\n\nAggravated Damage:\nGet hit for 1 aggro, lose no blood and go to torpor.\nGet hit for 4 aggro, lose 3 blood and go to torpor.\nIf damage reduces you to -1 blood, die.",
+      "Id": "47655388"
+    }
+  ]
+}

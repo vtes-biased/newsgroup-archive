@@ -1,0 +1,56 @@
+{
+  "ThreadId": "bgg-609918",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/609918/mask-of-1-k-faces-vs-mandatory-actions",
+  "Title": "Mask of 1 K Faces vs Mandatory actions",
+  "Messages": [
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 21, 2011, 2:48:19\u202FPM",
+      "Body": "Hello,\n\nJust checking that a ruling given 10 years ago still applies:\nhttp://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/11fc9f6c59838351)\n\nMy Infernal_guy plays Chain of Command on The Horde, and untaps.\nThe Horde declares a bleed action.\n\nCan my Infernal_guy play a Mask of a Thousand Faces on this action?\n\nPer the previous ruling, my guess is that he can.\nThe Horde can then be used to increase the bleed - or they can bleed the classic and mandatory way.\n\nThanks\n\n~~\n\nChain of Command\nCardtype:\tAction\nCost:\tX blood\nDiscipline:\tDominate\n+1 stealth action.\n[dom] Put X younger vampires from your uncontrolled region in play with 1 blood from the blood bank each (and with any blood they already have). You cannot choose any unique vampires already in play. Those vampires must bleed. When one of them bleeds successfully, or when all that can bleed have, move them all to the bottom of your crypt.\n[DOM] As above, but move X+1 younger vampires.\n\nMask of a Thousand Faces\nCardtype:\tAction Modifier\nDiscipline:\tObfuscate\n[obf] Only usable by a ready, untapped vampire other than the acting minion who is capable of performing the action. Not usable if any action modifiers or other effects have been used that could not have been used if this vampire were the acting vampire. Untap the acting minion and tap this vampire instead. The action continues with this vampire as the acting minion.\n[OBF] As above, with +1 stealth.\n\nThe Horde\nCardtype:\tVampire\nClan:\tBaali\nGroup:\t6\nCapacity:\t3\nDiscipline:\tdai obf pre\nIndependent: Non-unique. The Horde may tap to give another infernal minion +1 bleed for the current action. Infernal.",
+      "Id": "6144673"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 21, 2011, 3:58:06\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> Hello,\n>\n> Just checking that a ruling given 10 years ago still applies:\n> http://groups.google.com/group/rec.games.trading-cards.jyhad... (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/11fc9f6c59838351)\nYou can use\n[ q=\"http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/11fc9f6c59838351\" ]quoted bit[ /q ] (without the spaces) to quote contexual bits, BTW.\n\n> My Infernal_guy plays Chain of Command on The Horde, and untaps.\n> The Horde declares a bleed action.\n>\n> Can my Infernal_guy play a Mask of a Thousand Faces on this action?\n>\n> Per the previous ruling, my guess is that he can.\nNo need to guess, yeah.\n\n> The Horde can then be used to increase the bleed - or they can bleed the classic and mandatory way.\nYeah. Note that if the Horde taps to increase the bleed (and that Horde is the only yet-to-bleed guy from CoC), then, since is no longer one that \"can bleed\" (tapped minions cannot take a bleed action), he moves immediately to the bottom of the crypt, per CoC's text (without waiting for the end of the action.\n\nThe +1 bleed from the Horde sticks, of course.",
+      "Id": "6145045"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 21, 2011, 5:21:07\u202FPM",
+      "Body": "> Rulemonger wrote:\n> Note that if the Horde taps to increase the bleed (and that Horde is the only yet-to-bleed guy from CoC), then, since is no longer one that \"can bleed\" (tapped minions cannot take a bleed action), he moves immediately to the bottom of the crypt, per CoC's text (without waiting for the end of the action.\n>\n> The +1 bleed from the Horde sticks, of course.\nThis sounds strange.\n\nWe have this ruling: (trying new stuff with the quotes !)\n\n> [url=http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/cb0f770f0738ac65 wrote:\n> Rulemonger[/url]\"]\n> CoC doesn't take effect until after the action is concluded.\n> DtD's window is at the end of the action. CoC is right after that.\n\nIsn't your answer here contradictory with the answer given earlier on the NG? In one case, I read you as \"CoC's cardtext is applied constantly, and would burn a vampire during an action\", and in the other I read you as \"CoC doesn't trigger during the action, it waits until after the action has ended\"\n\nHowever, there might be some sort of a twist regarding who's acting.",
+      "Id": "6145495"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Jan 21, 2011, 6:16:42\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> However, there might be some sort of a twist regarding who's acting.\nExactly. He's still bleeding in that example.",
+      "Id": "6145872"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Jan 22, 2011, 4:20:46\u202FAM",
+      "Body": "I assume this is only the case (immediate removal from play) when there is only 1 minion brought out with Chain of Command.  If there were others, then only when all of the Hordes had made a bleed attempt or been 'forced to be unable to bleed' (by being tapped or having more than 1 mandatory action) do they all go back to the crypt?",
+      "Id": "6148671"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 24, 2011, 1:15:09\u202FPM",
+      "Body": "I understand it (immediate removal from play of the vampires who were CoC'd) happens when CoC's cardtext says it does.\n\nWhen all that can bleed have ( == when none of the brought vampires can bleed & none is bleeding), they go back under the crypt.\n\nExamples:\nArika plays Chain of Command on 3 Tupdogs. Arika's controller has no !Tremere, the Tupdogs go back at the bottom of her crypt (probably even before Arika gets to play a Freak Drive, but that doesn't really matter).",
+      "Id": "6157333"
+    },
+    {
+      "Author": "salemchrist",
+      "Date": "Jan 27, 2011, 12:22:28\u202FPM",
+      "Body": "so someone with DOM and the ankara citadel, and 16 Horde in my uncontrolled region, plays Chain of command for 16 (paying 8).\n\nHorde 1 bleeds, Hordes 2-16 tap to give him +1 bleed each.\n\nHorde 1 still gets to finish his bleed.\n\nCorrect?",
+      "Id": "6178358"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Jan 27, 2011, 1:14:02\u202FPM",
+      "Body": "Horde 2-16 are tapped but remain in play.\nHorde 1 gets to finish his bleed, after what they all return under the crypt.",
+      "Id": "6178508"
+    }
+  ]
+}

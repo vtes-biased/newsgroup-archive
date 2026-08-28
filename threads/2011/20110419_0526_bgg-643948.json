@@ -1,0 +1,50 @@
+{
+  "ThreadId": "bgg-643948",
+  "Group": "boardgamegeek.com/vtes",
+  "Url": "https://boardgamegeek.com/thread/643948/lsj-crocodiles-tongue-plus-familial-bond",
+  "Title": "LSJ: Crocodile's Tongue + Familial Bond",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 19, 2011, 5:26:44\u202FAM",
+      "Body": "If a block attempt is cancelled (by say Crocodile's Tongue in this case), does Familial Bond's \"failed block attempt\" text still function and allow the vampire attempting to block to still enter combat with the acting minion?\n\n---- Card Texts ----\nFamilial Bond\nType: Reaction\nRequires: laibon\nCost: 1 blood\nRequires a Laibon.\nOnly usable on an action directed at another Laibon you control or on a bleed against you. +1 intercept. If this block fails, the acting minion may choose to make the action fail. If the action succeeds, this Laibon may tap (after resolution) to enter combat with the acting minion.\n\nCrocodile's Tongue\nType: Action Modifier\nRequires: Auspex\n[aus] Only usable when an ally or a younger vampire attempts to block. That block is canceled (the minion is not tapped). The blocking minion's controller cannot attempt to block this action again. The blocking minion can cancel this card by burning a blood or life.\n[AUS] As above, but canceling this card requires an additional blood or life.",
+      "Id": "6633198"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Apr 19, 2011, 8:51:07\u202FAM",
+      "Body": "[EDIT] [LSJ 20060306] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/144fc17d719a685d?hl=en) shows a canceled block attempt implies the blocker failed his attempt. (the block wasn't \"erased\"). See also [LSJ 20011101] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/1e62104365aa12cd))\nHowever, after resolution, the Laibon still gets to tap to enter combat with the acting minion if the action is successful (this part isn't related to the block).",
+      "Id": "6633630"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 19, 2011, 12:24:07\u202FPM",
+      "Body": "> floppyzedolfin wrote:\n> [EDIT] [LSJ 20060306] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/144fc17d719a685d?hl=en) shows a canceled block attempt implies the blocker failed his attempt. (the block wasn't \"erased\").\nNo. It says that the block attempt happened. And that card text, which doesn't care about \"fail\", has been satisfied.\n\n> See also [LSJ 20011101] (http://groups.google.com/group/rec.games.trading-cards.jyhad/msg/1e62104365aa12cd))\nSimilarly not interested in \"fail\".\n\n> However, after resolution, the Laibon still gets to tap to enter combat with the acting minion if the action is successful (this part isn't related to the block).\nCorrect.",
+      "Id": "6634204"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Apr 19, 2011, 1:44:00\u202FPM",
+      "Body": "Quick question:\nAt the end of an action, is each attempt either successful or unsuccessful ? (that's a logical \"or\")\nI mean by that, that there is no third option; is this correct? (ex: \"canceled\" could be one such option)\n\nApplied to the initial question, this would mean that, with the block attempt not being successful, it would have to be unsuccessful (== failed), thus allowing the acting minion to have the action fail.\n\nThanks !",
+      "Id": "6634554"
+    },
+    {
+      "Author": "Rulemonger",
+      "Date": "Apr 19, 2011, 2:16:18\u202FPM",
+      "Body": "No. As above: the canceled attempt is neither successful nor failed. (Similar to actions)",
+      "Id": "6634732"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 20, 2011, 12:43:41\u202FAM",
+      "Body": "Would it be worth making a simple errata to change Familial Bond to read:\n\nFamilial Bond\nType: Reaction\nRequires: laibon\nCost: 1 blood\nRequires a Laibon.\nOnly usable on an action directed at another Laibon you control or on a bleed against you. +1 intercept. If this block is not successful, the acting minion may choose to make the action fail. If the action succeeds, this Laibon may tap (after resolution) to enter combat with the acting minion.",
+      "Id": "6638833"
+    },
+    {
+      "Author": "floppyzedolfin",
+      "Date": "Apr 20, 2011, 9:37:41\u202FAM",
+      "Body": "Your suggestion changes the effect of the card.\nIt's never / always (depending on your side of the argumentation) time to discuss errata, but I don't think changing a card that isn't played that much could be good - especially since a very little amount of players would know of this errata (plus, it would definitely open the gates to the unfriendly \"Hey! That card got errata'd, let's errata that one too!\").\n\nIt also affects a very limited and rare situation (Clan Loyalty, Crocodile's Tongue, Kiss of Ra played on a Laibon who has played Familial Bond).\n\nI think it'd be better to have the players know that a block attempt is one of {successful, failed, canceled} rather than getting them know it, and, in addition to that, change a card.",
+      "Id": "6640220"
+    }
+  ]
+}

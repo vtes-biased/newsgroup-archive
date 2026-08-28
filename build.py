@@ -351,7 +351,8 @@ those directors took part in &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
 together with the topics their successors have answered on the V:EKN forum
 ever since, which is where the rulings went when Usenet ended, and three
-threads answered on BoardGameGeek along the way.</p>
+the threads L.&nbsp;Scott&nbsp;Johnson answered on BoardGameGeek in between,
+where his last ruling as rules director was posted.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
 they will point here instead, because this copy is not going anywhere.</p>
@@ -397,17 +398,20 @@ because the Wayback Machine happened to keep it, which is reason enough not to
 wait and see which goes next. Two more topics are here for the other reason
 &mdash; a ruling cites them, though neither director posted in them.</p>
 
-<p>Three threads come from a third place. In 2011, with the newsgroup finished
-and the forum still young,
-<strong>L.&nbsp;Scott&nbsp;Johnson</strong> answered rules questions in the
-game's forums on
-<a href="https://boardgamegeek.com/boardgame/2122/vampire-the-eternal-struggle/forums/66">BoardGameGeek</a>
-as well, and four rulings cite what he wrote there. Those three threads are
-here. Whether he answered in others is not something we can tell you:
-BoardGameGeek will not list a forum's threads without an API key, so unlike the
-newsgroup and the forum, this source was gathered from the citations rather
-than by the rule. Nobody has asked a rules question there since, so it is a
-closed source either way: copied once, and it will not grow.</p>
+<p>Fifty-seven threads come from a third place. As the newsgroup wound down,
+<strong>L.&nbsp;Scott&nbsp;Johnson</strong> took to answering questions in the
+game's Rules forum on
+<a href="https://boardgamegeek.com/boardgame/2122/vampire-the-eternal-struggle/forums/66">BoardGameGeek</a>,
+and his last ruling as rules director was written there rather than on Usenet
+or the forum: 11&nbsp;June&nbsp;2011. Four rulings cite that thread and its
+neighbours. A month later the seat passed to
+<strong>Pascal&nbsp;Bertrand</strong> and the rulings moved to the V:EKN forum
+for good, so the twelve threads here from after that date &mdash; he still
+turns up to answer a question, most recently in December&nbsp;2025 &mdash; are
+a former director's and not a sitting one's. They are kept for completeness,
+not for citing. BoardGameGeek will not list a forum's threads to anyone without
+an API key, so this set came from a search run on the site itself rather than
+from a crawl.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
