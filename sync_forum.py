@@ -22,6 +22,10 @@ A plain run fetches a topic the archive does not have, or one where the search
 shows a post of theirs the archive is missing. Everything else is left alone,
 so a second run costs a minute. What it cannot see is a reply written after
 that member's last post in a topic: only `--refresh` picks those up.
+
+A run the forum would not let finish exits non-zero. A search cut short and a
+forum with nothing new look alike from the outside, and the nightly sweep in
+`.github/workflows/sync.yml` has to be able to tell them apart.
 """
 
 import argparse
@@ -106,15 +110,23 @@ def hits(page: str) -> list[dict]:
     return found
 
 
-def every_post(user: str, delay: float) -> list[dict]:
-    """Walk the search until it runs out of posts by that member."""
+def every_post(user: str, delay: float) -> tuple[list[dict], bool]:
+    """Walk the search until it runs out of posts by that member.
+
+    Says as well whether it reached the end. A search that stops halfway has
+    not told us what is new, which hardly matters to somebody watching it run
+    and matters a great deal to the nightly one, where a forum that refused to
+    answer looks exactly like a forum with nothing to add.
+    """
     posts: list[dict] = []
     start = 0
+    whole = True
     while True:
         asked = SEARCH.format(user=urllib.parse.quote(user), size=PAGE, start=start)
         page = patiently(asked, delay)
         if page is None:
             print(f"search failed at start={start}", file=sys.stderr)
+            whole = False
             break
         found = hits(page)
         posts.extend(found)
@@ -125,7 +137,7 @@ def every_post(user: str, delay: float) -> list[dict]:
     strangers = {post["who"].lower() for post in posts} - {slug(user), ""}
     if strangers:
         print(f"search returned other members: {sorted(strangers)}", file=sys.stderr)
-    return posts
+    return posts, whole
 
 
 def topics(posts: list[dict]) -> dict[str, dict]:
@@ -177,7 +189,8 @@ def pages(url: str, delay: float) -> list[str] | None:
 def sync(args: argparse.Namespace) -> int:
     out: pathlib.Path = args.out
     print(f"reading every post by {args.user}", file=sys.stderr)
-    wanted = topics(every_post(args.user, args.delay))
+    found, whole = every_post(args.user, args.delay)
+    wanted = topics(found)
     known = archived(out)
     print(f"{len(wanted)} topics, {len(known)} already in the archive")
 
@@ -195,32 +208,35 @@ def sync(args: argparse.Namespace) -> int:
     if args.list:
         for number, topic, why in todo:
             print(f"  {number:>6}  {why:<10}  {topic['path']}")
-        return report(wanted, known, args)
-
-    fetched = gone = failed = 0
-    for count, (number, topic, why) in enumerate(todo, 1):
-        url = SITE + topic["path"]
-        print(f"[{count}/{len(todo)}] {why}: {url}", file=sys.stderr)
-        collected = pages(url, args.delay)
-        if collected is None:
-            if number in known:
-                print(f"  not fetched whole; keeping {known[number][0]}")
-                gone += 1
-            else:
-                print(f"  not fetched, and not archived: {url}")
+    else:
+        fetched = gone = failed = 0
+        for count, (number, topic, why) in enumerate(todo, 1):
+            url = SITE + topic["path"]
+            print(f"[{count}/{len(todo)}] {why}: {url}", file=sys.stderr)
+            collected = pages(url, args.delay)
+            if collected is None:
+                if number in known:
+                    print(f"  not fetched whole; keeping {known[number][0]}")
+                    gone += 1
+                else:
+                    print(f"  not fetched, and not archived: {url}")
+                    failed += 1
+                continue
+            try:
+                thread = import_forum.build_thread(collected, url)
+            except ValueError as problem:
+                print(f"  {problem}", file=sys.stderr)
                 failed += 1
-            continue
-        try:
-            thread = import_forum.build_thread(collected, url)
-        except ValueError as problem:
-            print(f"  {problem}", file=sys.stderr)
-            failed += 1
-            continue
-        path = import_forum.write_thread(thread, out)
-        known[number] = (path, thread)
-        fetched += 1
-    print(f"fetched {fetched}, gone {gone}, failed {failed}")
-    return report(wanted, known, args)
+                continue
+            path = import_forum.write_thread(thread, out)
+            known[number] = (path, thread)
+            fetched += 1
+        print(f"fetched {fetched}, gone {gone}, failed {failed}")
+    status = report(wanted, known, args)
+    if not whole:
+        print("the search did not finish: what is new is not known", file=sys.stderr)
+        return 1
+    return status
 
 
 def report(wanted: dict, known: dict, args: argparse.Namespace) -> int:

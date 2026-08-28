@@ -1,0 +1,79 @@
+name: Follow the forum
+
+# The forum loses topics, so the archive reads it every night rather than
+# whenever somebody remembers to. A run that finds nothing commits nothing;
+# a run that finds something commits it and the site rebuilds behind it.
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: >-
+          Read every topic again, not only the ones with new posts by a rules
+          director. Picks up replies written after their last post; takes
+          hours rather than minutes.
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# One sweep at a time, and never cancel one halfway: a topic is written whole
+# or not at all, and an interrupted run would leave the next one none the wiser.
+concurrency:
+  group: follow-the-forum
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    outputs:
+      changed: ${{ steps.keep.outputs.changed }}
+      sha: ${{ steps.keep.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # Two members, because it took two to cover the rulings: Ankha, and
+      # Pascal Bertrand, the rules director before him.
+      - name: Read the forum
+        env:
+          REFRESH: ${{ inputs.refresh && '--refresh' || '' }}
+        run: |
+          python3 sync_forum.py --user "ankha" $REFRESH
+          python3 sync_forum.py --user "Pascal Bertrand" $REFRESH
+
+      - name: Keep what it found
+        id: keep
+        run: |
+          if [ -z "$(git status --porcelain threads)" ]; then
+            echo "nothing new on the forum"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git add threads
+          files=$(git diff --cached --name-only)
+          count=$(printf '%s\n' "$files" | wc -l | tr -d ' ')
+          topics=$(printf '%s\n' "$files" |
+            sed -n 's|.*_vekn-\([0-9]*\)\.json$|\1|p' | sort -n | paste -sd' ' -)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Follow the forum: $count topics" -m "Topics: $topics"
+          git push || { git pull --rebase && git push; }
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  # Pushing with GITHUB_TOKEN starts no further workflow, so the deploy has to
+  # be asked for here rather than left to the one that watches for a push.
+  publish:
+    needs: sweep
+    if: needs.sweep.outputs.changed == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
+    with:
+      ref: ${{ needs.sweep.outputs.sha }}

@@ -111,7 +111,9 @@ Options: `--out DIR`, `--base-url URL` (emits `sitemap.xml`), `--limit N` (build
 the first N threads only, for a fast look at a style change).
 
 The site is published to GitHub Pages by `.github/workflows/pages.yml` on every
-push to `main`. Generated HTML is not committed.
+push to `main`, and by the nightly forum sweep, which pushes with a token that
+starts no workflow of its own and so asks for the build directly. Generated
+HTML is not committed.
 
 ## Searching it
 
@@ -148,6 +150,18 @@ for 2,861 topics, a run that finds nothing new takes a minute.
 
 What a plain run cannot see is a reply written after that member's last post in
 a topic; `--refresh` is for that.
+
+`.github/workflows/sync.yml` does all this every night at 4:17 UTC, for both
+members, and commits whatever it found; the site rebuilds behind it. Most
+nights it finds nothing and commits nothing. The Actions tab runs it on demand
+and offers a `refresh` box for the slow kind of run.
+
+Two things about the nightly one. A sweep whose search the forum would not let
+finish fails rather than reporting a quiet night, because from the outside
+those look the same and only one of them means the archive is current. And
+GitHub switches a scheduled workflow off after sixty days with no commit to the
+repository — so a quiet spell long enough would stop the sweep that would have
+ended it. The Actions tab hands it back with a button.
 
 `--user` takes any member, and it took two to cover the rulings: Ankha, and
 Pascal Bertrand, the rules director before him. Nor does the search see quite

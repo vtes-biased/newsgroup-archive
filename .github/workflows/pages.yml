@@ -4,6 +4,16 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # The nightly forum sweep asks for a deploy itself; its own push cannot.
+  workflow_call:
+    inputs:
+      ref:
+        description: >-
+          What to build. A run started by a schedule is pinned to the commit
+          it began at, which is the one before the sweep pushed, so the sweep
+          names what it wrote. Empty means the commit that started the run.
+        type: string
+        default: ""
 
 permissions:
   contents: read
@@ -19,6 +29,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
       - uses: actions/configure-pages@v5
         id: pages
         with:
