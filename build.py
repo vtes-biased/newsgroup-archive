@@ -343,16 +343,17 @@ def render_index(by_year: dict[str, list[Thread]], total: int) -> str:
         f"<span class='n'>{len(threads)}</span></li>"
         for year, threads in sorted(by_year.items())
     )
+    first = min(by_year)
     body = f"""<h1>rec.games.trading-cards.jyhad</h1>
-<p class="lede">The Usenet group where Vampire: The Eternal Struggle was played
-out in public from 1994 to 2010, and where its rules directors answered
-questions one post at a time. This is a preserved copy of every thread one of
-those directors took part in &mdash;
+<p class="lede">The rules of Vampire: The Eternal Struggle have been settled in
+public, one post at a time, since {first}: on the Usenet group this archive is
+named for until 2010, on the <a href="https://www.vekn.net/forum">V:EKN
+forum</a> ever since, which is where the rulings went when Usenet ended, and on
+BoardGameGeek in between, where L.&nbsp;Scott&nbsp;Johnson wrote his last
+ruling as rules director. This is a preserved copy of every thread one of those
+directors took part in, {first} to today &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
-together with the topics their successors have answered on the V:EKN forum
-ever since, which is where the rulings went when Usenet ended, and three
-the threads L.&nbsp;Scott&nbsp;Johnson answered on BoardGameGeek in between,
-where his last ruling as rules director was posted.</p>
+kept whole, questions and argument included, not just the answers.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
 database</a> cite these threads. Those citations point at Google Groups today;
 they will point here instead, because this copy is not going anywhere.</p>
