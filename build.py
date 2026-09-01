@@ -353,10 +353,9 @@ BoardGameGeek in between, where L.&nbsp;Scott&nbsp;Johnson wrote his last
 ruling as rules director. This is a preserved copy of every thread one of those
 directors took part in, {first} to today &mdash;
 {sum(len(t) for t in by_year.values()):,} threads, {total:,} messages &mdash;
-kept whole, questions and argument included, not just the answers.</p>
+kept whole, questions and argument included.</p>
 <p>The rulings in the <a href="https://rulings.krcg.org">VTES rulings
-database</a> cite these threads. Those citations point at Google Groups today;
-they will point here instead, because this copy is not going anywhere.</p>
+database</a> cite these threads.</p>
 <ul class="years">
 {years}
 </ul>
@@ -369,7 +368,7 @@ def render_about(total_threads: int, total_messages: int) -> str:
     body = f"""<nav class="crumbs"><a href="../">Archive</a></nav>
 <h1>About this archive</h1>
 <p>This is a static copy of {total_threads:,} threads
-({total_messages:,} messages), from three places. Most of them come from the
+({total_messages:,} messages), from four places. Most of them come from the
 Usenet newsgroup <code>{GROUP}</code>, spanning 1994 to 2010: every thread in
 which one of the game's rules directors posted &mdash;
 <strong>Thomas&nbsp;R.&nbsp;Wylie</strong> (from December 1994),
@@ -383,7 +382,7 @@ answers.</p>
 <p>A few hundred of them are not from that group at all. Jyhad was released in
 1994, before <code>{GROUP}</code> existed, and its first rules discussions
 &mdash; including the rules team's earliest rulings lists &mdash; happened in
-<code>rec.games.deckmaster</code>, the Magic newsgroup. Those threads are here
+<code>rec.games.deckmaster</code>, the Deckmaster newsgroup. Those threads are here
 too, marked with the group they came from, so that the rulings citing them have
 somewhere to point.</p>
 
@@ -393,26 +392,19 @@ when the newsgroup did &mdash; they moved to the
 <strong>Pascal&nbsp;Bertrand</strong> and then <strong>Ankha</strong> have
 answered them since. Every topic either of them posted in is here too, marked
 with the forum it came from, on the same rule that decided which newsgroup
-threads to keep. The forum drops topics of its own accord: the
-one a Baltimore Purge ruling rests on returns a 404 today and survives only
-because the Wayback Machine happened to keep it, which is reason enough not to
-wait and see which goes next. Two more topics are here for the other reason
-&mdash; a ruling cites them, though neither director posted in them.</p>
+threads to keep.</p>
 
 <p>Fifty-seven threads come from a third place. As the newsgroup wound down,
 <strong>L.&nbsp;Scott&nbsp;Johnson</strong> took to answering questions in the
 game's Rules forum on
 <a href="https://boardgamegeek.com/boardgame/2122/vampire-the-eternal-struggle/forums/66">BoardGameGeek</a>,
 and his last ruling as rules director was written there rather than on Usenet
-or the forum: 11&nbsp;June&nbsp;2011. Four rulings cite that thread and its
-neighbours. A month later the seat passed to
+or the forum: 11&nbsp;June&nbsp;2011. A month later the seat passed to
 <strong>Pascal&nbsp;Bertrand</strong> and the rulings moved to the V:EKN forum
 for good, so the twelve threads here from after that date &mdash; he still
 turns up to answer a question, most recently in December&nbsp;2025 &mdash; are
 a former director's and not a sitting one's. They are kept for completeness,
-not for citing. BoardGameGeek will not list a forum's threads to anyone without
-an API key, so this set came from a search run on the site itself rather than
-from a crawl.</p>
+not for citing.</p>
 
 <h2>Why it exists</h2>
 <p>The <a href="https://github.com/vtes-biased/vtes-rulings">VTES rulings
@@ -497,13 +489,11 @@ def render_search() -> str:
     body = """<nav class="crumbs"><a href="../">Archive</a></nav>
 <h1>Search</h1>
 <p class="meta">Every word of every message, with thread titles and author
-names. A word matches from the start, so <code>temptat</code> finds
-<em>temptation</em> and <em>temptations</em>; type at least __MIN__ characters.
-Several words narrow the search &mdash; a thread has to hold them all.</p>
+names. A word matches from the start; type at least __MIN__ characters.
+Several words narrow the search.</p>
 <p class="meta">Quotes ask for the wording: <code>"the vampire is burned"</code>
-finds the threads that say it that way. The index knows which threads hold a
-word, not where in the thread it falls, so the wording is settled by reading the
-threads that hold every word &mdash; press Enter for that second step.</p>
+finds the threads that have the words in any order.
+Press enter for the engine to check the content and do an exact match.</p>
 <form id="f" onsubmit="return false"><input id="q" type="search"
   placeholder="temptation torpor" autofocus autocomplete="off"
   aria-label="Search the archive"></form>
