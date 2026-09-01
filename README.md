@@ -132,6 +132,16 @@ ten words is cut to the ten commonest, because `ra` starts 906 of them and
 unioning all 906 helps nobody. Accents come off on both sides, so Rötschreck and
 Rotschreck are one word; the group spelled it both ways.
 
+Quotes ask for a phrase, `"the vampire is burned"`, which the index alone
+cannot answer: it holds no word positions, and adding them would multiply its
+size. The words are looked up as they stand instead — no prefix widening, which
+would only add threads the wording throws away again — and Enter then fetches
+the candidate pages, strips the markup and keeps the threads whose words fall
+in that order. Sixty pages is as far as it goes, and the status line says so
+when it stops there. Line wrapping does not hide a phrase: the check reads a
+page as the words it says, so a sentence broken across two lines of a Usenet
+post still matches.
+
 ## Keeping the forum copy current
 
 ```sh
