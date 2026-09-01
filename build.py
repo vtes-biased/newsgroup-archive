@@ -394,7 +394,7 @@ answered them since. Every topic either of them posted in is here too, marked
 with the forum it came from, on the same rule that decided which newsgroup
 threads to keep.</p>
 
-<p>Fifty-seven threads come from a third place. As the newsgroup wound down,
+<p>Fifty-seven threads come from a fourth place. As the newsgroup wound down,
 <strong>L.&nbsp;Scott&nbsp;Johnson</strong> took to answering questions in the
 game's Rules forum on
 <a href="https://boardgamegeek.com/boardgame/2122/vampire-the-eternal-struggle/forums/66">BoardGameGeek</a>,
