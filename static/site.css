@@ -8,7 +8,7 @@
   --accent: #8b2635;
   --target: #f3e7e4;
   --quote: #7d786f;
-  --quote2: #9a958c;
+  --quote2: #868178;
   --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, sans-serif;
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 }
@@ -22,7 +22,7 @@
     --accent: #e08c95;
     --target: #2a2024;
     --quote: #857f76;
-    --quote2: #6a655e;
+    --quote2: #7a756e;
   }
 }
 
@@ -112,7 +112,7 @@ pre.rewrite {
   font-size: 0.8125rem;
   line-height: 1.6;
   color: var(--muted);
-  background: var(--faint);
+  border: 1px solid var(--faint);
   padding: 0.9rem 1rem;
   border-radius: 3px;
   overflow-x: auto;
@@ -141,6 +141,10 @@ table.listing a:hover { text-decoration: underline; }
 
 /* ---- search ---- */
 
+.help { color: var(--muted); font-size: 0.875rem; margin: 0 0 1.75rem; }
+.help p { margin: 0 0 0.5rem; }
+.help p:last-child { margin-bottom: 0; }
+
 #f { margin: 0 0 1rem; }
 #q {
   width: 100%;
@@ -166,14 +170,17 @@ article.msg:has(> .alias:target) { background: var(--target); box-shadow: 0 0 0 
 .who { font-size: 0.9375rem; font-weight: 600; margin: 0; }
 .when { font-size: 0.75rem; color: var(--muted); margin: 0 0 0.9rem; font-family: var(--mono); }
 
+/* Faint at rest rather than invisible: a phone has no hover, and the link to
+   a single message is what a ruling cites. */
 .permalink {
   margin-left: 0.5rem;
   font-weight: 400;
-  color: var(--faint);
+  color: var(--muted);
+  opacity: 0.35;
   text-decoration: none;
 }
-article.msg:hover .permalink { color: var(--muted); }
-.permalink:hover { color: var(--accent); }
+article.msg:hover .permalink { opacity: 1; }
+.permalink:hover, .permalink:focus-visible { color: var(--accent); opacity: 1; }
 
 .body {
   font-family: var(--mono);
@@ -184,7 +191,7 @@ article.msg:hover .permalink { color: var(--muted); }
 }
 
 .body .q { color: var(--quote); }
-.body .q2, .body .q + .q2 { color: var(--quote2); }
+.body .q2 { color: var(--quote2); }
 
 .elided {
   color: var(--muted);
@@ -197,4 +204,5 @@ article.msg:hover .permalink { color: var(--muted); }
   main { padding: 1.5rem 1rem 3rem; }
   h1 { font-size: 1.3125rem; }
   .body { font-size: 0.78125rem; }
+  pre.rewrite { font-size: 0.75rem; }
 }

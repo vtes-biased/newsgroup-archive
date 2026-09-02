@@ -435,8 +435,8 @@ translated mechanically:</p>
         &darr;
   usenet.krcg.org/t/<b>KWekwiRSa2I</b>/</pre>
 <p>Within a thread, <code>#m0</code> is the first message, <code>#m1</code> the
-second, and so on. The <span class="permalink">#</span> beside each author name
-is that message's own link.</p>
+second, and so on. The <code>#</code> beside each author name is that
+message's own link.</p>
 <p>A forum topic keeps its own number, and every post keeps the number the forum
 gave it, so a link into the forum keeps its fragment too and still lands on the
 post it was pointing at:</p>
