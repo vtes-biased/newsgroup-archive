@@ -107,6 +107,10 @@ python3 build.py                 # writes _site/
 python3 -m http.server -d _site  # look at it
 ```
 
+`site.css` and `search.js`, in `static/`, are copied to the site as they
+stand; `search.js` is what `/search/` runs. Everything else is written by
+`build.py`.
+
 Options: `--out DIR`, `--base-url URL` (emits `sitemap.xml`), `--limit N` (build
 the first N threads only, for a fast look at a style change).
 
@@ -125,7 +129,7 @@ stay short.
 
 Whole, the index is 17 MB (6.5 MB over the wire), which is more than a phone
 should have to fetch to search at all. Split this way, a query downloads only
-the files its words fall in: a few KB for most of them, 214 KB for `co.txt`,
+the files its words fall in: a few KB for most of them, 216 KB for `co.txt`,
 the worst of the 1,332. Words are matched by prefix, which a sorted file gives
 for nothing — the matches are consecutive lines. A prefix that starts more than
 ten words is cut to the ten commonest, because `ra` starts 906 of them and
