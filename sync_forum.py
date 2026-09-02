@@ -38,6 +38,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+import archive
 import import_forum
 
 SITE = "https://www.vekn.net"
@@ -228,7 +229,7 @@ def sync(args: argparse.Namespace) -> int:
                 print(f"  {problem}", file=sys.stderr)
                 failed += 1
                 continue
-            path = import_forum.write_thread(thread, out)
+            path = archive.write_thread(thread, out)
             known[number] = (path, thread)
             fetched += 1
         print(f"fetched {fetched}, gone {gone}, failed {failed}")

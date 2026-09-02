@@ -35,6 +35,7 @@ import sys
 import time
 from xml.etree import ElementTree
 
+import archive
 import import_forum
 
 GROUP = "boardgamegeek.com/vtes"
@@ -137,18 +138,6 @@ def body(raw: str, delay: float = 0.0) -> str:
     return import_forum.written(flow(ElementTree.fromstring(raw), delay))
 
 
-def displayed(when: datetime.datetime) -> str:
-    """Write a date the way the archive displays one.
-
-    BoardGameGeek stamps a post to the second and in UTC, and says so; the
-    archive keeps both rather than converting to a timezone nobody recorded the
-    post in.
-    """
-    marker = "AM" if when.hour < 12 else "PM"
-    clock = f"{when.hour % 12 or 12}:{when:%M:%S}"
-    return f"{when:%b} {when.day}, {when.year}, {clock}\u202f{marker}"
-
-
 def read(url: str) -> dict:
     """One of BoardGameGeek's JSON replies."""
     return json.loads(import_forum.fetch(url))
@@ -200,7 +189,7 @@ def build_thread(topic: str, delay: float) -> dict:
         messages.append(
             {
                 "Author": named(post["author"], delay),
-                "Date": displayed(when.replace(tzinfo=None)),
+                "Date": archive.displayed(when.replace(tzinfo=None)),
                 "Body": body(post["bodyXml"], delay),
                 "Id": post["id"],
             }
@@ -233,7 +222,7 @@ def main() -> int:
         except (ValueError, KeyError) as problem:
             print(f"{topic}: {problem}", file=sys.stderr)
             return 1
-        path = import_forum.write_thread(thread, args.out)
+        path = archive.write_thread(thread, args.out)
         print(f"{path}  {len(thread['Messages'])} posts  {thread['Title']}")
     return 0
 

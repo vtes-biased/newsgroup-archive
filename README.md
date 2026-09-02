@@ -35,7 +35,11 @@ of the game's rules directors took part.
 
 A thread from anywhere but the newsgroup carries a `Group` saying where it came
 from. `import_mbox.py`, `import_forum.py`, `sync_forum.py` and `import_bgg.py` are
-what put them here.
+what put them here, and `merge_mbox.py` filled the gaps Google's copy had from
+the Internet Archive's. Putting a lost post back moves the ones after it, so
+that run also wrote `anchors.json`: the map from old `#m` number to new, for
+the rulings that had already cited them. `archive.py` is what they all agree
+on: how a date is written, how a thread is serialised, and where its file goes.
 
 Each file is one thread:
 

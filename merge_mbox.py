@@ -42,6 +42,8 @@ import re
 import sys
 import zoneinfo
 
+import archive
+
 #: A crossposted message carries one of these per group it was posted to.
 RE_THREAD = re.compile(rb"^X-Google-Thread: \w+,(\w+)", re.M)
 RE_HEADER = rb"^%s:[ \t]*(.*(?:\n[ \t].*)*)"
@@ -51,9 +53,6 @@ RE_PLAIN_DATE = re.compile(r"^(\d{4})/(\d{2})/(\d{2})$")
 #: browser that scraped it. `derive_timezone` checks that against the mbox rather
 #: than trusting it.
 DISPLAY_TZ = zoneinfo.ZoneInfo("Europe/Paris")
-#: The narrow no-break space before AM/PM is the one Google Groups wrote, and
-#: keeping it means a restored post is written exactly like its neighbours.
-DISPLAY_FORMAT = "%b %-d, %Y, %-I:%M:%S %p"
 
 
 def thread_ident(thread_id: str) -> str:
@@ -121,6 +120,26 @@ def author(raw: str) -> str:
     return name or (parenthesised.group(1) if parenthesised else address) or raw
 
 
+def decoded(payload: bytes, charset: str | None) -> str:
+    """Text out of bytes, believing the post about its encoding where it says.
+
+    Where it says nothing -- most of Usenet before about 2003 -- the bytes are
+    tried as UTF-8 first, which fails on anything that is not UTF-8, and read as
+    Latin-1 when it does. Decoding those bytes as UTF-8 anyway would turn the
+    accent in a name into a replacement character and lose it for good, and a
+    body that is noise cannot be compared with the archive's copy of the post.
+    """
+    if charset:
+        try:
+            return payload.decode(charset, "replace")
+        except LookupError:
+            pass
+    try:
+        return payload.decode("utf-8")
+    except UnicodeDecodeError:
+        return payload.decode("latin-1")
+
+
 def body(raw: bytes) -> str:
     """The post itself, decoded and stripped of its headers.
 
@@ -134,17 +153,11 @@ def body(raw: bytes) -> str:
         payload = message.get_payload(decode=True)
         if payload is None:
             raise ValueError
-        charset = message.get_content_charset() or "utf-8"
-        try:
-            return payload.decode(charset, "replace").strip("\n")
-        except LookupError:
-            return payload.decode("utf-8", "replace").strip("\n")
+        return decoded(payload, message.get_content_charset()).strip("\n")
     except Exception:
         # Headers end at the first blank line; a message with no body has none.
         split = raw.split(b"\n\n", 1)
-        return (
-            (split[1] if len(split) > 1 else b"").decode("utf-8", "replace").strip("\n")
-        )
+        return decoded(split[1] if len(split) > 1 else b"", None).strip("\n")
 
 
 def scan(path: pathlib.Path):
@@ -194,24 +207,7 @@ def index(path: pathlib.Path, cache: pathlib.Path | None):
     return rows
 
 
-def dump(data: dict) -> str:
-    """Serialise a thread the way the ones already in the archive are written.
-
-    The archive was first written by another tool, and rewriting a thread in a
-    different style would show up as a diff on every line of every file touched,
-    burying the one post that actually changed. Two spaces of indent, CRLF, upper
-    case in the escapes, no trailing newline.
-    """
-    text = json.dumps(data, indent=2)
-    text = re.sub(r"\\u([0-9a-f]{4})", lambda m: "\\u" + m.group(1).upper(), text)
-    return text.replace("\n", "\r\n")
-
-
-def archive_threads(root: pathlib.Path) -> dict[str, pathlib.Path]:
-    return {path.stem.split("_", 2)[-1]: path for path in root.glob("threads/*/*.json")}
-
-
-def displayed(text: str) -> list[datetime.datetime]:
+def instants(text: str) -> list[datetime.datetime]:
     """Read back a date the archive displays, as the UTC instants it can mean.
 
     The hour the clocks go back happens twice, and the archive writes it down only
@@ -268,7 +264,7 @@ def derive_timezone(threads, mbox_by_thread) -> collections.Counter:
                 stamps[(stamp.minute, stamp.second)].append(stamp)
         data = json.loads(path.read_text(encoding="utf-8"))
         for message in data["Messages"]:
-            when = next(iter(displayed(message["Date"])), None)
+            when = next(iter(instants(message["Date"])), None)
             if when is None:
                 continue
             for other in stamps.get((when.minute, when.second), []):
@@ -308,7 +304,7 @@ def align(messages: list[dict], rows: list[dict]) -> dict[int, int]:
     matched, taken = {}, set()
     for index_, message in enumerate(messages):
         candidates = [
-            p for when in displayed(message["Date"]) for p in pool.get(when, [])
+            p for when in instants(message["Date"]) for p in pool.get(when, [])
         ]
         candidates = [p for p in candidates if p not in taken]
         if not candidates:
@@ -384,9 +380,9 @@ def merge(messages: list[dict], rows: list[dict], bodies: dict[int, str]):
         additions[after].append(
             {
                 "Author": row["author"],
-                "Date": datetime.datetime.fromisoformat(row["when"])
-                .astimezone(DISPLAY_TZ)
-                .strftime(DISPLAY_FORMAT),
+                "Date": archive.displayed(
+                    datetime.datetime.fromisoformat(row["when"]).astimezone(DISPLAY_TZ)
+                ),
                 "Body": bodies.get(position, ""),
                 "Recovered": True,
             }
@@ -429,7 +425,7 @@ def main() -> int:
         thread.sort(key=lambda row: (row["when"] or "", row["id"]))
     print(f"{len(by_thread)} threads in the mbox")
 
-    threads = archive_threads(root)
+    threads = archive.threads(root)
     known = set(threads) & set(by_thread)
     print(
         f"{len(known)} of them already in the archive, {len(by_thread) - len(known)} not"
@@ -494,7 +490,7 @@ def apply_(args, root, threads, by_thread, known, poster):
         anchors_out[ident] = {str(o): n for o, n in anchors.items() if o != n}
         data["Messages"] = merged
         if args.write:
-            path.write_text(dump(data), encoding="utf-8")
+            path.write_text(archive.dump(data), encoding="utf-8")
     print(f"{written} threads grew by {recovered} posts, moving {moved} anchors")
 
     imported = 0
@@ -515,9 +511,11 @@ def apply_(args, root, threads, by_thread, known, poster):
             "Messages": [
                 {
                     "Author": row["author"],
-                    "Date": datetime.datetime.fromisoformat(row["when"])
-                    .astimezone(DISPLAY_TZ)
-                    .strftime(DISPLAY_FORMAT),
+                    "Date": archive.displayed(
+                        datetime.datetime.fromisoformat(row["when"]).astimezone(
+                            DISPLAY_TZ
+                        )
+                    ),
                     "Body": bodies.get((ident, position), ""),
                 }
                 for position, row in enumerate(rows)
@@ -532,7 +530,7 @@ def apply_(args, root, threads, by_thread, known, poster):
                 / f"{start.strftime('%Y%m%d_%H%M')}_{ident}.json"
             )
             out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_text(dump(thread), encoding="utf-8")
+            out.write_text(archive.dump(thread), encoding="utf-8")
     print(f"{imported} threads imported whole")
 
     if args.anchors:

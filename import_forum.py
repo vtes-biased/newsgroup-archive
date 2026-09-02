@@ -31,7 +31,7 @@ import sys
 import urllib.parse
 import urllib.request
 
-import merge_mbox
+import archive
 
 GROUP = "vekn.net/forum"
 #: Who is reading, in case anyone wonders at the traffic.
@@ -202,36 +202,6 @@ def posted(raw: str) -> datetime.datetime:
     )
 
 
-def displayed(when: datetime.datetime) -> str:
-    """Write a date the way the archive displays one.
-
-    The forum shows no seconds, which the archive already has a format for, so
-    the date is written without rather than padded with a second nobody
-    recorded. The time is the forum's own, unconverted: which timezone it
-    displays in is not on the page, and a reference dates the ruling anyway,
-    not the post.
-    """
-    marker = "AM" if when.hour < 12 else "PM"
-    return f"{when:%b} {when.day}, {when.year}, {when.hour % 12 or 12}:{when:%M}\u202f{marker}"
-
-
-def started(thread: dict) -> datetime.datetime:
-    """When a topic opened, read back off its first post.
-
-    The file a thread lives in is named for that moment, so the name has to
-    come from the same string the thread carries rather than a second reading
-    of the page -- one date, written once. The forum records no seconds and
-    BoardGameGeek records them, so both shapes of the archive's date are read.
-    """
-    stamp = thread["Messages"][0]["Date"].replace("\u202f", " ")
-    for shape in ("%b %d, %Y, %I:%M:%S %p", "%b %d, %Y, %I:%M %p"):
-        try:
-            return datetime.datetime.strptime(stamp, shape)
-        except ValueError:
-            continue
-    raise ValueError(f"unreadable thread date: {stamp!r}")
-
-
 def fetch(url: str, timeout: int = 120) -> str:
     """Read a page, saying who is reading it."""
     request = urllib.request.Request(url, headers={"User-Agent": AGENT})
@@ -258,7 +228,7 @@ def build_thread(pages: list[str], url: str) -> dict:
     if not match:
         raise ValueError(f"no topic number in {url}")
     for post in posts:
-        post["Date"] = displayed(posted(post["Date"]))
+        post["Date"] = archive.displayed(posted(post["Date"]), seconds=False)
     return {
         "ThreadId": f"vekn-{match.group(1)}",
         "Group": GROUP,
@@ -266,20 +236,6 @@ def build_thread(pages: list[str], url: str) -> dict:
         "Title": title,
         "Messages": posts,
     }
-
-
-def write_thread(thread: dict, out: pathlib.Path) -> pathlib.Path:
-    """Put a thread where the archive keeps threads."""
-    start = started(thread)
-    path = (
-        out
-        / "threads"
-        / start.strftime("%Y")
-        / f"{start.strftime('%Y%m%d_%H%M')}_{thread['ThreadId']}.json"
-    )
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(merge_mbox.dump(thread), encoding="utf-8")
-    return path
 
 
 def main() -> int:
@@ -308,7 +264,7 @@ def main() -> int:
     except ValueError as problem:
         print(problem, file=sys.stderr)
         return 1
-    path = write_thread(thread, args.out)
+    path = archive.write_thread(thread, args.out)
     print(f"{path}  {len(thread['Messages'])} posts  {thread['Title']}")
     return 0
 

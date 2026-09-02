@@ -19,61 +19,18 @@ thread reads in order whatever timezone its posters were in.
 """
 
 import argparse
-import datetime
-import email.utils
 import json
 import pathlib
 import re
 import sys
 
+import archive
 import merge_mbox
 
-RE_THREAD = re.compile(r"^X-Google-Thread: \w+,(\w+)", re.M)
-
-
-def header(message: str, name: str) -> str:
-    found = re.search(rf"^{name}: (.*)", message, re.M)
-    return found.group(1).strip() if found else ""
-
-
-#: Google's own export sometimes replaced the Date header with a bare day.
-RE_PLAIN_DATE = re.compile(r"^(\d{4})/(\d{2})/(\d{2})$")
-
-
-def posted(message: str) -> datetime.datetime:
-    """When a post was made, in UTC.
-
-    Most messages keep their original Date header. Where Google's export replaced
-    it with a bare day, the arrival time it stamped is the better record.
-    """
-    raw = header(message, "Date")
-    try:
-        stamp = email.utils.parsedate_to_datetime(raw)
-        # A `-0000` offset means "UTC, and the sender's own zone is unknown", which
-        # the parser reports as a date carrying no timezone at all. Reading that as
-        # local time moves the post by however far this machine is from Greenwich.
-        if stamp.tzinfo is None:
-            stamp = stamp.replace(tzinfo=datetime.timezone.utc)
-        return stamp.astimezone(datetime.timezone.utc)
-    except (TypeError, ValueError):
-        pass
-    arrival = header(message, "X-Google-ArrivalTime")
-    if arrival:
-        stamp = datetime.datetime.strptime(arrival[:19], "%Y-%m-%d %H:%M:%S")
-        return stamp.replace(tzinfo=datetime.timezone.utc)
-    plain = RE_PLAIN_DATE.match(raw)
-    if plain:
-        return datetime.datetime(
-            *map(int, plain.groups()), tzinfo=datetime.timezone.utc
-        )
-    raise ValueError(f"unparsable date: {raw!r}")
-
-
-def author(raw: str) -> str:
-    """`aahz@hal.COM (Tom Wylie)` and `"A B" <a@b>` both carry a display name."""
-    name, address = email.utils.parseaddr(raw)
-    parenthesised = re.search(r"\(([^)]+)\)", raw)
-    return name or (parenthesised.group(1) if parenthesised else address)
+# Reading an mbox is `merge_mbox.py`'s trade -- headers that fold across lines,
+# subjects written in an encoded word, bodies in quoted-printable -- and Usenet
+# is full of messages a stricter parser will not touch. Both tools read the same
+# files, so they read them the same way.
 
 
 def main() -> int:
@@ -95,11 +52,12 @@ def main() -> int:
         return 1
 
     root = pathlib.Path(__file__).parent
-    known = {path.stem.split("_", 2)[-1] for path in root.glob("threads/*/*.json")}
+    held = archive.threads(root)
+    known = set(held)
     # The same thread can be known under a Google id and under the mbox's own, so
     # recognise it by its opening post as well as by its identifier.
     openings = set()
-    for path in root.glob("threads/*/*.json"):
+    for path in held.values():
         data = json.loads(path.read_text(encoding="utf-8"))
         if data["Messages"]:
             first = data["Messages"][0]
@@ -108,21 +66,26 @@ def main() -> int:
     poster = re.compile(args.author, re.I) if args.author else None
 
     threads: dict[str, list[dict]] = {}
-    for raw in args.mbox.read_text(encoding="latin-1").split("\nFrom "):
+    for _, raw in merge_mbox.scan(args.mbox):
         # A crossposted message carries one X-Google-Thread per group it went to.
-        ids = RE_THREAD.findall(raw)
+        ids = [found.decode() for found in merge_mbox.RE_THREAD.findall(raw)]
         if args.thread and args.thread not in ids:
+            continue
+        when = merge_mbox.posted(raw)
+        # A post the archive cannot date cannot be put in order either, and a
+        # thread is only worth citing if it reads in the order it was written.
+        if when is None:
+            said = merge_mbox.header(raw, "Message-ID") or "a post with no id"
+            print(f"skipped {said}: no readable date", file=sys.stderr)
             continue
         for thread_id in [args.thread] if args.thread else ids:
             threads.setdefault(thread_id, []).append(
                 {
-                    "when": posted(raw),
-                    "Author": author(header(raw, "From")),
-                    "Subject": header(raw, "Subject"),
-                    "Message-ID": header(raw, "Message-ID"),
-                    # Headers end at the first blank line; the rest is the post,
-                    # which a message with no body at all simply does not have.
-                    "Body": (raw.split("\n\n", 1) + [""])[1].strip("\n"),
+                    "when": when,
+                    "Author": merge_mbox.author(merge_mbox.header(raw, "From")),
+                    "Subject": merge_mbox.header(raw, "Subject"),
+                    "Message-ID": merge_mbox.header(raw, "Message-ID"),
+                    "Body": merge_mbox.body(raw),
                 }
             )
 
@@ -139,7 +102,7 @@ def main() -> int:
         ident = args.id or thread_id
         opening = (
             posts[0]["Author"],
-            posts[0]["when"].strftime(merge_mbox.DISPLAY_FORMAT),
+            archive.displayed(posts[0]["when"]),
             title or "(no subject)",
         )
         if not args.id and (ident in known or opening in openings):
@@ -157,21 +120,17 @@ def main() -> int:
                 {
                     "Author": p["Author"],
                     # The format the rest of the archive uses, as Google showed it.
-                    "Date": p["when"].strftime(merge_mbox.DISPLAY_FORMAT),
+                    "Date": archive.displayed(p["when"]),
                     "Body": p["Body"],
                 }
                 for p in posts
             ],
         }
-        start = posts[0]["when"]
-        out = args.out or (
-            root
-            / "threads"
-            / start.strftime("%Y")
-            / f"{start.strftime('%Y%m%d_%H%M')}_{ident}.json"
-        )
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(merge_mbox.dump(thread), encoding="utf-8")
+        if args.out:
+            args.out.parent.mkdir(parents=True, exist_ok=True)
+            args.out.write_text(archive.dump(thread), encoding="utf-8")
+        else:
+            archive.write_thread(thread, root)
         written += 1
         messages += len(posts)
     print(f"{written} threads, {messages} messages imported from {args.group}")
