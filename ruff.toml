@@ -1,0 +1,8 @@
+# The archive stores the dates it was given, as wall clock, exactly as the
+# source displayed them: Google Groups rendered them in the timezone of the
+# browser that scraped it, the V:EKN forum names no zone on the page at all,
+# and none of that is recoverable after the fact. Reading those strings back
+# into aware datetimes would mean inventing an offset and writing it down as
+# if it were recorded, so the dates stay naive on purpose.
+[lint]
+ignore = ["DTZ007"]

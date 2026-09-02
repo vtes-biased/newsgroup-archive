@@ -62,8 +62,8 @@ def main() -> int:
         if data["Messages"]:
             first = data["Messages"][0]
             openings.add((first["Author"], first["Date"], data["Title"]))
-    subject = re.compile(args.match, re.I) if args.match else None
-    poster = re.compile(args.author, re.I) if args.author else None
+    subject = re.compile(args.match, re.IGNORECASE) if args.match else None
+    poster = re.compile(args.author, re.IGNORECASE) if args.author else None
 
     threads: dict[str, list[dict]] = {}
     for _, raw in merge_mbox.scan(args.mbox):
@@ -92,7 +92,9 @@ def main() -> int:
     written = messages = 0
     for thread_id, posts in sorted(threads.items()):
         posts.sort(key=lambda m: m["when"])
-        title = re.sub(r"^(Re|Fwd):\s*", "", posts[0]["Subject"], flags=re.I).strip()
+        title = re.sub(
+            r"^(Re|Fwd):\s*", "", posts[0]["Subject"], flags=re.IGNORECASE
+        ).strip()
         if subject and not subject.search(posts[0]["Subject"]):
             continue
         if poster and not any(poster.search(p["Author"]) for p in posts):

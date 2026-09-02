@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """How a thread is written down: the format the importers have to agree on.
 
 A thread is one JSON file under `threads/<year>/`, named for the moment it

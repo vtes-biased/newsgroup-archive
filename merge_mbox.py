@@ -45,7 +45,7 @@ import zoneinfo
 import archive
 
 #: A crossposted message carries one of these per group it was posted to.
-RE_THREAD = re.compile(rb"^X-Google-Thread: \w+,(\w+)", re.M)
+RE_THREAD = re.compile(rb"^X-Google-Thread: \w+,(\w+)", re.MULTILINE)
 RE_HEADER = rb"^%s:[ \t]*(.*(?:\n[ \t].*)*)"
 #: Google's own export sometimes replaced the Date header with a bare day.
 RE_PLAIN_DATE = re.compile(r"^(\d{4})/(\d{2})/(\d{2})$")
@@ -71,7 +71,7 @@ def header(raw: bytes, name: str) -> str:
     Usenet is full of messages no strict parser will touch, and a merge that skips
     them loses exactly the posts it is here to recover.
     """
-    found = re.search(RE_HEADER % name.encode(), raw, re.M | re.I)
+    found = re.search(RE_HEADER % name.encode(), raw, re.MULTILINE | re.IGNORECASE)
     if not found:
         return ""
     folded = found.group(1).decode("utf-8", "replace").replace("\n", " ")
@@ -154,7 +154,7 @@ def body(raw: bytes) -> str:
         if payload is None:
             raise ValueError
         return decoded(payload, message.get_content_charset()).strip("\n")
-    except Exception:
+    except Exception:  # noqa: BLE001 - see above: anything at all, or lose the post
         # Headers end at the first blank line; a message with no body has none.
         split = raw.split(b"\n\n", 1)
         return decoded(split[1] if len(split) > 1 else b"", None).strip("\n")
@@ -196,7 +196,7 @@ def index(path: pathlib.Path, cache: pathlib.Path | None):
                 "offset": offset,
                 "length": len(raw),
                 "id": message_id,
-                "threads": sorted(set(t.decode() for t in RE_THREAD.findall(raw))),
+                "threads": sorted({t.decode() for t in RE_THREAD.findall(raw)}),
                 "when": when.isoformat() if when else None,
                 "author": author(header(raw, "From")),
                 "subject": header(raw, "Subject"),
@@ -439,7 +439,7 @@ def main() -> int:
         print("the archive's times do not line up with the mbox's; not merging")
         return 1
 
-    poster = re.compile(args.author, re.I) if args.author else None
+    poster = re.compile(args.author, re.IGNORECASE) if args.author else None
     return apply_(args, root, threads, by_thread, known, poster)
 
 
@@ -511,7 +511,9 @@ def apply_(args, root, threads, by_thread, known, poster):
         rows = [r for r in rows if r["when"]]
         if not rows:
             continue
-        title = re.sub(r"^(Re|Fwd):\s*", "", rows[0]["subject"], flags=re.I).strip()
+        title = re.sub(
+            r"^(Re|Fwd):\s*", "", rows[0]["subject"], flags=re.IGNORECASE
+        ).strip()
         thread = {
             "ThreadId": ident,
             "Group": args.group,

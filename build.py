@@ -220,8 +220,10 @@ class Thread:
         count = len(self.messages)
         people = len(self.authors)
         parts = [
-            f'<nav class="crumbs"><a href="../../">Archive</a> / '
-            f'<a href="../../{year}/">{year}</a></nav>',
+            (
+                f'<nav class="crumbs"><a href="../../">Archive</a> / '
+                f'<a href="../../{year}/">{year}</a></nav>'
+            ),
             f"<h1>{html.escape(self.title)}</h1>",
             '<p class="meta">'
             f"{count} message{'s' if count > 1 else ''} from {people} "
@@ -251,7 +253,7 @@ class Thread:
                 f'<a class="permalink" href="#m{index}" '
                 f'aria-label="permalink to message {index + 1}">#</a></h2>\n'
                 f'<p class="when"><time datetime="{stamp.isoformat()}">'
-                f'{stamp.strftime("%d %B %Y, %H:%M")}</time></p>\n'
+                f"{stamp.strftime('%d %B %Y, %H:%M')}</time></p>\n"
                 f'<div class="body">{render_body(message["Body"])}</div>\n'
                 "</article>"
             )
@@ -348,8 +350,7 @@ def render_year(year: str, threads: list[Thread]) -> str:
 
 def render_index(by_year: dict[str, list[Thread]], total: int) -> str:
     years = "\n".join(
-        f"<li><a href='{year}/'>{year}</a> "
-        f"<span class='n'>{len(threads)}</span></li>"
+        f"<li><a href='{year}/'>{year}</a> <span class='n'>{len(threads)}</span></li>"
         for year, threads in sorted(by_year.items())
     )
     first = min(by_year)
