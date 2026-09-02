@@ -34,7 +34,7 @@ jobs:
       changed: ${{ steps.keep.outputs.changed }}
       sha: ${{ steps.keep.outputs.sha }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # Two members, because it took two to cover the rulings: Ankha, and
       # Pascal Bertrand, the rules director before him.
