@@ -53,6 +53,8 @@ RE_QUOTE = re.compile(r"^\s*(>+)")
 RE_COLON_QUOTE = re.compile(r"^(:+)( |$)")
 
 GROUP = "rec.games.trading-cards.jyhad"
+#: What the site is called, in the tab and in the top left of every page.
+SITE = "VTES rules archive"
 
 
 def parse_date(raw: str) -> datetime.datetime:
@@ -155,15 +157,15 @@ def page(title: str, body: str, *, depth: int, description: str = "") -> str:
 </head>
 <body>
 <header class="site">
-<a class="wordmark" href="{root}">rec.games.trading-cards.jyhad</a>
+<a class="wordmark" href="{root}">{SITE}</a>
 <nav><a href="{root}search/">Search</a> <a href="{root}about/">About</a></nav>
 </header>
 <main>
 {body}
 </main>
 <footer class="site">
-<p>An archive of the Usenet newsgroup <code>{GROUP}</code>, kept so that the
-rulings citing it keep working.</p>
+<p>The Usenet newsgroup <code>{GROUP}</code> and the forums that
+took over from it, kept so that the rulings citing them keep working.</p>
 </footer>
 </body>
 </html>
@@ -247,7 +249,7 @@ class Thread:
                 "</article>"
             )
         return page(
-            self.title,
+            f"{self.title} — {SITE}",
             "\n".join(parts),
             depth=2,
             description=f"{self.title} — {span}, {count} messages.",
@@ -334,7 +336,7 @@ def render_year(year: str, threads: list[Thread]) -> str:
         f"{sum(len(t.messages) for t in threads)} messages.</p>\n"
         f'<table class="listing">{rows}</table>'
     )
-    return page(f"{year} — jyhad newsgroup archive", body, depth=1)
+    return page(f"{year} — {SITE}", body, depth=1)
 
 
 def render_index(by_year: dict[str, list[Thread]], total: int) -> str:
@@ -344,10 +346,10 @@ def render_index(by_year: dict[str, list[Thread]], total: int) -> str:
         for year, threads in sorted(by_year.items())
     )
     first = min(by_year)
-    body = f"""<h1>rec.games.trading-cards.jyhad</h1>
+    body = f"""<h1>{SITE}</h1>
 <p class="lede">The rules of Vampire: The Eternal Struggle have been settled in
-public, one post at a time, since {first}: on the Usenet group this archive is
-named for until 2010, on the <a href="https://www.vekn.net/forum">V:EKN
+public, one post at a time, since {first}: on the Usenet newsgroup
+<code>{GROUP}</code> until 2010, on the <a href="https://www.vekn.net/forum">V:EKN
 forum</a> ever since, which is where the rulings went when Usenet ended, and on
 BoardGameGeek in between, where L.&nbsp;Scott&nbsp;Johnson wrote his last
 ruling as rules director. This is a preserved copy of every thread one of those
@@ -361,7 +363,7 @@ database</a> cite these threads.</p>
 </ul>
 <p class="note"><a href="search/">Search the full text</a> &middot;
 <a href="about/">Where this came from</a></p>"""
-    return page("rec.games.trading-cards.jyhad archive", body, depth=0)
+    return page(SITE, body, depth=0)
 
 
 def render_about(total_threads: int, total_messages: int) -> str:
@@ -474,7 +476,7 @@ repository, so they can be rebuilt, re-styled, or re-purposed without going back
 to any third party.</p>
 <p>The posts are the property of their authors and are reproduced here for
 reference and preservation.</p>"""
-    return page("About — jyhad newsgroup archive", body, depth=1)
+    return page(f"About — {SITE}", body, depth=1)
 
 
 def render_search() -> str:
@@ -501,7 +503,7 @@ keep the ones that say them in that order.</p>
 <p id="status" class="meta">Loading the index&hellip;</p>
 <table class="listing" id="results"></table>
 <script src="../search.js"></script>"""
-    return page("Search — jyhad newsgroup archive", body, depth=1)
+    return page(f"Search — {SITE}", body, depth=1)
 
 
 def main() -> int:
