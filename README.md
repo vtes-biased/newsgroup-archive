@@ -109,7 +109,8 @@ python3 -m http.server -d _site  # look at it
 
 `site.css` and `search.js`, in `static/`, are copied to the site as they
 stand; `search.js` is what `/search/` runs. Everything else is written by
-`build.py`.
+`build.py`, including a `404.html` — the links on it are absolute, because the
+server hands it out under whatever path was asked for.
 
 Options: `--out DIR`, `--base-url URL` (emits `sitemap.xml`), `--limit N` (build
 the first N threads only, for a fast look at a style change).

@@ -139,9 +139,16 @@ def render_body(body: str) -> str:
     return "\n".join(chunks)
 
 
-def page(title: str, body: str, *, depth: int, description: str = "") -> str:
-    """Wrap page content in the site chrome. ``depth`` is the URL nesting."""
-    root = "../" * depth or "./"
+def page(title: str, body: str, *, depth: int | None, description: str = "") -> str:
+    """Wrap page content in the site chrome.
+
+    ``depth`` is how far the page sits below the root, so that its links to the
+    stylesheet and the nav are relative and the site can be opened from a file
+    or served from a subdirectory. ``None`` means links from the site root
+    instead, which only the 404 page needs: the server hands it out under
+    whatever path was asked for, so it cannot know how deep it is.
+    """
+    root = "/" if depth is None else ("../" * depth or "./")
     meta = (
         f'<meta name="description" content="{html.escape(description)}">\n'
         if description
@@ -506,6 +513,26 @@ keep the ones that say them in that order.</p>
     return page(f"Search — {SITE}", body, depth=1)
 
 
+def render_404() -> str:
+    """What a citation into a thread the archive has not got arrives at.
+
+    Almost everyone who sees this followed a link from somewhere else, so it
+    says which links do work and hands them the search rather than apologising.
+    """
+    body = """<h1>No such page</h1>
+<p class="lede">Nothing is filed here. If you followed a citation, the thread it
+names is one the archive does not hold: only the discussions a rules director
+took part in were kept, and Google's copy of the newsgroup had gaps of its
+own.</p>
+<p>A thread lives at <code>/t/&lt;id&gt;/</code>, where the id is the one
+Google Groups used, or <code>vekn-&lt;topic&gt;</code> for a forum topic and
+<code>bgg-&lt;thread&gt;</code> for a BoardGameGeek one. Check it against
+<a href="/about/">how the links translate</a>.</p>
+<p class="note"><a href="/search/">Search the full text</a> &middot;
+<a href="/">Browse by year</a></p>"""
+    return page(f"Not found — {SITE}", body, depth=None)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--out", default="_site", type=pathlib.Path)
@@ -568,6 +595,7 @@ def main() -> int:
     write(out / "index.html", render_index(by_year, total_messages))
     write(out / "about" / "index.html", render_about(len(paths), total_messages))
     write(out / "search" / "index.html", render_search())
+    write(out / "404.html", render_404())
     # threads.json is what the search page reads a hit back out of, so a word
     # is filed under a thread's position in it, not the order the files were
     # read in. Sorting is stable, so threads sharing a date keep their order.
