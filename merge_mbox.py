@@ -474,7 +474,7 @@ def apply_(args, root, threads, by_thread, known, poster):
     print(f"{len(wanted)} posts to read back from the mbox")
     bodies = read_bodies(args.mbox, wanted)
 
-    moved = written = recovered = 0
+    moved = written = recovered = renamed = 0
     for ident in sorted(known):
         path = threads[ident]
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -489,9 +489,21 @@ def apply_(args, root, threads, by_thread, known, poster):
         moved += sum(1 for old, new in anchors.items() if old != new)
         anchors_out[ident] = {str(o): n for o, n in anchors.items() if o != n}
         data["Messages"] = merged
+        # A recovered post can be older than the one that opened the thread
+        # until now, and a thread's file is named for the moment it opened.
+        # Leaving the name alone would have it say a time no post in it carries.
+        wants = archive.path_for(data, root)
+        if wants != path:
+            renamed += 1
+            print(f"  {path.name} -> {wants.name}")
         if args.write:
-            path.write_text(archive.dump(data), encoding="utf-8")
-    print(f"{written} threads grew by {recovered} posts, moving {moved} anchors")
+            archive.write_thread(data, root)
+            if wants != path:
+                path.unlink()
+    print(
+        f"{written} threads grew by {recovered} posts, moving {moved} anchors"
+        + (f" and renaming {renamed} files" if renamed else "")
+    )
 
     imported = 0
     for ident in added:
@@ -500,7 +512,6 @@ def apply_(args, root, threads, by_thread, known, poster):
         if not rows:
             continue
         title = re.sub(r"^(Re|Fwd):\s*", "", rows[0]["subject"], flags=re.I).strip()
-        start = datetime.datetime.fromisoformat(rows[0]["when"]).astimezone(DISPLAY_TZ)
         thread = {
             "ThreadId": ident,
             "Group": args.group,
@@ -523,14 +534,7 @@ def apply_(args, root, threads, by_thread, known, poster):
         }
         imported += 1
         if args.write:
-            out = (
-                root
-                / "threads"
-                / start.strftime("%Y")
-                / f"{start.strftime('%Y%m%d_%H%M')}_{ident}.json"
-            )
-            out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_text(archive.dump(thread), encoding="utf-8")
+            archive.write_thread(thread, root)
     print(f"{imported} threads imported whole")
 
     if args.anchors:
