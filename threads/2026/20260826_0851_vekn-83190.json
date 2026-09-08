@@ -1,0 +1,68 @@
+{
+  "ThreadId": "vekn-83190",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83190-haymaker-window-and-type",
+  "Title": "Haymaker window and type",
+  "Messages": [
+    {
+      "Author": "Gr33n",
+      "Date": "Aug 26, 2026, 8:51\u202FAM",
+      "Body": "Can Haymaker be played by a blocking minion after the acting minion has chosen their strike?\n\nIs Haymaker itself a strike card and therefore cancellable by Anticipation?",
+      "Id": "117641"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Aug 26, 2026, 9:23\u202FAM",
+      "Body": "Haymaker\n\nWarning: Spoiler!\n\nPlay after range is determined. Only usable at close range. Not usable if this minion played a Haymaker last round.\nThis minion's initial strike this round will be strike: hand strike at +1 damage, and the opposing minion's initial strike this round gets first strike. If either minion inflicts more damage than the other this round, that minion gets an optional press this round.\n\n\"Play after range is determined.\"\nThis is not a strike card.\nThis card should only be played before strikes.\n\nIt's a card that would give you a strike, but it's not a strike card.\nIt's more in line with Zip gun.\n\nWarning: Spoiler!\n\nBefore range is determined, put this card on this minion. This card represents an equipment card and doesn't count as a combat card while in play. This equipment is a weapon, gun. Ammo cards cannot be used with this gun. It does 1R damage each strike, with an optional maneuver each combat. Bearer takes 1 damage during strike resolution when striking with this gun, but only once each combat. This card is kept as normal equipment and is not discarded after combat.\n\n\"Is Haymaker itself a strike card and therefore cancellable by Anticipation?\"\nNo",
+      "Id": "117642"
+    },
+    {
+      "Author": "Gr33n",
+      "Date": "Aug 26, 2026, 9:30\u202FAM",
+      "Body": "So then you mean \"yes\" to my question?\n> Can Haymaker be played by a blocking minion after the acting minion has chosen their strike?\n\nThat'd mean it's playable anytime after ranged is determined and before your strike is chosen. Is that right?",
+      "Id": "117643"
+    },
+    {
+      "Author": "Borrelstein",
+      "Date": "Aug 26, 2026, 10:52\u202FAM",
+      "Body": "Yes, that is the window for playing Haymaker according to card text.\nThe wording 'initial strike' also seems to imply that you can not keep it as a surprise for additional strikes.",
+      "Id": "117644"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Aug 26, 2026, 10:57\u202FAM",
+      "Body": "> Gr33n wrote:\n> So then you mean \"yes\" to my question?\n> > Can Haymaker be played by a blocking minion after the acting minion has chosen their strike?\n>\n> That'd mean it's playable anytime after range is determined and before your strike is chosen. Is that right?\n>\nNo, the strike phase is not the same as determining the range phase.\n\nPhase 2 is range determination; phase 4 is strike.\nSee the rulebook for more info; here is the snippet:\n\nWarning: Spoiler!\n\nCombat Sequence\n\nCombat occurs in a series of one or more rounds. Each round of combat has seven steps:\n\n1. Before Range: Play cards before range is chosen.\n\n2. Determine Range: Use maneuvers to change the range to close or long.\n\n3. Before Strikes: Play cards before strikes are chosen.\n\n4. Strike: Announce and resolve strikes.\n\n5. Damage Resolution: Prevent and mend damage.\n\n6. Press: Use presses to continue into another round or to end combat.\n\n7. End of Round: End-of-round cards and effects are played here.\n\nPlay Haymaker at the end of phase 2.",
+      "Id": "117645"
+    },
+    {
+      "Author": "Gr33n",
+      "Date": "Aug 26, 2026, 11:07\u202FAM",
+      "Body": "It does not say it must be played at the end of phase 2.\n\nIt says it must be played after phase 2.\n\nIt does not say it must be played during phase 3.\n\nWhat prevents it from being played in phase 4?",
+      "Id": "117646"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Aug 26, 2026, 11:10\u202FPM",
+      "Body": "To be clear, this was answered on Discord, but posting here:\n\nHaymaker is played during \"Before Strikes.\" This step was codified by BCP. Haymaker's older wording template put it in this phase, as \"after\" always means immediately after, which is now the \"Before Strikes\" step.\n\nHaymaker is a strike card as it provides and sets your strike (to hand strike +1 damage). Because it is a strike card is can be canceled with Anticipation. See also this LSJ ruling: usenet.krcg.org/t/qSIV67_nsz8/#m4",
+      "Id": "117650"
+    },
+    {
+      "Author": "lip",
+      "Date": "Aug 27, 2026, 7:57\u202FAM",
+      "Body": "To add to kschaefer point here.\n\nWindow\n\"after\" and \"before\" windows in VTES always designate a precise moment, they don't allow a whole period. \"before block resolution\", means just before block resolution, not anytime before. Same here for Haymaker: after range is determined is that exact moment, not any time after.\n\nNature\nA card that locks in a strike is a strike card. For example, Aid From Bats is a strike card, even if played during maneuvers. Cards that provide a possible strike but leave the choice open (Zip Gun, Hunger of Marduk) are not strike cards.\n\nSo indeed,\n\n> Can Haymaker be played by a blocking minion after the acting minion has chosen their strike?\n>\nNo\n\n> Is Haymaker itself a strike card and therefore cancellable by Anticipation?\n>\nI would have said yes, although I suppose a confirmation there would help",
+      "Id": "117651"
+    },
+    {
+      "Author": "DavidR",
+      "Date": "Aug 27, 2026, 12:25\u202FPM",
+      "Body": "already answered, deleted my answer\n\nDavid Resende - Prince of Teresina",
+      "Id": "117652"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 7, 2026, 6:55\u202FPM",
+      "Body": "> kschaefer wrote:\n> To be clear, this was answered on Discord, but posting here:\n>\n> Haymaker is played during \"Before Strikes.\" This step was codified by BCP. Haymaker's older wording template put it in this phase, as \"after\" always means immediately after, which is now the \"Before Strikes\" step.\n>\n> Haymaker is a strike card as it provides and sets your strike (to hand strike +1 damage). Because it is a strike card is can be canceled with Anticipation. See also this LSJ ruling: usenet.krcg.org/t/qSIV67_nsz8/#m4\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117710"
+    }
+  ]
+}
