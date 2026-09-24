@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-83234",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rulebook/83234-block-opportunity-on-a-redirected-bleed-that-returns-to-original-target",
+  "Title": "Block opportunity on a redirected Bleed that returns to original target",
+  "Messages": [
+    {
+      "Author": "Ceemitere",
+      "Date": "Sep 23, 2026, 3:21\u202FPM",
+      "Body": "Hi everyone,\n\nI have a quick clarification request regarding block opportunities and redirection chains on a Bleed action.\n\nScenario:\n\nPlayer A bleeds Player B.\n\nPlayer B plays a reaction card to wake (e.g., On the Qui Vive) and plays a redirection card (Telepathic Misdirection / Deflection) to pass the Bleed to Player C, without declaring a block attempt.\n\nPlayer C then plays Deflection and redirects the Bleed back to Player B.\n\nQuestion:\nDoes Player B gain a new opportunity to attempt a block against this same Bleed action once it is redirected back to them (assuming they didn't attempt a block earlier, just redirected)?\n\nMy understanding is that once Player B declines/passes their natural block opportunity in order to redirect the action, they cannot attempt a normal block if the action returns to them, unless they use a card that explicitly instructs a vampire to attempt a block (like Second Tradition: Domain). Is this correct?\n\nThanks in advance!",
+      "Id": "117791"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Sep 23, 2026, 5:54\u202FPM",
+      "Body": "From roolbook:\n\"If the target of the action is changed (e.g. a bleed action is redirected), this will reopen block attempts, following the normal rules.\"",
+      "Id": "117793"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Sep 23, 2026, 8:22\u202FPM",
+      "Body": "> mipopo3 wrote:\n> From roolbook:\n> \"If the target of the action is changed (e.g. a bleed action is redirected), this will reopen block attempts, following the normal rules.\"\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117797"
+    }
+  ]
+}
