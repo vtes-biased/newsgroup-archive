@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-83256",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/generic-v-tes-discussion/83256-problems-claiming-vekn-id-in-the-online-archon",
+  "Title": "Problems claiming VEKN ID in the Online Archon",
+  "Messages": [
+    {
+      "Author": "extrala",
+      "Date": "Oct 9, 2026, 10:16\u202FAM",
+      "Body": "Not sure if this is the best place to ask .. but here I am.\n\nI cannot claim my VEKN ID in the Online Archon. Also when trying to look at upcoming tournaments (not even register, just looking), the tool claims I need to \"Sign in to view full tournament information\". But I am signed in according to the Profile page.\n\nShort history:\n- Created an Online Archon account during the EC 2026. I am not sure, if I claimed the VEKN at that time.\n- This week I wanted to access the Online Archon to register for a tournament, but the Online Archon claimed that I don't have an account, and that email address that used in September was unknown.\n- So I created a new account in the Online Archon, using the same email address as before.\n\nNow I am in the situation as described above and clearly need some help from an Online Archon administrator.\n- email address used: ralf (dot) lammert (at) gmx (dot) de\n- vekn id used: 1003376",
+      "Id": "117866"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2026, 12:32\u202FPM",
+      "Body": "> extrala wrote:\n> Not sure if this is the best place to ask .. but here I am.\n>\n> I cannot claim my VEKN ID in the Online Archon. Also when trying to look at upcoming tournaments (not even register, just looking), the tool claims I need to \"Sign in to view full tournament information\". But I am signed in according to the Profile page.\n>\n> Short history:\n> - Created an Online Archon account during the EC 2026. I am not sure, if I claimed the VEKN at that time.\n> - This week I wanted to access the Online Archon to register for a tournament, but the Online Archon claimed that I don't have an account, and that email address that used in September was unknown.\n> - So I created a new account in the Online Archon, using the same email address as before.\n>\n> Now I am in the situation as described above and clearly need some help from an Online Archon administrator.\n> - email address used: ralf (dot) lammert (at) gmx (dot) de\n> - vekn id used: 1003376\n>\nIt looks like you created your account using the Discord login (squeaky_clean0929), could you try to connect this way?\n\nAlso, as far I as can see, your email, name, and VEKN id are linked in the Archon app.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117867"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Oct 9, 2026, 5:05\u202FPM",
+      "Body": "*sigh* due to my meddling with the cookies my answer I have written got lost, and so again ..\n\nNo, the login with \"squeaky_clean0929\" is not working. And trying to reset the password for that account only works with the same email address (as above mentioned), I have used for both Discord and Online Archon.\n\nFor my perspective it would be best to remove/delete the squeaky_clean0929 account altogether. Maybe even both the accounts that relate to my email address mentioned above. So that I can start fresh ..\n\nTwo things regarding the online archon:\n- there's no logout button in the Online Archon directly. I think it would be a good thing to have one on, let's say, Profile page.\n- there's no link to the Online Archon in the VTES discord channel. At least I couldn't find on on the sub-pages of the Server Guide (e.g. Online Tools or Links) where I would expect them to be.",
+      "Id": "117871"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 9, 2026, 5:19\u202FPM",
+      "Body": "> extrala wrote:\n> Two things regarding the online archon:\n> - there's no logout button in the Online Archon directly. I think it would be a good thing to have one on, let's say, Profile page.\n>\nThere is a \"sign out\" button in Profile > Account (it's a bit hidden)\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117872"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Oct 9, 2026, 6:11\u202FPM",
+      "Body": "Ok, found the logout button .. and if I use that and *then* on the next web page, use the \"Continue with Discord\" button, I can login *and* now it seems I am \"fully\" logged in.\n\nStill somewhat strange that the pure email-address + password login does not grant you full access if you created the account via Discord.\n\nBut thanks for looking into the issue and eventually helping resolving it.",
+      "Id": "117873"
+    }
+  ]
+}
