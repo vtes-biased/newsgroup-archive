@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-83263",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83263-withering-and-combat-ends",
+  "Title": "Withering and combat ends",
+  "Messages": [
+    {
+      "Author": "blackday",
+      "Date": "Oct 15, 2026, 2:51\u202FAM",
+      "Body": "Name: Withering\n[BL:C2, LoB:C]\nCardtype: Combat\nDiscipline: Thanatosis/Animalism\n[ani] Strike: 1R damage.\n[thn] Strike: hand strike. Place this card on the opposing minion. The minion with this card has -1 strength. Burn this card during his or her controller's next discard phase.\n[THN] As [thn] above, and the minion with this card cannot play cards that require any Disciplines.\n\nI was asked a question whether a withering played against a combat ends gets attached. The point raised was that dodge prevents all the unwanted effects of the strike to happen but strike combat ends only ends the combat and nullifies any damage due to ending before damage resolution.\nThe contention was although damage is prevented the card still gets attached and thus gets -1 strength and can't play discipline cards til that players discard phase.\nI had always played as though it was not attached after a combat ends but since I'm not 100% sure I wanted to verify first.",
+      "Id": "117899"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 15, 2026, 6:00\u202FAM",
+      "Body": "> blackday wrote:\n> I was asked a question whether a withering played against a combat ends gets attached.\n>\nIt doesn't.\n\n> blackday wrote:\n> strike combat ends only ends the combat and nullifies any damage due to ending before damage resolution.\n>\nS:CE resolves before a regular strike such as Withering. Withering does not resolve at all.\n\n> rulebook wrote:\n> Combat Ends: This effect ends combat immediately. This type of strike is always the first to resolve, even before a strike done with first strike (see First Strike), and it ends combat before other strikes or other strike resolution effects are resolved. Combat ends is effective at any range. Combat ends is not affected by a dodge, since dodge only cancels effects that are directed at the dodging minion.\n>\n> blackday wrote:\n> The contention was although damage is prevented the card still gets attached and thus gets -1 strength and can't play discipline cards til that players discard phase.\n>\nFor damage to be resolved, the strike must resolve, this has nothing to do with the original scenario.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117900"
+    },
+    {
+      "Author": "blackday",
+      "Date": "Oct 15, 2026, 6:40\u202FAM",
+      "Body": "many thanks for the clarification.\nI knew it wasn't but didn't see an older post about it. Thank you once again.",
+      "Id": "117902"
+    }
+  ]
+}
