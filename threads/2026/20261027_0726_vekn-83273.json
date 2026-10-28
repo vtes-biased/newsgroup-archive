@@ -1,0 +1,62 @@
+{
+  "ThreadId": "vekn-83273",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83273-does-dabbler-trigger-on-an-ended-action",
+  "Title": "Does Dabbler trigger on an ended action?",
+  "Messages": [
+    {
+      "Author": "Gr33n",
+      "Date": "Oct 27, 2026, 7:26\u202FAM",
+      "Body": "During an action, a vampire with dabbler uses 3 disciplines.\n\nChange of target is played.\n\nCan dabbler trigger?",
+      "Id": "117973"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 27, 2026, 8:28\u202FAM",
+      "Body": "Dabbler\n\nWarning: Spoiler!\n\nArchetype. Trifle.\nPut this card on a vampire you control. Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards, this vampire can either burn 1 blood to unlock or gain 1 blood. A vampire can have only one archetype.\n\nChange of Target\n\nWarning: Spoiler!\n\nOnly usable if this minion is blocked, before block resolution.\nUnlock this minion. The action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n\nAction ended, not canceled, so \"Yes\", you get the blood.",
+      "Id": "117974"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 27, 2026, 8:31\u202FAM",
+      "Body": "So after Tangle Atropos' Hand\n\nWarning: Spoiler!\n\nOnly usable if a minion attempts to block.\nPotence Cancel the action and unlock this vampire. (The action is not blocked. Do not lock the blocking minion.)\nTemporis As Potence above, and if an action card was played, take it back in your hand (discard down afterward).\nSuperior Temporis As Temporis above, and this vampire gets +1 stealth during their next action this turn.\n\nYou do not get the blood. ( or DI)",
+      "Id": "117975"
+    },
+    {
+      "Author": "Gr33n",
+      "Date": "Oct 27, 2026, 5:17\u202FPM",
+      "Body": "Contexto info: we discussed this in discord\ndiscord.com/channels/887471681277399091/1564324961592803358",
+      "Id": "117978"
+    },
+    {
+      "Author": "Gr33n",
+      "Date": "Oct 27, 2026, 5:22\u202FPM",
+      "Body": "What would you say against the following reasoning:\nGiven that change of target has a ruling that no more action modifiers can be played during after action resolution and dabbler is an effect that triggers after action resolves, dabbler cant be used.",
+      "Id": "117979"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 27, 2026, 9:00\u202FPM",
+      "Body": "> Gr33n wrote:\n> What would you say against the following reasoning:\n> Given that change of target has a ruling that no more action modifiers can be played during after action resolution and dabbler is an effect that triggers after action resolves, dabbler cant be used.\n>\nDabbler is not an action modifier.\nAnd the main text is:\n\"Once each turn, after an action (successful or not) is resolved\"",
+      "Id": "117985"
+    },
+    {
+      "Author": "Gr33n",
+      "Date": "Oct 27, 2026, 11:00\u202FPM",
+      "Body": "Dabbler not being an action modifier isn't a good enough argument in itself.\n\n\"after an action is resolved\" and \"after action resolution\" seem to be the same window.\n\nActions that have ended before or during resolution do not allow playing \"after action resolution\" cards.\n\nFor which reason would Dabbler being an optional effect allow it to be used when the action is no longer active?\n\nDaring the dawn has a ruling that the damage is still applied. Difference is that daring the dawn is a mandatory effect.\n\nSimilar to how Outside the hourglass damage must resolve even if during the prevention window it opens, alpha glint ends the combat.\n\nOr an action ending due to sup Mirror walk still has the vampire burned from Millicent vampire hunter.\n\nWould be nice to know the official answer either way.",
+      "Id": "117987"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2026, 7:22\u202FAM",
+      "Body": "> Gr33n wrote:\n> During an action, a vampire with dabbler uses 3 disciplines.\n>\n> Change of target is played.\n>\n> Can dabbler trigger?\n>\nPlease include cardtext when asking a question about a card.\n\nName: Dabbler\nCardtype: Master\nArchetype. Trifle.\nPut this card on a vampire you control. Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards, this vampire can either burn 1 blood to unlock or gain 1 blood. A vampire can have only one archetype.\n\nThe answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n\nThis effect is not a delayed triggered effect that has to be resolved due to a previous condition met.\n\n> Gr33n wrote:\n> Dabbler not being an action modifier isn't a good enough argument in itself.\n>\n> \"after an action is resolved\" and \"after action resolution\" seem to be the same window.\n>\nCorrect.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117988"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 28, 2026, 10:30\u202FAM",
+      "Body": "> Ankha wrote:\n> The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n>\nHi Anka, can you clarify this, as this looks to be a mixup with \"\n\nEffects triggered when the action is blocked are still applied.  RTR 19991206 \"\n\nwhile \"No other modifier or reaction can be played afterwards: the action has ended.\" is not apllyed to Master cards.\nLSJ 20010803-1\nRTR 20180719",
+      "Id": "117992"
+    }
+  ]
+}
