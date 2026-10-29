@@ -55,8 +55,56 @@
     {
       "Author": "mipopo3",
       "Date": "Oct 28, 2026, 10:30\u202FAM",
-      "Body": "> Ankha wrote:\n> The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n>\nHi Anka, can you clarify this, as this looks to be a mixup with \"\n\nEffects triggered when the action is blocked are still applied.  RTR 19991206 \"\n\nwhile \"No other modifier or reaction can be played afterwards: the action has ended.\" is not apllyed to Master cards.\nLSJ 20010803-1\nRTR 20180719",
+      "Body": "> Ankha wrote:\n> The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n>\nHi Anka, can you clarify this, as this looks to be a mixup with \"\n\nEffects triggered when the action is blocked are still applied.  RTR 19991206 \"\n\nwhile \"No other modifier or reaction can be played afterwards: the action has ended.\" is not apllyed to Master cards.\nLSJ 20010803-1\nRTR 20180719\n\nNote that the Change of target text in question is :\n\"The action ends (unsuccessfully)\"\nvs Dabbler\n\"after an action (successful or not) is resolved\"\n\n> mipopo3 wrote:\n> Dabbler\n>\n> Warning: Spoiler!\n>\n> Archetype. Trifle.\n> Put this card on a vampire you control. Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards, this vampire can either burn 1 blood to unlock or gain 1 blood. A vampire can have only one archetype.\n>\n> Change of Target\n>\n> Warning: Spoiler!\n>\n> Only usable if this minion is blocked, before block resolution.\n> Unlock this minion. The action ends (unsuccessfully). This minion cannot perform the same action again this turn.\n>\n> Action ended, not canceled, so \"Yes\", you get the blood.\n>",
       "Id": "117992"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 28, 2026, 11:29\u202FAM",
+      "Body": "> mipopo3 wrote:\n>\n> > Ankha wrote:\n> > The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n> >\n> Hi Anka, can you clarify this, as this looks to be a mixup with \"Effects triggered when the action is blocked are still applied.  RTR 19991206 \"\n>\nThere's no such effect here. Nothing is triggered when the action is blocked.\n\n> mipopo3 wrote:\n> while \"No other modifier or reaction can be played afterwards: the action has ended.\" is not apllyed to Master cards.\n> LSJ 20010803-1\n> RTR 20180719\n>\n> Note that the Change of target text in question is :\n> \"The action ends (unsuccessfully)\"\n> vs Dabbler\n> \"after an action (successful or not) is resolved\"\n>\n> Action ended, not canceled, so \"Yes\", you get the blood.\n>\n[/quote]\nThis has nothing to do with the topic and doesn't apply here.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "117994"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 28, 2026, 12:55\u202FPM",
+      "Body": "So, just to confirm, the \"Dabbler\" trigger, to get blood, will not trigger after \"Change of target\"?",
+      "Id": "117995"
+    },
+    {
+      "Author": "Gr33n",
+      "Date": "Oct 28, 2026, 2:43\u202FPM",
+      "Body": "Thank you Ankha. I will try to remember to add card text when asking questions.\n\n@mipopo3 Ankha already confirmed with a \"No\".",
+      "Id": "117998"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 28, 2026, 7:21\u202FPM",
+      "Body": "The wording on Dabbler indicates that there is no time limitation.\nYou can do it in the Influence or Discard phase.\nANK 20180719-4\n\nOnce more, this conflicts with current :\n>\n> Ankha wrote:\n> The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n>\n> This effect is not a delayed triggered effect that has to be resolved due to a previous condition met.\n> .\n>\nAs there is no time limit on Dabbler, the only limit is the turn end.",
+      "Id": "117999"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 28, 2026, 7:29\u202FPM",
+      "Body": "> mipopo3 wrote:\n> The wording on Dabbler indicates that there is no time limitation.\n> You can do it in the Influence or Discard phase.\n> ANK 20180719-4\n>\n> Once more, this conflicts with current :\n> >\n> > Ankha wrote:\n> > The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n> >\n> > This effect is not a delayed triggered effect that has to be resolved due to a previous condition met.\n> > .\n> >\n> As there is no time limit on Dabbler, the only limit is the turn end.\n>\nYou need to read further into the sentence.\n\n\"Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards...\"",
+      "Id": "118000"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 28, 2026, 7:57\u202FPM",
+      "Body": "> kschaefer wrote:\n> Once each turn, after an action (successful or not)\"\n>\nThe \"turn\" is the time limit: the whole turn, untap, master, minion, influence, discard phases.\nIncluding your opponent's turn.(Madness Network, Enkil Cog,...)",
+      "Id": "118002"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Oct 29, 2026, 2:44\u202FAM",
+      "Body": "> mipopo3 wrote:\n>\n> > kschaefer wrote:\n> > Once each turn, after an action (successful or not)\"\n> >\n> The \"turn\" is the time limit: the whole turn, untap, master, minion, influence, discard phases.\n> Including your opponent's turn.(Madness Network, Enkil Cog,...)\n>\nNot enough eyeroll emojis for this response. You can be obtuse or you can read the card and understand how action timing works.",
+      "Id": "118005"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 29, 2026, 10:53\u202FAM",
+      "Body": "> kschaefer wrote:\n> Not enough eyeroll emojis for this response. You can be obtuse or you can read the card and understand how action timing works.\n>\nDo read before posting.\nANK 20180719-4",
+      "Id": "118006"
     }
   ]
 }
