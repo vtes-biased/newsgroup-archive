@@ -105,6 +105,42 @@
       "Date": "Oct 29, 2026, 10:53\u202FAM",
       "Body": "> kschaefer wrote:\n> Not enough eyeroll emojis for this response. You can be obtuse or you can read the card and understand how action timing works.\n>\nDo read before posting.\nANK 20180719-4",
       "Id": "118006"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 29, 2026, 11:50\u202FAM",
+      "Body": "> mipopo3 wrote:\n> The wording on Dabbler indicates that there is no time limitation.\n> You can do it in the Influence or Discard phase.\n> ANK 20180719-4\n>\n> Once more, this conflicts with current :\n> >\n> > Ankha wrote:\n> > The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n> >\n> > This effect is not a delayed triggered effect that has to be resolved due to a previous condition met.\n> > .\n> >\n> As there is no time limit on Dabbler, the only limit is the turn end.\n>\nNo. Read the whole topic and ruling again.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "118007"
+    },
+    {
+      "Author": "Bloodartist",
+      "Date": "Oct 29, 2026, 12:01\u202FPM",
+      "Body": "I feel we have made mountains out of molehills in this topic. I also wonder whether Ankha either misread Dabbler or forgot how he has defined things in the past.\n\n1.\n\"Action ends\" = \"Action resolves unsuccessfully\".\nIf you play change of target on an action, the action cannot be attempted again. -> Action resolved. You can use dabbler just fine because the action reached resolution. The time window (whatever it is) is not in any way different from other ways of resolving an action, whether its successful resolution or action being blocked.\n\n2. Yes, dabbler is not a delayed trigger. Dabbler is a \"once per turn\" effect that can be performed after an action has resolved (with conditions).\n\n3. The wording of the timing window is technically the same as with freak drive, which is a card that can be played after action resolution. The difference is that freak drive is an action modifier, and thus must be played during an action. Same is not true for dabbler which is a master card. So this begs the question, can dabblers effect be used later in the turn (which is also \"after action resolution\") as long as its condition is met? If we read the cardtext as english language and not as defined rules phrases, I would say yes.\n\nps. (not related to ruling in question) I would also like to point out for the umpteenth time that much of the confusion stems from using open-ended words such as \"after\" and \"before\" when defining timing windows. This is illogical and unintuitive and confuses players. It would be far simpler to use wording such as \"effect happens/card is playable at the end of the action\", in which case it would be clear that the effect must happen within the action, not next year which is also 'after' the action. If things would happen at the same time, then appropriate player could decide the order. Everything would be tidy.\n\nSmoking craters tell no tales.\n\u2014Tex talks Battletech",
+      "Id": "118008"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 29, 2026, 12:12\u202FPM",
+      "Body": "> Ankha wrote:\n> No. Read the whole topic and ruling again.\n>\nThis is in conflict with\n>\n> Ratadin wrote:\n> A turn start at the unlock phase of a player, and ends at the end of the discard phase of that player.\n>",
+      "Id": "118009"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Oct 30, 2026, 8:09\u202FAM",
+      "Body": "> Bloodartist wrote:\n> Dabbler is a \"once per turn\"\n>\nNo, it's \"Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards\", you cannot use it in your discard or transfer phase, you have to use it right after an action (successful or not) is resolved. The \"once each turn\" indicates you can use this effect only once per turn, not that you can use it at any point of the turn.",
+      "Id": "118014"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 30, 2026, 8:36\u202FAM",
+      "Body": "> KoRneeshon wrote:\n> No, it's \"Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards\", you cannot use it in your discard or transfer phase, you have to use it right after an action (successful or not) is resolved. The \"once each turn\" indicates you can use this effect only once per turn, not that you can use it at any point of the turn.\n>\nCore Rulebook:\nAction modifier cards: The acting minion can play these cards to modify their action at any time before action resolution.\nDabbler:\n\"Once each turn, after an action (successful or not) is resolved\"\nThere is no time restriction after action resolution; the only restriction is the end of the turn.\nThere is no \"in minion phase\", \"before untap\"; there is no \"after performing\" restriction.\nThe only condition to be met is:\n1) 3 Disciplines were used (action can be successful or not, but not canceled).\n2) The turn didn't end.",
+      "Id": "118015"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 30, 2026, 8:36\u202FAM",
+      "Body": "\"EDIT\" Duplice poste, sorry.",
+      "Id": "118016"
     }
   ]
 }
