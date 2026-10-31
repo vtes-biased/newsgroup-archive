@@ -141,6 +141,60 @@
       "Date": "Oct 30, 2026, 8:36\u202FAM",
       "Body": "\"EDIT\" Duplice poste, sorry.",
       "Id": "118016"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 30, 2026, 12:13\u202FPM",
+      "Body": "> mipopo3 wrote:\n>\n> > KoRneeshon wrote:\n> > No, it's \"Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards\", you cannot use it in your discard or transfer phase, you have to use it right after an action (successful or not) is resolved. The \"once each turn\" indicates you can use this effect only once per turn, not that you can use it at any point of the turn.\n> >\n> Core Rulebook:\n> Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution.\n> Dabbler:\n> \"Once each turn, after an action (successful or not) is resolved\"\n> There is no time restriction after action resolution; the only restriction is the end of the turn.\n> There is no \"in minion phase\", \"before untap\"; there is no \"after performing\" restriction.\n> The only condition to be met is:\n> 1) 3 Disciplines were used (action can be successful or not, but not canceled).\n> 2) The turn didn't end.\n>\nThere is a general ruling somewhere that says \"after X\" ins the point in time \"immedeatly after X\"",
+      "Id": "118017"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Oct 30, 2026, 12:17\u202FPM",
+      "Body": "> Ankha wrote:\n>\n> > Gr33n wrote:\n> > During an action, a vampire with dabbler uses 3 disciplines.\n> >\n> > Change of target is played.\n> >\n> > Can dabbler trigger?\n> >\n> Please include cardtext when asking a question about a card.\n>\n> Name: Dabbler\n> Cardtype: Master\n> Archetype. Trifle.\n> Put this card on a vampire you control. Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards, this vampire can either burn 1 blood to unlock or gain 1 blood. A vampire can have only one archetype.\n>\n> The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n>\n> This effect is not a delayed triggered effect that has to be resolved due to a previous condition met.\n>\n> > Gr33n wrote:\n> > Dabbler not being an action modifier isn't a good enough argument in itself.\n> >\n> > \"after an action is resolved\" and \"after action resolution\" seem to be the same window.\n> >\n> Correct.\n>\nI think this is in Clonflict with this ruling on Forward momentum:\n\n> Ankha wrote:\n>\n> > Oshi wrote:\n> > \"Forward Momentum\n> > Unique.\n> > Put this card in play. After a vampire who follows the Path of Cathari you control bleeds, if the bleed is successful (for 1 or more), add 1 counter to this card; otherwise, burn 1 counter from this card. After a vampire who follows the Path of Cathari you control performs an action, you can burn 2 counters from this card to unlock them.\"\n> >\n> > At which point does \"After a vampire who follows the Path of Cathari you control bleeds\" trigger?\n> >\n> After resolution of the action.\n>\n> > Oshi wrote:\n> > For clarities sake which if the following would cause forward momentum to lose a counter:  bleed reduced to 0 bleed is blocked action ends to change of target bleed action card is cancelled by DI bleed action is cancelled by tangle atropos' hand\n> >\n> 1. burn (the bleed was not succesful)\n> 2. burn (the bleed action was not succesful)\n> 3. burn (idem)\n> 4. Don\u2019t burn (the action didn't reach resolution)\n> 5. Don't burn (idem)\n>\nwww.vekn.net/forum/rules-questions/82794-forward-momentum-and-failed-canceled-actions#116280\n\n\"After a vampire who follows the Path of Cathari you control bleeds\" must be at the same time as \"After an action resolves\", aka \"after action resolution\"\n\nForward Momentum is also not a \"delayed triggered effect\" its just a \"triggered effect\"\n\nIf Master Card effects that trigger/happen/areusable \"after action resolution\" need the action to still exist, forward momentum should not buurn a counter after change of target.\n\nForward Momentum\n\n[Master]\nForward Momentum\nUnique.\nPut this card in play. After a vampire who follows the Path of Cathari you control bleeds, if the bleed is successful (for 1 or more), add 1 counter to this card; otherwise, burn 1 counter from this card. After a vampire who follows the Path of Cathari you control performs an action, you can burn 2 counters from this card to unlock them.",
+      "Id": "118018"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 30, 2026, 1:46\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > Ankha wrote:\n> >\n> > > Gr33n wrote:\n> > > During an action, a vampire with dabbler uses 3 disciplines.\n> > >\n> > > Change of target is played.\n> > >\n> > > Can dabbler trigger?\n> > >\n> > Please include cardtext when asking a question about a card.\n> >\n> > Name: Dabbler\n> > Cardtype: Master\n> > Archetype. Trifle.\n> > Put this card on a vampire you control. Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards, this vampire can either burn 1 blood to unlock or gain 1 blood. A vampire can have only one archetype.\n> >\n> > The answer is: No. Once the action ends, you cannot use effects that are usable during a action. \"after an action (successful or not) is resolved\" happens after resolution of the action.\n> >\n> > This effect is not a delayed triggered effect that has to be resolved due to a previous condition met.\n> >\n> > > Gr33n wrote:\n> > > Dabbler not being an action modifier isn't a good enough argument in itself.\n> > >\n> > > \"after an action is resolved\" and \"after action resolution\" seem to be the same window.\n> > >\n> > Correct.\n> >\n> I think this is in Clonflict with this ruling on Forward momentum:\n>\n> > Ankha wrote:\n> >\n> > > Oshi wrote:\n> > > For clarities sake which if the following would cause forward momentum to lose a counter:  bleed reduced to 0 bleed is blocked action ends to change of target bleed action card is cancelled by DI bleed action is cancelled by tangle atropos' hand\n> > >\n> > >\n> > 1. burn (the bleed was not succesful)\n> > 2. burn (the bleed action was not succesful)\n> > 3. burn (idem)\n> > 4. Don\u2019t burn (the action didn't reach resolution)\n> > 5. Don't burn (idem)\n> >\n> If Master Card effects that trigger/happen/areusable \"after action resolution\" need the action to still exist, forward momentum should not buurn a counter after change of target.\n>\nCorrect. 3. should be \"don't burn since 'after resolution' step is not reached\".\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "118019"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Oct 30, 2026, 1:47\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n>\n> > mipopo3 wrote:\n> >\n> > > KoRneeshon wrote:\n> > > No, it's \"Once each turn, after an action (successful or not) is resolved during which this vampire used 3 or more Disciplines to play cards\", you cannot use it in your discard or transfer phase, you have to use it right after an action (successful or not) is resolved. The \"once each turn\" indicates you can use this effect only once per turn, not that you can use it at any point of the turn.\n> > >\n> > >\n> > Core Rulebook:\n> > Action modifier cards: The acting minion can play these cards to modify their action at any time before action resolution.\n> > Dabbler:\n> > \"Once each turn, after an action (successful or not) is resolved\"\n> > There is no time restriction after action resolution; the only restriction is the end of the turn.\n> > There is no \"in minion phase\", \"before untap\"; there is no \"after performing\" restriction.\n> > The only condition to be met is:\n> > 1) 3 Disciplines were used (action can be successful or not, but not canceled).\n> > 2) The turn didn't end.\n> >\n> There is a general ruling somewhere that says \"after X\" ins the point in time \"immedeatly after X\"\n>\nCorrect. \"after\" replaced \"when\" in the older templates.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "118020"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 30, 2026, 2:14\u202FPM",
+      "Body": "\"Once each turn, after when an action (successful or not) is resolved\"\nSo let me get this straight:\nIs action ending not the action resolution?\nAn action is resolved; After this, we can't use Dabbler?\nWe only use it in the Resolution step of the Action?\nIs it only me? Or is this contradictory to the card text?\n\nChange of Target, mind you, only states that the action ended- it was resolved unsuccessfully.\n\"Only usable if this minion is blocked, before block resolution.\nUnlock this minion. The action ends (unsuccessfully). This minion cannot perform the same action again this turn\"",
+      "Id": "118021"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 30, 2026, 3:20\u202FPM",
+      "Body": "Action can resolve in only two ways:\n1) Successful\n2) Unsuccessful\nThus, a resolution occurred.\nAction ends with a mirror walk, or a change of target does not skip the declaration of the resolution.\nResolution must be declared.",
+      "Id": "118022"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 30, 2026, 7:16\u202FPM",
+      "Body": "My issue with this is that:\n1) Dabbler is a master, not a reaction or an action modifier.\nThus, not fall under:  RTR 20180719 - Actions that are ended are over: action modifiers and reactions cannot be played anymore.\n\n2)Stating that there is a \"magic window\" after action resolution and action ending:\nConflicting with:  ANK 20190113\n\n3) Full \"turn\" use of the wording being limited to the \"after/when\" moment:\nConflicting with:  ANK 20180719-4\n\n4)End of action window, which is generally used for freek drive:\nANK 20190425\n\nBut yes, the New Definition of exiting phantom layer between action resolution and End of an Action, as it's in the rulebook ( there is nothing on this in the rulebook, sarcasm).",
+      "Id": "118024"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 30, 2026, 8:10\u202FPM",
+      "Body": "With this:\nMental maze,\nObedience,\nMirror walk,\nChange of target,\nBind the Night-Walker,\nBloodstorm of Chorazin,\nFraming, The,\nPsychomachia,\nRed Herring,\nAll fall under the action end, so this skips the magic layer where Dabbler works.\nBecause Dabbler's wording \"during a turn\" - Once each turn, after an action (successful or not) is resolved is limited only to that magic window after action resolution and action Ending, thus it falls under Action Modifier and Reaction for End of Action(Actions that are ended are over: action modifiers and reactions cannot be played anymore.)?",
+      "Id": "118025"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Oct 31, 2026, 7:33\u202FAM",
+      "Body": "Wording that should match the rulebook should be:\n\"Action ends: Skip block and action resolution\"\nWith this, you make it clear.\nOn the question, \"How\" did the action resolve? It didn't. Thus, there is no double language where it was (unsuccessful). And it shuts down any other effects.",
+      "Id": "118026"
     }
   ]
 }
