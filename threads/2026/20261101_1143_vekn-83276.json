@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-83276",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83276-is-a-minion-card-also-played-implcetly-by-the-methuselah",
+  "Title": "Is a Minion card also played implcetly by the methuselah?",
+  "Messages": [
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 1, 2026, 11:43\u202FAM",
+      "Body": "With the release of \"Backroom Deal\" I fell into a thought experiment that led me to the titled question.\n\nBackroom Deal\n\nRequires a ready primogen. Only one Backroom Deal can be played each action.\n[ACTION MODIFIER]\n+1 stealth.\n[ACTION MODIFIER]\nOnly usable by a ready primogen other than the acting Camarilla vampire. The acting Camarilla vampire gets +1 stealth.\n\nfollowing scenario:\n\nYou control Victor Gerard (or Vidal Or Mata Hari )\n\nVictor Gerard\n\nAnarch: You and Victor can play cards requiring a Camarilla vampire as if Victor were a Camarilla vampire. While Victor is a Baron, you and Victor can play cards requiring a Prince as if Victor were a Prince.\n\nBackroom Deal is a card requiring a Primogen, therefore implicitly requreing a Camarilla Vampire. [LSJ 20050128]\n\nCan another Primogen you control, play \"Backroom Deals\" to while Victor Gerard is acting, to give him +1 Stealth?\n\nWhile on the first glance it seems like a clear \"no\", since the rolebook clearly says:\n\n> Minion cards are played by the minions (vampires and allies) the Methuselah controls.\n>\nBUT\nthere are several cards that refer to minion cards played by \"you\", either implicitly, or excplicitly:\n\nPowerbase: Tshwane\n\nMaster: unique location. Requires a ready Laibon.\nLock this location to reduce the cost of a card you play by 1 pool (this location is not locked if that card is canceled as it is played). Any Laibon may steal this location for his or her controller as a \u24B9 action.\n\nPowerbase Tshwane always has been used to discount the Pool cost of Minion cards, like allies, despit it saysing \"cards you play\"\n\nThe Shard, London\n\nUnique location.\nIf you have the Edge, you can lock this card to reduce the cost of a card you play by 2 pool or blood. Vampires can steal this location as a \u24B9 action; Ventrue get +1 stealth during that action.\n\nThe same with \"The Shard\", but here even Blood costs are discounted, but sicne they are no Mater Cards that cost blood, it must mean that \"you\" play minion cards that can be discounted by 2 blood.\n\nTelepathic Vote Counting\n\nOnly usable during the polling step of a political action.\n[Auspex]\nCancel the referendum. If you played a political action card to call this referendum, return it to its owner's hand (discard down afterward).\n[Superior Auspex]\nForce a vampire to abstain (this can cancel their votes and ballots).\n\nHere its even more explicit: \"If you played a political action card\" \"you\" is the playing methuselah, and \"political action card\" is a minion card.\n\nSo if we assume these as default behaviour of the game, that a card played by your minions is implicitly played by \"you\", the methuselah, that would mean, a Backroom Deals played by a primogen is also played by \"you\" and you should/could be able to use Victors special to play it \"as if here where a camarilla vampire\" and therefore give him stealth, as the card now sees him as camarilla.",
+      "Id": "118031"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Nov 1, 2026, 12:15\u202FPM",
+      "Body": "There should be more than one source for this:\nANK 20201028\nANK 20190228\nLSJ 20101013\n\nBest to look at Vlad Tepes on VDB.im",
+      "Id": "118033"
+    },
+    {
+      "Author": "Hobbesgoblin",
+      "Date": "Nov 2, 2026, 12:23\u202FAM",
+      "Body": "Vlad does not allow \"You\" to play and use cards as of he where any sect or title.\n\nNone of these rulings cover what I am asking, thea are all about somevampire playing a card themsevles and choosing themselves.",
+      "Id": "118038"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Nov 2, 2026, 7:43\u202FAM",
+      "Body": "Powerbase: Tshwane\n\nWarning: Spoiler!\n\nCan be locked to reduce the cost at any point before resolution, from when the action is announced to just before the cost is paid. If it is used when announcing an action, and the action is cancelled as played (e.g.\nDirect Intervention\n), it is not locked.\n[ANK 20230620]\n[ANK 20170605]\n[LSJ 20090705]\nCan reduce the cost of an action card even if it is not played as an action (e.g. a weapon played with\nConcealed Weapon\nor an Ally with\nPiper\n). [ANK 20230824][RTR 20070707]\nAllows to play a card that could otherwise not be afforded, in which case, it must be locked when the action is announced.\n[LSJ 20090705]\n[LSJ 20030917]\n[ANK 20230721]\nThe action provided by this card is considered to be an action requiring the listed clan/sect/capacity/title (e.g. the action provided by\nOpen War\nis considered an action that requires an Anarch, the action provided by\nGate of Acheron, The\nis considered an action that requires Hecata). [LSJ 20080604]\n\nShard of London\n\nWarning: Spoiler!\n\nThe cost reduction applies to minion cards, they are also played by the Methuselah. [ANK 20221102]\nCan allow allies to play cards that otherwise cost blood (eg.\nProcurer\n), if they do not otherwise require a vampire (eg. clan or discipline). [ANK 20230721]\nCan be locked to reduce the cost at any point before resolution, from when the action is announced to just before the cost is paid. If it is used when announcing an action, and the action is cancelled as played (e.g.\nDirect Intervention\n), it is not locked.\n[ANK 20230620]\n[ANK 20170605]\n[LSJ 20090705]\nCan reduce the cost of an action card even if it is not played as an action (e.g. a weapon played with\nConcealed Weapon\nor an Ally with\nPiper\n). [ANK 20230824][RTR 20070707]\nAllows to play a card that could otherwise not be afforded, in which case, it must be locked when the action is announced.\n[LSJ 20090705]\n[LSJ 20030917]\n[ANK 20230721]\n\nVictor Gerard\n\nWarning: Spoiler!\n\nWhen meeting a title requirement for a political action, the vampire does not get the title's votes for the subsequent referendum. [ANK 20231221]\nCan meet a sect-specific title (e.g. Justicar) requirement even if the sect does not exist anymore (eg.\nFall of the Camarilla\n). [ANK 20230503][LSJ 20050124]\nThe ability ability cannot be used to fulfill card requirements if they are not played normally, like when using\nConcealed Weapon\nfor an equipment or\nPiper\nor\nSummoning, The\nfor an ally. [LSJ 20050119]\nWhen meeting a requirement to play a card, the vampire is treated as such for all the effects of that card, and only that card, including duration effects. The vampire is not treated as meeting the requirements for effects the card has from being in play. For example, playing\nToreador Grand Ball\nas a Toreador: if chosen as the locked Toreador, they unlock as normal, if chosen as the other, they do not benefit from being unblockable.\n[LSJ 20101013]\n[ANK 20190228]\n[ANK 20200705-2]\n[LSJ 20070708]\n[RTR 20070707]\n\nTLDR, count Victor Gerard as a Camarilla vampire for playing cards on him that target Camarilla vampires.",
+      "Id": "118039"
+    },
+    {
+      "Author": "KoRneeshon",
+      "Date": "Nov 2, 2026, 7:49\u202FAM",
+      "Body": "-misunderstood the question, please delete this post-",
+      "Id": "118040"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Nov 2, 2026, 8:14\u202FAM",
+      "Body": "Plus, you can see vtes-biased.github.io/vtes-advanced-rules/",
+      "Id": "118041"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 3, 2026, 1:01\u202FPM",
+      "Body": "> Hobbesgoblin wrote:\n> With the release of \"Backroom Deal\" I fell into a thought experiment that led me to the titled question.\n>\n> following scenario:\n>\n> You control Victor Gerard (or Vidal Or Mata Hari )\n>\n> Backroom Deal is a card requiring a Primogen, therefore implicitly requreing a Camarilla Vampire.\n>\nCorrect.\n\n> Hobbesgoblin wrote:\n> Can another Primogen you control, play \"Backroom Deals\" to while Victor Gerard is acting, to give him +1 Stealth?\n>\nNo, Victor is not a Camarilla vampire, and not seen as one by Backroom Deals.\n\n> Hobbesgoblin wrote:\n> While on the first glance it seems like a clear \"no\", since the rolebook clearly says:\n>\n> > Minion cards are played by the minions (vampires and allies) the Methuselah controls.\n> >\nCorrect.\n\n> Hobbesgoblin wrote:\n> BUT\n> there are several cards that refer to minion cards played by \"you\", either implicitly, or excplicitly:\n>\n> Powerbase Tshwane always has been used to discount the Pool cost of Minion cards, like allies, despit it saysing \"cards you play\"\n>\nCorrect, because the card is Implicitly played by the Methuselah too.\n\n> Hobbesgoblin wrote:\n> So if we assume these as default behaviour of the game, that a card played by your minions is implicitly played by \"you\", the methuselah, that would mean, a Backroom Deals played by a primogen is also played by \"you\" and you should/could be able to use Victors special to play it \"as if here where a camarilla vampire\" and therefore give him stealth, as the card now sees him as camarilla.\n>\nNo, because it requires the card to be played explicitly by you or Victor.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "118049"
+    }
+  ]
+}
