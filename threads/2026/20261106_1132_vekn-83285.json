@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-83285",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/83285-does-psychophagia-benefits-from-hungry-coyote",
+  "Title": "Does Psychophagia benefits from Hungry Coyote?",
+  "Messages": [
+    {
+      "Author": "Coyote",
+      "Date": "Nov 6, 2026, 11:32\u202FAM",
+      "Body": "As the wording from Psychophagia says \"Gain 3 blood\" instead of Hunt at +2 hunt does Psychophagia benefits from hunt bonus or is a plain \"Gain 3 blood\" effect.?\n\nThanks.\n\nName: Psychophagia\n[NB3:PH2]\nCardtype: Action\nClan: Hecata\n+1 stealth hunt action.\nRemove an ally in any Methuselah's ash heap from the game to gain 3 blood or to gain 2 blood and unlock.\nArtist: Mark Kelly\n\nName: The Hungry Coyote\n[Sabbat:R, SW:R, Third:R, SP:LB1, SV5:PCathari1]\nCardtype: Master\nCost: 2 pool\nUnique location.\nSabbat vampires you control get +1 hunt.\nArtist: Mike Dringenberg",
+      "Id": "118058"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2026, 1:38\u202FPM",
+      "Body": "> Coyote wrote:\n> As the wording from Psychophagia says \"Gain 3 blood\" instead of Hunt at +2 hunt does Psychophagia benefits from hunt bonus or is a plain \"Gain 3 blood\" effect.?\n>\n> Thanks.\n>\n> Name: Psychophagia\n> [NB3:PH2]\n> Cardtype: Action\n> Clan: Hecata\n> +1 stealth hunt action.\n> Remove an ally in any Methuselah's ash heap from the game to gain 3 blood or to gain 2 blood and unlock.\n> Artist: Mark Kelly\n>\n> Name: The Hungry Coyote\n> [Sabbat:R, SW:R, Third:R, SP:LB1, SV5:PCathari1]\n> Cardtype: Master\n> Cost: 2 pool\n> Unique location.\n> Sabbat vampires you control get +1 hunt.\n> Artist: Mike Dringenberg\n>\nYes.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "118059"
+    },
+    {
+      "Author": "Ratadin",
+      "Date": "Nov 6, 2026, 2:52\u202FPM",
+      "Body": "Why? I get there is a RTR that kind of specify this, but how does one understand this from card text and rulebook? Some cards say +x hunt, others say gain X, and the rulebook doesnt explain what the hunt amount is used for except in the basic hunt action effect, so there is no way to explain this except by reading specific rulings. For old cards this is understandable, but being a new card it makes no sense for this to allow +hunt effects to improve it.",
+      "Id": "118060"
+    },
+    {
+      "Author": "kschaefer",
+      "Date": "Nov 6, 2026, 3:06\u202FPM",
+      "Body": "Because we didn't catch it in playtest. It should be templated in the new way, but was not.",
+      "Id": "118061"
+    },
+    {
+      "Author": "Ankha",
+      "Date": "Nov 6, 2026, 4:54\u202FPM",
+      "Body": "> Ratadin wrote:\n> Why? I get there is a RTR that kind of specify this, but how does one understand this from card text and rulebook? Some cards say +x hunt, others say gain X, and the rulebook doesnt explain what the hunt amount is used for except in the basic hunt action effect\n>\nThe hunt amount is used to know how much blood you gain from a hunt: \"The acting vampire gains an amount of blood counters from the blood bank equal to the hunt amount.\"\n\n> Ratadin wrote:\n> , so there is no way to explain this except by reading specific rulings. For old cards this is understandable, but being a new card it makes no sense for this to allow +hunt effects to improve it.\n>\nPyschophagia should follow the new template as Karl pointed out.\n\nCurrently, the explanation is that the base hunt amount provided by the card is 2 or 3, then it is modified by the hunt modifier.\n\nThis is similar to a Call the Great Beast having a base strength of 4 and getting +2 strength from another card to get +6 strength for instance.\n\nPrince of Paris, France\n\nRatings Coordinator, Rules Director",
+      "Id": "118062"
+    },
+    {
+      "Author": "mipopo3",
+      "Date": "Nov 6, 2026, 8:16\u202FPM",
+      "Body": "> Ratadin wrote:\n> Why? I get there is a RTR that kind of specify this, but how does one understand this from card text and rulebook? Some cards say +x hunt, others say gain X, and the rulebook doesnt explain what the hunt amount is used for except in the basic hunt action effect, so there is no way to explain this except by reading specific rulings. For old cards this is understandable, but being a new card it makes no sense for this to allow +hunt effects to improve it.\n>\nGood question.\n\nOld wording on Soul Feasting was intuitive.\n\nWarning: Spoiler!\n\n+1 stealth action.\nNecromancy: Hunt, or burn a wraith to hunt with +3 hunt (this is a directed action if you do not control the wraith).\nSuperior Necromancy: As above, with an additional +1 hunt.",
+      "Id": "118063"
+    },
+    {
+      "Author": "Kilrauko",
+      "Date": "Nov 7, 2026, 10:24\u202FAM",
+      "Body": "> mipopo3 wrote:\n>\n> > Ratadin wrote:\n> > Why? I get there is a RTR that kind of specify this, but how does one understand this from card text and rulebook? Some cards say +x hunt, others say gain X, and the rulebook doesnt explain what the hunt amount is used for except in the basic hunt action effect, so there is no way to explain this except by reading specific rulings. For old cards this is understandable, but being a new card it makes no sense for this to allow +hunt effects to improve it.\n> >\n> Good question.\n>\n> Old wording on Soul Feasting was intuitive.\n>\n> Warning: Spoiler!\n>\n> +1 stealth action.\n> Necromancy: Hunt, or burn a wraith to hunt with +3 hunt (this is a directed action if you do not control the wraith).\n> Superior Necromancy: As above, with an additional +1 hunt.\n>\nLet's not attempt to rewrite history. But I do agree it was more intuitive as the basic version told you right away the amount as opposed to always doing math. It was natural to configure your thinking to math as you played modifiers in, now, with new wording, you need to read the basic as 1+3. Simple math but still.\n\nTrust in Jan Pieterzoon.",
+      "Id": "118064"
+    }
+  ]
+}
