@@ -10,6 +10,7 @@ in twenty years by anyone with a Python interpreter.
 
 import argparse
 import datetime
+import gzip
 import html
 import json
 import pathlib
@@ -55,6 +56,8 @@ RE_COLON_QUOTE = re.compile(r"^(:+)( |$)")
 GROUP = "rec.games.trading-cards.jyhad"
 #: What the site is called, in the tab and in the top left of every page.
 SITE = "VTES rules archive"
+#: The whole archive in one file, at the site's root.
+BULK = "archive.json.gz"
 
 
 def parse_date(raw: str) -> datetime.datetime:
@@ -197,6 +200,7 @@ class Thread:
 
     def __init__(self, path: pathlib.Path):
         data = json.loads(path.read_text(encoding="utf-8"))
+        self.data = data
         self.id: str = data["ThreadId"]
         self.title: str = data["Title"].strip() or "(no subject)"
         self.source_url: str = data["Url"]
@@ -329,6 +333,22 @@ def write_search_index(out: pathlib.Path, postings: dict[str, list[int]]) -> Non
 def write(path: pathlib.Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
+
+
+def write_bulk(out: pathlib.Path, threads: list["Thread"]) -> None:
+    """Write every thread, as its file holds it, into one gzipped JSON file.
+
+    No timestamp in the gzip, so an unchanged archive builds to the same bytes.
+    """
+    newest = max(t.end for t in threads)
+    text = json.dumps(
+        {"LastPost": newest.isoformat(), "Threads": [t.data for t in threads]},
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
+    data = gzip.compress(text.encode("utf-8"), mtime=0)
+    (out / BULK).write_bytes(data)
+    print(f"{len(threads)} threads, newest post {newest:%Y-%m-%d} -> {BULK}")
 
 
 def render_year(year: str, threads: list[Thread]) -> str:
@@ -557,6 +577,7 @@ def main() -> int:
         return 1
 
     by_year: dict[str, list[Thread]] = {}
+    every: list[Thread] = []
     index: list[list] = []
     seen: set[str] = set()
     total_messages = 0
@@ -570,6 +591,7 @@ def main() -> int:
             print(f"duplicate thread id {thread.id} ({path})", file=sys.stderr)
             return 1
         seen.add(thread.id)
+        every.append(thread)
         write(out / "t" / thread.id / "index.html", thread.render())
         by_year.setdefault(thread.start.strftime("%Y"), []).append(thread)
         total_messages += len(thread.messages)
@@ -612,6 +634,7 @@ def main() -> int:
         json.dumps(index, ensure_ascii=False, separators=(",", ":")),
     )
     write_search_index(out, postings)
+    write_bulk(out, every)
     for asset in ("site.css", "search.js"):
         shutil.copyfile(here / "static" / asset, out / asset)
     write(out / ".nojekyll", "")

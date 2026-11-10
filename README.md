@@ -124,6 +124,16 @@ push to `main`, and by the nightly forum sweep, which pushes with a token that
 starts no workflow of its own and so asks for the build directly. Generated
 HTML is not committed.
 
+## Taking all of it
+
+`usenet.krcg.org/archive.json.gz` is the whole archive in one file, for a
+program that wants every thread rather than a page of them. Unzipped, it is
+one JSON object: `LastPost`, the date of the newest post the archive holds
+(ISO, with no time zone, since the posts carry none), and `Threads`, every
+thread file as it stands, in the order of their paths. It is rebuilt with the
+site, about 57 MB; the gzip carries no timestamp, so an unchanged archive
+builds to the same bytes.
+
 ## Searching it
 
 `/search/` covers every word of every message, with no server behind it. The
