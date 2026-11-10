@@ -338,7 +338,8 @@ def write(path: pathlib.Path, text: str) -> None:
 def write_bulk(out: pathlib.Path, threads: list["Thread"]) -> None:
     """Write every thread, as its file holds it, into one gzipped JSON file.
 
-    No timestamp in the gzip, so an unchanged archive builds to the same bytes.
+    No timestamp in the gzip, so an unchanged archive builds to the same bytes on
+    the same zlib.
     """
     newest = max(t.end for t in threads)
     text = json.dumps(
@@ -634,7 +635,8 @@ def main() -> int:
         json.dumps(index, ensure_ascii=False, separators=(",", ":")),
     )
     write_search_index(out, postings)
-    write_bulk(out, every)
+    if not args.limit:
+        write_bulk(out, every)
     for asset in ("site.css", "search.js"):
         shutil.copyfile(here / "static" / asset, out / asset)
     write(out / ".nojekyll", "")

@@ -9,7 +9,7 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,384 threads, 176,226
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,417 threads, 176,397
 messages, 1994 to today. Three sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
@@ -18,7 +18,7 @@ of the game's rules directors took part.
   (June 1998 onward) answered. Several hundred of these threads are from
   `rec.games.deckmaster`, where Jyhad was discussed before it had a group of
   its own.
-- **The V:EKN forum**, from 2010 on: 3,605 topics, every one that Ankha or
+- **The V:EKN forum**, from 2010 on: 3,638 topics, every one that Ankha or
   Pascal Bertrand before him posted in, close to half of them rules questions.
   The forum drops topics of its own accord — the one the Baltimore Purge ruling
   rests on returns a 404 today, and survives only because the Wayback Machine
@@ -33,8 +33,7 @@ of the game's rules directors took part.
   answer — 45 of the 57 threads are from his tenure, and the other 12 are kept
   for completeness, not for citation.
 
-A thread from anywhere but the newsgroup carries a `Group` saying where it came
-from. `import_mbox.py`, `import_forum.py`, `sync_forum.py` and `import_bgg.py` are
+`import_mbox.py`, `import_forum.py`, `sync_forum.py` and `import_bgg.py` are
 what put them here, and `merge_mbox.py` filled the gaps Google's copy had from
 the Internet Archive's. Putting a lost post back moves the ones after it, so
 that run also wrote `anchors.json`: the map from old `#m` number to new, for
@@ -51,6 +50,13 @@ Each file is one thread:
   "Messages": [{"Author": "...", "Date": "Jul 6, 1997, 9:00:00 AM", "Body": "..."}]
 }
 ```
+
+Three fields appear only where they apply. `Group` names the group or site a
+thread came from, and is absent only on the threads scraped from Google
+Groups' copy of the newsgroup. `Id`, on a forum or
+BoardGameGeek post, is the number that site gave it. `"Recovered": true` marks
+a post that `merge_mbox.py` put back from the Internet Archive's copy, which
+Google's had lost.
 
 The JSON is the archive. The website is a rendering of it, rebuilt on every
 push; nothing about the content depends on the generator surviving.
@@ -131,8 +137,11 @@ program that wants every thread rather than a page of them. Unzipped, it is
 one JSON object: `LastPost`, the date of the newest post the archive holds
 (ISO, with no time zone, since the posts carry none), and `Threads`, every
 thread file as it stands, in the order of their paths. It is rebuilt with the
-site, about 57 MB; the gzip carries no timestamp, so an unchanged archive
-builds to the same bytes.
+site, about 57 MB, and left out of a `--limit` build. The gzip carries no
+timestamp, so an unchanged archive builds to the same bytes on the same zlib;
+another zlib version compresses it differently. The `ETag` and `Last-Modified`
+GitHub Pages sends change with every deploy, not with the content: a `304`
+means nothing was deployed since, a `200` does not mean a thread changed.
 
 ## Searching it
 
