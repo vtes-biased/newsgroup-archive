@@ -9,7 +9,7 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,417 threads, 176,397
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,418 threads, 176,398
 messages, 1994 to today. Three sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
@@ -17,7 +17,10 @@ of the game's rules directors took part.
   Shawn F. Carnes (July 1996), Jon Wilkie (October 1996) and L. Scott Johnson
   (June 1998 onward) answered. Several hundred of these threads are from
   `rec.games.deckmaster`, where Jyhad was discussed before it had a group of
-  its own.
+  its own. One thread is here for another reason: the DCI's floor rules of
+  1 August 1998, posted by Robert Goudie of the players' organization, which
+  no rules director answered but which a history of the game's rules changes
+  cites.
 - **The V:EKN forum**, from 2010 on: 3,638 topics, every one that Ankha or
   Pascal Bertrand before him posted in, close to half of them rules questions.
   The forum drops topics of its own accord — the one the Baltimore Purge ruling
