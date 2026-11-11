@@ -9,24 +9,26 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,418 threads, 176,398
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,419 threads, 176,399
 messages, 1994 to today. Three sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
 - **The newsgroup**, 1994 to 2010, where Thomas R. Wylie (from December 1994),
   Shawn F. Carnes (July 1996), Jon Wilkie (October 1996) and L. Scott Johnson
-  (June 1998 onward) answered. Several hundred of these threads are from
+  (February 1997 onward) answered. Several hundred of these threads are from
   `rec.games.deckmaster`, where Jyhad was discussed before it had a group of
   its own. One thread is here for another reason: the DCI's floor rules of
   1 August 1998, posted by Robert Goudie of the players' organization, which
   no rules director answered but which a history of the game's rules changes
   cites.
-- **The V:EKN forum**, from 2010 on: 3,638 topics, every one that Ankha or
+- **The V:EKN forum**, from 2010 on: 3,639 topics, every one that Ankha or
   Pascal Bertrand before him posted in, close to half of them rules questions.
   The forum drops topics of its own accord — the one the Baltimore Purge ruling
   rests on returns a 404 today, and survives only because the Wayback Machine
   kept it. Two topics are here for the other reason: a ruling cites them, even
-  though neither director posted in them.
+  though neither director posted in them. One more is here because it dates a
+  succession: the V:EKN's announcement of 4 December 2016 that Ankha would
+  take the seat once Pascal Bertrand stepped down.
 - **BoardGameGeek**, 2009 to 2025: 57 threads, every one in the game's Rules
   forum there that L. Scott Johnson took part in. As Usenet wound down he
   answered questions on this third site instead, and his last ruling as rules

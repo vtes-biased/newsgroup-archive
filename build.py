@@ -405,7 +405,7 @@ which one of the game's rules directors posted &mdash;
 <strong>Thomas&nbsp;R.&nbsp;Wylie</strong> (from December 1994),
 <strong>Shawn&nbsp;F.&nbsp;Carnes</strong> (July 1996),
 <strong>Jon&nbsp;Wilkie</strong> (October 1996) and
-<strong>L.&nbsp;Scott&nbsp;Johnson</strong> (June 1998 onward) &mdash; which is
+<strong>L.&nbsp;Scott&nbsp;Johnson</strong> (February 1997 onward) &mdash; which is
 where the rulings of the newsgroup era were handed down. The threads they
 answered in are here whole, questions and argument included, not just the
 answers.</p>
