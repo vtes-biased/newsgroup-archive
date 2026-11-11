@@ -3,10 +3,15 @@ name: Follow the forum
 # The forum loses topics, so the archive reads it every night rather than
 # whenever somebody remembers to. A run that finds nothing commits nothing;
 # a run that finds something commits it and the site rebuilds behind it.
+# The read step tells the two schedules apart by the cron string, repeated there.
 
 on:
   schedule:
+    # Every night: new posts by a rules director, and every topic a ruling cites.
     - cron: "17 4 * * *"
+    # Sundays: topics with a post in the last sixty days, read again whole for
+    # the replies that came after the director's last post.
+    - cron: "17 5 * * 0"
   workflow_dispatch:
     inputs:
       refresh:
@@ -36,17 +41,33 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      - name: Read what the rulings cite
+        run: >-
+          curl -fsSL -o "$RUNNER_TEMP/references.yaml"
+          https://raw.githubusercontent.com/vtes-biased/vtes-rulings/main/rulings/references.yaml
+
       # Two members, because it took two to cover the rulings: Ankha, and
-      # Pascal Bertrand, the rules director before him.
+      # Pascal Bertrand, the rules director before him. The cited topics
+      # neither of them posted in are fetched by the second run, and one the
+      # forum no longer has fails it.
       - name: Read the forum
         env:
-          REFRESH: ${{ inputs.refresh && '--refresh' || '' }}
+          REFRESH: >-
+            ${{ inputs.refresh && '--refresh'
+            || github.event.schedule == '17 5 * * 0' && '--refresh --recent 60'
+            || '' }}
         run: |
-          python3 sync_forum.py --user "ankha" $REFRESH
-          python3 sync_forum.py --user "Pascal Bertrand" $REFRESH
+          status=0
+          python3 sync_forum.py --user "ankha" $REFRESH || status=1
+          python3 sync_forum.py --user "Pascal Bertrand" $REFRESH \
+            --expect "$RUNNER_TEMP/references.yaml" || status=1
+          exit $status
 
+      # A topic is written whole or not at all, so what a failed read did
+      # fetch is kept, and the run still shows red.
       - name: Keep what it found
         id: keep
+        if: ${{ !cancelled() }}
         run: |
           if [ -z "$(git status --porcelain threads)" ]; then
             echo "nothing new on the forum"
@@ -69,7 +90,7 @@ jobs:
   # be asked for here rather than left to the one that watches for a push.
   publish:
     needs: sweep
-    if: needs.sweep.outputs.changed == 'true'
+    if: ${{ !cancelled() && needs.sweep.outputs.changed == 'true' }}
     permissions:
       contents: read
       pages: write

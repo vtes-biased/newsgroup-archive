@@ -1,0 +1,25 @@
+name: Keep the schedule alive
+
+# GitHub switches a scheduled workflow off after sixty days with no activity in
+# the repository, and a quiet forum would let that stop the nightly sweep. A
+# dated empty commit each month is the activity.
+
+on:
+  schedule:
+    - cron: "47 5 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Commit the date
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Still following the forum, $(date -u +%F)"
+          git push || { git pull --rebase && git push; }

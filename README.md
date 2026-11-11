@@ -180,6 +180,8 @@ python3 sync_forum.py --list      # say what would be fetched, fetch nothing
 python3 sync_forum.py             # fetch what the archive has not got
 python3 sync_forum.py --user "Pascal Bertrand"   # or any other member
 python3 sync_forum.py --refresh   # fetch every topic again, replies and all
+python3 sync_forum.py --refresh --recent 60   # only those with a post in 60 days
+python3 sync_forum.py --expect references.yaml   # and every topic it links to
 ```
 
 The forum publishes no listing of a member's topics — the one on their profile
@@ -190,26 +192,43 @@ list; the topics are then fetched one a second. The first run took two hours
 for 2,861 topics, a run that finds nothing new takes a minute.
 
 What a plain run cannot see is a reply written after that member's last post in
-a topic; `--refresh` is for that.
-
-`.github/workflows/sync.yml` does all this every night at 4:17 UTC, for both
-members, and commits whatever it found; the site rebuilds behind it. Most
-nights it finds nothing and commits nothing. The Actions tab runs it on demand
-and offers a `refresh` box for the slow kind of run.
-
-Two things about the nightly one. A sweep whose search the forum would not let
-finish fails rather than reporting a quiet night, because from the outside
-those look the same and only one of them means the archive is current. And
-GitHub switches a scheduled workflow off after sixty days with no commit to the
-repository — so a quiet spell long enough would stop the sweep that would have
-ended it. The Actions tab hands it back with a button.
+a topic; `--refresh` is for that, and `--recent` keeps it to the topics whose
+last post is under so many days old — a few dozen at sixty, a minute's work.
 
 `--user` takes any member, and it took two to cover the rulings: Ankha, and
 Pascal Bertrand, the rules director before him. Nor does the search see quite
 everything — it returned 5,609 of the 6,947 posts Ankha's profile counts, and
-two cited topics had to be fetched by name with `import_forum.py`. Run with
-`--expect`, naming a file of topic numbers, and it says at the end which of
-them the archive still has not got.
+two cited topics had to be fetched by name. `--expect` does that now: given a
+file, it reads the forum links in it — the rulings database's
+`references.yaml` is the one that matters — fetches every linked topic the
+archive has not got, and fails if any is still missing at the end, which means
+the forum has dropped it, or would not serve it tonight. A file with no forum
+link in it fails too, rather than checking nothing.
+
+`.github/workflows/sync.yml` runs all this on two schedules, for both
+members, and commits whatever it found; the site rebuilds behind it.
+
+- Every night at 4:17 UTC, a plain run, with `--expect` fed the rulings
+  database's current `references.yaml`. Most nights it finds nothing and
+  commits nothing.
+- Every Sunday at 5:17 UTC, `--refresh --recent 60`, for the replies.
+
+The Actions tab runs it on demand too, with a `refresh` box for the slow kind
+of run, every topic again.
+
+GitHub switches a scheduled workflow off after sixty days with no activity in
+the repository, and a quiet forum would stop the sweep that would have ended
+the quiet. So `.github/workflows/heartbeat.yml` makes an empty commit on the
+first of each month at 5:47 UTC, the date in its message, and nothing else.
+Should the sweep be switched off anyway, the Actions tab hands it back with a
+button.
+
+A run fails rather than reporting a quiet night in two cases: the forum would
+not let a search finish, and a cited topic is still missing. Both members are
+read whatever the first run met, so one failure does not hide the other. From the outside
+each looks like nothing new, and only the quiet night means the archive is
+current. Whatever topics a failed run did fetch are committed all the same,
+since a topic is written whole or not at all.
 
 ## The BoardGameGeek threads
 

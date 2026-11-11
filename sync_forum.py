@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Copy every V:EKN forum topic a member has posted in into the archive.
 
-Two of every five sources the rulings database cites live on the V:EKN forum --
-633 of its 1,548 references, across 457 topics -- and the forum loses topics:
+Nearly a third of the sources the rulings database cites live on the V:EKN
+forum -- 490 of some 1,550 references, across 457 topics -- and it loses topics:
 79155, which a ruling still rests on, 404s today and survives only because the
 Wayback Machine happened to keep it. Rather than wait for the next one to go,
 this walks the forum and copies the topics the rules director has answered in,
@@ -11,6 +11,7 @@ written as the same JSON the newsgroup threads use.
     python3 sync_forum.py --list      # say what would be fetched, fetch nothing
     python3 sync_forum.py             # fetch what the archive has not got
     python3 sync_forum.py --refresh   # fetch every topic again, replies and all
+    python3 sync_forum.py --refresh --recent 60   # only the ones still talked in
 
 The forum publishes no listing of a member's topics -- the one on their profile
 shows the six most recent -- so the search does the enumerating instead:
@@ -21,14 +22,17 @@ whole list; the topics themselves are then fetched one at a time.
 A plain run fetches a topic the archive does not have, or one where the search
 shows a post of theirs the archive is missing. Everything else is left alone,
 so a second run costs a minute. What it cannot see is a reply written after
-that member's last post in a topic: only `--refresh` picks those up.
+that member's last post in a topic: only `--refresh` picks those up, and
+`--recent` keeps that to the topics whose last post is still fresh.
 
-A run the forum would not let finish exits non-zero. A search cut short and a
-forum with nothing new look alike from the outside, and the nightly sweep in
-`.github/workflows/sync.yml` has to be able to tell them apart.
+A run the forum would not let finish exits non-zero, and so does one that
+leaves a topic named by `--expect` missing. A search cut short, a cited topic
+the forum has lost and a forum with nothing new look alike from the outside,
+and the nightly sweep in `.github/workflows/sync.yml` has to tell them apart.
 """
 
 import argparse
+import datetime
 import json
 import pathlib
 import re
@@ -58,6 +62,9 @@ RE_WHO = re.compile(r'href="/forum/user/(\d+)-([^"]*)"')
 RE_POST = re.compile(r'class="kmessage"')
 #: Every post carries its own number as the anchor the forum links it by.
 RE_ID = re.compile(r'id="(\d+)"')
+#: A link to a topic, wherever it is written. The topic is the last numbered
+#: segment: in `/forum/6-rules-questions/66453-...` the 6 is a category.
+RE_CITED = re.compile(r'vekn\.net(/forum[\w-]*/(?:[^\s?#"]*/)?(\d+)-[^\s?#"/]*)')
 
 
 def patiently(url: str, delay: float, tries: int = 4) -> str | None:
@@ -187,24 +194,46 @@ def pages(url: str, delay: float) -> list[str] | None:
     return collected
 
 
+def last_post(thread: dict) -> datetime.datetime:
+    return max(archive.read(message["Date"]) for message in thread["Messages"])
+
+
+def cited(path: pathlib.Path | None) -> dict[str, dict]:
+    """The topics a file links to, by number, each with the path it is read at."""
+    if path is None:
+        return {}
+    found: dict[str, dict] = {}
+    for link in RE_CITED.finditer(path.read_text(encoding="utf-8")):
+        found.setdefault(link.group(2), {"path": link.group(1)})
+    return found
+
+
 def sync(args: argparse.Namespace) -> int:
     out: pathlib.Path = args.out
     print(f"reading every post by {args.user}", file=sys.stderr)
     found, whole = every_post(args.user, args.delay)
     wanted = topics(found)
+    expected = cited(args.expect)
     known = archived(out)
     print(f"{len(wanted)} topics, {len(known)} already in the archive")
+    # Forum dates carry no zone, so this is off by a few hours at most.
+    fresh = None
+    if args.recent is not None:
+        fresh = datetime.datetime.now() - datetime.timedelta(days=args.recent)
 
     todo = []
     for number, topic in wanted.items():
         if number not in known:
             todo.append((number, topic, "new"))
-        elif args.refresh:
+        elif args.refresh and (fresh is None or last_post(known[number][1]) >= fresh):
             todo.append((number, topic, "refresh"))
         elif not topic["posts"] <= {
             message.get("Id") for message in known[number][1]["Messages"]
         }:
             todo.append((number, topic, "more posts"))
+    for number, topic in expected.items():
+        if number not in known and number not in wanted:
+            todo.append((number, topic, "cited"))
     print(f"{len(todo)} to fetch")
     if args.list:
         for number, topic, why in todo:
@@ -233,31 +262,29 @@ def sync(args: argparse.Namespace) -> int:
             known[number] = (path, thread)
             fetched += 1
         print(f"fetched {fetched}, gone {gone}, failed {failed}")
-    status = report(wanted, known, args)
+    if args.expect and not expected:
+        print(f"no forum link in {args.expect}: nothing checked", file=sys.stderr)
+        return 1
+    status = 0 if args.list else report(expected, known)
     if not whole:
         print("the search did not finish: what is new is not known", file=sys.stderr)
         return 1
     return status
 
 
-def report(wanted: dict, known: dict, args: argparse.Namespace) -> int:
-    """Say which topics somebody expects to find here and cannot.
+def report(expected: dict, known: dict) -> int:
+    """Fail on any topic somebody cites that the archive still has not got.
 
-    The rulings database cites 457 forum topics by number; a topic of those
-    that no search result named is one where the rules director never posted,
-    or one the forum has already dropped. Either way it wants fetching by hand,
-    so it is worth naming rather than leaving to be noticed later.
+    By now every one of them has been asked of the forum, so a topic still
+    missing is one the forum has dropped: only a copy from elsewhere, the
+    Wayback Machine's, can fill it, and nobody will go looking unless told.
     """
-    if not args.expect:
-        return 0
-    expected = {
-        number for number in re.findall(r"\d+", args.expect.read_text(encoding="utf-8"))
-    }
-    missing = sorted(expected - set(known), key=int)
-    print(f"{len(expected) - len(missing)}/{len(expected)} expected topics archived")
+    missing = sorted(set(expected) - set(known), key=int)
+    if expected:
+        print(f"{len(expected) - len(missing)}/{len(expected)} cited topics archived")
     for number in missing:
-        print(f"  missing {number}" + ("" if number in wanted else " (never a hit)"))
-    return 0
+        print(f"  missing {number}: {SITE}{expected[number]['path']}")
+    return 1 if missing else 0
 
 
 def main() -> int:
@@ -276,11 +303,21 @@ def main() -> int:
         "--refresh", action="store_true", help="fetch known topics again too"
     )
     parser.add_argument(
+        "--recent",
+        type=int,
+        metavar="DAYS",
+        help="refresh only the topics with a post in the last DAYS days",
+    )
+    parser.add_argument(
         "--expect",
         type=pathlib.Path,
-        help="a file naming topic numbers that ought to end up archived",
+        help="a file whose forum links name topics the archive must hold;"
+        " those it lacks are fetched, and any still missing fail the run",
     )
-    return sync(parser.parse_args())
+    args = parser.parse_args()
+    if args.recent is not None and not args.refresh:
+        parser.error("--recent only narrows --refresh")
+    return sync(args)
 
 
 if __name__ == "__main__":
