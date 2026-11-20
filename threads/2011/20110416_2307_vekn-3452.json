@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-3452",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3452-truth-of-blood-and-change-of-target",
+  "Title": "Truth of Blood and Change of Target",
+  "Messages": [
+    {
+      "Author": "Klaital",
+      "Date": "Apr 16, 2011, 11:07\u202FPM",
+      "Body": "If a vampire bleeding with Truth of Blood is blocked, and plays Change of Target, does the blocking minions controller still discard the two random cards?\n\nName: Truth of Blood\n[LoB:C, LotN:PA]\nCardtype: Action\nDiscipline: Auspex & Quietus\n[aus][qui]  Bleed at +1 bleed. If this action is blocked, the controller of the blocking minion discards two cards at random from his or her hand (before combat, if any). Those cards are not replaced until the end of this action.\n[AUS][QUI] As above, but bleed at +2 bleed.\nArtist: Peter Bergting\n\nName: Change of Target\n[Jyhad:U, VTES:U, CE:U, Anarchs:PAB2, LoB:PG2/PI2, KoT:U/PM3]\nCardtype: Action Modifier\nOnly usable when this acting minion is blocked (play before combat, if any). Untap the acting minion, do not tap the blocking minion, and end the current action (it is not successful). This minion cannot perform the same action again this turn.\nArtist: Chris Stevens; Dan Frazier",
+      "Id": "3452"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 17, 2011, 3:25\u202FAM",
+      "Body": "Both effects would occur before combat, if any, therefore they should both trigger at the \"block succeeds\" point. (You cannot play CoT without the block first being successful.)\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3458"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 17, 2011, 6:47\u202FAM",
+      "Body": "> Klaital wrote:\n> If a vampire bleeding with Truth of Blood is blocked, and plays Change of Target, does the blocking minions controller still discard the two random cards?\n>\nYes. See Aching Beauty + Change of Target for similar mechanism. (  [RTR 19991206] )",
+      "Id": "3465"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 17, 2011, 8:47\u202FAM",
+      "Body": "This is also similar to the Unleash Hell's Fury & CoT result/ruling.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3469"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "ThreadId": "vekn-4298",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/4298-sword-of-the-righteous-bundi-anesthetic-touch",
+  "Title": "Sword of the Righteous + Bundi + Anesthetic Touch",
+  "Messages": [
+    {
+      "Author": "morkalavin",
+      "Date": "May 10, 2011, 6:14\u202FPM",
+      "Body": "Nahum Enosh has a Bundi. He enters combat. He finds his Bundi needs to be more enlightening for the opposing vampire and plays Sword of the Righteous on VAL on it.\n\n> Sword of the Righteous\n> Type: Combat\n> Requires: Valeren/Animalism\n> Cost: 1 Blood\n> Only usable before range is determined.\n> [ani] Choose a melee weapon on this vampire. This vampire inflicts an additional point of damage each strike with that weapon for the remainder of the combat. A vampire can play only one Sword of the Righteous each combat.\n> [val] As [ani] above, and the damage this vampire inflicts with the weapon is aggravated.\n> [VAL] As [val] above, and prevent 1 damage this round.\n>\n> Bundi\n> Type: Equipment\n> Cost: 2 pool\n> Melee weapon.\n> Strike: hand strike for strength+1 damage. (This strike is both a hand strike and a melee weapon strike). Bearer may prevent 1 damage from each melee weapon strike made against him or her.\n>\n> Anesthetic Touch\n> Type: Combat\n> Requires: Obeah/Auspex\n> Only usable at close range.\n> [aus] Strike: dodge.\n> [obe] Strike: make a hand strike. Combat ends immediately after the resolution of this strike.\n> [OBE] As [obe] above, with First Strike.\n>\nIf I play Anesthetic Touch, can I use the Bundi for the hand strike, making it Strength+2 aggravated with First Strike, Combat Ends or Does Nahum strike a normal hand strike?\n\nMy confusion comes from the wording on the weapons in HttB \"Strike: <yadda>\" while all the older weapons read \"Strength +X each strike\" and the following words by LSJ:\n>\n> [...]Brute Force at superior is either:\n>\n> Strike: hand strike at +2 damage\n>\n> or\n>\n> Strike: use a melee weapon at +3 damage.\n>\n> The former is its own strike and cannot be used to modify any other hand strike\n> (so no stacking Bundi with Blood Fury, for example). It cannot be used with\n> Bundi.[...]\n>",
+      "Id": "4298"
+    },
+    {
+      "Author": "Haze",
+      "Date": "May 10, 2011, 6:37\u202FPM",
+      "Body": "it's not allowed that way. you can choose to \"strike: blah blah\" with the Anesthetic Touch, or the Bundi, but not both.\n\nfor similar reasons if you have a camera phone, you can choose to use the camera phone's bleed action, or play a Govern, but not both at once. and Undead Strength can't recur into another Undead Strength, into another Undead Strength...\n\nwhat is allowed with bundi is when your hand damage already have special properties. like Claws of the Dead, or Violet Tremain's special.",
+      "Id": "4301"
+    },
+    {
+      "Author": "Boris The Blade",
+      "Date": "May 10, 2011, 7:05\u202FPM",
+      "Body": "> morkalavin wrote:\n> My confusion comes from the wording on the weapons in HttB \"Strike: <yadda>\" while all the older weapons read \"Strength +X each strike\"\n>\nIt is a bit older than HttB. The new wording was introduced in KoT, so Bundi has been corrected:\n\n> Secret wrote:\n> Bundi\n>\n> Melee weapon.\n> Strike: hand strike at +1 damage. (This strike is both a hand strike and a melee weapon strike). Bearer may prevent 1 damage from each melee weapon strike made against him or her.\n>",
+      "Id": "4302"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 10, 2011, 7:23\u202FPM",
+      "Body": "> morkalavin wrote:\n> If I play Anesthetic Touch, can I use the Bundi for the hand strike, making it Strength+2 aggravated with First Strike, Combat Ends or Does Nahum strike a normal hand strike?\n>\nNo.\n[LSJ 20080702]",
+      "Id": "4304"
+    },
+    {
+      "Author": "morkalavin",
+      "Date": "May 10, 2011, 8:01\u202FPM",
+      "Body": "Thanks, that's what I feared.",
+      "Id": "4305"
+    }
+  ]
+}

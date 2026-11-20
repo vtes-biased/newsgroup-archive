@@ -1,0 +1,80 @@
+{
+  "ThreadId": "vekn-956",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/956-loving-agony-and-catatonic-fear",
+  "Title": "Loving Agony and Catatonic Fear",
+  "Messages": [
+    {
+      "Author": "noir",
+      "Date": "Jan 31, 2011, 1:18\u202FPM",
+      "Body": "I was wondering something here.\nDoes the card 'Loving Agony' work similar to 'Catatonic fear' in that, that it causes the damage after combat, making it non-preventable? The reason I'm wondering is because they're worded quite different with one saying \"combat ends and the opposing minion takes 1 damage.\" whilst the other say \"...as above (combat ends) and inflict 1 damage to the opposing minion once combat ends, if the range is close\".\n\nLoving Agony\nCardtype: Combat\nCost: 1 blood\nDiscipline: Valeren/Animalism\nOnly usable at close range.\n[ani] Strike: hand strike at +1 damage.\n[val] Strike: combat ends and the opposing minion takes 1 damage.\n[VAL] As [val] above, and this vampire may burn 1 blood to untap before combat ends.\n\nCatatonic Fear\nCardtype: Combat\nCost: 1 blood\nDiscipline: Presence\nStrike: combat ends.\nAs above, and inflict 1 damage to the opposing minion once combat ends if the range is close.",
+      "Id": "956"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jan 31, 2011, 2:07\u202FPM",
+      "Body": "If some strike reads: \"Strike: Combat ends, and do something\", then something happens after combat.\nThe only exception is when the strike reads \"Combat ends and untap\" (Majesty, Earth Meld, Loving Agony, ..), where the *this vampire untaps* part happens before the end of combat.\n\nSo, yes, the damage from Loving Agony is similar to the damage from Catatonic Fear, vis-a-vis their timing. They are inflicted after combat, and can't be prevented with combat cards.",
+      "Id": "958"
+    },
+    {
+      "Author": "noir",
+      "Date": "Jan 31, 2011, 2:41\u202FPM",
+      "Body": "Ah, as I thought then.\nThanks for the reply",
+      "Id": "959"
+    },
+    {
+      "Author": "Baronofhilliard",
+      "Date": "Feb 10, 2011, 7:10\u202FPM",
+      "Body": "There is a difference that I think is interesting. You can play target cards with LA while you can not play them with CF.",
+      "Id": "1250"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Feb 10, 2011, 7:53\u202FPM",
+      "Body": "> Baronofhilliard wrote:\n> There is a difference that I think is interesting. You can play target cards with LA while you can not play them with CF.\n>\n'Target' cards are played when choosing a strike, which is during combat, so why can't you play them on CF?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "1252"
+    },
+    {
+      "Author": "Baronofhilliard",
+      "Date": "Feb 10, 2011, 9:13\u202FPM",
+      "Body": "Because LJS made a ruling that you can not use target vitals on CF. I believe there is a window there that is missed. One occurs immediately while the other is after combat.",
+      "Id": "1259"
+    },
+    {
+      "Author": "Suoli",
+      "Date": "Feb 10, 2011, 9:45\u202FPM",
+      "Body": "> Baronofhilliard wrote:\n> Because LJS made a ruling that you can not use target vitals on CF. I believe there is a window there that is missed. One occurs immediately while the other is after combat.\n>\nThe latest ruling (from 2009) I can find indicates that T:V can be played on CF.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/a65aac793032049a/98f97bcf7182437b?q=catatonic+fear+target+vitals+author:lsj#98f97bcf7182437b",
+      "Id": "1261"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 10, 2011, 11:16\u202FPM",
+      "Body": "> Loving Agony\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Valeren/Animalism\n> Only usable at close range.\n> [ani] Strike: hand strike at +1 damage.\n> [val] Strike: combat ends and the opposing minion takes 1 damage.\n> [VAL] As [val] above, and this vampire may burn 1 blood to untap before combat ends.\n>\n> Catatonic Fear\n> Cardtype: Combat\n> Cost: 1 blood\n> Discipline: Presence\n> Strike: combat ends.\n> As above, and inflict 1 damage to the opposing minion once combat ends if the range is close.\n>\nI would disagree with Floppy.\n\nCatatonic Fear has (at ) Strike: Combat ends, and inflict 1 damage to the opposing minion once combat ends if the range is close.\n\nLoving Agony has (at ) Strike: combat ends and the opposing minion takes 1 damage.\n\nLoving Agony does not have the comma \",\" between the Strike and the \"and\". So Loving Agony would work like Majesty (Strike: Combat Ends and untap this vampire) and deal the damage during combat which would make it preventable. At  the effect, while separated by a comma, explicitly states its timing.\n\nLSJ has ruled that you can play Target Vitals on Catatonic Fear and it will deal the additional damage.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "1277"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 10, 2011, 11:26\u202FPM",
+      "Body": "Both cards work exactly the same way. The damage is done after combat.\n\n> LSJ wrote:\n>\n> > Brum wrote:\n> > IF there is an untap effect it goes before the end of combat. IF it is any other effect, it goes after combat. Right?\n> >\n> Precisely (also, all the untap effects have been rewritten so that their overriding of that default (after) is explicit.\n>\nAND\n\n> LSJ wrote:\n>\n> > felipechewbacca wrote:\n> > Can I play Target Vitals with Catatonic Fear?\n> >\n> Yes.\n>\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "1279"
+    },
+    {
+      "Author": "Baronofhilliard",
+      "Date": "Feb 11, 2011, 12:45\u202FAM",
+      "Body": "I was thinking of Oubliette.",
+      "Id": "1280"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Feb 11, 2011, 1:27\u202FAM",
+      "Body": "> Baronofhilliard wrote:\n> I was thinking of Oubliette.\n>\nTarget cards can be played with Oubliette.\n\nThey have no effect when they rely on dealing damage, as damage is not done by Oubliette.",
+      "Id": "1285"
+    },
+    {
+      "Author": "Baronofhilliard",
+      "Date": "Feb 11, 2011, 3:53\u202FAM",
+      "Body": "> Adonai wrote:\n>\n> > Baronofhilliard wrote:\n> > I was thinking of Oubliette.\n> >\n> Target cards can be played with Oubliette.\n>\n> They have no effect when they rely on dealing damage, as damage is not done by Oubliette.\n>\nThe point is that there would be no point since you burn a life and not take damage. You can play it as many other cards to get them from your hand.",
+      "Id": "1290"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-3379",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3379-lsj-cards-that-say-end-the-action-which-allow-blocking",
+  "Title": "[LSJ] Cards that say \"End the action\" which allow blocking",
+  "Messages": [
+    {
+      "Author": "KevinM",
+      "Date": "Apr 14, 2011, 8:16\u202FAM",
+      "Body": "There are some google-groups rulings that aren't *quite* clear to me,\neven contradictory, so I'd like a clarification on Action Modifiers\nand Reactions that allow blocking and then say \"(Do something) and/or\nEnd the Action.\"\n\n(I understand that Kiss of Ra itself cancels the block action and\nTangle Atropos' Hand itself cancels the action, so I'm not asking\nabout those.)\n\nSpecifically, I'm asking about the following cards, which all\nappear identical -- although CoT ends the action unsuccessfully;\ndoes that make it different?\n\nAction Modifiers\nChange of Target: (Do something) and end the current action (it is not successful).\nClaiming the Body: Cancel the combat and end the action.\nMake an Example: (Do something) and end the action (without combat).\nMirror's Visage: Untap this vampire and end the action.\n\nReactions\nBloodstorm of Chorazin: (Do something) and end the action (with no combat).\nMental Maze: End the action (with no combat).\nObedience: (Do something) and end the current action (and combat).\nShattered Mirror: (Do something) and end the action (with no combat).\n\nDoes the 'end the action' text move the Action Sequence to the\n\"IV.E. Action ends\" phase -- and therefore allows cards to be played\nin that phase (Cats' Guidance, Freak Drive, etc.) -- or does an\n'end the action'-type phrase indicate that there is no more action\nand therefore those cards (such as listed above) cannot be played?\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "3379"
+    },
+    {
+      "Author": "Erol",
+      "Date": "Apr 14, 2011, 9:21\u202FAM",
+      "Body": "After an action ends, there is no window to play any cards like freak drive or cats guidance.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/862b18c12df3f239\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/862b18c12df3f239\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/browse_thread/thread/7bc91b7ca3f96bb5/66c80899ad01a9a2\n\n- Prince of Karlsruhe, Germany",
+      "Id": "3381"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 14, 2011, 3:48\u202FPM",
+      "Body": "> KevinM wrote:\n> Does the 'end the action' text move the Action Sequence to the\n> \"IV.E. Action ends\" phase -- and therefore allows cards to be played\n> in that phase (Cats' Guidance, Freak Drive, etc.) -- or does an\n> 'end the action'-type phrase indicate that there is no more action\n> and therefore those cards (such as listed above) cannot be played?\n>\nThe latter. Once \"action ends\" is resolved (i.e. when the card is resolved, which is pretty much when it is played, for action modifiers and reactions), the action is over, and can't be modified with action modifiers.",
+      "Id": "3383"
+    }
+  ]
+}

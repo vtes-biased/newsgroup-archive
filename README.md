@@ -9,7 +9,7 @@ can cite it instead of Google Groups and instead of a forum that loses topics.
 
 ## What is in here
 
-`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,419 threads, 176,399
+`threads/<year>/<date>_<time>_<ThreadId>.json` — 14,464 threads, 176,747
 messages, 1994 to today. Three sources, one rule: every discussion in which one
 of the game's rules directors took part.
 
@@ -21,7 +21,7 @@ of the game's rules directors took part.
   1 August 1998, posted by Robert Goudie of the players' organization, which
   no rules director answered but which a history of the game's rules changes
   cites.
-- **The V:EKN forum**, from 2010 on: 3,639 topics, every one that Ankha or
+- **The V:EKN forum**, from 2010 on: 3,684 topics, every one that Ankha or
   Pascal Bertrand before him posted in, close to half of them rules questions.
   The forum drops topics of its own accord — the one the Baltimore Purge ruling
   rests on returns a 404 today, and survives only because the Wayback Machine
@@ -186,22 +186,27 @@ python3 sync_forum.py --refresh --recent 60   # only those with a post in 60 day
 python3 sync_forum.py --expect references.yaml   # and every topic it links to
 ```
 
-The forum publishes no listing of a member's topics — the one on their profile
-shows the six most recent — so its search does the enumerating instead:
-`searchuser=ankha` returns every post they wrote, newest first, a hundred to a
-page, and each result names the topic it is in. Sixty requests give the whole
-list; the topics are then fetched one a second. The first run took two hours
+The forum's profile page shows only a member's most recent posts, and its
+search matches the display name stored on each post — missing 97 early-2011
+posts by Pascal Bertrand across 58 topics (45 topics, 64 of his posts, absent
+from the archive; 13 already archived). A member's full public post listing
+lives at `/forum/topics/posts/mode-latest/userid-<id>?sel=-1`, newest first, a
+hundred to a page, and each row names the topic and post it is in. One search
+request turns a member's name into their user id, sixty requests give the whole
+list, and the topics are then fetched one a second. The first run took two hours
 for 2,861 topics, a run that finds nothing new takes a minute.
 
 What a plain run cannot see is a reply written after that member's last post in
 a topic; `--refresh` is for that, and `--recent` keeps it to the topics whose
 last post is under so many days old — a few dozen at sixty, a minute's work.
 
-`--user` takes any member, and it took two to cover the rulings: Ankha, and
-Pascal Bertrand, the rules director before him. Nor does the search see quite
-everything — it returned 5,609 of the 6,947 posts Ankha's profile counts, and
-two cited topics had to be fetched by name. `--expect` does that now: given a
-file, it reads the forum links in it — the rulings database's
+`--user` takes any member (name or numeric user id), and it took two to cover
+the rulings: Ankha, and Pascal Bertrand, the rules director before him. The
+higher post count shown on a director's profile header (7,003 vs 5,661 public
+posts for Ankha, 4,269 vs 2,002 for Pascal Bertrand, on 2026-11-20) includes
+posts in non-public forum categories invisible without login. Two cited topics
+had no posts by either director and had to be fetched by name. `--expect` does
+that now: given a file, it reads the forum links in it — the rulings database's
 `references.yaml` is the one that matters — fetches every linked topic the
 archive has not got, and fails if any is still missing at the end, which means
 the forum has dropped it, or would not serve it tonight. A file with no forum
@@ -226,7 +231,7 @@ Should the sweep be switched off anyway, the Actions tab hands it back with a
 button.
 
 A run fails rather than reporting a quiet night in two cases: the forum would
-not let a search finish, and a cited topic is still missing. Both members are
+not let the post listing finish, and a cited topic is still missing. Both members are
 read whatever the first run met, so one failure does not hide the other. From the outside
 each looks like nothing new, and only the quiet night means the archive is
 current. Whatever topics a failed run did fetch are committed all the same,

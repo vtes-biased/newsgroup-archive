@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-3903",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3903-seeds-of-corruption-question",
+  "Title": "Seeds of corruption question...",
+  "Messages": [
+    {
+      "Author": "Randy",
+      "Date": "Apr 28, 2011, 12:26\u202FPM",
+      "Body": "Seeds of Corruption\nType: Action\nRequires: Thaumaturgy\nCost: 2 blood\n+1 stealth action.\n[tha]  Put this card on one of your prey's vampires. If the vampire is a Follower of Set, he or she burns 2 additional blood when attempting an action; otherwise, he or she burns 1 additional blood when attempting an action. The vampire's special abilities cannot be used. Any vampire(s) may burn this card with two +1 stealth actions.\n[THA] As above, but the vampire burns 2 additional blood when attempting an action; Followers of Set burn 3 additional blood.\n\n\"The vampire's special abilities cannot be used.\"\n\nDoes this also count for +bleed or +Strength? What is special ability the cardtext that is not in bold or things that are printed?\n\nPrince of Liding\u00F6",
+      "Id": "3903"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 28, 2011, 1:09\u202FPM",
+      "Body": "> Randy wrote:\n> \"The vampire's special abilities cannot be used.\"\n>\n> Does this also count for +bleed or +Strength? What is special ability the cardtext that is not in bold or things that are printed?\n>\nThat's quite imperfectly defined.\n\nBasically, it's all the cardtext that isn't Clan, Sect, Title, Blood Cursed, Infernal, Unique, Flight, Scarce, Sterile, [Cold Iron] Vulnerability, Anarch, Black Hand, Seraph, Red List, Merged, Advanced, Base, Caitiff, ...\nBut it is anything that is granted to the vampire per its cardtext (Gustaphe Brunelle's ability to enter combat with a minion) and extra boni (+ strength, + bleed, ..) should you consider them boni or mali.\nExamples: Uriah Winter won't be moving around the table if he's got Seeds. The Great Beast can't rush or prevent anymore (via its cardtext) if it has a Seed on itself.\n\nWhat is important to remember, however, is that Seeds don't affect the limitations that might exist for a given cardtext. Example: Beast, with Seeds of Corruption, loses his rush ability, his +1 strength, but still can't play action cards or have equipment or retainers.\nBlood hunt referenda still can't be called on a Muazziz with Seeds of Corruption.\n\n[RTR 20040501]\n\nSome links with examples:\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/bb76deb6992e2f77\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/91d596e4a12219ee\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/9a816f3784001cf2\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/6b9e0af30b6a1781\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/337d0d255360e381\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/1a8d697dd18a0780\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/490d8e7265e519b7\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/4e7ac551207e5882",
+      "Id": "3905"
+    },
+    {
+      "Author": "extrala",
+      "Date": "Apr 28, 2011, 1:13\u202FPM",
+      "Body": "The rulings summary says the following on Seeds of Corruption:\n>\n> Seeds of Corruption:  \"Special ability\" includes all text except terms (i.e., it doesn't include Clan, Sect, Title, Unique (or not), Blood Cursed, Circle, Flight, Infernal, Scarce, Slave, Sterile, Vulnerability, Anarch, Black Hand, Seraph, Red List). (note that this only restricts things that are possible only by special ability - things that a special ability makes impossible are still impossible.)\n>\nRegarding your question: yes, +bleed or strength are disabled by a Seeds of Corruption.",
+      "Id": "3906"
+    }
+  ]
+}

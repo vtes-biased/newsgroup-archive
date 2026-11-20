@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-3988",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3988-questions-about-spying-mission-and-bleed-reduction",
+  "Title": "Questions about Spying Mission and bleed reduction",
+  "Messages": [
+    {
+      "Author": "shavo",
+      "Date": "May 1, 2011, 3:04\u202FPM",
+      "Body": "spying mission and bleed reduction\n\ni bleed they decline block, bleed for one but i want to spying mission.\ni guess this is more of a procedural question.\n\ncan they go straight to reduce bleed?, in which case can i do spying mission?\n\nif they decline block i am acting do i get to spy mission before they can reduce?\n\nspying mission and marked path\ni bleed successfully can i\nmarked path then spying mission?\n\nspying mission then marked path?\n\nspying mission and inf freak drive\nsame as above, which order?",
+      "Id": "3988"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 1, 2011, 3:35\u202FPM",
+      "Body": "FYI, putting the name in the card in the title of thread makes it easier for others to find the answers you are seeking later.\n\nSpying Mission can only be played after all modifiers to the bleed amount have been played.\n\nThe correct process for you to follow when you want to play Spying Mission is as follows:\n\n1) Determine that the action is successful, pay for the action card, if any.\n2) Determine the bleed amount, ask for reduction.\n3) If bleed amount is still 1 or more after reduction is applied or declined, play Spying Mission.\n\nMarked Path & Spying Mission share the same timing, you may order their play, i.e. MP then SM and SM then MP are both valid.\n\nInferior Freak Drive & Spying Mission share the same timing, you may order their play, i.e. FD then SM and SM then FD are both valid.\n\nSpying Mission vs. Spying Mission:  LSJ 07-16-2009\n\nIn play Spying Mission vs. new Spying Mission:  LSJ 02-07-2003\n\nIn play Spying Mission vs. Telepathic Counter/Dummy Corp:  LSJ 11-23-2009\n\nSpying Mission vs. Marked Path/Freak Drive:  LSJ 10-02-2000\n\n> Non-existant user wrote:\n> Spying Mission :\n>\n> * Is only played if you know the bleed is successful, i.e., after you would normally play action modifiers. [TOM 19960226]\n> * Is only played after all Reaction cards (as well as other Action Modifiers) have been played. In particular, Telepathic Counter no longer 'beats' Spying Mission unless it is played first (and the bleed is not boosted back to positive). [TOM 19960303]\n> * After successfully being played, it must be burned on the next unblocked bleed against the same Methuselah, provided the bleed is not reduced to zero by other modifiers. [TOM 19950620]\n> * The bleed it is played on is considered unsuccessful. Previous Spying Missions won't be cashed in during that action. [RTR 19960530]\n> * Archon Investigation cannot be played after a Spying Mission is burned (for +2 bleed), since the bleed is already resolved at that point. [LSJ 19980105]\n> * You cannot play Mask of a Thousand Faces after playing a superior Spying Mission because Spying Mission is played \"instead of removing pool\", which means \"when the action resolves\" - further modifiers cannot be played, unless they are played after the action in general. [LSJ 19980105]\n>",
+      "Id": "3989"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 2, 2011, 6:03\u202FAM",
+      "Body": "> Adonai wrote:\n> Marked Path & Spying Mission share the same timing, you may order their play, i.e. MP then SM and SM then MP are both valid.\n>\n> Inferior Freak Drive & Spying Mission share the same timing, you may order their play, i.e. FD then SM and SM then FD are both valid.\n>\n> Spying Mission vs. Marked Path/Freak Drive:  LSJ 10-02-2000\n>\nI think your reading of that ruling is incorrect.\nSpying Mission is played when action begins to resolve (but before it has resolved), which is, as you described, after all other bleed modifiers / Archon Investigations get to be played.\nMarked Path and Freak Drive are played after action is resolved.\n\nBut all three are played \"after the action resolves/begins resolving\".\n\nSo, it's\n\n1/ Announce bleed.\n2/ Bleed modifications (Conditionings, Telepathic Counters, Archon Investigations, ...). Resolve block attempts, if any, here.\n3/ Declare action would be successful ( == no eligible blockers, pay the cost of the action).\n4/ Play Spying Mission (if bleed amount is still > 0) -- or 4/ Resolve bleed\n5/ After resolution stuff : Freak Drive, Marked Path, ...",
+      "Id": "4003"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 2, 2011, 1:18\u202FPM",
+      "Body": "> Adonai wrote:\n> Spying Mission can only be played after all modifiers to the bleed amount have been played.\n>\n> The correct process for you to follow when you want to play Spying Mission is as follows:\n>\n> 1) Determine that the action is successful, pay for the action card, if any.\n> 2) Determine the bleed amount, ask for reduction.\n>\nIt appears I also missed that one.\n\nYou only pay for the action when it would resolve (right before Spying Mission). Bleed modifiers (Telepathic Counter, Dummy Corporation, ..) lack a cardtext that would make them usable \"at resolution\". They are played before resolution - and before the cost of the action is paid - and before the action is declared successful (since the next step right after that is resolving the action - [IV.C.5] / [IV.D.2.a]).",
+      "Id": "4015"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 2, 2011, 2:52\u202FPM",
+      "Body": "Floppy,\n\nThese aren't meaningful distinctions.\n\nI don't intend to argue with you about it, I've asked LSJ to state exactly what he means, here:\n\nboardgamegeek.com/thread/648695/spying-mission-vs-other-end-of-successful-action",
+      "Id": "4017"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 2, 2011, 6:43\u202FPM",
+      "Body": "No need to argue, we now have LSJ's final word:\n\n> [url=http://boardgamegeek.com/article/6701545][LSJ wrote:\n> Spying Mission is played when the bleed would be successful (card text), so before resolving it.\n>\n> Marked Path is played after (i.e., after resolving) the action (card text).\n>\n> Freak Drive is played after (i.e., after resolving) the action (card text).\n>\n[LSJ 20110502]",
+      "Id": "4021"
+    }
+  ]
+}

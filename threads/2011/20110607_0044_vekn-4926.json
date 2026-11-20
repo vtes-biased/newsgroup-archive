@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-4926",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/4926-alonso-venenation-and-mask-1k-faces",
+  "Title": "Alonso, Venenation and Mask 1K Faces",
+  "Messages": [
+    {
+      "Author": "d31m",
+      "Date": "Jun 7, 2011, 12:44\u202FAM",
+      "Body": "Just wondering how Alonso's inherent +1 Stealth interacts with Mask 1K Faces and Venenation.\n\nEg:\nAnkh Attempts to play Temptation on Beast. Beast attempts to block. Ankh does not play stealth, block is a success. Ankh plays Venenation. Fine till this point.\n\nAlonso Masks. The action is a Ser action, so it now has +1 Stealth (due to his text). However, Venenation requires a successful block to have taken place.\n\nDoes the action continue at +1 Stealth? Or does the previous block stand, and how is that reconciled with 6.2.2.2?\n\n6.2.2.2. Stealth and Intercept.\nTo see if a block attempt succeeds, compare the acting minion's stealth to the blocking minion's intercept. The action is blocked if the blocker's intercept is equal to or greater than the acting minion's stealth. By default, minions have 0 stealth and 0 intercept. So a block attempt will normally succeed unless the action has inherent stealth (such as hunting) or a card or effect is used to increase the acting minion's stealth.\n\nThanks for any insight.",
+      "Id": "4926"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "Jun 7, 2011, 12:59\u202FAM",
+      "Body": "Venenation requires a block.\nStealth is no longer of concern.\nThe action cannot continue.\n\nEither the blocking vampire is stolen or combat occurs.\n\nLSJ 04-29-2002\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/51fcc44c7089c9d6\n\nThe Lasombra 09-08-2003\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/27e102d8787a16fb\n\n> Newsgroup wrote:\n> Once it is determined that a block attempt will succeed, you may still\n> play Mask of a Thousand Faces at inferior obfuscate to change the\n> acting minion unless something like Aching Beauty enters the picture.\n>\n> LSJ 2003-05-21\n> groups.google.com/groups?selm=3ECBCE1D.2090607%40white-wolf.com\n>\n> LSJ 2003-05-20\n> groups.google.com/groups?selm=3ECA4FDC.9050502%40white-wolf.com\n>\n> LSJ 2003-05-19 -- RTR 05-19-2003\n> groups.google.com/groups?selm=3EC8F1DF.8030002%40white-wolf.com\n>",
+      "Id": "4927"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Jun 7, 2011, 7:44\u202FAM",
+      "Body": "After Mask is played (it can only be played at inferior, since stealth isn't needed outside of a block attempt), Alonso's the acting minion and enters combat with the blocker, unless the blocker was stolen by Venenation.\n\n(fun stuff: in that combat, Alonso can't play sup' Form of Mist, since he already has more stealth than the blocker's intercept, and FoM would give him some more stealth he doesn't need).",
+      "Id": "4932"
+    },
+    {
+      "Author": "Amenophobis",
+      "Date": "Jun 7, 2011, 8:46\u202FAM",
+      "Body": "> floppyzedolfin wrote:\n> After Mask is played (it can only be played at inferior, since stealth isn't needed outside of a block attempt), Alonso's the acting minion and enters combat with the blocker, unless the blocker was stolen by Venenation.\n>\nAlonso could play a second Venenation himself. If the blocker was stolen now, no combat would occur. You could even have a 3rd and a 4th (and so on) vampire with  play Mask and Venenation. B)\n\npckvtes.wordpress.com",
+      "Id": "4934"
+    }
+  ]
+}

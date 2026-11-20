@@ -1,0 +1,32 @@
+{
+  "ThreadId": "vekn-3606",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3606-taste-of-vitae",
+  "Title": "Taste of Vitae",
+  "Messages": [
+    {
+      "Author": "Silmegil",
+      "Date": "Apr 20, 2011, 6:22\u202FPM",
+      "Body": "Ok, this will probably be a very stupid question, but due some recent events, I have been frequently questioning even basic cards I play.\n\nTaste of Vitae\n\n[Combat] Combat\n\nOnly usable at the end of a round of combat. Not usable by a vampire being burned or going to torpor.\nThis vampire gains an amount of blood equal to the amount lost by the opposing vampire to damage during this round. A vampire may play only one Taste of Vitae each round.\n\nAs we know, round of combat consists of three phases: 1) Determine range, 2) Strike and 3) Press.\n\nSo this is where it starts to be little complicated for me.\n\n1) Round of combat ends with the press phase, so Taste of Vitae have to be played after is determined, if the combat will or will not be continued. Correct?\n\n2) One of the strikes is combat end. Combat ends before we get to the press phase. So, is there time to play taste of vitae, when combat is ended this way or no?\n\n3) One of minions in combat goes into torpor, can the other one play Taste of Vitae? I know, there is room for another combat card, but the wording at the end of round of combat just keeps me uncertain.\n\nSame goes for any other efect, which ends combat sooner than press phase.(alpha glint, weather control sending opponent to torpor before range is chosen etc.)\n\nThank you all for answering my stupid questionB)\n\nczechvtes.blogspot.com/",
+      "Id": "3606"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 20, 2011, 6:34\u202FPM",
+      "Body": "> Silmegil wrote:\n> Ok, this will probably be a very stupid question, but due some recent events, I have been frequently questioning even basic cards I play.\n>\n> Taste of Vitae\n>\n> [Combat] Combat\n>\n> Only usable at the end of a round of combat. Not usable by a vampire being burned or going to torpor.\n> This vampire gains an amount of blood equal to the amount lost by the opposing vampire to damage during this round. A vampire may play only one Taste of Vitae each round.\n>\n> As we know, round of combat consists of three phases: 1) Determine range, 2) Strike and 3) Press.\n>\nIt's trickier than that.\nSee vekn.net/index.php/complete-rules-reference , section VI, for complete reference.\nShortly, combat is:\n- Before range is determined window\n- Determine range window\n- Before strikes are chosen window\n- strike declaration, resolution (which includes damage resolution)\n- gain additional strikes. if there's any, go back to \"before strikes are chosen\", above.\n- press step\n- end of round (which is NOT in the press step).\n\n> So this is where it starts to be little complicated for me.\n>\n> 1) Round of combat ends with the press phase, so Taste of Vitae have to be played after is determined, if the combat will or will not be continued. Correct?\n>\nNo. Round of combat ends with the \"end of round\" step, VI.E in the abovementioned link. Press step is VI.D. Taste of Vitae is played in step VI.E.\n\n> 2) One of the strikes is combat end. Combat ends before we get to the press phase. So, is there time to play taste of vitae, when combat is ended this way or no?\n>\nPartially correct. Combat ends moves us to the end of round (VI.C.2.a.i). Step VI.D. (press step) is skipped, but step VI.E. is still played. You can play Majesty + Taste of Vitae.\n\n> 3) One of minions in combat goes into torpor, can the other one play Taste of Vitae? I know, there is room for another combat card, but the wording at the end of round of combat just keeps me uncertain.\n>\nYes. Taste of Vitae, Decapitate, Amaranth, .. are usable if the combat ends due to the other vampire going to torpor (provided that your vampire is still ready in step VI.E).\nImportant thing: since all these cards get played in the same window (VI.E), they can be ordered as you want. Disarm, Decapitate, Taste of Vitae. Or Disarm, Taste of Vitae, Decapitate. Or Taste of Vitae, Disarm, Decapitate.\n\n> Same goes for any other efect, which ends combat sooner than press phase.(alpha glint, weather control sending opponent to torpor before range is chosen etc.)\n>\nCorrect. All effects that end a combat also end the round in which they end the combat, thus bringing you to step VI.E.\n\n> Thank you all for answering my stupid question B)\n>\nRemember - there's no such thing as a stupid question.",
+      "Id": "3608"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 20, 2011, 11:12\u202FPM",
+      "Body": "Just as a side point...\n\nNo matter how combat ends, there is an \"end of round\"/\"end of combat\" window.\nIf you manage to do damage before the Strike Resolution Step (where the S:CE triggers the end of the combat) you may still use Taste of Vitae to gain blood from that damage in the End of Round Step.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3611"
+    },
+    {
+      "Author": "Dasein",
+      "Date": "Apr 21, 2011, 12:39\u202FAM",
+      "Body": "Yep. You can also do tricks like punch someone for 2, additional strike, then with your additional strike play Form of Mist at PRO to combat ends, then play Taste, or even better, Disarm  They go to the bin, and your action continues. Very effective when your action is say a rush or bleed that was blocked by a chump blocker. He goes to the bin and you still get another chance of hitting your real target.",
+      "Id": "3613"
+    }
+  ]
+}

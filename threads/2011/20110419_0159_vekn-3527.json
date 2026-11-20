@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-3527",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3527-crocodile-s-tongue-familial-bond",
+  "Title": "Crocodile's Tongue + Familial Bond",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 19, 2011, 1:59\u202FAM",
+      "Body": "If a block attempt is cancelled (by say Crocodile's Tongue in this case), does Familial Bond's \"failed block attempt\" text still function and allow the vampire attempting to block to still enter combat with the acting minion?\n\n---- Card Texts ----\nFamilial Bond\nType: Reaction\nRequires: laibon\nCost: 1 blood\nRequires a Laibon.\nOnly usable on an action directed at another Laibon you control or on a bleed against you. +1 intercept. If this block fails, the acting minion may choose to make the action fail. If the action succeeds, this Laibon may tap (after resolution) to enter combat with the acting minion.\n\nCrocodile's Tongue\nType: Action Modifier\nRequires: Auspex\n[aus] Only usable when an ally or a younger vampire attempts to block. That block is canceled (the minion is not tapped). The blocking minion's controller cannot attempt to block this action again. The blocking minion can cancel this card by burning a blood or life.\n[AUS] As above, but canceling this card requires an additional blood or life.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3527"
+    },
+    {
+      "Author": "SewerRat",
+      "Date": "Apr 19, 2011, 2:39\u202FAM",
+      "Body": "Since Familial Bond says \"If the action succeeds, this Laibon may tap (AFTER RESOLUTION) to enter combat with the acting minion\" then the action goes through but you still fight each other afterwards.\n\nKind of like you ment to stop them but made it there just in time to see them finish what ever they were doing and you attached them anyway.",
+      "Id": "3528"
+    },
+    {
+      "Author": "Klaital",
+      "Date": "Apr 19, 2011, 3:21\u202FAM",
+      "Body": "No Familial Bond does not let you enter combat if the block was CANCELED, Croc tongue doesn't make the block fail like most of the similar cards (like Elder Impersonation or Call of the Hungry Dead for example) but cancels it, which is not the same thing.",
+      "Id": "3529"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Apr 19, 2011, 7:38\u202FAM",
+      "Body": "The block attempt fails.\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/081e2574b5b04b65?hl=en\n\ngroups.google.com/group/rec.games.trading-cards.jyhad/msg/144fc17d719a685d?hl=en",
+      "Id": "3537"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 19, 2011, 12:21\u202FPM",
+      "Body": "> Robert wrote:\n> The block attempt fails.\n>\nNo.\n\"Not successful\" doesn't mean \"failed\", when it comes to block attempts. It's not binary: boardgamegeek.com/article/6634732#6634732 .\n\nIn this case:\n- The block attempt is not failed. This means the acting doesn't get to choose to have the action fail or not.\n- At the end of the action, if it is successful, the Laibon may enter combat with the acting minion (even though/if the Laibon's block attempt was canceled).",
+      "Id": "3547"
+    },
+    {
+      "Author": "Robert Scythe",
+      "Date": "Apr 19, 2011, 5:24\u202FPM",
+      "Body": "The first link I put had what I thought was the answer but upon rereading it doesn't apply. If I hadn't found that I would not have posted, oh well, couldn't sleep last night anyway.",
+      "Id": "3559"
+    }
+  ]
+}

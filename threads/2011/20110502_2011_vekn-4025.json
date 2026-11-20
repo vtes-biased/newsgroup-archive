@@ -1,0 +1,50 @@
+{
+  "ThreadId": "vekn-4025",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/site-forum-feedback-and-news/4025-forum-links-in-quotes",
+  "Title": "Forum: Links in quotes",
+  "Messages": [
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 2, 2011, 8:11\u202FPM",
+      "Body": "Hi,\nI tried to do that :\nvekn.net/index.php/forum/6-rules-questions/3988-questions-about-spying-mission-and-bleed-reduction#4021\n\nbut the output wasn't exactly what I expected. I wanted something that displayed a clickable link as the source of the quote.",
+      "Id": "4025"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 2, 2011, 8:42\u202FPM",
+      "Body": "Easy way:\n\n1) Type in words you want as a link\n2) highlight all of those words\n3) Click on the LINK button just to the left of the Ebay button in the toolbar\n4) Ensure that words you want are in the Text field, and put the desired URL in the URL field\n5) Click on Insert button\n\nFloppy\n\nOther way:\n'['url=\nthen http stuff\nthen ]\nThen text to display\nthen\n[/url]\n\nGreat website link here",
+      "Id": "4028"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 3, 2011, 4:18\u202FAM",
+      "Body": "> [url=http://www.vekn.net/index.php/forum/17-site-a-forum-feedback/4025-forum-links-in-quotes]Adonai[/url] wrote:\n> Easy way:\n>\n> [stuff]\n>\nObviously, it didn't work better this time with the Insert link than the last time with the keyboard-entered [ url] [ /url] tags.\n\nI might not have been clear enough in the first place.\nI want a link in the text area where the quotee is.\n\n> Adonai wrote:\n> Some text\n>\nReplace \"Adonai\" with \" Adonai \".\n\nHere's an example of what I want it to look like:\nboardgamegeek.com/article/6145495#6145495\n(second quote).",
+      "Id": "4035"
+    },
+    {
+      "Author": "Adonai",
+      "Date": "May 3, 2011, 3:01\u202FPM",
+      "Body": "Strange.\nBoth methods I used/described work flawlessly for me.\n\nFirefox 3.6.7\n\nWhat browser are you using?\n\nHave you tried using the \"Preview Pane Below\" feature to test your posts before you make them?\n\nYour Text Works For Me\n\nI see from your Board Game Geek reference what you are trying to do.\n\n[ quote= 'stuff'], where 'stuff' is a link, doesn't appear to be supported by Joomla.",
+      "Id": "4086"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 3, 2011, 3:29\u202FPM",
+      "Body": "You might have noticed that I've been using the [ url] [/url] tags quite often in the messages so far (for instance, in that previous message; and in the on referenced in the top message). However, what I've not been able to do was indeed to put links in the [ quote=\"precisely here\"] part.\n\nProbably Joomla, then  jhattara, do you confirm this is not / will not be available?\n\nJust so that it's crystal clear:\n[ quote=\"[ url=http://google.com] A web browser[/url]\"]About 304,000 results for \"VTES\" query[/quote]",
+      "Id": "4088"
+    },
+    {
+      "Author": "jozxyqk",
+      "Date": "May 3, 2011, 3:40\u202FPM",
+      "Body": "Is this what you want?\n\nMy link wrote:\n>\n> Grr!\n>",
+      "Id": "4089"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "May 3, 2011, 3:41\u202FPM",
+      "Body": "> jozxyqk wrote:\n> Is this what you want?\n>\n> My link wrote:\n> >\n> > Grr!\n> >\nThat's totally what I want\n\n[ b][ url=\"www.monocleofclarity.com/ossian.jpg\"]My link[/url] wrote:[/b]\n[ quote]Grr![/quote]",
+      "Id": "4090"
+    }
+  ]
+}

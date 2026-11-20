@@ -1,0 +1,74 @@
+{
+  "ThreadId": "vekn-1408",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/1408-basic-bleed-question-re-bounce",
+  "Title": "Basic Bleed Question RE: Bounce",
+  "Messages": [
+    {
+      "Author": "Shockwave",
+      "Date": "Feb 14, 2011, 8:43\u202FAM",
+      "Body": "So, after playing for 10 years I shouldn't be asking this, but I've managed to confuse myself because Lasombra posted the FAQ's again...\n\nTaken from the FAQ:\n>\n> When can I play Deflection / My Enemy's Enemy / Lost in Translantion / Redirection / Telepathic Misdirection?\n> You may play the bleed bounce cards:\n>\n> when the bleed is announced. (decline to block, then bounce)\n> after a stealth card is played. (decline to block, then bounce)\n> after a bleed modifier is played. (decline to block, then bounce)\n> after a card is played that makes the action unblockable. (decline to block, then bounce)\n> after a declaration that you will not block. (always required)\n> after someone else bounces the bleed to you (decline to block, then bounce)\n>\nSo, we know the following is true:\n\nA. Announces Bleed\nB. Decline to block\nA. Conditioning, +3 Bleed\nB. Deflection to C.\n\nand the following is true...\n\nA. Announces Bleed\nB. Decline to block, Deflection to C.\n\nIs the following true?\n\nA. Announce Bleed\nB. Decline to block\nA. Bleed for one.\n\nB cannot now play Deflection? I don't know why, but somehow reading the FAQ has made me really unsure all over again.\n\nHere we go again....\nDave Knowles (Advanced)\nSabbat Bishop of Manchester",
+      "Id": "1408"
+    },
+    {
+      "Author": "mika",
+      "Date": "Feb 14, 2011, 8:52\u202FAM",
+      "Body": "Of course B can deflect.\n\nLike you said earlier: You may play the bleed bounce cards:\nafter a declaration that you will not block. (always required)\n\nUnless, of course, the voices inside your head convince you to otherwise, you silly bloodsucker.",
+      "Id": "1409"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 14, 2011, 8:58\u202FAM",
+      "Body": "> Shockwave wrote:\n> A. Announce Bleed\n> B. Decline to block\n> A. Bleed for one.\n>\n> B cannot now play Deflection? I don't know why, but somehow reading the FAQ has made me really unsure all over again.\n>\nQuoting from Section 6.2.2 of the rulebook:\n\n> Note that moving past the block attempts (when all Methuselahs have declined to block) is an event and so allows the acting Methuselah (and others) to play more cards and effects.\n>\nSo, in response to this event, B can still play deflection, after A declares he's not playing an action modifier.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "1410"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 14, 2011, 9:06\u202FAM",
+      "Body": "Option 1\nMethA: Declare no Blocks\nMethB: Declares bleed amount\nMethA: May declare a deflection/flick\n\nOption 2\nMethA: Declare no Blocks\nMethB: Declares bleed amount OR plays bleed modifier (and declares new amount)\nMethA: Declares deflection/flick\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "1411"
+    },
+    {
+      "Author": "Shockwave",
+      "Date": "Feb 14, 2011, 9:06\u202FAM",
+      "Body": "Thanks guys, that's four confirmations (once from jhattara too on IRC) so I'll stop being silly now. I think I just confused myself re-reading it for the first time in a while.\n\nHere we go again....\nDave Knowles (Advanced)\nSabbat Bishop of Manchester",
+      "Id": "1412"
+    },
+    {
+      "Author": "jhattara",
+      "Date": "Feb 14, 2011, 9:06\u202FAM",
+      "Body": "Declining to block is an event, so the following chains are both acceptable.\n\nA. Announces a Bleed for 1\nB. Decline to block\nA. Bleed for one. (pass)\nB. No reactions. (pass, burns 1 pool)\n\nOR\n\nA. Announces a Bleed for 1\nB. Decline to block\nA. Bleed for one. (pass)\nB. Bounce forward\n\nJussi Hattara\nWebmaster Extraordinaire\nFinnish  Politics!",
+      "Id": "1413"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Feb 14, 2011, 9:13\u202FAM",
+      "Body": "Just as a side-thing remember:\n\nA successful bleed does pool damage (so a 0-bleed is not a successful bleed action) but any unblocked and uncancelled action is a successful action (so a 0-bleed is a successful action but unsuccessful bleed as long as it is not cancelled or blocked).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "1414"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Feb 14, 2011, 2:15\u202FPM",
+      "Body": "Also remember that, if B declines block, A only gets the impulse to play her Conditioning once C, D and E have declined blocks (in case Anneke / Eagle's Sights are around).",
+      "Id": "1425"
+    },
+    {
+      "Author": "pcmichke",
+      "Date": "Feb 16, 2011, 7:02\u202FAM",
+      "Body": "i have another question about bounce.\n\nShoud this sequence be legal :\n\nA: Bleed\nB: have all minions tapped and thus decline to block\nA: increase bleed\nB: Plays \"On the qui vive\" to play a bounce reaction card\n\nThe question is thus since \"On the qui vive\" says that the tapped minion can attempt to block and play reaction cards as untapped, could this only be used after block decline to play a bounce reaction card card like \"redirection\" or \"Telepathic misdirection\" ?",
+      "Id": "1594"
+    },
+    {
+      "Author": "drnlmza",
+      "Date": "Feb 16, 2011, 8:10\u202FAM",
+      "Body": "> pcmichke wrote:\n> The question is thus since \"On the qui vive\" says that the tapped minion can attempt to block and play reaction cards as untapped, could this only be used after block decline to play a bounce reaction card card like \"redirection\" or \"Telepathic misdirection\" ?\n>\nSince \"On the Qui Vive\" doesn't commit the minion to a block attempt, that's perfectly legal. Using something like  \"Eluding the Arms of Morpheus\" , for example,  wouldn't be allowed at this point since it requires a a block attempt.\n\n--\nNational Coordinator\nSouth Africa",
+      "Id": "1595"
+    },
+    {
+      "Author": "pcmichke",
+      "Date": "Feb 28, 2011, 11:10\u202FAM",
+      "Body": "thanks for confirming this.\nI already played it like this, but once a player told me that it wasn't legal because of the \"and\" between block and reaction. I did not agree, but I didn't took it back to prevent to argue with him since it was casual play.\nand i asked confirmation for sure.",
+      "Id": "1950"
+    }
+  ]
+}

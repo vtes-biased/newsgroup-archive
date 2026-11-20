@@ -1,0 +1,26 @@
+{
+  "ThreadId": "vekn-2927",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/2927-bestial-vengeance-vs-theft",
+  "Title": "Bestial Vengeance vs Theft",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Mar 28, 2011, 9:59\u202FAM",
+      "Body": "This one came up tonight...\n\nMinion A has a Raven Spy and plays Bestial Vengeance\nMinion B plays Theft of Vitae at long targeting the Raven Spy.\n\nQuestion:\n\nDoes the damage from Bestial Vengeance's text still occur during damage resolution IF the chosen retainer is targeted by a Theft of Vitae in the Choose Strikes step?\n\nBestial Vengeance\nType: Combat\nRequires: laibon Animalism\nRequires a Laibon.\n[ani] Only usable before range is determined. Choose a retainer on this Laibon. This combat, this Laibon is immune to frenzy cards and the opposing minion takes 1 damage during strike resolution if the retainer is ready. A vampire can play only one Bestial Vengeance each combat.\n[ANI] As above, but for 2 damage.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "2927"
+    },
+    {
+      "Author": "Dervish",
+      "Date": "Mar 28, 2011, 10:16\u202FAM",
+      "Body": "I believe you do cause damage with Bestial Visage:\n\nSteal Blood. This effect moves blood counters (or life counters) from the target to the striking minion. This does not count as damage, so the effect cannot be prevented with damage prevention effects. This effect occurs before the \"heal damage\" step of damage resolution, so the stolen blood can be used to heal damage even if the damage is inflicted simultaneously. If the stolen blood causes the striking vampire to have more blood than his capacity, the excess drains off immediately (as usual).\n\nStrike. [6.4.3]\nMinions announce their strikes (and targets, if applicable). [6.4.3.1]\nActing minion announces strike and target first. [6.4.3]\nStrike modifiers must be played now (or earlier) to be effective. [RTR]\nResolve strikes. [6.4.3.2]\nStrikes resolve in the following order. If both strikes are in the same class, then they resolve simultaneously.\nApply effects of strike(s). Effects are applied simultaneously if the strikes are both of the same type (from step a).\n\nInflict damage. Damage isn't handled until step c. [6.4.6]\nSteal blood. Removes blood/life from the opponent and places it on this vampire. Blood in excess of this vampire's capacity is burned immediately. Stolen blood may be used in step c. [6.4.5]\nPrevent damage and then resolve any unprevented damage (VII).\n\nMore evidence that your deck need not be good in order to win:\nthelasombra.com/decks/twd.htm#2011tottco",
+      "Id": "2928"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Mar 28, 2011, 11:43\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> This one came up tonight...\n>\n> Minion A has a Raven Spy and plays Bestial Vengeance\n> Minion B plays Theft of Vitae at long targeting the Raven Spy.\n>\n> Question:\n>\n> Does the damage from Bestial Vengeance's text still occur during damage resolution IF the chosen retainer is targeted by a Theft of Vitae in the Choose Strikes step?\n>\nYes: groups.google.com/group/rec.games.trading-cards.jyhad/msg/4a8a515572133ed5",
+      "Id": "2930"
+    }
+  ]
+}

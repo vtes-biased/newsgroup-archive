@@ -1,0 +1,44 @@
+{
+  "ThreadId": "vekn-3433",
+  "Group": "vekn.net/forum",
+  "Url": "https://www.vekn.net/forum/rules-questions/3433-lsj-forced-march-freak-drive-voter-cap",
+  "Title": "[LSJ] Forced March/Freak Drive & Voter Cap",
+  "Messages": [
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 16, 2011, 8:16\u202FAM",
+      "Body": "Okay, quick comparison between Freak Drive + Voter Cap and Forced March + Voter Cap.\n\n1. Can VC be played after a Forced March (Play Forced March then Draw VC)?\n(I ruled 'Yes' because Forced March does not state when it is to be played except 'after an action is successful' which would imply 'at any time after it is not blocked')\n\n2. Can VC be played after a Freak Drive (Play Freak Drive then Draw VC)?\n(I ruled 'No' because Freak Drive can only be played at the end of an action hence since VC doesn't state 'at the end' the FD needs to be played before the VC)\n\nIt only mattered to one instance and only once during the day. Thanks in advance.\n\n***Card Texts***\n\nFreak Drive\nType: Action Modifier\nRequires: Fortitude\nCost: 1 blood\n[for] Only usable at the end of a successful action (after resolving the action). This vampire untaps.\n[FOR] As above, but usable even if the action is blocked (play after combat, if any).\n\nForced March\nType: Action Modifier\nRequires: Celerity & Fortitude\nA vampire can play only one Forced March each turn.\n[cel][for] Only usable when an action is successful (after resolving the action). This vampire untaps.\n[CEL][FOR] +1 stealth. If the action is successful, this vampire may burn 1 blood to untap (after resolving the action).\n\nVoter Captivation\nType: Action Modifier\nRequires: Presence\nOnly usable after resolving a successful referendum called by this acting vampire.\nThe acting vampire gains X blood from the blood bank, where X is the number of votes by which the referendum passed.\nAs above, but move up to 2 of those blood counters to your pool instead of this vampire.\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3433"
+    },
+    {
+      "Author": "acbishop",
+      "Date": "Apr 16, 2011, 8:27\u202FAM",
+      "Body": "both Freak Drive and Forced Marche can be play before Voter Captivation\n\ngames.groups.yahoo.com/group/vtes-rules/messages/213?threaded=1&m=e&tidx=1",
+      "Id": "3434"
+    },
+    {
+      "Author": "KevinM",
+      "Date": "Apr 16, 2011, 8:40\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> Okay, quick comparison between Freak Drive + Voter Cap and Forced March + Voter Cap.\n>\nJugg,\nGo to the Complete Rules Reference at the left, and read IV. HOW TO PERFORM ACTIONS. See there where it has step E. Action Ends? That's where all these cards get played -- where else could they be played? And since they all get played there, you can arrange them in any order that you like.\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017\n\nKevin M., Prince of Las Vegas\n\"Know your enemy and know yourself; in one-thousand battles\nyou shall never be in peril.\" -- Sun Tzu, *The Art of War*\n\"Contentment...Complacency...Catastrophe!\" -- Joseph Chevalier\nPlease visit VTESville daily! vtesville.myminicity.com/\nFacebook: www.facebook.com/groups/129744447064017",
+      "Id": "3435"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 16, 2011, 8:50\u202FAM",
+      "Body": "KJM,\nNo actually. Held a qualifier today and this was the only 'ruling' that I needed to make. I said that Freak was only as the last card of the action (after FD and other 'end of the action' specific cards the action must end). Forced March only checks if the action is successful, and so could be played at any point after the action is resolved. Hence you could play Forced, then play a VC... but you wouldn't be able to play Freak and then VC (since at the end of the Freak the action needed to end, barring other 'end of the action' cards which VC is not).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3436"
+    },
+    {
+      "Author": "Pascal Bertrand",
+      "Date": "Apr 16, 2011, 9:27\u202FAM",
+      "Body": "> Juggernaut1981 wrote:\n> KJM,\n> No actually. Held a qualifier today and this was the only 'ruling' that I needed to make. I said that Freak was only as the last card of the action (after FD and other 'end of the action' specific cards the action must end). Forced March only checks if the action is successful, and so could be played at any point after the action is resolved. Hence you could play Forced, then play a VC... but you wouldn't be able to play Freak and then VC (since at the end of the Freak the action needed to end, barring other 'end of the action' cards which VC is not).\n>\nIncorrect. As for all cards, you need the impulse to play Freak Drive.\nAfter resolving the action (step IV. D in the reference Kevin gave), there is only one window (which is IV. E). Hence, since both cards (Freak Drive, Voter Captivation) can only be played in that window. Therefore, since it's the same one window, one can be played before the other. Or the other way around.\n\nThings would be different with a \"After resolution\" and a \"End of the action\" window, which seems to be what you assumed.",
+      "Id": "3437"
+    },
+    {
+      "Author": "Juggernaut1981",
+      "Date": "Apr 16, 2011, 10:33\u202FAM",
+      "Body": "Actually what I was getting at is that there is ONE window for Freak Drive (the end of the action) and a number of possible windows for Forced March (after resolving a successful action) and more restricted but potentially more than one window for VC (after a successful referendum). Now, I had assumed that there was an \"after successful referendum but not end of the action\" period where VC would be played on its own along with anything else that is similar (like say Cryptic Rider).\n\nRetired Baron of Sydney, Australia, 418",
+      "Id": "3438"
+    }
+  ]
+}

@@ -13,20 +13,22 @@ written as the same JSON the newsgroup threads use.
     python3 sync_forum.py --refresh   # fetch every topic again, replies and all
     python3 sync_forum.py --refresh --recent 60   # only the ones still talked in
 
-The forum publishes no listing of a member's topics -- the one on their profile
-shows the six most recent -- so the search does the enumerating instead:
-`searchuser=ankha` returns every post they wrote, newest first, a hundred to a
-page, and each result names the topic it is in. Five dozen requests give the
-whole list; the topics themselves are then fetched one at a time.
+The forum's profile page shows only a member's most recent posts, and its
+search matches the display name recorded on each post -- missing earlier posts
+under another spelling. A member's full public post listing lives at
+`/forum/topics/posts/mode-latest/userid-<id>?sel=-1`, newest first, a hundred
+to a page, and each row names the topic and post it is in. One search request
+turns a member's name into their user id, five dozen requests give the whole
+list, and the topics themselves are then fetched one at a time.
 
-A plain run fetches a topic the archive does not have, or one where the search
-shows a post of theirs the archive is missing. Everything else is left alone,
-so a second run costs a minute. What it cannot see is a reply written after
-that member's last post in a topic: only `--refresh` picks those up, and
+A plain run fetches a topic the archive does not have, or one where the post
+listing shows a post of theirs the archive is missing. Everything else is left
+alone, so a second run costs a minute. What it cannot see is a reply written
+after that member's last post in a topic: only `--refresh` picks those up, and
 `--recent` keeps that to the topics whose last post is still fresh.
 
 A run the forum would not let finish exits non-zero, and so does one that
-leaves a topic named by `--expect` missing. A search cut short, a cited topic
+leaves a topic named by `--expect` missing. A listing cut short, a cited topic
 the forum has lost and a forum with nothing new look alike from the outside,
 and the nightly sweep in `.github/workflows/sync.yml` has to tell them apart.
 """
@@ -46,18 +48,26 @@ import archive
 import import_forum
 
 SITE = "https://www.vekn.net"
-#: The search, with every category and no date limit: every post by one member.
+#: One search page turns a member's name into their Kunena user id.
 SEARCH = (
     SITE + "/forum/search?searchuser={user}&searchdate=all"
-    "&childforums=1&limit={size}&start={start}"
+    "&childforums=1&limit=10&start=0"
+)
+#: Every public post by one user id, across every time window (`sel=-1`).
+POSTS = (
+    SITE + "/forum/topics/posts/mode-latest/userid-{uid}"
+    "?sel=-1&limit={size}&start={start}"
 )
 #: A hundred is as many as either view will give, and both honour it.
 PAGE = 100
 #: A topic that runs longer than this is not a topic, it is a mistake.
 MAX_PAGES = 50
-#: Each hit in the search results links the topic it was found in, at the post.
+#: The rows of a member's post listing live inside this table body.
+RE_TBODY = re.compile(r'<tbody class="message-list">(.*?)</tbody>', re.DOTALL)
+RE_ROW = re.compile(r"<tr\b[^>]*>(.*?)</tr>", re.DOTALL)
+#: Each row links the topic it was found in, at the post.
 RE_HIT = re.compile(r'href="/forum/(?!user/)([a-z0-9-]+)/(\d+)-([^"?#]*)[^"]*#(\d+)"')
-#: And names its author, whom we asked for but had better check.
+#: And on a search page, names its author with their Kunena user id.
 RE_WHO = re.compile(r'href="/forum/user/(\d+)-([^"]*)"')
 RE_POST = re.compile(r'class="kmessage"')
 #: Every post carries its own number as the anchor the forum links it by.
@@ -96,55 +106,79 @@ def slug(name: str) -> str:
     return name.lower().replace(" ", "-")
 
 
-def hits(page: str) -> list[dict]:
-    """The posts on one page of search results.
+def userid(user: str, delay: float) -> str | None:
+    """Resolve a member's name (or numeric id) to their Kunena user id."""
+    if user.isdigit():
+        return user
+    asked = SEARCH.format(user=urllib.parse.quote(user))
+    page = patiently(asked, delay)
+    if page is None:
+        print(f"could not look up user {user!r}", file=sys.stderr)
+        return None
+    wanted = slug(user)
+    for match in RE_WHO.finditer(page):
+        if match.group(2).lower() == wanted:
+            return match.group(1)
+    print(f"no forum profile found for {user!r}", file=sys.stderr)
+    return None
 
-    Kunena opens every hit with the same marker, so the page splits into one
-    chunk per hit and the first topic link in a chunk is that hit's own.
-    """
+
+def hits(page: str) -> list[dict] | None:
+    """The posts on one page of a member's public post listing."""
+    tbody = RE_TBODY.search(page)
+    if tbody is None:
+        return None
     found = []
-    for chunk in page.split('id="kunena_search_results"')[1:]:
-        hit = RE_HIT.search(chunk)
-        who = RE_WHO.search(chunk)
-        if hit:
-            found.append(
-                {
-                    "topic": hit.group(2),
-                    "path": f"/forum/{hit.group(1)}/{hit.group(2)}-{hit.group(3)}",
-                    "post": hit.group(4),
-                    "who": who.group(2) if who else "",
-                }
-            )
+    for row in RE_ROW.findall(tbody.group(1)):
+        hit = RE_HIT.search(row)
+        if not hit:
+            return None
+        found.append(
+            {
+                "topic": hit.group(2),
+                "path": f"/forum/{hit.group(1)}/{hit.group(2)}-{hit.group(3)}",
+                "post": hit.group(4),
+            }
+        )
     return found
 
 
 def every_post(user: str, delay: float) -> tuple[list[dict], bool]:
-    """Walk the search until it runs out of posts by that member.
+    """Walk a member's public post listing until it runs out of posts.
 
-    Says as well whether it reached the end. A search that stops halfway has
+    Says as well whether it reached the end. A listing that stops halfway has
     not told us what is new, which hardly matters to somebody watching it run
     and matters a great deal to the nightly one, where a forum that refused to
     answer looks exactly like a forum with nothing to add.
     """
+    uid = userid(user, delay)
+    if uid is None:
+        return [], False
     posts: list[dict] = []
+    seen: set[str] = set()
     start = 0
     whole = True
     while True:
-        asked = SEARCH.format(user=urllib.parse.quote(user), size=PAGE, start=start)
+        asked = POSTS.format(uid=uid, size=PAGE, start=start)
         page = patiently(asked, delay)
         if page is None:
-            print(f"search failed at start={start}", file=sys.stderr)
+            print(f"post listing failed at start={start}", file=sys.stderr)
             whole = False
             break
         found = hits(page)
-        posts.extend(found)
+        if found is None:
+            print(f"unreadable post listing at start={start}", file=sys.stderr)
+            whole = False
+            break
+        fresh = [post for post in found if post["post"] not in seen]
+        if not fresh:
+            break
+        seen.update(post["post"] for post in fresh)
+        posts.extend(fresh)
         print(f"  {len(posts)} posts", end="\r", file=sys.stderr)
         if len(found) < PAGE:
             break
         start += PAGE
-    strangers = {post["who"].lower() for post in posts} - {slug(user), ""}
-    if strangers:
-        print(f"search returned other members: {sorted(strangers)}", file=sys.stderr)
     return posts, whole
 
 
@@ -267,7 +301,10 @@ def sync(args: argparse.Namespace) -> int:
         return 1
     status = 0 if args.list else report(expected, known)
     if not whole:
-        print("the search did not finish: what is new is not known", file=sys.stderr)
+        print(
+            "the post listing did not finish: what is new is not known",
+            file=sys.stderr,
+        )
         return 1
     return status
 
